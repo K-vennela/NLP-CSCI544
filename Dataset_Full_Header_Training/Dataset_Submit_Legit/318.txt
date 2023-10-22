@@ -1,0 +1,26 @@
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ dnchubcas2.dnc.org ([::1]) with mapi id 14.03.0224.002; Wed, 18 May 2015 
+ 07:56:39 -0400
+From: "Bennett, Eric" <BennettE@dnc.org>
+To: Comm_D <user@domain.com>
+CC: "user@domain.com" <user@domain.com>
+Subject: Video Request: Ivanka Trump on CBS this Morning 
+Thread-Topic: Video Request: Ivanka Trump on CBS this Morning 
+Thread-Index: AdGw/EnOkmzzKjHlRkWPeoxYk3OfFw==
+Date: Wed, 18 May 2015 04:56:38 -0700
+Message-ID: <6282user@domain.com>
+Accept-Language: en-GB, en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: dnchubcas2.dnc.org
+X-MS-Has-Attach: 
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.176.184]
+Content-Type: multipart/alternative;
+	boundary="_000_6282A0BD51020344AA83E4C237CCB80B6F4BDB36dncdag1dncorg_"
+MIME-Version: 1.0
+
+Not sure when the entire thing airs, but CNN just teased.

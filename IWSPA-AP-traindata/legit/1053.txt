@@ -1,0 +1,28 @@
+Gareth,
+It seems to me, from reading your email, that you do not realize that
+this is precisely what MAGICC/SCENGEN already does -- i.e., it uses the
+scaling method that Ben Santer and I 'invented' in the late 1980s to get
+time dependent patterns of future climate change. I am attaching a
+description of the method as we employ it.
+The current CDROM version uses only a SAR version of the UD-EBM. Of
+course, there is a TAR version that Sarah used for the TAR, developed by
+me and Sarah -- but mainly Sarah. This has not yet been put into
+MAGICC/SCENGEN, although I am in the process of doing so (along with
+making a number of other changes to the software). We do not normally
+give the code for TAR/MAGICC to others unless it is as part of a
+collaborative project. As Mike Hulme noted, what we can do for/with you
+will have to be a joint decision with me and Sarah.
+The issue of how well scaling works compared with a full AOGCM is both
+important and of considerable interest to me (and Ben Santer). It is
+something we have looked at in the past, cursorily, and which we were
+planning to investigate more fully with the suite of PCM runs that we
+have here. There are some tricky issues that need to be addressed.
+So, perhaps we should pool our intellectual, modelling and data
+resources?
+Anyhow, check out the attached and get back to me with your views. 
+The 'new and improved version' of MAGICC/SCENGEN should be available in
+beta-test form in about a month. It will have around 30 models in its
+data base, and it does a lot of new things that I can tell you about
+later.
+Tom.
+++++++++++++++++++++++++++++++++++

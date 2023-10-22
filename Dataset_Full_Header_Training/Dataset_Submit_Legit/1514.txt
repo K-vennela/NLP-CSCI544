@@ -1,0 +1,158 @@
+Received: from domain.com (146.215.230.105) by
+ domain.com (43.130.141.76) with Microsoft SMTP Server id
+ 8.3.297.1; Tue, 18 Mar 2015 09:31:55 -0700
+Received: from domain.com ([160.33.194.231])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s2IGVtaQ012871	for <user@domain.com>; Tue, 18 Mar 2015 
+ 16:31:55 GMT
+Received: from mail31-ch1-domain.com (mail-domain.com
+ [216.32.181.175])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s2IGXEYv010230
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Tue, 18 Mar 2015 16:33:15 GMT
+Received: from mail31-ch1 (localhost [127.0.0.1])	by mail31-ch1-domain.com
+ (Postfix) with ESMTP id 3679E260139	for <user@domain.com>; Tue, 18
+ Mar 2015 16:31:54 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:69.64.74.76;KIP:(null);UIP:(null);IPV:NLI;H:domain.com;RD:domain.com;EFVD:NLI
+X-SpamScore: 3
+X-BigFish: vps3(z579eh551bizc89bhc85fhc857hdbd5idbf2izz1f42h208ch1ee6h1de0h1fdah2073h202I2146h1202h1e76h2189h1d1ah1d2ah1fc6hzz1d7338h1de098h1def03h1b1984h17326ah8275bh1bc7b9h8275dh18c673h1de097h186068h1954cbh18602eh1d68dehz2fh54h49hfI11Ieh109h839hd24h10d2h1288h12a5h137ah139eh13eah1441h1537h162dh1631h1758h17f1h1898h18e1h1946h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1d61h1dc1h1dffh1e00h1e1dh1e23h1ea5h1fe8h1ff5h20dbh20f0h2218h2216h226dh24afh2327h2336h2438h2461h2487h24d7h2516h2545h255eh25f6h2605h2668h16di99di22eai34h1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail31-ch1: domain of domain.com designates 69.64.74.76 as permitted sender) client-ip=69.64.74.76; envelope-from=debbierobinsauthor-bounces+user@domain.com; helo=domain.com ;domain.com ;
+Received: from mail31-ch1 (localhost.localdomain [127.0.0.1]) by mail31-ch1
+ (MessageSwitch) id 1395160311245616_2679; Tue, 18 Mar 2015 16:31:51 +0000
+ (UTC)
+Received: from domain.com (domain.com
+ [10.43.68.247])	by mail31-domain.com (Postfix) with ESMTP id 2CD1B30004A
+	for <user@domain.com>; Tue, 18 Mar 2015 16:31:51 +0000 (UTC)
+Received: from domain.com (69.64.74.76) by domain.com
+ (10.43.70.15) with Microsoft SMTP Server id 14.16.227.3; Tue, 18 Mar 2015 
+ 16:31:50 +0000
+Received: from domain.com (localhost [127.0.0.1])	by
+ domain.com (domain.com Postfix) with ESMTP id 55A8BC536F	for
+ <user@domain.com>; Tue, 18 Mar 2015 12:31:08 -0400 (EDT)
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from cdptpa-oedge-domain.com
+	(cdptpa-outbound-domain.com [107.14.166.226])	by domain.com
+ (domain.com Postfix) with ESMTP id	BF339C4D38 for
+ <user@domain.com>;	Tue, 18 Mar 2015 12:29:37 -0400 (EDT)
+Received: from [76.90.115.43] ([76.90.115.43:57150] helo=BigDaddyPC)	by
+ cdptpa-oedge03 (envelope-from <user@domain.com>)	(ecelerity 3.5.0.35861
+ r(Momo-dev:tip)) with ESMTP	id 1F/53-25638-17478235; Tue, 18 Mar 2015 
+ 16:29:38 +0000
+From: "Debbie Robins, M.A." <raybunch@ca.rr.com>
+To: <user@domain.com>
+Date: Tue, 18 Mar 2015 09:29:30 -0700
+Message-ID: <004901cf42c7$3d1bf040$b753d0c0$@ca.rr.com>
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: Ac9Cxy4l2Wq/d2FmTWCDaWm41Tw1TQ==
+Content-Language: en-us
+X-RR-Connecting-IP: 107.14.168.142:25
+X-Cloudmark-Score: 0
+X-Mailman-Approved-At: Tue, 18 Mar 2015 12:30:43 -0400
+Subject: [Debbie Robins Author] QUALITY OF LIFE IS THE NEW MONEY by Debbie
+	Robins, M.A.
+X-BeenThere: user@domain.com
+X-Mailman-Version: 2.1.15z1
+Precedence: list
+Reply-To: <user@domain.com>
+List-Id: <domain.com>
+List-Unsubscribe: <<<link>>>,
+	<mailto:user@domain.com?subject=unsubscribe>
+List-Archive: <<<link>>>
+List-Help: <mailto:user@domain.com?subject=help>
+List-Subscribe: <<<link>>>,
+	<mailto:user@domain.com?subject=subscribe>
+Errors-To: debbierobinsauthor-bounces+user@domain.com
+Sender: DebbieRobinsAuthor
+	<debbierobinsauthor-bounces+user@domain.com>
+Return-Path: debbierobinsauthor-bounces+user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+If you are having trouble viewing this email, please domain.com domain.com/mail/huff_post.html 
+  _____  
+
+
+
+
+Read Debbie Robins new blog:
+
+QUALITY OF LIFE IS THE NEW MONEY
+
+domain.com/debbie-robins/quality-of-life-is-the-ne_b_4957187.html
+
+It's also permanently listed in the author's archive:
+
+domain.com/debbie-robins/
+
+Debbie’s work has been recognized by:
+
+Maria Shriver
+Arianna Huffington - Founder: Huffington Post
+Marshall Goldsmith - #1 Thought Leader
+Amy Pascal - Co-Chair: Sony Pictures Entertainment
+Hannah Minghella - President of Production: Columbia Pictures
+Michelle Raimo-Kouyate - President Sony Pictures Animation
+Carla Hendra - Chair: Ogilvy Red
+Jeffrey Hollander - Founder: Seventh Generation
+Francoise Legoues - CIO: IBM
+Dan Burrier - CEO: Common
+Mark Eckhardt - Co-CEO & Co-Founder: Common
+Fred Cooke - CEO: Golin Harris
+Mark Forchette - CEO: OptiMedica
+Marc Pollick - President/Founder: The Giving Back Fund
+Nick Segal - Founder & CEO: The Partners Trust
+Nova Spivak - CEO: Bottlenose
+Dave Hodge - Founder & CEO: FingerMusic
+Carolyn Bivens - Former commissioner of the LPGA
+Mark Stagen - Founder & CEO: Emerald
+Laura Nobles - Founder & CEO: Nobles Global Communications
+George Minardos - Founder & CEO: Minardos Group
+Heather MacPherson- President: Ogilvy West
+Peter Schlessel - President: Graham King Productions
+Ken Kahrs - EVP: NBC/Universal
+Robin Eletto - EVP: Paramount Pictures
+Nicola Albini - CEO: Alpi USA
+John Gibbons -  CEO: NeonGrid
+Tam St. Armand - CEO: Capstone Insurance
+Mark Sanor - Principal: Chiron Partners
+Tom Pernice - CoFounder & CEO: Gibraltar Associates
+Eric Bovim - Principal: McBee Strategic
+Matt Hanover - Serial entrepreneur
+Annette Alexander - Director Human Resources PayPal
+Justin Brukman - Executive Producer: MPC NYC
+Nancy Tate - SVP Marketing: Sony Pictures Entertainment
+Heide Banks - Nationally renowned relationship expert
+Dr. Ron Alexander - Internationally acclaimed psychotherapist
+James Scott - Star: Days Of Our Lives
+Penny Marshall - Director
+Jane Seymour - Actor
+Debbie Ford - Beloved best-selling author, teacher, guide
+Rosanna Arquette - Actor
+Julia Ormond - Actor
+Sandra Bernhard - Actor
+Kelly Meyer - Top environmentalist
+Dot Maver - President: National Peace Academy
+Annie Goeke - Founder: EarthRights Institute
+Nobel Peace Prize winners and more.
+
+To learn more about Debbie’s game changing work, please domain.com her website at <<link>>
+
+Or write to her directly at user@domain.com 
+
+Debbie Robins, M.A.
+
+Named one of the top Leadership, Executive and Culture Coaches (2009)
+
+Trained Chief Culture Office
+
+Attachments:
+
+        image001.jpg (14664 Bytes)
+
+        image002.jpg (4087 Bytes)
+
+        ATT00001.txt (277 Bytes)
+

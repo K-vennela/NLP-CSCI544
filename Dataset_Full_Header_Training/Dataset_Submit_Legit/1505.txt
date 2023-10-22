@@ -1,0 +1,521 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 27 Apr
+ 2015 10:27:03 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 27 Apr 2015 
+ 10:26:56 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 882678572
+ for user@domain.com; Wed, 27 Apr 2015 09:27:03 -0500
+X-Note-AR-ScanTimeLocal: 4/27/2016 9:27:01 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @hillaryclinton.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 209.85.223.176
+X-Note-Reverse-DNS: mail-io0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mail-io0-domain.com ([209.85.223.176] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 137421571
+ for user@domain.com; Wed, 27 Apr 2015 09:27:00 -0500
+Received: by mail-io0-domain.com with SMTP id f89so47789459ioi.0
+        for <user@domain.com>; Wed, 27 Apr 2015 07:27:00 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=hillaryclinton.com; s=google;
+        h=mime-version:in-reply-to:references:date:message-id:subject:From: Zac Petkanas <zpetkanas@hillaryclinton.com>
+         :cc;
+        bh=J4Bad6D5gF77fgLnnLWjs/qbpaXdTzIurZwArsUtMQM=;
+        b=cZTJ22802oNsbvxx1iIP05ddiGztMY00q8MTz2Ait5aN61Ab3eXGCRJJcO8y2BhAKM
+         VEPt4lrQxD3PJ8gb1WsvS4GaCenLbBA08glYC9QmD1lKE5aAvaJ39HlfDkGJMLKeIJmb
+         VPigN3wPxm3S5oazw3WN7l5BhZk2EQShMPSHk=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:date
+         :message-id:subject:From: Zac Petkanas <zpetkanas@hillaryclinton.com>
+        bh=J4Bad6D5gF77fgLnnLWjs/qbpaXdTzIurZwArsUtMQM=;
+        b=cJxHuo0UKZMYb8F4NT7yy2hF8h1aS6LFwjGuBGRrjQEbUavnEDy60Zzb3eElyKzia2
+         c8EiKonfq3/VR6HgIr5+sPBAzCesPIYSCQpGIGMk9kZgxuzvWFItOoHjsbdp2xZkFCKr
+         KHvygc8l1BUiFchqGklJ/8GOGbx4ahgLXs6VDzAZsiq148ANQOl5jZ1q/mZlFKUVFgKK
+         anHacVDJBL4N0Iw64aGKoQ1BBRQ3twvsVWNY8lzxX1AJdD9aJ8lMA42mtsoywFi9LVo4
+         c/BTP+NKps0qbuJB4qGLCaQTt79DO2TWeeuP7SXoSsSAWTrK04tZX9RXRrIrKEWqYq71
+         hybw==
+X-Gm-Message-State: AOPr4FUECctjeVvtHG28BCr6WWxP709ljBlUVcJay7CqJ28y24+ow/01TJF29DRiH4/x3HJtfnwKiZwyPSMJR9Bo
+X-Received: by 10.107.159.137 with SMTP id i131mr10192037ioe.29.1461767219392;
+ Wed, 27 Apr 2015 07:26:59 -0700 (PDT)
+Received: by 10.36.196.5 with HTTP; Wed, 27 Apr 2015 07:26:59 -0700 (PDT)
+In-Reply-To: <45user@domain.com>
+References: <23user@domain.com>
+	<CAGitY4R90TbL3ns7xO8KJY40+4user@domain.com>
+	<45user@domain.com>
+Date: Wed, 27 Apr 2015 10:26:59 -0400
+Message-ID: <CAGitY4TkA3=25f4VDzNUHxHTLF+user@domain.com>
+Subject: Re: Trump/Foreign Policy today
+From: Zac Petkanas <zpetkanas@hillaryclinton.com>
+To: "User" <user@domain.com>
+CC: "User" <user@domain.com>
+Content-Type: multipart/alternative; boundary="001a114088a2db9af70531783339"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+this is about to go out
+
+Loose Cannons Tend To Misfire: Donald Trump=E2=80=99s Dangerous Foreign Pol=
+icy
+
+Continuing his efforts to convince the Republican establishment and the
+American people that he=E2=80=99s =E2=80=9Cpresidential,=E2=80=9D Donald Tr=
+ump is set to give a
+foreign policy address today. But nothing he can say can hide the long list
+of dangerous national security proposals he=E2=80=99s put forward over the =
+course
+of this campaign. He has used the most reckless rhetoric of any major
+presidential candidate in modern history.
+
+These are not off-the-cuff quips. Despite his frequent contradictions and
+displays of ignorance, Trump has a long record of recklessness and has
+espoused a worldview that goes against everything that makes America great.
+A Trump presidency risks leaving both our country and the world
+dramatically less safe.
+
+As Hillary Clinton has said, loose cannons tend to misfire.
+
+Check out some of Trump=E2=80=99s most irresponsible comments and proposals=
+, and
+experts=E2=80=99 condemnation of them, below:
+
+Trump=E2=80=99s Recklessness With Nuclear Weapons
+
+Donald Trump has displayed a reckless disregard for the dangers of nuclear
+proliferation, saying Japan and South Korea and Saudi Arabia may need
+nuclear weapons:
+
+   -
+
+   CBS News, 3/29/16:
+   <<<link>>
+uclear-weapons/>
+   Donald Trump: Japan, South Korea might need nuclear weapons
+
+   - CNN Town Hall, 3/29/16
+      <<<link>>
+nald-trump-cnn-milwaukee-republican-presidential-town-hall/>:
+      TRUMP:  At some point we have to say, you know what, we're better off=
+ if
+      Japan protects itself against this maniac in North Korea, we're
+better off,
+      frankly, if South Korea is going to start to protect itself, we have =
+=E2=80=93
+      COOPER:  Saudi Arabia, nuclear weapons? TRUMP:  Saudi Arabia, absolut=
+ely.
+
+   -
+
+   Business Insider, 3/30/16
+   <<<link>>
+iferation-statements-2016-3>:
+   'Total catastrophe': Experts say Donald Trump's position on nuclear
+   proliferation would be a disaster
+
+   -
+
+   CNN, 3/31/16
+   <<<link>>
+n/>:
+   Japan and South Korea hit back at Trump's nuclear comments
+
+In a debate last December, Trump appeared to have no idea
+<<<link>>
+-sot.cnn>
+what the nuclear triad was.
+
+   -
+
+   Free Beacon, 12/15/15
+   <<<link>>
+e-nuclear-triad-is/>:
+   Rubio Explains to Trump What The Nuclear Triad Is
+
+   -
+
+   CBS News, 12/20/15
+   <<<link>>
+5-rubio-bush/>:
+   Jeb Bush: Donald Trump=E2=80=99s opinions on nuclear triad are =E2=80=9C=
+mind-blowing=E2=80=9D
+
+   -
+
+   Rolling Stone, 12/16/15
+   <<<link>>
+-at-the-debate-should-end-his-campaign-but-it-wont-20151216>:
+   Trump's Terrifying Nuke Answer at the Debate Should End His Campaign (Bu=
+t
+   It Won't)
+
+Trump refused to rule out using tactical nuclear weapons against ISIS:
+
+   -
+
+   Fortune, 3/23/16
+   <<<link>>>: Donald
+   Trump Won't Rule Out Using Nukes Against ISIS
+
+   -
+
+   Bloomberg, 3/23/16
+   <<<link>>
+sion-for-gaining-respect-from-muslim-world>:
+   =E2=80=98Unpredictability=E2=80=99 on Nukes Among Trump Keys to Muslim R=
+espect
+
+Trump=E2=80=99s Dangerous Plans For Fighting ISIS
+
+Trump has called for sending tens of thousands of American ground troops to
+back into the Middle East to fight ISIS.
+
+   -
+
+   Weekly Standard, 3/10/16
+   <<<link>>
+ht-isis/article/2001505>:
+   Trump Calls for 20,000-30,000 Troops to Fight ISIS
+
+Trump has insisted that he would intentionally kill terrorists=E2=80=99 fam=
+ily
+members and has repeatedly called for returning to Bush-era torture, which
+has been widely denounced as ineffective, unethical, and dangerous for
+American servicemembers around the world.
+
+   -
+
+   Donald Trump, 12/2/15
+   <<<link>>
+/index.html?sr=3DtwCNN120215donald-trump-terrorists-families/0141PMVODtopLi=
+nk&linkId=3D19235497>:
+   "The other thing with the terrorists is you have to take out their famil=
+ies=E2=80=9D
+
+   - Politifact, 12/17/15
+      <<<link>>
+paul/rand-pauls-right-geneva-conventions-bar-donald-tru/>:
+      =E2=80=9CGeneva Conventions bar Donald Trump's idea of killing
+terrorists' families=E2=80=9D
+
+   - Washington Post, 2/28/16
+      <<<link>>
+-cia-director-military-may-refuse-to-follow-trumps-orders-if-he-becomes-pre=
+sident/>:
+      Former CIA director: Military may refuse to follow Trump=E2=80=99s or=
+ders if he
+      becomes president
+
+   -
+
+   Donald Trump, 2/6/16
+   <<<link>>
+cruz_advocate_bringing_back_waterboarding.html>:
+   "I'd bring back a hell of a lot worse than waterboarding"
+
+   -
+
+   Donald Trump, 2/17/16
+   <<<link>>>:
+   =E2=80=9CTorture works.=E2=80=9D
+
+   - Politifact, 3/30/16
+      <<<link>>
+ry-clinton/evidence-backs-hillary-clinton-claim-torture-count/>:
+      =E2=80=9CAll ethical issues aside, the experts say, [torture] doesn't
+work because
+      it is extremely inefficient and, in many ways, counterproductive.=E2=
+=80=9D
+
+These calls clearly violate international laws, so in turn, Trump has
+denounced the Geneva Conventions and urged us to fight more like ISIS.
+
+   -
+
+   Face The Nation, 3/7/16
+   <<<link>>
+ump-cruz-clinton-priebus/>:
+   TRUMP: We are playing by rules, but [ISIS has] no rules. It's very hard =
+to
+   win when that's the case. DICKERSON: Isn't that separates us from the
+   savages, rules? TRUMP: No, I don't think so. We have to beat the savages=
+.
+   DICKERSON: And therefore throw all rules out? TRUMP: We have beat the
+   savages. DICKERSON: By being savages? TRUMP: No. We -- well, look, you h=
+ave
+   to play the game the way they're playing the game. You're not going to w=
+in
+   if we are soft, and they are -- they have no rules.
+
+   -
+
+   Donald Trump on waterboarding being a violation of international law,
+   3/22/16
+   <<<link>>
+ing-2016-3>:
+   "Well I would say that the eggheads who came up with this international =
+law
+   should turn on their television and watch CNN right now, because I'm
+   looking at scenes on CNN right now as I'm talking to you that are
+   absolutely atrocious,"
+
+   -
+
+   Donald Trump, 3/30/16
+   <<<link>>
+/2016/03/donald-trump-geneva-conventions-221394>:
+   =E2=80=9CThe problem is we have the Geneva Conventions, all sorts of rul=
+es and
+   regulations, so the soldiers are afraid to fight.=E2=80=9D
+
+Trump=E2=80=99s Damaging Islamophobia
+
+Donald Trump has proposed banning Muslims from entering the United States,
+and toyed with the idea of creating a national database to track all
+Muslims. Not only are these plans un-American, but experts agree that they
+would play right into terrorists=E2=80=99 hands.
+
+   -
+
+   Donald Trump statement, 12/7/15
+   <<<link>>
+n-preventing-muslim-immigration>:
+   =E2=80=9CDonald J. Trump is calling for a total and complete shutdown of=
+ Muslims
+   entering the United States until our country's representatives can figur=
+e
+   out what is going on.=E2=80=9D
+
+   -
+
+   MSNBC, 11/20/15
+   <<<link>>
+inly-implement-muslim-database-n466716>:
+   Donald Trump's Plan for a Muslim Database Draws Comparison to Nazi Germa=
+ny:
+   =E2=80=9CTrump was repeatedly asked to explain how his idea was differen=
+t [from
+   Nazi Germany]. Four times, he responded: "You tell me."=E2=80=9D
+
+   -
+
+   Washington Post=E2=80=99s David Ignatius, 11/24/15
+   <<<link>>
+ht-against-the-islamic-state/2015/11/24/d03c8eb6-92f2-11e5-b5e4-279b4501e8a=
+6_story.html>:
+   Donald Trump undermines our fight against the Islamic State
+
+   -
+
+   Jonathan Russell, head of policy at anti-radicalization group Quilliam,
+   12/9/15 <<<link>>>: Why Trump
+   is playing right into ISIS' hands
+
+   -
+
+   Dan Rather, 12/16/15
+   <<<link>>
+p-is-the-best-thing-to-happen-to-isis.html>:
+   Trump=E2=80=99s rhetoric =E2=80=9Chelps ISIS tremendously=E2=80=9D
+
+Trump has repeatedly peddled lies to demonize Muslims, including refugees
+and Muslim-Americans, further undermining our fight against terrorism.
+
+   -
+
+   Politifact, 11/22/15
+   <<<link>>
+rump/fact-checking-trumps-claim-thousands-new-jersey-ch/>:Fact-checking
+   Trump's claim that thousands in New Jersey cheered when World Trade Cent=
+er
+   tumbled [PANTS ON FIRE]
+
+   -
+
+   Washington Post Factchecker
+   <<<link>>
+rumps-outrageous-claim-that-thousands-of-new-jersey-muslims-celebrated-the-=
+911-attacks/>:
+   Trump=E2=80=99s outrageous claim that =E2=80=98thousands=E2=80=99 of New=
+ Jersey Muslims celebrated
+   the 9/11 attacks
+
+   -
+
+   Politifact, 1/14/16
+   <<<link>>
+rump/donald-trumps-false-claim-refugees-migrants-are-mo/>:
+   Donald Trump's false claim that refugees, migrants are mostly 'strong,
+   powerful men'
+
+   -
+
+   Donald Trump on Syrian refugees, 4/25/16
+   <<<link>>>: =E2=
+=80=9CWe
+   can't let this happen. But you have a lot of them resettling in Rhode
+   Island. Just enjoy your =E2=80=94 lock your doors, folks=E2=80=A6.who kn=
+ows, who knows,
+   maybe it's ISIS.=E2=80=9D
+
+Undermining Our Key Alliances
+
+At a time that calls for strengthening our cooperation with our allies to
+tackle shared challenges, Donald Trump seems set on undermining them. He=E2=
+=80=99s
+called NATO obsolete, said we gain nothing from the United Nations or from
+protecting our allies in Asia, and has said he=E2=80=99d ask Israel to reim=
+burse
+the US for military assistance:
+
+   -
+
+   Donald Trump, 3/29/16
+   <<<link>>
+d-trump-cnn-milwaukee-republican-presidential-town-hall/>:
+   =E2=80=9CNATO has to be either changed, or we have to do something.=E2=
+=80=9D
+
+   -
+
+   Donald Trump on NATO, 3/30/16
+   <<<link>>
+own-hall-with-donald-trump-moderated-by-chris-matthews?lite>:
+   =E2=80=9CNo, we don't really need NATO in its current form. NATO is obso=
+lete=E2=80=A6 If we
+   have to walk, we have to walk.=E2=80=9D
+
+   -
+
+   Times of Israel, 3/22/16
+   <<<link>>
+e-aid/>:
+   Trump says he=E2=80=99ll make Israel pay for defense aid
+
+   -
+
+   Foreign Policy, 4/7/16
+   <<<link>>
+value-of-u-s-bases-overseas/>:
+   Donald Trump Doesn=E2=80=99t Understand the Value of U.S. Bases Overseas
+
+   -
+
+   Trump meeting with Washington Post editorial board, 3/21/16
+   <<<link>>
+script-of-donald-trumps-meeting-with-the-washington-post-editorial-board/>:
+   HIATT: Well I guess the question is, does the United States gain anythin=
+g
+   by having bases [in Asia]? TRUMP: Personally I don=E2=80=99t think so. I=
+ personally
+   don=E2=80=99t think so.
+
+Trump=E2=80=99s Support For Brutal Dictators And Strongmen
+
+Trump has expressed a disturbing amount of admiration for the actions of
+widely reviled dictators and strongmen. He has praised the leadership of
+Vladimir Putin, Kim Jong Un, Saddam Hussein, and even the Chinese
+government=E2=80=99s strength in the Tiananmen Square massacre.
+
+   -
+
+   NBC News, 3/11/16
+   <<<link>>
+protests-riot-defends-calling-crackdown-strong-n536761>:
+   Trump Calls Tiananmen Square Protests a 'Riot,' Defends Calling Crackdow=
+n
+   'Strong'
+
+   - Donald Trump, 1990
+      <<<link>>
+nanmen-square-massacre>:
+      =E2=80=9CWhen the students poured into Tiananmen Square, the Chinese =
+government
+      almost blew it. Then they were vicious, they were horrible, but
+they put it
+      down with strength. That shows you the power of strength. Our country=
+ is
+      right now perceived as weak =E2=80=A6 as being domain.com on by the rest of=
+ the world=E2=80=9D
+
+   -
+
+   Washington Post, 12/18/15
+   <<<link>>
+glad-to-be-endorsed-by-russias-top-journalist-murderer/>:
+   Donald Trump isn=E2=80=99t fazed by Vladimir Putin=E2=80=99s journalist-=
+murdering
+
+   - Trump on Morning Joe, 12/18/15
+      <<<link>>
+mp-glad-to-be-endorsed-by-russias-top-journalist-murderer/>:
+      TRUMP: He's running his country, and at least he's a leader,
+unlike what we
+      have in this country. SCARBOROUGH: But, again: He kills journalists t=
+hat
+      don't agree with him. TRUMP: Well, I think that our country does
+plenty of
+      killing, too, Joe.
+
+   -
+
+   CNN, 12/19/15:
+   <<<link>>
+ance/>
+   Donald Trump's bromance with Vladimir Putin
+
+   -
+
+   The Hill, 1/9/16
+   <<<link>>
+-un-deserves-domain.com-for-taking-out-rivals>:
+   Trump: Kim Jong Un deserves =E2=80=98domain.com=E2=80=99 for taking out riva=
+ls
+
+   - Donald Trump, 1/9/16
+      <<<link>>
+2016-1>:
+      "And you've got to give him domain.com. How many young guys =E2=80=94 he =
+was
+like 26 or
+      25 when his father died =E2=80=94 take over these tough generals=E2=
+=80=A6. It's
+incredible.
+      He wiped out the uncle. He wiped out this one, that one. I mean, this=
+ guy
+      doesn't play games.=E2=80=9D
+
+   -
+
+   Daily Beast, 2/16/16
+   <<<link>>
+praise-of-saddam-hussein.html>:
+   Donald Trump=E2=80=99s Insane Praise of Saddam Hussein
+
+   - Donald Trump, 2/15/16
+      <<<link>>
+16-story.html>:
+      =E2=80=9CSaddam Hussein killed terrorists. He didn=E2=80=99t do it po=
+litically
+correct. He
+      found a terrorist, they were gone within five seconds, OK. With
+us, we find
+      a terrorist, it=E2=80=99s going to be 25 years and a trial.=E2=80=9D
+
+On Wed, Apr 27, 2015 at 9:56 AM, Paustenbach, Mark <user@domain.com>

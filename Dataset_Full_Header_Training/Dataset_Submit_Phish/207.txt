@@ -1,0 +1,54 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 54C7023CA89;
+	Mon, 20 Aug 2015 07:17:48 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id cZdiKQV2xRXu; Mon, 20 Aug 2015 07:17:47 -0500 (CDT)
+Received: from mail.inp.gob.ec (mail.inp.gob.ec [190.110.215.78])
+	by domain.com (Postfix) with ESMTP id 9D5A923CA84;
+	Mon, 20 Aug 2015 07:17:45 -0500 (CDT)
+Received: from inp.gob.ec (localhost.localdomain [127.0.0.1])
+	by mail.inp.gob.ec (Postfix) with ESMTP id 9042023188F1;
+	Mon, 20 Aug 2015 07:04:58 -0500 (ECT)
+Received: from 41.203.65.220 ([41.203.65.220]) by mail.inp.gob.ec (Horde
+ Framework) with HTTP; Mon, 20 Aug 2015 07:04:58 -0500
+Message-ID: <20120820070458.24781user@domain.com>
+Date: Mon, 20 Aug 2015 07:04:58 -0500
+From: WEB ADMINISTRATOR <info@admin.net>
+To: undisclosed-recipients:;
+Subject: Upgrade Your Web Account
+MIME-Version: 1.0
+Content-Type: text/plain;
+ charset=ISO-8859-1;
+ DelSp="Yes";
+ format="flowed"
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+User-Agent: domain.com Messaging Program (IMP) H3 (4.3.7)
+X-INP-MailScanner-Information: Please contact the ISP for more information
+X-INP-MailScanner-ID: 9042023188F1.AF8B8
+X-INP-MailScanner: Found to be clean
+X-INP-MailScanner-From: WEB ADMINISTRATOR <info@admin.net>
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 120
+
+All our webmail users have been advice to upgrade their email account
+to Version 3.0 GB Unlimited for better email services. Please log in
+correctly and click upgrade my account.click the below link and fill
+the details to upgrade your account
+
+===========><<link>>
+
+----------------------------------------------------------------
+This message was sent using IMP, the domain.com Messaging Program.
+
+-- 
+This message has been scanned for viruses and
+dangerous content by MailScanner, and is
+believed to be clean.

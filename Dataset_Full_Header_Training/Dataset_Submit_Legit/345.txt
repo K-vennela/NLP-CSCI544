@@ -1,0 +1,175 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Fri, 15 May 2015 15:05:35 +0200
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id 3C069621B7	for
+ <user@domain.com>; Fri, 15 May 2015 13:41:58 +0100 (BST)
+Received: by domain.com (Postfix)	id 77EC74440B2D; Fri, 15 May 2015 
+ 15:05:17 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from EmadPC (unknown [192.168.1.198])	(using TLSv1 with cipher
+ ECDHE-RSA-AES256-SHA (256/256 bits))	(No client certificate requested)	by
+ domain.com (Postfix) with ESMTPSA id 5ED46444081B;	Fri, 15 May 2015 
+ 15:05:17 +0200 (CEST)
+From: Emad Shehata <e.shehata@hackingteam.com>
+To: 'Simonetta Gallucci' <user@domain.com>
+CC: 'Giancarlo Russo' <user@domain.com>, 'Marco Bettini'
+	<user@domain.com>, 'Emad Shehata' <user@domain.com>
+References: <017d01d08ee9$62c9c960$285d5c20$@user@domain.com> <user@domain.com>
+In-Reply-To: <user@domain.com>
+Subject: R: RE: CD
+Date: Fri, 15 May 2015 15:05:35 +0200
+Message-ID: <006d01d08f0f$d4ec4600$7ec4d200$@user@domain.com>
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdCOxY0OTQoGinYEOkedVmwQtjxFAgAG6iYgAABCO7AAAP1OQAAAhAqQAAAZ/tAAAFJ0QQAJc8dQ
+Content-Language: it
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EMAD SHEHATA450
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1252371169_-_-"
+
+Ciao Simonetta, ok come pensavo io. CIF J  Emad Shehata
+Key Account Manager
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com
+mobile: +39 3357939078
+phone: +39 0229060603   Da: Emad Shehata [mailto:user@domain.com] 
+Inviato: venerdì 15 maggio 2015 10:34
+A: Simonetta Gallucci
+Cc: Giancarlo Russo; Marco Bettini
+Oggetto: R: RE: CD Ho appena chiamato Sonia che li chiamera' e poi mi chiameranno.
+Nn preoccuparti della paranoi, ormai ci ho fatto il callo :) 
+-- 
+Emad Shehata 
+Key Account Manager 
+
+Sent from my mobile.
+ Da: Simonetta Gallucci 
+Inviato: Friday, May 15, 2015 10:30 AM
+A: Emad Shehata 
+Cc: Giancarlo Russo; Marco Bettini 
+Oggetto: RE: CD 
+ Grazie Emad,  per essere sicuri ed evitare malintesi, per favore chiedi loro di spiegarti per cosa sta l’acronimo DAD, che loro chiedono di inserire. Dal momento che la spedizione è ancora ferma all’apt di Astana, il dubbio che mi viene è che vogliano farci sostenere gli oneri doganali.  Thanks (e scusa la paranoia) Simonetta Gallucci 
+Financial Controller 
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com 
+mobile: +39 3939310619
+phone: +39 0229060603 From: Emad Shehata <e.shehata@hackingteam.com>
+Sent: venerdì 15 maggio 2015 10:24
+To: 'Simonetta Gallucci'
+Cc: 'Giancarlo Russo'; 'Marco Bettini'
+Subject: R: CD Ciao Simonetta, come verbalmente accennato, eccoti in allegato e-mail dove mi confermano che le spese di importazioni sono a carico loro. Avevo chiesto Ex works basis, ma mi hanno detto solo spese di importazioni. Cmq manderò una mail al cliente informandolo che ci stiamo lavorando e che metteremo CIF Saluti  Emad Shehata
+Key Account Manager
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com
+mobile: +39 3357939078
+phone: +39 0229060603   Da: Simonetta Gallucci [mailto:user@domain.com] 
+Inviato: venerdì 15 maggio 2015 10:09
+A: 'Emad Shehata'
+Cc: 'Giancarlo Russo'; 'Marco Bettini'
+Oggetto: RE: CD Ciao Emad,  a quanto ammontano i costi? Mi faresti un breve recap dello stato della spedizione please?Nel contratto (testualmente) si parla di pagamento 100% eur 45.000, tasse/oneri esclusi, ma non è specificato che gli oneri doganali sono a nostro carico.  Thanks,  Simonetta Gallucci 
+Financial Controller 
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com 
+mobile: +39 3939310619
+phone: +39 0229060603 From: Emad Shehata <e.shehata@hackingteam.com>
+Sent: venerdì 15 maggio 2015 09:41
+To: 'Simonetta Gallucci'
+Cc: 'Giancarlo Russo'; 'Marco Bettini'
+Subject: I: CD Ciao Simonetta, ti allego quanto richiesto dal cliente, ossia evidenziare che le spese del CD erano considerate all’interno del ns contratto  e della fattura che lo accompagna e che è stato spedito in modalità CIF. Me lo metti in bella forma? Grazie mille   Emad Shehata
+Key Account Manager
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com
+mobile: +39 3357939078
+phone: +39 0229060603   Da: Emad Shehata [mailto:user@domain.com] 
+Inviato: venerdì 15 maggio 2015 09:33
+A: 'Astana Team'
+Cc: 'rsales'
+Oggetto: R: CD Dears, thanks for your e-mail. Can I kindly ask you to let me know if you got the CD and the DOCS? We will prepare the docs with the content below and send it to you sign and stamp.Best regards  Furthermore  Emad Shehata
+Key Account Manager
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com
+mobile: +39 3357939078
+phone: +39 0229060603   Da: Astana Team [mailto:user@domain.com] 
+Inviato: venerdì 15 maggio 2015 06:14
+A: Emad Shehata
+Oggetto: Re: CD  Dear Emad,We kindly ask you to email us the scanned version of this document signed by person of charge and stamped and include to this document the following text:"Notice is hereby given that according to the agreement №36 and invoice№008/2015 the delivery of the Product has been realized on terms od DAD Astana(according to INCOTERMS 2015 regulations), and transportation costs will be included to the cost of the Product."Best regards 2015-05-13 13:30 GMT+06:00 Emad Shehata <user@domain.com>:Dears, can you please update us on the CD shipment/clear? Best regards  Emad Shehata
+Key Account Manager
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com
+mobile: +39 3357939078
+phone: +39 0229060603   Da: Emad Shehata [mailto:user@domain.com] 
+Inviato: lunedì 11 maggio 2015 10:42
+A: 'Astana Team'
+Cc: 'rsales'
+Oggetto: R: CD Dear  Marat, the cd and docs is already arrived, can you confirm us once you clear it? Best regards  Emad Shehata
+Key Account Manager
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com
+mobile: +39 3357939078
+phone: +39 0229060603   Da: Astana Team [mailto:user@domain.com] 
+Inviato: venerdì 8 maggio 2015 13:21
+A: Emad Shehata
+Oggetto: Re: CD Ok, thanks kind regards! Marat 2015-05-07 15:33 GMT+06:00 Emad Shehata <user@domain.com>:Dears, we would like to confirm you that the CD and the docs will arrive on Astana International Airport on 10 May 2015 and you can clear it from the day after: Monday 11 May 2015.  AWB referenceis 020/83854713 and it was shipped by Lufthansa Cargo, here you can have a look on the shipment status:(<<link>>).  Warmest regards and have a nice day    Emad Shehata
+Key Account Manager
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com
+mobile: +39 3357939078
+phone: +39 0229060603   Da: Emad Shehata [mailto:user@domain.com] 
+Inviato: martedì 5 maggio 2015 12:45
+A: 'Astana Team'
+Cc: 'rsales'
+Oggetto: R: CD Dear, it will be sent shortly, we will send you the AWB soon  Emad Shehata
+Key Account Manager
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com
+mobile: +39 3357939078
+phone: +39 0229060603   Da: Astana Team [mailto:user@domain.com] 
+Inviato: martedì 5 maggio 2015 08:00
+A: Emad Shehata
+Oggetto: CD Good Day! How are you doing? You have sent a CD?The contract soon be sent. Best regards  

@@ -1,0 +1,378 @@
+Received: from ngpsql (192.168.185.24) by dncwebmail.dnc.org (192.168.185.12)
+ with Microsoft SMTP Server id 14.3.224.2; Wed, 27 Apr 2015 18:00:10 -0400
+Thread-Topic: =?utf-8?Q?Finance_=E2=80=93_Online_Contributions?=
+thread-index: AdGg0Cc2Jc/3/yCSSrirDrOa0p4vXA==
+Reply-To: 
+From: <FinancialReports@dnc.org>
+To: <user@domain.com>, <user@domain.com>
+CC: <user@domain.com>
+BCC: 
+Subject: =?utf-8?Q?Finance_=E2=80=93_Online_Contributions?=
+Date: Wed, 27 Apr 2015 18:00:10 -0400
+Message-ID: <769user@domain.com>
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_005D_01D1A0AE.A3DD5480"
+X-Mailer: Microsoft CDO for Windows 2015 
+Content-Class: urn:content-classes:message
+X-MimeOLE: Produced By Microsoft MimeOLE V6.1.7601.17609
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: DNCHUBCAS1.dnc.org
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+
+
+
+Finance Contributions Status - Yesterday and Today	
+
+
+
+Bill ID
+iContactID
+Gift Amount
+Charge Day
+Charge Time
+Status
+Webpage Name
+First Name
+Last Name
+Phone
+email
+4617731706776098401103
+95000812
+$33,400.00
+4/27/2016
+12:06 PM
+Pending Approval
+Finance - GENERAL
+Eugene W
+Stetson
+8026493738
+user@domain.com
+4617711820576520301108
+66759377
+$5,000.00
+4/27/2016
+11:33 AM
+Pending Approval
+Finance - Tobias Seed Corn
+Ricki and Michael
+Helfer
+3016521063
+user@domain.com
+4617701400676820701108
+34868161
+$10,000.00
+4/27/2016
+11:15 AM
+Pending Approval
+LGBT Leadership Council (one-time only)
+John
+Hornor
+4132103378
+user@domain.com
+4617653634286233401101
+99895960
+$500.00
+4/27/2016
+9:56 AM
+Approved
+DLC - Democratic Lawyers Council
+Elizabeth
+Newell
+9179294750
+user@domain.com
+4617642938306367301102
+6246184
+$10,000.00
+4/27/2016
+9:38 AM
+Pending Approval
+Finance - Tobias Seed Corn
+Warren
+Kaplan
+2024885015
+user@domain.com
+4617628660636044801105
+98782017
+$5,000.00
+4/27/2016
+9:14 AM
+Pending Approval
+Finance - Tobias Seed Corn
+mel
+heifetz
+2159850600
+user@domain.com
+4617623611026859801110
+97448507
+$100.00
+4/27/2016
+9:05 AM
+Approved
+DLC - Democratic Lawyers Council
+Terence
+Boyle
+2017233305
+1952user@domain.com
+4617457483906078801114
+100643082
+$210.00
+4/27/2016
+4:27 AM
+Approved
+LGBT Leadership Council (recurring only)
+Clifford
+Boro
+8586051788
+user@domain.com
+4617456713656348301120
+98722748
+$100.00
+4/27/2016
+4:27 AM
+Approved
+LGBT Leadership Council (recurring only)
+Lewis
+Aaron
+3055325988
+user@domain.com
+4617457623696165501126
+32451349
+$100.00
+4/27/2016
+4:27 AM
+Approved
+LGBT Leadership Council (recurring only)
+Dan
+Woog
+2032271755
+user@domain.com
+4616920695606889301126
+99921869
+$10,000.00
+4/26/2016
+1:34 PM
+Pending Approval
+LGBT Leadership Council (one-time only)
+Paul
+Boskind
+2024885015
+user@domain.com
+4616551638956708302114
+100671722
+$230.00
+4/26/2016
+3:16 AM
+Approved
+LGBT Leadership Council (recurring only)
+Joseph
+Barghout
+2023165224
+user@domain.com
+4616136163326523701125
+100827296
+$20.00
+4/25/2016
+3:46 PM
+Deposited
+Finance - Tobias Seed Corn
+Mary
+Byrd
+3525922574
+user@domain.com
+4616077044776841401110
+99368573
+$1,500.00
+4/25/2016
+2:08 PM
+Pending Approval
+AR015 - DWS Little Rock Dinner
+Elizabeth
+Blass
+5012258490
+user@domain.com
+4615976946506497001103
+21957054
+$500.00
+4/25/2016
+11:21 AM
+Deposited
+DLC - Democratic Lawyers Council
+Katherine
+Pringle
+9179743508
+user@domain.com
+4615940034486960801126
+99223501
+$250.00
+4/25/2016
+10:20 AM
+Pending Approval
+FR003 - Paris Concert
+Meredith
+Gowan Le Goff
+6019403540
+user@domain.com
+4615899200266820101105
+99253599
+$500.00
+4/25/2016
+9:11 AM
+Deposited
+DLC - Democratic Lawyers Council
+Rosalyn
+Pugh
+3017720006
+user@domain.com
+4615898326566155301126
+100827135
+$500.00
+4/25/2016
+9:10 AM
+Deposited
+DLC - Democratic Lawyers Council
+Catherine
+Brennan
+4107368067
+user@domain.com
+4615856386136528101110
+100827130
+$250.00
+4/25/2016
+8:00 AM
+Deposited
+FR003 - Paris Concert
+Edwin
+Lau
+33628721727
+user@domain.com
+4615763359156495401127
+100827126
+$250.00
+4/25/2016
+5:25 AM
+Deposited
+FR003 - Paris Concert
+John
+Lamb Jr
+9723528069
+user@domain.com
+4615717404776212001103
+100686963
+$50.00
+4/25/2016
+4:06 AM
+Deposited
+LGBT Leadership Council (recurring only)
+Clark
+Freshman
+3057997432
+user@domain.com
+4615347002696471201108
+37385086
+$50.00
+4/24/2016
+5:51 PM
+Deposited
+AR014 - Rescheduled DWS Little Rock
+Garth
+Martin
+5012238111
+user@domain.com
+4615336287896029601121
+100827068
+$200.00
+4/24/2016
+5:33 PM
+Deposited
+AR014 - Rescheduled DWS Little Rock
+Chad
+Rodgers
+5019936982
+user@domain.com
+4615265616656521101108
+100827063
+$25.00
+4/24/2016
+3:36 PM
+Deposited
+AR014 - Rescheduled DWS Little Rock
+Mosemarie
+Boyd
+5014546487
+user@domain.com
+4614909784006733701112
+72714881
+$2,000.00
+4/24/2016
+5:42 AM
+Deposited
+BEL01 - Brussels Simas Dinner
+Stanford
+McCoy
+2024608590
+user@domain.com
+4614872657096305301122
+99937014
+$100.00
+4/24/2016
+4:40 AM
+Deposited
+LGBT Leadership Council (recurring only)
+Jerry
+Chasen
+3055274143
+user@domain.com
+4614787521916248102112
+100826986
+$25.00
+4/24/2016
+2:19 AM
+Deposited
+AR014 - Rescheduled DWS Little Rock
+TraRain
+Harris
+8706383289
+user@domain.com
+4614684587636544502102
+15542217
+$25.00
+4/23/2016
+11:27 PM
+Deposited
+AR014 - Rescheduled DWS Little Rock
+Richard
+Hutchinson
+5016589940
+user@domain.com
+4614181479516771002113
+100826890
+$400.00
+4/23/2016
+9:29 AM
+Deposited
+FR003 - Paris Concert
+Kate
+Romain
+33607604962
+user@domain.com
+4614046644086617202107
+98271407
+$250.00
+4/23/2016
+5:44 AM
+Deposited
+FR003 - Paris Concert
+Jill
+Bourdais
+0698941353
+user@domain.com
+
+
+
+  _____  
+
+The report is accessible at the following address:	
+<<link>>
+rs%3AParameterLanguage=en-US	

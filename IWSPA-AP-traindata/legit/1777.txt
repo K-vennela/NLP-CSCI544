@@ -1,0 +1,21 @@
+Hello Max,
+here are some remarks on scenarios and configuration for mobile platform:
+- Organizer/Contacts: we did not find (and also correct) errors 
+that you found in your test. So problems can occur again for this agent.
+- Camera: this agent depends totally on phone camera driver. It 
+couldn't work on same device. You have to define an exact number of shot 
+to be taken (scenario 1 configuration 2)
+- Opera: we support only Opera 9 at this time. Url agent doesn't 
+work with Opera 10 and Opera Mini. We don't know if it will be supported 
+in future releases.
+- OnCall event: it doesn't support wildcard, than *66 (scenario 1 
+configuration 2) will be a call to *66, but it dosn't work with, for 
+example, +3901234566.
+- MMS: this agent retrive only text (subject)
+- Position GPS: GPS signal doesn't work inside buildings, so during 
+test we have to exit from the building and wait for GPS device fix.
+- OnSms event:  FOT and NEFOT configuration doesn't work correctly 
+(scenario 1 configuration 2) because the parser will recognize FOT also 
+into the NEFOT string.
+- We have never tested HTC Tytan 1, QTECH 8010 TORNADO and HTC 
+Touch CRUISE, so i enclose our tested phones.

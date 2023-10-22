@@ -1,0 +1,50 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Wed, 16 Jul 2015 17:23:38 +0200
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id 3E329600EE;	Wed, 16 Jul 2015 
+ 16:10:18 +0100 (BST)
+Received: by domain.com (Postfix)	id 8355E2BC039; Wed, 16 Jul 2015 
+ 17:23:38 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from EmadPC (unknown [172.16.1.1])	(using TLSv1 with cipher
+ AES128-SHA (128/128 bits))	(No client certificate requested)	by
+ domain.com (Postfix) with ESMTPSA id 4CC642BC004;	Wed, 16 Jul 2015 
+ 17:23:06 +0200 (CEST)
+From: Emad Shehata <e.shehata@hackingteam.com>
+To: 'Astana Team' <user@domain.com>, 'Emad Shehata'
+	<user@domain.com>
+CC: <user@domain.com>
+References: <user@domain.com> <user@domain.com>
+In-Reply-To: <user@domain.com>
+Subject: R: Are you getting the most out of your operations?
+Date: Wed, 16 Jul 2015 17:23:01 +0200
+Message-ID: <000901cfa109$daf8a6a0$90e9f3e0$@user@domain.com>
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: Ac+g6PWTfJhIu8nUTpiuQEnVuUkXJgAIHndg
+Content-Language: it
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EMAD SHEHATA450
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-128259149_-_-"
+
+DearsThanks for your e-mail.Please find attached the description of the training. Let me know your choices and we can send to you an offer/quotation.I remain at your disposalBest regards Emad Shehata
+Key Account Manager
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com
+mobile: +39 3357939078
+phone: +39 0229060603     Da: Astana Team [mailto:user@domain.com] 
+Inviato: mercoledì 16 luglio 2015 13:28
+A: Emad Shehata; Emad Shehata
+Oggetto: Fwd: Are you getting the most out of your operations? Dear Emad! 
+We received a letter with a booklet describing the possibility of conducting trainings. Could you describe in more detail what kind of training and what they include. 
+Thank you in advance!     Is this email not displaying properly? View online        Are you getting the most out of your operations?     Remote Control System is loaded with so many sophisticated features that you may overlook some of them, hence loosing great opportunities to enhance your operations and get more results. Let us remind you the advantages of working with Remote Control System Galileo!     Discover the interactions          In your daily operations you commonly deal with multiple targets, and the amount of information can be overwhelming. It is crucial that you have all the tools to unveil your targets' intent and discover the network behind them, without going through every single bit of information. With Remote Control System you immediately see all the interactions: follow their movements during the day, see how they communicate and with whom and discover their habits. Furthermore, you are informed upon interesting events like meetings and key communications!     Watch how your targets communicate with their peers. Understand links among targets and meeting places, both physical and virtual (e.g., web forums).   Automatically profile the digital identity of your targets, to readily have:all the accountstop communicationslast known position   Analyse the behaviours and mechanisms common to different cases and criminal networks, to further expand your investigation.     Get trained on the latest security techniques     Your team is the most precious resource to get  the job done. Invest on their skills and let them use the latest techniques! You’ll see the difference, granted. We offer trainings at all levels and in all security fields:IT intrusionNetwork and web pentestingVulnerability detection and exploitationAdvanced wireless pentestingReverse engineeringWe can also design custom training programs to match your needs. Ask for information.   All of our intructors have current experience on real cases, and they continuosly research and experience the topics they teach.Training have a strong bias toward hands-on tests and challenges, to let you learn by doing.       Meet us, we are near!          We sponsor more than 20 conferences during the year, where we showcase the latest Remote Control System innovations during live demos. In this period, you can find us here:15-17 July: ISS World South Africa in Johannesburg, ZA5-7 August: NATIA in San Diego, CA6-8 October: ISS World Americas in Washington, D.C.15-17 October: Future Forces in Prague, CZ15-17 October: SEECAT in Tokyo, JPCheck the nearest event and come domain.com us. We are glad to welcome you and show you the product and the benefits you can gain from Remote Control System.  Contact us to have a private meeting with a live demo! If you cannot attend the events, ask for a meeting at your site or in our HQ in Milan, Italy.      Call today your sales representative or write to user@domain.com for more.          Copyright © 2014 HT S.r.l.All other trademarks are the property of their respective owners. Specifications subject to change without notice.    

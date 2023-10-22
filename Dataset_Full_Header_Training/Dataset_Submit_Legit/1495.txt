@@ -1,0 +1,96 @@
+Received: from domain.com (146.215.230.102) by
+ domain.com (43.130.141.78) with Microsoft SMTP Server id
+ 8.3.342.0; Thu, 24 Jul 2015 12:21:38 -0700
+Received: from domain.com ([160.33.194.231])	by
+ domain.com (Sentrion-MTA-4.3.1/Sentrion-MTA-4.2.2) with
+ ESMTP id s6OJLbgj017125	for <user@domain.com>; Thu, 24 Jul 2015 
+ 19:21:37 GMT
+Received: from na01-by2-domain.com
+ (mail-domain.com [207.46.163.241])	by
+ domain.com (Sentrion-MTA-4.3.1/Sentrion-MTA-4.2.2) with
+ ESMTP id s6OJNWQe004038	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128
+ verify=FAIL)	for <user@domain.com>; Thu, 24 Jul 2015 19:23:33 GMT
+Received: from BN1BFFO11FD029.protection.gbl (10.58.144.34) by
+ BN1BFFO11HUB004.protection.gbl (10.58.144.151) with Microsoft SMTP Server
+ (TLS) id 15.0.980.11; Thu, 24 Jul 2015 19:21:31 +0000
+Received: from a15-178.smtp-domain.com (54.240.15.178) by
+ domain.com (10.58.144.92) with Microsoft SMTP
+ Server (TLS) id 15.0.980.11 via Frontend Transport; Thu, 24 Jul 2015 19:21:31
+ +0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=v52wzeq2nhi2ivaga2mkkcxigoeqeycs; d=amazon.com; t=1406229685;
+	h=Date:From: Amazon Local <LocalDeals@amazon.com>
+	bh=O3k8RMgmoc5XpIFC8R3vsNl9OSFMsAGT7+OW/xnEA6I=;
+	b=tZW0ohwGRP21bDdrX5LdiVC5SEVloi0uYomUuiIIBqP5LIL0MfuGs4CcHvHGE68W
+	RfscU4kEb4/Bbyd1iZXOhii6lQFpY40tmgCry/kpLwE5ba0tN+2XvBB7+eQYOPEdzvX
+	8DW+gdS6jLhmyOlDg9U9AIwZ+sdyJ04ZLbByJaW4=
+Date: Thu, 24 Jul 2015 19:21:25 +0000
+From: Amazon Local <LocalDeals@amazon.com>
+To: "User" <user@domain.com>
+Message-ID: <0000014769user@domain.com>
+Subject: Book a getaway with our travel offers
+Bounces-to: 20140724192125user@domain.com
+X-AMAZON-MAIL-RELAY-TYPE: merchandizing
+X-AMAZON-RTE-VERSION: 2.0
+X-Original-MessageID: <urn.correios.msg.20140724192125ac7fe7393222442495946531747a0907@1406229685400.massmail-sender-na-1e-i-f967ccab.us-east-1.amazon.com>
+X-SES-Outgoing: 2014.07.24-54.240.15.178
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:54.240.15.178;CTRY:US;IPV:NLI;EFV:NLI;SFV:NSPM;SFS:(438002)(189002)(199002)(505014003)(107245004)(68162002)(79102001)(64706001)(19580405001)(19627405001)(87836001)(74662001)(71186001)(50986999)(80022001)(81342001)(90596001)(106466001)(15188445003)(92726001)(92566001)(84326002)(95666004)(18926405002)(21056001)(19580395003)(107046002)(6806004)(77982001)(44976005)(99396002)(83322001)(4396001)(81542001)(19617315012)(33646002)(74502001)(76482001)(54356999)(229853001)(83072002)(31966008)(110476001)(2351001)(107886001)(85306003)(77096002)(15975445006)(106856001)(104766002)(19618635001)(46102001)(18206015026)(85852003)(956001)(15202345003)(110136001)(20776003)(102836001)(575784001)(25786005)(94776002)(95006001)(85226002)(579004)(559001);DIR:INB;SFP:;SCL:1;SRVR:BN1BFFO11HUB004;H:a15-178.smtp-domain.com;FPR:;MLV:sfv;PTR:a15-178.smtp-domain.com;MX:1;A:0;LANG:en;
+X-Microsoft-Antispam: BCL:5;PCL:0;RULEID:(70001)
+Received-SPF: Pass (: domain of bounces.amazon.com designates 54.240.15.178 as
+ permitted sender) receiver=; client-ip=54.240.15.178;
+ helo=a15-178.smtp-domain.com;
+Authentication-Results: spf=pass (sender IP is 54.240.15.178)
+ user@domain.com;
+
+
+
+Return-Path: 
+ 20140724192125user@domain.com
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+ <<link>>
+Offers for desert, mountain, and seaside destinations | Unsubscribe     
+
+domain.com         
+
+ <<link>> Top Travel Offers       domain.com         
+With our new Local Getaways you can save on travel packages close to home or on a journey to an exotic locale. 
+
+Boutique Palm Springs Resort Stay with Welcome Drinks and Breakfast     
+
+Indian Wells Resort Hotel       
+
+76-661 Hwy 111, Indian Wells, CA        
+
+
+
+
+From
+
+
+
+
+$       
+
+49      
+
+Savings 51% 
+
+ <<link>>    <<link>>    <<link>>    <<link>>     <<link>>   
+Savings 51%      
+
+
+
+
+Landmark LA Hotel Stay  
+
+Sportsmen's Lodge Hotel         
+
+12825 Ventura Blvd, Los Angeles, CA     
+
+ <<link>> miles away (
+

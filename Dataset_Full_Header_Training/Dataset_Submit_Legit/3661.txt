@@ -1,0 +1,151 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Fri, 13 May
+ 2015 15:16:22 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Fri, 13 May 2015 
+ 15:16:18 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 914340348
+ for user@domain.com; Fri, 13 May 2015 14:16:27 -0500
+X-Note-AR-ScanTimeLocal: 5/13/2016 2:16:26 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:205.201.130.250 DOM:domain.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 100
+X-GBUdb-Analysis: 0, 205.201.130.250, Ugly c=0 p=0 Source New
+X-Signature-Violations: 100-5953858-1767-1797-m
+	100-5946975-1881-1900-m
+	100-5945063-26018-26043-m
+	100-5945063-29178-29203-m
+	100-5945064-29205-29235-m
+	100-5953858-0-29303-f
+X-Note-419: 31.2499 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/13/2016 2:16:20 PM
+X-Warn: BOUNCETRACKER Bounce User Tracking Found
+X-Warn: OPTOUT
+X-Warn: BULKMAILER
+X-Note: Spam Tests Failed: BOUNCETRACKER, OPTOUT, BULKMAILER
+X-Country-Path: LOCAL->United States->
+X-Note-Sending-IP: 205.201.130.250
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G281 G286 G340 G374 G376 G580 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from domain.com ([205.201.130.250] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 140531487
+ for user@domain.com; Fri, 13 May 2015 14:16:26 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=domain.com;
+ h=Subject:From: =?utf-8?Q?Univision=20News?= <dailybrief@univision.net>
+ bh=jhlzSaBYplG6V7ZiONv76tTw5d0=;
+ b=rALE6FkcugmYb9cGlzKkyjgiayXIsww4d1E7pdsBOu9TLgEIcTUW/Hs0XkrO/nM7Xhm9yLAjnv46
+   8HWLBEZip0SiqLfRxVZ446hVOthoAuRJA9dOiNkMf9HqVgA2E/eKJZ+bAvnte7MaQ0A4CKohUM9q
+   gaBa9jhMI2wE0eHYj5o=
+Received: from (127.0.0.1) by domain.com id h6ok0624b38r for
+ <user@domain.com>; Fri, 13 May 2015 19:16:19 +0000 (envelope-from
+ <user@domain.com>)
+Subject: =?utf-8?Q?Daily=20Brief=3A=20Bathroom=20Equality?=
+From: =?utf-8?Q?Univision=20News?= <dailybrief@univision.net>
+Reply-To: =?utf-8?Q?Univision=20News?= <user@domain.com>
+To: <user@domain.com>
+Date: Fri, 13 May 2015 19:16:19 +0000
+Message-ID: <5user@domain.com>
+X-Mailer: MailChimp Mailer - **CID62f97113c6ccf2e888e6**
+X-Campaign: mailchimp5e06b619917f7a0a6b28d05cc.62f97113c6
+X-campaignid: mailchimp5e06b619917f7a0a6b28d05cc.62f97113c6
+X-Report-Abuse: Please report abuse for this campaign here: <<link>>
+X-MC-User: 5e06b619917f7a0a6b28d05cc
+X-Feedback-ID: 40079569:40079569.544117:us10:mc
+List-ID: 5e06b619917f7a0a6b28d05ccmc list <5e06b619917f7a0a6b28d05cc.188293.list-domain.com>
+X-Accounttype: pd
+List-Unsubscribe: <mailto:user@domain.com?subject=unsubscribe>, <<<link>>>
+Sender: Univision News <user@domain.com>
+x-mcda: FALSE
+Content-Type: multipart/alternative;
+	boundary="_----------=_MCPart_1744808953"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Did a friend forward you this email?
+Get the Daily Brief everyday on your inbox (#)
+<<link>>
+Follow us <<link>> <<link>>
+domain.com/UniPolitica
+May 13=2C 2015 
+
+** Top news today in Hispanic America (<<link>>
+domain.com/daily/top-news-today-in-hispanic-america-168/)
+------------------------------------------------------------
+|
+Click to play (<<link>>
+oday-in-hispanic-america-168/)
+<<link>>
+c-america-168/
+
+<<link>>
+2/banner_news.png
+* =E2=80=9CEVERYTHING I SAY NOW IS A SUGGESTION=E2=80=9D: GOP presidential=
+ candidate Donald Trump has a new stance on his immigration proposals. The=
+ real estate mogul called into =E2=80=9CFox & Friends=E2=80=9D this mornin=
+g and responded to his proposed Muslim ban=2C saying it was just a =E2=80=
+=9Csuggestion.=E2=80=9D He added: =E2=80=9CLook=2C anything I say right no=
+w=2C I=E2=80=99m not the president.=E2=80=9D
+
+* TOO LATE FOR THIRD-PARTY EFFORT?: The effort by prominent conservatives=
+ seeking a third party candidate to challenge Donald Trump and Hillary Cli=
+nton in the general election seems to be fizzling out. The Hill (<<link>>
+domain.com/blogs/ballot-box/presidential-races/279749-third-party-effort-fi=
+zzling-out) reports that a third-party campaign =E2=80=9Cwould cost millio=
+ns=E2=80=9D and GOP donors =E2=80=9Chave been reluctant to embrace a bid.=
+=E2=80=9D
+
+* TRUMP DENIES POSING AS HIS OWN PUBLICIST: This morning <<link>>
+domain.com/politics/donald-trump-alter-ego-barron/2016/05/12/02ac99ec-1=
+6fe-11e6-aa55-670cabef46e... [1]Read more
+
+|
+
+** Today=E2=80=99s data
+------------------------------------------------------------
+
+Millennials=2C the generation of Americans aged 20 to 36=2C are far more l=
+ikely to have a favorable opinion of Sanders (55%) than presumptive Democr=
+atic nominee Hillary Clinton (38%) or her Republican counterpart=2C Donald=
+ Trump (22%).
+Source: Gallup=2C May 11=2C 2015 
+|
+Add user@domain.com (mailto:user@domain.com) to your add=
+res book
+Did a friend forward you this email?
+Get the executive every day on your mail (<<link>>
+domain.com/daily/subscribe)
+Why did I get this mail? (<<link>>
+/subscribe)
+Terms of Service (<<link>>
+=3Dterms) and Privacy Policy (<<link>>
+aily/?text=3Dprivacy)
+Univision All Rights Reserved 2015 
+
+This email was sent to user@domain.com (mailto:user@domain.com)
+why did I get this? (<<link>>
+19917f7a0a6b28d05cc&id=3Dbdb6fbd96e&e=3Dccf2e888e6&c=3D62f97113c6)     unsub=
+scribe from this list (<<link>>
+=3D5e06b619917f7a0a6b28d05cc&id=3Dbdb6fbd96e&e=3Dccf2e888e6&c=3D62f97113c6)=
+     update subscription preferences (<<link>>
+m/profile?u=3D5e06b619917f7a0a6b28d05cc&id=3Dbdb6fbd96e&e=3Dccf2e888e6)
+Univision . 8551 NW 30TH TERRACE . Miami=2C FL 33122 . USA
+
+References
+
+1. <<link>>
+domain.com/daily/top-news-today-in-hispanic-america-168/"

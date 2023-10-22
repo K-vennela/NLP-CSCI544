@@ -1,0 +1,117 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 27 Apr
+ 2015 13:48:24 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 27 Apr 2015 
+ 13:48:16 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 883335885
+ for user@domain.com; Wed, 27 Apr 2015 12:48:24 -0500
+X-Note-AR-ScanTimeLocal: 4/27/2016 12:48:22 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @nvdems.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 209.85.192.42
+X-Note-Reverse-DNS: mail-qg0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mail-qg0-domain.com ([209.85.192.42] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 137493580
+ for user@domain.com; Wed, 27 Apr 2015 12:48:21 -0500
+Received: by mail-qg0-domain.com with SMTP id f92so20297453qgf.0
+        for <user@domain.com>; Wed, 27 Apr 2015 10:48:21 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=nvdems-domain.com; s=20150623;
+        h=mime-version:From: Sarah Zukowski <szukowski@nvdems.com>
+        bh=nFkwRKNPw5ombizq1p6v5Exq2hB9mo0nHrqQQfKR/8I=;
+        b=llT5BNPCx87qJhIhq7RSyXvrkm1rVHSUvk4H6YPXpLlZgu9Ce8WyGvnJrE9IYvFjvx
+         Fs38OAE8D66lDq1hHm+ThqdTyFx1Em/EyzlEHHLDHGfqPBGnz0DSqc8t1Lb/JxImrcRL
+         uMeF394su8V1UsEwwizucnpElPUbcf0JcxRMCNX2KLgc8JTY19ofCqmOzkmuWcdcIATl
+         7lcYp2q40ip1q5M0eBxYqmneBJD1mTFPmAbJH1Mmjky0tdus+zuyslmb7GYLVSj5uU6s
+         RDInC1jYJYBiZ9HgQnU0OgBM8XhRb3uiYZduc+WEEh6SxgoUyJA6eL5hHyENPKNv2IvT
+         dxLQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:From: Sarah Zukowski <szukowski@nvdems.com>
+        bh=nFkwRKNPw5ombizq1p6v5Exq2hB9mo0nHrqQQfKR/8I=;
+        b=dzxzxJJ0G1Q67A6+R05MTkaBOfFVgkC8ifIMsT0ewvwHada/RAFFkwowBvWpQsh7pQ
+         iKO+34eBWhk0VlJoA7ZNKhJZPX7oQjhUSFnf4MZC0V/kxG+Osa1CH7seZ9GjoQ4lxVDz
+         dEle/7V/h5F6/C5rpRW8wc7pvgQ9A/xwoz6CiJhjohEn0Rs+j95iDBvWARRKc+88QAbo
+         DLr9XJvLGRUSlekeOswv78cpxahRYF4omJjJkx5ANVaztp1yAhNZbmvbGp+K3sBCbrxK
+         +Cbcn/gKMV2f7EY1BlBLRP3myZSyeF+T4kaH20Dxki7pVPRKEHuHOxv7xsf0zkIcnG4h
+         eL6Q==
+X-Gm-Message-State: AOPr4FW8WtUjrz85Gm2gVZep0xBeXk6GrTmrveOiZ+4kGnk1WCgv8Pw2XMywEMZ9oDpNu/R981UidTpmI9PZhg==
+X-Received: by 10.140.39.243 with SMTP id v106mr9825022qgv.23.1461779298763;
+ Wed, 27 Apr 2015 10:48:18 -0700 (PDT)
+Received: by 10.55.170.76 with HTTP; Wed, 27 Apr 2015 10:47:39 -0700 (PDT)
+From: Sarah Zukowski <szukowski@nvdems.com>
+Date: Wed, 27 Apr 2015 10:47:39 -0700
+Message-ID: <CABGCjNq+user@domain.com>
+Subject: =?UTF-8?Q?NEW_VIDEO=3A_Sharron_Angle_Accepts_Parrot_Debate_Chall?=
+	=?UTF-8?Q?enge_=E2=80=93_Will_Congressman_Heck=3F?=
+To: Sarah Zukowski <user@domain.com>
+Content-Type: multipart/related; boundary="001a11c1295ed86faa05317b03c8"
+BCC: <user@domain.com>
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+For Immediate Release
+
+April 27, 2015 
+
+Contact: Sarah Zukowski, *user@domain.com <user@domain.com>*
+
+NEW VIDEO <<<link>>>: Sharron Angle
+Accepts Parrot Debate Challenge =E2=80=93 Will Congressman Heck?
+
+When asked by (soon to be) Famous NV Dems Parrots if she will debate
+Congressman Heck, Sharron Angle says: =E2=80=9CI would like to=E2=80=A6=E2=
+=80=9D
+
+Meanwhile, Congressman Heck is silent
+
+*Watch the Video Here* <<<link>>>
+
+Las Vegas, NV =E2=80=93 Over the weekend, former Assemblywoman Sharron Angl=
+e
+confirmed to the (soon to be) Famous NV Dems Parrots that she welcomes the
+opportunity to debate Congressman Heck, stating, =E2=80=9CI would like to,=
+=E2=80=9D when
+asked by the Parrots. And from Congressman Heck? Not a squawk.
+
+But maybe the reason Congressman Heck has been too chicken to debate Angle
+is the inconvenient truth that it=E2=80=99s hard to find a single issue whe=
+re Angle
+and the Congressman disagree. Congressman Heck and Sharron Angle are two
+birds of the same feather on issue after issue. From wanting to privatize
+Social Security, to calling for the repeal of birthright citizenship, to
+proposing to eliminate the Department of Education, Sharron Angle and
+Congressman Heck share the same reckless Republican agenda.
+
+=E2=80=9CWe thank Sharron Angle for accepting the Parrot debate challenge, =
+and
+would hope Congressman Heck would do the same,=E2=80=9D said Sarah Zukowski=
+,
+spokesperson for the Nevada State Democratic Party. =E2=80=9CWhether it=E2=
+=80=99s their
+anti-immigrant, anti-woman, or anti-senior agendas, a debate will make
+clear that on issue after issue, Congressman Heck and Sharron Angle will
+side with their Party=E2=80=99s bosses in Washington against Nevadans.=E2=
+=80=9D
+
+[image: Inline image 2] <<<link>>>
+
+###

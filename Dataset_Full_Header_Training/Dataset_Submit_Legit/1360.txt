@@ -1,0 +1,212 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Thu, 19 May
+ 2015 18:10:18 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Thu, 19 May 2015 
+ 18:10:14 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 925266684
+ for user@domain.com; Thu, 19 May 2015 17:10:26 -0500
+X-Note-AR-ScanTimeLocal: 5/19/2016 5:10:17 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @skdknick.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->->United States->
+X-Note-Sending-IP: 157.56.111.111
+X-Note-Reverse-DNS: mail-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from [157.56.111.111] (HELO
+ na01-bn1-domain.com)  by domain.com
+ (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 139634865 for user@domain.com;
+ Thu, 19 May 2015 17:10:16 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=domain.com; s=selector1-skdknick-com;
+ h=From: Natalie Raps <nraps@skdknick.com>
+ bh=Kd3xhAmN2C3G2FYHfoCVQnPD/4W8n22h+RkhcBKyvjA=;
+ b=IlMt3eSPTeBus4XSVFpNdnC7mDLv6ViBwLgICimT52Ienotx78Wz5mqfL9ThWVsHKMU5MMBNyzwUKfA6fHehtZadyZVmnAr/NocpjSh+n8n7PaX9HZHgUKfIIgfeH+KioLaJUSEvNrzBzBmtjy2vF/sr+vwn2DL+QbhUxbgcnYg=
+Received: from domain.com (10.163.155.157) by
+ domain.com (10.163.155.156) with Microsoft
+ SMTP Server (TLS) id 15.1.497.12; Thu, 19 May 2015 22:10:13 +0000
+Received: from domain.com ([10.163.155.157]) by
+ domain.com ([10.163.155.157]) with mapi id
+ 15.01.0497.019; Thu, 19 May 2015 22:10:13 +0000
+From: Natalie Raps <nraps@skdknick.com>
+To: Natalie Raps <user@domain.com>
+Subject: Today from the Constitutional Responsibility Project
+Thread-Topic: Today from the Constitutional Responsibility Project
+Thread-Index: AdGyGvVc2JdBW48kQiWb508LhCrGPA==
+Date: Thu, 19 May 2015 22:10:09 +0000
+Message-ID: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+authentication-results: skdknick.com; dkim=none (message not signed)
+ header.d=none;skdknick.com; dmarc=none action=none header.from=skdknick.com;
+x-originating-ip: [50.193.144.129]
+x-ms-office365-filtering-correlation-id: 0dd5d24d-010b-497c-f98d-08d3803259a8
+x-microsoft-exchange-diagnostics: 1;BY2PR0701MB1943;5:9w7SE/tdFbD+mQklnYDBVaR0qro1uktGBFEZs+D05/Xuckmt9/O2FhS5M8+vOoKX9vt7HAlX9LBkpKlRe4m9MD0UeICtWVPeCWOx/aPL9xbOmisCnN8Kj2z6Mnqu50uQ/n6biDZ3C8Wz5+QSctOaBw==;24:6R208X9bmr5M/uNu4+WzNV38+yHEIJ2SUvKtWe5BbdnO0eX03GoXp06C1642QDuPb8fuEkQ2/PnKNDXKC1dvUJqdWGb4Z0W3Opu+pcio45w=;7:idM0EMdz7a9TdsKE2ijF8NWUzZgktfyQtUfTuwoUK5GeoxKPp9okkvnQb3mE8ps1zL+95sWy3HagAfUBhU4l1JNe2jbcearAjUpZwQOm2AaxVxcXxVgfDmBTAX2rdUXOQICavdqu8p0pgVFAX/RBvsnpc1AI91XiURIjUAp1AogC5L8hsNLgYvqt8oy4NQUv
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:;SRVR:BY2PR0701MB1943;
+x-ld-processed: 51f4a8d4-10a8-4d6c-bc10-f2546164f7db,ExtAddr
+x-microsoft-antispam-prvs: <user@domain.com>
+x-exchange-antispam-report-test: UriScan:;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(102415293)(102615271)(601004)(2401047)(8121501046)(5005006)(10201501046)(3002001);SRVR:BY2PR0701MB1943;BCL:0;PCL:0;RULEID:;SRVR:BY2PR0701MB1943;
+x-forefront-prvs: 094700CA91
+x-forefront-antispam-report: SFV:NSPM;SFS:(10019020)(37854004)(11905935001)(85664002)(229853001)(19627595001)(11100500001)(5002640100001)(9686002)(5008740100001)(102836003)(76576001)(3280700002)(3660700001)(10400500002)(790700001)(2900100001)(77096005)(19617315012)(15975445007)(99286002)(5003600100002)(5004730100002)(8676002)(17760045003)(15395725005)(6200100001)(19580405001)(33656002)(4001450100002)(19580395003)(19625215002)(19300405004)(16236675004)(74316001)(1220700001)(2906002)(81166006)(189998001)(92566002)(8936002)(66066001)(50986999)(86362001)(586003)(3846002)(6116002)(110136002)(99936001)(122556002)(107886002)(18206015028)(87936001)(54356999)(8666003)(7099028)(7059030);DIR:OUT;SFP:1102;SCL:1;SRVR:BY2PR0701MB1943;H:domain.com;FPR:;SPF:None;MLV:sfv;LANG:en;
+spamdiagnosticoutput: 1:23
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/related;
+	boundary="_004_BY2PR0701MB1944851D55B047178AE9142DD34A0BY2PR0701MB1944_";
+	type="multipart/alternative"
+X-MS-Exchange-CrossTenant-originalarrivaltime: 19 May 2015 22:10:09.9399
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 51f4a8d4-10a8-4d6c-bc10-f2546164f7db
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BY2PR0701MB1943
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Today in the fight for a full and functioning Supreme Court: Republicans ar=
+e hoping that Trump, the most divisive candidate in history, will win the e=
+lection and appoint justices that will implement his radical agenda for the=
+ country, young leaders join Members of Congress to tell Senators to #DoYou=
+rJob and a new report details the impact that a domain.com Supreme Court will ha=
+ve on jurisdictions across the country.
+
+Tomorrow, the People For the American Way Foundation (PFAWF) and the Consti=
+tutional Accountability Center (CAC) will release the new report, "Material=
+ Harm to Our System of Justice: The Consequences of an Eight-Member Supreme=
+ Court." Sen. Amy Klobuchar, Elliot Mincberg, and  Elizabeth Wydra will hol=
+d a press call to discuss the new report. To RSVP or to request an embargoe=
+d copy, please email user@domain.com<mailto:user@domain.com>.
+
+Donald Trump Wants to Use the Supreme Court to Implement His Dangerous Agen=
+da.
+While we have a real, highly-qualified consensus nominee that Republicans r=
+efuse to act on, Trump has put forward a hypothetical group of extreme judg=
+es who would do real harm to Americans by banning abortion, turning back pr=
+ogress against discrimination, and imposing Trump's radical agenda on the c=
+ountry.
+
+With only eight justices, the Supreme Court has been unable to reach decisi=
+ons on important issues like women's access to contraception and is set to =
+accept the fewest number of new cases in 70 years, delaying or denying just=
+ice to millions in the process. Just like they shut down the government, no=
+w Republicans are shutting down the Supreme Court in the hopes of allowing =
+Donald Trump to appoint justices who will impose his radical and divisive a=
+genda on America.
+
+[SCOTUS_MAY16_Trump2 (1).jpg]
+
+Young Leaders Join Members of Congress to tell Senators: #DoYourJob.
+Today, national youth-led and youth-serving organizations released an open =
+letter to U.S. Senators calling for fair consideration for President Obama'=
+s Supreme Court nominee, Merrick Garland. You can read the full letter and =
+release HERE<<<link>>
+members-congress-tell-senators-doyourjob>.
+Sen. Cory Booker: "It's energizing to see so many young leaders at the fron=
+t of the growing chorus of voices urging Senate leaders to do their job and=
+ provide a fair process for the consideration of Chief Judge Merrick Garlan=
+d. The decisions made at the Supreme Court don't just impact us today, they=
+ impact generations to come."
+Sen. Al Franken: "It's been more than three months now since a vacancy open=
+ed on the U.S. Supreme Court, and during that time, we've seen a whole lot =
+of partisan bickering, obstructionism, and political maneuvering. But you k=
+now what we haven't seen: Senate Republicans doing their job as outlined by=
+ the Constitution."
+Rep. Ruben Gallego: "As a member of Congress who was elected to do my job, =
+I take my constitutional duty seriously... It's time for the Senate to do t=
+heir jobs and give Judge Garland a fair hearing and a timely vote."
+Rep. Linda S=E1nchez: "This Supreme Court vacancy is critically important f=
+or all Americans, but especially for Latinos living in the United States.  =
+We are an especially young community with more than 14 million millennials.=
+ So our message is simple: The President has done his job, now it is time f=
+or Republican Senators to do their job."
+Oscar Conejo, Hanover, New Hampshire: "As an undocumented student, I know j=
+ust how critical the decisions are that they make on important issues that =
+affect me and my family, from education to immigration and so much more."
+Consuelo Hernandez, Tucson, Arizona: "I'm here today because I'm tired of c=
+onservatives in the Senate choosing politics over precedent and chaos over =
+constitutional duty... By choosing not to give Chief Judge Merrick Garland =
+the fair and timely consideration afforded past nominees, conservatives are=
+ abandoning their constitutional duties and turning their backs on the cons=
+tituents like me who put them in office."
+Max Levy, Philadelphia, Pennsylvania: "Even though we don't always agree, w=
+e work hard to foster productive dialogue on our campus. Right now, some Se=
+nators are saying we shouldn't even hold a hearing for President Obama's Su=
+preme Court nominee, and that's just plain wrong. Dialogue is healthy for d=
+emocracy. I know that's true on my  campus, and it's true for the Senate."
+Mary Marston, Concord, North Carolina: "Young people now make up the larges=
+t voting bloc in America and many are just becoming politically active. It =
+is critical that our elected officials follow through on their constitution=
+al commitments to keep young people engaged in the democratic process."
+Zach Wahls, Iowa City, Iowa: "I see the marriage between my moms-the possib=
+ility of their marriage-as our legal system keeping up its end of the Ameri=
+can promise to a fair hearing and due process...We got a fair hearing, and =
+we need to make sure that America can get a fair hearing, too."
+Mapping a Divided Court: An eight-member Supreme Court means a legal patchw=
+ork across the country.
+Today, the Alliance for Justice<<<link>>
+ourt-2> released a memo highlighting how a deadlocked Supreme Court could m=
+ean that laws will be applied differently in different parts of the country=
+.
+
+"But with only eight justices, the Supreme Court can find itself deadlocked=
+ in a four-four tie. By rule, a tie vote affirms the lower court that heard=
+ the case before it was appealed to the Supreme Court...a tie leaves the di=
+sputed legal question unresolved, as if the Court never heard the case at a=
+ll. That means that people who live in circuits that have yet to decide the=
+ issue don't know what the law is, and elsewhere the same law has different=
+ meanings based solely on geography...But whether the Court formally deadlo=
+cks or agrees to decide nothing, the result is the same: A nationwide patch=
+work of inconsistent and uncertain law, including constitutional rights tha=
+t wax and wane just by crossing state lines."
+
+The Supreme Court cannot do its job with only eight members.
+Slate<<<link>>
+/the_supreme_court_doesn_t_work_with_only_eight_justices.html>'s Dahlia Lit=
+hwick looks at how an ongoing vacancy prevents the Supreme Court from doing=
+ its job, despite the justices trying to prove otherwise.
+
+"The undisputed fact behind the surprising per curiam order in Zubik-the le=
+ad case in a challenge to the Affordable Care Act's mandate that religious =
+nonprofits cover contraception for women workers-is that the court is strug=
+gling....The Supreme Court is not currently doing its job. It has accepted =
+fewer cases for next term than it [has] granted in 70 years because it can'=
+t resolve them<<<link>>
+oad-is-on-track-to-be-the-lightest-in-70-years/>. A massive public unions f=
+inancing case<<<link>>
+lifornia-teachers-association-union-fees-supreme-court-ruling.html> resulte=
+d in a tie in March. A death penalty appeal deadlocked on Thursday<<<link>>
+domain.com/2016/05/12/politics/supreme-court-vernon-madison-antonin-scalia/=
+
+A look ahead at a sampling of activity by our grassroots allies and Democra=
+tic Senators:
+
+FRIDAY 5/20/2016
+Event: Press call on new report detailing consequences of eight-member Supr=
+eme Court with Senator Amy Klobuchar
+Time: 9:30AM EST
+Host: People For the American Way Foundation & Constitutional domain.com=
+y Center
+Key briefers/speakers: Sen. Amy Klobuchar (D-MN); Elliot Minceberg, People =
+For the American Way Foundation; Elizabeth Wydra, Constitutional Accountabi=
+lity Center
+RSVP: To RSVP or to request an embargoed copy of the report, please email m=
+user@domain.com<mailto:user@domain.com>.
+
+###
+

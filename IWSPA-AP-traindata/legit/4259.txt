@@ -1,0 +1,106 @@
+Dear All
+I think I heard replies to my last proposal from most of you. I have also
+had a phone conversation with Linda. So let me try to summarize the
+situation
+1) From the replies I got, it sounds like at least the basic idea of my
+proposal is viable. In particular I read an at least semi-consensus, and
+certainly some strong individual positions, that the SRES material , since
+it is unpublished (and remember unreviewed until now), should not be
+presented as our sole or even primary source of conclusions. Now, I share
+that position and in fact quite strongly. Presenting such material breaks
+the proclaimed IPCC rules. Now the rules have been softened for this case,
+but remember that there are people around who are paid to find faults in
+the IPCC process and the last thing I want to do is being accused of
+having broken the rules.  I think the TSU people are too optimistic and
+casual in the way they change the rules during the process and expect
+people to accept that this "just"  happens. Remember what happened to Ben
+Santer after the SAR. Besides, I myself think that material for a document
+as important as the TAR cannot be drawn from last-minute barely quality
+checked and un-peered reviewed material (people have barely looked at the
+MPI run that was completed last friday !!). It is up the the IPCC to
+better plan these things and avoid the mess. Be it as it may, unless
+somebody is strongly against this position, I will assume that we can
+proceed from this basis.
+2) Having said the above, it is also clear the we can present the IPCC data
+in some format. Chapter 9 is doing it (remember also in their case the SRES
+stuff is only a minor component of the chapter) so we can and I think we
+should because it is relevant and important material, 
+but with the proper caveats clearly up front, i.e. that whatever
+we present is a preliminary analysis that has not undergone a publication
+process. It would be certainly strange and confusing to have the SRES 
+discussed in Chapter 9 but not in our chapter in some form. Besides we went
+through a significant effort to get it and process it. I myself think
+that the SRES information is important to provide. It is
+just unfortunate, but not surprising, that it came around too late.
+3) So the question is at this point how do we present the SRES. I suggested
+not to incorporate it within the text of 10.3, since 10.3 is our assessment of 
+published research which has undergone peer and government review. I stand
+strongly by that suggestion. Obviously 10.3 might need a bit of rewriting
+to make it flow better with possibly different conclusions but not more than 
+that. I then suggested to make the Box an SRES Box including the +/- format
+figures (I thought we needed 4, i.e. two for each scenario, but Linda pointed
+out we really need only 2, one for precip and one for temperature each 
+including the two scenariost). Now
+this offers several advantages: we can say right up front that this is from 
+a preliminary analysis; we can separate it cleanly from the rest of the 
+"official " text; it gives direct info in a format that people seem to like. 
+Two very legitimate comments were made on this. Peter said, if we give
+this more palatable format (the +/- figures) 
+only for SRES data would it not implicitly give it
+too much attention? Linda said: why not present similar plots for the 
+IS92 data? The obvious action which would address both of these concerns is
+to present similar plots for the IS92 data. This is certainly an option.
+The only problem I see is that I think the clear separation of published and 
+unpublished results would be lost if we put it in the BOX. The alternative
+is to do those figures and put them in 10.3, leaving the SRES for the BOX. 
+This could be a good option, although it might require significant effort. 
+All and all, I am still in favor of an SRES-only box with a clear statement 
+up front that gets us off the hook in case of problems (you can see it
+as a sort of disclaimer I guess).
+So let's come to the next point: we need to decide on this and soon. The
+best way appears to be a conference call. Linda suggested thursday, which
+is fine with me. It now looks like Richard cannot organize this. So Linda
+I am afraid you are left with the organization of it. The call 
+would have to be during European-South African afternoon - US morning 
+and I am afraid I am not sure what time in Australia. problems is: Jens can
+you make it? I think Jens is the person in the group most strongly opposed
+to presenting SRES data, so it important he is in the conference call. It
+is also critical that Peter participates, given he has been the main 
+player in all this. Now here is my proposal:
+Conference call on thursday 3 p.m. Trieste-Hamburg time, which means 4 p.m. Cape
+town time, 2 p.m. Bracknell time, 9 a.m. Boulder time, 8 a.m. Fairbanks time
+and ??? Australia time. Linda is this feasible for you to organize? 
+Is this ok for all? Conbin, are you available at all?
+items of discussion: 
+Question 1): Do we do an SRES BOX with +/- figures?
+Question 2): What are the technical details (n-1 vs. n-2 model agreement,
+inclusion of outliers, threshold for large vs. small vs. no
+change both for precip change and temperature amplification 
+factor). 
+Question 3): Do we do similar figures for IS92 data which would either replace
+the current figures on IS92 in the text (I think this would be 
+perfectly acceptable since it is simply a way to present 
+in a different way published results).
+Question 4): How do we incorporate the SRES results within the current 
+executive summary 
+I hope that by thursday I will have all data to do all relevant figures. 
+I need to get CCC control and MPI-DMI data from Bruce and dig out the old
+IS92 data. If not by thursday then hopefully by friday. Once I have the 
+data I can easily directly calculate all the thresholds necessary for 
+doing the relevant figures. I will then circulate all the material to you.
+Needless to say that any data based on SRES that is circulated among us
+should NOT go any further (except for the chapter of course) until we decide 
+what to do with it (a paper or something like that).
+In the mean time, I will never tire to keep asking you to please work on
+the section revisions and let's get those out of the way.
+Cheers,  Filippo
+################################################################
+# Filippo Giorgi, Senior Scientist and Head,                   # 
+# Physics of Weather and Climate Section                       #
+# The Abdus Salam International Centre for Theoretical Physics #
+# P.O. BOX 586, (Strada Costiera 11 for courier mail)          #
+# 34100 Trieste, ITALY                                         #
+# Phone: + 39 040 2240 425                                     # 
+# Fax: + 39 040  2240 449 (or + 39 040 224 163)                #
+# email: giorgi@ictp.trieste.it                                #
+################################################################

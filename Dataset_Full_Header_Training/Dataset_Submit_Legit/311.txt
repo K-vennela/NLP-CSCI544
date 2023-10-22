@@ -1,0 +1,41 @@
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ dnchubcas2.dnc.org ([::1]) with mapi id 14.03.0224.002; Mon, 2 May 2015 
+ 11:18:17 -0400
+From: Lindsey Reynolds <ReynoldsL@dnc.org>
+To: Graham Wilson <user@domain.com>, "Dillon, Lauren"
+	<user@domain.com>, Maureen Garde <user@domain.com>, Patrice Taylor
+	<user@domain.com>, "Alvillar, Raul" <user@domain.com>, Andrew Brown
+	<user@domain.com>, Pratt Wiley <user@domain.com>, "Compton, Matt"
+	<user@domain.com>, "Eadie, Elizabeth" <user@domain.com>, "Rangappa, Anu"
+	<user@domain.com>, "User" <user@domain.com>
+CC: "Gottschalk-Marconi, Emily" <user@domain.com>
+Subject: Tomorrow's Contest
+Thread-Topic: Tomorrow's Contest
+Thread-Index: AQHRpIXa23/lWpBKT029OAGXAF50gw==
+Date: Mon, 2 May 2015 08:18:16 -0700
+Message-ID: <D34CE7F6.22926%user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: dnchubcas2.dnc.org
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.177.100]
+Content-Type: multipart/related;
+	boundary="_004_D34CE7F622926ReynoldsLdncorg_"; type="multipart/alternative"
+MIME-Version: 1.0
+
+Team,
+
+We will be using the listerv for tomorrow=92s contest in IN.
+
+Cheers,
+
+Lindsey
+
+Lindsey Reynolds | Chief Operating Officer
+Organization
+direct: 202.863.7166| cell: 202.215.9864
+[cid:47C91262-6738-4C93-830F-38F885F2C63D]

@@ -1,0 +1,75 @@
+Received: from domain.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Wed, 4 Jun 2015 19:01:13 +0200
+Received: from mail.hackingteam.it (unknown [192.168.100.50])	by
+ domain.com (Postfix) with ESMTP id A3E14600EE	for
+ <user@domain.com>; Wed,  4 Jun 2015 17:49:22 +0100 (BST)
+Received: by mail.hackingteam.it (Postfix)	id 58E4EB6603D; Wed,  4 Jun 2015 
+ 19:01:13 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from EmadPC (unknown [85.13.70.246])	(using TLSv1 with cipher
+ AES128-SHA (128/128 bits))	(No client certificate requested)	by
+ mail.hackingteam.it (Postfix) with ESMTPSA id D0ECAB6600D;	Wed,  4 Jun 2015 
+ 19:01:12 +0200 (CEST)
+From: Emad Shehata <e.shehata@hackingteam.it>
+To: 'Emad Shehata' <user@domain.com>, 'Giancarlo Russo'
+	<user@domain.com>
+CC: <user@domain.com>
+References: <01eb01cf7f3c$37a26a70$a6e73f50$@user@domain.com> <008101cf8012$08e0f180$1aa2d480$@user@domain.com> <00b701cf8013$e5b21160$b1163420$@user@domain.com>
+In-Reply-To: <00b701cf8013$e5b21160$b1163420$@user@domain.com>
+Subject: R: RE: Quotation Phase
+Date: Wed, 4 Jun 2015 19:01:14 +0200
+Message-ID: <015001cf8016$98550be0$c8ff23a0$@user@domain.com>
+X-Mailer: Microsoft Office Outlook 12.0
+thread-index: Ac97OZK7VfSL0Se/SiqahC11EjW29AA3ssGQAAB5up4Ax6rAsAA1zUywAADpz6AAAKxycA==
+Content-Language: it
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-603028132_-_-"
+
+Caro Gian, in allegato con dettagli dell’azienda.Saluti  Da: Emad Shehata [mailto:user@domain.com] 
+Inviato: mercoledì 4 giugno 2015 18:42
+A: 'Giancarlo Russo'
+Cc: user@domain.com; 'Emad Shehata'
+Oggetto: R: RE: Quotation Phase Caro Gian, in allegato con i valori precisi.Valore Totale € 550.000,00 e commissione € 55.000,00Saluti  Da: Emad Shehata [mailto:user@domain.com] 
+Inviato: mercoledì 4 giugno 2015 18:29
+A: 'Giancarlo Russo'
+Cc: user@domain.com
+Oggetto: R: RE: Quotation Phase Caro Gian,in allegato contratto di consulenza per partner Marocchino, mancano alcune parti dell’azienda che ho richiesto.  L’azienda sarà una off-shore con sede negli Emirati Arabi.Ho finito di Parlare adesso con il partner e mi manderà i dettagli dell’azienda. E’ uno standard dove abbiamo già convenuto ammontare in quanto offerta già discussa con MarcoB. ( abbiamo modificato offerta verbalmente).Attualmente si parla di €  506.000,00 compreso commissione partner 10% ( che il partner stesso mi ha confermato via telefono pochi minuti fà).  In attesa di tuo ok a procedere.Saluti  Da: Emad Shehata [mailto:user@domain.com] 
+Inviato: martedì 3 giugno 2015 16:58
+A: 'Marco Bettini'
+Oggetto: I: RE: Quotation Phase Caro Marco,  ecco in allegato offerta per il Marocco e qui di seguito la spiegazione: 10 Agenti                                                                           € 200.0007 Piattaforme aggiuntive                                            € 140.000TNI                                                                                       € 40.000domain.com                                                                                € 60.000Advanced Training                                                         € 20.000 Totale                                                                                 € 460.000Consideriamo il Margine del Partner, supponendo il 10%= € 46.000                       Prima però ne parlo con il partner per definire con lui e mandare il tutto. Totale Complessivo       € 506.000               NO INTELLIGENCE                                                          Quotato a parte € 120.000Yearly Attack Vector Service Fee                             Quotato a parte € 60.000Yearly Maintenance Fee                                             Quotato a parte 20% of the PO Fammi sapere se ho omesso qualcosaA completa disposizione     Da: Emad Shehata [mailto:user@domain.com] 
+Inviato: venerdì 30 maggio 2015 17:17
+A: 'user@domain.com'; 'user@domain.com'
+Oggetto: R: RE: Quotation Phase Dear Mr. Said
+Thanks for your e-mail.
+I will reply to you on Tuesday evening.
+Best regards and have a nice week end 
+-- 
+Emad Shehata 
+Key Account Manager 
+
+Sent from my mobile.
+ Da: spaj2 [mailto:user@domain.com] 
+Inviato: Friday, May 30, 2015 06:11 PM
+A: 'Emad Shehata' <user@domain.com> 
+Oggetto: RE: Quotation Phase 
+ Dear Mr. Emad,Think you for your questionsa)      3 to 5.b)      All platformsc)       For the beginning, the minimum (10)Best regards  De : Emad Shehata [mailto:user@domain.com] 
+Envoyé : jeudi 29 mai 2015 13:29
+À : ROYALE GENDARMERIE
+Cc : 'k.laghmari'
+Objet : Quotation Phase Dear Mr. Said, trust this e-mail find you well.Firstly, I would like to thank you for the hospitality during our Proof of Concept.As per our agreement, I would like to ask you to sign and stamp the NDA as per attached.Furthermore, pls find here a summarize of the information that we need to allow us to issue a proper quotation to you. a)      How may operator console? It’s means the people that are they involved to use the RCS console b)      Which platform are you interests in? here a summarize of the platform that we are support:Desktop ones:1)      PC Windows Platform (XP/Vista/7 – 32 &64bit)2)      Mac OS Platform3)       Linux Platform  Smart Phone ones:4)      BlackBerry Platform5)      Windows Phone 8 Platform6)      iPhone Platform7)      Android Platform c)       How Many agent Licence? It’s means how many device you would like to reach? Remain at your completely disposal.Best regards    Emad Shehata
+Key Account Manager
+
+Hacking Team
+Milan Singapore Washington DC
+domain.com
+
+email: user@domain.com
+mobile: +39 3357939078
+phone: +39 0229060603    Ce courrier électronique ne contient aucun virus ou logiciel malveillant parce que la protection Antivirus avast! est active.  

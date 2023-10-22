@@ -1,0 +1,64 @@
+Received: from domain.com (146.215.230.104) by
+ domain.com (43.130.141.78) with Microsoft SMTP Server id
+ 8.3.264.0; Tue, 4 Feb 2015 12:01:41 -0800
+Received: from domain.com ([160.33.194.231])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s14K1e1h024292	for <user@domain.com>; Tue, 4 Feb 2015 
+ 20:01:40 GMT
+Received: from mail60-am1-domain.com (mail-domain.com
+ [213.199.154.200])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s14K1dA6032234
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Tue, 4 Feb 2015 20:01:40 GMT
+Received: from mail60-am1 (localhost [127.0.0.1])	by mail60-am1-domain.com
+ (Postfix) with ESMTP id 445A536018D	for <user@domain.com>; Tue,  4
+ Feb 2015 20:01:39 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:199.59.150.99;KIP:(null);UIP:(null);IPV:NLI;H:spruce-goose-bd.twitter.com;RD:spruce-goose-bd.twitter.com;EFVD:NLI
+X-SpamScore: 4
+X-BigFish: vps4(zz9371Ic89bhc616hd772he0eahc857hzz1f42h2148h208ch1ee6h1de0h1fdah2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6hzz1730fah177df4h17326ah8275bh1bc7b9h8275dh1de097h186068h172c6chb64e9k1ce121iz2fh5fh2a8h839ha12hd25h1288h12a5h12bdh137ah13eah1441h14ddh1504h1537h153bh162dh1631h1758h18e1h1901h1946h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1fe8h1ff5h20f0h2216h22d0h2336h2438h2461h2487h24d7h2516h214ai1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail60-am1: domain of bounce.twitter.com designates 199.59.150.99 as permitted sender) client-ip=199.59.150.99; user@domain.com; helo=spruce-goose-bd.twitter.com ;.twitter.com ;
+Received: from mail60-am1 (localhost.localdomain [127.0.0.1]) by mail60-am1
+ (MessageSwitch) id 1391544096973137_29176; Tue,  4 Feb 2015 20:01:36 +0000
+ (UTC)
+Received: from domain.com (unknown [10.3.201.235])	by
+ mail60-domain.com (Postfix) with ESMTP id C8166380210	for
+ <user@domain.com>; Tue,  4 Feb 2015 20:01:36 +0000 (UTC)
+Received: from spruce-goose-bd.twitter.com (199.59.150.99) by
+ domain.com (10.3.207.102) with Microsoft SMTP Server (TLS) id
+ 14.16.227.3; Tue, 4 Feb 2015 20:01:34 +0000
+DKIM-Signature: v=1; a=rsa-sha1; d=twitter.com; s=dkim-201303; c=relaxed/relaxed;
+	q=dns/txt; user@domain.com; t=1391544092;
+	h=From: Twitter <info@twitter.com>
+	bh=hgJ9ZBzSs5M3sOxJhVBi4ZBqn3U=;
+	b=bo2/jyv2eym0kAg/qVcRl7yPvYIoHg5t8kTft/4yCn+xoKJMHrBVs0zAkzURcjCm
+	UywCpx2GX6OD3hDcPjYWm8lE1N+vuThtD8luVaQQiijPkitw8PiSPVAbv8QKwh9O
+	+fxdWRRlUhGVflWubfU9BMiSDQLQSH7vebwLHWp2Zz0=;
+X-MSFBL: YW15X3Bhc2NhbEBzcGUuc29ueS5jb21Ac21mMS1iZHEtMjMtc3IxLUV2ZXJ5dGhp
+	bmcuMTk5QEV2ZXJ5dGhpbmdAYW15X3Bhc2NhbFxAc3BlLnNvbnkuY29tXEA4NVxA
+	ODMwMzExODNcQDBcQGZjMTVlOWY2OTJmNjllZTNlZTIwODViZDA3MjNiOTQ3Zjkw
+	OWQ0Nzk=
+Date: Tue, 4 Feb 2015 20:01:32 +0000
+From: Twitter <info@twitter.com>
+To: Amy Pascal <user@domain.com>
+Subject: Spider-Man retweeted a photo from Ellie Hall on Twitter!
+Precedence: Bulk
+Message-ID: <7user@domain.com>
+Return-Path: user@domain.com
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+<<link>>+21+20140203
+        <<link>>+21+20140203                     Amy Pascal,     
+Here's a photo that was just shared on Twitter.         
+
+                 Go to Twitter           
+
+
+
+
+                  <<link>>+20+20140203&t;=1               
+
+

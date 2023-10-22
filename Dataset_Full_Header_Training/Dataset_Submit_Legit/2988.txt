@@ -1,0 +1,93 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Fri, 6 May
+ 2015 14:14:04 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Fri, 6 May 2015 
+ 14:14:03 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 901154797
+ for user@domain.com; Fri, 06 May 2015 13:14:01 -0500
+X-Note-AR-ScanTimeLocal: 5/6/2016 1:14:00 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:69.25.74.172 DOM:domain.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 100
+X-GBUdb-Analysis: 0, 69.25.74.172, Ugly c=0.646227 p=-0.886578 Source Normal
+X-Signature-Violations: 100-5941377-9626-10347-m
+	100-5941377-0-11942-f
+X-Note-419: 15.6231 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/6/2016 1:13:57 PM
+X-Warn: WEBBUG
+X-Warn: OPTOUT
+X-Warn: BULKMAILER
+X-Warn: RETURNPATH Return Path not a valid Email
+X-Warn: WEIGHT10
+X-Note: Spam Tests Failed: WEBBUG, OPTOUT, BULKMAILER, RETURNPATH, WEIGHT10
+X-Country-Path: ->PRIVATE->United States->
+X-Note-Sending-IP: 69.25.74.172
+X-Note-Reverse-DNS: mta-dock-front-1.domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G281 G286 G374 G376 G384 G398 G399 G580 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from mta-dock-front-1.domain.com ([69.25.74.172] verified)
+  by domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id
+ 137511234 for user@domain.com; Fri, 06 May 2015 13:14:00 -0500
+Received: from domain.com (unknown [10.0.200.60])	by
+ mta-dock-front-1.domain.com (Postfix) with ESMTP id 3r1fzn309TzyQ2
+	for <user@domain.com>; Fri,  6 May 2015 18:13:57 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=domain.com; s=bsdkey; t=1462558437;
+	bh=5gByvDhHuC3Gwrx/BGp9xdmYFenj73fi7piJdArGjyU=;
+	h=Date:To:From: "Jim Doyle, Business Forward" <info@businessfwd.org>
+	b=C/F17fNQTA4rYwbxna017DaLskZQi58mE6+FpYC5+z2F39upOE1hrRiTCJZpbOSyf
+	 VkplMDYdqkWf4Ly5YfiqF3Kt4s28aLcaqufEe688Gae7AqbspMjTZIJ0KGZ+i12PsJ
+	 IyjTLI6Kvesul6oK5KMcoS6c49J4YWEVWkzI7lhI=
+Received: from phpmailer 	by domain.com with local
+ (PHPMailer);	Fri, 6 May 2015 18:13:57 +0000
+Date: Fri, 6 May 2015 18:13:57 +0000
+To: Jordan Kaplan <user@domain.com>
+From: "Jim Doyle, Business Forward" <info@businessfwd.org>
+Reply-To: <user@domain.com>
+Subject: UPDATED: CALL-IN INFO for Call with Pres. Obama
+Message-ID: <user@domain.com>
+X-Mailer: PHPMailer [version 1.71-blue_mailer]
+X-maillist-id: fad4bb8a74c1430c
+X-rpcampaign: rp_1094780
+X-maillist-guid: BxBFXA0BFUcDRFQ8VwRXVQFbCFMDAwYCVgoCAD9fVBQJBFhfIwAIV0tcQlI4VAdRVQ
+List-Unsubscribe: <<<link>>>, <mailto:user@domain.com>
+Content-Type: multipart/alternative;
+	boundary="b1_a909b34d812e1e9ae031ddfa2653663a"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+=20
+Jordan,=20
+
+If you are having issues joining the call with President Obama, please use =
+this number: 855-312-2108. This number does not need a PIN.=20
+
+Or use this information to join the call:
+
+Dial: (855)-756-7520=20
+PIN: 31874#
+
+Thanks,
+
+Jim Doyle
+President, Business Forward
+
+Did a friend forward you this email? Sign up to get updates from Business =
+Forward.
+
+<<link>>
+

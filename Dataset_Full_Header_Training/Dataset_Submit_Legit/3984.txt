@@ -1,0 +1,143 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 11 May
+ 2015 15:12:11 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 11 May 2015 
+ 15:12:06 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 909818966
+ for user@domain.com; Wed, 11 May 2015 14:12:12 -0500
+X-Note-AR-ScanTimeLocal: 5/11/2016 2:12:07 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @catherinecortezmasto.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 209.85.213.176
+X-Note-Reverse-DNS: mail-ig0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mail-ig0-domain.com ([209.85.213.176] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 138056155
+ for user@domain.com; Wed, 11 May 2015 14:12:07 -0500
+Received: by mail-ig0-domain.com with SMTP id lr7so40745041igb.1
+        for <user@domain.com>; Wed, 11 May 2015 12:12:07 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=catherinecortezmasto-domain.com; s=20150623;
+        h=mime-version:date:message-id:subject:From: Cortez Masto Press <press@catherinecortezmasto.com>
+        bh=O3tfkO+rxB0AWNczeQvLN9NLUJIpCZEO6zLjnIjxlB0=;
+        b=W4/QM0VUaEdipcktfBYqTOxxaGfiUlPl8fR84XxxF5sjN/FhUsOyG2wdPzCKNNTKEU
+         6x3Du6B5Sq3OByadMm043EsLSqv426xWXlSZXuxFC+4r/W77pgB+/O1uL5SEBNUbBfkz
+         wGm5zfrzWSmliyUwEtd9eCN3qIlU5MS+//ClFpDa5k7+OWXzLaWAd84b5KbPwN884YIZ
+         2eBlqkGsnHwRDdIzZDUDQ/F/XefOW6cA0E1Fk0MnNHnEvjBgC92Ko5SVDrTBNgs1Jb+L
+         JUj+iwLM+dz5QjxbHEwj/sXvLM30qLt0Y9+URqeoF+OHV48MJbGaF0kydPm+zhy4PDdv
+         enqQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:date:message-id:subject:From: Cortez Masto Press <press@catherinecortezmasto.com>
+        bh=O3tfkO+rxB0AWNczeQvLN9NLUJIpCZEO6zLjnIjxlB0=;
+        b=GU6MpCQPx0xmWXkBcJXhO05zGzKBZxhugd10O8zAicu1e5DKJXCmFxCpOpX1VZ03cW
+         ra8C/ZtqwRWD9IvWht5Ucq4wltp3pP3f+NHrvKkVpE/WXDzxncxYdtO7A6A21pLdvBvt
+         F9yjYQBhyVxEDHDyfpE8U/RbDtA5YNzLw6c0tZPeiyb0EcH7cDyQYuKB9Fnys0/8zD8E
+         IxRgBORhli8bxEVBQ3nMr6N+w3sdtIZrbTMd0xRx8kCCEbxu7F+ZXMr2dEp1iCii3yvI
+         ynrfubHZHSGkiOhY0/XZRNLjyFe8hZNM5lCtt4eJUMBPSliE7oEsWy2wg4CepNwNtKX7
+         qCvQ==
+X-Gm-Message-State: AOPr4FXbSjPQlf84907QxavpMVR8KwJQ4bDGuhVB98bggRb/I8gJb39pj2mTWiBPG3l+PKyVSWjcc8oNUaUu/A==
+X-Received: by 10.50.29.73 with SMTP id i9mr4976665igh.32.1462993926293; Wed,
+ 11 May 2015 12:12:06 -0700 (PDT)
+Received: by 10.107.41.4 with HTTP; Wed, 11 May 2015 12:12:06 -0700 (PDT)
+Date: Wed, 11 May 2015 12:12:06 -0700
+Message-ID: <user@domain.com>
+Subject: Hispanic Legislative Caucus Endorses Catherine Cortez Masto for U.S. Senate
+From: Cortez Masto Press <press@catherinecortezmasto.com>
+To: Cortez Masto Press <user@domain.com>
+Content-Type: multipart/related; boundary="047d7bd76d7a49bbea053295d168"
+BCC: <user@domain.com>
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+*For Immediate Release*
+May 11, 2015 
+
+Contact: user@domain.com
+
+Hispanic Legislative Caucus Endorses Catherine Cortez Masto for U.S. Senate
+
+Highlight her commitment to fighting for comprehensive immigration reform,
+unlike her opponents Congressman Heck and Sharron Angle who support Trump=
+=E2=80=99s
+anti-immigrant policies
+
+Las Vegas, NV =E2=80=93 This morning at the Latin Chamber of Commerce, Neva=
+da=E2=80=99s
+Hispanic Legislative Caucus announced its endorsement of former Attorney
+General Catherine Cortez Masto to be Nevada=E2=80=99s next U.S. Senator.
+
+=E2=80=9CI=E2=80=99m honored to have the support of a group that represents=
+ one of Nevada=E2=80=99s
+most critical communities,=E2=80=9D said Cortez Masto. =E2=80=9CMy grandfat=
+her emigrated
+from Mexico and it is because of his hard work that I have the opportunity
+to become Nevada=E2=80=99s next Senator, and the first Latina Senator in Am=
+erican
+history. We need to ensure that every Nevadan has the opportunity to
+succeed, regardless of where they come from, and that is what I will fight
+for in the U.S. Senate. Unfortunately, my opponents, Sharron Angle and
+Congressman Heck, support their Party=E2=80=99s anti-immigrant policies. An=
+gle and
+Congressman Heck both would end DACA and DAPA, repeal birthright
+citizenship, and both support Donald Trump. In the Senate, I will focus on
+solving problems like passing comprehensive immigration reform, and, unlike
+my opponents, I will always stand up for Nevada=E2=80=99s Latino community =
+against
+anti-immigrant extremists like Donald Trump.=E2=80=9D
+
+=E2=80=9CCatherine knows how to take on tough problems and put partisan pol=
+itics
+aside to get things done for Nevadans,=E2=80=9D said Assemblywoman Olivia D=
+iaz,
+Chair of the Hispanic Legislative Caucus. =E2=80=9CWhether it was taking on=
+ the Big
+Banks to help struggling homeowners, increasing protections for our
+seniors, or cracking down on violent criminals and sex traffickers,
+Catherine has made a career of bipartisan problem-solving. I know she will
+continue to stand up for Nevadans in the U.S. Senate and fight for the
+issues that matter to every community, especially the Hispanic community.=
+=E2=80=9D
+
+=E2=80=9CThe choice for Catherine over her opponents, Congressman Heck and =
+Sharron
+Angle, could not have been clearer,=E2=80=9D said Assemblyman Nelson
+Araujo,Vice-Chair of the Caucus. =E2=80=9CCatherine will stand up for Nevad=
+a=E2=80=99s
+growing Hispanic community, unlike Congressman Heck and Sharron Angle, who
+support an anti-immigrant, xenophobe, Donald Trump, to be the next
+President of the United States. Just like Donald Trump,. Congressman Heck
+and Sharron Angle would push policies that would tear immigrant families
+apart and keep millions in the shadows. We need leaders who will reject
+Donald Trump and his policies, not Congressman Heck or Sharron Angle who
+support Trump=E2=80=99s anti-immigrant agenda.=E2=80=9D
+
+=E2=80=9CWhen I founded this caucus 10 years ago, I was one of 3 Hispanics =
+in the
+Nevada State Legislature -- today, we have tripled that number -- and have
+the opportunity to elect the first Latina U.S. Senator in American
+history,=E2=80=9D said Mo Denis, founder of the Hispanic Legislative Caucus=
+. =E2=80=9CI=E2=80=99m
+honored to be standing here today with my fellow Legislators to announce
+our support for Catherine and our commitment to electing her as Nevada=E2=
+=80=99s
+next U.S. Senator.=E2=80=9D
+
+###

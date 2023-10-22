@@ -1,0 +1,13 @@
+ADP Security Management Update
+Reference ID: 34114
+Dear ADP Client July 2012
+This message is to inform you of the upcoming “Phase 2” enhancement to ADP Security Management (formally ADP Netsecure). This is where you manage your users’ access to ADP’s Internet services, and includes the self-service registration process.
+Effective July 25th, ADP Security Management will reflect a new user interface. This will include tasks such as Account Maintenance, User Maintenance, and Company Maintenance within Security Management.
+Please review the following information:
+ˇ Click here to view more details of the enhancements in Phase 2
+ˇ Complete the What’s New in Security Management Service here (Expected to take about 15 minutes)
+ˇ View the Supported Browsers and Operating Systems, listed here. These are updated to reflect more current versions to ensure proper presentation of the updated user interface. It is important to note that the new ADP Security Management is best accessed using Microsoft Internet Explorer Version 8 or Mozilla Firefox Version 3.6, at minimum.
+This email was sent to active users in your company that access ADP Netsecure with a security role of ‘security master’ or ‘security admin’. You may have other users that also access ADP Netsecure with other security roles. Please inform those users of these enhancements, noting that the above resources will have some functionality that does not apply to their role.
+As always, thank you for choosing ADP as your business partner! If you have any questions, please contact your ADP Technical Support organization.
+Ref: 0725 MSAMALONIS1@TWNSHP
+[This message and any attachments are intended only for the use of the addressee and may contain information that is privileged and confidential. If the reader of the message is not the intended recipient or an authorized representative of the intended recipient, you are hereby notified that any dissemination of this communication is strictly prohibited. If you have received this communication in error, notify the sender immediately by return email and delete the message and any attachments from your system.]

@@ -1,0 +1,34 @@
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ dnchubcas2.dnc.org ([::1]) with mapi id 14.03.0224.002; Tue, 3 May 2015 
+ 16:59:13 -0400
+From: "Crystal, Andy" <CrystalA@dnc.org>
+To: RR2 <user@domain.com>
+CC: "Haxo, Chris" <user@domain.com>
+Subject: Corker Hit
+Thread-Topic: Corker Hit
+Thread-Index: AdGlfglCOFhXdUTHSd+x+7m1a9RisQ==
+Date: Tue, 3 May 2015 13:59:13 -0700
+Message-ID: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: dnchubcas2.dnc.org
+X-MS-Has-Attach: 
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.176.187]
+Content-Type: multipart/alternative;
+	boundary="_000_F0691438AC417845A6BA92342CE019776ECB09D8dncdag1dncorg_"
+MIME-Version: 1.0
+
+This is the video Chris sent over (SCOTUS question asked around 37:25)
+
+<<link>>
+
+Q: "Can you with a straight face tell us why there shouldn't be a Senate vote now on the Supreme Court nominee the President sent up?"
+
+A: "No, very difficult for me to do that."
+
+Towards the end of his answer he also says "I have concerns about what this leads to down the road" - seemingly referring to how this would set a horrible precedent for future nominees.

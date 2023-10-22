@@ -1,0 +1,324 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Mon, 25 Apr
+ 2015 19:00:36 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Mon, 25 Apr 2015 
+ 19:00:33 -0400
+Received: from [10.87.0.110] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 879322015
+ for user@domain.com; Mon, 25 Apr 2015 18:00:37 -0500
+X-Note-AR-ScanTimeLocal: 4/25/2016 6:00:36 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:74.121.49.58 DOM:domain.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 100
+X-Signature: Too many sniffer hits, truncated list.
+X-GBUdb-Analysis: 0, 74.121.49.58, Ugly c=0 p=0 Source New
+X-Signature-Violations: 100-5946975-1841-1860-m
+	100-5819749-2096-2108-m
+	100-5819749-2306-2318-m
+	100-5819749-3725-3737-m
+	100-5819749-4364-4376-m
+	100-5819749-5419-5431-m
+	100-5819749-5553-5565-m
+	100-5946975-0-32767-f
+X-Note-419: 15.6241 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 4/25/2016 6:00:29 PM
+X-Warn: BULKMAILER
+X-Note: Spam Tests Failed: BULKMAILER
+X-Country-Path: ->United States->
+X-Note-Sending-IP: 74.121.49.58
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G280 G285 G373 G572 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from [74.121.49.58] (HELO domain.com)
+  by domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id
+ 138195872 for user@domain.com; Mon, 25 Apr 2015 18:00:36 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=spop1024; d=respectabilityusa.org;
+ h=Date:From: Jennifer Laszlo Mizrahi <Jennifer@respectabilityusa.org>
+ bh=UU3sIn7dWod41SAarCHR93EQ8xo=;
+ b=KLzIAZLCkfHH4XNMAIbWjs81T1rtRZwaECfoaK6heD8ILfCUyn1NGiCcPmj1VdYpU/2Ul3/8r/t1
+   PVY/a53AWTdRjiB85RtYsiTUe2ZmVi4o+D3dmz7f7aaLaqyH6ckQdEIJBr4Wk8YPK4eXZnp7CTyK
+   AEZwNoSv/ATAeTmqh1M=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=spop1024; d=respectabilityusa.org;
+ b=a0JtCwPfi043WTW+IomU9ann293WAByviVJPtooIlHXiCPc/uorHKqXCik2+Ts9NgIOcRm0g++NK
+   31Xpxb2NWMpfBk8Dm9w8/6Pc370ARb3JtNc60y/vaGFpIs4cuJgs6QElmjlOq5ZsBWxRcDMXTSy9
+   ybVm0tJO/wPUnr2fGEY=;
+Received: by domain.com id h3qgp419if4k for
+ <user@domain.com>; Mon, 25 Apr 2015 23:00:34 +0000 (envelope-from
+ <user@domain.com>)
+Date: Mon, 25 Apr 2015 23:00:34 +0000
+From: Jennifer Laszlo Mizrahi <Jennifer@respectabilityusa.org>
+Reply-To: <user@domain.com>
+To: <user@domain.com>
+Message-ID: <118105103.32568421461625234249.user@domain.com>
+Subject: Disability Issues Spotlighted on Presidential Campaign Trail
+Content-Type: multipart/alternative;
+	boundary="----=_Part_19352_1098467503.1461625215833"
+x-mid: 25331684
+x-job: 25331684
+Feedback-ID: pod3_33505_25331684_783936571:pod3_33505:ibmsilverpop
+x-rpcampaign: sp25331684
+x-orgId: 33505
+List-Unsubscribe: <mailto:user@domain.com?subject=Unsubscribe>
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+To view this mail in a browser, copy <<link>>
+73.com/servlet/MailView?ms=3DMjUzMzE2ODQS1&r=3DMjI2MzE1OTQzOTEyS0&j=3DNzgzO=
+TM2NTcxS0&mt=3D1&rt=3D0 into your browser.
+Hello User!
+
+Have you felt it? There&rsquo;s a noticeable shift <<link>>
+domain.com/ctt?kn=3D21&ms=3DMjUzMzE2ODQS1&r=3DMjI2MzE1OTQzOTEyS0&=
+b=3D2&j=3DNzgzOTM2NTcxS0&mt=3D1&rt=3D0 in the content of the 2015 president=
+ial campaign as Democratic hopefuls Hillary Clinton and Bernie Sanders are =
+taking turns pushing the disability agenda &ndash; a first for any presiden=
+tial campaign.
+
+Five states - Connecticut, Delaware, Maryland, Pennsylvania and Rhode Islan=
+d - head to the polls tomorrow and candidates on both sides of the aisle ar=
+e pulling out all the stops to up their delegate counts.
+
+The disability vote can play a large part in that.
+
+Fully one-out-of-five voters Americans (56 million) has a disability and 52=
+ percent of likely voters have a loved one with a disability so if any cand=
+idate wants to be elected president of the United States, they are going to=
+ need the votes of people with disabilities. Presidential candidates need t=
+o work for all of us. They need to represent all of us.
+
+Both Clinton and Sanders were quick to complete the #PwDsVote 2015 Campaign=
+ Questionnaire. Neither of the leading Republican candidates have responded=
+ to our numerous requests to fill out the questionnaire (though Ohio Gov. J=
+ohn Kasich has answered some of the questions).=20
+
+RespectAbility is nonpartisan and does not endorse candidates. The question=
+naire is purely for educational purposes as voters go to the polls. Its gro=
+undbreaking publication, The RespectAbility Report <<link>>
+domain.com/ctt?kn=3D72&ms=3DMjUzMzE2ODQS1&r=3DMjI2MzE1OTQzOTEyS0&=
+b=3D2&j=3DNzgzOTM2NTcxS0&mt=3D1&rt=3D0, covers the intersection between pol=
+itics and disability, and has covered 100 percent of the candidates on both=
+ sides of the aisle. Their reporters are people with disabilities themselve=
+s, and people who care deeply about disability issues.=20
+
+Please take a look at some recent coverage of the candidates on a variety o=
+f disability issues from subminimum wage to the Disability Integration Act =
+and more.Thanks,
+
+Jennifer Laszlo Mizrahi
+President, domain.com
+Publisher, domain.com <<link>>
+.domain.com/ctt?kn=3D20&ms=3DMjUzMzE2ODQS1&r=3DMjI2MzE1OTQzOTEyS0&b=3D2&j=
+=3DNzgzOTM2NTcxS0&mt=3D1&rt=3D0 State Disability Voter Guides ReleasedAs vo=
+ters prepare to head to the polls in five states tomorrow, RespectAbility r=
+eleased its state-specific Disability Voter Guides. The #PwDsVote 2015 Camp=
+aign Questionnaire was designed for people with disabilities (PwDs) and tho=
+se who love them to know where candidates stand on the issues. The question=
+naire asked all of the presidential candidates on both sides of the aisle t=
+o comment on 16 disability questions on issues relating to employment and s=
+tigma. Former Sec. of State Hillary Clinton and Sen. Bernie Sanders respond=
+ed by addressing all of the questions, and Ohio Gov. John Kasich filled out=
+ parts of the questionnaire. They each have significantly different views o=
+n the issues. Despite numerous requests in person and by phone and email, t=
+he campaigns of Sen. Ted Cruz and Republican frontrunner Donald Trump have =
+not yet filled out the questionnaire. Read More: Connecticut <<link>>
+domain.com/ctt?kn=3D60&ms=3DMjUzMzE2ODQS1&r=3DMjI2MzE1O=
+TQzOTEyS0&b=3D2&j=3DNzgzOTM2NTcxS0&mt=3D1&rt=3D0, Delaware <<link>>
+domain.com/ctt?kn=3D53&ms=3DMjUzMzE2ODQS1&r=3DMjI2MzE1OTQ=
+zOTEyS0&b=3D2&j=3DNzgzOTM2NTcxS0&mt=3D1&rt=3D0, Maryland <<link>>
+domain.com/ctt?kn=3D12&ms=3DMjUzMzE2ODQS1&r=3DMjI2MzE1OTQzO=
+TEyS0&b=3D2&j=3DNzgzOTM2NTcxS0&mt=3D1&rt=3D0, Pennsylvania <<link>>
+domain.com/ctt?kn=3D40&ms=3DMjUzMzE2ODQS1&r=3DMjI2MzE1OTQ=
+zOTEyS0&b=3D2&j=3DNzgzOTM2NTcxS0&mt=3D1&rt=3D0, Rhode Island <<link>>
+domain.com/ctt?kn=3D24&ms=3DMjUzMzE2ODQS1&r=3DMjI2MzE1O=
+TQzOTEyS0&b=3D2&j=3DNzgzOTM2NTcxS0&mt=3D1&rt=3D0=20
+ <<link>>
+1&r=3DMjI2MzE1OTQzOTEyS0&b=3D2&j=3DNzgzOTM2NTcxS0&mt=3D1&rt=3D0 Spotlight o=
+n Maryland's Senate Race:
+Democrats Edwards, Van Hollen Differ in Records on Fighting for People with=
+ DisabilitiesIn what has been described as a race centered on &ldquo;identi=
+ty politics,&rdquo; Maryland Democrats face a significant choice as they lo=
+ok to replace an icon of the U.S. Senate. Whoever wins on Tuesday will go o=
+n to fight for the right to represent all Marylanders, including the more t=
+han 300,000 working-age Marylanders who have a disability. While neither Re=
+p. Donna Edwards nor Rep. Chris Van Hollen include disability as part of th=
+eir identity, both candidates have voted for bills that domain.com people with=
+ disabilities while serving in the House of Representatives. Read More http=
+://domain.com/ctt?kn=3D22&ms=3DMjUzMzE2ODQS1&r=
+=3DMjI2MzE1OTQzOTEyS0&b=3D2&j=3DNzgzOTM2NTcxS0&mt=3D1&rt=3D0 <<link>>
+domain.com/ctt?kn=3D28&ms=3DMjUzMzE2ODQS1&r=3DMjI2MzE1O=
+TQzOTEyS0&b=3D2&j=3DNzgzOTM2NTcxS0&mt=3D1&rt=3D0 Clinton, Sanders on Submin=
+imum WageEarlier this month, Clinton and Sanders began taking turns trying =
+to one-up each other beginning with subminimum wage.
+
+&ldquo;When it comes to jobs, we&rsquo;ve got to figure out how we get the =
+minimum wage up and include people with disabilities in the minimum wage,&r=
+dquo; Clinton said in Madison, Wisconsin. &quot;When people talk about rais=
+ing the minimum wage, they don't always talk about the legal loopholes that=
+ we have in it and I want to get rid of those and I want to get rid of that=
+ for people with disabilities too.&quot; Read More <<link>>
+domain.com/ctt?kn=3D13&ms=3DMjUzMzE2ODQS1&r=3DMjI2MzE1OTQzOTEyS0&=
+b=3D2&j=3DNzgzOTM2NTcxS0&mt=3D1&rt=3D0 and Watch the Video <<link>>
+domain.com/ctt?kn=3D10&ms=3DMjUzMzE2ODQS1&r=3DMjI2MzE1OTQ=
+zOTEyS0&b=3D2&j=3DNzgzOTM2NTcxS0&mt=3D1&rt=3D0 <<link>>
+domain.com/ctt?kn=3D73&ms=3DMjUzMzE2ODQS1&r=3DMjI2MzE1OTQzOTEyS0&b=3D=
+2&j=3DNzgzOTM2NTcxS0&mt=3D1&rt=3D0 A few days later, Sanders, who had previ=
+ously called for the raise of minimum wage to $15, joined the rally call to=
+ raise the minimum wage for all workers &ndash; including people with disab=
+ilities.
+
+&ldquo;This campaign is about building on these successes so that everyone =
+in this country can enjoy the dignity and basic economic security that come=
+s from a living wage, no matter what state they live in,&rdquo; Sanders sai=
+d in a statement as Gov. Andrew Cuomo and Gov. Jerry Brown signed legislati=
+on to raise the minimum wage to $15 per hour in New York and California res=
+pectively. &ldquo;That includes ending the subminimum wage for tipped worke=
+rs and persons with disabilities.&rdquo; Read More <<link>>
+domain.com/ctt?kn=3D46&ms=3DMjUzMzE2ODQS1&r=3DMjI2MzE1OTQzOTEyS0&=
+b=3D2&j=3DNzgzOTM2NTcxS0&mt=3D1&rt=3D0 and Watch a Video <<link>>
+domain.com/ctt?kn=3D77&ms=3DMjUzMzE2ODQS1&r=3DMjI2MzE1OTQzO=
+TEyS0&b=3D2&j=3DNzgzOTM2NTcxS0&mt=3D1&rt=3D0 of Sanders calling for the end=
+ of discrimination against all people. <<link>>
+7273.com/ctt?kn=3D74&ms=3DMjUzMzE2ODQS1&r=3DMjI2MzE1OTQzOTEyS0&b=3D2&j=3DNz=
+gzOTM2NTcxS0&mt=3D1&rt=3D0 Focus on The Disability Integration ActSanders h=
+as signed on as a cosponsor of the Disability Integration Act (DIA) and Cli=
+nton released an official statement on her website announcing support of th=
+e bill, but none of the Republican candidates for president have stated if =
+they support the monumental bill introduced by Sen. Charles Schumer (D-NY) =
+that would greatly affect the lives of people with disabilities.
+
+&ldquo;In this campaign, I have committed to improving opportunities for pe=
+ople with disabilities to live in integrated community settings, consistent=
+ with the full promise of the Americans with Disabilities Act and the Supre=
+me Court&rsquo;s historic Olmstead decision,&rdquo; Clinton said in an offi=
+cial statement earlier this month. &ldquo;As President, I am committed to e=
+nsuring that these promises are fulfilled. That is why I support the Disabi=
+lity Integration Act.&rdquo; Read More <<link>>
+7273.com/ctt?kn=3D58&ms=3DMjUzMzE2ODQS1&r=3DMjI2MzE1OTQzOTEyS0&b=3D2&j=3DNz=
+gzOTM2NTcxS0&mt=3D1&rt=3D0=20
+
+Later that day, Sanders signed on as a cosponsor of the DIA, which will ens=
+ure that people in need of long-term services and supports such as personal=
+ care attendants can receive these services while living at home or in the =
+community instead of in an institutionalized setting if they wish to do so.=
+ Studies have shown that it is more cost effective to do so than to live in=
+ institutionalized settings such as nursing homes where people with disabil=
+ities can no longer participate and contribute to society by working and pa=
+ying taxes. Read More <<link>>
+=3D1&ms=3DMjUzMzE2ODQS1&r=3DMjI2MzE1OTQzOTEyS0&b=3D2&j=3DNzgzOTM2NTcxS0&mt=
+=3D1&rt=3D0=20
+
+Then, Kasich was approached by members of ADAPT who asked the governor to a=
+nswer if he supports the DIA. &ldquo;We have worked aggressively to get peo=
+ple out of these institutions and in the community, and in the course of do=
+ing that, by the way, you get criticized,&rdquo; Kasich said, without givin=
+g a yes or no answer that ADAPT was seeking. His campaign had previously se=
+nt a letter saying he does not comment on legislation. Read More <<link>>
+domain.com/ctt?kn=3D18&ms=3DMjUzMzE2ODQS1&r=3DMjI2M=
+zE1OTQzOTEyS0&b=3D2&j=3DNzgzOTM2NTcxS0&mt=3D1&rt=3D0 and Watch the Video ht=
+tp://domain.com/ctt?kn=3D33&ms=3DMjUzMzE2ODQS1&r=
+=3DMjI2MzE1OTQzOTEyS0&b=3D2&j=3DNzgzOTM2NTcxS0&mt=3D1&rt=3D0 <<link>>
+domain.com/ctt?kn=3D59&ms=3DMjUzMzE2ODQS1&r=3DMjI2MzE1O=
+TQzOTEyS0&b=3D2&j=3DNzgzOTM2NTcxS0&mt=3D1&rt=3D0 A week later, ADAPT activi=
+sts and other disability rights advocates from Texas and across the country=
+ contacted the Senate office and campaign to ask if Cruz will cosponsor the=
+ DIA, which he has yet to comment on. ADAPT activists attended Cruz's campa=
+ign event in Rochester, but the senator did not address the group. Read Mor=
+e <<link>>
+S1&r=3DMjI2MzE1OTQzOTEyS0&b=3D2&j=3DNzgzOTM2NTcxS0&mt=3D1&rt=3D0 Disability=
+ Voters Looking for More From Cruz and TrumpThe Republican frontrunners hav=
+e not paid much attention to the interests of the nation&rsquo;s largest mi=
+nority: voters with disabilities.=20
+
+If businessman Donald Trump wins the Republican nomination, the disability =
+community could see a huge contrast between the two candidates. Trump has b=
+een widely criticized for making fun of reporters with disabilities, evicti=
+ng veterans with disabilities from outside Trump Tower, and using the word =
+&ldquo;stupid&rdquo; interchangeably with &ldquo;loser&rdquo; and &ldquo;in=
+competent.&rdquo; This is despite the fact that people with intellectual di=
+sabilities can be very good at specific tasks. When he is asked a question =
+about disability issues - from employment to drug addiction to Autism - his=
+ replies often are short without any specifics. He has yet to announce his =
+specific plans on employment, education and a wide variety of other issues =
+important to people with disabilities and their families. Read More <<link>>
+domain.com/ctt?kn=3D31&ms=3DMjUzMzE2ODQS1&r=3DMj=
+I2MzE1OTQzOTEyS0&b=3D2&j=3DNzgzOTM2NTcxS0&mt=3D1&rt=3D0 and Watch the Video=
+ <<link>>
+1&r=3DMjI2MzE1OTQzOTEyS0&b=3D2&j=3DNzgzOTM2NTcxS0&mt=3D1&rt=3D0 <<link>>
+domain.com/ctt?kn=3D81&ms=3DMjUzMzE2ODQS1&r=3DMjI2Mz=
+E1OTQzOTEyS0&b=3D2&j=3DNzgzOTM2NTcxS0&mt=3D1&rt=3D0 Likewise, while Sen. Te=
+d Cruz has responded to RespectAbility's questions while on the trail and h=
+as spoken about a family member's struggles with drug addiction <<link>>
+domain.com/ctt?kn=3D8&ms=3DMjUzMzE2ODQS1&r=3DMjI2MzE=
+1OTQzOTEyS0&b=3D2&j=3DNzgzOTM2NTcxS0&mt=3D1&rt=3D0, he has not laid out any=
+ specific plans. &ldquo;When it comes to people with disabilities, I give y=
+ou my commitment,&quot; Cruz said in January. &quot;I will do everything I =
+can as president to expand their independence, to expand their ability to w=
+ork meaningfully, to empower them to have access and the ability to work an=
+d provide for themselves. I think that is a human dignity that every human =
+being should be able and is entitled to be able to experience.&quot; Read M=
+ore <<link>>
+DQS1&r=3DMjI2MzE1OTQzOTEyS0&b=3D2&j=3DNzgzOTM2NTcxS0&mt=3D1&rt=3D0 and Watc=
+h the Video <<link>>
+jUzMzE2ODQS1&r=3DMjI2MzE1OTQzOTEyS0&b=3D2&j=3DNzgzOTM2NTcxS0&mt=3D1&rt=3D0 =
+<<link>>
+&r=3DMjI2MzE1OTQzOTEyS0&b=3D2&j=3DNzgzOTM2NTcxS0&mt=3D1&rt=3D0 Until the Re=
+publican frontrunners address the disability community in a meaningful mann=
+er, in the general election, the Republican Party could cede the disability=
+ vote, despite the fact that polling shows the disability community is a sw=
+ing voter group. Read More <<link>>
+?kn=3D14&ms=3DMjUzMzE2ODQS1&r=3DMjI2MzE1OTQzOTEyS0&b=3D2&j=3DNzgzOTM2NTcxS0=
+&mt=3D1&rt=3D0 A Message To Voters with Disabilities and Those Who Care Abo=
+ut PwDs <<link>>
+zE2ODQS1&r=3DMjI2MzE1OTQzOTEyS0&b=3D2&j=3DNzgzOTM2NTcxS0&mt=3D1&rt=3D0 One =
+of the most important parts of being an American is the right to vote and t=
+he ability to vote for somebody who cares about the issues that you care ab=
+out. As a person with a disability myself, and as the parent of someone wit=
+h multiple disabilities, I know that disability issues really matter. Previ=
+ously, presidential candidates have not fully addressed these issues, so we=
+&rsquo;re very proud to be part of a large national coalition of terrific n=
+domain.com disability groups that is working to reach out to all of the presi=
+dential candidates on both sides of the aisle. Because we are all domain.com=
+ organizations, we will not be endorsing any of these candidates. We want v=
+oters who care about people with disabilities to have the information they =
+need to make the choices that they need to make so that our country can be =
+a better country for all people with disabilities, and without disabilities=
+, for the future. <<link>>
+ms=3DMjUzMzE2ODQS1&r=3DMjI2MzE1OTQzOTEyS0&b=3D2&j=3DNzgzOTM2NTcxS0&mt=3D1&r=
+t=3D0 The RespectAbility Report, a project of RespectAbility, is a nonparti=
+san political commentary on the 2015 U.S. elections with a focus on disabil=
+ity issues. RespectAbility is nonpartisan and does not endorse candidates. =
+We have covered all of the Democratic and Republican presidential hopefuls =
+and you can read more about your favorite candidate on our blog <<link>>
+domain.com/ctt?kn=3D54&ms=3DMjUzMzE2ODQS1&r=3DMjI2Mz=
+E1OTQzOTEyS0&b=3D2&j=3DNzgzOTM2NTcxS0&mt=3D1&rt=3D0.Questions? EmailLaurenA=
+@domain.com mailto:user@domain.com?subject=3D http=
+://domain.com/ctt?kn=3D79&ms=3DMjUzMzE2ODQS1&r=
+=3DMjI2MzE1OTQzOTEyS0&b=3D2&j=3DNzgzOTM2NTcxS0&mt=3D1&rt=3D0 <<link>>
+domain.com/ctt?kn=3D32&ms=3DMjUzMzE2ODQS1&r=3DMjI2MzE1O=
+TQzOTEyS0&b=3D2&j=3DNzgzOTM2NTcxS0&mt=3D1&rt=3D0   <<link>>
+domain.com/ctt?kn=3D50&ms=3DMjUzMzE2ODQS1&r=3DMjI2MzE1OTQzOTEyS0&=
+b=3D2&j=3DNzgzOTM2NTcxS0&mt=3D1&rt=3D0   <<link>>
+domain.com/ctt?kn=3D37&ms=3DMjUzMzE2ODQS1&r=3DMjI2MzE1OTQzOTEyS0&b=3D2&j=3D=
+NzgzOTM2NTcxS0&mt=3D1&rt=3D0=20
+
+ <<link>>
+1&r=3DMjI2MzE1OTQzOTEyS0&b=3D2&j=3DNzgzOTM2NTcxS0&mt=3D1&rt=3D0 <<link>>
+domain.com/servlet/OneClickOptOutServlet?m=3D2533168=
+4&r=3DMjI2MzE1OTQzOTEyS0&b=3D0&j=3DNzgzOTM2NTcxS0&mt=3D1&rt=3D0 opt out htt=
+p://domain.com/servlet/OneClickOptOutServlet?m=
+=3D25331684&r=3DMjI2MzE1OTQzOTEyS0&b=3D0&j=3DNzgzOTM2NTcxS0&mt=3D1&rt=3D0=
+=20
+

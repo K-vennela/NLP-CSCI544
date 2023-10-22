@@ -1,0 +1,120 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 25 May
+ 2015 08:03:40 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 25 May 2015 
+ 08:03:37 -0400
+Received: from [10.87.0.110] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 933734998
+ for user@domain.com; Wed, 25 May 2015 07:03:35 -0500
+X-Note-AR-ScanTimeLocal: 5/25/2016 7:03:47 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @politico.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->
+X-Note-Sending-IP: 68.232.198.10
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from [68.232.198.10] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 143846367
+ for user@domain.com; Wed, 25 May 2015 07:03:46 -0500
+Received: by domain.com id h8ma9c163hs9 for <user@domain.com>; Wed,
+ 25 May 2015 06:03:21 -0600 (envelope-from
+ <user@domain.com>)
+From: Morning Money <morningmoney@politico.com>
+To: <user@domain.com>
+Subject: =?UTF-8?B?UE9MSVRJQ08ncyBNb3JuaW5nIE1vbmV5OiBXYXJyZW4gcmlwcyBp?=
+ =?UTF-8?B?bnRvIFRydW1wIOKAlCBQT0xJVElDTyBhdCB0aGUgY29udmVudGlvbnMg4oCU?=
+ =?UTF-8?B?IENFSSBvbiBpbmNvbWUgaW5lcXVhbGl0eSDigJQgQnVkZ2V0IENvbW1pdHRl?=
+ =?UTF-8?B?ZSByaXBwZWQ=?=
+Date: Wed, 25 May 2015 06:03:21 -0600
+List-Unsubscribe: <mailto:user@domain.com>
+Reply-To: POLITICO subscriptions
+	<user@domain.com>
+x-job: 1376319_5457769
+Message-ID: <8488user@domain.com>
+Content-Type: multipart/alternative; boundary="WlGyXpEZVKd3=_?:"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+By Ben White | 05/25/2016 08:00 AM EDT
+
+WARREN RIPS INTO TRUMP - Sen. Elizabeth Warren on Tuesday night cranked up her general election rhetoric against Donald Trump. A VP warm-up act? Maybe. But even if Warren isn't Hillary Clinton's running mate she will be a powerful surrogate throughout the campaign.
+
+Highlights: "Donald Trump was drooling over the idea of a housing meltdown - because it meant he could buy up a bunch more property on the cheap. What kind of a man does that? Root for people to get thrown out on the street? ... I'll tell you exactly what kind - a man who cares about no one but himself. A small, insecure moneygrubber who doesn't care who gets hurt, so long as he makes some money off it. What kind of man does that? A man who will NEVER be President of the United States.
+
+"Sometimes Trump claims he is tough on Wall ... But now he's singing a very different song. Last week, he said that the new Dodd-Frank financial regulations have, and I'm quoting here, 'made it impossible for bankers to function' and he will put out a new plan soon that 'will be close to dismantling Dodd-Frank.' Donald Trump is worried about helping poor little Wall Street? Let me find the world's smallest violin to play a sad, sad song." 
+
+MORE WARREN ACTION - POLITICO's Zachary Warmbrodt: "Earlier in the day, [Warren] gave a speech to a roomful of her allies at an event kicking off a 'Take On Wall Street' campaign backed by labor and public interest groups - including officials who are on opposing sides of the Clinton-Sanders primary fight. A goal of the campaign is to drum up support for reining in the finance industry, including reinstating Depression-era restrictions on banks - a signature policy of Warren and Sanders, but one that Clinton has declined to adopt" <<link>>
+
+POLITICO AT THE CONVENTIONS - Live programming originating from the POLITICO Hub during both the Republican and Democratic National Conventions this July will feature a range of conversations from headline interviews and policy discussions to watch parties and performances. Sign up to receive notifications about live programming. MM will be hosting economic panels at each convention. <<link>>
+
+FIRST LOOK: CEI ON INCOME INEQUALITY - CEI has a report out Wednesday on income inequality, arguing that it's "wrong to focus on the ratio between the haves and have nots instead of real solutions that improve people's lives." <<link>>
+
+FIRST LOOK II: BUDGET COMMITTEE RIPPED - Qorvis' Stan Collender in opening remarks prepared for a House Budget Committee hearing this morning on "Reclaiming Congressional Authority Through The Power Of The Purse": "The premise of this hearing is that the White House has seized control over the budget and usurped Congress' power of the purse. This is completely false. The White House has not seized control over spending and taxing. Instead, Congress has willfully and shamefully ceded its fiscal powers by refusing to exercise them and any attempt to characterize it differently is nothing more than political misdirection.
+
+"Actually, saying that Congress has abrogated its power-of-the-purse duties gives it way too much domain.com. In reality, the House and Senate have been running away almost at full speed from their legally required budget responsibilities, and they have been doing it with impunity. How else can you characterize this committee's refusal to hold a hearing earlier this year on the president's budget?" 
+
+TRUMP PAID LOWEST RATE POSSIBLE - WSJ's Byron Tau: "Trump's campaign manager said Tuesday that the businessman and presumptive Republican presidential nominee aggressively took deductions to pay the lowest income-tax rate possible so he could pump the tax savings back into hiring more people for his businesses. 
+
+"Corey Lewandowski told CBS News Mr. Trump would publicly release his tax returns when the Internal Revenue Service concludes an domain.com. 'Mr. Trump is proud to pay a lower tax rate, the lowest tax rate possible,' he said" <<link>>
+
+GREECE MAKES A DEAL - FT: "Greece's creditors agreed the terms on a wide-ranging deal to secure debt relief for the country, after marathon talks in Brussels ... Creditors have decided on measures to provide short, medium and long-term debt restructuring on Greece's 180 per cent debt mountain, having been locked in eleven hours of negotiations in Brussels, ending at 2am local time" <<link>>
+
+GOOD WEDNESDAY MORNING - OKC now has a commanding 3-1 lead over Golden State after another blowout win. Warriors starting to have that New England Patriots 2015 feel, dominant in the regular season, out of gas in the playoffs. Email me on user@domain.com and follow me on Twitter @morningmoneyben 
+
+THIS MORNING ON POLITICO PRO FINANCIAL SERVICES - Jon Prior on regulatory warnings about the Home Loan Banks -- and to get Morning Money every day before 6 a.m. -- please contact Pro Services at (703) 341-4600 or user@domain.com 
+
+DRIVING THE DAY - House Budget Committee hearing on the power of the purse at 9:30 a.m. ... Senate Banking has an Iran sanctions hearing at 2:30 p.m. ... Advanced goods at 8:30 a.m. expected to show domain.com of $60B.
+
+FBI/SEC PROBE CORKER - POLITICO's John Bresnahan and Anna Palmer: "The FBI and Securities and Exchange Commission are scrutinizing Tennessee GOP Sen. Bob Corker's personal finances, including stock transactions involving one of the nation's top developers of shopping centers and malls ... Corker, the chairman of the Foreign Relations Committee and potential vice presidential pick, failed to report millions of dollars in assets and income on his annual financial disclosure until the Wall Street Journal revealed the discrepancy last fall. 
+
+"In the wake of that report, Corker was forced to revise years' worth of disclosure reports. Corker denies any wrongdoing in how he has conducted his personal finances, and he declined to comment Tuesday ... Corker said his office would have a statement on the issue. A Corker spokeswoman blamed a watchdog group, Campaign for Accountability, for filing a complaint with the SEC last year that led to the current federal probe that has ensnared the Tennessee Republican" <<link>>
+
+ASIA FOLLOWS WALL STREET HIGHER - Reuters: "Asian shares jumped on Wednesday, taking cues from sharp gains in European and U.S. markets, while the dollar firmed as upbeat U.S. home sales supported the view that the economy may be strong enough for the Federal Reserve to raise interest rates in coming months. ... U.S. new home sales data on Tuesday showed a jump in April to their strongest monthly pace in more than eight years, with prices setting record highs ... 
+
+"The gains, coming on the heels of a raft of positive U.S. data and comments from various Fed officials highlighting the chance of a rate hike in June or July, helped cement the case for one in the next few months and eased investors' fears that the economy may not be resilient enough to withstand an increase in borrowing costs, however modest. ... U.S. interest rate futures are pricing in more than 60 percent chance of a rate hike by July, compared to around 20 percent about 10 days ago" <<link>>
+
+CHAOS IN NEW MEXICO - Via the Albuquerque Journal: "Albuquerque police launched smoke into a crowd of angry Trump protesters who gathered outside the convention center Tuesday evening. ... The protesters had formed a massive angry crowd outside the convention center and were hurling burning T-shirts and bottles at Albuquerque police mounted units before officers fired the smoke. ... A group of about 100 protesters forced their way through a police barricade and tried to storm Albuquerque's convention center minutes after presidential hopeful Donald Trump took the stage for his rally.
+
+"The protesters were blocked at the door, and police managed to get the barricades back up a few minutes later. The attempted siege prompted police to respond in riot gear. They arrived around 7:30 and blocked the doors to the convention center, and officers inside the center put up barricades. ... Trump began speaking to a crowd of at least 4,000 around 7:20 p.m., but was frequently interrupted by protesters in the crowd. ... Protesters tried to set fire to Trump T-shirts they stole off a vendor cart as the vendor ran from the increasingly agitated crowd." <<link>>
+
+DEPT OF RIDICULOUS COVERS - Via USAToday: "Yahoo CEO Marissa Mayer has been embattled. But religiously doomed savior? That's seems to be what the illustration on the latest cover of Variety magazine is hinting. The scene depicts Mayer, buckling to her knees while carrying a giant wooden Y. 'The End is Nigh,' the cover says. 'CEO Marissa Mayer carries Yahoo's weight on her shoulders,' the words below read. 'But with a sale on the horizon, her days are numbered - and there's no resurrection in sight." <<link>>
+
+SUMMERS ON TRUMP - Larry Summers: "[T]he possible election of 'Demagogue Donald' dwarfs congressional dysfunction as a threat to American prosperity. Beyond lunatic and incoherent budget and trade policies, Donald Trump would for the first time make political risk of the kind usually discussed in the context of Argentina, China or Russia relevant to the United States. How else to interpret threats to renegotiate debt, prosecute insubordinate publications and rip up treaties? Creeping fascism as an issue dwarfs macroeconomic policy!" <<link>>
+
+RYAN READY TO BACK TRUMP? - Bloomberg: "House Speaker Paul Ryan has begun telling confidants that he wants to end his standoff with Donald Trump in part because he's worried the domain.com has sharpened divisions in the Republican Party ... Ryan aides say nothing has been decided about a possible Trump endorsement. But Trump's campaign manager, Paul Manafort, told a small group of Republican lawmakers Thursday that he expects Ryan to endorse the party's nominee as early as this week ... 
+
+"If Ryan were to endorse Trump, the move would end a nearly unprecedented standoff between the House speaker and his party's presumptive presidential nominee, and remove the biggest remaining obstacle to Trump's efforts to unite Republicans around his campaign. In fact, Manafort told the gathering of Republican lawmakers that Ryan's endorsement would put more pressure on the party's remaining Trump holdouts to fall in line" <<link>>
+
+CRUDE HITS 7-MONTH HIGH - FT's Gregory Meyer and Mamta Badkar in New York: "US crude oil bounced to the highest level in seven months on Tuesday, as traders foresaw a decline in bloated inventories in the world's biggest petroleum consumer. Nymex July West Texas Intermediate, the benchmark for light, sweet crude, jumped as much as 2.5 per cent to $49.27 a barrel late in New York, the highest since October 2015. The move came after the American Petroleum Institute reported US crude stocks dropped by 5.1m barrels last week, suggesting an inexorable build-up may be peaking. 
+
+"More definitive stocks data from the US government were due on Wednesday morning in Washington. A Reuters poll suggested the data would show that stocks had fallen by 2.5m barrels from 541.3m barrels earlier this month. Crude has almost doubled from 12-year lows in January on the belief that the market will start to rebalance as supplies of high-cost oil decline and rising consumption by motorists and other oil users reduces a global surplus" <<link>>
+
+HP PLANS SERVICES SPIN-OFF - WSJ's Don Clark and Tess Stynes: "Hewlett Packard Enterprise Co. plans to spin off most of its technology services operations and merge them with those of Computer Sciences Corp., in an $8.5 billion transaction that marks HP Enterprise's latest adjustment to a shifting landscape that is roiling the market for corporate technology. ... HP Enterprise will shed a business that accounts for roughly 100,000 employees, or two-thirds of the Silicon Valley giant's workforce.
+
+"The deal, a blockbuster follow-up to the breakup of Hewlett-Packard Co. last fall, will create a corporate technology services specialist that will be led by Computer Sciences executives and have roughly $26 billion in annual revenue ... The remaining HP Enterprise operations will concentrate mainly on software, server systems, networking and storage hardware." <<link>>
+
+BIG CHANGES COMING TO TWITTER - NYT's Mike Isaac: "Today, this article's 140-character first paragraph forms the entirety of a Twitter post. But this will not be the case for too much longer. ... Twitter said it planned to introduce a series of changes in the coming months to make it easier for people to communicate with one another on the social media service. In particular, the modifications will loosen the 140-character domain.com of a Twitter post, a restriction that has at times stumped and infuriated people, but that has come to define the tweet as an economical and idiosyncratic form of communication.
+
+"Under the rule-bending, tagging users by their handles at the beginning of replies and adding photos, GIFs and videos will no longer count against the 140-character domain.com in tweets ... This will enable users to post longer messages with more interactive content without running afoul of the character restriction." <<link>>
+
+To view online:
+<<link>>
+ To change your alert settings, please go to <<link>> or <<link>> email was sent to user@domain.com by: POLITICO, LLC 1000 Wilson Blvd. Arlington, VA, 22209, USA
+
+To unsubscribe,<<link>>
+

@@ -1,0 +1,101 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 27 Apr
+ 2015 15:42:55 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 27 Apr 2015 
+ 15:42:49 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 883680557
+ for user@domain.com; Wed, 27 Apr 2015 14:42:56 -0500
+X-Note-AR-ScanTimeLocal: 4/27/2016 2:42:56 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:209.85.223.180 DOM:nhdp.org ADDR:user@domain.com
+X-Note: SPF: None
+X-Note-SnifferID: 100
+X-Signature: Too many sniffer hits, truncated list.
+X-GBUdb-Analysis: Unknown
+X-Signature-Violations: 100-5946664-3609-3789-m
+	100-5946664-3609-3803-m
+	100-5946662-3779-8739-m
+	100-5946664-3609-9183-m
+	100-5941377-9108-9184-m
+	100-5952969-9171-9187-m
+	100-5946664-3609-9297-m
+	100-5946664-0-11825-f
+X-Note-419: 15.6263 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 4/27/2016 2:42:56 PM
+X-Warn: WEBBUG
+X-Warn: OPTOUT
+X-Warn: BULKMAILER
+X-Note: Spam Tests Failed: WEBBUG, OPTOUT, BULKMAILER
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 209.85.223.180
+X-Note-Reverse-DNS: mail-io0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G280 G285 G373 G375 G397 G572 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from mail-io0-domain.com ([209.85.223.180] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 135313784
+ for user@domain.com; Wed, 27 Apr 2015 14:42:56 -0500
+Received: by mail-io0-domain.com with SMTP id u185so65575979iod.3
+        for <user@domain.com>; Wed, 27 Apr 2015 12:42:54 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=nhdp-domain.com; s=20150623;
+        h=From: Thomas Nuccio <tnuccio@nhdp.org>
+         :references:to;
+        bh=Gbs96l9Y7BddX+0A87qnIaMt05Ak77E1Ia6Ow4f1fMQ=;
+        b=yBz6oWleKh0fwSfQqmJ2jcHwh46FHuxpD+UKd6V6arnw5opP6lQgQQbcDNBL9z7LdC
+         pCwdO52PTK2dRSHzfbIEW4iNjEbwFb6+IYRNToqaDxBTWrqHh4YGRmGX2vGABoAldCC6
+         DkyVjqzx8wEQm2KaCnqgIiORwPwvgy/6FrVb5lupyoK9418cjgzC9LioYP7gywfMLLrI
+         Sh/6USmYE96YII9BCDHrYsrYQ7byZeKsgGaXri13KRqA6Wl82WqDf579/Pb4Frivb0Jn
+         3VczGAwt6i4EzYif7ZuL5qnD5FEbR242qyo+dvrJPnpDQs7nqsVmwDBoVADLVBtV1Wr/
+         A6Wg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:From: Thomas Nuccio <tnuccio@nhdp.org>
+         :subject:message-id:date:references:to;
+        bh=Gbs96l9Y7BddX+0A87qnIaMt05Ak77E1Ia6Ow4f1fMQ=;
+        b=F9FnkofxJbDVrHP9aQ8Oj2khef7j3NKyVfDnVKYWYmxJESUoiBagEFqBAu2KiuwQM+
+         7gyPjbcblWDbQP43G8RbDlxHnZwt9ILyVJa9jy5i8Ix1nNC+V/IfqbbS+bSpfAAoTKfu
+         hsZdbee2CH5fbH4Sa+UsMzPvs+pod/RBBzcwihdHBPMq34U1LpNLVB2f/C8Je44zjRgV
+         397rwgW8BgBmciCffnlqX8LvVuMQojDb1U2cOgNSgKc1KawrI/WXEjG+JeGW83MHu3c4
+         er9ZWb0OAGE/lguamFJINnaxiVlPSrsgTxjXWlMhfXpYf0FBjKfL87INZbWxuRx9c7mA
+         Ee2w==
+X-Gm-Message-State: AOPr4FU2JllctDFB/D+b9/JD2ZIUmjzRDz3q4hs1iISOxA86JRn6o3qY9UJ9NRqUhs3Rmg==
+X-Received: by 10.107.22.65 with SMTP id 62mr12218652iow.128.1461786174293;
+        Wed, 27 Apr 2015 12:42:54 -0700 (PDT)
+Return-Path: <user@domain.com>
+Received: from ?IPv6:2600:1009:b11c:51d1:f500:ac01:7288:449e?
+ ([2600:1009:b11c:51d1:f500:ac01:7288:449e])        by domain.com with
+ ESMTPSA id r187sm5274274iod.16.2016.04.27.12.42.52        for
+ <user@domain.com>        (version=TLSv1/SSLv3 cipher=OTHER);        Wed, 27
+ Apr 2015 12:42:52 -0700 (PDT)
+From: Thomas Nuccio <tnuccio@nhdp.org>
+Content-Type: multipart/alternative;
+	boundary="Apple-Mail-E4F6FB38-8556-40C4-B350-2D8C98E61D11"
+Content-Transfer-Encoding: 7bit
+Subject: Fwd: A Major Announcement  
+Message-ID: <user@domain.com>
+Date: Wed, 27 Apr 2015 15:42:51 -0400
+References: <01.44.11889.4user@domain.com>
+To: <user@domain.com>
+X-Mailer: iPhone Mail (13E238)
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+MIME-Version: 1.0
+
+ianapolis.=20
+
+n our website, Facebook, and Twitter accounts.=20
+
+xcited for you to be a part of it.=20
+

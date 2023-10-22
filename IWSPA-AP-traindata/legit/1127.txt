@@ -1,0 +1,91 @@
+* {
+border: none;
+}
+#outlook a {
+padding: 0;
+}
+.body{
+width: 100% !important;
+-webkit-text-size-adjust: 100%;
+-ms-text-size-adjust: 100%;
+margin: 0;
+padding: 0;
+}
+.ExternalClass {
+width:100%;
+}
+.ExternalClass,
+.ExternalClass p,
+.ExternalClass span,
+.ExternalClass font,
+.ExternalClass td,
+.ExternalClass div {
+line-height: 100%;
+}
+img {
+outline: none;
+text-decoration: none;
+-ms-interpolation-mode: bicubic;
+}
+a img {
+border: none;
+}
+p {
+margin: 1em 0;
+}
+table td {
+border-collapse: collapse;
+}
+/* hide unsubscribe from forwards*/
+blockquote .original-only, .WordSection1 .original-only {
+display: none !important;
+}
+@media only screen and (max-width: 480px){
+body, table, td, p, a, li, blockquote{-webkit-text-size-adjust:none !important;} /* Prevent Webkit platforms from changing default text sizes */
+body{width:100% !important; min-width:100% !important;} /* Prevent iOS Mail from adding padding to the body */
+#bodyCell{padding:10px !important;}
+#templateContainer{
+max-width:600px !important;
+width:100% !important;
+}
+h1{
+font-size:24px !important;
+line-height:100% !important;
+}
+h2{
+font-size:20px !important;
+line-height:100% !important;
+}
+h3{
+font-size:18px !important;
+line-height:100% !important;
+}
+h4{
+font-size:16px !important;
+line-height:100% !important;
+text-transform: capitalize;
+}
+#templatePreheader{display:none !important;} /* Hide the template preheader to save space */
+#headerImage{
+height:auto !important;
+max-width:600px !important;
+width:100% !important;
+}
+.headerContent{
+font-size:20px !important;
+line-height:125% !important;
+}
+.bodyContent{
+font-size:18px !important;
+line-height:125% !important;
+}
+.footerContent{
+font-size:14px !important;
+line-height:115% !important;
+}
+.footerContent a{display:block !important;} /* Place footer social and utility links on their own lines, for easier access */
+}
+Join Fierce and WiRL for an online webinar
+Email not displaying correctly?
+#leadfierce
+unsubscribe from our list 

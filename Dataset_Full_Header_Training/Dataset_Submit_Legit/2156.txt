@@ -1,0 +1,384 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Fri, 29 Apr
+ 2015 18:20:43 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Fri, 29 Apr 2015 
+ 18:20:32 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 888612595
+ for user@domain.com; Fri, 29 Apr 2015 17:20:43 -0500
+X-Note-AR-ScanTimeLocal: 4/29/2016 5:20:41 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @turner.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: LOCAL->United States->
+X-Note-Sending-IP: 198.2.129.129
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from domain.com ([198.2.129.129] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 137994423
+ for user@domain.com; Fri, 29 Apr 2015 17:20:41 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=domain.com;
+ h=Subject:From: =?utf-8?Q?CNN=27s=20Reliable=20Sources?= <reliablesources@turner.com>
+ bh=5jqnamfcf72MD89FXUE+NvWXNqQ=;
+ b=TQf84WA6FumFVrBaAAJVDvoLqRStJ+M2K8k7yIOTOwlhFIWKcpD3oscTJrqcZScmJlxPO8m2kYDC
+   sX5yMdbLSJn/dDcFJF682TCN79tqpA/TKKA8ybJtQ0afGCRGMmghIxPq8GTbAHYOrM93mTqh+/DS
+   wfxpxLwn21AIJEgqqr8=
+Received: from (127.0.0.1) by domain.com id h4ff3i1ohk0o for
+ <user@domain.com>; Fri, 29 Apr 2015 22:20:39 +0000 (envelope-from
+ <user@domain.com>)
+Subject: =?utf-8?Q?Business=20Insider=20secrets=3B=20Will=20Ferrell=20and=20=22Reagan=3B=22=20Joy=20Reid=27s=20new=20show=3B=20C.J.=20Gregg=20at=20the=20White=20House=3B=20Julia=20Iofee=20on=20Sunday=27s=20show?=
+From: =?utf-8?Q?CNN=27s=20Reliable=20Sources?= <reliablesources@turner.com>
+Reply-To: =?utf-8?Q?CNN=27s=20Reliable=20Sources?=
+	<user@domain.com>
+To: <user@domain.com>
+Date: Fri, 29 Apr 2015 22:20:39 +0000
+Message-ID: <47user@domain.com>
+X-Mailer: MailChimp Mailer - **CID725237252380754425eb**
+X-Campaign: mailchimp47c9040f6ff957a59bd88396e.7252372523
+X-campaignid: mailchimp47c9040f6ff957a59bd88396e.7252372523
+X-Report-Abuse: Please report abuse for this campaign here: <<link>>
+X-MC-User: 47c9040f6ff957a59bd88396e
+X-Feedback-ID: 43253633:43253633.257545:us11:mc
+List-ID: 47c9040f6ff957a59bd88396emc list <47c9040f6ff957a59bd88396e.161353.list-domain.com>
+X-Accounttype: pr
+List-Unsubscribe: <mailto:user@domain.com?subject=unsubscribe>, <<<link>>>
+Sender: CNN's Reliable Sources
+	<user@domain.com>
+x-mcda: FALSE
+Content-Type: multipart/alternative;
+	boundary="_----------=_MCPart_1313330976"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+By Brian Stelter and the CNNMoney Media team - user@domain.com (ma=
+ilto:user@domain.com)
+
+** Inside Business Insider
+------------------------------------------------------------
+Tom Kludt's in-depth look at Business Insider is a must-read. (<<link>>
+domain.com/2016/04/29/media/business-insider-staff-exodus/index.html?iid=3D=
+SF_LN&mc_cid=3D7252372523&mc_eid=3D[UNIQID])  He emails this summary:
+
+BI has been a wildly successful digital media company. It has also said go=
+odbye to a couple dozen key editorial staffers since it was sold to Axel S=
+pringer in the fall. Through conversations with current and former employe=
+es=2C I got an explanation for both.
+
+The BI newsroom mirrors the energy and temperament of its founder=2C the f=
+ormer stock analyst Henry Blodget. He often gushes about his lofty vision=
+ for the site =E2=80=93 like he did in January=2C when he circulated a mem=
+o detailing his plan for BI to reach one billion monthly visitors. And he=
+ is also known to push his staff to reach those goals =E2=80=93 like he di=
+d last year=2C when he suggested that if employees were writing five posts=
+ a day=2C perhaps they could shoot for six.
+
+All of that helps explain how the company has created such a traffic behem=
+oth; domain.com had more than 40 million unique visitors last mon=
+th=2C making it the third most visited financial news site. But it also ex=
+plains why 24 reporters and editors have left the newsroom since September=
+=2E Check out the full story here... (<<link>>
+business-insider-staff-exodus/index.html?iid=3DSF_LN&mc_cid=3D7252372523&m=
+c_eid=3D[UNIQID])
+
+** Reactions to Tom's story
+------------------------------------------------------------
+The story was quite a talker on Media Twitter today. Many=2C like CJR's Da=
+vid Uberti=2C scoffed at the pace and demands shouldered by Business Insid=
+er=E2=80=99s journalists. "At 5-6 posts a day=2C can you even think about=
+ what you=E2=80=99re writing?" Uberti tweeted. (<<link>>
+berti/status/726139513622421504?mc_cid=3D7252372523&mc_eid=3D[UNIQID])  L=
+ibby Watson=2C a staff writer at the Sunlight Foundation=2C read the piece=
+ and concluded (<<link>>
+?mc_cid=3D7252372523&mc_eid=3D[UNIQID]) that working at BI "sounds pretty=
+ miserable."
+
+On the other hand=2C the FT's John Gapper said (<<link>>
+pper/status/726100319646658561?mc_cid=3D7252372523&mc_eid=3D[UNIQID]) he=
+=E2=80=99s "never encountered a workplace that wasn't all=2C 'morale has n=
+ever been lower.'" And former BI executive editor Joe Weisenthal=2C now wi=
+th Bloomberg=2C thought (<<link>>
+31214849?mc_cid=3D7252372523&mc_eid=3D[UNIQID]) the story showcased "why=
+ Business Insider has been successful. Huge ambitions=2C intense=2C demand=
+ing operation."
+
+** #NerdProm weekend begins in DC
+------------------------------------------------------------
+Tonight: A Variety/SAG Foundation/WashPost event... The New Yorker party..=
+=2E The Hill/Extra party... the Time mag/People mag party... a late-night Fu=
+nny or Die bash... and that's just the start of the White House Correspond=
+ents Association dinner weekend. The actual dinner starts at 7:30pm tomorr=
+ow. Larry Wilmore is the performer. The parties and brunches and panels wi=
+ll continue through Sunday afternoon=2C and we'll have a full wrapup in Su=
+nday's newsletter. Between now and then=2C tune into our CNN coverage of t=
+he dinner starting at 7pm tomorrow... John Berman is hosting and I'll be p=
+opping up a couple of times in my tux... [Note to self: Must buy tux shoe=
+s tomorrow morning. Left my pair in NYC.]
+
+** The ten-year anniversary of this
+------------------------------------------------------------
+It was ten years ago=2C at the 2015 WHCD dinner=2C when Stephen Colbert de=
+livered his unforgettable... I don't know what you'd call it... Performanc=
+e? Take-down? Lecture? Media critique? Brian Lowry writes: (<<link>>
+domain.com/2016/04/29/media/stephen-colbert-white-house-correspondents-legacy/=
+index.html?iid=3DLead&mc_cid=3D7252372523&mc_eid=3D[UNIQID]) "As Colbert'=
+s experience indicates=2C it's virtually impossible to please everyone in=
+ this setting. But if people are still referencing Wilmore's speech a deca=
+de from now=2C odds are he'll have done something right..."
+
+-- Related: Here's my video about past comics at the WCHD... (<<link>>
+=2domain.com/video/media/2016/04/29/top-jokes-white-house-correspondents-dinne=
+r.cnnmoney/index.html?mc_cid=3D7252372523&mc_eid=3D[UNIQID])
+
+** Our post-game show on Sunday
+------------------------------------------------------------
+On "Reliable Sources=2C" Sunday at 11am ET=2C we'll discuss President Obam=
+a's expected jabs at the press and Larry Wilmore's performance with a pane=
+l of guests including Tammy Haddad=2C Betsy Fischer Martin and Ron Fournie=
+r. Funny or Die head writer David Litt will also join me on set in D.C. So=
+ will noted "dinner critic" Bob Garfield. He says (<<link>>
+/05/08/310794159/when-the-watchdogs-wear-tuxedos-politicians-rest-easy?mc_=
+cid=3D7252372523&mc_eid=3D[UNIQID]) the dinner and all the hoopla around=
+ it is "odd and ethically questionable..."
+-- Julia Ioffe will also join me for a live interview. If you're not famil=
+iar with what happened to her this week... The deluge of online harassment=
+ following her GQ article about Melania Trump...Get caught up here... (htt=
+p://domain.com/2016/04/29/technology/julia-ioffe-online-harassment/inde=
+x.html?mc_cid=3D7252372523&mc_eid=3D[UNIQID])
+
+** Will Ferrell and "Reagan"
+------------------------------------------------------------
+Lisa France reports: (<<link>>
+rell-ronald-reagan-movie/index.html?mc_cid=3D7252372523&mc_eid=3D[UNIQID]=
+ ) "Will Ferrell has reportedly abandoned plans to play President Reagan a=
+fter outcry over portraying the former world leader when he had dementia."=
+ Maybe the media got out ahead of Ferrell on this one? A spokesman told th=
+e NY Post=2C "The REAGAN script is one of a number of scripts that had bee=
+n submitted to Will Ferrell which he had considered. While it is by no mea=
+ns a 'Alzheimer's comedy' as has been suggested=2C Mr. Ferrell is not purs=
+uing this project."
+
+Did some of this week's media coverage misrepresent what the project reall=
+y is? I think so. THR has the must-read backstory about the script. (http:=
+//domain.com/news/will-ferrells-reagan-script-actual-888804=
+?mc_cid=3D7252372523&mc_eid=3D[UNIQID]) "It turns out 'Reagan' is actuall=
+y a good-natured and well-researched comedy that offers an 'alternate take=
+' on seismic events in American history =E2=80=94 a direct descendent of 1=
+999's 'Dick=2C' in which Kirsten Dunst and Michelle Williams play ditzy te=
+ens who unwittingly bring down Richard Nixon." Read more... (<<link>>
+domain.com/news/will-ferrells-reagan-script-actual-888804?mc_cid=
+=3D7252372523&mc_eid=3D[UNIQID])
+
+** Joy Reid taking over for Melissa Harris-Perry
+------------------------------------------------------------
+Joy Reid=2C one of the hosts who filled in for Melissa Harris-Perry during=
+ her messy domain.com from MSNBC=2C is officially taking over MHP's 10/11am Satu=
+rday/Sunday time slot on MSNBC. Her first day will be next Saturday. "Reid=
+ will tackle the most important news and political topics of the week and=
+=2C along with a rotating panel of journalists=2C will explore how these i=
+ssues shape the country=2C" the network says...
+
+** Guilty plea from Fox's "CIA operative" who wasn't
+------------------------------------------------------------
+Dylan Byers reports (<<link>>
+mmons-fox-news-cia/index.html?iid=3DSF_LN&mc_cid=3D7252372523&mc_eid=3D[U=
+NIQID]) from here in DC: Wayne Shelby Simmons=2C a recurring guest on Fox=
+ News who falsely claimed to have had 27 years of experience in the CIA=2C=
+ pleaded guilty to fraud against the government today. (<<link>>
+om/2016/04/29/media/wayne-shelby-simmons-fox-news-cia/index.html?iid=3DSF_=
+LN&mc_cid=3D7252372523&mc_eid=3D[UNIQID]) He acknowledged that there were=
+ no records or evidence that he was ever employed by the CIA...
+
+When appearing on Fox=2C Simmons was frequently called a former "operative=
+=2C" "analyst" or "officer." Fox declined to comment today since he was ne=
+ver a paid contributor=2C just a guest. "Nevertheless=2C" Dylan writes=2C=
+ (<<link>>
+index.html?iid=3DSF_LN&mc_cid=3D7252372523&mc_eid=3D[UNIQID]) "the Simmon=
+s affair has been a warning to television networks that rely on the input=
+ of outside analysts whose claims to expertise are often the result of the=
+ir own self-promotion and past media appearances..."
+
+** $31 million for Bewkes last year
+------------------------------------------------------------
+"Time Warner CEO Jeffrey Bewkes made just under $31.5 million in 2015=2C d=
+own slightly from his pay a year prior=2C as the media conglomerate saw it=
+s stock slide sharply=2C" Variety's James Rainey reports. (<<link>>
+com/2016/biz/news/time-warners-jeff-bewkes-pay-dips-slightly-to-31-5-milli=
+on-in-2015-1201763584/?mc_cid=3D7252372523&mc_eid=3D[UNIQID]) Last year:=
+ $32.9 million...
+
+-- Related: A memorable correctionin the WSJ: (<<link>>
+/facebook-revenue-soars-on-ad-growth-1461787856?mc_cid=3D7252372523&mc_eid=
+=3D[UNIQID]) "An earlier version of this article incorrectly stated Shery=
+l Sandberg=E2=80=99s compensation. The value of her total pay rose 20% to=
+ $18.7 million=2C not billion."
+For the record
+-- "She got caught up in the likes." CNNMoney's Sara Ashley O'Brien writes=
+ (<<link>>
+=2Ehtml?mc_cid=3D7252372523&mc_eid=3D[UNIQID]) about the use of Periscope t=
+o live-stream a rape... (CNNMoney (<<link>>
+ogy/livestreaming-periscope/index.html?mc_cid=3D7252372523&mc_eid=3D[UNIQ=
+ID]) )
+
+-- Univision now has 100% of Fusion and a majority stake in The Onion. So=
+ the two brands are working together on a "weekly television series based=
+ on its spinoff site The A.V. Club..." (Deadline (<<link>>
+/04/a-v-club-fusion-tv-show-1201746792/?mc_cid=3D7252372523&mc_eid=3D[UNI=
+QID]) )
+
+-- Fox News has picked up Bill O'Reilly's "Legends & Lies" series for anot=
+her two seasons... (TVNewser (<<link>>
+-legends-and-lies-returns/292214?mc_cid=3D7252372523&mc_eid=3D[UNIQID]) )
+
+** Michaela Pereira's "New Day" goodbye
+------------------------------------------------------------
+CNN's "New Day" bid a fond farewell to Michaela Pereira on this morning's=
+ show. She's about to move back to L.A. and host the late morning hours on=
+ HLN. "Thank you for making the last three years a dream=2C" Pereira said.=
+ "I=E2=80=99ll see you guys on the other side." Best moment: When she hand=
+ed Alisyn Camerota a "Cuomo survival kit." TVNewser has the highlights...=
+ (<<link>>
+wsrc%5Etfw&mc_cid=3D7252372523&mc_eid=3D[UNIQID])
+
+** Snapchat + NBC for Rio
+------------------------------------------------------------
+Frank Pallotta reports: Snapchat and NBC will partner for the 2015 Olympic=
+ games (<<link>>
+html?iid=3DSF_LN&mc_cid=3D7252372523&mc_eid=3D[UNIQID]) in Rio this summe=
+r. It's exactly what you would expect: Behind the scenes snaps leveraging=
+ NBC's access to athletes. Snapchat will have an NBC Rio Olympic Discover=
+ channel... And BuzzFeed will co-produce it...
+
+** Smartest P.R. stunt of the day
+------------------------------------------------------------
+Allison Janney=2C at the White House for a ceremony drawing attention to s=
+ubstance abuse prevention efforts=2C stepped to the White House podium tod=
+ay=2C playing her "West Wing" character C.J. Cregg. "Josh is out today=2C=
+ I believe he has a root canal=2C but let's be honest=2C I'm better at thi=
+s anyway=2C" she joked. Was she talking about Josh Earnest or "West Wing"=
+ character Josh Lyman? CNNPolitics' Julia Manchester has the story + video=
+ here... (<<link>>
+hite-house/index.html?mc_cid=3D7252372523&mc_eid=3D[UNIQID])
+
+** One story=2C special section in Sunday's NYT
+------------------------------------------------------------
+Sunday's NYT will include a 12-page special section with a single story by=
+ Sonny Kleinfield about a "woman finding her way through the early stages=
+ of Alzheimer's disease."
+
+"It's the next iteration of an idea that we first experimented with on Mar=
+ch 28 with an eight-page section featuring Dan Barry's story of a boxing m=
+atch that went horribly wrong=2C" Tom Jolly's internal memo says. "As a bo=
+nus=2C" after Barry's was published=2C advertisers reached out about it=2C=
+ and "we ended up with two full-page ads in this Sunday's section=2C plus=
+ advertising in the digital presentation..."
+-- More NYT news: Joe Kahn tweets: "Max Fisher and Amanda Taub of Vox will=
+ join NYT=2C bringing their trademark explanatory journalism to our global=
+ readers." Fisher tweets: Taub and I "are starting something new with the=
+ NYT. More to share on that soon. We=E2=80=99re honored to join..."
+
+** "Punishment" on Netflix
+------------------------------------------------------------
+Frank emails: "The Punisher=2C" the gun-toting take-no-prisoners Marvel vi=
+gilante=2Cwill get his own spinoff on Netflix. (http:// <<link>>
+om/2016/04/29/media/marvel-punisher-netflix/index.html?iid=3DSF_LN&mc_cid=
+=3D7252372523&mc_eid=3D[UNIQID]) The new series will star Jon Bernthal=2C=
+ who will reprise his role as Frank Castle. This is the sixth series to re=
+sult from the partnership between Netflix and Marvel. Read more from Frank=
+ here... (http:// <<link>>
+tflix/index.html?iid=3DSF_LN&mc_cid=3D7252372523&mc_eid=3D[UNIQID])
+
+** Following up on yesterday's scare in Baltimore
+------------------------------------------------------------
+In yesterday's newsletter I wrote about the security scare at Fox45 in Bal=
+timore. Security guard Joural Apostolides was hailed as a hero for contain=
+ing the suspect to the lobby and keeping him calm until police arrived. To=
+day Apostolides received acclaim from the police chief in Baltimore:
+In the wake of the disturbing incident=2C Poynter's Al Tompkins wisely ask=
+s: Is your newsroom prepared for an emergency? (<<link>>
+6/station-practices-for-an-emergency-on-live-tv/409246/?mc_cid=3D725237252=
+3&mc_eid=3D[UNIQID])
+
+** Hey=2C send us feedback!
+------------------------------------------------------------
+If you could change one thing about this newsletter=2C what would it be? E=
+mail your feedback to user@domain.com (mailto:user@domain.com=
+com) . We'll be back Sunday with more media news...
+You Might Like
+<<link>>
+_sendid=3D7252372523&cs_esp=3Dmailchimp&cs_offset=3D0&cs_stripeid=3D2552&m=
+c_cid=3D7252372523&mc_eid=3D[UNIQID]
+
+<<link>>
+_sendid=3D7252372523&cs_esp=3Dmailchimp&cs_offset=3D1&cs_stripeid=3D2552&m=
+c_cid=3D7252372523&mc_eid=3D[UNIQID]
+
+<<link>>
+_sendid=3D7252372523&cs_esp=3Dmailchimp&cs_offset=3D2&cs_stripeid=3D2552&m=
+c_cid=3D7252372523&mc_eid=3D[UNIQID]
+<<link>>
+il&utm_campaign=3Dcnnmoney&utm_content=3Danimatedlogo&mc_cid=3D7252372523&=
+mc_eid=3D[UNIQID]
+<<link>>
+Zofb&mc_cid=3D7252372523&mc_eid=3D[UNIQID] Share (<<link>>
+/sharer/sharer.php?u=3Dhttp%3A%2F%2domain.com%2FbZZofb&mc_cid=3D725237252=
+3&mc_eid=3D[UNIQID])
+<<link>>+Insider+secrets%3B+Will+Fe=
+rrell+and+%22Reagan%3B%22+Joy+Reid%27s+new+show%3B+C.J.+Gregg+at+the+White=
++House%3B+Julia+Iofee+on+Sunday%27s+show:&mc_cid=3D7252372523&mc_eid=3D[U=
+NIQID] http%3A%2F%2domain.com%2FbZZofb Tweet (<<link>>
+weet?text=3DBusiness+Insider+secrets%3B+Will+Ferrell+and+%22Reagan%3B%22+J=
+oy+Reid%27s+new+show%3B+C.J.+Gregg+at+the+White+House%3B+Julia+Iofee+on+Su=
+nday%27s+show:&mc_cid=3D7252372523&mc_eid=3D[UNIQID] http%3A%2F%2Feepurl.=
+com%2FbZZofb)
+<<link>>
+=3D7252372523&e=3D80754425eb Forward (<<link>>
+ard?u=3D47c9040f6ff957a59bd88396e&id=3D7252372523&e=3D80754425eb)
+Subscribe to Reliable Sources (<<link>>
+u=3D47c9040f6ff957a59bd88396e&id=3De95cdc16a9&mc_cid=3D7252372523&mc_eid=
+=3D[UNIQID])
+Get Reliable Sources=2C a comprehensive summary of the most important medi=
+a news=2C delivered to your inbox every afternoon.
+
+Tips=2C thoughts or questions are always welcome at
+** user@domain.com (mailto:user@domain.com)
+=2E
+=C2=AE =C2=A9 2015 Cable News Network=2C Inc.
+A Time Warner Company.  All Rights Reserved.
+You are receiving this message because you subscribed to
+CNNMoney's "Reliable Sources" newsletter.
+
+Our mailing address is:
+Cable News Network=2C Inc.
+Attention: Privacy Policy Coordinator
+One CNN Center=2C 13 North
+Atlanta=2C GA 30303
+
+** unsubscribe from this list (<<link>>
+?u=3D47c9040f6ff957a59bd88396e&id=3De95cdc16a9&e=3D80754425eb&c=3D7252372523=
+)
+** update subscription preferences (<<link>>
+le?u=3D47c9040f6ff957a59bd88396e&id=3De95cdc16a9&e=3D80754425eb)
+
+** Facebook (<<link>>
+=3D[UNIQID])
+** Twitter (<<link>>[=
+UNIQID])
+Reliable Sources
+
+** View this email in your browser (<<link>>
+=3D47c9040f6ff957a59bd88396e&id=3D7252372523&e=3D80754425eb)

@@ -1,0 +1,53 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.4.9])
+	by domain.com (Postfix) with ESMTP id EEDA3468F1
+	for <user@domain.com>; Tue, 10 Apr 2015 17:49:44 -0400 (EDT)
+X-Greylist: delayed 746 seconds by postgrey-1.27 at domain.com; Tue, 10 Apr 2015 17:49:44 EDT
+Received: from domain.com.au (unknown [203.38.113.162])
+	by domain.com (Postfix) with ESMTP id 0456C131FA88
+	for <user@domain.com>; Tue, 10 Apr 2015 17:49:43 -0400 (EDT)
+Received: from domain.com.au (Not Verified[192.168.100.6]) by domain.com.au with NetIQ MailMarshal 6.0 Service Pack 1a (v6,0,3,33)
+	id <B461c03ff0002>; Wed, 11 Apr 2015 07:39:11 +1000
+Received: from domain.com.au (domain.com.au [127.0.0.1])
+	by domain.com.au (8.12.8/8.12.8) with ESMTP id l3AL9MYZ027718
+	for <user@domain.com>; Wed, 11 Apr 2015 07:20:31 +1000
+Received: (from Unknown UID 944@localhost)
+	by domain.com.au (8.12.8/8.12.8/domain.com) id l3AKBUFE023551;
+	Wed, 11 Apr 2015 06:11:30 +1000
+Date: Wed, 11 Apr 2015 06:11:30 +1000
+Message-Id: <200704102011.user@domain.com>
+To: user@domain.com
+Subject: Chase Bank Service Agreement Changes
+From: Chase Online <chaseonline@email-chase.com>
+Content-Type: text/html
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1099
+
+Dear
+client of Chase Bank,
+
+Technical
+services of the Chase Bank are carrying out a planned software
+update. As part of our commitment to excellent service, we want to let you know you have to update your Chase Online Service. These changes should not impact the way you bank online today.
+
+To get
+started, please click the link below:
+
+<<link>>
+
+This
+instruction has been sent to all bank customers and is obligatory to
+fallow.
+
+Thank
+you,
+
+Customers
+Support Service.
+
+This e-mail message has been scanned and cleared by NetIQ MailMarshal 
+

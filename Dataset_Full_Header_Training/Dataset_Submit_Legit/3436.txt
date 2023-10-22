@@ -1,0 +1,68 @@
+Received: from domain.com (146.215.230.105) by
+ domain.com (43.130.141.77) with Microsoft SMTP Server id
+ 8.3.297.1; Sat, 16 Nov 2015 15:44:58 -0800
+Received: from domain.com ([160.33.194.230])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id rAGNivWd018418	for <user@domain.com>; Sat, 16 Nov 2015 
+ 23:44:58 GMT
+Received: from mail69-db8-domain.com
+ (mail-domain.com [213.199.154.180])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id rAGNiuuO027147	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128
+ verify=FAIL)	for <user@domain.com>; Sat, 16 Nov 2015 23:44:57 GMT
+Received: from mail69-db8 (localhost [127.0.0.1])	by mail69-db8-domain.com
+ (Postfix) with ESMTP id 51E66C2085F	for <user@domain.com>; Sat, 16
+ Nov 2015 23:44:56 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:205.188.109.207;KIP:(null);UIP:(null);IPV:NLI;H:omr-d08.mx.aol.com;RD:omr-d08.mx.aol.com;EFVD:NLI
+X-SpamScore: 12
+X-BigFish: vps12(z579ehzc85fhzz1f42h208ch1ee6h1de0h1ce5h1fdah201ch2073h2146h1202h1e76h1d1ah1d2ah1696nzz1de098h8275bh1de097hz2fh5fh2a8h839hd25h1060h1288h12a5h12bdh137ah139eh13eah1441h1504h1537h162dh1631h1758h1898h18e1h1946h19b5h19ceh1b0ah1bceh224fh1c07h1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1e23h1fe8h1ff5h20f0h2218h2216h1c48i8d1m1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail69-db8: domain of aol.com designates 205.188.109.207 as permitted sender) client-ip=205.188.109.207; user@domain.com; helo=omr-d08.mx.aol.com ;8.mx.aol.com ;
+Received: from mail69-db8 (localhost.localdomain [127.0.0.1]) by mail69-db8
+ (MessageSwitch) id 138464549437226_20532; Sat, 16 Nov 2015 23:44:54 +0000
+ (UTC)
+Received: from domain.com (unknown [10.174.8.240])	by
+ mail69-domain.com (Postfix) with ESMTP id 043AEDC0040	for
+ <user@domain.com>; Sat, 16 Nov 2015 23:44:54 +0000 (UTC)
+Received: from omr-d08.mx.aol.com (205.188.109.207) by
+ domain.com (10.174.4.22) with Microsoft SMTP Server (TLS) id
+ 14.16.227.3; Sat, 16 Nov 2015 23:44:53 +0000
+Received: from mtaomg-mb02.r1000.mx.aol.com (mtaomg-mb02.r1000.mx.aol.com
+ [172.29.41.73])	by omr-d08.mx.aol.com (Outbound Mail Relay) with ESMTP id
+ 91D3E70040A88	for <user@domain.com>; Sat, 16 Nov 2015 18:44:52 -0500
+ (EST)
+Received: from core-dua005c.r1000.mail.aol.com (core-dua005.r1000.mail.aol.com
+ [172.29.164.17])	by mtaomg-mb02.r1000.mx.aol.com (OMAG/Core Interface) with
+ ESMTP id 64912E000082	for <user@domain.com>; Sat, 16 Nov 2015 
+ 18:44:52 -0500 (EST)
+To: <user@domain.com>
+Subject: amy, mike fleming here. i am writing a piece on the shifting producers and
+ cofinanciers around town and paying attention to sony's 
+X-MB-Message-Source: WebUI
+X-MB-Message-Type: User
+From: <mflemingjr@aol.com>
+X-Mailer: AOL Webmail 38203-STANDARD
+Received: from 24.43.87.227 by webmail-m255.sysops.aol.com (64.12.138.236)
+ with HTTP (WebMailUI); Sat, 16 Nov 2015 18:44:52 -0500
+Message-ID: <8user@domain.com>
+X-Originating-IP: [24.43.87.227]
+Date: Sat, 16 Nov 2015 18:44:52 -0500
+x-aol-global-disposition: G
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mx.aol.com;
+	s=20121107; t=1384645492;
+	bh=ozOfZVY1Cb/iJKlcMm5HzGoRX618aS1bfB/wiOqre1E=;
+	h=From: <mflemingjr@aol.com>
+	b=iwXTROGrZblgt8zaDMSQP0SOBKKgMTWGn7VklNdmExitvX8rmFMSWMZjHPUFQSwBW
+	 8abKTD7y20D7tIijCv/hsyRhjynLFmDCnSJFrG+Dbkaldzxpzsatkf0acg20yeoG5s
+	 mnhHiSt8gw799+qklw7sP46H+XIACFYqt31mH9G8=
+x-aol-sid: 3039ac1d2949528803742c40
+Return-Path: user@domain.com
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+courtship of robinov and securing of slate funding from blue anchor. it's a basic piece, but didn't want you to be blindsided and if you wanted to speak on background, i would welcome it. hope you are well. mf
+
+user@domain.com
+

@@ -1,0 +1,61 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.4.9])
+	by domain.com (Postfix) with ESMTP id 8B317468BE
+	for <user@domain.com>; Wed, 16 May 2015 20:46:34 -0400 (EDT)
+Received: from domain.com (domain.com [71.16.41.210])
+	by domain.com (Postfix) with ESMTP id 7766B131F9DF
+	for <user@domain.com>; Wed, 16 May 2015 20:46:34 -0400 (EDT)
+Received: from User [210.96.34.253] by domain.com with ESMTP
+  (SMTPD-8.20) id A5D0042C; Wed, 16 May 2015 20:46:08 -0400
+Reply-To: <user@domain.com>
+From: "service@paypal.com"<service@paypal.com>
+Subject: Limited Account Access Appeal Denied
+Date: Thu, 17 May 2015 09:45:52 +0900
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <200705162046569.user@domain.com>
+X-Declude-Sender: user@domain.com [210.96.34.253]
+X-Declude-Spoolname: Da5cf02890000d3a8.smd
+X-Declude-RefID: 
+X-Declude-Note: Scanned by Declude 4.3.46 for spam. "<<link>>"
+X-Declude-Scan: Score [0] at 20:46:24 on 16 May 2015 
+X-Declude-Fail: Whitelisted
+X-Country-Chain: 
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1269
+
+ Western 
+    Union 
+Dear Sir / Madam,
+For 156 years, 
+    Western Union has been connecting people. At Western Union, there's 
+    so much more than money you're sending. Every sender and receiver is 
+    important to us. To celebrate our 156th anniversary, we're rewarding our 
+    customers with 156 prizes of $2000 each. Because you sent money on-line, from an agent location or 
+    received money through Western Union, you've been selected!
+
+To be eligible to win the prize, go to 
+<<link>>  - sign in 
+    and verify your identity.
+If you do not have an account with us, you 
+    can register one now: 
+<<link>>
+You will be contacted by phone by a Western Union representative in the 
+    next 24 hours and you will receive the $2000 prize in less than 3 business 
+    days. Your personal and billing information is required for receiving the 
+    money directly to your bank account.
+Save time, send money, earn rewards! Western Union is a service people 
+    trust.
+Thank you for using westernunion!
+-----------------------------------------------------

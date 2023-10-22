@@ -1,0 +1,33 @@
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ dnchubcas2.dnc.org ([::1]) with mapi id 14.03.0224.002; Mon, 25 Apr 2015 
+ 18:15:48 -0400
+From: "Manriquez, Pablo" <ManriquezP@dnc.org>
+To: "User"
+	<user@domain.com>, "Walker, Eric" <user@domain.com>
+Subject: Request - DWS//MORNING JOE//3 MAY
+Thread-Topic: Request - DWS//MORNING JOE//3 MAY
+Thread-Index: AQHRn0AEvzVoDkr4KkSD+ZtWKcXa3Q==
+Date: Mon, 25 Apr 2015 15:15:47 -0700
+Message-ID: <60user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: dnchubcas2.dnc.org
+X-MS-Has-Attach: 
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.177.239]
+Content-Type: multipart/alternative;
+	boundary="_000_60A77AA6E0BA4EF384DF9F42CE5CBF15dncorg_"
+MIME-Version: 1.0
+
+Details to follow Monday. Sending calendar hold.
+
+Pablo Manriquez
+Organization
+Phone: 202.572.5488
+Email: user@domain.com<mailto:user@domain.com>
+web: domain.com<<<link>>>
+Twitter: @Pablo_DNC
+

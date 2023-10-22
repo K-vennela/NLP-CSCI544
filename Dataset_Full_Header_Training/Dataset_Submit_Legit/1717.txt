@@ -1,0 +1,610 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 27 Apr
+ 2015 05:41:14 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 27 Apr 2015 
+ 05:41:07 -0400
+Received: from [10.87.0.110] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 882091295
+ for user@domain.com; Wed, 27 Apr 2015 04:41:14 -0500
+X-Note-AR-ScanTimeLocal: 4/27/2016 4:41:14 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:68.232.197.141 DOM:domain.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 100
+X-GBUdb-Analysis: 0, 68.232.197.141, Ugly c=0.184641 p=-1 Source Normal
+X-Signature-Violations: 100-5819748-1132-1154-m
+	100-5950968-1327-1359-m
+	100-5948747-1328-1359-m
+	100-5944977-23096-23126-m
+	100-5819748-0-32343-f
+X-Note-419: 46.8749 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 4/27/2016 4:41:08 AM
+X-Warn: COMMENTS HTML Comments found in Message Body
+X-Warn: BULKMAILER
+X-Note: Spam Tests Failed: COMMENTS, BULKMAILER
+X-Country-Path: ->United States->
+X-Note-Sending-IP: 68.232.197.141
+X-Note-Reverse-DNS: mta.email.bostonglobe.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G280 G285 G340 G373 G572 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from [68.232.197.141] (HELO mta.email.bostonglobe.com)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 138482583
+ for user@domain.com; Wed, 27 Apr 2015 04:41:14 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=200608; d=email.bostonglobe.com;
+ h=From: BostonGlobe.com <newsletters@email.bostonglobe.com>
+ bh=dmWTCXhIkkErQLtyNHqKOGdYsyM=;
+ b=niGn7VoHPEqSenyBhWhc0nCZLCjBlHvV6c5LDqtGg7QmsrxSe1sv9V4gvY/5l9I4swK59GiNxMb3
+   O3HVBZi0jQujRfp69szoO+bIrMb8T8sJaxz6tOBQ9gLsG/WkT8oOhepHmSUkj4lAu7S2BjxRF5Fz
+   ArGaAohKY8p/QczEQB8=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=200608; d=email.bostonglobe.com;
+ b=UBP2M9J06H1sVFu9sq0ETEGSVrhXzY6niC4/OPWS2GEDyNjba435eh9vP4Dd+7FkGQNTL7i4XMcn
+   i/IPzZpmrgCENi2w+aDL1+Ei5VrN0fVI2f7LDvmP3DJXKGdTLBDwPIJl1Tm5mV1vqukUH+s5B/Pj
+   1BtogaUonDq00Tay+hc=;
+Received: by mta.email.bostonglobe.com id h424jg163hsp for <user@domain.com>;
+ Wed, 27 Apr 2015 03:41:12 -0600 (envelope-from
+ <user@domain.com>)
+From: BostonGlobe.com <newsletters@email.bostonglobe.com>
+To: <user@domain.com>
+Subject: Today's headlines from The Boston Globe
+Date: Wed, 27 Apr 2015 03:41:11 -0600
+List-Unsubscribe: <mailto:user@domain.com>
+Reply-To: Today's Headlines
+	<user@domain.com>
+x-job: 10839380_35369872
+Message-ID: <user@domain.com>
+Content-Type: multipart/alternative; boundary="domain.com=_?:"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+To view this email as a web page, go to the link below, or copy and paste it into your browser's address window.
+<<link>>'s Headlines
+
+Today's Headlines
+To ensure you receive your domain.com e-mails, please add 
+mailto:user@domain.com 
+user@domain.com  to your address book.
+
+If you have trouble reading this e-mail, go to 
+<<link>> 
+<<link>> .
+
+<<link>> 
+Today's headlines
+04/27/2016
+
+<<link>> 
+Today's Paper 
+<<link>> 
+Metro 
+<<link>> 
+Opinion 
+<<link>> 
+Sports 
+<<link>> 
+Comics 
+<<link>> 
+Crossword 
+
+/todayspaper?s_campaign=email_BG_TodaysHeadline 
+Page one
+
+
+
+<<link>> 
+Trump calls himself &#';presumptive nominee&#'; after primary wins
+
+<<link>> 
+
+<<link>> 
+Trump won by comfortable margins in each of the five East Coast states and is now in a commanding role with just 10 states left to vote. 
+
+
+
+
+<<link>> 
+With near shutout, Clinton edges closer to the nomination
+
+<<link>> 
+
+<<link>> 
+However, Bernie Sanders&rsquo; R.I. victory is a reminder that Hillary Clinton has yet to persuade a fractured party to coalesce around her. 
+
+
+
+
+<<link>> 
+A politically charged decision awaits US Attorney Carmen Ortiz
+
+<<link>> 
+
+<<link>> 
+Questions surrounding Boston Mayor Martin Walsh mark the last big investigation Ortiz will likely undertake.  
+
+
+
+
+<<link>> 
+Amazon decides to offer same-day Roxbury delivery 
+
+<<link>> 
+
+<<link>> 
+Faced with mounting pressure, the online retailing giant said it will soon extend its same-day delivery service to the neighborhood. 
+
+
+
+
+<<link>> 
+Plan for a Chinese academy stirs worries in a Conn. town
+
+<<link>> 
+
+<<link>> 
+A company wants to funnel students from China into high schools in West Hartford, and pay to do so, but the plan is drawing criticism. 
+
+
+
+
+<<link>> 
+
+<<link>> 
+
+<<link>> 
+
+
+
+
+<<link>> 
+Globe Events 
+
+
+
+<<link>> 
+Makover Derring-Do
+
+<<link>> 
+
+<<link>> 
+In the latest issue of Design New England, lots of color and a bit of bravado wake up a ho-hum family room.  
+
+
+
+
+<<link>> 
+More Globe Events &rarr;  
+
+/todayspaper?s_campaign=email_BG_TodaysHeadline 
+Today's Paper &rarr; 
+
+<<link>> 
+The Nation
+
+
+
+<<link>> 
+John Kerry, Vietnam War continue to be intertwined
+
+<<link>> 
+
+<<link>> 
+The secretary of state will accompany President Obama to Hanoi next month, revisiting the site of the war he so ardently opposed. 
+
+
+
+
+<<link>> 
+Trump calls himself &#';presumptive nominee&#'; after primary wins
+
+<<link>> 
+
+<<link>> 
+Trump won by comfortable margins in each of the five East Coast states and is now in a commanding role with just 10 states left to vote. 
+
+
+
+
+<<link>> 
+With near shutout, Clinton edges closer to the nomination
+
+<<link>> 
+
+<<link>> 
+However, Bernie Sanders&rsquo; R.I. victory is a reminder that Hillary Clinton has yet to persuade a fractured party to coalesce around her. 
+
+<<link>> 
+
+Jump to domain.com The Nation Section &rarr;
+
+
+
+<<link>> 
+The World
+
+
+
+<<link>> 
+As men return from Syria, Europe weighs security vs. civil liberties
+
+<<link>> 
+What to do with hundreds of young men returning from Syria is now among the biggest challenges facing Europe. 
+
+
+
+
+<<link>> 
+South Korea says North Korea is readying nuclear test
+
+<<link>> 
+The rogue nation has reportedly placed a new midrange missile on standby for an impending launch. 
+
+
+
+
+<<link>> 
+Ukraine marks 30th anniversary of Chernobyl disaster
+
+<<link>> 
+
+<<link>> 
+Tributes were being held all day Tuesday to remember those who died in the initial explosion and the ensuing cleanup. 
+
+
+
+
+<<link>> 
+
+<<link>> 
+
+<<link>> 
+
+<<link>> 
+
+Jump to domain.com The World Section &rarr;
+
+
+
+<<link>> 
+Editorial & Opinion
+
+
+
+Opinion | Robert Muggah and Nathan B. Thompson
+
+<<link>> 
+Civil liberties, online and off
+
+<<link>> 
+
+<<link>> 
+One hundred days before Rio games, there are fresh questions about civil rights in Brazil. 
+
+
+
+
+OPINION | NANCY GERTNER AND JACK CORRIGAN
+
+<<link>> 
+Secrets of the grand jury
+
+<<link>> 
+
+<<link>> 
+It&rsquo;s not right to criticize Mayor Walsh for not discussing whether he testified before a grand jury. 
+
+
+
+
+OPINION | JOHN SHATTUCK
+
+<<link>> 
+US needs to help the EU end the refugee crisis
+
+<<link>> 
+
+<<link>> 
+The president&rsquo;s soaring rhetoric in Europe should be matched by a commitment to take in more Syrian refugees. 
+
+<<link>> 
+
+Jump to domain.com Editorial & Opinion Section &rarr;
+
+
+
+<<link>> 
+Metro
+
+
+
+<<link>> 
+A politically charged decision awaits US Attorney Carmen Ortiz
+
+<<link>> 
+
+<<link>> 
+Questions surrounding Boston Mayor Martin Walsh mark the last big investigation Ortiz will likely undertake.  
+
+
+
+
+<<link>> 
+Plan for a Chinese academy stirs worries in a Conn. town
+
+<<link>> 
+
+<<link>> 
+A company wants to funnel students from China into high schools in West Hartford, and pay to do so, but the plan is drawing criticism. 
+
+
+
+
+THOMAS FARRAGHER 
+
+<<link>> 
+Richard Russo readers return to North Bath, N.Y.
+
+<<link>> 
+
+<<link>> 
+Readers will be going home again with Russo next week when &ldquo;Everybody&rsquo;s Fool&rdquo; is published, the sequel to &ldquo;Nobody&rsquo;s Fool.&rdquo; 
+
+<<link>> 
+
+Jump to domain.com Metro Section &rarr;
+
+
+
+<<link>> 
+Business & Tech
+
+
+
+<<link>> 
+Amazon decides to offer same-day Roxbury delivery 
+
+<<link>> 
+
+<<link>> 
+Faced with mounting pressure, the online retailing giant said it will soon extend its same-day delivery service to the neighborhood. 
+
+
+
+
+<<link>> 
+Apple forecasts second sales drop as iPhone woes deepen
+
+<<link>> 
+Apple Inc.&rsquo;s smartphone woes are deepening. 
+
+
+
+
+<<link>> 
+Home sales surged statewide in March
+
+<<link>> 
+
+<<link>> 
+Sales in Mass. shot up 31 percent in March over 2015, while condo sales climbed 27 percent. 
+
+<<link>> 
+
+Jump to domain.com Business & Tech Section &rarr;
+
+
+
+<<link>> 
+Obituaries
+
+
+
+<<link>> 
+Harold Vaughan, 91, Kennedy aide and pioneering candidate
+
+<<link>> 
+
+<<link>> 
+Mr. Vaughan worked in the administrations of three Boston mayors and ran for lieutenant governor in 1964. 
+
+<<link>> 
+
+Jump to domain.com Obituaries Section &rarr;
+
+
+
+<<link>> 
+Sports
+
+
+
+Hawks 110, Celtics 83
+
+<<link>> 
+Isaiah Thomas limps off as Celtics routed by Hawks
+
+<<link>> 
+
+<<link>> 
+Thomas suffered a mild left ankle sprain in the Celtics&rsquo; loss in Game 5 of the playoff series. 
+
+
+
+
+DAN SHAUGHNESSY
+
+<<link>> 
+Celtics are back on the brink &#-; again
+
+<<link>> 
+
+<<link>> 
+In a series of ebbs and flows, the Hawks demolished Boston in Game 5 to take command. 
+
+
+
+
+CHRISTOPHER L. GASPER
+
+<<link>> 
+Deflategate is all about Roger Goodell&#';s power, not Brady&#';s punishment
+
+<<link>> 
+
+<<link>> 
+Tom Brady&rsquo;s guilt or innocence is really incidental in this power struggle between the NFLPA and the commissioner.  
+
+<<link>> 
+
+Jump to domain.com Sports Section &rarr;
+
+
+
+<<link>> 
+Wednesday Food
+
+
+
+<<link>> 
+Why are so many Greek restaurants suddenly opening in Boston?
+
+<<link>> 
+
+<<link>> 
+Turns out, it might have something to do with our collective obsession with Greek yogurt.  
+
+
+
+
+Dining Out
+
+<<link>> 
+Yes, Rino&#';s Place is the best. Too bad you can&#';t eat here. Thanks, Fieri.
+
+<<link>> 
+
+<<link>> 
+When a restaurant is annexed into Flavor Town, getting a table can seem impossible. The Italian food here is worth it.  
+
+
+
+
+Cheap Eats
+
+<<link>> 
+Effie&#';s Kitchen in Roslindale: a tiny spot with tremendous Greek food
+
+<<link>> 
+
+<<link>> 
+From excellent avgolemono to overstuffed souvlaki, you will find it here.  
+
+<<link>> 
+
+Jump to domain.com Wednesday Food Section &rarr;
+
+
+
+<<link>> 
+Comics
+
+<<link>> 
+Crossword
+
+<<link>> 
+Circulars
+
+<<link>> 
+
+Jump to domain.com Circulars Section &rarr;
+
+
+
+<<link>> 
+
+<<link>> 
+domain.com 
+Today's headlines
+  |  
+04/27/2016
+
+
+
+
+About This Email
+
+You received this message because you signed up for the Today's headlines newsletter.
+To automatically unsubscribe, 
+<<link>> 
+please click here.  
+If you wish to unsubscribe from all domain.com newsletters, 
+<<link>> 
+please click here. 
+Please note: this will unsubscribe you from the newsletters only. If you wish to cancel your domain.com subscription, please call 1-888-MY-GLOBE (1-888-694-5623).
+
+<<link>> 
+Manage Your Account  | 
+<<link>> 
+Terms of Service  | 
+<<link>> 
+Privacy Policy  | 
+<<link>> 
+Help Center  | 
+mailto:user@domain.com?subject=Advertising in domain.com 
+Advertise 
+
+Address:
+
+The Boston Globe
+
+135 Morrissey Blvd.
+
+Boston, MA 02125
+
+(c)Copyright 2015 Boston Globe Media Partners, LLC
+
+----------------------------------------
+
+
+
+	This email was sent by:
+	The Boston Globe
+	135 Morrissey Blvd.
+	Boston, MA, 02125, United States
+
+
+
+	We respect your right to privacy - domain.com the following URL to view our policy.
+	( <<link>> )
+
+
+
+	----------------------------------------
+
+
+
+	domain.com the following URL to manage your subscriptions.
+	( <<link>> )
+
+
+
+	domain.com the following URL to update your profile.
+	( <<link>> )
+
+
+
+	domain.com the following URL to unsubscribe.
+	( <<link>> )
+
+

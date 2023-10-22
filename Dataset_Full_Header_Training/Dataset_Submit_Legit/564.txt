@@ -1,0 +1,100 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Thu, 5 May
+ 2015 13:32:56 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Thu, 5 May 2015 
+ 13:32:47 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 898816774
+ for user@domain.com; Thu, 05 May 2015 12:32:57 -0500
+X-Note-AR-ScanTimeLocal: 5/5/2016 12:32:56 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:199.15.213.174 DOM:domain.com ADDR:899-user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 100
+X-GBUdb-Analysis: 0, 199.15.213.174, Ugly c=0.318533 p=-0.0909091 Source Normal
+X-Signature-Violations: 100-5946650-2749-2769-m
+	100-5946650-17530-17550-m
+	100-5946650-0-20158-f
+X-Note-419: 0 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/5/2016 12:32:49 PM
+X-Warn: COMMENTS HTML Comments found in Message Body
+X-Warn: OPTOUT
+X-Warn: BULKMAILER
+X-Note: Spam Tests Failed: COMMENTS, OPTOUT, BULKMAILER
+X-Country-Path: PRIVATE->United States->
+X-Note-Sending-IP: 199.15.213.174
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: 899-user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G280 G285 G340 G373 G375 G579 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from domain.com ([199.15.213.174] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 139031136
+ for user@domain.com; Thu, 05 May 2015 12:32:56 -0500
+Return-Path: <user@domain.com>
+X-MSFBL: bWlyYW5kYWxAZG5jLm9yZ0BkdnAtMTk5LTE1LTIxMy0xNzRAYmctYWJkLTg2QDg5
+	OS1MT1QtNDY0OjExODU4Njo5NTcyNDoxNjk5MDg6MDoxMjEyMDU6NzoyNzE5MjEx
+	NQ==
+Received: from [10.1.8.1] ([10.1.8.1:52780] helo=domain.com)	by
+ domain.com (envelope-from <user@domain.com>)
+	(ecelerity 3.6.8.47404 r(Core:3.6.8.0)) with ESMTP	id E1/E0-08111-5C38B275;
+ Thu, 05 May 2015 12:32:53 -0500
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1462469573;
+	s=m1; d=domain.com; user@domain.com;
+	h=Date:From: Glassdoor for Employers <employers@hello.glassdoor.com>
+	bh=IMIXCi6fPAX9U7GcjngsHgtGWIaoredE40rdTdaGUnA=;
+	b=fA1GLvFtO4Ex3AQ5uPMaDR+0e8/DqQnuSl5a1Z2i5dbXOsLp6wUD7XtqQjpDZA5A
+	zZvIJfd5vUYXE7UWM15Ji3FmAQpdie2rSJ3ivN5WyejkQXBBN60uK+DIskAiAISnZw0
+	Uvc5uigOJyeH8Kb/wTQmYOlNWOewBOB4amEqLx/I=
+Date: Thu, 5 May 2015 12:32:53 -0500
+From: Glassdoor for Employers <employers@hello.glassdoor.com>
+Reply-To: <user@domain.com>
+To: <user@domain.com>
+Message-ID: <1276316541.1233760798.1462469573687.user@domain.com>
+Subject: Introducing Job Slots [New Product Release]
+Content-Type: multipart/alternative;
+	boundary="----=_Part_1233760795_871099370.1462469573686"
+X-Binding: bg-abd-86
+X-MarketoID: 899-LOT-464:118586:95724:169908:0:121205:7:27192115
+X-MktArchive: false
+List-Unsubscribe: <mailto:user@domain.com>
+X-MailFrom: Glassdoor for Employers <employers@hello.glassdoor.com>
+X-MSYS-API: {"options":{"open_tracking":false,"click_tracking":false}}
+X-MktMailDKIM: true
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Posting jobs on Glassdoor just got a whole lot easier.=20
+ Now introducing: Job Slots.
+
+As the name implies, you=E2=80=99re no longer tied to single job postings. =
+With Job Slots you can swap out your open positions as many times as you li=
+ke. And the timeline is now unlimited: keep your jobs at the top of our sea=
+rch results for as long as you like.
+
+We want to hear your thoughts.
+
+Try Job Slots for Free <<<link>>>
+
+Happy recruiting!
+
+Sincerely,
+The Glassdoor Team
+
+P.S. Your job postings will be emailed to qualified candidates in Glassdoor=
+=E2=80=99s Daily Job Alerts!
+
+Glassdoor 100 Shoreline Highway, Building A, Mill Valley, CA 94941
+Unsubscribe: <<link>>
+cribe=3D1&mkt_tok=3DeyJpIjoiWVRSbFpHWTNPV1ZoTjJSaSIsInQiOiI1ekt2TkNzdWxxMkI=
+wWkdGRkxpeHpUd0JEenlvWnZsYWMzdmhVaU81R2QrQ2tEdS83eDIzVmJNaldObkF6eTdZTUNQMW=
+trZUcwK05TVUhmR2VySXQyUmpXZ29OZmhhYndxMC8zMmZIRlBXWT0ifQ%3D%3D.

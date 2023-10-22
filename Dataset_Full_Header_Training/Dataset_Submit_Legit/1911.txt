@@ -1,0 +1,62 @@
+Received: from domain.com (146.215.230.102) by
+ domain.com (43.130.141.77) with Microsoft SMTP Server id
+ 8.3.297.1; Mon, 6 Jan 2015 11:57:34 -0800
+Received: from domain.com ([160.33.194.229])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s06JvXWZ018563	for <user@domain.com>; Mon, 6 Jan 2015 
+ 19:57:33 GMT
+Received: from mail94-ch1-domain.com (mail-domain.com
+ [216.32.181.173])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s06JvXe8011360
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Mon, 6 Jan 2015 19:57:33 GMT
+Received: from mail94-ch1 (localhost [127.0.0.1])	by mail94-ch1-domain.com
+ (Postfix) with ESMTP id 07D994402A9	for <user@domain.com>; Mon,  6
+ Jan 2015 19:57:33 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:207.171.173.206;KIP:(null);UIP:(null);IPV:NLI;H:smtp-out-173-206.amazon.com;RD:smtp-out-173-206.amazon.com;EFVD:NLI
+X-SpamScore: -38
+X-BigFish: vps-38(zzc89bh13e1Pc857hzz1f42h1cfdh2148h208ch1ee6h1de0h1fdah2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6hzz172cfch1def03h29e4I17326ah1def87h8275bh1bc7b9h8275dh1de097h1de096h186068h1954cbhz2fhdefIL13ddR5fh839ha12hd24h10d2h1232h1288h12a5h12bdh137ah13eah1441h14ddh1537h153bh162dh1631h1758h18e1h1946h19b5h1b0ah1bceh224fh1d0ch1d1eh1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1fe8h1ff5h20f0h2216h2336h2363h214ai1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail94-ch1: domain of bounces.amazon.com designates 207.171.173.206 as permitted sender) client-ip=207.171.173.206; user@domain.com; helo=smtp-out-173-206.amazon.com ;6.amazon.com ;
+Received: from mail94-ch1 (localhost.localdomain [127.0.0.1]) by mail94-ch1
+ (MessageSwitch) id 1389038251942957_27196; Mon,  6 Jan 2015 19:57:31 +0000
+ (UTC)
+Received: from domain.com (domain.com
+ [10.43.68.230])	by mail94-domain.com (Postfix) with ESMTP id D8A9C48004C
+	for <user@domain.com>; Mon,  6 Jan 2015 19:57:31 +0000 (UTC)
+Received: from smtp-out-173-206.amazon.com (207.171.173.206) by
+ domain.com (10.43.70.10) with Microsoft SMTP Server id
+ 14.16.227.3; Mon, 6 Jan 2015 19:57:31 +0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=jvxsykglqiaiibkijmhy37vqxh4mzqr6; d=amazon.com; t=1389038251;
+	h=Date:From: Amazon.com Customer Service <cs-reply@amazon.com>
+	bh=VQN/4fdzywltaQXfBBRMk1c2CGcUhYy5x1j6hjH2qZU=;
+	b=UVxDZfeXhSg0XifxCRFnHuSageu3lbAGVB0bUQiCd51sZytba6uo5QTuj2RcY4jO
+	tyjWeKzTLVcn1Hy8iknMoRUAiVwPO1PufUT2T1nE43pxOrOeaZ4L5DebdMtGMTy0pCL
+	VDn9KYyF5yPgoXAgQ8rrUEyAlqxpHpyqJH4JKm2M=
+Date: Mon, 6 Jan 2015 19:57:31 +0000
+From: Amazon.com Customer Service <cs-reply@amazon.com>
+Reply-To: "User"
+	<cs-reply+user@domain.com>
+To: "User" <user@domain.com>
+Message-ID: <000001436921user@domain.com>
+Subject: A Message from Amazon Customer Service
+Bounces-to: 201401061957301user@domain.com
+X-AMAZON-MAIL-RELAY-TYPE: notification
+X-AMAZON-RTE-VERSION: 2.0
+X-Original-MessageID: <urn.correios.msg.201401061957301aef7e4ceff04e75af492a90e7e01b53@1389038250997.rte-svc-1d2-i-75abfd05.us-east-1.amazon.com>
+X-SES-Outgoing: 207.171.173.206
+Return-Path: 
+ 201401061957301user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+Amazon  Your Account    domain.com      
+
+Message From Customer Service   
+
+Hello,
+
+AmazonFresh is a fresh produce and gr
+

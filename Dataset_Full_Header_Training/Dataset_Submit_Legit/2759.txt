@@ -1,0 +1,99 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 11 May
+ 2015 21:20:29 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 11 May 2015 
+ 21:20:26 -0400
+Received: from [10.87.0.110] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 910420460;
+ Wed, 11 May 2015 20:20:34 -0500
+X-Note-AR-ScanTimeLocal: 5/11/2016 8:20:28 PM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:207.46.100.68 DOM:blueenginemedia.com ADDR:user@domain.com
+X-Note: SPF: PermError
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-80/SG:5 5/11/2016 8:20:19 PM
+X-GBUdb-Analysis: 0, 207.46.100.68, Ugly c=0.735335 p=-0.993631 Source White
+X-Signature-Violations: 0-0-0-23232-c
+X-Note-419: 31.2409 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/11/2016 8:20:15 PM
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->->United States->
+X-Note-Sending-IP: 207.46.100.68
+X-Note-Reverse-DNS: mail-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from [207.46.100.68] (HELO
+ na01-by2-domain.com)  by domain.com
+ (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 141349529; Wed, 11 May 2015 
+ 20:20:27 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=domain.com; s=selector1-blueenginemedia-com;
+ h=From: Erik Smith <erik@blueenginemedia.com>
+ bh=X/N1HsqvkV+D96IKq/V2SEn/lvnomZJs7lzfG18XT94=;
+ b=IQql2b0sSlcv2NDUHf2QqFQAUCOcgO1GFTPTEKj9CtuzASviR69Dy69P0TKkxmT1fhufOS7belLiT+5BBmvpgTXcF45fU2Hk2eyCE6MBdwss9nvxwy2X7y7ST8dXBb5BNN/uS3fkT3gslMDqQLOttDARW3vIwIbbFqphHxEsAxs=
+Received: from domain.com (10.162.218.25) by
+ domain.com (10.162.218.23) with Microsoft SMTP
+ Server (TLS) id 15.1.497.3; Thu, 12 May 2015 01:20:26 +0000
+Received: from domain.com ([10.162.218.25]) by
+ domain.com ([10.162.218.25]) with mapi id
+ 15.01.0497.011; Thu, 12 May 2015 01:20:24 +0000
+From: Erik Smith <erik@blueenginemedia.com>
+To: Debbie Wasserman-Schultz <user@domain.com>, Amy Dacey
+	<user@domain.com>, Lindsey Reynolds <user@domain.com>, Lisa Garcia
+	<user@domain.com>, Tracie Pough <user@domain.com>
+CC: "User" <user@domain.com>, Jessica Borchert
+	<user@domain.com>
+Subject: Re: Connecting you...
+Thread-Topic: Connecting you...
+Thread-Index: AdGf+spC/mMAFIh5Sm+H9uk2wppG+gACEuGwAACTdJkBaN5wgwAU7QH/AXvRds4AACeU/g==
+Date: Thu, 12 May 2015 01:20:24 +0000
+Message-ID: <2user@domain.com>
+References: <05user@domain.com>,<user@domain.com>,<user@domain.com>,<9user@domain.com>,<user@domain.com>,<user@domain.com>
+In-Reply-To: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+authentication-results: domain.com; dkim=none (message not signed)
+ header.d=none;domain.com; dmarc=none action=none
+ header.from=blueenginemedia.com;
+x-originating-ip: [2601:14f:4402:b3e3:641f:d30d:94d3:9c9a]
+x-ms-office365-filtering-correlation-id: 570617cd-28b4-4ac5-abc5-08d37a039832
+x-microsoft-exchange-diagnostics: 1;CY1PR08MB1801;5:PaUcXfMbjd+9aVqnx/5oVEA1r5fPGLJbFYgw1N5AiMDFC59y/A9drJzmOjq63zEt5o1wetOzmb6iJ30I22TQjUQ1wpGWp7EBayN2mKBV4UbJxM4Zpurm9nSgxLEe3J+c1tylrz5rUq1WHZjpCWGD+g==;24:4DPIERq03i+U2HuAg3v/EgBLqbAcDR5LodywNsn+CIjbQX3EwcdRcfjewgPTLHFUtaK6zv6LrJfv/i4232NM8eyHJ+MYPZmBn0cv7k4c9uw=;7:n5heGvtMsYvjEAfb13TKFkPjY2xv1CD0bZOhLE7/u4E4r909mvvyB/ND74NRGoxemfYEYjKMfze9eYqcdezm0tEo9jmT5CNN6BD/lOLxarJCCv4zyrUhM7EJ2DvkZdnNqLzHKzBJQ3n3Hj5VQ5Jqea+eTUaomh8AqOSz1dIM6NggUOmgLJe/OAPOHynPINv8
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:;SRVR:CY1PR08MB1801;
+x-microsoft-antispam-prvs: <user@domain.com>
+x-exchange-antispam-report-test: UriScan:;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(601004)(2401047)(8121501046)(5005006)(3002001)(10201501046);SRVR:CY1PR08MB1801;BCL:0;PCL:0;RULEID:;SRVR:CY1PR08MB1801;
+x-forefront-prvs: 0940A19703
+x-forefront-antispam-report: SFV:NSPM;SFS:(10009020)(377454003)(24454002)(102836003)(5001770100001)(5002640100001)(6116002)(19580405001)(82746002)(5008740100001)(15187005004)(8936002)(586003)(16236675004)(1220700001)(93886004)(87936001)(99286002)(19580395003)(17760045003)(122556002)(54356999)(76176999)(36756003)(50986999)(81166006)(107886002)(10400500002)(92566002)(2906002)(2900100001)(2950100001)(19617315012)(77096005)(86362001)(3480700004)(15975445007)(4001430100002)(189998001)(4326007)(3280700002)(5890100001)(83716003)(33656002)(5004730100002)(3660700001)(19625215002)(3826002)(104396002);DIR:OUT;SFP:1101;SCL:1;SRVR:CY1PR08MB1801;H:domain.com;FPR:;SPF:None;MLV:sfv;LANG:en;
+spamdiagnosticoutput: 1:23
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_2AE0FBC23E57438E9B84E86E71BC64D5blueenginemediacom_"
+X-MS-Exchange-CrossTenant-originalarrivaltime: 12 May 2015 01:20:24.4288
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 2138a939-c6be-49b9-a268-ded25fd39341
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: CY1PR08MB1801
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+What do folks think? I haven't had any conversations like that with him. Lu=
+is, have you?
+
+On May 11, 2016, at 9:16 PM, Sammon, Bill <user@domain.com<mailto:b=

@@ -1,0 +1,39 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 4C43A23CAD8;
+	Tue,  6 Sep 2015 06:57:50 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id ZrttGz7x8AB1; Tue,  6 Sep 2015 06:57:48 -0500 (CDT)
+Received: from smtp4.vbgov.com (smtp4.vbgov.com [198.252.245.211])
+	by domain.com (Postfix) with ESMTP id D7C3E23CACC;
+	Tue,  6 Sep 2015 06:57:47 -0500 (CDT)
+Received: from VBMSMBX01.vbgov.com ([fe80::d947:df9a:8dc8:788b]) by
+ VBMS0002.vbgov.com ([fe80::986c:9524:7458:c9ed%10]) with mapi; Tue, 6 Sep
+ 2015 07:57:39 -0400
+From: Shelia Evans <sevans@vbgov.com>
+To: "User" <user@domain.com>
+Date: Tue, 6 Sep 2015 07:57:39 -0400
+Subject: Your Mailbox Has Exceeded
+Thread-Topic: Your Mailbox Has Exceeded
+Thread-Index: AQHMbIwtl8x0bz+1ZEGRnAIbyVU7aw==
+Message-ID: <15user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+acceptlanguage: en-US
+Content-Type: multipart/alternative;
+	boundary="_000_15FF5DE6A1C2E74B8D76F2727B0F528709119264E9VBMSMBX01vbgo_"
+MIME-Version: 1.0
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 22
+
+Your Mailbox Has Exceeded It Storage domain.com As Set By Your Administrator, An=
+d You Will Not Be Able To Receive New Mails Until You Re-Validate It. To Re=
+-Validate  - > Click Here<<<link>>>.

@@ -1,0 +1,72 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [10.3.4.5])
+	by domain.com (Postfix) with ESMTP id ED01D46900
+	for <user@domain.com>; Sat, 10 Jun 2015 12:59:45 -0400 (EDT)
+Received: from web2 (domain.com [66.121.102.39])
+	by domain.com (Postfix) with ESMTP id 4AE286FA3AB
+	for <user@domain.com>; Sat, 10 Jun 2015 12:59:47 -0400 (EDT)
+Received: from service ([24.89.70.5]) by web2 with Microsoft SMTPSVC(5.0.2195.6713);
+	 Sat, 10 Jun 2015 10:07:41 -0700
+From: "PayPal Inc."<support61@paypal.com>
+Subject: PayPal Confirm Message !
+Date: Sat, 10 Jun 2015 10:59:41 -0600
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <user@domain.com>
+X-OriginalArrivalTime: 10 Jun 2015 17:07:42.0161 (UTC) FILETIME=[62845410:01C68CB0]
+To: undisclosed-recipients:;
+Status: 
+X-Status: 
+X-Keywords: 
+
+ Security Center Advisory!
+
+ PayPal is constantly working to ensure security by regularly screening the accounts in our system. We recently reviewed your account, and we need more information to help us provide you with secure service. Until we can collect this information, your access to sensitive account features will be limited or terminated. We would like to restore your access as soon as possible, and we apologize for the inconvenience. 
+
+Why is my account access limited?
+
+Your account access has been limited for the following reason(s):
+
+May 27, 2006: We have reason to believe that your account was accessed by a third party. Because protecting the security of your account is our primary concern, we have limited access to sensitive PayPal account features. We understand that this may be an inconvenience but please understand that this temporary limitation is for your protection.
+
+Click here to Remove Limitations
+
+Completing all of the checklist items will automatically restore your account access.
+
+Thank you for using PayPal! The PayPal Team 
+
+Please do not reply to this e-mail. Mail sent to this 
+
+address cannot be answered. For assistance, log in to your PayPal account and choose the "Help" link in the footer of any page.
+
+To receive email notifications in plain text instead of HTML, update your preferences here. 
+
+PayPal Email ID PP697
+
+Protect Your Account Info
+
+Make sure you never provide your password to fraudulent persons. 
+
+PayPal 
+automatically encrypts your confidential information using the Secure Sockets Layer protocol (SSL) with an encryption 
+key length of 128-bits (the highest level commercially available).
+
+PayPal will never ask you to enter your 
+password in an email.
+
+For more information on protecting yourself from fraud, please review our Security Tips at 
+<<link>>
+
+Protect Your Password
+
+You should never give your PayPal password to anyone, including 
+PayPal employees.
+

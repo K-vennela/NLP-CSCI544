@@ -1,0 +1,145 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Mon, 2 May
+ 2015 18:59:53 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Mon, 2 May 2015 
+ 18:59:49 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 892362752
+ for user@domain.com; Mon, 02 May 2015 17:59:53 -0500
+X-Note-AR-ScanTimeLocal: 5/2/2016 5:59:52 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:198.2.131.135 DOM:domain.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 100
+X-GBUdb-Analysis: 0, 198.2.131.135, Ugly c=0.308711 p=0 Source Normal
+X-Signature-Violations: 100-5953858-1786-1816-m
+	100-5946975-1900-1919-m
+	100-5953858-0-21647-f
+X-Note-419: 62.4946 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/2/2016 5:59:34 PM
+X-Warn: BOUNCETRACKER Bounce User Tracking Found
+X-Warn: OPTOUT
+X-Warn: BULKMAILER
+X-Note: Spam Tests Failed: BOUNCETRACKER, OPTOUT, BULKMAILER
+X-Country-Path: LOCAL->United States->
+X-Note-Sending-IP: 198.2.131.135
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G280 G285 G339 G373 G375 G579 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from domain.com ([198.2.131.135] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 138374214
+ for user@domain.com; Mon, 02 May 2015 17:59:52 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=domain.com;
+ h=Subject:From: =?utf-8?Q?Univision=20News?= <dailybrief@univision.net>
+ bh=5AHz/6UYW6hSZt8sURmCv9G55lI=;
+ b=GuWq5dAvitd308pPtW/FqLhHFmbtOM/d8dNNjl3mgeyisM9UYrdP/AEpkJlHA6Y6L0jVHfLuz/Vj
+   OVMBlHVJ94Ny68gGcQJwm+0WVacm1P6hflXImMH7wihBWNYrMSO65uLfpvvm9EqvIIf+Fq7hlsgc
+   csXUXlFkQP0tRkGyWcs=
+Received: from (127.0.0.1) by domain.com id h4vduc1ohnc6 for
+ <user@domain.com>; Mon, 2 May 2015 22:59:49 +0000 (envelope-from
+ <user@domain.com>)
+Subject: =?utf-8?Q?Daily=20Brief=3A=20U.S.=20Cruise=20Ship=20Arrives=20in=20Cuba?=
+From: =?utf-8?Q?Univision=20News?= <dailybrief@univision.net>
+Reply-To: =?utf-8?Q?Univision=20News?= <user@domain.com>
+To: <user@domain.com>
+Date: Mon, 2 May 2015 22:59:49 +0000
+Message-ID: <5user@domain.com>
+X-Mailer: MailChimp Mailer - **CIDea85449472ccf2e888e6**
+X-Campaign: mailchimp5e06b619917f7a0a6b28d05cc.ea85449472
+X-campaignid: mailchimp5e06b619917f7a0a6b28d05cc.ea85449472
+X-Report-Abuse: Please report abuse for this campaign here: <<link>>
+X-MC-User: 5e06b619917f7a0a6b28d05cc
+X-Feedback-ID: 40079569:40079569.544021:us10:mc
+List-ID: 5e06b619917f7a0a6b28d05ccmc list <5e06b619917f7a0a6b28d05cc.188293.list-domain.com>
+X-Accounttype: pd
+List-Unsubscribe: <mailto:user@domain.com?subject=unsubscribe>, <<<link>>>
+Sender: Univision News <user@domain.com>
+x-mcda: FALSE
+Content-Type: multipart/alternative;
+	boundary="_----------=_MCPart_1105409799"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Did a friend forward you this email?
+Get the Daily Brief everyday on your inbox (#)
+<<link>>
+Follow us <<link>> <<link>>
+domain.com/UniPolitica
+May 2=2C 2015 
+
+** Top news today in Hispanic America (<<link>>
+domain.com/daily/top-news-today-in-hispanic-america-159/)
+------------------------------------------------------------
+|
+Click to play (<<link>>
+oday-in-hispanic-america-159/)
+<<link>>
+c-america-159/
+
+<<link>>
+2/banner_news.png
+* CLINTON OUTRAISES SANDERS IN APRIL: Democratic front-runner Hillary Clin=
+ton has raised more money than Bernie Sanders for the first time this year=
+=2E Clinton raised $36 million in April; $9.5 million went to the Hillary Vi=
+ctory Fund and $26.4 million went to the Clinton campaign. Sanders raised=
+ $25.8 million=2C a great difference to the $44 million he raised in March=
+=2E
+
+* ELECTORAL ACCURACY IN TERRE HAUTE=2C INDIANA: The people from Vigo Count=
+y in Terre Haute=2C Indiana have been able to predict the presidential can=
+didate in 30 out of 32 election cycles. Trump seems to be the candidate of=
+ choice for the people in Vigo=2C according to Univision=E2=80=99s Fernand=
+o Peinado (<<link>>
+-en-el-condado-de-indiana-que-casi-nunca-se-equivoca-con-el-ganador-presid=
+encial) . Locals claimed they have never seen a candidate like him in the=
+ past. The only time the people of Vigo failed to elect a presidential can=
+didate has been in 1908 and 1952.
+
+* p> Read more (<<link>>
+today-in-hispanic-america-159/)
+
+|
+
+** Today=E2=80=99s data
+------------------------------------------------------------
+
+Nearly half of Americans express a "great deal" or "fair amount" of confid=
+ence in Sen. Bernie Sanders (47%) and Gov. John Kasich (46%) to recommend=
+ the right thing for the U.S. economy -- the highest ratings among the fiv=
+e remaining presidential candidates. Americans have the least confidence i=
+n Donald Trump (30%).
+Source: Gallup=2C April 18=2C 2015 
+|
+Add user@domain.com (mailto:user@domain.com) to your add=
+res book
+Did a friend forward you this email?
+Get the executive every day on your mail (<<link>>
+domain.com/daily/subscribe)
+Why did I get this mail? (<<link>>
+/subscribe)
+Terms of Service (<<link>>
+=3Dterms) and Privacy Policy (<<link>>
+aily/?text=3Dprivacy)
+Univision All Rights Reserved 2015 
+
+This email was sent to user@domain.com (mailto:user@domain.com)
+why did I get this? (<<link>>
+19917f7a0a6b28d05cc&id=3Dbdb6fbd96e&e=3Dccf2e888e6&c=3Dea85449472)     unsub=
+scribe from this list (<<link>>
+=3D5e06b619917f7a0a6b28d05cc&id=3Dbdb6fbd96e&e=3Dccf2e888e6&c=3Dea85449472)=
+     update subscription preferences (<<link>>
+/profile?u=3D5e06b619917f7a0a6b28d05cc&id=3Dbdb6fbd96e&e=3Dccf2e888e6)
+Univision . 8551 NW 30TH TERRACE . Miami=2C FL 33122 . USA

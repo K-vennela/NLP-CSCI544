@@ -1,0 +1,64 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 08FFA23CA82;
+	Thu,  5 Apr 2015 00:28:32 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id D6S+17k6KfrY; Thu,  5 Apr 2015 00:28:30 -0500 (CDT)
+Received: from shiva.jussieu.fr (shiva.jussieu.fr [134.157.0.129])
+	by domain.com (Postfix) with ESMTP id B16A423CA7E;
+	Thu,  5 Apr 2015 00:28:28 -0500 (CDT)
+Received: from mailer2.b3e.jussieu.fr ([134.157.220.100])
+          by shiva.jussieu.fr (8.14.4/jtpda-5.4) with ESMTP id q355QqHF093288
+          ; Thu, 5 Apr 2015 07:28:06 +0200 (CEST)
+X-Ids: 165
+Received: from mailer2.b3e.jussieu.fr (mailer2.b3e.jussieu.fr [127.0.0.1])
+	by mailer2.b3e.jussieu.fr (Postfix) with ESMTP id 4ADF9159EE4;
+	Wed,  4 Apr 2015 23:31:05 +0200 (CEST)
+Received: from webmail.u707.jussieu.fr (webmail.u707.jussieu.fr [134.157.220.11])
+	by mailer2.b3e.jussieu.fr (Postfix) with ESMTP id 5EC31159E6D;
+	Wed,  4 Apr 2015 23:28:12 +0200 (CEST)
+Received: from webmail.b3e.jussieu.fr (localhost [127.0.0.1])
+	by webmail.u707.jussieu.fr (Postfix) with ESMTP id CE2F6CC04E;
+	Wed,  4 Apr 2015 22:52:51 +0200 (CEST)
+Received: from 65.49.14.74
+        (SquirrelMail authenticated user sarazin)
+        by webmail.b3e.jussieu.fr with HTTP;
+        Wed, 4 Apr 2015 22:52:51 +0200 (CEST)
+Message-ID: <41659.65.49.14.74.1333572771.user@domain.com>
+Date: Wed, 4 Apr 2015 22:52:51 +0200 (CEST)
+Subject: Webmail-Student Alart: 903847,
+From: "IT Admin Service." <sarazin@u707.jussieu.fr>
+User-Agent: SquirrelMail/1.4.13
+MIME-Version: 1.0
+Content-Type: text/plain;charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+To: undisclosed-recipients:;undisclosed-recipients:;@jussieu.fr
+X-Miltered: at jchkmail.jussieu.fr with ID 4F7D2D1C.002 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 4F7D2D1C.002/134.157.220.100/[134.157.220.100]/mailer2.b3e.jussieu.fr/<user@domain.com>
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 74
+
+Webmail-Student Alart: 903847,
+
+A DGTJTO virus has been detected on our Webmail Database.
+Your Webmail account has to be protected to our new Secured
+VQZZF! Macafee anti-virus 2015 version to prevent damages to
+your important files and messages. simply click the below and
+domain.com the required information to avoid the continious spread
+of this virus.
+
+<<link>>
+
+Note that your password will be encrypted and your mail quota
+will also be upgraded for your safety.
+
+Thank you for your cooperation,
+IT Admin Service.

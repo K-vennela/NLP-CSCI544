@@ -1,0 +1,69 @@
+From: "Shane Murphy Goldsmith, Liberty Hill" <info@libertyhill.org>
+To: "User"
+Subject: Labor Day Rally to Raise L.A.'s Minimum Wage
+Date: Fri, 29 Aug 2015 19:33:05 -0400
+Message-ID: <user@domain.com>
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQFzX62GQMEl22B7QYH38YkNOTWT4w==
+Content-Language: en-us
+x-ms-exchange-organization-authas: Internal
+x-ms-exchange-organization-authmechanism: 10
+x-ms-exchange-organization-authsource: domain.com
+x-forefront-antispam-report: CIP:205.139.105.171;CTRY:US;IPV:NLI;EFV:NLI;SFV:NSPM;SFS:(438002)(52184005)(199003)(48214007)(189002)(102836001)(18206015026)(18926405002)(33646002)(54356999)(19617315012)(106906001)(76482001)(106466001)(110486001)(110136001)(104016003)(95666004)(64706001)(20776003)(107046002)(79102001)(107886001)(77982001)(229853001)(21056001)(83322001)(44976005)(19580405001)(19580395003)(104766002)(4396001)(80022001)(90102001)(85306004)(81342001)(71186001)(512874002)(87836001)(31966008)(81542001)(15975445006)(85852003)(74502001)(74662001)(92566001)(83072002)(84326002)(116076001)(108616004)(46102001)(50986999)(99396002)(87552001)(3826002)(24736002);DIR:INB;SFP:;SCL:1;SRVR:BN1AFFO11HUB018;H:domain.com;FPR:;MLV:sfv;PTR:domain.com;A:1;MX:1;LANG:en;
+received-spf: Pass (domain.com: domain of domain.com designates 205.139.105.171 as permitted sender) receiver=domain.com; client-ip=205.139.105.171; helo=domain.com;
+authentication-results: spf=pass (sender IP is 205.139.105.171) user@domain.com; 
+x-microsoft-antispam: BCL:6;PCL:0;RULEID:(83001);UriScan:;
+x-eopattributedmessage: 0
+x-domain.com: domain.com
+x-originating-ip: [::1]
+X-Message-Flag: Flag for follow up
+x-virtualserver: Bulk1, domain.com, 10.4.116.171
+x-virtualservergroup: Bulk1
+x-smfbl: YW15X3Bhc2NhbEBzcGUuc29ueS5jb20=
+x-smheadermap: mid="X-MailingID"
+x-destination-id: user@domain.com
+x-mailingid: 00000::4244bc7c-04d1-4712-9514-e52693afacb5::10927::41910869::1047709::0
+x-xsmessageid: 10927-41910869-1047709
+x-xsmailingid: 10927-41910869
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+
+
+
+ Dear friends,
+
+
+
+ Mayor Eric Garcetti is launching a campaign to raise the minimum wage at a Labor Day rally and press conference. We'll be there! Will you join us?
+
+What: Labor Day Rally to Address Poverty in Los Angeles
+
+ When: Monday, September 1, 2014
+
+ Time:  12-2 pm. Press Conference will begin at 1 pm.
+
+ Where: Martin Luther King Jr. Park, 3916 S. Western Ave., Los Angeles, CA 90062, in the picnic area west of the basketball court.
+Free parking will be available, and food and music will be provided.
+
+ I hope to see you there!
+
+
+
+
+ Shane Murphy Goldsmith
+President/CEO
+Find us online:
+Our website
+Our latest videos
+Our Facebook page
+On Twitter: @LibertyHill
+
+
+
+
+Liberty Hill Foundation, 6420 Wilshire Boulevard, Suite 700, Los Angeles, CA 90048  
+ 323.556.7200   |  fax 323.556.7240  |  user@domain.com  |  Privacy  |  Unsubscribe 
+
+

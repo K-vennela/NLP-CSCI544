@@ -1,0 +1,51 @@
+From: "User" <UserL@dnc.org>
+To: "User" <user@domain.com>
+CC: Andrew Brown <user@domain.com>, "McCabe, Sam" <user@domain.com>
+Subject: Talking Points for Sam
+Thread-Topic: Talking Points for Sam
+Thread-Index: AdGsYJ0vLtN0iBj5RyettDo3AChcrQ==
+Date: Thu, 12 May 2015 08:19:00 -0700
+Message-ID: <05user@domain.com>
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+Content-Type: multipart/related;
+	boundary="_004_05E01258E71AC046852ED29DFCD139D54DF1ACF6dncdag1dncorg_";
+	type="multipart/alternative"
+MIME-Version: 1.0
+
+Hi Tom, Sam MCabe is going to speak at a Microsoft panel next week that is open press. He has his core tech/data file talking points, but we need to give him some of the general points on the following. Can you please flesh it out for him with our stock language? Thanks.
+
+*         DVTF --- national voter file
+
+*         Investing in states and infrastructure
+
+*         Confident we'll be united, and both of our candidates have been using our list... every door, every call
+
+*         Trump won't rely on data, just earned media and large rallies:
+
+o   Republicans have already buried their post-2012 autopsy report's calls for inclusiveness, so it's not surprising that Donald Trump is also dumping their efforts at data and analytics. Democrats are happy to maintain the substantial digital edge we've had in the last two presidential elections, and we're going to continue to build on our ability to engage and understand voters. Remember that Hillary Clinton has earned 2 million more votes than Trump, and Bernie Sanders earned more votes than Ted Cruz and John Kasich through last week's primaries, so we won't argue with Mr. Trump's strategy.
+
+And Q&A for what NOT to talk about:
+
+*         Primary on Dem side --- other than to say we're working with both of our campaigns and have always been neutral.
+
+*         domain.com: It has been dismissed, there's nothing to add beyond the official statements our senior staff made.
+
+*         Data integrity post December incident:
+
+o   We've moved past it and working well with both of our campaigns. AND campaigns up and down the ballot. All of that is feeding into our modeling heading into the general election, which gives us a big advantage over the GOP, who have not been using the same list, don't have agreements with all the states, and have had a fragmented approach to the interfaces their campaigns have used.
+
+*         But what about the separate October incident the Sanders camp had flagged?
+
+o   We're confident in the integrity of our system. Our data edge gave us....pivot.
+
+Being taken over by presumptive nominee
+
+*         We're working with both campaigns. Above my pay grade on the how and when, but because we're well integrated with both already, it should be seamless.
+
+[SigDems]<<<link>>>User, Communications Director
+Organization
+202-863-8148 - user@domain.com<mailto:user@domain.com> - User<<<link>>>
+

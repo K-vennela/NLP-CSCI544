@@ -1,0 +1,28 @@
+Dear Ben,
+Thank you for this detailed update of your work. A few thoughts for 
+your consideration ...
+Where to submit this:  Although I understand your and Phil's 
+reluctance to try IJC, it seems to me that, despite the new work 
+presented, this is really a comment on Douglass et al. and so rightly 
+belongs in IJC.  If you suspect the review and publication process 
+there is unacceptably long, perhaps this should be confirmed by 
+inquiring with the editor, as a professional courtesy.  Decide in 
+advance what you'd consider a reasonable turn-around time, and if the 
+editor says it will take longer, going with another journal makes 
+sense.  
+Figures:  They look great.  As usual, you've done a super job telling 
+the story in pictures.  One suggestion would be to indicate in Fig. 3 
+which test, or trio of tests, is the most appropriate. Now it is shown 
+as the blue curves, but I'd suggest making these black (and the black 
+ones blue) and thicker than the rest.  That way those readers who just 
+skim the paper and look at the figures will get the message quickly.
+Observations: Have you considered including results from HadAT and 
+RATPAC as well as RAOBCOR?  For even greater completeness, a version 
+of RATPAC pared down based on the results of Randel and Wu could be 
+added, as could Steve Sherwood's adjusted radiosonde data.  I'd 
+suggest adding results from these datasets to your Fig. 1, not the 
+planned Fig 4, which I gather is meant to show the differences in 
+versions of RAOBCOR and the impact of Douglass et al.'s choice to use 
+and early version.
+With best wishes,
+Dian

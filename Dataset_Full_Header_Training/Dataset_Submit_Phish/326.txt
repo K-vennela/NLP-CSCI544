@@ -1,0 +1,51 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id AFC1023CACC;
+	Tue,  7 Aug 2015 19:34:09 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id g+mcLWoiNwkS; Tue,  7 Aug 2015 19:34:08 -0500 (CDT)
+Received: from MAILGW-SR1-ST0.TCU.EDU (MAILGW-SR1-ST0.TCU.EDU [138.237.38.62])
+	by domain.com (Postfix) with ESMTP id 5EC8823CABD;
+	Tue,  7 Aug 2015 19:34:08 -0500 (CDT)
+Received: from exhub2.tcu.edu (HELO tcu.edu) ([138.237.49.116])
+  by MAILGW-SR1-MTA.TCU.EDU with ESMTP/TLS/AES128-SHA; 07 Aug 2015 19:34:11 -0500
+Received: from SMAIL08.tcu.edu ([127.0.0.1]) by EXHUB2.tcu.edu
+ ([fe80::dd6b:7dbe:fdf3:e9c7%11]) with mapi; Tue, 7 Aug 2015 19:33:59 -0500
+From: "Springer, Matt" <M.R.SPRINGER@tcu.edu>
+Date: Tue, 7 Aug 2015 19:34:11 -0500
+Subject: Keeping track of your usage
+Thread-Topic: Keeping track of your usage
+Thread-Index: AQHNdP2Amg7b9Vz6PUy24BCW6aq+LQ==
+Message-ID: <6user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+acceptlanguage: en-US
+x-tcu-st: 1
+Content-Type: multipart/alternative;
+	boundary="_000_6AAC22D988F42546ADC28D08171E29A201A744937A8BSMAIL08_"
+MIME-Version: 1.0
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 113
+
+You have exceeded the domain.com of your mailbox set by our IT Service, and from=
+ now you cannot be receiving all incoming emails and also some of your outg=
+oing emails will not be delivered and LASTLY, your account will be 'DE-ACTI=
+VATED' within 24 hours from now. To prevent , you are advised to click on t=
+he link below to reset your account. Failure to do , will result to  limite=
+d access to your mailbox while your account will remain  IN-ACTIVE within t=
+he next 24 hours. click the link below:
+<<link>>
+UpZWlJaWW1YVHB4QmtyTmc6MQ
+Thanks for letting us serve you better!
+Regards,
+Management.
+Upgrade Department

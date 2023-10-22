@@ -1,0 +1,108 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Mon, 2 May
+ 2015 12:17:02 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Mon, 2 May 2015 
+ 12:16:59 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 891338224;
+ Mon, 02 May 2015 11:17:03 -0500
+X-Note-AR-ScanTimeLocal: 5/2/2016 11:17:02 AM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:209.85.192.41 DOM:gmail.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-215/SG:5 5/2/2016 11:16:14 AM
+X-GBUdb-Analysis: 1, 10.66.204.161, Ugly c=0.113212 p=-0.333333 Source Normal
+X-Signature-Violations: 0-0-0-13435-c
+X-Note-419: 15.6265 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/2/2016 11:16:55 AM
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->->United States->
+X-Note-Sending-IP: 209.85.192.41
+X-Note-Reverse-DNS: mail-qg0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G406 G667 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from mail-qg0-domain.com ([209.85.192.41] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 136520602;
+ Mon, 02 May 2015 11:17:02 -0500
+Received: by mail-qg0-domain.com with SMTP id w36so17335904qge.3;
+        Mon, 02 May 2015 09:17:01 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=From: Ryan Banfill <ryban1001@gmail.com>
+         :references:to;
+        bh=/rIZtX4P8BEadeZ+6rS5em49F621KxqkhQsqGAqIf0I=;
+        b=NebU3U137guZRtISG0YsZ0m/EFAaqck3wpKWBGLUgKFhqJBSTOR2CokD81l9HC5fi3
+         dT0lWsShovhoP6vdSxv/O5RcmK0inbBUt/+8U57H9vp1fv/lVg8FzSkJJkJy6+7OQtxC
+         g4IHkUogC7bSCdSoXCCGvkQ1UU59PG/01TZhihhvzmX3BVgwmBfhtDzOVJuq7iWFHs+0
+         Y2zuGhTfOPkOjqu4MmMPqNK+ZO5odtftR/K9CfSrtNfKDSxJ8bypmF07F+O4U3xAMVpK
+         MxhidIwL3vLrHvlddluWXBVN3HPs80g3OigD/GkNzhCb+RXFoWmvJWVddqEiWBmw1zhR
+         Y+yg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:From: Ryan Banfill <ryban1001@gmail.com>
+         :subject:message-id:date:references:to;
+        bh=/rIZtX4P8BEadeZ+6rS5em49F621KxqkhQsqGAqIf0I=;
+        b=UXTdstwGV6thl5zzEehldCbeivN6uZJXXNPIofg442K63Z1bQq6w7xE8wBMpRVzQrI
+         82ZuegA6nShDT7mvl6qoGIeql3S1hRh4+Xst5xYe/QUB2RnVNz3605+7+QmwVzGo7HNA
+         0YzDV/GGKXxBZMX2ENgtdtZb8d3PZGo0gor4ABzH9UXfyt3q5Vn8Txq072b1vuGtt9Mj
+         QLpA/FLvqdaxOaZPulPz/l6dFJ2ZIJJ7rsZzjrByjz3aZHVopEyAV83Reh+S5Xh2H02Z
+         r++LZtH6ES6oP/JtPHuwVtaXqtvqgIwvVU3XrHoO6ObnxjO8pxZRQZ5Njm+9vt4iYWvp
+         q7Qw==
+X-Gm-Message-State: AOPr4FWzkKue85wRP+QCpUNVwZGWa8zcBpHTNUFdGBAAHv2m/qZISiMkZXBTHRsZZGLJYA==
+X-Received: by 10.140.238.76 with SMTP id j73mr35078992qhc.24.1462205820694;
+        Mon, 02 May 2015 09:17:00 -0700 (PDT)
+Return-Path: <user@domain.com>
+Received: from [10.66.204.161] (mobile-166-171-057-079.domain.com.
+ [166.171.57.79])        by smtp.gmail.com with ESMTPSA id
+ 144sm9284254qhz.14.2016.05.02.09.16.59        (version=TLSv1/SSLv3
+ cipher=OTHER);        Mon, 02 May 2015 09:17:00 -0700 (PDT)
+From: Ryan Banfill <ryban1001@gmail.com>
+Content-Type: multipart/alternative;
+	boundary="Apple-Mail-A9F395F8-F8C4-43D1-8B2A-D1A39DC5DECB"
+Content-Transfer-Encoding: 7bit
+Subject: Fwd: Wasserman Schultz Statement on Thwarted Aventura Turnberry Jewish Center Attack
+Message-ID: <4user@domain.com>
+Date: Mon, 2 May 2015 12:16:59 -0400
+References: <user@domain.com>
+To: User <user@domain.com>, Mark Paustenbach <user@domain.com>,
+	Eric Walker <user@domain.com>, DWSChairOffice <user@domain.com>
+X-Mailer: iPhone Mail (13E238)
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Sent from my iPhone
+
+Begin forwarded message:
+
+ Center Attack
+
+ttack
+
+d the following statement today after the FBI arrested a suspect who had all=
+egedly planned to attack the Aventura Turnberry Jewish Center:
+
+ he was allegedly able to do harm to the Aventura Turnberry Jewish Center an=
+d its congregants, so many of whom are my constituents, who were observing t=
+he end of Passover. I will be in contact with federal and local authorities i=
+mmediately and working with them to ensure our community=E2=80=99s places of=
+ worship =E2=80=93 no matter what faith =E2=80=93 are safe for all those who=
+ worship in them. As the month of May begins and we recognize Jewish America=
+n Heritage Month, this attempted attack is a harsh reminder that there are m=
+any in our community who are motivated by bigotry and violence. As a communi=
+ty and a nation we must work together to confront this kind of hatred.=E2=80=
+=9D
+

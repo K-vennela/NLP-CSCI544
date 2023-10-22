@@ -1,0 +1,37 @@
+<x-flowed>
+Dear all,
+Please find attached the Bern2.5CC model output for the IPCC-AR4 
+millenium simulations, all spanning the period from 1000 - 1998AD. Some 
+plots including a preliminary comparison between CLIMBER-2 and Bern2.5CC 
+results are additionally included (see infos below).
+1. The following Bern2.5CC files are attached (with the simulation tag 
+as specified in Fortunat's readme document):
+Simulation B1.1:  Bern2.5CC_bard08_volcCrow_CO2_nonCO2_1000-1998_ar4.dat
+Simulation B1.2:  Bern2.5CC_bard25_volcCrow_CO2_nonCO2_1000-1998_ar4.dat
+Simulation B2   :  Bern2.5CC_WLS-2005_volcCrow_CO2_nonCO2_1000-1998_ar4.dat
+Simulation B3.1:  Bern2.5CC_bard08_volcCrow_CO2_anthr0_1000-1998_ar4.dat
+Simulation B3.2:  Bern2.5CC_bard25_volcCrow_CO2_anthr0_1000-1998_ar4.dat
+Simulation B3.3:  Bern2.5CC_WLS-2005_volcCrow_CO2_anthr0_1000-1998_ar4.dat
+Simulation B4   :  Bern2.5CC_ctrl_1000-1998_ar4.dat
+The variables stored are: year AD, globally averaged surface air 
+temperature, and northern hemispheric and southern hemispheric surface 
+air temperature. The most important information about model setup and 
+references is included in the extended header in each file. Please note 
+that the information on the forcing timeseries applied are specified in 
+the filename only!
+Please let me know if something is unclear or if you want additional 
+informations about these simulations in particular or the Bern2.5CC 
+model in general. I can also provide more output variables if desired 
+(such as e.g. MOC, Sea level, ...).
+2. In addition, the following plots with CLIMBER-2 and Bern2.5CC results 
+are attached:
+Dgmairtnorm_millenium_Bern2.5CC-CLIMBER2_1000_1998_ipccar4.eps
+Dgmairtnorm_millenium_Bern2.5CC-CLIMBER2_offset0.8_1000_1998_ipccar4.eps
+Dgmairtnorm_millenium_Bern2.5CC_1000_1998_ipccar4.eps
+Dgmairtnorm_millenium_CLIMBER2_1000_1998_ipccar4.eps
+All these plots show the anomaly in global mean surface air temperature 
+with respect to the value in year 1001AD from either CLIMBER-2, 
+Bern2.5CC, or both. Let me know if you have questions or comments about 
+the plots.
+With best regards,
+Gian-Kasper

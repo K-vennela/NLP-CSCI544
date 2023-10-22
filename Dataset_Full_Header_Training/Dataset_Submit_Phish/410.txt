@@ -1,0 +1,104 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.4.9])
+	by domain.com (Postfix) with ESMTP id 173E9468C6
+	for <user@domain.com>; Tue, 17 Apr 2015 11:08:28 -0400 (EDT)
+Received: from 210.181.2.214 (unknown [210.181.2.214])
+	by domain.com (Postfix) with SMTP id 7BB55131FA71
+	for <user@domain.com>; Tue, 17 Apr 2015 11:08:27 -0400 (EDT)
+Received: from 105.240.10.109 by ; Tue, 17 Apr 2015 15:49:49 +0100
+Message-ID: <user@domain.com>
+From: "eBay" <member@ebay.com>
+Reply-To: "User" <user@domain.com>
+To: user@domain.com
+Subject: Happy Anniversay from eBay !
+Date: Tue, 17 Apr 2015 13:41:49 -0100
+X-Mailer: Microsoft Outlook Express 5.00.2919.6700
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--687515225797034502"
+X-Priority: 3
+X-MSMail-Priority: Normal
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1133
+
+eBay sent this mes=
+sage to eBay Member. 
+Your registered name is included to show=
+ this message originated from eBay. Learn more.
+
+=
+
+
+
+
+=
+
+=
+
+<=
+/TD>
+
+
+
+Learn More=
+ to protect yourself from Spoof (fake) e-mails. 
+
+
+
+eBay sent this e-mail to you because your Notifica=
+tion Preferences 
+
+
+
+indicate that you want to receive information about Sp=
+ecial Events & Promotions. 
+
+
+
+eBay will not request personal data (password, domain.com =
+card/bank numbers) in an e-mail. 
+
+
+
+If you do not wish to receive further communicatio=
+ns, sign into "My eBay" by clicking on the 
+
+
+
+"My eBay" link found at the top of the eBay =
+home page and change your Notification Preferences.
+
+
+
+Please note that it may take up to 10 days to process =
+your request. 
+
+
+
+domain.com our 
+                Privacy Policy and 
+                User Agreement if you have any questions. 
+
+
+
+Copyright © 2015 eBay Inc. All Rights Reserve=
+d. 
+
+
+
+Designated trademarks and brands are the property of t=
+heir respective owners. 
+
+
+
+eBay and the eBay logo are trademarks of eBay Inc. 
+
+
+
+eBay is located at 2015 Hamilton Avenue, San Jose, CA =
+95125.
+

@@ -1,0 +1,30 @@
+Dear Ulrich,
+That's fine--you can go ahead and use it. But I have to issue a number of caveats first.
+This is a version we gave Tim Osborne when he was visiting here, and since Tim hasn't used
+it, and we haven't compared results from that code w/ our published results, I can't vouch
+for it--it may or may not be the exact same version we ultimately used, and it may or may
+not run properly on platforms other than the one I was using (Sun running ultrix). Scott
+Rutherford (whom I've cc'd on this email) has worked with the code more frequently.
+The code is not very user friendly unfortunately. For example, the determination of the
+optimal subset of PCs to retain is based on application of the criterion described in our
+paper, which involves running the code many times w/ different choices. So the "iterative"
+process has to be performed by brute force.
+The method, as outlined, is quite straightforward and others have implemented it
+themselves.  SO you might prefer to code it yourself. That would be my suggestion. But you
+are, of course, free to use our code.
+That having been said, we have essentially abandoned that method now in favor of a
+somewhat  more sophisticated version of the approach, which makes use of the RegEM method
+for imputing missing values of a field described by Schneider (J. Climate, 2000).
+Some initial results are described here:
+Mann, M.E., Rutherford, S., Climate Reconstruction Using 'Pseudoproxies', Geophysical
+Research Letters, 29 (10), 1501, doi: 10.1029/2001GL014554
+[1]ftp://holocene.evsc.virginia.edu/pub/mann/Pseudoproxy02.[2]pdf
+and in a paper in press in Journal of Climate.
+Rutherford, S., Mann, M.E., Delworth, T.L., Stouffer, R., The Performance of
+Covariance-Based Methods of Climate Field Reconstruction Under Stationary and Nonstationary
+Forcing, J. Climate, in press, 2003.
+(I don't have the preprint--Scott Rutherford can provide you with one however).
+In our view, this is a preferable approach on a number of levels, though the results
+obtained are generally quite similar.
+I will be in Nice, and looking forward to seeing you there,
+Mike

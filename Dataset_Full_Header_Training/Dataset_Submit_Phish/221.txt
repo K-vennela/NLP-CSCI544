@@ -1,0 +1,75 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [10.5.6.7])
+	by domain.com (Postfix) with ESMTP id 9D7DC469F9
+	for <user@domain.com>; Sun, 30 Jul 2015 09:37:03 -0400 (EDT)
+Received: from 216.82.93.155 (domain.com [216.82.93.155])
+	by domain.com (Postfix) with SMTP id E17936CD126
+	for <user@domain.com>; Sun, 30 Jul 2015 09:37:04 -0400 (EDT)
+Received: from 80.114.16.138 by ; Sun, 30 Jul 2015 13:37:05 -0100
+Message-ID: <user@domain.com>
+From: "Amazon.com" <update-account@amazon.com>
+Reply-To: "User" <user@domain.com>
+To: user@domain.com
+Subject: Action Required: Your Amazon Update Account
+Date: Sun, 30 Jul 2015 19:35:05 +0500
+X-Mailer: domain.com Mail Service (5.5.2650.21)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--7024451217339555"
+X-Priority: 3
+X-MSMail-Priority: Normal
+Status: R
+X-Status: 
+X-Keywords: 
+
+Your 
+Store
+
+See A=
+ll 31
+Product Categories
+
+   Your Account<=
+/FONT> |  Cart | Wish List |  | Help 
+
+
+
+
+At the =
+last reviewing at your amazon account we discovered that your information =
+is inaccurate. We apologize for this but because most frauds are possible =
+because we don't have enough information about our clients, we require thi=
+s verification. Please login and reenter your personal information<=
+/SPAN>. 
+
+Please follow this link to update your pers=
+onal information: 
+
+<<link>>
+dos/sign-in.html
+(To complete the verification process you m=
+ust fill in all the required fields) 
+
+Please note: If you don't update your information within next 48=
+ hours , we will be forced to suspend your account untill you have the tim=
+e to contact us by phone. 
+
+We apreciate your support and understanding, as we work together to kee=
+p amazon market a safe place to trade. Thank you for your attention on thi=
+s serious matter and we apologize. 
+
+Regards, 
+
+Jeff Bezos 
+
+Founder & CEO 
+
+This message was generated aut=
+omatically, please do not reply to it. Amazon treats your personal informa=
+tion with the utmost care, and our Privacy Policy is designed to protect y=
+ou and your information.
+
+
+

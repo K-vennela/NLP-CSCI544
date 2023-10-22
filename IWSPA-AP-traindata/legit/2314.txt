@@ -1,0 +1,18 @@
+Hi Peck et al.,
+I've increased the axis labelling font size by another pt in all plots.
+I attach two versions of 6.10, one in the grey (same as before except for bigger axis
+labelling) and one in brown.  Brown looks like some old curry stain (or worse!).  Note that
+conversion from postscript to PDF or GIF tends to alter the colours, which alter again on
+different printers compared with the screen.  So there's not much point in me playing
+around much more with the colours.
+Also attached are new versions of 6.13 and 6.14.  Both have the bigger axis fonts and the
+matching grey shading as 6.10.
+6.13 has thicker lines for all models, so they show up better on the new darker grey
+shading.
+6.14 now has the EMIC forcing shown without any smoothing.  I have used a vertical scale
+for the volcanoes which is half that of the solar and anthropogenic forcings.  Only one
+spike (1258) hits the bottom of the plot with this choice of scaling, and only a couple
+overlap the solar forcing lines.  What do you think now (Fortunat too)?  Oh, and I also
+start now at 1000 rather than 900 AD.
+Cheers
+Tim

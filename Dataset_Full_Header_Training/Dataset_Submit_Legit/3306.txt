@@ -1,0 +1,82 @@
+Received: from domain.com (146.215.230.102) by
+ domain.com (43.130.141.77) with Microsoft SMTP Server id
+ 8.3.297.1; Mon, 2 Dec 2015 17:40:35 -0800
+Received: from domain.com ([160.33.194.228])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id rB31eYSk003848	for <user@domain.com>; Tue, 3 Dec 2015 
+ 01:40:34 GMT
+Received: from mail198-db8-domain.com
+ (mail-domain.com [213.199.154.177])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id rB31eXil032402	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128
+ verify=FAIL)	for <user@domain.com>; Tue, 3 Dec 2015 01:40:34 GMT
+Received: from mail198-db8 (localhost [127.0.0.1])	by
+ mail198-db8-domain.com (Postfix) with ESMTP id D4D3358064B	for
+ <user@domain.com>; Tue,  3 Dec 2015 01:40:32 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:192.64.236.105;KIP:(null);UIP:(null);IPV:NLI;H:mx-domain.com;RD:mx-domain.com;EFVD:NLI
+X-SpamScore: 1
+X-BigFish: vps1(zzc545Ic89bhc857hdbb0izz1f42h2148h208ch1ee6h1de0h1fdah2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6hzz1def03h1d7338h1de098h17326ah1def87h8275bh1bc7b9h8275dh1defc1h1def86h1de097h1de096h186068h172c6ch1ce120hz2fheh5fh839ha12he5bh1288h12a5h137ah139eh13eah1441h14ddh1504h1537h162dh1631h1758h1898h18e1h1946h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1e23h1fe8h1ff5h20f0h2218h2216h226dh2327h2336h214ai1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail198-db8: domain of domain.com designates 192.64.236.105 as permitted sender) client-ip=192.64.236.105; user@domain.com; helo=mx-domain.com ;domain.com ;
+Received: from mail198-db8 (localhost.localdomain [127.0.0.1]) by mail198-db8
+ (MessageSwitch) id 138603483076118_27585; Tue,  3 Dec 2015 01:40:30 +0000
+ (UTC)
+Received: from domain.com (unknown [10.174.8.239])	by
+ mail198-domain.com (Postfix) with ESMTP id 0DA8744006C	for
+ <user@domain.com>; Tue,  3 Dec 2015 01:40:30 +0000 (UTC)
+Received: from mx-domain.com (192.64.236.105) by domain.com
+ (10.174.4.11) with Microsoft SMTP Server id 14.16.227.3; Tue, 3 Dec 2015 
+ 01:40:29 +0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1386034829;
+	s=sailthru; d=variety.com;
+	h=Date:From: Variety Breaking News <donotreply@variety.com>
+	bh=edxHfYb0eDkjBGeORrfZ8g3WjSNqpux/2BbPCn6UEuw=;
+	b=SgUtqvdzcSofbYc8ZebkoZZrFSauo/JThIoZd0Q7a+XG/7xnGE2WiUrC68UlHt5R
+	wp3npyrIGa0mBtZ0L9QDlYJ+Ogz6BrkJ9iewDzswBL62tCe2WgxijW2t04K9vHk+75n
+	1+l+KohMv/9N+WefkzGGk0/bu95VpIYBp3Y9gPEU=
+Date: Mon, 2 Dec 2015 20:40:29 -0500
+From: Variety Breaking News <donotreply@variety.com>
+To: <user@domain.com>
+Message-ID: <20131203014029.2080518.20490@domain.com>
+Subject: Christopher Evan Welch,  Actor on Stage and Screen, Dies in L.A.
+Precedence: bulk
+X-TM-ID: 20131203014029.2080518.20490
+X-Info: Message sent by domain.com customer Variety
+X-Info: We do not domain.com unsolicited commercial email
+X-Info: Please report abuse by forwarding complete headers to
+X-Info: user@domain.com
+X-Mailer: domain.com
+X-IADB-IP: 192.64.236.105
+X-IADB-IP-REVERSE: 105.236.64.192
+X-IADB-URL: <<link>>
+X-Unsubscribe-Web: <<link>>
+List-Unsubscribe: <<<link>>>, <mailto:user@domain.com>
+X-rpcampaign: stcoy2080518
+Return-Path: user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+Christopher Evan Welch, who appeared onstage in numerous plays, in films including Steven Spielb... 
+
+​ 
+
+Variety         
+
+Breaking News   
+
+Monday, December 2, 2015        
+
+​ 
+
+        Christopher Evan Welch, Actor on Stage and Screen, Dies in L.A.                 
+
+        Christopher Evan Welch, who appeared onstage in numerous plays, in films including Steven Spielberg's "War of the Worlds" and "Li...            
+        Full Story              
+
+
+
+
+Subscribe to Other Variety Newsletters   <<link>>         
+This e
+

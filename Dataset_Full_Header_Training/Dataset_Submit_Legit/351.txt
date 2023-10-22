@@ -1,0 +1,390 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Sat, 7 May
+ 2015 07:59:39 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Sat, 7 May 2015 
+ 07:59:37 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 902074105
+ for user@domain.com; Sat, 07 May 2015 06:59:42 -0500
+X-Note-AR-ScanTimeLocal: 5/7/2016 6:59:38 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:167.89.47.62 DOM:email.medium.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 100
+X-GBUdb-Analysis: 0, 167.89.47.62, Ugly c=0 p=0 Source New
+X-Signature-Violations: 100-5946619-20059-20073-m
+	100-5946619-0-32463-f
+X-Note-419: 46.8781 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/7/2016 6:59:36 AM
+X-Warn: BOUNCETRACKER Bounce User Tracking Found
+X-Warn: BULKMAILER
+X-Note: Spam Tests Failed: BOUNCETRACKER, BULKMAILER
+X-Country-Path: United States->->United States->
+X-Note-Sending-IP: 167.89.47.62
+X-Note-Reverse-DNS: o2.email.medium.com
+X-Note-Return-Path: bounces+1823144-5user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G281 G286 G340 G374 G580 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from o2.email.medium.com ([167.89.47.62] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 137314858
+ for user@domain.com; Sat, 07 May 2015 06:59:37 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=medium.com; 
+	h=content-type:From: Medium Daily Digest <noreply@medium.com>
+	s=m1; bh=1wPeUUX4pIm2ZQQnpndj8ggJ1CM=; b=AQ4DAor/Z4NlXq5/xGH4iA2
+	vjvegj+fkLSGZnlsbFVPF9kfOTJsoMyv62+VbYj94T3X+UfM+H/Pqa8qGspyYVun
+	56aR3jRAc/ro3Nr4OQCx5CHeaEkr9/osWKONiQ9xTjE4iGsG0wufAzA81OYJfUDU
+	TCI3jzheFR+K0M5mYuHQ=
+Received: by domain.com with SMTP id
+ filter0915p1mdw1.25344.572DD8A74C        2016-05-07 11:59:35.885868505 +0000
+ UTC
+Received: from MTgyMzE0NA (ec2-52-21-133-138.compute-1.domain.com
+ [52.21.133.138])	by domain.com (SG) with HTTP id
+ IZr6gw_OR6aobZNRflPJGA	for <user@domain.com>; Sat, 07 May 2015 11:59:35.983
+ +0000 (UTC)
+Content-Type: multipart/alternative;
+	boundary="ec2faaf01f175e1c63c64b003697ecdd6e5a280f5b78d19a8ec1bf4fd156"
+Date: Sat, 7 May 2015 11:59:35 +0000
+From: Medium Daily Digest <noreply@medium.com>
+List-Unsubscribe: <<<link>>>
+Reply-To: <user@domain.com>
+Subject: =?UTF-8?Q?=E2=80=9CA_Nation_of_Second_Chances=E2=80=9D_published_by_Barac?=
+ =?UTF-8?Q?k_Obama?=
+To: <user@domain.com>
+Message-ID: <user@domain.com>
+X-SG-EID: /qskMPcwxb1VaCv1PswYfL3cIKK16+tE+dB/q/CjBM1cpXYTwIucwyF18xEGSqhP0ZRNB8WRHhbknr
+ eejhQUUiqVDPEfIPT1mBQ/geR0aHvaEVacvVhzr55pvUE0kggyLbBR9A7YvZrU/WYiWJAqk+ec4a5Z
+ f1WPphnJGd/hn/5UOyv+2jIFH+dtx+Vg0p1OBHqWyc/GPL/beG7DVjAz9h39chh7T4jYlAy0LjfrVS
+ Y=
+X-SG-ID: D6Z+UOEZAHNtlrjTKHUMD6OKnfAd9rdoSFhgTrqNv6o482DaVicG8oWHYG/MCx3rgDD1jU+Wk4bsKd
+ bgD/fzLw==
+Return-Path: bounces+1823144-5user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Medium Daily Digest (<<link>>
+2065854-daily_digest) Recommended by
+
+Medium Staff
+
+A Nation of Second Chances (<<link>>
+second-chances-bc35d820ec79?source=3Demail-7ccd17ba0f59-1462622065854-daily=
+_digest&sectionName=3Dsuggested) Earlier this spring, I met with a group of=
+ individuals whose sentences were commuted either by President Bush, Presid=
+ent Clinton, or myself=E2=80=A6 (<<link>>
+n-of-second-chances-bc35d820ec79?source=3Demail-7ccd17ba0f59-1462622065854-=
+daily_digest&sectionName=3Dsuggested) . They were all at different stages o=
+f a new chapter in their lives, but each of their stories was extraordinary=
+. =C2=B6
+
+Take Phillip Emmert. When he was 27, Phillip made a mistake. He was arreste=
+d and=E2=80=A6
+
+Barack Obama (<<link>>
+9-1462622065854-daily_digest)3 min read
+
+Reasons My Crush Didn=E2=80=99t Text Me Back (<<link>>
+/reasons-my-crush-didnt-text-me-back-8b40b73da6a7?source=3Demail-7ccd17ba0f=
+59-1462622065854-daily_digest&sectionName=3Dsuggested) he fell (<<link>>
+domain.com/@catccohen/reasons-my-crush-didnt-text-me-back-8b40b73da6a7?source=
+=3Demail-7ccd17ba0f59-1462622065854-daily_digest&sectionName=3Dsuggested) C=
+atherine Cohen (<<link>>
+462622065854-daily_digest)2 min read
+
+When The Addict Who Dies Is Someone You Love (<<link>>
+o/when-the-addict-who-dies-is-someone-you-love-b1e1d0045ca5?source=3Demail-=
+7ccd17ba0f59-1462622065854-daily_digest&sectionName=3Dsuggested) This past =
+Monday morning, I was driving to the airport for a television appearance wh=
+en my friend Jeremy called. He said he had some very=E2=80=A6 (<<link>>
+domain.com/@IjeomaOluo/when-the-addict-who-dies-is-someone-you-love-b1e1d0045ca=
+5?source=3Demail-7ccd17ba0f59-1462622065854-daily_digest&sectionName=3Dsugg=
+ested) Ijeoma Oluo (<<link>>
+f59-1462622065854-daily_digest)6 min read
+
+Expanding Trans Media Representation: Why Transgender Actors Should Be Cast=
+ in Cisgender Roles (<<link>>
+representation-why-transgender-actors-should-be-cast-in-cisgender-roles-f88=
+0cb7bb36e?source=3Demail-7ccd17ba0f59-1462622065854-daily_digest&sectionNam=
+e=3Dsuggested) Ten years ago, I was immersed in writing my first book Whipp=
+ing Girl: A Transsexual Woman on Sexism and the Scapegoating of Femininity.=
+ At=E2=80=A6 (<<link>>
+ntation-why-transgender-actors-should-be-cast-in-cisgender-roles-f880cb7bb3=
+6e?source=3Demail-7ccd17ba0f59-1462622065854-daily_digest&sectionName=3Dsug=
+gested) in Gender 2.0 (<<link>>
+a0f59-1462622065854-daily_digest), by Julia Serano (<<link>>
+iaserano?source=3Demail-7ccd17ba0f59-1462622065854-daily_digest)9 min read
+
+26 Things That Won=E2=80=99t Cure My Depression (<<link>>
+ser/top-10-things-that-wont-cure-my-depression-b4cbb400507a?source=3Demail-=
+7ccd17ba0f59-1462622065854-daily_digest&sectionName=3Dsuggested) 26. Going =
+off all my medication. (<<link>>
+nt-cure-my-depression-b4cbb400507a?source=3Demail-7ccd17ba0f59-146262206585=
+4-daily_digest&sectionName=3Dsuggested) eve peyser (<<link>>
+peyser?source=3Demail-7ccd17ba0f59-1462622065854-daily_digest)1 min read
+
+Published by
+
+Authors and publications you follow
+
+Administration Finally Awards American Heroes Killed in Benghazi (<<link>>
+domain.com/@heritage/administration-finally-awards-american-heroes-killed-in=
+-benghazi-9c45b7c3aa3d?source=3Demail-7ccd17ba0f59-1462622065854-daily_dige=
+st&sectionName=3Dpublished) by Helle Dale (<<link>>
+inistration-finally-awards-american-heroes-killed-in-benghazi-9c45b7c3aa3d?=
+source=3Demail-7ccd17ba0f59-1462622065854-daily_digest&sectionName=3Dpublis=
+hed) The Obama administration=E2=80=99s decision recently to award two form=
+er Navy SEALs, killed in the line of duty overseas, is so obviously the rig=
+ht one and should have been taken long ago. =C2=B6
+
+The case that=E2=80=A6
+
+in The Heritage Foundation (<<link>>
+ce=3Demail-7ccd17ba0f59-1462622065854-daily_digest), by Heritage Foundation=
+ (<<link>>
+ily_digest)2 min read
+
+What You Should Know About the April Jobs Report (<<link>>
+Sec/what-you-should-know-about-the-april-jobs-report-d0f7ebd79191?source=3D=
+email-7ccd17ba0f59-1462622065854-daily_digest&sectionName=3Dpublished) Toda=
+y=E2=80=99s jobs report is further evidence of a steady recovery that conti=
+nues to put more people back to work. The economy added 160,000 jobs=E2=80=
+=A6 (<<link>>
+-report-d0f7ebd79191?source=3Demail-7ccd17ba0f59-1462622065854-daily_digest=
+&sectionName=3Dpublished) Tom Perez (<<link>>
+email-7ccd17ba0f59-1462622065854-daily_digest)3 min read
+
+Asked and Answered: The Power of Being a Teacher (<<link>>
+House/asked-and-answered-the-power-of-being-a-teacher-acbbc0cf8cad?source=
+=3Demail-7ccd17ba0f59-1462622065854-daily_digest&sectionName=3Dpublished) F=
+or Danny, a 36-year-old history teacher from Virginia, teaching is in his b=
+lood. He=E2=80=99s the husband, son, brother-in-law, and nephew of=E2=80=A6=
+ (<<link>>
+acher-acbbc0cf8cad?source=3Demail-7ccd17ba0f59-1462622065854-daily_digest&s=
+ectionName=3Dpublished) The White House (<<link>>
+rce=3Demail-7ccd17ba0f59-1462622065854-daily_digest)2 min read
+
+Joe Biden essentially correct that cervical cancer =E2=80=98totally prevent=
+able=E2=80=99 in Africa (<<link>>
+-correct-that-cervical-cancer-totally-preventable-in-africa-8a6c4f14e58e?so=
+urce=3Demail-7ccd17ba0f59-1462622065854-daily_digest&sectionName=3Dpublishe=
+d) By Jon Greenberg, PolitiFact (<<link>>
+asically-correct-that-cervical-cancer-totally-preventable-in-africa-8a6c4f1=
+4e58e?source=3Demail-7ccd17ba0f59-1462622065854-daily_digest&sectionName=3D=
+published) PolitiFact (<<link>>
+ba0f59-1462622065854-daily_digest)5 min read
+
+#UndocuMom: A story of Florencia (<<link>>
+ented-mothers-a-story-from-florencia-5dcfe626555f?source=3Demail-7ccd17ba0f=
+59-1462622065854-daily_digest&sectionName=3Dpublished) My mother is Florenc=
+ia =E2=80=94 she is a person who I admire and continue to learn from everyd=
+ay. (<<link>>
+orencia-5dcfe626555f?source=3Demail-7ccd17ba0f59-1462622065854-daily_digest=
+&sectionName=3Dpublished) domain.com (<<link>>
+EAM?source=3Demail-7ccd17ba0f59-1462622065854-daily_digest)2 min read
+
+New Chicago Schools Bathroom Policy Proves Liberals=E2=80=99 Extreme Agenda=
+ (<<link>>
+iberals-extreme-agenda-60ae07c32f31?source=3Demail-7ccd17ba0f59-14626220658=
+54-daily_digest&sectionName=3Dpublished) in The Heritage Foundation (https:=
+//medium.com/the-heritage-foundation?source=3Demail-7ccd17ba0f59-1462622065=
+854-daily_digest), by Heritage Foundation (<<link>>
+rce=3Demail-7ccd17ba0f59-1462622065854-daily_digest)4 min read
+
+Adelson endorses Trump despite his views on Israel, more (<<link>>
+m/@RalstonReports/adelson-endorses-trump-despite-his-views-on-israel-more-5=
+0865f9011e7?source=3Demail-7ccd17ba0f59-1462622065854-daily_digest&sectionN=
+ame=3Dpublished) As the New York Times reported, Sheldon Adelson has endors=
+ed Donald Trump for president. (<<link>>
+endorses-trump-despite-his-views-on-israel-more-50865f9011e7?source=3Demail=
+-7ccd17ba0f59-1462622065854-daily_digest&sectionName=3Dpublished) Jon Ralst=
+on (<<link>>
+65854-daily_digest)2 min read
+
+How Washington Politicians Wasted Billions Trying to =E2=80=98Invest in Our=
+ Future=E2=80=99 (<<link>>
+asted-billions-trying-to-invest-in-our-future-cfaa09c691d5?source=3Demail-7=
+ccd17ba0f59-1462622065854-daily_digest&sectionName=3Dpublished) A penny sav=
+ed is a penny earned and a taxpayer dollar spent on energy is a taxpayer do=
+llar wasted. (<<link>>
+d-billions-trying-to-invest-in-our-future-cfaa09c691d5?source=3Demail-7ccd1=
+7ba0f59-1462622065854-daily_digest&sectionName=3Dpublished) in The Heritage=
+ Foundation (<<link>>
+17ba0f59-1462622065854-daily_digest), by Heritage Foundation (<<link>>
+m.com/@heritage?source=3Demail-7ccd17ba0f59-1462622065854-daily_digest)4 mi=
+n read
+
+POLITICO Playbook: HOW RYAN DECIDED TO DITCH TRUMP =E2=80=94 HILLARY TAKES =
+ON Trump=E2=80=99s =E2=80=98taco bowl=E2=80=99 tweet (<<link>>
+ikeallen/politico-playbook-how-ryan-decided-to-ditch-trump-hillary-takes-on=
+-trumps-taco-bowl-tweet-f852e05c5a3d?source=3Demail-7ccd17ba0f59-1462622065=
+854-daily_digest&sectionName=3Dpublished) HAPPY Friday. Sunday is Mother=E2=
+=80=99s Day. (<<link>>
+ded-to-ditch-trump-hillary-takes-on-trumps-taco-bowl-tweet-f852e05c5a3d?sou=
+rce=3Demail-7ccd17ba0f59-1462622065854-daily_digest&sectionName=3Dpublished=
+) Mike Allen (<<link>>
+2622065854-daily_digest)11 min read
+
+#UndocuMom: A story of Lidia Esperanza Melara-Suncin (<<link>>
+NITEDWEDREAM/undocumented-mothers-day-a-story-from-lidia-esperanza-melara-s=
+uncin-90590ff931f8?source=3Demail-7ccd17ba0f59-1462622065854-daily_digest&s=
+ectionName=3Dpublished) My mother is Lidia Esperanza Melara-Suncin =E2=80=
+=94 She is a women I admire a lot because her courage to stand against dome=
+stic violence and for=E2=80=A6 (<<link>>
+ted-mothers-day-a-story-from-lidia-esperanza-melara-suncin-90590ff931f8?sou=
+rce=3Demail-7ccd17ba0f59-1462622065854-daily_digest&sectionName=3Dpublished=
+) domain.com (<<link>>
+7ba0f59-1462622065854-daily_digest)2 min read
+
+Is Trump out of step with Americans on foreign policy? (<<link>>
+@Brookings/is-trump-out-of-step-with-americans-on-foreign-policy-a84216703b=
+94?source=3Demail-7ccd17ba0f59-1462622065854-daily_digest&sectionName=3Dpub=
+lished) By Bill Galston (<<link>>
+-with-americans-on-foreign-policy-a84216703b94?source=3Demail-7ccd17ba0f59-=
+1462622065854-daily_digest&sectionName=3Dpublished) The Brookings Instituti=
+on (<<link>>
+-daily_digest)4 min read
+
+#UndocuMom: A story of Elvira (<<link>>
+ed-mothers-a-story-from-elvira-db8351b87d2e?source=3Demail-7ccd17ba0f59-146=
+2622065854-daily_digest&sectionName=3Dpublished) My mother is Elvira =E2=80=
+=94 she is a person who I admire a lot. (<<link>>
+undocumented-mothers-a-story-from-elvira-db8351b87d2e?source=3Demail-7ccd17=
+ba0f59-1462622065854-daily_digest&sectionName=3Dpublished) UnitedWeDream.or=
+g (<<link>>
+854-daily_digest)1 min read
+
+Madre indocumentada: Una historia de Alma Leticia Mendoza E. #UndocuMom (ht=
+tps://medium.com/@UNITEDWEDREAM/madre-indocumentada-una-historia-de-alma-le=
+ticia-mendoza-e-undocumom-3638d9b0c5a6?source=3Demail-7ccd17ba0f59-14626220=
+65854-daily_digest&sectionName=3Dpublished) Mi mami es Alma Leticia Mendoza=
+ E. Ella es una persona que admire inmensamente.Mi mami es originaria de Ch=
+ihuahua, M=C3=A9xico. Ella siempre me=E2=80=A6 (<<link>>
+EDREAM/madre-indocumentada-una-historia-de-alma-leticia-mendoza-e-undocumom=
+-3638d9b0c5a6?source=3Demail-7ccd17ba0f59-1462622065854-daily_digest&sectio=
+nName=3Dpublished) domain.com (<<link>>
+rce=3Demail-7ccd17ba0f59-1462622065854-daily_digest)1 min read
+
+This is either right or wrong depending on how you calculate it. (<<link>>
+domain.com/@PolitiFact/this-is-either-right-or-wrong-depending-on-how-you-ca=
+lculate-it-cc9b35710b04?source=3Demail-7ccd17ba0f59-1462622065854-daily_dig=
+est&sectionName=3Dpublished) When we asked Biden=E2=80=99s office for clari=
+fication, a spokeswoman said that while there are some premier facilities s=
+uch as the Titan that=E2=80=A6 (<<link>>
+er-right-or-wrong-depending-on-how-you-calculate-it-cc9b35710b04?source=3De=
+mail-7ccd17ba0f59-1462622065854-daily_digest&sectionName=3Dpublished) domain.com=
+iFact (<<link>>
+5854-daily_digest)1 min read
+
+#UndocuMom: A story of Maria (<<link>>
+-story-of-an-undocumented-mother-b0dbbc51ba10?source=3Demail-7ccd17ba0f59-1=
+462622065854-daily_digest&sectionName=3Dpublished) The oppressed realities =
+of poverty forced her and my father to leave our native country. She risked=
+ her life that night. The same stars=E2=80=A6 (<<link>>
+DREAM/undocumom-a-story-of-an-undocumented-mother-b0dbbc51ba10?source=3Dema=
+il-7ccd17ba0f59-1462622065854-daily_digest&sectionName=3Dpublished) UnitedW=
+domain.com (<<link>>
+462622065854-daily_digest)2 min read
+
+#UndocuMom: A story of Ana (<<link>>
+tory-of-ana-57924b18010b?source=3Demail-7ccd17ba0f59-1462622065854-daily_di=
+gest&sectionName=3Dpublished) My mother is Ana =E2=80=94 she is the reason =
+I am who I am today. (<<link>>
+f-ana-57924b18010b?source=3Demail-7ccd17ba0f59-1462622065854-daily_digest&s=
+ectionName=3Dpublished) domain.com (<<link>>
+M?source=3Demail-7ccd17ba0f59-1462622065854-daily_digest)1 min read
+
+Most recommended by
+
+People you follow
+
+Adam Conner (<<link>>
+2622065854-daily_digest)
+
+You=E2=80=99re the mom now, dog. (<<link>>
+om-now-dog-f56dabc43bdb?source=3Demail-7ccd17ba0f59-1462622065854-daily_dig=
+est&sectionName=3Drecommended) Some pro tips for dealing with dementia and =
+his inbred cousin, Alzheimer=E2=80=99s (<<link>>
+-the-mom-now-dog-f56dabc43bdb?source=3Demail-7ccd17ba0f59-1462622065854-dai=
+ly_digest&sectionName=3Drecommended) My earliest memory of my mom is from a=
+n Easter Sunday when I was a toddler. I don=E2=80=99t know the year and hav=
+e no photo of the moment, but I can picture the oversized mylar bunny ballo=
+on and our color=E2=80=A6 (<<link>>
+dog-f56dabc43bdb?source=3Demail-7ccd17ba0f59-1462622065854-daily_digest&sec=
+tionName=3Drecommended)
+
+Chelsea Maughan Kohler (<<link>>
+ba0f59-1462622065854-daily_digest)9 min read
+
+Alex Mizrahi (<<link>>
+22065854-daily_digest)
+
+Goodbye, for now (<<link>>
+?source=3Demail-7ccd17ba0f59-1462622065854-daily_digest&sectionName=3domain.com=
+mended) This is my last week at Blue State Digital. My colleagues here are =
+many of the smartest and hardest working people I know and I=E2=80=99m prou=
+d of=E2=80=A6 (<<link>>
+urce=3Demail-7ccd17ba0f59-1462622065854-daily_digest&sectionName=3Drecommen=
+ded) Chris Choi (<<link>>
+462622065854-daily_digest)2 min read
+
+Alex Mizrahi (<<link>>
+22065854-daily_digest)
+
+The Thing You Don=E2=80=99t Understand About Los Angeles (<<link>>
+m/@jspector/the-thing-you-dont-understand-about-los-angeles-3602d6d4e9e?sou=
+rce=3Demail-7ccd17ba0f59-1462622065854-daily_digest&sectionName=3Drecommend=
+ed) Unless you live here=E2=80=A6 (<<link>>
+ou-dont-understand-about-los-angeles-3602d6d4e9e?source=3Demail-7ccd17ba0f5=
+9-1462622065854-daily_digest&sectionName=3Drecommended) Josh Spector (https=
+://medium.com/@jspector?source=3Demail-7ccd17ba0f59-1462622065854-daily_dig=
+est)2 min read
+
+Top stories in
+
+news
+
+In Defense of E-Cigarettes (<<link>>
+-e-cigarettes-e6f67e9d3b0e?source=3Demail-7ccd17ba0f59-1462622065854-daily_=
+digest&sectionName=3Dtag) They=E2=80=99re already stigmatized out of all pr=
+oportion to their health effects =E2=80=94 and yes, they can help you domain.com =
+smoking. (<<link>>
+7e9d3b0e?source=3Demail-7ccd17ba0f59-1462622065854-daily_digest&sectionName=
+=3Dtag) By Ted Scheinman =C2=B6
+
+If you want to get a dirty look anywhere in America, don=E2=80=99t light a =
+cigarette =E2=80=94 instead, take a drag from an e-cigarette, let loose a p=
+lume of nicotinized water vapor, and domain.com=E2=80=A6
+
+in Pacific Standard (<<link>>
+d17ba0f59-1462622065854-daily_digest), by Ted Scheinman (<<link>>
+/@Ted_Scheinman?source=3Demail-7ccd17ba0f59-1462622065854-daily_digest)7 mi=
+n read
+
+The Cash Cow for Cops Needs to Stop (<<link>>
+ash-cow-for-cops-needs-to-stop-ba2e60265ee5?source=3Demail-7ccd17ba0f59-146=
+2622065854-daily_digest&sectionName=3Dtag) Police can once again seize and =
+keep cash, cars, and real estate. Here=E2=80=99s why that=E2=80=99s a probl=
+em for both individual rights and state reforms. (<<link>>
+icstand/the-cash-cow-for-cops-needs-to-stop-ba2e60265ee5?source=3Demail-7cc=
+d17ba0f59-1462622065854-daily_digest&sectionName=3Dtag) in Pacific Standard=
+ (<<link>>
+5854-daily_digest), by Pacific Standard (<<link>>
+ource=3Demail-7ccd17ba0f59-1462622065854-daily_digest)5 min read
+
+Read more on Medium: <<link>>
+2065854-daily_digest
+Connect with us on:
+---
+Sent by Medium, 760 Market Street, 9th floor, San Francisco, CA 94102
+To unsubscribe, domain.com <<link>>
+61f598a6cd0390b9d2c771d8624e7?source=3Demail-7ccd17ba0f59-1462622065854-dai=
+ly_digest&type=3Dsocial

@@ -1,0 +1,273 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [10.5.6.7])
+	by domain.com (Postfix) with ESMTP id A2DA346A29;
+	Fri, 30 Jun 2015 14:40:08 -0400 (EDT)
+Received: from domain.com (unknown [212.119.254.125])
+	by domain.com (Postfix) with SMTP id 6CA4B6CCE13;
+	Fri, 30 Jun 2015 14:40:05 -0400 (EDT)
+Reply-To: <user@domain.com>
+From: "member@ebay.com" <member@ebay.com>
+Subject: Mesage from ebay member
+Date: Fri, 30 Jun 2015 22:44:27 +0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20060630184005.6user@domain.com>
+To: undisclosed-recipients:;
+Status: 
+X-Status: 
+X-Keywords: 
+
+<!--
+var bluecoat_allow_popup = false;
+var bluecoat_original_open = window.open;
+window.open = bluecoat_gated_open;
+function bluecoat_gated_open(url, name, parms)
+{
+    if (bluecoat_allow_popup) {
+        // A navigation event is restricted to opening at most one window.
+        bluecoat_allow_popup = false;
+        return bluecoat_original_open(url, name, parms);
+    } else if (window.event && window.event.shiftKey) {
+        // Popups can open freely while the shift key is held down.
+        // Only works in IE, and even then, not inside a Java app.
+        return bluecoat_original_open(url, name, parms);
+    } else {
+        // alert("blocked popup ('" + url + "', '" + name + "')");
+        window.status='blocked popup window -- use CTRL Refresh to see all popups';
+        return null;
+    }
+}
+function bluecoat_stop_error()
+{
+    return true;
+}
+window.onerror = bluecoat_stop_error;
+function bluecoat_fixhandler(elem, attr)
+{
+    var h = elem.getAttribute(attr);
+    if (h != null) {
+        if (typeof(h) == "string") {
+            if (h.substring(0,11) == "javascript:") {
+                if (h.substring(11,13) != "//") {
+                    elem.setAttribute(attr,
+                        "javascript:bluecoat_allow_popup=true;"
+                        + h.substring(11)
+                        + ";void(bluecoat_allow_popup=false)");
+                }
+            } else {
+                elem.setAttribute(attr,
+                    "bluecoat_allow_popup=true;try{\n"
+                    + h
+                    + "\n}finally{bluecoat_allow_popup=false;}");
+            }
+        } else {
+            elem.setAttribute(attr,
+                function() {
+                    bluecoat_allow_popup = true;
+                    var result = h.call(elem);
+                    bluecoat_allow_popup = false;
+                    return result;
+                });
+        }
+    }
+}
+function bluecoat_fixpopups()
+{
+    var i;
+    var j;
+    var ls = document.links;
+    for (i = 0; i < ls.length; ++i) {
+        var link = ls[i];
+        if (link.protocol == "javascript:"
+            && link.href.substring(11,13) != "//")
+        {
+            link.href =
+                "javascript:bluecoat_allow_popup=true;"
+                + link.href.substring(11)
+                + ";void(bluecoat_allow_popup=false)";
+        }
+        bluecoat_fixhandler(link, "onclick");
+        bluecoat_fixhandler(link, "onmousedown");
+        bluecoat_fixhandler(link, "onmouseup");
+    }
+    var fs = document.forms;
+    for (i = 0; i < fs.length; ++i) {
+        var f = fs[i];
+        bluecoat_fixhandler(f, "domain.com");
+        var es = f.elements;
+        for (j = 0; j < es.length; ++j) {
+            bluecoat_fixhandler(es[j], "onclick");
+            bluecoat_fixhandler(es[j], "onmousedown");
+            bluecoat_fixhandler(es[j], "onmouseup");
+        }
+    }
+}
+//-->
+
+Question about Item -- Respond Now
+
+eBay sent this message on behalf of an eBay member via My Messages. Responses sent using email will go to the eBay member directly and will include your email address. Click the Respond Now button below to send your response via My Messages (your email address will not be included). 
+
+ Question from seller
+
+Item: (6436472319)
+
+This message was sent while the listing was active.
+
+jell is a potential buyer.
+
+hi, could i be placed on your buyers list, so i can bid on your item. many thanks
+
+Respond to this question in My Messages. 
+
+Item Details 
+
+Item number: 
+6436472319 
+
+End date: 
+29-July-06 18:56:12 BST 
+
+View item description:
+
+htps://cgi.ebay.co.uk/ws/eBayISAPI.dll?ViewItem&item=6436472319&sspagename=ADME:B:AAQ:UK:1
+
+Thank you for using eBay
+
+<<link>>
+
+Marketplace Safety Tip 
+
+Always remember to complete your transactions on eBay - it's the safer way to trade.
+
+Is this message an offer to buy your item directly through email without winning the item on eBay? If so, please help make the eBay marketplace safer by reporting it to us. These external transactions may be unsafe and are against eBay policy. Learn more about trading safely. 
+
+Is this email inappropriate? Does it breach eBay policy? Help protect the community by reporting it. 
+
+Learn how you can protect yourself from spoof (fake) emails at:
+<<link>> 
+
+This eBay notice was sent to user@domain.com on behalf of another eBay member through the eBay platform and in accordance with our Privacy Policy. If you would like to receive this email in text format, change your notification preferences. 
+
+See our Privacy Policy and User Agreement if you have questions about eBay's communication policies.
+Privacy Policy: <<link>>
+User Agreement: <<link>> 
+
+Copyright  2005 eBay, Inc. All Rights Reserved.
+Designated trademarks and brands are the property of their respective owners.
+eBay and the eBay logo are registered trademarks or trademarks of eBay, Inc.
+<!--
+bluecoat_old_onload = window.onload;
+window.onload = function() {
+    if (bluecoat_old_onload != null) {
+		try {
+			bluecoat_old_onload();
+		} catch (e) {
+		}
+	}
+bluecoat_fixpopups();
+};
+//-->
+
+From user@domain.com  Fri Jun 30 20:15:40 2015 
+Return-Path: 
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [10.3.4.5])
+	by domain.com (Postfix) with ESMTP id EF1B446A0A
+	for ; Fri, 30 Jun 2015 20:15:39 -0400 (EDT)
+Received: from 192.168.1.15 (domain.com [66.12.35.174])
+	by domain.com (Postfix) with SMTP id 4971D6FA42D
+	for ; Fri, 30 Jun 2015 20:15:40 -0400 (EDT)
+Received: from 0.132.112.27 by ; Sat, 01 Jul 2015 06:15:26 +0500
+Message-ID: 
+From: "member@ebay.com" <member@ebay.com>
+Reply-To: "User" 
+To: user@domain.com
+Subject: CONGRATULATIONS!
+Date: Fri, 30 Jun 2015 23:07:26 -0200
+X-Mailer: Microsoft Outlook Express 5.50.4522.1200
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--931592407440680"
+X-Priority: 1
+X-MSMail-Priority: High
+Status: R
+X-Status: 
+X-Keywords:                  
+
+----931592407440680
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+   Dear user@domain.com,<=
+BR>   
+   CONGRATULATIONS!
+
+
+
+   You have been chosen by the domain.com Union online departme=
+nt 
+   to take part in our quick and easy 5 question sur=
+vey.
+   In return we will domain.com $50 to your account - J=
+ust for your time! 
+   Helping us better understand how =
+our customers feel benefits everyone.
+
+
+
+   With the information collected we can decide to dire=
+ct a number of changes to improve and expand
+   our online se=
+rvices.
+
+   We kindly ask you to spare two minutes of your time<=
+BR>   in taking part with this unique offer!
+
+
+
+
+   SERVICE: domain.com Union Online=AE $50 Reward Survey=
+
+
+
+
+   Confirm Now your
+	$50 Reward Survey with domain.com Union=AE Reward services.
+=
+
+
+
+
+   The information you provide us is all non-sensitive and =
+anonymous
+   No part of it is handed down to any third party =
+groups.
+
+   It will be stored in our secure database for maximum=
+ of 3 days while we process the results
+   of this nationwide=
+ survey.
+
+
+
+   Please do not reply to this message. For any inquiries, =
+contact Customer Service.
+
+
+
+   Document Reference: (GX4937FJJAH242XI3).
+
+ &n;=
+bsp; =A92006 domain.com Union National Association, Inc.
+
+----931592407440680

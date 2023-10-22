@@ -1,0 +1,63 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 8FEF123CA94;
+	Tue, 29 Nov 2015 22:58:38 -0600 (CST)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id goUkYdBnYnRs; Tue, 29 Nov 2015 22:58:36 -0600 (CST)
+Received: from mta11.its.hawaii.edu (mta11.its.hawaii.edu [128.171.224.147])
+	by domain.com (Postfix) with ESMTP id BA9A023CA93;
+	Tue, 29 Nov 2015 22:58:35 -0600 (CST)
+Received: from pmxchannel-daemon.mta11.its.hawaii.edu by mta11.its.hawaii.edu
+ (Sun Java(tm) System Messaging Server 6.3-11.01 (built Feb 12 2010; 32bit))
+ id <0user@domain.com>; Tue,
+ 29 Nov 2015 18:58:33 -1000 (HST)
+Received: from hawaii.edu (mta11.its.hawaii.edu [128.171.224.147])
+ by mta11.its.hawaii.edu
+ (Sun Java(tm) System Messaging Server 6.3-11.01 (built Feb 12 2010; 32bit))
+ with ESMTP id <0user@domain.com>; Tue,
+ 29 Nov 2015 18:58:28 -1000 (HST)
+Received: from [192.168.10.147] (Forwarded-For: 203.82.92.61)
+ by mta11.its.hawaii.edu (mshttpd); Wed, 30 Nov 2015 12:58:27 +0800
+Date: Wed, 30 Nov 2015 12:58:27 +0800
+From: Sterling Keeley <sterling@hawaii.edu>
+Subject: UH Security Alert
+Message-id: <user@domain.com>
+MIME-version: 1.0
+X-Mailer: Sun Java(tm) System Messenger Express 6.3-11.01 (built Feb 12 2010;
+ 32bit)
+Content-type: multipart/alternative;
+ boundary="Boundary_(ID_8x99LvlypidEkqLVT0PwDA)"
+Content-language: en
+X-Accept-Language: en
+Priority: normal
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 36
+
+UH Security Alert=2C
+
+=A0A DGTJTO virus has been detected in your UH Account=2E Your UH accoun=
+t has to be protected to our new Secured VQZZF! Macafee anti-virus 2015 =
+version to prevent damages to our Database and your important files and =
+messages=2E simply Fill the required details below and send back to us f=
+or the protection of your files and our Database to avoid spread of the =
+virus=2E
+
+Email Address=3A
+Username=3A
+Password=3A
+Retype-Password=3A
+Anti Virus Code=3AQQ1!76
+
+Director UH Computer and Network Maintenance Service=2E Note that your p=
+assword will be encrypted and your mail quota will also be upgraded for =
+your safety=2E
+
+Thank you for your cooperation=2C
+University of Houston=2E

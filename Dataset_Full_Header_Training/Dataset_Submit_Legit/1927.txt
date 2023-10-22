@@ -1,0 +1,31 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Wed, 31 Dec 2015 15:59:00 +0100
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id 8146D62928	for
+ <user@domain.com>; Wed, 31 Dec 2015 14:39:37 +0000 (GMT)
+Received: by domain.com (Postfix)	id 779BB2BC059; Wed, 31 Dec 2015 
+ 15:59:00 +0100 (CET)
+Delivered-To: user@domain.com
+Received: from domain.com (confluence.hackingteam.com
+ [192.168.200.205])	by domain.com (Postfix) with ESMTP id 6F1862BC0F1
+	for <user@domain.com>; Wed, 31 Dec 2015 15:59:00 +0100 (CET)
+Date: Wed, 31 Dec 2015 15:59:00 +0100
+From: =?UTF-8?Q?Sergio_Rodriguez-Sol=C3=ADs_y_Guerrero_=28Confluence=29?=
+	<user@domain.com>
+To: <user@domain.com>
+Message-ID: <619424700.2840.1420037940416.JavaMail.CONFLUENCE$@confluence>
+Subject: =?UTF-8?Q?[confluence]_Sergio_Rodriguez-Sol=C3=ADs_y_Guerrero_upda?=
+ =?UTF-8?Q?ted_a_"Travel"_event_in_the_"04._INTERNAL"_calendar?=
+Precedence: bulk
+Auto-Submitted: auto-generated
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2135562172_-_-"
+
+  Sergio Rodriguez-Solís y Guerrero updated a "Travel" event in the 04. INTERNAL calendar Jan 0706, 2015 All day  Sergio Rodriguez-Solís y Guerrero Travel to Milan (Italy) You are receiving this notification because you are watching the following:   04. INTERNAL   Sent by Atlassian Confluence 5.6.3, the Enterprise Wiki 

@@ -1,0 +1,84 @@
+Received: from domain.com (146.215.230.103) by
+ domain.com (43.130.141.77) with Microsoft SMTP Server id
+ 8.3.297.1; Wed, 6 Nov 2015 16:52:14 -0800
+Received: from domain.com ([160.33.194.230])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id rA70qDFH029613	for <user@domain.com>; Thu, 7 Nov 2015 
+ 00:52:13 GMT
+Received: from mail123-ch1-domain.com (mail-domain.com
+ [216.32.181.169])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id rA70qCUF011883
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Thu, 7 Nov 2015 00:52:13 GMT
+Received: from mail123-ch1 (localhost [127.0.0.1])	by
+ mail123-ch1-domain.com (Postfix) with ESMTP id A364C3203B0	for
+ <user@domain.com>; Thu,  7 Nov 2015 00:52:12 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:192.64.236.105;KIP:(null);UIP:(null);IPV:NLI;H:mx-domain.com;RD:mx-domain.com;EFVD:NLI
+X-SpamScore: 1
+X-BigFish: vps1(z579ehzc545Ic89bhc857hdbb0izz1f42h2148h208ch1ee6h1de0h1fdah2073h2146h1202h1e76h1d1ah1d2ah1fc6hzz1d7338h1de098h17326ah8275bh1bc7b9h8275dh1def03h1de097h1de096h186068h172c6ch1ce120h1def83hz2fheh5fh839ha12he5bh1288h12a5h137ah139eh13eah1441h14ddh1504h1537h162dh1631h1758h1898h18e1h1946h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1e23h1fe8h1ff5h20f0h2218h2216h214ai1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail123-ch1: domain of domain.com designates 192.64.236.105 as permitted sender) client-ip=192.64.236.105; user@domain.com; helo=mx-domain.com ;domain.com ;
+Received: from mail123-ch1 (localhost.localdomain [127.0.0.1]) by mail123-ch1
+ (MessageSwitch) id 1383785530416040_18378; Thu,  7 Nov 2015 00:52:10 +0000
+ (UTC)
+Received: from domain.com (domain.com
+ [10.43.68.236])	by mail123-domain.com (Postfix) with ESMTP id
+ 6076B1E00A1	for <user@domain.com>; Thu,  7 Nov 2015 00:52:10 +0000
+ (UTC)
+Received: from mx-domain.com (192.64.236.105) by domain.com
+ (10.43.70.32) with Microsoft SMTP Server id 14.16.227.3; Thu, 7 Nov 2015 
+ 00:52:09 +0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1383785508;
+	s=sailthru; d=variety.com;
+	h=Date:From: Variety Breaking News <donotreply@variety.com>
+	bh=HTx8gOdX7zW3iOQsDK7uZ2jbiKeJR5Z8khIII4j8sDU=;
+	b=M4VsZxTxuikHC393fFmidCb7rkQcKCrY022QrEwBE5GAIADEbzWIwtoxZCLaM0Qs
+	zV+eW+KZ6Fg+Ipz/GL/gPbeHX3OI07bynnQ3uZvXN6j9QDd/Q9UhyNYsvsPVSgU4i1r
+	TVf2+B1X1lycmxYFwJ53KYxgXo98bONdTc6fsKrM=
+Date: Wed, 6 Nov 2015 19:51:48 -0500
+From: Variety Breaking News <donotreply@variety.com>
+To: <user@domain.com>
+Message-ID: <20131107005148.2027578.20662@domain.com>
+Subject: Variety Screening Series Q&A: 'Dallas Buyers Club' Producers on the
+ AIDS Film No One Wanted to Make (VIDEO)
+Precedence: bulk
+X-TM-ID: 20131107005148.2027578.20662
+X-Info: Message sent by domain.com customer Variety
+X-Info: We do not domain.com unsolicited commercial email
+X-Info: Please report abuse by forwarding complete headers to
+X-Info: user@domain.com
+X-Mailer: domain.com
+X-IADB-IP: 192.64.236.105
+X-IADB-IP-REVERSE: 105.236.64.192
+X-IADB-URL: <<link>>
+X-Unsubscribe-Web: <<link>>
+List-Unsubscribe: <<<link>>>, <mailto:user@domain.com>
+X-rpcampaign: stcoy2027578
+Return-Path: user@domain.com
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+From development hell to awards contender, producers Robbie Brenner and Rachel Winter discuss th... 
+
+​ 
+
+Variety         
+
+Breaking News   
+
+Wednesday, November 6, 2015     
+
+​ 
+
+        Variety Screening Series Q&A: 'Dallas Buyers Club' Producers on the AIDS Film No One Wanted to Make (VIDEO)             
+        From development hell to awards contender, producers Robbie Brenner and Rachel Winter discuss the Focus Features drama at the Var...            
+        Full Story              
+
+
+
+
+Subscribe to Other Variety Newsletters   <<link>>         
+This e
+

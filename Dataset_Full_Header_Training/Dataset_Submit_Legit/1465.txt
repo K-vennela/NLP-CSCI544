@@ -1,0 +1,395 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Fri, 6 May
+ 2015 21:27:26 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Fri, 6 May 2015 
+ 21:27:24 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 901804604
+ for user@domain.com; Fri, 06 May 2015 20:27:28 -0500
+X-Note-AR-ScanTimeLocal: 5/6/2016 8:27:27 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @turner.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: LOCAL->United States->
+X-Note-Sending-IP: 205.201.128.7
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from domain.com ([205.201.128.7] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 137568227
+ for user@domain.com; Fri, 06 May 2015 20:27:27 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=domain.com;
+ h=Subject:From: =?utf-8?Q?CNN=27s=20Reliable=20Sources?= <reliablesources@turner.com>
+ bh=8RTCdUhl/4jPCzNOAxF44qNDaJ4=;
+ b=cgEMruPMo4fIqan1HxF8WJWkVQiqvWzRcofIAVYJEJiA5g23zuFinaSX1yMpwtmZA148d11wOfF5
+   7aZMExhYHLeSwmCmcz3YiCxvDbM02Mo31+JU+yTJ1WKr+Ub3B6dmtBwt8HNLeS6o4IlZtEwgQCxP
+   ZGzs7MMuAk19ROrrGIM=
+Received: from (127.0.0.1) by domain.com id h5l27o24b5g4 for
+ <user@domain.com>; Sat, 7 May 2015 01:27:22 +0000 (envelope-from
+ <user@domain.com>)
+Subject: =?utf-8?Q?Scarborough=20v=20Trump=3B=20inside=20Sumner=20Redstone=20hearing=3B=20Obama=20opposes=20=22circus=22=3B=20Panama=20Papers=20leaker=20speaks=3B=20Captain=20America=20premieres=3B=20Sunday=20guest=20list?=
+From: =?utf-8?Q?CNN=27s=20Reliable=20Sources?= <reliablesources@turner.com>
+Reply-To: =?utf-8?Q?CNN=27s=20Reliable=20Sources?=
+	<user@domain.com>
+To: <user@domain.com>
+Date: Sat, 7 May 2015 01:27:22 +0000
+Message-ID: <47user@domain.com>
+X-Mailer: MailChimp Mailer - **CID8c6ffa06da80754425eb**
+X-Campaign: mailchimp47c9040f6ff957a59bd88396e.8c6ffa06da
+X-campaignid: mailchimp47c9040f6ff957a59bd88396e.8c6ffa06da
+X-Report-Abuse: Please report abuse for this campaign here: <<link>>
+X-MC-User: 47c9040f6ff957a59bd88396e
+X-Feedback-ID: 43253633:43253633.257705:us11:mc
+List-ID: 47c9040f6ff957a59bd88396emc list <47c9040f6ff957a59bd88396e.161353.list-domain.com>
+X-Accounttype: pr
+List-Unsubscribe: <mailto:user@domain.com?subject=unsubscribe>, <<<link>>>
+Sender: CNN's Reliable Sources <user@domain.com>
+x-mcda: FALSE
+Content-Type: multipart/alternative;
+	boundary="_----------=_MCPart_1756661469"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+By Brian Stelter and the CNNMoney Media team - user@domain.com (ma=
+ilto:user@domain.com)
+
+** Sumner Redstone... deposed
+------------------------------------------------------------
+Dylan Byers reports (<<link>>
+-testimony/index.html) from the halls of the L.A. County Superior Court:
+
+The long awaited trial to determine whether media mogul Sumner Redstone is=
+ competent could be over in little more than a day. Judge David J. Cowan s=
+aid today (<<link>>
+/index.html) that he would decide Monday whether to accept a motion by Red=
+stone's attorneys to dismiss the case. Cowan's comments came after he list=
+ened to a video deposition. Redstone struggled to answer questions=2C but=
+ repeatedly used expletives to describe his ex-girlfriend Manuela Herzer.=
+ Read much more here... (<<link>>
+tone-testimony/index.html)
+
+-- Context: Herzer has argued that Redstone was lacking mental capacity or=
+ was under undue influence when he ousted Herzer from control over his hea=
+lthcare last fall...
+
+-- What Dylan heard: The deposition video isn't being released=2C only a t=
+ranscript. But Dylan could hear the video from his perch in the courthouse=
+=2C and Redstone was "totally unintelligible. Just moans and grunts..."
+"A very thin shadow" of former self
+Quoting from Dylan's report: (<<link>>
+-redstone-testimony/index.html)  Dr. Stephen Read=2C a psychiatrist who ex=
+amined Redstone for Herzer's legal team=2C testified that Redstone's repli=
+es in the deposition were "stereotypical statements" Redstone made without=
+ seeming to think about them. In testimony that lasted well over an hour=
+=2C Read described Redstone as "a very thin shadow" of his former self: su=
+ffering from dementia and delusions=2C completely unable to function on hi=
+s own=2C and often angry or tearful at his physical and mental limitations=
+=2E"
+
+-- A touching and sad vignette from today's hearing: Redstone loves bettin=
+g on sports=2C but is too old to know which teams are playing=2C so his fa=
+mily members show him prerecorded games and let him win...
+Trump says Joe's show is "rapidly fading"
+Are Donald Trump and Joe Scarborough really fighting? Hmmm. Well they're a=
+t least acting like it. Today the two men had a Twitter spat=2C with Trump=
+ apparently objecting to Scarborough's remark on "Morning Joe" that "there=
+ is not a better time for someone to run as an independent candidate." Sca=
+rborough "initially endorsed Jeb Bush and Jeb crashed=2C then John Kasich=
+ and that didn't work=2C" Trump tweeted. "Not much power or insight!" Then=
+ (<<link>>
+ng-joe/index.html?iid=3DSF_LN) he said "Morning Joe" is "rapidly fading."
+
+Scarborough reacted to Trump the way Trump typically responds to critics:=
+ by citing his popularity. "'Rapidly fading?' Umm... we are enjoying our b=
+est ratings ever." That's true -- "Morning Joe" set a new ratings record i=
+n Q1. Here's my full story with Frank Pallotta... (<<link>>
+16/05/06/media/donald-trump-joe-scarborough-morning-joe/index.html?iid=3DS=
+F_LN)
+"Haldeman and Ehrlichman"
+"Mike Bloomberg has a fun pet name for the pair of journalists who are the=
+ face of his company's politics coverage: "Haldeman and Ehrlichman." Yep=
+=2C Hadas Gold and Joe Pompeo's sources (<<link>>
+media/2016/05/michael-bloombergs-nicknames-for-halperin-and-heilemann-hald=
+eman-and-erlichman-222896)  said Bloomberg described Mark Halperin and Joh=
+n Heilemann that way at a corporate town hall yesterday. (Even if you thin=
+k it... Why say it out loud?)
+
+Bloomberg also (<<link>>
+ombergs-nicknames-for-halperin-and-heilemann-haldeman-and-erlichman-222896=
+#ixzz47vX1RRN6) "mused that he bets Halperin and Heilemann will write a bo=
+ok about the election next year." I continue to believe that MSNBC's re-ai=
+r of "With All Due Respect" is a transition plan... With Halperin and Heil=
+emann moving full-time to MSNBC/NBC News after the election...
+FCC approves Charter-Time Warner Cable deal
+Per the WSJ: (<<link>>
+-time-warner-cable-1462563847) "The FCC said Friday it had formally voted=
+ to approve Charter Communications' acquisition of Time Warner Cable=2C cr=
+eating a telecommunications giant while imposing tough operating restricti=
+ons on it."
+
+The DOJ has also signed off. So now Charter just needs the California Publ=
+ic Utilities Commission to bless the deal at a hearing on May 12. The deal=
+ will most likely close by the end of the month... Which made this afterno=
+on's Time Warner Cable presentation to advertisers sorta odd. The TWC bran=
+d was front and center the whole time... But the logo and name are about t=
+o be retired. Charter's Spectrum brand is going to take over.
+
+-- Related: TWC's presentation was a challenge to YouTube... AdWeek has de=
+tails... (<<link>>
+shes-back-after-youtubes-bold-claim-about-audience-reach-171330)
+Oaktree wants Tribune/Gannett talks
+Oaktree Capital Management=2C Tribune Publishing's second-largest sharehol=
+der=2C says TribPub should "pursue discussions with Gannett to see if an a=
+cceptable agreement can be reached." OakTree said so in an SEC filing this=
+ afternoon...
+This Sunday on "Reliable Sources"
+Who got Trump wrong? Who got it right? And what sources are reliable as we=
+ head into the general election? That's our focus on Sunday morning's show=
+=2E Kayleigh McEnany=2C Matt Lewis=2C Joseph Borelli=2C and Ben Howe will jo=
+in me... Along with Norm Ornstein and Dana Milbank... And Time magazine ed=
+itor Nancy Gibbs.
+
+Gibbs co-wrote the book "The Presidents Club=2C" about all the post-WW2 pr=
+esidents=2C so I'm going to ask her to picture President Trump added to th=
+is scene...
+Speaking of Norm Ornstein...
+Vox's Andrew Prokop published this Q&A with Ornstein today. (<<link>>
+x.com/2016/5/6/11598838/donald-trump-predictions-norm-ornstein) Title: "Th=
+e political scientist who saw Trump's rise coming."
+
+"I would say this is a self-inflicted wound by Republican leaders=2C" Orns=
+tein says... (<<link>>
+s-norm-ornstein)
+Road to 2015 
+Jared Kushner's new assignment
+Ashley Parker scoops: (<<link>>
+/06/trump-asks-his-son-in-law-jared-kushner-to-plan-for-a-transition-team/=
+) Trump "has asked his son-in-law=2C Jared Kushner=2C to begin quietly wor=
+king to put together a blueprint for a transition team should he win the W=
+hite House in November." Kushner is=2C among other things=2C the publisher=
+ of The New York Observer. For your weekend reading: Devin Leonard's Bloom=
+berg profile of Kushner... (<<link>>
+ushner-trump-card/)
+Obama's message for the media
+When President Obama was asked about Donald Trump this afternoon=2C his an=
+swer was a media critique. "He has a long record that needs to be examined=
+=2C and I think it's important for us to take seriously the statements he=
+=E2=80=99s made in the past. But most importantly -- and I speak to all of=
+ you in this room as reporters=2C as well as the American public -- I just=
+ want to emphasize the degree to which we are in serious times and this is=
+ a really serious job. This is not entertainment. This is not a reality sh=
+ow. This is a contest for the presidency of the United States. And what th=
+at means is that every candidate=2C every nominee needs to be subject to e=
+xacting standards and genuine scrutiny..."
+POTUS: We can't afford "circus" coverage
+What the president said (<<link>>
+05/06/remarks-president-economy) -- without saying it -- is that as long a=
+s the American people are able to consume substantive reporting=2C they'll=
+ elect Hillary Clinton. He said:
+
+"The one thing that I'm going to really be looking for over the next six m=
+onths is that the American people are effectively informed about where can=
+didates stand on the issues=2C what they believe=2C making sure that their=
+ numbers add up=2C making sure that their policies have been vetted and th=
+at candidates are held to what they=E2=80=99ve said in the past. And if th=
+at happens=2C then I'm confident our democracy will work... What I'm conce=
+rned about is the degree to which reporting and information starts emphasi=
+zing the spectacle and the circus=2C because that's not something we can a=
+fford. And the American people=2C they=E2=80=99ve got good judgment=2C the=
+y=E2=80=99ve got good instincts=2C as long as they get good information."
+Brian Lowry on "bonkers" dramas colliding with reality
+Brian Lowry emails: "With 'The Good Wife' about to end (and look for a pie=
+ce assessing its finale on Sunday night) and 'Scandal' preparing for its s=
+eason finale=2C this seemed like a good time to take stock of today=E2=80=
+=99s political dramas. Specifically=2C how the current election season has=
+ caught up with them =E2=80=94 and made their customary exaggerations look=
+ less bonkers." Don't miss Brian's column... Click here to read it... (htt=
+p://domain.com/2016/05/06/media/the-good-wife-tv-political-dramas/index=
+=2Ehtml )
+For the record
+-- A farewell to the NYT's pioneering R&D Lab... (Medium (<<link>>
+om/@riordan/eulogy-for-the-new-york-times-r-d-lab-c8d6301450ab#.tglurtku8)=
+ )
+
+-- Paul La Monica tweets: (<<link>>) "Disney earni=
+ngs next week. $DIS flat YTD. Captain America: Civil War should be huge. B=
+ut movies not the problem for House of Mouse. ESPN is..."
+
+-- CNN's Masuma Ahuja: "I=E2=80=99m spending a lot of my time working on a=
+nd thinking about messaging apps=2C such as Facebook Messenger and LINE=2C=
+ right now..." (Poynter (<<link>>
+ail-and-other-platforms-cnns-masuma-ahuja-is-exploring-next/410136/) )
+
+-- Have you heard of Woven Digital? I had not=2Cuntil I read this. (http:/=
+/domain.com/news/technology/company-behind-uproxx-targets-elusive-mill=
+ennial-male-new-partnership-forbes-171322) Woven is "home to guy-friendly=
+ brands such as Uproxx=2C BroBible=2C Dime Magazine=2C and most recently=
+=2C HitFix..." (AdWeek (<<link>>
+nd-uproxx-targets-elusive-millennial-male-new-partnership-forbes-171322) )
+
+-- Speaking of digital startups: Mic co-founder James Altchek says (https:=
+//domain.com/@caltchek/dont-write-digital-media-off-just-yet-1d52ea8fe2bd#=
+=2Enh3kttt67) "those who manage the current transition=2C build audience=2C=
+ and produce great journalism will thrive in the long run..." (Medium (htt=
+ps://domain.com/@caltchek/dont-write-digital-media-off-just-yet-1d52ea8fe2=
+bd#.nh3kttt67) )
+
+-- First Look Media tweets: (<<link>>
+630915363123201) "We're developing a new domain.com" with journalist David Sir=
+ota... (Twitter (<<link>>
+201) )
+
+** Panama Papers leaker speaks
+------------------------------------------------------------
+Identifying himself as "John Doe=2C" the anonymous individual who leaked t=
+he #PanamaPapers has issued a statement through the German paper S=C3=BCdd=
+eutsche Zeitung and the ICIJ. He (or she?) did it "not for any specific po=
+litical purpose=2C but simply because I understood enough about their cont=
+ents to realize the scale of the injustices they described." Read more her=
+e... (<<link>>)
+
+-- CNNMoney's Jose Pagliery reports: (<<link>>
+nology/panama-papers-search/index.html) A searchable database of the "ties=
+ between 368=2C000 people and 300=2C000 offshore entities" will be posted=
+ online Monday at 2pm. But the actual documents won't be shared...
+Derby Day: Light up Johnny Weir's brooch...
+At tomorrow's Kentucky Derby=2C NBC's Johnny Weir "will don a brooch that=
+ gallops and lights up at your command=2C" Vulture reports. (<<link>>
+domain.com/2016/05/johnny-weir-kentucky-derby-brooch.html)  NBC Sports PR f=
+or the win! The brooch's brightness will be influenced by tweets that use=
+ the hashtag #WatchMeNeighNeigh...
+
+-- Who's on the way to the Derby? Fox's Megyn Kelly and CBS's Gayle King=
+=2C according to King's Instagram... (<<link>>
+n9I/?taken-by=3Dgayleking)
+
+** Shane Smith caption contest
+------------------------------------------------------------
+That's Shane Smith=2C flat on his back=2C at the start of today's Vice New=
+Front. He announced seven new web site verticals. "A rep later said there=
+ will be six=2C" according to Variety. Here's more info on today's announc=
+ements... (<<link>>
+nnels-newfronts-1201768418/)
+
+** Super weekend for "Captain America?"
+------------------------------------------------------------
+Frank Pallotta emails: "Captain America: Civil War" opens this weekend=2C=
+ bringing together the two pillars of Disney=E2=80=99s nearly $9 billion M=
+arvel Cinematic Universe=2C Iron Man and Captain America=2C as adversaries=
+ rather than allies. "Civil War" looks to be one of the biggest blockbuste=
+rs of the year=2C with analysts projecting an opening weekend around $200=
+ million. (<<link>>
+-box-office-opening-day/index.html?iid=3DSF_LN) Some have gone even higher=
+ with predictions of $215 million =E2=80=93 that=E2=80=99s "Jurassic World=
+" territory=2C a/k/a the second biggest box office opening ever.
+
+So far it has brought in a healthy $25 million on Thursday night and $316.=
+2 million worldwide since opening overseas last week.
+
+The film=2C which I saw on Monday=2C is more than just an explosive fistfi=
+ght between the two men in tights. It=E2=80=99s instead a critically accla=
+imed film (with a 92% positive score on Rotten Tomatoes) that explores the=
+ family dynamic of the Marvel heroes (all 13 of them) in a very fun way.
+
+Stay tuned to CNNMoney (<<link>>
+ica-civil-war-box-office-opening-day/index.html?iid=3DSF_LN) all weekend f=
+or box office updates... And check out Frank's video report here...  (http=
+://domain.com/video/media/2016/05/04/captain-america-civil-war-box-offi=
+ce.cnnmoney/index.html)
+
+** Welcome to summer movie season!
+------------------------------------------------------------
+Frank writes: =E2=80=9CCivil War=E2=80=9D ushers in my favorite time of th=
+e year=2C summer movie season. This summer is jammed packed with family fi=
+lm fare=2C reboots=2C sequels=2C and even requels (is that a word?)=2C so=
+ moviegoers have their pick at the cineplex. Here=E2=80=99s a brief list o=
+f the upcoming tentpoles in the warm (or at least we hope it=E2=80=99ll be=
+ warm!) summer months:
+
+"Neighbors 2: Sorority Rising=E2=80=9D =E2=80=93 May 20
+=E2=80=9CX-Men: Apocalypse=E2=80=9D =E2=80=93 May 27
+=E2=80=9CAlice Through the Looking Glass=E2=80=9D =E2=80=93 May 27
+=E2=80=9CTeenage Mutant Ninja Turtles: Out of the Shadows=E2=80=9D =E2=80=
+=93 June 3
+=E2=80=9CFinding Dory=E2=80=9D =E2=80=93 June 17
+=E2=80=9CIndependence Day: Resurgence=E2=80=9D =E2=80=93 June 24
+=E2=80=9CThe BFG=E2=80=9D =E2=80=93 July 1
+=E2=80=9CGhostbusters=E2=80=9D =E2=80=93 July 15
+=E2=80=9CStar Trek Beyond=E2=80=9D =E2=80=93 July 22
+=E2=80=9CJason Bourne=E2=80=9D =E2=80=93 July 29
+=E2=80=9CSuicide Squad=E2=80=9D =E2=80=93 August 5
+
+** Send us your feedback!
+------------------------------------------------------------
+If you could change one thing about this newsletter=2C what would it be? E=
+mail your feedback to user@domain.com (mailto:user@domain.com=
+com) . We'll be back Sunday with more media news...
+You Might Like
+<<link>>
+_sendid=3D8c6ffa06da&cs_esp=3Dmailchimp&cs_offset=3D0&cs_stripeid=3D2552
+
+<<link>>
+_sendid=3D8c6ffa06da&cs_esp=3Dmailchimp&cs_offset=3D1&cs_stripeid=3D2552
+
+<<link>>
+_sendid=3D8c6ffa06da&cs_esp=3Dmailchimp&cs_offset=3D2&cs_stripeid=3D2552
+<<link>>
+il&utm_campaign=3Dcnnmoney&utm_content=3Danimatedlogo
+<<link>>
+RhQ9 Share (<<link>>
+domain.com%2Fb0RhQ9)
+<<link>>+v+Trump%3B+inside+Sumne=
+r+Redstone+hearing%3B+Obama+opposes+%22circus%22%3B+Panama+Papers+leaker+s=
+peaks%3B+Captain+America+premieres%3B+Sunday+guest+list: http%3A%2F%2Feepu=
+domain.com%2Fb0RhQ9 Tweet (<<link>>+=
+v+Trump%3B+inside+Sumner+Redstone+hearing%3B+Obama+opposes+%22circus%22%3B=
++Panama+Papers+leaker+speaks%3B+Captain+America+premieres%3B+Sunday+guest+=
+list: http%3A%2F%2domain.com%2Fb0RhQ9)
+<<link>>
+=3D8c6ffa06da&e=3D80754425eb Forward (<<link>>
+ard?u=3D47c9040f6ff957a59bd88396e&id=3D8c6ffa06da&e=3D80754425eb)
+Subscribe to Reliable Sources (<<link>>
+u=3D47c9040f6ff957a59bd88396e&id=3De95cdc16a9)
+Get Reliable Sources=2C a comprehensive summary of the most important medi=
+a news=2C delivered to your inbox every afternoon.
+
+Tips=2C thoughts or questions are always welcome at
+** user@domain.com (mailto:user@domain.com)
+=2E
+=C2=AE =C2=A9 2015 Cable News Network=2C Inc.
+A Time Warner Company.  All Rights Reserved.
+You are receiving this message because you subscribed to
+CNNMoney's "Reliable Sources" newsletter.
+
+Our mailing address is:
+Cable News Network=2C Inc.
+Attention: Privacy Policy Coordinator
+One CNN Center=2C 13 North
+Atlanta=2C GA 30303
+
+** unsubscribe from this list (<<link>>
+e?u=3D47c9040f6ff957a59bd88396e&id=3De95cdc16a9&e=3D80754425eb&c=3D8c6ffa06d=
+a)
+** update subscription preferences (<<link>>
+e?u=3D47c9040f6ff957a59bd88396e&id=3De95cdc16a9&e=3D80754425eb)
+
+** Facebook (<<link>>)
+** Twitter (<<link>>)
+Reliable Sources
+
+** View this email in your browser (<<link>>
+=3D47c9040f6ff957a59bd88396e&id=3D8c6ffa06da&e=3D80754425eb)

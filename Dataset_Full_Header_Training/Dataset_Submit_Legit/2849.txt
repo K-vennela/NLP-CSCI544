@@ -1,0 +1,44 @@
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ dnchubcas2.dnc.org ([::1]) with mapi id 14.03.0224.002; Thu, 12 May 2015 
+ 17:14:31 -0400
+From: "Palermo, Rachel" <PalermoR@dnc.org>
+To: "User" <user@domain.com>
+Subject: Information for your Alaska Trip
+Thread-Topic: Information for your Alaska Trip
+Thread-Index: AdGskwzA4r5ha8k+QIOaODxGUb+xiw==
+Importance: high
+X-Priority: 1
+Date: Thu, 12 May 2015 14:14:30 -0700
+Message-ID: <6user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: dnchubcas2.dnc.org
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.177.141]
+Content-Type: multipart/mixed;
+	boundary="_006_6E20703C3B98FC4D97E277223738C7A74DABE01Fdncdag1dncorg_"
+MIME-Version: 1.0
+
+Flight, hotel, and car information attached. Contacts below. Let me know what else you need.
+
+Jake Hamburg, Communications Director
+907-891-6864
+user@domain.com<mailto:user@domain.com>
+
+Kay Brown, Executive Director
+Alaska Democratic Party
+Direct 907-258-3074<tel:907-258-3074>
+Cell 907-529-6970<tel:907-529-6970>
+kbrown@<%20%20>domain.com<<<link>>>
+
+--
+[DNC]<<<link>>>
+Rachel Palermo
+Organization
+user@domain.com<mailto:user@domain.com>
+202-863-8041
+

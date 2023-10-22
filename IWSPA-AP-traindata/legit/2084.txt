@@ -1,0 +1,28 @@
+<x-flowed>
+Dear Tom,
+As promised, I've now repeated all of the significance testing involving 
+model-versus-observed trend differences, but this time using 
+spatially-averaged T2 and T2LT changes that are not "masked out" over 
+tropical land areas. As I mentioned this morning, the use of non-masked 
+data facilitates a direct comparison with Douglass et al.
+The results for combined changes over tropical land and ocean are very 
+similar to those I sent out yesterday, which were for T2 and T2LT 
+changes over tropical oceans only:
+COMBINED LAND/OCEAN RESULTS (WITH STANDARD ERRORS ADJUSTED FOR TEMPORAL 
+AUTOCORRELATION EFFECTS; SPATIAL AVERAGES OVER 20N-20S; ANALYSIS PERIOD 
+1979 TO 1999)
+T2LT tests, RSS observational data: 0 out of 49 model-versus-observed 
+trend differences are significant at the 5% level.
+T2LT tests, UAH observational data: 1 out of 49 model-versus-observed 
+trend differences are significant at the 5% level.
+T2 tests, RSS observational data: 1 out of 49 model-versus-observed 
+trend differences are significant at the 5% level.
+T2 tests, UAH observational data: 1 out of 49 model-versus-observed 
+trend differences are significant at the 5% level.
+So our conclusion - that model tropical T2 and T2LT trends are, in 
+virtually all realizations and models, not significantly different from 
+either RSS or UAH trends - is not sensitive to whether we do the 
+significance testing with "ocean only" or combined "land+ocean" 
+temperature changes.
+With best regards, and happy holidays to all!
+Ben

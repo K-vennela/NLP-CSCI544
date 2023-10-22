@@ -1,0 +1,83 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [75.102.5.22])
+	by domain.com (Postfix) with ESMTP id 1CA793144076
+	for <user@domain.com>; Mon, 13 Jul 2015 14:04:25 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id A0DC2232018;
+	Mon, 13 Jul 2015 14:07:40 +0000 (UTC)
+X-Virus-Scanned: amavisd-new at domain.com
+X-Spam-Flag: NO
+X-Spam-Score: 5.157
+X-Spam-Level: *****
+X-Spam-Status: No, score=5.157 tagged_above=-10 required=6.6
+	tests=[AWL=-0.240, BAYES_50=0.001, FORGED_MUA_OUTLOOK=3.116,
+	FORGED_OUTLOOK_HTML=0.001, FORGED_OUTLOOK_TAGS=0.001,
+	HTML_MESSAGE=0.001, MIME_HTML_ONLY=1.457, MSOE_MID_WRONG_CASE=0.82]
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id W7Jflp+wGxQZ; Mon, 13 Jul 2015 14:07:36 +0000 (UTC)
+Received: from domain.com (domain.com [71.160.116.38])
+	by domain.com (Postfix) with ESMTP id 4E915232015
+	for <user@domain.com>; Mon, 13 Jul 2015 14:07:35 +0000 (UTC)
+Received: from User [66.128.51.250] by domain.com with ESMTP
+  (SMTPD-9.10) id AE3D0164; Mon, 13 Jul 2015 07:01:33 -0700
+Reply-To: <user@domain.com>
+From: "customer_service@capitalone.com"<customer_service@capitalone.com>
+Subject: You have one new message at Capital One.
+Date: Mon, 13 Jul 2015 15:54:02 +0200
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <200907130701687.user@domain.com>
+To: undisclosed-recipients:;
+Content-Length: 1546
+Lines: 49
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1103
+
+
+
+
+Dear Customer,
+
+
+
+You have one new message at Capital One.
+
+INBOX
+
+
+
+From: "customer_service@capitalone.com"<customer_service@capitalone.com>
+
+
+
+Date:
+       07/13/2009
+
+Subject: Official service renewal notification.
+
+
+
+In order to read the message
+click here to login at
+
+  Capital One and access your MAIL section.
+
+This site provides information about and access to financial services offered by the Capital One family of 
+companies, including Capital One Bank and Capital One, N.A., members FDIC.
+
+2008 Capital One Services, Inc.
+
+Capital One is a federally registered service mark. All rights reserved.
+
+Blank Check is a registered trademark of Capital One Services, Inc.

@@ -1,0 +1,75 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Thu, 12 May
+ 2015 07:24:16 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Thu, 12 May 2015 
+ 07:24:13 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 910818949
+ for user@domain.com; Thu, 12 May 2015 06:24:15 -0500
+X-Note-AR-ScanTimeLocal: 5/12/2016 6:24:09 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @hillaryclinton.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 209.85.223.170
+X-Note-Reverse-DNS: mail-io0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mail-io0-domain.com ([209.85.223.170] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 137980380
+ for user@domain.com; Thu, 12 May 2015 06:24:09 -0500
+Received: by mail-io0-domain.com with SMTP id i75so85161785ioa.3
+        for <user@domain.com>; Thu, 12 May 2015 04:24:09 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=hillaryclinton.com; s=google;
+        h=mime-version:in-reply-to:references:date:message-id:subject:From: Zac Petkanas <zpetkanas@hillaryclinton.com>
+         :cc;
+        bh=L4t9FwRCvLGxEUWGnLLqey0VAVurYz+DbbMjO6Kw6T4=;
+        b=WbxtTHSLCrgGjlWXE4OONzSnC2odghQ3+2oPGpbScWVNXrUVATZuWJnYvg7ZwTT9lD
+         uvNYi2EMmHtT6H3dhgTIney+L5Uhe/hG1qF4IH+531Et3CLitl/39f0MGpGwavkv5wwr
+         TgVpnRMfD5wMeQcPJUT1NOSZk4t5uFzEMSzek=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:date
+         :message-id:subject:From: Zac Petkanas <zpetkanas@hillaryclinton.com>
+        bh=L4t9FwRCvLGxEUWGnLLqey0VAVurYz+DbbMjO6Kw6T4=;
+        b=ZNjg6/kS0PdeAa1tKPPIR425E1k9RSrW/QvVrB6lsKmWC3327IKmLSTXxo+ma8osJD
+         HHfhkIDHkaPwz0LS4P74JAR7lXMWW86kEBStrpxTd3TYUxHDEizg1U3iGnUrz/6BPJcu
+         U4JzfLGdJ7ulE7PmJG+orWwUcs/pcLrl8j76jSnJICfiZMK8tI8ATeQ74TMOeRjBzRwV
+         cmNDDze8kPtvRDphzfvzh9Wx7atLGuAbqcfvRShDLUiY5vG2IG9o+4ndotTS2vFqaB1/
+         xS979A7TEJKK20N8wA2jvUyBoMcaRSuDLNiTiaWPmJL6qUoSqMIu0/ib/NjKLE3qOtYu
+         IfUA==
+X-Gm-Message-State: AOPr4FViSEYN/toXtIc7pR+Wy+HLAji2Jz6hrHz6Fc+iWHbPN6VvsSubpwZ70aNuAxUqLGHY9e4BkJLUsiH9p3fK
+X-Received: by 10.107.130.160 with SMTP id m32mr7835916ioi.137.1463052248863;
+ Thu, 12 May 2015 04:24:08 -0700 (PDT)
+Received: by 10.36.227.201 with HTTP; Thu, 12 May 2015 04:24:08 -0700 (PDT)
+In-Reply-To: <05user@domain.com>
+References: <2user@domain.com>
+	<05user@domain.com>
+Date: Thu, 12 May 2015 07:24:08 -0400
+Message-ID: <CAGitY4QqQ44Mt-V+user@domain.com>
+Subject: =?UTF-8?Q?Re=3A_FW=3A_Press_events_re=3A_this_week=E2=80=99s_Trump=2FRyan_me?=
+	=?UTF-8?Q?eting?=
+From: Zac Petkanas <zpetkanas@hillaryclinton.com>
+To: "User" <user@domain.com>
+CC: "Paustenbach, Mark" <user@domain.com>
+Content-Type: multipart/alternative; boundary="001a113ec39a94f4550532a365d4"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Ok. I remember now you said you sent this guidance before we had our
+conversation about messaging.
+

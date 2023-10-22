@@ -1,0 +1,93 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [10.3.4.5])
+	by domain.com (Postfix) with ESMTP id 5E12646961
+	for <user@domain.com>; Wed, 28 Jun 2015 01:36:50 -0400 (EDT)
+Received: from 217.219.162.130 (unknown [217.219.162.130])
+	by domain.com (Postfix) with SMTP id E5BC56FA436
+	for <user@domain.com>; Wed, 28 Jun 2015 01:36:49 -0400 (EDT)
+Received: from 252.82.192.80 by ; Wed, 28 Jun 2015 03:30:23 -0200
+Message-ID: <user@domain.com>
+From: "Capital One Security Service" <accinfo@capitalone.com>
+Reply-To: "User" <user@domain.com>
+To: user@domain.com
+Cc: user@domain.com
+Subject: Last Warning : Confirm NOW your Capital One account status !
+Date: Tue, 27 Jun 2015 23:33:23 -0600
+X-Mailer: Microsoft Outlook IMO, Build 9.0.2416 (9.0.2910.0)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--694351878863211209"
+X-Priority: 3
+X-MSMail-Priority: Normal
+Status: R
+X-Status: 
+X-Keywords: 
+
+
+
+
+&nb;=
+sp;  Dear Capital One   Customer,
+
+
+
+   Due to recent fraudulent activities on some of Capital O=
+ne   online 
+   accounts we are launching a new security=
+ system to make
+   Capital One   online accounts more se=
+cure and safe. Before we can 
+   activate it we will be =
+checking all Capital One   online accounts to confirm 
+  &nbs;=
+p;the authenticity of the holder.
+
+
+
+   We will require a confirmation that your account has=
+ not been 
+   stolen or hacked. Your account has not bee=
+n suspended or frozen. 
+
+
+
+   To confirm your account status please Login
+
+  &n;=
+bsp;   -complete the required information to authenticate a=
+nd reset your account
+
+      -make sur=
+e your account balance has not been changed
+
+    =
+;  -make sure your details have not been changed
+
+ &n;=
+bsp;    -review recent transactions in your account hi=
+story for any unauthorized 
+      transfe=
+r
+
+
+
+   If you find any type of suspicious activities p=
+lease contact us immediately.
+   Please include in your messa=
+ge your account number, your account name
+   and the unauthor=
+ized transfer date & time.
+
+
+
+
+   Please do not reply to this message. For any inquiries, =
+contact Customer Service.
+
+
+
+   Capital One  Copyright =A9 2006
+
+

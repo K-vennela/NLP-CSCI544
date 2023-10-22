@@ -1,0 +1,60 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id CAAED23CAF0
+	for <user@domain.com>; Fri, 23 Sep 2015 07:24:49 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at domain.com
+X-Spam-Score: 2.874
+X-Spam-Level: **
+X-Spam-Status: No, score=2.874 tagged_above=2 required=5
+	tests=[ADDRESS_IN_SUBJECT=0.533, BAYES_00=-2.599, URIBL_PH_SURBL=2.8,
+	URIBL_WS_SURBL=2.14]
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id ZiJYsLHpgGWJ for <user@domain.com>;
+	Fri, 23 Sep 2015 07:24:49 -0500 (CDT)
+Received: from S0-OTT-XSMTP3.nrcan.gc.ca (s0-ott-xsmtp3.nrcan.gc.ca [132.156.36.56])
+	by domain.com (Postfix) with ESMTP id 95A8023CAEE
+	for <user@domain.com>; Fri, 23 Sep 2015 07:24:49 -0500 (CDT)
+Received: from S0-OTT-X1.nrn.nrcan.gc.ca ([132.156.36.205]) by S0-OTT-XSMTP3.nrcan.gc.ca with Microsoft SMTPSVC(6.0.3790.4675);
+	 Fri, 23 Sep 2015 08:24:47 -0400
+X-MimeOLE: Produced By Microsoft Exchange V6.5
+Content-class: urn:content-classes:message
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Subject: user@domain.com
+Date: Fri, 23 Sep 2015 08:24:46 -0400
+Message-ID: <560727user@domain.com>
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+Thread-Topic: user@domain.com
+Thread-Index: Acx568Wj6J0LLjEFRG+t1Lpdh1Ydnw==
+From: "Entchev, Evgueniy" <Evgueniy.Entchev@NRCan-RNCan.gc.ca>
+To: <user@domain.com>
+X-OriginalArrivalTime: 23 Sep 2015 12:24:47.0233 (UTC) FILETIME=[C8571F10:01CC79EB]
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 10
+
+Dear Customer,
+
+You have two(2) unread messages but cannot be accessed due to Several =
+Incorrect login attempt on your email account.You are required to =
+restore your mailbox by Clicking the Link below.=20
+
+Restore Your Mailbox Now =
+<<<link>>>=20
+
+*Important*
+
+NOTE: FAILURE CAN RESULT TO PERMANENT ACCOUNT SUSPENSION.=20
+
+________________________________
+
+Thanks.
+System Administrators.
+System Administrator

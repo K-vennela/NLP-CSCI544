@@ -1,0 +1,66 @@
+Received: from domain.com (146.215.230.102) by
+ domain.com (43.130.141.76) with Microsoft SMTP Server id
+ 8.3.342.0; Wed, 26 Mar 2015 19:42:08 -0700
+Received: from domain.com ([160.33.194.231])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s2R2g7nI002797	for <user@domain.com>; Thu, 27 Mar 2015 
+ 02:42:07 GMT
+Received: from mail206-ch1-domain.com (mail-domain.com
+ [216.32.181.174])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s2R2hTOj000339
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Thu, 27 Mar 2015 02:43:30 GMT
+Received: from mail206-ch1 (localhost [127.0.0.1])	by
+ mail206-ch1-domain.com (Postfix) with ESMTP id C2190604AE	for
+ <user@domain.com>; Thu, 27 Mar 2015 02:42:06 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:17.158.185.185;KIP:(null);UIP:(null);IPV:NLI;H:nk11p10mm-domain.com;RD:nk11p10mm-domain.com;EFVD:NLI
+X-SpamScore: 14
+X-BigFish: vps14(z3e03szda00hdc73hzz1f42h2148h208ch1ee6h1de0h1fdah2073h2146h1202h1e76h2189h1d1ah1d2ah21bch1fc6h1082kzzz2fh839h944hd25he5bh1220h1288h12a5h12a9h12bdh137ah139eh13b6h13eah1441h1504h1537h162dh1631h1662h1758h1898h18e1h1946h19b5h1b0ah224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e23h1fe8h1ff5h2052h20b3h2218h2216h226dh24afh2327h2336h2438h2461h2487h24d7h2516h2545h255eh25f6h2605h268bh1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail206-ch1: domain of me.com designates 17.158.185.185 as permitted sender) client-ip=17.158.185.185; user@domain.com; helo=nk11p10mm-domain.com ;domain.com ;
+Received: from mail206-ch1 (localhost.localdomain [127.0.0.1]) by mail206-ch1
+ (MessageSwitch) id 139588812514415_26292; Thu, 27 Mar 2015 02:42:05 +0000
+ (UTC)
+Received: from domain.com (domain.com
+ [10.43.68.242])	by mail206-domain.com (Postfix) with ESMTP id
+ F377F1E00B9	for <user@domain.com>; Thu, 27 Mar 2015 02:42:04 +0000
+ (UTC)
+Received: from nk11p10mm-domain.com (17.158.185.185) by
+ domain.com (10.43.70.27) with Microsoft SMTP Server id
+ 14.16.227.3; Thu, 27 Mar 2015 02:42:04 +0000
+Received: from [192.168.1.74] (107-206-161-216.domain.com
+ [107.206.161.216]) by nk11p10mm-domain.com (Oracle Communications
+ Messaging Server 7u4-27.08(7.0.4.27.7) 64bit (built Aug 22 2013)) with
+ ESMTPSA id <0user@domain.com> for
+ user@domain.com; Thu, 27 Mar 2015 02:41:49 +0000 (GMT)
+From: Aaron Sorkin <endofshow@me.com>
+Subject: from a. sorkin
+Date: Wed, 26 Mar 2015 19:41:47 -0700
+Message-ID: <user@domain.com>
+To: Amy Pascal <user@domain.com>
+X-Mailer: Apple Mail (2.1283)
+x-icloud-spam-score: 34444444
+ f=me.com;e=me.com;is=no;ir=yes;pp=ham;spf=n/a;dkim=n/a;dmarc=n/a;wl=n/a;pwl=n/a;clxs=n/a;clxl=n/a
+X-MANTSH: 1TEIXREEbG1oaGkdHB0lGUkdDRl5PWBoaHxEKTEMXGx0EGx8SBBscHwQdGBAbHho
+	fGhEKWE0XSxEKbX4XGhEKTFkXGxobGxEKWUkXEQpZXhdjY3kRCkNOF0sbGBpiTk0caBsdcBl4c
+	wcYeBoYHhtEGBEKWFwXGQQaBB0HTUsdEkhJHEwFGx0EGx8SBBscHwQdGBAbHhofGxEKXlkXYUt
+	+eWMRCkNaFxsaHQQYGhwEGxwbBBgbHBEKQkUXa0ddZhxgR1kcUl0RCkJOF2xwYHlAHWJSaRpiE
+	QpCTBdvW0dFZBxZaQFcaxEKQmwXYFBIcFJYbG94TXkRCkJAF25kXmVEZ2lOU0NsEQpCWBdjZW9
+	rTU1HGUBlHBEKcGgXZmFdbWFkbh5BbRsRCnBoF2tpfkQec29IYB5vEQpwbBdubWd4U0dLS35mf
+	REKcEwXbGlLR29yY0N7QnIR
+X-Proofpoint-Virus-Version: vendor=fsecure
+ engine=2.50.10432:5.11.87,1.0.14,0.0.0000
+ definitions=2014-03-26_06:2014-03-26,2014-03-26,1970-01-01 signatures=0
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 spamscore=0
+ suspectscore=0 phishscore=0 adultscore=0 bulkscore=0 classifier=spam adjust=0
+ reason=mlx scancount=1 engine=7.0.1-1402240000 definitions=main-1403260168
+Return-Path: user@domain.com
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+I understand the negotiation with DF isn't a picnic. Please don't give up.
+
+Aaron
+

@@ -1,0 +1,59 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 9EAAC23CA82
+	for <user@domain.com>; Sat, 18 Aug 2015 14:05:38 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id P18aeNpXMn0x for <user@domain.com>;
+	Sat, 18 Aug 2015 14:05:36 -0500 (CDT)
+Received: from domain.com (domain.com [129.7.234.211])
+	by domain.com (Postfix) with ESMTP id C075623CA7D
+	for <user@domain.com>; Sat, 18 Aug 2015 14:05:36 -0500 (CDT)
+Received: from domain.com (domain.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 4439B4E987DC
+	for <user@domain.com>; Sat, 18 Aug 2015 14:05:41 -0500 (CDT)
+Received: from bruce.mukilteo.wednet.edu (bruce.mukilteo.wednet.edu [169.204.170.76])
+	by domain.com (Postfix) with ESMTP id 123DB4E987E6
+	for <user@domain.com>; Sat, 18 Aug 2015 14:05:41 -0500 (CDT)
+X-ASG-Debug-ID: 1345316543-0481ae0ec1821a90003-Kl1cYy
+Received: from camano.mukilteo.wednet.edu (camano.mukilteo.wednet.edu [169.204.171.19]) by bruce.mukilteo.wednet.edu with ESMTP id UYsHZa3U441RDv4w; Sat, 18 Aug 2015 12:02:39 -0700 (PDT)
+X-Barracuda-Envelope-From: Kimmel Patty A. <KimmelPA@mukilteo.wednet.edu>
+X-Barracuda-Apparent-Source-IP: 169.204.171.19
+X-ASG-Whitelist: Client
+Received: from camano.mukilteo.schools ([169.204.171.19]) by
+ camano.mukilteo.schools ([169.204.171.19]) with mapi; Sat, 18 Aug 2015 
+ 12:02:33 -0700
+From: Kimmel Patty A. <KimmelPA@mukilteo.wednet.edu>
+To: "User" <user@domain.com>
+Date: Sat, 18 Aug 2015 12:02:32 -0700
+Subject: =?windows-1256?Q?System_Administrator=FE=FE=FE?=
+Thread-Topic: =?windows-1256?Q?System_Administrator=FE=FE=FE?=
+X-ASG-Orig-Subj: =?windows-1256?Q?System_Administrator=FE=FE=FE?=
+Thread-Index: AQHNfXQFCcMWoBYC4ECj+92Cus15Kg==
+Message-ID: <21user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+acceptlanguage: en-US
+Content-Type: multipart/alternative;
+	boundary="_000_21F815DC2BB70C44B9F225E89986CE1502EAF8D2894Bcamanomukil_"
+MIME-Version: 1.0
+X-Barracuda-Connect: camano.mukilteo.wednet.edu[169.204.171.19]
+X-Barracuda-Start-Time: 1345316559
+X-Barracuda-URL: <<link>>:8000/cgi-mod/mark.cgi
+X-Virus-Scanned: by bsmtpd at mukilteo.wednet.edu
+X-PMX-Version: 5.5.9.395186, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2012.7.31.153616
+X-PerlMx-Spam: Gauge=XXIIIIIIII, Probability=28%, Report='
+ PHISH_SPEAR_STORAGE_LIMIT 3, HTML_70_90 0.1, HTML_NO_HTTP 0.1, BODYTEXTH_SIZE_10000_LESS 0, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1200_1299 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DATE_TZ_NA 0, ECARD_KNOWN_DOMAINS 0, FROM_NAME_PHRASE 0, LOCALE_ARABIC 0, SMALL_BODY 0, __ANY_URI 0, __CHAR_ARABIC_SUBJ 0, __CT 0, __CTYPE_HAS_BOUNDARY 0, __CTYPE_MULTIPART 0, __CTYPE_MULTIPART_ALT 0, __HAS_FROM 0, __HAS_HTML 0, __HAS_MSGID 0, __MIME_HTML 0, __MIME_VERSION 0, __PHISH_SPEAR_FORM_URI 0, __PHISH_SPEAR_STORAGE_LIMIT 0, __SANE_MSGID 0, __SUBJ_HIGHBIT 0, __TAG_EXISTS_HTML 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_NO_MAILTO 0, __URI_NO_PATH 0, __URI_NO_WWW 0, __URI_NS '
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 119
+
+Your mailbox as exceeded domain.com please  CLICK HERE<<<link>>
+preadsheet/viewform?formkey=3DdGFRdUFObGpUQ0xCM052REc5NUU5UGc6MQ>:  to vali=
+date your e-mail

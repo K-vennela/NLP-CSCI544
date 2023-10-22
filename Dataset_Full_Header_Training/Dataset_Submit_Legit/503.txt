@@ -1,0 +1,205 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Mon, 16 May
+ 2015 18:37:21 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Mon, 16 May 2015 
+ 18:37:20 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 918274725
+ for user@domain.com; Mon, 16 May 2015 17:37:28 -0500
+X-Note-AR-ScanTimeLocal: 5/16/2016 5:37:28 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @skdknick.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->->United States->
+X-Note-Sending-IP: 157.56.110.112
+X-Note-Reverse-DNS: mail-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from [157.56.110.112] (HELO
+ na01-bn1-domain.com)  by domain.com
+ (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 139169732 for user@domain.com;
+ Mon, 16 May 2015 17:37:27 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=domain.com; s=selector1-skdknick-com;
+ h=From: Natalie Raps <nraps@skdknick.com>
+ bh=kiDAzDKeXgGKkemXt2jSls0l0E5ZDwjIosWYfjvcFfc=;
+ b=EUqrVlt+I1Mx/q6Al7zxVXYBpgiltTa0LbJ7rPkwklyNH4oVo3ZYKW9wCt2b3RtHBtRi7M1Vdlru8QJ3iMYhstLUMXszeyknMl/Fb8lSHm6ZNQNm+tzg8ia8D1oCGvNy2SHlxLkVs/N4UNTasBN7LbhLEl+b/i4GlPZOJX4JtEU=
+Received: from domain.com (10.163.155.157) by
+ domain.com (10.163.155.155) with Microsoft
+ SMTP Server (TLS) id 15.1.497.12; Mon, 16 May 2015 22:37:16 +0000
+Received: from domain.com ([10.163.155.157]) by
+ domain.com ([10.163.155.157]) with mapi id
+ 15.01.0497.017; Mon, 16 May 2015 22:37:16 +0000
+From: Natalie Raps <nraps@skdknick.com>
+To: Natalie Raps <user@domain.com>
+Subject: Today from the Constitutional Responsibility Project
+Thread-Topic: Today from the Constitutional Responsibility Project
+Thread-Index: AdGvvT4ZhsVlPmO+T/KAuKM5Rco96A==
+Date: Mon, 16 May 2015 22:37:15 +0000
+Message-ID: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+authentication-results: skdknick.com; dkim=none (message not signed)
+ header.d=none;skdknick.com; dmarc=none action=none header.from=skdknick.com;
+x-originating-ip: [50.193.144.129]
+x-ms-office365-filtering-correlation-id: f945147d-ecb7-4c8a-c734-08d37ddaa1f3
+x-microsoft-exchange-diagnostics: 1;BY2PR0701MB1942;5:ZM3jzAHrieBgYBnsjxnKxssqx/6JjUAxl98TvEip3yyOyIIXJY/elFZDxij4uliz5yKT2s8Z685GefUUrcohuOXYb2cRw252qcrjjESgU53/Tsj/6Ceb4U23fQhP87m8JHAIEZk7RAsizTW8wVNYZw==;24:ezliQbuhYG0ETvlOnN4Kq4Z0AN539ubPJi/p3nQQmRGY9nyKE287XKzmnfauCba7YB3iIa6wWfeD/IvS2+x2OFABGXaFba85oGtQtmhFAtY=;7:0fWjJXX8/fO9v0bMmc0Nve6eCdT3yyuZ7pVjbCqBxrbAVFutdIa8ZLHLCJZrKIGE0x1/q5qw1v7Zp96iyysgOGV31RlIRCrrqRNL/Kr1VIfWnbByABg0nmNeYy47KaPo65zeM6Xo0tBDuncLLaTLIRW0RqbUY/LPDWavtBQ3IKa9CyGsMIGMYS33ai3VMQ7k
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:;SRVR:BY2PR0701MB1942;
+x-ld-processed: 51f4a8d4-10a8-4d6c-bc10-f2546164f7db,ExtAddr
+x-microsoft-antispam-prvs: <user@domain.com>
+x-exchange-antispam-report-test: UriScan:;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(601004)(2401047)(5005006)(8121501046)(3002001)(10201501046);SRVR:BY2PR0701MB1942;BCL:0;PCL:0;RULEID:;SRVR:BY2PR0701MB1942;
+x-forefront-prvs: 09443CAA7E
+x-forefront-antispam-report: SFV:NSPM;SFS:(10019020)(37854004)(4001450100002)(10400500002)(19580395003)(19580405001)(122556002)(81166006)(99286002)(8676002)(5003600100002)(66066001)(8936002)(86362001)(229853001)(19617315012)(107886002)(33656002)(19625215002)(6200100001)(16236675004)(3660700001)(110136002)(3280700002)(189998001)(92566002)(77096005)(2900100001)(15975445007)(50986999)(74316001)(54356999)(87936001)(76576001)(5002640100001)(11100500001)(5004730100002)(790700001)(102836003)(1220700001)(9686002)(3846002)(19300405004)(6116002)(5008740100001)(586003)(2906002)(7059030);DIR:OUT;SFP:1102;SCL:1;SRVR:BY2PR0701MB1942;H:domain.com;FPR:;SPF:None;MLV:sfv;LANG:en;
+spamdiagnosticoutput: 1:23
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_BY2PR0701MB1944D1FD7FB1999483736056D3770BY2PR0701MB1944_"
+X-MS-Exchange-CrossTenant-originalarrivaltime: 16 May 2015 22:37:15.9541
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 51f4a8d4-10a8-4d6c-bc10-f2546164f7db
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BY2PR0701MB1942
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Today in the fight for a full and functioning Supreme Court: The Des Moines=
+ Register observes that Sen. Chuck Grassley's Supreme Court obstruction is =
+jeopardizing his legacy, President Obama calls on Senate Republicans to fil=
+l the Supreme Court vacancy in light of Donald Trump becoming the presumpti=
+ve Republican nominee for president, Chief Judge Garland reflects on his li=
+fetime of public service and, today's Supreme Court decisions showcase the =
+need for a fully functional, nine person bench.
+
+Tomorrow, #WeNeedNine will host a press conference at Capitol Visitor Cente=
+r - SVC 202, with Sen. Ben Cardin (D-Md.), Randi Weingarten, President of t=
+he American Federation of Teachers, Lily Eskelsen Garc=EDa, President of th=
+e National Education Association, Elizabeth A. Davis, President Washington =
+Teachers Union, and Jim Leonard, U.S. government teacher at Wilson High Sch=
+ool in DC to mark the 62 anniversary of the Brown v. Board of Education rul=
+ing. They will demand Senate Republicans move forward with hearings and an =
+up-or-down vote on Chief Judge Merrick Garland's nomination to the Supreme =
+Court.  To RSVP for this event, please email Natalie Raps at user@domain.com=
+.com<mailto:user@domain.com>.
+
+Editorial: Grassley's court maneuver threatens his legacy, reputation.
+
+The editorial board of the Des Moines Register<<<link>>
+.com/story/opinion/editorials/2016/05/15/editorial-grassleys-court-maneuver=
+-threatens-his-legacy-reputation/84306270/?from=3Dglobal&sessionKey=3D&auto=
+login=3D> writes:
+
+"After 57 years in elected office and countless legislative accomplishments=
+ at both the state and federal level, Grassley seems destined to be remembe=
+red largely for this single, petulant act of politically motivated obstruct=
+ionism... Over the course of six terms in the U.S. Senate, three terms in t=
+he U.S. House, and 16 years in the Iowa Legislature, Grassley cultivated a =
+reputation for being a fair-minded, hard-working, bipartisan lawmaker. That=
+ well-deserved reputation is now badly damaged - perhaps irretrievably so."
+
+President Obama: Trump candidacy a key reason to confirm Garland now
+
+Today, President Obama weighed in on Donald Trump becoming the presumptive =
+Republican presidential nominee, saying it should incentivize Senate Republ=
+icans to confirm Chief Judge Garland now. In a live interview with Chris Ge=
+idner, Buzzfeed<<<link>>
+ominee-interview?utm_term=3D.poNw0VvGj#.ab8zvK70P> reports:
+
+"The GOP is 'looking at a Republican nominee' - Donald Trump - 'who many of=
+ them say isn't qualified to be president much less appoint someone' to the=
+ Supreme Court.... But now, 'it seems to me [Republicans would] be better o=
+ff going ahead and giving a hearing and a vote to somebody that they themse=
+lves in the past have said is well-qualified, is fair, and to treat the Sup=
+reme Court with the seriousness and the sense that it's beyond politics, th=
+at it deserves,' Obama said. 'Precisely because this election year has been=
+ so crazy, precisely because you have a number of Republicans who have said=
+ that they're concerned about their nominee, it shows you why you don't wan=
+t to politicize a Supreme Court appointment.'"
+
+Supreme Court punts on major case, showing the importance of a full and fun=
+ctioning high court.
+
+In a memo, People for the American Way<<<link>>
+-court-punts-zubik-case-and-shows-again-crucial-importance-fully-staffed-su=
+preme-cour> notes that the Supreme Court's decision to send Zubik v. Burwel=
+l-a major case concerning the Affordable Care Act-back to the lower courts =
+highlights the crucial importance of a fully functioning Supreme Court.
+
+"The Supreme Court issued a brief unsigned opinion today in the Zubik case,=
+ and vacated all the conflicting opinions...The result is to punt the issue=
+ away until the Court again has nine justices...While both sides can theref=
+ore claim some temporary victory from the Court's ruling, the clear loser i=
+s our American justice system."
+
+Chief Judge Garland: the committed tutor.
+
+Teacher Charlene Wilburn reflects on the 18 years Chief Judge Garland spent=
+ tutoring students at J.O. Wilson Elementary. Watch the video HERE<<<link>>
+domain.com/watch?v=3D1wSS4He6x7A>.
+
+Charlene Wilburn, teacher at J.O. Wilson Elementary: "The fact that he woul=
+d continue to come with his busy schedule and his big job to take the time =
+to work with children, it just really touches my heart-and I really think i=
+t speaks to him, what kind of person he is. For him to be a judge for the S=
+upreme Court is perfect."
+
+Senate Republicans can learn something from New Hampshire.
+
+Former New Hampshire state representative and senator Debora B. Pignatelli =
+writes in the New Hampshire Business Review<<<link>>
+/What-Washington-can-learn-from-New-Hampshire/> that the Senate GOP should =
+take a lesson from a NH state law that requires all state judicial nominees=
+ to receive a public hearing.
+
+Former New Hampshire state representative and senator Debora B. Pignatelli:=
+ "When I was a New Hampshire state senator, my colleagues, both Republican =
+and Democratic, enacted a bill I co-sponsored that required all state judic=
+ial nominees receive a public hearing. It has served our state well...Inste=
+ad of continuing to obstruct, the Senate Republican leadership should give =
+Chief Judge Garland a hearing and a vote... Our belonging to a political pa=
+rty didn't make any difference. We did our jobs. The hearings were importan=
+t to ensure the public had the opportunity to vet a nominee's qualification=
+s and record. There were no political shenanigans."
+
+A look ahead at a sampling of activity by our grassroots allies and Democra=
+tic Senators:
+
+TUESDAY 5/17/16
+
+Event: Senator Cardin, Education Leaders Demand Senate GOP Move Forward on =
+Filling Supreme Court Vacancy
+
+Additional Information: On the 62 Anniversary of the Brown v. Board of Educ=
+ation, Sen. Cardin, Education Experts Discuss the Importance of Restoring t=
+he Supreme Court to Nine Justices
+
+Location CHANGE: United States Capitol, Capitol Visitor Center - SVC 202
+
+Time: 10AM local time
+
+Key briefers/speakers: U.S. Senator Ben Cardin (D-Md.), Randi Weingarten, P=
+resident of the American Federation of Teachers, Lily Eskelsen Garc=EDa, Pr=
+esident of the National Education Association, Elizabeth A. Davis, Presiden=
+t Washington Teachers Union, Jim Leonard, US Government teacher at Wilson H=
+igh School in DC
+
+Press Contact: For media interested in attending the event, please email Na=
+talie Raps, user@domain.com<mailto:user@domain.com>
+
+###
+

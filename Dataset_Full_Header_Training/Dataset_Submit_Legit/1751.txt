@@ -1,0 +1,75 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 27 Apr
+ 2015 16:17:48 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 27 Apr 2015 
+ 16:17:41 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 883778496
+ for user@domain.com; Wed, 27 Apr 2015 15:17:49 -0500
+X-Note-AR-ScanTimeLocal: 4/27/2016 3:17:49 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: user@domain.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->
+X-Note-Sending-IP: 68.232.198.10
+X-Note-Reverse-DNS: mta.politicoemail.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mta.politicoemail.com ([68.232.198.10] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 135770126
+ for user@domain.com; Wed, 27 Apr 2015 15:17:49 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=200608; d=politicoemail.com;
+ h=From: POLITICO <email@politicoemail.com>
+ bh=neais7ddCiP0Xvfunv6s36LotVU=;
+ b=TZ1QKzh41UfO5jKgoQaO4Jgj+8ZDy3STRY6nIzngy6uQr6f5I2JR6ESkj71e67qZMXbKvA4fHV6s
+   /ojSwG9SHXuwUX2WaVSAa9zLW99z/UaIv+0B9FN96aiKrZgVteBUExoDJyy0dBgvUOaP11E8BzPx
+   9GlCMWBUNqlBBfBJ9rY=
+Received: by mta.politicoemail.com id h44f6m163hs7 for <user@domain.com>; Wed,
+ 27 Apr 2015 14:16:54 -0600 (envelope-from
+ <user@domain.com>)
+From: POLITICO <email@politicoemail.com>
+To: <user@domain.com>
+Subject: BREAKING NEWS: Sanders campaign begins laying off staff
+Date: Wed, 27 Apr 2015 14:16:54 -0600
+List-Unsubscribe: <mailto:user@domain.com>
+Reply-To: POLITICO subscriptions
+	<user@domain.com>
+x-job: 1376319_5365177
+Message-ID: <46164user@domain.com>
+Content-Type: multipart/alternative; boundary="HqaxrDBVg3Yj=_?:"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+TERRE HAUTE, Ind. - Bernie Sanders' campaign started letting field staffers go on Wednesday, hours after five states in the Northeast voted and the Vermont senator fell further behind Hillary Clinton in the race for the Democratic nomination, five people familiar with the situation told POLITICO.
+
+The extent of the cuts are unclear, but staffers who were working in states that voted Tuesday were told to look elsewhere for work rather than continue onto the next voting states, according to people close to the campaign.
+
+"Wer'e 80 percent of the way through the caucuses and primaries and we make adjustments as we go along. This is a process that we've done before of right-sizing the campaign as we move through the calendar," said Sanders' campaign communications director Michael Briggs.
+
+While Sanders has raised large amounts of money online, and started April with $17 million according to his most recent Federal Election Commission report, he has also spent at a very high rate, including $46 million in March. It is unclear how much money his campaign currently has on hand.
+
+Sanders has had a large field organizing presence all over the country, and Wednesday's cuts are the first significant scaling back of his campaign apparatus now that the majority of states have voted in the primary. 
+
+While he insisted to an Indiana crowd on Wednesday that he is still in the race to win it, he has also suggested that he is aiming to influence the Democratic platform if Clinton is the candidate.
+
+Still, Sanders is likely to win a handful of states in May, and he is competing heavily in California and Indiana.
+
+Read more: <<link>>
+ To change your alert settings, please go to <<link>> or <<link>> email was sent to user@domain.com by: POLITICO, LLC 1000 Wilson Blvd. Arlington, VA, 22209, USA
+
+To unsubscribe,<<link>>
+

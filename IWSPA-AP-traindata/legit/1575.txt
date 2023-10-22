@@ -1,0 +1,14 @@
+Hi all
+Wow this is a nice analysis by Grant et al.  What we should do is turn this into a learning
+experience for everyone: there is often misuse of filtering.  Obviously the editor and
+reviewers need to to also be taken to task here.  I agree with Mike Mann that a couple of
+other key points deserve to be made wrt this paper.  Making sure that the important
+relationships and role of ENSO on interannual variability of global temperatures should
+also be pointed out with some select references (as in recent emails and the refs
+therein).  In terms of the paper, I recommend consolidating the figures to keep them fewer
+in number if this is a comment: combine Figs 3 with 4 , and 6 with 7.  Make sure the plots
+of spectra have period prominently displayed as well as frequency and maybe even highlight
+with stipple some bands like >10 years.  Glad to sign on: I would need an acknowledgment
+that NCAR is sponsored by NSF.
+Regards
+Kevin

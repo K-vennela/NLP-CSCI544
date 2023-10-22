@@ -1,0 +1,96 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Thu, 12 May
+ 2015 18:38:26 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Thu, 12 May 2015 
+ 18:38:23 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 912662549;
+ Thu, 12 May 2015 17:38:31 -0500
+X-Note-AR-ScanTimeLocal: 5/12/2016 5:38:31 PM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @demconvention.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->->United States->
+X-Note-Sending-IP: 40.107.68.124
+X-Note-Reverse-DNS: mail-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from [40.107.68.124] (HELO
+ na01-by2-domain.com)  by domain.com
+ (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 138603715; Thu, 12 May 2015 
+ 17:38:30 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=domain.com; s=selector1-demconvention-com;
+ h=From: April Mellody <amellody@demconvention.com>
+ bh=+WLJmHfyFBLnbGPIOIF5IY2iWwioK2qVW3dGqZOdds4=;
+ b=GrBN9+tR22qf0nfrv9vMEjdatCrAxSEdQowPxMt6VweVMSY1Eawajb1ZESJcgjing2lDD1Qjq2k6+35pdg32LXIGHNHoWx/XMT0lP4YI+a4fng9g6qzt5MKg1USL/pgLIVziq1PhhI6VTJta1doAjdg1KGWs/j6/58Z7/eYlt74=
+Received: from domain.com (10.164.198.142) by
+ domain.com (10.164.198.141) with Microsoft SMTP
+ Server (TLS) id 15.1.497.3; Thu, 12 May 2015 22:38:23 +0000
+Received: from domain.com ([10.164.198.142]) by
+ domain.com ([10.164.198.142]) with mapi id
+ 15.01.0497.013; Thu, 12 May 2015 22:38:23 +0000
+From: April Mellody <amellody@demconvention.com>
+To: "User" <user@domain.com>
+CC: Patrice Taylor <user@domain.com>, "Federico, Courtney"
+	<user@domain.com>, "Paustenbach, Mark" <user@domain.com>
+Subject: Re: WSJ question...
+Thread-Topic: WSJ question...
+Thread-Index: AdGsmE8JLX58pFIES2W0q3b9o7GAuwAAao37AAAKjQAAACYB+AAAEu6QAAD9p3A=
+Date: Thu, 12 May 2015 22:38:23 +0000
+Message-ID: <22user@domain.com>
+References: <05user@domain.com>
+ <37user@domain.com>,<05user@domain.com>
+ <0user@domain.com>,<05user@domain.com>
+In-Reply-To: <05user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+authentication-results: domain.com; dkim=none (message not signed)
+ header.d=none;domain.com; dmarc=none action=none header.from=demconvention.com;
+x-originating-ip: [2600:1002:b028:ceeb:618c:a4b9:3c25:664a]
+x-ms-office365-filtering-correlation-id: f6ce3e34-2799-4f92-a1e1-08d37ab6207b
+x-microsoft-exchange-diagnostics: 1;DM3PR13MB0719;5:4sDCDCoyNx/9Mmahn2hX2YazS9m7EKaNuoaqegDAqi71xrPRAf0zGDFMATRQvi2jjt1hH9QbVyd8nC39IIYGxMuJsB2k3oeC1LlajC67yZ4VK4zufYoW+vElgH6oZ2DkN2Y6pPjT8o9O54hVUli2yA==;24:HQmAxluY4Tc24DfXj+oDYBXwnBMuS4QPJkldCABaB9VE0AmchEBsRF733KACxpzpUOFYD/ce+4JizvH4Obk2KJKMJ4QWUaZkHCYFu4X5pZY=;7:g3SQfC66qYA0K08QGxE6vYItPw1m84Wb4nf4w+FpEvKiHcYQ+Gc6UashZKHiexyS7bzi+9YRmMoguquzC0gbphJZq1GTkAiDxFAwEqwluWHYqDEMr8ieZcIIS7kL/DrLpZcHRvSSICiTzxHwyiwP5t8cXeYOT4tB8WoRRo1IpzlZwzIfnMxZXYUucT0AY1VJ
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:;SRVR:DM3PR13MB0719;
+x-ld-processed: 0457a3b8-b076-4f33-a32f-6129315d909d,ExtAddr
+x-microsoft-antispam-prvs: <user@domain.com>
+x-exchange-antispam-report-test: UriScan:;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(102415293)(102615271)(6040130)(601004)(2401047)(8121501046)(5005006)(3002001)(10201501046)(6041072)(6043046);SRVR:DM3PR13MB0719;BCL:0;PCL:0;RULEID:;SRVR:DM3PR13MB0719;
+x-forefront-prvs: 0940A19703
+x-forefront-antispam-report: SFV:NSPM;SFS:(10019020)(377454003)(24454002)(4326007)(19580395003)(19580405001)(8936002)(15187005004)(15975445007)(17760045003)(586003)(1220700001)(102836003)(189998001)(16236675004)(5002640100001)(5008740100001)(2900100001)(6116002)(86362001)(11100500001)(110136002)(5004730100002)(87936001)(93886004)(77096005)(5003630100001)(10400500002)(2950100001)(3900700001)(33656002)(99936001)(122556002)(76176999)(54356999)(50986999)(81166006)(9886003)(19625215002)(3480700004)(450100001)(99286002)(36756003)(92566002)(2906002)(19617315012)(3280700002)(3660700001)(3826002);DIR:OUT;SFP:1102;SCL:1;SRVR:DM3PR13MB0719;H:domain.com;FPR:;SPF:None;MLV:sfv;LANG:en;
+spamdiagnosticoutput: 1:23
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/related;
+	boundary="_004_22DD0FD1D81646A5A2AFA6C7175C7263demconventioncom_";
+	type="multipart/alternative"
+X-MS-Exchange-CrossTenant-originalarrivaltime: 12 May 2015 22:38:23.4481
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 0457a3b8-b076-4f33-a32f-6129315d909d
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: DM3PR13MB0719
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Great. Thanks. Will see what I can find out and report back if I learn anyt=
+hing.
+
+Sent from my iPhone
+
+On May 12, 2016, at 6:10 PM, User <user@domain.com<mailto:User=

@@ -1,0 +1,79 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Fri, 20 May
+ 2015 12:56:04 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Fri, 20 May 2015 
+ 12:55:58 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 926664088
+ for user@domain.com; Fri, 20 May 2015 11:56:08 -0500
+X-Note-AR-ScanTimeLocal: 5/20/2016 11:56:08 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:209.85.213.46 DOM:buzzfeed.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-235/SG:5 5/20/2016 11:55:14 AM
+X-GBUdb-Analysis: Unknown
+X-Signature-Violations: 0-0-0-8196-c
+X-Note-419: 15.6261 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/20/2016 11:55:55 AM
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 209.85.213.46
+X-Note-Reverse-DNS: mail-vk0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from mail-vk0-domain.com ([209.85.213.46] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 140085676
+ for user@domain.com; Fri, 20 May 2015 11:56:08 -0500
+Received: by mail-vk0-domain.com with SMTP id f66so151211398vkh.2
+        for <user@domain.com>; Fri, 20 May 2015 09:55:58 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=buzzfeed.com; s=google;
+        h=mime-version:in-reply-to:references:date:message-id:subject:From: Adrian Carrasquillo <adrian.carrasquillo@buzzfeed.com>
+        bh=waILg+CH2XYTh6I1ckeoorsQBHXxMTdai2ba8VKi4cE=;
+        b=D2tQZTas9L7bChebll8y+wOITfqNBd2T7HGBrW1xS+Lizk2AFJ6FQY5jcnMT27ngXM
+         B6QG+KWiDfm/X8pIlMEKGFJZsBM4s9hCNIBK07SIM7VmbCdJ+lFsckkwzOd0ztPUgiHn
+         /eWJVuN13PbtAWCrrmIGrhxxy5ABFlBt9pLKI=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:date
+         :message-id:subject:From: Adrian Carrasquillo <adrian.carrasquillo@buzzfeed.com>
+        bh=waILg+CH2XYTh6I1ckeoorsQBHXxMTdai2ba8VKi4cE=;
+        b=frtIskMzyQNKTekSZ1VFaRlJ4AlG5JswK7kAL5tmbqiZbCIJ3EN8ca0O72vhP2DZ1s
+         p/2uMeFxGpNG6VDDq286+owFZ5xXe9HXBdQEpCfUmpYbdi0zziaOE2brcU1pze8JU4OP
+         +xo1hMvQKhysTeYs+h4SWCpdccgenyAQebJX2KMslEJOeXSBj9JaU4RnhkBPs1laoFfT
+         kEAdzHfA3BHDQgVgSJ5Sn0sm2d+e3Bntcx/pbBvjFvQ2j8QKBYa8b3+ZO8A2EEDdPMcN
+         jxubdt+4khK422ibKNdSlRKBILowkqVzsjaDMrkD4TDVS3Yw3MARZhDowIAcT+rUQ4TW
+         Uc3g==
+X-Gm-Message-State: AOPr4FW1G5DoIOYgSdBaFojQ9NvtxZaiHp7DzkYVRFZS3dGtYoJHeIOlNt3RtyC1TfAQnhkh71wXiAm/EArmuPHe
+X-Received: by 10.31.207.68 with SMTP id f65mr2373694vkg.102.1463763358274;
+ Fri, 20 May 2015 09:55:58 -0700 (PDT)
+Received: by 10.176.69.197 with HTTP; Fri, 20 May 2015 09:55:58 -0700 (PDT)
+In-Reply-To: <05user@domain.com>
+References: <2user@domain.com>
+	<05user@domain.com>
+Date: Fri, 20 May 2015 12:55:58 -0400
+Message-ID: <CAHaUFqmobKSpjHb8GrXnqrzOLK+user@domain.com>
+Subject: Re: FW: Trump called latina miss america "Miss Housekeeping"
+From: Adrian Carrasquillo <adrian.carrasquillo@buzzfeed.com>
+To: "User" <user@domain.com>
+Content-Type: multipart/alternative; boundary="001a114e5dce01ac3b053348f768"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+I'm working on another Trump thing, and this has been out for about a day
+so I'm passing. But we should chat soon, let you know what I'm working on,
+and catch up.
+

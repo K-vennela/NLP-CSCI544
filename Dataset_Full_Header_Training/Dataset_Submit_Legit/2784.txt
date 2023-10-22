@@ -1,0 +1,43 @@
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ dnchubcas2.dnc.org ([::1]) with mapi id 14.03.0224.002; Wed, 11 May 2015 
+ 18:49:34 -0400
+From: "Sanchez, Jennifer" <SanchezJ@dnc.org>
+To: "User" <user@domain.com>
+CC: "User" <user@domain.com>, "Walker, Eric" <user@domain.com>
+Subject: Communications Surrogate List
+Thread-Topic: Communications Surrogate List
+Thread-Index: AdGr1xdYjZegwxsjQv+Jfee/XsNvcw==
+Date: Wed, 11 May 2015 15:49:34 -0700
+Message-ID: <60user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: dnchubcas2.dnc.org
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.177.243]
+Content-Type: multipart/mixed;
+	boundary="_006_60C680AEBF29BD4AB09E5264BE4E57964D2513B4dncdag1dncorg_"
+MIME-Version: 1.0
+
+Hi Pablo -
+Thanks for the ideas and meeting today.
+When do you think I can expect a Communications Surrogate List?
+Attached is the template with the required fields needed for surrogates.
+Let your team know they can find home addresses on VoteBuilder.
+To meet deadlines on my end, I'd like roughly 200 contacts/talkers (roughly 20 surrogates per team member) by NOON May 19.
+I can always check to see if a person is already in the database or answer any questions.
+If that's going to be an issue, let's talk ASAP to discuss priorities with the bosses.
+Thank you in advance.
+
+Jennifer W. Sanchez
+Deputy Director for Surrogate Operations
+Organization
+Cell: 801.403.4817 |Office: 202.863.8070
+Email: user@domain.com<mailto:user@domain.com> | Twitter: @jennsanchezmpa
+Address: 430 S. Capitol St. SE, Washington, DC 20003
+domain.com<<<link>>>
+[cid:image001.png@01D0CE9B.F742D770]
+

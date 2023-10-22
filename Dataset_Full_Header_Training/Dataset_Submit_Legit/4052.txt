@@ -1,0 +1,85 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 4 May
+ 2015 21:38:14 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 4 May 2015 
+ 21:38:07 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 897376828;
+ Wed, 04 May 2015 20:38:16 -0500
+X-Note-AR-ScanTimeLocal: 5/4/2016 8:38:16 PM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: user@domain.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->->United States->
+X-Note-Sending-IP: 209.85.192.173
+X-Note-Reverse-DNS: mail-pf0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mail-pf0-domain.com ([209.85.192.173] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 138885663;
+ Wed, 04 May 2015 20:38:16 -0500
+Received: by mail-pf0-domain.com with SMTP id 206so31694236pfu.0;
+        Wed, 04 May 2015 18:38:14 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:subject:From: <hrtsleeve@gmail.com>
+         :content-transfer-encoding:message-id:references:to;
+        bh=hLjtHr0gqkSRP7WJuy2sfwKjClZzQV+KR8xNg4cvaSY=;
+        b=tibZIbHt6jpyXB/6+UsSRV6R+5VlQfeLXpJGgdfImVjDl8ZUBj9HRw+BOKdZ79SPmq
+         A3rRs6U1qRrph9fF+V82y0bkJg2fhgwrUDpn0YZS0j8oSLkUH/cqEP80DiPFQ6q47duP
+         zEQjKqqvS02ugNdv+tprPuGUDbW70x3KS1ldjSOi0Q5NE7cwT1SfqHDyJPMSlE6/Ropg
+         bfBQ5Js5PsgeLs1MpAChjyW8aS6CyACT8r0cQV2rPn4S9JdTebSs9EYpiO1ncZhpHSWs
+         yt/sJlVH769pWMoBvV2GQnmy2/ba5FUmZLM6e8sPWs97i7JP4CI166UprYqu4MBxHsB5
+         1CuQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:subject:From: <hrtsleeve@gmail.com>
+         :content-transfer-encoding:message-id:references:to;
+        bh=hLjtHr0gqkSRP7WJuy2sfwKjClZzQV+KR8xNg4cvaSY=;
+        b=YALwV7PRkBjgRtLopQbk3n3ayumOwYPM72dXCKD+85U2lFXiREnOg5u7d/zgxa5HCF
+         avMYoOQ48+OZbnMCPfJJbvNQdEO7Gs9c1GXQzjor6ui0f05jV/hSYgXKwiW4eiiMI8Vq
+         4KH9z3+MrOSeIELzV1BXMjlEf1uXZ6L56jG2SxTK37dvhtNUOiVI5idn8Eji4uOO0KcJ
+         /i/tciU+nRregkW/lgFmLhHru3WYbtGZkPtKx0KcqZGfIm9F6UXkD6jLdwJQsTfWNQoh
+         chkyxV3RjrfxDMHtufDZ9WPX2iAcXuo3YEO3chcMx/2xuV6vGyob0t2zqxfgQ4jhmEn3
+         6xww==
+X-Gm-Message-State: AOPr4FWR2d1MLHIwe5ZP9/GCaiiaCDvpOfyF8t5R/vcjv00CWdNsxOK7vmJoB7qNYEyCuw==
+X-Received: by 10.98.33.207 with SMTP id o76mr16593636pfj.80.1462412293731;
+        Wed, 04 May 2015 18:38:13 -0700 (PDT)
+Return-Path: <user@domain.com>
+Received: from [10.185.118.57] ([107.72.99.18])        by smtp.gmail.com with
+ ESMTPSA id fv10sm8874602pad.40.2016.05.04.18.38.12
+        (version=TLSv1/SSLv3 cipher=OTHER);        Wed, 04 May 2015 18:38:13
+ -0700 (PDT)
+Content-Type: multipart/alternative;
+	boundary="Apple-Mail-D7CB2A40-6D69-4FC6-BBB3-EAD23F27CE37"
+Subject: Re: MAC STIPANOVICH: AN OPEN LETTER TO MY FELLOW REPUBLICANS
+From: <hrtsleeve@gmail.com>
+X-Mailer: iPad Mail (13E238)
+In-Reply-To: <63415425-5239-4729-9user@domain.com>
+Date: Wed, 4 May 2015 18:38:11 -0700
+CC: DWSChairOffice <user@domain.com>, "User"
+	<user@domain.com>
+Content-Transfer-Encoding: 7bit
+Message-ID: <97586user@domain.com>
+References: <63415425-5239-4729-9user@domain.com>
+To: "User" <user@domain.com>
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Wow, wow, wow. User, you know who Mac is, right? This is cataclysmic.=20
+
+DWS
+

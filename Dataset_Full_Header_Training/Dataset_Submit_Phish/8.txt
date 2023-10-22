@@ -1,0 +1,60 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [10.23.1.4])
+	by domain.com (Postfix) with ESMTP id 27C34536F58
+	for <user@domain.com>; Sat, 18 Dec 2015 01:17:54 -0500 (EST)
+Received: by domain.com (Postfix, from userid 63)
+	id 2C3E485A634; Sat, 18 Dec 2015 01:16:30 -0500 (EST)
+Received: from 10.23.1.4 (unknown [211.212.207.159])
+	by domain.com (Postfix) with SMTP id 8011285A62C
+	for <user@domain.com>; Sat, 18 Dec 2015 01:16:24 -0500 (EST)
+FCC: mailbox://user@domain.com/Sent
+X-Identity-Key: id1
+Date: Sat, 18 Dec 2015 03:13:22 -0300
+From: Smith Barney <identifdep_id9350240227@smithbarney.com>
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: user@domain.com
+Subject: Smith Barney - Urgent Security Notice [Sat, 18 Dec 2015 08:20:22 +0200]
+Content-Type: multipart/related;
+ boundary="------------000206080205060602070006"
+Message-Id: <20041218061624.8011285user@domain.com>
+X-DSPAM-Factors: 27,
+	in, 0.00010,
+	in, 0.00010,
+	font, 0.00010,
+	font, 0.00010,
+	com, 0.00010,
+	com, 0.00010,
+	message+in, 0.00010,
+	in+MIME, 0.00010,
+	part+message, 0.00010,
+	This+is, 0.00010,
+	href+img, 0.00010,
+	Content-Type*html+charset, 0.00010,
+	multi+part, 0.00010,
+	MIME+format, 0.00010,
+	font+face, 0.00010,
+	Date*Sat+Dec, 0.00010,
+	Content-Type*us+ascii, 0.00010,
+	To*domain.com, 0.00010,
+	To*username+monkey, 0.00010,
+	face+Arial, 0.00010,
+	is+multi, 0.00010,
+	Content-Type*charset+us, 0.00010,
+	format, 0.00010,
+	Return-Path*com, 0.00010,
+	img, 0.00010,
+	it, 0.00010,
+	the, 0.00010
+X-DSPAM-Result: Innocent
+X-DSPAM-Confidence: 0.9997
+X-DSPAM-Probability: 0.0000
+X-DSPAM-Signature: 41c3cb3d105141652623525
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 50
+
+in 1901 in 1888 Atkins Diet Keep calm! frankly speaking Blair Witch Project Bands It's impossible Net in 1977 in 1801 in 1953 ??? ???? in 1988 Final Fantasy Movies ?????? I'd like to make What's the difference? Right, thank you. When it was in 1989 and make them better?    Sterling Marlin get off 

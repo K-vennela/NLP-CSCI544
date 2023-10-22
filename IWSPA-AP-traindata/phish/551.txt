@@ -1,0 +1,12 @@
+Server Alert  
+E-mail Subject:
+Your mailbox (user@domain.com ) will be closed today!
+E-mail Message:
+We noticed that you are almost out of the mailbox quota
+Soon you will no longer be able to receive or send new messages.
+Now, you need to upgrade your mail quota to 15GB free
+Click the link below to get your free 15GB:
+<<link>> =upgrade?var=15GB
+Your mailbox will be closed today, if you do not upgrade to 15GB
+Senders:
+Mailbox Information Center

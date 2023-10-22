@@ -1,0 +1,115 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.100.15])
+	by domain.com (Postfix) with ESMTP id 9C9472BC048
+	for <user@domain.com>; Wed,  7 Dec 2015 07:45:54 +0100 (CET)
+X-ASG-Debug-ID: 1323240350-0252530b3445b5c0001-wzf8oX
+Received: from smtp4.gr-u.it (smtp4.gr-u.it [81.117.60.178]) by domain.com with ESMTP id svRuJfl1bCYOBqkh; Wed, 07 Dec 2015 07:45:50 +0100 (CET)
+X-Barracuda-Envelope-From: Ferrara Marco <Marco.Ferrara@unipolassicurazioni.it>
+X-Barracuda-Apparent-Source-IP: 81.117.60.178
+X-AuditID: ac1f0667-b7fcf6d0000077bd-a6-4edf0b9c5f35
+Received: from AIRONE.servizi.gr-u.it (Unknown_Domain [172.30.64.250])
+	by smtp4.gr-u.it (Symantec Mail Security) with SMTP id E1.34.30653.C9B0FDE4; Wed,  7 Dec 2015 07:45:49 +0100 (CET)
+Received: from FENICE3.servizi.gr-u.it ([172.30.78.138]) by
+ AIRONE.servizi.gr-u.it ([172.30.64.250]) with mapi; Wed, 7 Dec 2015 07:45:48
+ +0100
+X-Barracuda-BBL-IP: 172.30.64.250
+X-Barracuda-RBL-IP: 172.30.64.250
+From: Ferrara Marco <Marco.Ferrara@unipolassicurazioni.it>
+To: "User" <user@domain.com>, Piani Cristian
+	<user@domain.com>, Ramponi Cristiano
+	<user@domain.com>
+CC: Insalaco Sergio Leonardo <user@domain.com>,
+	"'user@domain.com'" <user@domain.com>,
+	"'user@domain.com'" <user@domain.com>,
+	"'user@domain.com'" <user@domain.com>,
+	"'user@domain.com'" <user@domain.com>
+Date: Wed, 7 Dec 2015 07:45:47 +0100
+Subject: R: IP per scansioni perimetro e Linear
+Thread-Topic: IP per scansioni perimetro e Linear
+X-ASG-Orig-Subj: R: IP per scansioni perimetro e Linear
+Thread-Index: Acy0bb4MAYKViwlyQCqvUNVWQR4FagAPhwaw
+Message-ID: <user@domain.com>
+In-Reply-To: <1323213439.9305.8.user@domain.com>
+Accept-Language: it-IT
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+acceptlanguage: it-IT
+X-Brightmail-Tracker: H4sIAAAAAAAAA+NgFjrBKsWRmVeSWpSXmKPExsWyRs7hl+5c7vt+BmfauSz+v+9hs5g87Tqj
+	Rf9DT4u1m3vYLba+8XNg9fiyeSdzAGMUl01Kak5mWWqRvl0CV8b6iVeZCmbpVlzcOZe9gfGD
+	dhcjJ4eEgInEi9dHGSFsMYkL99azdTFycQgJ7GaUmNi9kQnCmcQo8eRwBwtIFZuAlcTuFX0s
+	IAkRga2MEpcOLAdzmAXWMklsudgLNotFQEXi8ZlV7CC2sIC+RF/rf7C4iIChxIETh9ggbCOJ
+	Fw/2Aq3g4OAVCJCY/9kcJMwpoCNx4/53sBJGoJMOHeljBbGZBcQlbj2ZzwRxqoDEkj3nmSFs
+	UYmXj/+xQtSLSsxYvIYFoj5f4sys42BzeAUEJU7OfMIygVFkFpJRs5CUzUJSNgvoImYBTYn1
+	u/QhShQlpnQ/ZIewNSRa58xlRxZfwMi+ipG3OLekwEQvvUi3VC+zZBMjKLLk2dJ3MP6dJ3+I
+	UYCDUYmHt9X+np8Qa2JZcWXuIUZJDiYlUV4n9vt+QnxJ+SmVGYnFGfFFpTmpxYcYJTiYlUR4
+	85OBynlTEiurUovyYVLSHCxK4rxxPef9hATSE0tSs1NTC1KLYLIyHBxKEry6XEBDBYtS01Mr
+	0jJzShDSTBycIMN5gIZHcwLV8BYXJOYWZ6ZD5E8xqnJc+jzpDKMQS15+XqqUOG86yCABkKKM
+	0jy4Oa8YxYHeEeZd8g/oPh5g8oSb8ApoOBPQcL6ouyDDSxIRUlINjOsnc4T7cn/fWhDx46iB
+	65IZ9R7BMo7MCgdU+FMF5GYyaM3+Yv0t8dZuS6fTbzmPXI57uOTq10NzTij9/btXYJreqzvP
+	qtzPFPIWGxaZXtv+2naJqK3L+eYDlYGL9dsWhRmcTloUZrj9xI2b5xqleTWfzi69y6/C/eEG
+	R6F897ejapm2R6YdS1NiKc5INNRiLipOBABoTRdsWwMAAA==
+X-Barracuda-Connect: smtp4.gr-u.it[81.117.60.178]
+X-Barracuda-Start-Time: 1323240350
+X-Barracuda-URL: <<link>>:8000/cgi-mod/mark.cgi
+X-Virus-Scanned: by bsmtpd at domain.com
+X-Barracuda-Spam-Score: 0.00
+X-Barracuda-Spam-Status: No, SCORE=0.00 using global scores of TAG_LEVEL=3.5 QUARANTINE_LEVEL=1000.0 KILL_LEVEL=8.0 tests=HTML_MESSAGE
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.2.82364
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.00 HTML_MESSAGE           BODY: HTML included in message
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2039478351_-_-"
+
+Va bene.
+Tienici aggiornati.
+
+Grazie
+Ciao
+Marco
+
+
+
+Da: Luca Filippi [mailto:user@domain.com]
+Inviato: Wednesday, December 07, 2015 12:17 AM
+A: Ferrara Marco; Piani Cristian; Ramponi Cristiano
+Cc: Insalaco Sergio Leonardo; r.banfi <user@domain.com>; Ivan Roattino <user@domain.com>; 'Antonio Mazzeo' <user@domain.com>; Enrico Luzzani <user@domain.com>
+Oggetto: IP per scansioni perimetro e Linear
+
+
+
+Ciao,
+
+per velocizzare un po' le operazioni, durante questi giorni di feste e ponti vedrete alcuni test anche dall'indirizzo IP 130.192.232.221 oltre a quelli già comunicati, cioé 217.56.23.208/28 e 88.50.246.138/32.
+
+Inoltre oggi mentre ero in treno ho fatto qualche test di SQL injection su domain.com, dall'indirizzo IP 2.115.198.62.
+
+Ciao,
+
+        luca
+
+-- 
+
+Luca Filippi
+Senior Security Engineer
+
+
+
+HT srl 
+Via Moscova, 13 I-20121 Milan, Italy 
+WWW.HACKINGTEAM.IT 
+Phone +39 02 29060603 
+Mobile +39 340 5488603
+Fax. +39 02 63118946 
+
+
+
+This message is a PRIVATE communication. This message contains privileged and confidential information intended only for the use of the addressee(s).
+If you are not the intended recipient, you are hereby notified that any dissemination, disclosure, copying, distribution or use of the information contained in this message is strictly prohibited. If you received this email in error or without authorization, please notify the sender of the delivery error by replying to this message, and then delete it from your system.
+

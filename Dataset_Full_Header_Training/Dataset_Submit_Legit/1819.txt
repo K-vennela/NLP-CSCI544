@@ -1,0 +1,106 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from shark.hackingteam.it (shark.hackingteam.it [192.168.100.15])
+	by mail.hackingteam.it (Postfix) with ESMTP id 96AB92BC10D;
+	Mon, 26 Oct 2015 08:18:47 +0100 (CET)
+X-ASG-Debug-ID: 1256541805-492700bb0000-wzf8oX
+X-Barracuda-URL: <<link>>:8000/cgi-bin/mark.cgi
+Received: from domain.com (localhost [127.0.0.1])
+	by shark.hackingteam.it (Spam & Virus Firewall) with ESMTP
+	id C45672659A; Mon, 26 Oct 2015 08:23:25 +0100 (CET)
+Received: from domain.com (domain.com [206.53.150.102]) by shark.hackingteam.it with ESMTP id rj8MnGAzxWAuAy0S; Mon, 26 Oct 2015 08:23:25 +0100 (CET)
+X-Barracuda-Envelope-From: "Luca Filippi" <l.filippi@hackingteam.it>
+Received: from bda211.bisx.produk.on.blackberry (bda211.bisx.produk.on.blackberry [172.24.224.130])
+	by domain.com (8.13.7 TEAMON/8.13.7) with ESMTP id n9Q7NNvL022334;
+	Mon, 26 Oct 2015 07:23:23 GMT
+Received: from bda211.bisx.produk.on.blackberry (localhost.localdomain [127.0.0.1])
+	by bda211.bisx.produk.on.blackberry (8.13.7 TEAMON/8.13.7) with ESMTP id n9Q7NLgZ012103;
+	Mon, 26 Oct 2015 07:23:21 GMT
+X-Barracuda-BBL-IP: 172.24.224.130
+X-Barracuda-RBL-IP: 172.24.224.130
+X-rim-org-msg-ref-id: 161171325
+Message-ID: <161171325-1256541800-user@domain.com>
+Reply-To: user@domain.com
+X-Priority: Normal
+Sensitivity: Normal
+Importance: Normal
+To: "User" <user@domain.com>,
+        "Enrico Luzzani" <user@domain.com>
+CC: "Ivan Roattino" <user@domain.com>
+X-ASG-Orig-Subj: =?Windows-1252?B?STogSW46IEFuYWxpc2kgdnVsbmVyYWJpbGl04CBzaXRvIFdlYiAoc2NhbWJpbyBub21pbmF0aXZpIGUgcmlmZXJpbWVudGkp?=
+Subject: =?Windows-1252?B?STogSW46IEFuYWxpc2kgdnVsbmVyYWJpbGl04CBzaXRvIFdlYiAoc2NhbWJpbyBub21pbmF0aXZpIGUgcmlmZXJpbWVudGkp?=
+From: "Luca Filippi" <l.filippi@hackingteam.it>
+Date: Mon, 26 Oct 2015 07:23:24 +0000
+X-Barracuda-Connect: domain.com[206.53.150.102]
+X-Barracuda-Start-Time: 1256541806
+X-Barracuda-Virus-Scanned: by Barracuda Spam & Virus Firewall at hackingteam.it
+X-Barracuda-Spam-Score: 0.00
+X-Barracuda-Spam-Status: No, SCORE=0.00 using global scores of TAG_LEVEL=3.5 QUARANTINE_LEVEL=1000.0 KILL_LEVEL=8.0 tests=HTML_MESSAGE
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.2.12871
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.00 HTML_MESSAGE           BODY: HTML included in message
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-747758056_-_-"
+
+ Cominciamo bene.... :)
+
+Guardate l'indirizzo di cod nell'email originale... :)
+
+Mandate un email x dirgli che cominciamo le attivita' all'ora in cui comincerete e fino allle 19, tutti i giorni fino al 30, please :)
+
+Ciao,
+
+    L        Luca Filippi
+Senior Security Engineer
+
+
+
+HT srl - Via Moscova, 13 I-20121 Milan, Italy 
+WWW.HACKINGTEAM.IT 
+Phone +39 02 29060603 - Fax. +39 02 63118946 
+
+
+
+This message is a PRIVATE communication. This message contains privileged and confidential information intended only for the use of the addressee(s).
+If you are not the intended recipient, you are hereby notified that any dissemination, disclosure, copying, distribution or use of the information contained in this message is strictly prohibited. If you received this email in error or without authorization, please notify the sender of the delivery error by replying to this message, and then delete it from your system.From: "Luca Filippi" <l.filippi@hackingteam.it>
+Date: Mon, 26 Oct 2015 08:11:38 +0100To: <user@domain.com>; <"a.mazzeo."@domain.com>Subject: In: Analisi vulnerabilità sito Web (scambio
+  nominativi e riferimenti) 
+messaggio reinoltrato causa indirizzo errato 
+
+-----Inoltrato da Claudio Biasin/DDCRFARM il 26/10/2009 08.14 -----
+
+Per: user@domain.com, user@domain.com
+Da: Claudio Biasin/DDCRFARM
+Data: 23/10/2009 16.08
+Cc: user@domain.com, user@domain.com, Andreas Lutzenberger/user@domain.com, user@domain.com, user@domain.com
+Oggetto: Analisi vulnerabilità sito Web (scambio nominativi e riferimenti) 
+
+Buonasera,  come concordato, si riportano di seguito i rispettivi riferimenti tecnici per l'attività di Vulnerability Assessment (sul sito Web concordato - IP: 89.190.163.60) programmata per la prossima settimana (dal 26 al 30 ottobre). Argentea :    Davide Piazza        user@domain.com     T. +39 0461 431 635    mobile 348.4418105 
+Hacking Team : Luca Filippi                          user@domain.com                mobile 340.5488603 Enrico Luzzani                   user@domain.com Antonio Mazzeo              user@domain.com   Hacking Team provvederà a comunicare quotidianamente inizio e fine attività.   
+Cordiali saluti, Claudio Biasin   ------------------------------------------------------- 
+Ing. Claudio Biasin 
+Südtiroler Sparkasse AG - Cassa di Risparmio di Bolzano SpA 
+Abt. Organisations- und Personalentwicklung - Servizio Sviluppo Organizzativo e del Personale 
+Horatzstr. 4 d - Via Orazio 4 d 
+I 39100 Bozen/Bolzano 
+Tel. +39 0471 231401 - Fax +39 0471 231665 
+user@domain.com   - <<link>> 
+
+This message (including any attachments) contains confidential 
+information intended for a specific individual and purpose, and is 
+protected by law. If you are not the intended recipient, you should delete 
+this message and are hereby notified that any disclosure, copying, or 
+distribution of this message, or the taking of any action based on it, is 
+strictly prohibited. 
+
+This message (including any attachments) contains confidential 
+information intended for a specific individual and purpose, and is 
+protected by law. If you are not the intended recipient, you should delete 
+this message and are hereby notified that any disclosure, copying, or 
+distribution of this message, or the taking of any action based on it, is 
+strictly prohibited.

@@ -1,0 +1,65 @@
+Peter,
+Don't know if you got this. There is a link below to something Tom P said.
+Keith is fine - seems as though there nothing malignant or cancerous
+in the post op tests. Just needs to ensure the scar heals OK, then
+he can come back to the madhouse.
+Cheers
+Phil
+X-Failed-Recipients: peter.thorne@metoffice.gov.uk
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@uea.ac.uk>
+To: p.jones@uea.ac.uk
+Subject: Mail delivery failed: returning message to sender
+Date: Fri, 31 Jul 2009 08:31:08 +0100
+This message was created automatically by mail delivery software.
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+peter.thorne@metoffice.gov.uk
+SMTP error from remote mail server after end of data:
+host ueamailgate01.uea.ac.uk [139.222.131.184]:
+554 5.7.1 Message rejected because of unacceptable content.  For help, please quote
+incident ID 3442835.
+------ This is a copy of the message, including all the headers. ------
+Return-path: <p.jones@uea.ac.uk>
+Received: from [139.222.104.75] (helo=crupdj2.uea.ac.uk)
+by ueams02.uea.ac.uk with esmtps (TLSv1:AES256-SHA:256)
+(Exim 4.69)
+(envelope-from <p.jones@uea.ac.uk>)
+id 1MWma3-0007wd-KH
+for peter.thorne@metoffice.gov.uk; Fri, 31 Jul 2009 08:31:07 +0100
+X-Mailer: QUALCOMM Windows Eudora Version 7.1.0.9
+Date: Fri, 31 Jul 2009 08:31:19 +0100
+To: "Thorne, Peter (Climate Research)" <peter.thorne@metoffice.gov.uk>
+From: Phil Jones <p.jones@uea.ac.uk>
+Subject: Fwd: did you get a chance to see
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+boundary="=====================_1878687==.ALT"
+--=====================_1878687==.ALT
+Content-Type: text/plain; charset="us-ascii"; format=flowed
+>Date: Wed, 29 Jul 2009 13:50:57 -0400
+>From: Thomas.C.Peterson@noaa.gov
+>Subject: did you get a chance to see
+>To: Thomas.C.Peterson@noaa.gov
+>Cc: Phil Jones <p.jones@uea.ac.uk>
+>X-Mailer: iPlanet Messenger Express 5.2 HotFix 2.01 (built Aug 26 2004)
+>X-Accept-Language: en
+>Priority: normal
+>X-Canit-CHI2: 0.00
+>X-Bayes-Prob: 0.0001 (Score 0, tokens from: @@RPTN, f028)
+>X-Spam-Score: 1.00 (*) [Hold at 5.00]
+>APOSTROPHE_OBFUSCATION,HTML_MESSAGE,SPF(none,0)
+>X-CanItPRO-Stream: UEA:f028 (inherits from UEA:default,base:default)
+>X-Canit-Stats-ID: 26983044 - 2dc0798c114f
+>X-Antispam-Training-Forget:
+>[1]<<link>>
+>X-Antispam-Training-Nonspam:
+>[2]<<link>>
+>X-Antispam-Training-Spam:
+>[3]<<link>>
+>X-Scanned-By: CanIt (www . roaringpenguin . com) on 139.222.131.185
+>
+>[4]<<link>>
+-to-see-the-sinclair-climate-denial-crock-of-the-week/
+>
+>

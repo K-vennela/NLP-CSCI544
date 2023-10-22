@@ -1,0 +1,92 @@
+Dear Colleagues,
+A meeting was held today on SRES scenarios during the IPCC plenary session
+in Vienna.  The meeting was organized by David Griggs, Fortunaat Joos,
+Richard Moss, and Rob Swart.  Also present were a number of delegates
+including two Co-Chairs of IPCC, John Houghton from WGI and Bert Metz from
+WGIII.  Attached is a document with issues discussed during this meeting.
+The meeting was very productive in my view, even though it was quite brief.
+Two key issues were discussed that are listed in the attachment: (1)
+incomplete information concerning SRES emissions as reported on the
+website, and (2) consistency and plausibility of SRES scenarios and their
+emissions.
+(1) Incomplete information
+There appeared to be a general consensus that the range of CO2 emissions
+(especially energy-related ones) are in quite good agreement across the
+SRES scenarios once one adds the missing emissions categories to all model
+runs.  They are also in a relatively good agreement with the ranges given
+in SAR.
+The SRES ranges of CH4 and N2O emissions did not appear to be a problem in
+themselves, but they are considerably lower than the ranges given in SAR.
+It was agreed to ask the SRES writing team to further harmonize the ranges
+for the base year and the period 1990 to 2000 across the scenarios for CO2,
+CH4 and N2O.  At the same time, David Griggs will contact the colleagues
+from WGI to inquire whether the emissions ranges for these gases as given
+in SAR have changed in the mean time and will inform the SRES colleagues
+soon about the result.  In particular, he will check whether the non-energy
+CO2, CH4 and N2O emissions ranges are still appropriate as best guess for
+the 1990 situation and about any new numbers about the ranges for more
+recent years.  It was also suggested that the SRES writing team discuss the
+reasons for relatively low CH4 emissions in 1990 compared with the SAR range.
+Most of the SRES models do not generate CFC and HFC emissions but these
+emissions are important for climate models.  It was agreed that David
+Griggs will inquire with climate modelers whether they really need all
+species of these gases or whether it is sufficient to report their joint
+emissions.  SRES team is to report whether these emissions could be added
+to most of the model runs and over which time-scale.   Joergen Fenhann is
+in touch with a number of colleagues on this issue already and he is
+planning to make a specific proposal how to handle this question across
+SRES scenarios.
+SRES sulfur emissions are considerably lower than the IS92 range.  There
+are a number of reasons for this difference that were discussed at the
+meeting.  It was decided that this exchange should continue in the future
+so that there is a better understanding of all issues involved.  This is a
+new aspect of SRES scenarios that represents an important change since
+IS92a, a change that was also suggested by the 1994 IPCC review of
+emissions scenarios.
+The concern raised by Hugh Pitcher (in the WGI scenario discussion group)
+about high productivity growth in A1 scenarios was briefly mentioned.  This
+issue is to be settled within the SRES writing team, possibly by including
+the formulation of alternative scenario variants.
+(2) Consistency and Plausibility
+Most participants of the meeting expressed the need to have emissions
+trajectories that are somehow normalized for all SRES scenarios for 1990
+and that have the same trends through 2000 and diverge only thereafter
+across different scenarios.  This would meet the need of climate modelers
+to work with the same starting points for all scenarios they model.  One
+suggestion was that SRES team simply takes midpoints of emissions ranges in
+1990 and renormalizes all SRES emissions.  Another proposal is that climate
+modelers suggest their preferred values for 1990 to be used in
+renormalization.  In any case, the method that is used would need to be
+well documented and cited in the relevant IPCC reports.  This is necessary
+so as not to introduce an artificial impression that there is a full
+agreement on base-year emissions across SRES scenarios.
+There were no specific suggestions how to harmonize short-term emissions
+through 2000.  This issues is to be discussed within the SRES writing team
+and within the climate modeling community in order to collect emissions
+data for the last years that could be used for such harmonization.
+The issue was discussed of generally lower CO2 and SO2 emissions across the
+range of SRES scenarios and in particular for B2 marker.  This results in
+lower GHG forcing and lower "negative" SO2 forcing.  The total forcing
+remains roughly the same as in IS92a but has fundamentally different
+implications especially at regional level.
+Most of the climate models will be in the position to use just a few
+scenarios, in some case, may be just two.  Possible ways of avoiding the
+impression that there is a "preferred" scenario were discussed and there
+was a consensus that somehow the message needs to be conveyed that the
+whole set of SRES scenarios is plausible and that there is really no single
+"central" case that can be compared with IS92a.
+Climate models need gridded SO2 emissions while SRES models generate SO2
+emissions for a number world regions.  Mike Schlesinger and Steve Smith
+will attend the next SRES meeting and it was suggested that Mike would use
+his method to produce gridded SO2 emissions and that Steve would use the
+method proposed by Tom Wigley to do the same.  This way there would be two
+alternative gridded emissions patterns for all SRES scenarios available to
+user groups.
+In conclusion, it was agreed that it would be useful to organize an
+informal meeting where SRES colleagues could meet with potential user
+groups from TAR (especially from WGI and WGII).  Next possibility to do so
+would be on the occasion of the WGI meeting in Paris, 30 November to 3
+December.  I am not quite sure that I got the dates right.  The next
+communication will be more precise.
+Regards,  Naki
+Attachment Converted: "c:\eudora\attach\sres_w~1.rtf"

@@ -1,0 +1,109 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Tue, 10 Feb 2015 09:25:08 +0100
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id 5818F621CC	for
+ <user@domain.com>; Tue, 10 Feb 2015 08:04:17 +0000 (GMT)
+Received: by domain.com (Postfix)	id B0DB12BC0F1; Tue, 10 Feb 2015 
+ 09:25:08 +0100 (CET)
+Delivered-To: user@domain.com
+Received: from EmadPC (unknown [192.168.1.196])	(using TLSv1 with cipher
+ AES256-SHA (256/256 bits))	(No client certificate requested)	by
+ domain.com (Postfix) with ESMTPSA id A0ECD2BC03D;	Tue, 10 Feb 2015 
+ 09:25:08 +0100 (CET)
+From: Emad Shehata <e.shehata@hackingteam.com>
+To: 'Emad Shehata' <user@domain.com>, <user@domain.com>
+CC: 'Marco Bettini' <user@domain.com>, 'Giancarlo Russo'
+	<user@domain.com>
+References: <54user@domain.com> <user@domain.com> <007f01d04475$ade7b3d0$09b71b70$@user@domain.com>
+In-Reply-To: <007f01d04475$ade7b3d0$09b71b70$@user@domain.com>
+Subject: R: Re: GDTA- STEP
+Date: Tue, 10 Feb 2015 09:25:08 +0100
+Message-ID: <003201d0450b$146514f0$3d2f3ed0$@user@domain.com>
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AQHQQYR1SDqFSz5nTjGzKenkFQPuKJzihl25gAXh4oCAASpkcA==
+Content-Language: it
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EMAD SHEHATA450
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1252371169_-_-"
+
+Dear Romain, thanks for your call and for the follow up informing me that our local partner is pushing to close the deal soon. Next week I will contact Mr. Khaled from the tech dept. and Ahmed from the project control.  Best regards Emad Shehata
+Key Account Manager
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com
+mobile: +39 3357939078
+phone: +39 0229060603   Da: Emad Shehata [mailto:user@domain.com] 
+Inviato: lunedì 9 febbraio 2015 15:36
+A: 'Emad Shehata'; user@domain.com
+Cc: 'Marco Bettini'; 'Giancarlo Russo'
+Oggetto: R: Re: GDTA- STEP Dear Romain,  have you any news? Best regards  Emad Shehata
+Key Account Manager
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com
+mobile: +39 3357939078
+phone: +39 0229060603   Da: Emad Shehata [mailto:user@domain.com] 
+Inviato: giovedì 5 febbraio 2015 21:46
+A: 'user@domain.com'
+Cc: Marco Bettini; Giancarlo Russo
+Oggetto: R: Re: GDTA- STEP Dear Romain,
+Thanks for your response and well noted.
+
+Best regards 
+-- 
+Emad Shehata 
+Key Account Manager 
+
+Sent from my mobile.
+ Da: Romain Lecarpentier [mailto:user@domain.com] 
+Inviato: Friday, February 06, 2015 12:43 AM
+A: Emad Shehata 
+Cc: Marco Bettini; Giancarlo Russo 
+Oggetto: Re: GDTA- STEP 
+ Dear Emad,
+
+I will check by Sunday but most likely the recent death of the King has delayed some decision process.
+I will keep you posted.
+
+Romain,
+
+trust this e-mail find you well. 
+
+
+
+Can you please update us on the mentioned project? ( I mean final result of the Tender and confirmation of the winner). 
+Best regards 
+
+
+
+Emad Shehata 
+Key Account Manager 
+
+
+
+Hacking Team 
+Milan Singapore Washington DC 
+HYPERLINK "<<link>>"www.hackingteam.com 
+
+
+
+email: HYPERLINK "mailto:user@domain.com"user@domain.com 
+mobile: +39 3357939078 
+phone: +39 0229060603 
+
+
+
+  > 

@@ -1,0 +1,154 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id 1DF3046B17
+	for <user@domain.com>; Tue, 21 Aug 2015 10:32:59 -0400 (EDT)
+Received: from domain.com (domain.com [204.181.64.8])
+	by domain.com (Postfix) with ESMTP id 22FAC131FC5C
+	for <user@domain.com>; Tue, 21 Aug 2015 10:32:59 -0400 (EDT)
+Received: from 65.74.21.154 (154-21-74-65.domain.com [65.74.21.154])
+	by domain.com (Postfix) with SMTP id D13F76FA1C4
+	for <user@domain.com>; Tue, 21 Aug 2015 10:32:57 -0400 (EDT)
+Received: from 252.166.192.146 by ; Tue, 21 Aug 2015 08:24:15 -0700
+Message-ID: <user@domain.com>
+From: "service@intl.paypal.com" <service@intl.paypal.com>
+Reply-To: "User" <user@domain.com>
+To: user@domain.com
+Subject: Regular Account Maintenance
+Date: Tue, 21 Aug 2015 18:32:15 +0300
+X-Mailer: The Bat! (v1.52f) Business
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--9549747177903562"
+X-Priority: 1
+X-MSMail-Priority: High
+Content-Length: 7536
+Lines: 140
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 55
+
+PayPal
+
+#yiv1429338740  ,#yiv1429338740  TD {font-family:verdana, arial, helvetica=
+, sans-serif;font-size:12px;color:#000000;}
+#yiv1429338740 LI {line-height:120%;}
+#yiv1429338740 UL.smallBorder {margin:10px 5px 10px 20px;}
+#yiv1429338740 LI.smallBorderLi {margin:0px 0px 5px 0px;}
+#yiv1429338740 UL.Narrow {margin:10px 5px 0px 40px;}
+#yiv1429338740 HR.dotted {width:100%;margin-top:0px;margin-bottom:0px;bord=
+er-left:#fff;border-right:#fff;border-top:#fff;border-bottom:2px dotted #c=
+cc;}
+#yiv1429338740 .smallEmphasis {font-family:verdana, arial, helvetica, sans=
+-serif;font-size:11px;font-weight:bold;color:#000000;}
+#yiv1429338740 .serifBig {font-family:serif;font-size:20px;font-weight:bol=
+d;color:#000000;}
+#yiv1429338740 .serif{font-family:serif;font-size:16px;color:#000000;}
+#yiv1429338740 .sansSerif{font-family:verdana, arial, helvetica, sans-seri=
+f;font-size:16px;color:#000000;}
+#yiv1429338740 .heading {font-family:verdana, arial, helvetica, sans-serif=
+;font-size:18px;font-weight:bold;color:#003366;}
+#yiv1429338740 .subHeadingEoa {font-family:verdana, arial, helvetica, sans=
+-serif;font-size:15px;font-weight:bold;color:#000000;}
+#yiv1429338740 .subHeading {font-family:verdana, arial, helvetica, sans-se=
+rif;font-size:16px;font-weight:bold;color:#003366;}
+#yiv1429338740 .sidebarText {font-family:verdana, arial, helvetica, sans-s=
+erif;font-size:11px;color:#003366;}
+#yiv1429338740 .sidebarTextBold {font-family:verdana, arial, helvetica, sa=
+ns-serif;font-size:11px;font-weight:bold;color:#003366;}
+#yiv1429338740 .xptFooter {font-family:verdana, arial, helvetica, sans-ser=
+if;font-size:11px;color:#aaaaaa;}
+#yiv1429338740 .button {font-size:13px;font-family:verdana, arial, helveti=
+ca, sans-serif;font-weight:400;border-style:outset;color:#000000;backgroun=
+d-color:#cccccc;}
+#yiv1429338740 .smaller {font-family:verdana, arial, helvetica, sans-serif=
+;font-size:10px;color:#000000;}
+#yiv1429338740 .smallerSidebar {font-family:verdana, arial, helvetica, san=
+s-serif;font-size:10px;color:#003366;}
+#yiv1429338740 .emphasis {font-weight:700;}
+#yiv1429338740 table#invoice,#yiv1429338740  table#invoice_controls,#yiv14=
+29338740  table#invoice_note {width:600px;}
+#yiv1429338740 table#invoice_note {margin-top:10px;margin-bottom:10px;}
+#yiv1429338740 table#invoice_controls {text-align:right;}
+#yiv1429338740 table#invoice {border-collapse:collapse;border:1px solid #a=
+aa;}
+#yiv1429338740 table#invoice td {font-size:11px;border:1px solid #ccc;padd=
+ing:2px;}
+#yiv1429338740 table#invoice td.field_label_right,#yiv1429338740  table#in=
+voice td.field_label_right_error {font-weight:bold;text-align:right;}
+#yiv1429338740 table#invoice td.field_label_right_error,#yiv1429338740  ta=
+ble#invoice td.field_label_error {color:red;}
+#yiv1429338740 table#invoice tr.title td {font-weight:bold;line-height:20p=
+x;text-align:left;background-color:#ccddee;}
+#yiv1429338740 table#invoice input.readonly {border:0;text-align:right;}
+#yiv1429338740 table#invoice input.readonly_currency {border:0;width:10px;=
+}
+#yiv1429338740 .field_error,#yiv1429338740  .field_error input.readonly_cu=
+rrency {background-color:#FF3333;}
+#yiv1429338740 .currency_highlight {background-color:#ffffcc;}
+#yiv1429338740 .tax {font-weight:400;float:left;}
+#yiv1429338740 table#invoice td span.curr {float:left;}
+#yiv1429338740 table#invoice td.currency {border-right:1px solid #fff;}
+#yiv1429338740 table#invoice td.calc {font-weight:bold;text-align:right;}
+#yiv1429338740 .inlineBlue {color:#00f;}
+#yiv1429338740 .small {font-size:11px;font-weight:400;}
+#yiv1429338740 HR.solid {width:100%;margin-top:5px;margin-bottom:0px;borde=
+r-left:#fff;border-right:#fff;border-top:#fff;border-bottom:2px solid #999=
+;}
+#yiv1429338740 .large {font-size:17px;}
+#yiv1429338740 .smallVerdanaGrey{font-family:verdana;font-size:10px;color:=
+#999999;}
+#yiv1429338740 .smallVerdana {font-family:verdana;font-size:10px;color:#00=
+0000;}
+#yiv1429338740 .smallArial {font-family:arial;font-size:13px;}
+#yiv1429338740 .smallArialBlue {font-family:verdana;font-size:9px;color:#0=
+000FF;}
+#yiv1429338740 .smallVerdanaGreen{font-family:verdana;font-size:10px;color=
+:#666666;}
+#yiv1429338740 .smaller {font-size:10px;color:gray;}
+#yiv1429338740 .larger {font-size:18px;font-family:arial;font-weight:600;}=
+
+#yiv1429338740 .longTableValue{}
+#yiv1429338740 .longSideBarText{}
+#yiv1429338740 .geCompliantName{font-family:verdana, arial, helvetica, san=
+s-serif;font-size:12px;font-weight:normal;color:#003366;}
+
+Dear Valued PayPal Custom=
+er,
+
+We are currently performing regular maintenance of our security measures. =
+Your account has been randomly selected for this maintenance, and you will=
+ now 
+be taken through a series of identity verification pages.
+
+To perform regular maintenance please 
+click here .
+
+Please Note:
+
+If we do no receive the appropriate account verification within 24 hours, =
+then 
+we will assume this account is fraudulent and will be suspended. The 
+purpose of this verification is to ensure that your account has not been 
+fraudulently used and to combat the fraud from our community.
+
+Thank you for using PayPal!
+The PayPal Team
+
+PROTECT YOUR PASSWORD
+
+NEVER give your password to anyone, including PayPal employees. 
+
+Please do not reply to thi=
+s email. This mailbox is not monitored and you will not receive a response=
+ For assistance, log in to=
+ your PayPal account and choose the Help link located in the top right cor=
+ner of any PayPal page.
+
+To receive email notificati=
+ons in plain text instead of HTML, update your preferences here.
+
+Copyright =A9 1999-2007 PayPal. All rights reserved.
+PayPal Email ID PP032

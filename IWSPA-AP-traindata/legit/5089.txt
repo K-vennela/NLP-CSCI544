@@ -1,0 +1,41 @@
+<x-flowed>
+Dear Stefan,
+The distinction here is that GCMs attempt to calculate from first 
+principles the zeroth and first order processes that dominate the 
+problem they are studying, whereas EMICs parameterize many of those 
+processes. The fact that EMICs can reproduce GCM results suggest that 
+their parameterizations have been tuned to do so - but this does not 
+in any way imply that if one alters the forcing or boundary 
+conditions outside of a small range, or apply them to completely 
+different problems, that the two types of models will react 
+similarly. In fact, there is a history of this - the first "EMICs" 
+had a very large sensitivity to a 2% solar insolation change; then 
+they had to be re-tuned to prevent that from happening. EMICs are 
+used for paleo-problems because of their ability to take large 
+time-steps, but there is no free lunch - in doing so, they sacrifice 
+calculating the fundamental physical processes the way the real world 
+does it. GCMs have storms, they have real water vapor transports, 
+they have winds calculated from solving the conservation of momentum 
+equation, etc. etc. There is a quantum difference between the 
+fundamental approaches - it is not a continuum, in which there are no 
+real differences, everything is simply a matter of opinion, there is 
+no such thing as truth  - that's the argument that greenhouse 
+skeptics use to try to make science go away.
+Because we can't use GCMs for long-time scale problems, we do the 
+best we can - we use these heavily parameterized models. If we could 
+use GCMs for those problems, EMICs could then be tuned to produce the 
+GCM results on those time-scales as well. But in this case we have no 
+way to validate the EMIC results - and since the first principles are 
+not being used, we cannot know whether they represent a physically 
+consistent solution or not. Therefore all they can do is suggest 
+interactions among processes, a useful though not definitive addition 
+to the field.
+David
+ps - concerning CLIMBER-2, I asked a number of leading climate 
+scientists to read the model description paper. Peter Stone was the 
+only person I asked who thought the model was at all useful for 
+studying the types of problems we are discussing. And it was not only 
+GCM scientists. If you want to hear further cogent arguments 
+concerning its inapplicability, consider contacting Bill Rossow (the 
+recent winner of a major honor as a leading climate scientist) but 
+make sure your email program or telephone accepts unexpurgated text.

@@ -1,0 +1,143 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 11 May
+ 2015 11:45:18 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 11 May 2015 
+ 11:45:14 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 909204264
+ for user@domain.com; Wed, 11 May 2015 10:45:15 -0500
+X-Note-AR-ScanTimeLocal: 5/11/2016 10:45:09 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:74.125.82.46 DOM:hattaway.com ADDR:user@domain.com
+X-Note: SPF: None
+X-Note: ICH-CT/SI:0-779/SG:1 5/11/2016 10:44:13 AM
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-384/SG:8 5/11/2016 10:44:13 AM
+X-GBUdb-Analysis: Unknown
+X-Signature-Violations: 0-0-0-32767-c
+X-Note-419: 46.8789 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/11/2016 10:44:54 AM
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 74.125.82.46
+X-Note-Reverse-DNS: mail-wm0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G407 G419 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from mail-wm0-domain.com ([74.125.82.46] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 137994273
+ for user@domain.com; Wed, 11 May 2015 10:45:08 -0500
+Received: by mail-wm0-domain.com with SMTP id n129so225326579wmn.1
+        for <user@domain.com>; Wed, 11 May 2015 08:45:08 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=hattaway-domain.com; s=20150623;
+        h=mime-version:in-reply-to:references:date:message-id:subject:From: Ivana Griacova <igriacova@hattaway.com>
+         :cc;
+        bh=vo0Fn2uTD6e+ng80TrQ+iKFR+IeYU7KJ6P5f1emTd1s=;
+        b=2Gdk91WCmmZ606cARqDDe5sgOqVTugoU3YNjk0anEEWDKIA/EkdVUTZwm/eBdBVxO8
+         ic5gxiFyn2QJ4I40tFb23rtCxu4N7ZpYEgQ8qg8Cr/yxmV+D0S3cY6MP/SzhOsA3epIr
+         nCcYKce8zIq81WNi3v+WFbJpCTfK0qjgJn1AnnYfHoO4H5bOWBB/cdNecFfQjKx10Z+2
+         DhLyvf6lds8LWQh5xABXM41Jnrk5Mk/SffNUB7QovJULjBJnJc+e6c+CdrEECqZayLTo
+         XaeQdBrim0XwybRqx5EqevN89ijoXugT1zSvQY9wMNRUPbldwjPUSujPDZ6ZV4kRJ6B0
+         jFfg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:date
+         :message-id:subject:From: Ivana Griacova <igriacova@hattaway.com>
+        bh=vo0Fn2uTD6e+ng80TrQ+iKFR+IeYU7KJ6P5f1emTd1s=;
+        b=domain.com+Z/6Qq2ug+qSKPkQ01seIDPsdEoPQzbEBB7ggAWg3R8BDMaLvUk4uGU
+         YZB5BCoy9SpLVZSYzUm+dhOyusIOCpdDEf1KSlAR7WiixVB+ZPufot7sAqJHhoyB5qvQ
+         ERv1DYSsCK2mspeg1/5FLXL3D2Cs/fYCpXIB3MW9UEfmg4rv/mZlLZj1TpwUivlbDFEe
+         gIu66Nve3dobaGjwBABh33yjomRMoEIq029RLLma0Oe8ivxWAx4tgdrVn5TT1r8JcPQK
+         2yBOO4wBetQEvTtz69s+xvWARlpMP2x4UN7gmqSJk3uSEEwaIywX+uK37kw1XM5njMma
+         Hy5Q==
+X-Gm-Message-State: AOPr4FU/IwqgJZuXl+JKjJZNEHSlPp652X2LyBcRLU3h8zKOYCPlAvSDeBBsxGWAHJ+dKzV7VdLu+I3atNrKIBAc
+X-Received: by 10.28.224.70 with SMTP id x67mr844289wmg.78.1462981507118; Wed,
+ 11 May 2015 08:45:07 -0700 (PDT)
+Received: by 10.28.158.207 with HTTP; Wed, 11 May 2015 08:45:06 -0700 (PDT)
+In-Reply-To: <user@domain.com>
+References: <user@domain.com>
+	<CALn+user@domain.com>
+	<user@domain.com>
+	<user@domain.com>
+	<CACdp=wwdQt3r+c4FQ6LRbrnJMHtjH+user@domain.com>
+	<CACdp=wxE0JJkrU4bSZ+user@domain.com>
+	<001201d1a662$582f8490$088e8db0$@domain.com>
+	<05user@domain.com>
+	<6user@domain.com>
+	<user@domain.com>
+	<user@domain.com>
+	<user@domain.com>
+Date: Wed, 11 May 2015 17:45:06 +0200
+Message-ID: <CACdp=wzYtPrxDs2s3mFYYx=dZBw5EgWPU=fxPcOfrmerKb+user@domain.com>
+Subject: Re: May Narrative Project Partners Meeting
+From: Ivana Griacova <igriacova@hattaway.com>
+To: "User" <user@domain.com>
+CC: "User" <user@domain.com>, "user@domain.com"
+	<user@domain.com>, Jamal Simmons
+	<user@domain.com>, Katherine Miller <user@domain.com>,
+	"Compton, Matt" <user@domain.com>, Cornell Belcher
+	<user@domain.com>, "BROWN, Dee" <user@domain.com>,
+	"WOODBURY, Terrance" <user@domain.com>, "NUNEZ, Lucia"
+	<user@domain.com>, Laura Rodriguez <user@domain.com>,
+	Francella Chinchilla <user@domain.com>, Abigail Omojola
+	<user@domain.com>, Steve Pierce <user@domain.com>, "Eric
+ Zimmermann" <user@domain.com>, Margie Omero <user@domain.com>,
+	"Herries, Rebecca" <user@domain.com>
+Content-Type: multipart/related; boundary="001a114b1ea00c4722053292ed07"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Hi all:
+
+Thank you so much for your patience while scheduling our upcoming calls and
+meetings.
+
+We will be moving forward with the dates proposed in my last email:
+
+   - *WEDNESDAY, 5/18, 2-3pm for a 1-hour webinar/call to discuss the
+   insights from the external survey. *The calendar invite has been sent
+   with the dial-in and webinar link. Please let me know if I missed anyone=
+.
+
+Join the call: domain.com/igriacova
+
+Dial in number: 202-847-6749
+
+No PIN needed
+
+   - *THURSDAY, 5/26, 4-6pm for a 2-hour meeting **to discuss the
+   objectives, logistics, audiences and strategy for the next, and our last=
+,
+   survey which will be lead by Cornell's team, as well as the updated
+   language we'll be testing.* We will have a dial-in and will be using a
+   webinar platform, so if it's hard for you to travel, you can join remote=
+ly.
+   I will confirm the location for this meeting next week.
+
+Best,
+
+Ivana
+
+--
+
+Ivana Griacova
+Senior Operations Associate
+Hattaway Communications, Inc.
+202.266.3329
+www.hattaway.com <<<link>>>
+
+Helping visionary leaders & organizations achieve great things.
+
+On Sun, May 8, 2015 at 10:58 PM, Ivana Griacova <user@domain.com>

@@ -1,0 +1,17 @@
+Delivery has failed to these recipients or groups:
+Prattm (prattm@dnc.prg)<mailto:prattm@dnc.prg>
+A problem occurred and this message couldn't be delivered. Check to be sure=
+the e-mail address is correct. If the problem continues, please contact yo=
+ur helpdesk.
+Diagnostic information for administrators:
+Generating server: dncedge2.dnc.org
+prattm@dnc.prg
+#554 5.4.4 SMTPSEND.DNS.NonExistentDomain; nonexistent domain ##
+Original message headers:
+Received: from DNCHUBCAS2.dnc.org (192.168.185.16) by dncwebmail.dnc.org
+(192.168.10.113) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 27 A=
+pr
+2016 12:16:21 -0400
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+dnchubcas2.dnc.org ([::1]) with mapi id 14.03.0224.002; Wed, 27 Apr 2016
+12:16:28 -0400

@@ -1,0 +1,21 @@
+Hi Tom,
+as a followup to Keith's email, it might be quite likely that one of the series you plot is
+replaced by the instrumental record after 1960, because the file from Crowley and Lowery
+that is available at the WDC-Paleoclimate contains such a record.  The header states:
+----------------------------------------
+Crowley and Lowery 2000 (Ambio 29, 51)
+Northern Hemisphere Temperature Reconstruction
+Modified as published in Crowley 2000
+(Science v289 p.270, 14 July 2000)
+Data from Fig. 1, Crowley 2000:
+Decadally smoothed time series of Crowley-Lowery reconstruction
+spliced into smoothed Jones et al instrumental record after 1860
+(labeled CL2.Jns11), and a slight modification (labeled CL2)
+of the original Crowley and Lowery reconstruction to 1965.
+----------------------------------------
+The URL of this file is:
+[1]ftp://ftp.ncdc.noaa.gov/pub/data/paleo/gcmoutput/crowley2000/crowley_lowery2000_nht.txt
+and it is listed here:
+[2]<<link>>
+Cheers
+Tim

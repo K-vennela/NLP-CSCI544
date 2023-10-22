@@ -1,0 +1,135 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Thu, 5 May
+ 2015 12:41:59 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Thu, 5 May 2015 
+ 12:41:51 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 898667397
+ for user@domain.com; Thu, 05 May 2015 11:42:01 -0500
+X-Note-AR-ScanTimeLocal: 5/5/2016 11:41:58 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:209.85.215.49 DOM:guardian.co.uk ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-265/SG:5 5/5/2016 11:41:14 AM
+X-GBUdb-Analysis: Unknown
+X-Signature-Violations: 0-0-0-15289-c
+X-Note-419: 15.6273 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/5/2016 11:41:55 AM
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 209.85.215.49
+X-Note-Reverse-DNS: mail-lf0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from mail-lf0-domain.com ([209.85.215.49] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 136982681
+ for user@domain.com; Thu, 05 May 2015 11:41:57 -0500
+Received: by mail-lf0-domain.com with SMTP id y84so103033319lfc.0
+        for <user@domain.com>; Thu, 05 May 2015 09:41:57 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=theguardian-domain.com; s=20150623;
+        h=mime-version:From: Lauren Gambino <lauren.gambino@theguardian.com>
+        bh=hjGBdas1nupkvvCnTfPD+m9a20RDvP/5ccYzco4C9Vk=;
+        b=Os8r08XjcJWfdAqfWFD/+oFoPlfWzbUj6QJsF49wJtFe3YSakNAuDIafovDepLYStN
+         mfFjF+ygbrJtqic0Fxa6Jv2nKkHWY99eL2k2P15NasKg2EWKFnIRj9KwPGDE96Tm2HK6
+         MtIYToghfvVjhQiEJaMDZOtt1cSo5zlU+r3PWJ8mXKGh3CBWcL2RB7aXFIwPV/gMTJxm
+         ajiBMz+egSDjS6bo3nm6jS1CxUgMo2ULHBV8dQObdiI/jGBXRItYlMMyBatsU7rRSqsN
+         juwAnHTEtOJgQRk1aPvw6h+CueVQglKhlpD+rKeTN3YEreF9qD5hJbRXj7tOWPO7eq+V
+         Kugw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:From: Lauren Gambino <lauren.gambino@theguardian.com>
+        bh=hjGBdas1nupkvvCnTfPD+m9a20RDvP/5ccYzco4C9Vk=;
+        b=RrC4gv7aWfcRWAguKboJ6cHC6DlD2pzZFnJv3Dv+H4X0RakC882PCjENKyvyKweWBc
+         hqdGluAVEq+K2XBu1OPUycEW5mJBQCKLYAidIG5npodgDCKyiYLlDJs0yq+HS0mPYy7x
+         LBORWRYpAj0ZlDPVFqoJuWa+g+E+mNKGLuDZMziVLDYfFP96RAVTzPTsQfCd4+JJRx/M
+         tLu3IAb/Yt57EJRYZiuTM+hkFGTkP+eQdKxR97OHw5mDcbr6YFtpNAkKTgyw/PQsptWt
+         m/9/crWFRQ90HcpUCF7FqN0UlpimwDi0o8Fz0dCdwAbMupdsYXs5v1APyHLBUO13aNXG
+         imJQ==
+X-Gm-Message-State: AOPr4FUWpaKBTgKC+SvcI8fEPWpP7fmzWDwK1kEiub5WqiL79SwOXyKv0abdy0oZbDgVY8uDXFu/h1txVODQXEYP7vSiGow02YdsvwurrDIWagiBKIdn2u1oxdX3u4TpDYJaNNLuWwBwKWkmRb81FHyPnA9DFA/bBll/cZq9d6ZPU9OMOSaUi5clAFR13xNcLIEt
+X-Received: by 10.25.19.157 with SMTP id 29mr7831129lft.100.1462466516189;
+ Thu, 05 May 2015 09:41:56 -0700 (PDT)
+Received: by 10.25.42.144 with HTTP; Thu, 5 May 2015 09:41:36 -0700 (PDT)
+From: Lauren Gambino <lauren.gambino@theguardian.com>
+Date: Thu, 5 May 2015 12:41:36 -0400
+Message-ID: <CAB2oF+user@domain.com>
+Subject: Vulnerable red states
+To: <user@domain.com>
+Content-Type: multipart/alternative; boundary="001a113a9bba31c1ad05321b05dd"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Hi User,
+
+My name is Lauren Gambino. I am a reporter with The Guardian in New York. I
+am working on a story about what historically red states might be swayed to
+vote for the Democrat in the presidential election this year.
+
+I was wondering if you might have a minute to speak with me on background
+about the red states that the Organizationthinks might be vulnerable with Trump at
+the top of the ticket =E2=80=93 like Arizona & Georgia, perhaps.
+
+My deadline is this evening and the best number to reach me at is
+917.900.4520. Thank you so much!
+
+Best,
+
+Lauren
+
+Lauren Gambino
+
+*National Reporter*
+
+Guardian News & Media
+
+O: 917-900-4520
+
+C: 480.359.8068
+
+@LGamGam <<<link>>>
+
+222 Broadway, 23rd floor
+
+New York, NY 10038
+
+theguardian.com
+
+=E2=80=8B=E2=80=8BDownload the Guardian app for Android
+<<<link>>> a=
+nd
+iOS=E2=80=8B <<<link>>
+=3D8>
+
+--=20
+
+------------------------------
+This e-mail and all attachments are confidential and may also be=20
+privileged. If you are not the named recipient, please notify the sender=20
+and delete the e-mail and all attachments immediately. Do not disclose the=
+=20
+contents to another person. You may not use the information for any=20
+purpose, or store, or copy, it in any way.  Guardian News & Media Limited=
+=20
+is not liable for any computer viruses or other material transmitted with=
+=20
+or as part of this e-mail. You should employ virus checking software.
+=20
+Guardian News & Media Limited is a member of Guardian Media Group plc. Regi=
+stered=20
+Office: PO Box 68164, Kings Place, 90 York Way, London, N1P 2AP.  Registere=
+d=20
+in England Number 908396
+

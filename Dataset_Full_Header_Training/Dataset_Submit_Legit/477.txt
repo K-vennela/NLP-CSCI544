@@ -1,0 +1,229 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from mail.hackingteam.it (localhost [127.0.0.1])
+	by localhost (Postfix) with SMTP id 2D6BC724E;
+	Tue, 12 May 2015 14:03:19 +0200 (CEST)
+Received: from [217.56.23.219] (host219-23-static.56-217-domain.com [217.56.23.219])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mail.hackingteam.it (Postfix) with ESMTP id 92401724C;
+	Tue, 12 May 2015 14:03:17 +0200 (CEST)
+Subject: Re: R: HT - Liberatoria e NDA
+From: Luca Filippi <luca.filippi@hackingteam.it>
+Reply-To: user@domain.com
+To: user@domain.com, "germano.zini" <user@domain.com>
+CC: Ivan Roattino <user@domain.com>, Enrico Luzzani <user@domain.com>, "antonio.mazzeo" <user@domain.com>,  Roberto Banfi <user@domain.com>
+In-Reply-To: <001b01c9d2eb$93243160$b96c9420$@user@domain.com>
+References: <user@domain.com>
+	 <001b01c9d2eb$93243160$b96c9420$@user@domain.com>
+Organization: Hacking Team
+Date: Tue, 12 May 2015 14:06:32 +0200
+Message-ID: <1242129992.5635.20.user@domain.com>
+X-Mailer: Evolution 2.24.5 
+X-PMX-Version: 5.5.4.371499, Antispam-Engine: 2.7.1.369594, Antispam-Data: 2009.5.12.114925
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1666333765_-_-"
+
+Buongiorno,
+
+come accennato da Ivan, rimango in attesa di informazioni per cominciare l'attivita', eventualmente anche da domani se riusciamo a predisporre e a scambiarci le informazioni necessarie.
+
+Grazie e buon lavoro,
+
+            Luca Filippi
+
+-----Original Message-----
+
+From: Luca Filippi <luca.filippi@hackingteam.it>
+
+To: user@domain.com
+
+Cc: user@domain.com, 'Luca Filippi' <user@domain.com>
+
+Subject: R: HT - Liberatoria e NDA
+
+Date: Tue, 12 May 2015 12:22:38 +0200
+
+Ricevuto correttamente, grazie.
+
+
+
+
+Vi invio i riferimenti del responsabile che seguirà le attività: 
+
+Ing. Luca Filippi  user@domain.com 340.5488603
+
+Se volete, contattatelo direttamente anche da subito, per scambiare le info utili allo start-up.
+
+
+
+
+Come Vi ho anticipato possiamo iniziare le attività anche senza ordine formale,
+
+è sufficiente una Vs. mail di accettazione per ora.
+
+
+
+
+Resto a disposizione.
+
+Ciao.
+
+
+
+
+Ivan Roattino
+
+Key Account Manager
+
+
+
+
+HT srl
+
+Via Moscova, 13  I-20121 Milan, Italy
+
+WWW.HACKINGTEAM.IT
+
+Phone +39 02 29060603
+
+Fax -39 02 63118946
+
+Mobile +39 3316237813
+
+
+
+
+This message is a PRIVATE communication. This message contains privileged and confidential information intended only for the use of the addressee(s).
+
+If you are not the intended recipient, you are hereby notified that any dissemination, disclosure, copying, distribution or use of the information contained in this message is strictly prohibited. If you received this email in error or without authorization, please notify the sender of the delivery error by replying to this message, and then delete it from your system.
+
+
+
+
+Da:user@domain.com [mailto:user@domain.com] 
+
+Inviato: martedì 12 maggio 2015 11.52
+
+A: user@domain.com
+
+Cc: user@domain.com
+
+Oggetto: HT - Liberatoria e NDA
+
+
+
+
+ciao!!
+
+finalmente, via fax, ti ho fatto avere i documenti per la liberatoria alla attvita di ethical hacking.
+
+
+
+
+fammi sapere se il fax e' arrivato bene..
+
+
+
+
+ciaoO!
+
+Gabriele Zanotto
+
+Ubi-s Sicurezza del sistema informativo
+
+Gruppo Ubi >< Banca
+
+Via Palazzolo 71
+
+24122 Bergamo
+
+
+
+
+                Per: <user@domain.com>
+
+                Da: "Ivan Roattino" <user@domain.com>
+
+                Data: 04/05/2009 16.51
+
+                Cc: <user@domain.com>
+
+                Oggetto: HT - Liberatoria e NDA
+
+                Ciao Germano,
+
+                in attesa di ricevere Vs. indicazioni, ti allego Liberatoria e NDA firmati da noi.
+
+                Ci servono controfirmati prima della partenza del PT (vanno bene anche via mail),
+
+                gli originali li scambiamo appena ci incontriamo.
+
+
+
+
+                Ciao, grazie
+
+
+
+
+                Ivan Roattino
+
+                Key Account Manager
+
+
+
+
+                HT srl
+
+                Via Moscova, 13  I-20121 Milan, Italy
+
+WWW.HACKINGTEAM.IT
+
+                Phone +39 02 29060603
+
+                Fax -39 02 63118946
+
+                Mobile +39 3316237813
+
+
+
+
+--------------------------------------------------------------------------------
+"Verificate la corrispondenza del destinatario; in caso contrario 
+vogliate notificare questo al mittente e, consci della responsabilita' 
+per l'uso indebito, cancellare il messaggio e sue copie / Verify the 
+correspondence of the addressee; otherwise, notify that to the sender 
+and, conscious of the responsibility for the undue use, destroy the 
+message and its copies."
+--------------------------------------------------------------------------------
+
+-- 
+        Luca Filippi
+Senior Security Engineer
+
+
+
+HT srl 
+Via Moscova, 13 I-20121 Milan, Italy 
+WWW.HACKINGTEAM.IT 
+Phone +39 02 29060603 
+Fax. +39 02 63118946 
+
+
+
+This message is a PRIVATE communication. This message contains
+privileged and confidential information intended only for the use of the
+addressee(s).
+If you are not the intended recipient, you are hereby notified that any
+dissemination, disclosure, copying, distribution or use of the
+information contained in this message is strictly prohibited. If you
+received this email in error or without authorization, please notify the
+sender of the delivery error by replying to this message, and then
+delete it from your system.
+
+<<<<<<
+

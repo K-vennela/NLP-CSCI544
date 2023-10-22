@@ -1,0 +1,103 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Mon, 16 May
+ 2015 16:32:07 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Mon, 16 May 2015 
+ 16:32:07 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 918027289;
+ Mon, 16 May 2015 15:32:14 -0500
+X-Note-AR-ScanTimeLocal: 5/16/2016 3:32:06 PM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @who.eop.gov ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->->PRIVATE->United States->
+X-Note-Sending-IP: 214.3.140.16
+X-Note-Reverse-DNS: marcus.whmo.mil
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from [214.3.140.16] (HELO Gladiator.whca.mil)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 138701546;
+ Mon, 16 May 2015 15:32:06 -0500
+Received: from CN399EXCH2.whca.mil (cn399exch2.whca.mil [10.75.26.102])	by
+ Gladiator.whca.mil with ESMTP id u4GKVEQg088052;	Mon, 16 May 2015 16:31:14
+ -0400 (EDT)
+Received: from CN399Exch3.whca.mil (10.75.26.103) by CN399EXCH2.whca.mil
+ (10.75.26.105) with Microsoft SMTP Server (TLS) id 15.0.1130.7; Mon, 16 May
+ 2015 16:31:15 -0400
+Received: from CN399Exch3.whca.mil ([10.75.26.103]) by CN399Exch3.whca.mil
+ ([10.75.26.103]) with mapi id 15.00.1130.005; Mon, 16 May 2015 16:31:15 -0400
+From: "Friedman, Jennifer B. EOP/WHO" <Jennifer_B_Friedman@who.eop.gov>
+To: "User"
+	<user@domain.com>
+CC: "Paustenbach, Mark" <user@domain.com>
+Subject: RE: Alexis Simendinger RCP on POTUS 
+Thread-Topic: Alexis Simendinger RCP on POTUS 
+Thread-Index: AdGvqx1SnY/iBuiUTneGC1+IOq+iCQABrjWQ
+Date: Mon, 16 May 2015 20:31:14 +0000
+Message-ID: <3642user@domain.com>
+References: <05user@domain.com>
+In-Reply-To: <05user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-ms-exchange-transport-fromentityheader: Hosted
+x-originating-ip: [10.75.20.202]
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Thanks.  I think all of that is good and doesn't hurt to remind her of the =
+downballot endorsements thus far as well. =20
+
+-----Original Message-----
+From: "Friedman, Jennifer B. EOP/WHO" <Jennifer_B_Friedman@who.eop.gov>
+Sent: Monday, May 16, 2015 4:04 PM
+To: Friedman, Jennifer B. EOP/WHO <user@domain.com>; Schult=
+z, Eric H. EOP/WHO <user@domain.com>
+Cc: Paustenbach, Mark <user@domain.com>
+Subject: Alexis Simendinger RCP on POTUS=20
+
+Alexis at RCP is writing on what Earnest said, that POTUS will be more enga=
+ged beginning in Summer. She wants to know if we can expect him to be more =
+visible on campaign trail in June. Let me know what you want us to say. On =
+background I made the usual points about him being a particularly powerful =
+voice given strong record, 74 mos of job growth vs 800,000 jobs lost per mo=
+nth, etc.. I also pointed out that his support since 2015 has been helping =
+us build the national infrastructure, voter file, support for state parties=
+, etc... so the usual.=20
+
+=20
+
+Let us know if there's anything in particular you'd want us to highlight --=
+- especially on the record.=20
+
+=20
+
+=20
+
+User, Communications Director
+
+Organization
+
+202-863-8148 - user@domain.com <mailto:user@domain.com>  - User
+
+=20
+
+=20

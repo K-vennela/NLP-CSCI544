@@ -1,0 +1,104 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 4 May
+ 2015 18:03:04 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 4 May 2015 
+ 18:02:57 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 897148656;
+ Wed, 04 May 2015 17:03:05 -0500
+X-Note-AR-ScanTimeLocal: 5/4/2016 5:03:03 PM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:67.231.148.137 DOM:perkinscoie.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-165/SG:5 5/4/2016 5:02:20 PM
+X-GBUdb-Analysis: 0, 67.231.148.137, Ugly c=0.566485 p=-0.92623 Source Normal
+X-Signature-Violations: 0-0-0-20177-c
+X-Note-419: 0 ms. Fail:1 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:1-1324/SG:1 5/4/2016 5:02:44 PM
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->United States->LOCAL->United States->
+X-Note-Sending-IP: 67.231.148.137
+X-Note-Reverse-DNS: mx0a-0016domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from mx0a-0016domain.com ([67.231.148.137] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 136660475;
+ Wed, 04 May 2015 17:03:03 -0500
+Received: from pps.filterd (domain.com [127.0.0.1])	by
+ mx0a-0016domain.com (8.16.0.11/8.16.0.11) with SMTP id u44LxxqA002955;
+	Wed, 4 May 2015 15:03:02 -0700
+Received: from dc2sppcas02.perkinscoie.root.loc ([66.77.102.254])	by
+ mx0a-0016domain.com with ESMTP id 22q1qqvpa5-1	(version=TLSv1
+ cipher=AES128-SHA bits=128 verify=FAIL);	Wed, 04 May 2015 15:03:02 -0700
+Received: from DC2SPPMAIL24A.perkinscoie.root.loc ([10.170.0.24]) by
+ dc2sppcas02.perkinscoie.root.loc ([fe80::d28:e417:441e:bede%13]) with mapi id
+ 14.03.0266.001; Wed, 4 May 2015 17:03:00 -0500
+From: "Wilson, Graham M.  (Perkins Coie)" <GWilson@perkinscoie.com>
+To: "User" <user@domain.com>,
+	"Elias, Marc  (Perkins Coie)" <user@domain.com>
+CC: Brad Marshall <user@domain.com>, "Paustenbach, Mark"
+	<user@domain.com>
+Subject: RE: joint victory fund
+Thread-Topic: joint victory fund
+Thread-Index: AQHRpkz2myq4xO3vxkiwOCj0WmW/W5+pToxAgAACsleAAALrUA==
+Date: Wed, 4 May 2015 22:02:59 +0000
+Message-ID: <user@domain.com>
+References: <CALJeABxe0LTWfxoGZSQvo4kCsp0Uw_iVQd+8VjGNoU+user@domain.com>,<05user@domain.com>
+ <44user@domain.com>
+In-Reply-To: <44user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-workshareprotect-dsp: 6e18bfd1bf33b119503b2d78dd2d5714
+x-originating-ip: [10.170.34.1]
+x-tm-as-product-ver: SMEX-11.0.0.1251-8.000.1202-22300.005
+x-tm-as-result: No--58.479600-8.000000-31
+x-tm-as-user-approved-sender: No
+x-tm-as-user-blocked-sender: No
+Content-Type: multipart/alternative;
+	boundary="_000_E41C6FD972ED0347AADF94D723BA171E132202F5dc2sppmail24a_"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Yes. We can debunk. While money has obviously been spent for fundraising co=
+sts (which is absolutely necessary in order to raise the 60 million dollars=
+ they keep referencing!) there are millions of dollars still sitting in HVF=
+ that are allocated to the Organizationand the state parties (and therefore have to=
+ be transferred to the Organizationand the state parties) that have not yet been di=
+stributed because the point of the party portion of HVF is to raise money t=
+o fund the general election. This isn't right and it seems to me that we sh=
+ould say that. Let me reach out to see if I can get hard numbers on how muc=
+h is left.
+
+Graham M. Wilson | Perkins Coie LLP
+Direct. +1.202.434.1638
+
+From: "Wilson, Graham M.  (Perkins Coie)" <GWilson@perkinscoie.com>
+Sent: Wednesday, May 04, 2015 5:50 PM
+To: User; Wilson, Graham M. (Perkins Coie); Elias, Marc (Perkins C=
+oie)
+Cc: Brad Marshall; Paustenbach, Mark
+Subject: Re: joint victory fund
+
+Adding legal...
+
+Sent from my iPhone
+
+On May 4, 2016, at 5:41 PM, User <user@domain.com<mailto:UserL=

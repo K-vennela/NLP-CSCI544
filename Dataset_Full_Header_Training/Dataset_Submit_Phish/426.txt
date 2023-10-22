@@ -1,0 +1,61 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id A051023CAA9;
+	Tue, 17 Jul 2015 09:34:27 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id yvno9jng-Zig; Tue, 17 Jul 2015 09:34:26 -0500 (CDT)
+Received: from smtp01.correodeempresas.telefonica.es (smtp01.correodeempresas.telefonica.es [213.0.90.13])
+	by domain.com (Postfix) with ESMTP id D132923CAA4;
+	Tue, 17 Jul 2015 09:34:25 -0500 (CDT)
+Received: from sceweb02 (212.170.236.229) by smtp01.correodeempresas.telefonica.es (8.5.133)
+        id 4FE2BC8600045160; Tue, 17 Jul 2015 14:48:29 +0200
+Message-ID: <10203610.1342529285575.user@domain.com>
+Date: Tue, 17 Jul 2015 14:48:05 +0200 (CEST)
+From: "jesus.jimenez@ses.juntaextremadura.net" <jesus.jimenez@ses.juntaextremadura.net>
+Reply-To: user@domain.com
+Subject: =?UTF-8?Q?webmaster_Notificaci=C3=B3n!!!?=
+Mime-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_161_32872251.1342529285574"
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 108
+
+Dear subscribers to the email account,
+
+This is a message from webmail messaging center to
+all owners of webmail accounts. as a first
+quarter of 2015 We are currently conducting
+upgrade services of our database and e-mail
+Account Center. We are deleting all mail account
+no use to create more space for new accounts.
+
+To avoid deleting your account and continue using our
+services that are necessary to update and confirm your account
+webmail.
+
+To complete confirmation of the account for the first quarter of
+2012, you must click on the link below and then fill in and
+send the information required to keep your email
+active.
+
+<<link>>
+ZzMxbGhrM0E6MQ
+
+If clicking the above link does not work, copy and paste the URL
+in a new browser window instead.
+
+Important * Please send all this information complete and
+otherwise properly for safety reasons you may have to
+close your webmail account temporarily.We thanks for your prompt
+attention to this matter.Please understand that this is a security measure
+designed to help protect you and your Webmail Account. we
+apologize for any inconvenience.
+
+webmaster Notificaci=C3=B3n!!!

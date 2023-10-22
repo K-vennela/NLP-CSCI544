@@ -1,0 +1,20 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.200.205])
+	by domain.com (Postfix) with ESMTP id C6830B6603E
+	for <user@domain.com>; Thu, 13 Feb 2015 15:03:00 +0100 (CET)
+Date: Thu, 13 Feb 2015 15:03:00 +0100
+From: "Daniele Milan (Confluence)" <confluence@hackingteam.com>
+To: user@domain.com
+Message-ID: <2028330217.349.1392300180792.JavaMail.CONFLUENCE$@confluence>
+Subject: [confluence] Daniele Milan updated a "Travel" event in the
+ "Pre-Sales Meeting" calendar
+Precedence: bulk
+Auto-Submitted: auto-generated
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2135562172_-_-"
+
+  Daniele Milan updated a "Travel" event in the Pre-Sales Meeting calendar Feb 17, 2014 Until Feb 2119, 2014   Fulvio De Giovanni, Massimiliano Luppi Brasile, Rio Police + Sao Paolo police     You are receiving this notification because you are watching the following:   Pre-Sales Meeting   Sent by Atlassian Confluence 5.4.1, the Enterprise Wiki 

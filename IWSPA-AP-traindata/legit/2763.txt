@@ -1,0 +1,28 @@
+<x-flowed>
+Malcolm seems to have done a good job sorting out these constituent sets , 
+and I don't have anything to add other than agreeing that as a general 
+principal , where possible, original chronologies should be used in 
+preference to reconstructed temperature series ( the latter having been 
+already optimized using simple or multiple regression to fit the target 
+temperature series ). This applies not only to our western US 
+reconstructions (which it should be stressed are based on very flexible 
+curve fitting in the standardisation - and inevitably can show little 
+variance on time scales longer than a decade or so) but also to the 
+Tornetrask and Polar Urals reconstructions (each of which was based on ring 
+width and density data , but standardised to try to preserve centennial 
+variability - though the density series had by far the largest regression 
+coefficients). There is though a question regarding the PCs of the Siberian 
+network (presumably provided by Eugene?) . The correlation between density 
+and ring width can get high in central and eastern parts of the network , 
+so even though these are different variables , it might not be strictly 
+true to think of them as truly independent (statistically) of the density 
+chronologies we use from the Schweingruber network ( there may also  be a 
+standardisation issue here , as the density chronologies were standardised 
+with Hugershoff functions for our initial network work (as reported in the 
+Holocene Special Issue) whereas your PC amplitudes may be based on 
+"Corridor Standardisation" - which likely preserves less  low frequency? ) .
+These remarks are simply for clarification and discussion , and I too will 
+wait on your response draft , though I would throw in the pot the fact that 
+omitting the time dependent stuff would simplify the message at his stage.
+cheers
+Keith

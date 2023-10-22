@@ -1,0 +1,94 @@
+Received: from domain.com (146.215.230.102) by
+ domain.com (43.130.141.78) with Microsoft SMTP Server id
+ 8.3.342.0; Mon, 9 Jun 2015 18:04:00 -0700
+Received: from domain.com ([160.33.194.230])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s5A13x4f024087	for <user@domain.com>; Tue, 10 Jun 2015 
+ 01:04:00 GMT
+Received: from mail178-va3-domain.com (mail-domain.com
+ [216.32.180.118])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s5A13r7A017939
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Tue, 10 Jun 2015 01:03:54 GMT
+Received: from mail178-va3 (localhost [127.0.0.1])	by
+ mail178-va3-domain.com (Postfix) with ESMTP id 55219180088	for
+ <user@domain.com>; Tue, 10 Jun 2015 01:03:59 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:65.39.215.146;KIP:(null);UIP:(null);SRV:BULK;H:mx-domain.com;RD:mx-domain.com;EFVD:NLI
+X-SpamScore: 1
+X-BigFish: vps1(zzc89bh758Ic857hc545Idbb0izz1f42h2148h1ee6h1de0h1fdah2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6h208chzz8275ch1d7338h1de098h1def03h17326ah1def87h8275bh1bc7b9h8275dh1defc1h1def86h1de097h186068h172c6ch1ce120h1a691ciz2fheh5fh839h8aahe5bh1288h12a5h137ah139eh13eah1441h14ddh1504h1537h162dh1631h1758h1898h18e1h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1e23h1fe8h1ff5h20f0h2218h2216h226dh24afh2327h2336h2438h2461h2487h24d7h2516h2545h2565h25f6h2605h268bh26d3h27e2h282bh28a1h28b0h214ai)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail178-va3: domain of domain.com designates 65.39.215.146 as permitted sender) client-ip=65.39.215.146; user@domain.com; helo=mx-domain.com ;domain.com ;
+Received: from mail178-va3 (localhost.localdomain [127.0.0.1]) by mail178-va3
+ (MessageSwitch) id 1402362236827738_20661; Tue, 10 Jun 2015 01:03:56 +0000
+ (UTC)
+Received: from domain.com (unknown [10.7.14.225])	by
+ mail178-domain.com (Postfix) with ESMTP id BB281380089	for
+ <user@domain.com>; Tue, 10 Jun 2015 01:03:56 +0000 (UTC)
+Received: from mx-domain.com (65.39.215.146) by domain.com
+ (10.7.99.12) with Microsoft SMTP Server id 14.16.227.3; Tue, 10 Jun 2015 
+ 01:03:56 +0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; s=mt; d=domain.com;
+ h=Date:From: Variety Breaking News <donotreply@variety.com>
+ bh=76OrKROsSsP2wQevC8lJtPuwxkc=;
+ b=CxmtdAzA+tVU341jWqAPuWmNsp3CngU0k/QcKvhGXgAgCSEHaxYvdLE8Gl7ZrFE2YsnQXqEYxkj8
+   edoRqnbuTMz1V+/pov6DyDHRAJiYhGJnT6EAscV9QB3Ko7Q65LiUvHatJeSdSMiokh38yHhZxwnK
+   VrBvz3YF0W/Cca4a5H0=
+Received: from nyp1-p-p4129-prd-jma-05.sailthru.pvt (64.34.57.234) by
+ mx-domain.com id hipcoo1qqbs0 for <user@domain.com>; Mon, 9 Jun
+ 2015 21:04:12 -0400 (envelope-from <user@domain.com>)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1402362253;
+	s=sailthru; d=variety.com;
+	h=Date:From: Variety Breaking News <donotreply@variety.com>
+	bh=Y741rPXRTKjChudx1KDD4nDEhVIvRa+3rYtfFvkacnE=;
+	b=DVxQp1LqC0ahT3JkUuTqeJo2FQsAe1SoRzuY7DsUtzvVu0ACt/ec1tWkyEitWMZL
+	ZggCCzzVsTWkGcuzw4i6sQLOVvR3CDUDLHfZt7knt+xmy2cZjpoOdtQ+deuwPth+sCu
+	YTNqsAW5mEYklw8yFphP1xfy2qg4MT+sAniiWuQY=
+Date: Mon, 9 Jun 2015 21:04:13 -0400
+From: Variety Breaking News <donotreply@variety.com>
+To: <user@domain.com>
+Message-ID: <20140610010413.2726481.18588@domain.com>
+Subject: Q&A: Kerry Brougher on How to Make an Academy Museum
+Precedence: bulk
+X-TM-ID: 20140610010413.2726481.18588
+X-Info: Message sent by domain.com customer Variety
+X-Info: We do not domain.com unsolicited commercial email
+X-Info: Please report abuse by forwarding complete headers to
+X-Info: user@domain.com
+X-Mailer: domain.com
+X-JMailer: nyp1-p-p4129-prd-jma-05.sailthru.pvt
+X-IADB-IP: 65.39.215.25
+X-IADB-IP-REVERSE: 25.215.39.65
+X-IADB-URL: <<link>>
+X-Unsubscribe-Web: <<link>>
+List-Unsubscribe: <<<link>>>, <mailto:user@domain.com>
+X-rpcampaign: stcoy2726481
+Return-Path: user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+In his first interview since being named director of the Academy Museum, Kerry Brougher outlined... 
+
+​ 
+
+Variety         
+
+Breaking News   
+
+Monday, June 9, 2015    
+
+​ 
+
+<<link>> 
+
+        Q&A: Kerry Brougher on How to Make an Academy Museum            
+
+        In his first interview since being named director of the Academy Museum, Kerry Brougher outlined the broad strokes of how he and ...            
+        Full Story              
+
+
+
+
+Check out the redesigned Variety411      <<link>>         
+This email was sent to user@domain.com by Variety. To ensure delivery to your inbox (and no
+

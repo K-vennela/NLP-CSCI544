@@ -1,0 +1,118 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 26 Apr
+ 2015 17:32:50 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 26 Apr 2015 
+ 17:32:45 -0400
+Received: from [10.87.0.110] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 881565191
+ for user@domain.com; Tue, 26 Apr 2015 16:32:51 -0500
+X-Note-AR-ScanTimeLocal: 4/26/2016 4:32:50 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:207.46.100.63 DOM:blueenginemedia.com ADDR:user@domain.com
+X-Note: SPF: PermError
+X-Note: ICH-CT/SI:0-1526/SG:2 4/26/2016 4:32:16 PM
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-940/SG:10 4/26/2016 4:32:16 PM
+X-GBUdb-Analysis: 0, 207.46.100.63, Ugly c=0.725258 p=-0.978929 Source White
+X-Signature-Violations: 0-0-0-32767-c
+X-Note-419: 15.6279 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 4/26/2016 4:32:39 PM
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->->United States->
+X-Note-Sending-IP: 207.46.100.63
+X-Note-Reverse-DNS: mail-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G406 G418 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from [207.46.100.63] (HELO
+ na01-by2-domain.com)  by domain.com
+ (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 138431246 for user@domain.com;
+ Tue, 26 Apr 2015 16:32:49 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=domain.com; s=selector1-blueenginemedia-com;
+ h=From: Erik Smith <erik@blueenginemedia.com>
+ bh=2SQQDBLzh3iU6ZLUa7ip/vs3PCbKvJesGDqE/DEEtFY=;
+ b=JUMp5ys3O69+xU7BU5clQK12irUWtFnq1cxMDxxGWIIFl1Dh15vVSnd/hZ1JOJ8puIEcyRcTuWCdUzVPCu3lweIK3DUmkDaYP8GrVtPWSMKbMYuN1Fb6IFI6mmzIZz/XZ9Xw/RIMtU3fDLlyz5wVgzs8I8KIVUm4p5/vTEw2jg4=
+Received: from domain.com (10.162.218.25) by
+ domain.com (10.161.163.12) with Microsoft SMTP
+ Server (TLS) id 15.1.466.19; Tue, 26 Apr 2015 21:32:46 +0000
+Received: from domain.com ([10.162.218.25]) by
+ domain.com ([10.162.218.25]) with mapi id
+ 15.01.0485.005; Tue, 26 Apr 2015 21:32:46 +0000
+From: Erik Smith <erik@blueenginemedia.com>
+To: "User"
+	<user@domain.com>
+CC: Jessica Borchert <user@domain.com>
+Subject: RE: Connecting you...
+Thread-Topic: Connecting you...
+Thread-Index: AdGf+spC/mMAFIh5Sm+H9uk2wppG+gACEuGw
+Date: Tue, 26 Apr 2015 21:32:45 +0000
+Message-ID: <user@domain.com>
+References: <05user@domain.com>
+In-Reply-To: <05user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+authentication-results: domain.com; dkim=none (message not signed)
+ header.d=none;domain.com; dmarc=none action=none
+ header.from=blueenginemedia.com;
+x-originating-ip: [38.104.236.238]
+x-ms-office365-filtering-correlation-id: b15ff556-44bc-4033-1582-08d36e1a4ee2
+x-microsoft-exchange-diagnostics: 1;CY1PR0801MB1116;5:ENwSgvCFHuuCexiS+xZU1hEbPbkvYNpSMGcqHGyAD/a2mXhcUnUpfh0uhqwUiAlwWi/XcyBKrgLpgivN0xnW7pc+ZEIXaY6kMo81f+0LNV/85qNNi5MQiJ8DwbN0THNRTmQZGT9gnVwM2w6DUSWOlThb95fsA3NEcAIE0x7JXh3m0l2ChOzI9QbV9p0FwtnH;24:qBXYjCP/haht+bBIB3T44gi9SdpJ8s40WH8MfCH9EqGi87YbucHYdu21LnT+ZMncYPvkipZfDKIBLbDQpWiARMaUyGCy7lacClJQjf4de7c=;7:IC4u3t7GU6Q2X7ljFdFprh8345/pXYbiVu+wzwG9v73OK/6+ANXcOiX80UkZC93psXYkZokPFaPH3ZFxx/dDBJM/CYmCGmjX6pduO6eXXwfdFNkslGFSEfdzkAB0t9Ne2RvgykLMHbJ8eTKOtCUH6/9kgDNqyoBHMPBvWCzM2sETuI+M15N/e0QJe7CDdELG/fyV+DMLkYJ6w0gMmOR2sZ8hEn4TEZqKO5F7zzCMAiM=
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:;SRVR:CY1PR0801MB1116;
+x-microsoft-antispam-prvs: <user@domain.com>
+x-exchange-antispam-report-test: UriScan:;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(102415293)(102615271)(9101521072)(601004)(2401047)(5005006)(8121501046)(3002001)(10201501046);SRVR:CY1PR0801MB1116;BCL:0;PCL:0;RULEID:;SRVR:CY1PR0801MB1116;
+x-forefront-prvs: 0924C6A0D5
+x-forefront-antispam-report: SFV:NSPM;SFS:(10009020)(377454003)(99286002)(3660700001)(5004730100002)(17760045003)(66066001)(18206015028)(9686002)(3280700002)(110136002)(5001770100001)(189998001)(92566002)(122556002)(19300405004)(11100500001)(19617315012)(19580395003)(5002640100001)(19627595001)(3480700004)(107886002)(16236675004)(19580405001)(10400500002)(4326007)(2906002)(2900100001)(81166005)(19618635001)(74316001)(87936001)(77096005)(5008740100001)(33656002)(76176999)(5003600100002)(102836003)(50986999)(1096002)(1220700001)(2950100001)(99936001)(4001430100002)(6116002)(54356999)(86362001)(586003)(76576001)(15975445007)(19625215002)(7099028);DIR:OUT;SFP:1101;SCL:1;SRVR:CY1PR0801MB1116;H:domain.com;FPR:;SPF:None;MLV:sfv;LANG:en;
+spamdiagnosticoutput: 1:23
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/related;
+	boundary="_005_CY1PR08MB18034342E71192C451AFBEB7D4630CY1PR08MB1803namp_";
+	type="multipart/alternative"
+X-MS-Exchange-CrossTenant-originalarrivaltime: 26 Apr 2015 21:32:45.8984
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 2138a939-c6be-49b9-a268-ded25fd39341
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: CY1PR0801MB1116
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Thanks User.  Bill good to reconnect.  We used to talk a while back when I =
+was Gephardt's flack.
+
+We'll know a lot more about where we are tomorrow since both campaigns have=
+ suspended talks until after the primary.
+
+From: Erik Smith <erik@blueenginemedia.com>
+Sent: Tuesday, April 26, 2015 5:26 PM
+To: Sammon, Bill; Erik Smith
+Subject: Connecting you...
+
+Hi Erik, I'm connecting you here with Bill Sammon who is the Vice President=
+ of News and Washington Managing Editor for Fox News Channel. As you know F=
+ox recently hosted Senators Clinton and Sanders for a Town Hall. Bill and h=
+is team led that effort, and they are interested in being considered for th=
+e possible additional May debate. I had a good conversation with Bill yeste=
+rday and laid out the process, so I wanted to make sure he's in touch with =
+you directly.
+
+Thanks, - User.
+
+[SigDems]<<<link>>>User, Communications Director
+Organization
+202-863-8148 - user@domain.com<mailto:user@domain.com> - User<http=
+s://domain.com/MiraUserDC>
+

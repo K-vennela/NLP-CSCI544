@@ -1,0 +1,85 @@
+Received: from domain.com (146.215.230.102) by
+ domain.com (43.130.141.76) with Microsoft SMTP Server id
+ 8.3.297.1; Tue, 18 Mar 2015 19:10:35 -0700
+Received: from domain.com ([160.33.194.230])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s2J2AZjO024141	for <user@domain.com>; Wed, 19 Mar 2015 
+ 02:10:35 GMT
+Received: from mail200-tx2-domain.com (mail-domain.com [65.55.88.116])
+	by domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s2J2AXnt016037	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128
+ verify=FAIL)	for <user@domain.com>; Wed, 19 Mar 2015 02:10:34 GMT
+Received: from mail200-tx2 (localhost [127.0.0.1])	by
+ mail200-tx2-domain.com (Postfix) with ESMTP id 586FBC00F7	for
+ <user@domain.com>; Wed, 19 Mar 2015 02:10:34 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:216.1.211.170;KIP:(null);UIP:(null);IPV:NLI;H:mail.infinitum-domain.com;RD:none;EFVD:NLI
+X-SpamScore: 13
+X-BigFish: vps13(zzc89bhe2eIe0eahc857hdd85kzz2148h208ch1ee6h1fdah2073h2146h1202h1e76h2189h1d2ah21bch1fc6hzz17326ah8275bh1de097h186068h1954cbhc704dh18602ehz2fh5fh2a8h839ha12h1288h12a5h12bdh137ah13eah1441h14ddh1504h1537h153bh162dh1631h1758h18e1h1946h19b5h1ad9h1b0ah1b2fh1bceh224fh1fb3h1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1ff5h20f0h2216h22d0h2336h2438h2461h2487h24d7h2516h2545h255eh25cch25f6h2605h2668h1889id48r1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail200-tx2: domain of infinitum-domain.com designates 216.1.211.170 as permitted sender) client-ip=216.1.211.170; user@domain.com; helo=mail.infinitum-domain.com ;um-domain.com ;
+Received: from mail200-tx2 (localhost.localdomain [127.0.0.1]) by mail200-tx2
+ (MessageSwitch) id 1395195031384420_14869; Wed, 19 Mar 2015 02:10:31 +0000
+ (UTC)
+Received: from domain.com (unknown [10.9.14.227])	by
+ mail200-domain.com (Postfix) with ESMTP id 58C54280055	for
+ <user@domain.com>; Wed, 19 Mar 2015 02:10:31 +0000 (UTC)
+Received: from mail.infinitum-domain.com (216.1.211.170) by
+ domain.com (10.9.99.124) with Microsoft SMTP Server (TLS) id
+ 14.16.227.3; Wed, 19 Mar 2015 02:10:30 +0000
+X-Virus-Scanned: Debian amavisd-new at dillinger.infinitum-domain.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=infinitum-domain.com;
+	s=04sep2013-dillinger; t=1395195029;
+	bh=6tzRBrSHiGAABh1akaI0CUdQsSwRrLn4RXvJytOIqNE=;
+	h=Date:Subject:From: announcements - infinitum nihil <announcements@infinitum-nihil.com>
+	b=p5su/AiZ1BlSJlJWSuJYd7uczs56HCaSWqhhRorfOy1s6ff9U2w/jeUZsze4SO0rn
+	 hGc3ysBiSccs8II30F7WHnWbHveHH/7nNIRuz/PrCs7EMtJQ+keK4ogEZg2qXk37YP
+	 0d/eOmP54krTJ1vIz6k5SDvgiFApVZymWhmhHdOHooq1cVUpQPS4IpYCOCYkDwFBVe
+	 16DrR1weoIbz2yM4n7YzBbqgvsushTFdRK6lI7JOB0RA3xqmEOvKsmG9JPi0+jGelh
+	 bTrJLjCU9x/9krEq0f/ZBq9PFVlGQPCiIxRezsHx6AiXrP2vhOVhtz6+mf/WfP46MX
+	 +AOqhj7BDdeUQ==
+X-Footer: aW5maW5pdHVtLW5paGlsLmNvbQ==
+Date: Tue, 18 Mar 2015 19:07:33 -0700
+Subject: infinitum nihil records announces Chuck E. Weiss!
+X-User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:27.0)
+	Gecko/20100101 Firefox/27.0
+Message-ID: <3622648907-214810624@mail.infinitum-domain.com>
+X-Priority: 3
+Importance: Normal
+From: announcements - infinitum nihil <announcements@infinitum-nihil.com>
+To: <user@domain.com>
+Return-Path: user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+hey, everyone, we are excited to share & be a part of our friend and hollywood legend, chuck e. weiss' new album!!!!!  infinitum & anti records are proud to announce RED BEANS & WEISS, executive produced by tom waits and JD!
+
+
+
+
+check out the info below... more to come!!!
+
+
+
+
+Chuck's first single from the album was released on March 3rd.  Give Boston Blackie a listen to on YouTube...
+
+<<link>>
+
+His second single, Hey Pendejo, has been released today!!!  Click below to listen to the track.
+
+<<link>>
+
+Red Beans and Weiss will be released on April 15th and can be pre-ordered on iTunes now.
+
+<<link>>
+
+you can follow chuck and when he is playing live on...
+
+domain.com
+
+  _____  
+
+-----------------
+
+This electronic message transmission, which includes this email message and any attachments, is confidential, for the sole use of the intended recipients and may contain CONFIDENTIAL INFORMATION THAT IS EXEMPT FROM DISCLOSURE or work product. If THE READER OF THIS MESSAGE IS not the intended recipient, be aware that any review, disclosure, copying, distribution or use of the contents of this electronic transmission is prohibited. If you have received this electronic transmission in error, please immediately contact the sender by reply email, destroy all hard copies of the original message and attachments and delete same from your system. Because email can be altered electronically, the integrity of this communication cannot be guarantee

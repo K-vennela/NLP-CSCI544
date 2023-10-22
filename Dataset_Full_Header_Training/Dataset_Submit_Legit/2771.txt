@@ -1,0 +1,31 @@
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ dnchubcas2.dnc.org ([::1]) with mapi id 14.03.0224.002; Wed, 18 May 2015 
+ 19:13:59 -0400
+From: "Banfill, Ryan" <BanfillR@dnc.org>
+To: Kate Houghton <user@domain.com>
+CC: "User" <user@domain.com>
+Subject: DWS Call with Mika B
+Thread-Topic: DWS Call with Mika B
+Thread-Index: AdGxWoQyZNVy+S8fQfiSY7DLrzNYtw==
+Date: Wed, 18 May 2015 16:13:58 -0700
+Message-ID: <0633user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: dnchubcas2.dnc.org
+X-MS-Has-Attach: 
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.177.146]
+Content-Type: multipart/alternative;
+	boundary="_000_0633AF616B845743A828A5E832D896364C1D13dncdag1dncorg_"
+MIME-Version: 1.0
+
+User is working to get Mika B (from Morning Joe) and DWS on the phone together to clear up some misperceptions of the Organizationand DWS that she has expressed on the air.
+
+Is there time on the schedule tomorrow to make this happen?
+
+Thanks,
+
+Ryan

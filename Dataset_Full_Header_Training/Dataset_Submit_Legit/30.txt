@@ -1,0 +1,232 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Sun, 8 May
+ 2015 08:57:39 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Sun, 8 May 2015 
+ 08:57:38 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 902889777;
+ Sun, 08 May 2015 07:57:31 -0500
+X-Note-AR-ScanTimeLocal: 5/8/2016 7:57:32 AM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: Too many policies to list
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @mail.house.gov ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->United States->
+X-Note-Sending-IP: 143.228.181.85
+X-Note-Reverse-DNS: s-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from s-domain.com ([143.228.181.85] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 139422546;
+ Sun, 08 May 2015 07:57:31 -0500
+Received: from FHOB-domain.com (fhob-domain.com
+ [143.228.233.116])	by s-domain.com  with ESMTP id u48CtnQi009724	(using
+ TLSv1 with cipher ECDHE-RSA-AES256-SHA (256 bits) verified FAIL);	Sun, 8 May
+ 2015 08:55:50 -0400
+X-DKIM: OpenDKIM Filter v2.4.3 s-domain.com u48CtnQi009724
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mail.house.gov;
+	s=November2012-msg-mhg; t=1462712182;
+	bh=F6i9bOKCCsTEkgyykKscdaJkgB8PtEQt8nGjXGq7SQE=;
+	h=From: Dem Leader Press Office <Dem.LeaderPressOffice@mail.house.gov>
+	b=PAoON9OE0bka/h/VFv97skV3B3NMgKKIsy5u4MZoaKdHentEzOgaDDdlQSNSLLW5T
+	 pNT/X0lwBgM/gUZmf9GFycDXgSBdXpqdHuN6V+X1JRwuE9I0dRGZMw28HnwXKR0GQA
+	 HcKvZ3bC+E00+pDghityfcTDvNTnmJ+LZapNROxU=
+Received: from HEOC-domain.com ([fe80::3064:f549:eec9:db5d]) by
+ FHOB-domain.com ([::1]) with mapi id 14.03.0279.002; Sun, 8 May 2015 
+ 08:55:42 -0400
+From: Dem Leader Press Office <Dem.LeaderPressOffice@mail.house.gov>
+Subject: FYI: CUMMINGS ISSUES STATEMENT ON TWO-YEAR ANNIVERSARY OF BENGHAZI
+ SELECT COMMITTEE
+Thread-Topic: CUMMINGS ISSUES STATEMENT ON TWO-YEAR ANNIVERSARY OF BENGHAZI
+ SELECT COMMITTEE
+Thread-Index: AdGpKOCH+F0WG327R1aKVUdOF7UF5g==
+Date: Sun, 8 May 2015 12:55:42 +0000
+Message-ID: <92user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+x-originating-ip: [143.231.232.245]
+Content-Type: multipart/related;
+	boundary="_004_92DB82FAAC4F7C4A830A863056BDCC2C23FF396FHEOCHRM03USHous_";
+	type="multipart/alternative"
+To: Undisclosed recipients:;
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+[cid:image001.jpg@01D1A906.AE638270]
+For Immediate Release:
+May 8,  2015 
+
+Contact:
+Jennifer Werner/Paul Bell
+202-225-7100
+
+CUMMINGS ISSUES STATEMENT
+ON TWO-YEAR ANNIVERSARY OF
+BENGHAZI SELECT COMMITTEE
+
+Washington, D.C. (May 8, 2016)-Today, Rep. Elijah E. Cummings, Ranking Memb=
+er of the Select Committee on Benghazi, issued the following statement on t=
+he two-year anniversary of the creation of the Select Committee:
+
+"Republicans have now spent more than two years and nearly $7 million of ta=
+xpayer funds for the illegitimate purpose of bringing down Hillary Clinton'=
+s poll numbers, as Kevin McCarthy admitted.  The Select Committee has disco=
+vered no new evidence that contradicts the core findings of the previous bi=
+partisan and independent investigations.
+
+"Republicans are desperate to hide the truth, so they are selectively leaki=
+ng misleading information to fit a partisan political narrative, withholdin=
+g interview transcripts from Democrats to prevent us from publicly releasin=
+g the facts to the American people, and completely cutting out Democrats fr=
+om drafting the Select Committee's final report.
+
+"Two years ago, I decided to participate in this investigation because we n=
+eeded someone in the room to defend the truth.  Two years and millions of d=
+ollars later, Republicans have lost any semblance of credibility as they co=
+ntinue to drag this out as close as they can to the election.  Republicans =
+should release the transcripts, stop squandering taxpayer dollars, and shut=
+ down this disgraceful partisan charade before it does even more harm."
+
+Top Ten Low-Lights from the Benghazi Committee
+
+(1)  June 16, 2015:  Chairman Gowdy deposes Sidney Blumenthal after unilate=
+rally-without any vote or debate by the Select Committee-sending armed Mars=
+hals<<<link>>
+nse-to-use-of-us-marshal-service-to-deliver-subpoena> to serve a subpoena o=
+n his wife at their home, despite the fact that Blumenthal would have appea=
+red voluntarily.  Gowdy and other Republicans<<<link>>
+domain.com/news/press-releases/blumenthal-deposition-transcript-ready-for-relea=
+se> ask questions that are completely unrelated to Benghazi, including more=
+ than 160 questions about Blumenthal's relationship and communications with=
+ the Clintons, more than 50 questions about the Clinton Foundation, and mor=
+e than 45 questions about David Brock, Media Matters, and affiliated entiti=
+es.  Gowdy later admits<<<link>>
+domain.com/files/TG%20letter%20to%20EEC%206.22.15.pdf> he "never expected =
+Witness Blumenthal to be able to answer questions about the attacks in Beng=
+hazi, Libya."
+
+(2)  June 22, 2015:  Gowdy unilaterally-again without any debate or vote-re=
+leases<<<link>>
+ponds-to-decision-to-keep-blumenthal-testimony-secret> only selective email=
+s between Clinton and Blumenthal, just months after he proclaimed publicly<=
+<<link>>
+m%20Progress%20Update%2005-08-15.pdf> that "serious investigations do not l=
+eak information or make selective releases of information without full and =
+proper context."  At the same time, he blocks<<<link>>
+domain.com/news/press-releases/democrats-respond-to-chairman-s-inaction-on-requ=
+ired-vote-to-release-blumenthal> requests by Democrats to release Blumentha=
+l's deposition transcript, which debunks Gowdy's many conspiracy theories.
+
+(3)  September 29, 2015:  House Majority Leader-and Chairman Gowdy's close =
+friend-Kevin McCarthy admits<<<link>>
+evin-mccarthy-how-he-would-differ-from-john-boehner/?%22%20%5Cl%20%22sp=3Ds=
+how-clips#sp=3Dshow-clips> that Republicans established the Select Committe=
+e to drive down Secretary Clinton's poll numbers:  "Everybody thought Hilla=
+ry Clinton was unbeatable, right?  But we put together a Benghazi special c=
+ommittee.  A select committee.  What are her numbers today?  Her numbers ar=
+e dropping."
+
+(4)  October 11, 2015:  Gowdy's handpicked "conservative Republican" invest=
+igator accuses<<<link>>
+vestigation-political-hillary-clinton-brad-podliska-domain.com/> him of carryi=
+ng out "a partisan investigation" with a "hyper focus on Hillary Clinton." =
+ He says<<<link>>
+tigator-alleges-bias-against-hillary-clinton-n442316>:  "My non-partisan in=
+vestigative work conflicted with the interests of the Republican leadership=
+, who focused their investigation primarily on Secretary Clinton and her ai=
+des."
+
+(5)  October 14, 2015:  Republican House Member Richard Hanna admits public=
+ly<<<link>>
+on_us_561ef9eae4b0c5a1ce62037e> that the Select Committee is "designed to g=
+o after" Clinton:  "This may not be politically correct, but I think that t=
+here was a big part of this investigation that was designed to go after peo=
+ple and an individual, Hillary Clinton."
+
+(6)  October 18, 2015:  Gowdy accuses Clinton of sending an email containin=
+g the name of a classified CIA source, and his staff then accidentally leak=
+s the name<<<link>>
+rce-name-benghazi-committee-214919> of that individual.  The CIA quickly de=
+bunks<<<link>>
+owdy-s-allegation-that-clinton-email-contained-classified-cia> Gowdy's alle=
+gation.
+
+(7)  October 19, 2015:  The Washington Post reports<<<link>>
+domain.com/news/press-releases/cummings-responds-to-explosive-new-report-=
+on-chairman-gowdy-s-links-to-stop> on links between Gowdy and Stop Hillary =
+PAC, which describes itself as "created for one reason only-to ensure Hilla=
+ry Clinton never becomes President of the United States."  Gowdy's leadersh=
+ip PAC, Themis, shared the same treasurer as Stop Hillary PAC since 2013, a=
+n outspoken Clinton opponent named Dan Backer who also served as treasurer =
+on three other PACs that each donated $2,000 to Gowdy for Congress.  Only a=
+fter being confronted with these facts by the Post did Gowdy return these d=
+onations.  In September 2014, STOP Hillary PAC spent $10,000 on robocalls a=
+nd other efforts in support of Gowdy.
+
+(8)  October 22, 2015:  Gowdy holds a marathon, 11-hour hearing with Secret=
+ary Clinton that is widely condemned by even conservatives commentators as =
+a "carnival road show<<<link>>
+earing-should-not-be-but-is-a-waste-of-time/>,"  "overkill<<<link>>
+rg/2015/10/23/451213654/week-in-politics-clinton-benghazi-testimony-paul-ry=
+ans-bid-for-speaker>,"  a "PR disaster for the GOP<<<link>>
+t.com/opinions/skip-the-investigations-win-the-election/2015/10/29/fdfafd2e=
+-7e70-11e5-b575-d8dcfedb4ea1_story.html>,"  a "big fat flop<<<link>>
+domain.com/big-government/2015/12/31/exclusive-ann-coulter-trey-gowdys-endor=
+sement-marco-rubio-will-no-effective-benghazi-hearings/>,"  and "a very bad=
+ day for Trey Gowdy and the Republicans<<<link>>
+tch/joe--a-very-bad-day-for-gowdy-and-gop-550056515958>."  Gowdy concedes<h=
+ttp://domain.com/entry/trey-gowdy-hillary-clinton-benghazi_us_5=
+6299236e4b0aac0b8fc6a7d> that the hearing revealed nothing new:  "In terms =
+of her testimony?  I don't know that she testified that much differently to=
+day than she has the previous time she testified."
+
+Donald Trump-now the presumptive Republican presidential nominee-calls Gowd=
+y's hearing<<<link>>
+zi-hearings-a-total-disaster/article/2579114> "a total disaster" that "was =
+not good for Republicans and for the country."  He tweets, "Face it, Trey G=
+owdy failed miserably on Benghazi."  He then refers to him as "Benghazi los=
+er Gowdy."
+
+(9)  February 11, 2016:  Gowdy starts withholding<<<link>>
+.domain.com/news/press-releases/cummings-statement-on-republicans-withholdin=
+g-witness-transcripts> copies of Committee interview transcripts from Democ=
+rats in violation of House rules.  He later explains<<<link>>
+gov/news/press-releases/gowdy-announces-rules-to-ensure-equitable-access-to=
+-witness-transcripts-preserve> that he is withholding these transcripts fro=
+m Democrats because he fears they might release more of them in response to=
+ his own unilateral releases:  "Committee transcripts will not leave the Ma=
+jority's control due to the Minority's stated intention to selectively rele=
+ase them at will.
+
+(10)  April 29, 2016:  The Pentagon takes the highly unusual step of sendin=
+g a letter<<<link>>
+ic-members-respond-to-pentagon-letter-exposing-latest-republican-abuses> to=
+ Gowdy exposing the latest GOP abuses, including dragging out the investiga=
+tion, requesting duplicative and unnecessary witnesses, and asking witnesse=
+s to "speculate or engage in discussing on the record hypotheticals."  The =
+letter states that the Pentagon "expended significant resources" trying to =
+locate an individual identified as "John from Iowa," who called into Sean H=
+annity's radio show and alleged he was a Remotely Piloted Aircraft camera o=
+perator and saw the video feed from the night of the attack.  Gowdy wanted =
+to interview him even though the Select Committee already had access to the=
+ relevant video from that night.
+

@@ -1,0 +1,72 @@
+Received: from domain.com (43.130.141.76) by
+ domain.com (146.215.231.17) with Microsoft SMTP Server (TLS) id
+ 14.3.210.2; Sat, 22 Nov 2015 21:34:55 -0500
+Received: from domain.com (146.215.230.105) by
+ domain.com (43.130.141.76) with Microsoft SMTP Server id
+ 8.3.342.0; Sat, 22 Nov 2015 18:34:54 -0800
+Received: from domain.com (domain.com [160.33.194.230])
+	by domain.com (Sentrion-MTA-4.3.2/Sentrion-MTA-4.3.2) with
+ ESMTP id sAN2Yrj9022043	for <user@domain.com>; Sun, 23 Nov 2015 
+ 02:34:54 GMT
+Received: from na01-bl2-domain.com
+ (mail-domain.com [207.46.163.209])	by
+ domain.com (Sentrion-MTA-4.3.2/Sentrion-MTA-4.3.2) with
+ ESMTP id sAN2YrOf005495	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128
+ verify=FAIL)	for <user@domain.com>; Sun, 23 Nov 2015 02:34:53 GMT
+Received: from BL2FFO11FD045.protection.gbl (10.173.160.32) by
+ BL2FFO11HUB059.protection.gbl (10.173.161.159) with Microsoft SMTP Server
+ (TLS) id 15.1.6.13; Sun, 23 Nov 2015 02:34:52 +0000
+Received: from domain.com (208.75.123.175) by
+ domain.com (10.173.161.207) with Microsoft
+ SMTP Server id 15.1.6.13 via Frontend Transport; Sun, 23 Nov 2015 02:34:52
+ +0000
+Received: from p2-domain.com (p2-domain.com
+ [10.252.0.105])	by p2-domain.com (Postfix) with ESMTP
+ id 4F718C84EED	for <user@domain.com>; Sat, 22 Nov 2015 21:34:52 -0500
+ (EST)
+DKIM-Signature: v=1; q=dns/txt; a=rsa-sha256; c=relaxed/relaxed; s=1000073432; d=domain.com; h=to:X-Feedback-ID:subject:mime-version:message-id:From: The High Line Hotel <info@thehighlinehotel.com>
+Message-ID: <1119246303700.1115682222305.2147421924.0.82133user@domain.com>
+Date: Sat, 22 Nov 2015 21:34:52 -0500
+From: The High Line Hotel <info@thehighlinehotel.com>
+Reply-To: <user@domain.com>
+To: <user@domain.com>
+Subject: A Vintage Christmas in Chelsea
+CC: 
+List-Unsubscribe: <<link>>
+X-Campaign-Activity-ID: e4bf34c2-b493-4c06-86b9-de50ffe64737
+X-Channel-ID: f8206c40-68c4-11e3-915e-d4ae5275396f
+X-Mailer: Roving Constant Contact 2015 (<<link>>)
+X-Return-Path-Hint: A5L80wrSTTAaGud5Q/+ZHNw==_1115682222305_+user@domain.com
+X-Roving-Campaignid: 1119246303700
+X-Roving-Id: 1115682222305.2147421924
+X-Feedback-ID: f8206c40-68c4-11e3-915e-d4ae5275396f:e4bf34c2-b493-4c06-86b9-de50ffe64737:1115682222305:CTCT
+X-CTCT-ID: f6a16d60-68c4-11e3-9063-d4ae5275396f
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:208.75.123.175;CTRY:US;IPV:NLI;IPV:NLI;EFV:NLI;SFV:NSPM;SFS:(438002)(199003)(95244003)(189002)(89996001)(102836001)(2361001)(106876001)(103116003)(104766002)(15202345003)(25856001)(104016003)(107046002)(95666004)(92726001)(110136001)(104166001)(229853001)(2351001)(71186001)(21056001)(18206015028)(1480600002)(99396003)(47976999)(19617315012)(110476001)(43066003)(180100001)(46102003)(4396001)(15975445006)(512874002)(120916001)(956001)(450100001)(77156002)(19580405001)(87836001)(44976005)(50986999)(17008665002)(53806999)(20776003)(33656002)(575784001)(64706001)(93916002)(307094003)(50226001)(146001)(19618635001)(19580395003)(87286001)(106466001)(62966003)(88136002)(7059030)(87552001)(102196002)(85226002)(19607625011)(18926415006);DIR:INB;SFP:;SCL:1;SRVR:BL2FFO11HUB059;H:domain.com;FPR:;MLV:sfv;PTR:domain.com;A:1;MX:1;LANG:en;
+X-Microsoft-Antispam: UriScan:(37413)(131795);
+X-Microsoft-Antispam: BCL:5;PCL:0;RULEID:(80001)(120001);SRVR:BL2FFO11HUB059;
+X-Exchange-Antispam-Report-Test: UriScan:;
+X-Exchange-Antispam-Report-CFA-Test: BCL:5;PCL:0;RULEID:;SRVR:BL2FFO11HUB059;
+Received-SPF: Pass (domain.com: domain of domain.com
+ designates 208.75.123.175 as permitted sender)
+ receiver=domain.com; client-ip=208.75.123.175;
+ helo=domain.com;
+Authentication-Results: spf=pass (sender IP is 208.75.123.175)
+ smtp.mailfrom=A5L80wrSTTAaGud5Q/+ZHNw==_1115682222305_+user@domain.com; 
+X-Exchange-Antispam-Report-CFA-Test: BCL:5;PCL:0;RULEID:;SRVR:BL2FFO11HUB059;
+Return-Path: A5L80wrSTTAaGud5Q/+ZHNw==_1115682222305_+user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1949503604_-_-"
+
+domain.com
+
+This email was sent to user@domain.com by user@domain.com  |    Update Profile/Email Address | Rapid removal with SafeUnsubscribe™  | Privacy Policy.
+
+The High Line Hotel | 180 TENTH AVENUE (AT 20TH STREET) | NEW YORK | NY | 10011
+

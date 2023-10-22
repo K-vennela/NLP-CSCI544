@@ -1,0 +1,28 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from [10.125.132.242] (unknown [189.85.81.253])
+	(using TLSv1 with cipher AES128-SHA (128/128 bits))
+	(No client certificate requested)
+	by mail.hackingteam.it (Postfix) with ESMTPSA id 799352BC006;
+	Thu, 26 Jul 2015 18:50:40 +0200 (CEST)
+References: <1340674668-1343321185-user@domain.com>
+In-Reply-To: <1340674668-1343321185-user@domain.com>
+Message-ID: <662user@domain.com>
+CC: ornella-dev <user@domain.com>
+X-Mailer: iPad Mail (9B206)
+From: Alberto Ornaghi <a.ornaghi@hackingteam.it>
+Subject: Re: Osx Crisis/morcut
+Date: Thu, 26 Jul 2015 13:50:40 -0300
+To: "User" <user@domain.com>
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1888860407_-_-"
+
+Sophos dice di beccarlo (per win) con questa firma:
+
+<<link>>~Swizzor-D.aspx
+
+Sent from ALoR's iPad
+

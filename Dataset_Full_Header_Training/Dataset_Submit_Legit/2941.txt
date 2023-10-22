@@ -1,0 +1,90 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Fri, 13 May
+ 2015 16:45:38 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Fri, 13 May 2015 
+ 16:45:35 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 914542615
+ for user@domain.com; Fri, 13 May 2015 15:45:42 -0500
+X-Note-AR-ScanTimeLocal: 5/13/2016 3:45:42 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: user@domain.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: LOCAL->->United States->
+X-Note-Sending-IP: 209.85.223.175
+X-Note-Reverse-DNS: mail-io0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mail-io0-domain.com ([209.85.223.175] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 138793128
+ for user@domain.com; Fri, 13 May 2015 15:45:31 -0500
+Received: by mail-io0-domain.com with SMTP id d62so147422197iof.2
+        for <user@domain.com>; Fri, 13 May 2015 13:45:25 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:content-transfer-encoding:message-id:date:subject:from
+         :in-reply-to:references:to;
+        bh=EUACbSkwL1w84mZ5YVFtv4KGDAzEGCsNVX8arWWLDz0=;
+        b=smIoapHoxnhRZfbXF9+yYilcwsFH2ctwk6lSzD16SOHHaqiEvDXzNUAFzp7RwITRNu
+         a5dUK1wxCCvmEbDFbF/fn906xj8f+QsgDCWpllw2iD5iuPJ+kknrBVq9iO/SufrI2UEG
+         t8zwVkPomiIH3ytzlCYv99K8V66Ax1ozhJetg7SxNnXog3R1ZEssggU7uUj3UvewPCmz
+         DVLg5q6Dvv7LDrmepgNkp5h+ZDqjw7E0WZv/4JSNnxKVMENjq4knocfgAyGlHpbHwOv3
+         9cXgYU+ULwGuHgKjfzNsoL62BmnaMnAP5JzGDMmmnMssqyqCj98G+Cp4KZIhMI+Nw2gf
+         Rv+g==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:content-transfer-encoding
+         :message-id:date:subject:From: Debbie Wasserman Schultz <hrtsleeve@gmail.com>
+        bh=EUACbSkwL1w84mZ5YVFtv4KGDAzEGCsNVX8arWWLDz0=;
+        b=fdvFwAlW0RjEWmpurSLPjo1huE7Aai/7Gcl0wOKE/2YqyPBioNTEiAx454+e1NU+97
+         eTHtQ1fTKVaOfyj1hvXXd5A0birG6++AtmEhdsjPJcUX0G5uhY5CXn4kfhHTSKLXH5vN
+         mcMJKR81r8W0/jbiRV4KnaqWKqWqBR+h6nhVYB2gT3Usl4mHBBtGVnHFDafcTLLM7d4Q
+         q3HFeX7tIBZEV9VS4JZ/hSJfKehVKRlcGYIyEtrufrxe1UtgDMxQCVvxOnHGCiL5LRew
+         ucEkDnc2NXvDzpR/LYaLcwnNMASp/gAjgJ7ibWp4xul7lEWTcyVwqjSv6vslV4bu3qwi
+         O1kw==
+X-Gm-Message-State: AOPr4FVMeWRVDVE/S50p8oTXKk8TD9Dq6EmhhvMR+ZxJVG2a7OIG4UuakElNVsxvPpjFpQ==
+X-Received: by 10.36.84.76 with SMTP id t73mr3174186ita.7.1463172324876;
+        Fri, 13 May 2015 13:45:24 -0700 (PDT)
+Return-Path: <user@domain.com>
+Received: from [127.0.0.1] ([166.175.57.164])        by smtp.gmail.com with
+ ESMTPSA id l80sm1491128itl.14.2016.05.13.13.45.22        for
+ <user@domain.com>        (version=TLSv1/SSLv3 cipher=OTHER);        Fri, 13
+ May 2015 13:45:23 -0700 (PDT)
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+X-Mailer: BlackBerry Email (10.3.2.858)
+Message-ID: <20160513204522.5070934.36827.58911@gmail.com>
+Date: Fri, 13 May 2015 15:45:22 -0500
+Subject: Re: User -- would you mind forwarding this to the Chair? Many thanks.
+From: Debbie Wasserman Schultz <hrtsleeve@gmail.com>
+In-Reply-To: <user@domain.com>
+References: <5user@domain.com>
+ <user@domain.com>,<195user@domain.com>
+ <user@domain.com>
+To: "User" <user@domain.com>
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+                                         =
+                                             Hahaha. Let's discuss it.                                 =
+                                                                           =
+
+
+
+                                               =
+                                                                           =
+                                                                         Sent from my BlackBerry 10&nb;=
+sp;smartphone.

@@ -1,0 +1,152 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Fri, 20 May
+ 2015 14:14:58 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Fri, 20 May 2015 
+ 14:14:49 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 926860851
+ for user@domain.com; Fri, 20 May 2015 13:15:04 -0500
+X-Note-AR-ScanTimeLocal: 5/20/2016 1:14:54 PM
+X-Policy: domain.com
+X-Note-AR-Scan: None - PIPE
+Received: by domain.com (CommuniGate Pro PIPE 6.1.7)  with PIPE id
+ 139829455; Fri, 20 May 2015 13:14:54 -0500
+Received: from mail-vk0-domain.com ([209.85.213.45] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 139829438
+ for user@domain.com; Fri, 20 May 2015 13:14:50 -0500
+Received: by mail-vk0-domain.com with SMTP id c189so153879891vkb.1
+        for <user@domain.com>; Fri, 20 May 2015 11:14:50 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=From: ACN Strategies <ajnajjar89@gmail.com>
+         :to;
+        bh=ETXFMX+V/idh82OaDYhM+0CYBj/FPM7wyL6h31RoH2w=;
+        b=XIG+iZQ/DNaot1/N8JNRMUSfFl0MQI42l+x7wEr5K3zlYa9G0gubX1dHoeARav8DRE
+         +NpHuHtOBK+xrPXDqQW+ulKPcw5kYZur0v1mog1QDSHi+tqWLHGuZCBRFEtQkM6C5fS2
+         UW5w4hA0FM4hMw6OvQq2fHYeaNHnh8/iUvfi39nkMQDMHK+dfgsuyJZMuRDZ/qj6WZWs
+         TN6jwFpFox+zd/dhTTiBNgvsn0MyZXodsS9tQe3CPlvq4f+mWytCHtWVR8lA5JUEGIaO
+         CxvvMLkAf4+QNGzmPugqzjXTiJT9FxYIGUhfeh7rS5RH+GYfL/LwcAZHk9gdYhLe1f/b
+         htlg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:From: ACN Strategies <ajnajjar89@gmail.com>
+         :subject:message-id:date:to;
+        bh=ETXFMX+V/idh82OaDYhM+0CYBj/FPM7wyL6h31RoH2w=;
+        b=EoMTbZIF1fxlv1u2BQENRkBYeERE4ryLxiYGZZBHBJvOl7U4+2jqToj7G7+PtN1cbP
+         mpnafHqISBGkcI26oNkOLtRFQWZ6LoPjpCOlS7Boc4BMjLFcIq4TbCeY9n7N32kp7GgJ
+         SKV1k8DDaEMEMZiQSwTb7g17H0QnqoC4aapn/gDMnTh4H3a7elrrsErNrOSo78w3iWr6
+         puizCW1SwecbACWZTwFK2wbUhkFCJap//K8W+KG0EsuGLaEz8U595QszbmXp3Sh7xpMn
+         XTTrrYijQ6YUUn7SUmFIDIbAMworrF1CaijwIn76S6xU9W2agmyD3JH09aqzi6ga5TXU
+         Jmcw==
+X-Gm-Message-State: AOPr4FUvFIC5sZyxSNevPdmx6j2RjZN8WMTtxyxGWA91htF3eShH4ifFW3qJuO9oMlgRmg==
+X-Received: by 10.31.223.66 with SMTP id w63mr2662591vkg.5.1463768089246;
+        Fri, 20 May 2015 11:14:49 -0700 (PDT)
+Return-Path: <user@domain.com>
+Received: from [33.101.21.59] ([172.56.5.226])        by smtp.gmail.com with
+ ESMTPSA id 105sm3078126uak.18.2016.05.20.11.14.37        for
+ <user@domain.com>        (version=TLSv1/SSLv3 cipher=OTHER);        Fri, 20
+ May 2015 11:14:47 -0700 (PDT)
+From: ACN Strategies <ajnajjar89@gmail.com>
+Content-Type: multipart/alternative;
+	boundary="Apple-Mail-DFBC6511-52A4-4404-8B87-7AB305889146"
+Content-Transfer-Encoding: 7bit
+Subject: Resume and cover letter 
+Message-ID: <85user@domain.com>
+Date: Fri, 20 May 2015 14:14:36 -0400
+To: <user@domain.com>
+X-Mailer: iPhone Mail (13E238)
+X-Note-AR-ScanTimeLocal: 5/20/2016 1:14:50 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Note: VCH-CT/SI:0-3936/SG:1 5/20/2016 1:14:23 PM
+X-Virus-Scan: V-X0H0M0
+X-Note: SPF: IP:209.85.213.45 DOM:gmail.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note: ICH-CT/SI:0-782/SG:1 5/20/2016 1:14:22 PM
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-520/SG:10 5/20/2016 1:14:22 PM
+X-GBUdb-Analysis: 1, 33.101.21.59, Ugly c=0 p=0 Source New
+X-Signature-Violations: 0-0-0-32767-c
+X-Note-419: 31.2529 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/20/2016 1:14:44 PM
+X-Note: Spam Tests Failed: 
+X-Country-Path: United States->->United States->
+X-Note-Sending-IP: 209.85.213.45
+X-Note-Reverse-DNS: mail-vk0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G407 G413 G527 G675 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Hope all is well. Please see below my resume and cover letter, would love to=
+ be reconsidered for a Organizationrole given recent departures.=20
+
+Best,
+Ammar
+
+can citizen of Mexican and Arab descent, born and raised in San Diego, Calif=
+ornia. =46rom living in an embattled part of the Middle East, to returning t=
+o the U.S. on the eve of September 11, 2001, I've witnessed how destructive p=
+eople can be in the name of their ideological differences. I=E2=80=99ve also=
+ witnessed how honorable people can be when united by their shared humanity.=
+ In 2012, I worked alongside hundreds of people, whom in the domain.com of publi=
+c service, volunteered their labor and love in advocacy of a common objectiv=
+e: reelecting President Barack Obama.
+
+eeing Southern California=E2=80=99s grassroots operations, with the primary r=
+esponsibility of establishing a regional office headquarters in San Diego, C=
+A. I had the honor of leading, managing and training volunteer organizers wi=
+thin the eighth largest city in the United States. I also facilitated region=
+al fundraising efforts, and delivered statewide webinars on campaign messagi=
+ng, how to persuade undecided voters, and how to turnout supporters on Elect=
+ion Day.
+
+ling that summoned many of us to partake in moving America forward in 2015 b=
+rought me to Washington D.C. in January, 2013.
+
+cutive Office of the President. I was entrusted with handling President Obam=
+a=E2=80=99s official correspondence sent by American citizens, veterans, wor=
+ld leaders, and CEOs of Fortune 500s. I reviewed hundreds of personal storie=
+s each day, some of them uplifting but many of them tragically heart breakin=
+g =E2=80=93 struggles better left imagined than described. My time at the Wh=
+ite House helped me further internalize the voice of the American people and=
+ the voice of the standard bearer of the Democratic Party.
+
+er of Commerce (USHCC), my work in correspondence and political messaging pa=
+id off, and I was soon hired on as Deputy Director of Communications. Today,=
+ I'm the association's Director of Communications & Marketing. I=E2=80=99ve d=
+rafted speeches and talking points for USHCC President & CEO Javier Palomare=
+z; published press releases and op-eds; managed and developed press and gove=
+rnment relations; and continue to devise communications strategies that enab=
+le the USHCC to best represent its 200 local chambers, 4.1 million Hispanic-=
+owned businesses, and 250 corporate partners. Other responsibilities include=
+ overseeing subcontracted marketing projects, managing and developing the US=
+HCC=E2=80=99s social media presence and developing monthly e-newsletters.
+
+ success we enjoy requires a debt of gratitude to those who made it possible=
+. Quite simply, all those hardworking campaign volunteers are the reason why=
+ I=E2=80=99m here today. I came to D.C. to continue advocating for what we f=
+ought for: the ability to change the course of history by the power of our i=
+deas, the boldness of our convictions, and the sincerity of our actions. The=
+ USHCC continues to be a rewarding experience, but my true passion is in adv=
+ancing the ideals of my party.
+
+or staff on public affairs, advance the DOL's agenda through strategic messa=
+ging, coalition building (labor unions, business owners, grant sponsors, min=
+ority groups), and increased media awareness.
+
+NC. Serving party would enable me to use my personal, cultural, academic, an=
+d professional background toward the important mission of advancing our valu=
+es and broadening opportunities for all Americans, not just the well-off and=
+ well-connected. With so much at stake this year, devoting my full passion a=
+nd experience toward promoting these ideals would be deeply gratifying and r=
+edemptive.
+

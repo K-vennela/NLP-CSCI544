@@ -1,0 +1,133 @@
+Here are my responses to the comments concerning 6.5.8d. With respect to Stefan's main
+concern: I too am sensitive to the possible mis-use of words that appear in a cavalier
+manner in the text. I think the way to avoid that is to be as precise as possible about
+what is being said. I also feel that hand-waving should be minimized - just because there
+are uncertainties, does not mean IPCC will throw up its hands. Thus the attempt to quantify
+these numbers are precisely as they will be done in other IPCC chapters. Again, the
+responses are in red, and the text alterations (or in this case, some entire text) are in
+blue.
+I'm not working on this topic myself so I'm by no means an expert. But I am still quite
+concerned with the wording in 6.5.8 on the last millennium.
+First, to avoid misunderstandings, I would like to suggest again to describe forcings
+and climate changes going forward in time, rather than going backwards in time. Even
+colleagues here that I discuss it with misunderstand the present version with backwards
+reasoning - it leads to phrases like "deforestation warming" (used by David in his last
+mail), although deforestation caused cooling - backwards in time you can see this as a
+warming, but should you call it "afforestation warming" if you look back in time? I
+suggest to use the physical, forwards, time arrow in the discussion.
+In all the other sections of 6.5.8 we discuss the temperature change and the radiative
+forcing relative to the present - when it was colder than the present, the temperatures
+were indicated to be colder, and the radiative forcing more negative. To alter that for
+this section alone would cause added confusion. I have therefore in each case tried to make
+it perfectly clear what is being said. In particular, I agree that in the case of
+deforestation the terminology does become confusing so the text has been changed to be more
+communicative; it now reads,
+Warming of 0.35C due to the existence of  vegetation and forests that have since been cut
+down was found by (Bauer et al., 2003) ...
+The section states:
+If one takes mid-range estimates of solar and anthropogenic forcings, and assumes that
+volcanic, tropospheric ozone and land albedo changes cancel out, the resulting radiative
+forcing change is ~-2.4 Wm-2.
+I don't think we should give a "mid-range" of the forcing like this; the assumption that
+ozone, land albedo and volcanic changes cancel is hard to justify in any case. For the
+forcing we need to give a range in my opinion, not one number. If we give a range, it
+will become clear that the forcing is too uncertain for drawing conclusions on climate
+sensitivity from this time period.
+The problem with giving a maximum range for this time period is the same as giving one for
+the 20th century - the inclusion of the potential indirect effects of aerosols means you
+can wipe out all climate forcing entirely. It becomes a 'reductio aud absurdum'. The issue
+in particular for the Late Maunder Minimum time period, and the specific reason for
+including it, is that it potentially says something about SOLAR forcing.
+In writing this section, we are not simply doing a core dump of everything people have
+done, we are supposed to use our brains to assess the likely situation. Having already
+provided the range of uncertainty,we can give a 'best estimate' for the various forcings
+that we can use in a meaningful way if we are careful - and which show the importance of
+the uncertainty in the solar forcing. I do agree that what existed in the text especially
+for the third paragraph needed improvement. Therefore, after several talks with people
+here, I've altered (especially) the first and third paragraphs accordingly. Rather than
+just stating the conclusion that climate sensitivity can't be well defined, the paragraphs
+now show quantitatively that is the case. The specificity, I believe, gives people a real
+feeling for the uncertainties, and in the way it is done here, especially the uncertainty
+in the solar forcing and actual climate response. (This rewrite obviates the need for a
+direct response to several of Stefan's other comments.)
+(d)Last 1000 years
+We concentrate here on the Late Maunder Minimum time period in which sunspots were
+generally missing (approximately 1675-1715), but outside of the estimated solar irradiance
+change, the discussion is applicable for the pre-industrial climate in general. The primary
+forcings relative to today are (1) a decrease in various greenhouse gases, with a forcing
+of approximately -2.40.25 Wm-2 (not including tropospheric ozone changes); (2) reduced
+tropospheric sulfate aerosols, whose direct effect is estimated by IPCC (2001) as +0.40.3
+Wm-2 with an indirect effect ranging from +0.5 to +2 Wm-2  (3) a solar forcing reduction
+estimated as ranging from -0.12 to -1.56 Wm-2 (0.05% to 0.65%) ((Hoyt and Schatten,
+1993);(Lean, 2000);(Foukal and Milano, 2001); (Reid, 1997)); and (4) volcanic aerosol
+forcing either similar to today ((Robertson, 2001)), lower than today ((Robock and Free,
+1996)), or higher ((Crowley, 2000)). Large uncertainties therefore exist for all of the
+forcings except the trace gas values (again excluding tropospheric ozone). The cooling
+effects are offset to small degree by land albedo changes, estimated to contribute +0.4
+Wm-2  ((Hansen et al., 1998)). Reduced tropospheric ozone has been estimated to cause an
+additional forcing of -0.3 to -0.8Wm-2 (Mickley et al., 2001), while increased
+stratospheric ozone produced a positive forcing of -0.09 to -0.25 Wm-2 (IPCC, 2001). If one
+takes the most widely used  or mid-range estimates of solar (-0.5 Wm-2 from (Lean, 2000))
+and anthropogenic forcings (-2.4Wm-2  from reduced trace gases, other than tropospheric
+ozone; +0.5 Wm-2  from reduced sulfate aerosols), land albedo changes (0.4 Wm-2), decreased
+tropospheric ozone (-0.35 Wm-2 (IPCC, 2001)) and increased stratospheric ozone (+0.15 Wm-2
+(IPCC, 2001)), the net radiative forcing for this time is estimated as -2.2 Wm-2. [For this
+exercise we ignore the effects of volcanoes, the indirect effects of sulfate aerosols, and
+the effects of carbon and organic aerosols.]. Including these additional components (except
+for volcanic aerosols for which even the sign of the change is not well know), Hansen
+(personal communication) calculates a value close to -2 Wm-2.
+How cold was this time period? Different reconstructions (Fig. X1) provide different
+estimates of cooling, ranging from -0.45C ((Mann et al., 1999), annual value for the
+Northern Hemisphere), to about -0.7C ((Esper et al., 2002)for 20-90N in the growing
+season, and (Briffa and Osborne, 2002)(from borehole temperature records). Model studies
+(Fig. X2) for this time period have generally employed significant solar reductions (-0.2%
+to -0.4%), which by themselves have resulted in cooling of about -0.5C ((Cubasch et al.,
+1997);(Bauer et al., 2003);(Rind et al., 2004)). Utilizing a forcing of -1.5 to -2 Wm-2
+from the combined influence of preindustrial trace gases and aerosols results in additional
+cooling of about -1 to -1.5C ((Fischer-Bruns et al., 2002);(Rind et al., 2004);(Zorita et
+al., 2004)). If volcanic aerosols were actually more extensive during this time period,
+then additional cooling would arise from this factor as well (on the order of -0.4C found
+by (Hegerl et al., 2003)using the (Crowley, 2000)reconstruction). Warming of 0.35C due to
+the existence of vegetation and forests that have since been cut down was found by (Bauer
+et al., 2003), on the same order but of opposite sign to the tropospheric ozone forcing
+(Mickley et al., 2004). Adding these effects from model simulations together produces a
+total cooling on the order of  -1 to -1.5C or greater, significantly larger than any of
+the paleo-estimates. For the ~50 year time period associated with the Maunder Minimum,
+without large forcing trends, the model results are essentially in radiative balance, and
+while the influence of past solar variations could still be in acting, in at least one
+study they were shown to be unimportant (Rind et al., 2004).
+The climate sensitivity from the GCMs used for these studies in on the order of 0.6C/ Wm-2
+(or higher, depending on the model used). To calculate the sensitivity from the
+observations, we first use the estimated forcing of -2.2 Wm-2 and recognize that ~0.85 Wm-2
+of this is unresolved (Hansen, personal communication) due to the rapid trace gas changes
+of the last few decades.  Therefore, only 1.35 Wm-2 of the radiative forcing should have
+been expressed in the system. Were this to have resulted in a temperature change of about
+-0.5C (as in the Mann et al reconstruction), it would imply a climate sensitivity of 0.37
+Wm-2, i.e. at the low end of the IPCC range for doubled CO2 response. Using the higher
+estimated cooling of -0.7C results in a climate sensitivity of 0.52 Wm-2. Alternatively,
+if the uncertain solar forcing change was at the estimated minimal value (-0.12 Wm-2), then
+the radiative forcing change would be reduced accordingly, and climate sensitivity for the
+two reconstructions increases to 0.5 Wm-2 and 0.7 Wm-2 (near 3C for doubled CO2)
+respectively, for the different temperature reconstructions. This exercise can be carried
+on ad infinitum; considering the actual uncertainty in many of the forcings, and in the
+actual temperature response of the climate system, we conclude that we cannot properly
+constrain climate sensitivity for this time period (and to some extent the results are
+similar for other preindustrial time periods compared to the present).
+As an aside: if one uses the minimal estimate of solar forcing in the example presented,
+one gets a range of temperature response to 2xCO2 of 2-3C, not too much different from
+that concluded in the paper Stefan just sent around (which was 2.5 to 3C).
+Then you state the Mann et al. data are 0.5 C below the 1990s in the Maunder Minimum. I
+can see they are 0.4 C below the reference level (I believe this is 1961-1990). The
+mean of the 1990s is 0.3 C above this level (I calculated this from the Jones data) -
+so I find that the Mann data are in fact 0.7 C below the 1990s in the MM. The
+difference between model expectation for 2.4 W/m2 and the actual found in the Mann data
+is almost gone then. Add to that the possibility that the Mann data may somewhat
+understimate the variability, and I do not see any significant discrepancy between
+models and data, which we should mention and which we could defend as real - even for
+"best guess" sensitivity and forcing, let alone considering the uncertainty in those.
+The easiest way to see this is to note that the Mann et al reconstruction has the late
+1600s slightly warmer than the late 1800s. It is widely acknowledged that the late 1800s
+were 0.6C colder than today (taking into account the heat island effect) (and the radiative
+forcings, a la IPCC 2001, are all with respect to the 1990s.) That puts the late 1600s at
+less than 0.6C colder, close to the value indicated in the text.
+David

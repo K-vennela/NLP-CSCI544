@@ -1,0 +1,117 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Sun, 8 May
+ 2015 18:05:38 -0400
+Received: from server555.appriver.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Sun, 8 May 2015 
+ 18:05:35 -0400
+Received: from [10.87.0.111] (HELO inbound.appriver.com)  by
+ server555.appriver.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 903213166
+ for user@domain.com; Sun, 08 May 2015 17:05:39 -0500
+X-Note-AR-ScanTimeLocal: 5/8/2016 5:05:40 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: 72.3.212.195 ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->United States->
+X-Note-Sending-IP: 72.3.212.195
+X-Note-Reverse-DNS: outbound.appriver.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G8 G276 G277 G278 G279 G283 G284 G294 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDIP
+X-Note: Headers Injected
+Received: from [72.3.212.195] (HELO outbound.appriver.com)  by
+ inbound.appriver.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 137700737
+ for user@domain.com; Sun, 08 May 2015 17:05:40 -0500
+Received: from [10.242.231.127] (HELO server551sql)  by outbound.appriver.com
+ (CommuniGate Pro SMTP 6.1.2)  with ESMTP id 32130792 for user@domain.com;
+ Sun, 08 May 2015 17:05:35 -0500
+From: AppRiver SpamLab <notice@appriver.com>
+To: <user@domain.com>
+Date: Sun, 8 May 2015 17:05:35 -0500
+Subject: Held Spam Report for 5/7/2016
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+Message-ID: <user@domain.com>
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+															Daily Held Spam Report
+
+
+
+user@domain.com
+
+Saturday, May 7,=
+ 2016
+
+View, Search, Sort Report |
+										Request Current Report |
+										Change Report Settings
+
+Spam: 3
+
+																																	=09
+
+
+
+View |
+											Release
+
+user@domain.com
+
+I burn with passion
+
+												10:29a from Viet Nam (1.56 KB)
+
+
+
+																									=09
+
+
+
+View |
+											Release
+
+user@domain.com
+
+want hot night?
+
+												10:17a from domain.com (1.56 KB)
+
+
+
+																									=09
+
+
+
+View |
+											Release
+
+user@domain.com
+
+hot g!rl want you!
+
+												1:39a from Bolivia (1.97 KB)
+
+
+
+Virus: 0
+
+Outbound: 0
+
+Copyright ©2003-2016=20
+															AppRiver, All Rights Reserved
+
+
+
+Unsubscribe
+

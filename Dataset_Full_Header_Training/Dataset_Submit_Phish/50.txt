@@ -1,0 +1,85 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id 5F0C146979
+	for <user@domain.com>; Sun, 26 Aug 2015 17:07:37 -0400 (EDT)
+Received: from domain.com (domain.com [204.181.64.8])
+	by domain.com (Postfix) with ESMTP id 81DAF131F9E2
+	for <user@domain.com>; Sun, 26 Aug 2015 17:07:37 -0400 (EDT)
+Received: from domain.com (mail.fvreb.bc.ca [209.53.137.177])
+	by domain.com (Postfix) with SMTP id 6EEE86FA1C4
+	for <user@domain.com>; Sun, 26 Aug 2015 17:07:37 -0400 (EDT)
+Received: from User ([24.248.173.211]) by domain.com with Microsoft SMTPSVC(6.0.3790.1830);
+	 Sun, 26 Aug 2015 14:07:31 -0700
+Reply-To: <user@domain.com>
+From: "Bank of America"<alert@bankofamerica.com>
+Subject: Irregular Check Card Activity
+Date: Sun, 26 Aug 2015 14:42:56 -0700
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <user@domain.com>
+X-OriginalArrivalTime: 26 Aug 2015 21:07:31.0556 (UTC) FILETIME=[1DD94240:01C7E825]
+X-TM-AS-Product-Ver: SMEX-7.0.0.1345-3.5.1048-13774.000
+X-TM-AS-Result: No-0.810000-5.000000-2
+To: undisclosed-recipients:;
+Content-Length: 5675
+Lines: 194
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 69
+
+						Remember:
+
+						Always look for
+
+						your SiteKey before
+
+						you enter your
+
+						passcode during
+
+Sign In »
+
+Irregular Check Card Activity
+
+Account: MYACCESS CHECKING 
+
+
+
+
+						We detected irregular activity on your Bank of America Check Card . For your protection, you must update your account before you can continue using your card. 
+
+
+
+						Please domain.com Online Banking at www.bankofamerica.com to review your account. If you have any questions about your account or need assistance, please call us at 1.877.833.5617 . We will review the activity on your account with you and upon verification, we will remove any restrictions placed on your account. 
+
+
+
+Want to confirm this email is from Bank of America? Sign in to Online Banking and select Alerts History to verify this alert.
+
+
+
+Want to get more alerts? Sign in to your online banking account at Bank of America and within  the Accounts Overview page select the "Alerts" tab.
+
+
+
+Because email is not a secure form of communication, please do not reply to this email.
+
+						 If you have any questions about your account or need assistance, please call the phone number on your statement or go to Contact Us at www.bankofamerica.com.
+
+
+
+Bank of America, Member FDIC. 
+
+						©
+2007 Bank of America Corporation. All Rights Reserved.
+
+

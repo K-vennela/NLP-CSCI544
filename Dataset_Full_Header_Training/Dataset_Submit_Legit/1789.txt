@@ -1,0 +1,109 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Mon, 2 May
+ 2015 08:46:09 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Mon, 2 May 2015 
+ 08:46:06 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 890685790
+ for user@domain.com; Mon, 02 May 2015 07:46:03 -0500
+X-Note-AR-ScanTimeLocal: 5/2/2016 7:46:01 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @politico.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->
+X-Note-Sending-IP: 68.232.198.10
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from domain.com ([68.232.198.10] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 136004871
+ for user@domain.com; Mon, 02 May 2015 07:46:01 -0500
+Received: by domain.com id h4t60i163hsl for <user@domain.com>; Mon,
+ 2 May 2015 06:44:45 -0600 (envelope-from
+ <user@domain.com>)
+From: POLITICO Huddle <huddledigest@politico.com>
+To: <user@domain.com>
+Subject: =?UTF-8?B?UE9MSVRJQ08gSHVkZGxlOiBMSUdIVEVTVCBTRU5BVEUgV09SSyBT?=
+ =?UTF-8?B?S0VEIElOIDYwIFlFQVJTIOKAlCBSeWFu4oCZcyAyMDIwIFJlcHVibGljYW4g?=
+ =?UTF-8?B?UmVzY3VlPyDigJQgSE9VU0UsIFNFTkFURSBESVZJREVEIE9OIE5BVElPTkFM?=
+ =?UTF-8?B?IFNFQ1VSSVRZIEFEVklTT1IgUkVGT1JNIOKAlCBGb3JtZXIgU2VuLiBDb25y?=
+ =?UTF-8?B?YWQgQnVybnMgZGllcyDigJQgR09QIEVTVEFCTElTSE1FTlQgVFVSTlMgVEFC?=
+ =?UTF-8?B?TEVTIElOIElORElBTkEu?=
+Date: Mon, 2 May 2015 06:44:45 -0600
+List-Unsubscribe: <mailto:user@domain.com>
+Reply-To: POLITICO subscriptions
+	<user@domain.com>
+x-job: 1376319_5380395
+Message-ID: <3576user@domain.com>
+Content-Type: multipart/alternative; boundary="EtFnf2grOQam=_?:"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+05/02/2016 08:42 AM EDT
+
+By Rachael Bade (user@domain.com or @RachaelMBade) 
+
+A DO-NOTHING CONGRESS? "Senate on pace for lightest work schedule in 60 years." Burgess Everett and Seung Min Kim on the election-year slog: "Senate Republicans have left town for another recess with their yearlong claim that the Senate is 'back to work' an increasingly tough sell to voters. Majority Leader Mitch McConnell has worked painstakingly to craft an identity that's distinct from the raucous presidential contest - one built on stability and passage of legislation the Democrats couldn't get through when they controlled the Senate." 
+
+"But the chamber is on pace to work the fewest days in 60 years, the party continues to insist it won't act on President Barack Obama's Supreme Court nomination, and Republicans' ballyhooed strategy to shepherd all dozen spending bills through the chamber is in serious trouble. The level of productivity isn't just about bragging rights: Senate Republicans are staking their push to maintain control of the chamber in November on a message that a do-nothing Senate is a thing of the past. Successfully prosecuting that case could become even more critical if Donald Trump, who many believe will be a drag on the GOP ticket, wins the nomination." <<link>> 
+
+Silver lining or wishful thinking? "Spending Gridlock Breathes Life Into Criminal Justice Effort." Will Dobbs-Allsopp at Morning Consult: "Senators are heading in to a weeklong recess with no clear way forward on the spending bills that constitute the annual government funding process. But there's a silver lining for a bipartisan group of senators: A long-awaited overhaul of the criminal justice system might have a chance at a Senate vote." <<link>> 
+
+ROTHENBERG: "Ryan Rides to the Rescue - But Not Until 2020." The latest Speaker Paul Ryan-W.H. bid theory comes from Roll Call's Stuart Rothenberg and looks like this: "If Republicans lose big in November, Ryan becomes de facto leader of the party and its top White House contender in four years." Full story: "I recently asked a veteran Republican strategist how his party picks up the pieces after what now looks to be a very difficult 2015 election. His answer was quick and decisive: Paul Ryan. If November's elections are as messy for the GOP as they now appear, with Republicans failing once again to win the White House and also losing their Senate majority, Ryan would almost certainly
+ become his party's de facto leader - and that would offer him both opportunities and challenges after the election." <<link>> 
+
+WELCOME TO RECESS. It's May 2, 2016, and thanks for reading Huddle. I'll be your host this week for an abridged tipsheet (at least in theory), given that Congress is out. Email me at: user@domain.com, or tweet me here @RachaelMBade
+
+TODAY IN CONGRESS. Recess.
+
+AROUND THE HILL. Staffers and reporters still recovering from Nerd Prom. (By the way: Someone please tell me why it's called Nerd Prom. Washington D.C.'s press corps is hardly nerdy... I hate this nickname!) 
+
+MEANWHILE... PAST DUE: Per the AP: "Puerto Rico won't make $370 million in debt payments."
+
+"SENATORS DON'T WANT VETO POWER OVER THE PRESIDENT'S NATIONAL SECURITY ADVISER." Karoun Demirjian for PowerPost: "House Armed Services Committee Chairman Mac Thornberry (R-Texas) is expected to propose a measure to winnow the size of the White House's security apparatus and subject its chief to Senate confirmation when the annual defense authorization bill hits the floor later this month. Senate Republicans and Democrats are concerned about the size of the NSC staff and what they argue is the outsize clout wielded by the powerful team inside the White House. But neither they nor Senate Democrats want to change the way the national security adviser is picked." 
+
+"'I've watched as the State Department and secretary of state is marginalized because he's out the building,' said Senate Foreign Relations Committee Chairman Bob Corker (R-Tenn.)... 'But the confirmation issue,' Corker said, 'I have to think about, because in some ways you're elevating the position ... then you're creating a competing position to the secretary of state, so it has the opposite effect.'" <<link>> 
+
+RIP - "Conrad Burns, former U.S. Senator of Montana, dies at 81." Christopher Mele and Daniel Victor with the N.Y. Times domain.com: "Conrad Burns, a former Montana livestock auctioneer with a penchant for speaking plainly who catapulted from county commissioner to United States senator, died on Thursday at his home in Billings, Mont. He was 81. His death was confirmed by Mark Baker, his former staff director and counsel in the Senate. Mr. Burns served three terms in the Senate, where he worked on telecommunications legislation, focusing on access in rural areas, and influenced policies on energy and federal land management."
+
+"After serving just two years as a commissioner in Yellowstone County, he defeated an incumbent Democratic senator, John Melcher, in 1988. In 1994, Mr. Burns became the first Republican senator in Montana history to be re-elected. His ways might have been out of step with the traditional character of the Senate - The Billings Gazette noted that he would chew tobacco and occasionally pick his teeth with a pocketknife - but that did not stop him from assuming influential positions. He served on the Senate Appropriations Committee, where he helped funnel millions of dollars to Montana. As chairman of a communications subcommittee, he pushed for the installation of broadband in rural areas, new
+ domain.com and cellphone technologies and legislation to combat spam email." <<link>>
+
+GOP ESTABLISHMENT TURNS TABLES ON TEA PARTY IN INDIANA. Kevin Robillard for POLITICO previewing tomorrow's GOP primary from the heartland, Indiana: "Establishment Republicans are poised to rout the tea party in their biggest Senate showdown of 2016, a dramatic turn of the tables from both recent Senate history and this year's unpredictable presidential race. Just four years ago in Indiana, a shocking 20-point primary loss by six-term GOP Sen. Richard Lugar demonstrated just how far establishment control of the GOP had slipped. But this year, Rep. Todd Young has opened a lead in the state's Republican Senate primary behind a tsunami of establishment money and support - and the tea-party
+ energy that took down Lugar has failed to materialize, despite the anti-establishment vigor of the presidential race."
+
+"GOP Rep. Marlin Stutzman, Young's opponent, has won support from some of the same groups that backed Lugar challenger Richard Mourdock in Indiana in 2012. But neither the money nor the outrage that drove past tea-party campaigns has been there for Stutzman. Young and his supporters have outspent Stutzman 9-to-1 on TV. Senate Leadership Fund - a new super PAC run by allies of Majority Leader Mitch McConnell - has even attacked Stutzman, a first for a PAC in the Crossroads outside-group network, which has typically aired only positive ads in Republican Senate primaries." <<link>> 
+
+REFLECTING - "EMILY's List Strategy Questioned After Big Losses." Alex Roarty for Roll Call: "Katie McGinty won Pennsylvania's Senate Democratic primary last week thanks in part to a major investment from EMILY's List, which spent nearly $2 million to help her overcome a difficult opponent. It was the only good news on an otherwise dreadful night for EMILY's List which backs Democratic women who support abortion rights - the group also lost a quartet of races that has Democratic strategists questioning if its political operation requires a strategic reassessment." <<link>> 
+
+FRINGE PROPOSAL GAINING TRACTION: "Conservatives in Congress urge shutdown of tax-collecting IRS." Never mind that any honest tax expert will tell you this is unrealistic. Here's Susan Cornwell for Reuters: "It's a U.S. taxpayer's dream: make the Internal Revenue Service go away, and the largest conservative group in Congress is endorsing just that. The Republican Study Committee, which counts over two-thirds of House of Representatives Republicans as its members, called recently for 'the complete elimination of the IRS.' The committee's support for this idea, once confined to the fringes of conservative ideology, suggests it is more widely accepted on Capitol Hill than ever. But many in
+ Washington, including some Republicans, have trouble taking it seriously." <<link>> 
+
+AND ICYMI: WHITE HOUSE CORRESPONDENCE DINNER ROUNDUP. AP: "President takes last shots at official Washington." <<link>> The Hill: "Obama pals around with Boehner in WHCA dinner video." <<link>> WSJ: "White House Dinner: Where the 'Nerds' Mingle With the 'Cool Kids'" <<link>> POLITICO: "Behind the scenes on the White House Correspondents." <<link>> 
+
+FRIDAY'S TRIVIA WINNER: Logan Ferree was the first to answer that Nevada state legislator Harry Mortenson in 2015 proposed a bill that would instruct people how to pronounce the lawmaker's home state. 
+
+TODAY'S TRIVIA: Comes from our winner: "In honor of the 100th anniversary of the 1916 Easter Rising, Rep. Joe Crowley is working to name the corner of Massachusetts Ave. and S Street N.W. (in D.C.) after Irish revolutionary Robert Emmet. Emmet is represented at the corner by a statue which is actually one of four made to honor him. What are the other three cities that share the statue?" Email me: user@domain.com 
+
+GET HUDDLE emailed to your Blackberry, iPhone or other mobile device each morning. Just enter your email address where it says "Sign Up." <<link>>
+
+To view online:
+<<link>>
+ To change your alert settings, please go to <<link>> or <<link>> email was sent to user@domain.com by: POLITICO, LLC 1000 Wilson Blvd. Arlington, VA, 22209, USA
+
+To unsubscribe,<<link>>
+

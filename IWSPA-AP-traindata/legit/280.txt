@@ -1,0 +1,45 @@
+THIS IS NOT A TICKET                          
+==========================================================================   
+Reservation Number Is 036B1D
+Subject To Cancellation Unless Purchased By April  5, 2008                   
+==========================================================================   
+Herring, William
+Train:     8      Empire Builder
+Departure:  Fargo, North Dakota
+Wednesday   April 16, 2008       2:13AM
+Arrival:    Chicago (Union Station), Illinois
+Wednesday   April 16, 2008       3:55PM
+Accommodation:   1 Reserved Coach Seat
+Train:     30     Capitol Limited
+Departure:  Chicago (Union Station), Illinois
+Wednesday   April 16, 2008       7:05PM
+Arrival:    Washington, District Of Columbia
+Thursday    April 17, 2008       1:30PM
+Accommodation:   1 Reserved Coach Seat
+Train:     178    Regional Service
+Departure:  Washington, District Of Columbia
+Thursday    April 17, 2008       4:05PM
+Arrival:    Baltimore (Penn Station), Maryland
+Thursday    April 17, 2008       4:45PM
+Accommodation:   1 Reserved Coach Seat
+Train:     181    Regional Service
+Departure:  Baltimore (Penn Station), Maryland
+Monday      April 21, 2008       9:00AM
+Arrival:    Washington, District Of Columbia
+Monday      April 21, 2008       9:42AM
+Accommodation:   1 Reserved Coach Seat
+Train:     29     Capitol Limited
+Departure:  Washington, District Of Columbia
+Monday      April 21, 2008       4:05PM
+Arrival:    Chicago (Union Station), Illinois
+Tuesday     April 22, 2008       8:40AM
+Accommodation:   1 Reserved Coach Seat
+Train:     7      Empire Builder
+Departure:  Chicago (Union Station), Illinois
+Tuesday     April 22, 2008       2:15PM
+Arrival:    Fargo, North Dakota
+Wednesday   April 23, 2008       3:35AM
+Accommodation:   1 Reserved Coach Seat
+Charges:
+Total Reservation Charges:      $    369.00
+Ticket Delivery Charge:         $      0.00

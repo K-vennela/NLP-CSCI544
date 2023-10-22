@@ -1,0 +1,88 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id 0465F468B2
+	for <user@domain.com>; Thu,  9 Apr 2015 18:15:15 -0400 (EDT)
+X-Greylist: delayed 145959 seconds by postgrey-1.27 at domain.com; Thu, 09 Apr 2015 18:15:13 EDT
+Received: from domain.com (unknown [200.63.96.155])
+	by domain.com (Postfix) with ESMTP id 476E5131F79B
+	for <user@domain.com>; Thu,  9 Apr 2015 18:15:13 -0400 (EDT)
+Received: from localhost ([127.0.0.1] helo=domain.com)
+	by domain.com with esmtp (Exim 4.69)
+	(envelope-from <user@domain.com>)
+	id 1LrQYO-0002Wv-6x
+	for user@domain.com; Wed, 08 Apr 2015 01:42:28 -0400
+Date: Wed, 8 Apr 2015 01:42:28 -0400
+To: "User" <user@domain.com>
+From: PayPal Customer Support <support@paypal.com>
+Subject: Security Measures
+Message-ID: <171user@domain.com>
+X-Priority: 3
+X-Mailer: PHPMailer [version 1.72]
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset="iso-8859-1"
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - domain.com
+X-AntiAbuse: Original Domain - domain.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - paypal.com
+Content-Length: 3773
+Lines: 83
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1027
+
+PayPal
+#obmessage .dummy {}
+#z BODY, #z  TD {font-family: verdana,arial,helvetica,sans-serif;
+font-size:12px;color: #000000;}
+
+Information about your account:
+Dear customer PayPal:
+
+Attention! Your PayPal account has been limited!
+
+As part of our security measures, we regularly check the activity of the screen PayPal.
+We requested information from you for the following reason:
+
+Our system has detected unusual charges to a domain.com card linked to your PayPal account.
+
+Reference Number: PP-318-321-835
+
+This is the last reminder to log into PayPal, as soon as possible. Once you connect. PayPal will provide measures to restore access to your account.
+
+
+
+
+Once connected, follow the steps to activate your account. We appreciate your understanding as we work to ensure the safety Account
+
+Thank you for your attention to this question. Please understand that this is a security measure intended to protect you and your account. We apologize for any inconvenience ..
+
+Department review PayPal accounts
+
+
+
+Copyright  1999-2009 PayPal. All rights reserved.
+
+
+
+ PayPal Register Number: 226056.
+
+PayPal Email ID PP059
+
+Protect your account
+
+Be sure to never give your password to fraudulent websites. 
+
+Any safe access to the site or your PayPal account, open a new web browser (domain.com Explorer or Netscape) and typing in the login page of PayPal (<<link>>) to make sure you are on the real PayPal site
+For more information on fraud protection, please consult our safety tips  
+Protect your password 
+You should never give your PayPal password to anyone
+
+Protect your password
+
+You should never give your password to anyone PayPal.
+

@@ -1,0 +1,29 @@
+<x-flowed>
+Phil et al,
+There is a problem w/ figure 4 (and discussion thereof) in your paper to 
+appear in Science. Unfortunately, I didn't catch this until I re-read the 
+paper just now. You haven't shown the right Mann et al NINO3 
+reconstruction. Are you sure you have used the *cold-season* NINO3 
+reconstruction, as discussed (and available) in the Mann et al Earth 
+Interactions paper, and not the annual mean reconstruction!!
+<<link>>
+I don't believe that has the trend that the series you show does. That 
+NINO3 series  agrees closely (r=0.63) w/ the Stahle et al series (once
+the sign has been flipped on that series, and the off-by-one-year date 
+convention is taken into account), far closer than
+what you have shown. I'm pretty sure you've used the wrong series.
+Moreover, it is inappropriate to refer (as you do) the Nino3 reconstruction 
+as an SOI reconstruction, no matter whether it has been
+renormalized, sign-switched, etc. There are fundamennal differences between 
+the low-frequency behavior of NINO3 and SOI, (consider
+for example the 20th century!) and they aren't dynamically equivalent! To 
+say there is a "long-term trend" in our "SOI reconstruction"
+is extremely misleading. There is a long-term trend in our *NINO3* 
+reconstruciton. Only Stahle produced an SOI reconstruction, and it is only 
+meaningful to correlate the two at annual timescales where they should 
+similarly reflect largely interannual ENSO variability.
+Moreover, I don't think this is true (or as true) of our colld-season NINO3 
+series, which is the right one to use. Hopefully, you still
+have a chance to change this in the galleys, etc.
+Thanks in advance for your attention to this,
+mike

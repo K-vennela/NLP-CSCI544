@@ -1,0 +1,26 @@
+Hi Tim, hi  Keith,
+attached you can find my reconstruction of the cold season temperature 
+anomalies. I have retained the 3rd, 4th, 5th and 6th EOFs for the whole time 
+span (1500-1976). It seems to be a rather strange choice, but if I retain the 
+1st and/or 2nd EOFs the reconstructed T anomalies for Northern Europe are too 
+large in comparison to observed anomalies. 
+You will see that calibration/verification skills are miserable. But it puts 
+my mind to rest, if you say, that this is an expected result.
+Last week you wrote :
+The problems I mentioned at the meeting in France arose if I applied my 
+implementation of the method to the INSTRUMENTAL data and I tried to explain 
+this effect through the gaps in the data. In the meantime I was able to 
+eliminate to some degree this problem through the use of other fortran 
+compiler and numeric library. I will prepare an slide with assesment of the 
+performance of the current method implementation for "perfect proxy data" 
+(i.e. instrumental data as proxy data).
+And now some words to agenda
+1) Antje Weisheimer will say initial greeting words and make all 
+organisational announcments.
+2) As you know, Ulrich take part in the analysis of the simulations  performed 
+with ECHO-G by GKSS group. I am not sure, but maybe he will also present his 
+ideas for further (in framework of SO&P reasonable) simulations, that can be 
+conducted by FUB.
+For the presentations both OHP and data projector are available.
+Best redards
+Irina

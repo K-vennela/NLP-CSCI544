@@ -1,0 +1,85 @@
+Received: from domain.com (146.215.230.103) by
+ domain.com (43.130.141.78) with Microsoft SMTP Server id
+ 8.3.264.0; Sat, 25 Jan 2015 03:01:54 -0800
+Received: from domain.com ([160.33.194.231])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s0PB1rKQ002850	for <user@domain.com>; Sat, 25 Jan 2015 
+ 11:01:54 GMT
+Received: from mail209-co9-domain.com (mail-domain.com
+ [207.46.163.22])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s0PB1q88026000
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Sat, 25 Jan 2015 11:01:53 GMT
+Received: from mail209-co9 (localhost [127.0.0.1])	by
+ mail209-co9-domain.com (Postfix) with ESMTP id 443A94600B5	for
+ <user@domain.com>; Sat, 25 Jan 2015 11:01:52 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:173.231.184.12;KIP:(null);UIP:(null);SRV:BULK;H:domain.com;RD:domain.com;EFVD:NLI
+X-SpamScore: -2
+X-BigFish: vps-2(z3e12hzc89bh148cIe0eah1a09Jc857hzz1f42h208ch1ee6h1de0h1fdah21bdh2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6hzz1de098h1def03h172cfch17326ah1def87h8275bh1bc7b9h8275dh1def86h18c673h19a27bh2ba5I1de097h186068h1ce121iz2fheh5eh5fh839h8aaha45hd24h10d2h1288h12a5h137ah139eh13eah1441h1537h162dh1631h1758h1898h18e1h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e00h1e1dh1e23h1fe8h1ff5h20f0h2218h2216h226dh24afh2327h2336h2438h2461h2487h24d7h1d9ci1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail209-co9: domain of domain.com designates 173.231.184.12 as permitted sender) client-ip=173.231.184.12; user@domain.com; helo=domain.com ;domain.com ;
+Received: from mail209-co9 (localhost.localdomain [127.0.0.1]) by mail209-co9
+ (MessageSwitch) id 1390647689688865_8544; Sat, 25 Jan 2015 11:01:29 +0000
+ (UTC)
+Received: from domain.com (unknown [10.236.132.240])	by
+ mail209-domain.com (Postfix) with ESMTP id 9A1576A004A	for
+ <user@domain.com>; Sat, 25 Jan 2015 11:01:29 +0000 (UTC)
+Received: from domain.com (173.231.184.12) by
+ domain.com (10.236.130.16) with Microsoft SMTP Server id
+ 14.16.227.3; Sat, 25 Jan 2015 11:01:29 +0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=domain.com;
+ h=Subject:From: =?utf-8?Q?COUTURELAB.COM?= <noreply@couturelab.com>
+ bh=am+YwfNl9vjnW6vtXU23iNoul3g=;
+ b=ZvX9elbwnkoULkdm7S1oWkdfQcEi1JB4LIF+zNZHwYGfS6edhhLZQcSjre8mCZV4LM81FGX8hhmo
+   H+ZVlL4wLQSA0RAXLoF+RwAwLYPcOhPix+JGpItFZM1Aq15DT7sal+3M6YqZ+fdsPpguQHU1Zwqh
+   InsCNMS58fvAAUUOtTM=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=domain.com;
+ b=wi6LVGJL2DyWUtnd/0slwEFV4aE5bG5g6bjCros5NS5fHCGuUzDJMluhZwlbBzbHsPy72XZrwEv/
+   LXG1/dqXnQ/mTEvo0zvagmbOxpV46hb6HfRrjv3S91gGjk6FAQyZXh2NzbpgYkqMU643C+DLPFUp
+   zNg2XCy8QTGBmpzVAGo=;
+Received: from (127.0.0.1) by domain.com id hsecoc174k49 for
+ <user@domain.com>; Sat, 25 Jan 2015 11:01:24 +0000 (envelope-from
+ <user@domain.com>)
+Subject: =?utf-8?Q?The=20domain.com=3A=20A=20Statement=20Piece?=
+From: =?utf-8?Q?COUTURELAB.COM?= <noreply@couturelab.com>
+Reply-To: "User" <user@domain.com>
+To: =?utf-8?Q??= <user@domain.com>
+Date: Sat, 25 Jan 2015 11:01:24 +0000
+Message-ID: <51user@domain.com>
+X-Mailer: MailChimp Mailer - **CID552bcf5a2ec791988a28**
+X-Campaign: mailchimp51afb79ee74761f1fcea3c46f.552bcf5a2e
+X-campaignid: mailchimp51afb79ee74761f1fcea3c46f.552bcf5a2e
+X-Report-Abuse: Please report abuse for this campaign here: <<link>>
+X-MC-User: 51afb79ee74761f1fcea3c46f
+X-Feedback-ID: 18023867:18023867.45397:us7:mc
+x-accounttype: pd
+List-Unsubscribe: <mailto:user@domain.com?subject=unsubscribe>, <<<link>>>
+Sender: COUTURELAB.COM <user@domain.com>
+x-mcda: FALSE
+Return-Path: 
+ user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+Channel hypnotic glamour with these dramatic finishing touches.         
+
+If you cannot view this COUTURELAB email properly you can view it here.         
+
+Couture Lab     
+
+A-Z CREATIVES   THE E-SHOP      PRIVATE SERVICES        VISIT US        GIFT     
+
+<<link>>       
+
+
+
+
+<<link>>       
+
+LOTUS ARTS DE VIVRE      
+
+Doris Headband 
+
+Doris Headband
+

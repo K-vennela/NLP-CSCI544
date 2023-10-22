@@ -1,0 +1,82 @@
+Received: from domain.com (146.215.230.104) by
+ domain.com (43.130.141.78) with Microsoft SMTP Server id
+ 8.3.264.0; Fri, 29 Nov 2015 11:03:11 -0800
+Received: from domain.com ([160.33.194.229])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id rATJ3BPD001304	for <user@domain.com>; Fri, 29 Nov 2015 
+ 19:03:11 GMT
+Received: from mail116-db8-domain.com
+ (mail-domain.com [213.199.154.183])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id rATJ3Am0029230	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128
+ verify=FAIL)	for <user@domain.com>; Fri, 29 Nov 2015 19:03:10 GMT
+Received: from mail116-db8 (localhost [127.0.0.1])	by
+ mail116-db8-domain.com (Postfix) with ESMTP id C3C2B1804C1	for
+ <user@domain.com>; Fri, 29 Nov 2015 19:03:09 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:192.64.236.105;KIP:(null);UIP:(null);IPV:NLI;H:mx-domain.com;RD:mx-domain.com;EFVD:NLI
+X-SpamScore: 1
+X-BigFish: vps1(zzc545Ic89bhc857hdbb0izz1f42h2148h208ch1ee6h1de0h1fdah2073h2146h1202h1e76h1d1ah1d2ah1fc6hzz1def03h1d7338h1de098h17326ah1def87h8275bh1bc7b9h8275dh1defc1h1def86h1de097h1de096h186068h172c6ch1ce120hz2fheh5fh839ha12he5bh1288h12a5h137ah139eh13eah1441h14ddh1504h1537h162dh1631h1758h1898h18e1h1946h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1e23h1fe8h1ff5h20f0h2218h2216h226dh2327h2336h214ai1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail116-db8: domain of domain.com designates 192.64.236.105 as permitted sender) client-ip=192.64.236.105; user@domain.com; helo=mx-domain.com ;domain.com ;
+Received: from mail116-db8 (localhost.localdomain [127.0.0.1]) by mail116-db8
+ (MessageSwitch) id 1385751787697613_17992; Fri, 29 Nov 2015 19:03:07 +0000
+ (UTC)
+Received: from domain.com (unknown [10.174.8.239])	by
+ mail116-domain.com (Postfix) with ESMTP id A5C632C005D	for
+ <user@domain.com>; Fri, 29 Nov 2015 19:03:07 +0000 (UTC)
+Received: from mx-domain.com (192.64.236.105) by domain.com
+ (10.174.4.24) with Microsoft SMTP Server id 14.16.227.3; Fri, 29 Nov 2015 
+ 19:03:06 +0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1385751786;
+	s=sailthru; d=variety.com;
+	h=Date:From: Variety Breaking News <donotreply@variety.com>
+	bh=yrJr/VMXQ3Q/8XRsvGiJyzAOhkknMb5q3yrsiPMWhis=;
+	b=vUG0SSouGgCaW6oBRvs4gHRqFEJoMtGerBBgqr0C6ZoI9suWGRDTry2q1W7ny8ia
+	xdPTrUc59Sb/b+TuprkhNQLSRQojrNlpUie92jONnuvRywNqaxf7l4mBWLGXvBv1IDB
+	b0QCAS0hGX5CrFfTxSC/y1mjom+Fppdr6ItmB55w=
+Date: Fri, 29 Nov 2015 14:03:06 -0500
+From: Variety Breaking News <donotreply@variety.com>
+To: <user@domain.com>
+Message-ID: <20131129190306.2075259.20483@domain.com>
+Subject: Box Office: Spike Lee's 'Oldboy' a Thanksgiving Disaster
+Precedence: bulk
+X-TM-ID: 20131129190306.2075259.20483
+X-Info: Message sent by domain.com customer Variety
+X-Info: We do not domain.com unsolicited commercial email
+X-Info: Please report abuse by forwarding complete headers to
+X-Info: user@domain.com
+X-Mailer: domain.com
+X-IADB-IP: 192.64.236.105
+X-IADB-IP-REVERSE: 105.236.64.192
+X-IADB-URL: <<link>>
+X-Unsubscribe-Web: <<link>>
+List-Unsubscribe: <<<link>>>, <mailto:user@domain.com>
+X-rpcampaign: stcoy2075259
+Return-Path: user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+Not even Spike Lee can teach an “Oldboy” new tricks. Lee’s reboot of director Chan-wook Park’s S... 
+
+​ 
+
+Variety         
+
+Breaking News   
+
+Friday, November 29, 2015       
+
+​ 
+
+        Box Office: Spike Lee's 'Oldboy' a Thanksgiving Disaster                
+
+        Not even Spike Lee can teach an “Oldboy” new tricks. Lee’s reboot of director Chan-wook Park’s South Korean revenge thriller of t...            
+        Full Story              
+
+
+
+
+Subscribe to Other Variety Newsletters   <<link>>         
+This e
+

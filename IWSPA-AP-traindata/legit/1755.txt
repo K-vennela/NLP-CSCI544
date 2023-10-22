@@ -1,0 +1,366 @@
+@media only screen and=
+(max-width: 730px) {                 .leaderboard {                     di=
+splay: none !important;                 }                 * {              =
+-webkit-text-size-adjust: none;                 }                 bo=
+dy {                     min-width: 100% !important;                 }     =
+table[id=3Dwrapper], table[class=3Dad_group], table[id=3Dwrappe=
+r] .intro, table[id=3Dwrapper] .divide {                     width: 100% !i=
+mportant;                 }                 #brief {                     fl=
+oat: none !important;                     width: 100% !important;          =
+}                 .ad_group {                     display: block !im=
+portant;                     padding-left: 10px;                 }         =
+div[class=3Dad] {                     margin: auto !important;     =
+padding-top: 0 !important;                     padding-left=
+: 0 !important;                     display: block !important;             =
+width: 100% !important;                 }                 table td[=
+class=3Dnumber] {                   display: none !important;              =
+}             }                  Bloomberg Politics Daily               =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+SIGN UP                              =
+=
+=
+=
+=
+=
+=
+=
+The Brief                           =
+=
+=
+=C2=A0                            =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+Donald Trump say=
+s he=E2=80=99s =E2=80=98presumptive nominee=E2=80=99 as Hillary Clinton win=
+s four                                                                     =
+=
+=
+Both party =
+front-runners scored dominating wins in northeastern presidential primaries=
+on Tuesday.                                                               =
+=
+=
+=
+=
+=
+=
+=
+=C2=A0     =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+Backed by smashing victories=
+, Trump lays claim to nomination                                           =
+=
+=
+=
+The billionaire=E2=80=99s successes Tuesday put the anti-Tru=
+mp movement in serious jeopardy, with one card left to play in Indiana.    =
+=
+=
+=
+=
+=
+=
+=
+=
+=C2=A0                     =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+Clinton=E2=80=99s next campaign is bringing =
+Sanders=E2=80=99 voters into her coalition                                 =
+=
+=
+=
+The former secretary of state seeks to reassemble =
+the Obama constituency by adding young voters and independents who=E2=80=99=
+ve backed her rival.                                                       =
+=
+=
+=
+=
+=
+=
+=
+=C2=
+=A0                                                                        =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=E2=80=9CTonight, this campaign moves back to more favorable=
+terrain.=E2=80=9D                                                         =
+=
+=
+=
+=
+=
+=E2=80=94Ted Cruz in Indiana, which holds its primary May 3              =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=C2=A0                                    =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+Raising cash in Tru=
+mp=E2=80=99s name, whether he likes it or not                              =
+=
+=
+=
+The operatives behind Great America PAC say if =
+Trump won=E2=80=99t ask for money, they will.                              =
+=
+=
+=
+=
+=
+=
+=
+=
+=C2=A0                                               =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+Senate Democratic Party favorites notch wins in two states            =
+=
+=
+=
+Aided by big spending and end=
+orsements, establishment favorites knocked out insurgents in Maryland and P=
+ennsylvania primaries.                                                     =
+=
+=
+=
+=
+=
+=
+=
+=
+=C2=A0                                                                     =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+Trump roars towar=
+ds GOP nomination in primary sweep (VIDEO)                                 =
+=
+=
+=
+Bloomberg=E2=80=99s Margaret Talev reports on the =
+GOP front-runner=E2=80=99s big night and his standing with the Republican P=
+arty ahead of the convention.                                              =
+=
+=
+=
+=
+=
+=
+=
+=
+=C2=A0                                                               =
+=
+=
+=
+=
+=
+=
+=
+=C2=A0                                                     =
+Catch =E2=80=
+=9CWith All Due Respect=E2=80=9D on Bloomberg TV and BloombergPolitics.com =
+weekdays at 5 p.m. ET.                                                     =
+=C2=A0      =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=C2=A0                              =
+=
+=
+=
+=
+=
+=
+=
+Follow us:                                         =
+=
+=
+=
+=
+=
+=C2=A0                                               =
+=
+=
+For press inquiries, please contact Emma Angerer user@domain.com=
+, 202-654-4332                                                             =
+=
+=C2=A0        =
+=
+You received this message because you are =
+subscribed to the Bloomberg Politics Daily newsletter.                     =
+=
+=C2=A0                                                  =
+=C2=A0    =
+=
+Unsubscribe | BloombergPolitics.com | C=
+ontact Us                                                                  =
+Bloomberg L.P. 731 Lexing=
+ton, New York, NY, 10022                                                   =
+=
+<a href=3D"<<link>>
+k/6597836.5340/aHR0cDovL3d3dy5tYWlsLmJsb29tYmVyZ3BvbGl0aWNzLmNvbSI/56206425=
+17893f007f8b4d8aBc2554368><img src=3D"<<link>>
+m/img/5620642517893f007f8b4d8a3xex8.44c/dfe5fb41.gif" alt=3D"" border=3D"0"=
+/></a>                                                                  =
+=20
+If you believe this has been sent to you in error, please click <<<link>>
+k.mail.bloombergpolitics.com/oc/5620642517893f007f8b4d8a3xex8.44c/5379c935>=
+to safely unsubscribe.

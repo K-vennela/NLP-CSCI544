@@ -1,0 +1,36 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Wed, 11 Feb 2015 13:32:07 +0100
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id 0E93060063;	Wed, 11 Feb 2015 
+ 12:11:14 +0000 (GMT)
+Received: by domain.com (Postfix)	id F12CFB6600B; Wed, 11 Feb 2015 
+ 13:32:07 +0100 (CET)
+Delivered-To: user@domain.com
+Received: from [192.168.10.37] (unknown [73.188.64.137])	(using TLSv1 with
+ cipher DHE-RSA-AES256-SHA (256/256 bits))	(No client certificate requested)
+	by domain.com (Postfix) with ESMTPSA id 7933A2BC0EF;	Wed, 11 Feb
+ 2015 13:32:07 +0100 (CET)
+Subject: Re: R: E Rabe GOES
+From: Eric Rabe <e.rabe@hackingteam.com>
+X-Mailer: iPad Mail (12B440)
+In-Reply-To: <022e01d045e7$9f994b90$decbe2b0$@user@domain.com>
+Date: Wed, 11 Feb 2015 07:32:09 -0500
+CC: "<user@domain.com>" <user@domain.com>
+Message-ID: <8user@domain.com>
+References: <91user@domain.com> <006201d04124$43e40730$cbac1590$@user@domain.com> <0user@domain.com> <047201d04164$f8c2dec0$ea489c40$@user@domain.com> <user@domain.com> <022e01d045e7$9f994b90$decbe2b0$@user@domain.com>
+To: Lucia Rana <user@domain.com>
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=ERIC RABEC30
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1252371169_-_-"
+
+Ok, will do.  Thanks for your help, as always,
+
+Eric
+Eric user@domain.com

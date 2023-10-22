@@ -1,0 +1,152 @@
+Received: from dncedge1.dnc.org (192.168.185.10) by DNCHUBCAS1.dnc.org
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Thu, 28 Apr
+ 2015 17:17:39 -0400
+Received: from domain.com (8.19.118.102) by dncwebmail.dnc.org
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Thu, 28 Apr 2015 
+ 17:17:27 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 886424827
+ for user@domain.com; Thu, 28 Apr 2015 16:17:35 -0500
+X-Note-AR-ScanTimeLocal: 4/28/2016 4:17:33 PM
+X-Policy: dnc.org
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: user@domain.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: LOCAL->United States->
+X-Note-Sending-IP: 198.2.138.14
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from domain.com ([198.2.138.14] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 137783346
+ for user@domain.com; Thu, 28 Apr 2015 16:17:33 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=domain.com;
+ h=Subject:From: =?utf-8?Q?Jonae=20Wartel?= <asdc@dnc.org>
+ bh=UMpTdDMA7HFCvnglG48zHXYPkB4=;
+ b=UJbcwbGyJEOW6qBgWX9G64LW9CDACHtFquoC4HHlf3A1lScKSoMqN0sQqgmh99aUxFl4QuzMwVa5
+   Z3eU48z8BCg8+9EJjkxTIyQjyKbO6pzIrMemaQ5P81LL6XSDQ04flisZPk5vzwha6q37OHJRyK13
+   F0tQOGtPl/MTodBKdwE=
+Received: from (127.0.0.1) by domain.com id h49uuq1sb4g4 for
+ <user@domain.com>; Thu, 28 Apr 2015 21:17:30 +0000 (envelope-from
+ <user@domain.com>)
+Subject: =?utf-8?Q?ASDC=20Clips=204=2F28=2F16?=
+From: =?utf-8?Q?Jonae=20Wartel?= <asdc@dnc.org>
+Reply-To: =?utf-8?Q?Jonae=20Wartel?= <user@domain.com>
+To: <user@domain.com>
+Date: Thu, 28 Apr 2015 21:17:30 +0000
+Message-ID: <user@domain.com>
+X-Mailer: MailChimp Mailer - **CID2395cfd69e7633d8eb8e**
+X-Campaign: mailchimpca6d16b8af5e1932f64d24222.2395cfd69e
+X-campaignid: mailchimpca6d16b8af5e1932f64d24222.2395cfd69e
+X-Report-Abuse: Please report abuse for this campaign here: <<link>>
+X-MC-User: ca6d16b8af5e1932f64d24222
+X-Feedback-ID: 17616351:17616351.1335721:us4:mc
+List-ID: ca6d16b8af5e1932f64d24222mc list <ca6d16b8af5e1932f64d24222.191673.list-domain.com>
+X-Accounttype: pd
+List-Unsubscribe: <mailto:user@domain.com?subject=unsubscribe>, <<<link>>>
+Sender: Jonae Wartel <user@domain.com>
+x-mcda: FALSE
+Content-Type: multipart/alternative;
+	boundary="_----------=_MCPart_790122779"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: dncedge1.dnc.org
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+<<link>>
+
+Colorado
+Three Weld Democrats to represent state at party's national convention
+Three Weld County Democrats have been elected to represent the state at th=
+e party=E2=80=99s national convention this July in Philadelphia. The deleg=
+ates are Kathy Ensz=2C Jerad Sutton and Jeri Shepard=2C according to an em=
+ail sent Wednesday by the Weld County Democratic Party. The delegates were=
+ elected at the Colorado Democratic Convention and the congressional distr=
+ict conventions that were held April 15-16 in Loveland. Shepard was electe=
+d to serve a four-year term on the Organization. She will=
+ be one of five Democrats to represent Colorado on the National Committee.=
+ She will be an unpledged delegate=2C which is otherwise known as a =E2=80=
+=9Csuper-delegate=E2=80=9D at the 2015 National Convention. Sutton was ele=
+cted to serve as one of the nine Colorado Democratic Presidential Electors=
+=2E
+<<link>>
+present-state-at-partys
+
+Florida
+Florida electing delegates to the 2015 Democratic National Convention
+The state of Florida is gearing up for choosing its delegates to the 2016=
+ Democratic National Convention (DNC) to be held on July 25=E2=80=9328=2C=
+ 2015 in Philadelphia=2C Penn. Florida=E2=80=99s Delegates=2C to the DNC=
+=2C are allocated to each Presidential Campaign based on votes received fr=
+om the March 15=2C 2015 Presidential Preference Primary. Democratic voters=
+ in each congressional district are urged to participate in the election o=
+f their district=E2=80=99s congressional delegate.  Unfortunately=2C most=
+ people do not even know that these district election caucuses even take p=
+lace. Subsequently=2C some persons may be easily elected due to voter apat=
+hy or low voter turn-out.  In most cases=2C the delegate elected will be t=
+he individual who is able to get most of their voters to come out from the=
+ir congressional districts. Voters tend to know there is a Democratic Nati=
+onal Convention and watch it on television=2C but few are aware of how del=
+egates they see actually got there. The local Democratic Party should do
+their due diligence in communicating the delegate election cycle and there=
+ needs to be better voter education and information provided as to not dis=
+enfranchise anyone.
+<<link>>
+ratic-national-convention/
+
+Louisiana
+Should Louisiana set a minimum wage higher than the $7.25 per hour federal=
+ standard?
+At the moment=2C Louisiana does not have a state-mandated minimum wage=E2=
+=80=94most businesses use the federal minimum wage of $7.25 per hour. But=
+ Gov. John Bel Edwards is pushing a bill that would set Louisiana=E2=80=99=
+s minimum wage at $8 per hour in 2015 and raise it to $8.50 per hour in 20=
+18. The proposal=2C written by Sen. Karen Carter Peterson=2C D-New Orleans=
+=2C was approved by the Senate Committee on Labor and Industrial Relations=
+ on March 31. Proponents say the bill would help address poverty issues=2C=
+ but critics say setting a higher minimum wage could result in a strain on=
+ businesses that would lead to lost jobs and earnings. The comments below=
+ are taken from the Senate Committee on Labor and Industrial Relations hea=
+ring on March 31.
+<<link>>
+7-25-per-hour-federal-standard
+
+South Carolina
+Democrats convene Monday for Stump
+State and local Democrats will continue a century-old tradition of stumpin=
+g for votes Monday on the banks of the Little Pee Dee River in Horry Count=
+y. As always=2C members of the John Monroe and Joseph Holliday families wi=
+ll stage the Galivants Ferry Stump in the parking lot of Pee Dee Farms. Co=
+nsidered political Americana at its best=2C the event=2C held in a traditi=
+onal rural-celebratory atmosphere=2C features voters and candidates gettin=
+g together to talk politics and eat chicken bog. =E2=80=9CWe=E2=80=99re ex=
+cited to be celebrating 140 years this year=2C=E2=80=9D said Stump directo=
+r Sally Howard. =E2=80=9CWe=E2=80=99re proud to continue this as the only=
+ rally and political event of its kind nationwide.=E2=80=9D Republicans ar=
+e invited to attend=2C Howard said=2C but won=E2=80=99t be allowed to spea=
+k. =E2=80=9CWe expect a big crowd=2C=E2=80=9D she said. =E2=80=9CIt=E2=80=
+=99s just a fabulous event.=E2=80=9D The Stump kicks off with traditional=
+ Bluegrass music at 4:30 p.m.=2C followed by speeches from the candidates=
+ at 6 p.m. Chicken bog and beverages will be available for purchase. A
+free shuttle service will be available to transport people from nearby par=
+king areas to the store.
+<<link>>
+29.html
+
+<<link>> <<link>>
+
+Paid for by the Association of State Democratic Chairs (<<link>>
+domain.com/) =2C 430 S. Capitol St. SE=2C Washington=2C D.C. 20003=2C
+and not authorized by any candidate or candidate's committee.
+Unsubscribe (<<link>>
+8af5e1932f64d24222&id=3Dd6759cd91c&e=3D7633d8eb8e&c=3D2395cfd69e)

@@ -1,0 +1,19 @@
+Subject: 
+Content-Type: multipart/related; type="text/html";
+	boundary="Apple-Mail=_FF610FF3-B251-45B4-896E-5F144B4154C8"
+X-Universally-Unique-Identifier: AEEF1310-B47B-41F3-BE13-1582CB838838
+X-Apple-Base-Url: x-msg://69/
+X-Apple-Mail-Remote-Attachments: YES
+From: Jordan Kaplan <kaplanj@dnc.org>
+X-Apple-Auto-Saved: 1
+X-Apple-Windows-Friendly: 1
+Date: Wed, 15 Jul 2015 17:03:44 -0400
+X-Apple-Mail-Signature: 
+X-Smtp-Server: <<link>>
+Message-ID: <user@domain.com>
+X-Uniform-Type-Identifier: com.apple.mail-draft
+To: Bobby Schmuck <user@domain.com>
+MIME-Version: 1.0
+
+In not breaking news, no =
+one will care about, I am going to miss the roundtable on Friday.  

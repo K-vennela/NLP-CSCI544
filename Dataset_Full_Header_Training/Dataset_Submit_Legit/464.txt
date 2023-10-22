@@ -1,0 +1,72 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Tue, 10 Feb 2015 23:07:26 +0100
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id 83205621B3;	Tue, 10 Feb 2015 
+ 21:46:33 +0000 (GMT)
+Received: by domain.com (Postfix)	id 207B42BC0F5; Tue, 10 Feb 2015 
+ 23:07:26 +0100 (CET)
+Delivered-To: user@domain.com
+Received: from manta.hackingteam.com (manta.hackingteam.com [192.168.100.25])
+	by domain.com (Postfix) with ESMTP id 1665B2BC0F1	for
+ <user@domain.com>; Tue, 10 Feb 2015 23:07:26 +0100 (CET)
+X-ASG-Debug-ID: 1423606043-066a751f0448120001-NaEkud
+Received: from domain.com (domain.com
+ [206.46.173.25]) by manta.hackingteam.com with ESMTP id nTMchPR5l78JHqzu for
+ <user@domain.com>; Tue, 10 Feb 2015 23:07:24 +0100 (CET)
+X-Barracuda-Envelope-From: Eric Rabe <e.rabe@hackingteam.com>
+X-Barracuda-Apparent-Source-IP: 206.46.173.25
+Received: from erics-imac.home ([173.49.121.193]) by domain.com
+ (Oracle Communications Messaging Server 7.0.5.32.0 64bit (built Jul 16 2014))
+ with ESMTPA id <0user@domain.com> for
+ user@domain.com; Tue, 10 Feb 2015 16:07:23 -0600 (CST)
+X-CMAE-Score: 0
+X-CMAE-Analysis: v=2.1 cv=AptZB15K c=1 sm=1 tr=0	a=pfUZ6UsXv2cuvO0HLjW6ww==:117
+ a=Poo5ZFgGAAAA:8 a=oR5dmqMzAAAA:8	a=-9mUelKeXuEA:10 a=0HtSIViG9nkA:10
+ a=OitDjlCIAAAA:8	a=Wfjvk0cm0y6eayVTkkAA:9 a=XEeb2GqoMEYDzaYk:21
+ a=7DjK_LYZ127_U82C:21	a=QEXdDO2ut3YA:10 a=0EW0mDOKAfEA:10 a=vawdeKvL_PUA:10
+ a=VuyTn9w08BcA:10	a=5scy1rgY8SEH-cVXZsMA:9 a=F47cc9gyfIzHTHuo:21
+ a=Bj8Ahab9rP2VWVB4:21	a=6CMGTaffYr_IN-xF:21 a=_W_S_7VecoQA:10
+Subject: Re: E Rabe GOES
+From: Eric Rabe <e.rabe@hackingteam.com>
+X-ASG-Orig-Subj: Re: E Rabe GOES
+In-Reply-To: <047201d04164$f8c2dec0$ea489c40$@user@domain.com>
+Date: Tue, 10 Feb 2015 17:07:21 -0500
+CC: <user@domain.com>
+Message-ID: <user@domain.com>
+References: <91user@domain.com>
+ <006201d04124$43e40730$cbac1590$@user@domain.com>
+ <0user@domain.com>
+ <047201d04164$f8c2dec0$ea489c40$@user@domain.com>
+To: Lucia Rana <user@domain.com>
+X-Mailer: Apple Mail (2.2070.6)
+X-Barracuda-Connect: domain.com[206.46.173.25]
+X-Barracuda-Start-Time: 1423606044
+X-Barracuda-URL: <<link>>:8000/cgi-mod/mark.cgi
+X-Virus-Scanned: by bsmtpd at hackingteam.com
+X-Barracuda-BRTS-Status: 1
+X-Barracuda-Spam-Score: 0.01
+X-Barracuda-Spam-Status: No, SCORE=0.01 using global scores of TAG_LEVEL=3.5 QUARANTINE_LEVEL=1000.0 KILL_LEVEL=8.0 tests=BSF_SC0_SA_TO_FROM_DOMAIN_MATCH, HTML_MESSAGE
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.3.15115
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.00 HTML_MESSAGE           BODY: HTML included in message
+	0.01 BSF_SC0_SA_TO_FROM_DOMAIN_MATCH Sender Domain Matches Recipient
+	                           Domain
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=ERIC RABEC30
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1252371169_-_-"
+
+Usera and I will be staying at the Boodles Club, 28 St. James.  I’ve made arrangements for the three nights arriving on the 19 and leaving on the 22.  Will cover the cost and invoice HT for the first night.   Trust that is OK.  Price including VAT is £247.50.  At this point I have two meetings with reporters scheduled on Thursday and Friday and hoping to set up a third.
+
+Boodle’s
+28 St. James’s Street London SW1A 1HJTel: 020 7930 7166 Fax: 020 7839 5669 Email: user@domain.com: user@domain.com,
+Eric
+

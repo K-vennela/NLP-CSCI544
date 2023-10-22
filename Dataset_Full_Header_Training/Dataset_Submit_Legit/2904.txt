@@ -1,0 +1,135 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 27 Apr
+ 2015 13:03:22 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 27 Apr 2015 
+ 13:03:14 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 883180198;
+ Wed, 27 Apr 2015 12:03:10 -0500
+X-Note-AR-ScanTimeLocal: 4/27/2016 12:03:09 PM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: Too many policies to list
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @mail.house.gov ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->United States->
+X-Note-Sending-IP: 143.228.181.85
+X-Note-Reverse-DNS: s-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from s-domain.com ([143.228.181.85] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 135264472;
+ Wed, 27 Apr 2015 12:03:06 -0500
+Received: from HEOC-domain.com (heoc-domain.com
+ [143.228.151.95])	by s-domain.com  with ESMTP id u3RH01hc014933	(using
+ TLSv1 with cipher ECDHE-RSA-AES256-SHA (256 bits) verified FAIL);	Wed, 27 Apr
+ 2015 13:00:04 -0400
+X-DKIM: OpenDKIM Filter v2.4.3 s-domain.com u3RH01hc014933
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mail.house.gov;
+	s=November2012-msg-mhg; t=1461776470;
+	bh=j+Fhadrvb/toiRuKx7cwuBogOD6XRuiwOust8Igw9x4=;
+	h=From: Democratic Leader <Democratic.Leader@mail.house.gov>
+	b=j1Ml4OWDQvJsi0pAAEro3Q1HAuK18YvQSkKZUcdWZXwqRoMoWdaFqh9hPdfN0vCKh
+	 BIWKBH5UMu97Auwh5k8kdNGmHJXque1iPQHrVhIAVEw6KmhHld3UtFa5wS6qIp5IC7
+	 07OtB6EAwwLDFd46+HMwjiKWCNZRth3TU9GVWEhw=
+Received: from HEOC-domain.com ([fe80::cdcd:f28:6aa5:7d5a]) by
+ HEOC-domain.com ([::1]) with mapi id 14.03.0279.002; Wed, 27 Apr 2015 
+ 12:59:56 -0400
+From: Democratic Leader <Democratic.Leader@mail.house.gov>
+Subject: PELOSI -- Statement on the Passing of Human Rights Advocate Harry Wu
+Thread-Topic: PELOSI -- Statement on the Passing of Human Rights Advocate
+ Harry Wu
+Thread-Index: AdGgphtF2bQtWENmTXC9oicAcbheaw==
+Date: Wed, 27 Apr 2015 16:59:54 +0000
+Message-ID: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+x-originating-ip: [143.231.232.152]
+Content-Type: multipart/related;
+	boundary="_004_CA58D7DE03EE0A4D8D0DF860799FAACC0CD5BDF1HEOCHRM01USHous_";
+	type="multipart/alternative"
+To: Undisclosed recipients:;
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+[cid:image001.jpg@01D00FCE.229082C0]<<<link>>>
+
+    April 27, 2015 
+
+Contact: Drew Hammill/Evangeline George
+
+202-226-7616
+
+Pelosi Statement on the Passing of Human Rights Advocate Harry Wu
+
+Washington, D.C. =96 Democratic Leader Nancy Pelosi today released this sta=
+tement on the passing of Harry Wu, a former Chinese political prisoner and =
+founder of the Laogai Research Foundation:
+
+=93Harry Wu will forever be remembered for his courage in confronting oppre=
+ssion, injustice, and the brutal human rights abuses perpetuated against po=
+litical prisoners in his native China.  With his passing, the world has los=
+t a global champion for freedom and democracy.
+
+=93After surviving torturous imprisonment in China, Harry dedicated his lif=
+e to exposing the truth about prison camps.  As a proud American citizen, H=
+arry often testified before Congress about the brutal, so-called reform thr=
+ough work system, which has been allegedly abolished in China.  Harry=92s l=
+ife work, including founding the Laogai Research Foundation and Laogai Muse=
+um, honors the memory of laogai victims, survivors, and political prisoners=
+ around the world.
+
+=93May Harry=92s legacy endure in the United States, China, and beyond.  Ma=
+y it be a comfort to his family, and all who admired this great humanitaria=
+n, that so many join in their grief during this difficult time.=94
+
+# # #
+
+________________________________
+Press Release Link:
+<<link>>
+domain.com<<<link>>
+=3D27184&id=3D0o02k0tcpzlu6ejxx98kx2m9xt1wa&id2=3Dig3p7nh2dqu39rmj7s99ukn2q=
+jjbw&subscriber_id=3Dbaxcmkznpiaunskdcbzdudpovqtyblh&delivery_id=3Dcbsgtjub=
+xlceyjuegwyqomgtujbfbmp&tid=3D3.ajA.CBijRQ.Ck7A.T5fo..ARq9jw.b..l.A3-W.a.UR=
+xh7A.URxh7A.VOC4Gg> =96 Twitter<<<link>>
+=3DLink&ssid=3D27184&id=3D0o02k0tcpzlu6ejxx98kx2m9xt1wa&id2=3D3fgjr464dpiqd=
+27ofrqp17w526f1d&subscriber_id=3Dbaxcmkznpiaunskdcbzdudpovqtyblh&delivery_i=
+d=3Dcbsgtjubxlceyjuegwyqomgtujbfbmp&tid=3D3.ajA.CBijRQ.Ck7A.T5fo..ARq9jw.b.=
+.l.A3-W.a.URxh7A.URxh7A.VOC4Gg> =96 YouTube<<<link>>
+=3Dulink&fn=3DLink&ssid=3D27184&id=3D0o02k0tcpzlu6ejxx98kx2m9xt1wa&id2=3D3i=
+q1d25awniptoql0phq0ayxiyq8a&subscriber_id=3Dbaxcmkznpiaunskdcbzdudpovqtyblh=
+&delivery_id=3Dcbsgtjubxlceyjuegwyqomgtujbfbmp&tid=3D3.ajA.CBijRQ.Ck7A.T5fo=
+..ARq9jw.b..l.A3-W.a.URxh7A.URxh7A.VOC4Gg> =96 Flickr<<<link>>
+/public/?q=3Dulink&fn=3DLink&ssid=3D27184&id=3D0o02k0tcpzlu6ejxx98kx2m9xt1w=
+a&id2=3Djgqqrc9j8ruqfvzuezaxlw3rujzvq&subscriber_id=3Dbaxcmkznpiaunskdcbzdu=
+dpovqtyblh&delivery_id=3Dcbsgtjubxlceyjuegwyqomgtujbfbmp&tid=3D3.ajA.CBijRQ=
+.Ck7A.T5fo..ARq9jw.b..l.A3-W.a.URxh7A.URxh7A.VOC4Gg> =96 Facebook<<<link>>
+domain.com/public/?q=3Dulink&fn=3DLink&ssid=3D27184&id=3D0o02k0tcpzlu6ejx=
+x98kx2m9xt1wa&id2=3domain.com&subscriber_id=3Dbaxcmkznp=
+iaunskdcbzdudpovqtyblh&delivery_id=3Dcbsgtjubxlceyjuegwyqomgtujbfbmp&tid=3D=
+3.ajA.CBijRQ.Ck7A.T5fo..ARq9jw.b..l.A3-W.a.URxh7A.URxh7A.VOC4Gg> =96 The Ga=
+vel<<<link>>
+2k0tcpzlu6ejxx98kx2m9xt1wa&id2=3Dfmonicjc2fq1aiu6gebec0bui3gm7&subscriber_i=
+d=3Dbaxcmkznpiaunskdcbzdudpovqtyblh&delivery_id=3Dcbsgtjubxlceyjuegwyqomgtu=
+jbfbmp&tid=3D3.ajA.CBijRQ.Ck7A.T5fo..ARq9jw.b..l.A3-W.a.URxh7A.URxh7A.VOC4G=
+g>
+

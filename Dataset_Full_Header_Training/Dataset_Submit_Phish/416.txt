@@ -1,0 +1,55 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id 04CE546878
+	for <user@domain.com>; Sun,  8 Mar 2015 03:23:12 -0400 (EDT)
+X-Greylist: delayed 81 seconds by postgrey-1.27 at domain.com; Sun, 08 Mar 2015 03:23:11 EDT
+Received: from domain.com (domain.com [64.61.90.218])
+	by domain.com (Postfix) with ESMTP id E04B9131F772
+	for <user@domain.com>; Sun,  8 Mar 2015 03:23:11 -0400 (EDT)
+Received: from User ([99.132.107.22]) by domain.com with Microsoft SMTPSVC(6.0.3790.3959);
+	 Sun, 8 Mar 2015 03:22:50 -0400
+From: "eBay member
+Subject: eBay New Unpaid Item Message from frederic233: #220156659642
+Date: Sat, 7 Mar 2015 23:21:50 -0800
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <user@domain.com>
+X-OriginalArrivalTime: 08 Mar 2015 07:22:50.0484 (UTC) FILETIME=[B028DB40:01C99FBE]
+To: undisclosed-recipients:;
+Content-Length: 2015 
+Lines: 33
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1004
+
+eBay 
+sent this message
+Your registered name is included to help confirm this 
+message originated from eBay. 
+      Learn 
+more.
+
+eBay New Unpaid Item Message from frederic233: 
+#220156659642 - Response required!
+
+Dear member, 
+
+eBay member frederic233 has left you a message regarding item 
+#220156659642
+
+View 
+the dispute thread to 
+respond. 
+
+Regards, 
+
+eBay

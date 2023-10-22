@@ -1,0 +1,85 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (unknown [75.102.5.20])
+	by domain.com (Postfix) with ESMTP id A4B5D46878
+	for <user@domain.com>; Mon, 25 May 2015 09:55:40 -0400 (EDT)
+Received: from localhost (localhost [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id C451E232026;
+	Mon, 25 May 2015 13:57:42 +0000 (UTC)
+X-Virus-Scanned: amavisd-new at domain.com
+X-Spam-Flag: NO
+X-Spam-Score: 4.278
+X-Spam-Level: ****
+X-Spam-Status: No, score=4.278 tagged_above=-10 required=6.6
+	tests=[AWL=-0.396, BAYES_50=0.001, FORGED_MUA_OUTLOOK=3.116,
+	FORGED_OUTLOOK_HTML=0.001, FORGED_OUTLOOK_TAGS=0.001,
+	HTML_MESSAGE=0.001, HTML_MIME_NO_HTML_TAG=0.097, MIME_HTML_ONLY=1.457]
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 2qWmiq9h+OUE; Mon, 25 May 2015 13:57:37 +0000 (UTC)
+Received: from domain.com (domain.com [67.94.31.194])
+	by domain.com (Postfix) with ESMTP id 8B203232024
+	for <user@domain.com>; Mon, 25 May 2015 13:57:37 +0000 (UTC)
+Received: from User ([64.115.160.98]) by domain.com with Microsoft SMTPSVC(6.0.3790.211);
+	 Mon, 25 May 2015 05:33:58 -0700
+Reply-To: <user@domain.com>
+From: "Internal Revenue Service"<service@irs.gov>
+Subject: Internal Revenue Service Notification - Please read
+Date: Mon, 25 May 2015 08:18:22 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <user@domain.com>
+X-OriginalArrivalTime: 25 May 2015 12:33:58.0921 (UTC) FILETIME=[13A2C790:01C9DD35]
+To: undisclosed-recipients:;
+Content-Length: 2015 
+Lines: 20
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1067
+
+ After the last annual calculations of your fiscal activity
+ we have determined 
+                that you are eligible to receive
+ a tax refund under section 501(c) (3) of the
+ Internal Revenue Code. Tax refund value is $189.60.
+
+ Please domain.com the tax refund request and allow us 6-9 days
+ in order to IWP the data received.
+If u don't receive your refund within 9 business
+ days from the original IRS mailing date shown,
+ you can start a refund trace online.
+
+
+
+If you distribute funds to other organization, your records must show wether
+ they are exempt under section 497 (c) (15). In cases where the recipient org.
+ is not exempt under section 497 (c) (15), you must have evidence the funds will
+ be used for section 497 (c) (15) purposes.
+
+If you distribute fund to individuals, you should keep case histories showing
+ the recipient's name and address; the purpose of the award; the maner of
+ section; and the realtionship of the recipient to any of your officers, directors,
+ trustees, members, or major contributors. 
+
+
+
+To access the form for your tax refund, please   
+
+click here
+This notification has been sent by the Internal Revenue Service,
+ a bureau of the Department of the Treasury.
+
+				Sincerely Yours,
+
+John Stewart
+Director, Exempt. Organization
+Rulings and Agreements Letter
+Internal Revenue Service

@@ -1,0 +1,67 @@
+Return-Path: <0002740664@87.68.248.230.domain.com.il>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id 7848D46895;
+	Thu, 14 May 2015 11:31:55 -0400 (EDT)
+X-Greylist: delayed 103 seconds by postgrey-1.27 at domain.com; Thu, 14 May 2015 11:31:54 EDT
+Received: from 87.68.248.230.domain.com.il (87.68.248.230.domain.com.il [87.68.248.230])
+	by domain.com (Postfix) with ESMTP id 2103A131F7C7;
+	Thu, 14 May 2015 11:31:54 -0400 (EDT)
+Received: from [87.68.248.230] by domain.com; Thu, 14 May 2015 17:31:53 +0200
+Date: Thu, 14 May 2015 17:31:53 +0200
+From: "wells Fargo Bank" <Notice@wellsfargo.com>
+X-Mailer: The Bat! (v2.00.6) Educational
+Reply-To: 0002740664@domain.com
+X-Priority: 3 (Normal)
+Message-ID: <931971582.12183650340568@domain.com>
+To: user@domain.com
+Subject: Important Notice
+MIME-Version: 1.0
+Content-Type: text/html;
+  charset=Windows-1252
+Content-Transfer-Encoding: 7bit
+Content-Length: 2015 
+Lines: 73
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1062
+
+Dear Wells Fargo
+
+<!--
+style1 {color: #333333}
+style2 {font-size: 12px}
+-->
+
+
+
+
+Dear Wells Fargo  valued member, 
+Due to concerns we have for the safety and integrity of 
+    the Wells Fargo
+
+    community we have issued this message. 
+It has come to our attention that your Wells Fargo account 
+    information needs to be updated.
+
+    If you could please take 5-10 minutes out of your online experience and 
+    update your
+
+    records you will not run into any future problems with the online service.
+
+    However, failure to update your records will result in account suspension.
+
+Once you have updated your account records your Wells 
+    Fargo will not be
+
+    interrupted and will continue as normal. 
+
+    Please follow the link below and update your account information.
+
+<<link>>
+
+Wells Fargo Service 
+        Department, 2009
+

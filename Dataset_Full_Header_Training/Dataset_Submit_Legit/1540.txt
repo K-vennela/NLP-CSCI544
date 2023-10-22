@@ -1,0 +1,182 @@
+Received: from domain.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Thu, 5 Jun 2015 10:58:23 +0200
+Received: from mail.hackingteam.it (unknown [192.168.100.50])	by
+ domain.com (Postfix) with ESMTP id EFA0660390	for
+ <user@domain.com>; Thu,  5 Jun 2015 09:46:31 +0100 (BST)
+Received: by mail.hackingteam.it (Postfix)	id 1899DB6603E; Thu,  5 Jun 2015 
+ 10:58:24 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com
+ [192.168.100.51])	(using TLSv1 with cipher AES128-SHA (128/128 bits))	(No
+ client certificate requested)	by mail.hackingteam.it (Postfix) with ESMTPS id
+ 100A7B6600D;	Thu,  5 Jun 2015 10:58:24 +0200 (CEST)
+Received: from domain.com ([fe80::755c:1705:6a98:dcff]) by
+ domain.com ([fe80::755c:1705:6a98:dcff%11]) with mapi id
+ 14.03.0123.003; Thu, 5 Jun 2015 10:58:23 +0200
+From: Emad Shehata <e.shehata@hackingteam.it>
+To: "User" <user@domain.com>,
+	"'user@domain.com'" <user@domain.com>
+CC: "'user@domain.com'" <user@domain.com>
+Subject: R: RE: Re: Hotel Reservation Milan
+Thread-Topic: RE: Re: Hotel Reservation Milan
+Thread-Index: Ac9/4KGFD/ZW6UljQxeS12zZTv2ywQAf5jAAAAfwKikABupCwAAAKnto
+Date: Thu, 5 Jun 2015 08:58:22 +0000
+Message-ID: <user@domain.com>
+In-Reply-To: <00df01cf809c$17d285c0$47779140$@user@domain.com>
+Accept-Language: it-IT, en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-originating-ip: [fe80::755c:1705:6a98:dcff]
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-861515099_-_-"
+
+Ciao Simonetta,
+
+preso nota di tutto e grazie 
+
+-- 
+
+Emad Shehata 
+
+Key Account Manager 
+
+Sent from my mobile.
+
+
+
+
+Da: Simonetta Gallucci [mailto:user@domain.com]
+
+Inviato: Thursday, June 05, 2015 10:56 AM
+
+A: 'Emad Shehata' <user@domain.com> 
+
+Cc: 'Marco Bettini' <user@domain.com> 
+
+Oggetto: RE: Re: Hotel Reservation Milan 
+
+
+
+
+Ciao Emad,
+
+
+
+
+prenotazione Carlyle cancellata (sono in attesa di mail di conferma, perché siamo al limite delle 72 pre previste dalla cancellation policy).
+
+In merito alla richiesta di Sonia, come hai visto ho scritto all’hotel in quanto la persona che mi ha risposto al telefono non era in grado di gestire la prenotazione,
+ mi ha detto di provare a richiamare nel pomeriggio quando ci sarà il proprietario.
+
+
+
+
+Ti aggiorno più tardi.
+Grazie,
+
+
+
+
+Simonetta Gallucci 
+
+Administrative Support 
+
+Hacking Team
+
+Milan Singapore Washington DC
+
+domain.com
+
+email: user@domain.com 
+
+mobile: +39 3939310619
+
+phone: +39 0229060603
+
+
+
+
+From: Emad Shehata <e.shehata@hackingteam.it>
+
+Sent: giovedì 5 giugno 2015 07:36
+
+To: Simonetta Gallucci
+
+Cc: Marco Bettini
+
+Subject: I: Re: Hotel Reservation Milan
+
+
+
+
+Buongiorno Simonetta
+
+Potresti per favore cancellare prenotazione per i i clienti Kazaki? Inoltre potresti chiamare l'hotel e verrificare quanto richiesto da Sonia?
+
+Grazie 
+
+-- 
+
+Emad Shehata 
+
+Key Account Manager 
+
+Sent from my mobile.
+
+
+
+
+Da: Astana Team [mailto:user@domain.com]
+
+Inviato: Thursday, June 05, 2015 05:48 AM
+
+A: Emad Shehata <user@domain.com>
+
+Oggetto: Re: Hotel Reservation Milan 
+
+
+
+
+Good afternoon Emad!
+
+flight number PS0311, arrives on June 8 at 12:30. 
+We booked the hotel Sabatino, purchase order number on the Booking 451.936.093 Kartashov Vladimir.
+
+Dear Emad could you call the hotel and say that they do not block the bank card. We pay cash on arrival.
+
+Hotel Sabatino Milan  тел +39022367467
+
+Thanks!
+
+
+
+
+2014-06-04 16:34 GMT+06:00 Emad Shehata <user@domain.com>:
+Dears,
+
+Trust this e-mail find you well.
+
+Can you please confirm us your flight details and let us know if you confirm the hotel reservation?
+
+Looking for your response.
+
+Best regards
+
+--
+
+Emad Shehata
+
+Key Account Manager
+
+Sent from my mobile.
+
+
+

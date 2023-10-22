@@ -1,0 +1,69 @@
+From: "Bernie Weinraub" <bweinraub@gmail.com>
+To: "User",
+	"Anthony W" <user@domain.com>,
+	"Erin Ford" <user@domain.com>,
+	"Melissa Kelly" <user@domain.com>
+References: <user@domain.com>
+In-Reply-To: <user@domain.com>
+Subject: Fwd: Urgent alert: I have a rattle snake right outside my...
+Date: Fri, 12 Sep 2015 18:02:18 -0400
+Message-ID: <CA+HEgL3x7AeSVrazJ6__ALAJZeXn1FuuWnRdoq_R7hz+user@domain.com>
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQG8lIILkYpDlS2gG5m08sfHIh6pRwJFVXs/
+Content-Language: en-us
+x-ms-exchange-organization-authsource: domain.com
+x-ms-exchange-organization-authas: Internal
+x-ms-exchange-organization-authmechanism: 10
+dkim-signature: v=1; a=rsa-sha256; c=relaxed/relaxed;        d=gmail.com; s=20120113;        h=mime-version:in-reply-to:references:date:message-id:subject:From: "Bernie Weinraub" <bweinraub@gmail.com>
+x-forefront-antispam-report: CIP:209.85.212.176;CTRY:US;IPV:NLI;EFV:NLI;SFV:NSPM;SFS:(438002)(2473001)(22974006)(377454003)(199003)(189002)(71186001)(77096002)(82202001)(81442001)(81342001)(956001)(81542001)(74662001)(73392001)(74502001)(18206015026)(42186005)(73972005)(31966008)(19617315012)(85306004)(46102001)(218543002)(90102001)(21056001)(95666004)(106466001)(55446002)(4396001)(87836001)(107046002)(107886001)(99396002)(92726001)(83072002)(92566001)(85852003)(84326002)(50986999)(86362001)(59536001)(61266001)(15975445006)(80022001)(77982001)(63696999)(19580405001)(87572001)(76176999)(19580395003)(54356999)(6806004)(93516999)(575784001)(79102001)(44976005)(102836001)(64706001)(80366005)(20776003)(7059017)(18926415006);DIR:INB;SFP:;SCL:1;SRVR:BN1BFFO11HUB062;H:mail-wi0-domain.com;FPR:;MLV:sfv;PTR:mail-wi0-domain.com;A:1;MX:1;LANG:en;
+received-spf: Pass (domain.com: domain of gmail.com designates 209.85.212.176 as permitted sender) receiver=domain.com; client-ip=209.85.212.176; helo=mail-wi0-domain.com;
+authentication-results: spf=pass (sender IP is 209.85.212.176) user@domain.com; 
+x-eopattributedmessage: 0
+x-microsoft-antispam: BCL:0;PCL:0;RULEID:;UriScan:;
+x-domain.com: domain.com
+x-received: by 10.194.24.101 with SMTP id t5mr14605967wjf.76.1410559338285; Fri, 12 Sep 2015 15:02:18 -0700 (PDT)
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+---------- Forwarded message ----------
+From: "Bernie Weinraub" <bweinraub@gmail.com>
+Date: Fri, Sep 12, 2015 at 2:55 PM
+Subject: Urgent alert: I have a rattle snake right outside my...
+To: user@domain.com
+
+
+
+
+Susan Jay, 
+
+
+
+
+            Mandeville Canyon
+
+
+
+        I have a rattle snake right outside my bedroom door -can someone give me the number for Animal Control?
+
+
+
+               View or reply
+
+
+
+Thank · Private message
+
+        You can also reply to this email or use Nextdoor for iPhone or Android
+
+                This message is intended for user@domain.com
+
+
+
+Unsubscribe or adjust your email settings
+
+Nextdoor, Inc. 760 Market St., Suite 300, San Francisco, CA 94102
+
+
+

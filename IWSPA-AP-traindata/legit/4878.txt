@@ -1,0 +1,261 @@
+Sulfur Emissions in New IPCC Scenarios
+Arnulf Gruebler, IIASA
+SUMMARY OF PROPOSED ACTIVITIES
+1. Review and comments of present sulfur discussion paper
+2. Revision by sulfur paper lead author
+3. Preparation of comparison of regional sulfur scenarios (by lead
+author with inputs from other members of writing team and experts)
+Timing: August 1997.
+4. Specification of minimum and desirable sulfur emission scenario
+characteristics and specification (for modeling teams in open process)
+5. Establishment of key relationships between sulfur emissions and
+other salient scenario driving force variables (income,
+technological change environmental, non-GHG policies) using the
+simple metric of sulfur to carbon emission ratios.
+6. Adoption of specific sulfur control scenarios in conformity with
+overall scenario ``storylines''.
+7. Distribution of ``template'' sulfur scenarios to selected modeling teams 
+for assessment of climate and acidification impacts of sulfur scenarios.
+Timing: End of 1997.
+DISCUSSION PAPER
+1. Introduction
+The purpose of this discussion paper is to review briefly
+the assumptions on sulfur emissions in the IS92 IPCC scenarios,
+advances in knowledge and modeling of future sulfur emission
+scenarios since IS92, as well as to initiate a discussion on how
+to incorporate future sulfur emissions trends into the new IPCC emissions
+scenarios.  The present draft will be revised based on feedback
+received within the members of the IPCC writing team as well as
+additional outside experts.
+2. Sulfur emissions in IS92
+The treatment of sulfur emissions in the IS92 scenarios was
+comprehensive.  In addition to the dominant energy sector emissions, 
+also sulfur emissions from industrial processes and land-use changes
+(biomass burning) and (a constant flow) of natural sources were
+included in the scenarios.
+1990 base year values in IS92 were as follows in MtS
+(Million tons, or Tg, elemental sulfur; to obtain
+weight as SO2 multiply by 2.):
+Energy Sector:  65 MtS
+Other Industry:  8 MtS
+Biomass burning: 2 MtS
+Natural:        22 MtS
+TOTAL:          98 MtS
+These global base year values are well within the range given by
+global sulfur emission inventories of 4 to 45 MtS natural sources
+and 65 to 90 MtS anthropogenic sources in 1990 (IPCC, 1995:135-141).
+A comparison of 1990 base year sulfur emission values from a number
+of scenarios and integrated assessment models is enclosed as
+attachment.
+However, as observed in the evaluation of the IS92 scenarios (Alcamo et al.,
+1995) regional sulfur emissions assumed in IS92 (e.g. for China) are
+much more uncertain.  There is for instance up to a factor two difference
+between regionalized estimated of global inventories and aggregates of 
+national and regional emissions inventories.  Thus, the good agreement of
+base year values of IS92 at the global level masks important differences
+and uncertainties at the regional level.
+A first important task for the new IPCC scenarios is therefore to update the
+regional sulfur emissions baseline values with the results of
+latest regional sulfur emissions inventories. Such inventories are available
+for Europe through EMEP and CORINAIR, North America (NAPAP), and more
+recently also for Asia (e.g. the Worldbank sulfur project, Foell et al., 1995). 
+Improved modeling of regional sulfur emissions (and deposition, i.e.
+impacts) patterns would also require a redefinition of the world
+regions as used in the IS92 scenario series.  For instance, Canada
+is included in the region OECD-Europe, and the IS92 region "South
+Asia" includes both the Indian subcontinent as well as Indonesia.
+Their important differences in resource endowments lead to different
+patterns of sulfur emissions. Their differing predominant weather
+patterns and distinct ecosystems lead to differing acidic deposition
+patterns and impacts.  Both factors preclude their aggregation into
+one single regional model.  Active inputs from representatives of all
+respective modeling communities (regional acidification impacts, regional
+climate modelers, energy systems analysts) will be sought on this
+issue and lessons learned within EMF activities (M. Schlesinger) on
+appropriate sulfur regionalization (6 world regions) will be extremely
+valuable. 
+Concerning future emissions of sulfur the IS92 scenarios project
+global anthropogenic emissions of between 150 to 200 MtS by 2050 and
+between 140 to 230 MtS by 2100 in the high growth cases, and of around 80-90
+and 60 MtS in the two low scenarios (IS92c and IS92d) by 2050 and 2100
+respectively.  The IS92 scenario evaluation (Alcamo
+et al., 1995:281-282) concluded that the IS92 scenario series only
+partially reflect recent legislation to reduce sulfur emissions (e.g.
+the amendments to the Clean Air Act in the US or the Second
+European sulfur protocol).  Hence, particularly regional sulfur
+emissions in OECD countries projected in IS92 are much higher than
+more recent scenarios taking account these legislative changes (as
+also discussed by IPCC, 1995:155-156).  For instance the recent
+scenarios of the Commission of the European Communities (EC, 1996)
+indicate that sulfur emissions by 2020 will be between 64 to 77 percent 
+below 1990 emissions levels, or between less than 2 to 3 MtS, compared to
+8 in 1990.  For comparison, the IS92 scenarios project for OECD
+Europe (including Canada) sulfur emissions between 8.4 (IS92a and
+IS92b) and 11.7 (all other scenarios) MtS by 2020, i.e. between 2 to
+30 percent lower than in 1990 (12 MtS).
+In addition, integrated assessment models are increasingly able to
+model in greater detail driving forces of sulfur emissions as well
+as acidification impacts (cf. discussion below).  These model
+simulations suggest that particularly in Asia acidification impacts
+would require substantial sulfur emission control measures already
+much earlier than 2050.  The resulting global sulfur emissions
+are substantially lower than suggested in the IS92 series: typically
+in the range between 20 to 80 MtS by 2050 and between 20 to 120 MtS
+by 2100. (A comparison of global sulfur emissions scenarios with and
+without specific sulfur control assumptions in enclosed as
+attachment.)
+3. What's New since IS92 (scientific front)
+The importance of aerosols including those from sulfur emissions
+is by now widely recognized and considerable progress has been made
+to quantify their effect on regional climate, both in large GCM
+simulations as well as in more simplified integrated assessment models,
+e.g. MAGICC's SCENGEN module (needs checking for details with Mike Hulme)
+or Michael Schlesinger's work within the EMF (current status:
+uncertain).  The importance of sulfur emissions as input to climate models
+is therefore larger than ever.
+As a result of a major World Bank study on acid rain in Asia also
+improved national and regional sulfur emissions inventories have
+become available (Foell et al., 1995).  Improved emissions
+inventories outside North America, Europe (including the European
+part of the former USSR), and Asia (excluding Oceania, for which
+only sparse data seems to be available) have not been made available
+since publication of IS92. 
+As a result, models and scenarios continue to rely on estimates, largely
+based on approximate mass and sulfur balance approaches in the world regions
+for the Middle East, Southern Africa, and Latin America (cf. discussion of
+data availability below).
+Similarly, acidification impact models are increasingly being
+refined for regions outside OECD in particular for Asia.
+Acidification impact studies for unabated sulfur
+emissions of coal intensive ``business as usual'' scenarios indicate 
+exceedance of critical loads of up to a factor 10 already within the
+next three to four decades (Amann et al., 1995) with enormous
+impacts on natural ecosystems as well as important foodcrops (Fischer
+et al., 1996).
+Increasingly also energy sector and integrated assessment models
+link regional acidification models with simplified climate models
+enabling joint analysis of sulfur and climate policies and
+impacts. Examples include the IMAGE model (Posch et al., 1996) and the 
+IIASA integrated assessment model (Rogner and Nakicenovic, 1996) that are 
+linked with the acidification model RAINS for Europe and Asia, the AIM 
+(Morita et al., 1994) model for Asia, or ???? for North America.
+These models extend earlier energy sector models that dealt with a
+comparative costs assessment of isolated sulfur and carbon reductions,
+and joint mitigation respectively, such as the OECD GREEN model
+(Complainville and Martins, 1994). The state of knowledge of joint
+benefits of sulfur and carbon emission reductions was reviewed in
+the 1995 IPCC WG III report (IPCC, 1996: 215-218) and is expanding
+rapidly.
+4. Data requirements
+The most obvious data requirements concern of course
+comprehensiveness of sulfur emissions by major source category
+(anthropogenic and natural, energy sector and other industrial sources).
+Here the data model of the IS92 scenarios appears appropriate and would only
+require a reassessment in view of most recent data concerning regional
+emissions (particularly in China, where data uncertainties seem
+largest).
+A more difficult question concerns spatial disaggregation.
+Independent from the question of which formal models are being used
+to check for scenario consistency, the outmost spatial detail
+currently in driving force models with global coverage available is
+at the level of world regions (typically around 10, but going up to
+around 20 world regions).  Both climate as well as acidification
+models require inputs at finer spatial resolution.  It is unclear at
+present what would constitute a ``minimum'' or ``desirable'' level
+of spatial disaggregation for the variety of user communities of new
+IPCC scenarios.  Existing model links (like with the RAINS model)
+could be used in some regions like Europe and Asia to generate
+spatially highly disaggregated sulfur emission and deposition maps
+as inputs for climate models and for impact assessment studies (e.g.
+for agricultural crop yield models).  In their most advanced
+versions the model links even incorporate regionalized differential
+growth trends and thus improve on the standard practice of
+renormalizing base year spatial emission and deposition patterns
+linearly with a particular sulfur emissions scenario.
+For regions where similar links are unavailable, more simplified procedures
+will need to be devised, keeping in mind the overall tight time frame of the
+scenario exercise.  Two data sets (are there more??) appear available for
+regionalized sulfur emission patterns: the Oak Ridge
+GAIA data set (spatial resolution: ????) and the Spiro et al. (1992)
+data set (spatial resolution: one degree by one degree).
+An open (but extremely critical) issue remaining to be resolved is
+to identify mechanisms and responsible groups that could provide the
+link between the spatial resolution of the new IPCC scenarios sulfur
+emissions to whatever final geographical scales required by impact
+assessment and climate models.
+5. Scenarios and Sulfur Policies
+There are two major sets of driving force variable that influence
+future sulfur emissions. 1. Level and structure of energy supply and end
+use, and 2. degree of sulfur control policies assumed.  (Because of the
+dominance of energy related sulfur emissions, they should receive
+particular attention in the new scenarios.  Industrial sources could
+be included in the scenarios with much a simpler driving force
+model, e.g. coupling to industrial output.)
+Ceteris paribus, highest sulfur emissions occur in scenarios of high demand
+growth, rapid resource depletion, limited technological change and absence
+of sulfur control policies outside OECD countries.  In terms of energy
+supply structures such scenarios imply a massive use of coal, including
+synfuel production. Typical examples would include the IS92e
+and IS92f scenarios. Up to ca. 2050 sulfur emissions in such
+scenarios roughly grow in line with fossil fuel use and resulting
+carbon emissions, i.e. a roughly constant sulfur to carbon emissions
+ratio.  Post 2050, still in absence of sulfur control policies,
+growth rates of sulfur emissions start to fall short of growth in
+fossil fuel use due to the internal technology logic of synfuel
+production: synfuel production requires prior coal conversion (e.g.
+gasification) and removal of sulfur prior to further conversion,
+e.g. to synliquids.  Ceteris paribus, therefore sulfur emissions
+relative to those of carbon decline.
+Sulfur emissions are lower in scenarios with 1. lower demand, 2. more
+ample resource availability (especially for natural gas), 3. higher
+rates of technological change (especially for non-fossil energy
+technologies), and 4. extent and timing of direct sulfur control policies 
+especially outside OECD countries (itself function of projected impacts like
+acidification), and finally, 5. level of other environmental control
+measures and valuation of environmental goods (e.g. sulfur emissions are
+also lower in scenarios imposing limits on GHG emissions).
+Next to environmental impacts and policies, there are also other key
+relationships that need to be considered for the formulation of
+future sulfur scenarios.  For instance, the literature on
+environmental Kuznets curves (cf. e.g. World Bank, 1992, or
+IIASA-WEC, 1995) argues that with increasing affluence and valuation
+of environmental goods, sulfur emissions decline.  This hypothesis
+is corroborated by both longitudinal and cross-sectional empirical
+data.  Thus, in the process of industrialization and economic development,
+emissions rise initially, pass through a maximum (say at income levels
+around 2000 $/capita) and decline thereafter with rising per capita incomes
+and the resulting preference of cleaner end-use fuels, valuation of clean
+environments, etc.
+A scenario taxonomy along the dimensions of demand, resource
+availability, and technological change in any case is necessary to
+respond to the critique on the IS92 series that these important
+driving forces were not varied appropriately to reflect both
+uncertainty as well as new scientific knowledge and empirical
+evidence.  They form part of the overall scenario design process and
+the scenario ``storylines'' and need not to be addressed
+specifically in the work on sulfur emissions.  
+Separate ``sulfur stories'' could be developed in addition, based on various
+relationships between sulfur emissions and levels of affluence,
+industrial structure, etc. within the overall framework of the
+scenario ``storylines''.  Here sulfur emissions would be part of
+other environmental policies (e.g. on water quality, urban traffic
+related pollutants, etc.) that form integral part of particular
+scenario ``storylines''.
+A key variable remains the timing and extent of sulfur control
+policies to be assumed for the new scenarios.  First of all the
+scenarios need to reflect changes in actual policies implemented.
+As noted above, IS92 did not take full account of recent
+environmental legislation in both North America and the second
+European sulfur protocol.  Secondly, the sulfur policies to be
+assumed, need to reflect recent scientific findings, in particular
+the very large local and regional impacts on agricultural crops and
+ecosystems of unabated high sulfur emission scenarios, particularly
+in Asia.  Therefore, all scenarios should assume faster and
+deeper reductions in sulfur emissions outside OECD countries than
+were assumed for IS92 in light of this recent scientific evidence.  The
+exact timing and extent of such sulfur reduction measures could then
+be scenario dependent. Also no specific reference to individual
+policy measures would need to be made (to avoid normative policy
+elements, or recommendations, in the scenarios), as reduction
+profiles could be adopted from existing sulfur reduction scenarios
+in the scientific literaursement by UE (Action COST) for the lecturer, but for this I hope to

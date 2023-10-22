@@ -1,0 +1,242 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 11 May
+ 2015 12:54:06 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 11 May 2015 
+ 12:54:03 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 909411870
+ for user@domain.com; Wed, 11 May 2015 11:54:09 -0500
+X-Note-AR-ScanTimeLocal: 5/11/2016 11:54:04 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @hillaryclinton.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->->->->United States->
+X-Note-Sending-IP: 209.85.218.72
+X-Note-Reverse-DNS: mail-oi0-domain.com
+X-Note-Return-Path: nationalpress2016+user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mail-oi0-domain.com ([209.85.218.72] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 138018544
+ for user@domain.com; Wed, 11 May 2015 11:54:04 -0500
+Received: by mail-oi0-domain.com with SMTP id d139sf43700750oig.1
+        for <user@domain.com>; Wed, 11 May 2015 09:54:04 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=hillaryclinton.com; s=google;
+        h=mime-version:From: Hillary for America Press <Press@hillaryclinton.com>
+         :x-original-authentication-results:precedence:mailing-list:list-id
+         :x-spam-checked-in-group:list-post:list-help:list-archive
+         :list-unsubscribe;
+        bh=Ayvh9TTo385XzEezzaoFIVX4prtwL/nCsZ47RPpO1Ic=;
+        b=YcPKJDrl+DleHAwKmx+tFhi06Q5BL6k2wEIAPyG+1fN+Tl/i2/IhCEPfALXoFqNvNk
+         af25YbpLV8CAE33W8cCrc2TL2Xmnz+NPzWflbejwFHgJ64ichK29petxMYTP/0nqFEn4
+         6ayS4a9ey1ivnHrt9r99lB7aRXdi4Y7oh/icM=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:From: Hillary for America Press <Press@hillaryclinton.com>
+         :x-original-sender:x-original-authentication-results:precedence
+         :mailing-list:list-id:x-spam-checked-in-group:list-post:list-help
+         :list-archive:list-unsubscribe;
+        bh=Ayvh9TTo385XzEezzaoFIVX4prtwL/nCsZ47RPpO1Ic=;
+        b=KRdVriTHJOUjigdimiXvcceHrFvGZttvdce1i45GunAu5xcDagZxDvViUi4r4TeBtE
+         kkgR42BmEee8Ce0fDcRJvBkSTBa5GrD47vsNz111bRJkAUIwhxtOpem6Rf3m4FcaYLh/
+         iKIyIMcFQXVCO//wmdqwc2S9L18y7PyBzyD21LVAqrJS9W0EQGK4di3wtXUuIWR6d9G4
+         ngs8aTM0AuqVnNuMJzXK8u6rHeswkkI+KoCGJp4QWGocNn2vESXas07PireeeH2qQ4Oq
+         Z7M96zmbw064a7Ea475FbJYfV37O7CDVXfJuKplK/ZrznZ9TLQzNgXCktuhpdcygmJ3W
+         UK4w==
+X-Gm-Message-State: AOPr4FXW6c8nfp9W3D35tjfrJqrIAJy782O3Hv0kIcnNmzgLQtUJfjEXcpSP39vER5kLCe+7
+X-Received: by 10.50.66.136 with SMTP id f8mr3400905igt.12.1462985643671;
+        Wed, 11 May 2015 09:54:03 -0700 (PDT)
+X-BeenThere: user@domain.com
+Received: by 10.157.31.40 with SMTP id x37ls438862otd.45.gmail; Wed, 11 May
+ 2015 09:54:01 -0700 (PDT)
+X-Received: by 10.202.51.133 with SMTP id z127mr2695066oiz.194.1462985641531;
+        Wed, 11 May 2015 09:54:01 -0700 (PDT)
+Received: from mail-io0-domain.com (mail-io0-domain.com.
+ [2607:f8b0:4001:c06::22d])        by domain.com with ESMTPS id
+ t11si3582619oie.148.2016.05.11.09.54.01        for
+ <user@domain.com>        (version=TLS1_2
+ cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);        Wed, 11 May 2015 
+ 09:54:01 -0700 (PDT)
+Received-SPF: pass (domain.com: domain of user@domain.com designates 2607:f8b0:4001:c06::22d as permitted sender) client-ip=2607:f8b0:4001:c06::22d;
+Received: by mail-io0-domain.com with SMTP id i75so56751104ioa.3
+        for <user@domain.com>; Wed, 11 May 2015 09:54:01
+ -0700 (PDT)
+X-Received: by 10.36.90.206 with SMTP id v197mr3089679ita.16.1462985641123;
+ Wed, 11 May 2015 09:54:01 -0700 (PDT)
+Received: by 10.79.15.71 with HTTP; Wed, 11 May 2015 09:53:21 -0700 (PDT)
+From: Hillary for America Press <Press@hillaryclinton.com>
+Date: Wed, 11 May 2015 12:53:21 -0400
+Message-ID: <CA+QwVzYz_XBfe+9qyj+h_OrsOFD6c1ufLQ3zNL0GYSwR+user@domain.com>
+Subject: =?UTF-8?Q?Another_Day=2C_Another_Republican_Rejects_Trump=E2=80=99s_Un?=
+	=?UTF-8?Q?predictable=2C_Risky_and_Divisive_Candidacy?=
+To: Hillary for America Press <user@domain.com>
+Content-Type: multipart/related; boundary="001a113a131e73ae8a053293e367"
+BCC: <user@domain.com>
+X-Original-Sender: user@domain.com
+X-Original-Authentication-Results: domain.com;       dkim=pass
+ user@domain.com;       spf=pass (domain.com: domain of
+ user@domain.com designates 2607:f8b0:4001:c06::22d as permitted
+ sender) user@domain.com;       dmarc=pass
+ (p=QUARANTINE dis=NONE) header.from=hillaryclinton.com
+Precedence: list
+Mailing-list: list user@domain.com; contact nationalpress2016+user@domain.com
+List-ID: <nationalpress2016.hillaryclinton.com>
+X-Spam-Checked-In-Group: user@domain.com
+X-Google-Group-Id: 5632930410
+List-Post: <<<link>>>,
+ <mailto:user@domain.com>
+List-Help: <<<link>>>,
+ <mailto:nationalpress2016+user@domain.com>
+List-Archive: <<<link>>>
+List-Unsubscribe: <mailto:googlegroups-manage+5632930410+user@domain.com>,
+ <<<link>>>
+Return-Path: nationalpress2016+user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+*=E2=80=8B*
+
+*Another Day, Another Republican Rejects Trump=E2=80=99s Unpredictable, Ris=
+ky and
+Divisive Candidacy*
+
+Day after day since Donald Trump became the presumptive Republican nominee
+for president, Republicans and conservative commentators continue to reject
+his unpredictable, risky and divisive candidacy. Donald Trump has for years
+proven himself to be a loose cannon whose hateful language and dangerous
+policies will do serious harm to working families and put America=E2=80=99s
+security at risk, and Republicans are continuing to acknowledge that a
+President Trump would be too big a risk.
+
+*Read the growing list
+<<<link>>
+ebuke-trump-as-he-captures-republican-nomination/>
+of Republicans unwilling to support a President Donald Trump and fresh
+condemnations of Trump:*
+
+*Rosario Marin, former U.S. Treasurer under President George W. Bush
+<<<link>>
+wont-stump-for-trump-says-insulted-her-community/>*:
+"I have been the spokesperson for five presidential Republican campaigns. I
+have attended the previous five Republican national conventions. I=E2=80=99=
+m not
+going this year, and I am not campaigning for him. I would never, never,
+ever vote for the little orange man.=E2=80=9D
+
+*Jennifer Rubin: Who wants to defend Trump for the next six months?
+<<<link>>
+-defend-trump-for-the-next-six-months/>:
+*"Donald Trump=E2=80=99s noxious behavior and erratic views force his suppo=
+rters to
+condone all sorts of unacceptable things. Even his own advisers find it
+hard to excuse his conduct."
+
+*Rep. Tim Huelskamp [R-KS]
+<<<link>>>*: "I can't get
+comfortable with a candidate if I'm worried about what he'll say in front
+of my 9-year old that's vulgar and crass. I cannot have him in front of
+that television with what Donald Trump has been saying."
+
+*Andrew Weinstein, deputy press secretary to then-House Speaker Newt
+Gingrich: Five Reasons My Fellow Republicans Should Vote for Hillary
+Clinton
+<<<link>>
+s-should-vote-for-hillary-clinton/>*:
+"The best way to save the GOP is a Clinton victory. A Trump win could
+create an institutional bond between the GOP and the racist demagoguery and
+proposals Mr. Trump has espoused while simultaneously abandoning the
+party=E2=80=99s positive messages of inclusion, growth, prosperity, and ind=
+ividual
+liberty. =E2=80=8BIf Republicans rally behind Mr. Trump, the White House is=
+ likely
+to be lost for a generation."
+
+*Mac Stipanovich, former Chief of Staff to Gov. Bob Martinez
+<<<link>>>*: =E2=80=
+=9CIf the
+RNC is going to spend money to elect Donald Trump, then I won't give them
+money.=E2=80=9D
+
+*BuzzFeed: Big Money Republicans Reluctant To Go All In On Trump
+<<<link>>
+-all-in-on-trump>*:
+"Several major GOP bundlers ... who were major players during Mitt Romney=
+=E2=80=99s
+campaign said they are reluctant to fundraise for Trump. =E2=80=9CI=E2=80=
+=99m waiting for
+the Second Coming,=E2=80=9D one said. ... =E2=80=9CThe guy kept saying =E2=
+=80=98I don=E2=80=99t need your
+money,=E2=80=99 now he=E2=80=99s asking for their money?=E2=80=9D said anot=
+her Republican operative
+with ties to donors. =E2=80=9CWhat it=E2=80=99s about is, he kept pissing a=
+ll over the idea
+of a donor class.""
+
+*Doug Heye, Former RNC communications director*
+<<<link>>>: "That's one of the things that troubles so
+many people on the Republican side about Donald Trump. There are no policy
+specifics. There are no real solutions. As you mentioned, there are tons of
+villains, you can pick a different villain of the day. But there aren't
+serious policy solutions."
+
+*RGA Finance Chair Fred Malek
+<<<link>>>*: =E2=80=
+=9CHe
+seems to be taking the position that -- 'Hey, he's the nominee so you've
+got to get behind him.' Well, it doesn't work that way.=E2=80=9D
+
+*The Hill: GOP hopefuls struggle with support of Trump
+<<<link>>
+port-of-trump>*:
+=E2=80=9CVulnerable Republican Senate hopefuls are struggling to find the r=
+ight
+tone about Donald Trump=E2=80=99s rise to the top of the party=E2=80=99s ti=
+cket, weighing
+how to appeal to moderates without casting aside their base. They=E2=80=99r=
+e
+choosing their words carefully as Democrats begin trying to tie them to
+their party=E2=80=99s presumptive presidential nominee in the hopes that do=
+ing so
+will help flip Senate control.=E2=80=9D
+
+<<<link>>
+cinelli-says/article_e97a34d0-0270-522b-b26f-7b2aa816928d.html>
+
+*Former VA Gubernatorial candidate, Ken Cuccinelli
+<<<link>>
+cinelli-says/article_e97a34d0-0270-522b-b26f-7b2aa816928d.html>*:
+""A lot of us are just hanging back, not casting judgment on him as the
+nominee at this point,=E2=80=9D Cuccinelli said, noting that he recently to=
+ld
+Trump=E2=80=99s campaign manager, Corey Lewandowski, that movement conserva=
+tives
+want to see some =E2=80=9Coverlap on positions and on beliefs=E2=80=9D befo=
+re giving Trump
+their support."
+
+###
+
+For Immediate Release, May 11, 2015 
+Contact: user@domain.com
+
+PAID FOR BY HILLARY FOR AMERICA
+Contributions or gifts to Hillary for America are not tax deductible.
+Hillary for America, PO Box 5256, New York
+
+--=20
+You received this message because you are subscribed to the Google Groups "=
+NationalPress2016" group.
+To unsubscribe from this group and stop receiving emails from it, send an e=
+mail to nationalpress2016+user@domain.com

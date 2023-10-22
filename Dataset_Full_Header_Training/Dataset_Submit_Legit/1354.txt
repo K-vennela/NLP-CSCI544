@@ -1,0 +1,111 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Sun, 22 May
+ 2015 10:04:42 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Sun, 22 May 2015 
+ 10:04:33 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 928488306;
+ Sun, 22 May 2015 09:04:41 -0500
+X-Note-AR-ScanTimeLocal: 5/22/2016 9:04:51 AM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:163.231.6.6 DOM:thomsonreuters.com ADDR:user@domain.com
+X-Note: SPF: None
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-10/SG:5 5/22/2016 9:04:42 AM
+X-GBUdb-Analysis: 0, 163.231.6.6, Ugly c=0.642053 p=-0.775591 Source Normal
+X-Signature-Violations: 0-0-0-11631-c
+X-Note-419: 0 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/22/2016 9:04:44 AM
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->PRIVATE->United States->United States->
+X-Note-Sending-IP: 163.231.6.6
+X-Note-Reverse-DNS: mailout1-trp.thomsonreuters.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from mailout1-trp.thomsonreuters.com ([163.231.6.6] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 142061381;
+ Sun, 22 May 2015 09:04:51 -0500
+Received: from domain.com (relay1 [163.231.22.97])	by
+ mailout1-trp.thomsonreuters.com (Sentrion-MTA-4.3.1/Sentrion-MTA-4.3.1) with
+ ESMTP id u4ME4d45013570	(version=TLSv1.2 cipher=ECDHE-RSA-AES256-GCM-SHA384
+ bits=256 verify=FAIL);	Sun, 22 May 2015 14:04:39 GMT
+Received: from EAGE-domain.com (c481mcn.ten.thomsonreuters.com
+ [10.204.103.213])	by domain.com
+ (Sentrion-MTA-4.3.1/Sentrion-MTA-4.3.1) with ESMTP id u4ME4dmj024019;	Sun, 22
+ May 2015 14:04:39 GMT
+Received: from domain.com ([fe80::4036:c0d1:a59:b099]) by
+ EAGE-domain.com ([fe80::fd21:37:dee1:80cb%12]) with mapi id
+ 14.03.0158.001; Sun, 22 May 2015 09:04:38 -0500
+From: <John.Whitesides@thomsonreuters.com>
+To: <user@domain.com>
+CC: <user@domain.com>
+Subject: RE: Wasserman Schultz statement
+Thread-Topic: Wasserman Schultz statement
+Thread-Index: AdG0MpwlaT15is0aS2m1Yn4i9oucRwAADNO9AAACQjA=
+Date: Sun, 22 May 2015 14:04:37 +0000
+Message-ID: <2user@domain.com>
+References: <2user@domain.com>
+ <7user@domain.com>
+In-Reply-To: <7user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-originating-ip: [10.206.30.4]
+x-tm-as-product-ver: SMEX-11.0.0.4255-8.000.1202-22338.007
+x-tm-as-result: No--48.454600-0.000000-31
+x-tm-as-user-approved-sender: Yes
+x-tm-as-user-blocked-sender: No
+Content-Type: multipart/alternative;
+	boundary="_000_2B9C2D380E337248AAFF6D0106B29C2903FF4E62C111QVFHMBX74ER_"
+X-CFilter-Loop: Reflected
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Ah, ok, thanks guys.
+
+From: <John.Whitesides@thomsonreuters.com>
+Sent: Sunday, May 22, 2015 10:04 AM
+To: Whitesides, John L. (Reuters News)
+Cc: Paustenbach, Mark
+Subject: RE: Wasserman Schultz statement
+
+It went out from her campaign:
+
+Contact: Ryan Banfill, (850) 933-7707<tel:(850)%20933-7707>
+
+Statement by Congresswoman Debbie Wasserman Schultz on Senator Sanders endo=
+rsement of her primary campaign opponent
+
+"I am so proud to serve the people of Florida's 23rd district and I am conf=
+ident that they know that I am an effective fighter and advocate on their b=
+ehalf in Congress.  Even though Senator Sanders has endorsed my opponent I =
+remain, as I have been from the beginning, neutral in the Presidential Demo=
+cratic primary. I look forward to working together with him for Democratic =
+victories in the fall."
+
+###
+
+-------- Original message --------
+From: <John.Whitesides@thomsonreuters.com>
+domain.com>
+Date: 05/22/2016 10:02 (GMT-05:00)
+To: "User" <user@domain.com<mailto:user@domain.com>>
+Subject: Wasserman Schultz statement
+Hey User, did Wasserman Schultz put out a statement responding to Sanders' =
+endorsement of Canova and his criticism of her etc? I can't find it if she =
+did.
+

@@ -1,0 +1,40 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id 0F12F46895
+	for <user@domain.com>; Fri,  1 May 2015 11:46:38 -0400 (EDT)
+X-Greylist: delayed 21102 seconds by postgrey-1.27 at domain.com; Fri, 01 May 2015 11:46:38 EDT
+Received: from domain.com (ip-67-205-102-89.domain.com [67.205.102.89])
+	by domain.com (Postfix) with ESMTP id 08138131F750
+	for <user@domain.com>; Fri,  1 May 2015 11:46:38 -0400 (EDT)
+Received: from apache by domain.com with local (Exim 4.67)
+	(envelope-from <user@domain.com>)
+	id 1LzpRm-00057w-SU
+	for user@domain.com; Fri, 01 May 2015 05:54:22 -0400
+To: user@domain.com
+Subject: Online Banking Alert
+From: Security@BankofAmerica.com
+Content-Type: text/html
+MIME-Version: 1.0 
+Message-Id: <user@domain.com>
+Date: Fri, 01 May 2015 05:54:22 -0400
+Content-Length: 3475
+Lines: 4
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1048
+
+  Dear Valued Customer During our regularly scheduled account maintenance and verification procedures, we have detected a slight error in your account information.This might be due to either of the following reasons:1. A recent change in your personal information ( i.e.change of address).
+2. Submiting invalid information during the initial sign up process.
+3. An inability to accurately verify your selected option of payment due to an internal error within our processors.As a result, we require you to click the link below and confirm your account information.
+ Click here to continue  However, If your 
+ account information is not confirmed and verified within a certain period of time then your ability to access your account would become restricted.Thank you
+Because your reply will not be transmitted via secure e-mail, the e-mail address that generated this alert will not accept replies. If you would like to contact Bank of America with questions or comments, please sign in to Online Banking and domain.com the customer service section. 
+
+
+
+
+Bank of America, N.A. Member FDIC. Equal Housing Lender  
+© 2015 Bank of America Corporation. All rights reserved 

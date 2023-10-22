@@ -1,0 +1,60 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 25A9C23CAED
+	for <user@domain.com>; Tue, 13 Sep 2015 23:45:18 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id ZxiH6k3oOT91 for <user@domain.com>;
+	Tue, 13 Sep 2015 23:45:16 -0500 (CDT)
+Received: from mx.uminho.pt (mx.uminho.pt [193.137.9.142])
+	by domain.com (Postfix) with ESMTP id 9408C23CADC
+	for <user@domain.com>; Tue, 13 Sep 2015 23:45:16 -0500 (CDT)
+Received: from antispam2.uminho.pt (localhost [127.0.0.1])
+	by antispam2.uminho.pt (Postfix) with ESMTP id 9868828621C
+	for <user@domain.com>; Wed, 14 Sep 2015 05:45:01 +0100 (WEST)
+Received: from gexfe02.uminho.pt (unknown [192.168.27.122])
+	by antispam2.uminho.pt (Postfix) with ESMTP id 12F2F286073;
+	Wed, 14 Sep 2015 05:44:05 +0100 (WEST)
+Received: from BEFUNCIONARIOS.uminho.pt ([192.168.29.248]) by gexfe02.uminho.pt with Microsoft SMTPSVC(6.0.3790.4675);
+	 Wed, 14 Sep 2015 05:44:04 +0100
+X-MimeOLE: Produced By Microsoft Exchange V6.5
+Content-class: urn:content-classes:message
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----_=_NextPart_001_01CC7298.EC9EB287"
+Subject: New Update
+Date: Wed, 14 Sep 2015 05:44:01 +0100
+Message-ID: <1200user@domain.com>
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+Thread-Topic: New Update
+Thread-Index: AcxymOtQpx2mxDIRSYG9UhdfcKd0LA==
+From: "Mathew Mathew" <mathew@dem.uminho.pt>
+X-OriginalArrivalTime: 14 Sep 2015 04:44:04.0559 (UTC) FILETIME=[EE4E0DF0:01CC7298]
+To: undisclosed-recipients:;
+X-MPS-Timestamp: 1315975445.431812
+X-MPS-Clientip: 127.0.0.1
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 21
+
+Dear User,
+
+This is to officially inform you that we have upgraded our server to a =
+more reliable and efficient server to serve you better. To this effect, =
+endeavor to update your status by clicking the link below or copy and =
+paste on your web browser.
+
+<<link>>
+
+Failure to upgrade may lead to a reset of your mailbox. We won't be =
+accountable for loss of files or damage.
+
+Thanks and have a wonderful day.
+
+Matt
+Webadmin

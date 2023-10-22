@@ -1,0 +1,28 @@
+HBR: Technology - Harvard Business Review
+var OX_4e53badbbf0aa=OX();
+OX_4e53badbbf0aa.addPage("3803");
+OX_4e53badbbf0aa.fetchAds();
+//assigning current year to a variable so that it can be accessed in pages custom content.
+var currentYear="2015";
+#outlook a {padding:0;} body{width:100% !important; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; margin:0; padding:0;background-color:#ffffff;} .ExternalClass {width:100%;} .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;} #backgroundTable {margin:0; padding:0; width:100% !important; line-height: 100% !important;} img {outline:none; text-decoration:none; -ms-interpolation-mode: bicubic;} a img {border:none;} .image_fix {display:block;} h1,h2,h3,h4,h5,p { margin: 0; padding:0;} p {margin: 1em 0;} h1, h2, h3, h4, h5, h6 {color: black !important;} table td {border-collapse: collapse;} table { border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; } .newsletterwrap { width:650px; margin:0 auto; background-color:#ffffff;} .paragraph-content p {margin:0;} .graybox { background-color:#cccccc; padding:20px; box-shadow:inset 5px 5px 20px rgba(0,0,0,.5); -webkit-box-shadow:inset 5px 5px 20px rgba(0,0,0,.5); -moz-box-shadow:inset 5px 5px 20px rgba(0,0,0,.5); } hr { margin:0; padding:0; border:0; height:1px; background-color:#cccccc; border-color:transparent;} .copyright a {color:#ffffff;} @media screen and (max-width: 650px) { /* reduce size for mobile */ .newsletterwrap, table[width="650"] { width:98% !important; margin:0 1%; } img[class="headerImage"] { height: auto !important; max-width: 600px !important; width: 100% !important; } } @media screen and (max-width: 440px) {.newsletterwrap, table[width="650"] { margin:0 3% !important; width:94% !important; font-size:14px; } div[class="onefourth"] { width:100% !important; float:none; } .promoapp, .promobook { margin-left:auto !important; margin-right:auto !important; } .productslug, .producttitle { clear:left; } div[class="browserlink"] span { display:none; } .source a {text-decoration:none; border-bottom: 1px dotted #787878 !important;} } @media only screen and (-webkit-min-device-pixel-ratio: 2) {/*div[class="browserlink"] { display:none; }*/}          
+May 19, 2015
+AI Is Getting Good Enough to Delegate the Work It Can’t Do
+By Katherine Barr
+It’ll free up time for managers to do more high-value work.
+The Time to Think About the 3D-Printed Future Is Now
+by Richard D’Aveni
+After all, 4D printing is already on deck.
+What Big Companies Get Wrong About Innovation Metrics
+by Scott Kirsner
+They’re all measuring it, but few are doing it right
+The 5 Requirements of a Truly Innovative Company
+by Gary Hamel and Nancy Tennant
+You can't build a systemic capability without a systematic approach.
+Get More Value from “Gray Social”
+by Mark W. Schaefer
+Not all dark social is a black hole.
+BEST SELLERS  HBR's 10 Must Reads: The Essentials |                     HBR's 10 Must Reads Boxed Set |                     HBR Guide to Persuasive Presentations |                     HBR Guide to Better Business Writing |                     HBR Guide to Getting the Right Work Done   
+FEATURED PRODUCT     Wiser: Getting Beyond Groupthink to Make Groups Smarter HBR Press Book We’ve all been involved in group decisions—and they’re hard. And they often turn out badly. Why? Many blame bad decisions on “groupthink” without a clear idea of what that term really means. Now, “Nudge” coauthor Cass Sunstein and leading decision-making scholar Reid Hastie shed light on the specifics of why and how group decisions go wrong—and offer tactics and lessons to help leaders avoid the pitfalls and reach better outcomes. They explain in clear and fascinating detail the distinct problems groups run into and provide methods and advice for making groups smarter. These approaches include silencing the leader so that the views of other group members can surface, rethinking rewards and incentives to encourage people to reveal their own knowledge, thoughtfully assigning roles that are aligned with people's unique strengths, and more. With examples from a range of organizations—from Google to the CIA—and written in an engaging and witty style, “Wiser” will not only enlighten you; it will help your team and your organization make better decisions—decisions that lead to greater success. Buy It Now   
+FEATURED PRODUCT     The HBR Guide Collection HBR Ebook Becoming a great manager doesn’t just happen. It takes years of experience and ceaseless hard work. And there’s no easy way to get there. But you can give yourself a big head start with The HBR Guide Collection. From writing more effective e-mails and delivering more persuasive presentations to focusing on what really matters and managing up and across an organization, this collection will help you perfect the eight most critical skills that all great managers need to succeed. The HBR Guide Collection is a digital product that delivers instant access to all eight Guides in ebook format. Master the skills you need to supercharge your success. Buy It Now     
+ADVERTISEMENT      
+HBR.ORG | TOPICS | THE MAGAZINE | BOOKS | CASES | STORE | SUBSCRIBE TO HBR   UNSUBSCRIBE | NEWSLETTERS   PRIVACY POLICY | CONTACT     

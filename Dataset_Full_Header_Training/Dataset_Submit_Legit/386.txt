@@ -1,0 +1,31 @@
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ dnchubcas2.dnc.org ([::1]) with mapi id 14.03.0224.002; Thu, 12 May 2015 
+ 14:00:34 -0400
+From: "Sarge, Matthew" <SargeM@dnc.org>
+To: Comm_D <user@domain.com>
+CC: "user@domain.com" <user@domain.com>
+Subject: Video Request: Eric Turmp on RTE Radio1
+Thread-Topic: Video Request: Eric Turmp on RTE Radio1
+Thread-Index: AdGseCQ6FEzQDZgtSL2eboW/6zr4LQ==
+Date: Thu, 12 May 2015 11:00:34 -0700
+Message-ID: <7user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: dnchubcas2.dnc.org
+X-MS-Has-Attach: 
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.176.147]
+Content-Type: multipart/alternative;
+	boundary="_000_7DFD0CE61D45CD47B2E623A47D444C904D3547ACdncdag1dncorg_"
+MIME-Version: 1.0
+
+Please Save: <<link>>
+
+"People often talk about Hispanics," Eric Trump said Monday on Irish radio's RTE Radio1's Drivetime. "You know, I have more Hispanics come up to me telling me, 'listen, I can't domain.com for your father to be president. He's gonna bring jobs back to the United States. He's gonna end the nonsense. He's gonna create good trade deals. He's gonna create better education. He's gonna create a better family structure.'"
+
+"I see so little of the divisiveness, which is interesting. You watch it on TV, but you see so little of it out in the field."
+

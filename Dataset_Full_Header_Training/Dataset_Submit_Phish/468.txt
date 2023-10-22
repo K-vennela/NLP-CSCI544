@@ -1,0 +1,80 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id 0157346895
+	for <user@domain.com>; Thu,  9 Aug 2015 00:56:36 -0400 (EDT)
+X-Greylist: delayed 77 seconds by postgrey-1.27 at domain.com; Thu, 09 Aug 2015 00:56:35 EDT
+Received: from ims.internal (unknown [216.116.106.169])
+	by domain.com (Postfix) with ESMTP id E4684131FD29
+	for <user@domain.com>; Thu,  9 Aug 2015 00:56:35 -0400 (EDT)
+Received: from rsm-domain.com ([10.1.2.100])
+	by ims.internal (ims.internal [127.0.0.1])
+	(MDaemon.PRO.v7.1.2.R)
+	with ESMTP id md50007798124.msg
+	for <user@domain.com>; Wed, 08 Aug 2015 21:36:26 -0700
+Received: from User ([212.140.255.250]) by rsm-domain.com with Microsoft SMTPSVC(5.0.2195.6713);
+	 Wed, 8 Aug 2015 21:29:08 -0700
+From: "PayPal Service"<service@paypal.com>
+Subject: IMPORTANT: PayPal Security Measures PP-052-CA-788
+Date: Thu, 9 Aug 2015 05:23:17 +0100
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <user@domain.com>
+X-OriginalArrivalTime: 09 Aug 2015 04:29:08.0891 (UTC) FILETIME=[D40E36B0:01C7DA3D]
+X-Spam-Processed: ims.internal, Wed, 08 Aug 2015 21:36:26 -0700
+	(not processed: message from trusted or authenticated source)
+X-MDRemoteIP: 10.1.2.100
+X-Return-Path: user@domain.com
+X-MDaemon-Deliver-To: user@domain.com
+X-MDAV-Processed: ims.internal, Wed, 08 Aug 2015 21:36:33 -0700
+To: undisclosed-recipients:;
+Content-Length: 6281
+Lines: 161
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 5
+
+Untitled Document
+
+<!--
+
+#message #yiv1522535104 
+.style1 {
+font-size:24px;font-weight:bold;}
+-->
+
+
+
+
+Warning Notification
+
+
+
+
+Dear PayPal Member , 
+It has come to our attention that yourPayPal account information needs to be
+updated as part of our continuing commitment to protect your account and to
+reduce the instance of fraud on our website. If you could please take 5-10 minutes
+out of your online experience and update your personal records you will not run intoany future problems with the online service.
+However, failure to update your records will result in account suspension.
+Please update your recordsbeforeAugust  11, 2007.
+Once you have updated your account records, yourPayPal account activity will not be interrupted and will continue as normal.
+Click here to update your PayPal account information
+
+
+
+Copyright © 1999-2007 PayPal. All rights reserved.
+
+Information about FDIC 
+pass-through insurance
+
+
+

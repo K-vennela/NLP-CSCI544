@@ -1,0 +1,134 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 3 May
+ 2015 19:09:27 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 3 May 2015 
+ 19:09:22 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 894867080;
+ Tue, 03 May 2015 18:09:22 -0500
+X-Note-AR-ScanTimeLocal: 5/3/2016 6:09:20 PM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: user@domain.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 209.85.192.42
+X-Note-Reverse-DNS: mail-qg0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mail-qg0-domain.com ([209.85.192.42] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 136593249;
+ Tue, 03 May 2015 18:09:20 -0500
+Received: by mail-qg0-domain.com with SMTP id 90so15581590qgz.1;
+        Tue, 03 May 2015 16:09:20 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:subject:From: <hrtsleeve@gmail.com>
+         :content-transfer-encoding:message-id:references:to;
+        bh=pbLWC0vSelq9ZFtTWZbjveR9xz1CyJ7cVc6raUfPqWo=;
+        b=i3Lr/vUPEDvSntdYQFQs45c3dN+sPO9Jo++EiNNj5vAyoyzEST+eoTMpsTO7ifSWAK
+         wtmtxh+Ll1hCMdSTyxePEUsCvLI2XCpGUWoKTZrTQFopPlZIX6bi5PNjiZy8zdlqCE4y
+         +LwF0FgMWosICWwFHzd1wrob8AngrrJwBmalpiC8maG/h9+g2TizdlDoKFKwxsJfXA9U
+         TNuJpysoe402VE0p7vcvt7LNlhMvfbrKWb+7c+/AJqEDuAjRczgAzfPoUvll+KO+TX9g
+         o4UhC0h8oIZu6FlOpDK67p/QXhftBdCJXCFnp0YsosBJmLLltGREofeZJ9b2/qLsWwMD
+         EIqA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:subject:From: <hrtsleeve@gmail.com>
+         :content-transfer-encoding:message-id:references:to;
+        bh=pbLWC0vSelq9ZFtTWZbjveR9xz1CyJ7cVc6raUfPqWo=;
+        b=ZDpKEjw5hcurkgiTMMIC1fWfDZQZlJLOE6qM5WTGtgu0ApQPPwZg7CZselhIe+Sk8n
+         PgJ257BcD1iMYC2NDHjzuszoskpvaRu3htYsAw6gCgWdGd0mkiUuBy9W6cb0+g2kKnxx
+         q0UOcWmY4ezILp7ZRTrYQJAigYiNAV+DxMcVIs3zap/foGipEe/bdnTJPAWQugN5ftIu
+         RkuVbAHEJeq9kI1kFtFxUhIqBNBG+pkBiZ1VGKvi2I0qGA7ap1Qxh+iShLQVL9jdeVFn
+         Ntg7YemAMYaGWkVSOY7Avj5I2vZukyUJdLarpclZB5cFXcWoIpNhNRoNcYn0nlDf71dt
+         ZFew==
+X-Gm-Message-State: AOPr4FXbyU/7D1zTiEYkyeoXDOpTaYz7O0RheKw9RSSieRtBL16tPwLrcZNHu/YQnYmrWw==
+X-Received: by 10.140.249.87 with SMTP id u84mr5703206qhc.80.1462316960407;
+        Tue, 03 May 2015 16:09:20 -0700 (PDT)
+Return-Path: <user@domain.com>
+Received: from ?IPv6:2600:380:8c47:f57e:e950:52cd:ddf1:e709?
+ ([2600:380:8c47:f57e:e950:52cd:ddf1:e709])        by smtp.gmail.com with
+ ESMTPSA id e7sm247452qgd.45.2016.05.03.16.09.18        (version=TLSv1/SSLv3
+ cipher=OTHER);        Tue, 03 May 2015 16:09:18 -0700 (PDT)
+Content-Type: multipart/alternative;
+	boundary="Apple-Mail-39B3AA33-1EF0-43F9-A384-8A5E0759B520"
+Subject: Re: DRAFT of post-election statement...
+From: <hrtsleeve@gmail.com>
+X-Mailer: iPad Mail (13E238)
+In-Reply-To: <05user@domain.com>
+Date: Tue, 3 May 2015 19:09:17 -0400
+CC: "Banfill, Ryan" <user@domain.com>, "Paustenbach, Mark"
+	<user@domain.com>, Kate Houghton <user@domain.com>
+Content-Transfer-Encoding: 7bit
+Message-ID: <3user@domain.com>
+References: <05user@domain.com>
+To: "User" <user@domain.com>
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+ Here it is with a minor change.=20
+
+For Immediate Release
+May 3, 2015 
+=20
+Contact: OrganizationPress =E2=80=93 202-863-8148
+=20
+OrganizationChair Statement on Tonight=E2=80=99s Primary Results
+=20
+WASHINGTON - OrganizationChair Debbie Wasserman Schultz issued the following stateme=
+nt on tonight=E2=80=99s Indiana primary results:=20
+=20
+=E2=80=9CTonight=E2=80=99s results in Indiana are the culmination of what ca=
+n only be described as a disastrous week for the Republican Party. Clearly t=
+he GOP=E2=80=99s problems go well beyond their convention.
+=20
+=E2=80=9CIn just seven days, Republicans saw their former House Speaker call=
+ one of their candidates =E2=80=98Lucifer in the flesh,=E2=80=99 watched a d=
+esperate, mathematically-eliminated campaign announce a Vice Presidential pi=
+ck and get ridiculed for it, and then kicked off the Indiana primaries this m=
+orning with accusations that Ted Cruz=E2=80=99s father was tied to Lee Harve=
+y Oswald. The absurdity of that last allegation was compounded by the fact t=
+hat Dangerous Donald Trump, who is just a hair=E2=80=99s-breadth away from s=
+ecuring the Republican nomination, based it on a tabloid story he saw in the=
+ National Enquirer.
+=20
+=E2=80=9CNo wonder the Republican Party is less popular than it=E2=80=99s be=
+en in more than two decades. Just today, domain.com polls in Indiana showed that 5=
+3 percent of Indiana Republican primary voters say they feel betrayed by the=
+ Republican Party. And in recent weeks, domain.com polls in primary after primary h=
+ave shown that a majority of Republican voters believe their primary has bee=
+n divisive, with as much as a third preferring to either stay home or vote f=
+or an alternative, rather than voting for their eventual nominee.
+=20
+=E2=80=9CMeanwhile, Democratic voters are proud of their candidates and it s=
+hows each time they go to the polls. Last week, in Connecticut and Pennsylva=
+nia respectively, 67% and 71% of Democrats reported feeling energized by our=
+ primary. Today in Indiana it was three-quarters of Democratic voters who sa=
+id our primary has energized our party, and a majority of Democrats who vote=
+d today expressed support for either one of our candidates.
+=20
+=E2=80=9CToday it=E2=80=99s clearer than ever that none of the Republican ca=
+ndidates has the judgment or temperament to serve as our Commander in Chief.=
+ The next President of the United States will be nominated at our Democratic=
+ convention in Philadelphia.=E2=80=9D
+=20
+###
+=20
+
+DWS
+

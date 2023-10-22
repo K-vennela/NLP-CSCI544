@@ -1,0 +1,69 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Fri, 8 May 2015 12:12:12 +0200
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id D509D621D7	for
+ <user@domain.com>; Fri,  8 May 2015 10:48:46 +0100 (BST)
+Received: by domain.com (Postfix)	id 5B1654440B75; Fri,  8 May 2015 
+ 12:12:05 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from EUGENEHT (unknown [203.116.19.130])	(using TLSv1 with cipher
+ ECDHE-RSA-AES256-SHA (256/256 bits))	(No client certificate requested)	by
+ domain.com (Postfix) with ESMTPSA id 01ED6444048A;	Fri,  8 May 2015 
+ 12:12:03 +0200 (CEST)
+From: Eugene Ho <e.ho@hackingteam.com>
+To: 'Emanuele Placidi' <user@domain.com>
+CC: <user@domain.com>
+References: <6840user@domain.com> <554user@domain.com>
+In-Reply-To: <554user@domain.com>
+Subject: RE: A little help in chinese
+Date: Fri, 8 May 2015 18:12:12 +0800
+Message-ID: <005701d08977$7534c310$5f9e4930$@hackingteam.com>
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQEqL7r2GexElwspOkJ7mzxBu8/ElAIvtvlvnq0Ng7A=
+Content-Language: en-gb
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EUGENE HOD15
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-765567701_-_-"
+
+Hi Emanuele,
+
+Now that you mentioned it, it really looks like a list of taboo or "banned" topics.
+Some examples are:
+
+中国联邦革命党 - China revolutionary party
+美国之音 - The Voice of America
+太子党 - A term for people in power due to their family lineage
+64 学生 - Tiananmen Square protests
+西藏 寺庙 领袖像 - Pictures of Tibet Religious leaders
+全球审江 - Global coalition / alliance against China's ex-Secretary General Jiang Ze Min
+国家防火墙 - National Firewall, probably referring to China's control of national domain.com traffic
+
+Eugene Ho
+Field Application Engineer
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com
+phone: +65 9127 3063
+
+-----Original Message-----
+From: Eugene Ho <e.ho@hackingteam.com>
+Sent: 08 May 2015 16:28
+To: Eugene Ho
+Cc: 'user@domain.com'
+Subject: Re: A little help in chinese
+
+Hi Eu,
+  thank you for your quick reply !
+Please don't do a complete translation, we are only interested in the main meaning of the list, which is : is it a random output or can be a list with a real meaning? For example a taboo words list.
+Cheers
+

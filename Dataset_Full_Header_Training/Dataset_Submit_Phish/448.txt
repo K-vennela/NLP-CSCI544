@@ -1,0 +1,73 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id B7E7546893
+	for <user@domain.com>; Wed, 18 Mar 2015 21:27:28 -0400 (EDT)
+Received: from domain.com (domain.com [68.230.240.8])
+	by domain.com (Postfix) with ESMTP id 8E4C2131F770
+	for <user@domain.com>; Wed, 18 Mar 2015 21:27:28 -0400 (EDT)
+Received: from domain.com ([68.1.16.119])
+          by domain.com
+          (InterMail vM.7.08.02.01 201-2186-121-102-20070209) with ESMTP
+          id <20090319012729.user@domain.com>;
+          Wed, 18 Mar 2015 21:27:29 -0400
+Received: from User ([72.195.151.193])
+	by domain.com with bizsmtp
+	id UpTQ1b00T4Acnww02pTRzE; Wed, 18 Mar 2015 21:27:28 -0400
+X-Authority-Analysis: v=1.0 c=0 p=btoa_YvyXcM5aYanbUgA:9 a=sBJZFfLGAAAA:8
+X-CM-Score: 100.00
+From: "eBay"<member@e-bay.com>
+Subject: TKO NOTICE eBay Bid Cancelled
+Date: Thu, 19 Mar 2015 03:27:33 +0200
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20090319012729.user@domain.com>
+To: undisclosed-recipients:;
+Content-Length: 3417
+Lines: 65
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1014
+
+Please note that this is a 
+system generated email. Please do not reply to this email. 
+
+Your Bid Has Been 
+      Cancelled
+
+Dear eBay Member, 
+
+The 
+      following is a notice from eBay 
+      Trust & Safety regarding:
+
+Item Number - 5132401085
+
+Our records show that 
+      you placed a bid on this item. We removed this item from the Site and 
+      cancelled your bid. For more information please click here
+.
+Our goal is to ensure that your eBay 
+      experience is safe so that you can buy confidently. It is rare that 
+      something goe 
+
+
+
+Copyright  2015 eBay 
+            Inc. All Rights Reserved.
+Designated trademarks and brands 
+            are the property of their respective owners.
+eBay 
+            and the eBay logo are trademarks of eBay 
+            Inc. 
+
+
+

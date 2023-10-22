@@ -1,0 +1,79 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Sun, 22 May
+ 2015 22:35:06 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Sun, 22 May 2015 
+ 22:34:55 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 928834114;
+ Sun, 22 May 2015 21:35:05 -0500
+X-Note-AR-ScanTimeLocal: 5/22/2016 9:35:15 PM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:209.86.89.66 DOM:mindspring.com ADDR:user@domain.com
+X-Note: SPF: None
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-495/SG:5 5/22/2016 9:34:27 PM
+X-GBUdb-Analysis: 0, 209.86.89.66, Ugly c=0.667612 p=-0.711214 Source Normal
+X-Signature-Violations: 0-0-0-13946-c
+X-Note-419: 0 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/22/2016 9:35:15 PM
+X-Warn: SPANISH-CHR
+X-Note: Spam Tests Failed: SPANISH-CHR
+X-Country-Path: United States->United States->
+X-Note-Sending-IP: 209.86.89.66
+X-Note-Reverse-DNS: elasmtp-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G350 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from elasmtp-domain.com ([209.86.89.66] verified)
+  by domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id
+ 140345065; Sun, 22 May 2015 21:35:15 -0500
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=dk20050327; d=mindspring.com;
+  b=seSiyz1aER7GTOzCPNTo0/AP6BmHrS+kOhd2sOPePRNjP2unnqNqbntW+/xHNpRj;
+  h=Received:Content-Type:Mime-Version:Subject:From: Michele Taylor <ztaylors@mindspring.com>
+Received: from [166.137.97.217] (helo=[10.187.82.38])	by
+ elasmtp-domain.com with esmtpsa (TLSv1:AES256-SHA:256)
+	(Exim 4.67)	(envelope-from <user@domain.com>)	id 1b4fgY-0004PM-C7;
+ Sun, 22 May 2015 22:33:38 -0400
+Content-Type: multipart/alternative;
+	boundary="Apple-Mail-6A3B046F-3030-46B6-B695-D732905D6C77"
+Subject: Re: Vice Chair Call
+From: Michele Taylor <ztaylors@mindspring.com>
+X-Mailer: iPhone Mail (12H321)
+In-Reply-To: <2user@domain.com>
+Date: Sun, 22 May 2015 22:33:37 -0400
+CC: "Hoffman, Alex" <user@domain.com>, KEN SOLOMON
+	<user@domain.com>, Lena <user@domain.com>, "Patrick
+ Guarasci" <user@domain.com>, Naomi Aberly <user@domain.com>, LeFebvre
+	<lefebvre@35711.com>, "Tobias, Andy" <user@domain.com>, "Kaplan, Jordan"
+	<user@domain.com>, "Stephen H. Bittel" <user@domain.com>,
+	"user@domain.com" <user@domain.com>, Emily Bueche <user@domain.com>,
+	Stephanie Nathanson <user@domain.com>, Bridget Jones
+	<bjones@35711.com>, "Ratliff, Kris" <user@domain.com>
+Content-Transfer-Encoding: 7bit
+Message-ID: <0user@domain.com>
+References: <user@domain.com> <2user@domain.com>
+To: Christopher Lowe <user@domain.com>
+X-ELNK-Trace: 03e3e388cf3dde1a9c7f779228e2f6aeda0071232e20db4d8c8d1706f4d311a1e7071f093cf637f5350badd9bab72f9c350badd9bab72f9c350badd9bab72f9c
+X-Originating-IP: 166.137.97.217
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Thanks for listening to me on the new package! I have had luck already.
+Look forward to our call.
+
+Mich=C3=A8le Taylor
+sent from my iPhone
+

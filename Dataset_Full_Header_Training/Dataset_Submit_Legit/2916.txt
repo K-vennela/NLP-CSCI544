@@ -1,0 +1,87 @@
+Received: from domain.com (146.215.230.103) by
+ domain.com (43.130.141.78) with Microsoft SMTP Server id
+ 8.3.342.0; Wed, 4 Jun 2015 11:59:17 -0700
+Received: from domain.com ([160.33.194.231])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s54IxEjS008884	for <user@domain.com>; Wed, 4 Jun 2015 
+ 18:59:14 GMT
+Received: from mail144-ch1-domain.com (mail-domain.com
+ [216.32.181.175])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s54J0lsh029892
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Wed, 4 Jun 2015 19:00:47 GMT
+Received: from mail144-ch1 (localhost [127.0.0.1])	by
+ mail144-ch1-domain.com (Postfix) with ESMTP id 4F9174201D9	for
+ <user@domain.com>; Wed,  4 Jun 2015 18:59:13 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:198.2.130.20;KIP:(null);UIP:(null);IPV:NLI;H:domain.com;RD:domain.com;EFVD:NLI
+X-SpamScore: 2
+X-BigFish: vps2(z3e12hzc89bhe0eahc857hzz1f42h1ee6h1de0h1fdah21bdh2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6h208chzz1de098h1def03h17326ah1def87h8275bh1bc7b9h8275dh1def86h18c673h19a27bh1de097h186068h1ce121iz2fheh5eh5fh839ha45hd24h10d2h1288h12a5h137ah139eh13eah1441h1537h162dh1631h1758h1898h18e1h1946h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e00h1e1dh1e23h1fe8h1ff5h20f0h2218h2216h226dh24afh2327h2336h2438h2461h2487h24d7h2516h2534h2545h25f6h2605h268bh26d3h27e2h282bh28a1h28b0h1d9ci)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail144-ch1: domain of domain.com designates 198.2.130.20 as permitted sender) client-ip=198.2.130.20; user@domain.com; helo=domain.com ;domain.com ;
+Received: from mail144-ch1 (localhost.localdomain [127.0.0.1]) by mail144-ch1
+ (MessageSwitch) id 1401908350950009_20485; Wed,  4 Jun 2015 18:59:10 +0000
+ (UTC)
+Received: from domain.com (domain.com
+ [10.43.68.245])	by mail144-domain.com (Postfix) with ESMTP id
+ D8265460078	for <user@domain.com>; Wed,  4 Jun 2015 18:59:10 +0000
+ (UTC)
+Received: from domain.com (198.2.130.20) by
+ domain.com (10.43.70.21) with Microsoft SMTP Server id
+ 14.16.227.3; Wed, 4 Jun 2015 18:59:10 +0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=domain.com;
+ h=Subject:From: =?utf-8?Q?Talenthouse?= <business@talenthouse.com>
+ bh=vtC7j0vtZznUkrtDo5FahyaK+Tg=;
+ b=gxvMVyD5y81thwjDrTW/BuYZB/ns6SWoUjaMk4Ke13Bu9g1pQoet8N4q7ZMWRXqeXgxN7HDfMzYP
+   FUSUsPuFzb6Ze4MnOxXAtxaCtKQx5x3dADvnO/Uw2xTANPEAeK/FkD3uvgWRt2NJ6eWWzcOH6inf
+   +F0zRE1qRYsVJnaX+bs=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=domain.com;
+ b=djlrqojeD16jF9xzuA5UlsKJqGyH2+xoLSp+E47KZ6ZfQQ30A10uXhkbnGPBPu5g5RcYNTqRy+Dn
+   Vwj+XF7RirdfUECUrICp5SkF+kp4MWn4FDKkxKrYM+AWj1LqAt+F5n0IZhrmqxHYl1MLPBDkT+gI
+   iaTqN7AVMCVl/Qm+C7o=;
+Received: from (127.0.0.1) by domain.com id hhtm7s1ohkgs for
+ <user@domain.com>; Wed, 4 Jun 2015 18:59:00 +0000 (envelope-from
+ <user@domain.com>)
+Subject: =?utf-8?Q?Have=20you=20got=20a=20Cannes=20Do=20Attitude=3F?=
+From: =?utf-8?Q?Talenthouse?= <business@talenthouse.com>
+Reply-To: <user@domain.com>
+To: =?utf-8?Q?Amy?= <user@domain.com>
+Date: Wed, 4 Jun 2015 18:59:00 +0000
+Message-ID: <245948user@domain.com>
+X-Mailer: MailChimp Mailer - **CIDd441241df1098a03e1d1**
+X-Campaign: mailchimp245948cbb2ee8107d9f2c7938.d441241df1
+X-campaignid: mailchimp245948cbb2ee8107d9f2c7938.d441241df1
+X-Report-Abuse: Please report abuse for this campaign here: <<link>>
+X-MC-User: 245948cbb2ee8107d9f2c7938
+X-Feedback-ID: 4455314:4455314.1716689:us2:mc
+Precedence: bulk
+X-Auto-Response-Suppress: OOF, AutoReply
+X-Accounttype: pd
+List-Unsubscribe: <mailto:user@domain.com?subject=unsubscribe>, <<<link>>>
+Sender: Talenthouse <user@domain.com>
+x-mcda: FALSE
+Return-Path: 
+ user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+Talenthouse - the home of creative collaboration more 
+
+View this email in your browser         
+
+ <<link>> 
+
+Art Meets Advertising Remixed
+
+We warmly invite you to join Talenthouse at the Cannes Lions International Festival of Creativity.
+
+High-brow meets populist? Commercial creativity meets ‘pure’ creativity? Two powerful creative worlds come together at The Forum on Thursday June 19th, which explores the relationships between art and advertising. Street art, filmmaking and fashion are regular features of advertising creativity, but there is a cross-pollination between trends in the art world, and those in advertising that can be an exciting source of creative inspiration for both.
+Contact Us      
+
+ <<link>> 
+
+When Art Works
+
+by Simon Pont
+
+WORDS. They equip us to define and explain, that’s their literal and ‘on the nose’ purpose. Their description in Hamlet (Act 2, Scene 2); “Words are the pegs on which we hang ideas".

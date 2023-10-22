@@ -1,0 +1,22 @@
+Hi Tim,
+my simplistic interpretation as an outside observer of this field is:
+VS04 published a high-profile analysis in Science concluding that the performance of the
+MBH method is disastrously bad. Subsequently, VS in the media called the MBH result
+"nonsense", accused Nature of putting their sales interests above peer review when
+publishing MBH, and called the IPCC "stupid" and "irresponsible" for highlighting the
+results of MBH. This had *major* political impact - I know this e.g. from EU negotiators
+who were confronted with this stuff by their US colleagues.
+Then it turns out that they implemented the method incorrectly. If it is done as MBH did,
+variance is still somewhat underestimated in the same pseudoproxy test, but only a little,
+within the error bars given by MBH and shown by IPCC. Certainly nothing dramatic - one
+could conclude that the method works reasonably well but needs improvement. This would have
+been a technical discussion with not much political impact.
+What VS and their colleagues are doing now, rather than publishing a correction of their
+mistake, is saying: "well, but if we add a lot more noise, or use red noise, then the MBH
+method is still quite bad..."
+The question here is: should our IPCC chapter say something to correct the wrong impression
+which had the political impact, namely that the MBH method is disastrously bad? This is not
+the same as the legitimate discussion about the real errors in proxy reconstructions, which
+accepts that these reconstructions have some errors but are still quite useful, rather than
+being "nonsense".
+Cheers, Stefan

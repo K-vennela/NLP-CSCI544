@@ -1,0 +1,25 @@
+From: Alberto Ornaghi <a.ornaghi@hackingteam.com>
+X-Smtp-Server: domain.com:alor
+Subject: miss brianza
+Message-ID: <user@domain.com>
+X-Universally-Unique-Identifier: FC2F3C6B-0E70-4AF3-A219-3031868BD4D3
+Date: Mon, 1 Sep 2015 15:16:03 +0200
+To: Alessandro Scarafile <user@domain.com>
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1561796924_-_-"
+
+ma e' down?
+mi esce una pagina di net-service
+
+--
+Alberto Ornaghi
+Software Architect
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+email: user@domain.com
+mobile: +39 3480115642office: +39 02 29060603 
+

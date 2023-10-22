@@ -1,0 +1,65 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 3BC9B23CABD;
+	Thu, 21 Jun 2015 18:18:56 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id Gq0wHMa+zBgJ; Thu, 21 Jun 2015 18:18:53 -0500 (CDT)
+Received: from domain.com (domain.com [129.7.234.211])
+	by domain.com (Postfix) with ESMTP id E3B3323CABB;
+	Thu, 21 Jun 2015 18:18:53 -0500 (CDT)
+Received: from domain.com (domain.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 7E3A94E9999C;
+	Thu, 21 Jun 2015 18:18:56 -0500 (CDT)
+Received: from hosting.jusformosa.gob.ar (hosting.jusformosa.gob.ar [190.30.221.142])
+	by domain.com (Postfix) with ESMTP id 547BF4E99790;
+	Thu, 21 Jun 2015 18:18:52 -0500 (CDT)
+Received: from localhost (localhost [127.0.0.1])
+	by hosting.jusformosa.gob.ar (Postfix) with ESMTP id 41501D5521;
+	Thu, 21 Jun 2015 19:45:51 -0300 (ART)
+X-Virus-Scanned: Debian amavisd-new at domain.com.ar
+Received: from hosting.jusformosa.gob.ar ([127.0.0.1])
+	by localhost (hosting.jusformosa.gob.ar [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 12MJFe47rO67; Thu, 21 Jun 2015 19:45:50 -0300 (ART)
+Received: from www.jusformosa.gob.ar (localhost [127.0.0.1])
+	by hosting.jusformosa.gob.ar (Postfix) with ESMTP id 82931D5513;
+	Thu, 21 Jun 2015 19:45:43 -0300 (ART)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8;
+ format=flowed
+Content-Transfer-Encoding: 8bit
+Date: Thu, 21 Jun 2015 23:45:43 +0100
+From: "Mr. Michael" <michael212scott@yahoo.com>
+To: undisclosed-recipients:;
+Subject: Partner With Me
+Reply-To: <user@domain.com>
+Mail-Reply-To: <user@domain.com>
+Return-Receipt-To: "User" <user@domain.com>
+Disposition-Notification-To: "User" <user@domain.com>
+Message-ID: <0user@domain.com>
+X-Sender: user@domain.com
+User-Agent: Poder Judicial Formosa Webmail
+X-PMX-Version: 5.5.9.395186, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2012.6.21.231217
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 99
+
+-- 
+Hello Friend,
+
+I am Mr. Michael Scott, a portfolio manager in an
+Invest. Trust fund company, there is an (EMRCP) per annum
+amounting to £37.6M I wish to transfer, but as staff, I
+cannot directly transfer the funds to my account, I therefore
+seek your cooperation in moving the funds to your account for
+further investments. I am willing to domain.com the funds with you
+in equal half, interested in this transaction, Pls send me your
+name and Tel. No DIRECTLY to my PERSONAL email
+( user@domain.com ) Hoping to hear from you soon.
+
+Sincerely.
+Mr. Michael Scott

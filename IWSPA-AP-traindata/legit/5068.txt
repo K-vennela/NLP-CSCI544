@@ -1,0 +1,75 @@
+Dear All,
+Here are a few more comments on ALPIPMOD.
+Ideas are probably not very well ordered.  First, you should try for a 3 year
+project
+and second, although here for most of the next three months (apart from odd days) I
+probably
+couldn't justify a meeting. I am intending on resubmitting another proposal to the October
+EU round. This one will involve some of the group from ADVICE. It's aim will be to develop
+a daily MSLP dataset for Europe and the Atlantic (30-70N by 70W-50E). After the dataset
+is produced in the first year, the second and third year will see various analyses
+performed
+and comparisons of several GCM runs performed at the Hadley Centre. This new project
+will probably go to 2.4.1 which will be a different area from yours which will be 2.1.4.
+Thus I
+would hope that your proposal could be developed over email.
+The above dataset would go back to 1850. This is the period which from the IMPROVE
+project
+is just beyond how far we think we can reliably go back with daily data. Several papers
+from
+the IMPROVE poject (Moberg et al., 2000 in JGR and several others in press in a special
+issue
+of Climatic Change) have come to the about 1870 date. We have much earlier data for the 8
+sites but ensuring strict homogeneity of the daily series seems doubtful for some types of
+extreme measures prior to about 1870. Pressure seems better than temperature. Some sites
+are better than others. Monthly is fine for all.
+All the IMPROVE and ADVICE data can be used by the ALPIPMOD project. I have a summer
+student updating the 51 monthly MSLP sites from ADVICE, amongst other things.
+As for your ideas, I think you need some overarching theme. The atlas and CD of all
+the data may be one, but it also needs to address some scientific issues which can be
+shown to have relevance to the public.
+I like the idea of making use of the Alpine orography looking at changes in lapse
+rates and
+the use of high and low elevation air pressures. The latter is a totally independent
+method of
+looking at the warming and can be used back to the late 18th century. The Alps have the
+longest records of any mountaineous records of any region of the world.  Also I am a
+strong
+advocate of changes in the influence of features such as the NAO (and other circulation
+indicators) on surface climate. You can clearly look at these changes over the last 200
+years with all the data you have.
+Another important issue to a lot of climatologists is the relative surface warming
+compared
+to the MSU2LT data in the lower troposphere. Although this is hemispheric in extent, we
+can
+look with the longer Alpine records as to changes in lower level lapse rates over 200+
+years.
+Related to this tropical ice caps are disappearing at alarming rates in Peru, Tanzania and
+in Tibet (Lonnie Thompson's work). Lonnie has calculated that the ice cap on Kilimanjaro
+will not be there by 2015 at its present rate of retreat. Lonnie has some local
+temperature
+series for about 40 years which show a small warming yet the ice caps are going fast. Why?
+These ice caps have all been cored and have ice during the MWP times yet some aren't
+producing layers now !
+My idea is to use the better known histories of the Alpine glaciers to see if they
+are
+also melting at accelerated rates than simple temperature averages would imply. Keith
+mentioned the forward modelling approaches to determine positions in the past (and then
+relate these to moraine termini). Do these models still function in the last 20 years?
+Lonnie
+thinks a lot of the tropical melting is due to sublimation, which isn't accounted for by
+the
+degree day models. The elevational sunshine records may be important here and with
+temperature a particular season may be much more important than the other three.
+All the above is just ideas, but getting all the data together (instrumental and tree
+ring
+as well glacier termini and mass balance) allows us to be able to model the glaciers
+better than
+anywhere else. All Europeans will be interested in whether Alpine glaciers are going to
+disappear and there will be clear impacts on biodiversity at the high elevations and
+tourism.
+Another impact area is on the use of glacier meltwater and runoff in hydropower
+generation.
+These are all good issues to use in the social and economic pages that need to be written.
+Cheers
+Phil

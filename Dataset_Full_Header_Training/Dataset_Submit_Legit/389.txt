@@ -1,0 +1,34 @@
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ DNCHUBCAS1.dnc.org ([fe80::ac16:e03c:a689:8203%11]) with mapi id
+ 14.03.0224.002; Mon, 2 May 2015 12:44:28 -0400
+From: "Palermo, Rachel" <PalermoR@dnc.org>
+To: "User" <user@domain.com>
+CC: "Price, Jenna" <user@domain.com>
+Subject: Adriane Brown interview
+Thread-Topic: Adriane Brown interview
+Thread-Index: AdGkkc83ccVvstJuQGSzRrPmEdIJMw==
+Date: Mon, 2 May 2015 09:44:28 -0700
+Message-ID: <6user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: DNCHUBCAS1.dnc.org
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.185.18]
+Content-Type: multipart/related;
+	boundary="_004_6E20703C3B98FC4D97E277223738C7A74DAA14BCdncdag1dncorg_";
+	type="multipart/alternative"
+MIME-Version: 1.0
+
+She's now free at 5pm today so I added it to your calendars. Jenna will grab her when she arrives. Thanks!
+
+--
+[DNC]<<<link>>>
+Rachel Palermo
+Organization
+user@domain.com<mailto:user@domain.com>
+202-863-8041
+

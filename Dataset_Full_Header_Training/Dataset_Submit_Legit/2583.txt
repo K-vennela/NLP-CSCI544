@@ -1,0 +1,51 @@
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ DNCHUBCAS1.dnc.org ([fe80::ac16:e03c:a689:8203%11]) with mapi id
+ 14.03.0224.002; Thu, 19 May 2015 10:08:39 -0400
+From: "Palermo, Rachel" <PalermoR@dnc.org>
+To: Corinne Matti <user@domain.com>
+CC: "User" <user@domain.com>, "Price, Jenna" <user@domain.com>,
+	"Dillon, Lauren" <user@domain.com>, "Price, Jenna" <user@domain.com>,
+	"Paustenbach, Mark" <user@domain.com>, "Freundlich, Christina"
+	<user@domain.com>
+Subject: New Youtube/ dncpress twitter protocol 
+Thread-Topic: New Youtube/ dncpress twitter protocol 
+Thread-Index: AdGx1+XIhsyy0F8xTtyFNxUMIs798A==
+Date: Thu, 19 May 2015 07:08:39 -0700
+Message-ID: <6user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: DNCHUBCAS1.dnc.org
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.177.44]
+Content-Type: multipart/related;
+	boundary="_004_6E20703C3B98FC4D97E277223738C7A74DACE787dncdag1dncorg_";
+	type="multipart/alternative"
+MIME-Version: 1.0
+
+Hi everyone,
+
+Starting today, User would like all interviews from DWS, Mark, or User, to have YouTube Links tweeted out from @dncpress within 30 minutes of when the interviews air. To speed up this process, we would like YouTube links (on Organizationclips) to be sent with the vantage link to comm_d in reply to the video request.
+
+The title of the links can all be in this format:
+
+OrganizationChair Debbie Wasserman Schultz on (NETWORK NAME) (SHOW NAME)
+OrganizationNational Press Secretary Mark Paustenbach on (NETWORK NAME) (SHOW NAME)
+OrganizationCommunications Director User on (NETWORK NAME) (SHOW NAME)
+
+After I receive the links, I will send them around to the twitter approval chain.
+
+Please chat with User if you have questions. Thanks! I really appreciate it.
+
+Rachel
+
+--
+[DNC]<<<link>>>
+Rachel Palermo
+Organization
+user@domain.com<mailto:user@domain.com>
+202-863-8041
+

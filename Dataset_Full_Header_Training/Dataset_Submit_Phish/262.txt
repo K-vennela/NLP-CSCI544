@@ -1,0 +1,108 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [10.5.6.7])
+	by domain.com (Postfix) with ESMTP id 75C06469D2
+	for <user@domain.com>; Mon, 31 Jul 2015 17:18:33 -0400 (EDT)
+Received: from 213-157-171-118.domain.com.ro (unknown [213.157.171.118])
+	by domain.com (Postfix) with SMTP id F00966CD12D
+	for <user@domain.com>; Mon, 31 Jul 2015 17:18:14 -0400 (EDT)
+Received: from 22.32.167.34 by 213.157.171.118; Tue, 01 Aug 2015 03:12:15 +0500
+Message-ID: <user@domain.com>
+From: "eBay Priority Protection" <unpaid@eBay.com>
+Reply-To: "User" <user@domain.com>
+To: user@domain.com
+Subject: Alert eBay Unpaid Item Strike Received
+Date: Mon, 31 Jul 2015 21:14:15 -0100
+X-Mailer: Microsoft Outlook IMO, Build 9.0.2416 (9.0.2910.0)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--7870540971199732"
+X-Priority: 3
+X-MSMail-Priority: Normal
+Status: R
+X-Status: 
+X-Keywords: 
+
+
+
+
+<!--
+style2 {color: #0000CC}
+-->
+
+  Alert eBay Unpaid Item Strike Received: =
+#4600724264
+
+
+
+
+=
+
+Dear eBay member , you have received an Unpaid Ite=
+m strike
+
+You were the winning buyer on eBay item #4600724264, Love Smart by Dr. =
+Phil McGraw (2005). The seller, read_more05 has informed eBay that payment=
+ for the item has still not been received, or that the two of you were not=
+ able to come to agreement. As a result, you have received an Unpaid Item =
+strike. 
+
+Furthermore, you have lost feedback privileges=
+ for this transaction. 
+
+If you would like additional information regarding the item in questio=
+n, please review the dispute details page. <=
+BR>
+
+Remember, repeated Unpaid Item strikes may result in your =
+suspension from eBay.
+
+You can appeal this Unpaid Item stri=
+ke if you believe it is not deserved. First, read the requirements for appealing=
+ the strike. If you meet them, you can domain.com your appeal on that page. If=
+ your appeal is successful the strike will be removed. 
+
+If you have=
+ recently paid for the item or have otherwise resolved this dispute, you c=
+an ask the seller to remove the Unpaid Item Strike. 
+read_more05 has informed us that they have not yet received your paymen=
+t for the following item: 
+Love Smart by Dr. Phil McGraw (2005) (#46007=
+24264) 
+
+No action is being taken against your account at this time.=
+ However, it is important to remember that when you bid on or buy an item =
+you are agreeing to a contract between you and the seller. If the situatio=
+n isn't resolved within 7 days of this reminder, you may receive an Unpaid=
+ Item strike under eBay's Unpaid Item Policy or <=
+U>lose feedback privileges =
+for this transaction 
+
+. 
+
+  If you don't respond  ,you may receive an Unpaid Item strike. 
+
+Mo=
+st Unpaid Item disputes can be resolved through direct communication betwe=
+en the buyer and seller, and we encourage you to work with your trading pa=
+rtner to reach a resolution. 
+
+Regards, 
+
+eBay 
+
+
+
+eBay Unpaid Item Strike Received: #4600724264
+
+Copyright 1995-2006 eBay Inc. All Rights R=
+eserved.Designated trademarks and brands are the property of their respect=
+ive owners.Use of this Web site constitutes acceptance of the eBay User Agreement and Privacy Policy<=
+/A>. 
+
+eBay official time  Page last updated: Fri =
+Mar 10, 2015 , 08:45:04 PST
+
+
+

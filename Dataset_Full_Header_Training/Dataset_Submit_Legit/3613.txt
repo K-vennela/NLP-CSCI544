@@ -1,0 +1,82 @@
+Received: from domain.com (146.215.230.103) by
+ domain.com (43.130.141.76) with Microsoft SMTP Server id
+ 8.3.342.0; Thu, 10 Jul 2015 22:51:17 -0700
+Received: from domain.com ([160.33.194.228])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s6B5pFZU022564	for <user@domain.com>; Fri, 11 Jul 2015 
+ 05:51:16 GMT
+Received: from mail184-va3-domain.com (mail-domain.com
+ [216.32.180.117])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s6B5nee0017141
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Fri, 11 Jul 2015 05:49:40 GMT
+Received: from mail184-va3 (localhost [127.0.0.1])	by
+ mail184-va3-domain.com (Postfix) with ESMTP id 5E0873400D3	for
+ <user@domain.com>; Fri, 11 Jul 2015 05:51:15 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:146.82.220.227;KIP:(null);UIP:(null);SRV:BULK;H:domain.com;RD:domain.com;EFVD:NLI
+X-SpamScore: 23
+X-BigFish: vps23(z5109h5105h1baI59c9h579eh17een5156mzc89bhe0eah40fdkzz1ee6h162I2073h2146h1202h122fh2189h1d2ah1fc6h208ch1fdahzebhz1de098h1cea93h1df219h1def03h17326ah1def87h8275bh1bc7b9h8275dh1def86h1de097h186068h16ffban164c38j1df123i177f16iz2fh5fh839h8aah8e2h8e3h93fh950he5bh10d2h1288h12a5h12bdh137ah13b6h13eah1441h1537h153bh162dh1631h1758h18e1h19b5h1b0ah224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1fe8h1ff5h2216h2336h2438h2461h2487h24d7h2516h2545h255eh25f6h2605h268bh26d3h27e2h282bh28a1h29d0h2a24h2b05hbe9i)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail184-va3: domain of news.marketing-domain.com designates 146.82.220.227 as permitted sender) client-ip=146.82.220.227; user@domain.com; helo=domain.com ;domain.com ;
+Received: from mail184-va3 (localhost.localdomain [127.0.0.1]) by mail184-va3
+ (MessageSwitch) id 1405057872360776_31781; Fri, 11 Jul 2015 05:51:12 +0000
+ (UTC)
+Received: from domain.com (unknown [10.7.14.249])	by
+ mail184-domain.com (Postfix) with ESMTP id 541953E00C8	for
+ <user@domain.com>; Fri, 11 Jul 2015 05:51:12 +0000 (UTC)
+Received: from domain.com (146.82.220.227) by
+ domain.com (10.7.99.31) with Microsoft SMTP Server id
+ 14.16.227.3; Fri, 11 Jul 2015 05:51:12 +0000
+DKIM-Signature: v=1; a=rsa-sha1; d=news.marketing-domain.com; s=ei0; c=simple/simple;
+	q=dns/txt; user@domain.com; t=1405057871;
+	h=From: =?utf-8?B?TWFya2V0aW5nIE1hZ2F6aW5l?=
+	bh=p1flCSJ4CyOd+QxFyGQBDupBgo4=;
+	b=hIihzL7jD6LfImdGRqbyAM6PomNf3HfUIfuI6RN8MYZoLqje1jeIbOnZgKBD1iPV
+	4k4cNpF+us6O+4VQhaMCQPHs+Lj73Yc96EQjcIrgvpubV9Y35Icc836z2FDyP7/O
+	lFSU9fD/W33mQcXPSLIthU5gzdBqaJJmsXUbZMaMG+0=;
+Received: from [10.21.250.251] ([10.21.250.251:2767] helo=CORE16PUMPER2)	by
+ pc1udsmta1n25 (envelope-from <user@domain.com>)
+	(ecelerity 2.2.2.45 r(34222M)) with ESMTP	id 0F/5F-31995-F4B7FB35; Fri, 11
+ Jul 2015 01:51:11 -0400
+Date: Fri, 11 Jul 2015 14:51:11 +0900
+Message-ID: <user@domain.com>
+X-DMHA-ID-Packet: Z4gvK5o622ozTB0yWzQ48ThVy2YQZnqpYl517QYdIsl4DFKHUh0tC1FxFdQEXG9As2khkSf8NfI=
+From: =?utf-8?B?TWFya2V0aW5nIE1hZ2F6aW5l?=
+	<user@domain.com>
+Reply-To: =?utf-8?B?TWFya2V0aW5nIENpcmN1bGF0aW9u?=
+	<user@domain.com>
+To: <user@domain.com>
+Subject: =?utf-8?B?TWFya2V0aW5nIERhaWx5IFNpbmdhcG9yZSwgMTEgSnVseTogVGhlIGJyYW5k?=
+ =?utf-8?B?IHRoYXTigJlzIHdpbm5pbmcgaW4gdGhlIFdvcmxkIEN1cCBwbHVzIElEQSBs?=
+ =?utf-8?B?b29rcyBmb3IgYSBzb2NpYWwgbWVkaWEgYWdlbmN5?=
+Return-Path: user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+ <<link>>       
+
+<<link>>   SUBSCRIBE       JOBS       EVENTS        
+ <<link>>       
+
+Find us on:       <<link>>      <<link>>    <<link>>   <<link>>   
+11 JULY 2015     <<link>>       
+
+ <<link>>       
+
+The brand that’s winning in the World Cup       
+
+<<link>>   
+
+Yep, you guessed it - It's the brand that's sponsored both winning teams in the last two epic matches. Read more here. » More   
+BREAKING NEWS
+IDA looks for a social media agency
+
+Cathay Pacific hands global digital account to DigitasLBi
+
+TNS: TV strikes back, but not enough
+
+<<link>>   
+
+ <<link>>
+

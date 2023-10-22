@@ -1,0 +1,309 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 24 May
+ 2015 19:15:18 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 24 May 2015 
+ 19:15:15 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 933216056
+ for user@domain.com; Tue, 24 May 2015 18:15:15 -0500
+X-Note-AR-ScanTimeLocal: 5/24/2016 6:15:14 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @turner.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: LOCAL->United States->
+X-Note-Sending-IP: 198.2.129.87
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from domain.com ([198.2.129.87] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 140500542
+ for user@domain.com; Tue, 24 May 2015 18:15:14 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=domain.com;
+ h=Subject:From: =?utf-8?Q?CNN=20Politics=20Nightcap?= <CNNNightcap@turner.com>
+ bh=RIIOoTClw/wqiPZnhPPGfJoFxYc=;
+ b=ZKVuce0tGwT0kmCJKr4FaB/sTETjwBQ3o9MNcEBnE0xUokCCkMYt31VCiC1LEDUa3QYGClELuYca
+   NTCDe7ThVT8hTAL7S4DuxXbxuaMI62q5e9M4zYb1LTgC3Gw2L9/7vBJaaLJBovpoIhvJS1Lxdofe
+   oB3938P8pdmvubziosY=
+Received: from (127.0.0.1) by domain.com id h8jg84174f4v for
+ <user@domain.com>; Tue, 24 May 2015 23:15:12 +0000 (envelope-from
+ <user@domain.com>)
+Subject: =?utf-8?Q?=27Lay=20off=20Bernie=20Sanders=20a=20little=20bit=27?=
+From: =?utf-8?Q?CNN=20Politics=20Nightcap?= <CNNNightcap@turner.com>
+Reply-To: =?utf-8?Q?CNN=20Politics=20Nightcap?= <user@domain.com>
+To: <user@domain.com>
+Date: Tue, 24 May 2015 23:15:12 +0000
+Message-ID: <47user@domain.com>
+X-Mailer: MailChimp Mailer - **CIDdfd4091ec9531c496baa**
+X-Campaign: mailchimp47c9040f6ff957a59bd88396e.dfd4091ec9
+X-campaignid: mailchimp47c9040f6ff957a59bd88396e.dfd4091ec9
+X-Report-Abuse: Please report abuse for this campaign here: <<link>>
+X-MC-User: 47c9040f6ff957a59bd88396e
+X-Feedback-ID: 43253633:43253633.258173:us11:mc
+List-ID: 47c9040f6ff957a59bd88396emc list <47c9040f6ff957a59bd88396e.123725.list-domain.com>
+X-Accounttype: pr
+List-Unsubscribe: <mailto:user@domain.com?subject=unsubscribe>, <<<link>>>
+Sender: CNN Politics Nightcap <user@domain.com>
+x-mcda: FALSE
+Content-Type: multipart/alternative;
+	boundary="_----------=_MCPart_249423363"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+CNN Politics: Nightcap
+View this email in your browser (<<link>>
+c9040f6ff957a59bd88396e&id=3Ddfd4091ec9&e=3D531c496baa)
+May 24=2C 2015 
+by Eric Bradner
+Welcome to CNN Politics Nightcap and good Tuesday night from Washington --=
+ the city -- not the state=2C which is holding its Republican presidential=
+ primary today. Bernie Sanders backed away from his warning of a "messy" c=
+onvention=2C even as he challenged Kentucky's primary results. Your barten=
+der is Eric Bradner (<<link>>
+_071915_profile?sr=3Dnl_pol_072215_bradner) . The tip jar: user@domain.com=
+m (mailto:user@domain.com) .
+
+** Harry Reid's unity play: 'Lay off' Sanders
+------------------------------------------------------------
+
+One influential Democrat not concerned about escalating tensions as Bernie=
+ Sanders carries his fight against Hillary Clinton through California's Ju=
+ne 7 primary: Senate Minority Leader Harry Reid. He dismissed a question a=
+bout Sanders' "tenuous loyalty" to the party=2C saying=2C "I think we shou=
+ld just kind of lay off Bernie Sanders a little bit=2C" and he called the=
+ Vermont senator a "good person." Could Reid be the Democratic uniter? CNN=
+'s Stephen Collinson writes that the party needs one (<<link>>
+016/05/24/politics/bernie-sanders-hillary-clinton-democrats/index.html) .
+
+A little help for their friends: Reid suggested Sanders will play a role h=
+elping Democrats reclaim the Senate. "I received a phone call today from R=
+uss Feingold=2C" the Wisconsin Democratic Senate hopeful=2C Reid said. "I=
+=E2=80=99m very happy that Sen. Sanders is supporting him fully=2C big tim=
+e. That=E2=80=99s great."
+
+Not so "messy" after all? Sanders eased away from his declaration that the=
+ Democratic convention could be "messy=2C" making clear that doesn't mean=
+ violent. "The context of that was that democracy is messy=2C that people=
+ will have vigorous debate on the issues=2C" he said on NBC's "Today." Mor=
+e from CNN's Eugene Scott (<<link>>
+anders-jeff-weaver-messy/) .
+
+Why is Clinton disliked? "Clinton=E2=80=99s unpopularity is akin to the un=
+popularity of a workaholic=2C" posits The New York Times' David Brooks (ht=
+tp://domain.com/2016/05/24/opinion/why-is-clinton-disliked.html?_r=3D=
+1&mtrref=3Dundefined&gwh=3D70032CEC5EF293AA33B9380F7F6E59AF&gwt=3Dpay&asse=
+tType=3Dopinion) . He suggests voters demand "a real person instead of jus=
+t a productive one."
+
+** Sanders' Kentucky decision: Why not?
+------------------------------------------------------------
+
+Bernie Sanders' campaign says it doesn't have reason to believe Kentucky's=
+ votes were miscounted -- but it wants a recount all the same. Sanders met=
+ the deadline Tuesday to request a recanvass of every voting machine (http=
+://domain.com/2016/05/24/politics/bernie-sanders-kentucky-re-canvass/inde=
+x.html) in the state to verify Hillary Clinton's nail-biter victory.
+
+Where things stand: Clinton's lead was by 1=2C923 votes=2C according to th=
+e Kentucky secretary of state's office -- with 46.8% of the vote to Sander=
+s' 46.3%. Clinton won 28 delegates to Sanders' 27. Because the race was so=
+ close=2C Sanders' request will be granted automatically.
+
+The best-case scenario for Sanders: One more delegate. Why does he care ab=
+out a single delegate? The Washington Post's Philip Bump has some thoughts=
+ (<<link>>
+ders-keeps-playing-small-ball-on-delegates/?tid=3Dpm_politics_pop_b) .
+
+** McAuliffe probe highlights Clinton ties
+------------------------------------------------------------
+
+The revelation that Virginia Gov. Terry McAuliffe is facing a federal inve=
+stigation related to campaign donations could complicate Hillary Clinton's=
+ effort to win the crucial swing state and its 13 electoral votes in Novem=
+ber=2C writes CNN's Ryan Nobles (<<link>>
+rry-mcauliffe-hillary-clinton-2016/index.html) .
+
+There are extensive ties between the McAuliffe campaign of 2015 and the Cl=
+inton campaign of 2016. To start: Clinton campaign manager Robby Mook ran=
+ McAuliffe's successful campaign for governor. The attorney representing M=
+cAuliffe in this matter=2C Mark Elias=2C is also an attorney for the Clint=
+on campaign.
+Straight Up
+
+** "Disney pays its workers wages that are so low that they are forced to=
+ live in motels."
+------------------------------------------------------------
+
+**
+-- Bernie Sanders at a Tuesday rally. Sanders was campaigning in Anaheim -=
+- right by Disneyland=2C a huge employer there. He bashed Disney as an exa=
+mple of corporate greed.
+------------------------------------------------------------
+
+Buzzing
+Georgia Democratic Rep. John Lewis=2C the legendary civil rights leader=2C=
+ marked an anniversary with this mugshot (<<link>>
+/status/735101117223297026) that has more than 11=2C000 retweets.
+Last Call
+
+** Changing the GOP platform just got harder
+------------------------------------------------------------
+
+The Republican National Committee moved to make sure Donald Trump doesn't=
+ back off his pledge to keep the party's platform as is=2C with chairman R=
+eince Priebus appointing three conservative stalwarts -- Wyoming Sen. John=
+ Barrasso=2C Oklahoma Gov. Mary Fallin and North Carolina Rep. Virginia Fo=
+xx -- to lead its platform committee. CNN's Tom LoBianco looks at what it=
+ means (<<link>>
+ee-platform-convention/index.html) .
+
+About Trump's bogus "very fishy" claim: CNN's Jake Tapper took apart Trump=
+'s (<<link>>
+-clinton/2016/05/23/ed109acc-2100-11e6-8690-f14ca9de2972_story.html) "outr=
+ageous and long-ago-debunked falsehood" about former Bill Clinton aide Vin=
+cent Foster's suicide=2C calling it a "pro-truth position." Watch it here=
+ (<<link>>) .
+
+** California dreaming: Sanders back on TV
+------------------------------------------------------------
+
+Bernie Sanders went up with a $1.5 million ad buy in California Tuesday wi=
+th a new 30-second spot (<<link>>) th=
+at's a greatest-hits reel of his policy proposals: Free college tuition=2C=
+ campaign-finance reform and Wall Street reform. =E2=80=9CCalifornia=2C it=
+=E2=80=99s a long way to Washington=2C but you can send them a message the=
+y can=E2=80=99t ignore=2C=E2=80=9D he says in the ad.
+
+But $1.5 million is nothing there. California is a massively expensive sta=
+te=2C and it takes $5 million a week to penetrate at all there=2C ad strat=
+egists tell CNN's Jeff Zeleny. The amount reflects a cash crunch for a can=
+didate with a record-shattering online fundraising operation. (This is his=
+ second spot in the Golden State. His first=2C in April=2C was "$27 (https=
+://domain.com/watch?v=3D3nJhuVBXlXk) " -- the amount of his average d=
+onation.)
+
+Not on the air at all in California: Hillary Clinton.
+
+No more debates. That was last night's news as Clinton rejected Fox News'=
+ proposal (<<link>>
+anders-fox-debate-california/index.html) to host a final bout in Californi=
+a. Sanders had said he was in.
+
+** John Hickenlooper and how to overshare
+------------------------------------------------------------
+
+Colorado Gov. John Hickenlooper didn't hold anything back in his new memoi=
+r=2C "The Opposite of Woe: My Life in Beer and Politics (<<link>>
+=2Ecom/Opposite-Woe-Life-Beer-Politics/dp/1101981679) ." Just check out this=
+ paragraph from The Denver Post's John Frank (<<link>>
+16/05/23/colorado-governor-john-hickenlooper-reveals-his-secrets-in-a-new-=
+book-that-puts-him-in-national-political-spotlight/) : "Hickenlooper recou=
+nts the first time he smoked pot at age 16. And his attempt to grow mariju=
+ana outside his bedroom window in suburban Pennsylvania. His love-sick dep=
+ression as a freshman at Wesleyan University and the lithium capsules he n=
+eeded to survive final exams. And the time in college he =E2=80=98got a li=
+ttle high=E2=80=99 and took a nude self-domain.com in a bathtub."
+
+Speaking of oversharing: "Weiner might well be the most mortifying movie e=
+ver made=2C" writes Vanity Fair's Bruce Handy (<<link>>
+ollywood/2016/05/anthony-weiner-psychologists) of the documentary about An=
+thony Weiner and wife (and Hillary Clinton aide) Huma Abedin.
+
+** VA head apologizes for Disney comparison
+------------------------------------------------------------
+
+From CNN's Tom LoBianco (<<link>>
+ld-veterans-affairs-disney/index.html) : Veterans Affairs Secretary Bob Mc=
+Donald apologized for comparing long waits at VA hospitals to the lines at=
+ Disney amusement parks=2C amid calls from top Republicans for him to resi=
+gn because of the remark. "It was never my intention to suggest that I don=
+'t take our mission of serving veterans very seriously=2C" he said.
+
+What got McDonald in trouble: Saying at a Christian Science Monitor breakf=
+ast: "When you go to Disney=2C do they measure the number of hours you wai=
+t in line? Or what's important? What's important is your satisfaction with=
+ the experience."
+<<link>>
+Tipsy
+That's what's at stake in Washington's Republican primary -- a by-mail con=
+test that closes at 11 p.m. ET. Of those=2C 14 are statewide delegates div=
+ided proportionally=2C and the rest of three apiece to the winner of each=
+ of Washington's 10 congressional districts. Per CNN's count=2C Donald Tru=
+mp is still 47 delegates shy of clinching the GOP nomination=2C so he can'=
+t do that tonight. The only real question: Will Trump fail to get all -- o=
+r almost all -- of the delegates? Ted Cruz=2C John Kasich and Ben Carson w=
+ere still technically on the ballots there.
+Closing Time
+
+House Speaker Paul Ryan is clamping down (<<link>>
+ction/house/281077-house-gop-seeks-to-avoid-more-unexpected-floor-fights)=
+ on Democrats' ability to surprise the GOP with politically-charged amendm=
+ents. ... Rush Limbaugh is still suffering (<<link>>
+ne/story/2016/05/is-rush-limbaugh-in-trouble-talk-radio-213914) for callin=
+g Sandra Fluke a "slut=2C" four years later. ... Donald Trump's claim of r=
+aising $6 million for veterans' groups looks overblown (<<link>>
+domain.com/news/post-politics/wp/2016/05/24/what-we-know-and-what-we-don=
+t-about-the-money-donald-trump-raised-for-veterans/?hpid=3Dhp_rhp-top-tabl=
+e-main_trump-vets-305pm%3Ahomepage%2Fstory) =2C but he's funneled at least=
+ $3.1 million their way.
+Paid Content
+<<link>>
+_sendid=3Ddfd4091ec9&cs_esp=3Dmailchimp&cs_offset=3D0&cs_stripeid=3D2621
+
+<<link>>
+_sendid=3Ddfd4091ec9&cs_esp=3Dmailchimp&cs_offset=3D1&cs_stripeid=3D2621
+
+<<link>>
+_sendid=3Ddfd4091ec9&cs_esp=3Dmailchimp&cs_offset=3D2&cs_stripeid=3D2621
+<<link>>
+tm_campaign=3Dcnn&utm_content=3Danimatedlogo
+<<link>>
+2t1L Share (<<link>>
+domain.com%2Fb22t1L)
+<<link>>+off+Bernie+Sanders+a+little+=
+bit%27: http%3A%2F%2domain.com%2Fb22t1L Tweet (<<link>>
+tweet?text=3D%27Lay+off+Bernie+Sanders+a+little+bit%27: http%3A%2F%2Feepur=
+l.com%2Fb22t1L)
+<<link>>
+=3Ddfd4091ec9&e=3D531c496baa Forward (<<link>>
+ard?u=3D47c9040f6ff957a59bd88396e&id=3Ddfd4091ec9&e=3D531c496baa)
+Subscribe to Nightcap (<<link>>)
+Get the Nightcap=2C a comprehensive summary of the most important politica=
+l news=2C delivered to your inbox daily.
+
+Your bartender for ** CNN Politics' Nightcap (<<link>>)
+is Eric Bradner (** @ericbradner (<<link>>)
+) =E2=80=94 Tips=2C thoughts and beer recommendations are always welcome a=
+t ** user@domain.com (mailto:user@domain.com)
+=2E
+Copyright =C2=A9 2015 Cable News Network=2C LP=2C LLLP.  A Time Warner Com=
+pany.  All Rights Reserved.=2C All rights reserved.
+ You are receiving this message because you subscribed to the CNN Politics=
+ Nightcap newsletter.
+
+Our mailing address is:
+Cable News Network=2C LP=2C LLLP.  A Time Warner Company.  All Rights Rese=
+rved.
+One CNN Center
+Atlanta=2C GA 30328
+USA
+** unsubscribe from this list (<<link>>
+?u=3D47c9040f6ff957a59bd88396e&id=3Da4165679e3&e=3D531c496baa&c=3Ddfd4091ec9=
+)
+** update subscription preferences (<<link>>
+e?u=3D47c9040f6ff957a59bd88396e&id=3Da4165679e3&e=3D531c496baa)
+** Facebook (<<link>>)
+** Twitter (<<link>>)
+** Tumblr (<<link>>)

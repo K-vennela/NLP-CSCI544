@@ -1,0 +1,19 @@
+Content-Type: text/plain;
+charset="utf-8"
+Content-Disposition: inline
+X-MIME-Autoconverted: from 8bit to quoted-printable by oin.rl.ac.uk id l66FNNrC019808
+Thanks to Tim and Keith for that correction.
+I've inserted that, and also reworded the paragraph in the conclusions which 
+talked about "serious flaws" along the lines suggested by Tim. It now reads:
+"The IPCC2001 conclusion that temperatures of the past millennium
+are unlikely to have been as warm, at any time prior to the 20th
+century, as the last decades of the 20th century is supported
+by subsequent research and by the results obtained here.
+We have also reviewed and, in some cases, tested with new
+analysis, papers which claim to refute that IPCC2001 conclusion and
+found that their claims are not well supported."
+This version attached with the revised supplementary material.
+I need to go over the `changes' document again, and the response, but I hope 
+to send it in on Monday.
+cheers,
+Martin

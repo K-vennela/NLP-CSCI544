@@ -1,0 +1,52 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Wed, 26 Feb 2015 17:38:08 +0100
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id 467AD621B6	for
+ <user@domain.com>; Wed, 26 Feb 2015 16:29:45 +0000 (GMT)
+Received: by domain.com (Postfix)	id 6B656B6603D; Wed, 26 Feb 2015 
+ 17:38:08 +0100 (CET)
+Delivered-To: user@domain.com
+Received: from [172.20.20.174] (unknown [172.20.20.174])	(using TLSv1 with
+ cipher DHE-RSA-AES256-SHA (256/256 bits))	(No client certificate requested)
+	by domain.com (Postfix) with ESMTPSA id 62AADB6600D;	Wed, 26 Feb
+ 2015 17:38:08 +0100 (CET)
+Message-ID: <1393432689.14210.19.user@domain.com>
+Subject: Network Injector pacchetti
+From: Andrea Di Pasquale <a.dipasquale@hackingteam.com>
+Reply-To: <user@domain.com>
+To: Alberto Ornaghi <user@domain.com>
+CC: <user@domain.com>
+Date: Wed, 26 Feb 2015 17:38:09 +0100
+In-Reply-To: <user@domain.com>
+References: <user@domain.com>
+X-Mailer: Evolution 3.2.3-0ubuntu6 
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=ANDREA DI PASQUALE849
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1267958284_-_-"
+
+Ciao Alberto,
+
+ho aggiornato tutto:
+
+1) injector.zip in:
+
+rcs-dev\share\RELEASE\SVILUPPO\cores galileo
+
+2) networkinjector-9.2.0.iso, injector.zip e CHANGELOG in:
+
+rcs-dev\share\RELEASE\SVILUPPO\Network Injector 9.2.0
+
+Grazie,
+ciao!
+
+Andrea
+
+Il giorno lun, 24/02/2014 alle 16.14 +0100, Alberto Ornaghi ha scritto:
+

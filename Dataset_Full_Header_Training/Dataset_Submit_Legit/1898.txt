@@ -1,0 +1,89 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 4 May
+ 2015 12:50:47 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 4 May 2015 
+ 12:50:41 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 896314474
+ for user@domain.com; Wed, 04 May 2015 11:50:48 -0500
+X-Note-AR-ScanTimeLocal: 5/4/2016 11:50:46 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:74.125.82.51 DOM:gmail.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note: ICH-CT/SI:0-776/SG:1 5/4/2016 11:50:21 AM
+X-Note-SnifferID: 100
+X-GBUdb-Analysis: Unknown
+X-Signature-Violations: 100-5941377-18358-18899-m
+	100-5952969-18886-18902-m
+	100-5941377-0-32767-f
+X-Note-419: 15.6273 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/4/2016 11:50:44 AM
+X-Warn: OPTOUT
+X-Warn: BULKMAILER
+X-Note: Spam Tests Failed: OPTOUT, BULKMAILER
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 74.125.82.51
+X-Note-Reverse-DNS: mail-wm0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G280 G285 G373 G375 G429 G437 G579 G668 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from mail-wm0-domain.com ([74.125.82.51] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 136577156
+ for user@domain.com; Wed, 04 May 2015 11:50:46 -0500
+Received: by mail-wm0-domain.com with SMTP id a17so105051164wme.0
+        for <user@domain.com>; Wed, 04 May 2015 09:50:46 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:From: Ami Copeland <ami.copeland@gmail.com>
+        bh=EIrYMKBLdZa4IbBwexNn51mJJTNYVXfM0gqdsg29+MU=;
+        b=kpVmLWaSZUaJvCB3g7DKnbCaQKM2hCevg9c3XzOp+xGlHziu2dZaMw94faHEwGHl9w
+         dgnPAJXiig1WY+ZJSUDyJg8nwiWA0y3Or4EQxGG1SVb2jBSyr8wzYHeUHOCQK+q3lJVO
+         zbHUD2BTO3snwwoTNk42Prafhl+ihA0LdgrMxYcoZy/6V1tzctl3sTlryoEjds/ISauK
+         EZvb8OPheu2wkmBLGMkkS2D5l1EVzmGmJ017ih1e7ZzpldPEHQBW6JeIdPPp9gMM8t1t
+         QRqBDUydh4cN2OakYRYwV7APzq7tDYUKnhH13PibPLYGzViy33yGIhjPoCMoP1T7Vt4t
+         JFLA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:date
+         :message-id:subject:From: Ami Copeland <ami.copeland@gmail.com>
+        bh=EIrYMKBLdZa4IbBwexNn51mJJTNYVXfM0gqdsg29+MU=;
+        b=aB3iN6kq3cfcZepssS6cgaRURcTO96E4SBREGCuVRocmlyg42TeDhtT6FMail+0x39
+         Z/N6S9/k3OMvZJ9RiA86kG5YxgXsLm9qfmKyHY0K2gUX2ti0Y9VTAddHyIk0a1tb9YB1
+         YDLBXS52UoHarLoLJyC4N4nMDOtLAFSNg92nTnIfuodj73pLG6yDK/3d/a5anCy91lPr
+         HxYUln7JFH5z6rL0Ge3/jDNE9f3u/+CrO84pkcdU8XCHXl+Lv2Y5iiIVlCBEyC+UoXBT
+         n1g3YF5PLi6FMGNqtCm4j+Sfwbh1uw7pkRRnKn0HQDxWhiOdqlihjbprVp+nafsY/raI
+         aKQA==
+X-Gm-Message-State: AOPr4FWCglvtULCBnqA4PKvDBC+0gOftdtNsVUwbc64UQx5ECVKL0XjpoDf8Nb5dPEgkKJ7Fvp4k86Fe7TxICw==
+X-Received: by 10.194.87.195 with SMTP id ba3mr10703909wjb.80.1462380645122;
+ Wed, 04 May 2015 09:50:45 -0700 (PDT)
+Received: by 10.28.171.193 with HTTP; Wed, 4 May 2015 09:50:44 -0700 (PDT)
+In-Reply-To: <870616user@domain.com>
+References: <D34F9AD2.6C352%user@domain.com>
+	<870616user@domain.com>
+Date: Wed, 4 May 2015 12:50:44 -0400
+Message-ID: <CABPTZuONT1e-+fQnM7dH4tQPbU=N_4nb9XF7SB_nBO+user@domain.com>
+Subject: Re: Friday's Conference Call with President Obama
+From: Ami Copeland <ami.copeland@gmail.com>
+To: "User" <user@domain.com>
+Content-Type: multipart/related; boundary="089e0102ee24e1af55053207069e"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Thank you.
+Been working on this since I got here.
+Though I'm pretty sure he still does fundraisers for you on a regular
+basis.
+
+Just spoke with Katie Hogan at OFA...man, the years have flown by.
+

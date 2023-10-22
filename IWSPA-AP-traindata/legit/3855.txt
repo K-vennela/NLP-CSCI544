@@ -1,0 +1,14 @@
+sorry phil, one more relevant item. I've cc'd in Keith on this, since you had mentioned
+that you had discussed the issue w/ him.
+This is from Dave Meko's (quite nice!) statistics lecture notes:
+[1]<<link>>~dmeko/notes_8.pdf
+See page 2, section 8.1.
+He provides two (in reality, as I mentioned before, there are really 3!) basic boundary
+constraints on a smooth (ie, in "filtering"). The first method he refers to is what I
+called the  "minimum norm" constraint (assuming the long-term mean beyond the boundary).
+The second, which he calls "reflecting the data across the endpoints", is the constraint I
+have been employing which, again, is mathematically equivalent to insuring a point of
+inflection at the boundary.  This is the preferable constraint for non-stationary mean
+processes, and we are, I assert, on very solid ground (preferable ground in fact) in
+employing this boundary constraint for series with trends...
+mike

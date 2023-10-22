@@ -1,0 +1,455 @@
+Dear Colleagues:
+I am sending you a copy of Ged Davis' IPCC-SRES Zero Order Draft on
+storylines and scenarios.  The text is appended below, but I am also
+attaching versions in MS Word and in Rich Text formats so that you can
+better view the graphics.
+Please send any comments directly to Ged Davis at 
+Ged.R.Davis@si.simis.co
+Regards,
+Anne Johnson
+****************************************************************************
+******
+Zero Order Draft
+IS99
+Storylines and Scenarios
+February, 1998
+Ged Davis et al
+For Comment Only
+Draft Paper for the IPCC Special Report on Emissions Scenarios
+********************************* 
+Contents
+1. Introduction
+2. Scenarios - overview
+3. Golden Economic Age (A1)
+4. Sustainable Development (B1)
+5. Divided World (A2)
+6. Regional Stewardship (B2)
+7. Scenario comparisons
+8. Conclusions
+Appendix 1: Scenario quantification
+1. Introduction
+The IS99 scenarios have been constructed to explore future developments in
+the global environment with special reference to the production of GHGs.
+These scenarios are being developed in three phases:
+- Phase 1: the Special Report on Emissions Scenarios (SRES) team is
+preparing a set of scenarios for wide public discussion, which is the
+subject of this note,
+- Phase 2: the scenarios will be placed on the World Wide Web, subject to
+public scrutiny, and suggestions for relevant modification of the scenarios
+will be sought, 
+- Phase 3: the scenarios will be finalised for peer review, incorporating
+suggestions received during the public review, by April 1999.
+Phase 1 centred on a facilitated open process for Lead Authors at workshops
+in Paris, Vienna and Utrecht.  The scenarios developed allow for a broad
+range of GHG emissions and provide a basis for reflection on policy.
+1.1	What are scenarios?
+Scenarios are pertinent, plausible, alternative futures.  Their pertinence,
+in this case, is derived from the need for climate change modelers to have
+a basis for assessing the implications of future possible paths for
+Greenhouse Gas Emissions (GHGs).  Their plausibility is tested by peer
+review, in an open process, which includes their publication on the World
+Wide Web.
+There are clearly an infinite number of possible alternative futures to
+explore.  We have consciously applied the principle of Occam's Razor ,
+seeking the minimum number of scenarios to provide an adequate basis for
+climate modelling and challenge to policy makers.  The alternative futures
+constructed are not, and cannot be, value free since like any work they
+self-evidently reflect the team's view of the possible.  The scenarios
+should not be construed as being desirable or undesirable in their own
+right and have been built as descriptions of possible, rather than
+preferred, developments.  There can be no objective assessment of the
+probability of the scenarios, although in the prevailing zeitgeist  some
+will appear to individuals to be more likely than others.  Scenarios are
+built to clarify ignorance rather than present knowledge -- the one thing
+we can be sure of is that the future will be very different from any of
+those we describe!
+2. Scenarios - overview
+2.1	Scenarios: key questions and dimensions
+Developing scenarios for a period of one hundred years is a relatively new
+field.  Within that period we might expect two major technological
+discontinuities, a major shift in societal values and a change in the
+balance of geopolitical power.  A particular difficulty is that people are
+not trained to think in these time-spans, are educated in narrow
+disciplines and our ability to model large-systems, at the global level, is
+still in its infancy.  Additionally, most databases do not go back much
+further than 50 years and many less than that.  How best to integrate
+demography, politico-economic, societal and technological knowledge with
+our understanding of ecological systems?  Scenarios can be used as an
+integration tool, allowing an equal role for intuition, analysis and
+synthesis.
+Terminology
+Storylines, Scenarios and Scenario Families
+Storyline: a narrative description of a scenario (or a family of
+scenarios), highlighting the main scenario characteristics, relationships
+between key driving forces and the dynamics of the scenarios.
+Scenario: projections of a potential future, based on a clear logic and a
+quantified storyline.
+Scenario family: one or more scenarios which have the same demographic,
+politico-societal, economic and technological storyline.
+Scenario Classification
+Our approach has been to develop a set of four "scenario families".  The
+storylines of each of these scenario families describes a demographic,
+politico-economic, societal and technological future.  Within each family
+one or more scenarios explore global energy industry and other developments
+and their implications for Greenhouse Gas Emissions and other pollutants.
+These are a starting point for climate impact modelling.
+The scenarios we have built explore two main questions for the 21st
+century, neither of which we know the answer to:
+- Can adequate governance -- institutions and agreements -- be put in place
+to manage global problems?
+- Will society's values focus more on enhancing material wealth or be more
+broadly balanced, incorporating environmental health and social well-being.
+The way we answer these questions leads to four families of scenarios:
+- Golden Economic Age (A1): a century of expanded economic prosperity with
+the emergence of global governance
+- Sustainable Development (B1): in which global agreements and
+institutions, underpinned by a value shift, encourages the integration of
+ecological and economic goals
+- Divided World (A2): difficulty in resolving global issues leads to a
+world of autarkic regions
+- Regional Stewardship (B2): in the face of weak global governance there is
+a focus on managing regional/local ecological and equity
+Within these scenario families we examine plausible energy industry and
+other developments which will contribute to GHG emissions.  Although the
+storylines cannot have explicit climate change policy measures in them
+there are examples of indirect mitigation measures in some of the scenarios.
+The scenario quantifications of the main indicators related to growth of
+population and economy, the characteristics of the energy system and the
+associated greenhouse gas emissions all fall within the range of prior
+studies .
+3.	Golden Economic Age (A1)
+This scenario family entitled "Golden Economic Age", describes rapid and
+successful economic development.  The primary drivers for economic growth
+and development "catch up" are the strong human desire for prosperity, high
+human capital (education), innovation, technology diffusion, and free trade.
+The logic of successful development assumes smooth growth with no major
+political discontinuities or catastrophic events.  The scenario family's
+development model is based on the most successful historical examples of
+economic growth, i.e., on the development path of the now affluent OECD
+economies.  Historical analogies of successful economic "catching up" can
+be found in the Scandinavian countries, Austria, Japan, and South Korea.
+"Intangible" assets (human capital, stable political climate) take
+precedence over "tangible" assets (capital, resource, and technology
+availability) in providing the conditions for a take-off into accelerated
+rates of development.  Once these conditions are met, free trade enables
+each region to access knowledge, technology, and capital to best deploy its
+respective comparative economic and human resource advantages.
+Institutional frameworks are able to successfully sustain economic growth
+and also to handle the inevitable volatility that rapid economic growth
+entails.
+The "intangible" prerequisites for accelerated rates of economic growth
+also offer long-term development perspectives for regions that are poorly
+endowed with resources or where current economic prospects are not
+auspicious, such as Sub-Saharan Africa.  There, for instance, fostered
+regional trade and capital availability enhance the pull-effects of a
+strong South African economy.  In other regions, growth may be fuelled by
+domestic know-how and high human capital valued at the international
+market.  An example of this is the thriving software industry of the Indian
+subcontinent.  In yet other regions, growth could be stimulated by the
+expansion of regional economic partnerships and free trade arrangements
+(e.g., extensions of NAFTA and the European Union).
+The main difference with the historical OECD experience is a certain
+acceleration in time and space, (i.e., "leapfrogging") made possible by
+better access to knowledge and technology, a consequence of the high-tech
+and free trade characteristics of development.  Successful catching up
+becomes pervasive; all parts of the "developing world" participate, though
+with differences in timing.  The final outcome is that practically all
+parts of the world achieve high levels of affluence by the end of the 21st
+century, even if disparities will not have disappeared entirely.  The
+current distinction between "developed" and "developing" countries will in
+any case no longer be appropriate.
+As in the past, high growth (a "growing cake") eases distributional
+conflicts.  Everyone reaps the benefits of rapid growth, rising incomes,
+improved access to services, and rising standards of living.  The economic
+imperatives of markets, free trade, and technology diffusion (i.e.,
+competition) that underlie the high growth rates provide for efficient
+allocation of resources.  Efficiency and high productivity are the positive
+by-products of the highly competitive nature of the economy.  They also
+provide the economic resources for distributive and social measures
+required for a stable social and political climate, vital for sustaining
+high growth rates in human capital, productivity, innovation, and hence
+economic growth.
+The economic development focus explains its central metric: the degree of
+economic development as reflected in per capita income levels (GDP at
+market exchange rates as well as at purchasing power parity rates).  The
+principal driver is the desire for prosperity, all major driving forces are
+closely linked to prosperity levels, with actual causality links going in
+both directions.  For example, demographic variables co-evolve with
+prosperity: mortality declines (i.e. life expectancy increases) as a
+function of higher incomes (better diets and affordable medical treatment).
+In turn, changes in the social values underlying the fertility transition
+also pave the way for greater access to education, modernisation of
+economic structures, and market orientation.  These are key for innovating
+and diffusing the best practice technologies underlying the high
+productivity, and hence economic growth, of the scenario.
+3.1	Key Scenario Drivers and their Relationships
+3.11	 Population and Economic Development
+High education, stable social relations, and incentives for innovation and
+experimentation are the preconditions for productivity increases underlying
+rapid economic development in this world-- as a result, social, economic,
+and demographic development are highly correlated .
+The link between demographic and economic variables in the scenario
+corresponds to present empirical observations: the affluent live long and
+have few children.  High per capita incomes are thus associated with both
+low mortality and low fertility. Together, this results in rather low
+population growth, characterised in addition by a considerable "greying" of
+the population. 
+This family of scenarios combines high life expectancy with low fertility,
+where OECD rates are assumed to stabilize at current (below replacement)
+levels, and developing countries follow a similar transition by the
+mid-21st century.  Fertility rates range between 1.3 to 1.7 children per
+woman.  Life expectancy can approach some 95 years, with a regional
+variation between 80 and 95 years.  Global population grows to some 9
+billion by 2050, and declines to 7 billion by 2100, the result of continued
+below replacement fertility in all regions.   
+Population ageing results in economic growth rates somewhat lower than
+historical experience, especially in the OECD countries.  Economic growth
+rates slow over time in proportion to the reduction of the potentially
+economic active population (age 15 to 65), which decline in some regions to
+50 percent compared to the historical average of approximately 70 percent.  
+For "developing countries", economic growth is based on the most successful
+cases of economic "catch up" found in history.  The economic growth profile
+of Japan after WW II served as a model to delineate the upper bounds of
+possible GDP growth for all regions.  Consistent with growth theory, GDP
+expansion initially accelerates, passes through a peak, in which growth
+rates around 10 percent per year can be sustained for several decades, and
+then declines.  Once the economic and industrial base is firmly established
+and the economy matures, growth rates decline with increasing income
+levels.  This reflects saturation effects and a higher emphasis on quality
+rather than quantity at high income levels. 
+The global economy in the "Golden Economic Age" expands at an average
+annual rate of three percent per year to 2100.  This is about the same rate
+as the global average since 1850 and in this respect may simply be
+considered "dynamics as usual".  Non-Annex-I economies expand with an
+average annual growth rate of four percent per year, twice the rate of
+Annex-I economies.  By approximately 2030 Non-Annex-I GDP surpasses that of
+the Annex-I economies.  Per capita income disparities are reduced, but
+differences between regions are not entirely eliminated.  Non-Annex-I per
+capita income reaches the 1990 Annex-I level (14,000 $/capita) by around
+2040.  By 2100 per capita income would approach 100,000 $/capita in Annex-I
+countries and 70,000 $/capita in Non-Annex-I countries.
+3.12	Equity
+Equity issues are not a major concern in the world, but is rather a
+by-product of the high rates of economic development.  Existing per capita
+income gaps between regions close up in a similar way as between Western
+Europe and Japan compared to the US in the 20th century. Disparities
+continue to persist between regions, but more so within particular regions.
+Nevertheless, the high economic growth rates require a certain degree of
+income distribution.  Extreme income disparities are found to be negative
+influencing factors for economic growth.  Additionally, fair income
+distribution only assures the large consumer markets and the social
+cohesion and stability required for the realisation of high economic growth.
+3.13	Settlement patterns/communication
+Communication technologies and styles are highly homogeneous and extremely
+developed -- rather than a "global village" future, this is one of "global
+cities."  Existing trends towards urbanisation continue, as cities provide
+the highest "network externalities" for the educational and R&D-intensive
+economic development pattern underlying the scenario.  Regional differences
+in settlement patterns persist.  They range from fragmented, compact, but
+large (i.e., 20+ million inhabitants) cities that depopulate their
+respective rural hinterlands in Latin America to urban "corridors"
+connected by high capacity communication and transport networks (in Asia).
+Regional transport networks include high speed trains and maglevs, which
+ultimately fuse short- and long-distance transport means into single
+interconnected infrastructures.  In some parts of the world high-tech cars
+take the place that high-tech trains occupy in other parts.  
+The large urban agglomerates and the high transport demands of a high
+material growth economy generate vast congestion constraints.  These are
+solved by applying market-based instruments (prices) rather than
+regulation.  Economic instruments include access and parking fees,
+auctioning off the limited number of new car and truck licenses in
+megacities, much along the lines of the current stringent Singapore model.
+Therefore, even at very high income levels, car ownership rates could be
+comparatively low in parts of the world.  In extremely densely populated
+areas, cars remain a luxury rather than a means of mass transport (viz.
+Hong Kong).  In areas with lower population density, car densities are high
+(+1 car per inhabitant).  Car fuels could be either oil, synfuels,
+electricity, or hydrogen.  Intercontinental transport is provided by
+energy- and GHG-intensive hypersonic aircraft fuelled by methane or
+hydrogen.  They are the physical transport equivalent of the high capacity
+virtual communication links of a truly global economy.
+3.14	Environmental Concerns/Ecological resilience
+Ecological resilience is assumed to be high.  In and of themselves,
+ecological concerns receive a low priority.  Instead, the valuation of
+environmental amenities is strictly in economic terms, e.g., a function of
+affluence.  Non-congestion, clean water and air, and recreational
+possibilities in nature all assume increasing importance with rising
+affluence, although preferences for environmental amenities may differ
+across regions and income levels.  For instance, urban air quality and
+human health are valued highly even at income levels lower than those
+prevailing in England, where stringent air quality measures were introduced
+after the "killer smog" of 1952.  Reduced particulate and sulphur air
+pollution become a matter of major consumer preference at levels of $2,000
+- 3,000/capita income in Asia.  Altogether, the concept of environmental
+quality changes from "conservation" of nature to active "management" --and
+marketing-- of natural and environmental amenities and services.
+3.2	Scenarios
+The core bifurcation (with respect to GHG emissions) of the scenario family
+unfolds around alternative paths of technology development in the
+agriculture and energy sectors.  In the energy sector, the central question
+is how to manage the transition away from the current reliance on
+conventional oil and gas.  In the agricultural sector, the key issue
+concerns land productivity.
+Alternative technology bifurcations lead to a number of scenarios embedded
+and consistent within the overall theme of "prosperity via high
+techologies".  All scenarios provide the high quantities of clean and
+convenient energy forms and diverse, high quality food demanded in an
+affluent world.  Because technological change is cumulative, it can go in
+alternative, mutually exclusive directions, i.e., changes become "path
+dependent".  Alternative directions unfold around the interrelated cluster
+of variables of resource availability and conversion technologies in both
+energy and agriculture.  For instance, new technologies may enable humanity
+to tap either the vast quantities of fossil resources existing in the form
+of coal, unconventional oil, and gas with technologies that are both highly
+economic, efficient, and clean in terms of traditional pollutants, such as
+particulates or sulphur.  Alternatively, technological change could unfold
+favouring non-fossil technologies and resources, such as nuclear and
+renewables. 
+A similar bifurcation unfolds in the agricultural sector.  In one
+sub-scenario, only incremental improvements are achieved in farming
+practices and land productivity.  This is combined with a gradual global
+diffusion of meat-based diets.  Both of these trends are land- (and
+deforestation-) intensive.  Alternatively, global agriculture could move in
+the direction of genetically engineered, high productivity crops and
+"sea-farming," combined with a quality- and health-oriented diet based on
+fish and vegetables, both of which are relatively less land intensive.  As
+a result, GHG emissions range widely even for otherwise similar scenario
+characteristics.
+3.21	Energy Resources/Technology
+Resource availability and technology are tightly interrelated.  The "Golden
+Economic Age" of high productivity growth results from substantial
+technological innovation.  Both contribute to economic growth, expansion of
+accessible resources, and improved efficiency in resource use.  Factor
+productivity improvements occur across the board for agricultural land,
+materials, and energy.  Improvement rates largely follow long-term
+historical trends and are entirely technology- and income- driven.  Energy
+intensity (total commercial and traditional primary energy use per unit of
+GDP) improves at an aggregate global rate of 1.5 percent per year.
+Improvement rates vary across regions as a function of distance from the
+productivity frontier and the turnover rates of capital stock.  Ceteris
+paribus, improvement rates are higher in regions with currently lower
+efficiency and greater than average GDP growth.  This assumes no particular
+policy intervention or additional price regulation apart from the ones
+consistent with a free market environment (i.e. price subsidies are
+removed, and full costing principles are established). 
+Per capita final energy use gradually converges as income gaps close.
+Final energy use per capita in non-Annex-I countries would reach
+approximately 85 GJ (2 tons of oil equivalent) by 2050 and approximately
+125 GJ (3 toe) by 2100, i.e., about the current average of OECD countries
+outside North America.  Despite improvements in productivity and
+efficiency, the high income levels lead to resource use close to the upper
+bounds of the scenarios available in the literature.  For instance, global
+final energy use would increase to approximately 1000 EJ by 2100.
+The scenarios developed are a function of the different directions taken by
+technological change.  The key question is which primary resources may
+become economically accessible in the future, and which technologies will
+become available to convert these primary resources into the final goods
+and services demanded by consumers.  In the energy area,
+resources/technologies are key variables in determining the timing and
+nature of the transition away from currently dominant conventional oil and
+gas.
+Four pathways are possible:
+1. Progress across all resources and technologies.
+2. "Clean coal" technologies: environmentally friendly except for GHG
+emissions and possible resource extraction impacts.
+3. "Oil/Gas": smooth transition from conventional to unconventional oil and
+gas, tapping the vast occurrences of unconventional fossil fuels, including
+methane clathrates.
+4. "Bio-Nuclear": rapid technological progress in non-fossil supply and
+end-use technologies, e.g. renewables, such as solar and biomass
+combustion, nuclear and hydrogen-fuelled end-use devices, such as fuel cells.
+For the scenario quantification, a number of contrasting cases,
+characterised by the main energy form used in the second half of the 21st
+century, have been evaluated with the aid of formal energy models:
+1. The dominance of Non-Fossil fuels -- the "Bio-Nuclear" scenario (A1R).
+2. The dominance of unconventional gas, including hydrates, and oil (A1G)
+3. The dominance of "Clean Coal" (A1C)
+A brief scenario taxonomy is given below.
+Scenario	
+Dominant	
+Oil/Gas Resource	
+Technology Improvements
+Fuel	Availability	Coal	Oil/Gas	Non-fossil
+A1R 	Non-fossil	Medium (<50 ZJ )	Low	Medium 	High
+A1G 	Oil/Gas        	High (>75 ZJ)	Low	High	Low
+A1C	 Coal	Low (<35 ZJ)	High	Low	Low
+* 
+Depending on the assumed availability of oil and gas, (low/medium/high) and
+corresponding improvements in production and conversion technologies for
+coal, oil/gas, and non-fossil technologies, different energy systems
+structures unfold. For instance, in the dynamic technology cases, liquid
+fuels from coal or unconventional oil/gas resources would become available
+at less than $30  /barrel, with costs falling further by about one percent
+per year with exploitation of learning curve effects.  Non-fossil
+electricity (photovoltaics, new nuclear) would become available at costs of
+less than 10 mills/kWh ($.01/kWh) and continue to improve further as a
+result of learning curve effects.  The basic premise of the "dynamic
+technology" scenarios is that energy services could be delivered at
+long-run costs not higher than today, but with technologies having
+radically different characteristics, including environmental.  In the event
+that such technology dynamics do not materialise, energy costs and prices
+would be significantly higher than suggested above -- illustrative model
+runs suggest energy demand would be up to 20 percent lower for a fossil
+scenario without significant cost improvements .
+3.22	Agriculture
+In the agricultural sector, two contrasting scenarios of land productivity
+could unfold, depending on the nature of advances in agricultural
+technologies.  However, CO2 emissions from land use changes could range
+from 0.5 (low) to 1.5 (high) GtC by 2030 and  from -1 to -2 (low) to zero
+(high) GtC emissions by 2100.  In the latter case tropical forests
+essentially become depleted as a result of land-use conversions for
+agriculture and biomass fuel plantations.  In the former case, land
+productivity gains are so substantial that ploughing of marginal
+agricultural land is no longer economically feasible and is abandoned,
+following recent trends in the OECD.  The resulting expansion of forest
+cover leads to a net sequestration of atmospheric CO2.
+3.23	Scenario Quantification
+An initial scenario quantification in terms of population, GDP, energy use,
+and CO2 emissions for the three energy resource/technology sub-scenarios is
+summarised in Appendix 1 .  The global scenario for 2100 is also summarised
+in the form of a snowflake diagram.  All scenario quantifications are
+tentative and subject to revisions.
+[Figure: "Snowflake" for A1 scenarios]
+3.24	CO2 Emissions
+The diverging pathways of resource availability and technological change
+characteristic of the three scenarios examined result in a wide range of
+annual CO2 emissions: from 10 to 33 GtC by 2100. It is interesting to note
+that the emissions of the two "fossil fuel" sub-scenarios, "clean coal" and
+"oil and gas," are quite close to each other (33 CtC versus 29 GtC).
+Continued reliance on oil and gas, coupled with demand growth, explain the
+emission patterns for the oil/gas scenario. Coal is the only fossil
+resource available in the "clean coal" scenario. Therefore, over time coal
+is increasingly required for conversion into premium fuels such as
+synliquids and syngas. This conversion "deepening" leads to a feedstock
+premium for coal and increases the market potential of non-fossil fuels.
+CO2 emissions are therefore not as high as in traditional coal-intensive
+scenarios.
+4.	Sustainable Development (B1)
+The central elements of this scenario family include high levels of
+environmental and social consciousness, successful governance including
+major social innovation, and reductions in income and social inequality.
+Successful forms of governance allow many problems which are currently hard
+or difficult to resolve to fall within the competency of government and
+other organisations.  Solutions reflect a wide stakeholder dialogue leading
+to consent on international environmental and social agreements.  This is
+coupled with bottom-up solutions to problems, which reflect wide success in
+getting broad-based support within communities.
+The concerns over global sustainable development, expressed in a myriad of
+environmental and social issues, results in the eventual successful
+management of the interaction between human activities and the biosphere.
+While no explicit climate policy is undertaken, other kinds of initiatives
+lead to lower energy use, and clean energy systems, which significantly
+reduce greenhouse gas emissions.  Besides cleaning up air quality, there is
+emphasis on improving the availability and  quality of water.
+4.1	Key Scenario Drivers and their Relationships
+4.11	Technological Development
+High levels of technological development focused on achieving sustainable
+development leads to high levels of material and energy saving, innovations
+in emissions control technology, as well as labour productivity.  The
+latter is essential to support the rapid growth in personal income, given
+that a major increase in labour force participation is implicit in the
+equity assumptions.  Technologies tend to be implemented in an industrial
+ecology mode, implying a much more highly integrated form of industrial
+production than at present.  Information technology achieves a global
+spread, and is fully integrated into production technologies.   Advances in
+international institutions permit the rapid diffusion of new technologies

@@ -1,0 +1,364 @@
+@media only screen and=
+(max-width: 730px) {                 .leaderboard {                     di=
+splay: none !important;                 }                 * {              =
+-webkit-text-size-adjust: none;                 }                 bo=
+dy {                     min-width: 100% !important;                 }     =
+table[id=3Dwrapper], table[class=3Dad_group], table[id=3Dwrappe=
+r] .intro, table[id=3Dwrapper] .divide {                     width: 100% !i=
+mportant;                 }                 #brief {                     fl=
+oat: none !important;                     width: 100% !important;          =
+}                 .ad_group {                     display: block !im=
+portant;                     padding-left: 10px;                 }         =
+div[class=3Dad] {                     margin: auto !important;     =
+padding-top: 0 !important;                     padding-left=
+: 0 !important;                     display: block !important;             =
+width: 100% !important;                 }                 table td[=
+class=3Dnumber] {                   display: none !important;              =
+}             }                  Bloomberg Politics Daily               =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+SIGN UP                              =
+=
+=
+=
+=
+=
+=
+=
+The Brief                           =
+=
+=
+=C2=A0                            =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+Trump aims to de=
+al knockout blow to Cruz candidacy as Indiana votes                        =
+=
+=
+=
+Ted Cruz has described Tuesday's Indiana =
+primary as =E2=80=9Cthe one thing that stands between us and plunging over =
+the cliff.=E2=80=9D                                                        =
+=
+=
+=
+=
+=
+=
+=
+=C2=
+=A0                                                                        =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+Down-ballot Republic=
+ans brace for chance of sharing Trump=E2=80=99s ticket                     =
+=
+=
+=
+Senators like New Hampshire=E2=80=99s =
+Kelly Ayotte and Illinois=E2=80=99 Mark Kirk plan to=C2=A0campaign like the=
+y=E2=80=99re running for mayor.                                            =
+=
+=
+=
+=
+=
+=
+=
+=
+=C2=A0                                                             =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+The 2016 =
+guide to political predictions                                             =
+=
+=
+=
+How polls and prediction markets have fared so far.           =
+=
+=
+=
+=
+=
+=
+=
+=
+=C2=A0                            =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=E2=80=9CI think=
+it=E2=80=99s a disgrace that he=E2=80=99s allowed to do it, I think it=E2=
+=80=99s a disgrace that he=E2=80=99s allowed to say it.=E2=80=9D           =
+=
+=
+=
+=
+=
+Donald Trump on Ted Cruz=E2=
+=80=99s father urging Christians to vote for his son                       =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=C2=A0                                             =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+Clinton walks back coal rema=
+rks after confrontation in West Virginia                                   =
+=
+=
+=
+The Democratic front-runner got an earful during a c=
+ampaign stop.                                                              =
+=
+=
+=
+=
+=
+=
+=
+=C2=A0    =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+Missing from 2016 race: Mor=
+e urgency over U.S. budget gaps                                            =
+=
+=
+=
+We don=E2=80=99t talk about the budget...unless we have to.  =
+=
+=
+=
+=
+=
+=
+=
+=
+=C2=A0                   =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+VIDEO: Ted Cruz spars with Trump supporter=
+in Indiana                                                                =
+=
+=
+John H=
+eilemann and Nicolle Wallace discuss Ted Cruz and what happens if he loses =
+in Indiana on =E2=80=9CWith All Due Respect.=E2=80=9D                      =
+=
+=
+=
+=
+=
+=
+=
+=
+=C2=A0                                       =
+=
+=
+=
+=
+=
+=
+=
+=C2=A0                             =
+=
+Catch =E2=80=9CWith All Due Respect=E2=80=9D on Bloomberg TV an=
+d BloombergPolitics.com weekdays at 5 p.m. ET.                             =
+=
+=C2=A0                                                          =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=C2=A0       =
+=
+=
+=
+=
+=
+=
+=
+Follow us:                  =
+=
+=
+=
+=
+=
+=C2=A0                        =
+=
+=
+For press inquiries, please contact Emma Angerer=
+user@domain.com, 202-654-4332                                      =
+=
+=
+=C2=A0                                                            =
+You received this m=
+essage because you are subscribed to the Bloomberg Politics Daily newslette=
+r.                                                                         =
+=C2=A0                           =
+=
+=C2=A0                                                        =
+Unsubscribe | Bl=
+oombergPolitics.com | Contact Us                                           =
+Bl=
+oomberg L.P. 731 Lexington, New York, NY, 10022                            =
+=
+<a href=3D"<<link>>
+ombergpolitics.com/click/6639130.4892/aHR0cDovL3d3dy5tYWlsLmJsb29tYmVyZ3Bvb=
+Gl0aWNzLmNvbSI/5620642517893f007f8b4d8aB75fa0cac><img src=3D"<<link>>
+il.bloombergpolitics.com/img/5620642517893f007f8b4d8a3yasa.3rw/f414ad9c.gif=
+" alt=3D"" border=3D"0" /></a>                                             =
+=20
+If you believe this has been sent to you in error, please click <<<link>>
+k.mail.bloombergpolitics.com/oc/5620642517893f007f8b4d8a3yasa.3rw/6499cd44>=
+to safely unsubscribe.

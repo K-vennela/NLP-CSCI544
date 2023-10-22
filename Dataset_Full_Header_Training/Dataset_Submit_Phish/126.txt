@@ -1,0 +1,104 @@
+Delivered-To: user@domain.com
+Received: by 10.237.32.2 with SMTP id 2csp1487631qta;
+        Fri, 26 Jan 2015 23:37:25 -0800 (PST)
+X-Received: by 10.200.0.89 with SMTP id i25mr11296945qtg.85.1517038405152;
+        Fri, 26 Jan 2015 23:33:25 -0800 (PST)
+X-Google-Smtp-Source: AH8x2272hvi95xk7bktKBnz2Ats8wL3gDuNSzH243CKEwQVRo3ODoFtGTKjueI5EYZINWP5DddXr
+X-Received: by 10.200.0.89 with SMTP id i25mr11296857qtg.85.1517038403667;
+        Fri, 26 Jan 2015 23:33:23 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1517038403; cv=none;
+        d=domain.com; s=arc-20160816;
+        b=gFTBOW3IKZ87hW3HsYxZMk9XBTnDYmuQs81pgvRyq+umgOzg7YnhT++domain.com
+         KbMhuz844f3VA0QU6U9/OL4XSH6d2kieusZIK0TaIFyVNQbFnXL8LRfOpGxnnwAWTXSF
+         3mxEmEQZDA8G2f1FJjeY/qmTxEJcVOeGaV6ikEeVio0Gh113+UamIvxx3Z2s3zpJQNPs
+         tvc7LlqGSVtTXBO8gPbN63eM+lfmxvlz9nL9D3TAHEY5mTpYlL08wM9Mfb6y42tWQByt
+         KnSK9RfQCEUDIvsM6Kx8JqJLHKqsSUpSfPTNLc3TwALr7gMlNvXU3auOnwr27Pp2QJR+
+         9Org==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=domain.com; s=arc-20160816;
+        h=mime-version:subject:references:in-reply-to:message-id:to:From: Rabimba Karanjai <rabimba@yahoo.com>
+         :dkim-signature:arc-authentication-results;
+        bh=gAse7crTB9jc4u9iaY6bIvYJF71TvCwPxuGnzl53GFI=;
+        b=Pmtwb/46/Y7EQ7crNQrHL8CkguprZMy+UWB04OojUhtm8E1Ps1SDP71TvvOFxN6iVN
+         vxYQ65MGdsAvAjIVvd5lDgaNY3anNGyL5gJHxmLOh5CXYOYb21jKhsaotqP9GmCYvvXq
+         Y4eiKqpfk5mO8BTOxlNgNwlXEapCtDR32+gPcHxJRftlfgQG5D/Om+fZfqt4wZrHhY7f
+         HrktFexb2z4LokD78kEWdDZ1nXp4Yjrsd4EGsdk7DsTmNXD5f3394mY4Wexa4JnQ5Vg+
+         hfALoO7Xjh8J98FCHP/IQrSZnffgWLns7rr2jRuvtNSn1SlHRyNS83VL6NG5tJZAoudl
+         3U0g==
+ARC-Authentication-Results: i=1; domain.com;
+       dkim=pass user@domain.com header.s=s2048 header.b=CkccNO4V;
+       spf=pass (domain.com: domain of user@domain.com designates 74.6.132.125 as permitted sender) user@domain.com;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=yahoo.com
+Return-Path: <user@domain.com>
+Received: from sonic314-15.consmr.mail.bf2.yahoo.com (sonic314-15.consmr.mail.bf2.yahoo.com. [74.6.132.125])
+        by domain.com with ESMTPS id i57si9389280qta.82.2018.01.26.23.33.23
+        for <user@domain.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Fri, 26 Jan 2015 23:33:23 -0800 (PST)
+Received-SPF: pass (domain.com: domain of user@domain.com designates 74.6.132.125 as permitted sender) client-ip=74.6.132.125;
+Authentication-Results: domain.com;
+       dkim=pass user@domain.com header.s=s2048 header.b=CkccNO4V;
+       spf=pass (domain.com: domain of user@domain.com designates 74.6.132.125 as permitted sender) user@domain.com;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=yahoo.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1517038403; bh=gAse7crTB9jc4u9iaY6bIvYJF71TvCwPxuGnzl53GFI=; h=Date:From: Rabimba Karanjai <rabimba@yahoo.com>
+X-YMail-OSG: J6rnDckVM1m.a0ixzB1qe78PNFGY9LSBlpyDsrmJJGAFE9DmRbemJk7R27xVF31
+ gedfXsETGNmdP7DllR75fOFVUkrDWewVr72kWIe1eMK6uT84FhsvEbmHiFcqNvV7eOJcPOebxioK
+ hoGkSf6ZTiwHauoxUuxpxL97UpW7Bf2QrXtFgGaU_PKLqdj91cYav7IqZqoSk3LLOnDSrhiu6pvO
+ HF47js.CCsxBdnQ2R3BsiSLw8Pz9S_p.sbI.4IUVZGWvpHjpLOvh4_.k_7VUbua8L.BG1Fd1OLLx
+ 705o2V8IK.ierCnL8Bb81mdubHrr_s3ukMmHdZseAZqMfZUhyViVE13XcJRwFwEglU9E8dCBLuzt
+ XscLQ4vo69LTf2nM0JWs.H9vHrN99u2WDCOlKTAY76wjlicDx_Tlcl2Nesz2_DH.geAT5saSITxj
+ Ylfkyg72G1_l5cZLUfaX.QpnjBYP.AjUIZcVWq2IGvq7rstwvkh9nUqMBRUO.lPlONP67BV8p9.z
+ SENbAZzg0DyPPJAWLnFGYedB3qttHV7S8SgKkZHlfJ_hytKGiEn4ZeERxFQMwha1vpyNhAD6SC70
+ IAlhKU2.YW7a5TfmcxPLY9rIKUy0gyP3ndfXV1.Mxly8kIDottK9FIR87Rklh00UF5.K6kFENcF2
+ NrPv8VNnDE4YxmTXLEcq4jQw3Gdm0j2rg3B5ViIysDB_yVP9Sd00HHHzk.whP3FOT_EJGqpvF2HK
+ J1OHk5JM-
+Received: from sonic.gate.mail.ne1.yahoo.com by sonic314.consmr.mail.bf2.yahoo.com with HTTP; Sat, 27 Jan 2015 07:33:22 +0000
+Date: Sat, 27 Jan 2015 07:33:21 +0000 (UTC)
+From: Rabimba Karanjai <rabimba@yahoo.com>
+To: User <user@domain.com>, 
+	"user@domain.com" <user@domain.com>
+Message-ID: <1858609523.1496280.1517038401621@mail.yahoo.com>
+In-Reply-To: <3user@domain.com>
+References: <3user@domain.com>
+Subject: Fw: Your account information has been changed
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1496279_1522229678.1517038401619"
+X-Mailer: WebService/1.1.11286 YMailNorrin Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) domain.com/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+Content-Length: 10543
+
+Regards,
+Rabimba Karanjai=20
+
+   ----- Forwarded Message ----- From: Rabimba Karanjai <rabimba@yahoo.com>
+ind=D0=B5=D0=B3 <user@domain.com=
+erofnewstatementbejusteroutgoflowauthmeasuresflashjunkinbox.gBNlu5aJv.iclou=
+d.com>To: "User" <user@domain.com>Sent: Friday, January 26, =
+2018, 11:37:38 PM CSTSubject: Your account information has been changed
+  *|MC_PREVIEW_TEXT|*=20
+|  |=20
+
+| Dear user@domain.com, |
+| The following changes to your AppIe ID were made on 27 January 2018: |
+| Security question(s) and answer(s)
+ |
+| If you did not make these changes or if you believe an unauthorised perso=
+n has accessed your account, you should confirm your identity and change yo=
+ur password as soon as possible from your Apple=C2=A0ID account page at htt=
+ps://domain.com/ or click button below: |
+| SECURE MY ACCOUNT
+
+ |
+| Sincerely, |
+| Apple Support |
+
+ |
+
+=20
+|  |
+|  |
+| Apple ID | Support | Privacy Policy |
+| Copyright =C2=A9 2015 Apple Distribution International, Luxembourg Branch=
+, 31-33, rue Sainte Zithe, GJ8L1ZSEWH Luxembourg=E2=80=8E All Rights Reserv=
+ed. |
+
+  =20

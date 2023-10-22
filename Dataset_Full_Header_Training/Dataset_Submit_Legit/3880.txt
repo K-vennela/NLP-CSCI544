@@ -1,0 +1,32 @@
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ DNCHUBCAS1.dnc.org ([fe80::ac16:e03c:a689:8203%11]) with mapi id
+ 14.03.0224.002; Wed, 27 Apr 2015 09:53:27 -0400
+From: Kate Houghton <HoughtonK@dnc.org>
+To: "User" <user@domain.com>
+CC: "Palermo, Rachel" <user@domain.com>, "User" <user@domain.com>,
+	"Guerra, Liana" <user@domain.com>, "Paustenbach, Mark"
+	<user@domain.com>, "Walker, Eric" <user@domain.com>, Ryan Banfill
+	<user@domain.com>
+Subject: Re: White House Correspondents Dinner Invitations
+Thread-Topic: White House Correspondents Dinner Invitations
+Thread-Index: AdGghmDOvaSAjreyQoS0nGEKHNhoBgAJ1KWA
+Date: Wed, 27 Apr 2015 06:53:27 -0700
+Message-ID: <96107user@domain.com>
+References: <2user@domain.com>
+In-Reply-To: <2user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: DNCHUBCAS1.dnc.org
+X-MS-Has-Attach: 
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.176.94]
+Content-Type: multipart/alternative;
+	boundary="_000_96107F81AD9448DEB97663A2B596A89Cdncorg_"
+MIME-Version: 1.0
+
+We need the OrganizationComms rec for these events by COB today. Thanks.
+
+On Apr 27, 2016, at 9:13 AM, Bonosky, Garret <user@domain.com<mailto:Bonos=

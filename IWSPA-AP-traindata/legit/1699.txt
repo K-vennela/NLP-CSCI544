@@ -1,0 +1,87 @@
+Dear Mike  et al,
+I offer the following comments on your letter
+for your consideration.
+It seems to me there are 2 primary issues to
+address:
+(A) what does proxy evidence say about whether
+the Medieval Warm period was global
+(B) what do we know about potential mechanisms
+for the Medieval Warm period
+(i) evidence for a forced phenomenon
+(ii) evidence for internal variability
+Issue (A) is currently dealt with in your sections (1) and
+(2). One point that could be perhaps conveyed more
+clearly is the necessity of using the spatial information
+conveyed in (multi) proxy reconstructions, rather than
+overly interpreting sets of local proxy evidence. I
+felt this point could have been stressed more, and is one
+which the casual reader may not appreciate.
+Issue (B, Bi) is in your section (3). I suggest a more
+explicit mention of conclusions with regard to the
+Medieval Warm period in recent work on this topic.
+The first statement in this section doesn't provide
+(I don't think) explicit evidence to back itself up. The
+sentence starting "These results ..." could be more
+explicit about what those studies show with respect to
+the Medieval Warm period, in addition to the more general
+statement about the partitionng between forced and internal
+variability. A reader could ask "Ok, if 50% of the variability
+is explained by volcanic and solar forcing, that doesn't
+exclude the other 50% playing a strong role for events such as
+the Medieval Warming." Such a question could be dealt with
+in advance by stating what role these studies suggest for
+radiative forcing in the Medieval Warm period.
+For issue (Bii), I would suggest being explicit that
+it is incumbent upon authors to provide some evidence to
+support their speculation. What evidence can the author
+provide to support his speculation concerning the role of
+the THC in the Medieval Warm period? Rather than explicitly
+stating this is not a likely mechanism, I would contrast the
+speculation he has offered on this topic to the stronger
+(in my opinion) evidence provided by modeling studies to
+support the idea of the importance of radiative forcing.
+... a few more minor comments
+(1) I agree with the overall message you are conveying, but
+might choose somewhat differing wording in a place or
+two. The statement is made "(1) It cannot reasonably be
+argued that the Middle Ages were as warm as the
+20th century at global or hemispheric scales." This
+might be a bit strong ... I would think one can have
+a reasoned discussion on this topic. Perhaps something
+like "We strongly disagree with the assertion that the
+Middle Ages were as warm as the 20th century at global
+or hemispheric scales."
+(2) In the second to last sentence, I would add the
+qualifying phrase "on planetary scales" after the
+text "... responsible for centennial-millenial changes ...".
+Regards,
+Tom Delworth
+ps The central issue is one that I have not been heavily
+involved in, and thus don't think it's appropriate for
+me to sign on as an author. Good luck, and please
+send me a copy of your final submission.
+pps I previously provided to Tom correlations between the
+THC and global/hemispheric temperature based on a 900 year
+run of our R30 coupled model. These correlations were
+relatively low (0.27), but probably significant. The
+applicability of those correlations to the issue of the
+Medieval Warming may not be strong. If the Medieval Warming
+is a multi-century event, then I should really be looking at
+the correlations of low frequency (>50 years) filtered model
+output from a run of several millenia duration. Thus, the
+900 year run may not be applicable. I will revisit this
+topic using a multi-millenial R15 coupled run, but probably
+won't have any results today. I don't think that would
+change the essential conclusions, however. I recall that
+experiments with the R15 model in which the THC was substantially
+weakened through the addition of fresh water to the North
+Atlantic provided strong regional temperature anomalies, but
+their global expression was small. These experiments are
+being repeated with the higher resolution model.
+In light of these issues, I suggest that the focus be
+not so much on saying the THC cannot be responsible for the
+Medieval Warming, but rather on saying (1) there is strong
+evidence for a substantial role of radiative forcing, and (2) the
+burden is on the author to provide evidence for the role of
+the THC.
+?

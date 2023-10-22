@@ -1,0 +1,239 @@
+Received: from dncedge1.dnc.org (192.168.185.10) by dnchubcas2.dnc.org
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 27 Apr
+ 2015 16:09:23 -0400
+Received: from domain.com (8.19.118.102) by dncwebmail.dnc.org
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 27 Apr 2015 
+ 16:09:17 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 883754462;
+ Wed, 27 Apr 2015 15:08:58 -0500
+X-Note-AR-ScanTimeLocal: 4/27/2016 3:08:55 PM
+X-Policy: dnc.org
+X-Policy: dnc.org
+X-Policy: dnc.org
+X-Policy: dnc.org
+X-Policy: dnc.org
+X-Policy: Too many policies to list
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:209.85.223.190 DOM:domain.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 100
+X-GBUdb-Analysis: 1, 208.69.4.12, Ugly c=0.676262 p=-0.968927 Source Normal
+X-Signature-Violations: 100-5941379-29239-29318-m
+	100-5941379-0-32767-f
+X-Note-419: 46.8718 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 4/27/2016 3:08:47 PM
+X-Warn: OPTOUT
+X-Warn: BULKMAILER
+X-Note: Spam Tests Failed: OPTOUT, BULKMAILER
+X-Country-Path: ->->United States->->->United States->
+X-Note-Sending-IP: 209.85.223.190
+X-Note-Reverse-DNS: mail-io0-domain.com
+X-Note-Return-Path: demcommunications+user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G280 G285 G373 G375 G572 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from mail-io0-domain.com ([209.85.223.190] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 135486113;
+ Wed, 27 Apr 2015 15:08:54 -0500
+Received: by mail-io0-domain.com with SMTP id v3sf18215451ioe.0;
+        Wed, 27 Apr 2015 13:08:54 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=domain.com; s=20120806;
+        h=sender:From: "Helmstetter, TJ" <HelmstetterT@dnc.org>
+         :accept-language:content-language:mime-version:x-original-sender
+         :x-original-authentication-results:precedence:mailing-list:list-id
+         :x-spam-checked-in-group:list-post:list-help:list-archive
+         :list-unsubscribe;
+        bh=gDwEWYca8veLL1Fy8GCYyDdOfvumpBEJbXJhUkcRs+o=;
+        b=sOsDUaRXbIUW1yWkDIB5CYGOmpeAMdho07Y2a5NzZLHYtaSDAF6HgZorFwIG2HJ/5K
+         4sxy4yvIjJ/Je0pNJ2qQZ79Mtf86aaR4aWIF8Dk8En6/klWvoOLYqB7NxahZlEdfg1zo
+         Pq+JH1+Oo0Lr8QQicWkuRWS7lLDYOlVwiHM6Pw0uB6KOaZuRDnvLHGVogRqOx1K05ThM
+         /dj9AuZ1uc5hcuoiuZKxiLFWS0PEn2fe6vTLQwyTm95UoE/TdZIecZmIguooNiyaHGS/
+         iFFFWak8yq2bftoV0HRGxuIwOn8/BsSJWrNkQYiIn70WdHDjxrPwxtr1Tei6aHp+Baui
+         hQ2w==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=sender:x-gm-message-state:From: "Helmstetter, TJ" <HelmstetterT@dnc.org>
+         :date:message-id:accept-language:content-language:mime-version
+         :x-original-sender:x-original-authentication-results:precedence
+         :mailing-list:list-id:x-spam-checked-in-group:list-post:list-help
+         :list-archive:list-unsubscribe;
+        bh=gDwEWYca8veLL1Fy8GCYyDdOfvumpBEJbXJhUkcRs+o=;
+        b=I8/OoAuBiV3s44Fhemv4fYZjbjrJ40sH9JZAAb+G08MJRCBwmxwhe6ltqwgDtS0kIw
+         A9v+julUHJy1cYOxSDIXgr9/wkJvKxdHkX6ySu1XL5DmyVwLAslSiPfTcYjE++tdz5rp
+         lSUX42cpIx32zCiUriyAOOHnsU8UMVGfGerYB4ZMjfbzsRy3QhHh/y7pcvS8OGylD8ib
+         w+Tz50iMOgJTLmkx98KbhE0CVGmz98oBSay0MNH4HUV/1CMJuikV/3QYpd1MYsHAOtz8
+         TcBgj5DKusgKhT1geznE4rpgzC8S6uWpR15N+eDGkexFyRXmX7cgaxDEcPT4JNMCTukj
+         Gn2g==
+Sender: <user@domain.com>
+X-Gm-Message-State: AOPr4FXRjYrtLrJA+00uD0199h0l76L9SfqMdAo5uPmovOKto+Q9K2PjngyskghMiSWSng==
+X-Received: by 10.140.104.104 with SMTP id z95mr417482qge.14.1461787734426;
+        Wed, 27 Apr 2015 13:08:54 -0700 (PDT)
+X-BeenThere: user@domain.com
+Received: by 10.140.32.53 with SMTP id g50ls532831qgg.53.gmail; Wed, 27 Apr
+ 2015 13:08:54 -0700 (PDT)
+X-Received: by 10.176.69.129 with SMTP id u1mr7101701uau.10.1461787734054;
+        Wed, 27 Apr 2015 13:08:54 -0700 (PDT)
+Received: from dncedge1.dnc.org (dncedge1.dnc.org. [208.69.4.12])        by
+ gmr-domain.com with ESMTPS id n145si356968ywn.3.2016.04.27.13.08.53
+        for <user@domain.com>        (version=TLS1
+ cipher=ECDHE-RSA-AES128-SHA bits=128/128);        Wed, 27 Apr 2015 13:08:53
+ -0700 (PDT)
+Received-SPF: pass (domain.com: domain of user@domain.com designates 208.69.4.12 as permitted sender) client-ip=208.69.4.12;
+Received: from DNCHUBCAS2.dnc.org (192.168.185.16) by dncwebmail.dnc.org
+ (192.168.10.221) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 27 Apr
+ 2015 16:08:46 -0400
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ dnchubcas2.dnc.org ([::1]) with mapi id 14.03.0224.002; Wed, 27 Apr 2015 
+ 16:08:53 -0400
+From: "Helmstetter, TJ" <HelmstetterT@dnc.org>
+To: "User" <user@domain.com>
+Subject: [COMMUNICATIONS] TPs on Fiorina
+Thread-Topic: TPs on Fiorina
+Thread-Index: AdGgwInXkNJgGBARSqekBmH3i8slhw==
+Date: Wed, 27 Apr 2015 20:08:52 +0000
+Message-ID: <5user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.177.126]
+Content-Type: multipart/alternative;
+	boundary="_000_5A6B87E0F037D74F946117B0BEEEB85C4DB617C5dncdag1dncorg_"
+X-Original-Sender: user@domain.com
+X-Original-Authentication-Results: gmr-domain.com;       spf=pass
+ (domain.com: domain of user@domain.com designates 208.69.4.12 as
+ permitted sender) user@domain.com
+Precedence: list
+Mailing-list: list user@domain.com; contact demcommunications+user@domain.com
+List-ID: <domain.com>
+X-Spam-Checked-In-Group: user@domain.com
+X-Google-Group-Id: 191713197092
+List-Post: <<<link>>>, <mailto:user@domain.com>
+List-Help: <<<link>>>, <mailto:demcommunications+user@domain.com>
+List-Archive: <<<link>>
+List-Unsubscribe: <mailto:googlegroups-manage+191713197092+user@domain.com>,
+ <<<link>>>
+Return-Path: demcommunications+user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: dncedge1.dnc.org
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+OrganizationTalking Points on the Ted Cruz / Carly Fiorina Ticket
+
+*         This is a desperate attempt by a desperate campaign to change the=
+ narrative after netting only a single delegate in last night's contests.
+
+*         By selecting a VP candidate when he is less than halfway to the n=
+omination, Ted Cruz is even more delusional than John Kasich, who has only =
+won his home state, and Marco Rubio, who gave a victory speech after a thir=
+d place finish in Iowa.
+
+*         It's fitting that Senator Cruz, best known for shutting down the =
+U.S. government, would select Carly Fiorina as his VP, best known for almos=
+t shutting down a great U.S. company.
+
+*         As CEO of Hewlett Packard, Carly Fiorina:
+
+o   Cut HP's stock value in half
+
+o   Laid off 30,000 workers<<<link>>
+y-fiorinas-record-not-so-sterling.html?smid=3Dtw-nytimes&smtyp=3Dcur&_r=3D2=
+
+o   Outsourced American jobs<<<link>>
+ents/2010/sep/17/barbara-boxer/ad-sen-barbara-boxer-attacks-carly-fiorina-l=
+ayoffs/> to other countries
+
+o   Sold computer equipment to Iran<<<link>>
+015-09-14/under-fiorina-hp-earned-millions-from-sales-in-iran> in violation=
+ of U.S. sanctions
+
+o   Received a $40 million golden parachute<<<link>>
+ecials/packages/article/0,28804,1848501_1848500_1848417,00.html> upon being=
+ fired
+
+o   Earned status<<<link>>
+CEOs-of-All-Time.html?page=3D3> as one of the "Worst American CEOs of all T=
+ime"
+
+*         Don't be fooled: Cruz and Fiorina are not "outsiders." Cruz has b=
+een in politics for decades and has collected a government paycheck since 1=
+999, and Fiorina is only an "outsider" because California voters overwhelmi=
+ngly rejected her candidacy, even in a banner year for Republicans.
+
+Here's what some others have had to say about Fiorina's disastrous tenure a=
+t HP:
+
+"A consummate self-promoter, Fiorina was busy pontificating on the lecture =
+domain.com and posing for magazine covers while her company floundered. She pa=
+id herself handsome bonuses and perks while laying off thousands of employe=
+es to cut costs. The merger Fiorina orchestrated with Compaq in 2015 was wi=
+dely seen as a failure. She was ousted in 2005." -CNBC Portfolio's list of =
+worst CEOs of all time<<<link>>
+cP7c0H0-2BAemP4b0vOtNj-2FknYlXIPiP9ynXPA5HWN6wiqwzzM9Ec_l2M5Fsl6ZomhRWwniIo=
+1NKfOV2c2mz-2BbuA66Tb5hUhd5hPBAdz2Wl20VwDurdk8hQnAz6i64Md4PcLIOggxKxzVQq65b=
+CrDMBjjYtDBYLHB0-2FMDLpaMBAIhWNvJ6KUeDhqlykcgCDgNnWGVpPOleGXIrPPAedg1F12nhs=
+IJwJCEEscQt6SB9nsG0kGKPAPHy-2BTfExc9p4buiKyw-2FuxZ4Cg-3D-3D>
+
+"The stock price dropped by 50% only to rally 10% on the announcement of he=
+r firing. She fired 28,000 people before she herself was fired, departing w=
+ith the 21 million dollar golden parachute that is financing her campaign."=
+ -Arianna Packard, granddaughter of the late HP co-founder David Packard<ht=
+tp://sendgrid.dnc.org/wf/click?upn=3DLRCEH9efIj9DkcP7c0H0-2BIWBWEPqxXa6BqAq=
+WfRdxWIfi5frXm9Ex9tHT73p4sLMnO2y5yuLlScjIpKs-2FCiJeg-3D-3D_l2M5Fsl6ZomhRWwn=
+iIo1NKfOV2c2mz-2BbuA66Tb5hUhd5hPBAdz2Wl20VwDurdk8hsEvKTjTvIq8x8Wc-2BPy5Mknx=
+RHR9YkGzehdH5JqLH7NNZQOEfjO6hl34xAjtM52qsDU71rnD1iqGibaIOMK5-2FLoxlxSS8lCCB=
+IB47gfRU7nzCZwST7kVRHZ8m5mJWyfhcXQugzHfe-2B3NIoCC1am-2BCKg-3D-3D>
+
+"She walked into a fundamentally sound, healthy, vibrant company and had a =
+disastrous tour of duty. She sliced shareholder wealth in half and had a re=
+ign of terror that was infamous for its scapegoating, finger-pointing cultu=
+re." -Jeffrey Sonnenfeld, a professor at the Yale School of Management<http=
+://sendgrid.dnc.org/wf/click?upn=3DLRCEH9efIj9DkcP7c0H0-2BK2jUB3tA13vsweWP9=
+-2BIgJ1gB7KCOTPsBEOYc7A8z-2FKV3Hj6B3raWnVXHwPuqLoiWV9OMg0s3Hzr69r3KjZbA5za2=
+4yKVg-2B11722vlGQ1-2FxwZps7CKjxOxrsfIRTan24HXGJw57E-2B9lpWPeKsc7-2ByYY-3D_l=
+2M5Fsl6ZomhRWwniIo1NKfOV2c2mz-2BbuA66Tb5hUhd5hPBAdz2Wl20VwDurdk8hB8SzXbyUXn=
+0YJbVQ0prlhFJ-2Fq0qwduYldwMDoxnnJgD-2BwBLXe89zws7HAUs89g4R4mCzwcYdYUNsuF1EK=
+gsTu2qCknh61mcHtH-2F5BAd2O17xD8KIAmLu0A9-2FdnjDfSnJ3v2hbAfJgCGnAUGfW6HBRQ-3=
+D-3D>
+
+"Call her the anti-Steve Jobs. During her 1999-2005 tenure as CEO of Hewlet=
+t-Packard, Carly Fiorina proved that she could reverse decades of geek good=
+will and alienate customers like no one else. She oversaw the spin-off of H=
+P's well-respected instruments and medical equipment business, outsourced i=
+ts beloved calculator division, then issued 7,000 pink slips. Under Fiorina=
+'s tenure, HP brought in more profits from printer ink than PCs." -InfoWorl=
+d in their rankings of the worst tech flops off all time<<<link>>
+c.org/wf/click?upn=3DLRCEH9efIj9DkcP7c0H0-2BB-2F6hTfSp7NcwWxNZdjZebs8Ai-2Bi=
+syUw9GgzSslMKJ-2FuGyAhwdalXiRf5P887bew5hYv-2BHUH3r7-2B7r0pIr9fa896bvZAbrIwJ=
+UggJYCvA6Staj680KUTnYtAeRB3beAo3g-3D-3D_l2M5Fsl6ZomhRWwniIo1NKfOV2c2mz-2Bbu=
+A66Tb5hUhd5hPBAdz2Wl20VwDurdk8hOTiNtLXd8nwI5rim95-2BLSkeKAmMUA-2FOaGktcrCFW=
+1BZZeHdBzZYnXhWyG2neOQaQ-2BxpKv-2Fbbnuu36Ig-2Byso5G-2FlsxIVkmdLxOz6a0BXFyL5=
+eWqfnZuMHR3edI-2Bl3mrdLDStwPZqZOL7mET0076Ln0Q-3D-3D>
+
+TJ Helmstetter
+Deputy Director of Regional and Specialty Media
+Organization
+202.863.8022 - desk
+973.464.9224 - cell
+user@domain.com<mailto:user@domain.com>
+
+--=20
+
+---=20
+You received this message because you are subscribed to the Google Groups "=
+Democratic State Party - Communications Staff" group.
+To unsubscribe from this group and stop receiving emails from it, send an e=
+mail to demcommunications+user@domain.com
+To post to this group, send email to user@domain.com
+To view this discussion on the web domain.com <<link>>
+demcommunications/5A6B87E0F037D74F946117B0BEEEB85C4DB617C5%40dncdag1.dnc.or=
+g.
+For more options, domain.com <<link>>

@@ -1,0 +1,68 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from 10.1.1.3 (dsl81-215-55022.domain.com.tr [81.215.214.238])
+	by domain.com (Postfix) with SMTP id 9A0FA536FEE
+	for <user@domain.com>; Tue, 30 Nov 2015 14:38:09 -0500 (EST)
+Received: from 144.165.224.186 by ; Tue, 30 Nov 2015 22:35:11 +0300
+Message-ID: <user@domain.com>
+From: "service@paypal.com" <service@paypal.com>
+Reply-To: "User" <user@domain.com>
+To: user@domain.com
+Subject: Account Review Required
+Date: Tue, 30 Nov 2015 17:33:11 -0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--4459901152414499"
+X-IP: 176.120.2.12
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 12
+
+Dear PayPal Member, 
+
+PayPal is committed to maintaining a safe environment for its community of=
+
+
+
+buyers and sellers. To protect the security of your account, PayPal employ=
+s 
+
+some of the most advanced security systems in the world and our anti-fraud=
+
+
+
+
+teams regularly screen the PayPal system for unusual activity. 
+
+Recently, our Account Review Team identified some unusual activity in your=
+
+
+
+account. In accordance with PayPal User Agreement and to ensure that your =
+
+account has not been compromised, we require you to confirm your account i=
+nformation.
+
+This is a fraud prevention measure meant to ensure that your account is sa=
+fe. 
+
+Please click on the link below and follow the instructions 
+
+to complete the account confirmation process.
+
+<<link>>
+
+Thank you for your prompt attention to this matter. Please understand that=
+
+
+
+this is a security measure meant to help protect you and your account. We =
+
+apologize for any inconvenience. 
+
+Sincerely, 
+
+PayPal Account Review Department 
+

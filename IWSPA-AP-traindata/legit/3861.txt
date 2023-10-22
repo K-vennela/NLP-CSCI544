@@ -1,0 +1,28 @@
+<x-flowed>
+Hi  Eyestein,
+Thanks for your comments. With respect to the 
+suggested changes in paragraphs 1,2 and 4, they 
+seem fine to me. However, I think we need to 
+include in paragraph 5 potential reasons as to 
+why the substantial (and not just significant) 
+high latitude warming that appears in the 
+mid-Pliocene record is not produced in GCMs in 
+response to higher CO2, in general - otherwise we 
+leave the reader with a big question and no 
+possible solution. The tendency of GCM 
+simulations for the future climate to produce an 
+NADW decrease forces those simulations to have 
+minimal high latitude warming in the North 
+Atlantic, exactly opposite the inference from the 
+Pliocene paleo-record (which is quite robust in 
+this respect at least). If the Pliocene record is 
+indicating the opposite of what current models 
+are predicting, it may be offering us a valuable 
+clue...
+The suggested reasons also include the comment 
+that the lack of land ice at high northern 
+latitudes might be a strong contributing cause - 
+which would make it a no-analog situation, and 
+hence not fully a GCM problem.
+I would favor leaving those two sentences as they were.
+David

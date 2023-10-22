@@ -1,0 +1,103 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 18 May
+ 2015 19:34:53 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 18 May 2015 
+ 19:34:50 -0400
+Received: from [10.87.0.110] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 923069240;
+ Wed, 18 May 2015 18:35:00 -0500
+X-Note-AR-ScanTimeLocal: 5/18/2016 6:34:52 PM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @demconvention.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->->United States->
+X-Note-Sending-IP: 207.46.100.127
+X-Note-Reverse-DNS: mail-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from [207.46.100.127] (HELO
+ na01-by2-domain.com)  by domain.com
+ (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 142641010; Wed, 18 May 2015 
+ 18:34:51 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=domain.com; s=selector1-demconvention-com;
+ h=From: April Mellody <amellody@demconvention.com>
+ bh=Zo+kC5wrjo/A9qbq/cuCF7+aRTEi3uAq7aPXdkk6U4E=;
+ b=L8NPooGDV5Ro6RwpzFvEX4KbmqyNtA9MVwIamZHKqNDx0mndQoQfchYSTp/Sh70eUf/q5wRra7MTHXcpkMvA+6zU+sPYc8T34QxmHxgGtgAdPN5rX3DMON7q+AIolNDFPm1mu2QzvKxPxvNiVMabtt00uU4T3eEiL03u4AHnktM=
+Received: from domain.com (10.165.77.139) by
+ domain.com (10.164.8.14) with Microsoft SMTP
+ Server (TLS) id 15.1.492.4; Wed, 18 May 2015 23:34:49 +0000
+Received: from domain.com ([10.165.77.139]) by
+ domain.com ([10.165.77.139]) with mapi id
+ 15.01.0497.019; Wed, 18 May 2015 23:34:49 +0000
+From: April Mellody <amellody@demconvention.com>
+To: "User" <user@domain.com>
+CC: "Wartel, Jonae" <user@domain.com>, "Wei, Shu-Yen" <user@domain.com>,
+	"Palermo, Rachel" <user@domain.com>, Kyle Anderson
+	<user@domain.com>, Patrice Taylor <user@domain.com>
+Subject: Re: Have time to connect?
+Thread-Topic: Have time to connect?
+Thread-Index: AQHRsSuedkqS4mcVl02Z7pGCBNY3IJ+/BbAAgAAAOeCAAAA4wIAAAGKggAAAXHCAACd5wIAAGo+CgAACqyCAAAhLroAAAc3ggAACbJmAAAAXUIAAATig
+Date: Wed, 18 May 2015 23:34:48 +0000
+Message-ID: <user@domain.com>
+References: <22300179-32user@domain.com>
+ <05user@domain.com>
+ <user@domain.com>
+ <05user@domain.com>
+ <user@domain.com>
+ ,<user@domain.com>
+ <148user@domain.com>,<user@domain.com>
+ <user@domain.com>,<05user@domain.com>
+ <032729user@domain.com>,<05user@domain.com>
+In-Reply-To: <05user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+authentication-results: domain.com; dkim=none (message not signed)
+ header.d=none;domain.com; dmarc=none action=none header.from=demconvention.com;
+x-originating-ip: [2600:1002:b01e:2436:34f5:428a:3347:a57c]
+x-ms-office365-filtering-correlation-id: add86658-5454-47c1-57e1-08d37f7500ce
+x-microsoft-exchange-diagnostics: 1;DM3PR13MB0492;5:NdN/jlqcpHnFGmkw3IMMal1g0wyoiJ4gul0X6Ccqu+y08HMT0gFCQ8tJJ8ghnbQf2FftByRfWSmWlxCsqajD9BdHhLXt3RVxlrRZ3mnQ80gPyP1iOCpymQceTfAIO8jpQ1cEWFPORFd1B7c0l46x3g==;24:FMHgxTJQ5/xGYf5DPVser5jJT4NldROXMo326JrSpOexP4NiL6gUFfIwwzzm1O3X3ZI+FrLovsoStwEBLsaHt6z1t3jE1658KWGY9U5wdkM=;7:24vVtqysY4OLm+Uac0Z8jkim3XwzzORnqM+5W4RuhDzl3s9TKQtMbp+HYMpzgPPxTMueDaO3J3xxFV8cJxml373zcu8OVnYYlOrWRs2YIOYS2JH9mEpAdav1YXvrMh0zawJ8twSQC/NlfejDqYcyDiRGQOkDT4vJNhprSo8rYA1660eYKVbAsq6UoZWJlT35
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:;SRVR:DM3PR13MB0492;
+x-ld-processed: 0457a3b8-b076-4f33-a32f-6129315d909d,ExtAddr
+x-microsoft-antispam-prvs: <user@domain.com>
+x-exchange-antispam-report-test: UriScan:;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(6040130)(601004)(2401047)(8121501046)(5005006)(10201501046)(3002001)(6041072)(6043046);SRVR:DM3PR13MB0492;BCL:0;PCL:0;RULEID:;SRVR:DM3PR13MB0492;
+x-forefront-prvs: 0946DC87A1
+x-forefront-antispam-report: SFV:NSPM;SFS:(10019020)(6009001)(13464003)(24454002)(377454003)(4326007)(36756003)(5004730100002)(2950100001)(2900100001)(5002640100001)(77096005)(87936001)(76176999)(5008740100001)(450100001)(1220700001)(6116002)(86362001)(102836003)(33656002)(5003630100001)(54356999)(92566002)(3480700004)(50986999)(10400500002)(110136002)(189998001)(122556002)(93886004)(106116001)(8936002)(83716003)(3900700001)(2906002)(3280700002)(82746002)(9886003)(8676002)(3660700001)(99286002)(19580395003)(81166006)(19580405001)(11100500001)(586003)(3826002)(104396002);DIR:OUT;SFP:1102;SCL:1;SRVR:DM3PR13MB0492;H:domain.com;FPR:;SPF:None;MLV:sfv;LANG:en;
+spamdiagnosticoutput: 1:23
+spamdiagnosticmetadata: NSPM
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+X-MS-Exchange-CrossTenant-originalarrivaltime: 18 May 2015 23:34:48.9545
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 0457a3b8-b076-4f33-a32f-6129315d909d
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: DM3PR13MB0492
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+It was my understanding that wasn't standard protocol. Maybe I got it wrong=
+. Adding Patrice.=20
+
+Sent from my iPhone
+

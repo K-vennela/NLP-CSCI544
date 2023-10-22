@@ -1,0 +1,282 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 24 May
+ 2015 10:05:29 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 24 May 2015 
+ 10:05:27 -0400
+Received: from [10.87.0.110] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 931704767;
+ Tue, 24 May 2015 09:05:24 -0500
+X-Note-AR-ScanTimeLocal: 5/24/2016 9:05:35 AM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @egencia.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: United States->
+X-Note-Sending-IP: 216.251.112.210
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from [216.251.112.210] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 143653515;
+ Tue, 24 May 2015 09:05:20 -0500
+Message-ID: <9b1e43$1user@domain.com>
+From: Egencia TripController <no-reply@egencia.com>
+To: <user@domain.com>, <user@domain.com>, <user@domain.com>
+Reply-To: <user@domain.com>
+Date: Tue, 24 May 2015 07:05:07 -0700
+Subject: =?iso-8859-15?Q?ACTION=A0REQUIRED:=A0TripController=A0-=A0Finance=A0Guest=A0Account=A0(GUEST)=A0-=A0Miami,=A0FL=A0-=A0Jun=A03,=A02016=A0-=A0Approved?=
+Content-Type: text/html; charset="iso-8859-15"
+Content-Transfer-Encoding: quoted-printable
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Importance: high
+X-Priority: 1
+MIME-Version: 1.0
+
+=09
+=09
+=09
+=09
+=09
+
+
+
+Finance Guest Account (GUEST)'s trip approval request has been appr=
+oved by Jordan Kaplan
+
+=09
+=09
+
+=09
+
+
+
+=09
+
+
+
+	ACTION REQUIRED:=20
+
+
+
+	Though the travel items are approved, they have not all been booked. You m=
+ust go to the Egencia website to complete booking of these items. Please ch=
+eck your itinerary for additional information.
+
+
+
+=09
+
+
+
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+
+=09
+=09
+=09
+
+
+
+	Book Now
+
+
+
+=09
+=09
+
+=09
+=09
+=09
+=09
+
+
+
+Traveler Finance Guest Account (GUEST) (user@domain.com)
+
+Itinerary Miami, FL 237=
+91989254
+
+=09
+=09
+	=
+
+=09
+	Flight: Washington (DCA) to Miami (MIA)
+=09
+
+
+
+=09
+
+=09
+	Arranged by   Scott Comer
+
+=09
+=09
+	Policy   In policy
+
+=09
+=09
+=09
+=09
+=09
+	Department   Finance (01)
+
+=09
+=09
+=09
+	Booking status  =20
+=09
+
+
+
+=09
+	=09
+=09
+=09
+
+=09
+=09
+=09
+
+Not booked
+
+
+
+Approval status  =20
+=20
+ Approved
+=20
+
+=09
+=09
+	Approval Comments
+
+=09
+=09
+	24-May-16 for simas (Scott Comer)
+=09
+=09
+=09
+=09
+
+
+
+=09
+=09
+
+=09
+
+
+
+Selected flight
+
+=09
+=09
+	Price at submission   $235.20 
+
+Lowest logical fare   $210.20
+
+=09
+=09
+	Airline  
+=09
+=09
+	American Airlines 1512
+
+=09
+=09
+=09
+	Depart   Jun-3-2016  8:39 AM
+
+Arrive   Jun-3-2016 11:28 AM
+
+Number of connections  
+=09
+=09
+=09
+=09
+	Nonstop
+=09
+
+
+
+=09
+=09
+=09
+	Airline  
+=09
+=09
+	American Airlines 1227
+
+=09
+=09
+=09
+	Depart   Jun-4-2016 12:59 PM
+
+Arrive   Jun-4-2016  3:31 PM
+
+Number of connections  
+=09
+=09
+=09
+=09
+	Nonstop
+=09
+
+
+
+=09
+=09
+
+=09
+
+=20
+=09
+=09
+
+
+
+=09
+=09
+
+
+
+=09
+
+=20
+

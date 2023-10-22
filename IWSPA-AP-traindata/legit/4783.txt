@@ -1,0 +1,96 @@
+Dear Evelyn and Chris,
+re. proposal review GC04-203, Meko et al. "A synthesis of 19th century climate data for the
+United States from paleo, archival and instrumental sources".
+I have read the "Reviewer conflict of interest and confidentiality..." document and can
+state that I have no conflict of interest and will abide by the confidentiality provisions
+etc.
+I reviewed a very similar proposal by this group 1 year ago, and enclose my review of that
+proposal below.  The new proposal has taken into account my two main concerns from last
+time, which were:
+(i) that creation only of a blended data set that contained a time varying mixture of proxy
+and instrumental data would limit the usefulness because its quality would be time varying,
+perhaps in an unquantified way, and independent study of errors between proxy and observed
+data would be prevented; and
+(ii) that the proposed work was not very innovative in terms of the applications for which
+the new information would be used.
+Both of these points have been addressed adequately and so I now rate it "Excellent (5)"
+for scientific/technical merit, and "High (5)" for importance/relevance and applicability.
+One issue that I would like to raise, however, is that the need for quantifying
+uncertainty/error in the reconstructions/database is not given much coverage in the
+proposal.  It is mentioned, but not focused on.  For many applications (testing models,
+comparison with other reconstructions, detection of unusual climate trends/events),
+explicitly quantified error estimates are essential.  These often change magnitude through
+time, and thus should be estimated in such a way as to allow this.  They may also change
+with time scale (often being lower for, e.g., a decadal mean than for a single year's
+value), and again the error estimation method should capture this.  I do not think that
+this issue detracts from the quality of the proposal.  Instead I am mentioning it in the
+hope that this comment can be passed on to the proposers, in the event that the project is
+funded, so that they can be prompted into placing the appropriate emphasis on quantifying
+uncertainty.
+Apologies for being late yet again, and best regards,
+Tim
+Date: Thu, 24 Oct 2002 17:14:31 +0000
+Subject: confidential assessment of GC03-512
+From: Tim Osborn <t.osborn@uea.ac.uk>
+To: <irma.dupree@noaa.gov>
+CC: <t.osborn@uea.ac.uk>,
+<christopher.d.miller@noaa.gov>
+Dear Irma and Chris,
+Re. proposal review GC03-512, PI: David Meko "A 19th century data catalog"
+First of all, I confirm that there is no conflict of interest etc.
+Now to my review...
+(1) Scientific Merit
+Rating: Good
+Comments:
+I completely agree with the rationale behind improving data sets of 19th
+century climate (see my comments below on "Relevance to climate change
+programme"), and the proposers have identified the most relevant data
+sources available for the US.  The objectives and workplan are generally
+reasonable, but I have rated it "good" rather than "very good" or
+"excellent" because it does not seem as scientifically innovative or
+challenging as it might.  Some particular concerns are highlighted below.
+I am very wary about the proposed approach of integrating the data sources
+together to produce a single climate product.  Obviously the data sources
+have to be used in combination, for calibration of proxy data or for
+assessment of possibly dubious early instrumental data, *but* combining them
+all into a single product only will be very restrictive for future use,
+assessment, improvements.  Much better would be to produce intrumental-only
+series for whatever length is available, and tree-ring only series for the
+full length (i.e., into the late 19th and 20th centuries, despite the
+availability of instrumental data for these periods).  Blending them into a
+single analysis is of some, but limited, use and comparisons of different
+periods and with (e.g.) model simulations can only ever be done by taking
+into account error bars that vary dramatically in time and are only
+estimates of the "true" errors - and the error estimates may be
+underestimates if based only on residuals or covariances during the 20th
+century.
+No mention is made of using the 19th century data to consider key issues
+such as difference between tree-ring and ground borehole temperatures (they
+differ more in the 19th century, in terms of trend, than in other
+centuries), possibly taking into account land-use change.  No mention is
+made of using the 19th century data to assess multi-century temperature
+reconstructions and why they differ.  These are issues of great importance.
+No mention is investigating seasonal dependence of temperature changes,
+which are greater in existing temperature products during the 19th century
+than in the 20th century and which has important implications for the
+calibration of proxy (including tree-ring) data against summer or annual
+data and the need to more clearly define the true seasonal response of proxy
+data.
+Despite these concerns, the proposed work is certainly worthy of funding and
+the extra items of interest that I mention above could be achieved using the
+data generated here, in some future project.
+(2) Relevance to climate change programme
+Rating: High
+Comments:
+The 19th century is certainly of particular importance, not just for the
+reasons outlined in the proposal but also because this century shows some of
+the biggest disagreements in warming trend between various quasi-hemispheric
+temperature reconstructions and between proxy and instrumental data and
+between different seasons of instrumental data.  Additional data sources are
+definitely required, and additional digitisation, homogenisation and
+intercomparison of data sets is necessary.  For these reasons, work such as
+that proposed here is essential for helping to refine answers to questions
+such as how unusual is late twentieth century climate and detection of
+climate change signals against the noise of natural climate variability.
+Best regards
+Tim

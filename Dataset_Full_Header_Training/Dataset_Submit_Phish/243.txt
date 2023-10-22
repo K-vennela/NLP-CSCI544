@@ -1,0 +1,70 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [10.3.4.5])
+	by domain.com (Postfix) with ESMTP id A379446985
+	for <user@domain.com>; Thu,  3 Aug 2015 11:55:12 -0400 (EDT)
+Received: from 192.168.0.2 (wsip-68-15-98-170.domain.com [68.15.98.170])
+	by domain.com (Postfix) with SMTP id D5DCE6FA58E
+	for <user@domain.com>; Thu,  3 Aug 2015 11:55:12 -0400 (EDT)
+Received: from 62.139.179.128 by ; Thu, 03 Aug 2015 12:14:34 -0500
+Message-ID: <user@domain.com>
+From: "PayPal " <security@intl.paypal.com>
+Reply-To: "User" <user@domain.com>
+To: user@domain.com
+Subject: SD NOTICE : Update and Verify your PayPal  Account
+Date: Thu, 03 Aug 2015 19:19:34 +0200
+X-Mailer: The Bat! (v1.52f) Business
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--45765208291536281"
+X-Priority: 3
+X-MSMail-Priority: Normal
+Status: 
+X-Status: 
+X-Keywords: 
+
+Dear valued PayPal member:&nb;=
+sp;
+
+We regret to inform you that your
+account has been  suspended .
+
+
+
+As a result, your access on PayPal has been restricted.
+
+To start using fully your PayPal account, please update and verify you=
+r information by 
+responding this notification.
+ If you could
+please take 5-10 minutes 
+out of your online experience and update your personal records you will not run
+into 
+any future problems with the online
+service. 
+         &n;=
+bsp;           &nbs;=
+p;            =
+
+
+
+Please update your records on or
+before August 10,
+2006. 
+
+Once you have updated your account
+records, your PayPal session will not
+be 
+interrupted and will continue as normal. 
+To update your PayPal records click on the
+following link: 
+
+<<link>>
+
+
+
+Thank You.  
+PayPalUPDATE TEAM
+
+

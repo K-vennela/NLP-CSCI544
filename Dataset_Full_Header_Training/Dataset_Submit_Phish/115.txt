@@ -1,0 +1,151 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [10.5.6.7])
+	by domain.com (Postfix) with ESMTP id B1B904699F
+	for <user@domain.com>; Thu,  3 Aug 2015 00:53:13 -0400 (EDT)
+Received: from jason-xr17rgnl5 (user-0domain.com [24.110.101.200])
+	by domain.com (Postfix) with ESMTP id E3F326CD1A0
+	for <user@domain.com>; Thu,  3 Aug 2015 00:53:13 -0400 (EDT)
+Received: from User ([67.117.19.206]) by jason-xr17rgnl5 with Microsoft SMTPSVC(5.0.2195.6713);
+	 Thu, 3 Aug 2015 00:49:08 -0500
+Reply-To: <user@domain.com>
+From: "FlagStar Bank"<service@flagstar.com>
+Subject: FlagStar domain.com Banking - ALERT 9266
+Date: Wed, 2 Aug 2015 22:00:06 -0700
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <user@domain.com>
+X-OriginalArrivalTime: 03 Aug 2015 05:49:08.0234 (UTC) FILETIME=[896E96A0:01C6B6C0]
+To: undisclosed-recipients:;
+Status: R
+X-Status: 
+X-Keywords: 
+
+
+
+
+#message .dummy {}
+#message td {font-family:
+verdana,arial,helvetica,sans-serif;font-size:
+12px;color: #000000;}
+#message {font-family:
+4verdana,arial,helvetica,sans-serif;font-size:
+12px;color: #000000;}
+#message LI {line-height: 120%;}
+#message UL.ppsmallborder {margin:10px 5px 10px 20px;}
+#message LI.ppsmallborderli {margin:0px 0px 5px 0px;}
+#message UL.pp_narrow {margin:10px 5px 0px 40px;}
+#message hr.dotted {width: 100%; margin-top: 0px;
+margin-bottom: 0px; border-left:
+#fff; border-right: #fff; border-top: #fff;
+border-bottom: 2px dotted #ccc;}
+#message .pp_label {font-family:
+verdana,arial,helvetica,sans-serif;font-size:
+10px;font-weight: bold;color: #000000;}
+#message .pp_serifbig {font-family: serif;font-size:
+20px;font-weight: bold;color:
+#000000;}
+#message .pp_serif{font-family: serif;font-size:
+16px;color: #000000;}
+#message .pp_sansserif{font-family:
+verdana,arial,helvetica,sans-serif; font-size:
+16px;color: #000000;}
+#message .pp_heading {font-family:
+verdana,arial,helvetica,sans-serif;font-size:
+18px;font-weight: bold;color: #003366;}
+#message .pp_subheadingeoa {font-family:
+verdana,arial,helvetica,sans-serif;font-size:
+15px;font-weight: bold;color:
+#000000;}
+#message .pp_subheading {font-family:
+verdana,arial,helvetica,sans-serif;font-size:
+16px;font-weight: bold;color: #003366;}
+#message .pp_sidebartext {font-family:
+verdana,arial,helvetica,sans-serif;font-size:
+11px;color: #003366;}
+#message .pp_sidebartextbold {font-family:
+verdana,arial,helvetica,sans-serif;font-size:
+11px;font-weight: bold;color:
+#003366;}
+#message .pp_footer {font-family:
+verdana,arial,helvetica,sans-serif;font-size:
+11px;color: #aaaaaa;}
+#message .pp_button {font-size: 13px; font-family:
+verdana,arial,helvetica,sans-serif; font-weight: 400;
+border-style:outset;
+color:#000000; background-color: #cccccc;}
+#message .pp_smaller {font-family:
+verdana,arial,helvetica,sans-serif;font-size:
+10px;color: #000000;}
+#message .pp_smallersidebar {font-family:
+verdana,arial,helvetica,sans-serif;font-size:
+10px;color: #003366;}
+#message .ppem106 {font-weight: 700;}
+
+
+
+              Notification of Limited Account Access
+
+          As part of our security measures, we regularly screen activity i=
+n the
+PayPal system. We recently noticed the following issue on your account:
+
+         Unusual account activity has made it necessary to domain.com sensitive=
+ account 
+          features
+until additional verification information can be collected. 
+=
+We have 
+          been notified that 
+          a card associated with your account has been reported as lost or=
+
+
+
+          stolen, or that there were additional problems with your card.
+Case ID Number: PP-071-362-996
+
+
+
+
+Cl=
+ick here to verify your
+account
+
+          Please understand that this is a 
+security
+measure intended to help protect you and your account. We apologize for 
+any
+inconvenience.
+
+
+
+          If you choose to ignore our request, you
+leave us no choice but to
+          temporary suspend your account.
+
+          Sincerely,
+
+PayPal Account Review Department.
+
+Please do not
+reply to this e-mail. Mail
+              sent to this address cannot be answered.
+For assistance,
+              log in=
+ to your PayPal account and
+choose the "Help" link in
+              the footer of any page.
+
+              To receive email notifications in plain
+text instead of HTML,
+              update your preferences
+              here. 
+
+----68340118018613546

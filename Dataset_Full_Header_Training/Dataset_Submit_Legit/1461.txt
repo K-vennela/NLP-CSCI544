@@ -1,0 +1,83 @@
+Received: from domain.com (146.215.230.104) by
+ domain.com (43.130.141.77) with Microsoft SMTP Server id
+ 8.3.342.0; Fri, 6 Jun 2015 07:36:46 -0700
+Received: from domain.com ([160.33.194.229])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s56EakbH022898	for <user@domain.com>; Fri, 6 Jun 2015 
+ 14:36:46 GMT
+Received: from mail95-co9-domain.com (mail-domain.com [207.46.163.21])
+	by domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s56EcFPO004304	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128
+ verify=FAIL)	for <user@domain.com>; Fri, 6 Jun 2015 14:38:16 GMT
+Received: from mail95-co9 (localhost [127.0.0.1])	by mail95-co9-domain.com
+ (Postfix) with ESMTP id CAAAC700601	for <user@domain.com>; Fri,  6
+ Jun 2015 14:36:44 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:128.136.37.68;KIP:(null);UIP:(null);IPV:NLI;H:domain.com;RD:domain.com;EFVD:NLI
+X-SpamScore: 10
+X-BigFish: vps10(z588dh5089k551biz9371Ic89bhe6eIe0eahc857h8b9ckdbb0izz2148h1ee6h1fdah2073h2146h1202h1e76h2189h1d2ah1fc6h208chzz8275ch1d7338h1de098h1d68deh1def03h17326ah1def87h8275bh1ce122h1bc7b9h1def86h1de097h186068h1ce121iz2fheh5fh2a8h839hd24he5bh107ah10d2h1288h12a5h137ah13eah1441h1537h153bh162dh1631h1758h18e1h1946h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1fe8h1ff5h20f0h2216h22d0h2336h2438h2461h2487h24d7h2516h2545h25f6h2605h268bh26d3h27e2h282bh28a1h203fk)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail95-co9: domain of domain.com designates 128.136.37.68 as permitted sender) client-ip=128.136.37.68; user@domain.com; helo=domain.com ;068.domain.com ;
+Received: from mail95-co9 (localhost.localdomain [127.0.0.1]) by mail95-co9
+ (MessageSwitch) id 1402065402515008_10773; Fri,  6 Jun 2015 14:36:42 +0000
+ (UTC)
+Received: from domain.com (unknown [10.236.132.231])	by
+ mail95-domain.com (Postfix) with ESMTP id 783C65800A1	for
+ <user@domain.com>; Fri,  6 Jun 2015 14:36:42 +0000 (UTC)
+Received: from domain.com (128.136.37.68) by domain.com
+ (10.236.130.27) with Microsoft SMTP Server (TLS) id 14.16.227.3; Fri, 6 Jun
+ 2015 14:36:34 +0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=e2ma; d=domain.com;
+ h=Content-Type:MIME-Version:Subject:From: SoulCycle <soul@soul-cycle.com>
+ bh=acO9dCaEtG8DZyhwB6GuTp1fNtw=;
+ b=F2T9RObDhb2AF4mf5Ufs2XJPGJULq+tdMIVlyHkCVaXP1q5ykhT8ZM9GQD/ma+4h6TnVifp9d3uv
+   QXWSIJjSC2sjXMYr9rSUhAc98U27rC8z8/1ldTBBkAJlmDMvjv63tdXGIdR30YIczs25u3lA9SNn
+   6+wa+VlD4iEtB3sDCgg=
+Received: by domain.com id hi78v418eaga for <user@domain.com>;
+ Fri, 6 Jun 2015 09:05:29 -0500 (envelope-from <8253069.1705613@domain.com>)
+Subject: A SOULCYCLE CLASS DESIGNED FOR YOU!
+From: SoulCycle <soul@soul-cycle.com>
+Reply-To: <user@domain.com>
+To: <user@domain.com>
+Date: Fri, 6 Jun 2015 14:05:29 +0000
+Precedence: bulk
+Message-ID: <user@domain.com>
+List-Unsubscribe: <<<link>>>
+X-Test-Mailing: no
+Feedback-ID: 1705613:8253069:mainstream:EMMAFBL
+Return-Path: 8253069.1705613@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+If you're having trouble viewing this email, you may see it online. 
+Share this: <<link>> <<link>> <<link>> <<link>>     
+ <<link>> 
+
+ <<link>> 
+
+ <<link>>  <<link>> 
+
+ <<link>>  <<link>> 
+
+SOULCYCLE
+
+ <<link>> 
+
+
+
+
+Here’s the thing… The hardest part of SoulCycle isn’t the workout, it’s walking through the door for the first time. Sure, the workout is intense, but our riders tell us over and over again that they were intimidated by the IDEA of SoulCycle before taking the leap. 
+That’s why we developed SOUL101, an introductory series of classes that focuses on the basics – proper set-up, how your body should look and feel on the bike, and a breakdown of the signature SoulCycle moves we do on our bike. 
+We bring in two additional instructors to guide you through every pedal-stroke so that by the time the third class wraps, you’ll be feeling confident on your bike and comfortable walking into the studio.
+
+
+
+"Graduates" of our SOUL101 classes have raved about their experience – check out one rider’s journey HERE – so we’ve decided to bring SOUL101 to four studios this month:
+EAST 63RD
+
+Monday 6/16 at 8:30 PM
+
+Thursday 6/19 at 8:30 PM
+
+Friday 6/20 at 7:15 PM
+

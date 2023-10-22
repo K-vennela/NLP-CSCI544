@@ -1,0 +1,50 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 3D89D23CA91
+	for <user@domain.com>; Fri,  9 Mar 2015 09:23:49 -0600 (CST)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id yu2yQS+1NRq1 for <user@domain.com>;
+	Fri,  9 Mar 2015 09:23:46 -0600 (CST)
+Received: from mail2.wccusd.net (mail2.wccusd.net [169.199.227.251])
+	by domain.com (Postfix) with ESMTP id CEABE23CA8F
+	for <user@domain.com>; Fri,  9 Mar 2015 09:23:46 -0600 (CST)
+Received: from WCCUSDEXCH01.wccusd.net ([10.34.8.141]) by mail2.wccusd.net with Microsoft SMTPSVC(6.0.3790.4675);
+	 Fri, 9 Mar 2015 07:23:43 -0800
+X-MimeOLE: Produced By Microsoft Exchange V6.5
+Content-class: urn:content-classes:message
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----_=_NextPart_001_01CCFE08.89BAFFB2"
+Subject: KEEPING TRACK OF YOUR USAGE.
+Date: Fri, 9 Mar 2015 07:23:11 -0800
+Message-ID: <user@domain.com>
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+Thread-Topic: KEEPING TRACK OF YOUR USAGE.
+Thread-Index: Acz+CIeBN/Kblq1SQ9ur4n8AVMK7tA==
+From: "Torio, Liz" <LTorio@wccusd.net>
+X-OriginalArrivalTime: 09 Mar 2015 15:23:43.0675 (UTC) FILETIME=[9D2828B0:01CCFE08]
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 87
+
+Your web mail quota has exceeded the set quota which is 3GB. you are =
+currently running on 3.9 GB. To re-activate and increase your web mail =
+quota please click the link below.
+
+<<link>>
+lWZ2VkTXhFSXc6MQ =
+<<<link>>
+lFTZk5zSkdQUHc6MQ>=20
+
+ Failure to do so may result in the cancellation of your web mail =
+account.
+ Thanks, and sorry for the inconvenience
+ Local-host.
+

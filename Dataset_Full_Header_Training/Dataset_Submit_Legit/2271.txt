@@ -1,0 +1,80 @@
+Received: from domain.com (146.215.230.104) by
+ domain.com (43.130.141.77) with Microsoft SMTP Server id
+ 8.3.297.1; Wed, 12 Feb 2015 11:32:44 -0800
+Received: from domain.com ([160.33.194.229])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s1CJWhYf013184	for <user@domain.com>; Wed, 12 Feb 2015 
+ 19:32:43 GMT
+Received: from mail44-am1-domain.com (mail-domain.com
+ [213.199.154.201])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s1CJWbBE003352
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Wed, 12 Feb 2015 19:32:38 GMT
+Received: from mail44-am1 (localhost [127.0.0.1])	by mail44-am1-domain.com
+ (Postfix) with ESMTP id 113DE36007D	for <user@domain.com>; Wed, 12
+ Feb 2015 19:32:42 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:65.39.215.134;KIP:(null);UIP:(null);SRV:BULK;H:mx-domain.com;RD:mx-domain.com;EFVD:NLI
+X-SpamScore: 3
+X-BigFish: vps3(z579ehz758Ic857hdbb0izz1f42h2148h208ch1ee6h1de0h1fdah2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6hzz8275ch1d7338h1de098h1def03h17326ah1def87h8275bh1bc7b9h8275dh1defc1h1def86h1de097h186068h172c6ch1ce120h1a691ciz2fheh5fh839h8aahe5bh1288h12a5h137ah139eh13eah1441h14ddh1504h1537h162dh1631h1758h1898h18e1h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1e23h1fe8h1ff5h20f0h2218h2216h226dh24afh2327h2336h2438h2461h2487h24d7h2516h2545h2565h214ai24c8i1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail44-am1: domain of domain.com designates 65.39.215.134 as permitted sender) client-ip=65.39.215.134; user@domain.com; helo=mx-domain.com ;domain.com ;
+Received: from mail44-am1 (localhost.localdomain [127.0.0.1]) by mail44-am1
+ (MessageSwitch) id 1392233559746114_27975; Wed, 12 Feb 2015 19:32:39 +0000
+ (UTC)
+Received: from domain.com (unknown [10.3.201.240])	by
+ mail44-domain.com (Postfix) with ESMTP id ABAFA300075	for
+ <user@domain.com>; Wed, 12 Feb 2015 19:32:39 +0000 (UTC)
+Received: from mx-domain.com (65.39.215.134) by domain.com
+ (10.3.207.155) with Microsoft SMTP Server id 14.16.227.3; Wed, 12 Feb 2015 
+ 19:32:39 +0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; s=mt; d=domain.com;
+ h=Date:From: Deadline.com <alerts@deadline.com>
+ bh=Ip+s67FHqHxUMyZ37MEYQiEO2gM=;
+ b=GTAa2rXAcPNBNlV3FNahPBxTjGfXhnt1sHI4oYy+vQLJZr4vejWy8NUdix0fBRyDQ9sl0tOLsw/b
+   Fsp6Z6EMjWNCIWHCxBhFf2XaiUdeG/2VYThN3haGzH33SYGhoiBuCAR6jn80Rs1D1FGQ0WDzmHsH
+   Qt65dQVu9pypPLRThQw=
+Received: from nyp1-jmailer7.sailthru.pvt (65.39.215.159) by
+ mx-domain.com id hvf65e1qqbsq for <user@domain.com>; Wed, 12 Feb
+ 2015 14:32:38 -0500 (envelope-from <user@domain.com>)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1392233558;
+	s=sailthru; d=deadline.com;
+	h=Date:From: Deadline.com <alerts@deadline.com>
+	bh=4JSqLSmiswyUIN/q6CrxHXv+CAmkmrfw2pYAdoHYjxU=;
+	b=Y+mk+c1LoIzn1jFSw7g3G3No804qSRVsUZsFXCeey1TRY6IgVxeXBsab0q9Xvuoi
+	T6dXJYqor13G86qMYpkihZyJDWLgDY3PRAmpAMYR02eHywL/zatJJTAsLdyfNXpr6oF
+	1DVNrRGJoQMoks9wSd9TLmeGnBduuuahh18ZNRZo=
+Date: Wed, 12 Feb 2015 14:32:38 -0500
+From: Deadline.com <alerts@deadline.com>
+To: <user@domain.com>
+Message-ID: <20140212193238.2416366.6481@domain.com>
+Subject: [domain.com] Berlin: Warm Weather & A Record Deal Can't Fully
+ Thaw Market Chill; Is EFM Worth It?
+Precedence: bulk
+X-TM-ID: 20140212193238.2416366.6481
+X-Info: Message sent by domain.com customer Deadline
+X-Info: We do not domain.com unsolicited commercial email
+X-Info: Please report abuse by forwarding complete headers to
+X-Info: user@domain.com
+X-Mailer: domain.com
+X-IADB-IP: 65.39.215.21
+X-IADB-IP-REVERSE: 21.215.39.65
+X-IADB-URL: <<link>>
+X-Unsubscribe-Web: <<link>>
+List-Unsubscribe: <<<link>>>, <mailto:user@domain.com>
+X-rpcampaign: stdgp2416366
+Return-Path: user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+<<link>> 
+
+<<link>> 
+
+        Deadline Hollywood has posted urgent news:              
+
+        Berlin: Warm Weather & A Record Deal Can't Fully Thaw Market Chill; Is EFM Worth It?            
+
+        For all of Deadline's headlines, follow us @Deadline on Twitter.                
+
+This email was sent to user@domain.com by Deadline. To ensure delivery to your inbox (and not your spam folder), please add user@domain.com to your address book. If 

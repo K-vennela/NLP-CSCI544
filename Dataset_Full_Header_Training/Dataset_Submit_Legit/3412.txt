@@ -1,0 +1,25 @@
+From: Alberto Ornaghi <a.ornaghi@hackingteam.com>
+X-Smtp-Server: domain.com:alor
+Subject: leggi qui...
+Message-ID: <7user@domain.com>
+X-Universally-Unique-Identifier: c72697ff-72ba-43df-a388-699d4192528d
+Date: Mon, 7 Oct 2015 14:17:49 +0200
+To: Andrea Di Pasquale <user@domain.com>
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1561796924_-_-"
+
+<<link>>
+di come funzionano i Quantum e FoxAcid... non ti ricorda qualcosa?? :P
+
+--
+Alberto Ornaghi
+Software Architect
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+email: user@domain.com
+mobile: +39 3480115642office: +39 02 29060603 
+

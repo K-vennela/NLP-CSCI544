@@ -1,0 +1,141 @@
+American Airlines
+.ReadMsgBody {width: 100%;}
+.ExternalClass {width: 100%;}
+.applelinks a { color:#999999 !important;
+text-decoration:none !important;}
+@media screen and (max-width:480px){
+table[class=nomob], span[class=nomob], td[class=nomob], img[class=nomob] {
+display:none !important;
+}
+/* Mobile width resize */
+table[class=email320resize]{
+width:320px !important;
+}
+table[class=email310resize],td[class=email310resize]{
+width:310px !important;
+}
+table[class=email300resize]{
+width:300px !important;
+}
+/* Mobile column split */
+td[class=email320split]{
+width:320px !important;
+float: left !important;
+}
+td[class=email310split]{
+width:310px !important;
+float: left !important;
+}
+td[class=email310split_1]{
+width:310px !important;
+float: left !important;
+border-bottom: 1px solid #3399cc;
+margin: 0px 0px 20px 0px;
+}
+td[class=email310split_1_last]{
+width:310px !important;
+float: left !important;
+border-bottom: 1px solid #3399cc;
+margin: 0px;
+}
+/* Spacer Images Resize */
+*[class=Resizeto13w]{
+width: 13px !important;
+}
+*[class=Resizeto5w]{
+width: 5px !important;
+}
+*[class=Resizeto16w]{
+width: 16px !important;
+}
+*[class=Resizeto56w]{
+width: 56px !important;
+}
+*[class=Resizeto10h]{
+height: 10px !important;
+}
+*[class=Resizeto14h]{
+height: 14px !important;
+}
+/* Showing hidden Elements*/
+*[class=Show_one_world]{
+width: 32px !important;
+height: 32px !important;
+display: inline !important;
+margin: 17px 0px 0px 60px;
+}
+*[class=Show_one_world_again]{
+display: inline !important;
+}
+*[class=Get_back_month]{
+font-size: 11px !important;
+color: #5f7a81 !important;
+line-height: 18px !important;
+display: inline !important;
+}
+/*Image Resizing*/
+*[class=resizeimageto320]{
+width: 320px !important;
+height: auto !important;
+}
+*[class=resizeimageto310]{
+width: 310px !important;
+height: auto !important;
+}
+/*Font Size Change */
+*[class=Resizefontto11]{
+font-size: 11px !important;
+}
+*[class=Resizefontto9]{
+font-size: 9px !important;
+}
+/*Buttons*/
+*[class=Footer_button]{
+width: 310px !important;
+float: left !important;
+background: #d0dae0 !important;
+/*Border Radius*/
+-webkit-border-radius: 0px;
+-moz-border-radius: 0px;
+border-radius: 0px;
+/*Border Radius*/
+padding: 5px 0px;
+font-size: 14px !important;
+color: #36495a !important;
+line-height: 20px !important;
+margin: 0px 0px 6px 5px;
+}
+*[class=Footer_button_link]{
+width: 310px !important;
+float: left !important;
+background: #d0dae0 !important;
+/*Border Radius*/
+-webkit-border-radius: 0px;
+-moz-border-radius: 0px;
+border-radius: 0px;
+/*Border Radius*/
+padding: 0px 0px;
+font-size: 14px !important;
+color: #36495a !important;
+line-height: 20px !important;
+}
+}
+View on the web
+Reservations
+Redeem Miles
+My Account
+Deals
+Hello Michael Lynton,
+AAdvantage  Executive Platinum Number: XL20882
+We are pleased to offer you the option to reserve your entrée when traveling in First or Business Class. 
+Update Your Email Preferences
+Change Your Email Address
+Unsubscribe
+View Privacy Policy
+*Entrée selections must be completed in the flight option section no later than 24 hours prior to departure for catering fulfillment.
+This email was sent to user@domain.com because you have an upcoming flight.
+This email has been sent on behalf of American Airlines. We are happy to help you with any questions or concerns you may have. For all inquiries about American Airlines or the AAdvantage® program, visit aa.com/contactaa, send an email to user@domain.com or contact us in writing at American Airlines, 4255 Amon Carter Blvd., MD 2400, Fort Worth, TX 76155-2503.
+American Airlines reserves the right to change the AAdvantage program and its terms and conditions at any time without notice, and to end the AAdvantage program with six months notice. Any such changes may affect your ability to use the awards or mileage credits that you have accumulated. Unless specified, AAdvantage miles earned 
+through this promotion/offer do not count towards elite‑status qualification or AAdvantage Million MilerSM status. American Airlines is not responsible for products or services offered by other participating companies. For complete details about the AAdvantage program, visit aa.com/AAdvantage.
+A portion of all travel booked on American Airlines may be American Eagle® or American Connection® service. American Eagle service is operated by Envoy Air Inc., SkyWest Airlines, Inc., ExpressJet Airlines, Inc., or Republic Airline Inc.  American Connection service is operated by Chautauqua Airlines, Inc.
+oneworld is a registered trademark of oneworld Alliance, LLC.

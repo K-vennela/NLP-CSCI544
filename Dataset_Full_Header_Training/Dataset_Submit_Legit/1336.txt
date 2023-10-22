@@ -1,0 +1,165 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 4 May
+ 2015 16:35:46 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 4 May 2015 
+ 16:35:36 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 896966117
+ for user@domain.com; Wed, 04 May 2015 15:35:44 -0500
+X-Note-AR-ScanTimeLocal: 5/4/2016 3:35:41 PM
+X-Policy: domain.com
+X-Note-AR-Scan: None - PIPE
+Received: by domain.com (CommuniGate Pro PIPE 6.1.7)  with PIPE id
+ 136642921; Wed, 04 May 2015 15:35:41 -0500
+Received: from mail-wm0-domain.com ([74.125.82.41] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 136642913
+ for user@domain.com; Wed, 04 May 2015 15:35:38 -0500
+Received: by mail-wm0-domain.com with SMTP id g17so114159010wme.1
+        for <user@domain.com>; Wed, 04 May 2015 13:35:39 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=nvdems-domain.com; s=20150623;
+        h=mime-version:From: Stewart Boss <sboss@nvdems.com>
+        bh=3nFMH+pvOQWaJFSvMRbDNn6+Vhq6skZokHnWDxO9bm8=;
+        b=zEUdxQSbqPG1FTNF4J2x6dUejEuofntNpzVnA08652RF40+9sj8KCN9KN7576EcmeX
+         KtXqGTH4t/Nk3JRVXNACeVQN3EqoIng5rtLa3inInjkI9sXXSzGF4rokQuTp1gHygHZF
+         1+RCRmTd5/yFJD5ygN2jTXXSAGTuccrAjXiHavwnfnihc4BbpmRICfy4g9P0XUmLMhz3
+         RFzF0dmUr5w1P6t5u/EDn+pmnNqUv1VhpGq+JNKVdAVQfur2h/9W3sfs/lw/jjx31fwM
+         q1HLKjNxrQNxcjsnjwHTL4wNIBkl8Y/6btoXirRiwYdY4QPhbiPSLPChjq/BWBYaZvdQ
+         NO0Q==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:From: Stewart Boss <sboss@nvdems.com>
+        bh=3nFMH+pvOQWaJFSvMRbDNn6+Vhq6skZokHnWDxO9bm8=;
+        b=Ldzi4fFsyeiEG6YGkHhyklWePvf6bHHyP/Dm+ZcRcW0vDOv6leW/4198YVOvoy4SaM
+         28hGVcigZSXzBKW/qOIlXM+bCRGXt4+4KSjQVGZXimSkmr7Ksy9KSN2DF0UyhVYAr3SR
+         kgPnYelJCBA/jkey8hiPrrO+C4E9Lh08BDMvsPaoTAXNOVjaMo8Lldmq+kx9/o9lAmpq
+         0OvhBolorM/RVyIx/6N+rJK4NLiufcwZEg6qA3xDkvYpMlf20W7QGcVAPJncOid1K4rP
+         nDcfNy3bv2jGxauKHgfd2GjcLPDhJ8KjlHYUDhjTckHuthedt6Xywmq+kdtHwwbgm1GU
+         LjDg==
+X-Gm-Message-State: AOPr4FXVUD7Kk75zU51LMI7dcRSWiFq6UfvQ9KfKceP194FtfOPeA/dJepWMbk71KDThYUy6L3IVOzl41BfGIg==
+X-Received: by 10.194.69.106 with SMTP id d10mr10606428wju.165.1462394137216;
+ Wed, 04 May 2015 13:35:37 -0700 (PDT)
+Received: by 10.28.182.131 with HTTP; Wed, 4 May 2015 13:35:07 -0700 (PDT)
+From: Stewart Boss <sboss@nvdems.com>
+Date: Wed, 4 May 2015 13:35:07 -0700
+Message-ID: <CA+gRAz1sxQe6G+ygYHW+qp=+user@domain.com>
+Subject: POLITICO: Nevada Democratic Party hopes Trump will be 'albatross' for
+ down-ballot Republicans
+To: Stewart Boss <user@domain.com>
+Content-Type: multipart/mixed; boundary="047d7bfcf5a0125d2d05320a2b24"
+X-Note-AR-ScanTimeLocal: 5/4/2016 3:35:40 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @nvdems.com ALLOWED
+X-Note: VCH-CT/SI:0-11682/SG:3 5/4/2016 3:35:18 PM
+X-Virus-Scan: V-X0H0M0
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 74.125.82.41
+X-Note-Reverse-DNS: mail-wm0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+*POLITICO: Nevada Democratic Party hopes Trump will be 'albatross' for
+down-ballot Republicans
+<<<link>>
+16/05/nevada-democrats-trump-down-ballot-222799>*
+
+By BRIANNA GURCIULLO 05/04/16
+
+As political leaders across the ideological spectrum weighed in Wednesday
+on a Donald Trump-Hillary Clinton match-up, the Nevada State Democratic
+Party had a snarkier take.
+
+In a letter to "Dangerous Donald," Chair Roberta Lange congratulated Trump
+on his victory in Indiana on Tuesday, which led to Ted Cruz and John Kasich
+suspending their campaigns. And Lange invited Trump to "come back to Nevada
+as soon as possible."
+
+"Nevada will be a key battleground up and down the ballot in 2016," Lange
+wrote. "But we=E2=80=99re eager to see just how big of an albatross you can=
+ be for
+down-ballot Republicans."
+
+The chair added: "And we know for a fact your racist, misogynistic,
+anti-immigrant rhetoric will inspire even more of our supporters to get
+involved and elect Democrats."
+
+<<link>>
+6/05/nevada-democrats-trump-down-ballot-222799
+
+---------- Forwarded message ----------
+From: Stewart Boss <sboss@nvdems.com>
+Date: Wed, May 4, 2015 at 10:18 AM
+Subject: LETTER: NV Dems Invite Donald Trump to Nevada
+
+May 4, 2015 
+
+Donald J. Trump for President
+
+725 Fifth Avenue
+
+New York, NY 10022
+
+Dear Dangerous Donald:
+
+Congratulations on last night=E2=80=99s impressive 16-point victory in the =
+Indiana
+Republican primary. Your big win forced Lyin=E2=80=99 Ted Cruz to drop out =
+and made
+you the inevitable Republican nominee for the White House. Even RNC Chair
+Reince Priebus has declared you are the presumptive presidential nominee
+and that Republicans must unite behind your campaign. Wow!
+
+On behalf of the Nevada State Democratic Party, I would like to invite you
+to come back to Nevada as soon as possible. General election, here we go!
+
+Nevada will be a key battleground up and down the ballot in 2016. We were
+already in a strong position to win Nevada for our Democratic presidential
+nominee, elect Catherine Cortez Masto to the U.S. Senate, pick up seats in
+Congress and take back our Democratic majorities in the Nevada legislature.
+But we=E2=80=99re eager to see just how big of an albatross you can be for
+down-ballot Republicans.
+
+Every major GOP candidate in Nevada this cycle =E2=80=94 Congressman Heck, =
+Sharron
+Angle, (accidental) Congressman Hardy, Danny Tarkanian and Michael Roberson
+=E2=80=94 is already on record supporting you since you are now the GOP=E2=
+=80=99s
+inevitable nominee. So Nevada Republicans are sure to welcome you here with
+open arms. You=E2=80=99ll have *so many friends* on the campaign trail.
+
+Unlike the Republicans, Democrats are actually going to hold you
+accountable. And we know for a fact your racist, misogynistic,
+anti-immigrant rhetoric will inspire even more of our supporters to get
+involved and elect Democrats.
+
+Thank you for considering this invitation, and we hope to see you in Nevada
+soon.
+
+Sincerely,
+
+[image: Inline image 2]
+
+Roberta Lange
+
+Chair, Nevada State Democratic Party
+
+--=20
+*Stewart Boss*
+Press Secretary
+Nevada State Democratic Party
+(704) 733-0313
+@stew_boss <<<link>>>

@@ -1,0 +1,56 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id A0C2A4688C
+	for <user@domain.com>; Wed, 29 Apr 2015 13:52:03 -0400 (EDT)
+Received: from domain.com.ni (domain.com [200.85.160.21])
+	by domain.com (Postfix) with ESMTP id C189A131F76B
+	for <user@domain.com>; Wed, 29 Apr 2015 13:52:03 -0400 (EDT)
+X-ASG-Debug-ID: 1241027484-665d029b0000-6JlXpt
+X-Barracuda-URL: <<link>>:8000/cgi-bin/mark.cgi
+Received: from domain.com.ni (localhost [127.0.0.1])
+	by domain.com.ni (Spam Firewall) with ESMTP
+	id 42357171447C; Wed, 29 Apr 2015 11:51:24 -0600 (CST)
+Received: from domain.com.ni (domain.com.ni [200.85.160.12]) by domain.com.ni with ESMTP id 0pTPL8BvEFDmE8aH; Wed, 29 Apr 2015 11:51:24 -0600 (CST)
+X-Barracuda-Envelope-From: WEBMAIL MESSAGING CENTER <web_upgrade@upgrade.com>
+Received: from domain.com.ni (domain.com.ni [200.85.160.3])
+	by domain.com.ni (8.12.11/8.12.9) with SMTP id n3THp9JB029723;
+	Wed, 29 Apr 2015 11:51:10 -0600 (GMT)
+Message-Id: <200904291751.user@domain.com>
+X-Barracuda-BBL-IP: 200.85.160.3
+X-Barracuda-RBL-IP: 200.85.160.3
+X-Priority: 
+Sensitivity: Company-Confidential
+From: WEBMAIL MESSAGING CENTER <web_upgrade@upgrade.com>
+Reply-To: user@domain.com
+Organization: GPCOM.NET MESSAGING CENTER
+To: user@domain.com
+X-ASG-Orig-Subj: Verify your webmail account!
+Subject: Verify your webmail account!
+Date: Wed, 29 Apr 2015 12:51:09 -0500
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Barracuda-Connect: domain.com.ni[200.85.160.12]
+X-Barracuda-Start-Time: 1241027484
+X-Barracuda-Virus-Scanned: by Barracuda Spam & Virus Firewall at domain.com.ni
+Content-Length: 891
+Lines: 12
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1042
+
+Dear webmail user, 
+This message is from our Webmail Messaging Center to all our account owners.We are currently upgrading our data base and e-mail center. 
+We are deleting all unused webmail account to Create more space for new accounts. 
+In order to ensure you do not experience service interruption during this period;
+you will have to confirm your webmail account details by providing the following: 
+1.Username:....................................
+2.Password:...................................
+3.Date of Birth:...............................  
+
+You will be sent a new confirmation alphanumerical password that will only be valid during this period and can be changed after this process. 
+We are very sorry for the inconvenience this may cost you. 
+Please respond to this notice to enable us provide you better online services with our newly improved webmail features and enhancements.

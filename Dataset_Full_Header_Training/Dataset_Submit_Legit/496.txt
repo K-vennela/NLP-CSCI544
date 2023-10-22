@@ -1,0 +1,27 @@
+From: Alberto Ornaghi <a.ornaghi@hackingteam.com>
+X-Smtp-Server: domain.com:alor
+Subject: TNI da me
+Message-ID: <82user@domain.com>
+X-Universally-Unique-Identifier: BB87F9FE-2EA2-4128-BE97-69D260AFCC5F
+Date: Fri, 24 Oct 2015 13:26:59 +0200
+To: Andrea Di Pasquale <user@domain.com>
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1561796924_-_-"
+
+ti va di provarlo da me?
+  "cookie" => "85879a5e-dee7-4c5b-8866-33c1d40a23aa",  "key" => "faf4449d56e73dd700796d19854f1a7f"
+ti ho fatto un account:andreaPollucep123
+indirizzo 172.20.20.171
+
+--
+Alberto Ornaghi
+Software Architect
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+email: user@domain.com
+mobile: +39 3480115642office: +39 02 29060603 
+

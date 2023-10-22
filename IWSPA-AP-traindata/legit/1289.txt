@@ -1,0 +1,26 @@
+Tom,
+Agreed that NCDC must have some data gaps - but this isn't very clear from the web
+site.
+GISS is inferior - not just because it doesn't use back data. They also impose some
+urbanization adjustment which is based on population/night lights which I don't think is
+very good. Their gridding also smooths things out. Plotting all three together for land
+only though they look similar at decadal timescales. GISS does have less year-to-year
+variability - when I last looked.
+I assume NCDC should add the back data in - although there isn't the need if infilling
+is going on OK.
+I've never looked to see if NCDC changes from year to year.
+I think you can say that GISS is inferior to CRUTEM3.  In Ch 3 of AR4 I put the station
+number counts in.
+GISS and NCDC have more, but almost all of this is more data in the US. Their non-use of a
+base period (GISS using something very odd and NCDC first differences) means they can use
+very short series that we can't (as they don't have base periods) but with short series it
+is impossible to assess for homogeneity. So some of their extra series may be very short
+ones as well. As you know the more important thing is where the stations are (and in time).
+The paper I sent you by Adrian Simmons shows great agreement with CRUTEM3 when
+subsampled according to CRU grid boxes. Also shows that ERA-INTERIM is very good.
+ERA-INTERIM's absolute is also within 0.2 deg C of the CRU 14 deg C value. It would give
+about 13.8 for 1961-90. Sometime I should write this up as more and more people seem to be
+using 15 deg C.
+Away from tomorrow till next Tuesday.
+Cheers
+Phil

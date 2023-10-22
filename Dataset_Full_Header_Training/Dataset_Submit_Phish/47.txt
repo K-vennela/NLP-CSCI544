@@ -1,0 +1,78 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 6AF1823CA7F;
+	Sat, 23 Jun 2015 13:12:44 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 0MYAxZec2Wbv; Sat, 23 Jun 2015 13:12:42 -0500 (CDT)
+Received: from sunysuffolk.edu (eg5000.cc.sunysuffolk.edu [198.72.8.20])
+	by domain.com (Postfix) with ESMTP id EE72323CA7E;
+	Sat, 23 Jun 2015 13:12:41 -0500 (CDT)
+Received: from ([198.72.8.41])
+	by eg5000.sunysuffolk.edu with ESMTP  id cz8nll1.38508029;
+	Sat, 23 Jun 2015 14:05:50 -0400
+Received: from central5.sccc.a ([172.16.0.16]) by sunysuffolk.edu with Microsoft SMTPSVC(6.0.3790.4675);
+	 Sat, 23 Jun 2015 14:06:33 -0400
+Content-class: urn:content-classes:message
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----_=_NextPart_001_01CD516A.EB53741E"
+X-MimeOLE: Produced By Microsoft Exchange V6.5
+Subject: Attention;
+Date: Sat, 23 Jun 2015 14:06:32 -0400
+Message-ID: <12user@domain.com>
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+Thread-Topic: Attention;
+Thread-index: Ac1RauoWJZi5ioX1TLqX6e9TTrj0nQ==
+From: "Robert Saia" <saiar@sunysuffolk.edu>
+X-OriginalArrivalTime: 23 Jun 2015 18:06:33.0859 (UTC) FILETIME=[EC6D6D30:01CD516A]
+X-esp: ESP<38>=
+	SHA:<6> 
+	SHA_FLAGS:<400> 
+	UHA:<12> 
+	ISC:<0> 
+	BAYES:<-1> 
+	SenderID:<0> 
+	DKIM:<0> 
+	TS:<0> 
+	SIG:<> 
+	DSC:<21> (google_group:<21>) 
+	TRU_spam1: <0>
+	TRU_scam_spam: <0>
+	TRU_money_spam: <0>
+	TRU_profanity_spam: <0>
+	TRU_ru_spamsubj: <0>
+	TRU_medical_spam: <0>
+	TRU_urllinks: <0>
+	TRU_html_image_spam: <0>
+	URL Real-Time Signatures: <0>
+	TRU_freehosting: <0>
+	TRU_watch_spam: <0>
+	TRU_embedded_image_spam: <0>
+	TRU_lotto_spam: <0>
+	TRU_legal_spam: <0>
+	TRU_adult_spam: <0>
+	TRU_stock_spam: <0>
+	TRU_spam2: <0>
+	TRU_playsites: <0>
+	TRU_misc_spam: <0>
+	TRU_marketing_spam: <0>
+	TRU_phish_spam: <0>
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 100
+
+Attention;
+There've been an automatic security update on your email address. =
+<<<link>>
+WVhV2QyNVdkeVE6MQ> Click here to complete update =
+<<<link>>
+zdGbms2QVl0UVE6MQ>=20
+Please note that you have withing 24 hours to complete this update. =
+because you might lose acess to your Email Box

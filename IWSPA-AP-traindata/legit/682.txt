@@ -1,0 +1,364 @@
+@media only screen and=
+(max-width: 730px) {                 .leaderboard {                     di=
+splay: none !important;                 }                 * {              =
+-webkit-text-size-adjust: none;                 }                 bo=
+dy {                     min-width: 100% !important;                 }     =
+table[id=3Dwrapper], table[class=3Dad_group], table[id=3Dwrappe=
+r] .intro, table[id=3Dwrapper] .divide {                     width: 100% !i=
+mportant;                 }                 #brief {                     fl=
+oat: none !important;                     width: 100% !important;          =
+}                 .ad_group {                     display: block !im=
+portant;                     padding-left: 10px;                 }         =
+div[class=3Dad] {                     margin: auto !important;     =
+padding-top: 0 !important;                     padding-left=
+: 0 !important;                     display: block !important;             =
+width: 100% !important;                 }                 table td[=
+class=3Dnumber] {                   display: none !important;              =
+}             }                  Bloomberg Politics Daily               =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+SIGN UP                              =
+=
+=
+=
+=
+=
+=
+=
+The Brief                           =
+=
+=
+=C2=A0                            =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+Paul Ryan said t=
+o tell confidants he=E2=80=99s ready to end standoff with Donald Trump     =
+=
+=
+=
+The House speaker is w=
+orried the split has sharpened divisions in the Republican Party, according=
+to two people close to the lawmaker.                                      =
+=
+=
+=
+=
+=
+=
+=
+=
+=C2=A0                                                       =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+Tru=
+mp wins Washington primary and nears delegate threshold                    =
+=
+=
+=
+He spent Tuesday night at a campaign =
+rally in New Mexico, where protests against him turned violent.            =
+=
+=
+=
+=
+=
+=
+=
+=
+=C2=A0                             =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+Trump unveils stable of Republican donors           =
+=
+=
+=
+A group of 20 prominent GOP =
+patrons say they will back the billionaire=E2=80=99s bid.                  =
+=
+=
+=
+=
+=
+=
+=
+=
+=C2=A0                                   =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=E2=80=9CFor all we kno=
+w he=E2=80=99s paying zero taxes today.=E2=80=9D                           =
+=
+=
+=
+=
+=
+=E2=80=94 Senator Elizabeth Warren on Donal=
+d Trump                                                                    =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=C2=A0               =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+Bernie Sanders criticizes Hillary Clinton=E2=80=99s Wall Street ties     =
+=
+=
+=
+The Vermont senator re=
+newed his attack ahead of California=E2=80=99s June 7 primary.             =
+=
+=
+=
+=
+=
+=
+=
+=
+=C2=A0                              =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+Ohio town could be a bellwether in race between Clint=
+on and Trump                                                               =
+=
+=
+Voter=
+s in New Waterford are struggling over the choice between the likely presid=
+ential nominees.                                                           =
+=
+=
+=
+=
+=
+=
+=
+=C2=A0 =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+I love the =E2=80=9990s!=
+Trump=E2=80=93Clinton edition, feat. Spin Doctors (VIDEO)                 =
+=
+=
+=
+On =E2=80=9CWith All Due Respect,=
+=E2=80=9D Mark Halperin and John Heilemann discuss whether former President=
+Bill Clinton=E2=80=99s history is a =E2=80=9Cpocketful of Kryptonite=E2=80=
+=9D for his wife.                                                          =
+=
+=
+=
+=
+=
+=
+=
+=C2=
+=A0                                                                        =
+=
+=
+=
+=
+=
+=
+=
+=C2=A0                                                              =
+Catch =E2=80=9CWith Al=
+l Due Respect=E2=80=9D on Bloomberg TV and BloombergPolitics.com weekdays a=
+t 5 p.m. ET.                                                               =
+=C2=A0                =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=C2=A0                                        =
+=
+=
+=
+=
+=
+=
+=
+Follow us:                                                   =
+=
+=
+=
+=
+=
+=C2=A0                                                         =
+=
+For pr=
+ess inquiries, please contact Emma Angerer user@domain.com, 202-654-=
+4332                                                                       =
+=
+=C2=A0                  =
+=
+You received this message because you are subscribed=
+to the Bloomberg Politics Daily newsletter.                               =
+=
+=C2=A0                                                            =
+=C2=A0              =
+=
+Unsubscribe | BloombergPolitics.com | Contact Us =
+=
+Bloomberg L.P. 731 Lexington, New Y=
+ork, NY, 10022                                                             =
+=
+<a href=3D"<<link>>
+2908/aHR0cDovL3d3dy5tYWlsLmJsb29tYmVyZ3BvbGl0aWNzLmNvbSI/5620642517893f007f=
+8b4d8aB8370dd62><img src=3D"<<link>>
+642517893f007f8b4d8a41n5s.28s/c12610a0.gif" alt=3D"" border=3D"0" /></a>   =
+=20
+If you believe this has been sent to you in error, please click <<<link>>
+k.mail.bloombergpolitics.com/oc/5620642517893f007f8b4d8a41n5s.28s/c5d2e083>=
+to safely unsubscribe.

@@ -1,0 +1,81 @@
+Received: from domain.com (146.215.230.103) by
+ domain.com (43.130.141.77) with Microsoft SMTP Server id
+ 8.3.342.0; Tue, 27 May 2015 18:17:02 -0700
+Received: from domain.com ([160.33.194.231])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s4S1H1Po027531	for <user@domain.com>; Wed, 28 May 2015 
+ 01:17:02 GMT
+Received: from mail169-va3-domain.com (mail-domain.com
+ [216.32.180.115])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s4S1Ic1S021976
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Wed, 28 May 2015 01:18:38 GMT
+Received: from mail169-va3 (localhost [127.0.0.1])	by
+ mail169-va3-domain.com (Postfix) with ESMTP id 392852A00AB	for
+ <user@domain.com>; Wed, 28 May 2015 01:17:00 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:65.39.215.146;KIP:(null);UIP:(null);SRV:BULK;H:mx-domain.com;RD:mx-domain.com;EFVD:NLI
+X-SpamScore: 2
+X-BigFish: vps2(z579ehz758Ic857hdbb0izz1f42h2148h208ch1ee6h1de0h1fdah2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6hzz8275ch1d7338h1de098h1def03h17326ah1def87h8275bh1bc7b9h8275dh1defc1h1def86h1de097h186068h172c6ch1ce120h1a691ciz2fheh5fh839h8aahe5bh1288h12a5h137ah139eh13eah1441h14ddh1504h1537h162dh1631h1758h1898h18e1h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1e23h1fe8h1ff5h20f0h2218h2216h226dh24afh2327h2336h2438h2461h2487h24d7h2516h2545h2565h25f6h2605h268bh26d3h27e2h282bh28a1h28b0h214ai)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail169-va3: domain of domain.com designates 65.39.215.146 as permitted sender) client-ip=65.39.215.146; user@domain.com; helo=mx-domain.com ;domain.com ;
+Received: from mail169-va3 (localhost.localdomain [127.0.0.1]) by mail169-va3
+ (MessageSwitch) id 140123981856738_14696; Wed, 28 May 2015 01:16:58 +0000
+ (UTC)
+Received: from domain.com (unknown [10.7.14.244])	by
+ mail169-domain.com (Postfix) with ESMTP id 06AAA40055	for
+ <user@domain.com>; Wed, 28 May 2015 01:16:58 +0000 (UTC)
+Received: from mx-domain.com (65.39.215.146) by domain.com
+ (10.7.99.16) with Microsoft SMTP Server id 14.16.227.3; Wed, 28 May 2015 
+ 01:16:53 +0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; s=mt; d=domain.com;
+ h=Date:From: Deadline.com <alerts@deadline.com>
+ bh=zAxMTkSr+vK5XTRMMxxClQdJ43E=;
+ b=TV6x1KwP8iIvo9b5NqSQMIQn4mHvSafE9s2lDDsAkMLT+NXM/lzdRwuBABOm/5V/6JpmWVRefgpG
+   SsDwCZ+J1eSu3Gc0rYgdiLTUlbPxpksIFo7ViPE+oR38E2EOLl0tJewO8crEUYcq7daDEfP6hhxy
+   ToF/iA4TTmvyUddsJmE=
+Received: from nyp1-p-p4321-prd-jma-22.sailthru.pvt (65.39.215.174) by
+ mx-domain.com id hgksh21qqbsc for <user@domain.com>; Tue, 27 May
+ 2015 21:17:05 -0400 (envelope-from <user@domain.com>)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1401239825;
+	s=sailthru; d=deadline.com;
+	h=Date:From: Deadline.com <alerts@deadline.com>
+	bh=b9FF5QNz+MEeXGJghot/b5OWLwo7OQzj4j+KJZ5/ab4=;
+	b=mS/PojyJoH+wXzEnTCx8aEkE+VJbZycgpwJXgisJXL1/EPA7SWMEkbFNAJSQzYtx
+	qEQFWNldDyLp+5iu6vTiu2YQidQUmQIZl4TjPZtXjZbtQANrcel30zHmQYBcoryQjbg
+	CF2xJKNWo+Iq7TWrVAqSkQej80go104uBd0X2ZIw=
+Date: Tue, 27 May 2015 21:17:05 -0400
+From: Deadline.com <alerts@deadline.com>
+To: <user@domain.com>
+Message-ID: <20140528011705.2690341.6123@domain.com>
+Subject: [domain.com] Time Warner Cable & L.A. Lakers Slammed In $1M
+ Discrimination domain.com
+Precedence: bulk
+X-TM-ID: 20140528011705.2690341.6123
+X-Info: Message sent by domain.com customer Deadline
+X-Info: We do not domain.com unsolicited commercial email
+X-Info: Please report abuse by forwarding complete headers to
+X-Info: user@domain.com
+X-Mailer: domain.com
+X-JMailer: nyp1-p-p4321-prd-jma-22.sailthru.pvt
+X-IADB-IP: 65.39.215.25
+X-IADB-IP-REVERSE: 25.215.39.65
+X-IADB-URL: <<link>>
+X-Unsubscribe-Web: <<link>>
+List-Unsubscribe: <<<link>>>, <mailto:user@domain.com>
+X-rpcampaign: stdgp2690341
+Return-Path: user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+<<link>> 
+
+<<link>> 
+
+        Deadline Hollywood has posted urgent news:              
+
+        Time Warner Cable & L.A. Lakers Slammed In $1M Discrimination domain.com              
+
+        For all of Deadline's headlines, follow us @Deadline on Twitter.                
+
+This email was sent to user@domain.com by Deadline. To ensure delivery to your inbox (and not your spam folder), please add user@domain.com to your address book. If you prefer not to continue receiving email communications, please

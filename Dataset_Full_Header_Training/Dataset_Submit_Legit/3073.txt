@@ -1,0 +1,291 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Thu, 5 May
+ 2015 20:13:19 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Thu, 5 May 2015 
+ 20:13:18 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 899689928
+ for user@domain.com; Thu, 05 May 2015 19:13:19 -0500
+X-Note-AR-ScanTimeLocal: 5/5/2016 7:13:16 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @turner.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: LOCAL->United States->
+X-Note-Sending-IP: 205.201.135.226
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from domain.com ([205.201.135.226] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 137084124
+ for user@domain.com; Thu, 05 May 2015 19:13:16 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=domain.com;
+ h=Subject:From: =?utf-8?Q?CNN=20Politics=20Nightcap?= <CNNNightcap@turner.com>
+ bh=fi0QvQOu9VEJBX87wgjO31hWXRA=;
+ b=akm6IUoqBAn7JCFr3q9ahn/iHahjDRcb6rzdnULOLD3FkNVrb+0OTRFGXLr1P9FqW+dASKLMUthd
+   og7wgp49QgilNBTwzhodAGozF37mx2vNMdgLGnNfdcIFX/SpoDYPKVJQcyr3/x7bXkDlBYfth4rZ
+   QyE9fOJKXi/ZHlcWVRs=
+Received: from (127.0.0.1) by domain.com id h5fgpo174ace for
+ <user@domain.com>; Fri, 6 May 2015 00:13:13 +0000 (envelope-from
+ <user@domain.com>)
+Subject: =?utf-8?Q?Civil=20war=3A=20Ryan=20vs.=20Trump=20in=20a=20high=2Dstakes=20GOP=20power=20struggle?=
+From: =?utf-8?Q?CNN=20Politics=20Nightcap?= <CNNNightcap@turner.com>
+Reply-To: =?utf-8?Q?CNN=20Politics=20Nightcap?= <user@domain.com>
+To: <user@domain.com>
+Date: Fri, 6 May 2015 00:13:13 +0000
+Message-ID: <47user@domain.com>
+X-Mailer: MailChimp Mailer - **CID095d618599531c496baa**
+X-Campaign: mailchimp47c9040f6ff957a59bd88396e.095d618599
+X-campaignid: mailchimp47c9040f6ff957a59bd88396e.095d618599
+X-Report-Abuse: Please report abuse for this campaign here: <<link>>
+X-MC-User: 47c9040f6ff957a59bd88396e
+X-Feedback-ID: 43253633:43253633.257677:us11:mc
+List-ID: 47c9040f6ff957a59bd88396emc list <47c9040f6ff957a59bd88396e.123725.list-domain.com>
+X-Accounttype: pr
+List-Unsubscribe: <mailto:user@domain.com?subject=unsubscribe>, <<<link>>>
+Sender: CNN Politics Nightcap <user@domain.com>
+x-mcda: FALSE
+Content-Type: multipart/alternative;
+	boundary="_----------=_MCPart_542830640"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+CNN Politics: Nightcap
+View this email in your browser (<<link>>
+c9040f6ff957a59bd88396e&id=3D095d618599&e=3D531c496baa)
+May 5=2C 2015 
+by Eric Bradner
+Welcome to the CNN Politics Nightcap and good Thursday night from Washingt=
+on. House Speaker Paul Ryan set off a political earthquake by announcing h=
+e won't yet support Donald Trump. Mitt Romney=2C perhaps Trump's most prom=
+inent critic=2C said he's skipping the GOP convention. And Hillary Clinton=
+'s top aides have been interviewed by the FBI over her email server. Your=
+ bartender is Eric Bradner (<<link>>
+=3Dnl_pol_071915_profile?sr=3Dnl_pol_072215_bradner) . The tip jar: nightc=
+user@domain.com (mailto:user@domain.com) .
+
+** Civil war: Ryan vs. Trump in a high-stakes GOP power struggle
+------------------------------------------------------------
+
+So much for party unity: House Speaker Paul Ryan declared in an interview=
+ with CNN's Jake Tapper (<<link>>
+donald-trump-gop-nominee/index.html) that he's "not ready" to endorse his=
+ party's presumptive presidential nominee=2C Donald Trump. The speaker sai=
+d he wants Trump to unify "all wings of the Republican Party and the conse=
+rvative movement" and then run a campaign that will allow Americans to "ha=
+ve something that they're proud to support and proud to be a part of." But=
+=2C he said=2C "we've got a ways to go from here to there."
+
+It doesn't get much wilder than this: Ryan is now set to oversee a Republi=
+can National Convention in July where the party will coronate a nominee wh=
+o he isn't ready to support.
+
+Trump's response to Ryan: "I am not ready to support Speaker Ryan's agenda=
+=2E Perhaps in the future we can work together and come to an agreement abou=
+t what is best for the American people. They have been treated so badly fo=
+r so long that it is about time for politicians to put them first!"
+
+What this is about: Tone and policy. Ryan has rebuked Trump over his Musli=
+m ban=2C his immigration plans and the violence that has followed him on t=
+he campaign trail. But the two also have huge policy differences. On free=
+ trade=2C taxes=2C immigration=2C the minimum wage and more=2C Trump has b=
+roken from conservative orthodoxy -- a problem for Ryan=2C whose dream was=
+ to write tax laws at the helm of the Ways and Means Committee -- and Repu=
+blicans who have prized purity on Capitol Hill.
+
+What it means for other Republicans: Ryan just bought them time. If House=
+ and Senate members don't want to hop on Team Trump=2C the speaker has giv=
+en them cover -- and a way to deflect questions=2C instead of being forced=
+ to say whether their alternative to Trump would be a third-party candidat=
+e (or even Hillary Clinton). But if you're someone like New Hampshire Sen.=
+ Kelly Ayotte=2C who just yesterdy said she'd back Trump=2C Ryan's timing=
+ isn't the best.
+
+The next step: The RNC's Sean Spicer told CNN's Wolf Blitzer that the part=
+y is working to set up a meeting between Trump and Ryan next week. "Happy=
+ to attend=2C" tweeted (<<link>>
+0939012?refsrc=3Demail&s=3D11) Ryan's spokesman.
+
+** Anti-Trump movement: Convention-skippers and third-party talk
+------------------------------------------------------------
+
+Mitt Romney joined the list of prominent Republicans who won't attend the=
+ convention (<<link>>
+blican-convention/index.html) in Cleveland. His decision means the party's=
+ last two presidents (George H.W. Bush and George W. Bush) and its last tw=
+o nominees (Romney and John McCain) won't be on hand. How significant are=
+ their decisions? The New York Times' Alex Burns tweeted this comparison (=
+<<link>>) : "Imagine if=
+ Bill Clinton=2C Al Gore=2C John Kerry and Ted Kennedy all declined to sho=
+w up at the 2015 Dem convention. That's Cleveland 2016."
+
+The real anti-Trump flamethrower is Nebraska Sen. Ben Sasse=2C a freshman=
+ Republican who spent some time on Facebook (<<link>>
+efornebraska/posts/593031420862025) last night. He called for a third-part=
+y candidate=2C writing: "Why shouldn=E2=80=99t America draft an honest lea=
+der who will focus on 70% solutions for the next four years? You know ...=
+ an adult?"
+
+The third-party planning now involves some members of Congress=2C conserva=
+tive blogger Erick Erickson told CNN's Gloria Borger=2C without naming the=
+m. =E2=80=9CPlanning is continuing for a third party=2C=E2=80=9D he said.=
+ =E2=80=9CI don=E2=80=99t necessarily read this as Ryan endorsing a third=
+ party=2C but it gives motivation to people who want a third party to cont=
+inue down that track. I have had several congressmen reach out to me to en=
+courage a third party because they are worried about turnout in (November)=
+ because they want an alternative to Trump.=E2=80=9D
+
+The newest passenger on the Trump Train: Rick Perry=2C the former Texas go=
+vernor who once called Trump a "cancer on conservatism." He told CNN's Dan=
+a Bash (<<link>>
+trump/index.html) : "He is not a perfect man. But what I do believe is tha=
+t he loves this country and he will surround himself with capable=2C exper=
+ienced people and he will listen to them."
+Buzzing
+Donald Trump offered his thoughts for a happy Cinco de Mayo while eating a=
+ taco (<<link>>) : "I=
+ love Hispanics!"
+Last Call
+
+** Clinton email probe: FBI interviews Abedin=2C other aides
+------------------------------------------------------------
+
+Some of Hillary Clinton's closest aides=2C including her longtime adviser=
+ Huma Abedin=2C have provided interviews to federal investigators as the F=
+BI probe into the security of her private email server nears completion=2C=
+ U.S. officials briefed on the investigation tell CNN's Evan Perez=2C Pame=
+la Brown and Shimon Prokupecz (<<link>>
+interviews-huma-abedin-clinton-aide/index.html) . The investigation is ong=
+oing=2C but so far investigators haven't found evidence to prove that Clin=
+ton willfully violated the law=2C the U.S. officials say. In recent weeks=
+=2C multiple aides have been interviewed -- some more than once=2C the off=
+icials said.
+
+A Clinton interview still to come: A date for an FBI interview of Clinton=
+ has not been set=2C these officials said=2C but is expected in the coming=
+ weeks.
+
+The response from Clinton's campaign=2C from spokesman Brian Fallon: "From=
+ the start=2C Hillary Clinton has offered to answer any questions that wou=
+ld help the Justice Department complete its review=2C and we hope and expe=
+ct that anyone else who is asked would do the same. We are confident the r=
+eview will conclude that nothing inappropriate took place."
+
+** Setting the expectations: Clinton and Trump are both disliked
+------------------------------------------------------------
+
+Hillary Clinton and Donald Trump will both enter the general election as t=
+he most disliked nominees in 10 election cycles -- and Americans' feelings=
+ about them are intense. Writes domain.com's Harry Enten (<<link>>
+domain.com/features/americans-distaste-for-both-trump-and-clinton=
+-is-record-breaking/) : "These are people who don=E2=80=99t just like or d=
+islike the candidates=2C they really like or dislike them. No past candida=
+te comes close to Clinton=2C and especially Trump=2C in terms of engenderi=
+ng strong dislike a little more than six months before the election."
+
+History is working against Clinton=2C writes Yahoo's Matt Bai (<<link>>
+=2domain.com/news/clinton-has-the-map-on-1421857612800054.html) : "In 1947=
+=2C Congress passed the 22nd Amendment=2C which said no one could be elect=
+ed to the presidency more than twice. In the 65 years since the last state=
+ ratified that amendment -- comprising 16 elections=2C and six elections f=
+ollowing an eight-year presidency -- only one nominee has managed to win a=
+ third consecutive term for his party. That was George H.W. Bush=2C who ov=
+ercame a double-domain.com domain.com late in the campaign=2C thanks in part to on=
+e of the most ineffectual Democratic campaigns in history."
+
+Hillary's better off than Bill was=2C writes Joe Klein for Time magazine (=
+<<link>>) : "He had=
+ larger problems than an email server: He had recently been found out as a=
+ Vietnam draft dodger and a womanizer. People called him Slick Willie. Wit=
+hin weeks=2C he would be in a deeper=2C darker hole than Hillary has exper=
+ienced this year -- he would be running third=2C behind George H.W. Bush a=
+nd the independent Ross Perot. By June=2C only 13% of the public thought h=
+im trustworthy. He was toast."
+Straight Up
+
+** "I don't know of anybody who really believes that."
+------------------------------------------------------------
+
+**
+-- Arizona Sen. Jeff Flake to CNN's Manu Raju=2C calling Donald Trump's bo=
+rder wall proposal "nutty" and saying he can't yet support Trump's preside=
+ntial campaign.
+------------------------------------------------------------
+
+Closing Time
+
+The Republican National Committee denied a report that its staffers were t=
+old to leave (<<link>>
+rs-told-to-back-trump-or-leave) if they couldn't support Donald Trump. ...=
+ The GOP Senate candidate who won't vote for (<<link>>
+/politics/meet-republican-senate-candidate-wont-vote-trump) Trump: Washing=
+ton state's Chris Vance. ... The Rolling Stones have asked Trump to stop u=
+sing their music at his rally -- news that made for pun-tastic song-title-=
+related headlines. Among them: "Get off my song! (<<link>>
+05/05/politics/rolling-stones-donald-trump/) " "Don't start us up again (h=
+ttp://domain.com/blogs/2016-gop-primary-live-updates-and-results/201=
+6/05/rolling-stones-trump-222832) ." "Trump can't get what he wants (http:=
+//domain.com/2016/05/04/donald-trump-rollings-stones-cease-and-desist-cam=
+paign/) ."
+Paid Content
+<<link>>
+_sendid=3D095d618599&cs_esp=3Dmailchimp&cs_offset=3D0&cs_stripeid=3D2621
+
+<<link>>
+_sendid=3D095d618599&cs_esp=3Dmailchimp&cs_offset=3D1&cs_stripeid=3D2621
+
+<<link>>
+_sendid=3D095d618599&cs_esp=3Dmailchimp&cs_offset=3D2&cs_stripeid=3D2621
+<<link>>
+tm_campaign=3Dcnn&utm_content=3Danimatedlogo
+<<link>>
+JbSn Share (<<link>>
+domain.com%2Fb0JbSn)
+<<link>>+war%3A+Ryan+vs.+Trump+in+a+hi=
+gh-stakes+GOP+power+struggle: http%3A%2F%2domain.com%2Fb0JbSn Tweet (http=
+://domain.com/intent/tweet?text=3DCivil+war%3A+Ryan+vs.+Trump+in+a+high-s=
+takes+GOP+power+struggle: http%3A%2F%2domain.com%2Fb0JbSn)
+<<link>>
+d=3D095d618599&e=3D531c496baa Forward (<<link>>
+rward?u=3D47c9040f6ff957a59bd88396e&id=3D095d618599&e=3D531c496baa)
+Subscribe to Nightcap (<<link>>)
+Get the Nightcap=2C a comprehensive summary of the most important politica=
+l news=2C delivered to your inbox daily.
+
+Your bartender for ** CNN Politics' Nightcap (<<link>>)
+is Eric Bradner (** @ericbradner (<<link>>)
+) =E2=80=94 Tips=2C thoughts and beer recommendations are always welcome a=
+t ** user@domain.com (mailto:user@domain.com)
+=2E
+Copyright =C2=A9 2015 Cable News Network=2C LP=2C LLLP.  A Time Warner Com=
+pany.  All Rights Reserved.=2C All rights reserved.
+ You are receiving this message because you subscribed to the CNN Politics=
+ Nightcap newsletter.
+
+Our mailing address is:
+Cable News Network=2C LP=2C LLLP.  A Time Warner Company.  All Rights Rese=
+rved.
+One CNN Center
+Atlanta=2C GA 30328
+USA
+** unsubscribe from this list (<<link>>
+?u=3D47c9040f6ff957a59bd88396e&id=3Da4165679e3&e=3D531c496baa&c=3D095d618599=
+)
+** update subscription preferences (<<link>>
+e?u=3D47c9040f6ff957a59bd88396e&id=3Da4165679e3&e=3D531c496baa)
+** Facebook (<<link>>)
+** Twitter (<<link>>)
+** Tumblr (<<link>>)

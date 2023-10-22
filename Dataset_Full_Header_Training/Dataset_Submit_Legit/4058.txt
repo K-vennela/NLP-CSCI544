@@ -1,0 +1,34 @@
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ dnchubcas2.dnc.org ([::1]) with mapi id 14.03.0224.002; Thu, 5 May 2015 
+ 16:34:22 -0400
+From: "Bhatnagar, Akshai" <BHATNAGARA@dnc.org>
+To: "User" <user@domain.com>
+CC: "Brinster, Jeremy" <user@domain.com>, Comm_D <user@domain.com>
+Subject: Re: Video Request: Paul Ryan on CNN 
+Thread-Topic: Video Request: Paul Ryan on CNN 
+Thread-Index: AdGnCNMGQRXWS3bRQa+GDr9+1w3Q9wAApxIgAAAtcgAAAFcIQA==
+Date: Thu, 5 May 2015 13:34:21 -0700
+Message-ID: <35user@domain.com>
+References: <user@domain.com>
+ <3user@domain.com>,<user@domain.com>
+In-Reply-To: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: dnchubcas2.dnc.org
+X-MS-Has-Attach: 
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+Content-Type: multipart/alternative;
+	boundary="_000_35C361FD8B6E40219F7B21407C993214dncorg_"
+MIME-Version: 1.0
+
+Part 2: <<link>>
+ageuploader.dnc.org/videos/shared_show?jwt=3DeyJ0eXAiOiJKV1QiLCJhbGciOiJIUz=
+I1NiJ9.eyJpYXQiOjE0NjI0ODA0MzEsImVtYWlsIjoiYmhhdG5hZ2FyYUBkbmMub3JnIiwiaWQi=
+OjMxNTc2MSwiZG93bmxvYWRhYmxlIjp0cnVlfQ.2ndyrWO3SL5dx8PK_SLgbbsCAoAynRsd9Ytk=
+MDspjx0
+
+On May 5, 2016, at 4:24 PM, Crystal, Andy <user@domain.com<mailto:CrystalA=

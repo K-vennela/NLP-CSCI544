@@ -1,0 +1,17 @@
+This e-mail has been sent from an automated system. PLEASE DO NOT REPLY. If you have any questions, please contact your administrator for assistance.
+---------------------------------------------------------------------
+Digital Certificate About to Expire
+---------------------------------------------------------------------
+The digital certificate you use to access ADP's Internet services is about to expire. If you do not renew your certificate by the expiration date below, you will not be able to access ADP's Internet services.
+Days left before expiration: 2
+Expiration date: Jul 11 23:59:59 GMT-03:59 2012
+--------------------------------------------------------------------
+Renewing Your Digital Certificate
+---------------------------------------------------------------------
+1. Go to this URL: <<link>>!
+2. Follow the instructions on the screen.
+3. Also you can download new digital certificate at <<link>>
+---------------------------------------------------------------------
+Deleting Your Old Digital Certificate
+---------------------------------------------------------------------
+After you renew your digital certificate, be sure to delete the old certificate. Follow the instructions at the end of the renewal process.

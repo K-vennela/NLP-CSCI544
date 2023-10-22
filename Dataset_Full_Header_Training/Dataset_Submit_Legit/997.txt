@@ -1,0 +1,80 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Mon, 2 May
+ 2015 10:14:58 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Mon, 2 May 2015 
+ 10:14:56 -0400
+Received: from [10.87.0.110] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 890950911
+ for user@domain.com; Mon, 02 May 2015 09:14:59 -0500
+X-Note-AR-ScanTimeLocal: 5/2/2016 9:14:58 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @nbcuni.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: UNKNOWN->PRIVATE->United States->LOCAL->United States->
+X-Note-Sending-IP: 67.231.149.53
+X-Note-Reverse-DNS: mx0a-00176domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from [67.231.149.53] (HELO mx0a-00176domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 139406238
+ for user@domain.com; Mon, 02 May 2015 09:14:57 -0500
+Received: from pps.filterd (domain.com [127.0.0.1])	by
+ domain.com-00176a04. (8.16.0.11/8.16.0.11) with SMTP id
+ u42ECW1A045374	for <user@domain.com>; Mon, 2 May 2015 10:14:56 -0400
+Received: from domain.com ([173.213.212.136])	by
+ domain.com-00176a04. with ESMTP id 22msbrfhy0-1	(version=TLSv1.2
+ cipher=RC4-SHA bits=128 verify=NOT)	for <user@domain.com>; Mon, 02 May 2015 
+ 10:14:56 -0400
+Received: from unknown (HELO domain.com) ([10.40.78.204])  by
+ domain.com with ESMTP; 02 May 2015 10:14:55 -0400
+Received: from domain.com ([169.254.1.178]) by
+ domain.com ([3.3.179.61]) with mapi id 14.03.0195.001; Mon,
+ 2 May 2015 10:14:54 -0400
+From: "xxGuthrie, Savannah (NBCUniversal)" <Savannah.Guthrie@nbcuni.com>
+To: "User" <user@domain.com>
+Subject: Re: OrganizationChair next Tuesday?
+Thread-Topic: OrganizationChair next Tuesday?
+Thread-Index: AdGhbcl6gSdD0ZPoQGSvtj9hNyrAagDDjL1AAABA1Ts=
+Date: Mon, 2 May 2015 14:14:54 +0000
+Message-ID: <user@domain.com>
+References: <05user@domain.com>
+In-Reply-To: <05user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+x-exclaimer-md-config: 47edc00f-f2d6-45ef-be83-8a353bd47e45
+Content-Type: multipart/related;
+	boundary="_004_F3311E853DDC4374B0B3C50794F7AF88nbcunicom_";
+	type="multipart/alternative"
+X-CFilter-Loop: Forward
+X-Proofpoint-Virus-Version: vendor=fsecure engine=2.50.10432:,, definitions=2016-05-02_08:,,
+ signatures=0
+X-Proofpoint-Spam-Details: rule=outbound_notspam policy=outbound score=0 spamscore=0 suspectscore=0
+ malwarescore=0 phishscore=0 adultscore=0 bulkscore=0 classifier=spam
+ adjust=0 reason=mlx scancount=1 engine=8.0.1-1603290000
+ definitions=main-1605020230
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Will get right back
+Just pinged our EP
+
+Savannah Guthrie
+NBC News
+TODAY
+
+On May 2, 2016, at 10:10 AM, User <user@domain.com<mailto:User=

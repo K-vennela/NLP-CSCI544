@@ -1,0 +1,115 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Thu, 28 Apr
+ 2015 13:38:15 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Thu, 28 Apr 2015 
+ 13:38:07 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 885811965
+ for user@domain.com; Thu, 28 Apr 2015 12:38:07 -0500
+X-Note-AR-ScanTimeLocal: 4/28/2016 12:38:05 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @mail.house.gov ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->United States->
+X-Note-Sending-IP: 143.228.181.85
+X-Note-Reverse-DNS: s-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from s-domain.com ([143.228.181.85] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 135680964
+ for user@domain.com; Thu, 28 Apr 2015 12:38:05 -0500
+Received: from FHOB-domain.com (fhob-domain.com
+ [143.228.233.116])	by s-domain.com  with ESMTP id u3SHaQHU026343	(using
+ TLSv1 with cipher ECDHE-RSA-AES256-SHA (256 bits) verified FAIL);	Thu, 28 Apr
+ 2015 13:36:27 -0400
+X-DKIM: OpenDKIM Filter v2.4.3 s-domain.com u3SHaQHU026343
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mail.house.gov;
+	s=November2012-msg-mhg; t=1461865001;
+	bh=qy3XSM7jmMhXaNfMIWM8pnc+Xf5kdvsPq41osfnL7LU=;
+	h=From: "Bryant, Rebecca" <Rebecca.Bryant@mail.house.gov>
+	b=JSCNfldwbKgU3oFXVRDC36Md1oy4lk4Uaq2c72EtARzOpUX2z6HmEcjcxQ5A0x/ym
+	 Nfc2iWXVXP/PUAKe0e6x/6GNAPPC8Qttv11ho5kvhMz3ccms/TqItHVzziveFkXsGf
+	 5Mg5IU7ATVcQNqeX7f4TmDCl+zlvIxWglViwbdns=
+Received: from HEOC-domain.com ([fe80::3064:f549:eec9:db5d]) by
+ FHOB-domain.com ([::1]) with mapi id 14.03.0279.002; Thu, 28 Apr 2015 
+ 13:36:23 -0400
+From: "Bryant, Rebecca" <Rebecca.Bryant@mail.house.gov>
+Subject: Smith Statement on Combating Terrorist Recruitment Act
+Thread-Topic: Smith Statement on Combating Terrorist Recruitment Act
+Thread-Index: AdGhdFXu137w2OrzRMKuOJxqqKkEEg==
+Date: Thu, 28 Apr 2015 17:36:22 +0000
+Message-ID: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+x-originating-ip: [143.231.127.151]
+Content-Type: multipart/related;
+	boundary="_004_F4C7061D5FE8DA4DB871CC551E78C19A1901BEA0HEOCHRM03USHous_";
+	type="multipart/alternative"
+To: Undisclosed recipients:;
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+[cid:image001.gif@01D1A152.F38142E0]
+
+FOR IMMEDIATE RELEASE
+Thursday, April 28, 2015 
+
+Contact: Rebecca Bryant, 202-225-8901<tel:202-570-2771>
+
+Smith Statement on Combating Terrorist Recruitment Act
+
+Washington D.C. (Link<<<link>>
+es/smith-statement-on-combating-terrorist-recruitment-act>) - Congressman A=
+dam Smith made the following statement regarding his opposition to the Comb=
+ating Terrorist Recruitment Act:
+
+"Terrorism is about spreading fear. As we combat violent extremism and the =
+spread of dangerous propaganda, we must recognize that hateful ideology ori=
+ginates both overseas and at home. Since the 9/11 attacks, domestic terrori=
+sts have killed more people in the United States than foreign terrorist org=
+anizations. Numerous domestic terror acts, including those at the Seattle J=
+ewish Federation, Planned Parenthood in Colorado, Oklahoma City, the Emanue=
+l AME Church in Charleston, the Sikh Temple in Wisconsin and the Holocaust =
+Museum in Washington, DC, have made clear that violent extremism is not lim=
+ited to a single ideology, nor does it always breed on foreign soil.
+
+"Earlier this week, the House of Representatives considered H.R. 4820, the =
+Combating Terrorist Recruitment Act. Notably, this bill weakens national se=
+curity by excluding domestic terror organizations from its focus and ignori=
+ng that terrorists are inspired by a broad number of religious, political a=
+nd ideological beliefs.
+
+"Our national security approach must build people-to-people ties, address t=
+he root causes of extremism and empower local partners to prevent violent e=
+xtremism, both here and abroad. In the Puget Sound region, we have seen the=
+ damage that hateful and violent rhetoric inflicts on our local community c=
+enters and places of worship. We must remain vigilant in our fight against =
+terror networks that seek to do us harm. By opening our eyes to the realiti=
+es of foreign and domestic terror networks, we can work together to build a=
+ more just and peaceful society as we keep America safe."
+
+###
+
+Rebecca Bryant
+Communications Director
+Congressman Adam Smith (WA-09)
+Office: 202.225.8901 | Cell: 202.308.2181
+2264 Rayburn House Office Building
+Twitter: @RepAdamSmith<<<link>>>
+Facebook: Rep. Adam Smith<<<link>>>
+

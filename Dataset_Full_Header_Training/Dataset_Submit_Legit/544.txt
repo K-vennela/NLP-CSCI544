@@ -1,0 +1,106 @@
+Received: from domain.com (146.215.230.104) by
+ domain.com (43.130.141.76) with Microsoft SMTP Server id
+ 8.3.342.0; Fri, 30 May 2015 11:40:39 -0700
+Received: from domain.com ([160.33.194.228])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s4UIecke022392	for <user@domain.com>; Fri, 30 May 2015 
+ 18:40:39 GMT
+Received: from mail113-ch1-domain.com (mail-domain.com
+ [216.32.181.169])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s4UIfajF025437
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Fri, 30 May 2015 18:41:37 GMT
+Received: from mail113-ch1 (localhost [127.0.0.1])	by
+ mail113-ch1-domain.com (Postfix) with ESMTP id AC5BB24052C	for
+ <user@domain.com>; Fri, 30 May 2015 18:40:37 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:63.143.57.149;KIP:(null);UIP:(null);IPV:NLI;H:mta3-21.domain.com;RD:mta3-21.domain.com;EFVD:NLI
+X-SpamScore: 22
+X-BigFish: vps22(z1f2Kz9371Ic89bhc857h13edmzz1f42h2148h1ee6h1de0h1fdah2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6h208chzz1def03h17326ah1def87h8275bh1bc7b9h8275dh1def86h18c673h1de097h186068h1b778fh1ce120h1ce121i1deb3ai17c832iz2fheh5fh839h1288h12a5h137ah13eah1441h1504h1537h153bh162dh1631h1758h18e1h1946h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1fe8h1ff5h20f0h21e9h2216h2336h2438h2461h2487h24d7h2516h2545h25f6h2605h268bh26d3h27e2h282bh28a1h214ai138aii)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail113-ch1: domain of domain.com designates 63.143.57.149 as permitted sender) client-ip=63.143.57.149; user@domain.com; helo=mta3-21.domain.com ;domain.com ;
+Received: from mail113-ch1 (localhost.localdomain [127.0.0.1]) by mail113-ch1
+ (MessageSwitch) id 140147523567994_22465; Fri, 30 May 2015 18:40:35 +0000
+ (UTC)
+Received: from domain.com (domain.com
+ [10.43.68.238])	by mail113-domain.com (Postfix) with ESMTP id
+ 0A4162602D0	for <user@domain.com>; Fri, 30 May 2015 18:40:35 +0000
+ (UTC)
+Received: from mta3-21.domain.com (63.143.57.149) by
+ domain.com (10.43.70.11) with Microsoft SMTP Server id
+ 14.16.227.3; Fri, 30 May 2015 18:40:30 +0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=gears; d=domain.com;
+ h=Date:From: Neudesic Marketing <neuperspective@neudesic.com>
+ bh=SYIt4TSkcnzVocQYFbzlpHaqliE=;
+ b=ejG2UApGEA50q7larBYQRW3D/MN3MONEzA2mWLklWsYPldY6WkhKIG0s+gsAz6A7Qe0FVKjbfcEE
+   mT90pcfySHNbBUMaPMZjWBIUoTVDTkLCViOHFHp0sYf7pJ48RQ83zRv7OCFWC3MVxGD9CY16v433
+   HjNCTtHfTwzecrqcI0c=
+Received: from mta3 (127.0.0.1) by domain.com id
+ hh389s1l8o4u for <user@domain.com>; Fri, 30 May 2015 14:40:30 -0400
+ (envelope-from
+ <3887892420000137user@domain.com>)
+Date: Fri, 30 May 2015 14:40:30 -0400
+From: Neudesic Marketing <neuperspective@neudesic.com>
+To: <user@domain.com>
+Message-ID: <31865923.37181586.1401475230191.user@domain.com>
+Subject: Neudesic Newsletter: A Neu Perspective on Technology
+List-Unsubscribe: <<<link>>>, <mailto:user@domain.com>
+Return-Path: 
+ 3887892420000137user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+Our latest news, events and thought leadership on business technology. 
+
+<<link>>     
+
+
+
+A Neu Perspective        
+
+
+
+
+Newsletter - June 2014   
+
+
+
+
+Online version   
+
+
+
+
+Webinar:
+
+Experience the power of Actionable Analytics for Tableau         
+
+
+
+
+Data without collaboration is just data. Join us and learn how Neudesic Actionable Analytics turns data into action. Built on the simplicity of Tableau, Actionable Analytics provides the right mix of tools and collaboration for data-driven insight to make decisions that set your business apart. See for yourself on June 4th at 10:00 AM PT / 1:00 PM ET.
+
+
+
+Register now.   
+
+
+
+
+IMG      
+
+
+
+
+IMG      
+
+
+
+
+Transform 'information' into 'insight' with strategic BI         
+
+
+
+
+According to Forrester Research, business intelligence is the top implementation priority for organizatio
+

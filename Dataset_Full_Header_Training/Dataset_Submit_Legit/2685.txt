@@ -1,0 +1,63 @@
+Received: from domain.com (146.215.230.104) by
+ domain.com (43.130.141.78) with Microsoft SMTP Server id
+ 8.3.342.0; Sat, 5 Jul 2015 18:18:39 -0700
+Received: from domain.com ([160.33.194.229])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s661IcSs025095	for <user@domain.com>; Sun, 6 Jul 2015 
+ 01:18:38 GMT
+Received: from mail213-co9-domain.com (mail-domain.com
+ [207.46.163.19])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s661JhSl009147
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Sun, 6 Jul 2015 01:19:43 GMT
+Received: from mail213-co9 (localhost [127.0.0.1])	by
+ mail213-co9-domain.com (Postfix) with ESMTP id 12A363C056F	for
+ <user@domain.com>; Sun,  6 Jul 2015 01:18:37 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:66.220.144.142;KIP:(null);UIP:(null);IPV:NLI;H:mx-domain.com;RD:domain.com;EFVD:NLI
+X-SpamScore: 6
+X-BigFish: vps6(z59c9h5574hzc89bhe0eahc857h4015Izz1f42h1ee6h1de0h2073h2146h1202h1e76h2189h1d2ah21bch1fc6h208ch1fdahzz8275ch1de098h1def03h174790h1df2f4h8275bh1bc7b9h19a27bh1de097h186068h1b778fh1ce120hz2fh5fh13eh2a8h55eh839hd24h10d2h1288h12bdh137ah139eh13eah1441h1537h162dh1631h1758h1898h18e1h1901h1946h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1e23h1ff5h20f0h2218h2216h226dh22d0h24afh2327h2336h2461h2487h24d7h2516h2545h255eh25f6h2605h268bh26d3h27e2h282bh28a1h28b0h29d0h2a24h2b05h9a9j2a6dm)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail213-co9: domain of facebookmail.com designates 66.220.144.142 as permitted sender) client-ip=66.220.144.142; envelope-from=notification+user@domain.com; helo=mx-domain.com ;domain.com ;
+Received: from mail213-co9 (localhost.localdomain [127.0.0.1]) by mail213-co9
+ (MessageSwitch) id 1404609515297624_5291; Sun,  6 Jul 2015 01:18:35 +0000
+ (UTC)
+Received: from domain.com (unknown [10.236.132.233])	by
+ mail213-domain.com (Postfix) with ESMTP id 4453DE0280	for
+ <user@domain.com>; Sun,  6 Jul 2015 01:18:35 +0000 (UTC)
+Received: from mx-domain.com (66.220.144.142) by
+ domain.com (10.236.130.20) with Microsoft SMTP Server (TLS) id
+ 14.16.227.3; Sun, 6 Jul 2015 01:18:35 +0000
+Received: from domain.com
+ (Xvc75I62JRO4s/aEgDQeAlkhTjrZoa86vLa1gB0px+/lG1Mwn2DySVc05unJaLnH
+ 10.102.107.81) by domain.com with Thrift id
+ 7340a89a04ab11e48aec0002c9df9366-f64f0430; Sat, 05 Jul 2015 18:18:34 -0700
+X-Facebook: from 10.78.117.95 ([MTI3LjAuMC4x]) 
+	by domain.com with HTTP (ZuckMail);
+Date: Sat, 5 Jul 2015 18:18:34 -0700
+To: Aunt Amy <user@domain.com>
+From: Facebook <notification+zrdoccze61ff@facebookmail.com>
+Reply-To: noreply <user@domain.com>
+Subject: David Diamond added a new photo to the album Mobile Uploads
+Message-ID: <user@domain.com>
+X-Priority: 3
+X-Mailer: ZuckMail [version 1.00]
+Errors-To: notification+user@domain.com
+X-Facebook-Notify: friend_activity; mailid=a22a118G5af31b8291b9G0G109G3cec0a02
+X-FACEBOOK-PRIORITY: 0
+X-Auto-Response-Suppress: All
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=facebookmail.com;
+	s=s1024-2013-q3; t=1404609514;
+	bh=zxUY+JXTAAJe5cMwCFvf2cTktJ23dSBsH9wsUH3b+jQ=;
+	h=Date:To:From: Facebook <notification+zrdoccze61ff@facebookmail.com>
+	b=uciy8eF+RNchURHPsgp92P+YVsPuFZilTGaY4MH9FlhLUlfWSottxdZerdb3lbJ+l
+	 c090iSAy+PdWDfBO28Xd56S98veFvspGhsxmegWvgvMRLuCZ8v0x/3Vvsr2iyribve
+	 iOQcOar0nANWMrYq2YzBhBkSwL2iJMgvWywrSyoQ=
+Return-Path: notification+user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+David Diamond added a new photo to the album Mobile Uploads . David Diamond Like · Comment · Share 4 people like this.
+
+facebook        
+

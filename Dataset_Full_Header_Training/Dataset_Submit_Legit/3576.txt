@@ -1,0 +1,110 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Mon, 16 May
+ 2015 19:09:54 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Mon, 16 May 2015 
+ 19:09:53 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 918314110
+ for user@domain.com; Mon, 16 May 2015 18:10:01 -0500
+X-Note-AR-ScanTimeLocal: 5/16/2016 6:09:53 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:216.146.32.185 DOM:icm-domain.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note: ICH-CT/SI:0-1560/SG:2 5/16/2016 6:09:45 PM
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-238/SG:7 5/16/2016 6:09:46 PM
+X-GBUdb-Analysis: 0, 216.146.32.185, Ugly c=0.389962 p=-0.272727 Source Normal
+X-Signature-Violations: 0-0-0-32767-c
+X-Note-419: 62.5032 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/16/2016 6:09:47 PM
+X-Warn: BOUNCETRACKER Bounce User Tracking Found
+X-Warn: WEBBUG
+X-Warn: OPTOUT
+X-Warn: INVESTMENT
+X-Warn: WEIGHT10
+X-Note: Spam Tests Failed: BOUNCETRACKER, WEBBUG, OPTOUT, INVESTMENT, WEIGHT10
+X-Country-Path: United States->
+X-Note-Sending-IP: 216.146.32.185
+X-Note-Reverse-DNS: mtaout-185-domain.com
+X-Note-Return-Path: bounces+user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G340 G365 G376 G398 G399 G407 G419 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from mtaout-185-domain.com ([216.146.32.185] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 138893905
+ for user@domain.com; Mon, 16 May 2015 18:09:52 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dynmpress2014; d=meltwaterpress.com;
+ h=Date:From: Brandi Travis <news@meltwaterpress.com>
+ bh=MtWNATerDyJvqR1t6KEImO1DJDQ=;
+ b=bPmKZslhJC6BUAKPR4joMC+e5BIw6Dw5fuFVUOYNvr3CHvcBxDJLRvSTPTCwqdOq5mqLayM75KZO
+   AkFXexDL0FxBdb7EQn62qSIzbT4SexOaIvabvGjyHRZOcWLQ/8s//ZDXA6fJs7bpvttjWCuoWLdk
+   7lOEn9myJ0sPgemSOTs=
+Date: Mon, 16 May 2015 16:09:50 -0700
+From: Brandi Travis <news@meltwaterpress.com>
+Sender: Brandi Travis <user@domain.com>
+Reply-To: <user@domain.com>
+To: <user@domain.com>
+X-DynectEmail-Msg-Key: 20160516230951.0000005user@domain.com
+Message-ID: <1266944571.92937.1463440191070.user@domain.com>
+Subject: Investors Predict Sanders to Win Oregon by Ten Percent or More
+Content-Type: multipart/related;
+	boundary="----=_Part_92936_393105649.1463440191070"
+distributionId: 439795
+contactId: 9855429
+X-Mailer: JavaMail API
+X-DistributionId: 439795
+X-AccessCode: e7f5d84fe0fe969fb85a5b477e4c01188663c276
+Error-To: user@domain.com
+X-DynectEmail-Msg-Hash: UvL+UTX4HmCMy+AkbY8i27tXRXvL3WZRAir8BUepxGN0ZIyXgvCkdgyD9ugpF+SpzjXvjtI5IK/y9kn1A2riAmL4RQMtylzWt5NMdFFPL0c=
+X-DynectEmail-X-Headers: MHw1NjA0NzplN2Y1ZDg0ZmUwZmU5NjlmYjg1YTViNDc3ZTRjMDExODg2NjNjMjc2OzF8NTYwNDg6NDM5Nzk1Ow==
+X-Feedback-ID: TWVsdDJWTVRBcw==:1065:2737:dyn06
+Return-Path: bounces+user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+ =20
+Investors Pr=
+edict Sanders to Win Oregon by Ten Percent or More, 
+Clinton to Win Kent=
+ucky by Five Percent or More
+
+
+
+With less than a day before polls open in Kentucky and Oregon, PredictIt=
+ traders are anticipating Berni=
+e Sanders to win the Oregon primary and Hillary Clinton to win Kentucky. In the Oregon market, Sanders shares are trading at=
+ 80 cents and in Kentucky, Clinton shares are trading at 62 cents. There ar=
+e 55 delegates at stake in Kentucky and 61 in Oregon. Traders expect Sander=
+s to win Oregon by more than ten percentage points where shares are trading at 5=
+9 cents. Clinton is expected to take Kentucky by five percentage points or more=
+ with shares at 56 cents.
+In spite of the continued primary challenge, Clinton is still forecast t=
+o be the Democratic nominee where her s=
+hares are trading at 88 cents compared to Sanders at 9 cents. Sanders is ex=
+pected to continue his campaign through May as shares trade at 9 cents on t=
+he question of whether he will suspend his campaign before the end of May. =
+After his two primary challengers suspended their campaigns, Donald Trump has become the presumptive Republican nominee where his shares are tr=
+ading at 93 cents.
+In the November presidential election, traders=
+ are giving the advantage to Clinton where her shares are trading at 59 cen=
+ts =E2=80=94 compared to 40 cents for Trump.
+###
+Brandi Travis
+270-704-24=
+62
+user@domain.com 
+
+Disclaimer: This email was sent to Miran=
+user@domain.com
+Aristotle, Inc., 205 Pennsylvania Ave SE, Washington, DC, 20=
+0031164,  United States
+[Unsubscribe]

@@ -1,0 +1,6 @@
+{First Name},
+I need you to complete a financial obligation for us today.
+Process a wire transfer of $49,780.00 to the attached account information.
+This payment should be coded to ‘Operating Expenses’.
+I’ll expect you to get it done by COB today.  Send me a note immediately payment is completed.
+Regards,{Full Name}

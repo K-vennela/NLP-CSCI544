@@ -1,0 +1,58 @@
+Kathryn,
+I did talk to the Metro yesterday - no idea what they used. Maybe a few will
+have read it - before copies are tossed around on the tube!
+Added Geoff on this email.
+Ag has answered the second question. I may come back to that after
+trying to answer the first part.
+There are two aspects to the WG work we're doing. The first, which I've mentioned
+on a number of occasions, is to prove that the perturbation process used with the WG
+works. Colin Harpham sent around a load of plots to Chris/Ag/David/Geoff just before
+Christmas. I have a rough draft of a paper on this which I sent to Chris yesterday. This
+involves the UKCIP08 WG, but is totally independent of the change factors David is
+developing for UKCIP08. This uses some earlier HadRM3 model runs. The WG is fit to
+10 grid box series across the UK and then perturbed according to the differences between
+the future model integrations and the control runs. We then generate future weather and
+show that its characteristics are similar to what HadRM3 got directly. This has used
+the same change factors (same variables) but from a different set of RCM runs.
+The whole purpose of this exercise is to show that the perturbation process works.
+The only way we can test this is to use RCM model runs - because they have future
+runs with a big climate change. We can't use past weather data as it doesn't have
+enough of a climate change. This is validation of the perturbation process.
+We can additionally validate the WG using observational data - which we've done
+earlier.
+Return to Q2. Ag has said how the model variants get chosen. The model variants
+used have a variety of ways of being chosen. Let's say we start with the 50th percentile
+for rainfall. We select all model variants between 45 and 55%. Then we want temperature
+at the 90th percentile. We then do a second selection of the variants already selected
+that have temperature changes between 85 and 95%. As we had initially 10,000
+variants, the first selection reduced this to a 1000 (as we chose 10% of them). The
+second selection reduced this to 100 (as we've again chosen only 10% of them).
+Now with these 100 variants, most users will average the change factors (from David)
+across these 100. These average change factors (which will approximately be
+at the 50% and 90% value for precipitation and temperature respectively) get passed
+to the WG. The WG then simulates 100 runs of 30 years - for the already
+pre-selected location (small area) and future period.
+There are obviously loads of permutations as we will be allowing users to select all
+percentile levels (singly for temperature or precipitation) or jointly for both from
+5 to 95 % in steps of 5.
+The percentile levels can be chosen based on seasons (4) and years (1). If you
+select summer say, users will also get the rest of the year - using the change factors
+that
+go along with those for the selected model variants.
+Another possibility is to select one model variant within the chosen percentile bands
+and pass these change factors to the WG.
+There are other possibilities, but I think we've limited the choices to these two.
+The other possibility was a variant (can't think of a better word here - but not
+related to the model variants) to the first. As you have 100 chosen model variants
+in this example, you could chose one at random or allow each of the 100 WG
+integrations to be based on a different one of the model variants. These generated
+sequences will likely have greater variability than that based on the average of the
+100 or that based on the single model variant.
+I think this may open up a can of worms with Ag when he reads it !
+Whichever of these are chosen, the use should still run the WG for
+100 30-year sequences.
+I think I've made the last bit on model variant selection complicated
+and haven't gone back to look at what Ag has written in the User Guidance.
+It ought to tell you how the change factors that the WG needs will get selected.
+Cheers
+Phil

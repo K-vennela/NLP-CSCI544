@@ -1,0 +1,111 @@
+How to Easily Create Charts that are 'Off the Chart'
+Successful business people know that to communicate
+effectively, you need visuals. Studies have shown that
+communicating with visuals is up to six times more
+effective than using words alone.
+But if you've struggled to come up with effective
+presentation visuals using Excel® charts, you aren't
+alone.
+Excel offers several types of charts and graphs with
+some customization features. The problem is, unless
+you're a "power" Excel user, their charts can be
+difficult and frustrating to use. 
+Even if you are a wizard with Excel charts, there is 
+only so much you can do with them. Excel is an excellent
+spreadsheet program but as far as visual presentation,
+well, let's just say it's an excellent spreadsheet program.
+"I'm sorry, I can't help you. Trying to figure out Excel charts is what drove me up here to begin with."
+Buy SmartDraw now and save $100 or more for a limited time.
+Charts that are Quick, Easy, and Intuitive 
+SmartDraw, on the other hand, is designed for creating 
+great visuals. It does most of the work for you, automatically. Unlike Excel, which requires the average person
+to spend a lot of time hunting through tool bars, drop down
+menus, and so forth, SmartDraw offers options that are easy
+and intuitive. Most of your work can be done directly on
+the chart itself.
+Let's look at a very simple Excel data table and use it
+to create a basic line chart using both Excel and SmartDraw.
+In Excel, we have to click the graphs tab from our
+spreadsheet, which opens a default graph on the screen.
+After serveral clicks, and probably a few searches on
+the "Help" tab, we have defined data from the table above,
+our Excel chart looks like this.
+This chart is a mess and, frankly, the task of
+completing it can be daunting if you aren't experienced
+using the charting features in Excel. Clearly, there's
+going to be a lot of work needed to clean this up and
+make it presentable. 
+Okay, let's bring in the same Excel data table using 
+SmartDraw. We begin by selecting a line chart template
+and clicking on the "Import from Excel" button on the
+SmartPanel. SmartDraw asks us to select the data we
+want to use from our table. Next, we click on one of
+the standard chart formats and SmartDraw gives us
+this as a starting point.
+What a difference! This chart is almost presentation
+ready right now. In fact, you can click on the data
+labels, type in the title and information you want,
+and have a very basic chart that's ready to go in
+seconds.
+Now let's go back over to the clean-up job on our
+Excel chart. After several more points, clicks and
+a considerable amount of jumping between toolbars,
+we have a chart that looks like this.
+One of the first things you'll notice about the above
+chart is that the X-axis labels lie below the "zero"
+line on the vertical axis. Because we have some
+negative numbers, those labels run right through
+the data on the chart. This is the default setting
+in Excel, and while it can be corrected, the fix isn't
+at all intuitive. (In fact, if you haven't done it
+before, you'll probably need to do a web search to find the
+answer, which is what we had to do - and, well... good 
+luck with that!) If your data includes negative numbers,
+this can be a frustrating situation. Chances are you've
+probably seen a PowerPoint® presentation with a chart 
+that looked like this ugly thing.
+Let's go back to our SmartDraw chart. Unlike Excel,
+SmartDraw actually lets us point, click and edit
+virtually any of our changes right on the chart.
+With a few clicks, you can see that we've added a
+title, some labels and a splash of color to our
+SmartDraw chart below. This chart was actually
+created in less time than the Excel chart above.
+Which of these two charts would you rather use at
+your meeting or presentation?
+You could certainly stop at this point and have a very
+nice-looking chart to present. But let's go just a bit
+further and add a picture to the background to really
+give this visual some pizzazz. There's really no
+reason to just inform our audience when we can also
+entertain and impress them, as well.
+In just a couple of minutes, you can make your SmartDraw
+chart look like this. Compare this chart to the ones
+you're used to seeing in meetings and presentations.
+This is just one example, created easily, with no
+training or special skills using SmartDraw. 
+Because SmartDraw is a visual processor, it allows
+you to take your charts into new and exciting
+dimensions that just aren't available to you in Excel.
+But because SmartDraw works seamlessly with the entire
+suite of Office® products, you can use your SmartDraw
+charts in Word® documents or PowerPoint presentations
+with a single click.
+Get Started Now
+Why use ordinary charts when SmartDraw visuals can be
+created quickly, easily, and are proven to be more
+effective? Impress your boss and your audience!
+Discover for yourself the powerful benefits of SmartDraw. 
+Now that you're part of the SmartDraw community we invite 
+you to keep in touch with us on your favorite social networks. 
+Buy and save $100 or more for a limited time.
+To read more about creating charts with SmartDraw download this white paper
+.
+To watch a video showing how easy it is to create charts with SmartDraw,
+click here. 
+If you prefer to contact one of our product specialists,
+click here.
+You control the e-mail you get from SmartDraw Software: Unlist
+SmartDraw Software, LLC | 9909 Mira Mesa Blvd. | San Diego, CA 92131 | USA
+Excel®, Office®, Word®, and PowerPoint® are registered trademarks of Microsoft® Corporation.
+All Rights Reserved. ©2014 SmartDraw, LLC

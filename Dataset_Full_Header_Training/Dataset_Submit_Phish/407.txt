@@ -1,0 +1,62 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id 77631468B2
+	for <user@domain.com>; Wed,  8 Apr 2015 06:49:11 -0400 (EDT)
+X-Greylist: delayed 415 seconds by postgrey-1.27 at domain.com; Wed, 08 Apr 2015 06:49:11 EDT
+Received: from domain.com (domain.com [12.183.117.155])
+	by domain.com (Postfix) with ESMTP id 7F8BA131F776
+	for <user@domain.com>; Wed,  8 Apr 2015 06:49:11 -0400 (EDT)
+Received: from User ([12.169.2.219]) by domain.com with Microsoft SMTPSVC(6.0.3790.3959);
+	 Wed, 8 Apr 2015 06:35:53 -0400
+Reply-To: <user@domain.com>
+From: "Walmart Survey"<survey@spring.com>
+Subject: Congratulations.You have been selected
+Date: Wed, 8 Apr 2015 05:35:52 -0500
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <user@domain.com>
+X-OriginalArrivalTime: 08 Apr 2015 10:35:53.0293 (UTC) FILETIME=[CADB7FD0:01C9B835]
+To: undisclosed-recipients:;
+Content-Length: 1948
+Lines: 23
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1026
+
+Congratulations!
+You 
+  have been selected by Wal-Mart 
+  Stores, Inc. 
+  Online Department to take part in our quick and easy reward survey.
+
+In 
+  return we will domain.com $150 to your account - Just for your time!
+Helping 
+  us better understand how our customers feel, benefits everyone. 
+
+  With the information collected we can decide to direct a number of changes to 
+  improve and expand our services.
+
+  The information you provide us is all non-sensitive and anonymous. No part of 
+  it is handed down to any third party groups. 
+
+  It will be stored in our secure database for maximum of 3 days while we process 
+  the results of this nationwide survey.
+To 
+  access the form, please click on the link below 
+  :
+<<link>>
+Lee Scott
+
+  President and Chief Executive Officer
+
+  Wal-Mart Stores, Inc.

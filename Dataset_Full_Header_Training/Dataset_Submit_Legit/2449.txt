@@ -1,0 +1,61 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Fri, 7 Nov 2015 09:33:29 +0100
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id 0F060621AA	for
+ <user@domain.com>; Fri,  7 Nov 2015 08:16:04 +0000 (GMT)
+Received: by domain.com (Postfix)	id 0899EB6603F; Fri,  7 Nov 2015 
+ 09:33:29 +0100 (CET)
+Delivered-To: user@domain.com
+Received: from EmadPC (unknown [192.168.1.196])	(using TLSv1 with cipher
+ AES128-SHA (128/128 bits))	(No client certificate requested)	by
+ domain.com (Postfix) with ESMTPSA id 77C35B6603E;	Fri,  7 Nov 2015 
+ 09:33:28 +0100 (CET)
+From: Emad Shehata <e.shehata@hackingteam.com>
+To: 'Emad Shehata' <user@domain.com>, 'Antonella Capaldo'
+	<user@domain.com>
+CC: 'travel' <user@domain.com>
+References: <000a01cffa64$4e7185d0$eb549170$@user@domain.com> <user@domain.com>
+In-Reply-To: <user@domain.com>
+Subject: R: [BULK]  Flight Info
+Date: Fri, 7 Nov 2015 09:33:29 +0100
+Message-ID: <000f01cffa65$81c7ce70$85576b50$@user@domain.com>
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AQHP+mSGdJMK9jQoWUeTBZhBJaLfbZxU1hQQ
+Content-Language: it
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EMAD SHEHATA450
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1505733112_-_-"
+
+Ciao Antonella, hai ricevuto la mail in allegato?E’ presente il numero del volo  Da: Emad Shehata [mailto:user@domain.com] 
+Inviato: venerdì 7 novembre 2015 09:26
+A: Antonella Capaldo
+Cc: travel
+Oggetto: R: [BULK] Flight Info Yes Sir :) 
+-- 
+Emad Shehata 
+Key Account Manager 
+
+Sent from my mobile.
+ Da: Antonella Capaldo 
+Inviato: Friday, November 07, 2015 08:24 AM
+A: Emad Shehata 
+Cc: travel 
+Oggetto: I: [BULK] Flight Info 
+ Ciao Emad, Non ti ha fatto sapere ancora nulla circa i dettagli del volo?Procedo ugualmente con la prenotazione del pick-up per domani (ore 21:20) e poi non appena il cliente ci fornisce il numero del volo, aggiorno la prenotazione.GrazieCiao  Antonella CapaldoAdministrative Support Hacking Team
+Milan Singapore Washington DCwww.hackingteam.com
+email: user@domain.com:+39 3667216471
+phone: +39 0229060603   Da: Emad Shehata [mailto:user@domain.com] 
+Inviato: giovedì 6 novembre 2015 12:02
+A: 'MOI'
+Cc: 'travel'
+Oggetto: R: [BULK] Flight Info Dear Mousa, the pick up will be arrange as well. Can you please send me the Flight number for a better information to my dept. dedicated? Thanks  Da: MOI [mailto:user@domain.com] 
+Inviato: giovedì 6 novembre 2015 11:58
+A: Emad Shehata
+Oggetto: [BULK] Flight Info Dear Emad, Please Note that  AbdulAziz AlHamdani   will arrive with the following details ..      Coming from ParisDepart at 7:50 PMArrive at 9:20 PM Saturday-Nov 8thMilan Malpensa Airport   Appreciate your assistance at the airport.  Regards,Mousa AlShehriGID-MOI

@@ -1,0 +1,250 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Sun, 15 May
+ 2015 16:30:52 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Sun, 15 May 2015 
+ 16:30:48 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 916065276
+ for user@domain.com; Sun, 15 May 2015 15:30:58 -0500
+X-Note-AR-ScanTimeLocal: 5/15/2016 3:30:51 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @hillaryclinton.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->->->->United States->
+X-Note-Sending-IP: 209.85.213.71
+X-Note-Reverse-DNS: mail-vk0-domain.com
+X-Note-Return-Path: nationalpress2016+user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mail-vk0-domain.com ([209.85.213.71] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 138681592
+ for user@domain.com; Sun, 15 May 2015 15:30:51 -0500
+Received: by mail-vk0-domain.com with SMTP id c67sf179317841vkh.3
+        for <user@domain.com>; Sun, 15 May 2015 13:30:51 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=hillaryclinton.com; s=google;
+        h=mime-version:From: Hillary for America Press <press@hillaryclinton.com>
+         :x-original-authentication-results:precedence:mailing-list:list-id
+         :x-spam-checked-in-group:list-post:list-help:list-archive
+         :list-unsubscribe;
+        bh=6XC41L+WEmzLwmvQ51ebtzOVj7YYlbPG1s0vwnmJHFc=;
+        b=LVctlcImzeZ8IUTeohxSnN3Na+ZznuDJuTA3dTsJ7tdjgfARrNnXvQCV8b3pb0rOL/
+         TArf/mPN6Dpidv/g6zPCakt7k3oqHpGzfSAuJV06/nkGYP9MX2GQsig3ACKd6PdZ5HJQ
+         Ch9rQkK51HZKZqG/5JlrN1dlhj0ceYw+WlcP0=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:From: Hillary for America Press <press@hillaryclinton.com>
+         :x-original-sender:x-original-authentication-results:precedence
+         :mailing-list:list-id:x-spam-checked-in-group:list-post:list-help
+         :list-archive:list-unsubscribe;
+        bh=6XC41L+WEmzLwmvQ51ebtzOVj7YYlbPG1s0vwnmJHFc=;
+        b=bKXAqo0eoK+R6su4eUK0ndH27sKplVaKMv0ejdAllqGEcFov6aVBC/YANSCzEZgDAW
+         09pfB2TQBoiBlSA/pPRgsXLqtUoVtBvs0LaDkuCDfhMuL3L5Ri3Es4RKDsEdINlfZkqi
+         +TUZfnarCTg9MZWNFW9DPyyQg8Qd8xIwZ+CoZzuW5tB0ZHNcEEWHXgMd8b+d7wvO/BF0
+         UpkXaTnQlm3MAq8gCW7hyk3v2TadHOUTEDfq4tzQoiVmo7H3ekZzQeIaOY5b+chYUmCu
+         nbsFp+jNeqjX/60xriIfQcktuGLaZXUb0RT/PZbtyN5tJIQ1OWDWwXgtwnz3GPqaSG0p
+         GuRA==
+X-Gm-Message-State: AOPr4FUnku+rXb2dTFM9laONwzBCW5Z72EDMQuud2sZPTBSweMTdzUohiSlb1rstSzQ/yuVv
+X-Received: by 10.140.105.181 with SMTP id c50mr18017847qgf.7.1463344251096;
+        Sun, 15 May 2015 13:30:51 -0700 (PDT)
+X-BeenThere: user@domain.com
+Received: by 10.157.7.138 with SMTP id 10ls1201045oto.59.gmail; Sun, 15 May
+ 2015 13:30:49 -0700 (PDT)
+X-Received: by 10.157.56.1 with SMTP id i1mr11053164otc.62.1463344248719;
+        Sun, 15 May 2015 13:30:48 -0700 (PDT)
+Received: from mail-oi0-domain.com (mail-oi0-domain.com.
+ [2607:f8b0:4003:c06::22f])        by domain.com with ESMTPS id
+ x194si10300005oia.185.2016.05.15.13.30.48        for
+ <user@domain.com>        (version=TLS1_2
+ cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);        Sun, 15 May 2015 
+ 13:30:48 -0700 (PDT)
+Received-SPF: pass (domain.com: domain of user@domain.com designates 2607:f8b0:4003:c06::22f as permitted sender) client-ip=2607:f8b0:4003:c06::22f;
+Received: by mail-oi0-domain.com with SMTP id v145so241837005oie.0
+        for <user@domain.com>; Sun, 15 May 2015 13:30:48
+ -0700 (PDT)
+X-Received: by 10.202.81.212 with SMTP id f203mr6973867oib.114.1463344248423;
+ Sun, 15 May 2015 13:30:48 -0700 (PDT)
+Received: by 10.182.212.7 with HTTP; Sun, 15 May 2015 13:30:08 -0700 (PDT)
+From: Hillary for America Press <press@hillaryclinton.com>
+Date: Sun, 15 May 2015 16:30:08 -0400
+Message-ID: <user@domain.com>
+Subject: =?UTF-8?Q?Republican_National_Security_Experts_Raise_Concerns_?=
+	=?UTF-8?Q?about_Trump=E2=80=99s_Dangerous_Foreign_Policy=2C_such_as_his_Admira?=
+	=?UTF-8?Q?tion_for_Putin?=
+To: Hillary for America Press <user@domain.com>
+Content-Type: multipart/related; boundary="001a113b00fc1cc2ff0532e762cd"
+BCC: <user@domain.com>
+X-Original-Sender: user@domain.com
+X-Original-Authentication-Results: domain.com;       dkim=pass
+ user@domain.com;       spf=pass (domain.com: domain of
+ user@domain.com designates 2607:f8b0:4003:c06::22f as permitted
+ sender) user@domain.com;       dmarc=pass
+ (p=QUARANTINE dis=NONE) header.from=hillaryclinton.com
+Precedence: list
+Mailing-list: list user@domain.com; contact nationalpress2016+user@domain.com
+List-ID: <nationalpress2016.hillaryclinton.com>
+X-Spam-Checked-In-Group: user@domain.com
+X-Google-Group-Id: 5632930410
+List-Post: <<<link>>>,
+ <mailto:user@domain.com>
+List-Help: <<<link>>>,
+ <mailto:nationalpress2016+user@domain.com>
+List-Archive: <<<link>>>
+List-Unsubscribe: <mailto:googlegroups-manage+5632930410+user@domain.com>,
+ <<<link>>>
+Return-Path: nationalpress2016+user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+*[image: Inline image 1]*
+
+*Republican National Security Experts Raise Concerns about Trump=E2=80=99s
+Dangerous Foreign Policy, such as his Admiration for Putin*
+
+Republican national security experts, including former Secretary of Defense
+Robert Gates and Congressman Peter King, the former chairman of the
+Committee on Homeland Security, raised concerns over the past week about
+Donald Trump=E2=80=99s dangerous foreign policy.  Gates and King criticized=
+ Trump=E2=80=99s
+admiration for Vladimir Putin and questioned his lack of a plan on ISIS.
+
+Read criticisms made over the past week by Republican national security
+experts of Trump=E2=80=99s dangerous foreign policy:
+
+*Former Secretary of Defense Robert Gates:*
+<<<link>>
+presidents/>
+=E2=80=9CI have some real issues with things he=E2=80=99s said about nation=
+al security
+policy.  And some concerns.  I think there are some contradictions. You
+can't have a trade war with China and then turn around and ask them to help
+you on North Korea. I have no idea what his policy would be in terms of
+dealing with ISIS. I worry a little bit about his admiration for Vladimir
+Putin=E2=80=A6=E2=80=9D
+
+*Former Secretary of Defense Robert Gates:
+<<<link>>
+presidents/>*
+=E2=80=9CI
+guess one of the things that makes it challenging for me is that he seems
+to think that he has all the answers.=E2=80=9D
+
+*Congressman Peter King, former chairman of the Committee on Homeland
+Security:* <<<link>>> =E2=
+=80=9CWell
+I=E2=80=99m supporting the nominee of the party but I still have real quest=
+ions
+with him as far as national security. I don't think his Asian policy is
+coherent because, again, if he does want to get in a trade war with China,
+he has to explain how that coincides with him wanting to use China against
+North Korea. If he wants to have leverage over China, how can be talking
+about taking troops out of Japan and Korea.=E2=80=9D
+
+*Congressman Peter King, former chairman of the Committee on Homeland
+Security: <<<link>>> *=E2=
+=80=9CI=E2=80=99m
+very concerned about this romance he seems to have with Putin=E2=80=A6=E2=
+=80=9D
+
+*Senator Lindsey Graham:*
+<<<link>>
+will-evolve-on-foreign-policy>
+=E2=80=9CHe
+talks like Ronald Reagan one moment and then embraces Putin the next.  The
+contradictions are just overwhelmingly to me.=E2=80=9D
+
+*Senator Marco Rubio:
+<<<link>>
+will-evolve-on-foreign-policy>
+*=E2=80=9C=E2=80=99My hope is that he can be persuaded away from those sort=
+s of positions,=E2=80=99
+Rubio said. =E2=80=98As of now that=E2=80=99s not the case.=E2=80=99 Rubio =
+doesn=E2=80=99t agree with
+Corker that Trump will see the world differently after he learns the
+details of the issues.=E2=80=9D
+
+*Former Secretary of State James Baker:
+<<<link>>
+-spurned-by-veteran-republican-adviser-baker>
+*=E2=80=9CWhile Donald Trump met with Republican lawmakers on Capitol Hill
+Thursday, a Senate hearing provided a forum for critics in his party to
+take aim at his foreign policy proposals. At the prompting of Republican
+Senator Marco Rubio, who dropped out of the presidential race in March,
+former Secretary of State James Baker said that the world =E2=80=98would be=
+ far
+less stable=E2=80=99 if the U.S. left the North Atlantic Treaty Organizatio=
+n or let
+South Korea and Japan obtain nuclear weapons, proposals floated by Trump
+during the campaign that made him the presumptive Republican presidential
+nominee. =E2=80=98We=E2=80=99ve got a lot of problems today, but you=E2=80=
+=99d have a hell of a lot
+more if that were the case,=E2=80=99 Baker, who was secretary of state in P=
+resident
+George H.W. Bush=E2=80=99s administration, said without mentioning Trump by=
+ name.
+=E2=80=98NATO has been the foundation of peace and stability in Europe. The=
+ more
+countries that obtain nuclear weapons the more instability there will be in
+the world.=E2=80=99=E2=80=9D
+
+*Former Secretary of State James Baker:*
+<<<link>>
+-223142>
+=E2=80=9CMarco Rubio=E2=80=99s latest shot at Donald Trump came with an ass=
+ist from James
+Baker. The Republican Florida senator, who abandoned the presidential race
+earlier this year after repeated drubbings by Trump, asked the revered GOP
+elder statesman on Thursday what he thought of suggestions by =E2=80=98some=
+ people=E2=80=99
+that more countries should have nuclear weapons. =E2=80=98The more countrie=
+s that
+acquire nuclear weapons, the more instability there is going to be in the
+world,=E2=80=99 replied Baker, a former secretary of state, during a Senate=
+ Foreign
+Relations Committee hearing.=E2=80=9D
+
+*Former CIA Director Michael Hayden:
+<<<link>>
+-2016-5>*
+=E2=80=9CMichael Hayden didn't mince words when asked about Donald Trump's =
+proposal
+to bar Muslim immigrants and tourists from entering the US. It's not
+legally possible, the former director of the Central Intelligence Agency
+told Business Insider in an interview. It's morally reprehensible. And,
+frankly, =E2=80=98it's dumb as dirt.=E2=80=99=E2=80=9D
+
+*Former CIA Director Michael Hayden:
+<<<link>>
+-2016-5>*
+=E2=80=9CHe has not shown me the capacity to treat international issues wit=
+h the
+complexity and seriousness that they deserve.  And again, if I'm supposed
+to ignore those things =E2=80=94 =E2=80=98that was just done for the crowd=
+=E2=80=99 =E2=80=94 frankly,
+that's an even worse problem. I'm going to take him at face value.=E2=80=9D
+
+###
+
+For Immediate Release, May 15, 2015 
+Contact: user@domain.com
+
+PAID FOR BY HILLARY FOR AMERICA
+Contributions or gifts to Hillary for America are not tax deductible.
+Hillary for America, PO Box 5256, New York
+
+--=20
+You received this message because you are subscribed to the Google Groups "=
+NationalPress2016" group.
+To unsubscribe from this group and stop receiving emails from it, send an e=
+mail to nationalpress2016+user@domain.com

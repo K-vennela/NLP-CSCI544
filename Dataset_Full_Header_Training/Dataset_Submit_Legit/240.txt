@@ -1,0 +1,26 @@
+Return-Path: <user@domain.com>
+From: "Antonella Capaldo" <a.capaldo@hackingteam.it>
+To: "User" <user@domain.com>
+Subject: SCARAFILE - posti a sedere - EMIRATES
+Date: Fri, 6 Jul 2015 10:23:12 +0200
+Organization: HT S.r.l.
+Message-ID: <004601cd5b50$95baefe0$c130cfa0$@user@domain.com>
+X-Mailer: Microsoft Outlook 15.0
+Thread-Index: AQG9LIKcMe2trEjCptFwUJ49vjvPpg==
+Content-Language: it
+X-OlkEid: 000000007D2091DA92D3914ABB4C05769578F4790700C3B68E10F77511CEB4CD00AA00BBB6E600000000000C0000A96A85A9D2A04643865EB2097E3CF3A3000000002F08000038D7D8B15BD3054A8A0FFC101ABE5B91
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-615933390_-_-"
+
+** SEAT DATA **
+  1. EK 0092 I  10JUL MXPDXB
+      1. SCARAFILE/ALESS|  KK   9J
+  2. EK 0358 I  11JUL DXBCGK
+      1. SCARAFILE/ALESS|  KK   3A
+  3. EK 0359 R  14JUL CGKDXB
+      1. SCARAFILE/ALESS|  KK  26A
+  4. EK 0093 R  14JUL DXBMXP
+      1. SCARAFILE/ALESS|  KK  24A
+

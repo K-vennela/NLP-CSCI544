@@ -1,0 +1,49 @@
+<x-flowed>
+Dear Keith, Bette and Eystein:
+This email should be read after the one to the entire team - it 
+provides post LA3/TS feedback on figures. Since Bette is going on a 
+short vacation, she and I emailed about her new LIG fig before I 
+left, so she's ready to go when she gets home.
+Keith (and Tim), on the other hand, have lots to consider, and I just 
+wanted to reiterate to you (and Bette) that it's a priority for me 
+and Eystein to help you brainstorm all these figures. Here are a few 
+more comments I got on Keith/Tim Figs:
+For 6.8:
+1) removing the oldest portion of the records from the plot is only ok IF:
+-we can justify on an obvious and objective basis - for example that 
+sample depth hits goes down significantly at ca. 700AD or wherever we 
+want to chop it.
+-We don't remove part of the series that will give rise to accusations of bias
+Thus, it might be better to leave as was in the FOD, just to be safe, 
+or to try multiple versions.
+2) had a long talk with Martin Manning about the idea of multiple 
+plots, vs just the existing one (by the way, the TS team WANTS the 
+instrumental part of the fig as we agreed to modify in Chap 6 
+sessions). I think the best idea is to keep the bottom panel as is, 
+with modifications
+- keep the error bars as is
+- try a version with some sort of annually-resolved volc forcing 
+placed at the top of the panel, with eruption (sufate) lines sticking 
+down farther for big eruptions
+- try inserting some representation of average (median? or?) sample 
+depth along the bottom (time) side of the panel. This will thus show, 
+lots of sample depth back to ca. 1700, then less and less (in 
+steps?). Martin suggests we go one step farther and color the sample 
+depth part of the plot with different colors, based on our expert 
+judgement of confidence. We could have two or three colors - one 
+color for the interval overwhich we have "very likely" confidence 
+(e.g., in the exec summary) and another for just "very." perhaps we 
+want a third for some term reflecting "don't trust inferences 
+regarding hemispheric temp that much over this interval" - this will 
+obviously take some thinking/creativity, but this fig will go all the 
+way to the TSM, so it's worth the effort.
+3) linear axis for sure
+4) if would still be good to try a density shaded version of this 
+plot (instead of all the recon lines) for the TS and SPM. When in 
+doubt, make an extra version. We can then share with our team and 
+with Susan.
+Thanks for doing this!
+Also, FYI, Gabe indicated that her regional plots were not scaled 
+separately. Surprising, but maybe the models are actually better than 
+we thought.
+Best, Peck

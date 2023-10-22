@@ -1,0 +1,155 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Sat, 21 May
+ 2015 20:24:24 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Sat, 21 May 2015 
+ 20:24:16 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 928185125
+ for user@domain.com; Sat, 21 May 2015 19:24:23 -0500
+X-Note-AR-ScanTimeLocal: 5/21/2016 7:24:33 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @hillaryclinton.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->->->United States->
+X-Note-Sending-IP: 209.85.214.200
+X-Note-Reverse-DNS: mail-ob0-domain.com
+X-Note-Return-Path: nationalpress2016+user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mail-ob0-domain.com ([209.85.214.200] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 142024111
+ for user@domain.com; Sat, 21 May 2015 19:24:33 -0500
+Received: by mail-ob0-domain.com with SMTP id yu3sf206711599obb.3
+        for <user@domain.com>; Sat, 21 May 2015 17:24:23 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=hillaryclinton.com; s=google;
+        h=From: Hillary for America Press <press@hillaryclinton.com>
+         :x-original-sender:x-original-authentication-results:precedence
+         :mailing-list:list-id:x-spam-checked-in-group:list-post:list-help
+         :list-archive:list-unsubscribe;
+        bh=cYu9LyYqDAPT462Qsin9VA7NGTkxzL76K72lZ3wukYA=;
+        b=LSSrM01I4Upl3TOi83gkv1kL0e7Aplt3OesrSRuazHNxxKaz8tqmIlEfATgAK8uoZ7
+         rADjFa46PeNrMbCvH6wRUB+P5u+iV4fmdoDwP+OiV2owyUNDwmfQEmNSN5Z45N3eHJlx
+         bF5ihcSlGc54Wx4VMOWjSDriQmtNJnMzD3Xrk=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:From: Hillary for America Press <press@hillaryclinton.com>
+         :subject:to:x-original-sender:x-original-authentication-results
+         :precedence:mailing-list:list-id:x-spam-checked-in-group:list-post
+         :list-help:list-archive:list-unsubscribe;
+        bh=cYu9LyYqDAPT462Qsin9VA7NGTkxzL76K72lZ3wukYA=;
+        b=iFhe7t+2Va2goH+tOJlYDGdOwOv8qqSbr92KQK7QjvO/PXF6djialA0Q3xmWkUGxaX
+         jYM5oOQxr1zSWZEAO8+IUSwjHhHGWfFVzZNI6YiOfNRh84trwHrEBnpHA3/FOJvx8z98
+         IzDuXGdGXvLf5BISxh0PQ4n5NbZ52LgrEbYDOpGulF1/Ikj9gRMT+p43Kf8SP5ev+eo/
+         n9PMASEXm+/3PaBIpLM9kPacvUBPskYKGrZXuMFX0c5oEQMxId3bufpwv581XIstpfS8
+         L2Y49gmO840fElbaS2KiDB8e4M4pxbF8hZe1o6E5Ioo267bbKUhPAEcHcaWttJ/DuffR
+         LGnw==
+X-Gm-Message-State: AOPr4FW7vIkqSMR5NqLZz8xgkNBfhpHPAqqik8lSJrkj3ZvJqbRsc5bLqjfCFDavqrWDDqy6
+X-Received: by 10.36.34.76 with SMTP id o73mr7314384ito.3.1463876662349;
+        Sat, 21 May 2015 17:24:22 -0700 (PDT)
+X-BeenThere: user@domain.com
+Received: by 10.157.2.39 with SMTP id 36ls452195otb.91.gmail; Sat, 21 May 2015 
+ 17:24:19 -0700 (PDT)
+X-Received: by 10.157.1.116 with SMTP id 107mr409241otu.145.1463876659564;
+        Sat, 21 May 2015 17:24:19 -0700 (PDT)
+Received: from mail-oi0-domain.com (mail-oi0-domain.com.
+ [2607:f8b0:4003:c06::231])        by domain.com with ESMTPS id
+ a11si12376504oif.219.2016.05.21.17.24.19        for
+ <user@domain.com>        (version=TLS1_2
+ cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);        Sat, 21 May 2015 
+ 17:24:19 -0700 (PDT)
+Received-SPF: pass (domain.com: domain of user@domain.com designates 2607:f8b0:4003:c06::231 as permitted sender) client-ip=2607:f8b0:4003:c06::231;
+Received: by mail-oi0-domain.com with SMTP id k23so23949808oih.0
+        for <user@domain.com>; Sat, 21 May 2015 17:24:19
+ -0700 (PDT)
+X-Received: by 10.202.180.137 with SMTP id d131mr4965416oif.135.1463876659216;
+ Sat, 21 May 2015 17:24:19 -0700 (PDT)
+From: Hillary for America Press <press@hillaryclinton.com>
+X-Mailer: Microsoft Outlook 16.0
+Thread-Index: AdGzves2EavAJ8V3StWjdtq7jPIEtQ==
+Date: Sat, 21 May 2015 20:24:19 -0400
+Message-ID: <06user@domain.com>
+Subject: =?UTF-8?Q?President_Clinton_to_Campaign_for_Hillary_Clinton_in?=
+	=?UTF-8?Q?_Espa=C3=B1ola=2C_New_Mexico?=
+To: <user@domain.com>
+Content-Type: multipart/related; boundary="001a113cc54644c27a0533635839"
+BCC: <user@domain.com>
+X-Original-Sender: user@domain.com
+X-Original-Authentication-Results: domain.com;       dkim=pass
+ user@domain.com;       spf=pass (domain.com: domain of
+ user@domain.com designates 2607:f8b0:4003:c06::231 as permitted
+ sender) user@domain.com;       dmarc=pass
+ (p=QUARANTINE dis=NONE) header.from=hillaryclinton.com
+Precedence: list
+Mailing-list: list user@domain.com; contact nationalpress2016+user@domain.com
+List-ID: <nationalpress2016.hillaryclinton.com>
+X-Spam-Checked-In-Group: user@domain.com
+X-Google-Group-Id: 5632930410
+List-Post: <<<link>>>,
+ <mailto:user@domain.com>
+List-Help: <<<link>>>,
+ <mailto:nationalpress2016+user@domain.com>
+List-Archive: <<<link>>>
+List-Unsubscribe: <mailto:googlegroups-manage+5632930410+user@domain.com>,
+ <<<link>>>
+Return-Path: nationalpress2016+user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+*President Clinton to Campaign for Hillary Clinton in Espa=C3=B1ola, New Me=
+xico*
+
+On Tuesday, May 24, President Bill Clinton will campaign for Hillary
+Clinton in New Mexico ahead of the June 7 primary. President Clinton will
+hold a public event in Espa=C3=B1ola where he will discuss why Hillary Clin=
+ton
+is the best candidate to raise wages and break down all the barriers
+holding New Mexico families back.
+
+Media interested in covering this event should *RSVP here
+<<<link>>
+aw/viewform?usp=3Dsend_form>*by
+Monday, May 23 at 10:00 PM. Media who RSVP to the event will receive a
+credential confirmation and logistical information after the RSVP deadline.
+
+Information on President Clinton=E2=80=99s Wednesday stop in Albuquerque wi=
+ll be
+forthcoming.
+
+*Hillary for New Mexico - Espa=C3=B1ola Organizing Event*
+
+WHEN: Tuesday, May 24 at 6:30 PM
+
+WHERE: Plaza De Espa=C3=B1ola, 706 East Bond Street, Espa=C3=B1ola, New Mex=
+ico 87532
+
+DOORS OPEN: 5:30 PM
+
+*PUBLIC RSVP HERE
+<<<link>>>*
+
+###
+
+For Immediate Release, May 21, 2015 
+Contact: user@domain.com
+
+PAID FOR BY HILLARY FOR AMERICA
+Contributions or gifts to Hillary for America are not tax deductible.
+Hillary for America, PO Box 5256, New York
+
+--=20
+You received this message because you are subscribed to the Google Groups "=
+NationalPress2016" group.
+To unsubscribe from this group and stop receiving emails from it, send an e=
+mail to nationalpress2016+user@domain.com

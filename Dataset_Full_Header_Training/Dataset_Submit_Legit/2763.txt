@@ -1,0 +1,37 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from [192.168.1.136] (unknown [192.168.1.136])
+	(using TLSv1 with cipher AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mail.hackingteam.it (Postfix) with ESMTPSA id B33FCB66002;
+	Tue, 26 Apr 2015 16:08:32 +0200 (CEST)
+Message-ID: <4user@domain.com>
+Date: Tue, 26 Apr 2015 16:08:32 +0200
+From: Antonio Mazzeo <a.mazzeo@hackingteam.it>
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.15) Gecko/20110303 Lightning/1.0b2 Thunderbird/3.1.9
+To: Luca Filippi <user@domain.com>, user@domain.com
+Subject: bozza documento
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1483144213_-_-"
+
+-- 
+Antonio Mazzeo
+Senior Security Engineer
+
+
+
+HT srl 
+Via Moscova, 13 I-20121 Milan, Italy 
+WWW.HACKINGTEAM.IT 
+Phone +39 02 29060603 
+Fax. +39 02 63118946 
+Mobile: +39 3311863741
+
+
+
+This message is a PRIVATE communication. This message contains privileged and confidential information intended only for the use of the addressee(s).
+If you are not the intended recipient, you are hereby notified that any dissemination, disclosure, copying, distribution or use of the information contained in this message is strictly prohibited. If you received this email in error or without authorization, please notify the sender of the delivery error by replying to this message, and then delete it from your system.
+

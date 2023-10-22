@@ -1,0 +1,130 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 27 Apr
+ 2015 21:57:24 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 27 Apr 2015 
+ 21:57:16 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 884239402
+ for user@domain.com; Wed, 27 Apr 2015 20:57:24 -0500
+X-Note-AR-ScanTimeLocal: 4/27/2016 8:57:23 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:209.85.223.171 DOM:nhdp.org ADDR:user@domain.com
+X-Note: SPF: None
+X-Note-SnifferID: 100
+X-GBUdb-Analysis: Unknown
+X-Signature-Violations: 100-5952969-15113-15129-m
+	100-5952969-0-22727-f
+X-Note-419: 15.6277 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 4/27/2016 8:57:18 PM
+X-Warn: OPTOUT
+X-Warn: BULKMAILER
+X-Note: Spam Tests Failed: OPTOUT, BULKMAILER
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 209.85.223.171
+X-Note-Reverse-DNS: mail-io0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G280 G285 G373 G375 G572 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from mail-io0-domain.com ([209.85.223.171] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 135529996
+ for user@domain.com; Wed, 27 Apr 2015 20:57:22 -0500
+Received: by mail-io0-domain.com with SMTP id u185so74230439iod.3
+        for <user@domain.com>; Wed, 27 Apr 2015 18:57:23 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=nhdp-domain.com; s=20150623;
+        h=From: Thomas Nuccio <tnuccio@nhdp.org>
+         :references:to;
+        bh=0wtESChrFmtNaA5qWI0l0yxYK9or5y4eixNPXOXYT7A=;
+        b=ao/sfv3h0emcwF5sMCxHHgMaIY8oFT7+r3cbLnPy5E4pRnwO0TfnL1bR0D4Rz6k/Il
+         2vXJEWr7Jdqzy9W6h9VdjPesKn2y3nrhY4e7+cHFQJFkq1pc5uIySEhM4PTpDtxc9YJ3
+         xIWMzDJeBfopN1ansXMjdwb+sIL0YEkz3sqA2hLjY88D8wO4W0OCSnVw8As1tsyFcFqz
+         o5EvqUOX7Dy1NbucrYMS+dyiUug9EoToepFQKvXlhYN5f3kYAwkc1ch5mJqqHSQIh7gs
+         GifE1Uj47bHTC5Sg6GJPpu25L3uPF0yV9y75G8fzIs4/nv0VR8IVIXJ3duX+x5VkMjux
+         Tgzw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:From: Thomas Nuccio <tnuccio@nhdp.org>
+         :subject:message-id:date:references:to;
+        bh=0wtESChrFmtNaA5qWI0l0yxYK9or5y4eixNPXOXYT7A=;
+        b=ZpdvwXxNeKs9QlYIh9B6vk65jzRXiijkGv2mQ8w4/wo+6/kUbEPapR7QnSnNMA/yZr
+         lO9giGF71Q3ZiZstp5OQvHWaMIjAPwp7VldfQtGxGPROekhGDBQdCJpj/BlZF8p8AqBm
+         rDHAo+RLHuYlGGs71+BL0DmpR5t+UIIeZmF9f5yDcGQ/8rE+mKzp0+LClIbpoZqYK8tO
+         KwubAEgZmvDENiA6yQyhtkdyubqnNKHiCmXzCKVu1zFRYxYqtH1Xo53udR11VhL302gO
+         rcOtgzdxl8BesZoNMN2xGBC1P0qHokG7V6dleLBXd8Kh0CK2TfRCuhVb8HqmoYv47xNg
+         ZvuA==
+X-Gm-Message-State: AOPr4FVAWnz+Y9BWDRTaJdgSaBP7IxIG5CNOxvYpupcxZ3FuXDRWoIZwWG6jBp9ryK9OCw==
+X-Received: by 10.107.47.37 with SMTP id j37mr13681417ioo.168.1461808642544;
+        Wed, 27 Apr 2015 18:57:22 -0700 (PDT)
+Return-Path: <user@domain.com>
+Received: from ?IPv6:2602:30a:2e39:f930:2801:b04e:dd89:f985?
+ ([2602:30a:2e39:f930:2801:b04e:dd89:f985])        by domain.com with
+ ESMTPSA id c70sm6094650iod.7.2016.04.27.18.57.21        for <user@domain.com>
+        (version=TLSv1/SSLv3 cipher=OTHER);        Wed, 27 Apr 2015 18:57:21
+ -0700 (PDT)
+From: Thomas Nuccio <tnuccio@nhdp.org>
+Content-Type: multipart/alternative;
+	boundary="Apple-Mail-EAB04072-6E3E-46BE-ADA6-15150A111866"
+Content-Transfer-Encoding: 7bit
+Subject: Cruz email: Fwd: Why I accepted:  
+Message-ID: <6user@domain.com>
+Date: Wed, 27 Apr 2015 21:57:20 -0400
+References: <3user@domain.com>
+To: <user@domain.com>
+X-Mailer: iPhone Mail (13E238)
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+MIME-Version: 1.0
+
+is Vice Presidential nominee.=20
+
+ican nominee before this race is even over. It's also clear, that Donald Tru=
+mp's nomination would be a disaster for America.=20
+
+o liberals in November: both corrupt, both big government crony capitalists,=
+ and both part of the system that has gotten us in the mess we're in.=20
+
+ Hillary Clinton in the White House.=20
+
+domain.com to joining our campaign by making a special, urgent contribution.
+
+ife Heidi. I have come to know him and his family.=20
+
+ther, the devoted husband, the movie buff. (Did you know he can recite every=
+ single line from The Princess Bride?)=20
+
+ties =E2=80=93 because he's dared to stand up to bipartisan corruption in Wa=
+shington.
+
+ill bring back American jobs, protect our constitutional freedoms, and defen=
+d our nation.
+
+he special interests that have captured both parties. They want to take away=
+ what we treasure about this nation.=20
+
+n us right now by making an immediate and urgent contribution to show your s=
+upport.
+
+ve Ted Cruz is the man to lead that fight now. And I am prepared to give eve=
+rything I have to ensure we defeat Donald Trump and Hillary Clinton.=20
+
+ help.=20
+
+en they get out of school. It's about whether we want to turn our backs on r=
+eligious liberty and our second amendment. It's about whether we want to liv=
+e in a nation that secures its borders and calls Islamic terrorism by its na=
+me.=20
+
+ nation, and the great country we must rebuild together.=20
+
+ent contribution right now. Please join us.
+

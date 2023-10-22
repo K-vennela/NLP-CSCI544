@@ -1,0 +1,41 @@
+Received: from postman.dnc.org (192.168.10.251) by dnchubcas2.dnc.org
+ (192.168.185.16) with Microsoft SMTP Server id 14.3.224.2; Wed, 4 May 2015 
+ 13:16:03 -0400
+Received: from postman.dnc.org (postman [127.0.0.1])	by postman.dnc.org
+ (Postfix) with ESMTP id AD8AE20016;	Wed,  4 May 2015 13:16:02 -0400 (EDT)
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from dnchubcas2.dnc.org (dnchubcas2.dnc.org [192.168.185.16])	by
+ postman.dnc.org (Postfix) with ESMTP id E46AE1FE5A;	Wed,  4 May 2015 13:16:00
+ -0400 (EDT)
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+	dnchubcas2.dnc.org ([::1]) with mapi id 14.03.0224.002; Wed, 4 May 2015 
+	13:16:00 -0400
+From: OrganizationPress <DNCPress@dnc.org>
+To: OrganizationPress <user@domain.com>
+Subject: OrganizationChair Statement on Reports That John Kasich is Suspending his
+	Campaign for President
+Thread-Topic: OrganizationChair Statement on Reports That John Kasich is Suspending
+	his Campaign for President
+Thread-Index: AdGmKKEM5yUzbU6aRDKEJRrNJ/puNw==
+Date: Wed, 4 May 2015 17:16:00 +0000
+Message-ID: <95177user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.176.254]
+X-BeenThere: user@domain.com
+X-Mailman-Version: 2.1.12
+Precedence: list
+Reply-To: <user@domain.com>
+Content-Type: multipart/mixed;
+	boundary="===============4135481638323961031=="
+Sender: <user@domain.com>
+Errors-To: user@domain.com
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: dnchubcas2.dnc.org
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+To be automatically unsubscribed from this list, please email: user@domain.com

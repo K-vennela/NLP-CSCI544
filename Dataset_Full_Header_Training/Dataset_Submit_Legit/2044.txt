@@ -1,0 +1,155 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 4 May
+ 2015 18:10:59 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 4 May 2015 
+ 18:10:47 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 897162389;
+ Wed, 04 May 2015 17:10:36 -0500
+X-Note-AR-ScanTimeLocal: 5/4/2016 5:10:33 PM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: Too many policies to list
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @mail.house.gov ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->United States->
+X-Note-Sending-IP: 143.228.181.85
+X-Note-Reverse-DNS: s-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from s-domain.com ([143.228.181.85] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 136830538;
+ Wed, 04 May 2015 17:10:33 -0500
+Received: from HEOC-domain.com (heoc-domain.com
+ [143.228.151.97])	by s-domain.com  with ESMTP id u44M8KWC021653	(using
+ TLSv1 with cipher ECDHE-RSA-AES256-SHA (256 bits) verified FAIL);	Wed, 4 May
+ 2015 18:08:20 -0400
+X-DKIM: OpenDKIM Filter v2.4.3 s-domain.com u44M8KWC021653
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mail.house.gov;
+	s=November2012-msg-mhg; t=1462399749;
+	bh=ZFjbEUndIAb0dWHhmdmPtmHTyO5W1neJodbumDe9tIU=;
+	h=From: Democratic Leader <Democratic.Leader@mail.house.gov>
+	b=nx+aEec5U6uZUndP1hTFMmhIlKRBnysrh6Ux1ZYIA0e43Lb7Z5Qfx0Sun4b0BUx/E
+	 g+thTIykasq7KHHAKQV1QcnGSU+JLa9h0gM3cBOUZADoZbbgtZNMTxEk8//FPDSdzy
+	 JyfwObyjuWHZ4PrvxEqv/UH4mQdXUgIkE9ZoGMug=
+Received: from HEOC-domain.com ([fe80::cdcd:f28:6aa5:7d5a]) by
+ HEOC-domain.com ([::1]) with mapi id 14.03.0279.002; Wed, 4 May 2015 
+ 18:08:14 -0400
+From: Democratic Leader <Democratic.Leader@mail.house.gov>
+Subject: PELOSI -- Statement on Conclusion of Bipartisan Delegation domain.com to
+ Peru
+Thread-Topic: PELOSI -- Statement on Conclusion of Bipartisan Delegation
+ domain.com to Peru
+Thread-Index: AdGmUVxh31wuI9TBRti7bd+HCyUZnQ==
+Date: Wed, 4 May 2015 22:08:13 +0000
+Message-ID: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+x-originating-ip: [143.231.232.152]
+Content-Type: multipart/related;
+	boundary="_005_CA58D7DE03EE0A4D8D0DF860799FAACC0CD7CF06HEOCHRM01USHous_";
+	type="multipart/alternative"
+To: Undisclosed recipients:;
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+[cid:image001.jpg@01D00FCE.229082C0]<<<link>>>
+
+    May 4, 2015 
+
+Contact: Drew Hammill/Evangeline George
+
+202-226-7616
+
+Pelosi Statement on Conclusion of Bipartisan Delegation domain.com to Peru
+
+[cid:image002.jpg@01D1A62F.59F22450]
+Democratic Leader Nancy Pelosi and Members of the bipartisan Congressional =
+Delegation meeting with
+Prime Minister Pedro Cateriano Bellido and domain.com Members.
+
+Lima, Peru =96 Democratic Leader Nancy Pelosi today released the following =
+statement after the bipartisan delegation to Peru concluded meetings with P=
+eruvian Prime Minister Pedro Cateriano Bellido and domain.com Members; Fulbrig=
+ht scholarship alumni; and environmental and labor leaders.  The bipartisan=
+ delegation arrived today in Santiago, Chile.
+
+"The highlight of our meeting was at the historic Presidential Palace, wher=
+e the delegation met with Prime Minister Pedro Cateriano Bellido, Secretary=
+ of the Economy/Economy Minister Alonso Seguro, and Minister of Trade and T=
+ourism Magali Silva.  We spoke about the importance of robust counter-narco=
+tics cooperation and other bilateral security initiatives.  As we discussed=
+ implementation of the U.S.-Peru Free Trade Agreement, we underscored the s=
+ignificance of smart economic growth that ensures the protection of workers=
+, of the environment, and of indigenous people.
+
+"While in Lima, we also met with labor and environmental leaders about the =
+impact of the U.S.-Peru Free Trade Agreement.  We discussed the growing soc=
+ial demand for conservation in Peru and challenges that continue as Peru de=
+velops its economy and environmental protection infrastructure.  We heard m=
+ore about the struggle to implement freedom of association and improved wor=
+king conditions and the need to further develop Peru's capacity to enforce =
+its labor laws.  We had a very informative session with representatives fro=
+m the American Chamber of Commerce regarding the potential benefits and cha=
+llenges associated with Trans-Pacific Partnership.
+
+"The delegation arrived in Peru on the 60th anniversary of the Fulbright Sc=
+holarship Program in Peru.  We were pleased to meet distinguished Fulbright=
+ alumni, who represent the public, private, education, environmental and ar=
+ts sectors.  We are proud of their accomplishments and commitment to better=
+ing economic, cultural and bilateral ties between the United States and Per=
+u, as was Senator Fulbright's intention.
+
+"We thank Ambassador Brian Nichols and U.S. Embassy Lima team for their cou=
+ntry team briefings, guidance and support during our domain.com."
+
+# # #
+
+________________________________
+Press Release Link:
+<<link>>
+domain.com<<<link>>
+=3D27184&id=3D0o02k0tcpzlu6ejxx98kx2m9xt1wa&id2=3Dig3p7nh2dqu39rmj7s99ukn2q=
+jjbw&subscriber_id=3Dbaxcmkznpiaunskdcbzdudpovqtyblh&delivery_id=3Dcbsgtjub=
+xlceyjuegwyqomgtujbfbmp&tid=3D3.ajA.CBijRQ.Ck7A.T5fo..ARq9jw.b..l.A3-W.a.UR=
+xh7A.URxh7A.VOC4Gg> =96 Twitter<<<link>>
+=3DLink&ssid=3D27184&id=3D0o02k0tcpzlu6ejxx98kx2m9xt1wa&id2=3D3fgjr464dpiqd=
+27ofrqp17w526f1d&subscriber_id=3Dbaxcmkznpiaunskdcbzdudpovqtyblh&delivery_i=
+d=3Dcbsgtjubxlceyjuegwyqomgtujbfbmp&tid=3D3.ajA.CBijRQ.Ck7A.T5fo..ARq9jw.b.=
+.l.A3-W.a.URxh7A.URxh7A.VOC4Gg> =96 YouTube<<<link>>
+=3Dulink&fn=3DLink&ssid=3D27184&id=3D0o02k0tcpzlu6ejxx98kx2m9xt1wa&id2=3D3i=
+q1d25awniptoql0phq0ayxiyq8a&subscriber_id=3Dbaxcmkznpiaunskdcbzdudpovqtyblh=
+&delivery_id=3Dcbsgtjubxlceyjuegwyqomgtujbfbmp&tid=3D3.ajA.CBijRQ.Ck7A.T5fo=
+..ARq9jw.b..l.A3-W.a.URxh7A.URxh7A.VOC4Gg> =96 Flickr<<<link>>
+/public/?q=3Dulink&fn=3DLink&ssid=3D27184&id=3D0o02k0tcpzlu6ejxx98kx2m9xt1w=
+a&id2=3Djgqqrc9j8ruqfvzuezaxlw3rujzvq&subscriber_id=3Dbaxcmkznpiaunskdcbzdu=
+dpovqtyblh&delivery_id=3Dcbsgtjubxlceyjuegwyqomgtujbfbmp&tid=3D3.ajA.CBijRQ=
+.Ck7A.T5fo..ARq9jw.b..l.A3-W.a.URxh7A.URxh7A.VOC4Gg> =96 Facebook<<<link>>
+domain.com/public/?q=3Dulink&fn=3DLink&ssid=3D27184&id=3D0o02k0tcpzlu6ejx=
+x98kx2m9xt1wa&id2=3domain.com&subscriber_id=3Dbaxcmkznp=
+iaunskdcbzdudpovqtyblh&delivery_id=3Dcbsgtjubxlceyjuegwyqomgtujbfbmp&tid=3D=
+3.ajA.CBijRQ.Ck7A.T5fo..ARq9jw.b..l.A3-W.a.URxh7A.URxh7A.VOC4Gg> =96 The Ga=
+vel<<<link>>
+2k0tcpzlu6ejxx98kx2m9xt1wa&id2=3Dfmonicjc2fq1aiu6gebec0bui3gm7&subscriber_i=
+d=3Dbaxcmkznpiaunskdcbzdudpovqtyblh&delivery_id=3Dcbsgtjubxlceyjuegwyqomgtu=
+jbfbmp&tid=3D3.ajA.CBijRQ.Ck7A.T5fo..ARq9jw.b..l.A3-W.a.URxh7A.URxh7A.VOC4G=
+g>
+

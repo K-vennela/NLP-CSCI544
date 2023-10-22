@@ -1,0 +1,100 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 17 May
+ 2015 19:59:36 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 17 May 2015 
+ 19:59:33 -0400
+Received: from [10.87.0.110] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 920764017
+ for user@domain.com; Tue, 17 May 2015 18:59:43 -0500
+X-Note-AR-ScanTimeLocal: 5/17/2016 6:59:35 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:209.85.213.194 DOM:gmail.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-230/SG:5 5/17/2016 6:59:11 PM
+X-GBUdb-Analysis: 0, 209.85.213.194, Ugly c=0.690004 p=-0.715698 Source Normal
+X-Signature-Violations: 0-0-0-6461-c
+X-Note-419: 0 ms. Fail:1 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:1-1324/SG:1 5/17/2016 6:59:32 PM
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 209.85.213.194
+X-Note-Reverse-DNS: mail-ig0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G407 G675 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from [209.85.213.194] (HELO mail-ig0-domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 142393181
+ for user@domain.com; Tue, 17 May 2015 18:59:35 -0500
+Received: by mail-ig0-domain.com with SMTP id rc4so3229007igc.0
+        for <user@domain.com>; Tue, 17 May 2015 16:59:35 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:From: Patrick Hallahan <patrick.w.hallahan@gmail.com>
+        bh=YM5uGOtdSGqkv7DMp6yRGR5wTPgBvZrwktazV60FOpI=;
+        b=ovPJOtoU+ov+CW7sTqztDE+kofjXxWJK+uzBYPY8EsireJ626kg58PkGCyiCEbDSI2
+         90qujbkLs8wawi5QwjwAuOb2W7g9v7zLoBaxARs9988oHlRF0AuWu9ODIVXoYsyeQ6Hr
+         K/pPP2p5UvpxbxV5HDTARdL2y1/LFhuEgHtq7vtZI5gvF55iso5GHhiEzymcxJFarSEm
+         P4cD5cOWSZ6TBL36DfW7wsQ4Xbtoi1fMlUfLNYoJYUesvVAUPopPcRO4Lwk6Wx3KGxwn
+         LfSb8tq+FLudAbdrNyDuyWVFNWYF2mShWEkqYLnCxOLwDvxNPrSQYGWa/KKmFx8b9pWe
+         GxLA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:date:message-id:subject:From: Patrick Hallahan <patrick.w.hallahan@gmail.com>
+        bh=YM5uGOtdSGqkv7DMp6yRGR5wTPgBvZrwktazV60FOpI=;
+        b=MTVHx4hChzm8cC6EQYKjInpCVQYfplJ9g3mKLAs7PjjlS6UAaKh5KPNbDoM/Qjn/WO
+         bHXJ0SVjRGRjL0zt+qiBlYcAL1TqTaMcTbkN+PWdDp+oPzIZ10ECOd1oZsmpCnOKd62Z
+         8E0qwL+320iBgdBAc4gEunYqzOLt52e9z3sZzbkbWtpl0Xg2vLwZurED8yz48pa4IGBw
+         4NNzbbs3z9dXwt9ojAzHB4+BxputNiZ9QebMuaXUdHb3ycCyl4ZoiUtrjK316AIvkiN0
+         Ufr/H70CZ3mp7i3kpEQh2r0Ok/rHWSNR5m3vTOx3eJ8Zj9dC16hAlxeKwODEv0n8roLK
+         wwIA==
+X-Gm-Message-State: AOPr4FXQtAQvkPLQA0M87c8jtg/fTABonbySf2l9eJgugsiDcgvIWD56l24CDf6/Irpjpcd1uCvhFvnrbQXBOg==
+X-Received: by 10.50.102.207 with SMTP id fq15mr16476006igb.94.1463529575121;
+ Tue, 17 May 2015 16:59:35 -0700 (PDT)
+Received: by 10.107.15.209 with HTTP; Tue, 17 May 2015 16:59:35 -0700 (PDT)
+Date: Tue, 17 May 2015 19:59:35 -0400
+Message-ID: <CAMAfvhFg_PVybO+user@domain.com>
+Subject: special guest lunch
+From: Patrick Hallahan <patrick.w.hallahan@gmail.com>
+To: "User" <user@domain.com>,
+	"user@domain.com" <user@domain.com>, "Justin
+ Brennan" <user@domain.com>, domain.com Desai
+	<user@domain.com>, "David W. Jones" <user@domain.com>,
+	Roshan Patel <rpatel@50-domain.com>, Noam Lee <user@domain.com>, Adam Goers
+	<user@domain.com>, Turrentine Dan <user@domain.com>, Ami Copeland
+	<user@domain.com>, "Brown, Sam" <user@domain.com>,
+	Todd Schulte <user@domain.com>, Dennis O'Brien <user@domain.com>, Jeff
+ Stoltz <user@domain.com>, Jason Somensatto
+	<user@domain.com>, "Kaplan, Jordan" <user@domain.com>, "Ian
+ Alberg Forward" <user@domain.com>, Michael Monroe
+	<user@domain.com>, Michael Halle <user@domain.com>, Tyler Anderson
+	<user@domain.com>, Brian Zuzenak <user@domain.com>, "Andrew
+ Bleeker" <user@domain.com>, "Balderston, Kris"
+	<user@domain.com>, Dan Kalik <user@domain.com>, "Timothy
+ Del Monico" <user@domain.com>, Gregory Mecher <user@domain.com>,
+	"Mantz, Jonathan" <user@domain.com>, Bradley Beychok <user@domain.com>,
+	"Smith, Andrew M." <user@domain.com>
+Content-Type: multipart/alternative; boundary="bcaec5454598718c870533128802"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+With the huge success of our Mark Weiner guest domain.com, we are following up
+with a West Coast visitor (and others) this Friday.  Our good friend, Mrs.
+Laura Hartigan is planning to be in town and has organized a group of
+Democratic ladies to be seated next to our usual table.  Let me know if you
+can make it - we definitely want to have a good crowd so as not to be shown
+up by Laura's group.  It should be a good show.  We will start at 1230 this
+week and will be at the Palm as usual.
+
+Let me know if you will be there.

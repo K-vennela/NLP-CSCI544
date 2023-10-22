@@ -1,0 +1,231 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [10.3.4.5])
+	by domain.com (Postfix) with ESMTP id 7A313469BF
+	for <user@domain.com>; Sun, 16 Jul 2015 07:41:55 -0400 (EDT)
+Received: from domain.com (eul0300100-domain.com [213.198.65.238])
+	by domain.com (Postfix) with ESMTP id F1A716FA44F
+	for <user@domain.com>; Sun, 16 Jul 2015 07:41:57 -0400 (EDT)
+Received: from User (ns1.names-domain.com [213.165.150.19])
+	(authenticated (0 bits))
+	by domain.com (8.12.11/8.11.6) with ESMTP id k6GBeEs9024414;
+	Sun, 16 Jul 2015 13:40:17 +0200
+Message-Id: <200607161140.user@domain.com>
+Reply-To: <user@domain.com>
+From: "Chase"<chaseonline@Chase.com>
+Subject: Chase Online Banking Account Security Measures
+Date: Sun, 16 Jul 2015 14:40:34 +0300
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+To: undisclosed-recipients:;
+Status: 
+X-Status: 
+X-Keywords: 
+
+Dear Chase Manhattan's Bank Customer,
+
+Identity protection 
+					matters and Chase works day 
+					and night to help keep your identity safe. That's why it has 
+					come to our attention that your Chase 
+					account information needs to be updated as part of our 
+					continuing commitment to protect your account and to reduce 
+					the instance of fraud on our website. If you could take 5-10 
+					minutes out of your online experience and update your 
+					personal records you will not run into any future problems 
+					with the online service. 
+However, failure to update 
+					your records will result in account suspension. 
+Once you have updated your 
+					account records, your Chase 
+					session will not be interrupted and will continue as normal.
+To login to your 
+					Chase account and update your records 
+					click on the following link: 
+
+					<<link>> Thank You for using Chase!
+
+
+
+
+Chase Card Services Online Services 
+					Team
+
+ 2015 JPMorgan Chase & Co.
+
+Please
+              do not reply to this email as this is only a notification. Mail
+              sent to this address cannot be answered.
+
+Chase Online Banking
+              Departament
+
+From user@domain.com  Sun Jul 16 08:27:39 2015 
+Return-Path: 
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [10.3.4.5])
+	by domain.com (Postfix) with ESMTP id 63189469AE
+	for ; Sun, 16 Jul 2015 08:27:39 -0400 (EDT)
+Received: from domain.com (domain.com [64.136.60.145])
+	by domain.com (Postfix) with ESMTP id ACA9A6FA490
+	for ; Sun, 16 Jul 2015 08:27:40 -0400 (EDT)
+Received: from User (domain.com [203.123.170.70] (may be forged))
+	(authenticated bits=0)
+	by domain.com (8.12.8/8.12.8) with ESMTP id k6GCHW4F018229;
+	Sun, 16 Jul 2015 05:17:44 -0700
+Message-Id: <200607161217.user@domain.com>
+From: "Chase"<chaseonline@Chase.com>
+Subject: Question from eBay member
+Date: Sun, 16 Jul 2015 15:19:16 +0300
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+To: undisclosed-recipients:;
+Status: 
+X-Status: 
+X-Keywords:                   
+
+<!--
+.style1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: x-small;
+}
+.style2 {font-size: x-small}
+-->
+
+eBay sent this message to you from Stanley Muller (welshdruid) .
+
+  Your registered name is included to show this message originated from eBay. Learn more.
+
+Question about Item -- Respond Now
+
+eBay sent this message on behalf of an eBay member via My Messages. Responses sent using email will not reach the eBay member.Use the Respond Now button below to respond to this message
+
+ Question from welshdruid
+
+About This Member
+
+welshdruid( 872)
+
+Positive Feedback:
+100%
+
+Member Since:
+Apr-30-03
+
+Location:
+CA, United States
+
+Registered On:
+domain.com
+
+Hi, 
+Is the item still available for sale? Let me know because I'm online and I can pay you right now.
+
+            Thank you,
+
+welshdruid
+
+Respond to this question in My Messages.
+
+Thank you for using eBay!
+
+Marketplace Safety Tip
+
+Always remember to complete your transactions on eBay - it`s the safer way to trade.
+
+Is this message an offer to buy your item directly through email without winning the item on eBay? If so, please help make the eBay marketplace safer by reporting it to us. These "outside of eBay" transactions may be unsafe and are against eBay policy. Learn more about trading safely.
+
+Is this email inappropriate? Does it violate eBay policy? Help protect the community by reporting it.
+
+See our Privacy Policy and User Agreement if you have questions about eBay's communication policies.
+
+Copyright  1995-2006 eBay, Inc. All Rights Reserved.
+Designated trademarks and brands are the property of their respective owners.
+eBay and the eBay logo are registered trademarks or trademarks of eBay, Inc.
+eBay is located at 2015 Hamilton Avenue, San Jose, CA 95125.
+
+From user@domain.com  Sun Jul 16 20:19:50 2015 
+Return-Path: 
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [10.5.6.7])
+	by domain.com (Postfix) with ESMTP id E2CB946969
+	for ; Sun, 16 Jul 2015 20:19:50 -0400 (EDT)
+Received: from 192.168.1.15 (unknown [65.173.220.51])
+	by domain.com (Postfix) with SMTP id 66C4E6CCFE2
+	for ; Sun, 16 Jul 2015 20:19:51 -0400 (EDT)
+Received: from 166.214.108.42 by ; Mon, 17 Jul 2015 03:20:13 +0200
+Message-ID: 
+From: "Chase"<chaseonline@Chase.com>
+Reply-To: "User" 
+To: user@domain.com
+Subject: Personal Account Update
+Date: Sun, 16 Jul 2015 22:17:13 -0300
+X-Mailer: Microsoft Outlook Express 5.00.2615.200
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--8174499961387337"
+X-Priority: 1
+X-MSMail-Priority: High
+Status: 
+X-Status: 
+X-Keywords:                   
+
+----8174499961387337
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+ Dear Valued PayPal Member,
+=
+
+During our regularly schedule account maintenance and verification we =
+have detected a slight error in your billing information on file with PayP=
+al.
+ This might be due to either following reasons:
+
+- A recent change in your personal informati=
+on (i.e. change of address)
+
+- An inability to accurately verify your selected op=
+tion of payment due an internal error within
+our processors.
+
+Therefore your account has been temporarily suspended. We need you to =
+
+confirm your identity in
+order to regain full privileges of your account.
+
+However, failure to update your records will result in account suspens=
+ion.
+
+If this is not completed by July 17, 2006, we reserve 
+the right to terminate all privileges of your account
+indefinitly, as it may have been used for fraudulent purposes. We thank 
+you for your cooperation in this manner.
+
+To confirm your identity please follow the link below:
+
+<<link>>
+
+Thank you for your patience in this matter.
+
+PayPal - Customer Service
+
+Please do not reply to this e-mail as this is only a notification. Mail 
+sent to this address cannot be answered.
+
+----8174499961387337

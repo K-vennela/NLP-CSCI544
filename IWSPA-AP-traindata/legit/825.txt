@@ -1,0 +1,70 @@
+I wish to pick up on two of the points raised by Sarah Raper and Jonathan
+Gregory which, while not directly answering the questions posed above, need
+a clear position being taken upon by IPCC.  These two points are:
+"The presentation of a wide range of scenarios and
+sensitivities (3.1) will be a very important output of the TAR. Tom Wigley
+argues that it would be inappropriate to relegate it to an Appendix. None-
+theless it is different from the discussion and assessment of models which
+produce the basic projections of climate change and sea-level. I think both
+climate change and sea-level chapters should have separate, final, sections
+devoted specifically to showing the full range of uncertainties and the best
+estimates - an appendix to each chapter. The figures given there will be
+brought together in the summary of the TAR."
+This is a very important concern from the perspective of how Chapter 13
+(climate scenarios) is written and how WGII will look over their shoulder
+to WGI.  For many reasons which have been well-articulated elsewhere, it is
+too much to expect complete consistency from WGIII emissions, to WGI models
+and to WGII impacts - the lags in the knowledge creation and ratification
+are too great.  However, bear in mind that most GCM results used for
+climate scenario construction will be 1% per annum forcing (plus a few with
+0.5% forcing, stabilisation forcing or one or more of the new SRES
+forcings, but these latter GCM results are unlikely to feed forward into
+(much) impacts work in time).  However, for much impacts work to be
+properly assessed and interpreted by IPCC it is necessary to have used a
+range of climate scenarios spanning a range of risk.  This is difficult,
+nay impossible, without resorting to simple climate model results.  If WGI
+can Fast-track this generation of headline projections spanning a range of
+forcings and sensitivities, then this information may be made use of by
+climate scenario developers and impacts analysts.  If not, then WGI
+(Chapters 9 and 11) will be saying one thing, and all the impacts work is
+in danger of saying something else (e.g. using IS92 forcings with the SAR
+Chapter 6 simple model projections).  At worst, some careful post-hoc
+re-interpretation of WGII results may be necessary in light of WGI for the
+policymakers summary and most importantly for the Synthesis Report.
+"It is a separate question as to whether the simple climate model results
+should subsequently be used as scaling factors for regional scenario
+development in the scenario chapter."
+This is indeed a separate question and one on which Chapter 13 can and will
+'assess' the science.  Scaling of GCM results has been widely used by
+impacts/integrated assessors since CRU started using this methodology in
+the early 1990s.  Whether or not to adopt/recommend scaling methods for the
+IPCC TAR was side-stepped by the TGCIA, although it was clearly stated
+within the TGCIA that basing all impacts work on 1% p.a. forced GCMs which
+represented a narrow range of climate sensitivities, would skew impacts
+results in a particular (and not altogether desirable) direction.  Chapter
+13 will also recognise this problem and will assess the pros and cons of
+scaling based on simple models, but given the short length of Chapter 13,
+its remit now is not to convert any headline simple model results from
+Chapters 9 and 11 into scaled regional scenarios for impacts work - by
+mid-late 1999 it will be too late for that anyway.  So, different impact
+studies will now adopt different approaches, and WGII can assess the
+resulting science, but what will help the writing of Chapter 13 and WGII
+will be as clear a statement of intent (and ideally some preliminary
+results) of the sort of exercises that Sarah and Jonathan refer to,
+preferably using the new SRES emissions scenarios.
+Mike
+****************************************************************************
+Dr Mike Hulme                    
+Reader in Climatology             tel: +44 1603 593162
+Climatic Research Unit            fax: +44 1603 507784
+School of Environmental Science   email:  m.hulme@uea.ac.uk
+University of East Anglia         web site: <<link>>~mikeh/
+Norwich  NR4  7TJ                      
+****************************************************************************
+Mean temp. in Central England during 1998 is running 
+at about 1.05 deg C above the 1961-90 average
+***************************************************
+The global-mean surface air temperature anomaly estimate for the 
+first half of 1998 was about +0.60 deg C above the 1961-90 average,
+the warmest such period yet recorded
+****************************************************************************

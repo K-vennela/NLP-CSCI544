@@ -1,0 +1,50 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from [192.168.1.65] (dynamic-adsl-78-13-241-187.domain.com [78.13.241.187])
+	(using TLSv1 with cipher AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mail.hackingteam.it (Postfix) with ESMTPSA id 76142B66001;
+	Fri,  1 Apr 2015 18:03:34 +0200 (CEST)
+Subject: Agos attivita' di simulazione consulente e utente fraudolento
+From: Luca Filippi <l.filippi@hackingteam.it>
+Reply-To: user@domain.com
+To: Alessandro Lomonaco <user@domain.com>
+CC: Enrico Luzzani <user@domain.com>, 'Antonio Mazzeo'
+ <user@domain.com>
+Organization: Hacking Team
+Date: Fri, 1 Apr 2015 18:03:28 +0200
+Message-ID: <1301673808.10650.27.user@domain.com>
+X-Mailer: Evolution 2.32.2 
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2128586608_-_-"
+
+Ciao,
+
+ecco il rar da mandare a Pagliari.
+
+E' solo da inoltrare, la password e' la stessa della volta scorsa, cioe' gh94/mep5
+
+Ciao,
+
+        l
+
+-- 
+Luca Filippi
+Senior Security Engineer
+
+
+
+HT srl 
+Via Moscova, 13 I-20121 Milan, Italy 
+WWW.HACKINGTEAM.IT 
+Phone +39 02 29060603 
+Fax. +39 02 63118946 
+
+
+
+This message is a PRIVATE communication. This message contains privileged and confidential information intended only for the use of the addressee(s).
+If you are not the intended recipient, you are hereby notified that any dissemination, disclosure, copying, distribution or use of the information contained in this message is strictly prohibited. If you received this email in error or without authorization, please notify the sender of the delivery error by replying to this message, and then delete it from your system.
+

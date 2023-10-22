@@ -1,0 +1,46 @@
+<x-flowed>
+This is an excellent idea, Mike, IN PRINCIPLE at least.  In practise, 
+however, it raises some interesting results (as I have found when 
+attempting this myself) that may be difficult to avoid getting bogged down 
+with discussing.
+The attached .pdf figure shows an example of what I have produced (NB. 
+please don't circulate this further, as it is from work that is currently 
+being finished off - however, I'm happy to use it here to illustrate my point).
+I took 7 reconstructions and re-calibrated them over a common period and 
+against an observed target series (in this case, land-only, Apr-Sep, >20N - 
+BUT I GET SIMILAR RESULTS WITH OTHER CHOICES, and this re-calibration stage 
+is not critical).  You will have seen figures similar to this in stuff 
+Keith and I have published.  See the coloured lines in the attached figure.
+In this example I then simply took an unweighted average of the calibrated 
+series, but the weighted average obtained via an EOF approach can give 
+similar results.  The average is shown by the thin black line (I've ignored 
+the potential problems of series covering different periods).  This was all 
+done with raw, unsmoothed data, even though 30-yr smoothed curves are 
+plotted in the figure.
+The thick black line is what I get when I re-calibrate the average record 
+against my target observed series.  THIS IS THE IMPORTANT BIT.  The 
+*re-calibrated* mean of the reconstructions is nowhere near the mean of the 
+reconstructions.  It has enhanced variability, because averaging the 
+reconstructions results in a redder time series (there is less common 
+variance between the reconstructions at the higher frequencies compared 
+with the lower frequencies, so the former averages out to leave a smoother 
+curve) and the re-calibration is then more of a case of fitting a trend 
+(over my calibration period 1881-1960) to the observed trend.  This results 
+in enhanced variability, but also enhanced uncertainty (not shown here) due 
+to fewer effective degrees of freedom during calibration.
+Obviously there are questions about observed target series, which series to 
+include/exclude etc., but the same issue will arise regardless: the 
+analysis will not likely lie near to the middle of the cloud of published 
+series and explaining the reasons behind this etc. will obscure the message 
+of a short EOS piece.
+It is, of course, interesting - not least for the comparison with 
+borehole-based estimates - but that is for a separate paper, I think.
+My suggestion would be to stick with one of these options:
+(i) a single example reconstruction;
+(ii) a plot of a cloud of reconstructions;
+(iii) a plot of the "envelope" containing the cloud of reconstructions 
+(perhaps also the envelope would encompass their uncertainty estimates), 
+but without showing the individual reconstruction best guesses.
+How many votes for each?
+Cheers
+Tim

@@ -1,0 +1,59 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.4.9])
+	by domain.com (Postfix) with ESMTP id CCB3E46943
+	for <user@domain.com>; Sun, 27 May 2015 11:48:07 -0400 (EDT)
+X-Greylist: delayed 1177 seconds by postgrey-1.27 at domain.com; Sun, 27 May 2015 11:48:07 EDT
+Received: from steuber.us (www.steuber.us [72.32.70.207])
+	by domain.com (Postfix) with ESMTP id D29B4131FA46
+	for <user@domain.com>; Sun, 27 May 2015 11:48:07 -0400 (EDT)
+Received: from User [24.249.61.187] by steuber.us with ESMTP
+  (SMTPD32-8.05) id AFF82A200C6; Sun, 27 May 2015 11:12:56 -0400
+From: "BancoPoste"<accounts@poste.it>
+Subject: Il tuo conto di postebanking sara chiuso oggi
+Date: Sun, 27 May 2015 10:11:53 -0500
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <200705271113841.user@domain.com>
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1320
+
+
+
+
+Online Banking Profile Update Required.
+
+ Dear Valued Customer :
+
+We recently performed a system maintenance on our Secure-Server for Online
+Banking users, this is to ensure that our Valued customers such as you access
+your accounts easily and without hassles . This Upgrade was designed in order to
+provide a better and risk-free Online Banking session, during an attempt to
+upgrade your account into our newly-secured secured-server we were unable to
+update your account therefore leading us to send you this e-mail letter which
+was sent directly from our Secured Updating Server. You are required to click on
+the " Update Now " link stated below in order to update your account ,
+clicking on the " Update Now " will take you to our external secured server (
+Fully Secured ) where you will be required to fill in necessary information in
+order to complete your update process . Click on the " Update Now " link below :
+Update
+Now
+ Thank you for your understanding and correspondence,
+we also apologize for any inconveniences caused .
+
+Online Banking Accounts Department -
+ Bank Of
+America .
+Bank of America, Member FDIC.
+
+ 2015 Bank of America Corporation. All Rights Reserved.

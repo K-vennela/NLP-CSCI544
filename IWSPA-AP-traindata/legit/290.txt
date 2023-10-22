@@ -1,0 +1,3 @@
+Hi Pairat,
+If you raise a ticket through HT support portal (<<link>>) you will get your answers alot quicker.
+Open cmd.exe on the backend machine and type the command "rcs-db-config -d localhost -P 443 -R admin" and enter the new password.

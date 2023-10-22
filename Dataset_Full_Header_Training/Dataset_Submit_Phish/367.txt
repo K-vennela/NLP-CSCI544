@@ -1,0 +1,135 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.4.9])
+	by domain.com (Postfix) with ESMTP id 7A5CA468F2
+	for <user@domain.com>; Sat,  7 Jul 2015 16:04:39 -0400 (EDT)
+Received: from domain.com (domain.com [192.168.6.4])
+	by domain.com (Postfix) with ESMTP id 97EF5131FCAC
+	for <user@domain.com>; Sat,  7 Jul 2015 16:04:39 -0400 (EDT)
+Received: from 172.16.4.100 (unknown [63.212.164.163])
+	by domain.com (Postfix) with SMTP id 885146FA1C4
+	for <user@domain.com>; Sat,  7 Jul 2015 16:04:39 -0400 (EDT)
+Received: from 100.224.152.61 by ; Sat, 07 Jul 2015 21:56:35 +0100
+Message-ID: <user@domain.com>
+From: "suspension@ebay.com" <suspension@ebay.com>
+Reply-To: "User" <user@domain.com>
+To: user@domain.com
+Subject: FPA NOTICE: eBay Registration Suspension - User Agreement - Abusing eBay - user@domain.com
+Date: Sat, 07 Jul 2015 14:58:35 -0600
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--969815207606259"
+X-IP: 128.249.78.96
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1489
+
+FPA NOTICE: eBay Registration Suspension - User Agreement - Abusing=
+ eBay - user@domain.com
+
+#yiv1410637860 =3D09=3D09=3D09.SectionTitle {font-size:small;font-family:a=
+rial, sans-serif;font-weight:bold;}
+#yiv1410637860 .SmallTitle {font-size:x-small;font-family:arial, sans-seri=
+f;font-weight:bold;}
+#yiv1410637860 .Section  {font-size:x-small;font-family:arial, sans-serif;=
+}
+#yiv1410637860 .DetailTable,#yiv1410637860  .DetailTable th {font-size:10 =
+pt;font-family:arial, sans-serif;font-weight:normal;}
+#yiv1410637860 .Title {font-size:medium;font-family:verdana, arial, sans-s=
+erif;}
+#yiv1410637860 .BodyFont {font-size:10 pt;font-family:arial, sans-serif;fo=
+nt-weight:normal;}
+#yiv1410637860 .BodyFontStrong {font-size:10 pt;font-family:arial, sans-se=
+rif;font-weight:bold;}
+#yiv1410637860 .Small  {font-size:xx-small;font-family:arial, sans-serif;f=
+ont-weight:normal;margin-top:8 px;margin-bottom:6 px;}
+#yiv1410637860 .Separator {COLOR:#CCCCCC;height:1px;}
+#yiv1410637860 .HighlightedSeparator {COLOR:#9999cc;height:1px;}
+#yiv1410637860 .FooterSeparator {COLOR:#CCCCCC;height:1px;}
+#yiv1410637860 .Footer,#yiv1410637860  .Footer p {font-size:xx-small;font-=
+family:arial, sans-serif;color:#666666;margin-top:2 px;margin-bottom:8 px;=
+}
+#yiv1410637860 .SmallPara,#yiv1410637860  .SmallParap {margin-top:8 px;mar=
+gin-bottom:6 px;}
+
+eBay se=
+nt this message to (user@domain.com).
+Your registered email is incl=
+uded to show this message originated from eBa=
+y. =
+Learn more.
+
+FPA NOTICE: eBay Registration =
+Suspension - User Agreement - Abusing eBay - user@domain.com
+
+=
+
+Dear (user@domain.com),
+
+We regret to inform you that your eBay account has been suspended du=
+e to concerns we have for the safety and integrity of the eBay community. =
+
+"Abusing eBay" of =
+the eBay User Agreement states, in part:
+
+"...we may domain.com, =
+suspend, or terminate our service and user accounts, domain.com access to ou=
+r website, remove hosted content, and take technical and legal steps to ke=
+ep users off the Site if we think that they are creating problems, possibl=
+e legal liabilities, or acting inconsistently with the letter or domain.com of=
+ our policies." 
+
+An account suspension in these circumstances is covered under the section =
+of the eBay User Agreement headed "Abusing eBay", which you can remove by updating your account informat=
+ions using the following link:
+
+<<link>>
+ebay.com/ws/eBayISAPI.dll?SignIn
+
+Due to the suspension of this account, please be advised you are prohibite=
+d from using eBay in any way. This inc=
+ludes the registering of a new account.
+
+Please note that any se=
+ller fees due to eBay will immediately=
+ become due and payable. eBay will cha=
+rge any amounts you have not previously disputed to the billing method cur=
+rently on file.
+
+Regards,
+
+Safeharbor Department
+eBay, Inc.<=
+/font>
+
+Learn h=
+ow you can protect yourself from spoof (fake) emails at: 
+<<link>>
+torial
+
+This administrative email was sent to user@domain.com=
+ from eBay. Your account is regis=
+tered on www.ebay.com. As outlined in ou=
+r User Agreement, eBay will periodica=
+lly send you information about site changes and enhancements. If you would=
+ like to receive this email in text format, change your notification preferences.=
+
+
+
+See our Privacy Policy and User Agreement if you have questions a=
+bout eBay's communication policie=
+s. 
+Privacy Policy: <<link>>
+
+User Agreement: <<link>>
+Copyright =A9 2006-2007 eBay, In=
+c. All Rights Reserved.
+Designated trademarks and brands are the proper=
+ty of their respective owners.
+eBay and the eBay logo are registered trademarks or trademarks of eBay, Inc.
+eBay=
+ is located at 2145 Hamilton Avenue, =
+San Jose, CA 95125.
+

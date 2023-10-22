@@ -1,0 +1,161 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Mon, 9 May
+ 2015 12:42:50 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Mon, 9 May 2015 
+ 12:42:47 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 904559749
+ for user@domain.com; Mon, 09 May 2015 11:42:53 -0500
+X-Note-AR-ScanTimeLocal: 5/9/2016 11:42:47 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:198.2.131.228 DOM:domain.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 100
+X-GBUdb-Analysis: 0, 198.2.131.228, Ugly c=0.226425 p=0.111111 Source Normal
+X-Signature-Violations: 100-5953858-1788-1818-m
+	100-5946975-1902-1921-m
+	100-7605423-5403-5443-m
+	100-5945063-5550-5575-m
+	100-5953858-0-28087-f
+X-Note-419: 46.8926 ms. Fail:1 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:1-1324/SG:1 5/9/2016 11:42:39 AM
+X-Warn: BOUNCETRACKER Bounce User Tracking Found
+X-Warn: OPTOUT
+X-Warn: BULKMAILER
+X-Note: Spam Tests Failed: BOUNCETRACKER, OPTOUT, BULKMAILER
+X-Country-Path: LOCAL->United States->
+X-Note-Sending-IP: 198.2.131.228
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G281 G286 G340 G374 G376 G580 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from domain.com ([198.2.131.228] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 137542413
+ for user@domain.com; Mon, 09 May 2015 11:42:47 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=domain.com;
+ h=Subject:From: =?utf-8?Q?Team=20TinyGrocery?= <hi@tinygrocery.com>
+ bh=0UMK3CvJY8bdE4wgy7FHQiz0scw=;
+ b=OHBm1m+f4Ux1bsp/uXVl6QphOV9BCcIkNdINnnd1o2U/qx51htmLLg8zZ06s4srS43PCTRpwznha
+   BQTCVn+G0CnWgdaEgwA+NdhMRZcLFtdg0P89e6b7brDaqUJy302nsoimiubGTioF/+HIvDlWXfJn
+   rxML8aS/9sRfKO61QaI=
+Received: from (127.0.0.1) by domain.com id h62v0e1ohncn for
+ <user@domain.com>; Mon, 9 May 2015 16:42:45 +0000 (envelope-from
+ <user@domain.com>)
+Subject: =?utf-8?Q?Delicious=20Dishes=20to=20Make=20Your=20Day=21?=
+From: =?utf-8?Q?Team=20TinyGrocery?= <hi@tinygrocery.com>
+Reply-To: =?utf-8?Q?Team=20TinyGrocery?= <user@domain.com>
+To: =?utf-8?Q?JORDAN=20D?= <user@domain.com>
+Date: Mon, 9 May 2015 16:42:45 +0000
+Message-ID: <93985user@domain.com>
+X-Mailer: MailChimp Mailer - **CIDcb93ef6991a08619ba59**
+X-Campaign: mailchimp93985cbf1db4f6214c6ceb1cc.cb93ef6991
+X-campaignid: mailchimp93985cbf1db4f6214c6ceb1cc.cb93ef6991
+X-Report-Abuse: Please report abuse for this campaign here: <<link>>
+X-MC-User: 93985cbf1db4f6214c6ceb1cc
+X-Feedback-ID: 49682913:49682913.459609:us12:mc
+List-ID: 93985cbf1db4f6214c6ceb1ccmc list <93985cbf1db4f6214c6ceb1cc.55969.list-domain.com>
+X-Accounttype: ff
+List-Unsubscribe: <mailto:user@domain.com?subject=unsubscribe>, <<<link>>>
+Sender: Team TinyGrocery <user@domain.com>
+x-mcda: FALSE
+Content-Type: multipart/alternative;
+	boundary="_----------=_MCPart_1375669785"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+TinyGrocery - pleasing taste buds since 2015!
+
+View this email in your browser (<<link>>
+985cbf1db4f6214c6ceb1cc&id=3Dcb93ef6991&e=3Da08619ba59)
+
+Eat Happy!
+Happy Monday Funday=2C DC!
+
+So much great food=2C so little time to tell you about it...
+
+domain.com... that's kind of the whole point of TinyGrocery=2C right? You're sho=
+rt on time=2C we provide awesome food where you live=2C work or play.
+
+This week we've got options for every palate=2C including a new "SquareMea=
+l" lunch box=2C  two new salad selections and a bunch of our tried and tru=
+e delectables for your dining pleasure.
+
+Swing down to your market or TinyGrocery machine to grab your favorites be=
+fore we sell out!
+
+Love and Happy Eating=2C
+-Team Tiny
+This Week's Deliciousness!
+
+NEW SquareMeal - mojo pork w/ quinoa=2C papas aplastadas & lemon slaw
+
+NEW - seasonal side salad w/ toasted walnuts=2C local cherry tomato and ch=
+oice of herby spring vinaigrette OR creamy cider dressing
+
+the buffalo mac n' cheese
+(swoon)
+
+ham & cheddar panini w/ herby spread
+
+turkey sausage and egg breakfast hash with frank's red hot
+
+the "billy goat" trail mix
+- chipotle honey chicken wrap w/ avocado crema
++
+a rotating selection of goodness from our local partners!
+note: not all products available at all TinyGrocery locations
+In case you missed it=2C here is the sweet timelapse (<<link>>
+s12.list-domain.com/track/click?u=3D93985cbf1db4f6214c6ceb1cc&id=3D03552e=
+73d5&e=3Da08619ba59) of one of our new Murals at TasteLab!
+
+Don't forget to give us a follow/holler on the social media machines to ke=
+ep up with all the happenings and see LOTS of pretty food pics!
+twitter - @tinygrocery (<<link>>
+ck?u=3D93985cbf1db4f6214c6ceb1cc&id=3Dec6e131574&e=3Da08619ba59)
+instagram - @tiny.grocery (<<link>>
+click?u=3D93985cbf1db4f6214c6ceb1cc&id=3De3f61b495f&e=3Da08619ba59)
+facebook (<<link>>
+f1db4f6214c6ceb1cc&id=3D909a9e3347&e=3Da08619ba59)
+
+** (<<link>>
+6214c6ceb1cc&id=3D9d95c140d1&e=3Da08619ba59)
+** (<<link>>
+6214c6ceb1cc&id=3Da7dbc79a4e&e=3Da08619ba59)
+** (<<link>>
+6214c6ceb1cc&id=3D4a2bdd6ff4&e=3Da08619ba59)
+** (<<link>>
+6214c6ceb1cc&id=3Df07221a031&e=3Da08619ba59)
+** (mailto:user@domain.com)
+Copyright =C2=A9 2015 TinyGrocery LLC=2C All rights reserved.
+ You are receiving this email because you opted in to our or our partner's=
+ update emails!
+
+Our mailing address is:
+TinyGrocery LLC
+2619 Evarts St NE
+Washington=2C Dc 20018
+USA
+You are receiving this message because you have used a TinyGrocery machine=
+=2C your email was provided by your employer or by a corporate partner.  W=
+ant to change how you receive these emails?
+You can ** update your preferences (<<link>>
+om/profile?u=3D93985cbf1db4f6214c6ceb1cc&id=3D97ecc9cec3&e=3Da08619ba59)
+or ** unsubscribe from this list (<<link>>
+/unsubscribe?u=3D93985cbf1db4f6214c6ceb1cc&id=3D97ecc9cec3&e=3Da08619ba59&c=
+=3Dcb93ef6991)
+ Email Marketing Powered by MailChimp
+<<link>>
+utm_medium=3Demail&utm_campaign=3Dmonkey_rewards&aid=3D93985cbf1db4f6214c6=
+ceb1cc&afl=3D1

@@ -1,0 +1,87 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 18 May
+ 2015 13:44:04 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 18 May 2015 
+ 13:44:00 -0400
+Received: from [10.87.0.110] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 922262211
+ for user@domain.com; Wed, 18 May 2015 12:44:00 -0500
+X-Note-AR-ScanTimeLocal: 5/18/2016 12:43:52 PM
+X-Policy: domain.com
+X-Note-AR-Scan: None - PIPE
+Received: by domain.com (CommuniGate Pro PIPE 6.1.7)  with PIPE id
+ 142562767; Wed, 18 May 2015 12:43:52 -0500
+Received: from [204.29.186.54] (HELO omr-a010e.mx.aol.com)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 142562760
+ for user@domain.com; Wed, 18 May 2015 12:43:48 -0500
+Received: from mtaomg-aab01.mx.aol.com (mtaomg-aab01.mx.aol.com
+ [172.26.126.207])	by omr-a010e.mx.aol.com (Outbound Mail Relay) with ESMTP id
+ BCD583800041;	Wed, 18 May 2015 13:43:47 -0400 (EDT)
+Received: from core-leb04b.mail.aol.com (core-leb04.mail.aol.com [10.76.9.4])
+	by mtaomg-aab01.mx.aol.com (OMAG/Core Interface) with ESMTP id 6F91D3800008A;
+	Wed, 18 May 2015 13:43:42 -0400 (EDT)
+Received: from 67.182.15.226 by webprd-a06.mail.aol.com (10.72.19.167) with
+ HTTP (WebMailUI); Wed, 18 May 2015 13:43:41 -0400
+Date: Wed, 18 May 2015 13:43:41 -0400
+From: "Steven J. Ybarra JD" <sjybarra@aol.com>
+To: <user@domain.com>
+Message-ID: <154user@domain.com>
+Subject: Megyn Kelly is a bimbo
+Content-Type: multipart/mixed;
+	boundary="----=_Part_200350_1681409324.1463593421787"
+X-MB-Message-Source: WebUI
+X-MB-Message-Type: User
+X-Mailer: JAS STD
+X-Originating-IP: [67.182.15.226]
+X-AOL-VSS-INFO: 5800.7501/109880
+X-AOL-VSS-CODE: clean
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mx.aol.com;
+	s=20150623; t=1463593427;
+	bh=gZKBzpEh5rGqAws3I3i5TJy2NYU4woR8b2UUV7mwcys=;
+	h=From: "Steven J. Ybarra JD" <sjybarra@aol.com>
+	b=vCl5uHSEbUJYMCPkf/HBK6/8GNeArW1g2YmZeymyorQ2M3M8pcv19nYXKzCBCaot0
+	 H59z5oyHuaGKooidNE7bpxVBayr84jTaA+lBmZ1QJp9TToy6FwiuP2tbUhGsUKr34w
+	 bK8vYMgdxWrgxpBS02X45+bJILd4w5BWZR5Vk/ZE=
+x-aol-sid: 3039ac1a7ecf573ca9ce1cae
+X-Note-AR-ScanTimeLocal: 5/18/2016 12:43:49 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Note: VCH-CT/SI:0-3925/SG:1 5/18/2016 12:43:32 PM
+X-Virus-Scan: V-X0H0M0
+X-Note: SPF: IP:204.29.186.54 DOM:aol.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note: ICH-CT/SI:0-782/SG:1 5/18/2016 12:43:30 PM
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-688/SG:8 5/18/2016 12:43:32 PM
+X-GBUdb-Analysis: 0, 204.29.186.54, Ugly c=0 p=0 Source New
+X-Signature-Violations: 0-0-0-32767-c
+X-Note-419: 31.2507 ms. Fail:1 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:1-1324/SG:1 5/18/2016 12:43:31 PM
+X-Note: Spam Tests Failed: 
+X-Country-Path: United States->PRIVATE->PRIVATE->United States->
+X-Note-Sending-IP: 204.29.186.54
+X-Note-Reverse-DNS: omr-a010e.mx.aol.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G407 G413 G527 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Punto Negro =E2=80=93Punto Blanco=C2=A9
+May 18, 2015 
+Yes, Trumpet was right Megyn Kelly is a Bimbo
+
+According to an online definition a Bimbo is an attractive but empty-headed=
+ young woman, especially one perceived as a willing sex object in other wor=
+ds a slut. If you need help with that definition, you need to stop reading =
+and go back to school.=20
+
+So how did I reach the conclusion you may ask? During the Trumpet run for c=

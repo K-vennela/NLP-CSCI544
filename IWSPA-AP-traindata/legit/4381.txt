@@ -1,0 +1,53 @@
+Peck and Eystein
+we are having trouble to express the real message of the reconstructions - being
+scientifically sound in representing uncertainty , while still getting the crux of the
+information across clearly. It is not right to ignore uncertainty, but expressing this
+merely in an arbitrary way (and as a total range as before) allows the uncertainty to swamp
+the magnitude of the changes through time .  We have settled on this version (attached) of
+the Figure which we hoe you will agree gets the message over but with the rigor required
+for such an important document.
+We have added a box to show the "probability surface" for the most likely estimate of past
+temperatures based on all published data. By overlapping all reconstructions and giving a
+score of 2 to all areas within the 1 standard error range of the estimates for each
+reconstruction , and a score of 1 for the area between 1 and 2 standard errors, you build
+up a composite picture of the most likely or "concensus"  path that temperatures took over
+the last 1200 years (note - now with a linear time axis). This still shows the outlier
+ranges , preserving all the information, but you see the central most likely area well ,
+and the comparison of past and recent temperature levels is not as influenced by the
+outlier estimates. What do you think? We have experimented with different versions of the
+shading and this one shows up quite well  - but we may have to use some all grey version as
+the background to the overlay of the model results.
+We have also experimented with changing the normalisation base for the model/reconstruction
+Figure , but using the same short modern period as for the first Figure is not satisfactory
+- more on this later. We have added in Oerlemans curve as many insisted - but we only have
+the GLOBAL curve - can you get the separate North and Southern Hemisphere curves (with
+uncertainty) . I do not see that the new model runs from Germany/Switzerland will fit
+easily in the existing Figure and need to be separate! I am really struggling with the text
+also - really need more time!!!! More later
+Keith
+X-Mailer: QUALCOMM Windows Eudora Version 7.0.0.16
+Date: Fri, 03 Feb 2006 10:42:15 +0000
+To: Keith Briffa <k.briffa@uea.ac.uk>
+From: Tim Osborn <t.osborn@uea.ac.uk>
+Subject: new fig
+Dr Timothy J Osborn
+Climatic Research Unit
+School of Environmental Sciences, University of East Anglia
+Norwich  NR4 7TJ, UK
+e-mail:   t.osborn@uea.ac.uk
+phone:    +44 1603 592089
+fax:      +44 1603 507784
+web:      [1]<<link>>~timo/
+sunclock: [2]<<link>>~timo/sunclock.htm
+--
+Professor Keith Briffa,
+Climatic Research Unit
+University of East Anglia
+Norwich, NR4 7TJ, U.K.
+Phone: +44-1603-593909
+Fax: +44-1603-507784
+[3]<<link>>
+References
+1. <<link>>~timo/
+2. <<link>>~timo/sunclock.htm
+3. <<link>>

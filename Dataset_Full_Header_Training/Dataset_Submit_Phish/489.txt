@@ -1,0 +1,40 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.4.9])
+	by domain.com (Postfix) with ESMTP id EEF5146904
+	for <user@domain.com>; Sun, 27 May 2015 23:35:05 -0400 (EDT)
+X-Greylist: delayed 119 seconds by postgrey-1.27 at domain.com; Sun, 27 May 2015 23:35:05 EDT
+Received: from domain.com (unknown [65.66.177.234])
+	by domain.com (Postfix) with ESMTP id D106C131FB58
+	for <user@domain.com>; Sun, 27 May 2015 23:35:05 -0400 (EDT)
+Received: from User [83.235.55.10] by domain.com with ESMTP
+  (SMTPD32-5.00) id A17418100250; Wed, 17 May 2015 15:03:00 CST
+From: "Del Norte Credit Union"<security@dncu.org.>
+Subject: New security system Del Norte domain.com Union !
+Date: Thu, 17 May 2015 23:28:48 +0300
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <200605171503.user@domain.com>
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1323
+
+ eBay
+                sent this message to you. 
+
+Question about Item -- Respond=
+ Now
+
+eBay sent this message on behalf of an eBay member through My Messages. Re=
+sponses sent using email will go to the eBay member directly and will incl=
+ude your email address.
+

@@ -1,0 +1,78 @@
+Received: from domain.com (146.215.230.103) by
+ domain.com (43.130.141.77) with Microsoft SMTP Server id
+ 8.3.342.0; Mon, 28 Jul 2015 14:06:07 -0700
+Received: from domain.com ([160.33.194.230])	by
+ domain.com (Sentrion-MTA-4.3.1/Sentrion-MTA-4.2.2) with
+ ESMTP id s6SL66fe009378	for <user@domain.com>; Mon, 28 Jul 2015 
+ 21:06:06 GMT
+Received: from na01-bn1-domain.com
+ (mail-domain.com [207.46.163.145])	by
+ domain.com (Sentrion-MTA-4.3.1/Sentrion-MTA-4.2.2) with
+ ESMTP id s6SL0Yih010231	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128
+ verify=FAIL)	for <user@domain.com>; Mon, 28 Jul 2015 21:00:34 GMT
+Received: from BY2FFO11FD027.protection.gbl (10.1.14.32) by
+ BY2FFO11HUB062.protection.gbl (10.1.15.237) with Microsoft SMTP Server (TLS)
+ id 15.0.980.11; Mon, 28 Jul 2015 21:06:00 +0000
+Received: from mx-justfab-domain.com (192.64.237.156) by
+ domain.com (10.1.15.216) with Microsoft SMTP
+ Server id 15.0.990.10 via Frontend Transport; Mon, 28 Jul 2015 21:06:00 +0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; s=mt; d=domain.com;
+ h=Date:From: Deadline.com <alerts@deadline.com>
+ bh=xyNjolhYxoF5a/awFK8F5nkG2TA=;
+ b=dfrMCI9GCZVeQQKmtzl1k9qYRsNpwOp1kx5Lz1yaAcb1IqfqJCUwqN5JJqnZmwC8hKwbtfJEAKg4
+   JTIBCLwH4qtXpXGPDZdfsO/ILwFfnWUlJhS5N8H6tItg7dhx9ZGS/2R7cYIlABh+QQs5vZ2eVrXP
+   w1n3dkCgeYfQoMbt3/Q=
+Received: from nyp1-p-p4128-prd-jma-03.sailthru.pvt (64.34.57.232) by
+ mx-justfab-domain.com id hqqtkc1qqbs2 for <user@domain.com>; Mon,
+ 28 Jul 2015 17:06:10 -0400 (envelope-from <user@domain.com>)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1406581556;
+	s=sailthru; d=deadline.com;
+	h=Date:From: Deadline.com <alerts@deadline.com>
+	bh=SliDIW2n/0r1fCgoNMRwChH2UNBj+iBje0amj5UsoT0=;
+	b=IBMO9zWgFSTJiiTLRJQeWNY2HE6gZlibdD8xYzvHemW5UMcPc91hFdqXw86RjvoJ
+	N1RR7nhfOghSP64STVhCTPIFSeraeUEC1BGb1bGfdqDU7ZE5qO5qsl0Idq8XPMfdooT
+	moZcUrHnNGAbb8u9vBSzFCQRkhJ8ab2TGNIqA2S4=
+Date: Mon, 28 Jul 2015 17:05:56 -0400
+From: Deadline.com <alerts@deadline.com>
+To: <user@domain.com>
+Message-ID: <20140728210556.2869185.2983@domain.com>
+Subject: [domain.com] L.A. Production: Crackdown Or Shakedown On Payoffs?
+Precedence: bulk
+X-TM-ID: 20140728210556.2869185.2983
+X-Info: Message sent by domain.com customer Deadline
+X-Info: We do not domain.com unsolicited commercial email
+X-Info: Please report abuse by forwarding complete headers to
+X-Info: user@domain.com
+X-Mailer: domain.com
+X-JMailer: nyp1-p-p4128-prd-jma-03.sailthru.pvt
+X-IADB-IP: 65.39.215.25
+X-IADB-IP-REVERSE: 25.215.39.65
+X-IADB-URL: <<link>>
+X-Unsubscribe-Web: <<link>>
+List-Unsubscribe: <<<link>>>,
+ <mailto:user@domain.com>
+X-rpcampaign: stdgp2869185
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: 
+ UriScan:(133331);SFV:NSPM;SFS:(189002)(199002)(18804003)(79102001)(31966008)(106466001)(15202345003)(107046002)(15187005004)(105586002)(229853001)(959005)(77982001)(956001)(64706001)(2009002)(18206015026)(19580395003)(95736001)(92726001)(81156004)(19617315012)(89996001)(107886001)(110126003)(76482001)(50226001)(110136001)(106996001)(87836001)(69596002)(93916002)(99396002)(20776003)(77096002)(80022001)(62966002)(19580405001)(19619215002)(15975445006)(19300405004)(36756003)(44976005)(74662001)(104166001)(47976999)(18926405002)(92566001)(106476002)(46102001)(2351001)(85306003)(21056001)(83072002)(83322001)(102836001)(2361001)(77156001)(53416004)(110146005)(74502001)(81542001)(71186001)(84326002)(81342001)(87286001)(50986999)(4396001)(101416001)(19618635001)(106356001)(88136002)(85852003)(146001)(104016003)(105646008)(562404015)(85226002)(17308445002);DIR:INB;SFP:;SCL:1;SRVR:BY2FFO11HUB062;H:mx-justfab-domain.com;FPR:;MLV:ovrnspm;PTR:InfoNoRecords;MX:1;A:1;LANG:en;
+X-Microsoft-Antispam: BCL:0;PCL:0;RULEID:(120001)
+Received-SPF: None (: domain.com does not designate permitted sender
+ hosts)
+Authentication-Results: spf=none (sender IP is )
+ user@domain.com; 
+Return-Path: user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+<<link>> 
+
+<<link>> 
+
+        Deadline Hollywood has posted urgent news:              
+
+        L.A. Production: Crackdown Or Shakedown On Payoffs?             
+
+        For all of Deadline's headlines, follow us @Deadline on Twitter.                
+
+This email was sent to user@domain.com by Deadline. To ensure delivery to your inbox (and not your spam folder), please add user@domain.com to your address book. If you prefer not to continue receiving email communications, ple

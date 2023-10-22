@@ -1,0 +1,103 @@
+Dear Ben,
+many thanks for the full response to my query.  I think my confusion arose from the
+discussion on RealClimate (which prompted our earlier communication on this topic), which
+clearly suggested that the observed trend should be expected to lie within the spread of
+the models, rather than neccessarily being close to the mean as the models are stochastic
+simulations (which seemed reasonable).  I've just re-read that post, the key paragraph from
+[1]<<link>> is as
+follows:
+"The interpretation of this is a little unclear (what exactly does the sigma refer to?),
+but the most likely interpretation, and the one borne out by looking at their Table IIa, is
+that sigma is calculated as the standard deviation of the model trends. In that case, the
+formula given defines the uncertainty on the estimate of the mean - i.e. how well we know
+what the average trend really is. But it only takes a moment to realise why that is
+irrelevant. Imagine there were 1000's of simulations drawn from the same distribution, then
+our estimate of the mean trend would get sharper and sharper as N increased. However, the
+chances that any one realisation would be within those error bars, would become smaller and
+smaller. Instead, the key standard deviation is simply sigma itself. That defines the
+likelihood that one realisation (i.e. the real world) is conceivably drawn from the
+distribution defined by the models."
+I had therefore expected the test to use the standard deviations of both the models and the
+observations (which would give a flat plot in 5B and there would be an obvious overlap of
+the uncertainties in 6a at say 500hPa).
+best regards
+Gavin
+-----Original Message-----
+From: Ben Santer [[2]mailto:santer1@llnl.gov]
+Sent: Fri 10/31/2008 4:06 AM
+To: Cawley Gavin Dr (CMP)
+Cc: Jones Philip Prof (ENV); Gavin Schmidt; Thorne, Peter; Tom Wigley
+Subject: Re: Possible error in recent IJC paper
+Dear Gavin,
+Thanks very much for your email, and for your interest in our recent
+paper in the International Journal of Climatology (IJoC). There is no
+error in equation (12) in our IJoC paper. Let me try to answer the
+questions that you posed.
+The first term under the square root in our equation (12) is a standard
+estimate of the variance of a sample mean - see, e.g., "Statistical
+Analysis in Climate Research", by Francis Zwiers and Hans von Storch,
+Cambridge University Press, 1999 (their equation 5.24, page 86). The
+second term under the square root sign is a very different beast - an
+estimate of the variance of the observed trend. As we point out, our d1*
+test is very similar to a standard Student's t-test of differences in
+means (which involves, in its denominator, the square root of two pooled
+sample variances).
+In testing the statistical significance of differences between the model
+average trend and a single observed trend, Douglass et al. were wrong to
+use sigma_SE as the sole measure of trend uncertainty in their
+statistical test. Their test assumes that the model trend is uncertain,
+but that the observed trend is perfectly-known. The observed trend is
+not a "mean" quantity; it is NOT perfectly-known. Douglass et al. made a
+demonstrably false assumption.
+Bottom line: sigma_SE is a standard estimate of the uncertainty in a
+sample mean - which is why we use it to characterize uncertainty in the
+estimate of the model average trend in equation (12). It is NOT
+appropriate to use sigma_SE as the basis for a statistical test between
+two uncertain quantities. The uncertainty in the estimates of both
+modeled AND observed trend needs to be explicitly incorporated in the
+design of any statistical test seeking to compare modeled and observed
+trends. Douglass et al. incorrectly ignored uncertainties in observed
+trends.
+I hope this answers your first question, and explains why there is no
+inconsistency between the formulation of our d1* test in equation (12)
+and the comments that we made in point #3 [immediately before equation
+(12)]. As we note in point #3, "While sigma_SE is an appropriate measure
+of how well the multi-model mean trend can be estimated from a finite
+sample of model results, it is not an appropriate measure for deciding
+whether this trend is consistent with a single observed trend."
+We could perhaps have made point #3 a little clearer by inserting
+"imperfectly-known" before "observed trend". I thought, however, that
+the uncertainty in the estimate of the observed trend was already made
+very clear in our point #1 (on page 7, bottom of column 2).
+To answer your second question, d1* gives a reasonably flat line in
+Figure 5B because the first term under the square root sign in equation
+(12) (the variance of the model average trend, which has a dependence on
+N, the number of models used in the test) is roughly a factor of 20
+smaller than the second term under the square root sign (the variance of
+the observed trend, which has no dependence on N). The behaviour of d1*
+with synthetic data is therefore dominated by the second term under the
+square root sign - which is why the black lines in Figure 5B are flat.
+In answer to your third question, our Figure 6A provides only one of the
+components from the denominator of our d1* test (sigma_SE). Figure 6A
+does not show the standard errors in the observed trends at discrete
+pressure levels. Had we attempted to show the observed standard errors
+at individual pressure levels, we would have produced a very messy
+Figure, since Figure 6A shows results from 7 different observational
+datasets.
+We could of course have performed our d1* test at each discrete pressure
+level. This would have added another bulky Table to an already lengthy
+paper. We judged that it was sufficient to perform our d1* test with the
+synthetic MSU T2 and T2LT temperature trends calculated from the seven
+radiosonde datasets and the climate model data. The results of such
+tests are reported in the final paragraph of Section 7. As we point out,
+the d1* test "indicates that the model-average signal trend (for T2LT)
+is not significantly different (at the 5% level) from the observed
+signal trends in three of the more recent radiosonde products (RICH,
+IUK, and RAOBCORE v1.4)." So there is no inconsistency between the
+formulation of our d1* test in equation (12) and the results displayed
+in Figure 6.
+Thanks again for your interest in our paper, and my apologies for the
+delay in replying to your email - I have been on travel (and out of
+email contact) for the past 10 days.
+With best regards,
+Ben

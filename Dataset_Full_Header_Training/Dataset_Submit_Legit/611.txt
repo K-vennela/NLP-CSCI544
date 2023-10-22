@@ -1,0 +1,69 @@
+Received: from domain.com (192.168.185.19) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 3 May
+ 2015 22:02:56 -0400
+From: Microsoft Outlook
+	<user@domain.com>
+To: "User" <user@domain.com>
+Subject: Undeliverable: OrganizationTalking Points: Cruz Out, Trump is the GOP
+Thread-Topic: OrganizationTalking Points: Cruz Out, Trump is the GOP
+Thread-Index: AdGlqQtWhjDmi5ZzQCewGUA7mmZIkgAAAgJp
+Date: Tue, 3 May 2015 19:02:56 -0700
+Message-ID: <7user@domain.com>
+References: <05user@domain.com>
+In-Reply-To: <05user@domain.com>
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 05
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Has-Attach: yes
+X-Auto-Response-Suppress: All
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+Content-Type: multipart/report;
+	boundary="_000_7e84930112244663bfe4c6d606b57323dncedge2dncorg_";
+	report-type=delivery-status
+MIME-Version: 1.0
+
+p-ess-domain.com rejected your message to the following e-mail addresses:
+
+user@domain.com<mailto:user@domain.com>
+
+p-ess-domain.com gave this error:
+User Unknown
+
+The e-mail address you entered couldn't be found. Please check the recipient's e-mail address and try to resend the message. If the problem continues, please contact your helpdesk.
+
+Diagnostic information for administrators:
+
+Generating server: domain.com
+
+user@domain.com
+p-ess-domain.com #550 5.1.1 User Unknown ##
+
+Original message headers:
+
+Received: from domain.com (192.168.185.12) by domain.com
+ (192.168.10.113) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 3 May
+ 2015 22:02:31 -0400
+Received: from domain.com ([fe80::f85f:3b98:e405:6ebe]) by
+ domain.com ([fe80::ac16:e03c:a689:8203%11]) with mapi id
+ 14.03.0224.002; Tue, 3 May 2015 22:02:52 -0400
+From: Microsoft Outlook
+To: "User" <user@domain.com>
+CC: "Paustenbach, Mark" <user@domain.com>
+Subject: OrganizationTalking Points: Cruz Out, Trump is the GOP
+Thread-Topic: OrganizationTalking Points: Cruz Out, Trump is the GOP
+Thread-Index: AdGlqQtWhjDmi5ZzQCewGUA7mmZIkg==
+Date: Wed, 4 May 2015 02:02:51 +0000
+Message-ID: <05user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator:
+x-originating-ip: [192.168.177.170]
+Content-Type: multipart/related;
+        boundary="_004_05E01258E71AC046852ED29DFCD139D54DF041CFdncdag1dncorg_";
+        type="multipart/alternative"
+MIME-Version: 1.0
+Return-Path: user@domain.com
+

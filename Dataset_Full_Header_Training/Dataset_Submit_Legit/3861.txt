@@ -1,0 +1,118 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Sun, 22 May
+ 2015 17:03:44 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Sun, 22 May 2015 
+ 17:03:34 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 928698770;
+ Sun, 22 May 2015 16:03:43 -0500
+X-Note-AR-ScanTimeLocal: 5/22/2016 4:03:54 PM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: Too many policies to list
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @demconvention.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->->United States->
+X-Note-Sending-IP: 157.56.110.137
+X-Note-Reverse-DNS: mail-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from [157.56.110.137] (HELO
+ na01-bn1-domain.com)  by domain.com
+ (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 142092518; Sun, 22 May 2015 
+ 16:03:53 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=domain.com; s=selector1-demconvention-com;
+ h=From: Leah Daughtry <ldaughtry@demconvention.com>
+ bh=1e4+C/dlZUUBPZEi53BXeTY1sNCrw5lhRDDFRAdrHao=;
+ b=Eeb35ZaH4TL02GOr+PCab8e+WI5vqd6cc6IgGhRgXAtZvG6aoKXVqTWsHaOd1+VOFP+b6ZIRwKW0v2OkN2nNRFdHhtRbJX+Gl0K2+nY4dT8DjBhQvDh9ZA8svDSYkrR26inIaK6H7VTSkCHoFtbpCU6nAmTklcS297yMBfF7iG0=
+Received: from domain.com (10.169.19.22) by
+ domain.com (10.169.19.141) with Microsoft SMTP
+ Server (TLS) id 15.1.506.2; Sun, 22 May 2015 21:03:41 +0000
+Received: from domain.com ([10.169.19.22]) by
+ domain.com ([10.169.19.22]) with mapi id
+ 15.01.0501.012; Sun, 22 May 2015 21:03:41 +0000
+From: Leah Daughtry <ldaughtry@demconvention.com>
+To: "User" <user@domain.com>, April Mellody
+	<user@domain.com>, Hilary Rosen <user@domain.com>, "Patrice
+ Taylor" <user@domain.com>, "User" <user@domain.com>, Tracie Pough
+	<user@domain.com>
+CC: Kate Houghton <user@domain.com>, "Palermo, Rachel" <user@domain.com>,
+	"Guerra, Liana" <user@domain.com>, Sarah Guy <user@domain.com>, "Anna
+ Stolitzka" <user@domain.com>, "Wilson, Lenna" <user@domain.com>,
+	Philippa Martinez-Berrier <user@domain.com>
+Subject: Re: Call w/ chairwoman Wasserman schultz - tonight @ 9:00pm EST
+Thread-Topic: Call w/ chairwoman Wasserman schultz - tonight @ 9:00pm EST
+Thread-Index: AdG0Yq2ke89peQNDSLeZFiW6SNQ2XwACr0kB
+Date: Sun, 22 May 2015 21:03:40 +0000
+Message-ID: <user@domain.com>
+References: <user@domain.com>
+In-Reply-To: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+authentication-results: domain.com; dkim=none (message not signed)
+ header.d=none;domain.com; dmarc=none action=none header.from=demconvention.com;
+x-originating-ip: [210.242.154.25]
+x-ms-office365-filtering-correlation-id: 6cd34aa3-eb2b-4b66-8c11-08d382848dca
+x-microsoft-exchange-diagnostics: 1;CY1PR13MB0715;5:Slo6gqNlsiAbAxJahPOlkRYA2wFhHFSKRe7FFgVcjYa2LOoFDTuNsZ1uUgjgjqaFIUNcGv7qP0TGkNH68kgtx4pzUHbYbnqxtlnY0yvOGdNTayapqtCXAiS7IwXLFZGVCLEzJ2g8MllLnGSaHpEAYw==;24:h27b9N6ugj8tGKAe4W7WyAH+AKzXQbfQKSB4pNU385hq+9101D+xfNVBGJ/8eOxfuqeaApn+Y5heQFNjuaZKaHcP5YkmzBocwxQTAqKM3Lw=;7:l4RXIeeE11bogeLX8/RsadLfEcwcWBh4QJ1TiBcQArxIrSyb4apT3+GgIkILbREeE7MIDzWC7rcznk0XCMf/6eZVNOGzQJIQWYBUhLMWG+8gc4esOO+Q/VkZtemsAmM+j8+e/KRA5/Vn8m31ZQRNF6U5rR92Qjdw+9n+6TgQh6ptyPOJW0dIQYVgj3RaLd14
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:;SRVR:CY1PR13MB0715;
+x-ld-processed: 0457a3b8-b076-4f33-a32f-6129315d909d,ExtAddr
+x-microsoft-antispam-prvs: <user@domain.com>
+x-exchange-antispam-report-test: UriScan:;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(6040130)(601004)(2401047)(5005006)(8121501046)(3002001)(10201501046)(6041072)(6043046);SRVR:CY1PR13MB0715;BCL:0;PCL:0;RULEID:;SRVR:CY1PR13MB0715;
+x-forefront-prvs: 0950706AC1
+x-forefront-antispam-report: SFV:NSPM;SFS:(10019020)(6009001)(377454003)(2950100001)(2900100001)(9686002)(8936002)(74316001)(76176999)(8666003)(50986999)(54356999)(1220700001)(8676002)(81166006)(3846002)(77096005)(586003)(4326007)(6116002)(189998001)(5008740100001)(92566002)(5001770100001)(2906002)(11100500001)(102836003)(86362001)(76576001)(99286002)(122556002)(16236675004)(5004730100002)(3660700001)(66066001)(3280700002)(5002640100001)(33656002)(5003600100002)(19580405001)(10400500002)(19580395003)(87936001)(7059030);DIR:OUT;SFP:1102;SCL:1;SRVR:CY1PR13MB0715;H:domain.com;FPR:;SPF:None;MLV:sfv;LANG:en;
+spamdiagnosticoutput: 1:23
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_CY1PR13MB066639FD47E7BAF45AA2A90EB64D0CY1PR13MB0666namp_"
+X-MS-Exchange-CrossTenant-originalarrivaltime: 22 May 2015 21:03:40.7402
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 0457a3b8-b076-4f33-a32f-6129315d909d
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: CY1PR13MB0715
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Cant do it. I am only beginning 7pm with hard stop at 830pm.  Sorry, though=
+t I'd sent that note earlier. Go without me if you have to
+
+From: Leah Daughtry <ldaughtry@demconvention.com>
+Sent:May 23, 2015 3:46 AM
+To:user@domain.com; user@domain.com; user@domain.com=
+.com; user@domain.com; user@domain.com; user@domain.com
+Cc:user@domain.com; user@domain.com; user@domain.com; =
+user@domain.com; user@domain.com; user@domain.com; user@domain.com=
+org
+Subject:Call w/ chairwoman Wasserman schultz - tonight @ 9:00pm EST
+
+Is everyone available to up on a conference call tonight at 9:00pm EST?
+
+Toll-free dial-in number (U.S. and Canada): (866) 810-8093
+International dial-in number: (832) 445-3008
+Conference code: 3507508828
+Leader PIN: 3610
+
+Garret Bonosky
+Deputy Director
+Office of the Chair
+Organization
+

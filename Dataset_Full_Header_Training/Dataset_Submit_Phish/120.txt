@@ -1,0 +1,46 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id E537B23CA7F
+	for <user@domain.com>; Thu, 29 Mar 2015 10:54:28 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id g5gEB7AyJpOA for <user@domain.com>;
+	Thu, 29 Mar 2015 10:54:26 -0500 (CDT)
+Received: from mail.birmingham.k12.mi.us (outgoingmail.birmingham.k12.mi.us [216.11.6.16])
+	by domain.com (Postfix) with ESMTP id 1CD9D23CA72
+	for <user@domain.com>; Thu, 29 Mar 2015 10:54:26 -0500 (CDT)
+Received: from DHE-VE07-1.bps-staff.birmingham.k12.mi.us
+ ([fe80::bd45:72ab:439b:5ef9]) by DHE-HE07-1.bps-staff.birmingham.k12.mi.us
+ ([fe80::5efe:10.16.1.115%13]) with mapi; Thu, 29 Mar 2015 11:54:12 -0400
+From: Jennifer Glazier <jg16bps@birmingham.k12.mi.us>
+Date: Thu, 29 Mar 2015 11:54:12 -0400
+Subject: Keeping Track Of Your Usage
+Thread-Topic: Keeping Track Of Your Usage
+Thread-Index: AQHNDcQvxGDMq/4lU0+QCwHYQcI8Mg==
+Message-ID: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+acceptlanguage: en-US
+Content-Type: multipart/alternative;
+	boundary="_000_E9AB5A91E0A1AB43AD93366AD97A09E50123798AB9DHEVE071bpsst_"
+MIME-Version: 1.0
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 67
+
+Your web mail quota has exceeded the set quota which is 3GB. you are curren=
+tly running on 3.9 GB. To re-activate and increase your web mail quota plea=
+se click the link below.
+
+Click Here<<<link>>>
+
+Failure to do so may result in the cancellation of your web mail account.
+Thanks, and sorry for the inconvenience
+Local-host.

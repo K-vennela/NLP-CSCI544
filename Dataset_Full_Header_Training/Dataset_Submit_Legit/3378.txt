@@ -1,0 +1,59 @@
+From: "Variety Breaking News" <donotreply@variety.com>
+To: "User"
+Subject: Chris Rock 'In a Daze' As Toronto Buzz Heightens (VIDEO)
+Date: Mon, 8 Sep 2015 01:38:05 -0400
+Message-ID: <20140908053805.3037921.18052@domain.com>
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQGpjtAg1ULRQ2LvqfrKShIgJFE/Cg==
+Content-Language: en-us
+x-ms-exchange-organization-authsource: domain.com
+x-ms-exchange-organization-authas: Internal
+x-ms-exchange-organization-authmechanism: 10
+List-Unsubscribe: <<<link>>>, <mailto:user@domain.com>
+dkim-signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1410154685;	s=sailthru; d=variety.com;	h=Date:From: "Variety Breaking News" <donotreply@variety.com>
+x-forefront-antispam-report: CIP:192.64.237.157;CTRY:US;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BY2FFO11HUB008;H:mx-justfab-domain.com;FPR:;LANG:en;
+x-eopattributedmessage: 0
+x-microsoft-antispam: BCL:0;PCL:0;RULEID:(120001);UriScan:(133331);
+x-domain.com: domain.com
+x-rpcampaign: stcoy3037921
+X-Message-Flag: Flag for follow up
+x-info: user@domain.com
+x-iadb-ip-reverse: 25.215.39.65
+x-iadb-url: <<link>>
+x-tm-id: 20140908053805.3037921.18052
+x-iadb-ip: 65.39.215.25
+x-unsubscribe-web: <<link>>
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+Chris Rock and Rosario Dawson stopped by the Variety Studio to discuss their new comedy "Top Fiv...
+
+​
+
+Breaking News
+
+Sunday, September 7, 2014
+
+​
+
+Chris Rock 'In a Daze' As Toronto Buzz Heightens (VIDEO) 
+
+Chris Rock and Rosario Dawson stopped by the Variety Studio to discuss their new comedy "Top Five" in Toronto.
+
+Full Story
+
+Check out the redesigned Variety411
+
+This email was sent to user@domain.com by Variety. To ensure delivery to your inbox (and not your spam folder), please add user@domain.com to your address book. If you prefer not to continue receiving email communications, please unsubscribe here instead of replying to this email.
+
+To update your profile and customize what email alerts and newsletters you receive, please click here.
+
+Having trouble reading this email? View the web version here.
+
+Copyright © 2014 Variety Media, LLC, a subsidiary of Penske Business Media.
+1​1​1​7​5 Santa Monica Blvd. Los Angeles, CA 9​0​0​2​5
+
+Variety and the Flying V logos are trademarks of Variety Media, LLC., used under license.
+

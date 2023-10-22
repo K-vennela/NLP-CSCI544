@@ -1,0 +1,69 @@
+Received: from domain.com (172.23.144.44) by
+ domain.com (43.130.141.76) with Microsoft SMTP Server id
+ 8.3.297.1; Thu, 12 Dec 2015 07:32:12 -0800
+Received: from domain.com ([43.130.141.78])          by
+ domain.com (Lotus Domino Release 6.5.6)          with ESMTP id
+ 2013121207321170-81372 ;          Thu, 12 Dec 2015 07:32:11 -0800 
+Received: from domain.com (146.215.230.103) by
+ domain.com (43.130.141.78) with Microsoft SMTP Server id
+ 8.3.264.0; Thu, 12 Dec 2015 07:32:11 -0800
+Received: from domain.com ([160.33.194.228])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id rBCFWAPk021099;	Thu, 12 Dec 2015 15:32:10 GMT
+Received: from mail44-db8-domain.com
+ (mail-domain.com [213.199.154.178])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id rBCFW9Go006914	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128
+ verify=FAIL);	Thu, 12 Dec 2015 15:32:10 GMT
+Received: from mail44-db8 (localhost [127.0.0.1])	by mail44-db8-domain.com
+ (Postfix) with ESMTP id D8C36420568;	Thu, 12 Dec 2015 15:32:08 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:38.107.104.18;KIP:(null);UIP:(null);IPV:NLI;H:LA-EX-ET-02.area1.dmz;RD:error;EFVD:FOP
+X-SpamScore: -2
+X-BigFish: VvPps-2(zz98dI9371Izz1f42h208ch1ee6h1de0h1fdah2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6hzz1de098h8275bh1de097hz2fh109h2a8h839h944hd25he5bhf0ah1220h1288h12a5h12a9h12bdh137ah13b6h1441h14ddh1504h1537h153bh162dh1631h1758h18e1h1946h19b5h1ad9h1b0ah1b2fh224fh1fb3h1d0ch1d2eh1d3fh1dfeh1dffh1e1dh1fe8h1ff5h2052h20b3h2216h22d0h2336h1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail44-db8: domain of caa.com designates 38.107.104.18 as permitted sender) client-ip=38.107.104.18; user@domain.com; helo=LA-EX-ET-02.area1.dmz ;02.area1.dmz ;
+Received: from mail44-db8 (localhost.localdomain [127.0.0.1]) by mail44-db8
+ (MessageSwitch) id 1386862327352442_19931; Thu, 12 Dec 2015 15:32:07 +0000
+ (UTC)
+Received: from domain.com (unknown [10.174.8.236])	by
+ mail44-domain.com (Postfix) with ESMTP id 4FAA340004A;	Thu, 12 Dec 2015 
+ 15:32:07 +0000 (UTC)
+Received: from LA-EX-ET-02.area1.dmz (38.107.104.18) by
+ domain.com (10.174.4.32) with Microsoft SMTP Server (TLS) id
+ 14.16.227.3; Thu, 12 Dec 2015 15:32:04 +0000
+Received: from LA-EX-CA-01.caa.com (10.252.2.97) by LA-EX-ET-02.area1.dmz
+ (192.168.130.121) with Microsoft SMTP Server (TLS) id 14.3.158.1; Thu, 12 Dec
+ 2015 07:32:02 -0800
+Received: from LV-EX-MBX-P-01.caa.com ([fe80::b501:e63c:573d:99e8]) by
+ LA-EX-CA-01.caa.com ([10.252.2.97]) with mapi id 14.03.0158.001; Thu, 12 Dec
+ 2015 07:32:02 -0800
+From: "Lieberman, Josh" <JLieberman@caa.com>
+To: "User" <user@domain.com>
+CC: Grosses-AH <user@domain.com>, Grosses-Weekend
+	<user@domain.com>
+Subject: Re: A sweep !
+Thread-Topic: A sweep !
+Thread-Index: Ac73QMBQOSomD3buRYKszQKLJgRVaQADo0TX
+Date: Thu, 12 Dec 2015 15:32:01 +0000
+Message-ID: <user@domain.com>
+References: <8user@domain.com>
+In-Reply-To: <8user@domain.com>
+Accept-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+X-OriginatorOrg: caa.com
+Return-Path: user@domain.com
+X-MIMETrack: Itemize by SMTP Server on USCCiMTA02/SVR/SPE(Release 6.5.6|March 06, 2007) at
+ 12/12/2013 07:32:11 AM,
+	Serialize by Router on USCCiMTA02/SVR/SPE(Release 6.5.6|March 06, 2007) at
+ 12/12/2013 07:32:12 AM,
+	Serialize complete at 12/12/2013 07:32:12 AM
+Content-Language: en-US
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-406539735_-_-"
+
+GO BABY!!!! Congrats and great work by all! Now the real work and the real fun begins!!!!
+
+Josh
+

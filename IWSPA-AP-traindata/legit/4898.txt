@@ -1,0 +1,17 @@
+<x-flowed>
+HI Hans,
+Yes--it was the discussion of this in the De Bilt meeting report that led 
+me to think this was envisioned in a broadened version of the DATUN 
+approach.  I thought the idea was that you would eventually use a forward 
+biological/physical model to scale up from a given proxy an estimate of say 
+precipitation or temperature for an atmospheric model gridpoint and use 
+that to nudge  say the slp  or 500 mb field into a particular 
+configuration. This is clearly more ambitious than what you are doing now, 
+and  I suppose I was blurring the distinct efforts of  Nanne and colleagues 
+with that of yours and colleagues. I makes much more sense at present to 
+only use a statistically-based upscaling of the proxy data. The  other 
+possibility remains intriguing, but we are certainly far off from doing 
+that in my opinion as well. I'm actually quite relieved to find out that I 
+was wrong in assuming that this is the direction the DATUN approach was going.
+thanks for the clarification,
+mike

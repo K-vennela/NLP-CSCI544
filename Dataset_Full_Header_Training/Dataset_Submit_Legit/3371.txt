@@ -1,0 +1,181 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Thu, 28 Apr
+ 2015 12:56:57 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Thu, 28 Apr 2015 
+ 12:56:49 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 885674540
+ for user@domain.com; Thu, 28 Apr 2015 11:56:57 -0500
+X-Note-AR-ScanTimeLocal: 4/28/2016 11:56:57 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @nvdems.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 209.85.220.181
+X-Note-Reverse-DNS: mail-qk0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mail-qk0-domain.com ([209.85.220.181] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 135502374
+ for user@domain.com; Thu, 28 Apr 2015 11:56:57 -0500
+Received: by mail-qk0-domain.com with SMTP id x7so34462304qkd.3
+        for <user@domain.com>; Thu, 28 Apr 2015 09:56:55 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=nvdems-domain.com; s=20150623;
+        h=mime-version:From: Sarah Zukowski <szukowski@nvdems.com>
+        bh=LRbNzoU46QvOoeMEJQFcq3V92C85v3Vo0bz5hXaEEx8=;
+        b=EUBku7pRST7WZAuZ3A6nHWAIBusOg2PbKh5Nb0NxfdIsEfkhgILBADAuU38JRwR+Yu
+         nlcag2VaZJt42LcWiy03sBM3zGREUeFC4UWaJYDCuBfNOZ9dLCmwSfVmr/ExH2zBQhHr
+         oJ0Pu4URIVGx265v4fimJc0P/eR7utYxlsBpNFUIaOWPW5ZGbigDkiHIhadIzKceWr8E
+         Bb8G9QNGNpjwaUFidR8bPrinv7NEUv2kSthxmPLPzaB0QqMVtLbOXXhMKsMWAlNvh8yQ
+         m7vORqW29dM2p6G5I98MhOhLYG04DeJ3HkXMtT81FNqUlUABo3Y561ft/2V9KtrKhDSF
+         bZ6w==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:From: Sarah Zukowski <szukowski@nvdems.com>
+        bh=LRbNzoU46QvOoeMEJQFcq3V92C85v3Vo0bz5hXaEEx8=;
+        b=WKBDRh4afrwHfF+n7pw7cPzjbGD0L3EQvgoaibhiEb/Cbdjk8Oed70DZYuDXSk5i30
+         Ol6FU1ev1vzRQbBZns5PkfY7zJQPerAinw8A5g/gUCh4ZP+EVNYKAShY4n/a0KJEykCZ
+         fawAq4k1Vlx9419sJxPJ0TtyRtBJaHAkTkF/Ds6jIjPoSHmf9t2VeMGAyhsC71OJEqSz
+         CRhGxfeVGUQRuNXrXI+GH328lCTtTqXkw66eE1eiCScaGt76zj4xOMQI3Rlau7dUoZQj
+         TqWxao4NsUGwPSlfwaTizO5iIXLcGpi1D/oVrSzHvYuvtq8G+DWYb8Na1SijWmRVlNQx
+         djmQ==
+X-Gm-Message-State: AOPr4FVlhPQHST7YkqQwTePRodITpY04e+bCRxQZGztbKqUfB/eWt5UXk9KUDR3FjPJ6XhQID2OLjs+EEnlC7Q==
+X-Received: by 10.55.97.147 with SMTP id v141mr15643671qkb.104.1461862614839;
+ Thu, 28 Apr 2015 09:56:54 -0700 (PDT)
+Received: by 10.55.170.76 with HTTP; Thu, 28 Apr 2015 09:56:14 -0700 (PDT)
+From: Sarah Zukowski <szukowski@nvdems.com>
+Date: Thu, 28 Apr 2015 09:56:14 -0700
+Message-ID: <user@domain.com>
+Subject: NEW VIDEO: Congressman Heck is More Extreme Than Sharron Angle on
+ Equal Pay
+To: Sarah Zukowski <user@domain.com>
+Content-Type: multipart/related; boundary="94eb2c05b816debbc405318e694d"
+BCC: <user@domain.com>
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+For Immediate Release
+
+April 28, 2015 
+
+Contact: Sarah Zukowski, user@domain.com
+
+NEW VIDEO <<<link>>>: Congressman Heck
+is More Extreme Than Sharron Angle on Equal Pay
+
+Angle told (soon to be) Famous NV Dems Parrots she supports giving women
+equal pay for equal work
+
+Congressman Heck has voted multiple times against paycheck fairness
+legislation
+
+Watch the video here
+<<<link>>>
+
+Las Vegas, NV =E2=80=93 Wow, they actually do disagree on something. Today,=
+ the NV
+Dems released a new video reminding Nevadans of how out of touch
+Congressman Heck is with Nevada women =E2=80=93 and, shockingly, how in tou=
+ch
+Sharron Angle apparently is. (If you=E2=80=99re struggling to grasp the con=
+cept of
+that sentence, read on.)
+
+Over the weekend, former Assemblywoman Sharron Angle spoke with the (soon
+to be) Famous NV Dems Parrots and confirmed her support for giving women
+equal pay for equal work (in addition to stating that she would like to
+debate Congressman Heck <<<link>>>).
+Angle=E2=80=99s support for equal pay is a commonsense position that her op=
+ponent,
+Congressman Heck, has worked against during his time in Washington.  In a
+rare domain.com from Angle, Congressman Heck has voted three times against equal
+pay for equal work.
+
+=E2=80=9CWhat does it say about Congressman Heck=E2=80=99s priorities in Wa=
+shington that
+even Sharron Angle disagrees with his opposition to giving women equal pay
+for equal work?=E2=80=9D said Sarah Zukowski, spokesperson for the Nevada S=
+tate
+Democratic Party. =E2=80=9CCongressman Heck has spent half a decade in Wash=
+ington
+voting with his Party against ensuring Nevada women receive equal pay for
+equal work. It=E2=80=99s sad that the only issue where Sharron Angle and
+Congressman Heck seem to disagree is paycheck fairness.=E2=80=9D
+
+Background:
+
+Heck Voted To Block Consideration Of Paycheck Fairness Act. In April 2013,
+Heck voted for a: =E2=80=9CFoxx, R-N.C., motion to order the previous quest=
+ion
+(thus ending debate and possibility of amendment) on the rule (H Res 146)
+that would provide for House floor consideration of the bill that would
+require the National Labor Relations Board to cease all activities that
+require a quorum of members until certain conditions are met. =E2=80=9CThe =
+Previous
+Question would amend the rule to allow for consideration of the Paycheck
+Fairness Act (H.R. 377), which strengthens the Equal Pay Act by closing
+loopholes and imposing effective penalties on employers who discriminate
+based on gender.=E2=80=9D The motion passed by 226-192. [CQ, 4/11/13
+<<<link>>>, H.R. 1120, Vote 97, 4/11/13
+<<<link>>>,113th Congress Previous
+Questions
+<<<link>>
+/>
+]
+
+Heck Voted To Block Consideration Of Paycheck Fairness Act. In May 2013,
+Heck voted for a: =E2=80=9CFoxx, R-N.C., motion to order the previous quest=
+ion
+(thus ending debate and possibility of amendment) on the rule (H Res 198)
+that would provide for House floor consideration of the bill that would
+allow private-sector employers to offer workers compensatory time off
+instead of overtime pay, at a rate of 1.5 hours per hour of overtime work.=
+=E2=80=9D
+=E2=80=9CThe Previous Question would amend the rule to allow for considerat=
+ion of
+the =E2=80=9CPaycheck Fairness Act=E2=80=9D (H.R. 377) which bolsters the E=
+qual Pay Act by
+closing loopholes and imposing effective penalties on employers who
+discriminate based on gender.=E2=80=9D The motion passed by 230-198. [CQ, 5=
+/7/13
+<<<link>>>, H.Res.198, Vote 132, 5/7/13
+<<<link>>>; 113th Congress Previous
+Questions
+<<<link>>
+/>
+]
+
+Heck Voted Against Requiring Business To Pay Female Employees Equal Wages
+For Equal Work In Order To Deduct Employee Wages As A Qualified Research
+Expense And To Give Priority To Unemployed American Workers, Particularly
+Veterans When Hiring. In May 2014, Heck voted against a: =E2=80=9CKirkpatri=
+ck,
+D-Ariz., motion to domain.com the bill to the House Ways and Means Committee
+and report it back immediately with an amendment that would require
+businesses to pay female employees equal wages for equal work in order to
+deduct employee wages as a qualified research expense and to give priority
+to unemployed American workers, particularly veterans when hiring. It also
+would domain.com eligible companies from outsourcing jobs to foreign
+countries. It would stipulate that nothing in the bill would result in an
+increase in the federal domain.com.=E2=80=9D The motion was rejected by a 191-=
+209
+vote. [CQ, 5/9/14 <<<link>>>=
+;
+motion to domain.com H.R. 4438, Vote 210, 5/9/14
+<<<link>>>]
+
+###

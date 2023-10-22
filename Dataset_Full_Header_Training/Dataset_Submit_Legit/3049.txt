@@ -1,0 +1,632 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 17 May
+ 2015 10:10:59 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 17 May 2015 
+ 10:10:56 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 919211162
+ for user@domain.com; Tue, 17 May 2015 09:11:05 -0500
+X-Note-AR-ScanTimeLocal: 5/17/2016 9:11:05 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @egencia.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: United States->
+X-Note-Sending-IP: 216.251.112.210
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from domain.com ([216.251.112.210] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 141020593
+ for user@domain.com; Tue, 17 May 2015 09:11:05 -0500
+Message-ID: <078edd$1user@domain.com>
+From: Egencia TripController <no-reply@egencia.com>
+To: <user@domain.com>
+Reply-To: <user@domain.com>
+Date: Tue, 17 May 2015 07:10:56 -0700
+Subject: =?iso-8859-15?Q?TripController=A0-=A0Finance=A0Guest=A0Account=A0(GUEST)=A0-=A0Kansas=A0City,=A0MO=A0-=A0May=A020,=A02016=A0-=A0Approval=A0Request?=
+Content-Type: text/html; charset="iso-8859-15"
+Content-Transfer-Encoding: quoted-printable
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+=09
+=09
+=09
+=09
+=09
+
+
+
+=09
+	Finance Guest Account (GUEST) is requesting trip approval from J=
+ordan Kaplan
+=09
+
+
+
+	=09
+=09
+	=09
+=09
+=09
+=09
+=09
+=09
+=09
+
+
+
+=09
+	Quick links
+
+Approve all
+
+Deny all
+View trip online
+
+=09
+=09
+=09
+
+
+
+Traveler Finance Guest Account (GUEST) (user@domain.com)
+
+Itinerary Kansas City, MO 23775613592
+
+=09
+=09
+	=
+
+=09
+	Flight: Washington (DCA) to Kansas City (MCI)
+=09
+
+
+
+=09
+
+=09
+	Arranged by   Scott Comer
+
+=09
+=09
+	Policy   Out of policy
+
+=09
+=09
+=09
+=09
+=09
+	Department   Finance (01)
+
+=09
+=09
+=09
+	Booking status  =20
+=09
+
+
+
+=09
+	=09
+=09
+=09
+
+=09
+=09
+=09
+
+Not booked
+
+
+
+Approval status  =20
+=20
+	Awaiting approval
+=09
+
+=09
+=09
+	Approval Comments
+
+=09
+=09
+	17-May-16 bobby flights + car (Scott Comer)
+=09
+=09
+
+
+
+=09
+=09
+
+=09
+
+
+
+Selected flight
+
+=09
+=09
+	Price at submission   $884.70 
+
+Lowest logical fare   $884.70
+
+=09
+=09
+	Airline  
+=09
+=09
+	American Airlines 4676
+
+=09
+=09
+=09
+	Depart   May-20-2016  3:25 PM
+
+Arrive   May-20-2016  5:14 PM
+
+Number of connections  
+=09
+=09
+=09
+=09
+	Nonstop
+=09
+
+
+
+=09
+=09
+=09
+	Airline  
+=09
+=09
+	United 646
+
+=09
+=09
+=09
+	Depart   May-23-2016 11:19 AM
+
+Arrive   May-23-2016 12:56 PM
+
+Number of connections  
+=09
+=09
+=09
+=09
+	Nonstop
+=09
+
+
+
+=09
+=09
+=09
+	Airline  
+=09
+=09
+	United 616
+
+=09
+=09
+=09
+	Depart   May-25-2016  2:00 PM
+
+Arrive   May-25-2016  4:56 PM
+
+Number of connections  
+=09
+=09
+=09
+=09
+	Nonstop
+=09
+
+
+
+=09
+=09
+
+=09
+
+=20
+
+
+
+Additional  flight options
+
+=09
+=09
+=09
+=09
+
+
+
+Flight option 1: Washington (DCA) to Kansas City (MCI)
+
+Price   $884.70
+=09
+=09
+=09
+
+
+
+Airline   American Airlines 4605
+
+Depart   May-20-2016  8:32 AM
+
+Arrive   May-20-2016 10:38 AM
+
+=09
+	Number of connections  =20
+
+=09
+=09
+=09
+	Nonstop
+=09
+=09
+=09
+=09
+=09
+=09
+
+
+
+=09
+=09
+=09
+
+
+
+Airline   American Airlines 2708
+
+Depart   May-23-2016  6:15 AM
+
+Arrive   May-23-2016  7:50 AM
+
+=09
+	Number of connections  =20
+
+=09
+=09
+=09
+	Nonstop
+=09
+=09
+=09
+=09
+=09
+=09
+
+
+
+=09
+=09
+=09
+
+
+
+Airline   United 1785
+
+Depart   May-25-2016  7:00 AM
+
+Arrive   May-25-2016  9:52 AM
+
+=09
+	Number of connections  =20
+
+=09
+=09
+=09
+	Nonstop
+=09
+=09
+=09
+=09
+=09
+
+
+
+=09
+=09
+=09
+
+
+
+Flight option 2: Washington (DCA) to Kansas City (MCI)
+
+Price   $884.70
+=09
+=09
+=09
+
+
+
+Airline   American Airlines 4605
+
+Depart   May-20-2016  8:32 AM
+
+Arrive   May-20-2016 10:38 AM
+
+=09
+	Number of connections  =20
+
+=09
+=09
+=09
+	Nonstop
+=09
+=09
+=09
+=09
+=09
+=09
+
+
+
+=09
+=09
+=09
+
+
+
+Airline   American Airlines 2708
+
+Depart   May-23-2016  6:15 AM
+
+Arrive   May-23-2016  7:50 AM
+
+=09
+	Number of connections  =20
+
+=09
+=09
+=09
+	Nonstop
+=09
+=09
+=09
+=09
+=09
+=09
+
+
+
+=09
+=09
+=09
+
+
+
+Airline   United 600
+
+Depart   May-25-2016  6:00 AM
+
+Arrive   May-25-2016  8:53 AM
+
+=09
+	Number of connections  =20
+
+=09
+=09
+=09
+	Nonstop
+=09
+=09
+=09
+=09
+=09
+
+
+
+=09
+=09
+=09
+
+
+
+Flight option 3: Washington (DCA) to Kansas City (MCI)
+
+Price   $893.20
+=09
+=09
+=09
+
+
+
+Airline   United 605
+
+Depart   May-20-2016  7:00 AM
+
+Arrive   May-20-2016 10:32 AM
+
+=09
+	Number of connections  =20
+
+=09
+=09
+	1 stop
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+
+
+
+=09
+=09
+=09
+
+
+
+Airline   United 1153
+
+Depart   May-23-2016  7:40 AM
+
+Arrive   May-23-2016  9:11 AM
+
+=09
+	Number of connections  =20
+
+=09
+=09
+=09
+	Nonstop
+=09
+=09
+=09
+=09
+=09
+=09
+
+
+
+=09
+=09
+=09
+
+
+
+Airline   United 1785
+
+Depart   May-25-2016  7:00 AM
+
+Arrive   May-25-2016  9:52 AM
+
+=09
+	Number of connections  =20
+
+=09
+=09
+=09
+	Nonstop
+=09
+=09
+=09
+=09
+=09
+
+
+
+=09
+
+
+
+=09
+=09
+=09
+
+
+
+=09
+=09
+	=
+
+=09
+	Car: Enterprise, Kansas City, MO (MCI-Kansas City Intl.)
+=09
+
+
+
+=09
+
+=09
+	Arranged by   Scott Comer
+
+=09
+=09
+=09
+	Price at submission   $101.86
+
+=09
+	Start date   Friday May-20-2016
+
+End date   Monday May-23-2016
+
+=09
+	Policy   Out of policy
+
+=09
+=09
+=09
+=09
+=09
+	Department   Finance (01)
+
+=09
+=09
+=09
+	Booking status  =20
+=09
+
+
+
+=09
+	=09
+=09
+=09
+
+=09
+=09
+=09
+
+Not booked
+
+
+
+Approval status  =20
+=20
+	Awaiting approval
+=09
+
+=09
+=09
+	Approval Comments
+
+=09
+=09
+	17-May-16 bobby flights + car (Scott Comer)
+=09
+=09
+
+
+
+=09
+=09
+
+=09
+
+=09
+
+=20
+=09
+=09
+
+
+
+=09
+
+=20
+

@@ -1,0 +1,103 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [75.102.5.22])
+	by domain.com (Postfix) with ESMTP id 26CE9314404C
+	for <user@domain.com>; Wed, 22 Jul 2015 04:47:20 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 8606F232030;
+	Wed, 22 Jul 2015 04:50:48 +0000 (UTC)
+X-Virus-Scanned: amavisd-new at domain.com
+X-Spam-Flag: NO
+X-Spam-Score: 0.911
+X-Spam-Level: 
+X-Spam-Status: No, score=0.911 tagged_above=-10 required=6.6
+	tests=[BAYES_00=-2.599, HTML_MESSAGE=0.001,
+	HTML_MIME_NO_HTML_TAG=0.097, MIME_HTML_ONLY=1.457, URIBL_BLACK=1.955]
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id MRVhNvX+Z6sW; Wed, 22 Jul 2015 04:50:43 +0000 (UTC)
+Received: from domain.com (domain.com [66.7.215.142])
+	by domain.com (Postfix) with ESMTP id E890B23201C
+	for <user@domain.com>; Wed, 22 Jul 2015 04:50:42 +0000 (UTC)
+Received: from nobody by domain.com with local (Exim 4.69)
+	(envelope-from <user@domain.com>)
+	id 1MTTjP-00028e-72
+	for user@domain.com; Wed, 22 Jul 2015 07:47:07 +0300
+To: user@domain.com
+Subject: Security Measures
+X-PHP-Script: domain.com/gallery/albums/bm.php for 77.44.131.173, 213.178.224.164
+From: PayPal Cecurity Center <support@paypal.com>
+Reply-To: 
+MIME-Version: 1.0
+X-Mailer: mailer :) 
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Message-Id: <user@domain.com>
+Date: Wed, 22 Jul 2015 07:47:07 +0300
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - domain.com
+X-AntiAbuse: Original Domain - domain.com
+X-AntiAbuse: Originator/Caller UID/GID - [99 32003] / [47 12]
+X-AntiAbuse: Sender Address Domain - domain.com
+X-Source: 
+X-Source-Args: /usr/local/apache/bin/httpd -DSSL 
+X-Source-Dir: domain.com:/public_html/gallery/albums
+Content-Length: 3778
+Lines: 84
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1111
+
+PayPal
+#obmessage .dummy {}
+#z BODY, #z  TD {font-family: verdana,arial,helvetica,sans-serif;
+font-size:12px;color: #000000;}
+
+Information about your account:
+Dear customer PayPal:
+
+Attention! Your PayPal account has been limited!
+
+As part of our security measures, we regularly check the activity of the screen PayPal.
+We requested information from you for the following reason:
+
+Our system has detected unusual charges to a domain.com card linked to your PayPal account.
+
+Reference Number: PP-318-321-835
+
+This is the last reminder to log into PayPal, as soon as possible. Once you connect. PayPal will provide measures to restore access to your account.
+
+
+
+
+Once connected, follow the steps to activate your account. We appreciate your understanding as we work to ensure the safety Account
+
+Thank you for your attention to this question. Please understand that this is a security measure intended to protect you and your account. We apologize for any inconvenience ..
+
+Department review PayPal accounts
+
+
+
+Copyright  1999-2009 PayPal. All rights reserved.
+
+
+
+ PayPal Register Number: 226056.
+
+PayPal Email ID PP059
+
+Protect your account
+
+Be sure to never give your password to fraudulent websites. 
+
+Any safe access to the site or your PayPal account, open a new web browser (domain.com Explorer or Netscape) and typing in the login page of PayPal (<<link>>) to make sure you are on the real PayPal site
+For more information on fraud protection, please consult our safety tips  
+Protect your password 
+You should never give your PayPal password to anyone
+
+Protect your password
+
+You should never give your password to anyone PayPal.
+

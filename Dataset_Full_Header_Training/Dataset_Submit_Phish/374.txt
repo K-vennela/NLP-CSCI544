@@ -1,0 +1,51 @@
+Return-Path: <0-user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 6877C23CAAD
+	for <user@domain.com>; Tue,  4 Oct 2015 06:27:52 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id AjIPNV-zCjma for <user@domain.com>;
+	Tue,  4 Oct 2015 06:27:49 -0500 (CDT)
+Received: from device.lan (93-141-43-203.domain.com.t-com.hr [93.141.43.203])
+	by domain.com (Postfix) with ESMTP id A626C23CAA4
+	for <user@domain.com>; Tue,  4 Oct 2015 06:27:49 -0500 (CDT)
+Received: from 93.141.43.203(helo=fsixt.bpapartrl.info)
+	by device.lan with esmtpa (Exim 4.69)
+	(envelope-from )
+	id 1MMPCB-0858ve-VG
+	for user@domain.com; Tue, 4 Oct 2015 12:27:47 +0100
+From: info@nacha.org
+To: <user@domain.com>
+Subject: ACH Payment Canceled
+Date: Tue, 4 Oct 2015 12:27:47 +0100
+MIME-Version: 1.0
+Content-Type: text/html
+	charset="iso-8859-2"
+X-Priority: 3
+X-Mailer: oemkoybo-12
+Message-ID: <5707921579.user@domain.com>
+Content-Transfer-Encoding: quoted-printable
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 13
+
+The ACH transaction (ID: 7227211335885)<=
+/b>,
+
+recently initiated from your checking account (by you or any other person=
+), was canceled by the other financial institution.
+
+Rejected transaction
+
+Transaction ID:  7227211335885
+
+Reason for rejection:  See details in the report below
+
+Transaction Report: report_7227=
+211335885.pdf (self-extracting archive, Adobe PDF) 
+
+	13450 Sunrise Valley Drive, Suite 100 Herndon, VA 20171 (703) 561-1100

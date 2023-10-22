@@ -1,0 +1,45 @@
+Return-Path: <user@domain.com>
+Reply-To: <user@domain.com>
+From: "HackingTeam" <support@hackingteam.com>
+To: <user@domain.com>
+Subject: [!PEX-793-73158]: Assignment - Problem with a event agent.
+Date: Wed, 16 Oct 2015 11:13:15 +0200
+Message-ID: <1381914795.525user@domain.com>
+X-Mailer: Microsoft Outlook 15.0
+Thread-Index: AQGz0L0R5arzUZnbAV+eFclyRxr9WQ==
+X-OlkEid: 0000000065B99B20C2857749979341BFED77CC1B070034AD76187591974DBF6C4F76951C873A01005249000000000230709749A9DC45970DBCF6F077600B00000000605C0000593CE1C00472BA43A48A05417EB79970
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-615933390_-_-"
+
+Massimo Chiodini updated #PEX-793-73158
+
+---------------------------------------
+
+Staff (Owner): Guido Landi (was: Bruno Muschitiello)
+
+Problem with a event agent.
+
+---------------------------
+
+Ticket ID: PEX-793-73158
+URL: <<link>>
+Name: netsec
+Email address: user@domain.com
+Creator: User
+Department: General
+Staff (Owner): Guido Landi
+Type: Issue
+Status: In Progress
+Priority: Medium
+Template group: Default
+Created: 02 October 2015 09:48 AM
+Updated: 02 October 2015 12:30 PM
+
+We are investigating internally, we'll keep you informed.
+
+Kind regards
+
+Staff CP:  <<link>>
+

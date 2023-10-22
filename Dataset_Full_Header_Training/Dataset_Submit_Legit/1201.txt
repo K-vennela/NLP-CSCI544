@@ -1,0 +1,244 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 26 Apr
+ 2015 18:19:13 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 26 Apr 2015 
+ 18:19:08 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 881644517
+ for user@domain.com; Tue, 26 Apr 2015 17:19:14 -0500
+X-Note-AR-ScanTimeLocal: 4/26/2016 5:19:12 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @skdknick.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->->United States->
+X-Note-Sending-IP: 157.56.110.111
+X-Note-Reverse-DNS: mail-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from [157.56.110.111] (HELO
+ na01-bn1-domain.com)  by domain.com
+ (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 135262151 for user@domain.com;
+ Tue, 26 Apr 2015 17:19:12 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=domain.com; s=selector1-skdknick-com;
+ h=From: Natalie Raps <nraps@skdknick.com>
+ bh=32GJHlxKL78H5wODkdjoXbWNJ8sVC/zkC7FcwnrmUL0=;
+ b=M/Uuv+CdMScoahnAg6yf4Bn7x7Gx39FZ3BrR+PgAtPsu1NaEFaDN51YGxXxCphsmWEqYquSaURi1ntr5Qnf6eWWXsxf/eSb897bl7tU20yUWrOZoPPtpIesflNVNSIZUdZlxPtqDvbr13NaurKRv9ipw1YiMAQvAkjEFuJxoloo=
+Received: from domain.com (10.163.155.157) by
+ domain.com (10.163.155.154) with Microsoft
+ SMTP Server (TLS) id 15.1.477.8; Tue, 26 Apr 2015 22:19:08 +0000
+Received: from domain.com ([10.163.155.157]) by
+ domain.com ([10.163.155.157]) with mapi id
+ 15.01.0477.012; Tue, 26 Apr 2015 22:19:08 +0000
+From: Natalie Raps <nraps@skdknick.com>
+To: Natalie Raps <user@domain.com>
+Subject: Today from the Constitutional Responsibility Project
+Thread-Topic: Today from the Constitutional Responsibility Project
+Thread-Index: AdGgCDnGX8hBHekITJCQMGI9A0bIQg==
+Date: Tue, 26 Apr 2015 22:19:06 +0000
+Message-ID: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+authentication-results: skdknick.com; dkim=none (message not signed)
+ header.d=none;skdknick.com; dmarc=none action=none header.from=skdknick.com;
+x-originating-ip: [50.193.144.129]
+x-ms-office365-filtering-correlation-id: 48b4730e-cb4b-4bf1-6e57-08d36e20c960
+x-microsoft-exchange-diagnostics: 1;BY2PR0701MB1941;5:AHj5NXDIQSDtUdqPPeHe4QWkz98PhL7vYnmAbmgU0IznL/IbYLcBDirXQOMXJ4BWJk+5g06hAzNa6tapVrmcn3tjJI6RBicV9sTTAexbUNyXHzCt3wbNXCYobTi3O7Q/ke+CCX6NrDDP8GSK8zhuMA==;24:1e0QxDA8IKEvMhXKjN0A/o79Ilql1wreV6qzPm67VkA5iQ957o/F9nhSx4o/uv45dJcucro0Wwwk78M64IF/kFVj9j79aScfF3x8+Wjt+7M=;7:ANwUP3mIZ67wfHj5z1FZaWiErKN4N/4+y2iuS0peT00Od/PU5+7PM/vN47+aaYlsM1rmxlBYjWURPxebmLZSCValqRComGYVtoTkJ2wo/8zrtUC7Xy1G8i2F6cz1jqyILyaSZl/i9JZ1y7I4qI5aIk8Skw6GWA7t1f/P9Uc8tJE7Cnb4Bl2Ob1WHg4DwrOZN
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:;SRVR:BY2PR0701MB1941;
+x-ld-processed: 51f4a8d4-10a8-4d6c-bc10-f2546164f7db,ExtAddr
+x-microsoft-antispam-prvs: <user@domain.com>
+x-exchange-antispam-report-test: UriScan:;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(9101521072)(601004)(2401047)(5005006)(8121501046)(3002001)(10201501046);SRVR:BY2PR0701MB1941;BCL:0;PCL:0;RULEID:;SRVR:BY2PR0701MB1941;
+x-forefront-prvs: 0924C6A0D5
+x-forefront-antispam-report: SFV:NSPM;SFS:(10019020)(124975003)(40154002)(37854004)(168794002)(149424002)(110136002)(107886002)(6200100001)(189998001)(229853001)(76576001)(5002640100001)(9686002)(15395725005)(122556002)(81166005)(19625215002)(74316001)(33656002)(5003600100002)(99286002)(19617315012)(16236675004)(1220700001)(102836003)(87936001)(3280700002)(3660700001)(50986999)(2900100001)(19300405004)(6116002)(790700001)(4001450100002)(10400500002)(2906002)(77096005)(15975445007)(586003)(1096002)(92566002)(19580405001)(19580395003)(54356999)(66066001)(5004730100002)(86362001)(5008740100001)(11100500001)(7059030)(546114003);DIR:OUT;SFP:1102;SCL:1;SRVR:BY2PR0701MB1941;H:domain.com;FPR:;SPF:None;MLV:sfv;LANG:en;
+spamdiagnosticoutput: 1:23
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_BY2PR0701MB1944240FA3FBA4A0C007BF54D3630BY2PR0701MB1944_"
+X-MS-Exchange-CrossTenant-originalarrivaltime: 26 Apr 2015 22:19:06.8420
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 51f4a8d4-10a8-4d6c-bc10-f2546164f7db
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BY2PR0701MB1941
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Today in the call for a full, nine bench Supreme Court: Senate Democrats jo=
+in environmental advocates to discuss importance of filling the Supreme Cou=
+rt vacancy, Florida Republican Senate candidate David Jolly calls for Garla=
+nd nomination hearing and a vote, while editorial boards and political anal=
+ysts continue to note the poisonous political game Senate Republicans are p=
+laying over Chief Judge Garland's nomination.
+
+Senate Democrats And Environmental Advocates Call On Republican Senators: #=
+DoYourJob
+Today, Senator Barbara Boxer, Senator Brian Schatz, Senator Martin Heinrich=
+ and Senator Ed Markey joined NextGen Climate, Green for All, League for Co=
+nservation Voters and Clean Water Action on the steps of the U.S. Supreme C=
+ourt with a clear demand for Senate Republicans: do your job by giving Pres=
+ident Obama's Supreme Court nominee full and fair consideration. A video of=
+ the event can be found here<<<link>>
+6072332614291/>.
+
+Sen. Boxer (D-CA): "We cannot afford to have a deadlocked court, which coul=
+d lead to different rules in different parts of the country and inconsisten=
+t protections for public health and the environment."
+
+Sen. Heinrich (D-NM): "Challenges to the President's Clean Power Plan will =
+ultimately end up being heard before the U.S. Supreme Court. This is precis=
+ely the type of case that the American people cannot have end in a 4-4 tie.=
+ It is my sincere hope that Republicans will end their obstructionism and t=
+ake their jobs and constitutional duties seriously."
+
+Sen. Schatz (D-HI): It's time for Senate Republicans to end the political g=
+ames, fulfill their constitutional duty, and join us in restoring the Supre=
+me Court to its full strength."
+
+Sen. Markey (D-MA): "Landmark rulings on the Clean Water Act and the Clean =
+Air Act explain why just one vacancy on this Supreme Court has such enormou=
+s impact and why the stakes are so high. We simply cannot afford to have a =
+vacancy on the Supreme Court for the sake of environmental and climate prot=
+ections." [NextGen Press Release, 04/26/16<<<link>>
+/outside-u-s-supreme-court-senate-democrats-environmental-advocates-call-re=
+publican-senators-doyourjob/>]
+
+GOP Senate candidate: Chief Judge Merrick Garland deserves a vote.
+During a debate last night, Rep. David Jolly (R-FL), who is currently runni=
+ng for the Florida Senate seat, said that he supports hearings and a vote f=
+or Chief Judge Garland.
+
+Rep. David Jolly: "I do think he should have a hearing and I would like to =
+see a vote...That's actually the proper exercise of the Senate's Article I =
+authority." [Huffington Post, 04/26/16<<<link>>
+david-jolly-supreme-court-nominee_us_571f65aee4b01a5ebde32fb5>]
+
+Sen. Leahy calls Republican obstruction not a "history the Senate should be=
+ proud of."
+Speaking at the Kennedy Institute, Senate Judiciary Committee Ranking Membe=
+r Patrick Leahy (D-Vt.) invoked the legacy of the late Sen. Edward Kennedy =
+(D-Mass.), during whose tenure no pending Supreme Court nominee was denied =
+a hearing and a vote.
+
+Sen. Leahy: "These days, we certainly could use some more of Senator Kenned=
+y's commitment to the Constitution,...[Senator Kennedy] understood the mome=
+ntous nature of Supreme Court nominations, as well as the historic and cons=
+titutionally-mandated role of the Senate....To deny Chief Judge Garland a p=
+ublic hearing and a vote would be truly historic - but that is not the kind=
+ of history the Senate should be proud of." [Senator Leahy Press Release, 0=
+4/16/16<<<link>>
+y-d-vt-ranking-member-senate-judiciary-committee-remarks-at-the-edward-m-ke=
+nnedy-institute-event-the-us-senates-role-in-confirming-supreme-court-justi=
+ces>]
+
+Salt Lake Tribune: Hatch should reciprocate and consider Garland nomination=
+ for Supreme Court.
+The editorial board of the Salt Lake Tribune<<<link>>
+3817394-155/editorial-hatch-should-reciprocate-and-consider> urges Sen. Orr=
+in Hatch (R-UT) to give Chief Judge Garland's nomination the same considera=
+tion President Obama gave Ronald G. Russell, who is now awaiting Senate act=
+ion on his nomination to the U.S. District Court for Utah.
+
+"But Utah's elder statesman has two good reasons to break from the pack, st=
+op the partisan melodrama and show leadership, to spend some of the politic=
+al capital that he has accumulated over four decades. Merrick Garland and R=
+onald G. Russell are nominees he admires. Instead of contributing to poison=
+ous politics, he could actually do something to fix it, something to loosen=
+ the appointment logjam and help courts function the way they are intended.=
+...Obama acted on your choice to fill a federal judgeship in Utah. You shou=
+ld reciprocate. It is what Utahns elected you to do."
+
+Republican Senators can blame McConnell for "forcing them to carry the alba=
+tross of Garland obstructionism around their necks."
+Juan Williams, a FOX News policy analyst, writes in the Hill<<<link>>
+.com/opinion/juan-williams/277434-juan-williams-gops-supreme-court-block-wi=
+ll-backfire?utm_source=3D&utm_medium=3Demail&utm_campaign=3D1427> that poll=
+ after poll shows that Senate Republicans are on the wrong side of the Supr=
+eme Court nomination debate.
+
+"Yes, blocking a nominee from Obama will appeal to the hard-right base of t=
+he GOP. But McConnell's most vulnerable Senate incumbents come from states =
+that Obama won in 2012...McConnell's blunt refusal to consider Garland fits=
+ with the image of the broken, dysfunctional Republican Party that is forci=
+ng Senate candidates to run away from its nominating convention." [The Hill=
+, 04/26/16<<<link>>
+ps-supreme-court-block-will-backfire?utm_source=3D&utm_medium=3Demail&utm_c=
+ampaign=3D1427>]
+
+Illinois City Council passes resolution urging Senate to hold hearings and =
+a vote for Chief Judge Garland.
+The Daily Northwestern<<<link>>
+uncil-urges-u-s-senate-to-hold-hearings-for-scotus-nominee-merrick-garland/=
+
+Evanston Mayor Elizabeth Tisdahl: "[The Supreme Court] certainly does impac=
+t us. It'd be nice to have gun control decisions come from the Supreme Cour=
+t and it would certainly make a big difference in the city of Evanston. ...=
+ The Supreme Court now is ending up in 4-4 ties."
+
+Councilmember Donald Wilson: "If other aspects of the government is not doi=
+ng their jobs, it directly impacts us...It's our expectation that our repre=
+sentatives do their jobs as they're supposed to do. We're not asking for a =
+specific result we are just asking that people do their jobs."
+
+Toledo officials tell Sen. Portman to do his job.
+According to the Toledo Blade<<<link>>
+6/Local-Democrats-blast-Senate-over-Supreme-Court-nominee.html>:
+
+"Today outside the Lucas County Courthouse, Toledo Mayor Paula Hicks-Hudson=
+ and Lucas County commissioners Carol Contrada and Pete Gerken - all Democr=
+ats - blasted Republicans in the United State Senate for failing to move on=
+ President Obama's Supreme Court nomination of federal appeals judge Merric=
+k Garland."
+
+Lucas County commissioner Pete Gerken: "I'm demanding Senate Republicans do=
+ their job...Senator Portman, your job is clear. Do your job." [Toledo Blad=
+e, 04/26/16<<<link>>
+blast-Senate-over-Supreme-Court-nominee.html>]
+
+A look ahead at upcoming Senate courtesy meetings with Chief Judge Merrick =
+Garland:
+
+WEDNESDAY 4/27/16
+
+?  Senator Mike Rounds (R-SD)
+
+?  Senator James Lankford (R-OK)
+
+?  Senator Jim Inhofe (R-OK)
+
+A look ahead at a sampling of activity by our grassroots allies & Democrati=
+c Senators:
+
+WEDNESDAY 4/27/16
+
+Event: Why Courts Matter: A Discussion on the Impact of the Supreme Court V=
+acancy
+Location: Rivers Club, 301 Grant St, Pittsburgh, PA 15219
+Time: 12PM local time
+Host: American Constitution Society
+Key briefers/speakers: Professor Richard Painter, S. Walter Richey Professo=
+r of Corporate Law, University of Minnesota Law School; Professor Craig Gre=
+en, James E. Beasley Professor of Law, Temple University Beasley School of =
+Law; Richard Brean, General Counsel, United Steelworkers; Board of Advisors=
+, ACS Pittsburgh Lawyer Chapter
+Press Contact: Lena Zwarensteyn, 202-741-0708, user@domain.com<mail=
+to:user@domain.com>
+RSVP Information: HERE
+<<<link>>
+1=3Dca84mLSbD0>
+###
+

@@ -1,0 +1,18 @@
+<x-flowed>
+Thanks Tim! We'll have another round later, confirmed by Tim, when we 
+discuss storage and
+documentation - probably should try before WGCM meeting so that David 
+can present results.
+the 'near term prediction' is a mip all by itself, so there will be some 
+guidance coming up hopefully!
+In terms of ensemble size: for the stuff I was involved in, even one run 
+from a model was good since
+it increased the overall ensemble size for multi model means and 
+estimates of variance - did you analyze
+models individually? I would be keen to hear from the group:
+is say a single 20th c run, single natural only run, single ghg run
+a) useless
+b) much better than nothing?
+| vouch for b) for things I was involved in but it would be good to know 
+for which applications its a!
+Gabi

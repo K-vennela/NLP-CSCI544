@@ -1,0 +1,210 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 10 May
+ 2015 09:29:00 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 10 May 2015 
+ 09:28:57 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 906304507;
+ Tue, 10 May 2015 08:29:04 -0500
+X-Note-AR-ScanTimeLocal: 5/10/2016 8:28:59 AM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @egencia.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: United States->
+X-Note-Sending-IP: 216.251.112.210
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from domain.com ([216.251.112.210] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 137529475;
+ Tue, 10 May 2015 08:28:58 -0500
+Message-ID: <078edd$1user@domain.com>
+From: Egencia TripController <no-reply@egencia.com>
+To: <user@domain.com>, <user@domain.com>
+Reply-To: <user@domain.com>
+Date: Tue, 10 May 2015 06:28:57 -0700
+Subject: =?iso-8859-15?Q?ACTION=A0REQUIRED:=A0TripController=A0-=A0Jordan=A0Kaplan=A0-=A0Chicago,=A0IL=A0-=A0May=A016,=A02016=A0-=A0Approved?=
+Content-Type: text/html; charset="iso-8859-15"
+Content-Transfer-Encoding: quoted-printable
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Importance: high
+X-Priority: 1
+MIME-Version: 1.0
+
+=09
+=09
+=09
+=09
+=09
+
+
+
+Jordan Kaplan's trip approval request has been approved by Bradl=
+ey Marshall
+
+=09
+=09
+
+=09
+
+
+
+=09
+
+
+
+	ACTION REQUIRED:=20
+
+
+
+	Though the travel items are approved, they have not all been booked. You m=
+ust go to the Egencia website to complete booking of these items. Please ch=
+eck your itinerary for additional information.
+
+
+
+=09
+
+
+
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+
+=09
+=09
+=09
+
+
+
+	Book Now
+
+
+
+=09
+=09
+
+=09
+=09
+=09
+=09
+
+
+
+Traveler Jordan Kaplan (user@domain.com)
+
+Itinerary Chicago, IL 2=
+3759844402
+
+=09
+=09
+	=
+
+=09
+	Hotel: The James Chicago, Chicago
+=09
+
+
+
+=09
+
+=09
+=09
+=09
+	Price at submission   $261.83
+
+=09
+	Start date   Monday May-16-2016
+
+End date   Tuesday May-17-2016
+
+=09
+	Policy   Out of policy
+
+=09
+=09
+=09
+=09
+=09
+	Department   Finance (01)
+
+=09
+=09
+=09
+	Booking status  =20
+=09
+
+
+
+=09
+	=09
+=09
+=09
+
+=09
+=09
+
+Not Reserved
+
+
+
+Approval status  =20
+=20
+ Approved
+=20
+
+=09
+=09
+
+
+
+=09
+=09
+
+=09
+
+=09
+
+=20
+=09
+=09
+
+
+
+=09
+
+=20
+

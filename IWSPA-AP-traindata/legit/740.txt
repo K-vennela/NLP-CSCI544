@@ -1,0 +1,8 @@
+Tom,
+Program and the input LKS file. Program is adapted from one I had. Ended up a little
+convoluted. Should work with any of the 4 CRU temp data files (CRUTEM2(v), HadCRUT2(v)).
+For the Russian, grid point, changing 4 59 to 4 57 will give a box with data in from
+1929.
+3rd file is my unix run file - for files to channels.
+Cheers
+Phil

@@ -1,0 +1,80 @@
+Received: from domain.com (146.215.230.103) by
+ domain.com (43.130.141.78) with Microsoft SMTP Server id
+ 8.3.264.0; Thu, 16 Jan 2015 07:06:06 -0800
+Received: from domain.com ([160.33.194.230])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s0GF64tg010359	for <user@domain.com>; Thu, 16 Jan 2015 
+ 15:06:04 GMT
+Received: from mail96-ch1-domain.com (mail-domain.com
+ [216.32.181.170])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s0GF63nG024812
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Thu, 16 Jan 2015 15:06:03 GMT
+Received: from mail96-ch1 (localhost [127.0.0.1])	by mail96-ch1-domain.com
+ (Postfix) with ESMTP id 58DF44A0137	for <user@domain.com>; Thu, 16
+ Jan 2015 15:06:03 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:205.201.134.40;KIP:(null);UIP:(null);IPV:NLI;H:domain.com;RD:domain.com;EFVD:NLI
+X-SpamScore: 9
+X-BigFish: vps9(z3e12hzc89bh758Ic857h77f5h879duzz1f42h208ch1ee6h1de0h1fdah2073h2146h1202h1a79M1e76h2189h1d1ah1d2ah1fc6hzz8275ch1de098h1def03h17326ah1def87h8275bh1bc7b9h8275dh1def86h18c673h19a27bh1de097h1de096h186068h1ce121iz2fheh5eh5fh839ha45hd24h10d2h1288h12a5h137ah139eh13eah1441h1537h162dh1631h1758h1898h18e1h1946h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e00h1e1dh1e23h1fe8h1ff5h20f0h2218h2216h226dh2327h2336h2438h2461h2487h1d9ci1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail96-ch1: domain of domain.com designates 205.201.134.40 as permitted sender) client-ip=205.201.134.40; user@domain.com; helo=domain.com ;31.domain.com ;
+Received: from mail96-ch1 (localhost.localdomain [127.0.0.1]) by mail96-ch1
+ (MessageSwitch) id 1389884760409441_10556; Thu, 16 Jan 2015 15:06:00 +0000
+ (UTC)
+Received: from domain.com (domain.com
+ [10.43.68.239])	by mail96-domain.com (Postfix) with ESMTP id 5E9001A004C
+	for <user@domain.com>; Thu, 16 Jan 2015 15:06:00 +0000 (UTC)
+Received: from domain.com (205.201.134.40) by
+ domain.com (10.43.70.18) with Microsoft SMTP Server id
+ 14.16.227.3; Thu, 16 Jan 2015 15:05:56 +0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=domain.com;
+ h=Subject:From: =?utf-8?Q?TheWrap=20FirstTake?= <noreply@thewrap.com>
+ bh=K3TWnGhP8nu3sO37TbU1Je+SJQY=;
+ b=ur7LYZKY5QysyMGksQUNlLlA+k9wdSagO5NZzpRQCrSJ6nVMjk+smfEFZ9mVajUO75QeNTzvvqFn
+   xkdCzC2srqjsfHjNXBiIDe4+37ruxQNqy5OEBjBLAdWFu/JDymH2ledLLz7KvVL5c75KGGMCv0It
+   a5bzxQPFtgl2DotSS4w=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=domain.com;
+ b=OaOJsAqipv9HLrPoU9MjPIX7X5c42m6/r1Pr3N4IvrxNyuPgRFekLQU3WtBsJzdqiV1TWYm9Q+Uw
+   yO2ocNztCwQNMFn66qXxcJYyCrhQwHrYtIAkBnHWnNvajErFvwxsn75EnzmiQiUxCtz91BjdeuxX
+   xj3MKWEtV5OwklOsFEM=;
+Received: from (127.0.0.1) by domain.com id hqvql81mqrot for
+ <user@domain.com>; Thu, 16 Jan 2015 15:05:45 +0000 (envelope-from
+ <user@domain.com>)
+Subject: =?utf-8?Q?Oscar=20Nominations=3B=2010=20Buzzed=2DAbout=20Filmmakers=20From=20Sundance=3B=20Anatomy=20of=20a=20Spring=20Blockbuster?=
+From: =?utf-8?Q?TheWrap=20FirstTake?= <noreply@thewrap.com>
+Reply-To: =?utf-8?Q?TheWrap=20FirstTake?= <user@domain.com>
+To: =?utf-8?Q?Amy?= <user@domain.com>
+Date: Thu, 16 Jan 2015 15:05:45 +0000
+Message-ID: <4300user@domain.com>
+X-Mailer: MailChimp Mailer - **CIDf1fcc671c61ed11e912a**
+X-Campaign: mailchimp4300eb945fab9dc8942c198f9.f1fcc671c6
+X-campaignid: mailchimp4300eb945fab9dc8942c198f9.f1fcc671c6
+X-Report-Abuse: Please report abuse for this campaign here: <<link>>
+X-MC-User: 4300eb945fab9dc8942c198f9
+X-Feedback-ID: 112894:112894.2286957:us1:mc
+x-accounttype: pd
+List-Unsubscribe: <mailto:user@domain.com?subject=unsubscribe>, <<<link>>>
+Sender: TheWrap FirstTake <user@domain.com>
+x-mcda: FALSE
+Return-Path: 
+ user@domain.com
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+TheWrap's First Take  TheWrap's First Take      January 16, 2014        
+
+<<link>>://thewrap.us1.list-domain.com/track/click?u=4300eb945fab9dc8942c198f9&id=6de1c418dc&e=1ed11e912a<<link>>://thewrap.us1.list-domain.com/track/click?u=4300eb945fab9dc8942c198f9&id=b2ccfc350a&e=1ed11e912a<<link>>://thewrap.us1.list-domain.com/track/click?u=4300eb945fab9dc8942c198f9&id=c44e219a45&e=1ed11e912a<<link>>://thewrap.us1.list-domain.com/track/click?u=4300eb945fab9dc8942c198f9&id=50c7524fe7&e=1ed11e912a<<link>>://thewrap.us1.list-domain.com/track/click?u=4300eb945fab9dc8942c198f9&id=80563d3fab&e=1ed11e912a  
+
+
+
+ <<link>>://thewrap.us1.list-domain.com/track/click?u=4300eb945fab9dc8942c198f9&id;=c4b785709a&e;=1ed11e912a 
+ <<link>>    
+
+Oscar Nominations: ’12 Years a Slave,’ ‘Gravity,’ ‘American Hustle’ Lead the Pack 
+
+Plus: Complete List of Nominees
+
+ <<link>>
+

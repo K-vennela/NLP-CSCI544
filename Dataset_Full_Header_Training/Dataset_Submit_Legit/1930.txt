@@ -1,0 +1,151 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Sun, 1 May
+ 2015 18:05:37 -0400
+Received: from server555.appriver.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Sun, 1 May 2015 
+ 18:05:36 -0400
+Received: from [10.87.0.113] (HELO inbound.appriver.com)  by
+ server555.appriver.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 890129662
+ for user@domain.com; Sun, 01 May 2015 17:05:38 -0500
+X-Note-AR-ScanTimeLocal: 5/1/2016 5:05:36 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: 72.3.212.195 ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->United States->
+X-Note-Sending-IP: 72.3.212.195
+X-Note-Reverse-DNS: outbound.appriver.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G8 G275 G276 G277 G278 G282 G283 G293 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDIP
+X-Note: Headers Injected
+Received: from [72.3.212.195] (HELO outbound.appriver.com)  by
+ inbound.appriver.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 136113580
+ for user@domain.com; Sun, 01 May 2015 17:05:36 -0500
+Received: from [10.242.231.127] (HELO server551sql)  by outbound.appriver.com
+ (CommuniGate Pro SMTP 6.1.2)  with ESMTP id 30846736 for user@domain.com;
+ Sun, 01 May 2015 17:05:36 -0500
+From: AppRiver SpamLab <notice@appriver.com>
+To: <user@domain.com>
+Date: Sun, 1 May 2015 17:05:36 -0500
+Subject: Held Spam Report for 4/30/2016
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+Message-ID: <user@domain.com>
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+															Daily Held Spam Report
+
+
+
+user@domain.com
+
+Saturday, April =
+30, 2016
+
+View, Search, Sort Report |
+										Request Current Report |
+										Change Report Settings
+
+Spam: 5
+
+																																	=09
+
+
+
+View |
+											Release
+
+user@domain.com
+
+He Did What? Tackle Employee Discipline Head On
+
+												2:45p from United States (9.77 KB)
+
+
+
+																									=09
+
+
+
+View |
+											Release
+
+user@domain.com=
+et
+
+Build Profitability: Master Skills to Analyze & Manage Org=
+anizational Finances
+
+												12:19p from United States (5.49 KB)
+
+
+
+																									=09
+
+
+
+View |
+											Release
+
+user@domain.com
+
+Unacceptable Behavior: When and Where to Draw the Line<=
+br>
+												9:49a from United States (9.16 KB)
+
+
+
+																									=09
+
+
+
+View |
+											Release
+
+user@domain.com=
+et
+
+Financial Forecasting: Leverage Excel Shortcuts & Time-Sav=
+ing Tricks, Access Begins 5/4
+
+												4:54a from United States (10.17 KB)
+
+
+
+																									=09
+
+
+
+View |
+											Release
+
+user@domain.com
+
+Upcoming live web courses for Finance professionals
+
+												4:16a from United States (35.33 KB)
+
+
+
+Virus: 0
+
+Outbound: 0
+
+Copyright ©2003-2016=20
+															AppRiver, All Rights Reserved
+
+
+
+Unsubscribe
+

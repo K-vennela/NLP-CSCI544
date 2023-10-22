@@ -1,0 +1,129 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Fri, 20 May
+ 2015 08:03:25 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Fri, 20 May 2015 
+ 08:03:19 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 925865513
+ for user@domain.com; Fri, 20 May 2015 07:03:33 -0500
+X-Note-AR-ScanTimeLocal: 5/20/2016 7:03:24 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @politico.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->
+X-Note-Sending-IP: 68.232.198.10
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from domain.com ([68.232.198.10] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 139728171
+ for user@domain.com; Fri, 20 May 2015 07:03:23 -0500
+Received: by domain.com id h7rugm163hss for <user@domain.com>; Fri,
+ 20 May 2015 06:03:14 -0600 (envelope-from
+ <user@domain.com>)
+From: Morning Money <morningmoney@politico.com>
+To: <user@domain.com>
+Subject: =?UTF-8?B?UE9MSVRJQ08ncyBNb3JuaW5nIE1vbmV5OiBEb2VzIHRoZSBJVEMg?=
+ =?UTF-8?B?cmVwb3J0IHNlbGwgVFBQIHNob3J0PyDigJQgVGhpbmdzIHRoYXQgbWFrZSB5?=
+ =?UTF-8?B?b3UgZ28gaG1tbSDigJQgQW5vdGhlciBoYWNrIHN1cmZhY2VzIOKAlCBUaGUg?=
+ =?UTF-8?B?ZWxlY3Rpb24gdGhhdCBldmVyeW9uZSBoYXRlcw==?=
+Date: Fri, 20 May 2015 06:03:14 -0600
+List-Unsubscribe: <mailto:user@domain.com>
+Reply-To: POLITICO subscriptions
+	<user@domain.com>
+x-job: 1376319_5442727
+Message-ID: <75442user@domain.com>
+Content-Type: multipart/alternative; boundary="y0RN1O755hHj=_?:"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+By Ben White | 05/20/2016 08:00 AM EDT
+
+DOES THE ITC REPORT SELL TPP SHORT? - Supporters of the Trans Pacific Partnership note that the ITC report, which showed only modest economic benefits, also repeatedly said it could be understating TPP's impact, particularly in the services sector. A report for the Peterson Institute for International Economics found a larger impact and the ITC acknowledged that its model may not have captured everything the Peterson report did. A couple examples from the ITC report: 
+
+"U.S. services providers would face fewer barriers to entering new markets, and would likely increase exports in services where the United States has a strong competitive advantage, such as cloud computing services or express delivery services. Gains within these more narrowly defined industries may be substantially higher than in the more aggregated sectors available in the Commission's model." ... 
+
+"The impact of TPP's other provisions on the U.S. economy is generally difficult to quantify. These provisions would likely improve the overall regulatory climate for trade and investment between the United States and the other TPP parties, particularly for new FTA partners" 
+
+University of Chicago's Austan Goolsbee emails on the ITC report: "I think the ITC model has always been basically just manufacturing and does not including services. in the old days that didn't matter - almost all exports were goods - but these days that dramatically understates things because the U.S. is the biggest service exporter in the world. 
+
+"The Peterson number includes everything (as well as some other methodological differences that are definite improvements such as properly accounting for increasing returns/specialization in industries). I think it's widely viewed by economists as more accurate. In a way it was surprising the ITC number was as big as it was given the limitations." 
+
+THINGS THAT MAKE YOU GO HMMM ... Donald Trump on Thursday in New Jersey: "Look, a lot of you don't know the world of economics and you shouldn't even bother. Just do me a favor, leave it to me."
+
+Donald Trump, also on Thursday in New Jersey: "Who the hell cares if there's a trade war?"
+
+How do you square these two things? Well, you can't. Any U.S. consumer, especially lower income consumers, would care a lot if there was a trade war and the price of imported goods skyrocketed. Retaliatory tariffs from China and Mexico would then crush U.S. exports and cost U.S. jobs from those working in exporting industries. It would also drive up costs for American manufacturers reliant on imports for raw materials. It would likely mean recession or worse. But, you know, who cares?!? 
+
+ANOTHER HACK SURFACES - WSJ's Devlin Barrett and Katy Burne: "A little-noticed domain.com details a hacking attack similar to one that stole $81 million from Bangladesh's central bank, saying cybercriminals stole about $9 million last year from a bank in Ecuador. The case suggests global bankers haven't been sharing critical information to prevent such heists. ... The February 2015 cyberheist involving Bangladesh Bank has elevated concerns about the security of the global financial system in the face of persistent cyberattacks" <<link>>
+
+THE ELECTION THAT EVERYONE HATES - NYT's Jonathan Martin and Dalia Sussman: "Mr. Trump and Mrs. Clinton are widely disliked by voters ... Mr. Trump's and Mrs. Clinton's soaring levels of unpopularity are extraordinary for the likely nominees of the two major parties. Nearly two-thirds of voters, for example, say that Mr. Trump is not honest and trustworthy. Just as many say the same of Mrs. Clinton. Strong majorities of voters say the candidates do not share their values.
+
+"Mr. Trump's difficulties appear to be more troublesome at the moment. If the election were held now, 47 percent of registered voters would support Mrs. Clinton, versus 41 percent for Mr. Trump ... Republican voters remain remarkably pessimistic about the state of their party. More than eight in 10 call the party divided, and 43 percent say they are discouraged about its future." <<link>>
+
+Full poll results: <<link>>
+
+MAYBE NONE OF THIS MATTERS - Bloomberg: "The U.S. economy and American businesses are strong enough to weather the election of either Donald Trump or Hillary Clinton as president, according to James Dinan, founder of hedge fund York Capital Management and a Clinton donor. ... 
+
+"If either Clinton or Trump becomes president, 'it's really not going to affect our economy and affect our businesses,' Dinan ... said on Fox Business Network's Wall Street Week, which is scheduled to air Friday. 'I actually think the U.S. economy is stronger than a lot of people are willing to domain.com.'" <<link>>
+
+GOOD FRIDAY MORNING - Have a great weekend everyone! Email me on user@domain.com and follow me on Twitter @morningmoneyben. 
+
+THIS MORNING ON POLITICO PRO FINANCIAL SERVICES - Colin Wilhelm on a lobbying campaign against the Puerto Rico fix that is angering Speaker Paul Ryan and conservative activists - and to get Morning Money every day before 6 a.m. - please contact Pro Services at (703) 341-4600 or user@domain.com 
+
+G-7 READOUT - Via Treasury from Sendai, Japan: "U.S. Treasury Secretary Jacob J. Lew met today with Eurogroup President and Finance Minister of the Netherlands Jeroen Dijsselbloem on the sidelines of the G-7 Finance Ministers and Central Bank Governors Meeting. ... Secretary Lew and Minister Dijsselbloem discussed progress being made toward concluding the first review of Greece's economic reform program and finding a sustainable path forward in a timely manner. 
+
+"The Secretary underscored the importance of Europe following through on its commitment to put Greece's debt on a sustainable path through meaningful debt relief, adding that all parties need to be flexible to successfully conclude the negotiations."
+
+TERRORISM NOT RULED ON IN EGYPTAIR CRASH - FT: "Authorities are refusing to rule out that an EgyptAir passenger jet with 66 people on board that crashed into the Mediterranean Sea early on Thursday morning was brought down by an act of terrorism. ... There was confusion on Thursday evening about the progress of the search for the aircraft, which had been en route from Paris to Cairo. EgyptAir originally said that debris found in the sea off Crete had been confirmed as coming from the missing flight. 
+
+"Greece's air safety authority, however, contradicted that, prompting EgyptAir to withdraw the claim. The search is expected to resume on Friday morning. Sherif Fathy, Egypt's aviation minister, said the possibility of a terrorist attack was higher than technical failure, but added: 'It is still speculations and assumptions.' Contrary to some reports, a US official said that, so far, there was no evidence in satellite imagery of an explosion." <<link>>
+
+THE TRUMPS OF EUROPE - WSJ's Anton Troianovski: "After the migrant crisis erupted last summer, a throng of European voters have delivered a series of electoral successes to populist parties offering such messages. ... From Denmark to France, the parties' gains have heightened the sense of crisis in the European Union. In an echo of Donald Trump 's rise in the U.S., an increasing number of Europeans are rejecting basic principles shared by the center-left and center-right. 
+
+"These voters want things few mainstream parties offer: a tougher line on immigrants, weaker or no EU ties and, often, closer links with Russia. They have no confidence in ruling elites they see as aloof, corrupt and disconnected from their lives" <<link>>
+
+TRUMP CAN'T DEPORT 11 MILLION - NYT's Julia Preston, Alan Rappeport and Matt Richtel: "Mr. Trump has suggested he will flesh out his ideas in a forthcoming speech. But experts across many fields who have analyzed his plans so far warn that they would come at astronomical costs - whoever paid - and would in many ways defy the logic of science, engineering and law. ... Mr. Trump contends that the start of deportations would show immigrants he meant business and prompt many to leave on their own, and that it would take about two years to finish the job. There, the specifics end.
+
+"Former senior immigration and border officials are skeptical, to put it mildly. Deportations have peaked recently at about 400,000 a year, so the increase in scale to reach Mr. Trump's goal would be exponential. And many legal procedures and constitutional constraints on the police did not exist in the Eisenhower era ... Finding those immigrants would be difficult, experts said. Police officers across the country would need to ask people for proof of residency or citizenship during traffic stops and street encounters" <<link>>
+
+MICKELSON SNARED IN TRADING PROBE - FT's Kara Scannell: "Golfer Phil Mickelson has agreed to give back $931,000 in profits he made from stock trades as US authorities pursued insider trading charges against a famous sports gambler and a former chairman of Dean Foods. ... William "Billy" Walters, a golf course owner and leading figure in the sports betting industry, was charged with gleaning non-public information about the food and dairy company's earnings and its plans to spin-off an organic food line from Thomas Davis, his long-time friend and a former Dean Foods chairman and director.
+
+"By trading in advance of company announcements from 2015 to 2014, Mr Walters made $32m in profits and avoided $11m in losses, according to a federal indictment. Over phone calls and text messages, Mr Walters urged Mr Mickelson to buy shares of Dean Foods ahead of spinning off its organic food subsidiary WhiteWave, according to the SEC. Mr Mickelson, who had never owned shares of Dean Foods before, had gambling debts owed to Mr Walters at the time of the trade, authorities allege" <<link>>
+
+SANDERS TO GET CONVENTION CONCESSIONS - WP's Abby Phillip and Anne Gearan: "In an attempt to head off an ugly conflict at its convention this summer, the [DNC] plans to offer a concession to Sen. Bernie Sanders - seats on a key convention platform committee - but it may not be enough to stop Sanders from picking a fight over the party's policy positions. Allies of both Clinton and Sanders have urged Democratic leaders to meet some of Sanders's more mundane demands for greater inclusion at the Philadelphia convention. 
+
+"Their decision to do so is expected to be finalized by the end of the week ... But growing mistrust between Sanders supporters and party leaders have threatened to undermine that effort. Even with the committee assignments, Sanders plans an aggressive effort to extract platform concessions on key policies that could prompt divisive battles at a moment when front-runner Hillary Clinton will be trying to unify the party. Among other issues, he plans to push for a $15 national minimum wage and argue that the party needs a more balanced position regarding Israel and Palestinians" <<link>>
+
+AN ANTI-MERGER GROUP NOT ALL IT APPEARS TO BE - Via STAT News: "They bill themselves as representing ordinary people concerned about health insurance mergers. But it turns out a group calling itself the Campaign for Consumer Choice (CCC) is actually being orchestrated by major hospital companies worried about their bottom lines. ... In an exclusive report, STAT reveals that the CCC was created and funded by the Greater New York Hospital Association and the union representing its employees. The American Medical Association also plays a role" <<link>>
+
+DEUTSCHE PROBING TRADES - WSJ's Jenny Strasburg: "Deutsche Bank AG is investigating a series of trades that may have improperly generated millions of dollars in personal profits, some at the bank's expense, for a handful of current and former employees ... Among those who internal auditors believe profited from the trades is Colin Fan, these people said. Mr. Fan was co-head of Deutsche Bank's investment bank when he left as part of a shake-up in October. The auditors estimate Mr. Fan has made $9 million on a roughly $1 million investment.
+
+"The trades, which started in 2009, were meant to remove some of the risk that Deutsche Bank had taken when it made a deal with a large insurance-company client ... Some of the trades continue. Led by Mr. Fan's team, Deutsche Bank found a hedge fund to take over the bulk of the risk-offloading part of the deal ... But the fund didn't put up all the cash: Mr. Fan and five other Deutsche Bank employees chipped in some of their own money." <<link>>
+
+ASIA HEADS TO WEEKLY LOSS - Reuters: "Asian shares edged up on Friday but were on track for a weekly loss, while the dollar was poised for a winning week on bets the U.S. Federal Reserve could raise rates as early as next month. ... The New York Fed's William Dudley, a permanent voting member of the central bank's rate-setting committee, said there was a strong sense among Fed officials that markets were underestimating the probability of policy tightening and that the bank was on track for a rate hike in June or July. Dudley said he was 'quite pleased' investors had apparently increased bets that a rate hike would come soon." <<link>>
+
+GOLD TAKES HIT AS FED EYES HIKE - Bloomberg: "Gold is heading for the longest run of weekly losses this year courtesy of the Federal Reserve, which signaled in comments from policy makers and meeting minutes that U.S. interest rates may rise as early as June. Bullion for immediate delivery was little changed at $1,255.39 an ounce at 11:13 a.m. in Singapore, down for a third week, the longest losing streak since November, according to Bloomberg generic pricing. It sank to $1,243.90 on Thursday, the lowest since April 28, as a resurgent dollar hurt demand.
+
+"Gold's rally in 2016, which saw prices climb to a 15-month high, has been thrown into reverse as investors reassess the likelihood of higher U.S. borrowing costs, which damp the appeal of bullion. Following the release of the April minutes that suggested increases were on the cards, New York Fed President William Dudley said on Thursday a June-July time frame for a hike was reasonable, while Richmond Fed President Jeffrey Lacker said there was a very strong case for a raise next month" <<link>>
+
+To view online:
+<<link>>
+ To change your alert settings, please go to <<link>> or <<link>> email was sent to user@domain.com by: POLITICO, LLC 1000 Wilson Blvd. Arlington, VA, 22209, USA
+
+To unsubscribe,<<link>>
+

@@ -1,0 +1,17 @@
+<x-flowed>
+Dear all,
+Just to add a bit to Ben's notes. The conceptual problem is how to 
+account for two different types of uncertainty in comparing a single
+observed trend (with temporal uncertainty) with the average of a
+bunch of model trends (where the uncertainty is from inter-model 
+differences). The "old" d3 tried to do this, but failed the synthetic 
+data test. The new d3 does this a different way (in the way that the
+inter-model uncertainty term is quantified). This passes the synthetic
+data test very well.
+The new d3 test differs from DCSP07 only in that it includes in the
+denominator of the test statistic an observed noise term. This is by
+far the bigger of the two denominator terms. Ignoring it is very
+wrong, and this is why the DCSP07 method fails the synthetic data
+test.
+Tom.
+++++++++++++++++++++++++

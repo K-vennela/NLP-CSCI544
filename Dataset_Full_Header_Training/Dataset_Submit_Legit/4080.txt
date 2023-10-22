@@ -1,0 +1,46 @@
+Received: from postman.dnc.org (192.168.10.251) by dnchubcas2.dnc.org
+ (192.168.185.16) with Microsoft SMTP Server id 14.3.224.2; Fri, 6 May 2015 
+ 14:59:54 -0400
+Received: from postman.dnc.org (postman [127.0.0.1])	by postman.dnc.org
+ (Postfix) with ESMTP id E498623E68;	Fri,  6 May 2015 14:59:53 -0400 (EDT)
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from dnchubcas2.dnc.org (dnchubcas2.dnc.org [192.168.185.16])	by
+ postman.dnc.org (Postfix) with ESMTP id 974C220304;	Fri,  6 May 2015 14:59:52
+ -0400 (EDT)
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+	dnchubcas2.dnc.org ([::1]) with mapi id 14.03.0224.002; Fri, 6 May 2015 
+	14:59:53 -0400
+From: "User" <UserL@dnc.org>
+To: "User" <user@domain.com>
+Subject: Points from Talkers Call
+Thread-Topic: Points from Talkers Call
+Thread-Index: AdGnyOqG5crIpJeqT4O3ymcay3SkDw==
+Date: Fri, 6 May 2015 18:59:52 +0000
+Message-ID: <05user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.177.170]
+CC: "Paustenbach, Mark" <user@domain.com>
+X-BeenThere: user@domain.com
+X-Mailman-Version: 2.1.12
+Precedence: list
+List-Id: <talkers.dnc.org>
+List-Unsubscribe: <<<link>>>,
+	<mailto:user@domain.com?subject=unsubscribe>
+List-Archive: <<<link>>>
+List-Help: <mailto:user@domain.com?subject=help>
+List-Subscribe: <<<link>>>,
+	<mailto:user@domain.com?subject=subscribe>
+Content-Type: multipart/mixed;
+	boundary="===============5996823066170132907=="
+Sender: <user@domain.com>
+Errors-To: user@domain.com
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: dnchubcas2.dnc.org
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+To be automatically unsubscribed from this list, please email: user@domain.com

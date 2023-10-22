@@ -1,0 +1,97 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 3 May
+ 2015 22:03:09 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 3 May 2015 
+ 22:03:03 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 895023994
+ for user@domain.com; Tue, 03 May 2015 21:03:04 -0500
+X-Note-AR-ScanTimeLocal: 5/3/2016 9:03:02 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: 0
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-75/SG:5 5/3/2016 9:01:17 PM
+X-GBUdb-Analysis: 0, 65.55.169.248, Ugly c=0.634697 p=-0.0147992 Source Normal
+X-Signature-Violations: 0-0-0-7929-c
+X-Note-419: 15.6204 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/3/2016 9:02:43 PM
+X-Warn: RETURNPATH No Return Path Listed.
+X-Note: Spam Tests Failed: RETURNPATH
+X-Country-Path: LOCAL->->United States->
+X-Note-Sending-IP: 65.55.169.248
+X-Note-Reverse-DNS: mail-domain.com
+X-Note-Return-Path: 
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G383 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from [65.55.169.248] (HELO
+ na01-bl2-domain.com)  by domain.com
+ (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 136437782 for user@domain.com;
+ Tue, 03 May 2015 21:03:01 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=domain.com; s=selector1-blueenginemedia-com;
+ h=From: Jessica Borchert <jessica@blueenginemedia.com>
+ bh=2oVgrTmo3z1CuvPEfVJPmEZwtmFRRFeLpf2as7e8/hY=;
+ b=ed22C42Oj1Gtdg0CPeo1SKSpefcVz0R/pibps4/X+04YkXZCaX+WfGPT9PvipqdaTH2wwI3SyJp+/IEZXhpCiM8ywV4H26c9HY19IYsza+eTlqez7+JP9hVfWIKCltjZ+3uv3k6f3+fKoyWpwLk0++hbMHzF4MHJJz1h17nlhe4=
+Received: from domain.com (10.160.134.151) by
+ domain.com (10.160.134.150) with Microsoft
+ SMTP Server (TLS) id 15.1.485.3; Wed, 4 May 2015 02:02:59 +0000
+Received: from domain.com ([127.0.0.1]) by
+ domain.com ([10.160.134.151]) with Microsoft
+ SMTP Server id 15.01.0485.011; Wed, 4 May 2015 02:02:59 +0000
+From: Jessica Borchert <jessica@blueenginemedia.com>
+To: "User" <user@domain.com>
+Subject: Automatic reply: OrganizationTalking Points: Cruz Out, Trump is the GOP
+Thread-Topic: OrganizationTalking Points: Cruz Out, Trump is the GOP
+Thread-Index: AdGlqQtWhjDmi5ZzQCewGUA7mmZIkgAAAnsQ
+Date: Wed, 4 May 2015 02:02:59 +0000
+Message-ID: <user@domain.com>
+References: <05user@domain.com>
+In-Reply-To: <05user@domain.com>
+X-MS-Has-Attach: 
+X-Auto-Response-Suppress: All
+X-MS-Exchange-Inbox-Rules-Loop: user@domain.com
+X-MS-TNEF-Correlator: 
+authentication-results: domain.com; dkim=none (message not signed)
+ header.d=none;domain.com; dmarc=none action=none
+ header.from=blueenginemedia.com;
+x-ms-exchange-parent-message-id: <05user@domain.com>
+auto-submitted: auto-generated
+x-ms-exchange-generated-message-source: Mailbox Rules Agent
+x-ms-office365-filtering-correlation-id: d77dfbc6-fe57-422d-c5d4-08d373c037c5
+x-microsoft-exchange-diagnostics: 1;DM2PR0801MB1117;5:ecsNEXJBdvCjKuNah1D6Sp/ZHV7IN7v6La+FrL4NLJwNR02l/JL+yhTX8C7/XJbHby4dgISQnyYp7aAn4t5g4cFjTNOsgXXoGHyeAyw8QaJ7sHxV2V2szspcYG7KtX3EdLexVL/f11X+EufFtsKBcg==;24:TyAJ64Lb3R4aIMk+l0htNd5LPsnp3JLXsEUSVfuqEOn/XW6XaBniWAL/ZJzWFXAjNDnd1OyVRGbeZQz5LId+hig/PaUnrvtv7zm7/2LbDbM=;7:rFB1TbbQ2hLJcO+oxxyZzd33x0ZvSZzXEX92TDVwuYCHSpdrinCGnSI2a2eYL59MgspYmyQCQeN/UqheK+RT3jVlz3rTKGoeWssDpwHg9roo+WJa9gXpLV6c8SwL0Ntxx4cH48J9nj0gPIejKEMZ1pIFNN2yED3ZhtH+iwLRbsMJxpIs7yotgGDsZHl+vvIQ
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:;SRVR:DM2PR0801MB1117;
+x-microsoft-antispam-prvs: <user@domain.com>
+x-exchange-antispam-report-test: UriScan:;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(9101529026)(601004)(2401047)(8121501046)(5005006)(10201501046)(3002001);SRVR:DM2PR0801MB1117;BCL:0;PCL:0;RULEID:;SRVR:DM2PR0801MB1117;
+x-forefront-prvs: 093290AD39
+x-forefront-antispam-report: SFV:NSPM;SFS:(10009020)(6009001)(52284002)(5003600100002)(229853001)(2906002)(77096005)(33646002)(92566002)(5008740100001)(3110400002)(450100001)(99286002)(122556002)(102836003)(1220700001)(11100500001)(15975445007)(19580395003)(5002640100001)(586003)(78352003)(42382002)(558084003)(8936002)(3660700001)(81166005)(3280700002)(110136002)(2950100001)(19300405004)(189998001)(54356999)(50986999)(76176999)(9686002)(345774005)(107886002)(87936001)(50650200001)(76576001)(108616004)(19625215002)(16236675004)(24736003)(74316001)(46342002);DIR:OUT;SFP:1501;SCL:1;SRVR:DM2PR0801MB1117;H:domain.com;FPR:;SPF:None;MLV:ovrnspm;PTR:InfoNoRecords;LANG:en;
+spamdiagnosticoutput: 1:23
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_f72598d8f0024c2fbb84a722bdca25b3DM2PR0801MB1118namprd08_"
+X-MS-Exchange-CrossTenant-originalarrivaltime: 04 May 2015 02:02:59.5213
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 2138a939-c6be-49b9-a268-ded25fd39341
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: DM2PR0801MB1117
+Return-Path: <>
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Hello, I currently out of the office with limited access to email until Thu=
+rsday, May 5. I will do my best to answer any urgent messages in a timely m=
+anner. Thank you for your patience.
+
+Best,
+Jessica
+

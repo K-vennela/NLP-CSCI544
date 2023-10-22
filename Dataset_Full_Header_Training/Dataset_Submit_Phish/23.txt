@@ -1,0 +1,54 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id 3A159469D0
+	for <user@domain.com>; Fri, 24 Aug 2015 20:03:49 -0400 (EDT)
+X-Greylist: delayed 89629 seconds by postgrey-1.27 at domain.com; Fri, 24 Aug 2015 20:03:49 EDT
+Received: from domain.com (unknown [216.154.3.234])
+	by domain.com (Postfix) with ESMTP id 5AF8E131FD4F
+	for <user@domain.com>; Fri, 24 Aug 2015 20:03:49 -0400 (EDT)
+Received: from User (domain.com [155.212.100.6]) BY domain.com ([216.154.3.234])
+ WITH ESMTP (4D WebSTAR V Mail (5.4.0)); Thu, 23 Aug 2015 12:06:58 -0400
+Reply-To: <user@domain.com>
+From: "refund@irs.gov"<refund@irs.gov>
+Subject: Tax refund
+Date: Thu, 23 Aug 2015 12:08:09 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20070825000349.5user@domain.com>
+To: undisclosed-recipients:;
+Content-Length: 1805
+Lines: 43
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 62
+
+.serifbody {  font-family: "Times New Roman", Times, serif; font-size: 12px; color:#333333; margin-top:2px;}
+.footer {  font-family: "Times New Roman", Times, serif; font-size: 10px;color:#666666;}
+
+After the last
+            annual calculations of your fiscal activity we have determined that
+            you are eligible to receive a tax refund of $109.30. 
+Please domain.com the tax refund request and allow us 6-9 days in order to process it.
+A refund can be delayed for a variety of reasons. For example
+            submitting invalid records or applying after the deadline.
+To access the form for your tax refund,
+            please click here
+Regards, 
+
+            Internal Revenue Service
+
+
+
+
+© Copyright 2007,
+        Internal Revenue Service U.S.A..
+

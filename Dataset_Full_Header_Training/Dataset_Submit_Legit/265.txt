@@ -1,0 +1,70 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Mon, 16 Jun 2015 12:10:23 +0200
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id 64CF460060	for
+ <user@domain.com>; Mon, 16 Jun 2015 10:58:08 +0100 (BST)
+Received: by domain.com (Postfix)	id 1AC41B6603C; Mon, 16 Jun 2015 
+ 12:10:24 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from [172.20.20.150] (unknown [172.20.20.150])	(using TLSv1 with
+ cipher DHE-RSA-AES128-SHA (128/128 bits))	(No client certificate requested)
+	by domain.com (Postfix) with ESMTPSA id 0A729B6600D;	Mon, 16 Jun
+ 2015 12:10:24 +0200 (CEST)
+Message-ID: <539user@domain.com>
+Date: Mon, 16 Jun 2015 12:10:23 +0200
+From: Emanuele Placidi <e.placidi@hackingteam.com>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.5.0
+To: Fabrizio Cornelli <user@domain.com>
+CC: <user@domain.com>
+Subject: Re: Buongiorno e benvenuti.
+References: <user@domain.com>
+In-Reply-To: <user@domain.com>
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EMANUELE PLACIDIEA3
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-765567701_-_-"
+
+    Grazie!
+
+    ml checked!
+
+
+
+
+      Buongiorno e benvenuti.
+      :)
+
+--
+Fabrizio Cornelli
+
+            Senior Software Developer
+
+            Hacking Team
+
+            Milan Singapore Washington DC
+
+www.hackingteam.com
+
+            email: user@domain.com
+
+            mobile: +39 3666539755
+
+            phone: +39 0229060603
+
+-- 
+Emanuele Placidi
+X Software Developer
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com
+mobile: +39 <unknown>
+phone: +39 <unknown>

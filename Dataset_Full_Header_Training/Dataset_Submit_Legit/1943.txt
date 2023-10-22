@@ -1,0 +1,86 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Sat, 30 Apr
+ 2015 14:54:06 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Sat, 30 Apr 2015 
+ 14:53:54 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 889333680
+ for user@domain.com; Sat, 30 Apr 2015 13:54:07 -0500
+X-Note-AR-ScanTimeLocal: 4/30/2016 1:54:03 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:156.33.195.70 DOM:merkley.senate.gov ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 100
+X-GBUdb-Analysis: 0, 156.33.195.70, Ugly c=0.596657 p=-0.883792 Source Normal
+X-Signature-Violations: 100-6832681-1659-13512-m
+	100-6832681-1659-18615-m
+	100-6832681-0-22067-f
+X-Note-419: 31.2514 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 4/30/2016 1:53:46 PM
+X-Warn: BULKMAILER
+X-Note: Spam Tests Failed: BULKMAILER
+X-Country-Path: ->->United States->United States->
+X-Note-Sending-IP: 156.33.195.70
+X-Note-Reverse-DNS: p-ess-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G280 G285 G373 G572 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from p-ess-domain.com ([156.33.195.70] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 136027093
+ for user@domain.com; Sat, 30 Apr 2015 13:54:03 -0500
+Return-Path: <user@domain.com>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=domain.com;
+	s=senate-msb1604; t=1462042442;
+	bh=ydEHBMsC4WYG7IeY/zE5oGtRM1SfoN5AjLfTxVxJ120=;
+	h=From: "Zaccaro, Ray (Merkley)" <Ray_Zaccaro@merkley.senate.gov>
+	b=j/1kMLywRM/nGEqH/rPcmijVj/ZLjMIE8gKdS/+35JMRBAIuKzpqfexPVR7r0uixv
+	 QzO7zjcY22arXXEwZ2ql3CYy6Jb783DP8g24OQylS3OxGOHFdfATjyVcJspbuP1PSB
+	 GyEtFJFBubtd0zs3U9CIul5JDJjoGM+OfSKp/LBo=
+Authentication-Results: p-ess-domain.com x-tls.subject="/CN=P-ESS-SEN-EX16"; auth=fail (cipher=AES256-SHA)
+Received: from [156.33.238.138] ([156.33.238.138:47119]
+ helo=P-ESS-SEN-EX16.senate.ussenate.us)	by p-ess-domain.com
+ (envelope-from <user@domain.com>)	(ecelerity 4.2.1.51128
+ r(Core:4.2.1.5)) with ESMTPS (cipher=AES256-SHA	subject="/CN=P-ESS-SEN-EX16")
+ 	id CD/61-25000-A4FF4275; Sat, 30 Apr 2015 14:54:02 -0400
+Received: from P-ESS-SEN-EX14.senate.ussenate.us (156.33.238.136) by
+ P-ESS-SEN-EX16.senate.ussenate.us (156.33.238.138) with Microsoft SMTP Server
+ (TLS) id 15.0.1130.7; Sat, 30 Apr 2015 14:54:02 -0400
+Received: from P-ESS-SEN-EX14.senate.ussenate.us ([fe80::357a:38e3:631b:3bf3])
+ by P-ESS-SEN-EX14.senate.ussenate.us ([fe80::357a:38e3:631b:3bf3%17]) with
+ mapi id 15.00.1130.005; Sat, 30 Apr 2015 14:54:02 -0400
+From: "Zaccaro, Ray (Merkley)" <Ray_Zaccaro@merkley.senate.gov>
+To: "User" <user@domain.com>
+Subject: Re: Heather Wild just got you tickets to Diamond Joe Biden's Badass
+ Balls-To-The-Wall Fiesta
+Thread-Topic: Heather Wild just got you tickets to Diamond Joe Biden's Badass
+ Balls-To-The-Wall Fiesta
+Thread-Index: AQHRocnmYiaRu0agnkOxjPGncVlY9Z+i1WEbgAAKXVM=
+Date: Sat, 30 Apr 2015 18:54:02 +0000
+Message-ID: <78user@domain.com>
+References: <20160429034747.23559.97393@prod-task-domain.com>,<6user@domain.com>
+In-Reply-To: <6user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-ms-exchange-transport-fromentityheader: Hosted
+Content-Type: multipart/alternative;
+	boundary="_000_78CE29D7AD8F4E65A3C749D41B6E3CEFmerkleysenategov_"
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Thank you so much!
+
+Sent from my iPhone
+
+On Apr 30, 2016, at 2:18 PM, User <user@domain.com<mailto:User=

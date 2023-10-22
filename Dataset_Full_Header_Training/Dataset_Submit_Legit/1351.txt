@@ -1,0 +1,76 @@
+Received: from domain.com (146.215.230.102) by
+ domain.com (43.130.141.78) with Microsoft SMTP Server id
+ 8.3.264.0; Thu, 16 Jan 2015 07:48:11 -0800
+Received: from domain.com ([160.33.194.228])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s0GFm9Wf003609	for <user@domain.com>; Thu, 16 Jan 2015 
+ 15:48:09 GMT
+Received: from mail168-ch1-domain.com (mail-domain.com
+ [216.32.181.174])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s0GFm89E012688
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Thu, 16 Jan 2015 15:48:08 GMT
+Received: from mail168-ch1 (localhost [127.0.0.1])	by
+ mail168-ch1-domain.com (Postfix) with ESMTP id 3D29C18016B	for
+ <user@domain.com>; Thu, 16 Jan 2015 15:48:08 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:46.236.37.170;KIP:(null);UIP:(null);IPV:NLI;H:relay-3-170.domain.com;RD:relay-3-170.domain.com;EFVD:NLI
+X-SpamScore: -11
+X-BigFish: vps-11(zb10ILz9371Id79ahc857hzz1f42h208ch1ee6h1de0h1fdah2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6h1ff3rzz1def03h17326ah1def87h8275bh1bc7b9h8275dh1def86h1de097h1de096h186068h1d68dehz2fh5fh2a8h839ha12he5bh10d2h1288h12a5h12bdh137ah139eh13eah1441h14ddh1537h162dh1631h1758h1898h18e1h1946h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1e23h1fe8h1ff5h20f0h2218h2216h226dh22d0h2327h2336h2438h2461h2487h1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail168-ch1: domain of todaysgc-domain.com designates 46.236.37.170 as permitted sender) client-ip=46.236.37.170; user@domain.com; helo=relay-3-170.domain.com ;domain.com ;
+Received: from mail168-ch1 (localhost.localdomain [127.0.0.1]) by mail168-ch1
+ (MessageSwitch) id 1389887286347438_28860; Thu, 16 Jan 2015 15:48:06 +0000
+ (UTC)
+Received: from domain.com (domain.com
+ [10.43.68.234])	by mail168-domain.com (Postfix) with ESMTP id
+ 46E9F2A004F	for <user@domain.com>; Thu, 16 Jan 2015 15:48:06 +0000
+ (UTC)
+Received: from relay-3-170.domain.com (46.236.37.170) by
+ domain.com (10.43.70.4) with Microsoft SMTP Server (TLS) id
+ 14.16.227.3; Thu, 16 Jan 2015 15:48:01 +0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=domain.com; s=msgf;
+	h=From: =?UTF-8?Q?Today=E2=80=99s=20General=20Cou?= =?UTF-8?Q?nsel=20?=
+	b=Fe8qnUnD4P7OrXBOv2ehK5u3zQVytq7wPp5dis/k+XCTxhpRiPaQWLMpcS+S+Yn2l05VeN0+O5dYLTmoJn6kW/QK4jLSQcHLDT6roBs6D70AC1YESnctEJogMURhOKIcSOGTXHzhc8QXnA4YVatyjntwWDdtuJHtTBEJI4qzM0o=;
+X-Mailer: MessageFocus Launcher (2.0-dev)
+Subject: Measuring For Value, A Webcast With Kia Motors, Lex Machina and ReInvent Law
+Date: Thu, 16 Jan 2015 15:48:00 +0000
+Reply-To: =?UTF-8?Q?Today=E2=80=99s=20General=20Cou?= =?UTF-8?Q?nsel=20?=
+	<user@domain.com>
+Message-ID: <user@domain.com>
+To: <user@domain.com>
+From: =?UTF-8?Q?Today=E2=80=99s=20General=20Cou?= =?UTF-8?Q?nsel=20?=
+	<user@domain.com>
+Return-Path: user@domain.com
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+Join Kia Motors, Lex Machina and the law laboratory, ReInvent Law!
+
+Is this email not displaying correctly?
+
+View it in your browser.
+
+ ilde transparent back   
+
+Measuring for Value Webcast
+
+The Institute for Law Department Excellence (ILDETM), invites you to join Kia Motors, Lex Machina and ReInvent Law for an informative dialog entitled..."Measuring for Value: Addressing the Challenges in Measuring Performance Quality In and Outside of the Corporate Law Department."
+
+As law departments seek to reduce their legal spend, the question is how to optimize the trade-off between cost and benefits. This requires ever sophisticated metrics in order to be successful. The problem is that truly measuring attorney and vendor quality and performance is perhaps the most difficult measurement problem facing the industry.
+
+<<link>>
+
+Presenters:
+
+Daniel Katz, Associate Professor of Law & Co-Director, ReInvent Law: a Law Laboratory Devoted to Innovation, Technology & Entrepreneurship
+
+Casey Flaherty, Corporate Counsel, Kia Motors
+
+Josh Becker, CEO, Lex Machina
+
+Date and Time:
+
+Tuesday, January
+

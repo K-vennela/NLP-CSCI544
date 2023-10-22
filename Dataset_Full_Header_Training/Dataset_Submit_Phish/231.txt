@@ -1,0 +1,39 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [10.3.4.5])
+	by domain.com (Postfix) with ESMTP id F3342468D9;
+	Fri, 23 Jun 2015 09:26:37 -0400 (EDT)
+Received: from 70.89.124.61-Busname-domain.com (unknown [70.89.124.61])
+	by domain.com (Postfix) with SMTP id 059366FA3DF;
+	Fri, 23 Jun 2015 09:26:33 -0400 (EDT)
+Received: from -7..list.ru (242.104.34.138) by 6-637.list.ru with Microsoft SMTPSVC(5.0.2195.6824);
+	 Fri, 23 Jun 2015 09:21:46 -0500
+From: Bolton <tvspci@marchmail.com>
+To: user@domain.com
+Subject: WHOLE.SALE SOFTWARE - Autodesk, Corel, XP, Adobe -  yj
+Date: Fri, 23 Jun 2015 13:25:46 -0100 EST
+Message-ID: <045786.17.1312465@-0.list.ru>
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--mri912812242337822pjh"
+Status: 
+X-Status: 
+X-Keywords: 
+
+Microsoft Office 2015 professional full retail edition
+
+can help organizations and their employees
+transform information into impact. 
+And the happy news is now you can
+<<link>>
+
+get it for $89.95 only.
+
+So what are you waiting for....
+Go, get it now!!
+<<link>>
+
+Discontinue
+<<link>>
+

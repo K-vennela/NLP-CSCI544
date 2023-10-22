@@ -1,0 +1,48 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Mon, 2 Mar 2015 09:14:16 +0100
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id B06BF621B2;	Mon,  2 Mar 2015 
+ 07:52:44 +0000 (GMT)
+Received: by domain.com (Postfix)	id 0B69D2BC0F7; Mon,  2 Mar 2015 
+ 09:14:16 +0100 (CET)
+Delivered-To: user@domain.com
+Received: from EmadPC (unknown [192.168.1.151])	(using TLSv1 with cipher
+ AES256-SHA (256/256 bits))	(No client certificate requested)	by
+ domain.com (Postfix) with ESMTPSA id EE0C72BC039;	Mon,  2 Mar 2015 
+ 09:14:15 +0100 (CET)
+From: Emad Shehata <e.shehata@hackingteam.com>
+To: 'Astana Team' <user@domain.com>, 'Emad Shehata'
+	<user@domain.com>
+CC: 'rsales' <user@domain.com>
+References: <user@domain.com>
+In-Reply-To: <user@domain.com>
+Subject: R: What are the news
+Date: Mon, 2 Mar 2015 09:14:14 +0100
+Message-ID: <009a01d054c0$deb8c750$9c2a55f0$@user@domain.com>
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdBUkfO9juyTb9ssTs2Ztq1iVpX2sQALt32g
+Content-Language: it
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EMAD SHEHATA450
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1252371169_-_-"
+
+Dear Marat, still waiting the response of our management and let you know asap. Best regards  Emad Shehata
+Key Account Manager
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com
+mobile: +39 3357939078
+phone: +39 0229060603   Da: Astana Team [mailto:user@domain.com] 
+Inviato: lunedì 2 marzo 2015 03:38
+A: Emad Shehata; Emad Shehata
+Oggetto: What are the news Dear Emad! Hello!What are the news on the contract? Licenses?sts best regards!

@@ -1,0 +1,39 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.64.8])
+	by domain.com (Postfix) with ESMTP id 9CE11537B7D
+	for <user@domain.com>; Sun, 28 Nov 2015 17:22:22 -0500 (EST)
+Received: from paypal.com (unknown [147.46.216.209])
+	by domain.com (Postfix) with ESMTP id 583BC188169
+	for <user@domain.com>; Sun, 28 Nov 2015 05:48:22 -0500 (EST)
+Received: from MYSELVES (MYSELVES [169.254.236.44]) 
+	by MYSELVES (8.12.8p1/8.12.8) with ESMTP id i44A0Ppk021154
+	for <user@domain.com>; Mon, 29 Nov 2015 00:58:42 +0900
+	(envelope-from user@domain.com)
+Message-Id: <000301c4d5ae$9231cea0$4553594user@domain.com>
+X-AntiVirus: Checked for viruses by Gordano's AntiVirus Software
+From: exchange-robot@paypal.com
+To: user@domain.com
+Subject: Confirmation
+Date: Mon, 29 Nov 2015 00:58:42 +0900
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0000_01C4D5AE.9231CEA0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 4
+
+Congratulations! PayPal has successfully charged $175 to your domain.com
+card. Your order tracking number is A866DEC0, and your item will be shipped
+within three business days. 
+To see details please click this link.
+
+DO NOT REPLY TO THIS MESSAGE VIA EMAIL! This email is being sent by
+an automated message system and the reply will not be received. 
+Thank you for using PayPal.

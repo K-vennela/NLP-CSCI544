@@ -1,0 +1,66 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 6341123CABD
+	for <user@domain.com>; Fri, 30 Dec 2015 08:30:46 -0600 (CST)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id JELYyy4FG4sN for <user@domain.com>;
+	Fri, 30 Dec 2015 08:30:45 -0600 (CST)
+Received: from smtp7.oregonstate.edu (smtp7.oregonstate.edu [128.193.15.44])
+	by domain.com (Postfix) with ESMTP id 06E8823CAAC
+	for <user@domain.com>; Fri, 30 Dec 2015 08:30:45 -0600 (CST)
+Received: from localhost (localhost [127.0.0.1])
+	by smtp7.oregonstate.edu (Postfix) with ESMTP id 5D10D34BFC;
+	Fri, 30 Dec 2015 06:30:43 -0800 (PST)
+X-Virus-Scanned: amavisd-new at oregonstate.edu
+Received: from smtp7.oregonstate.edu ([127.0.0.1])
+	by localhost (smtp.oregonstate.edu [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id sDzYAma0CaSW; Fri, 30 Dec 2015 06:30:43 -0800 (PST)
+Received: from nws-hts.nws.oregonstate.edu (nws-hts.nws.oregonstate.edu [128.193.7.88])
+	(using TLSv1 with cipher AES128-SHA (128/128 bits))
+	(No client certificate requested)
+	by smtp7.oregonstate.edu (Postfix) with ESMTPS id E1A4234BE0;
+	Fri, 30 Dec 2015 06:30:42 -0800 (PST)
+Received: from EXCH2.nws.oregonstate.edu ([169.254.1.98]) by
+ nws-hts.nws.oregonstate.edu ([128.193.7.88]) with mapi; Fri, 30 Dec 2015 
+ 06:30:42 -0800
+From: "Siewell, Lori" <lori.siewell@oregonstate.edu>
+Date: Fri, 30 Dec 2015 06:30:41 -0800
+Subject: Mail Box Account expire in 24 Hours.
+Thread-Topic: Mail Box Account expire in 24 Hours.
+Thread-Index: AQHMxv+b/dkToUu1yU241+6CmOW/iA==
+Message-ID: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+acceptlanguage: en-US
+Content-Type: multipart/alternative;
+	boundary="_000_CFB91127CF696241980907DEE2DE1A3117042E2F7FEXCH2nwsorego_"
+MIME-Version: 1.0
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 47
+
+Helpdesk Mail Box service requires you to upgrade webmail by Clicking the l=
+ink below:
+<<link>>
+
+This message is from MESSAGING CENTER to all account owners. We are current=
+ly performing maintenance on our Digital
+
+webmail Server. We intend upgrading our Security Server for better online s=
+ervices due to spam mail and virus. In order to ensure
+
+you do not experience service interruption, please you have to response to =
+this email immediately to prevent your account from
+
+being deactivated within 24 hour of this exercise.
+
+Thank you for your cooperation.
+Help Desk

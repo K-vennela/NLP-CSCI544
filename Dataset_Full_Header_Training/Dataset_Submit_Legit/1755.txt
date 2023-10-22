@@ -1,0 +1,30 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Sat, 24 Jan 2015 22:15:00 +0100
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id 08081621C6	for
+ <user@domain.com>; Sat, 24 Jan 2015 20:54:45 +0000 (GMT)
+Received: by domain.com (Postfix)	id 905F82BC0F5; Sat, 24 Jan 2015 
+ 22:15:00 +0100 (CET)
+Delivered-To: user@domain.com
+Received: from domain.com (confluence.hackingteam.com
+ [192.168.200.205])	by domain.com (Postfix) with ESMTP id 837182BC0F3
+	for <user@domain.com>; Sat, 24 Jan 2015 22:15:00 +0100 (CET)
+Date: Sat, 24 Jan 2015 22:15:00 +0100
+From: "Alessandro Scarafile (Confluence)" <confluence@hackingteam.com>
+To: <user@domain.com>
+Message-ID: <671090549.1836.1422134100489.JavaMail.CONFLUENCE$@confluence>
+Subject: [confluence] Alessandro Scarafile updated a event in the "00.
+ TENTATIVE" calendar
+Precedence: bulk
+Auto-Submitted: auto-generated
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2135562172_-_-"
+
+  Alessandro Scarafile updated a event in the 00. TENTATIVE calendar Feb 09, 2015 Until Feb 13, 2015   Demo Spain (PolicePolicia Nacional)    You are receiving this notification because you are watching the following:   00. TENTATIVE   Sent by Atlassian Confluence 5.6.3, the Enterprise Wiki 

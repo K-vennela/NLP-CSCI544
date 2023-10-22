@@ -1,0 +1,331 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 3 May
+ 2015 18:23:56 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 3 May 2015 
+ 18:23:51 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 894803198
+ for user@domain.com; Tue, 03 May 2015 17:23:57 -0500
+X-Note-AR-ScanTimeLocal: 5/3/2016 5:23:57 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @skdknick.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->->United States->
+X-Note-Sending-IP: 65.55.169.102
+X-Note-Reverse-DNS: mail-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from [65.55.169.102] (HELO
+ na01-bl2-domain.com)  by domain.com
+ (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 136866316 for user@domain.com;
+ Tue, 03 May 2015 17:23:57 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=domain.com; s=selector1-skdknick-com;
+ h=From: Natalie Raps <nraps@skdknick.com>
+ bh=DkpCPU97dH+ED3J1ATiKg9Hu7njyeFawB1TPjB/1f2s=;
+ b=LbmYX97K21Z+tIzq186qnVNXBnaL9nNWxzPDJ8luyZ15TAj7C/uIOgdxjsc4RNYvt9eFDPYPCcukTHz5QjHRzUgwGpcTSTaIAV/FX4OVXczLwwmF9GBplGEhuX866rARzZbDSD1oFeGNpDwUw9nYswxdjADGb8bPeYhLH+QOci0=
+Received: from domain.com (10.163.155.157) by
+ domain.com (10.163.155.156) with Microsoft
+ SMTP Server (TLS) id 15.1.485.9; Tue, 3 May 2015 22:23:51 +0000
+Received: from domain.com ([10.163.155.157]) by
+ domain.com ([10.163.155.157]) with mapi id
+ 15.01.0485.011; Tue, 3 May 2015 22:23:51 +0000
+From: Natalie Raps <nraps@skdknick.com>
+To: Natalie Raps <user@domain.com>
+Subject: Today from the Constitutional Responsibility Project
+Thread-Topic: Today from the Constitutional Responsibility Project
+Thread-Index: AdGliZZeNW6wVWpGTwunDvj6ffWWGw==
+Date: Tue, 3 May 2015 22:23:51 +0000
+Message-ID: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+authentication-results: skdknick.com; dkim=none (message not signed)
+ header.d=none;skdknick.com; dmarc=none action=none header.from=skdknick.com;
+x-originating-ip: [71.178.57.224]
+x-ms-office365-filtering-correlation-id: 4a537f8b-41d5-4a1d-73a9-08d373a19b03
+x-microsoft-exchange-diagnostics: 1;BY2PR0701MB1943;5:5Dn6XoZg/2jaRO51PkGEBaWFBaUvhYZ86fPn0Lio6Rf1Y2UAa3v6iFowplEA7m/LPTmxuN+VyD4o6986/SIm720YG28U2bqZYI1bFQp4MembSK9K4n+dUvAxW3YAzzjnRbrGY3+0wkD/4sa/ULjotw==;24:VZZK1/oSKL7GEF77LDD/Yvl/u4B0mlpoymCYM64y1s9A1eMHWtBpoNmTODX6Wd+WI0/7lofL+G8oSYZhDVFcWwxgliNWcuduRcORzJu902E=;7:Qa42rqo9ZIzssa/pPOIghpTXi7BW3DyvTnljZPt549+DxGSUqUzW0uJaCAegFh9BYb2HRPUrbBtFy4XHY1q9VcRdS55XVkHpatJVXj8GYVeagOJ5T/cvbBlBNlmCcq76p3rhafqpq10y3Ju73jZPzmte+HiktfeN0eVetuRHJzGtfLCVn6xwQtIhLynutTjI
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:;SRVR:BY2PR0701MB1943;
+x-ld-processed: 51f4a8d4-10a8-4d6c-bc10-f2546164f7db,ExtAddr
+x-microsoft-antispam-prvs: <user@domain.com>
+x-exchange-antispam-report-test: UriScan:;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(9101528026)(9101521098)(601004)(2401047)(8121501046)(5005006)(10201501046)(3002001);SRVR:BY2PR0701MB1943;BCL:0;PCL:0;RULEID:;SRVR:BY2PR0701MB1943;
+x-forefront-prvs: 0931CB1479
+x-forefront-antispam-report: SFV:NSPM;SFS:(10019020)(40154002)(377424004)(111735001)(243025005)(19580395003)(5008740100001)(19580405001)(5002640100001)(790700001)(10400500002)(19625215002)(3846002)(50986999)(76576001)(16236675004)(551944002)(8936002)(66066001)(81166005)(102836003)(4001450100002)(15975445007)(586003)(77096005)(122556002)(99286002)(11100500001)(87936001)(2900100001)(19617315012)(92566002)(5004730100002)(54356999)(2906002)(19300405004)(3280700002)(189998001)(107886002)(110136002)(86362001)(15395725005)(1220700001)(74316001)(229853001)(33656002)(6200100001)(9686002)(3660700001)(7059030)(15398625002)(579004);DIR:OUT;SFP:1102;SCL:1;SRVR:BY2PR0701MB1943;H:domain.com;FPR:;SPF:None;MLV:sfv;LANG:en;
+spamdiagnosticoutput: 1:23
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_BY2PR0701MB19441FBBCF13A54D53E4B33ED37A0BY2PR0701MB1944_"
+X-MS-Exchange-CrossTenant-originalarrivaltime: 03 May 2015 22:23:51.3557
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 51f4a8d4-10a8-4d6c-bc10-f2546164f7db
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BY2PR0701MB1943
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Today in the call for a full Supreme Court bench: The Constitutional Respon=
+sibility Project releases its second TV ad showcasing Sen. Rob Portman's (R=
+-OH) obstruction, Americans United for Change continues its nine-state, nin=
+e-day mobile billboard tour in Pennsylvania, 225 former Sen. Grassley suppo=
+rters share their stories with domain.com as to why they cannot support his=
+ inaction around Chief Judge Garland's nomination, and editorial boards con=
+tinue to blast Senate Republicans for creating political gridlock around ju=
+dicial nominations.
+
+The Constitutional Responsibility Project releases second TV ad highlightin=
+g Sen. Portman's refusal to do his job and give Chief Judge Merrick Garland=
+ fair hearings and a timely vote.
+
+Today, the Constitutional Responsibility Project released a 30-second ad<ht=
+tps://domain.com/watch?v=3DUIjQ_SUNdb4&feature=3Dyoutu.be> highlightin=
+g Sen. Rob Portman's (R-OH) refusal to allow Chief Judge Garland - a nomine=
+e with broad bipartisan support and the most federal judicial experience in=
+ recent history - a fair hearing and an up-or-down vote. The ad will air in=
+ the Columbus and Cincinnati media markets over the Senate recess.
+Today's ad comes days after the Constitutional Responsibility Project relea=
+sed a new survey<<<link>>
+-Key-Findings-4.15.16-2.pdf> of Ohio voters, conducted by Hart Research Ass=
+ociates. Key findings include:
+
+*                 70 percent of Ohioans do not know where Sen. Rob Portman =
+stands on Merrick Garland's nomination. When told that Senator Portman supp=
+orts the Republican leadership's refusal to consider any Supreme Court nomi=
+nee, 59% of all voters express an unfavorable opinion, compared with just 3=
+6% who are favorable.
+
+*                 As Ohio voters hear of Rob Portman's decision to follow h=
+is party leaders in opposing a hearing for Merrick Garland, two in five of =
+Portman's own voters are unfavorable to his actions, as are two-thirds of a=
+ll swing voters.
+
+*                 Once voters learned about Merrick Garland and his backgro=
+und, 80 percent of Democrats, 62 percent of independents, and 32 percent of=
+ Republicans favor Garland's confirmation.
+
+*                 Once Ohio voters learned about Sen. Portman's decision to=
+ oppose a hearing for Merrick Garland, 48 percent of Ohio voters are less l=
+ikely to support Sen. Portman, while 52 percent of independent voters are l=
+ess likely to want him re-elected
+
+o   This potentially puts 15 percent of the Ohio electorate in play this No=
+vember as possible new voters for Democratic challenger, Ted Strickland.
+Former Grassley voters: You lost our respect and our votes.
+Today, more than 225 former Sen. Grassley supporters shared their stories w=
+ith domain.com to express their frustration over his failure to uphold Iowa=
+ values during Chief Judge Garland's nomination. Comments from Iowa domain.com=
+uents and former supporters can be seen HERE<<<link>>
+n/videos/10153438388940493/>.
+
+The campaign also includes a new billboard featuring former Grassley suppor=
+ters located on Fleur Drive near the Des Moines airport with the message: "=
+Senator Grassley: You Lost Our Respect and Votes by Playing Politics with t=
+he Supreme Court."
+
+Kenneth Blackledge, Iowa produce farmer and former Grassley voter: "Blockin=
+g this nomination is purely political, I'm so disappointed. I want him to b=
+e the old Chuck again. I want him to get away from party politics and be th=
+e independent senator I used to admire."
+
+Jack Lehmkuhl, Cedar Rapids, IA: "I feel betrayed by Sen. Grassley, who my =
+family has strongly supported since his very first election, I volunteered =
+for Sen. Grassley to help get him elected even before I could vote. But now=
+ he's lost my respect and my vote."
+
+Jo Comerford, domain.com Political Action campaign director: "Iowa Senator =
+Chuck Grassley has become the national face of Republican obstruction of Pr=
+esident Obama's Supreme Court nominee, Judge Merrick Garland... Iowans know=
+ that the stakes are simply too high to let partisan politics force a conti=
+nued vacancy on the nation's highest court." [domain.com Press Release]
+
+9-9-9 Tour Stops In Pennsylvania: 9 States in 9 Days for 9 Supreme Court Ju=
+stices.
+The Americans United for Change nine-state, nine-day mobile billboard tour =
+recently stopped in Harrisburg and Philadelphia, PA. The message to Senator=
+ Toomey was simple: Do Your Job and Fill the Vacant Seat on the Supreme Cou=
+rt, or Someone Else Will Fill Yours.  *See digital billboard graphic design=
+s HERE<<<link>>>.  The=
+ stops were joined by local leaders including Cole Goodman, Susquehanna Tow=
+nship School Board Member; Lisa M. Benzie, Attorney; Adam C. Bonin, Attorne=
+y, Election and Constitutional Law Expert; Sam Dorso, Co-Chair, Philly for =
+Change; Ann Warneka, Registered Nurse.
+
+Aletheia Henry, PA State Director, Americans United for Change: "Hardworkin=
+g Pennsylvania families that pay Senator Toomey's salary don't get to pick =
+and choose which parts of their jobs they want to do and forget the rest...=
+ Tellingly, Republicans like Senator Toomey, who've actually bothered to me=
+et with Judge Garland still can't muster one good reason why he doesn't des=
+erve a fair hearing or to otherwise disqualify him from consideration....Wh=
+en you look at the wealth of polling showing Independent voters are especia=
+lly unimpressed with their plan to sabotage the nomination process, it's qu=
+ickly becoming a question not whether Republicans will lose their Senate Ma=
+jority, but by how wide a margin." [Americans United for Change Press Relea=
+se]
+
+Sen. Grassley is making a bad bet on the Supreme Court.
+Jon Alexander of the Quad-City Times<<<link>>
+ial/columnists/jon-alexander/alexander-obama-laughed-as-grassley-gambled/ar=
+ticle_66d68dc3-8c18-5361-94dc-cc5dfe4a370a.html> editorial board takes a lo=
+ok at the political gamble Sen. Chuck Grassley (R-IA) is making on Chief Ju=
+dge Garland's nomination:
+
+"Refusing to convene even a kangaroo court is, one some ways, unprecedented=
+. And the maneuver is a risk on several fronts. It could energize Democrats=
+ in November. It could further handicap Senate Republicans already facing a=
+ tough year, just ask Mark Kirk. It very well could result in President Hil=
+lary Clinton sending a significantly more liberal nominee to a Democratic S=
+enate for a seat that would otherwise be filled by the centrist Garland. An=
+d then, there's the Trump factor... Grassley's bid to save a vacant Supreme=
+ Court seat for a man without clear policy is tantamount to wagering with h=
+ouse money."
+
+Sen. Burr's obstruction of the nation's longest-running federal vacancy is =
+an "election season stunt."
+With Republican Senators refusing to do their job by not considering Chief =
+Judge Garland and other judges awaiting Senate confirmation, two North Caro=
+lina editorial boards call out Sen. Richard Burr (R-NC) for refusing to do =
+his job on the nomination of Patricia Timmons-Goodson, who has been nominat=
+ed to fill a vacancy in the U.S. Eastern District of North Carolina-a post =
+that has gone unfilled since 2006.
+
+"Burr's opposition is unfair to Timmons-Goodson personally and unfair to th=
+e system running short of federal judges... The Senate's job in reviewing t=
+he president's nominees is to advise and consent, not to pout and obstruct.=
+ That behavior is especially out of line when it comes to qualified nominee=
+s to the federal bench. It has been a long-standing custom that even when s=
+enators are philosophically different in terms of their views of the judici=
+ary from the president, they recognize his right to place his choices on th=
+e judiciary."[News & Observer, 5/02/16<<<link>>
+editorials/article75222132.html>]
+
+"The Supreme Court stonewall is itself an election season stunt, as Senate =
+Republicans have invented a practice of not allowing a president to fill a =
+high-court vacancy in the last year of his term... Burr should reconsider a=
+nd support her confirmation, or else there may be political consequences fo=
+r his recent pattern of obstructionism."[Greensboro News & Record, 5/03/16<=
+<<link>>
+ckade/article_10750f2c-c983-5ea2-b64a-c38519e94528.html>]
+
+Is Sen. Grassley doing his job? [Spoiler Alert] No.
+Check out domain.com<<<link>>
+com/> from Why Courts Matter Iowa for updates.
+
+Chris Schwartz, state director of Americans for Democratic Action - Iowa an=
+d Why Courts Matter Iowa coalition member: "Iowans are frustrated with Sena=
+tor Grassley's unprecedented obstruction and deserve to know whether he's d=
+oing his job."
+
+A look ahead at a sampling of activity by our grassroots allies:
+
+WEDNESDAY 5/04/16
+
+Event: Hispanic National Bar Association media call to Announce Official Re=
+commendation on Supreme Court Nominee Judge Merrick Garland
+Time: 10:30AM ET
+Host: HNBA
+Key briefers/speakers: Robert T. Maldonado, National President, Hispanic Na=
+tional Bar Association; Robert Raben, Chair, HNBA Judiciary Committee; Mari=
+a Dantes Sanchez, Member, HNBA Judiciary Committee & HNBA Regional Presiden=
+t for Region VIII (Florida)
+Call-in information: 877 876 9171, Conference ID: SCOTUS
+Press Contact: Daniel Herrera, user@domain.com<mailto:user@domain.com=
+domain.com>, (202) 930-6805
+
+Event: Tucson #DoYourJob Event
+Location: Tucson, AZ
+Host: Americans United for Change
+Press Contact: Rodd McCleod, 347-387-1010, user@domain.com<mailto:rod=
+user@domain.com>
+
+Event: Asheville #DoYourJob Event
+Location: Ashville, NC
+Time: 5PM local time
+Host: Americans United for Change
+Press Contact: Gerrick Brenner, 919-452-2248, user@domain.com=
+<mailto:user@domain.com>
+
+Event: Charlotte #DoYourJob Event
+Location: Charlotte, NC
+Time: 12PM local time
+Host: Americans United for Change
+Press Contact: Gerrick Brenner, 919-452-2248, user@domain.com=
+<mailto:user@domain.com>
+
+Event: St. Louis #DoYourJob Event
+Location: Outside of Senator Blunt's St. Louis Office, 7700 Bonhomme, Clayt=
+on, MO 63105
+Host: Americans United for Change
+Press Contact: Martin Casas, user@domain.com<mailto:user@domain.com=
+
+Event: Jefferson City #DoYourJob Event
+Location: Missouri State Capitol, 201 W Capitol Ave, Jefferson City, MO 651=
+01
+Host: Americans United for Change
+Press Contact: Martin Casas, user@domain.com<mailto:user@domain.com=
+
+Event: Portsmouth #DoYourJob event
+Location: Sen. Ayotte's Office, 14 Manchester Square, Ste 140
+Portsmouth, NH 03801
+Time: 12PM local time
+Host: Americans United for Change
+Press Contact: Liz Purdy, 603-731-2200, user@domain.com<mailto:user@domain.com=
+domain.com>
+
+Event: Des Moines #DoYourJob event
+Location: Sen. Grassley's Office, 210 Walnut St #721, Des Moines, IA 50309
+Time: 12PM local time
+Host: Americans United for Change
+Press Contact: Derek Eadon, 515-954-8630, user@domain.com<mail=
+to:user@domain.com>
+
+THURSDAY 5/05/16
+
+Event: Dayton #DoYourJob event
+Location: RTA Cultural Center , 40 S Edwin C Moses Blvd, Dayton, OH 45402
+Time: 2PM local time
+Host: OEA/WeNeedNine
+Press Contact: Joanne Pickrell, 614-364-1442, user@domain.com<mai=
+lto:user@domain.com>
+
+Event: Greensboro #DoYourJob event
+Location: Outside Old Guilford County Courthouse, Greensboro, NC 27401
+Time: 12PM local time
+Host: Americans United for Change
+Press Contact: Gerrick Brenner, 919-452-2248, user@domain.com=
+<mailto:user@domain.com>
+
+Event: Phoenix #DoYourJob event
+Location: Phoenix, AZ
+Host: Americans United for Change
+Press Contact: Rodd McCleod, 347-387-1010, user@domain.com<mailto:rod=
+user@domain.com>
+
+Event: #DoYourJob NH Coalition recess protest
+Location: Sen. Ayotte's Manchester Office, 1200 Elm Street, Suite 2
+Manchester, NH 03101-2503
+Time: 12PM local time
+Press Contact: Liz Purdy, 603-731-2200, user@domain.com<mailto:user@domain.com=
+domain.com>
+
+Event: Youngstown #DoYourJob event with Rep. Tim Ryan
+Location: Youngstown, OH
+Host: Americans United for Change
+Press Contact: Joanne Pickrell, 614-364-1442, user@domain.com<mai=
+lto:user@domain.com>
+
+###
+

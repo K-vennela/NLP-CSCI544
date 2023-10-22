@@ -1,0 +1,106 @@
+Received: from domain.com (146.215.230.104) by
+ domain.com (43.130.141.78) with Microsoft SMTP Server id
+ 8.3.264.0; Mon, 27 Jan 2015 04:02:03 -0800
+Received: from domain.com ([160.33.194.228])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s0RC233V024705	for <user@domain.com>; Mon, 27 Jan 2015 
+ 12:02:03 GMT
+Received: from mail170-va3-domain.com (mail-domain.com
+ [216.32.180.116])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s0RC22iX023992
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Mon, 27 Jan 2015 12:02:03 GMT
+Received: from mail170-va3 (localhost [127.0.0.1])	by
+ mail170-va3-domain.com (Postfix) with ESMTP id D05F920011D	for
+ <user@domain.com>; Mon, 27 Jan 2015 12:02:02 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:192.64.236.6;KIP:(null);UIP:(null);SRV:BULK;H:mx-prometheus-domain.com;RD:mx-prometheus-domain.com;EFVD:NLI
+X-SpamScore: 0
+X-BigFish: vpaccept
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail170-va3: domain of domain.com designates 192.64.236.6 as permitted sender) client-ip=192.64.236.6; user@domain.com; helo=mx-prometheus-domain.com ;domain.com ;
+Received: from mail170-va3 (localhost.localdomain [127.0.0.1]) by mail170-va3
+ (MessageSwitch) id 1390824120608983_8036; Mon, 27 Jan 2015 12:02:00 +0000
+ (UTC)
+Received: from domain.com (unknown [10.7.14.232])	by
+ mail170-domain.com (Postfix) with ESMTP id 7DAA83C0065	for
+ <user@domain.com>; Mon, 27 Jan 2015 12:02:00 +0000 (UTC)
+Received: from mx-prometheus-domain.com (192.64.236.6) by
+ domain.com (10.7.99.32) with Microsoft SMTP Server id
+ 14.16.227.3; Mon, 27 Jan 2015 12:01:58 +0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1390824108;
+	s=sailthru; d=e.hollywoodreporter.com;
+	h=Date:From: THR Daily Edition PDF <email@e.hollywoodreporter.com>
+	bh=zmzxHXnuREbrO9hedRnZ/7HcEhYFW7vNXwWpLG+kk5E=;
+	b=MwofEaygcbKXVLb8x21NEJwFwS6KzwR3AsTIXsReLXugIELhMuI7hOKQnGXFCHVy
+	AWzhnP/uO/FDH6/7abZ1xEKbZCttkZfQmgcXBEEnhrnPGTV/VAKr/2C8sylmldPfZlw
+	mZIZu6576CE4MjRvYVJvsYv94sboUbNHrY0cHk40=
+Date: Mon, 27 Jan 2015 07:01:48 -0500
+From: THR Daily Edition PDF <email@e.hollywoodreporter.com>
+To: <user@domain.com>
+Message-ID: <20140127120148.2378696.8324@domain.com>
+Subject: Your New Daily Edition
+Precedence: bulk
+X-TM-ID: 20140127120148.2378696.8324
+X-Info: Message sent by domain.com customer Hollywood Reporter
+X-Info: We do not domain.com unsolicited commercial email
+X-Info: Please report abuse by forwarding complete headers to
+X-Info: user@domain.com
+X-Mailer: domain.com
+X-IADB-IP: 192.64.236.6
+X-IADB-IP-REVERSE: 6.236.64.192
+X-IADB-URL: <<link>>
+X-Unsubscribe-Web: <<link>>
+List-Unsubscribe: <<<link>>>, <mailto:user@domain.com>
+X-rpcampaign: stgfo2378696
+Return-Path: user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+ <<link>>        
+
+If you are unable to see the message below, click here to view it in a browser.  
+
+ <<link>>        
+
+ <<link>>         <<link>>        
+
+<<link>>        
+
+ <<link>>     <<link>>    
+<<link>>        <<link>>       
+ <<link>>        
+
+ <<link>>        
+
+ <<link>>         <<link>>  <<link>>        
+ <<link>>       
+
+ <<link>>        
+
+ <<link>>        
+
+CLICK HERE FOR TODAY'S EDITION  
+
+ <<link>>        
+
+Daft Punk, Pharrell Williams Dominate 2015 Grammy Awards
+
+Dance music duo, artist-producer score four wins; Macklemore & Lewis also get four nods
+
+Box Office Report: I, Frankenstein DOA With $8.3 Million Debut
+
+Ride Along, Lone Survivor easily stay at Nos. 1, 2 with $21.2 mil, $12.6 mil, respectively
+
+Universal Pictures Chairman Donna Langley Re-Ups Through 2017
+
+Exec, who played key role in winning film rights to Fifty Shades, will get expanded duties
+
+Alfonso Cuaron, Vince Gilligan Take Top Honors at DGA Awards
+
+Soderbergh, McCarthy-Miller among others who received mentions from helmers guild
+
+Sundance 2014: Whiplash Takes Home Grand Jury, Audience Prizes
+
+Drama centers on young aspiring musician who struggles to m
+

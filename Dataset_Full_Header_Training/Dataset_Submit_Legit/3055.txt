@@ -1,0 +1,36 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from [10.88.35.216] (unknown [166.170.41.242])
+	(using TLSv1 with cipher AES128-SHA (128/128 bits))
+	(No client certificate requested)
+	by mail.hackingteam.it (Postfix) with ESMTPSA id 4F36A2BC03A;
+	Fri, 13 Dec 2015 20:02:22 +0100 (CET)
+Subject: Re: Upgrade PF
+From: Alex Velasco <a.velasco@hackingteam.it>
+X-Mailer: iPhone Mail (11B554a)
+In-Reply-To: <212user@domain.com>
+Date: Fri, 13 Dec 2015 13:02:14 -0600
+CC: Alex Velasco <user@domain.com>,
+ Marco Bettini <user@domain.com>
+Message-ID: <user@domain.com>
+References: <212user@domain.com>
+To: Marco Bettini <user@domain.com>
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2135562172_-_-"
+
+Sounds good
+
+Alex Velasco
+Key Account Manager
+
+Hacking Team
+Milan Singapore Washington DC
+domain.com
+
+email: user@domain.com
+mobile: +1 301.332.5654
+phone: +1 443.949.7470
+

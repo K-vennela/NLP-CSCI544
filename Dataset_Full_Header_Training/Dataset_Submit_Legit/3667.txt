@@ -1,0 +1,295 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Thu, 28 Apr
+ 2015 13:30:39 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Thu, 28 Apr 2015 
+ 13:30:31 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 885790374;
+ Thu, 28 Apr 2015 12:30:29 -0500
+X-Note-AR-ScanTimeLocal: 4/28/2016 12:30:29 PM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: Too many policies to list
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @mail.house.gov ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->United States->
+X-Note-Sending-IP: 143.228.181.85
+X-Note-Reverse-DNS: s-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from s-domain.com ([143.228.181.85] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 135513979;
+ Thu, 28 Apr 2015 12:30:29 -0500
+Received: from FHOB-domain.com (fhob-domain.com
+ [143.228.233.117])	by s-domain.com  with ESMTP id u3SHRUYN020922	(using
+ TLSv1 with cipher ECDHE-RSA-AES256-SHA (256 bits) verified FAIL);	Thu, 28 Apr
+ 2015 13:27:31 -0400
+X-DKIM: OpenDKIM Filter v2.4.3 s-domain.com u3SHRUYN020922
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mail.house.gov;
+	s=November2012-msg-mhg; t=1461864503;
+	bh=i2yzEYuaX6qK/qgr0tX8HTuwtsE43oyzapIOCjZHXHI=;
+	h=From: Democratic Leader <Democratic.Leader@mail.house.gov>
+	b=H/WNXVzrkBqGHrI1sF8pyf3yrrlbsLhPvhFs10GlVOtcVAdAYoodwStSx7kjkMIjt
+	 9EfGcjR5TAF8ZAP65CHVO6vQex6vc1M+Km+7DRYpNNK1xy3gOgBqOrLixK/6vitDcr
+	 j3lq8SGcgS17O5GfNq/s7VFfwFdte5xyyygBL59s=
+Received: from HEOC-domain.com ([fe80::cdcd:f28:6aa5:7d5a]) by
+ FHOB-domain.com ([::1]) with mapi id 14.03.0279.002; Thu, 28 Apr 2015 
+ 13:27:09 -0400
+From: Democratic Leader <Democratic.Leader@mail.house.gov>
+Subject: PELOSI -- Remarks at Press Availability Following Meeting on
+ Department of Labor Conflict of Interest Rule
+Thread-Topic: PELOSI -- Remarks at Press Availability Following Meeting on
+ Department of Labor Conflict of Interest Rule
+Thread-Index: AdGhcm/WsOyxQXIqSMG+QMtUIC2wKQ==
+Date: Thu, 28 Apr 2015 17:27:08 +0000
+Message-ID: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+x-originating-ip: [143.231.232.152]
+Content-Type: multipart/related;
+	boundary="_004_CA58D7DE03EE0A4D8D0DF860799FAACC0CD69197HEOCHRM01USHous_";
+	type="multipart/alternative"
+To: Undisclosed recipients:;
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+[cid:image001.jpg@01D00FCE.229082C0]<<<link>>>
+
+    April 28, 2015 
+
+Contact: Drew Hammill/Evangeline George
+
+202-226-7616
+
+Pelosi Remarks at Press Availability Following
+
+Meeting on Department of Labor Conflict of Interest Rule
+
+Washington, D.C. =96 Democratic Leader Nancy Pelosi delivered remarks today=
+ at a press conference with Secretary of Labor Tom Perez, Democratic Whip S=
+teny Hoyer, Committee on Financial Services Ranking Member Maxine Waters, C=
+ommittee on Education and the Workforce Ranking Member Bobby Scott, Congres=
+sman Richard Neal and Congressman John Delaney following a meeting with Dem=
+ocratic Members to discuss the Department of Labor=92s final conflict of in=
+terest rule =96 a vital measure to protect and strengthen the retirement se=
+curity and confidence of millions of Americans.  Below are the Leader=92s r=
+emarks followed by the question and answer session:
+
+=93Good morning, everyone.  And it is a good morning, indeed, because we ha=
+ve a cause to celebrate =96 not only because it is Take Your Daughters and =
+Sons to Work Day =96 welcome, nice to see you =96 but because earlier this =
+month, the Department of Labor unveiled a final rule that will protect and =
+strengthen the retirement security and confidence of millions of Americans.
+
+=93The Conflict of Interest Retirement Investment Rule =96 also known as th=
+e Fiduciary Rule.  Hard-working Americans should be able to trust their fin=
+ancial advisor to protect their retirement future.  But that=92s not always=
+ been the case.  Conflicted advice =96 well, I won=92t go into it, let=92s =
+just talk on the positive side as to where we are.
+
+=93Secretary Perez led an extensive, inclusive, and comprehensive public in=
+put process that created this greatly improved final rule: thousands of pub=
+lic comments, days of public hearings, hundreds of stakeholder meetings and=
+ more than 100 Congressional meetings with Secretary Perez and his team.
+
+=93I just said to our colleagues there, =91Let him be a model to us in havi=
+ng the openness to listen to other ideas, to have the brilliance to recogni=
+ze a good thing when you see it, and the humility to embrace a solution tha=
+t you might not have ever thought of yourself=92 =96 and listening to our c=
+olleagues, bringing in what the impact, what the ramification is of a parti=
+cular rule on the private sector is very, very important for us to know.  A=
+nd so, the Secretary told us: he listened, he learned and came up with a be=
+tter rule and a smarter rule.  And that is cause for celebration.
+
+=93However, today, Republicans are voting on a special interest resolution =
+to block the rule and upend our progress.  Republicans are trying to protec=
+t =96 well, we will not go into them, let=92s just stick with us.
+
+=93We=92re very, very honored to have worked on many fronts with the Secret=
+ary of Labor.  It is Take Your Son to Work Day for him =96 his son, Rafael,=
+ is with him, and I would have said those remarks, even if Rafael were not =
+here, about his very distinguished father.
+
+=93So, I yield the podium to him with gratitude and admiration.  Thank you,=
+ Mr. Secretary.=94
+
+***
+
+Q:  One question for Leader Pelosi and another question for Secretary Perez=
+.  Leader Pelosi, do you expect this will be a campaign issue?  Are you urg=
+ing your Members to make it one?
+
+Leader Pelosi.  Well, I certainly hope not.  I hope that the Republicans wi=
+ll understand and see the light of day that this is an exercise in futility=
+ that they are taking up.  There are people out there who are watching to s=
+ee how Congress proceeds on this, but our intention was not =96 we wanted t=
+o win the issue, not to make it a political issue.
+
+Q:  And for Secretary Perez, it has been three weeks since the Fiduciary Ru=
+le has come out =96 there has not been a domain.com.  Do you think that if the=
+ case goes on, this lessons the chance that there will be a domain.com against=
+ the rule?
+
+Secretary Perez.  Well, that=92s going to be up to someone else.  I hope wh=
+en they review the rule, they will come to the conclusion that they ought t=
+o declare victory because the rule is more streamlined as a result of their=
+ input, the rule is better as a result of the input.  I always enter this e=
+nterprise with a healthy dose of humility.  And they made us smarter and th=
+ey made the rule better.  And I=92ve talked to so many folks in the industr=
+y who have said, =91Thank you for listening, and we can work with this.=92
+
+You know, there are a few folks =96 many of whom who came early on and said=
+, =91This is a solution in search of a problem,=92 and that=92s a ridiculou=
+s proposition, quite frankly.  So, there may still be a few who want to per=
+sist, but I have a lot of optimism moving forward that we can continue to w=
+ork, and we=92ll work successfully.  And if we get sued, we=92ll be ready f=
+or it =96 because you know what?  Not only is the final product a very good=
+ product, but the process leading to the product was an impeccable process =
+and as a result, they don=92t have a legal leg to stand on in a domain.com.
+
+So, I=92d rather have them spend their time on compliance, rather than maki=
+ng it a full employment act for lawyers.  But, if they want to do that, we=
+=92ll be ready.
+
+Whip Hoyer.  I want to follow up on that because you ask: is it an election=
+ issue?  What is an election issue is: who is on their side?  Who is on the=
+ people=92s side?  Who wants to help the people?  This rule says, =91We wan=
+t to make sure that the people have an advocate that is acting in their bes=
+t interest.=92  Why would anybody be against that?  [Congressman] Richard N=
+eal pointed that out.  We all have an agreement on that.  Are the Republica=
+ns offering this because they don=92t think we ought to be on their side?  =
+Because we don=92t think the institution has ought to act in their best int=
+erest?
+
+And the reason I wanted to follow up on this:  this is not unique.  We have=
+ a crisis dealing with Zika, and we=92re going to walk away tomorrow withou=
+t solving it.  We have a crisis in Puerto Rico, and we=92re going to walk a=
+way tomorrow without solving it.  We have a crisis in Flint, Michigan, and =
+we=92re going to walk away tomorrow without addressing it.  This rule is no=
+t addressing a real problem =96 the rule that is being offered to repeal it=
+ and reject the rule.  To walk away from the American people =96 that, cert=
+ainly, will be an election year issue.
+
+Q:  Secretary Perez, I couldn=92t help but notice that this is a very good =
+issue for a campaign, perhaps, for a Vice Presidential campaign.  Do you ha=
+ve any interest in the job?  Did you have those conversations in your time =
+here on Capitol Hill?
+
+Secretary Perez.  This is a very good issue for the average American.  And =
+that=92s what we do at the Department of Labor =96 the =91department of opp=
+ortunity=92.  We wake up every single day making sure that people have acce=
+ss to the pillars of the middle class, whether it=92s a good job that pays =
+a fair wage, safe working conditions, access to a healthy and fair retireme=
+nt.  And that=92s what it=92s all about and that=92s my focus every single =
+day and I got 268 days till the weekend.  And I=92m going to make sure I do=
+n=92t simply count the days but we=92re going to make every day count wheth=
+er it=92s this, whether it=92s overtime, whether it=92s the implementation =
+of silica dust, all the things that are part of building an opportunity soc=
+iety and addressing the angst that people feel every single day.
+
+Q:  Ms. Pelosi, would he make a good Vice President?
+
+Leader Pelosi.  Well, let=92s get through the primary first and we know tha=
+t our next president, whoever she may be, will be thinking very thoughtfull=
+y about who the vice president will be.  I always like to remind people tha=
+t the rest of us are wondering what happens if this vice president has to t=
+ake office =96 the person choosing is saying, =91How can I live with this p=
+erson while I am in office.=92  So that=92s a whole other dinner table disc=
+ussion.
+
+Right now, we=92re focused on America=92s working families.  Again, I salut=
+e Secretary Perez, my colleagues, Richard Neal and Mr. Delaney, who =96 Mr.=
+ Delaney coming from the private sector, understanding how decisions are ma=
+de, Mr. Neal, who has worked on these issues for a very long time in the Co=
+ngress, coming at this discussion in a very informed way.  We all learned f=
+rom them, and we=92re all very proud of the work of our caucus, and we salu=
+te the Secretary for that.
+
+Q:  Congressman Neal, you had sponsored a bill with [Congressman] Peter Ros=
+kam that would=92ve gotten rid of this rule.  What did the final product do=
+ to address your concerns?
+
+Congressman Neal.  Well, there was a series of things, and I think propriet=
+ary interest was addressed, also, the notion that you could sell your own p=
+roducts and the contract was going to be signed at the end of the process. =
+ That was a substantial part of what we were proposing, and the Secretary a=
+nd the Labor Department responded to the request and that=92s why a bit of =
+surprise when you accomplish the goals you set out to =96 why we would be u=
+ndertaking this proposal today is a bit of a surprise.
+
+Q:  Have the issues in your legislation been resolved?
+
+Congressman Neal.  One of the things =96 again, one of the things I used to=
+ like about signing up for Congress, reporters covered process, as well as =
+the conflict.  So, the process has been satisfied and the other, I think, k=
+ey ingredient here that we want to pay some attention to today is that the =
+response from the Labor Department was satisfactory, and yet, there is anot=
+her key component here today and the Secretary acknowledged that earlier at=
+ the caucus: there is still time for questions to be asked of the Secretary=
+, and they will offer clarification.
+
+This is more than 1000 pages.  There is a lot of substance in here, and I t=
+hink as it rolls out, there will be a chance for people to continue to ask =
+questions [and] in their end, find satisfaction or distress.  But for the m=
+oment,  I think that all the questions that we raised =96 96 Democrats sign=
+ed the letter, by-and-large =96 they have been satisfied.
+
+Q:  Would you still vote for that bill if Speaker Ryan brought it to the Fl=
+oor?
+
+Congressman Neal.  No I won=92t.
+
+Q:  You would not.
+
+Whip Hoyer.  Thank you.
+
+# # #
+
+________________________________
+Press Release Link:
+<<link>>
+domain.com<<<link>>
+=3D27184&id=3D0o02k0tcpzlu6ejxx98kx2m9xt1wa&id2=3Dig3p7nh2dqu39rmj7s99ukn2q=
+jjbw&subscriber_id=3Dbaxcmkznpiaunskdcbzdudpovqtyblh&delivery_id=3Dcbsgtjub=
+xlceyjuegwyqomgtujbfbmp&tid=3D3.ajA.CBijRQ.Ck7A.T5fo..ARq9jw.b..l.A3-W.a.UR=
+xh7A.URxh7A.VOC4Gg> =96 Twitter<<<link>>
+=3DLink&ssid=3D27184&id=3D0o02k0tcpzlu6ejxx98kx2m9xt1wa&id2=3D3fgjr464dpiqd=
+27ofrqp17w526f1d&subscriber_id=3Dbaxcmkznpiaunskdcbzdudpovqtyblh&delivery_i=
+d=3Dcbsgtjubxlceyjuegwyqomgtujbfbmp&tid=3D3.ajA.CBijRQ.Ck7A.T5fo..ARq9jw.b.=
+.l.A3-W.a.URxh7A.URxh7A.VOC4Gg> =96 YouTube<<<link>>
+=3Dulink&fn=3DLink&ssid=3D27184&id=3D0o02k0tcpzlu6ejxx98kx2m9xt1wa&id2=3D3i=
+q1d25awniptoql0phq0ayxiyq8a&subscriber_id=3Dbaxcmkznpiaunskdcbzdudpovqtyblh=
+&delivery_id=3Dcbsgtjubxlceyjuegwyqomgtujbfbmp&tid=3D3.ajA.CBijRQ.Ck7A.T5fo=
+..ARq9jw.b..l.A3-W.a.URxh7A.URxh7A.VOC4Gg> =96 Flickr<<<link>>
+/public/?q=3Dulink&fn=3DLink&ssid=3D27184&id=3D0o02k0tcpzlu6ejxx98kx2m9xt1w=
+a&id2=3Djgqqrc9j8ruqfvzuezaxlw3rujzvq&subscriber_id=3Dbaxcmkznpiaunskdcbzdu=
+dpovqtyblh&delivery_id=3Dcbsgtjubxlceyjuegwyqomgtujbfbmp&tid=3D3.ajA.CBijRQ=
+.Ck7A.T5fo..ARq9jw.b..l.A3-W.a.URxh7A.URxh7A.VOC4Gg> =96 Facebook<<<link>>
+domain.com/public/?q=3Dulink&fn=3DLink&ssid=3D27184&id=3D0o02k0tcpzlu6ejx=
+x98kx2m9xt1wa&id2=3domain.com&subscriber_id=3Dbaxcmkznp=
+iaunskdcbzdudpovqtyblh&delivery_id=3Dcbsgtjubxlceyjuegwyqomgtujbfbmp&tid=3D=
+3.ajA.CBijRQ.Ck7A.T5fo..ARq9jw.b..l.A3-W.a.URxh7A.URxh7A.VOC4Gg> =96 The Ga=
+vel<<<link>>
+2k0tcpzlu6ejxx98kx2m9xt1wa&id2=3Dfmonicjc2fq1aiu6gebec0bui3gm7&subscriber_i=
+d=3Dbaxcmkznpiaunskdcbzdudpovqtyblh&delivery_id=3Dcbsgtjubxlceyjuegwyqomgtu=
+jbfbmp&tid=3D3.ajA.CBijRQ.Ck7A.T5fo..ARq9jw.b..l.A3-W.a.URxh7A.URxh7A.VOC4G=
+g>
+

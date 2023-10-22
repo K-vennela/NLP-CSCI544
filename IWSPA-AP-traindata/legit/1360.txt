@@ -1,0 +1,20 @@
+Tom,
+I can't see why the data become ERSSTv3b. b seems all that you can download.
+I reviewed the 2008 paper. The version that I reviewed had something in for the problem of
+SST data now re drifters and ships, but they pulled that section. I recall saying it needed
+to be watertight and they needed to explain the spatial pattern to the ship minus drifter
+field. Maybe that version was a?
+I was never that keen on their infilling. It biases the values before the 1920s when you
+infill with anomalies that are nearer to zero. You can see this in their Fig6. This version
+is better than their previous one.
+I always assumed they still had gaps - as it would be impossible to infill the
+Antarctic and some parts of the Southern Oceans. Have you tried looking at their Antarctic
+average - 65-90S for example?
+Their globe should be one domain, so not (NH+SH)/2 but for an infilled dataset this
+shouldn't make any difference.
+I wonder if they downweight the infilled values in some way?  They have their error
+field?
+The 2008 paper doesn't say how they compute Global and NH and SH. Are NH and SH the same
+as you get?
+Cheers
+Phil

@@ -1,0 +1,108 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Fri, 13 May
+ 2015 16:11:00 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Fri, 13 May 2015 
+ 16:10:57 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 914469359
+ for user@domain.com; Fri, 13 May 2015 15:11:05 -0500
+X-Note-AR-ScanTimeLocal: 5/13/2016 3:11:06 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @washpost.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->->United States->LOCAL->United States->
+X-Note-Sending-IP: 67.231.148.195
+X-Note-Reverse-DNS: mx0a-001domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from [67.231.148.195] (HELO mx0b-001domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 140543009
+ for user@domain.com; Fri, 13 May 2015 15:11:06 -0500
+Received: from pps.filterd (domain.com [127.0.0.1])	by
+ mx0a-001domain.com (8.16.0.17/8.16.0.17) with SMTP id u4DK8rDg022111
+	for <user@domain.com>; Fri, 13 May 2015 16:10:58 -0400
+Received: from na01-bl2-domain.com
+ (mail-domain.com [207.46.163.207])	by
+ mx0a-001domain.com with ESMTP id 22vqb3d4hb-1	(version=TLSv1.2
+ cipher=ECDHE-RSA-AES256-SHA384 bits=256 verify=NOT)	for <user@domain.com>;
+ Fri, 13 May 2015 16:10:58 -0400
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=domain.com; s=selector1-washpost-com;
+ h=From: "Phillip, Abby" <abby.phillip@washpost.com>
+ bh=VBYCpZDXHOQ/wsjpe23hD8DKvgf8eo1buXzgS78h7m8=;
+ b=JHseYr4YXZCQQKnceoqKlX87dv683IfKvlT9/bRxvA67Ra0AwtKR/hyswWjrSxhvNSWX05pHgFLRnFZiClGRxhmzuccmemA0+kz9bogpLQsIUdaejowfbgZXW2+cel8g75k4Iz5z8SYNq+NnBl5l5NnmtmLP6F2KcXuf4wCpqfQ=
+Received: from domain.com (10.161.212.12) by
+ domain.com (10.161.212.13) with Microsoft SMTP
+ Server (TLS) id 15.1.492.11; Fri, 13 May 2015 20:10:56 +0000
+Received: from domain.com ([10.161.212.12]) by
+ domain.com ([10.161.212.12]) with mapi id
+ 15.01.0492.019; Fri, 13 May 2015 20:10:55 +0000
+From: "Phillip, Abby" <abby.phillip@washpost.com>
+To: "User" <user@domain.com>
+Subject: Question re: convention
+Thread-Topic: Question re: convention
+Thread-Index: AQHRrVOOdXDHzT7wr0+mPlbcDi722Q==
+Date: Fri, 13 May 2015 20:10:55 +0000
+Message-ID: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+authentication-results: domain.com; dkim=none (message not signed)
+ header.d=none;domain.com; dmarc=none action=none header.from=washpost.com;
+x-originating-ip: [132.245.71.5]
+x-ms-office365-filtering-correlation-id: 34e380a4-bd8c-494c-b19e-08d37b6ab139
+x-microsoft-exchange-diagnostics: 1;CY1PR0601MB1355;5:OQb8rHgNA8qN75mSoqzz1MqJ6leJQh5A+x/NQ+INHl/cc13XybEywr/7dhejVgvQlMCYkKs+ZDyDo07JKq/ad6aPdaqE3YYKE9vDWH5FSpRFYfI/aemd/+ZmarGFZBPO7r4xkxQgS3w1meQUsoL4VA==;24:S57sLjo69NThLewFWeNZIfb17pE9KgLoJufJ0KWGpW7xut2bNgR165lGDoxChJC/22EWi0TWoE8OPD2PAWGk7V7+3Q6ndqAIUyyi0ooJTNk=;7:vtMJVjgrjthRUFUeW7m9V5MeUSkvZm+mV5XgsY7u5B7yHGIIeNmJFnJrEy1okmEniQ7xolJcfhI20IHi/eiIoxPoP+8p8Remb07hNCEadatu2CuJGxnZkLIwGyBHytkR1u8oqI54P2u9zMN1P07MQIFZErmvvDbM/NNeZOpZU3TNoke/V7VMLvuoTu9FWPEd
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:;SRVR:CY1PR0601MB1355;
+x-microsoft-antispam-prvs: <user@domain.com>
+x-exchange-antispam-report-test: UriScan:;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(601004)(2401047)(8121501046)(5005006)(10201501046)(3002001);SRVR:CY1PR0601MB1355;BCL:0;PCL:0;RULEID:;SRVR:CY1PR0601MB1355;
+x-forefront-prvs: 0941B96580
+x-forefront-antispam-report: SFV:NSPM;SFS:(10019020)(6009001)(2351001)(229853001)(33656002)(6116002)(3846002)(1220700001)(66066001)(19625215002)(5002640100001)(10400500002)(102836003)(87936001)(16236675004)(3280700002)(5003600100002)(450100001)(586003)(99286002)(8936002)(5640700001)(5004730100002)(86362001)(5008740100001)(106116001)(3660700001)(19627405001)(2906002)(2900100001)(92566002)(76576001)(81166006)(74316001)(2501003)(77096005)(9686002)(50986999)(189998001)(54356999)(1730700003)(8676002)(110136002)(107886002)(122556002);DIR:OUT;SFP:1102;SCL:1;SRVR:CY1PR0601MB1355;H:domain.com;FPR:;SPF:None;MLV:sfv;LANG:en;
+spamdiagnosticoutput: 1:23
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_CY1PR0601MB1354398372514DC14A50425DFE740CY1PR0601MB1354_"
+X-MS-Exchange-CrossTenant-originalarrivaltime: 13 May 2015 20:10:55.8219
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 37bb694a-a00d-4f6a-a9ab-466be04b1db4
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: CY1PR0601MB1355
+X-Proofpoint-Virus-Version: vendor=fsecure engine=2.50.10432:,, definitions=2016-05-13_07:,,
+ signatures=0
+X-Proofpoint-Spam-Details: rule=outbound_notspam policy=outbound score=0 spamscore=0 suspectscore=0
+ malwarescore=0 phishscore=0 adultscore=0 bulkscore=0 classifier=spam
+ adjust=0 reason=mlx scancount=1 engine=8.0.1-1604210000
+ definitions=main-1605130264
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Hey User,
+
+A couple of quick questions: Did you guys put something out today or yester=
+day about the DNC's standing committees? Also, and relatedly, I don't think=
+ I'm on the Organizationlist right now. Can you add me?
+
+Thanks!
+
+Abby
+
+--
+Abby D. Phillip
+National Political Reporter
+Washington Post
+(Cell) 857-928-7338
+Twitter: @abbydphillip

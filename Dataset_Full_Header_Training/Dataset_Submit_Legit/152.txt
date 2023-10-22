@@ -1,0 +1,60 @@
+Received: from domain.com (146.215.230.103) by
+ domain.com (43.130.141.76) with Microsoft SMTP Server id
+ 8.3.297.1; Sat, 9 Nov 2015 22:16:05 -0800
+Received: from domain.com ([160.33.194.229])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id rAA6G4Nu032710	for <user@domain.com>; Sun, 10 Nov 2015 
+ 06:16:04 GMT
+Received: from mail73-tx2-domain.com (mail-domain.com [65.55.88.115])
+	by domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id rAA6G45d011589	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128
+ verify=FAIL)	for <user@domain.com>; Sun, 10 Nov 2015 06:16:04 GMT
+Received: from mail73-tx2 (localhost [127.0.0.1])	by mail73-tx2-domain.com
+ (Postfix) with ESMTP id D1D4C1803A3	for <user@domain.com>; Sun, 10
+ Nov 2015 06:16:03 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:17.158.232.237;KIP:(null);UIP:(null);IPV:NLI;H:nk11p03mm-domain.com;RD:nk11p03mm-domain.com;EFVD:NLI
+X-SpamScore: -3
+X-BigFish: vps-3(zz98dI9371Ic85fh1432Izz1f42h2148h208ch1ee6h1de0h1fdah2073h2146h1202h1e76h1d1ah1d2ah1fc6hzz1de098h8275bh1de097hz2fh839hd25he5bh1288h12a5h12bdh137ah139eh13eah1441h1504h1537h162dh1631h1662h1758h1898h18e1h1946h19b5h1b0ah1b2bh1bceh224fh1d0ch1d2eh1d3fh1dfeh1dffh1e23h1fe8h1ff5h2052h20b3h20f0h2218h2216h1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail73-tx2: domain of me.com designates 17.158.232.237 as permitted sender) client-ip=17.158.232.237; user@domain.com; helo=nk11p03mm-domain.com ;domain.com ;
+Received: from mail73-tx2 (localhost.localdomain [127.0.0.1]) by mail73-tx2
+ (MessageSwitch) id 1384064162164245_12700; Sun, 10 Nov 2015 06:16:02 +0000
+ (UTC)
+Received: from domain.com (unknown [10.9.14.235])	by
+ mail73-domain.com (Postfix) with ESMTP id 19E95300066	for
+ <user@domain.com>; Sun, 10 Nov 2015 06:16:02 +0000 (UTC)
+Received: from nk11p03mm-domain.com (17.158.232.237) by
+ domain.com (10.9.99.115) with Microsoft SMTP Server id
+ 14.16.227.3; Sun, 10 Nov 2015 06:16:01 +0000
+Received: from [192.168.1.2] ([75.84.187.18]) by nk11p03mm-domain.com
+ (Oracle Communications Messaging Server 7u4-27.08(7.0.4.27.7) 64bit (built
+ Aug 22 2013)) with ESMTPSA id <0user@domain.com>
+ for user@domain.com; Sun, 10 Nov 2015 06:16:01 +0000 (GMT)
+X-Proofpoint-Virus-Version: vendor=fsecure
+ engine=2.50.10432:5.10.8794,1.0.431,0.0.0000
+ definitions=2013-11-10_01:2013-11-09,2013-11-10,1970-01-01 signatures=0
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 spamscore=0
+ suspectscore=0 phishscore=0 adultscore=0 bulkscore=0 classifier=spam adjust=0
+ reason=mlx scancount=1 engine=7.0.1-1308280000 definitions=main-1311090325
+Subject: Re: What a memorable night!
+From: Darcy Pollack <darcykp@me.com>
+In-Reply-To: <user@domain.com>
+Date: Sat, 9 Nov 2015 22:16:00 -0800
+CC: Jeff Pollack <user@domain.com>
+Message-ID: <user@domain.com>
+References: <user@domain.com>
+To: Bernie Weinraub <user@domain.com>,
+        Anthony W
+	<user@domain.com>,
+        Amy Pascal <user@domain.com>
+X-Mailer: Apple Mail (2.1510)
+Return-Path: user@domain.com
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+It really was an incredible evening.  Just perfect.  Anthony, we  are so proud of you!
+
+xx d
+

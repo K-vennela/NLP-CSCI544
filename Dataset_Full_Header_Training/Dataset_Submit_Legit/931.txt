@@ -1,0 +1,49 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Mon, 25 May 2015 11:36:13 +0200
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id C14DE628C7	for
+ <user@domain.com>; Mon, 25 May 2015 10:12:18 +0100 (BST)
+Received: by domain.com (Postfix)	id 0F1DB4440BA7; Mon, 25 May 2015 
+ 11:35:39 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from SimonettaHT (unknown [192.168.1.158])	(using TLSv1 with cipher
+ ECDHE-RSA-AES256-SHA (256/256 bits))	(No client certificate requested)	by
+ domain.com (Postfix) with ESMTPSA id C3D5C444085A;	Mon, 25 May 2015 
+ 11:35:36 +0200 (CEST)
+From: Simonetta Gallucci <s.gallucci@hackingteam.com>
+To: 'Eduardo Pardo' <user@domain.com>, 'amministrazione'
+	<user@domain.com>
+CC: <user@domain.com>, 'Daniele Milan' <user@domain.com>
+References: <002101d09677$d1139320$733ab960$@hackingteam.com>
+In-Reply-To: <002101d09677$d1139320$733ab960$@hackingteam.com>
+Subject: RE: Expenses May 2015 - Eduardo
+Date: Mon, 25 May 2015 11:36:15 +0200
+Message-ID: <025b01d096ce$404cd1b0$c0e67510$@user@domain.com>
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdCWd7eInLXvxDGdSVCK5W3xPNQwQQAVmjog
+Content-Language: it
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=SIMONETTA GALLUCCI569
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-435165190_-_-"
+
+Hola Eduardo,  here attached your expenses sheet with USD values; your final refund is USD 505.00.  un abrazo,  Simonetta Gallucci 
+Financial Controller 
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com 
+mobile: +39 3939310619
+phone: +39 0229060603 From: Simonetta Gallucci <s.gallucci@hackingteam.com>
+Sent: lunedì 25 maggio 2015 01:17
+To: 'Simonetta Gallucci'; 'amministrazione'
+Cc: user@domain.com; 'Daniele Milan'
+Subject: Expenses May 2015 - Eduardo Hola Simo, Attached my expense report for May 2015 and the receipts.  It includes Philippe’s cash advanced from last month. Thanks, --Eduardo PardoField Application Engineer email: user@domain.com phone: +39 3666285429 mobile: +57 3003671760 Hacking Teamwww.hackingteam.com 

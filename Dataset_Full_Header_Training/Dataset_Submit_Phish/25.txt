@@ -1,0 +1,108 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [10.5.6.7])
+	by domain.com (Postfix) with ESMTP id 181F346877
+	for <user@domain.com>; Tue,  1 Aug 2015 22:13:25 -0400 (EDT)
+Received: from domain.com (unknown [216.33.244.100])
+	by domain.com (Postfix) with ESMTP id B365D6CD142
+	for <user@domain.com>; Tue,  1 Aug 2015 22:13:25 -0400 (EDT)
+DomainKey-Signature: s=main; d=reply.ebay.com; c=nofws; q=dns; b=jYKt2ByXDlFp8yed3NjVowBvrtfS2DWih3UONcCqaWO2ZUK6wzrZH6+kwhWOJyRfuWUFNJGWKJ8urUVR3xGyrAyBsw9rtQLPxWd7BLpyew/eMzFew+2Rj3iSg39rlB5k;
+Received: from unknown (HELO [10.112.159.35]) ([10.112.159.101])
+  by domain.com with ESMTP; 01 Aug 2015 19:13:14 -0700
+From: "Meg Whitman" <eBay-US@reply.ebay.com>
+Reply-to: user@domain.com
+To: user@domain.com
+Subject: A Letter to jnazario from eBay CEO, Meg Whitman
+Date: Tue, 1 Aug 2015 19:13:14 -0700
+Message-ID: <1154484794920.user@domain.com>
+X-Mailer: Kana Connect 6
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="1154484794920.MimeBoundarY"
+Status: R
+X-Status: 
+X-Keywords: 
+
+eBay sent this message to Jose Nazario (jnazario).
+Your registered name is included to show this message originated from eBay.
+Learn More =3D=3D> <<link>>
+
+eBay =3D=3D> <<link>>
+It's Our Net =3D=3D> <<link>>
+
+Net Neutrality and the eBay Community: A Call to Action
+
+Dear jnazario,
+
+As you know, I almost never reach out to you personally with a request to g=
+et involved in a debate in the U.S. Congress. However, today I feel I must.
+
+Right now, the telephone and cable companies in control of domain.com access =
+are trying to use their enormous political muscle to dramatically change th=
+e domain.com. It might be hard to believe, but lawmakers in Washington are se=
+riously debating whether consumers should be free to use the domain.com as th=
+ey want in the future.
+
+Join me by clicking here -- <<link>> --=
+ to send a message to your representatives in Congress.
+
+The phone and cable companies now control more than 95% of all domain.com acc=
+ess. These large corporations are spending millions of dollars to promote l=
+egislation that would allow them to divide the domain.com into a two-tiered s=
+ystem.
+
+The top tier would be a "Pay-to-Play" high-speed toll-road restricted to on=
+ly the largest companies that can afford to pay high fees for preferential =
+access to the Net.
+
+The bottom tier -- the slow lane -- would be what is left for everyone else=
+=2E If the fast lane is the information "super-highway," the slow lane will=
+ operate more like a dirt road.
+
+Today's domain.com is an incredible open marketplace for goods, services, inf=
+ormation and ideas. We can't give that up. A two-lane system will restrict =
+innovation because start-ups and small companies -- the companies that can'=
+t afford the high fees -- will be unable to succeed, and we'll lose out on =
+the jobs, creativity and inspiration that come with them.
+
+The power belongs with domain.com users, not the big phone and cable companie=
+s. Let's use that power to send as many messages as possible to our elected=
+ officials in Washington. Please join me by clicking here right now to send=
+ a message to your representatives in Congress before it is too late. You c=
+an make the difference.
+=3D=3D> <<link>>
+
+Thank you for reading this note. I hope you'll make your voice heard today.
+
+Sincerely,=20
+
+Meg Whitman=20
+President and CEO=20
+eBay Inc.
+
+P.S. If you have any questions about this issue, please contact us at gover=
+user@domain.com
+
+-----------------------------------------------------
+Learn More to protect yourself from Spoof (fake) e-mails.
+=3D=3D> <<link>>
+
+eBay sent this e-mail to you because your Notification Preferences indicate=
+ that you want to receive information about Special Events & Promotions. eB=
+ay will not request personal data (password, domain.com card/bank numbers) in a=
+n e-mail. You are subscribed as user@domain.com, registered on eBay.
+
+If you do not wish to receive further communications, sign into "My eBay" b=
+y clicking on the "My eBay" link found at the top of the eBay home page and=
+ change your Notification Preferences. Please note that it may take up to 1=
+0 days to process your request.
+
+domain.com our Privacy Policy and User Agreement if you have any questions.
+Privacy Policy =3D=3D> <<link>>
+User Agreement =3D=3D> <<link>>
+
+Copyright =A9 2015 eBay Inc. All Rights Reserved. Designated trademarks and=
+ brands are the property of their respective owners. eBay and the eBay logo=
+ are trademarks of eBay Inc. eBay is located at 2015 Hamilton Avenue, San J=
+ose, CA 95125.
+

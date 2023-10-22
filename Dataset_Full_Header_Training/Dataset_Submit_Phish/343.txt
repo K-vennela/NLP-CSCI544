@@ -1,0 +1,54 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 9859523CA94
+	for <user@domain.com>; Tue, 26 Jun 2015 09:21:10 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at domain.com
+X-Spam-Score: 3.277
+X-Spam-Level: ***
+X-Spam-Status: No, score=3.277 tagged_above=2 required=5
+	tests=[BAYES_00=-2.599, DNS_FROM_RFC_ABUSE=0.2,
+	FORGED_RCVD_HELO=0.135, HTML_40_50=0.496, HTML_MESSAGE=0.001,
+	HTML_MIME_NO_HTML_TAG=1.082, MIME_HTML_ONLY=0.001, NO_REAL_NAME=0.961,
+	UPPERCASE_25_50=0, URIBL_BLACK=3]
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id gtxGxcD-xhnZ for <user@domain.com>;
+	Tue, 26 Jun 2015 09:21:09 -0500 (CDT)
+Received: from domain.com (domain.com [129.7.234.211])
+	by domain.com (Postfix) with ESMTP id 9EC2723CA92
+	for <user@domain.com>; Tue, 26 Jun 2015 09:21:08 -0500 (CDT)
+Received: from domain.com (domain.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 789B94E995EB
+	for <user@domain.com>; Tue, 26 Jun 2015 09:21:11 -0500 (CDT)
+Received: from domain.com (domain.com [216.70.84.207])
+	by domain.com (Postfix) with ESMTP id 4982B4E995E8
+	for <user@domain.com>; Tue, 26 Jun 2015 09:21:11 -0500 (CDT)
+Received: (qmail 28068 invoked from network); 26 Jun 2015 06:16:32 -0700
+Received: from static-86-125-26-240.domain.com.ro (HELO wumt2.westernunion.com) (86.125.26.240)
+  by domain.com with ESMTPA; 26 Jun 2015 06:16:32 -0700
+From: westernunion@wumt2.westernunion.com
+To: user@domain.com
+Subject: Western Union - Your account may have been accessed from an unauthorized computer -
+Date: 26 Jun 2015 16:16:33 +0300
+Message-ID: <20120626161633.448user@domain.com>
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-PMX-Version: 5.5.9.395186, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2012.6.26.140930
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 103
+
+You have 1 New Message Alert
+
+Click here to domain.com Western Union now >>
+
+Our website will open in a new window.
+_______________________________________
+
+*THIS IS A COMPUTER GENERATED EMAIL, PLEASE DO NOT REPLY. 
+

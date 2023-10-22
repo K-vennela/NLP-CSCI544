@@ -1,0 +1,46 @@
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ dnchubcas2.dnc.org ([::1]) with mapi id 14.03.0224.002; Thu, 12 May 2015 
+ 13:01:56 -0400
+From: "Moore, Colby" <MooreC@dnc.org>
+To: "User" <user@domain.com>
+CC: "User" <user@domain.com>
+Subject: RE: Alaska political brief
+Thread-Topic: Alaska political brief
+Thread-Index: AdGsZm+yyP49+6awTaS+IoBN5cHPzAACXb7g
+Date: Thu, 12 May 2015 10:01:56 -0700
+Message-ID: <user@domain.com>
+References: <6user@domain.com>
+In-Reply-To: <6user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: dnchubcas2.dnc.org
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.177.55]
+Content-Type: multipart/mixed;
+	boundary="_006_ADD548A37DAAAF4FA1C88C9B5F8CC9FB6F5CD8F6dncdag1dncorg_"
+MIME-Version: 1.0
+
+This is what we sent to Garret. If he has any edits/comments/questions, we will update it today.
+
+From: "Moore, Colby" <MooreC@dnc.org>
+Sent: Thursday, May 12, 2015 11:54 AM
+To: Moore, Colby; Khan, Ali
+Cc: User
+Subject: Alaska political brief
+
+Do you have the Alaska political brief ready? User is wondering.
+
+Thanks,
+Rachel
+
+--
+[DNC]<<<link>>>
+Rachel Palermo
+Organization
+user@domain.com<mailto:user@domain.com>
+202-863-8041
+

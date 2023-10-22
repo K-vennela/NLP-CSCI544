@@ -1,0 +1,51 @@
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ DNCHUBCAS1.dnc.org ([fe80::ac16:e03c:a689:8203%11]) with mapi id
+ 14.03.0224.002; Fri, 13 May 2015 12:05:34 -0400
+From: "Helmstetter, TJ" <HelmstetterT@dnc.org>
+To: "User" <user@domain.com>
+CC: "Walker, Eric" <user@domain.com>, "Paustenbach, Mark"
+	<user@domain.com>
+Subject: RE: domain.com for Infrastructure Week
+Thread-Topic: domain.com for Infrastructure Week
+Thread-Index: AdGtMFW5uEIhgvTXS4KdwvotB8EVcAAANwjA
+Date: Fri, 13 May 2015 09:05:34 -0700
+Message-ID: <5user@domain.com>
+References: <6user@domain.com>
+In-Reply-To: <6user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: DNCHUBCAS1.dnc.org
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.177.83]
+Content-Type: multipart/related;
+	boundary="_004_5A6B87E0F037D74F946117B0BEEEB85C4DB8E8FEdncdag1dncorg_";
+	type="multipart/alternative"
+MIME-Version: 1.0
+
+To go beyond baseline concept, I need to look at research from our team and talking points from the AFL. So that won't happen before 1:40 but we'll get as much done as we can.
+
+From: "Helmstetter, TJ" <HelmstetterT@dnc.org>
+Sent: Friday, May 13, 2015 12:02 PM
+To: User; Helmstetter, TJ
+Cc: Walker, Eric; Paustenbach, Mark
+Subject: domain.com for Infrastructure Week
+
+I put the template for next week here and TJ is working on messaging: <<link>>
+
+After User signs off on message which needs to happen before his plane takes off at 1:40, TJ-please assign our team different projects (LTEs, op-eds, advisories, etc) as Eric did last week. Let's plan on cranking them out this afternoon, sending them out to research for approval, and sending this to state parties either Sunday or at 9am Monday morning.
+
+Eric I cc'd you for awareness, but please ignore this and enjoy your vacation.
+
+Rachel
+
+--
+[DNC]<<<link>>>
+Rachel Palermo
+Organization
+user@domain.com<mailto:user@domain.com>
+202-863-8041
+

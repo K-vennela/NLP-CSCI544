@@ -1,0 +1,40 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Tue, 3 Dec 2015 14:07:55 +0100
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id ACB3C6007F	for
+ <user@domain.com>; Tue,  3 Dec 2015 13:02:30 +0000 (GMT)
+Received: by domain.com (Postfix)	id D62552BC1F3; Tue,  3 Dec 2015 
+ 14:07:55 +0100 (CET)
+Delivered-To: user@domain.com
+Received: from ALESSANDROHT (host82-18-static.96-5-domain.com
+ [5.96.18.82])	(using TLSv1 with cipher AES128-SHA (128/128 bits))	(No client
+ certificate requested)	by domain.com (Postfix) with ESMTPSA id
+ 6F2F82BC03B;	Tue,  3 Dec 2015 14:07:48 +0100 (CET)
+From: Alessandro Scarafile <a.scarafile@hackingteam.com>
+To: <user@domain.com>
+CC: Andrea Di Pasquale <user@domain.com>, Daniele Milan
+	<user@domain.com>, Marco Bettini <user@domain.com>
+Subject: VISAs Request
+Date: Tue, 3 Dec 2015 14:07:48 +0100
+Organization: Hacking Team
+Message-ID: <!&!AAAAAAAAAAAuAAAAAAAAAGW5myDChXdJl5NBv+13zBsBAMO2jhD3dRHOtM0AqgC7tuYAAAAAAA4AABAAAAC51+user@domain.com>
+X-Priority: 1 (Highest)
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook 15.0
+Thread-Index: Ac7wJfw0xI8ZvmKCRM2sdKoh2J1KdQ==
+Content-Language: it
+Importance: High
+Disposition-Notification-To: Alessandro Scarafile
+	<user@domain.com>
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=ALESSANDRO SCARAFILED45
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-849311633_-_-"
+
+Good afternoon,in order to confirm our availability for next week 3-days training in Astana, kindly confirm that it will be possible to obtain VISAs on arrival in time (landing scheduled on Monday morning / the exact time is not yet available). Attached you can find passports copies of involved persons (me and Mr. Di Pasquale). Waiting your feedback. Best regardsAlessandro Scarafile  --Alessandro ScarafileField Application Engineer Hacking TeamMilan Singapore Washington DCwww.hackingteam.com email: user@domain.com: +39 3386906194 phone: +39 0229060603 

@@ -1,0 +1,75 @@
+Ray,
+Glad to see you're onto this. Obviously anything shouldn't make it even worse
+for Edouard, but you're in contact with him.
+I'd be happy to sign onto any letter from Science, but this isn't essential. I know
+the series Courtillot has used (and Pasotti re-uses) came from here, but it isn't
+what he and the authors says it was. I also know it doesn't make much difference
+if the correct one was used - given the smoothing. It is just sloppy and a
+principle thing. The correct data are sitting on our web site and have been since
+Brohan et al (2006) appeared in JGR. Even the earlier version (HadCRUT2v) would
+have been OK, but not a specially produced series for a tree-ring reconstruction
+paper back in 2001/2 and not on our web site.
+Then there are all the science issues you and Edouard have raised in RC and the EPSL
+comment.
+I have had a couple of exchanges with Courtillot. This is the last of them from
+March 26, 2007. I sent him a number of papers to read. He seems incapable of
+grasping the concept of spatial degrees of freedom, and how this number can
+change according to timescale. I also told him where he can get station data at
+NCDC and GISS (as I took a decision ages ago not to release our station data,
+mainly because of McIntyre). I told him all this as well when we met at a meeting of
+the French Academy in early March.
+What he understands below is my refusal to write a paper for the proceedings of
+the French Academy for the meeting in early March. He only mentioned this requirement
+afterwards and I said I didn't have the time to rewrite was already in the literature.
+It took me several more months of emails to get my expenses for going to Paris!
+Cheers
+Phil
+From Courtillot 26 March 2007
+Dear Phil,
+Sure I understand. Now research wise I would like us to remain in contact. Unfortunately, I
+have too little time to devote to what is in principle not in my main stream of research
+and has no special funding. But still I intend to try and persist. I find these temperature
+and pressure series fascinating. I have two queries:
+1) how easy is it for me (not a very agile person computer wise) to obtain the files of
+data you use in the various global or non global averages of T (I mean the actual montly
+data in each 5 box prior to any processing, including computation of the "temperature
+anomaly")? How do I do it?  What I would like to be able to extract is for instance all of
+the data within a given 5 by 5 box with their dates (so: lat, lon, time, value). I
+understand these are monthly means, though we find that there may be some quite important
+information in the daily values which is likely lost on monthly averaging, but this is
+another question...
+2) I know you answered my question but still I have trouble grasping the answer. Could you
+explain how the global T average for periods say before 1900 can haev a total uncertainty
+under 0.2C back to 1850. This can only be true, given the data distribution in the Rayner
+et al paper, if T is an incredibly smooth function of location. Did you really answer me
+that by extracting from the recent (post 1950) database data with the same geographical and
+temporal distributions as the 1850-1900 data you get almost the same result as with the
+full modern data (with an uncertainty just above 0.1C). This seems truly amazing, and
+would never work with the global magnetic field data I am accustomed to work on. Yet it
+does not seem to me that climate varies as slowly and with as long spatial scales as the
+magnetic field...
+I will very much appreciate your comments and help on those.
+Thank you again for having come to our meeting.
+Yours very sincerely,
+Vincent
+--
+Vincent Courtillot
+Professor of Geophysics University Paris 7,
+Director Institut de Physique du Globe de Paris,
+Member Institut Universitaire de France,
+Member Academia Europaea and French Academy of Sciences
+President, Geomagnetism and Paleomagnetism, American Geophysical Union
+President, Scientific Council, City of Paris
+Date: Tue, 15 Jan 2008 12:20:57 -0500
+From: Michael Mann <user@domain.com>
+Reply-To: user@domain.com
+Organization: Penn State University
+User-Agent: Thunderbird 2.0.0.9 (Windows/20071031)
+To: Phil Jones <p.jones@uea.ac.uk>, Gavin Schmidt <gschmidt@giss.nasa.gov>
+Subject: [Fwd: Re: [Fwd: Edouard Bard]]
+X-UEA-Spam-Score: 0.3
+X-UEA-Spam-Level: /
+X-UEA-Spam-Flag: NO
+update from Ray P...
+mike
+---

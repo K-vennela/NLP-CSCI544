@@ -1,0 +1,597 @@
+Received: from domain.com ([fe80::755c:1705:6a98:dcff]) by
+ domain.com ([fe80::755c:1705:6a98:dcff%11]) with mapi id
+ 14.03.0123.003; Tue, 27 May 2015 09:46:40 +0200
+From: Emad Shehata <e.shehata@hackingteam.com>
+To: "User" <user@domain.com>,
+	"'user@domain.com'" <user@domain.com>
+CC: amministrazione <user@domain.com>,
+	"'user@domain.com'" <user@domain.com>
+Subject: R: Re: Payment
+Thread-Topic: Re: Payment
+Thread-Index: Ac91qXdk13XjlcLfhEmVjQq6mXtPPQAACpdAAMU0OgAACkPujAAAH8eS///gXID//rDHaA==
+Date: Tue, 27 May 2015 09:46:40 +0200
+Message-ID: <user@domain.com>
+In-Reply-To: <user@domain.com>
+Accept-Language: it-IT, en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <user@domain.com>
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 03
+X-Originating-IP: [fe80::755c:1705:6a98:dcff]
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EMAD SHEHATA450
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1505733112_-_-"
+
+Fully agree
+
+--
+Emad Shehata
+Key Account Manager
+
+Sent from my mobile.
+
+
+
+Da: Marco Bettini [mailto:user@domain.com]
+Inviato: Monday, May 26, 2015 04:46 PM
+A: Emad Shehata <user@domain.com>
+Cc: Marco Bettini <user@domain.com>; amministrazione; Giancarlo Russo <user@domain.com>
+Oggetto: Re: Payment
+
+
+
+CI vuole cosí tanto tempo?
+La prima fattura é del 2015 e le altre due del 2013.Se loro effettivamente hanno pagato le tasse, la ricevuta devono averla per forza.Io direi di non estendere la licenza.
+Marco
+
+Il giorno 26/mag/2014, alle ore 15:40, Emad Shehata <user@domain.com> ha scritto:
+
+<!--
+/* Font Definitions */
+@font-face
+	{font-family:Helvetica;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:Consolas;
+	panose-1:2 11 6 9 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoPlainText, li.MsoPlainText, div.MsoPlainText
+	{mso-style-priority:99;
+	mso-style-link:"Testo normale Carattere";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:10.5pt;
+	font-family:Consolas;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-priority:99;
+	mso-style-link:"Testo fumetto Carattere";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+span.TestonormaleCarattere
+	{mso-style-name:"Testo normale Carattere";
+	mso-style-priority:99;
+	mso-style-link:"Testo normale";
+	font-family:Consolas;}
+span.TestofumettoCarattere
+	{mso-style-name:"Testo fumetto Carattere";
+	mso-style-priority:99;
+	mso-style-link:"Testo fumetto";
+	font-family:"Tahoma","sans-serif";}
+span.apple-style-span
+	{mso-style-name:apple-style-span;}
+span.StileMessaggioDiPostaElettronica23
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.StileMessaggioDiPostaElettronica24
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.StileMessaggioDiPostaElettronica25
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 2.0cm 2.0cm 2.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+
+P.S. Con diplomazia, nonstante dal mio summarize qui di seguito non lo si evinca :)
+
+-- 
+
+Emad Shehata 
+
+Key Account Manager 
+
+Sent from my mobile.
+
+
+
+
+Da: Emad Shehata
+
+Inviato: Monday, May 26, 2015 04:36 PM
+
+A: Marco Bettini 
+
+Cc: amministrazione; Giancarlo Russo 
+
+Oggetto: I: Payment 
+
+
+
+
+Caro Marco
+
+Ho finito di parlare adesso con Mesfer ed informato che:
+
+1)Dobbiamo ricevere fattura del loro pagamento delle tasse per verificare il saldo da pagare ( mi informa che non hanno tale documento, in quanto prendera' tempo, purtroppo e' da svariati mesi che lo stiamo chiedendo)
+
+2) La maintenance scadra' questo 31 Maggio 2015 e non prolungabile ( voleva ancora tempo, ma abbiamo gia' dato)
+
+Ho informato che la ns azienda e' stata molto flessibile sull'insolvenza e sulla scadenza del mantenance e che per andare avanti ( ossia Advanced Trainging) dobbiamo chiudere le questioni in sospeso.
+
+Mi rispondera' tramite e-mail.
+
+A disposizione
+
+Saluti 
+
+-- 
+
+Emad Shehata 
+
+Key Account Manager 
+
+Sent from my mobile.
+
+
+
+
+Da: Emad Shehata [mailto:user@domain.com]
+
+Inviato: Monday, May 26, 2015 01:42 PM
+
+A: user@domain.com <user@domain.com> 
+
+Cc: 'Marco Bettini' <user@domain.com>; 'RSALES' <user@domain.com>
+
+Oggetto: R: Payment 
+
+
+
+
+Dear Mr. Mesfer,
+trust this e-amil find you well.I tried to call you but with no success.
+Can you please give me a response on the following Matter?
+Best regards Emad Shehata
+
+Key Account Manager
+
+Hacking Team
+
+Milan Singapore Washington DC
+
+www.hackingteam.com
+
+email:
+user@domain.com
+
+mobile: +39 3357939078
+
+phone: +39 0229060603   
+
+Da: Emad Shehata [mailto:user@domain.com]
+
+Inviato: giovedì 22 maggio 2015 12:40
+
+A: user@domain.com
+
+Cc: 'Marco Bettini'; 'RSALES'
+
+Oggetto: I: Payment
+
+
+
+
+Dear Mr. Mesfer,I’m Emad Shehata, nice to meet you.As per the e-mail sent by our Sales Manager (see you here below) regarding the still open financial issue, I'd like to inform you that the Yearly
+ Maintenance and the domain.com Service (now called Attack Vector Service) will expire on 31 May 2014. The delivery was performed on January 2013, and expiration date should have been on January 2015 but, agreed by the parties, was extended until 31
+ of May 2014. After the expiration the customer will able to use the product and receive data from targets but not to make new infections, not to receive new updates
+ not the ticket support.Based on the agreement we have in place, I would summarize the costs of the maintenance renewal fee and the Attack Vector Service fee: Yearly Maintenance fee                              € 114.000,00                                      ( 20% of € 570.000,00 that it was the Total
+ Amount of the PO)Attack Vecktor Service fee                          €  50.000,00                                      (as reported in the original offer signed by
+ you)Total Amount                                                   € 164.000,00 
+ Please let me know if you need a formal Offer in order to arrange your PO before the expiration date. Best regards
+  Emad Shehata
+
+Key Account Manager
+
+Hacking Team
+
+Milan Singapore Washington DC
+
+www.hackingteam.com
+
+email:
+user@domain.com
+
+mobile: +39 3357939078
+
+phone: +39 0229060603  
+
+
+
+Da: Marco Bettini [mailto:user@domain.com]
+
+Inviato: martedì 20 maggio 2014 11:28
+
+A: user@domain.com
+
+Cc: Marco Bettini; Emad Shehata; RSALES (user@domain.com)
+
+Oggetto: Re: Payment
+
+
+
+
+Dear Mr. Mesfer,
+
+
+
+
+my name is Marco Bettini, I'm the Sales Manager at HT.
+
+
+
+
+With this email I inform you that Mostapha resigned and left the company last week.
+
+For the future communications, please keep my colleague Emad Shehata or myself as reference. You can find our contact details below.
+
+
+
+
+Regarding the advanced training for GID, please give few days to check the availability of the team.
+
+
+
+
+Before confirm the training we need you to solve the financial issue. I'm summarizing the situation of the last invoices:
+
+
+
+
+Invoice Nr.
+
+Total Amount
+
+Amount Paid
+
+Amount Due
+
+Tax 5%
+
+157/2012
+
+€ 370.500,00
+
+€ 351.975,00
+
+€ 18.525,00
+
+€ 18.525,00
+
+045/2013
+
+€ 28.500,00
+
+€ 18.525,00
+
+€ 9.975,00
+
+€ 1.425,00
+
+048/2013
+
+€ 39.000,00
+
+€ 33.150,00
+
+€ 5.850,00
+
+€ 1.950,00
+
+
+
+
+Balance without tax
+
+€ 34.350,00
+
+Balance  with TAX
+
+€ 12.450,00
+
+
+
+
+For each invoice you can find the amount paid and the amount that has not been yet paid.
+
+Two options:
+
+1) If you apply the 5% of tax, the amount that you have to pay is Euro 12.450,00.  A TAX official receipt must be provided. 
+
+2) otherwise our domain.com is Euro 34.350,00.
+
+
+
+
+Our Financial Department informed us that it's mandatory to receive payments and documents before arranging the Advanced Training.
+
+
+
+
+Please keep us informed.
+
+
+
+
+Best Regards,
+
+
+
+
+Marco Bettini
+
+
+
+
+----
+
+Marco Bettini
+
+Sales Manager
+
+
+
+
+Hacking Team
+
+Milan Singapore Washington DC
+
+www.hackingteam.com
+
+email: user@domain.com
+
+mobile: +39 3488291450
+
+phone: +39 02 29060603
+
+
+
+
+----
+
+Emad Shehata
+
+Key Account Manager
+
+email: user@domain.com
+
+mobile: +39 3357939078
+
+phone: +39 02 29060603
+
+-------- Messaggio originale -------- 
+
+Oggetto: 
+
+Re: Payment
+
+Data: 
+
+Tue, 20 May 2015 07:52:14 +0000
+
+Mittente: 
+
+Mesfer S. Al Mesfer <user@domain.com>
+
+A: 
+
+Mostapha Maanna <user@domain.com>
+
+
+
+
+Salam Mostapha,
+
+
+
+
+I hope you and your family are OK.
+
+
+
+
+Kindly, could you reply to me with your team’s availability.
+
+
+
+
+Best Regards,
+
+Mesfer Al Mesfer
+
+Sr. Project Manager
+
+T:+966920014888 Ext.171
+
+F:+96614168989
+
+M:+966503400749
+
+E: user@domain.com
+
+
+
+
+From: Emad Shehata <e.shehata@hackingteam.com>
+Mesfer Al Mesfer <user@domain.com>
+
+Date: Thursday, May 8, 2015 at 9:08 AM
+
+To: Mostapha Maanna <user@domain.com>
+
+Subject: Re: Payment
+
+
+
+
+Hi Mostapha,
+
+
+
+
+I will double check with finance and let you know. One more thing, GID want to know HT availability to conduct the training in Italy.
+
+
+
+
+Best Regards,
+
+Mesfer Al Mesfer
+
+Sr. Project Manager
+
+T:+966920014888 Ext.171
+
+F:+96614168989
+
+M:+966503400749
+
+E: user@domain.com
+
+
+
+
+From: Emad Shehata <e.shehata@hackingteam.com>
+Mostapha Maanna <user@domain.com>
+
+Date: Tuesday, May 6, 2015 at 2:24 PM
+
+To: Mesfer Al Mesfer <user@domain.com>
+
+Subject: Re: Payment
+
+
+
+
+Dear Mesfer,
+
+Hope you are doing well.
+
+I just got a call from our financial department and unfortunately the situation regarding the official receipt for the tax deduction is becoming
+ critical.
+
+Can you please update me and advise how to proceed?
+
+Thank you and best regards,
+
+Mostapha
+
+
+
+
+Il giorno 06/gen/2014, alle ore 13:06, Mostapha Maanna <user@domain.com> ha scritto:
+
+
+
+
+Dear Mesfer,
+
+Thank you in advance for the final payment.
+
+
+
+
+As I told you before, this deduction will be rejected from our financial department without an
+official receipt. BTW, why is it 15% this time and not 5%?
+
+Anyway, would you be available for a call tomorrow morning?
+
+Thank you,
+
+Mostapha 
+
+
+
+
+Il giorno 06/gen/2014, alle ore 07:45, Mesfer S. Al Mesfer <user@domain.com> ha scritto:
+
+Dear Mostapha,
+
+Here is the feedback from our finance dept.. One more thing, you will
+
+receive your final payment before this Thursday insh Allah.
+
+Best Regards,
+
+Mesfer Al Mesfer
+
+Sr. Project Manager
+
+T:+966920014888 Ext.171
+
+F:+96614168989
+
+M:+966503400749
+
+E: user@domain.com
+

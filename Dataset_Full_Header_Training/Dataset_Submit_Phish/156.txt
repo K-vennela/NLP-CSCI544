@@ -1,0 +1,50 @@
+Delivered-To: user@domain.com
+Received: by 10.129.158.205 with SMTP id v196csp845403ywg;
+        Fri, 24 Mar 2015 07:55:57 -0700 (PDT)
+X-Received: by 10.237.44.198 with SMTP id g64mr9139836qtd.87.1490367357166;
+        Fri, 24 Mar 2015 07:55:57 -0700 (PDT)
+Return-Path: <user@domain.com>
+Received: from wd1-outbound-mail.myworkday.com (wd1-mail-domain.com. [209.177.164.2])
+        by domain.com with ESMTPS id m82si2095136qkh.160.2017.03.24.07.55.56
+        for <user@domain.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Fri, 24 Mar 2015 07:55:57 -0700 (PDT)
+Received-SPF: pass (domain.com: domain of user@domain.com designates 209.177.164.2 as permitted sender) client-ip=209.177.164.2;
+Authentication-Results: domain.com;
+       dkim=pass user@domain.com;
+       spf=pass (domain.com: domain of user@domain.com designates 209.177.164.2 as permitted sender) user@domain.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=myworkday.com
+Received: from client (127.0.0.1)
+	by wd1-outbound-mail.myworkday.com (Postfix) with ESMTP id BE2D6190EFD
+	for <user@domain.com>; Fri, 24 Mar 2015 14:55:56 +0000 (UTC)
+DKIM-Filter: OpenDKIM Filter v2.10.3 wd1-outbound-mail.myworkday.com BE2D6190EFD
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=myworkday.com;
+	s=0d33p1; t=1490367356;
+	bh=hf2OljGyx8sk8YVy4Zy1oRz61AJtjTNBP/7DeLzBYTM=;
+	h=From: "workday.do-not-reply paypal" <paypal@myworkday.com>
+	b=HWZsd8axSw4MadIOqlRvcuTxiuIvVeAReUpDVvqp0m5R2iu81pcnlJjxxkwbFL/O1
+	 INBScunStkNWwIPVc/EJJfhIs7hNXMjr8qFb48Z948PdRDI7PI5X/SS+wE5vhx7FrS
+	 BUkb5LS/BVHTgCFLb20wk0SXNqkp2ZfEohQS9y9o=
+Received: from web1036.svc.prod.ash.wd (unknown [127.0.0.1])
+	by server (Postfix) with ESMTP id BC1F64E798
+	for <user@domain.com>; Fri, 24 Mar 2015 14:55:56 +0000 (UTC)
+X-MSH: v 0.9.26
+From: "workday.do-not-reply paypal" <paypal@myworkday.com>
+Reply-To: user@domain.com
+To: user@domain.com
+Message-ID: <1842263627.1926624.1490367356769.user@domain.com>
+Subject: Thanks for your interest in career opportunities at PayPal
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Date: Fri, 24 Mar 2015 14:55:56 +0000 (UTC)
+
+Hello User -
+
+We really appreciate the time and effort you took to connect with us and apply for the position: [not available] We are no longer hiring for this particular position, but that doesn't necessarily mean this is the end. There are many openings at PayPal and we're always looking for smart, qualified and motivated applicants. If you see another interesting position, please apply and we'll get back in touch!
+
+Thanks,
+Global Talent Acquisition
+
+This email was intended for user@domain.com
+

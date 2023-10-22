@@ -1,0 +1,245 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Fri, 20 May
+ 2015 18:05:49 -0400
+Received: from server555.appriver.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Fri, 20 May 2015 
+ 18:05:38 -0400
+Received: from [10.87.0.113] (HELO inbound.appriver.com)  by
+ server555.appriver.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 927350905
+ for user@domain.com; Fri, 20 May 2015 17:05:48 -0500
+X-Note-AR-ScanTimeLocal: 5/20/2016 5:05:39 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: 72.3.212.195 ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->United States->
+X-Note-Sending-IP: 72.3.212.195
+X-Note-Reverse-DNS: outbound.appriver.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G8 G276 G277 G278 G279 G283 G284 G294 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDIP
+X-Note: Headers Injected
+Received: from [72.3.212.195] (HELO outbound.appriver.com)  by
+ inbound.appriver.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 139879585
+ for user@domain.com; Fri, 20 May 2015 17:05:39 -0500
+Received: from [10.242.231.127] (HELO server551sql)  by outbound.appriver.com
+ (CommuniGate Pro SMTP 6.1.2)  with ESMTP id 34331843 for user@domain.com;
+ Fri, 20 May 2015 17:05:39 -0500
+From: AppRiver SpamLab <notice@appriver.com>
+To: <user@domain.com>
+Date: Fri, 20 May 2015 17:05:38 -0500
+Subject: Held Spam Report for 5/19/2016
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+Message-ID: <user@domain.com>
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+															Daily Held Spam Report
+
+
+
+user@domain.com
+
+Thursday, May 19=
+, 2016
+
+View, Search, Sort Report |
+										Request Current Report |
+										Change Report Settings
+
+Spam: 5
+
+																																	=09
+
+
+
+View |
+											Release
+
+user@domain.com
+
+Wanted regional manageres
+
+												10:27p from Viet Nam (1.75 KB)
+
+
+
+																									=09
+
+
+
+View |
+											Release
+
+user@domain.com
+
+I am sure you are willing to try anything to get thin again.
+
+												9:26p from Mexico (1.51 KB)
+
+
+
+																									=09
+
+
+
+View |
+											Release
+
+user@domain.com
+
+SAP Hybris Webcast | Rethinking Your Personalization Strategy<=
+/span>
+
+												1:24p from United States (21.82 KB)
+
+
+
+																									=09
+
+
+
+View |
+											Release
+
+user@domain.com
+
+This week from Trendi
+
+												10:36a from United States (125.85 KB)
+
+
+
+																									=09
+
+
+
+View |
+											Release
+
+user@domain.com
+
+The Payment Has Been Approved
+
+												4:17a from Ethiopia (3.37 KB)
+
+
+
+Virus: 8
+
+																													=09
+
+
+
+user@domain.com
+
+Scanned image
+
+											8:49p from Nepal (5.22 KB)
+
+
+
+																						=09
+
+
+
+user@domain.com
+
+Scanned image
+
+											7:32p from Bangladesh (5.21 KB)
+
+
+
+																						=09
+
+
+
+user@domain.com<=
+br>
+											Re:
+
+											6:30p from Argentina (8.68 KB)
+
+
+
+																						=09
+
+
+
+user@domain.com
+
+Re:
+
+											3:55p from Turkey (8.63 KB)
+
+
+
+																						=09
+
+
+
+user@domain.com
+
+Re:
+
+											1:31p from Colombia (8.58 KB)
+
+
+
+																						=09
+
+
+
+user@domain.com
+
+Scan  #E7B286395F_CECEBEDDF9
+
+											8:55a from Viet Nam (78.29 KB)
+
+
+
+																						=09
+
+
+
+user@domain.com
+
+Thank you!
+
+											8:02a from Viet Nam (8.76 KB)
+
+
+
+																						=09
+
+
+
+user@domain.com=
+se
+
+Thank you!
+
+											7:18a from Unknown (8.82 KB)
+
+
+
+Outbound: 0
+
+Copyright ©2003-2016=20
+															AppRiver, All Rights Reserved
+
+
+
+Unsubscribe
+

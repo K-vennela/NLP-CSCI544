@@ -1,0 +1,67 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 5977223CAA4
+	for <user@domain.com>; Tue,  8 Nov 2015 02:22:05 -0600 (CST)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 6hDiWAFVscvY for <user@domain.com>;
+	Tue,  8 Nov 2015 02:22:05 -0600 (CST)
+Received: from domain.com (domain.com [129.7.234.211])
+	by domain.com (Postfix) with ESMTP id 3D74323CAA2
+	for <user@domain.com>; Tue,  8 Nov 2015 02:22:05 -0600 (CST)
+Received: from domain.com (domain.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id E35844E9900B
+	for <user@domain.com>; Tue,  8 Nov 2015 02:22:03 -0600 (CST)
+Received: from domain.com (domain.com [66.96.189.6])
+	by domain.com (Postfix) with ESMTP id B54A84E99009
+	for <user@domain.com>; Tue,  8 Nov 2015 02:22:03 -0600 (CST)
+Received: from domain.com ([10.20.15.12])
+	by domain.com with esmtp (Exim)
+	id 1RNgwV-0004Kf-3h
+	for user@domain.com; Tue, 08 Nov 2015 03:22:03 -0500
+Received: from domain.com ([10.20.55.2])
+	by domain.com with esmtp (Exim)
+	id 1RNgwU-0006h0-Ta
+	for user@domain.com; Tue, 08 Nov 2015 03:22:02 -0500
+Received: from domain.com ([10.20.12.99])
+	by domain.com with NO UCE
+	id uYN21h01M28DDK601YN221; Tue, 08 Nov 2015 03:22:02 -0500
+X-EN-OrigOutIP: 10.20.12.99
+X-EN-IMPSID: uYN21h01M28DDK601YN221
+Received: from nf.ibrolly by domain.com with local (Exim)
+	id 1RNgvu-0004NI-Hf
+	for user@domain.com; Tue, 08 Nov 2015 03:21:26 -0500
+X-EN-Info: U=nf.ibrolly P=/rss2.php
+X-EN-CGIUser: nf.ibrolly
+X-EN-CGIPath: /rss2.php
+X-EN-OrigIP: 71.227.13.26
+Message-Id: 1320740486-588-user@domain.com
+To: user@domain.com
+Subject: JOB OFFER!!!!!!!!!!!!!!!!!!!!!!
+From: David Johnson <ukcorporator1@gmail.com>
+Reply-To: user@domain.com
+MIME-Version: 1.0
+Content-Type: text/plain
+Content-Transfer-Encoding: 8bit
+X-EN-Timestamp: Tue, 08 Nov 2015 03:21:26 -0500
+Date: Tue, 08 Nov 2015 03:21:26 -0500
+Sender: David Johnson <user@domain.com>
+X-PMX-Version: 5.5.9.395186, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2011.11.8.81214
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 32
+
+I am writing you from ukcorporator i will like to inform 
+you about this Job opportunity which you make $300 every 
+week, if you care to know more about this opportunity 
+kindly email us so we can tell you more about it you will only be working at home or school so email us for more 
+
+information about the job and we will get back to you Asap  user@domain.com
+
+Regards
+
+David Johnson

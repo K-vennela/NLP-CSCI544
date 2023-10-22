@@ -1,0 +1,34 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Wed, 8 Apr 2015 07:07:01 +0200
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id 79081621C6;	Wed,  8 Apr 2015 
+ 05:44:27 +0100 (BST)
+Received: by domain.com (Postfix)	id 537602BC228; Wed,  8 Apr 2015 
+ 07:07:01 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from EUGENEHT (unknown [203.116.19.132])	(using TLSv1 with cipher
+ AES256-SHA (256/256 bits))	(No client certificate requested)	by
+ domain.com (Postfix) with ESMTPSA id C8AB62BC036;	Wed,  8 Apr 2015 
+ 07:06:59 +0200 (CEST)
+From: Eugene Ho <e.ho@hackingteam.com>
+To: <user@domain.com>
+CC: 'Alessandro Scarafile' <user@domain.com>, 'Daniel Maglietta'
+	<user@domain.com>
+Subject: Leave request
+Date: Wed, 8 Apr 2015 13:06:58 +0800
+Message-ID: <002001d071b9$da0ae560$8e20b020$@hackingteam.com>
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AdBxuccVVKvfcJmNREedBGV6ZRd+1g==
+Content-Language: en-gb
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EUGENE HOD15
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1986913353_-_-"
+
+Hi, I would like to take leave on 24th and 27th of April 2015.Thanks! Regards,Eugene HoField Application Engineer Hacking TeamMilan Singapore Washington DCwww.hackingteam.com email: user@domain.com: +65 9127 3063 

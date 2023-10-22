@@ -1,0 +1,34 @@
+Ben, there are two very different things going on here. One is technical
+and related to the actual science and the actual statistics, the second
+is political, and is much more concerned with how incidents like this
+can be portrayed. The second is the issue here. 
+The unfortunate fact is that the 'secret science' meme is an extremely 
+powerful rallying call to people who have no idea about what is going
+on. Claiming (rightly or wrongly) that information is being hidden has a
+huge amount of resonance (as you know), much more so than whether
+Douglass et al know their statistical elbow from a hole in the ground. 
+Thus any increase in publicity on this - whether in the pages of Nature
+or elsewhere - is much more likely to bring further negative fallout
+despite your desire to clear the air. Whatever you say, it will still be
+presented as you hiding data. 
+The contrarians have found that there is actually no limit to what you
+can ask people for (raw data, intermediate steps, additional
+calculations, residuals, sensitivity calculations, all the code, a
+workable version of the code on any platform etc.), and like Somali
+pirates they have found that once someone has paid up, they can always
+shake them down again.
+Thus, I would not advise any public statements on this. Instead, email
+you immediate superiors and the director with a short statement along
+the lines of what you suggest below (i.e. of course you want open
+science, the data *are* in the public domain (with links) and calls for
+more intermediate steps are just harassment to prevent scientists doing
+what they are actually paid too). I wouldn't put in anything
+specifically related to McIntyre. 
+A much more satisfying response would be to demonstrate how easy it is
+to replicate the analysis in the paper starting from scratch using
+openly available data (such as through Joe Sirott's portal) and the
+simplest published MSU weighting function. If you can show that this can
+be done in a couple of hours (or whatever), it makes the other side look
+like incompetent amateurs. Maybe someone has a graduate student
+available....?
+Gavin

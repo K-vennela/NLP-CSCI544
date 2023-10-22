@@ -1,0 +1,45 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Mon, 27 Apr 2015 11:21:05 +0200
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id DD251621B2;	Mon, 27 Apr 2015 
+ 09:57:58 +0100 (BST)
+Received: by domain.com (Postfix)	id 4831BB6600F; Mon, 27 Apr 2015 
+ 11:21:05 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from [172.20.20.150] (unknown [172.20.20.150])	(using TLSv1 with
+ cipher DHE-RSA-AES128-SHA (128/128 bits))	(No client certificate requested)
+	by domain.com (Postfix) with ESMTPSA id 3E072B6600B;	Mon, 27 Apr
+ 2015 11:21:05 +0200 (CEST)
+Message-ID: <553user@domain.com>
+Date: Mon, 27 Apr 2015 11:20:44 +0200
+From: Emanuele Placidi <e.placidi@hackingteam.com>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:31.0) Gecko/20100101 Thunderbird/31.2.0
+To: Fabrizio Cornelli <user@domain.com>,
+	<user@domain.com>
+Subject: Uscita anticipata
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EMANUELE PLACIDIEA3
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1792911213_-_-"
+
+Avrei bisogno di uscire mezzora prima oggi, che recupero in settimana.
+Grazie
+
+-- 
+Emanuele Placidi
+Senior Software Developer
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com
+mobile: +39 3371115601
+phone: +39 0229060603
+

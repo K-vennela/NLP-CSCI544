@@ -1,0 +1,41 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Tue, 24 Feb 2015 17:54:11 +0100
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id D7CED60061	for
+ <user@domain.com>; Tue, 24 Feb 2015 16:32:48 +0000 (GMT)
+Received: by domain.com (Postfix)	id 10AC8B6600F; Tue, 24 Feb 2015 
+ 17:54:11 +0100 (CET)
+Delivered-To: user@domain.com
+Received: from [179.12.101.245] (unknown [179.12.101.245])	(using TLSv1 with
+ cipher DHE-RSA-AES256-SHA (256/256 bits))	(No client certificate requested)
+	by domain.com (Postfix) with ESMTPSA id A770BB6600B	for
+ <user@domain.com>; Tue, 24 Feb 2015 17:54:09 +0100 (CET)
+From: Eduardo Pardo <e.pardo@hackingteam.com>
+Subject: Re: Expenses February 2015 - Eduardo
+Message-ID: <7877user@domain.com>
+Date: Tue, 24 Feb 2015 11:54:05 -0500
+References: <001101d05040$4da125c0$e8e37140$@hackingteam.com> <382user@domain.com>
+In-Reply-To: <382user@domain.com>
+To: Giancarlo Russo <user@domain.com>
+X-Mailer: iPhone Mail (12B466)
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EDUARDO PARDO CARVAJALDB9
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-755381267_-_-"
+
+Sorry, I had it there since ever. Thank you Giancarlo!
+
+Eduardo PardoField Application EngineerHacking Team
+email: user@domain.com: +39 3666285429Mobile: +57 3003671760
+El 24/02/2015, a las 9:51 a.m., Giancarlo Russo <user@domain.com> escribió:
+
+Eduardo,
+You are sending all the email to my gmail account...
+
+Sent from my iPad

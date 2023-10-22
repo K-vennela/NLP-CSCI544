@@ -1,0 +1,105 @@
+<x-flowed>
+Dear folks,
+Thank you very much for all of your emails, and my apologies for the 
+delay in replying - I've been on travel for much of the past week.
+Peter, I think you've done a nice job in capturing some of my concerns 
+about the Douglass et al. paper. Our CCSP Report helped to illustrate 
+that there were large structural uncertainties in both the radiosonde- 
+and MSU-based estimates of tropospheric temperature change. The 
+scientific evidence available at the time we were finalizing the CCSP 
+Report - from Sherwood et al. (2005) and the (then-unpublished) Randel 
+and Wu paper - strongly suggested that a residual cooling bias existed 
+in the sonde-based estimates of tropospheric temperature change.
+As you may recall, we showed results from both the RATPAC and HadAT2 
+radiosonde datasets in the CCSP Report and the Santer et al. (2005) 
+Science paper. From the latter (see, e.g., our Figure 3B and Figures 
+4C,D), it was clear that there were physically-significant differences 
+between the simulated temperature trends in the tropical lower 
+troposphere (over 1979 to 1999) and the trends estimated from RATPAC, 
+HadAT2, and UAH data. In both the Science paper and the CCSP Report, we 
+judged that residual biases in the observations provided the most likely 
+explanation for these model-versus-data trend discrepancies.
+Douglass et al. come to a fundamentally different conclusion, and 
+ascribe model-versus-data differences to model error. They are not 
+really basing this conclusion on new model data or on new observational 
+data. The only "new" observational dataset that they use is an early 
+version of Leo Haimberger's radiosonde dataset (RAOBCORE v1.2). Leo's 
+dataset was under development at the time all of us were working on the 
+CCSP Report and the Santer et al. Science paper. It was not available 
+for our assessment in 2005. As Leo has already shared with you, newer 
+versions of RAOBCORE (v1.3 and v1.4) show amplification of surface 
+warming in the tropical troposphere, in reasonable agreement with the 
+model results that we presented in Fig. 3B of our Science paper. 
+Douglass et al. did not use these newer versions of RAOBCORE v1.2. Nor 
+did Douglass et al. use any "inconvenient" observational datasets (such 
+as the NESDIS-based MSU T2 dataset of Zou et al., or the MSU T2 product 
+of Vinnikov and Grody) showing pronounced tropospheric warming over the 
+satellite era. Nor did Douglass et al. discuss the "two timescale issue" 
+that formed an important part of our Science paper (i.e., how could 
+models and multiple observational datasets show amplification behavior 
+that was consistent in terms of monthly variability but inconsistent in 
+terms of decadal trends?) Nor did Douglass et al. fairly portray results 
+from Peter's 2007 GRL paper. In my personal opinion, Douglass et al. 
+have ignored all scientific evidence that is in disagreement with their 
+view of how the real world should be behaving.
+I don't think it's a good strategy to submit a response to the Douglass 
+et al. paper to the International Journal of Climatology (IJC). As Phil 
+pointed out, IJC has a large backlog, so it might take some time to get 
+a response published. Furthermore, Douglass et al. probably would be 
+given the final word.
+My suggestion is to submit (to Science) a short "update" of our 2005 
+paper. This update would only be submitted AFTER publication of the four 
+new radiosonde-based temperature datasets mentioned by Peter. The update 
+would involve:
+1) Use of all four new radiosonde datasets.
+2) Use of the latest versions of the UAH and RSS TLT data, and the 
+latest versions of the T2 data from UAH, RSS, UMD (Vinnikov and Grody), 
+and NESDIS (Zou et al.).
+3) Use of the T2 data in 2) above AND the UAH and RSS T4 data to 
+calculate tropical "TFu" temperatures, with all possible combinations of 
+T4 and T2 datasets (e.g., RSS T4 and UMD T2, UAH T4 and UMD T2, etc.)
+4) Calculating synthetic MSU temperatures from all model 20c3m runs 
+currently available in the IPCC AR4 database. Calculation of synthetic 
+MSU temperatures would rely on a method suggested by Carl (using 
+weighting functions that depend on both the surface type [land, ocean] 
+and the surface pressure at each grid-point) rather than on the static 
+global-mean weighting function that we used previously. This is probably 
+several months of work - but at least it will keep me off the streets 
+and out of trouble.
+5) Formal determination of statistical significance of 
+model-versus-observed trend differences.
+6) Brief examination of timescale-dependence of amplification factors.
+7) As and both Peter and Melissa suggested, brief examination of 
+sensitivity of estimated trends to the selected analysis period (e.g., 
+use of 1979 to 1999; use of 1979 to 2001 or 2003 [for the small number 
+of model 20c3m runs ending after 1999]; use of data for the post-NOAA9 
+period).
+This will be a fair bit of effort, but I think it's worth it. Douglass 
+et al. will try to make maximum political hay out of their IJC paper - 
+which has already been sent to Andy Revkin at the New York Times. You 
+can bet they've sent it elsewhere, too. I'm pretty sure that our 
+colleague JC will portray Douglass et al. as definitive "proof" that all 
+climate models are fundamentally flawed, UAH data are in amazing 
+agreement with sonde-based estimates of tropospheric temperature change, 
+global warming is not a serious problem, etc.
+One of the most disturbing aspects of Douglass et al. is its abrupt 
+dismissal of the finding (by Sherwood et al. and Randel and Wu) of a 
+residual tropospheric cooling bias in the sonde data. Douglass et al. 
+base this dismissal on the Christy et al. (2007) JGR paper, and on 
+Christy's finding of biases in the night-time sonde data that magically 
+offset the biases in the day-time data. Does that sound familiar? When 
+did we last hear about new biases magically offsetting the effect of 
+recently-discovered biases? As Yogi Berra would say, this is deja vu all 
+over again....
+I hope that one of the papers on the new sonde-based datasets directly 
+addresses the subject of 'error compensation' in the day-time and 
+night-time sonde data. This would be important to do.
+It's unfortunate that Douglass et al. will probably be published well 
+before the appearance of the papers on the new radiosonde datasets, and 
+before an updated comparison of modeled-and observed tropospheric 
+temperature trends.
+I'd be grateful if you could let me know whether you are in agreement 
+with the response strategy I've outlined above, and would like to be 
+involved with an update of our 2005 Science paper.
+With best regards,
+Ben

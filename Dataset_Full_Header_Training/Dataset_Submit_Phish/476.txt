@@ -1,0 +1,42 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id C150146A7E
+	for <user@domain.com>; Fri, 31 Aug 2015 11:41:16 -0400 (EDT)
+X-Greylist: delayed 143 seconds by postgrey-1.27 at domain.com; Fri, 31 Aug 2015 11:41:16 EDT
+Received: from domain.com (unknown [63.223.75.118])
+	by domain.com (Postfix) with ESMTP id C8AF4131FBDE
+	for <user@domain.com>; Fri, 31 Aug 2015 11:41:16 -0400 (EDT)
+Received: from smpsoex2k6 [70.159.136.100] by domain.com with ESMTP
+  (SMTPD32-8.05) id A2C61AF004D0; Fri, 31 Aug 2015 09:33:10 -0700
+From: "MidAmerica Bank"<service@midamericabank.com>
+Subject: MidAmerica Bank - Urgent Notice!!
+Date: Fri, 31 Aug 2015 11:39:02 -0500
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <200708310933139.user@domain.com>
+To: undisclosed-recipients:;
+Content-Length: 2015 
+Lines: 48
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 81
+
+Security Notice
+
+Mid American Bank knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. However we recently noticed that your account was accessed from several foregin IP addresess. Because information about our customers is an important part of our business we treated this matter as a possible fraudulent attempt to obtain your personal (sensitive) information. This has resulted in the suspension of your account untill your personal information can be verified . To begin the verification process please access your account immediately by following the secure link below:
+
+<<link>>
+
+       If the verification process is successful your account will be restored in aproximatly 24 hours.
+
+Please Note: If your account information is not verified within the next 72 hours, we will assume this account has been compromised and will be permanently suspended. We apologize for this inconvenience, but the purpose of this verification is to ensure that your account has not been fraudulently used and to combat fraud.
+

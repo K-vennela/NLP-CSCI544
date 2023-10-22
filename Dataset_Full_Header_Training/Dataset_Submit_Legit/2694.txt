@@ -1,0 +1,89 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Thu, 19 May
+ 2015 14:27:12 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Thu, 19 May 2015 
+ 14:27:08 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 924712338;
+ Thu, 19 May 2015 13:27:20 -0500
+X-Note-AR-ScanTimeLocal: 5/19/2016 1:27:11 PM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: user@domain.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: LOCAL->->United States->
+X-Note-Sending-IP: 209.85.192.50
+X-Note-Reverse-DNS: mail-qg0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mail-qg0-domain.com ([209.85.192.50] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 139403723;
+ Thu, 19 May 2015 13:27:11 -0500
+Received: by mail-qg0-domain.com with SMTP id 90so48222182qgz.1;
+        Thu, 19 May 2015 11:27:11 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:content-transfer-encoding:message-id:date:subject:from
+         :to;
+        bh=PwQ/QE2NfLoTUrQ5oSOdUJ6GKgEq9LdB7OWNViYvPP8=;
+        b=ZKKfJvO6ZlZ+ycwOo7dBEzeceRnVvSH2IKH6dBxhaBMi9z4k+x1uGIDMgG3XDtZNM7
+         QCzgVWhiB8T5/53xI6NgzbGN2+8FSMVAKEjF5MUdrvc5HkL5yPyEzAyzK6gG8z8qynIv
+         ZhjwA5NOzWj4qi07MSVTJbk2E5v1X/voRBGgg6w16IIbPYkxzq1J60ATMLeDBcG0Hi3h
+         2xoQAczrZkJuVcuMWg8tHo6PNveU8ARGG3euS5k2loFkS6Cc2x+A4ZJqUbF1OnfDfYVV
+         wzqNlzwbLDZnSsUqAgNTz9VNzxUXhRNfUFEvWZOCoDXioloTcWUH205mUiPopcuTtrFd
+         gnYg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:content-transfer-encoding
+         :message-id:date:subject:From: Debbie Wasserman Schultz <hrtsleeve@gmail.com>
+        bh=PwQ/QE2NfLoTUrQ5oSOdUJ6GKgEq9LdB7OWNViYvPP8=;
+        b=gRWEEKWCFRzD2DT8PtCLFB40WynZSmcWC8wDdbKrZzAQheEn2tylruS9QgjTknhTc0
+         eUxHZ66r1vFbqT/zPJ4+D5Xj77GtnL4RIRUVfj/glGu0cgOiXFAwyj4E9NV3eMqnwB6i
+         6MUOxQfonuin2DOnLsL7GLBgZv/gZquu/h5dyHP9CWTVaQkpHq6KcSHi2x1derbFC07P
+         VFWyVvJL66gEA/6HYDXgi+jfasE9dJHU9Z821f1aYSSo9dRqo7oM2KBVev6zounhdaxx
+         CXQSWJLscyeNhNkHrU7TBVTnS1+t5FHGMc/Ipo+4fEOoMYdZzpeIQ9GIBmH/DN2Sm5Yp
+         dRHw==
+X-Gm-Message-State: AOPr4FWv+Bp3VgANh7IbIZxVWI42u41OnkvGtWDYhlRDf2IDR0BpsXeksEDP+kOE1higVg==
+X-Received: by 10.140.145.82 with SMTP id 79mr16083914qhr.95.1463682430980;
+        Thu, 19 May 2015 11:27:10 -0700 (PDT)
+Return-Path: <user@domain.com>
+Received: from [127.0.0.1] ([166.170.30.147])        by smtp.gmail.com with
+ ESMTPSA id 18sm7148675qgx.19.2016.05.19.11.27.08        (version=TLSv1/SSLv3
+ cipher=OTHER);        Thu, 19 May 2015 11:27:09 -0700 (PDT)
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+X-Mailer: BlackBerry Email (10.3.2.858)
+Message-ID: <20160519182708.5083222.36957.60071@gmail.com>
+Date: Thu, 19 May 2015 14:27:08 -0400
+Subject: =?utf-8?q?WP=3A_Liberal_pundits_blame_Debbie_Wasserman_Schultz=2C_not_Bernie?=
+ =?utf-8?q?_Sanders=2C_for_Democrats=E2=80=99_division?=
+From: Debbie Wasserman Schultz <hrtsleeve@gmail.com>
+To: "User"
+	<user@domain.com>, Ryan Banfill <user@domain.com>, Tracie Pough
+	<user@domain.com>
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+This is really a problem, guys. We cannot allow this narr=
+ative to continue. Where is the balance? We have plenty of people that coul=
+d push back. We must get a pushback story out there. 
+
+WASHINGTON POSTLiberal pundits blame Debbie Wasserman Schultz, not=
+ Bernie Sanders, for Democrats=E2=80=99 division<=
+p style=3D"margin: 0in 0in 0.0001pt; font-size: 11pt; font-family: Calibri,=
+ sans-serif; color: rgb(0, 0, 0);">By Callum Borchers

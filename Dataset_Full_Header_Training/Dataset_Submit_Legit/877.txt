@@ -1,0 +1,46 @@
+Return-Path: <user@domain.com>
+Reply-To: <user@domain.com>
+From: "HT Srl" <support@hackingteam.com>
+To: <user@domain.com>
+Subject: [!YRB-950-16131]: Assignment - Alerts are not visible accross a group
+Date: Mon, 24 Sep 2015 08:45:10 +0200
+Message-ID: <1348469110.50600176user@domain.com>
+X-Mailer: Microsoft Outlook 15.0
+Thread-Index: AQI3RT1ARPmuweDnnlh1KdGMI4Qhxw==
+X-OlkEid: 000000007D2091DA92D3914ABB4C05769578F4790700A96A85A9D2A04643865EB2097E3CF3A30000000002080000A96A85A9D2A04643865EB2097E3CF3A30000000078C00000E07093AEAB285440975DAA9A6D22F691
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-615933390_-_-"
+
+Alberto Ornaghi updated #YRB-950-16131
+
+--------------------------------------
+
+Staff (Owner): Alberto Ornaghi (was: -- Unassigned --)
+Status: In Progress (was: Open)
+
+Alerts are not visible accross a group
+
+--------------------------------------
+
+Ticket ID: YRB-950-16131
+URL: <<link>>
+Full Name: Pradeep Lal
+Email: user@domain.com
+Creator: User
+Department: General
+Staff (Owner): Alberto Ornaghi
+Type: Feature Request
+Status: In Progress
+Priority: Normal
+Template Group: Default
+Created: 21 September 2015 05:36 PM
+Updated: 21 September 2015 05:36 PM
+
+We have noticed that when user 1 configures an alert (email or log) user 2 (users 2 - n) do not have access to that alert for re-configuration. We would like that alerts be accessible for re-configuration as long as users are in the same group.
+
+Thanks
+
+Staff CP:  <<link>>
+

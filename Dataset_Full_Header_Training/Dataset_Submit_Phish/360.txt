@@ -1,0 +1,59 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [75.102.5.22])
+	by domain.com (Postfix) with ESMTP id 1BB343144024
+	for <user@domain.com>; Mon, 20 Jul 2015 18:52:19 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 6C14623232F;
+	Mon, 20 Jul 2015 18:55:45 +0000 (UTC)
+X-Virus-Scanned: amavisd-new at domain.com
+X-Spam-Flag: YES
+X-Spam-Score: 9.114
+X-Spam-Level: *********
+X-Spam-Status: Yes, score=9.114 tagged_above=-10 required=6.6
+	tests=[AWL=1.266, BAYES_50=0.001, FORGED_MUA_OUTLOOK=3.116,
+	FORGED_OUTLOOK_HTML=0.001, HTML_MESSAGE=0.001, MIME_HTML_ONLY=1.457,
+	MSOE_MID_WRONG_CASE=0.82, NO_DNS_FOR_FROM=1.496, RCVD_IN_DNSWL_LOW=-1,
+	URIBL_BLACK=1.955]
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id Y04uuM2q3FV0; Mon, 20 Jul 2015 18:55:41 +0000 (UTC)
+Received: from domain.com (domain.com [67.128.8.10])
+	by domain.com (Postfix) with ESMTP id 493F123208A
+	for <user@domain.com>; Mon, 20 Jul 2015 18:55:40 +0000 (UTC)
+Received: from User (unverified [76.191.100.168]) by domain.com
+  (domain.com SMTPRS 4.6.741.12) with ESMTP id <user@domain.com>;
+  Mon, 20 Jul 2015 11:43:29 -0700
+X-Modus-BlackList: user@domain.com=OK
+X-Modus-domain.com: FALSE;0;0;0
+Reply-To: <user@domain.com>
+From: "PayPal Inc."<service@us.paypa.com>
+Subject: Security Measures
+Date: Mon, 20 Jul 2015 22:55:07 +0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20090720185541.493user@domain.com>
+To: undisclosed-recipients:;
+Content-Length: 625
+Lines: 20
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1108
+
+ Dear Member,
+
+  Your account has been suspended.
+
+  This is a security measure to protect your account further.
+
+Click here to find how to remove your limitation and how to use your account safely.
+
+PayPal Account Protection Department.

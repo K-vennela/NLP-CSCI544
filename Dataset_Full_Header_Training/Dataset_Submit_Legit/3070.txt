@@ -1,0 +1,64 @@
+Received: from domain.com (146.215.230.102) by
+ domain.com (43.130.141.77) with Microsoft SMTP Server id
+ 8.3.297.1; Wed, 27 Nov 2015 19:18:50 -0800
+Received: from domain.com ([160.33.194.230])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id rAS3InTW019634	for <user@domain.com>; Thu, 28 Nov 2015 
+ 03:18:49 GMT
+Received: from mail128-va3-domain.com (mail-domain.com
+ [216.32.180.117])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id rAS3Imos027226
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Thu, 28 Nov 2015 03:18:49 GMT
+Received: from mail128-va3 (localhost [127.0.0.1])	by
+ mail128-va3-domain.com (Postfix) with ESMTP id C5E0B20028A	for
+ <user@domain.com>; Thu, 28 Nov 2015 03:18:48 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:199.59.148.238;KIP:(null);UIP:(null);IPV:NLI;H:ham-cannon.twitter.com;RD:ham-cannon.twitter.com;EFVD:NLI
+X-SpamScore: 4
+X-BigFish: vps4(zz9371Ic89bhc616hd772hc857hzz1f42h2148h208ch1ee6h1de0h1fdah2073h2146h1202h1e76h1d1ah1d2ah1fc6hzz1730fah177df4h17326ah8275bh1bc7b9h8275dh1de097h186068h172c6chb64e9k1ce121iz2fh5fh839ha12hd25h1288h12a5h12bdh137ah13eah1441h14ddh1504h1537h153bh162dh1631h1758h18e1h1901h1946h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1fe8h1ff5h20f0h2216h214ai1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail128-va3: domain of bounce.twitter.com designates 199.59.148.238 as permitted sender) client-ip=199.59.148.238; user@domain.com; helo=ham-cannon.twitter.com ;.twitter.com ;
+Received: from mail128-va3 (localhost.localdomain [127.0.0.1]) by mail128-va3
+ (MessageSwitch) id 1385608726874999_8095; Thu, 28 Nov 2015 03:18:46 +0000
+ (UTC)
+Received: from domain.com (unknown [10.7.14.251])	by
+ mail128-domain.com (Postfix) with ESMTP id CADD2180076	for
+ <user@domain.com>; Thu, 28 Nov 2015 03:18:46 +0000 (UTC)
+Received: from ham-cannon.twitter.com (199.59.148.238) by
+ domain.com (10.7.99.34) with Microsoft SMTP Server id
+ 14.16.227.3; Thu, 28 Nov 2015 03:18:45 +0000
+DKIM-Signature: v=1; a=rsa-sha1; d=twitter.com; s=dkim-201303; c=relaxed/relaxed;
+	q=dns/txt; user@domain.com; t=1385608725;
+	h=From: Twitter <info@twitter.com>
+	bh=fHY2zbz5tLU54mEjTPJdj8EFyDE=;
+	b=huhzoPDAQ1GscBB+xvF/NttwTxFP/d9c2Ol4mZNuUtuqF8i5mQCRyLuxkKLA6Lqa
+	QObcG1nfiQenDS+j7tOtkaLOGm7YKjjQ8YCAXhhsRGPUHRktlv3WU2z3Dnv5L5Qz
+	GtDW2YuDuw6TnkcaRd47nLWrd+htJdgOtrEmczcB9WM=;
+X-MSFBL: YW15X3Bhc2NhbEBzcGUuc29ueS5jb21Ac21mMS1iZHEtMjMtc3IxLUV2ZXJ5dGhp
+	bmcuMTY4QEV2ZXJ5dGhpbmdAYW15X3Bhc2NhbFxAc3BlLnNvbnkuY29tXEAxMDFc
+	QDgzMDMxMTgzXEAwXEA1YTMwNTA3Yzg1MDE5NjM3OTJhN2ZmYzQyZmMwNzhmY2Nk
+	ODNjNjIx
+Date: Thu, 28 Nov 2015 03:18:45 +0000
+From: Twitter <info@twitter.com>
+To: Amy Pascal <user@domain.com>
+Subject: Spider-Man favorited a photo from Marvel UK on Twitter!
+Precedence: Bulk
+Message-ID: <45.4user@domain.com>
+Return-Path: 
+ user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+<<link>>+21+20131126&t;=1
+        <<link>>+21+20131126&t;=1                    Amy Pascal,     
+Here's a photo that was just shared on Twitter.         
+
+                 Go to Twitter           
+
+
+
+
+                  <<link>>+20+20131126&t;=1              
+
+

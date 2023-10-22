@@ -1,0 +1,6 @@
+Your Tax payment (ID: 707622143583), recently sent from your checking account was returned by the The Electronic Federal Tax Payment System.
+Canceled Tax transfer
+Tax Transaction ID:     707622143583
+Return Reason    See details in the report below
+FederalTax Transaction Report     tax_report_707622143583.doc (Microsoft Word Document)
+Internal Revenue Service, Metro Plex 1, 8401 Corporate Drive, Suite 300, Landover, MD 20785

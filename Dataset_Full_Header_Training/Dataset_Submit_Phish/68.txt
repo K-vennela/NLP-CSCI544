@@ -1,0 +1,66 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.4.9])
+	by domain.com (Postfix) with ESMTP id 95936468FA
+	for <user@domain.com>; Thu, 12 Jul 2015 09:21:45 -0400 (EDT)
+Received: from domain.com (domain.com [192.168.6.4])
+	by domain.com (Postfix) with ESMTP id 80847131FB42
+	for <user@domain.com>; Thu, 12 Jul 2015 09:21:45 -0400 (EDT)
+Received: from domain.com (ont-static-66.18.137.212.domain.com [66.18.137.212])
+	by domain.com (Postfix) with ESMTP id 72AAC6FA1C4
+	for <user@domain.com>; Thu, 12 Jul 2015 09:21:45 -0400 (EDT)
+Received: from User ([209.206.175.157]) by domain.com with Microsoft SMTPSVC(6.0.3790.3959);
+	 Thu, 12 Jul 2015 05:39:09 -0700
+Reply-To: <user@domain.com>
+From: "Trans West Credit Union"<do-not-reply@transwestcu.com>
+Subject: YOUR ACCOUNT HAS BEEN SUSPENDED
+Date: Thu, 12 Jul 2015 06:55:59 -0700
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <user@domain.com>
+X-OriginalArrivalTime: 12 Jul 2015 12:39:09.0609 (UTC) FILETIME=[A4AEC190:01C7C481]
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1506
+
+
+
+
+  Dear Customer, 
+  Trans West domain.com Union 
+        temporarily suspended your account.
+
+  Reason: Billing failure.
+
+          We require you to complete an account update so we can unlock your
+  account.
+
+  To 
+        start the update process click 
+        here.
+  Once you have completed 
+        the update, we will send you an email notifying
+
+          that your account is available again.
+   After that you can access your account at any time. 
+
+          The information provided will be treated in confidence and stored in our
+   secure database.
+
+  If you fail to provide information about your account you'll discover
+  that your account has been automatically deleted from our database.
+
+
+
+
+Copyright ©2007 Trans West domain.com Union. All Rights Reserved
+

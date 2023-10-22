@@ -1,0 +1,56 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id 76CF2468B7
+	for <user@domain.com>; Sun, 10 May 2015 04:04:31 -0400 (EDT)
+X-Greylist: delayed 64065 seconds by postgrey-1.27 at domain.com; Sun, 10 May 2015 04:04:31 EDT
+Received: from domain.com (domain.com [69.36.190.155])
+	by domain.com (Postfix) with ESMTP id 4B776131F723
+	for <user@domain.com>; Sun, 10 May 2015 04:04:31 -0400 (EDT)
+Received: from User (domain.com [72.253.223.76])
+	(authenticated bits=0)
+	by domain.com (8.13.1/8.13.1) with ESMTP id n49EFDnP030580;
+	Sat, 9 May 2015 08:15:32 -0600
+Message-Id: <200905091415.user@domain.com>
+Reply-To: user@domain.com
+From: Citi<lempxx@gmail.com>
+Subject: Failed login attempt
+Date: Sat, 9 May 2015 04:15:33 -1000
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+To: undisclosed-recipients:;
+Content-Length: 2015 
+Lines: 41
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1058
+
+Citibank is constantly working to ensure security by regularly screening the accounts in our system. We recently reviewed your account, and we need more information to help us provide you with a secure service. Until we can collect this information, your access to your account features will be restricted. We would like to restore your access as soon as possible, and we apologize for the inconvenience. 
+
+Why is my account access restricted?
+
+Your account access has been restricted for the following reason(s):
+
+9 May 2009: We have reason to believe that your account was accessed by a third party as different computers have logged into your Online Banking account and multiple password failures where presented before the logons. We now need you to re-confirm your account information to us. We understand that having restricted access can be an inconvenience, but protecting your account is our primary concern.
+
+How can I restore my account access?
+
+Please domain.com the link below, log into your account and complete the secure verification form:
+
+<<link>>
+
+In accordance with our Online Banking User Agreement, your account access will remain restricted until the issue has been resolved. Unfortunately, if access to your account remains restricted for an extended period of time, we will be forced to close your account as it may have been used for fraudulent purposes. We encourage you to log in to your Online Banking account as soon as possible to help avoid this. 
+
+
+
+Thank you for your patience,
+
+Citibank Customer Service

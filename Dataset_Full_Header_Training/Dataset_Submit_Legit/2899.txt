@@ -1,0 +1,92 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Sat, 30 Apr
+ 2015 18:31:08 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Sat, 30 Apr 2015 
+ 18:30:56 -0400
+Received: from [10.87.0.110] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 889438057
+ for user@domain.com; Sat, 30 Apr 2015 17:31:08 -0500
+X-Note-AR-ScanTimeLocal: 4/30/2016 5:31:08 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:67.192.52.186 DOM:invite.pingg.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-130/SG:5 4/30/2016 5:30:09 PM
+X-GBUdb-Analysis: 0, 67.192.52.186, Ugly c=0.423627 p=-0.967213 Source Normal
+X-Signature-Violations: 0-0-0-9693-c
+X-Note-419: 0 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 4/30/2016 5:30:52 PM
+X-Warn: WEBBUG
+X-Warn: OPTOUT
+X-Note: Spam Tests Failed: WEBBUG, OPTOUT
+X-Country-Path: ->PRIVATE->United States->United States->
+X-Note-Sending-IP: 67.192.52.186
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G375 G397 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from [67.192.52.186] (HELO domain.com)  by domain.com
+ (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 139242698 for user@domain.com;
+ Sat, 30 Apr 2015 17:31:08 -0500
+Received: from database (ec2-52-8-80-209.us-west-1.domain.com
+ [52.8.80.209])	by domain.com (Postfix) with ESMTP id 9F0EAD5835E	for
+ <user@domain.com>; Sat, 30 Apr 2015 22:31:06 +0000 (UTC)
+Received: from app2 (ip-172-30-0-248.us-west-1.compute.internal
+ [172.30.0.248])	by database (Postfix) with ESMTP id 87F0E18006D	for
+ <user@domain.com>; Sat, 30 Apr 2015 22:31:06 +0000 (UTC)
+Received: by app2 (Postfix, from userid 1002)	id 87169160A9C; Sat, 30 Apr 2015 
+ 22:31:06 +0000 (UTC)
+Date: Sat, 30 Apr 2015 22:31:06 +0000
+From: Maria Teresa Kumar & David Sutphen <host@invite.pingg.com>
+Reply-To: Maria Teresa Kumar & David Sutphen <user@domain.com>
+To: User <user@domain.com>
+Message-ID: <20160430223033.487996.4587.9116748@domain.com>
+Subject: Thank You from Maria Teresa Kumar & David Sutphen
+Content-Type: multipart/alternative;
+	boundary="--==_mimepart_5725322a7f223_1218129de101092063de";
+	charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+Precedence: bulk
+List-Unsubscribe: <<link>>
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+User,
+
+  Thanks for attending OUR VOICES 2016.
+
+
+
+
+	To domain.com the event web page click here:
+	<<link>>
+
+  Did you know that Pingg can help you send your gracious host a personal Thank-You?
+  They will surely appreciate the sentiment.</p>
+
+  To create, customize and send free Thank-You ecards click here:
+  <<link>>
+
+      - Pingg
+
+This email has a unique link just for you,
+please do not forward it to others.
+
+  Pingg respects your privacy. To block further invites from this sender
+  or for any other privacy concerns please review our policies:
+  <<link>>
+
+Pingg Corp. 2015 Avenue of the Stars,
+34th Floor, Los Angeles, CA 90067
+

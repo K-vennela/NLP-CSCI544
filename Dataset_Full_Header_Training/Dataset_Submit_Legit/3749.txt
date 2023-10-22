@@ -1,0 +1,113 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 27 Apr
+ 2015 17:51:06 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 27 Apr 2015 
+ 17:50:59 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 883984750
+ for user@domain.com; Wed, 27 Apr 2015 16:51:06 -0500
+X-Note-AR-ScanTimeLocal: 4/27/2016 4:51:06 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @politico.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->
+X-Note-Sending-IP: 68.232.198.10
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from domain.com ([68.232.198.10] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 135341362
+ for user@domain.com; Wed, 27 Apr 2015 16:51:06 -0500
+Received: by domain.com id h44q4i163hsk for <user@domain.com>; Wed,
+ 27 Apr 2015 15:50:56 -0600 (envelope-from
+ <user@domain.com>)
+From: "POLITICO's  2015 Blast" <2016blast@politico.com>
+To: <user@domain.com>
+Subject: =?UTF-8?B?UE9MSVRJQ08ncyAyMDE2IEJsYXN0OiBDcnV6IHBpY2tzIEZpb3Jp?=
+ =?UTF-8?B?bmEg4oCUIFRydW1wIGdvZXMgZm9yIHRoZSBraWxsIOKAlCBTYW5kZXJz4oCZ?=
+ =?UTF-8?B?IHN0YWZmIGxheW9mZnMg4oCUIDUgdGhpbmdzIHlvdSBuZWVkIHRvIGtub3c=?=
+Date: Wed, 27 Apr 2015 15:50:56 -0600
+List-Unsubscribe: <mailto:user@domain.com>
+Reply-To: POLITICO subscriptions
+	<user@domain.com>
+x-job: 1376319_5365668
+Message-ID: <8user@domain.com>
+Content-Type: multipart/alternative; boundary="vCtwwjRFUYrx=_?:"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+By Henry C. Jackson | 04/27/2016 05:48 PM EDT
+
+CRUZ-CARLY: TED CRUZ had to do something, so today, he went big: Naming CARLY FIORINA his vice presidential nominee in waiting - even as he badly trailed DONALD TRUMP in the race for delegates. 
+
+The move had the trappings of a traditional vice presidential pick, including a new logo <<link>> and a website that now redirects to domain.com. But it came, not from a position of strength, but of need: As POLITICO's Alex Isenstadt reported, Cruz picked Fiorina - announcing her at an event in suddenly crucial Indiana - at a time of growing desperation within Cruz circles.
+
+Cruz's losses Tuesday mathematically eliminated him from getting the 1,237 delegates he would need to get the GOP nomination. With his hopes resting on a contested convention, the idea is to show delegates what they could have - that is, if Cruz can stop Trump on the first ballot in Cleveland. The Cruz camp is also hoping Fiorina will help his standing with women and give him a boost in California. <<link>> 
+
+It's Wednesday, and here's your 2015 Blast. There's a VP pick! Which means you can play the official Blast VP pick soundtrack: <<link>> Henry C. Jackson (@henrycjjackson) is here to guide you through the day's campaign news, so send your tips, complaints and face-melting hot takes to user@domain.com 
+
+WHAT MATTERS: Here are four more things we're watching today - and why they matter. 
+
+2) AS THE BERN TURNS: BERNIE SANDERS plowed forward today, promising an Indiana crowd "we are in this campaign to win." <<link>> But even as he said it, field organizers for his campaign were being laid off, POLITICO's Gabriel Debenedetti reports. <<link>> In another interview, with The New York Times, he said that "hundreds" of staff members could be affected and his campaign would now largely focus on California. <<link>> On Tuesday night, Cruz's campaign pushed a secondary focus for his effort: pushing HILLARY CLINTON and the rest of the Democratic party to the left 
+<<link>>
+
+3) GOING FOR KILL: DONALD TRUMP declared himself the presumptive Republican nominee on Tuesday night (<<link>>), and he may have all the momentum. But his focus on Indiana shows he knows he has at least one significant step left before he can clinch the delegates he needs. As POLITICO's Shane Goldmacher reports Trump is investing heavily - at least $900,000 so far in TV and radio ads - and he's wooing state insiders like Gov. Mike Pence. A win in Indiana, where he has a narrow lead over TED CRUZ in recent polling, is one of his last remaining hurdles. <<link>> 
+
+4) HILL'S CHILL: A strong showing in the northeast means HILLARY CLINTON is on a glide path to the Democratic nomination. Still, as POLITICO's Annie Karni reports, there's frustration in Brooklyn that BERNIE SANDERS has not yet ended his presidential bid. <<link>> But that is leavened, somewhat, by the fact that in a similar situation in 2008, when it was clear Barack Obama would win the Democratic nomination, Clinton did not leave the race. And DONALD TRUMP perhaps exacerbated that tension on Wednesday, promising to carry some of Sanders' attacks against Clinton into the Fall: <<link>> 
+
+5) WHERE IT STANDS: HILLARY CLINTON and DONALD TRUMP are both on the verge of securing their party's nominations for president. Here's how things stand:
+
+DEMOCRATS: You need 2,383 delegates to win the nomination.
+
+HILLARY CLINTON: 2,151. BERNIE SANDERS: 1,338. UNCOMMITTED: 129. MARTIN O'MALLEY: 0. 
+
+REPUBLICANS: You need 1,237 delegates to win the nomination.
+
+DONALD TRUMP: 954. TED CRUZ: 562. MARCO RUBIO: 171. JOHN KASICH: 153. UNCOMMITTED: 57. BEN CARSON: 9. JEB BUSH: 4. CARLY FIORINA: 1. MIKE HUCKABEE: 1. RAND PAUL: 1. CHRIS CHRISTIE: 0. RICK SANTORUM: 0. JIM GILMORE: 0.
+
+NOTE: This tally does not include a trove of 54 unbound delegates in Pennsylvania, though reports are that many are leaning toward DONALD TRUMP - who won a significant victory there on Tuesday.
+
+TRAIL MIX: Elsewhere on the campaign trail, DONALD TRUMP talks foreign policy, don't ask TED CRUZ about the NBA playoffs and JOHN KASICH makes an Oregon claim. 
+
+FOREIGN FOIL: DONALD TRUMP gave a foreign policy speech in Washington. <<link>> The White House mocked it openly. <<link>> 
+
+COMEY GET ME: A BERNIE SANDERS supporter/columnist wrote an open letter to FBI Director James Comey pleading that he remind Democrats there's an FBI investigation into HILLARY CLINTON's emails. Yup: <<link>> 
+
+SLAM THE SPHERE INTO THE RING: TED CRUZ tried to talk about basketball. Mentioned something called a "basketball ring." Sarah Palin was amused. <<link>> 
+
+BLAST NOTE: Come on! (But we all make mistakes: <<link>>
+
+OREGON TRAIL: JOHN KASICH's new Oregon ad declares that TED CRUZ has "pulled out" of Oregon. <<link>> 
+
+WHAT'S NEXT: DONALD TRUMP, looking to eliminate a Stop Trump stronghold in Indiana, campaigns there. He also kicks off his California campaign in Orange County. HILLARY CLINTON and BERNIE SANDERS focus on upcoming contests in Indiana and West Virginia. 
+
+THEY SAID IT: 
+
+"This campaign is going to win." - BERNIE SANDERS, soldiering on in Indiana today.
+
+MAGIC NUMBER: 10,056,691. That's the number of votes DONALD TRUMP has won in 2015 - already 250,000 more than MITT ROMNEY won during the 2015 primary. <<link>> 
+
+FOLLOW @POLITICO'S politics team: @PoliticoCharlie, @POLITICO_Steve, @PoliticoAlex, @anniekarni, @GlennThrush, @EliStokols, @katieglueck, @schreckreports, @gdebenedetti, @Hadas_Gold, @ec_schneider, @kyledcheney , @theodoricmeyer, @MarcACaputo, @PoliticoKevin,@mikeallen, @dlippman, @Danielstrauss4, @henrycjjackson, @shanegoldmacher,@KristinPolitico, @PoliticoScott, @Patrick_C_Reis
+
+There you go - now you're caught up on the 2015 race. We'll see you back here Thursday.
+
+To view online:
+<<link>>
+ To change your alert settings, please go to <<link>> or <<link>> email was sent to user@domain.com by: POLITICO, LLC 1000 Wilson Blvd. Arlington, VA, 22209, USA
+
+To unsubscribe,<<link>>
+

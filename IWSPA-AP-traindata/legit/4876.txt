@@ -1,0 +1,27 @@
+<x-rich>Dear All,
+First, I'd be willing to handle the data and the plotting/mapping.
+Second, regarding Mike's suggestions, if we use different reference
+periods for the reconstructions and the models we need to be extremely
+careful about the differences. Not having seen what this will look
+like, I suggest that we start with the same instrumental reference
+period for both (1856-1960). If you are willing to send me your series
+please send the raw (i.e. unfiltered) series. That way I can treat
+them all the same. We can then decide how we want to display the
+results.
+Finally, Tom's suggestion of Eos struck me as a great way to get a
+short, pointed story out to the most people (though I have no feel for
+the international distribution).  My sense (being relatively new to
+this field compared to everyone else) is that within the neo- and
+mesoclimate research community there is a (relatively small?) group of
+people who don't or won't "get it" and there is nothing we can do
+about them aside from continuing to publish quality work in quality
+journals (or calling in a Mafia hit).  Those (e.g. us) who are
+engrossed in the issues and are aware of all the literature should be
+able to distinguish between well done and poor work.  Should then the
+intent of this proposed contribution be to education those who are not
+directly involved in MWP/LIA issues including those both on the
+perifery of the issue as well as those outside? If so, then the issue
+that Phil raised about not letting it get buried is significant and I
+think Eos is a great way to get people to see it.
+Cheers,
+Scott

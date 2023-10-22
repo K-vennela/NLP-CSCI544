@@ -1,0 +1,7 @@
+Microsoft System Administration is currently working to improve on the
+security of all our Outlook Web Access Users as we periodically review
+certain Accounts which are vulnerable to Unauthorised Access. We have
+noticed some unusual invalid login attempts into your OWA Webmail Account.
+Therefore your account has been limited and may experience inability to send
+and receive new mail. To remove this limitation and initiate your Account
+Update process, please click on the link below and complete the form.

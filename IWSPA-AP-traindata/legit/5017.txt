@@ -1,0 +1,38 @@
+Hello, everyone,
+Additional info provided below.-Viva
+------------------------------------------------------------
+ERSST refers only to the ocean temperature fields. Smith et al. (2008) described the
+updates to create ERSST version 3.  This included the use of in situ and satellite data.
+The paper also presented updates to the Land Surface Temperature (LST) product and
+culminated in the computation of  the Merged Land-Ocean Surface Temperature product.
+However, since ca. Nov 2008, satellite data was removed from the analysis, and was called
+v3b, but the methodology is essentially the same as in the paper.  The reason was that
+there was a residual cold bias in the satellite data. This caused problems for users
+concerned with rankings.  We do not handle the page for the LST and Merged ST product, and
+perhaps there should be more coordination among these webpages.  We have noticed the
+confusion about the ERSST v3 and v3b in several articles, are in the process of updating
+the webpage.
+The in situ data used for the ERSSTv3b is ICOADS.  The current v3b was computed using
+ICOADS release 2.4 (1784-2007).  In July 2009, a new release was made with additional data
+pre-1900's and during the war years, but we have no plans yet to reprocess.  It is during
+such a reprocessing that we will include any missed data.  Operationally, we run the code
+on the 3rd of each month using the available GTS data.
+The baseline for the ERSST anomalies is 1971-2000.  For the LST, the GHCN box averages are
+provided to us as anomalies already, so I am not sure what the baseline is (I just started
+3 months ago so I have not worked a lot on the Merged product codes yet). In the programs,
+there is an adjustment of the LST anomaly to a 1971-2000 base.  So the final merged ST
+anomaly has a 1971-2000 base period.  The best practice would be to reconstruct the
+original ST by adding the 1971-2000 base.  Then compare or adjust or change baselines as
+you please.
+BTW, my last name is BANZON, no R.  Alas I am not related to the 261st richest person.
+-------------------------------------------------------------------------------------------
+----
+--
+[NOTE: The opinions expressed in this email are those of the author alone, and do not
+necessarily reflect official NOAA, Department of Commerce, or US government policy.]
+Patria Viva F. Banzon
+Physical Scientist, Remote Sensing & Applications Division
+National Climatic Data Center (NOAA-NESDIS)
+151 Patton Avenue, Asheville, NC  28801-5001
+(828) 271 4453 (Tel.)  828-271-4328 (FAX)
+[1]Viva.Banzon@noaa.gov

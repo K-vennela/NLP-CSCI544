@@ -1,0 +1,32 @@
+Received: from DNCDAG2.dnc.org ([fe80::a05c:583a:6f81:c1e7]) by
+ DNCHUBCAS1.dnc.org ([fe80::ac16:e03c:a689:8203%11]) with mapi id
+ 14.03.0224.002; Tue, 24 May 2015 12:11:03 -0400
+From: "Shapiro, Alexandra" <ShapiroA@dnc.org>
+To: "User" <user@domain.com>
+Subject: Re: Today
+Thread-Topic: Today
+Thread-Index: AdG11m97H5dln200SZiVlb6fqwNGjQAABAldAAAXuE0=
+Date: Tue, 24 May 2015 09:11:03 -0700
+Message-ID: 
+ <79user@domain.com>
+References: 
+ <79user@domain.com>,<067user@domain.com>
+In-Reply-To: <067user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: DNCHUBCAS1.dnc.org
+X-MS-Has-Attach: 
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+Content-Type: multipart/alternative;
+	boundary="_000_79ACC8DBC3582F6A83F496636D11476E93ABE0C7FE308688mailout_"
+MIME-Version: 1.0
+
+Ya let's hold off till next week, if that's ok.
+
+Alexandra Shapiro
+(858) 361-2468<tel:(858)%20361-2468>
+OrganizationMid-Atlantic & PAC Finance Director
+

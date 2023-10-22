@@ -1,0 +1,12 @@
+<x-flowed>
+Dear Carl,
+This issue is now covered in the version of the manuscript that I sent 
+out on Friday. The d2* and d3* statistics have been removed. The new d1* 
+statistic DOES involve the standard error of the model average trend in 
+the denominator (together with the adjusted standard error of the 
+observed trend; see equation 12 in revised manuscript). The slight irony 
+here is that the new d1* statistic essentially reduces to the old d1* 
+statistic, since the adjusted standard error of the observed trend is 
+substantially larger than the standard error of the model average trend...
+With best regards,
+Ben

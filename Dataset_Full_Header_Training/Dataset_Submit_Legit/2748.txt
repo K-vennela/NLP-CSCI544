@@ -1,0 +1,69 @@
+Received: from domain.com (146.215.230.103) by
+ domain.com (43.130.141.77) with Microsoft SMTP Server id
+ 8.3.297.1; Fri, 15 Nov 2015 18:31:17 -0800
+Received: from domain.com ([160.33.194.229])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id rAG2VGK5019993	for <user@domain.com>; Sat, 16 Nov 2015 
+ 02:31:16 GMT
+Received: from mail52-va3-domain.com (mail-domain.com
+ [216.32.180.113])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id rAG2VFlU004824
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Sat, 16 Nov 2015 02:31:16 GMT
+Received: from mail52-va3 (localhost [127.0.0.1])	by mail52-va3-domain.com
+ (Postfix) with ESMTP id CE94038061F	for <user@domain.com>; Sat, 16
+ Nov 2015 02:31:15 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:65.39.215.55;KIP:(null);UIP:(null);SRV:BULK;H:mx-pmc-domain.com;RD:mx-pmc-domain.com;EFVD:NLI
+X-SpamScore: 5
+X-BigFish: vps5(z579ehca6kz758Ic857hdbb0izz1f42h2148h208ch1ee6h1de0h1fdah2073h2146h1202h1e76h1d1ah1d2ah1fc6hzz8275ch1d7338h1de098h17326ah1def87h8275bh1bc7b9h8275dh1def03h1def86h1de097h1de096h186068h172c6ch1ce120h1def83h1a691ciz2fheh5fh839h8aaha12he5bh1288h12a5h137ah139eh13eah1441h14ddh1504h1537h162dh1631h1758h1898h18e1h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1e23h1fe8h1ff5h20f0h2218h2216h214ai1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail52-va3: domain of domain.com designates 65.39.215.55 as permitted sender) client-ip=65.39.215.55; user@domain.com; helo=mx-pmc-domain.com ;domain.com ;
+Received: from mail52-va3 (localhost.localdomain [127.0.0.1]) by mail52-va3
+ (MessageSwitch) id 1384569073130979_23749; Sat, 16 Nov 2015 02:31:13 +0000
+ (UTC)
+Received: from domain.com (unknown [10.7.14.244])	by
+ mail52-domain.com (Postfix) with ESMTP id 072CA4E0066	for
+ <user@domain.com>; Sat, 16 Nov 2015 02:31:13 +0000 (UTC)
+Received: from mx-pmc-domain.com (65.39.215.55) by
+ domain.com (10.7.99.26) with Microsoft SMTP Server id
+ 14.16.227.3; Sat, 16 Nov 2015 02:31:12 +0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1384569072;
+	s=sailthru; d=deadline.com;
+	h=Date:From: Deadline.com <alerts@deadline.com>
+	bh=TzpQu0f/IrhA13NmuJ7m60NKgcabfsiezq+L23k09DY=;
+	b=M4wfdaSWgVFOxj//LoaFyHrGZuz349LlAbRHxjtVWMIOWZEzdhsGVSgWD+1eiLxr
+	+tccFqbb3PEz6ic081wn6Q0svQ43n1HS2oawklJ7RBxNjg/zCJ99E8dgze4ytu8VpT4
+	3r5QccWD+k0CbyvBBeVN85PmW0NXphieJ7M8nxDY=
+Date: Fri, 15 Nov 2015 21:31:12 -0500
+From: Deadline.com <alerts@deadline.com>
+To: <user@domain.com>
+Message-ID: <20131116023112.2047318.6721@domain.com>
+Subject: [domain.com] 'How I Met Your Mother' Spinoff Officially A Go At
+ CBS With Pilot Order
+Precedence: bulk
+X-TM-ID: 20131116023112.2047318.6721
+X-Info: Message sent by domain.com customer Deadline
+X-Info: We do not domain.com unsolicited commercial email
+X-Info: Please report abuse by forwarding complete headers to
+X-Info: user@domain.com
+X-Mailer: domain.com
+X-IADB-IP: 65.39.215.55
+X-IADB-IP-REVERSE: 55.215.39.65
+X-IADB-URL: <<link>>
+X-Unsubscribe-Web: <<link>>
+List-Unsubscribe: <<<link>>>, <mailto:user@domain.com>
+X-rpcampaign: stdgp2047318
+Return-Path: user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+<<link>> 
+
+<<link>> 
+
+        Deadline Hollywood has posted urgent news:              
+
+        'How I Met Your Mother' Spinoff Officially A Go At CBS With Pilot Order                 
+
+This email was sent to user@domain.com by Deadline. To ensure delivery to your inbox (and not your spam folder), please add user@domain.com to your address book. If you prefer not to continue receiving email communications, please 

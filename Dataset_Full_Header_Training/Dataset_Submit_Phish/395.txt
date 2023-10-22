@@ -1,0 +1,72 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [10.23.1.4])
+	by domain.com (Postfix) with ESMTP id C5CC5536E3C
+	for <user@domain.com>; Mon, 14 Feb 2015 00:13:42 -0500 (EST)
+Received: from dns1.tanzania-domain.com (unknown [80.247.146.244])
+	by domain.com (Postfix) with ESMTP id C078085AD3B
+	for <user@domain.com>; Mon, 14 Feb 2015 00:05:27 -0500 (EST)
+Received: (from user@domain.com)
+	by dns1.tanzania-domain.com (8.9.3/8.9.3) id BAA00863
+	for user@domain.com; Sun, 13 Feb 2015 01:48:37 +0300
+Date: Sun, 13 Feb 2015 01:48:37 +0300
+Message-Id: <200502122248.user@domain.com>
+From: "aw-confirm@ebay.com" <aw-confirm@ebay.com>
+Subject: Action Required -- domain.com/domain.com Card Expiration Reminder
+Mime-Version: 1.0
+Content-Type: text/html; boundary="xlcuiBo847gtaDvjhSdgF983r"
+X-Mailer: ebay
+To: undisclosed-recipients: ;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 129
+
+Hello eBay user,
+
+This is a courtesy reminder that the following
+domain.com/domain.com card on 
+file for your eBay account will soon
+expire:
+
+EBay Account ID:  E000125151608-702
+Card:  MSC
+XXXX-XXXX-XXXX-XXXX
+Expiration Date:  00/00
+Date Reminder
+Issued:  122404
+
+In order to receive uninterrupted service, please
+update this 
+information by follow the link below:
+
+<<link>>
+
+To update your domain.com/domain.com card information:
+
+
+
+-   Go to the eBay Home page
+   -   Select My
+eBay and logon with your eBay User ID and Password
+   -  
+Select the Accounts Tab
+   -   Select Use a domain.com card
+for automatic payments (you will need 
+to logon again)
+
+
+
+-   Update your domain.com card information following instructions on
+
+the next page
+
+Thank you for using eBay.
+
+Regards,
+eBay
+International AG
+
+
+

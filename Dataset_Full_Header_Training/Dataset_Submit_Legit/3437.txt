@@ -1,0 +1,30 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Tue, 16 Sep 2015 12:56:00 +0200
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id 8BDCB62927	for
+ <user@domain.com>; Tue, 16 Sep 2015 11:40:27 +0100 (BST)
+Received: by domain.com (Postfix)	id BEC6FB6603C; Tue, 16 Sep 2015 
+ 12:56:00 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com
+ [192.168.200.205])	by domain.com (Postfix) with ESMTP id A90AEB66042
+	for <user@domain.com>; Tue, 16 Sep 2015 12:56:00 +0200 (CEST)
+Date: Tue, 16 Sep 2015 12:56:00 +0200
+From: "Daniele Milan (Confluence)" <confluence@hackingteam.com>
+To: <user@domain.com>
+Message-ID: <1958222716.558.1410864960635.JavaMail.CONFLUENCE$@confluence>
+Subject: [confluence] Daniele Milan updated a event in the "Conferences &
+ Marketing Events" calendar
+Precedence: bulk
+Auto-Submitted: auto-generated
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2135562172_-_-"
+
+  Daniele Milan updated a event in the Conferences & Marketing Events calendar Nov 04, 2014 Until Nov 07, 2014   Interpol  <<link>> You are receiving this notification because you are watching the following:   Conferences & Marketing Events   Sent by Atlassian Confluence 5.4.4, the Enterprise Wiki 

@@ -1,0 +1,730 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Thu, 16 Apr 2015 03:06:18 +0200
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id 46E5560391;	Thu, 16 Apr 2015 
+ 01:43:31 +0100 (BST)
+Received: by domain.com (Postfix)	id 63A2BB6600F; Thu, 16 Apr 2015 
+ 03:06:18 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from [192.168.98.180] (unknown [189.3.226.66])	(using TLSv1 with
+ cipher DHE-RSA-AES256-SHA (256/256 bits))	(No client certificate requested)
+	by domain.com (Postfix) with ESMTPSA id D3E8F2BC228;	Thu, 16 Apr
+ 2015 03:06:16 +0200 (CEST)
+Subject: Re: I: E-Ticket di PARDOCARVAJAL EDUARDO - Data partenza 01/06/2015 - PNR DZM71U
+From: Eduardo Pardo <e.pardo@hackingteam.com>
+X-Mailer: iPhone Mail (12F70)
+In-Reply-To: <00e901d07781$cfee4590$6fcad0b0$@user@domain.com>
+Date: Wed, 15 Apr 2015 22:06:05 -0300
+CC: "<user@domain.com>" <user@domain.com>
+Message-ID: <user@domain.com>
+References: <00e901d07781$cfee4590$6fcad0b0$@user@domain.com>
+To: Alessandra Mino <user@domain.com>
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EDUARDO PARDO CARVAJALDB9
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1252371169_-_-"
+
+Received.  Thank you Alessandra. 
+
+Eduardo PardoField Application EngineerHacking Team
+email: user@domain.com: +39 3666285429Mobile: +57 3003671760
+El 15/04/2015, a las 10:41 a.m., Alessandra Mino <user@domain.com> escribió:
+
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.content, li.content, div.content
+	{mso-style-name:content;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.generalinfo, li.generalinfo, div.generalinfo
+	{mso-style-name:generalinfo;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	border:none;
+	padding:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.centra, li.centra, div.centra
+	{mso-style-name:centra;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	text-align:center;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.enfatizza, li.enfatizza, div.enfatizza
+	{mso-style-name:enfatizza;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.bottomnero, li.bottomnero, div.bottomnero
+	{mso-style-name:bottomnero;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	border:none;
+	padding:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.testoverde, li.testoverde, div.testoverde
+	{mso-style-name:testoverde;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#2B817A;}
+p.testoverdechiaro, li.testoverdechiaro, div.testoverdechiaro
+	{mso-style-name:testoverdechiaro;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#1B817A;}
+p.testogrigio, li.testogrigio, div.testogrigio
+	{mso-style-name:testogrigio;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#8C8C8C;}
+p.testorosso, li.testorosso, div.testorosso
+	{mso-style-name:testorosso;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:red;}
+p.sfondoverde, li.sfondoverde, div.sfondoverde
+	{mso-style-name:sfondoverde;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	background:#1B817A;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.sfondogrigio, li.sfondogrigio, div.sfondogrigio
+	{mso-style-name:sfondogrigio;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	background:#E6E6E6;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.sfondoheaderservizio, li.sfondoheaderservizio, div.sfondoheaderservizio
+	{mso-style-name:sfondoheaderservizio;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	background:#E6E6E6;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.recap, li.recap, div.recap
+	{mso-style-name:recap;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:white;}
+p.bottomgrigio, li.bottomgrigio, div.bottomgrigio
+	{mso-style-name:bottomgrigio;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	border:none;
+	padding:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.servizio, li.servizio, div.servizio
+	{mso-style-name:servizio;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.vspacer, li.vspacer, div.vspacer
+	{mso-style-name:vspacer;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.hspacer, li.hspacer, div.hspacer
+	{mso-style-name:hspacer;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.testoarancione, li.testoarancione, div.testoarancione
+	{mso-style-name:testoarancione;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#F28E00;}
+p.bold, li.bold, div.bold
+	{mso-style-name:bold;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.infobottom, li.infobottom, div.infobottom
+	{mso-style-name:infobottom;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	border:none;
+	padding:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.marginbottom, li.marginbottom, div.marginbottom
+	{mso-style-name:marginbottom;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.lnkboldredcap, li.lnkboldredcap, div.lnkboldredcap
+	{mso-style-name:lnkboldredcap;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:red;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.topnero, li.topnero, div.topnero
+	{mso-style-name:topnero;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	border:none;
+	padding:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+span.enfatizza1
+	{mso-style-name:enfatizza1;
+	font-weight:bold;}
+span.recap1
+	{mso-style-name:recap1;
+	color:white;}
+span.testogrigio1
+	{mso-style-name:testogrigio1;
+	color:#8C8C8C;}
+span.bold1
+	{mso-style-name:bold1;
+	font-weight:bold;}
+span.testorosso1
+	{mso-style-name:testorosso1;
+	color:red;}
+span.sfondogrigio1
+	{mso-style-name:sfondogrigio1;
+	background:#E6E6E6;}
+span.servizio1
+	{mso-style-name:servizio1;
+	font-weight:bold;}
+span.StileMessaggioDiPostaElettronica47
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page Section1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 2.0cm 2.0cm 2.0cm;}
+div.Section1
+	{page:Section1;}
+-->
+
+Ciao Eduardo,
+
+
+
+you should have already received the e-ticket below for
+Cartagena (next June).
+For the hotel reservation, I’ll let you know as soon as we have
+the confirmation.
+
+
+
+Ciao,
+Alessandra 
+
+
+
+Alessandra Mino 
+
+Administrative Support 
+
+Hacking Team
+
+Milan Singapore Washington DC
+
+www.hackingteam.com
+
+email: user@domain.com 
+
+mobile: +39 3346398065
+
+phone: +39 0229060603
+
+
+
+Da: CWT Itinerary
+(No-Reply) [mailto:user@domain.com] 
+
+Inviato: mercoledì 15 aprile 2015 15:31
+
+A: user@domain.com; user@domain.com;
+user@domain.com
+
+Oggetto: E-Ticket di PARDOCARVAJAL EDUARDO - Data partenza 01/06/2015 -
+PNR DZM71U
+
+
+
+
+Si
+  prega di non rispondere a questa E-Mail, la casella non è abilitata alla
+  ricezione. 
+
+  Please don't reply to this e-mail, it is not enabled to receive messages. 
+
+  Gentile Cliente, 
+
+  siamo lieti di trasmetterLe il Suo CWT Itinerary & E-Ticket che le
+  fornirà tutti i dettagli della trasferta. 
+
+  Dear Customer, 
+
+  we are pleased to send you your CWT Itinerary & E-Ticket that will
+  provide you with all the details for your travel. 
+
+Viaggio il 01/06/2015
+
+Data 15/04/2015
+
+Passeggero
+
+Eduardo
+      PARDOCARVAJAL
+
+Service Center
+
+CARLSON
+      WAGONLIT TRAVEL BARI
+
+
+
+
+E-Ticket emesso
+
+1349279875312
+
+Diretto
+
+39
+      02 58034570
+
+Servizio d'emergenza
+
+39
+      02 58034445
+
+*Servizio soggetto a service fee
+
+Fax
+
+39
+      02 94753897
+
+Email
+
+user@domain.com
+
+Orario d'apertura
+
+08.00
+      - 20.00
+
+INFORMAZIONI
+    IMPORTANTI
+
+La informiamo che una copia cartacea di questo
+    documento potrebbe essere richiesta dalle autorità competenti per accedere
+    all'area Check-in. 
+
+La preghiamo di verificare che il Suo itinerario
+    corrisponda alle Sue richieste di viaggio. 
+
+lunedì
+        01/06/2015
+
+E-Ticket 1349279875312
+        | Codice
+        prenotazione Vettore 4IBWP5
+
+Volo Avianca AV8556
+
+Codice
+        prenotazione DZM71U
+
+PARTENZA
+
+Bogota
+        El Dorado International (Terminal 1) 
+
+08:13 - 01/06/2015
+
+ARRIVO
+
+Cartagena
+        Rafael Nunez Arpt
+
+09:45 - 01/06/2015
+
+La preghiamo di recarsi in aeroporto con sufficiente
+        anticipo per espletare le procedure di accettazione e sicurezza 
+
+Stato Prenotazione
+
+Confermato
+
+E-Ticket emesso
+
+Frequent flyer
+
+Classe
+
+Economy
+        (E)
+
+Pasto
+
+Refreshments
+
+Posto
+
+Durata
+
+01:32
+        (non-stop)
+
+Aeromobile
+
+Airbus
+        A320
+
+Operato da
+
+AVIANCA
+        ()
+
+Franchigia bagaglio
+        consentita
+
+23KG
+
+1st Bag+:
+
+CHGS
+        MAY APPLY IF BAGS EXCEED TTL WT ALLOWANCE
+
+2nd Bag+:
+
+CHGS
+        MAY APPLY IF BAGS EXCEED TTL WT ALLOWANCE
+
+Carry-On 1st Bag+:
+
+CHGS
+        MAY APPLY IF BAGS EXCEED TTL WT ALLOWANCE
+
+Carry-On 2st Bag+:
+
+CHGS
+        MAY APPLY IF BAGS EXCEED TTL WT ALLOWANCE
+
+Confirm Baggage Fee
+
+Note
+
+        REGOLE TARIFFARIE ITINERARIO BOG.CTG CTG.BOG
+
+        IMPORTO COMPRENSIVO DI TASSE EUR 468.8
+
+        CAMBIO PRENOTAZIONE PERMESSO
+
+        CHANGE RESERVATION PERMITTED
+
+        RIMBORSO PERMESSO
+
+        REFUND PERMITTED
+
+lunedì
+        08/06/2015
+
+E-Ticket 1349279875312
+        | Codice
+        prenotazione Vettore 4IBWP5
+
+Volo Avianca AV9819
+
+Codice
+        prenotazione DZM71U
+
+PARTENZA
+
+Cartagena
+        Rafael Nunez Arpt
+
+21:17 - 08/06/2015
+
+ARRIVO
+
+Bogota
+        El Dorado International (Terminal 1) 
+
+22:47 - 08/06/2015
+
+La preghiamo di recarsi in aeroporto con sufficiente
+        anticipo per espletare le procedure di accettazione e sicurezza 
+
+Stato Prenotazione
+
+Confermato
+
+E-Ticket emesso
+
+Frequent flyer
+
+Classe
+
+Economy
+        (A)
+
+Pasto
+
+Refreshments
+
+Posto
+
+Durata
+
+01:30
+        (non-stop)
+
+Aeromobile
+
+Airbus
+        A320
+
+Operato da
+
+AVIANCA
+        ()
+
+Franchigia bagaglio
+        consentita
+
+23KG
+
+1st Bag+:
+
+CHGS
+        MAY APPLY IF BAGS EXCEED TTL WT ALLOWANCE
+
+2nd Bag+:
+
+CHGS
+        MAY APPLY IF BAGS EXCEED TTL WT ALLOWANCE
+
+Carry-On 1st Bag+:
+
+CHGS
+        MAY APPLY IF BAGS EXCEED TTL WT ALLOWANCE
+
+Carry-On 2st Bag+:
+
+CHGS
+        MAY APPLY IF BAGS EXCEED TTL WT ALLOWANCE
+
+Confirm Baggage Fee
+
+Note
+
+
+
+
+E-TICKETS
+      E DETTAGLI TARIFFA
+
+Biglietto
+      1349279875312 emesso
+      dalla IATA 38221890 il 15/04/2015
+
+Costruzione
+      tariffaria
+
+      BOG AV CTG Q29.60 165.00 AV BOG Q29.60 192.00 NUC416.20END ROE1.0
+
+Tariffa
+
+USD
+      416.00
+
+Tasse
+
+EUR
+      CO 11.76 YS 63.04 
+
+Totale
+
+EUR
+      468.80
+
+Costi
+      Addizionali
+
+0
+
+      Il trasporto ed altri servizi forniti dal vettore sono soggetti alle
+      condizioni di trasporto, di seguito allegati per opportuna informazione.
+      Tali condizioni possono essere richieste al vettore emittente.
+      L'itinerario/ricevuta costituisce il "biglietto del passeggero"
+      ai fini dell'articolo 3 della Convenzione di Varsavia, salvo il caso in
+      cui il vettore rilasci al passeggero un altro documento conforme ai
+      requisiti dell'articolo 3. Se il viaggio comprende una destinazione
+      finale o una sosta in un paese diverso da quello del paese di partenza,
+      potrà essere applicabile la Convenzione di Varsavia e la Convenzione
+      governerà, e nella maggior parte dei casi limiterà, le responsabilità dei
+      vettori in caso di morte o di lesione personale e circa la perdita o il
+      danno al bagaglio. Vedere anche le comunicazioni incluse in 'Avviso ai
+      passeggeri internazionali sulle limitazioni di responsabilità' e
+      'comunicazione relativa alle limitazioni sulle responsabilità del
+      bagaglio'. Ricordiamo che le leggi sulla sicurezza di molti paesi (come
+      USA e Canada) obbligano le compagnie aeree a fornire alle autorità
+      competenti sulla sicurezza, dogana e immigrazione, accesso ai dati dei
+      passeggeri. Ciò significa che, qualora viaggi verso uno di questi paesi,
+      i Suoi dati personali potrebbero essere comunicati alle autorità
+      pertinenti.
+
+      Please domain.com: domain.com/airlinebaggagefees
+      for information on free baggage allowances and/or applicable fees for
+      carry-on and checked baggage related to your flight. 
+
+    Copyright © 2009-2015 CWT | Informazioni
+    e servizi per il Viaggiatore | CWT
+    Informativa sulla Privacy | Savvy
+    Traveler Blog
+
+  Le ricordiamo di controllare il visto o gli altri documenti necessari per il
+  Suo viaggio. 
+
+  In particolare, se si reca negli USA Le ricordiamo l'autorizzazione ESTA
+  ( <<link>>) per viaggi
+  senza visto. Per tutti i voli verso, da e al di sopra dello spazio aereo USA,
+  è obbligatoria anche la procedura "Secure Flight". Per
+  informazioni: 
+
+<<link>>
+  In caso non abbia già comunicato i dati personali necessari, La preghiamo di
+  contattare il Suo ufficio CWT di riferimento al fine di evitare il mancato
+  accesso al web check-in e disagi in aeroporto. 
+
+  Buon Viaggio! 
+
+  Il Suo Team CWT
+
+We remind you to check the visa and the other documents necessary for your
+  travel. 
+
+  Particularly, if you are going to USA, we remind you the ESTA
+  authorization (
+  <<link>>) for travels without visa. For all the travels
+  to, from and above US aereal space, the "Secure Flight"
+  procedure is mandatory too. For further information: <<link>>
+  In case you haven't provided the necessary personal data yet, please contact
+  your CWT office to avoid no access to the web check-in and inconveniences at
+  the airport. 
+
+  Have a nice trip! 
+
+  Your CWT Team 
+
+[IAE.ID#(5635144.1192397.1.20150415153059)]
+

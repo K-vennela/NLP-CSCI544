@@ -1,0 +1,37 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.4.9])
+	by domain.com (Postfix) with ESMTP id 2DECF468D7
+	for <user@domain.com>; Fri, 27 Jul 2015 17:31:17 -0400 (EDT)
+Received: from domain.com (domain.com [192.168.6.4])
+	by domain.com (Postfix) with ESMTP id 4D75D131FB30
+	for <user@domain.com>; Fri, 27 Jul 2015 17:31:17 -0400 (EDT)
+Received: from domain.com (domain.com [68.143.189.242])
+	by domain.com (Postfix) with ESMTP id 27D7D6FA1C6
+	for <user@domain.com>; Fri, 27 Jul 2015 17:31:17 -0400 (EDT)
+Received: from User ([69.159.226.196]) by domain.com with Microsoft SMTPSVC(6.0.3790.3959);
+	 Fri, 27 Jul 2015 17:31:20 -0400
+Reply-To: user@domain.com
+From: Paypal<services@paypal.com>
+Subject: New email address added to your account
+Date: Fri, 27 Jul 2015 17:31:12 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4522.1200
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4522.1200
+Message-ID: <user@domain.com>
+X-OriginalArrivalTime: 27 Jul 2015 21:31:20.0421 (UTC) FILETIME=[79204150:01C7D095]
+To: undisclosed-recipients:;
+X-Keywords: 
+Status: O
+Content-Length: 781
+Lines: 16
+
+You have added user@domain.com as primary email address for
+ your
+PayPal account.

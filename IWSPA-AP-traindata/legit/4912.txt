@@ -1,0 +1,48 @@
+Mike,
+I thought maybe I could contribute a few comments to your concern
+over using a common coverage mask for surface and MSU temperatures.
+(Copy of your relevent paragraph copied below.)
+Whether or not to mask depends on the question being addressed.  If 
+we wanted the best estimate of global mean MSU temperatures, then 
+clearly we wouldn't want to mask.  The issues we address, however, 
+are largely based on an expectation (from models and observations) 
+that over large portions of the globe strong vertical coupling tends 
+to lead to large positive correlations between surface and lower 
+tropospheric temperatures.  There is a further (model-based) expectation
+that any warming trend at the surface should be slightly amplified
+higher up in the troposphere.  These expectations seem to be 
+contradicted by the MSU data (at least for global mean trends).  
+Masking makes most sense if there is in fact strong coupling between
+the surface and troposphere.  Suppose the CO2 warming signal were
+one with relatively strong warming over land areas and weaker
+warming over ocean.  Suppose further that we only had surface
+temperature measurements over land, but had  MSU retrievals over all the
+globe.  Also assume a case of perfect coupling (1K rise in local upper 
+air temperature for every 1K rise in local surface temperature).  
+In this case the unmasked global mean MSU temperature increase would be 
+less than the "global" mean surface temperature increase, falsely
+indicating a damping with height of the CO2 signal.  If we masked
+the MSU temperature (sampling only over land), then the global
+means would be computed over the same area as the surface temperature
+and the MSU temperature change would equal the surface temperature
+change, indicating no damping of the response with height.  This
+second conclusion would be the correct one.  Note, however, that
+the true global mean temperature change (both at the surface and 
+aloft) would be best estimated using the MSU unmasked data (under
+the conditions of this hypothesized case).  
+Under different conditions, and again depending on what question is
+being addressed, it might be best not to mask the MSU data.  In our
+paper we wanted to determine whether the apparent discrepancy between
+the MSU trend (very small) and the surface trend (positive, and larger)
+could be explained by coverage differences.  This makes sense since
+models seem to indicate that the trends should be comparable.  One
+explanation for the discrepancy is that in models true global
+means had been considered until now, whereas in the data the MSU mean
+was computed from global coverage, but the surface changes were
+computed from data covering about 70% of the globe. In our study
+both model data and observations were treated with the same mask
+so we rule out different sampling as a full explanation for
+the difference between surface and MSU temperature trends.
+Hope this doesn't confuse things further.
+cheers,
+Karl

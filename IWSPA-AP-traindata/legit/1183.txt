@@ -1,0 +1,110 @@
+Hi Ed,
+first all, yes I agree that we need a paper that takes a more objective look at where we
+are now and how we can take things forward in terms of NH temperature reconstructions (and
+possibly global, SH, spatial etc.).
+As Keith said, we (mainly I so far) have been planning our version of this (hopefully)
+"objective assessment", and by chance I was sketching out a vague outline of its possible
+content.  We've been keeping this fairly close to our chests for now, so please keep our
+plans/ideas to yourself for the moment.  There is partial overlap between our ideas and
+yours, so it might be good to do this jointly.  Anyway, my current ideas are a number of
+forum articles, the first comparing existing reconstructions but without going into more
+depth, and the other three looking at the way forward (i.e. what should we attempt to do to
+improve them):
+Forum piece (1): Comparison of existing reconstructions
+This has most overlaps with your ideas, though I hadn't thought of it being so
+comprehensive.  I was thinking more of:
+(a) comparing original series.
+(b) comparing them after our recalibration to common target data, including discussion of
+why some things don't change much (e.g. relative positioning of reconstructions), though
+amplitudes can change - and of course the comparison of Mann et al. with and without
+oceans/tropics.
+(c) maybe a bit on comparison with boreholes, though maybe not.
+(d) uncertainty estimates and how these may decrease with time scale and hence not all
+reconstructions lie in the Mann et al. uncertainty ranges.
+Forum piece (2): Selection of predictand and predictor data
+(a) What to try to reconstruct and why it matters - e.g. will we get the wrong spectral
+shape if we reconstruct ocean SST from land-based proxies.  Plus some on seasonality,
+though Jones, Osborn and Briffa cover part of that issue (are you aware of that paper, in
+press with JGR?).
+(b) What proxies should be used - e.g. does throwing in "poor" proxies cause a problem with
+simple averaging, weighted averaging and multivariate regression approaches.  Plus does
+using precipitation proxies to reconstruct temperature result in the wrong spectral shape?
+Forum piece (3): Reconstruction methods
+Something here on different methods (simple averaging, multivariate regression type
+approaches) and different implementation choices (e.g. calibration against trends/filtered
+data).  Not entirely sure about this, but it would not be new work, just would critically
+appraise the methods used to date and what their theoretical/potential problems/advantages
+might be.
+Forum piece (4): Estimating uncertainty
+Again, not entirely sure yet, but this must emphasise the absolute requirement to estimate
+AND USE uncertainty when comparing reconstructions against observations or simulations
+etc.  Then something about how to do it, contrasting using calibration residuals,
+verification residuals, parameter uncertainty, with the type of approach that you've taken
+(bootstrap uncertainty, or measures of the EPS) to look at the common signal, with
+additional uncertainty of how the common signal differs from the predictand.
+So that's it!!  Perhaps rather ambitious, so maybe a reduction to certain key points might
+be required.  I was deliberately avoiding any review of tree-ring contributions and
+low-frequency per se, thinking that you and Keith would be taking the lead on that kind of
+review.
+One final think to mention, is that the emails copied below and the attached file might be
+of interest to you as an example of something that *might* go in a comparison paper of
+existing reconstructions.  It's shows how the recalibrated average of existing
+reconstructions differs from the average of existing calibrated reconstructions.  You'll
+see from Mike Mann's initial request below that he was thinking of it as a contribution to
+the EOS rebuttal of Soon and Baliunas, but I've not heard much from him since.  Also Tom
+Crowley was very interests in this composite of the reconstructions, and I started to
+converse with him about it but never finished estimating the uncertainty range on the
+composite series and kind of stopped emailing him.  But I guess either of them might
+reproduce this idea sometime, if it suits them.
+A visit to talk face to face about all these things would be good.  Keith and I have been
+talking about how to fit a visit in.
+Cheers
+Tim
+Date: Wed, 12 Mar 2003 16:16:16 +0000
+To: "Michael E. Mann" <user@domain.com>, Tom Crowley <user@domain.com>, Phil Jones
+<p.jones@uea.ac.uk>
+From: Tim Osborn <t.osborn@uea.ac.uk>
+Subject: Re: Fwd: Soon & Baliunas
+Cc: Malcolm Hughes <user@domain.com>, user@domain.com,
+user@domain.com, user@domain.com, k.briffa@uea.ac.uk, user@domain.com
+This is an excellent idea, Mike, IN PRINCIPLE at least.  In practise, however, it raises
+some interesting results (as I have found when attempting this myself) that may be
+difficult to avoid getting bogged down with discussing.
+The attached .pdf figure shows an example of what I have produced (NB. please don't
+circulate this further, as it is from work that is currently being finished off -
+however, I'm happy to use it here to illustrate my point).
+I took 7 reconstructions and re-calibrated them over a common period and against an
+observed target series (in this case, land-only, Apr-Sep, >20N - BUT I GET SIMILAR
+RESULTS WITH OTHER CHOICES, and this re-calibration stage is not critical).  You will
+have seen figures similar to this in stuff Keith and I have published.  See the coloured
+lines in the attached figure.
+In this example I then simply took an unweighted average of the calibrated series, but
+the weighted average obtained via an EOF approach can give similar results.  The average
+is shown by the thin black line (I've ignored the potential problems of series covering
+different periods).  This was all done with raw, unsmoothed data, even though 30-yr
+smoothed curves are plotted in the figure.
+The thick black line is what I get when I re-calibrate the average record against my
+target observed series.  THIS IS THE IMPORTANT BIT.  The *re-calibrated* mean of the
+reconstructions is nowhere near the mean of the reconstructions.  It has enhanced
+variability, because averaging the reconstructions results in a redder time series
+(there is less common variance between the reconstructions at the higher frequencies
+compared with the lower frequencies, so the former averages out to leave a smoother
+curve) and the re-calibration is then more of a case of fitting a trend (over my
+calibration period 1881-1960) to the observed trend.  This results in enhanced
+variability, but also enhanced uncertainty (not shown here) due to fewer effective
+degrees of freedom during calibration.
+Obviously there are questions about observed target series, which series to
+include/exclude etc., but the same issue will arise regardless: the analysis will not
+likely lie near to the middle of the cloud of published series and explaining the
+reasons behind this etc. will obscure the message of a short EOS piece.
+It is, of course, interesting - not least for the comparison with borehole-based
+estimates - but that is for a separate paper, I think.
+My suggestion would be to stick with one of these options:
+(i) a single example reconstruction;
+(ii) a plot of a cloud of reconstructions;
+(iii) a plot of the "envelope" containing the cloud of reconstructions (perhaps also the
+envelope would encompass their uncertainty estimates), but without showing the
+individual reconstruction best guesses.
+How many votes for each?
+Cheers
+Tim

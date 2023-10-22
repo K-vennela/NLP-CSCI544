@@ -1,0 +1,401 @@
+=20
+=09
+/* Begin Header */
+a:link, a:visited=20
+{
+color: #336699;
+}
+a:hover
+{
+color: #6699cc;
+}
+.header-corp {
+clear:both;
+float:left;
+width: 100%;
+}
+.new-logo {
+float:left;
+margin:24px 0 24px 12px;
+}
+.new-logo img {
+width:234px;
+height:38px;
+border:none;
+}
+.company-title {
+float:right;
+font-family:arial;
+font-size:14px;
+font-weight:bold;
+margin-top:12px;
+text-align:right;
+}
+.tabs {
+clear:both;
+float:left;
+width:100%;
+font-size:14px;
+background-color:#576267;
+height:36px;
+line-height:36px;
+}
+.tab-first {
+position:relative;
+left:12px;
+margin-right:12px;
+}
+.tabs a:link, .tabs a:visited {
+position:relative;
+display:block;
+float:left;
+color:#fff;
+text-decoration:none !important;
+cursor: pointer;
+}
+.tabs a:hover {
+color:#2e444e;
+background-color:#f9fafa;
+cursor:pointer;
+}
+.tabs a b {
+float:left;
+padding:0px 12px;
+font-weight:normal;
+}
+a.tab-selected:link, a.tab-selected:visited, a.tab-selected-shadow:link, a.=
+tab-selected-shadow:visited {
+float:left;
+background:#f9fafa;
+overflow:hidden;
+}
+a.tab-selected:link b, a.tab-selected:visited b, a.tab-selected-shadow:link=
+b, a.tab-selected-shadow:visited b {
+color:#2e444e;
+}
+/* Begin Wiz Tabs */
+.wiz-tabs a:link, .wiz-tabs a:visited {
+display:block;
+float:left;
+color:#433;
+text-decoration:none;
+}
+.wiz-tabs a:hover {
+color:#433;
+text-decoration:underline;
+}
+.wiz-tabs a b {
+float:left;
+padding:7px 0 0 6px;
+margin-right:16px;
+}
+.wiz-tabs {
+clear:both;
+float:left;
+width:100%;
+font-size:11px;
+}
+a.wiz-tab-selected:link, a.wiz-tab-selected:visited {
+float:left;
+/*background:url("/eta/tab_back.gif") top left no-repeat;*?*/
+padding-right:6px;
+overflow:hidden;
+text-decoration:none;
+margin:0 16px 0 0;
+}
+a.wiz-tab-selected:link, a.wiz-tab-selected:visited {
+/*background:url("/eta/wiz_tab_back.gif") top left no-repeat;*/
+position:relative;
+top:1px;
+}
+a.wiz-tab-selected:hover {
+text-decoration:none !important;
+}
+a.wiz-tab-selected:link b, a.wiz-tab-selected:visited b {
+float:left;
+/*background:url("/eta/tab_back.gif") top right no-repeat;*/
+position:relative;
+right:-6px;
+padding:7px 8px 6px 0px;
+margin:0;
+}
+a.wiz-tab-selected:link b, a.wiz-tab-selected:visited b {
+/*background:url("/eta/wiz_tab_back.gif") top right no-repeat;*/
+color:#433;
+}
+.user {
+clear:both;
+float:left;
+width:100%;
+font-size:11px;
+color:#2e444e;
+background-color:#f9fafa;
+border-bottom:1px solid #e2e3e4;
+padding:5px 0;
+}
+.user a:link, .user a:visited {
+color: #576267;
+text-decoration:none;
+margin-left:12px;
+}
+.user a:hover {
+color: #2e444e;
+text-decoration:underline;
+}
+.user div {
+float:left;
+margin:0 0 0 12px;
+}
+.user div a {
+}
+.user span {
+float:right;
+display:block;
+padding:0 12px 0 0;
+}
+.user.arranger {
+background:#f9fafa;
+border-bottom:1px solid #e2e3e4;
+position:relative;
+}
+.user.arranger div img {
+float:left;
+margin:0 6px 0 0;
+height:16px;
+width:20px;
+}
+.user div.flag {
+margin: 5px 0 0;
+}
+.user p {
+margin:0;
+}
+.pageHeading
+{
+color: #eeb211;
+}
+.secHeading
+{
+color: #6699cc;
+}
+.secHeadingNoBox, .secHiLiteText
+{
+color: #6699cc;
+}
+.secHeadingBack, .secP2TitleBG
+{
+background-color: #6699cc;
+}
+.secBoxBorderHeadingImg
+{
+display: none;
+}
+.secBoxBorderHeading, .secBoxBorderHeadingSub
+{
+font-size:12px;
+font-weight:bold;
+color:#000;
+background: #aac6e1 url("/eta/blue_bar_corp.gif") center left repeat-x;
+padding:4px 0px 3px 4px;
+}
+.secBoxBorderHeadingSub {
+display:none;
+}
+.secBoxBorder, table.secBoxBorder
+{
+border:1px solid #aac6e1;
+}
+.nav2SelText
+{
+color: #000000;
+}
+.nav2SelLink
+{
+text-decoration: none;
+}
+.nav2Link
+{
+text-decoration: underline;
+}
+.aColLinks a {
+text-decoration: none;
+}
+.corpPrice, .CWPrice
+{
+color: #cc5511;
+}
+.header
+{
+color: #eeb211;
+font-size:20px;
+font-weight:bold;
+}
+.errorTextStd
+{
+color: #cc0000
+}
+.GoButton=20
+{
+border-bottom:thin solid #336699;
+border-right:thin solid #336699;
+border-top:thin solid #AAC6E1;
+border-left:thin solid #AAC6E1;
+background-color:#6699CC;
+color:#FFFFFF;
+}
+.add-flight, .add-hotel, .add-car, .add-srq {
+display:block;
+float:left;
+height:21px;
+font-size:11px;
+margin-right:10px;
+}
+.add-flight {
+background: url(/eta/seqshopflightcorp.gif) left top no-repeat;
+padding:3px 0 0 37px;
+}
+.add-hotel {
+background: url(/eta/seqshophotelcorp.gif) left top no-repeat;
+padding:3px 0 0 43px;
+}
+.add-car {
+background: url(/eta/seqshopcarcorp.gif) left top no-repeat;
+padding:3px 0 0 38px;
+}
+.add-srq {
+background: url(/eta/seqshopsrqcorp.gif) left top no-repeat;
+padding:3px 0 0 12px;
+}
+/*
+.roundedbox2 .content=20
+{=20
+border:1px solid #6699cc;=20
+padding: 4px;
+}
+.roundedbox2 .contentnopadding {=20
+border: 1px solid #6699cc;=20
+padding: 0px;
+}
+.roundedbox2 .title2 {
+display:block;
+clear:both;
+float:left;
+font-size:12px;
+color:#000;
+font-weight:bold;
+background: #aac6e1 url("/eta/blue_bar_corp.gif") center left repeat-x;
+border-left:1px solid #aac6e1;
+border-right:1px solid #aac6e1;
+padding-left:4px;
+=09
+}
+.roundedbox2 .title2 a { }
+*/
+.roundedbox2 .content=20
+{
+border:1px solid #69c;
+padding: 4px 4px 8px 4px;
+/*background: #fff url("/eta/level_3_back.gif") bottom left repeat-x;*/=20
+}
+=09
+.roundedbox2 .contentnopadding=20
+{=20
+border:1px solid #69c;
+padding: 0px;
+}
+.roundedbox2 .title2 {
+display:block;
+clear:both;
+float:left;
+font-size:12px;
+color:#000;
+font-weight:bold;
+background: #aac6e1 url("/eta/blue_bar_corp.gif") center left repeat-x;
+/*border-left:1px solid #aac6e1;
+border-right:1px solid #aac6e1;
+padding-left:4px;*/
+width:100%;
+}
+.roundedbox2 .title2 div {
+padding:4px 0 3px 2px;
+}
+html>body .roundedbox2 .title2 div {
+/* no longer needed */
+}
+.roundedbox2 .title2 div img {=20
+display:none;
+}
+/* added for alert red module */
+.roundedbox2.alert-bar .title2 {
+background: #c00 url("/eta/red_bar.gif") center left repeat-x;
+color:#fff;
+}
+.roundedbox2.alert-bar .content, .roundedbox2.alert-bar .contentnopadding {
+border-color:#c00;
+}
+.rb2Head
+{
+font-size:12px;
+font-weight:bold;
+color:#000;
+background: #aac6e1 url("/eta/blue_bar_corp.gif") center left repeat-x;
+padding:4px 0px 3px 0px;
+}
+.rb2HeadLeft
+{
+padding-left:2px;
+border-left:1px solid #aac6e1;
+}
+.rb2HeadRight
+{
+border-right:1px solid #aac6e1;
+}
+.rb2HeadTop
+{
+}
+.rb2HeadBottom
+{
+}
+.rb2Body
+{
+border:1px solid #6699cc;=20
+color: #000 !important;
+background-color: #FFF;
+}
+.rb2BodyNoBGColor
+{=09
+border:1px solid #6699cc;=20
+color: #000 !important;
+}
+.rb2BodyLeft
+{
+border-left:1px solid #6699cc;=20
+}
+.rb2BodyRight
+{
+border-right:1px solid #6699cc;=20
+}
+.rb2BodyTop
+{
+border-top:1px solid #6699cc;=20
+}
+.rb2BodyBottom
+{
+border-bottom:1px solid #6699cc;=20
+}
+body {
+font-family:Arial, Helvetica, Sans Serif;
+color: #000;
+padding:0;
+}
+/* End Header */
+=09
+=09
+=09
+=09
+=09
+=20
+=09
+=09
+=09
+=09

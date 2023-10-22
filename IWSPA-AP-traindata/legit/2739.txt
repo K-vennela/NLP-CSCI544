@@ -1,0 +1,34 @@
+One more addendum:
+We still need to be aware that this ignores two sources of uncertainty
+that will exist in the real world that are not included in Section 6
+which is effectively 1 perfect obs and finite number of runs of a
+perfect model:
+1. Imperfect models
+2. Observational uncertainty related to dataset construction choices
+(parametric and structural)
+Of course, with the test construct given #1 becomes moot as this is the
+thing we are testing for with H2. This is definitely not the case for #2
+which will be important and is poorly constrained.
+For Amplification factors we are either blessed or cursed by the wealth
+of independent estimates of the observational record. One approach, that
+I would advocate here because I'm lazy / because its more intuitive*
+(*=delete as appropriate) is that we can take the obs error term outside
+the explicit uncertainty calculation by making comparisons to each
+dataset in turn. However, the alternative approach would be to take the
+range of dataset estimates, make the necessary poor-mans assumption that
+this is the 1 sigma or 2 sigma range depending upon how far you think
+they span the range of possible answers and then incorporate this as an
+extra term in the denominator to d3. As with the other two it would be
+orthogonal error so still SQRT of sum of squares. Such an approach would
+have advantages in terms of universal applicability to other problems
+where we may have less independent observational estimates, but a
+drawback in terms of what we should then be using as our observational
+yardstick in testing H2 (the mean of all estimates, the median,
+something else?).
+Anyway, just a methodological quirk that logically follows if we are
+worried about ensuring universal applicability of approach which with
+the increasingly frequent use of CMIP3 archive for these types of
+applications is something we maybe should be considering. I don't expect
+us to spend very much time, if any, on this issue as I agree that key is
+submitting ASAP.
+Peter 

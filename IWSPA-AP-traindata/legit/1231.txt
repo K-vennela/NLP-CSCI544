@@ -1,0 +1,68 @@
+<x-flowed>Sorry this kept you awake...but I have also found it a rather alarming 
+graph.  First, a disclaimer/explanation.
+The graph patches together 3 things: Mann et al  NH mean annual temps + 2 
+sigma standard error for AD1000-1980, + instrumental data for 1981-1998 + 
+IPCC ("do not quote, do not cite" projections for GLOBAL temperature for 
+the next 100 years, relative to 1998.  The range of shading represents 
+several models of projected emissions scenarios as input to GCMs, but the 
+GCM mean global temperature output (as I understand it) was then reproduced 
+by Sarah Raper's energy balance model, and it is those values that are 
+plotted.  Keith pointed this out to me; I need to go back & read the IPCC 
+TAR to understand why they did that, but it makes no difference to the 
+first order result....neither does it matter that the projection is global 
+rather than NH....the important point is that the range of estimates far 
+exceeds the range estimated by Mann et al in their reconstruction.  Keith 
+also said that the Hadley Center GCM runs are being archived at CRU, so it 
+ought to be possible to get that data and simply compute the NH variability 
+for the projected period & add that to the figure, but it will not add much 
+real information.  However, getting such data would allow us to extract 
+(say) a summer regional series for the Arctic and to then plot it versus 
+the Holocene melt record from Agassiz ice cap....or....well, you can see 
+other possiblities.
+[......At this point Keith Alverson throws up his hands in despair at the 
+ignorance of non-model amateurs...]
+But there are real questions to be asked of the paleo 
+reconstruction.  First, I should point out that we calibrated versus 
+1902-1980, then "verified" the approach using an independent data set for 
+1854-1901.  The results were good, giving me confidence that if we had a 
+comparable proxy data set for post-1980 (we don't!) our proxy-based 
+reconstruction would capture that period well.  Unfortunately, the proxy 
+network we used has not been updated, and furthermore there are many/some/ 
+tree ring sites where there has been a "decoupling" between the long-term 
+relationship between climate and tree growth, so that things fall apart in 
+recent decades....this makes it very difficult to demonstrate what I just 
+claimed.  We can only call on evidence from many other proxies for 
+"unprecedented" states in recent years (e.g. glaciers, isotopes in tropical 
+ice etc..).  But there are (at least) two other problems -- Keith Briffa 
+points out that the very strong trend in the 20th century calibration 
+period accounts for much of the success of our calibration and makes it 
+unlikely that we would be able be able to reconstruct such an extraordinary 
+period as the 1990s with much success (I may be mis-quoting him somewhat, 
+but that is the general thrust of his criticism).  Indeed, in the 
+verification period, the biggest "miss" was an apparently very warm year in 
+the late 19th century that we did not get right at all.  This makes 
+criticisms of the "antis" difficult to respond to (they have not yet risen 
+to this level of sophistication, but they are "on the 
+scent").  Furthermore, it may be that Mann et al simply don't have the 
+long-term trend right, due to underestimation of low frequency info. in the 
+(very few) proxies that we used.  We tried to demonstrate that this was not 
+a problem of the tree ring data we used by re-running the reconstruction 
+with & without tree rings, and indeed the two efforts were very similar -- 
+but we could only do this back to about 1700.  Whether we have the 1000 
+year trend right is far less certain (& one reason why I hedge my bets on 
+whether there were any periods in Medieval times that might have been 
+"warm", to the irritation of my co-authors!).  So, possibly if you crank up 
+the trend over 1000 years, you find that the envelope of uncertainty is 
+comparable with at least some of the future scenarios, which of course begs 
+the question as to what the likely forcing was 1000 years ago. (My money is 
+firmly on an increase in solar irradiance, based on the 10-Be data..). 
+Another issue is whether we have estimated the totality of uncertainty in 
+the long-term data set used -- maybe the envelope is really much larger, 
+due to inherent characteristics of the proxy data themselves....again this 
+would cause the past and future envelopes to overlap.
+In Ch 7 we will try to discuss some of these issues, in the limited space 
+available.  Perhaps the best thing at this stage is to simply point out the 
+inherent uncertainties and point the way towards how these uncertainties 
+can be reduced.  Malcolm & I are working with Mike Mann to do just that.
+I would welcome other thoughts and comments on any of this!
+Ray

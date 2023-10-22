@@ -1,0 +1,71 @@
+Received: from domain.com (146.215.230.105) by
+ domain.com (43.130.141.78) with Microsoft SMTP Server id
+ 8.3.342.0; Tue, 1 Jul 2015 08:27:15 -0700
+Received: from domain.com ([160.33.194.229])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s61FRFJm031608	for <user@domain.com>; Tue, 1 Jul 2015 
+ 15:27:15 GMT
+Received: from mail208-va3-domain.com (mail-domain.com
+ [216.32.180.117])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s61FSOMa016110
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Tue, 1 Jul 2015 15:28:24 GMT
+Received: from mail208-va3 (localhost [127.0.0.1])	by
+ mail208-va3-domain.com (Postfix) with ESMTP id 96398180216	for
+ <user@domain.com>; Tue,  1 Jul 2015 15:27:14 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:171.21.250.76;KIP:(null);UIP:(null);IPV:NLI;H:mxout.mail.af-domain.com;RD:none;EFVD:NLI
+X-SpamScore: 5
+X-BigFish: vps5(z588dh59c9hbb4mzc89bh8d0I758Ic857h77f5h604Izz1ee6h1fdah2073h2146h1202h1e76h2189h1d2ah21bch1fc6h208ch1082kzebhz1de098h1def03h177df4h17326ah1def87h8275bh1ce122h1bc7b9h8275dh1def86h1de097h186068h1954cbh18602eh172c6ch5eeeI1df280h1df123iz2dh839ha12h1288h12a5h12bdh137ah139eh13eah1441h1504h1537h162dh1631h1758h1898h18e1h1946h19b5h1ad9h1b0ah1bceh2222h224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1e23h1fe8h1ff5h20f0h2218h2216h226dh24afh2327h2336h2438h2461h2487h24d7h2516h2545h255eh25cch25f6h2605h268bh26d3h27e2h282bh2847h28a1h28b0h29d0h2a24h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received: from mail208-va3 (localhost.localdomain [127.0.0.1]) by mail208-va3
+ (MessageSwitch) id 1404228432110700_25104; Tue,  1 Jul 2015 15:27:12 +0000
+ (UTC)
+Received: from domain.com (unknown [10.7.14.235])	by
+ mail208-domain.com (Postfix) with ESMTP id 0E415500054	for
+ <user@domain.com>; Tue,  1 Jul 2015 15:27:12 +0000 (UTC)
+Received: from mxout.mail.af-domain.com (171.21.250.76) by
+ domain.com (10.7.99.42) with Microsoft SMTP Server id
+ 14.16.227.3; Tue, 1 Jul 2015 15:27:11 +0000
+Date: Tue, 1 Jul 2015 17:20:16 +0200
+From: Flying Blue <donotreply@mail.af-klm.com>
+To: <user@domain.com>
+Message-ID: <20140701164346.1131567941.0.716216-109632@mail.af-domain.com>
+Subject: AMY, only a few days left to try and win 200,000 Miles!
+X-Mailer: 7.1.1.0.1298; klm
+Return-Path: user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+        To ensure our e-mails arrive in your inbox safely, add Flying Blue to your contact list.
+
+If you cannot read this e-mail properly, click here for the online version.      
+
+         AIR FRANCE      KLM            
+
+
+
+
+Flying Blue      
+
+
+
+
+Flying Blue number: 2106024055    <<link>>  
+
+        YOUR BEST TRAVEL PHOTO
+
+CAN STILL GO ROUND THE WORLD
+
+Only a few days left to take part in the Flying Blue photo competition.  
+
+Flying View      
+
+        Until 9 July, you could still win: your photo printed on hundreds of thousands of luggage tags, Platinum membership for 1 year and 200,000 Miles!        
+
+
+
+ENTER    
+
+
+

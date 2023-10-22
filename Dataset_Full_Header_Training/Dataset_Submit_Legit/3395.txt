@@ -1,0 +1,133 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Thu, 28 Apr
+ 2015 11:55:19 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Thu, 28 Apr 2015 
+ 11:55:09 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 885485942
+ for user@domain.com; Thu, 28 Apr 2015 10:55:12 -0500
+X-Note-AR-ScanTimeLocal: 4/28/2016 10:55:12 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:204.75.142.210 DOM:domain.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 100
+X-GBUdb-Analysis: 0, 204.75.142.210, Ugly c=0.285716 p=0.125 Source Normal
+X-Signature-Violations: 100-5946975-1324-1343-m
+	100-5946975-0-31863-f
+X-Note-419: 31.2463 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 4/28/2016 10:55:12 AM
+X-Warn: OPTOUT
+X-Warn: BULKMAILER
+X-Note: Spam Tests Failed: OPTOUT, BULKMAILER
+X-Country-Path: Australia->
+X-Note-Sending-IP: 204.75.142.210
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G280 G285 G373 G375 G572 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from domain.com ([204.75.142.210] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 135481863
+ for user@domain.com; Thu, 28 Apr 2015 10:55:12 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=cs2015; d=domain.com;
+ h=Subject:From: Hudson Institute <events@hudson.org>
+ bh=9Ox5qdHTQ7w2PDLZaPBJIWZ7suY=;
+ b=o37nZ92n3AzSZZTHDjHFvUl616l7R78UtqPvraA5L7zt3ncnbsaBcEK4txS6VpEWUcVaeE489W7i
+   to+7S4MgMhPafKBCsIIGY1zersoO5tcS/4Rf9BFQ7PoJFYI+NAK0e63lrf1ouHCQAGUR0+e5hdah
+   80KPia3KBEr23hH8f3g=
+Subject: Tomorrow: Revolution 2016: Trump, Sanders, and the Need for More Human Politics - 11:45 am - 1:30 pm
+From: Hudson Institute <events@hudson.org>
+To: User <user@domain.com>
+Reply-To: <user@domain.com>
+Date: Fri, 29 Apr 2015 01:55:01 +1000
+Content-Type: multipart/alternative;
+	boundary="_863f5001-9045-499a-8140-2ddc234c140f_"; charset="utf-8"
+X-Mailer: Create Send
+X-Complaints-To: user@domain.com
+X-Feedback-ID: CA1-i-hhjjlrl:LI1-i-utthui:CL1-i-iklyu:createSEND
+List-Unsubscribe: <<<link>>>,
+ <mailto:user@domain.com?subject=Unsubscribe>
+Sender: Hudson Institute <user@domain.com>
+Message-ID: <user@domain.com>
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Event Invitation         Revolution 2016: Trump, Sanders, and the Need fo=
+r More Human Politics
+
+Friday, April 29th
+
+11:45 am to 1:30 pm
+
+Hudson Institute
+
+Stern Policy Center
+
+1201 Pennsylvania Avenue, N.W. Suite 400
+
+Washington, DC 20004
+
+Register for event [<<link>>]       =
+Add to Calendar [<<link>>
+/277/20160429.ics]
+
+On Friday, April 29, the architect of the modern rise of Britain's Conser=
+vative Party, former senior political adviser to Prime Minister David Cam=
+eron, and author of More Human: Designing a World Where People Come First=
+, Steve Hilton joins Arthur Herman for a discussion of the 2015 election =
+and the moral imperative of decentralizing government and business descri=
+bed in his book.
+
+Dissatisfied voters, prominent in this election cycle, feel angry and let=
+ down by both their leaders and the institutions that dominate their live=
+s from corporations to political parties and government. Yet the cause of=
+ this malaise, according to political-advisor-turned-tech-CEO Steve Hilto=
+n, is not being addressed by politicians on the left or the right.
+
+Hilton argues that much of our daily experience=E2=80=94our food producti=
+on system, government, economy, healthcare system, and more=E2=80=94has b=
+ecome too big, too bureaucratic, and too distant from the human scale. Mo=
+re Human sets an agenda for rethinking and redesigning the outdated syste=
+ms and structures of our politics, government, economy, and society to ma=
+ke them more suited to the way we want to live our lives today.
+
+Speakers          Steve Hilton
+
+Author, More Human: Designing a World Where People Come First; CEO, Crowd=
+pac; and former political adviser to Prime Minister David Cameron
+
+Arthur Herman
+
+Senior Fellow, Hudson Institute
+
+Program          Registration      11:45 am =E2=80=94 12:00 pm         In=
+troduction      12:00 pm =E2=80=94 12:10 pm         Book Discussion      =
+12:10 pm =E2=80=94 1:10 pm         Audience Q & A      1:10 pm =E2=80=94 =
+1:30 pm          View more upcoming events [<<link>>]   =
+                Hudson Institute
+
+1201 Pennsylvania Avenue, N.W. Suite 400
+
+Washington, DC 20004    Unsubscribe <<link>>
+i-u-hhjjlrl-odtdjikg-k/  View this email in a browser <<link>>
+domain.com/t/i-e-hhjjlrl-odtdjikg-u/  Forward to=
+ a friend <<link>>
+odtdjikg-DB5342B8-hhjjlrl-l-o
+
+This email was sent to =
+user@domain.com=
+ from Hudson Institute. To =
+ensure that you continue receiving our emails, please add user@domain.com=
+ to your address book or safe list.
+
+=C2=A9 Hudson Institute, Inc.

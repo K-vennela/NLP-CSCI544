@@ -1,0 +1,127 @@
+Received: from domain.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Wed, 5 Mar 2015 18:32:01 +0100
+Received: from domain.com (unknown [192.168.100.50])	by
+ domain.com (Postfix) with ESMTP id 1FCAE62931	for
+ <user@domain.com>; Wed,  5 Mar 2015 17:23:20 +0000 (GMT)
+Received: by domain.com (Postfix)	id 0352FB66040; Wed,  5 Mar 2015 
+ 18:31:58 +0100 (CET)
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.100.25])
+	by domain.com (Postfix) with ESMTP id C980EB6603D	for
+ <user@domain.com>; Wed,  5 Mar 2015 18:31:57 +0100 (CET)
+X-ASG-Debug-ID: 1394040713-066a75682e31120001-fIYs7j
+Received: from domain.com (domain.com [62.128.201.176])
+ by domain.com with ESMTP id SE16L3wLEPwhmPBe; Wed, 05 Mar 2015 
+ 18:31:54 +0100 (CET)
+X-Barracuda-Envelope-From: Eoghan <e.mcdonaugh@oliverkinross.com>
+X-Barracuda-Apparent-Source-IP: 62.128.201.176
+Received: from domain.com (localhost.localdomain [127.0.0.1])	by
+ domain.com (8.13.8/8.13.8) with ESMTP id s24DWRe2020614;	Tue, 4
+ Mar 2015 13:32:27 GMT
+Received: from [192.168.0.8]
+ (host109-147-96-178.range109-147.domain.com [109.147.96.178])
+	(authenticated bits=0)	by domain.com (8.13.8/8.13.8) with ESMTP id
+ s24DUma2019146	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES128-SHA bits=128
+ verify=NO);	Tue, 4 Mar 2015 13:30:51 GMT
+Message-ID: <5315user@domain.com>
+Date: Tue, 4 Mar 2015 13:32:19 +0000
+From: Eoghan <e.mcdonaugh@oliverkinross.com>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.3.0
+To: <user@domain.com>
+Subject: Follow up | The Africa Security & Counter Terrorism domain.com 2015 
+References: <5315user@domain.com>
+X-ASG-Orig-Subj: Follow up | The Africa Security & Counter Terrorism domain.com 2015 
+In-Reply-To: <5315user@domain.com>
+X-Forwarded-Message-Id: <5315user@domain.com>
+X-TM-AS-MML: No
+X-Barracuda-Connect: domain.com[62.128.201.176]
+X-Barracuda-Start-Time: 1394040714
+X-Barracuda-URL: <<link>>:8000/cgi-mod/mark.cgi
+X-Barracuda-BRTS-Status: 1
+X-Virus-Scanned: by bsmtpd at domain.com
+X-Barracuda-Spam-Score: -1001.00
+X-Barracuda-Spam-Status: No, SCORE=-1001.00 using global scores of TAG_LEVEL=3.5 QUARANTINE_LEVEL=1000.0 KILL_LEVEL=8.0 
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-861515099_-_-"
+
+Hi,
+
+
+
+
+                      We hope that you enjoyed the Africa Security
+                        & Counter Terrorism domain.com 2014. Oliver
+                      Kinross would like to thank you for your
+                      participation which helped contributed towards
+                      what was a fantastic first time event.
+
+                      As you will remember I was speaking with all the
+                      exhibitors during the event to see whether there
+                      was interest in taking an on site discount for the
+                      any of our events which are due to take place from
+                      now until 2015 including the 2nd edition of the
+                      Africa Security domain.com and the Caribbean South
+                      America Security domain.com 2014.
+
+                      Would you like to rebook for Africa Security
+                        2015 event with an 8% discount until
+                      Friday 7th March?  
+
+                      Any questions please do not hesitate to contact
+                      me. I look forward to hearing back from you.
+
+                      Kind regards,
+
+-- 
+
+	<!--
+		@page { margin: 2cm }
+		P { margin-bottom: 0.21cm }
+		P.western { so-language: en-GB }
+		A:link { so-language: zxx }
+	-->
+
+
+
+Eoghan
+
+                                J. McDonaugh
+
+                                Marketing Manager
+
+                                Oliver Kinross Ltd.
+Tel: +44
+                                  207 065 5524
+
+                                  Fax: +44 207 127 4503
+
+user@domain.com
+
+www.oliver-domain.com
+Twitter:
+                                  @oliverkinross1 
+
+Oliver
+                              Kinross Ltd, 3rd Floor, Archway House, 1
+                              Worship Street, London, EC2A 2AB
+This email
+                              and its attachments may be confidential
+                              and are intended solely for the use of the
+                              individual to whom it is addressed. Any
+                              views or opinions expressed are solely
+                              those of the author and do not necessarily
+                              represent those of Oliver Kinross Ltd. If
+                              you are not the intended recipient of this
+                              email and its attachments, you must take
+                              no action based upon them, nor must you
+                              copy or show them to anyone. Please
+                              contact the sender if you believe you have
+                              received this email in error.
+

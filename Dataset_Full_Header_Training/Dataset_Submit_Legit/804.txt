@@ -1,0 +1,90 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Thu, 12 May
+ 2015 12:06:24 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Thu, 12 May 2015 
+ 12:06:21 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 911604902
+ for user@domain.com; Thu, 12 May 2015 11:06:20 -0500
+X-Note-AR-ScanTimeLocal: 5/12/2016 11:06:20 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:209.85.161.171 DOM:gmail.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-140/SG:5 5/12/2016 11:05:21 AM
+X-GBUdb-Analysis: Unknown
+X-Signature-Violations: 0-0-0-22608-c
+X-Note-419: 15.6249 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/12/2016 11:06:05 AM
+X-Warn: SPANISH-CHR
+X-Note: Spam Tests Failed: SPANISH-CHR
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 209.85.161.171
+X-Note-Reverse-DNS: mail-yw0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G350 G407 G675 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from mail-yw0-domain.com ([209.85.161.171] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 138511053
+ for user@domain.com; Thu, 12 May 2015 11:06:20 -0500
+Received: by mail-yw0-domain.com with SMTP id j74so77413431ywg.1
+        for <user@domain.com>; Thu, 12 May 2015 09:06:14 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=From: Heather Wild <hwild21@gmail.com>
+         :references:in-reply-to:to;
+        bh=1CAJtw7qIUAFjmqSN8goFbqC8LkCaM1DdA759NBFNO4=;
+        b=EWPyYkrDQSxePrFDjo3O7llP8Waaxh0ZG43zizBub7eifrCEDmJCZimGGQWTdwsThM
+         kLjtZNEDjaZUJp7Vv4pN5EEvRTtDcnWuML5VgIh/BHmgq3Ru0VLeby+CB1vxTSPswZtw
+         8xeeYgkmyKfKzy4t7UwhUvZZ2M4b1wmYBKG9A0fkVILcW0wTOpeNSg5Jh2YF6bFxlGj6
+         a/sFc0wWLMZv4KfDXKsPFlkDdyX1M+w5MoxNZ35/prnHXKuA/yPVVCt+BvaXpclOFNts
+         wuNauh7/7LLCdqml0b5t9fosT3VQDL/FNJRpHOaZ3wSlILYzzLEtV4fYpQFUTx3RWxOK
+         RUEA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:From: Heather Wild <hwild21@gmail.com>
+         :subject:message-id:date:references:in-reply-to:to;
+        bh=1CAJtw7qIUAFjmqSN8goFbqC8LkCaM1DdA759NBFNO4=;
+        b=AaBkpOEUoJDRCQK4BtttxnWbo2mCKgx3mhUEjX+Tmi1s9GGKsey9+hUMpoGn4rTchs
+         rMt+yhLND9UT8O0Wm4I9hFR8cXdWeSl4sXwpfMm1QxQzl7iX0Dt26cw1u+lfLP4D03Oi
+         q3LNkiarhDKxmqQsNNmwpmoW7jhkKLeGh+VxLakRNwY+7LMC1BZCA7ppzezRxTDXtYWp
+         X/IvMKhQXQ/7tfqdhMhcxSBpKwqzUX4lcUBcFDHgJd2U46LqGjY3j+nAgQUOmV6uRuHA
+         vrjEXK+VLKtI9lkoYW8vStu0FG+7IUkJIpNNUO0jFeDuRJ7COO1LG/B4in3AMvKVdVgz
+         k1qA==
+X-Gm-Message-State: AOPr4FXY7tUxmJV0Do9G0ndPRuwJxpBYrKOPFjruPciyLMwJ2aXKgLmobHoOo0bEs4D/XQ==
+X-Received: by 10.37.21.131 with SMTP id 125mr4900867ybv.23.1463069174187;
+        Thu, 12 May 2015 09:06:14 -0700 (PDT)
+Return-Path: <user@domain.com>
+Received: from ?IPv6:2600:1003:b005:3a33:6cab:b88:3c1c:9e2?
+ ([2600:1003:b005:3a33:6cab:b88:3c1c:9e2])        by smtp.gmail.com with
+ ESMTPSA id d68sm7570922ywe.53.2016.05.12.09.06.12        for
+ <user@domain.com>        (version=TLSv1/SSLv3 cipher=OTHER);        Thu, 12
+ May 2015 09:06:12 -0700 (PDT)
+From: Heather Wild <hwild21@gmail.com>
+Content-Type: multipart/alternative;
+	boundary="Apple-Mail-10C5E456-13F4-4A9A-95B8-92550C6DCEE4"
+Content-Transfer-Encoding: 7bit
+Subject: Re: Did you get our invitation?
+Message-ID: <user@domain.com>
+Date: Thu, 12 May 2015 12:06:11 -0400
+References: <user@domain.com> <05user@domain.com>
+In-Reply-To: <05user@domain.com>
+To: "User" <user@domain.com>
+X-Mailer: iPhone Mail (13D15)
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Yes, very much so, Mi Vida. Thank you for thinking of me.
+
+Sent from my Wild iPhone
+

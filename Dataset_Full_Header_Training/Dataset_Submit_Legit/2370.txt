@@ -1,0 +1,65 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Wed, 19 Feb 2015 11:47:01 +0100
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id DC03060059	for
+ <user@domain.com>; Wed, 19 Feb 2015 10:38:53 +0000 (GMT)
+Received: by domain.com (Postfix)	id C0A44B6600D; Wed, 19 Feb 2015 
+ 11:47:01 +0100 (CET)
+Delivered-To: user@domain.com
+Received: from support.hackingteam.com (support.hackingteam.com
+ [192.168.100.70])	by domain.com (Postfix) with ESMTP id A5825B6603D
+	for <user@domain.com>; Wed, 19 Feb 2015 11:47:01 +0100 (CET)
+Message-ID: <1392806821.53048user@domain.com>
+Date: Wed, 19 Feb 2015 11:47:01 +0100
+Subject: [!LOD-226-37958]: Assignment - Offline infection give a blue screen
+ on windows 8
+From: Bruno Muschitiello <support@hackingteam.com>
+Reply-To: <user@domain.com>
+To: <user@domain.com>
+X-Priority: 3 (Normal)
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=SUPPORTFE0
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-615933390_-_-"
+
+Bruno Muschitiello updated #LOD-226-37958
+
+-----------------------------------------
+
+Staff (Owner): Bruno Muschitiello (was: -- Unassigned --)
+Status: In Progress (was: Open)
+
+Offline infection give a blue screen on windows 8
+
+-------------------------------------------------
+
+Ticket ID: LOD-226-37958
+URL: <<link>>
+Name: Angsk
+Email address: user@domain.com
+Creator: User
+Department: General
+Staff (Owner): Bruno Muschitiello
+Type: Issue
+Status: In Progress
+Priority: Normal
+Template group: Default
+Created: 19 February 2015 09:01 AM
+Updated: 19 February 2015 11:47 AM
+
+The problem is not related to RCS, we suggest you to repeat the infection,
+
+in case it doesn't resolve the issue you can burn another CD.
+
+Let us know if the problem is still present.
+
+Kind regards
+
+Staff CP:  <<link>>
+

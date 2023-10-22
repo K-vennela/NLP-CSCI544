@@ -1,0 +1,660 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Fri, 20 May
+ 2015 05:46:09 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Fri, 20 May 2015 
+ 05:46:04 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 925721706
+ for user@domain.com; Fri, 20 May 2015 04:46:17 -0500
+X-Note-AR-ScanTimeLocal: 5/20/2016 4:46:07 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:68.232.197.141 DOM:domain.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 100
+X-GBUdb-Analysis: 0, 68.232.197.141, Ugly c=0.401053 p=-0.183673 Source Normal
+X-Signature-Violations: 100-5819748-1143-1165-m
+	100-5950968-1338-1370-m
+	100-5948747-1339-1370-m
+	100-5944977-25471-25501-m
+	100-5819748-0-26327-f
+X-Note-419: 46.8775 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/20/2016 4:45:53 AM
+X-Warn: COMMENTS HTML Comments found in Message Body
+X-Warn: BULKMAILER
+X-Note: Spam Tests Failed: COMMENTS, BULKMAILER
+X-Country-Path: ->United States->
+X-Note-Sending-IP: 68.232.197.141
+X-Note-Reverse-DNS: mta.email.bostonglobe.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G281 G286 G341 G374 G580 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from mta.email.bostonglobe.com ([68.232.197.141] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 139537992
+ for user@domain.com; Fri, 20 May 2015 04:46:07 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=200608; d=email.bostonglobe.com;
+ h=From: BostonGlobe.com <newsletters@email.bostonglobe.com>
+ bh=sJHmck7in1lkUzpwozI9HXwRQbs=;
+ b=OfUpZ5LGAC3/Ngb4xDBnK/qQ21AsX3K2iutyFWZNwl/VciNpg8y3uyZ6laG0GmUKM3F5KHxnGDA0
+   vMdHHC5/wIhkAQW9hv12R+4MRw1Od+ZsMHUdvXUbTlG/0+wOv0tadCrXy57vmonhvwpZRiNg0ygz
+   i8YphAPPbIowHYYu/q0=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=200608; d=email.bostonglobe.com;
+ b=V3gH31ZQY6PJF4/LZkww6eU9gHArnQd0JSBdCiRZEhJC3qLo256k5ZFZPyLnDatvZQt4giS7EYE6
+   huaJXYAWT8Pe7x+SJ1XBYqJyYq8AqbF1D5InMFjD8VcGpy0rka8Axk6Nyg0ZWuHeJChlTFGKOH8b
+   fg34047H8rKJseLVVxU=;
+Received: by mta.email.bostonglobe.com id h7redu163hsp for <user@domain.com>;
+ Fri, 20 May 2015 03:46:07 -0600 (envelope-from
+ <user@domain.com>)
+From: BostonGlobe.com <newsletters@email.bostonglobe.com>
+To: <user@domain.com>
+Subject: Today's headlines from The Boston Globe
+Date: Fri, 20 May 2015 03:46:06 -0600
+List-Unsubscribe: <mailto:user@domain.com>
+Reply-To: Today's Headlines
+	<user@domain.com>
+x-job: 10839380_35484586
+Message-ID: <4987user@domain.com>
+Content-Type: multipart/alternative; boundary="emmYJu7OqqUe=_?:"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+To view this email as a web page, go to the link below, or copy and paste it into your browser's address window.
+<<link>>'s Headlines
+
+Today's Headlines
+To ensure you receive your domain.com e-mails, please add 
+mailto:user@domain.com 
+user@domain.com  to your address book.
+
+If you have trouble reading this e-mail, go to 
+<<link>> 
+<<link>> .
+
+<<link>> 
+Today's headlines
+05/20/2016
+
+<<link>> 
+Today's Paper 
+<<link>> 
+Metro 
+<<link>> 
+Opinion 
+<<link>> 
+Sports 
+<<link>> 
+Comics 
+<<link>> 
+Crossword 
+
+/todayspaper?s_campaign=email_BG_TodaysHeadline 
+Page one
+
+
+
+<<link>> 
+Frantic search, terrorism fears after EgyptAir jet vanishes
+
+<<link>> 
+
+<<link>> 
+The plane disappeared 2:45 a.m. Cairo time, shortly before it was scheduled to land, and there were no signs of survivors. 
+
+
+
+
+<<link>> 
+City official pleads innocent to extortion charge, released on bond
+
+<<link>> 
+
+<<link>> 
+Kenneth Brissette&rsquo;s indictment appears to stem from the federal investigation into the city&rsquo;s dealings with Boston Calling.  
+
+
+
+
+<<link>> 
+Weld confirms he&#';ll run for VP as a Libertarian
+
+<<link>> 
+
+<<link>> 
+Former Governor Bill Weld said he agreed to be former New Mexico governor Gary Johnson&rsquo;s running mate at a meeting in Las Vegas last Sunday.  
+
+
+
+
+<<link>> 
+Trump rehashes &#';rape&#'; allegation against Bill Clinton
+
+<<link>> 
+
+<<link>> 
+Donald Trump reignited a 25-year-old accusation and escalated his negative campaign rhetoric.  
+
+
+
+
+<<link>> 
+BC&#';s plan will harm smaller sports, supporters say
+
+<<link>> 
+
+<<link>> 
+A $200 million construction project reduces resources for the swimming and diving, tennis, and fencing teams. 
+
+
+
+
+<<link>> 
+
+<<link>> 
+
+<<link>> 
+
+
+
+
+<<link>> 
+Globe Events 
+
+
+
+<<link>> 
+When inspiration strikes
+
+<<link>> 
+
+<<link>> 
+With their home as canvas, the couple behind KTII Design Group embrace the stylistic power of change. 
+
+
+
+
+<<link>> 
+More Globe Events &rarr;  
+
+/todayspaper?s_campaign=email_BG_TodaysHeadline 
+Today's Paper &rarr; 
+
+<<link>> 
+The Nation
+
+
+
+<<link>> 
+Trump rehashes &#';rape&#'; allegation against Bill Clinton
+
+<<link>> 
+
+<<link>> 
+Donald Trump reignited a 25-year-old accusation and escalated his negative campaign rhetoric.  
+
+
+
+
+<<link>> 
+Oklahoma bill would make performing abortions a crime
+
+<<link>> 
+
+<<link>> 
+The measure would also revoke the medical licenses of doctors who perform abortions, effectively banning the practice. 
+
+
+
+
+<<link>> 
+House GOP defeats gay rights measure, prompting shouts of &#';shame&#'; 
+
+<<link>> 
+
+<<link>> 
+Seven Republicans switched their votes under pressure from House leaders and defeated the bill. 
+
+<<link>> 
+
+Jump to domain.com The Nation Section &rarr;
+
+
+
+<<link>> 
+The World
+
+
+
+<<link>> 
+Frantic search, terrorism fears after EgyptAir jet vanishes
+
+<<link>> 
+
+<<link>> 
+The plane disappeared 2:45 a.m. Cairo time, shortly before it was scheduled to land, and there were no signs of survivors. 
+
+
+
+
+<<link>> 
+Chibok girl who escaped Boko Haram put in public glare in Nigeria
+
+<<link>> 
+
+<<link>> 
+The teenager rescued from Sambisa Forest was flown to Abuja and met with Nigeria&rsquo;s president. 
+
+
+
+
+<<link>> 
+Erdogan loyalist nominated to be Turkey&#';s prime minister
+
+<<link>> 
+The divided politics of modern Turkey overshadowed a day when Turks honor their founder, Mustafa Kemal Ataturk. 
+
+
+
+
+<<link>> 
+
+<<link>> 
+
+<<link>> 
+
+<<link>> 
+
+Jump to domain.com The World Section &rarr;
+
+
+
+<<link>> 
+Editorial & Opinion
+
+
+
+JOAN VENNOCHI
+
+<<link>> 
+Brissette arrest puts mayor in the spotlight
+
+<<link>> 
+
+<<link>> 
+Federal indictments chip away at morale. They drain political capital. Playing offense is hard when a mayor is always playing defense. 
+
+
+
+
+Opinion | Spike Lee
+
+<<link>> 
+Wake up, people, and embrace diversity
+
+<<link>> 
+
+<<link>> 
+Spike Lee told graduates at Johns Hopkins that America can&rsquo;t go back to the time of Eisenhower, Jim Crow, and &ldquo;Leave it to Beaver.&rdquo; 
+
+
+
+
+EDITORIAL
+
+<<link>> 
+Mayor must replace Brissette
+
+<<link>> 
+
+<<link>> 
+Brissette may be innocent until proven guilty, but it&rsquo;s clear that he can no longer continue as the city&rsquo;s director of tourism, sports, and entertainment. 
+
+<<link>> 
+
+Jump to domain.com Editorial & Opinion Section &rarr;
+
+
+
+<<link>> 
+Metro
+
+
+
+<<link>> 
+BC&#';s plan will harm smaller sports, supporters say
+
+<<link>> 
+
+<<link>> 
+A $200 million construction project reduces resources for the swimming and diving, tennis, and fencing teams. 
+
+
+
+
+<<link>> 
+Weld confirms he&#';ll run for VP as a Libertarian
+
+<<link>> 
+
+<<link>> 
+Former Governor Bill Weld said he agreed to be former New Mexico governor Gary Johnson&rsquo;s running mate at a meeting in Las Vegas last Sunday.  
+
+
+
+
+<<link>> 
+City official pleads innocent to extortion charge, released on bond
+
+<<link>> 
+
+<<link>> 
+Kenneth Brissette&rsquo;s indictment appears to stem from the federal investigation into the city&rsquo;s dealings with Boston Calling.  
+
+<<link>> 
+
+Jump to domain.com Metro Section &rarr;
+
+
+
+<<link>> 
+Business & Tech
+
+
+
+<<link>> 
+New life planned for old Charlestown rope factory
+
+<<link>> 
+
+<<link>> 
+Redeveloping any building with this kind of unique structure would be tough enough: It&rsquo;s more than a quarter-mile long but only about 40 feet wide. 
+
+
+
+
+<<link>> 
+Paid leave would cost $159 per worker, UMass report finds
+
+<<link>> 
+The measure under consideration in the state Legislature would also increase the annual number of leaves taken by 13,000.  
+
+
+
+
+Stat
+
+<<link>> 
+Scientist wants to hijack cells&#'; tiny garbage trucks to fight cancer
+
+<<link>> 
+
+<<link>> 
+The idea was born over beer in a hotel bar. It would spark a revolutionary approach to treating cancers and set rival companies on a scientific race.  
+
+<<link>> 
+
+Jump to domain.com Business & Tech Section &rarr;
+
+
+
+<<link>> 
+Obituaries
+
+
+
+<<link>> 
+Marguerite Lopes, 88; longtime social worker and activist
+
+<<link>> 
+
+<<link>> 
+Marguerite Lopes, 88, of Baltimore, who died May 8, was longtime social worker and activist. 
+
+
+
+
+<<link>> 
+Morley Safer, 84, mainstay of &#';60 Minutes&#';
+
+<<link>> 
+
+<<link>> 
+Mr. Safer brought the horrors of the Vietnam War into the living rooms of America in the 1960s as a CBS television correspondent. 
+
+
+
+
+<<link>> 
+Madeleine LeBeau, French actress who appeared in &#';Casablanca&#';
+
+<<link>> 
+
+<<link>> 
+Ms. LeBeau made the best of a small role as the scorned girlfriend of Humphrey Bogart&rsquo;s Rick Blaine in the classic film. 
+
+<<link>> 
+
+Jump to domain.com Obituaries Section &rarr;
+
+
+
+<<link>> 
+Sports
+
+
+
+RED SOX NOTEBOOK
+
+<<link>> 
+Early innings have been troublesome for Clay Buchholz
+
+<<link>> 
+
+<<link>> 
+The Red Sox righthander has given up 19 runs in the first and second innings of his eight starts. 
+
+
+
+
+PATRIOTS NOTEBOOK
+
+<<link>> 
+Rob Ninkovich&#';s games-played streak? Don&#';t mention it
+
+<<link>> 
+
+<<link>> 
+The Patriots defensive end/linebacker is at 188 straight, but he tries not to think about it. 
+
+
+
+
+MICHAEL WHITMER | ON GOLF
+
+<<link>> 
+Muirfield&#';s vote to exclude women is a step back for golf 
+
+<<link>> 
+
+<<link>> 
+The membership&rsquo;s decision was met with a swift response: The R&A pulled the club from the Open rotation. 
+
+<<link>> 
+
+Jump to domain.com Sports Section &rarr;
+
+
+
+<<link>> 
+Capital
+
+
+
+Ground Game
+
+<<link>> 
+Why party unity is overrated in this election
+
+<<link>> 
+
+<<link>> 
+The rule about candidates getting the entire party to fight for them after a bruising primary might be tossed out of the window.  
+
+<<link>> 
+
+Jump to domain.com Capital Section &rarr;
+
+
+
+<<link>> 
+Weekend
+
+
+
+Album REviews
+
+<<link>> 
+Ariana Grande and Fifth Harmony, stretching pop&#';s parameters
+
+<<link>> 
+
+<<link>> 
+New albums by singer-actress Ariana Grande and vocal group Fifth Harmony prove there&rsquo;s plenty of life left in the contemporary pop album. 
+
+
+
+
+movie review | &#★;
+
+&#★;
+&#1/2;
+
+<<link>> 
+Sleaze and slapstick aplenty in &#';The Nice Guys&#';
+
+<<link>> 
+
+<<link>> 
+Featuring Ryan Gosling and Russell Crowe, &ldquo;The Nice Guys&rdquo; plays like a coarser, brawnier retread of 2005&rsquo;s &ldquo;Kiss Kiss Bang Bang.&rdquo; 
+
+
+
+
+album review | Indie Rock
+
+<<link>> 
+New Grateful Dead compilation is uneven, but interesting
+
+<<link>> 
+
+<<link>> 
+Compiled by the National, &ldquo;Day of the Dead&rdquo; features prominent indie musicians reinterpreting the Grateful Dead canon, with mixed results. 
+
+<<link>> 
+
+Jump to domain.com Weekend Section &rarr;
+
+
+
+<<link>> 
+Comics
+
+<<link>> 
+Crossword
+
+<<link>> 
+Circulars
+
+<<link>> 
+
+Jump to domain.com Circulars Section &rarr;
+
+
+
+<<link>> 
+
+<<link>> 
+domain.com 
+Today's headlines
+  |  
+05/20/2016
+
+
+
+
+About This Email
+
+You received this message because you signed up for the Today's headlines newsletter.
+To automatically unsubscribe, 
+<<link>> 
+please click here.  
+If you wish to unsubscribe from all domain.com newsletters, 
+<<link>> 
+please click here. 
+Please note: this will unsubscribe you from the newsletters only. If you wish to cancel your domain.com subscription, please call 1-888-MY-GLOBE (1-888-694-5623).
+
+<<link>> 
+Manage Your Account  | 
+<<link>> 
+Terms of Service  | 
+<<link>> 
+Privacy Policy  | 
+<<link>> 
+Help Center  | 
+mailto:user@domain.com?subject=Advertising in domain.com 
+Advertise 
+
+Address:
+
+The Boston Globe
+
+135 Morrissey Blvd.
+
+Boston, MA 02125
+
+(c)Copyright 2015 Boston Globe Media Partners, LLC
+
+----------------------------------------
+
+
+
+	This email was sent by:
+	The Boston Globe
+	135 Morrissey Blvd.
+	Boston, MA, 02125, United States
+
+
+
+	We respect your right to privacy - domain.com the following URL to view our policy.
+	( <<link>> )
+
+
+
+	----------------------------------------
+
+
+
+	domain.com the following URL to manage your subscriptions.
+	( <<link>> )
+
+
+
+	domain.com the following URL to update your profile.
+	( <<link>> )
+
+
+
+	domain.com the following URL to unsubscribe.
+	( <<link>> )
+
+

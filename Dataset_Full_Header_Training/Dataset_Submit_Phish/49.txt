@@ -1,0 +1,48 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id C1A7123CAAD
+	for <user@domain.com>; Tue,  1 May 2015 03:13:49 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 7U489xNc7UnY for <user@domain.com>;
+	Tue,  1 May 2015 03:13:45 -0500 (CDT)
+Received: from audcets.avila.edu (mail.avila.edu [198.209.196.60])
+	by domain.com (Postfix) with ESMTP id 630C523CAAB
+	for <user@domain.com>; Tue,  1 May 2015 03:13:45 -0500 (CDT)
+From: "Carrillo, Ashley" <carrillo186492@avila.edu>
+To: "User" <user@domain.com>
+Subject: Important Notice!!! Your Account Expires in 24 Hours
+Date: Tue, 1 May 2015 08:13:41 +0000
+Message-ID: <user@domain.com>
+Content-Language: en-US
+Content-Type: multipart/alternative;
+	boundary="_000_E4F56F62EA8ED8419813DB88F7136F8C1C36D8AUDCMBX01avilaedu_"
+MIME-Version: 1.0
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 86
+
+Attn: Webmail User,
+
+Due our latest IP Security upgrades we have reason to believe that your web=
+mail account was accessed by a third party.
+Because protecting the security of your webmail account is our primary conc=
+ern, we have limited access to sensitive webmail account features.
+We understand that this may be an inconvenience but please understand that =
+this temporary limitation is for your protection.
+
+To protect your account from unauthorized access and revalidate your mailbo=
+x and confirm your webmail account information:
+
+Click Here: <<link>><<<link>>
+orm06.tk/>
+
+Failure to revalidate your mailbox will render your e-mail in-active from o=
+ur database.
+
+Thank you for your cooperation.
+Help Desk

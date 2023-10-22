@@ -1,0 +1,36 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.4.9])
+	by domain.com (Postfix) with ESMTP id 3A6004697A
+	for <user@domain.com>; Mon,  7 May 2015 22:24:56 -0400 (EDT)
+Received: from domain.com (domain.com [192.168.6.4])
+	by domain.com (Postfix) with ESMTP id 35413131FB8C
+	for <user@domain.com>; Mon,  7 May 2015 22:24:56 -0400 (EDT)
+Received: from 72.111.130.219.domain.com.cn (unknown [219.130.111.72])
+	by domain.com (Postfix) with SMTP id C5E4F6FA1C1
+	for <user@domain.com>; Mon,  7 May 2015 22:24:54 -0400 (EDT)
+Message-ID: <001401c7915b$1ddbbd20$01304user@domain.com>
+From: "AntiFraud" <Nannie@chronoexpres.com>
+To: user <user@domain.com>
+Subject: Hacker attack on the websites Australian banks!
+Date: Tue, 8 May 2015 10:23:45 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+        boundary="----=_NextPart_000_0011_01C7915B.1DDBBD20"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1230
+
+Dear online-banking user!  Please note that from May the 6th the =
+online-banking service in Australia will be suspended due to a vigorous =
+hacker attack on the websites of the most popular Australian banks =
+(National, Common, Bendigo, BOQ etc.).  Please be extremely carefull =
+with your domain.com cards and accounts.  To get more information on the =
+situation of the online-banking service of your bank please follow the =
+link below: <<link>>   Best regards,  AntiFraud.com

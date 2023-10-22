@@ -1,0 +1,23 @@
+Subject: Sima
+Content-Type: multipart/related; type="text/html";
+	boundary="Apple-Mail=_29FD6E54-8996-4D1C-AA8B-C9B94BC53AE7"
+X-Apple-Base-Url: x-msg://57/
+X-Universally-Unique-Identifier: DE732874-8200-4D6D-B194-B0754464063C
+X-Apple-Mail-Remote-Attachments: YES
+From: Jordan Kaplan <kaplanj@dnc.org>
+X-Apple-Auto-Saved: 1
+X-Apple-Windows-Friendly: 1
+Date: Mon, 1 Jun 2015 10:14:18 -0400
+X-Apple-Mail-Signature: 
+Message-ID: <140user@domain.com>
+X-Uniform-Type-Identifier: com.apple.mail-draft
+To: "User" <user@domain.com>
+MIME-Version: 1.0
+
+Jordan Kaplan
+National Finance Director
+Democratic National Commi=
+ttee
+(202) 488-5002 (o) | (312) 339-0224 (c)
+user@domain.com
+

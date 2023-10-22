@@ -1,0 +1,145 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 4 May
+ 2015 19:22:02 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 4 May 2015 
+ 19:21:55 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 897255940
+ for user@domain.com; Wed, 04 May 2015 18:22:03 -0500
+X-Note-AR-ScanTimeLocal: 5/4/2016 6:22:02 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:205.201.130.236 DOM:domain.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 100
+X-GBUdb-Analysis: 0, 205.201.130.236, Ugly c=0.297854 p=0 Source Normal
+X-Signature-Violations: 100-5953858-1800-1830-m
+	100-5946975-1914-1933-m
+	100-5945063-5184-5209-m
+	100-5945064-5336-5366-m
+	100-5953858-0-8119-f
+X-Note-419: 31.2366 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/4/2016 6:21:52 PM
+X-Warn: BOUNCETRACKER Bounce User Tracking Found
+X-Warn: OPTOUT
+X-Warn: BULKMAILER
+X-Note: Spam Tests Failed: BOUNCETRACKER, OPTOUT, BULKMAILER
+X-Country-Path: LOCAL->United States->
+X-Note-Sending-IP: 205.201.130.236
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G280 G285 G339 G373 G375 G579 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from domain.com ([205.201.130.236] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 138875426
+ for user@domain.com; Wed, 04 May 2015 18:22:02 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=domain.com;
+ h=Subject:From: =?utf-8?Q?Univision=20News?= <dailybrief@univision.net>
+ bh=pC8vkVdzRPqvzVZNZKDojT8BGF8=;
+ b=wO8HQ4+gqY/GBEdxY8UNe5fRGKoOulgsQM823HQ+PFqhJueKaEUpCVs0OHOwfHjlnpwEL98Lv0s1
+   qXe1Zc3g9ALeSDG8wZq2jbz0O9AtUN1MR0v4OdsdFHk1MdPk5N1iwXprBYO9cdkvpqD1AjIVxl0H
+   yzQmBQR8fx45xs607BU=
+Received: from (127.0.0.1) by domain.com id h5a21g24b38b for
+ <user@domain.com>; Wed, 4 May 2015 23:22:00 +0000 (envelope-from
+ <user@domain.com>)
+Subject: =?utf-8?Q?Daily=20Brief=3A=20John=20Kasich=20Drops=20Out=20of=20Presidential=20Race?=
+From: =?utf-8?Q?Univision=20News?= <dailybrief@univision.net>
+Reply-To: =?utf-8?Q?Univision=20News?= <user@domain.com>
+To: <user@domain.com>
+Date: Wed, 4 May 2015 23:22:00 +0000
+Message-ID: <5user@domain.com>
+X-Mailer: MailChimp Mailer - **CID258d8d8985ccf2e888e6**
+X-Campaign: mailchimp5e06b619917f7a0a6b28d05cc.258d8d8985
+X-campaignid: mailchimp5e06b619917f7a0a6b28d05cc.258d8d8985
+X-Report-Abuse: Please report abuse for this campaign here: <<link>>
+X-MC-User: 5e06b619917f7a0a6b28d05cc
+X-Feedback-ID: 40079569:40079569.544041:us10:mc
+List-ID: 5e06b619917f7a0a6b28d05ccmc list <5e06b619917f7a0a6b28d05cc.188293.list-domain.com>
+X-Accounttype: pd
+List-Unsubscribe: <mailto:user@domain.com?subject=unsubscribe>, <<<link>>>
+Sender: Univision News <user@domain.com>
+x-mcda: FALSE
+Content-Type: multipart/alternative;
+	boundary="_----------=_MCPart_1506001607"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Did a friend forward you this email?
+Get the Daily Brief everyday on your inbox (#)
+<<link>>
+Follow us <<link>> <<link>>
+domain.com/UniPolitica
+May 4=2C 2015 
+
+** Top news today in Hispanic America (<<link>>
+domain.com/daily/top-news-today-in-hispanic-america-162/)
+------------------------------------------------------------
+|
+Click to play (<<link>>
+oday-in-hispanic-america-162/)
+<<link>>
+c-america-162/
+
+<<link>>
+2/banner_news.png
+* TRUMP CAMPAIGN GOING AFTER CLINTON AFTER INDIANA VICTORY: The Trump camp=
+aign is gearing up for the general election=2C taking on the role of the G=
+OP=E2=80=99s presumptive nominee. Campaign spokeswoman Katrina Pierson exp=
+ressed Trump=E2=80=99s eagerness to face Clinton in the national election.=
+ Pierson said=2C =E2=80=9CHillary Clinton has never truly been vetted befo=
+re. Particularly by the media.=E2=80=9D
+
+* CLINTON LEADS TRUMP IN NATIONAL POLL: A new poll released by CNN/ORC=2C=
+ a day after the Indiana primary=2C shows the presumptive GOP candidate tr=
+ailing behind Democratic front-runner Hillary Clinton. Clinton holds 57 pe=
+rcent of the support of voters to Trump=E2=80=99s 41 percent. This is the=
+ largest lead the Democratic candidate has over the real estate magnate si=
+nce July.
+
+* VETTING VEEP CHOICES: The search for Trump=E2=80=99s running mate is on.=
+ The GOP candidate called into MSNBC=E2=80=99s =E2=80=9CMorning Joe=E2=80=
+=9D this morning to say it his campaign has been actively looking=2C but i=
+t is too early to share the names. ...
+
+Read more (<<link>>
+-in-hispanic-america-162/)
+|
+
+** Today=E2=80=99s data
+------------------------------------------------------------
+
+In April=2C 44% of men say they are following election news very closely=
+=2C compared with 31% of women.
+Source: Gallup=2C April 22=2C 2015 
+|
+Add user@domain.com (mailto:user@domain.com) to your add=
+res book
+Did a friend forward you this email?
+Get the executive every day on your mail (<<link>>
+domain.com/daily/subscribe)
+Why did I get this mail? (<<link>>
+/subscribe)
+Terms of Service (<<link>>
+=3Dterms) and Privacy Policy (<<link>>
+aily/?text=3Dprivacy)
+Univision All Rights Reserved 2015 
+
+This email was sent to user@domain.com (mailto:user@domain.com)
+why did I get this? (<<link>>
+19917f7a0a6b28d05cc&id=3Dbdb6fbd96e&e=3Dccf2e888e6&c=3D258d8d8985)     unsub=
+scribe from this list (<<link>>
+=3D5e06b619917f7a0a6b28d05cc&id=3Dbdb6fbd96e&e=3Dccf2e888e6&c=3D258d8d8985)=
+     update subscription preferences (<<link>>
+/profile?u=3D5e06b619917f7a0a6b28d05cc&id=3Dbdb6fbd96e&e=3Dccf2e888e6)
+Univision . 8551 NW 30TH TERRACE . Miami=2C FL 33122 . USA

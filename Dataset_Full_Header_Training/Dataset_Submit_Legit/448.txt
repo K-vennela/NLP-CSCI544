@@ -1,0 +1,51 @@
+From: "eBay" <eBay@reply1.ebay.com>
+To: "User"
+Subject: Enter to win a 2015 Fiat 500 Turbo
+Date: Thu, 16 Oct 2015 20:55:37 -0400
+Message-ID: <0.0.63.1user@domain.com>
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQEChrotIiN5EkIiMxfF2gdINCREZQ==
+Content-Language: en-us
+x-ms-exchange-organization-authas: Internal
+x-ms-exchange-organization-authmechanism: 10
+x-ms-exchange-organization-authsource: domain.com
+x-forefront-antispam-report: CIP:91.194.248.159;CTRY:AT;IPV:NLI;EFV:NLI;SFV:NSPM;SFS:(438002)(505014003)(20324003)(199003)(65504003)(32674003)(32962001)(189002)(2351001)(54356999)(107886001)(47976999)(50986999)(107046002)(15187005004)(77096002)(53416004)(106796001)(106466001)(104066001)(103116003)(229853001)(31966008)(102836001)(33656002)(20776003)(64706001)(956001)(19273905006)(946001)(19580395003)(4396001)(6806004)(146001)(44976005)(19580405001)(71186001)(15974865002)(21056001)(92566001)(15202345003)(92726001)(85852003)(575784001)(84326002)(87836001)(19618635001)(15975445006)(307094003)(567944001)(18926425001)(512874002)(19627405001)(2361001)(76482002)(46102003)(18206015026)(19617315012)(80022003)(104016003)(99396003)(120916001)(85306004)(110136001)(95656003)(110456001)(7059027)(3913001)(15713002)(82556003)(82926001)(579004)(559001)(18926415006);DIR:INB;SFP:;SCL:1;SRVR:BN1AFFO11HUB028;H:domain.com;FPR:;MLV:sfv;PTR:domain.com;A:0;MX:1;LANG:en;
+received-spf: Pass (domain.com: domain of reply1.ebay.com designates 91.194.248.159 as permitted sender) receiver=domain.com; client-ip=91.194.248.159; helo=domain.com;
+authentication-results: spf=pass (sender IP is 91.194.248.159) user@domain.com; 
+x-microsoft-antispam: BCL:3;PCL:0;RULEID:(50001);SRVR:BN1AFFO11HUB028;
+x-eopattributedmessage: 0
+List-Unsubscribe: <<<link>>>
+x-domain.com: domain.com
+dkim-signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=emarsys2007; d=reply1.ebay.com; h=List-Unsubscribe:List-Id:MIME-Version:To:From: "eBay" <eBay@reply1.ebay.com>
+domainkey-signature: a=rsa-sha1; c=nofws; q=dns; s=emarsys2007; d=reply1.ebay.com; b=QUfA2QTsNs0OOO8OlqLF8t+5BCQmvmUVpUz+Xv1Z8Wh0yitwFkiAfK+qNjcwgEFtJ76kL/o7BJVJ   hdEHGa/xarLUYVCD2GZtDybfqv1U/RNiPmdeeaicOLg9N9fBh6UsDh1BfPOk9wlk0Yds4FGzLL1z   qvxtnh2Bhw3V0bTz5fM=;
+list-id: 1301 <eBay>
+x-csa-complaints: user@domain.com
+x-exchange-antispam-report-test: UriScan:;
+x-emarsys-identify: 1301_1779311347061_1780568462658_435ac4II2ec5a6II19e92269542II1
+x-emarsys-environment: e3us
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+Tell us what inspires you for a chance at a Fiat and other prizes. View this message in your browser
+
+No Purchase Necessary. Void in P.R. and where prohibited.  The Sweepstakes begins at 9:00:00AM Pacific Time (PT) on October 13, 2015 and ends at 11:59:59PM PT on November 9, 2015 (the "Promotion Period"). Open to legal residents of the fifty (50) United States and the District of Columbia who are 18 years of age and older, who are physically located and reside in the United States or District of Columbia, and who are registered members of domain.com in good standing at the time of participation ("Eligible Participant").  See Official Rules for details.  Sponsor:  eBay, Inc., 2015 Hamilton Avenue, San Jose, CA  95125.
+
+Learn more to protect yourself from spoof (fake) e-mails.
+
+
+
+						eBay Inc. sent this e-mail to you at user@domain.com because your Notification Preferences indicate that you want to receive general email promotions.
+
+
+
+						If you do not wish to receive further communications like this, please click here to unsubscribe. Alternatively, you can change your Notification Preferences in My eBay by clicking here. Please note that it may take up to 10 days to process your request.
+
+
+
+						domain.com our Privacy Policy and User Agreement if you have any questions.
+
+
+
+						Copyright © 2015 eBay Inc. All Rights Reserved. Designated trademarks and brands are the property of their respective owners. eBay and the eBay logo are trademarks of eBay Inc. 2145 Hamilton Avenue, San Jose, CA 95125.
+

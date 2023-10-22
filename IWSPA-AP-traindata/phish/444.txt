@@ -1,0 +1,11 @@
+You have received a secure message
+Read your secure message by opening the attachment, SecureMessage_B0LONSHYW3A5E7S.zip.
+The attached file contains the encrypted message that you have received.
+To decrypt the message use the following password -  SUgDu07dn
+To read the encrypted message, complete the following steps:
+-  Double-click the encrypted message file attachment to download the file to your computer.
+-  Select whether to open the file or save it to your hard drive. Opening the file displays the attachment in a new browser window.
+-  The message is password-protected, enter your password to open it.
+To access from a mobile device, forward this message to user@domain.com to receive a mobile login URL.
+If you have concerns about the validity of this message, please contact the sender directly. For questions about secure e-mail encryption service, please contact technical support at 888.311.5701.
+2000-2013 Fiserv Secure Systems, Inc. All rights reserved.

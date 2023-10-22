@@ -1,0 +1,13 @@
+Dear User,
+Your access to your library account has expired and it won’t be accessible for you. You must reactivate your account in order to continue to have access to this service. For this purpose, enter the following address in your web browser's address bar and sign in with your account. After logging in, your access is reactivated and you will be redirected to your library account.
+Login Page:
+<<link>>,GuestID&ReturnURL=<<link>>! ll.edu/rhel5x64bs-40/2.2.3&VerS=Apache/2.2.3%20%28Red%20Hat%29%2020140603-2359&VerO=Linux%20victoria03.library.cornell.edu%202.6.18-371.6.1.el5%20%231%20SMP%20Tue%20Feb%2018%2011:42:11%20EST%202014%20x86_64%20x86_64%20x86_64%20GNU/Linux%20Red%20Hat%20Enterprise%20Linux%20Server%20release%205.10%20%20Tikanga%20&Accept=K2&WANow=1401889528&WAK2Flags=0&WAK2Age=600&WAreason=1
+If you are not able to login, please contact Library Assistant at user@domain.com.
+Sincerely,
+Sara Jones
+Library Assistant
+Access and Delivery Services
+Cornell University Library
+201 Olin Library; Ithaca, NY 14853-5301
+Phone: (607) 255-3358
+Email: user@domain.com

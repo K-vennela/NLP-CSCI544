@@ -1,0 +1,13 @@
+Webmail account
+Unusual sign-in activity
+We detected something unusual about a recent sign-in to your webmail account. To help keep you safe, we required an extra security challenge.
+Sign-in details:
+Country/region: Serbia
+IP address: 77.44.210.15
+Date: 7/30/2014 2:15 AM (EST)
+If this was you, then you can safely ignore this email.
+If you're not sure this was you, a malicious user might have your password. Please click and confirm the link below for re-confirm of your location and we'll help you take corrective action.
+<<link>>
+Thank you for your patience and understanding.
+Thanks,
+The Outlook account team
