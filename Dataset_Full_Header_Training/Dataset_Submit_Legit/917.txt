@@ -1,0 +1,44 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from [192.168.1.186] (unknown [192.168.1.186])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mail.hackingteam.it (Postfix) with ESMTPSA id 74CCC2BC004;
+	Wed,  8 Aug 2015 09:16:27 +0200 (CEST)
+Message-ID: <5022124user@domain.com>
+Date: Wed, 8 Aug 2015 09:16:27 +0200
+From: Antonio Mazzeo <a.mazzeo@hackingteam.it>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:14.0) Gecko/20120713 Thunderbird/14.0
+To: Antonio Mazzeo <user@domain.com>, 
+ Valeriano Bedeschi <user@domain.com>
+Subject: cal nuovo server
+X-Enigmail-Version: 1.4.3
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2017778295_-_-"
+
+BlackBerry Enterprise Server Express for Microsoft Exchange
+
+Quantity: 1
+Number 1 of 1
+SRP ID: S83156375
+SRP Authentication Key: pkwc-r2jq-a4r4-ua9z-fydt-nwin-zke4-dujc-2485-pzza
+CAL ID: C0014753252
+CAL Authentication Key: besexp-zfnttb-gbnq0w-98vmkb-t100z8
+
+-- 
+Antonio Mazzeo
+Senior Security Engineer
+
+HT srl
+Via Moscova, 13 I-20121 Milan, Italy
+WWW.HACKINGTEAM.IT
+Phone +39 02 29060603
+Fax. +39 02 63118946
+Mobile: +39 3311863741
+
+This message is a PRIVATE communication. This message contains privileged and confidential information intended only for the use of the addressee(s).
+If you are not the intended recipient, you are hereby notified that any dissemination, disclosure, copying, distribution or use of the information contained in this message is strictly prohibited. If you received this email in error or without authorization, please notify the sender of the delivery error by replying to this message, and then delete it from your system.
+

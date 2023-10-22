@@ -1,0 +1,25 @@
+Thanks alot Keith,
+Your comments and suggestions sound good on all counts.
+Clearly there is one overiding thing to make sure of here: that
+we have the right version of your series. I *think* that we do,
+and you might have been looking at an old version of the comparison
+Figure??
+Please check out the data here ASAP:
+ftp://eclogite.geo.umass.edu/pub/mann/IPCC/MILLENNIUM/
+This directory has all the series, aligned as I described to have
+a 1961-90 base climatology (or in the case of your series, a pseudo
+1961-90 base climatology achieved by actually matching the mean of your
+series and the instrumental record over the interval 1931-60 interval).
+These are the data that Ian Macadam is hopefully presently plotting up,
+and I don't think the discrepancies between the different series are
+as bad as we percieved earlier (other than the late 19th century where
+you are somewhat on the warm side relative to the rest). Please confirm
+ASAP that we have the right version of the series (note, these have all
+been 40 year lowpassed)...
+One other thing, I think you misinterpreted my statement:
+I wasn't talking about the comparison of our two series! I was talking
+about our two different opinions on how confident we are about our ability,
+as a community, to assess the actual climate changes over this timeframe.
+And perhaps we're closer here than I assumed anyways. Sorry about the
+misunderstanding. With your interpretation, my comment must I have sounded
+really obnoxious!

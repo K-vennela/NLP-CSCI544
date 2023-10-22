@@ -1,0 +1,50 @@
+<x-flowed>
+Hi Ed,
+Just to reiterate one more key point---Superimposing the two series and 
+their uncertainties is not the whole story (although it is a definite 
+improvement over just showing the two reconstructions on top of each other 
+w/ know assessment of uncertainty). However, doing the above still only 
+poses the question:
+apple +/- [uncertainty in apple]  =?  orange +/- [uncertainty in orange]
+As we discussed in a previous email exchange (based on the correlations you 
+calculated between instrumental series w/ the trend removed) ,  the two 
+reconstructions should probably only share about 60% or so variance in 
+common in the best case scenario, where there is no uncertainty at all, 
+owing simply to the differing target regions/season...
+So we need to be very careful w/ the following statement which you made in 
+your previous email:
+"If so, this would not mean that the series are not significantly different 
+from each
+other. One can't dismiss the highly systematic differences at
+multi-centennial timescales quite so easily."
+I'm not sure you can justify that statement based on sound statistical 
+reasoning!
+I agree w/ your following statement "Why these differences are there is the 
+crux question."
+However,I hope the discussion will accurately reflect the fact that the 
+leading hypotheses to be rejected in answering that question are 1) random 
+uncertainty in the two series owing to differing data quality and sampling, 
+etc. can explain the difference  and 2)  systematic differences owing to 
+differing target region and seasonality can explain any residual 
+differences after (1).
+That may be a tough standard to beat, but it *is* the approach that Tom, 
+Phil, Keith, and I have all been taking in addressing the issue of whether 
+our different reconstructions are or are not inconsistent and the 
+conclusion has in general been (see e.g. IPCC which was really a consensus 
+of many of us, though admittedly only I was a lead author) that, despite 
+notable differences in the low-frequency variability, the different 
+reconstructions probably cannot be considered inconsistent given the 
+uncertainties and differences in seasonality/spatial sampling. I have a 
+hard time understanding why the same standard should not be applied to 
+comparisons w/ your current reconstruction?
+Does your RCS reconstruction really not fall in the mix of all the other 
+reconstructions? Is it truly an outlier w/ respect to Phil's, Tom's, MBH, 
+and other existing N. hem reconstructions that are based on different 
+seasonality and regional sampling???
+We've probably had enough discussion now on this point, so I'll leave it to 
+you to discuss the results in the way you see most fit, but I really hope 
+you take the above points into account, in fairness to the previous work...
+I look forward to seeing the final manuscript in one form or another, in 
+any case,
+cheers,
+mike

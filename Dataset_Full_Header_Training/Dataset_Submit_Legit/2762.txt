@@ -1,0 +1,137 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 26 Apr
+ 2015 21:11:32 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 26 Apr 2015 
+ 21:11:27 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 881819277
+ for user@domain.com; Tue, 26 Apr 2015 20:11:33 -0500
+X-Note-AR-ScanTimeLocal: 4/26/2016 8:11:31 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:167.89.16.17 DOM:maillist.prochoiceamerica.org ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-135/SG:5 4/26/2016 8:10:40 PM
+X-GBUdb-Analysis: 0, 167.89.16.17, Ugly c=0.635348 p=-0.634454 Source Normal
+X-Signature-Violations: 0-0-0-16466-c
+X-Note-419: 31.2483 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 4/26/2016 8:11:24 PM
+X-Warn: BOUNCETRACKER Bounce User Tracking Found
+X-Warn: WEBBUG
+X-Warn: OPTOUT
+X-Warn: WEIGHT10
+X-Note: Spam Tests Failed: BOUNCETRACKER, WEBBUG, OPTOUT, WEIGHT10
+X-Country-Path: United States->->United States->
+X-Note-Sending-IP: 167.89.16.17
+X-Note-Reverse-DNS: o1678916x17.outbound-domain.com
+X-Note-Return-Path: bounces+2331581-user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G339 G375 G397 G398 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from o1678916x17.outbound-domain.com ([167.89.16.17]
+ verified)  by domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS
+ id 137322780 for user@domain.com; Tue, 26 Apr 2015 20:11:31 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=prochoiceamerica.org; 
+	h=mime-version:subject:From: Kaylie Hanson <khanson@prochoiceamerica.org>
+	s=s1; bh=iUCi5KkvASy8qie7NsiU7rMHun0=; b=PINn1x0CSvHOMJNNpnDUUdY
+	aGXaJjqTCIfHVy0itQdmapWzx4zW5jsgo/uP8jJSFIrgRd9R03PO9TlMz9IPOUCN
+	+aLKGKAhJfMM0zAyQ3bGwIeWnbMjysdT2M34/gcsQ5ULoDtSMLUpPKyEtDvOU4gH
+	NRXvbi5wBzA0lZDpQdK8=
+Received: by domain.com with SMTP id
+ filter0443p1mdw1.9503.5720119E7        2016-04-27 01:10:54.134367276 +0000
+ UTC
+Received: from domain.com (67.108.121.52.domain.com
+ [67.108.121.52])	by domain.com (SG) with ESMTP id
+ gsxELinpSlm91NDH2FZVuw	for <user@domain.com>; Wed, 27 Apr 2015 01:10:54.057
+ +0000 (UTC)
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=1e100.net; s=20130820;
+ h=x-gm-message-state:mime-version:date:message-id:subject:From: Kaylie Hanson <khanson@prochoiceamerica.org>
+ bh=BAaxcdOQJO+9fidHHJNF+4PWXWz+wESPYO9Ep2IoJts=;
+ b=BqqXBEtei1q8josp7UZkmMVM2+AeRqfa7XyUmySqYIThwkoE8GWfpOLcvr8DAuH1Z8
+ Ix6UX/zpK3B9D5R8zAB3J4FlAM6ryB7VArAiT9TkjFalQu5IMW9ocSIiD4t0iKpvQzaf
+ eaGZ6A6tHwTRU8GIj8MEw7ABCePyz5Y8fTgpSXUZCiyQa2ZXdmNN6oQcj36wCc6BvQBb
+ E+0YMKpumed3D4C952dqgUjBwqZ/c06wTRpZn/wXU/ubaidQHlYf4pmkEc6yBH05yNaB
+ OVDObNGb70UCIPk0O6Ju7oedGMaHiaRUois3woRwipJ/ODNwExgNIT/zvt4vcnDXV5JN
+ h8pQ==
+X-Gm-Message-State: AOPr4FX0qErnNOmrIFNNJJqN4YAOO8XcX3BqXKuzwWLpjP1vpmzUFvrI2Zf3tBsIkSc0peE/55NnVjhDzT9EDxHVVI0=
+X-Received: by 10.176.4.133 with SMTP id 5mr2870910uaw.19.1461719383430; Tue,
+ 26 Apr 2015 18:09:43 -0700 (PDT)
+Date: Tue, 26 Apr 2015 21:09:42 -0400
+Message-ID: <CAK86cfj6or6nFKp30xkSXb_wo3334aAaGiOVVAyEg+user@domain.com>
+Subject: NARAL: "Hillary Knows Women Make America Great Again and Again"
+From: Kaylie Hanson <khanson@prochoiceamerica.org>
+Content-Type: multipart/alternative; boundary="94eb2c1259be9c8a1505316d1059"
+X-BeenThere: user@domain.com
+X-Mailman-Version: 2.1.16
+Precedence: list
+List-Id: <friends.mailman.prochoiceamerica.org>
+List-Unsubscribe: <<<link>>>, <mailto:user@domain.com?subject=<<link>>*q*upn=xUQ3jCNra69WclajdKWNZXvi-2B5CvD0xij2hIwhOMJl702OYPjGvmJE6Cw0BfIxXhgl6tQi-2BVXFlBd9FBmbsMQX8zdqUZlQ8ELXCEF4a8OBBbhXKEsbWdRM03kZmUyH2kwPpF2PHLq-2B50fLWNqo0jwWnZPNk5VFt-2BUHGKJvlfvbwh-2F3-2BkyvLAREq-2BCLgjcIfcpW50RQmBxtFNuXtUYTupAg-3D-3D>
+List-Archive: <<<link>>>
+List-Post: <mailto:user@domain.com>
+List-Help: <mailto:user@domain.com?subject=help>
+List-Subscribe: <<<link>>>,
+ <mailto:user@domain.com?subject=subscribe>
+To: <user@domain.com>
+Errors-To: user@domain.com
+X-SG-EID: /qskMPcwxb1VaCv1PswYfL3cIKK16+tE+dB/q/CjBM3ue8MrmVxL2hHWqmz94It46EerDTv9i6Kepd
+ IKSkL1DevIW/VyhCPwH5wFVT8qyUfGPCyZSeh3sl3FoUp3c2a0Jssl2/KBEnSdeYyu1VDEdC3RnXCJ
+ C9AeSC6q70c+U12Yjw99HV5Q8yIsVj4ZxHlnPcxvxW8EuxZftEBLXtCKvbfMWio0udfEpkNkBxwYQc
+ E=
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+*For Immediate Release*: April 26, 2015 
+*Contact*: Kaylie Hanson, user@domain.com
+
+*NARAL: Hillary Knows Women Make America Great Again and Again*
+
+NARAL Pro-Choice America President Ilyse Hogue issued the following
+statement in support of Hillary Clinton after her victories in tonight's
+Democratic primaries:
+
+*"The Democratic primary has only one champion for reproductive freedom,
+and tonight, that champion all but secured the Democratic nomination for
+president of the United States. We could not be more proud of Hillary
+Clinton for standing** strong as a feminist
+<<<link>>> and a reproductive
+freedom champion
+<<<link>>>who
+understands
+and will address the crisis of abortion access in this country. She is the
+only candidate for the White House who will truly stand up against the
+anti-choice politicians and their funders who advocate for punishing a
+woman if she chooses to have an abortion, punishing doctors who provide
+abortion care, or punishing individuals and entities that work with
+abortion providers. *
+
+*"Contrast that record with Donald Trump's - the likely GOP presidential
+nominee - misogynistic worldview and the choice couldn't be more clear for
+voters in this election. Hillary Clinton spreads love and kindness
+<<<link>>>. She knows we are stronger
+united than divided. And she knows women make America great again and
+again. We're with her."*
+
+*NARAL Pro-Choice America and its network of state affiliates are dedicated
+to protecting and expanding reproductive freedom for all Americans. NARAL
+works to guarantee that every woman has the right to make personal
+decisions regarding the full range of reproductive choices, including
+preventing unintended pregnancy, bearing healthy children, and choosing
+legal abortion. In recognition of its work defending our constitutional
+right to choose, Fortune Magazine described NARAL as "one of the top 10
+advocacy groups in America."*
+
+*###*
+To no longer receive news updates click here: <<link>>

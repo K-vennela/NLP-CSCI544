@@ -1,0 +1,91 @@
+From: "Apple" <noreply@insideicloud.icloud.com>
+To: "User"
+Subject: Your Apple ID was used to sign in to iMessage on a MacBook Air 11".
+Date: Thu, 7 Aug 2015 15:57:52 -0400
+Message-ID: <1558491835.40401191407441472305.user@domain.com>
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQKOlt2y/2+Ga93UwpTIgwiIq/WJRA==
+Content-Language: en-us
+x-ms-exchange-organization-authsource: domain.com
+x-ms-exchange-organization-authas: Internal
+x-ms-exchange-organization-authmechanism: 10
+dkim-signature: v=1; a=rsa-sha1; d=insideicloud.icloud.com; s=insideicloud2048; c=relaxed/relaxed;	q=dns/txt; user@domain.com; t=1407441472;	h=From: "Apple" <noreply@insideicloud.icloud.com>
+x-forefront-antispam-report: CIP:17.151.1.68;CTRY:US;IPV:NLI;EFV:NLI;SFV:NSPM;SFS:(438002)(377454003)(199002)(189002)(50986999)(46102001)(102836001)(54356999)(92726001)(84326002)(575854001)(6806004)(99396002)(15202345003)(76482001)(19580395003)(551544002)(85852003)(15975445006)(44976005)(83322001)(19580405001)(86816001)(87836001)(83072002)(74662001)(307094003)(53416004)(95666004)(2351001)(25786005)(19617315012)(956001)(16236675004)(85306004)(77096002)(77982001)(229853001)(4396001)(2361001)(79102001)(71186001)(74502001)(110136001)(81342001)(81542001)(64706001)(31966008)(18206015026)(92566001)(110456001)(106466001)(106796001)(20776003)(80022001)(107046002)(21056001)(107886001)(85226002)(19622755008);DIR:INB;SFP:;SCL:1;SRVR:BN1BFFO11HUB019;H:nwk-txn-domain.com;FPR:;MLV:sfv;PTR:nwk-txn-domain.com;A:0;MX:1;LANG:en;
+received-spf: Pass (: domain of insideicloud.icloud.com designates 17.151.1.68 as permitted sender) receiver=; client-ip=17.151.1.68; helo=nwk-txn-domain.com;
+authentication-results: spf=pass (sender IP is 17.151.1.68) user@domain.com; 
+x-eopattributedmessage: 0
+x-microsoft-antispam: BCL:3;PCL:0;RULEID:(50001)
+x-dkim_sign_required: YES
+x-sent-to: user@domain.com,2,k%2BmjWPCFEH1m5ry2zndhAi%2BUAjhokWPRuCArgZLWLu0QqJe4bznMnmV6pl32Qm4wge8SldXp36AksA3K%2BQbGp3wm74UZeQEb%2BEilFyUBBjeWI4JaqUebBbzR7XAMnABQQqKvuJPBZeKVCQ5poHc1jS%2FLEbxcAb5P4lbPNocfCWsvq845hkmta5RVT4OL9D7tKOr55nNkbXe8EIRBYtmWqIoDRlquZLWEyioxz7wJcXR62Gsc0l2fa06QT0W7m3iE64RFneZI0yLevnD9lvxXGFAB8K5Sd6qs1Xpl7Ha51B1p1BZCDmfuyvFrIeSOj9EDNmWC7fpiMiK3rEzUuPCLWIe0poow1kw1gDpSt1KdX7U%3D
+x-emailtype-id: 763321
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+                              Dear Amy Pascal,
+
+
+
+                              Your Apple ID (user@domain.com) was used to sign in to iMessage on a MacBook Air 11" named “Anthony’s MacBook Air”.
+
+
+
+                                Date and Time:
+
+
+
+                                    August 7, 2014, 12:47 PM PDT
+
+
+
+                                          Operating System:
+
+
+
+                                              Mac OS X,10.9.4,13E28
+
+
+
+                                    If you recently signed in to this device, you can disregard this email.
+
+
+
+                              If you have not recently signed in to a MacBook Air with your Apple ID and believe someone may have accessed your account, you should reset your password at My Apple ID.
+
+                                Sincerely,
+
+
+
+                                  Apple Support
+
+
+
+                                My Apple ID
+
+
+
+ |  
+
+
+
+                              Support
+
+
+
+ | 
+
+
+
+                          Privacy Policy
+
+
+
+                          Copyright © 2014 
+
+
+
+                          Apple Inc. 1 Infinite Loop, Cupertino, CA 95014, United States.
+
+                          All rights reserved.
+
+

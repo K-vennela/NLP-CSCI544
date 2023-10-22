@@ -1,0 +1,109 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Mon, 2 May
+ 2015 18:46:46 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Mon, 2 May 2015 
+ 18:46:43 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 892348510;
+ Mon, 02 May 2015 17:46:47 -0500
+X-Note-AR-ScanTimeLocal: 5/2/2016 5:46:47 PM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @politico.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: UNKNOWN->->United States->
+X-Note-Sending-IP: 157.56.111.130
+X-Note-Reverse-DNS: mail-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from [157.56.111.130] (HELO
+ na01-bn1-domain.com)  by domain.com
+ (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 136613463; Mon, 02 May 2015 
+ 17:46:47 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=domain.com; s=selector1-politico-com;
+ h=From: Ken Vogel <kvogel@politico.com>
+ bh=Rgkp/GcalYM+cJI/yj+ItPVK5DN3y1Q9NmjBOcvNKXw=;
+ b=GAvK8VxQp+/p9SlXH9GKpGDcv5lHgtDf6s55WhumK6/z2cAs7h2NCETi6ZnxGQrnR5L92Byo87IVqoLtw5GMYQfmXTApHOosyIi9XEi6Pdot5RQ4dmFQ3P0PldOHI3nmDQMGGk8q6bcN9pd/mw0JcI02G+gzwACFpJHjpLo+lkM=
+Received: from domain.com (10.242.233.23) by
+ domain.com (10.242.233.14) with Microsoft SMTP Server
+ (TLS) id 15.1.477.8; Mon, 2 May 2015 22:46:43 +0000
+Received: from domain.com ([169.254.11.21]) by
+ domain.com ([169.254.11.21]) with mapi id
+ 15.01.0477.014; Mon, 2 May 2015 22:46:42 +0000
+From: Ken Vogel <kvogel@politico.com>
+To: "User" <user@domain.com>
+CC: "Paustenbach, Mark" <user@domain.com>
+Subject: RE: Following up...
+Thread-Topic: Following up...
+Thread-Index: AdGkw7jQ0ojrk47TR72x1sKJvfz/8wAAMBGg
+Date: Mon, 2 May 2015 22:46:42 +0000
+Message-ID: <user@domain.com>
+References: <05user@domain.com>
+In-Reply-To: <05user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+authentication-results: domain.com; dkim=none (message not signed)
+ header.d=none;domain.com; dmarc=none action=none header.from=politico.com;
+x-originating-ip: [216.250.232.21]
+x-ms-office365-filtering-correlation-id: 74b6e6bd-2fdc-4c23-4041-08d372dba1f3
+x-microsoft-exchange-diagnostics: 1;BY2PR01MB219;5:k8CUq1Lj2IZ5cOgQ3dpgJBBpplA8quImPcRYmJZ0gO47FvY4Tl/GhHo9X7vXtA7RG50zywP2pPeNrfiyyPDTh6550vlXkFtLQf0C0yioqEfe4+KJlG1bllBoYJkYnKqYkHSgtdpGJrZxk73NmlpWkA==;24:XxI2jleuCaVnV0eukcPthOelDk8PMoOHcYJDTZo4zqq6C4GCkwNy9glFEA6n0PxZGyhPPhkRrO/4iRT040wzPz9pSgxxfsmX8cljJlhqvV0=;7:5EueAZvFKFnBQKrBB2VuQh1naZDPt84pD4lJ6qz2N80pkuq+O/zu9h+bj6+Bb1Uu5tP1TPkYBEASkGOKkZPDiaI8sbgMbbZiI0z7yeRI3kmU22TwArjYaNaUf90/oB8Mu5LIAJMXJ+CAEUc+LVNXn0055dXqqwrgzWxo6KHKxSk6ayGPIENiZE7J7EO1Lmud
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:;SRVR:BY2PR01MB219;
+x-microsoft-antispam-prvs: <user@domain.com>
+x-exchange-antispam-report-test: UriScan:;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(102415293)(102615271)(9101521096)(2401047)(8121501046)(5005006)(3002001)(10201501046);SRVR:BY2PR01MB219;BCL:0;PCL:0;RULEID:;SRVR:BY2PR01MB219;
+x-forefront-prvs: 0930AAFAD9
+x-forefront-antispam-report: SFV:NSPM;SFS:(10019020)(70372002)(377454003)(19627595001)(3480700004)(19609705001)(102836003)(19580405001)(10400500002)(19617315012)(19618635001)(74316001)(5008740100001)(99936001)(5002640100001)(2950100001)(5003600100002)(586003)(19580395003)(9686002)(3846002)(2900100001)(189998001)(15975445007)(5004730100002)(110136002)(19300405004)(87936001)(16236675004)(50986999)(33656002)(3660700001)(86362001)(1220700001)(17760045003)(19625215002)(450100001)(345774005)(76176999)(66066001)(6116002)(81166005)(4326007)(122556002)(2906002)(54356999)(18206015028)(3280700002)(92566002)(7099028);DIR:OUT;SFP:1102;SCL:1;SRVR:BY2PR01MB219;H:domain.com;FPR:;SPF:None;MLV:sfv;LANG:en;
+spamdiagnosticoutput: 1:23
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/related;
+	boundary="_004_BY2PR01MB220F137139997F9AD47B730A2790BY2PR01MB220prodex_";
+	type="multipart/alternative"
+X-MS-Exchange-CrossTenant-originalarrivaltime: 02 May 2015 22:46:42.8757
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 289fd7f4-d65a-4553-a6f1-4ca55e7bddc9
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BY2PR01MB219
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Thank you for this, and for your call.
+
+From: Ken Vogel <kvogel@politico.com>
+Sent: Monday, May 02, 2015 6:41 PM
+To: Ken Vogel <user@domain.com>
+Cc: Paustenbach, Mark <user@domain.com>
+Subject: Following up...
+
+Hi Ken, good talking with you. Here's a quote you can attribute to me if yo=
+u do have any follow up:
+
+The suggestion there's anything unusual about our joint victory funds has n=
+o basis in the law or reality, as recognized by numerous independent expert=
+s that have looked at this. The fact is both campaigns signed on to similar=
+ agreements. While only one campaign is currently using their joint victory=
+ fund we encourage both of our campaigns to identify opportunities to suppo=
+rt the national and state Democratic parties now so that we can continue to=
+ build the infrastructure to help elect Democrats up and down the ballot in=
+ November.
+
+[SigDems]<<<link>>>User, Communications Director
+Organization
+202-863-8148 - user@domain.com<mailto:user@domain.com> - User<http=
+s://domain.com/MiraUserDC>
+

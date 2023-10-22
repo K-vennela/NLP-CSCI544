@@ -1,0 +1,451 @@
+COMMENTS ON CH. 13 (SCENARIOS) FROM TOM WIGLEY
+(Page and line numbers are from the May 14 zero order draft.)
+*****************************************************************
+Dear contributors to Ch. 13,
+Here are my comments on your chapter. I think you all know me
+well enough that you will not be offended by my occasional
+bluntness. The chapter needs a lot of work (not surprisingly),
+but it has at least touched most of the bases. It suffers from
+a lack of overview perspective, making the detail hard to wade
+through. I was disturbed by the lack of credit given to
+MAGICC/SCENGEN, since this software already addresses many of the
+key issues that arise in scenario development.
+Apologies for not proof reading this. By the time I got to the
+end of typing it, I'd had enough.
+*****************************************************************
+Page 3 (lines 86-89) : Critically, this information doesn't give
+a full assessment of uncertainties.
+3 (110-115) : Sentence too long.
+3 (117)     : State 'illuminate uncertainty' earlier, since this
+is a primary purpose of, e.g., MAGICC/SCENGEN.
+3 (118)     : 'indeterminate' is far too strong.
+4 (124-125) : Not clear.
+4 (155)     : What is 'integrated assessment'? Define and/or
+explain earlier.
+5 (170)     : Clumsy grammar.
+5 (171-172) : Silly! Scenarios per se do not have ANY uncertainty
+associated with them, by definition. They are, however, a very
+(if not the most) useful tool for assessing and quantifying
+uncertainties. For example, a primary purpose of MAGICC/SCENGEN
+is to quantify uncertainties. Major text revision is needed to
+clarify this point.
+Part of the problem here is that the boundary between scenarios
+and predictions/projections is indistinct (as is the distinction
+between predictions and projections -- this too needs to be
+clarified). One could argue that 'scenarios' developed using
+MAGICC/SCENGEN are actually better predictions of some aspects
+of future climate change than any O/AGCM results. Certainly,
+'scenarios' based on scaling are much more than just scenarios
+as defined here -- they are true predictions, based on some
+assumed scenario (this is the correct word here!) for future
+emissions.
+Substantial work is required to the present text to clarify
+these issues -- they are the crux of the matter.
+5 (178-179)  : Note earlier that scenarios (a word I will continue
+to use even though it may be inappropriate in many cases)
+usually define CHANGES in climate. They are not, in these
+cases, 'scenarios', but 'scenarios of change'. Strict (i.e.,
+absolute) scenarios are then constructed from them by adding
+the changes to a baseline climatology. This needs to be
+explained up front.
+5 (187)      : Delete '(and art)'. This is a derogatory term, likely
+to be misinterpreted/misrepresented.
+6 (220)      : Comma after 'scenarios'. The text contains many
+stylistic and grammatical errors (the most common being the
+failure to isolate parenthetical clauses). I will assume that
+someone with a better grasp of grammar will catch all these
+at some stage, so I will not comment further on them.
+6 (225+)     : A critical item missed here is inter-variable
+consistency. Later, consistency between climate and CO2 is
+mentioned; but there is no mention of consistency between, e.g.,
+temperature and precipitation, etc. This is a major issue!
+7 (257)      : Instrumentally-based analogue scenarios were first
+introduced by Wigley et al. (Nature, 1979). Credit should be
+given. Also, the USDOE 'State of the Art (sic)' reports (1985)
+and the Bolin et al. SCOPE report (1986) both review this and 
+other methods. This reviews should be cited.
+7 (267-268)  : What does 'extrapolating ...' mean?
+7 (296)      : Wigley et al. (1979) should also be cited here.
+8 (306)      : Nevertheless, they may do a better job of getting the
+inter-variable correlations 'right' than GCMs!
+8 (315)      : Delete 'questionable'. This word is entirely unnecessary
+here. More importantly, the authors need to be more careful in
+their choice of words, since there are many critics out there who
+will be looking for things that can be taken out of context,
+misinterpreted, or misrepresented.
+8 (344-345)  : Control run? So what? This is only relevant if the
+control is used in scenario development. This raises the issue
+of 'Definition 1' versus 'Definition 2' for defining climate
+change (a terminology introduced by Santer et al., 1994, JGR).
+(Later, this difference is attributed to Cubasch et al., but
+it was first clearly enuncited by Santer et al.) The difference
+is whether or not one subtracts the control from the perturbed
+result. More needs to be said about this. It is often assumed
+that subtracting the control will remove any spurious drift in
+the perturation experiment. This, of course, is clearly wishful
+thinking, both a priori, and as shown by Raper and Cubasch (1996).
+Basically, there is no way to reliably remove drift in a 
+perturbation experiment; which makes it all the more important
+to have drift-free models. Flux adjustments do not necessarily
+remove drift -- just look at some of the ECHAM control-run
+results. There are some very important issues here, central to 
+the use of O/AGCMs in scenario generation. They need better
+coverage. More is said later, but this is still inadequate.
+9 (357)      : Yes, they can be different, but so what? The issue is
+whether the differences are statistically significant. To my
+knowledge, no one has addressed this issue properly.
+9 (358)      : I'm sure (at least I hope) you don't mean 'observed'.
+The issue is the difference between the equilibrium PATTERNS
+of change and the MODELLED (NOT 'observed') transient patterns
+of change.
+9 (to 361)   : You've missed the most inportant point! The advantage
+of an equilibrium result over an O/AGCM result is that the
+former is pure signal.
+9 (to 376)   : The Definition 1 versus Definition 2 issue is relevant
+here.
+9 (379)      : Please don't propogate garbage. The issue here is
+natural internally generated variability. There is no need for
+such variability to be chaotic, so you should eschew use of
+this word.
+9 (to 387)   : I presume here that you are talking about O/AGCMs.
+You should not use just 'GCM' -- you must be specific. Also,
+you've missed some vital points: the natural internal variability
+problem (i.e., output is signal plus noise -- noted elsewhere,
+but must be stated here); and the model-specific natureof the
+climate sensitivity.
+10(399)      : Please give credit to the first work on this (Santer
+et al., 1990). I should point out that this was actually my
+idea.
+10(404-406)  : Totally unclear.
+10(420-421)  : Poor wording. Should be '.. to which changes are added'.
+10(423)      : Delete 'appropriate'.
+10(429)      : Insert 'based' after 'period'.
+10(431)      : 'weather generators' comes as a non sequitur here. In
+any event, you haven't said what they are!
+10(435-437)  : So what? The issue is what period one is measuring the 
+impacts from. In most cases it will be some nominal 'present-day',
+so the baseline climatology must refer to the same period. 
+Whether or not the period has some sulphate effect in it is
+utterly irrelevant.
+10(437-438)  : What garbage. See above.
+11(448-450)  : More garbage -- think about it! The reason 1990 is
+not so useful as a reference 'period' is because the impacts
+variable is probably not adequately definable over a single
+year. You have really messed up this issue.
+11(460)      : Yet more garbage! Given what I have tried to explain
+above, it is ludicrous to consider daily data as part of the
+baseline climatology. The impacts variable may require daily data 
+from a baseline period in order to define ITS reference level 
+(but probably not), but this is NOT the same thing. Either all
+this is very badly worded, or you don't know what your doing.
+11(468)      : No!! Think about it!
+11(470)      : No!! This is NOT the reason.
+11(473)      : No!! Not 'observed' (which is past or present), but
+FUTURE data.
+11(482-483)  : Duplication.
+12(to 492)   : This is a very confused paragraph.
+12(497-499)  : Wrong. For upper air, their is a major paper by Santer
+et al. (JGR, 1999), which also touches on some surface issues.
+There are also a number of papers by Trenberth that are relevant.
+12(507)      : Again, introduction of an undefined term/concept
+(downscaling).
+12(510)      : At last, mention of changes. Sadly, it is inappropriate
+here, since this is NOT the reason.
+12(514)      : Why should this Figure be here?
+12(518)      : Wrong. As a scenario, this could be justified. You are
+confusing scenario (as you have defined it, which I have already
+criticized) with prediction/projection.
+12(521)      : See above.
+12(525-527)  : This is the Def. 1 vs Def. 2 issue. However, you have
+the history and motivation wrong.
+12(527-531)  : Wrong. This issue has nothing to do with cold start vs
+warm start; it is to get over the drift problem (which it fails
+to do).
+12(537)      : Not 'especially'; mor appropriate may be 'but only'.
+13(543)      : 'were'; grammar!
+13(543-545)  : Not clear.
+13(552-553)  : Not clear.
+13(579-581)  : So what? Given your definition of scenario, this 
+doesn't matter.
+14(594)      : Why use 'perceived'?
+14(604)      : This issue was first raised by Kim et al. (1987?).
+It was first addressed in a credible manner by Wigley et al. 
+(1990).
+14(606)      : 'appending' is a ridiculous word to use. Try 'adding'.
+14(608)      : 'often' to 'usually'.
+14(613)      : 'appended' to 'added'.
+14(616)      : 'appended' to 'added'.
+14(617)      : 'appended' to 'added'.
+14(627,628)  : Please cite the key initial papers by Kim et al. and
+Wigley et al.
+15(635,636)  : Clumsy sentence.
+15(638)      : Isn't the word 'physical' usually used? The process
+does not just involve dynamics.
+15(642-648)  : Mention of 1-way vs 2-way nesting needed here.
+15(657-659)  : You have failed to mention the most important reason
+for using LAMs, orography/topography.
+16(667)      : Please cite the key initial papers by Kim et al. and
+Wigley et al.
+16(673)      : 'predict and' to 'predictand'.
+16(679-683)  : Once again, you fail to mention the main advantage;
+viz. that statistical downscaling involve real-world data and
+so ensures that inter-variable relationships are realistic. Of
+course, these relationships may change; but LAMs don't even get
+the correct relationships for the present.
+16(703)-17(716): These are VERY important results. They need far
+greater emphasis.
+17(720)      : In Australia? Or anywhere for that matter.
+17(723-724)  : See, e.g., Wigley (1999 - Pew report- and material
+cited therein).
+17(725)      : 'mulitple'?
+17(730-732)  : Not clear.
+17(739-740)  : This sentence sounds stupid. Rephrase.
+17(744)      : You cannot say 'most areas' and then cite only
+agriculture cases.
+17(748)      : The first clear exposition of this is in the oft-cited
+paper by Wigley (Nature, 1985). See also later paper in Climate
+Monitor.
+17(755-756)  : I disagree. Both methods have strengths and weaknesses.
+18(770)      : At last! A definition of 'weather generators'.
+18(778-779)  : Unclear.
+18(798)      : What means 'more definitive'?
+18(803)      : "Wilk's" to  "Wilks'".
+18(805)      : Hence, the work is irrelevant in the present context.
+Delete irrelevant text.
+19(to 821)   : Most of the agriculture studies dealing with the 
+effects of variability changes are flawed since they fail to
+separate the low-frequency effect of induced changes in
+winter soil moisture levels from the specific effect of 
+within-growing-season variability changes.
+19(826-839)  : Since this should refer back to lines 823,824,
+this whole section amounts to a giant non sequitur.
+20(880)      : One could be much stronger than this. The use of
+high spatial resolution information is more than just
+'warranted', it is absolutely essential. However, there is
+another approach that you have failed to mention at all.
+This is 'upscaling' of the impacts model. There is some
+relevant work on this in papers by Jarvis and McNaughton
+(and vice versa). Another related approach is the direct
+modelling of spatial patterns of agricultural yield (as
+in work by Wigley and Tu Qipu, which relates yield patterns
+to climate patterns). Presumably one could apply a similar
+approach to direct modelling of river flow. These approaches
+complement the rather boring direct approach of downcsaling,
+and they may well circumvent some of its problems.
+20(898)      : Under this comes: model errors; sensitivity 
+uncertainties; aerosol forcing uncertainties; lag uncer-
+tainties, regionalization versus global-mean uncertainties.
+21(905)      : lesser or greater than what??
+21(916)      : 'adequacy' is not the right word; hoe about 
+'appropriateness'?
+21(928)      : I disagree. Re-analysis data for precipitation are
+simply not good enough, and precipitation is the key variable
+in most impact areas. Also, in the regions where scenario
+data are most needed, real observational data are available.
+Re-analyses largely provide useful new data in regions where
+data are not needed. The authors seem not to have thought
+this through.
+21(to 931)   : There are two papers by Wigley (conference
+proceedings, edited by Hanisch) which address the issue of
+the relative magnitudes of different sources of uncertainty
+in global-mean projections (emissions, aerosol forcing, 
+carbon cycle, other trace gases, climate sensitivity). 
+These papers are singularly relevant to this section.
+21(939)      : Actually, the range for total emissions is from
+7.9 to 29.0GtC/yr. For fossil CO2 emissions, the range is
+6.5 to 28.8GtC/yr.
+21(943)      : Not just 'time-dependent evolution', but anything
+that has a specific time attached to it.
+22(948)      : The reference to Alcamo et al. here seems either
+perverse or ignorant. Recall that the topic is CLIMATE
+scenarios. In this context, MAGICC/SCENGEN is FAR better
+suited to exploring the consequences (right down the line)
+of emissions 'uncertainties'.
+22(959-960)  : MAGICC/SCENGEN already does this at the global-mean
+level. Furthermore, at least three O/AGCMs have fully embedded
+sulphur cycles already.
+22(968)      : 'specifications' is the wrong word. These things
+are NOT 'specified'.
+22(970)      : 'determine' to 'have'
+22(972)      : See also Wigley's Pew report (1999).
+22(974-976)  : Not straightforward? This really is utter garbage.
+In MAGICC/SCENGEN, this is extremely easy and straightforward.
+22(985)      : Ah ha! The 1-way/2-way nesting issue surfaces at last!
+22(989-990)  : See above.
+23(999)      : Actually, this issue was first raised in Santer et al.
+(1990). It has also been addressed in papers by Wigley and
+Palutikof (probably before anyone else).
+23(1010-1011): The wording here is not quite right.
+23(1022)     : First done in Santer et al. (1990).
+23(1030)     : If one assumes stable patterns, which has been shown
+to be okay for the CO2 component of change, then the SNR problem
+can be minimized by using changes over a long time interval.
+23(1033)     : This average response method was alluded to in
+Santer et al. (1990). It was first implemented in ESCAPE and
+later in MAGICC/SCENGEN. A good illustration of the method,
+including some relevant discussion of it, is given in the
+Wigley Pew report (1999). One of the critical aspects of this
+method (which is not even mentioned here!) is that the results
+must be normalized by the global-mean temperature before
+averaging.
+24(1040)     : Is this the ACACIA program run out of NCAR? This
+program was established some years ago, and it would be
+extremely confusing if there were two programs with the same
+acronym.
+24(1047)     : Not 'a few', but many -- CMIP1.
+24(1060)     : 'rations' to 'ratios'.
+24(1060-1062): Not clear.
+24(1073)     : What means 'non-standard forcing'? In my view, something
+like IS92a forcing would be 'standard', whereas 1% compound CO2
+is 'non-standard' (i.e., unrealistic and artificial).
+24(1076-1078): Really? Why? I think this statement is wrong. There
+are a number of ways to determine SNR values from a single O/AGCM
+run. (Note the continuing confusing use of 'GCM', instead of
+O/AGCM.)
+24(1085)     : I don't think 'uncertainties' is quite the right word
+here. Input emissions scenarios, which are scenarios in the
+strict sense of the word, do not directly address uncertainty
+issues (although they can, with some trepidation and a not-
+inconsiderable amount of ingenuity, be used to define
+uncertainties). By the way, as far as I can see, the only
+scenario development method/software that does address the
+input and uncertainty issues is MAGICC/SCENGEN.
+25(1090)     : Again, these are not the most appropriate references.
+Key references are Santer et al. (1990), and papers on ESCAPE
+and MAGICC/SCENGEN.
+25(1093)     : What means 'annotation' here?
+25(1102)     : Actually, it was my idea.
+25(1105,1106): No! The key assumption is actually linear superposition.
+This is the way that SO4 effects are handled. There are a number
+of papers that show that this assumption works well for 
+temperature, and a paper by Ramaswamy and Chen in GRL that shows
+that it works also for precipitation. The tricky thing for this
+variable would be to prove statistically that it doesn't work.
+Given the SNR, it would be very difficult  to reject the null
+hypothesis that P(A)+P(B)=P(A+B), where A,B are the forcings
+and P(.) is the response pattern.
+25(1108)     : Plus numerous other papers.
+25(1112,1113): This is very galling. The method may have been used
+in IMAGE, but they got it from ESCAPE, which goes back to
+Santer et al. (1990). MAGICC/SCENGEN pushes the idea as far
+as is possible. Schlesinger's COSMIC does things quite
+similarly tp MAGICC/SCENGEN. (Schlesinger was a co-author of
+the Santer et al. paper.)
+25(1115)     : Not clear.
+25(1122)     : All you can say here is 'may not hold', not 'probably
+does not hold'. Indeed, there are reasons to expect it to hold
+quite well.
+25(1123)     : Could begin new paragraph with 'Uncertainties'.
+25(1123,1124): I think this statement is categorically wrong. MAGICC/
+SCENGEN incorporates SO4 influences, as does COSMIC. There is
+no evidence at all that the uncertainties are thereby amplified.
+Indeed, there is evidence to the contrary (e.g. Penner et al.,
+1997). Idle and unsupported speculations like this do nobody
+any good.
+25(1124,1125): I suspect you argument here would have to hinge on
+the possible spatial effects of a THC slowdown or shutdown.
+If so, say so. But, if this is the case, you must also note
+that the latest non-flux-corrected O/AGCMs do not show these
+major THC changes, and scaling approaches may well work out
+very well for these situations, even in stabilization cases.
+Please avoid jumping to unsubstantiated conclusions.
+25(1125)     : I refereed this paper, and I judged it to be an
+appalling display of ignorance. It should not be cited.
+26(1134)     : Why is this Figure here?
+26(1138)     : Ah ha! At last the normalization issue. This must
+come much earlier.
+26(1144-1147): This is simply wrong. It is true that Ramaswamy and
+Chen dreamed up a case with big hemispheric-scale responses
+but little global-mean response, but this was totally
+unrealistic. In all cases that I have looked at, using the
+method employed by MAGICC/SCENGEN and COSMIC, this is simply
+NOT a problem.
+26(1147,1148): Again, this is just WRONG!
+26(1150+)    : Again, this is my idea, and it was first implemented
+in MAGICC/SCENGEN. Please give credit where due.
+26(1156-1159): Isn't this ALWAYS the case. In other words, the
+scaling method is almost universally applicable and useful.
+26(1159-1162): I do not think this has been proven.
+26(1164,1165): There are other methods, too.
+26(1172)     : Oh come on! Scaling handles MANY types of uncertainty
+(perhaps all), not just 'one type'.
+27(1181)     : 'documented' to 'quantified'?
+27(to 1185)  : etc., etc.
+27(1193)     : MAGICC/SCENGEN allows the user to consider this issue
+by providing data on global precipitation pattern correlations.
+Indeed, this software was the first to consider this issue (in
+spite of the Whetton and Pittock paper cited on line 1199).
+27(1198-1201): Very clumsy text.
+27(1203-1204): This is an issue we considered years ago in developing
+ESCAPE and MAGICC/SCENGEN. The trouble with judging a model on
+its regional performance is one of statistical significance.
+It is much easier to get a good regional result by chance than
+to get results that are good globally.
+27(1208-1211): Very clumsy text.
+27(to 1214)  : You have failed to mention a key issue. Is model skill
+in simulating present-day climate a reliable indicator of its
+skill in predicting future climate change? There is no evidence
+to support this idea, although it does sound a priori reasonable.
+You must at least raise the issue.
+28(1227)     : Cite Morgan and Keith (1995) here.
+28(1231)     : This is a critical point. It needs more emphasis.
+28(1235+)    : What about inter-variable consistency? This needs to
+be discussed.
+28(1236)     : 'the manifold' to 'possible'.
+28(1239)     : Insert 'give' after 'chapters'.
+28(1252)     : Not clear.
+28(1255)     : So what? It is almost certainly irrelevant unless the
+CO2 changes are bigger than anything anticipated, or unless there
+are nonlinear effects associated with THC changes (which looks
+increasingly unlikely).
+28(1257)     : 'mimics'? You must be joking! How about 'approximates'?
+28(1262)     : 'equal' (grammar).
+28(1262,1263): How can smart people like this make such an elementary
+mistake!
+29(1280,1281): This does not seem to be an appropriate reference.
+29(1282)     : 'albino' to 'albedo'.
+29(1294)     : This sea level consistency issue was first addressed
+by Wigley and Raper (Warrick et al. sea level book). It is,
+of course, avoided in MAGICC/SCENGEN.
+29(1295)     : 'dependable' to 'dependent'.
+29(1295-1301): A giant red herring! Maybe some ignorant people
+produced inconsistent scenarios like this years ago, but the
+issue was also resolved years ago. All you need to say is that
+comprehensive software suites avoid these naive problems.
+Concentrate on the strengths of existing methods/software;
+don't reraise issues that were solved long ago.
+29(1305-1308): Another misleading red herring, that fails to reflect
+the current state of the science. Global-mean responses to
+aerosol forcing CAN be used to drive regional patterns. This
+is just what is done in MAGICC/SCENGEN and COSMIC.
+29(1310,1311): Not clear.
+29(1314)     : Delete 'scenario'.
+29(1318)     : 'to daily' to 'in daily'.
+30(1329,1330): 'stimulated new techniques' Oh yeah? The MAGICC/SCENGEN
+method has not changed in 7 years, and it still represents the
+state of the science.
+30(1332,1333): True, but you have not explained them very well. Could
+you not have a summary Table that lists the strengths and
+weaknesses of the various methods, including the direct use of
+O/AGCM output. This would have helped you a lot in planning
+and structuring this chapter. It can still help in revising it;
+and be useful to readers.
+30(1336-1339): Not clear.
+30(1342)     : You have mentioned this before, but you have failed
+to tell us what it is or given any example. A mention alone is
+valueless.
+30(1344)     : What means 'semi-formal'. I thought it was a dress
+protocol.
+30(general)  : A crucial need for scenarios (and for simple models)
+is to expand the range of cases covered by O/AGCMs.
+END *********************************************************************
+******************************
+*  Dr. Sarah Raper           *
+*  Climatic Research Unit    *
+*  University of East Aglia  *
+*  Norwich                   *
+*  NR4 7TJ                   *
+*                            *
+*  Tel. + 44 1603 592089     *
+*  Fax. + 44 1603 507784     * 
+******************************

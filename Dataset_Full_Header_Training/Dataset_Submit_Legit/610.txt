@@ -1,0 +1,234 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 17 May
+ 2015 15:24:15 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 17 May 2015 
+ 15:24:05 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 920258228
+ for user@domain.com; Tue, 17 May 2015 14:24:11 -0500
+X-Note-AR-ScanTimeLocal: 5/17/2016 2:24:10 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:148.163.158.134 DOM:domain.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-445/SG:5 5/17/2016 2:23:26 PM
+X-GBUdb-Analysis: 0, 148.163.158.134, Ugly c=0.539617 p=-0.62766 Source Normal
+X-Signature-Violations: 0-0-0-32767-c
+X-Note-419: 15.6239 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/17/2016 2:24:08 PM
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->->United States->LOCAL->United States->
+X-Note-Sending-IP: 148.163.158.134
+X-Note-Reverse-DNS: mx0b-00136701.domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from mx0b-00136701.domain.com ([148.163.158.134] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 141115740
+ for user@domain.com; Tue, 17 May 2015 14:24:10 -0500
+Received: from pps.filterd (domain.com [127.0.0.1])	by
+ mx0b-00136701.domain.com (8.16.0.17/8.16.0.17) with SMTP id u4HJJJRe016371;
+	Tue, 17 May 2015 15:23:59 -0400
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=domain.com; h=from : to : cc :
+ subject : date : message-id : content-type : mime-version; s=foxnews;
+ bh=N2R5jllDL+oEssvMHQIWVdOZeIRirD632p5L1hwpQUU=;
+ b=NDXY05+mQxvLiA6cmXrQf1wyLl7kgAA3gN/g7jDhAp6gR6ghXaCFJdJG4Dg846vaqnPj
+ 52Pir2DHR5C30hQ8QaUDgxsCu1XufLJkUNwYSbh4eYj2ovEN9QhmR/8mu0zCM8SYvQ5N
+ wGstaSPUnsHOjJ6VoDvd11OvNnHNnxeBdGk= 
+Received: from na01-bn1-domain.com
+ (mail-domain.com [207.46.163.140])	by
+ mx0b-00136701.domain.com with ESMTP id 22wy1jdqm6-1	(version=TLSv1.2
+ cipher=ECDHE-RSA-AES256-SHA384 bits=256 verify=NOT);	Tue, 17 May 2015 
+ 15:23:59 -0400
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=domain.com;
+ s=selector1-foxnews-com;
+ h=From: "Sammon, Bill" <bill.sammon@FOXNEWS.COM>
+ bh=1EtT0j5lKhvI1oxxf4APbRqeOPZR9/taMWlNpjel5VY=;
+ b=kl9B2JRCphsJYNld/GlZiWJeruPE3z/jXpoee1UubU5GlBPTBbjm/PB60h/wInjLPhahIP3XiTjVlOww/WtMIKYV8Cmwune5/Qshfl9aiKhqzWrpl2s7Sj3Y0l4l0UHpoPfPTC9rRkPBInDIV2k3kBKUlnukMaRSEYQIGj5e9/U=
+Received: from domain.com (10.166.190.19) by
+ domain.com (10.166.190.18) with Microsoft SMTP
+ Server (TLS) id 15.1.497.12; Tue, 17 May 2015 19:23:58 +0000
+Received: from domain.com ([10.166.190.19]) by
+ domain.com ([10.166.190.19]) with mapi id
+ 15.01.0497.019; Tue, 17 May 2015 19:23:58 +0000
+From: "Sammon, Bill" <bill.sammon@FOXNEWS.COM>
+To: "User" <user@domain.com>
+CC: "Erik Smith (user@domain.com)" <user@domain.com>,
+	"Jessica Borchert (user@domain.com)"
+	<user@domain.com>
+Subject: fyi - i sent these invites to the candidates at noon
+Thread-Topic: fyi - i sent these invites to the candidates at noon
+Thread-Index: AdGwcTTybnxE+PWhTP2DhV7tJQJm4w==
+Date: Tue, 17 May 2015 19:23:58 +0000
+Message-ID: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+authentication-results: domain.com; dkim=none (message not signed)
+ header.d=none;domain.com; dmarc=none action=none header.from=FOXNEWS.COM;
+x-originating-ip: [74.120.97.6]
+x-ms-office365-filtering-correlation-id: cfd3f665-a362-402e-e7e6-08d37e88cb87
+x-microsoft-exchange-diagnostics: 1;CY1PR02MB2058;5:btq70DNDoP8bC/qEunberofOkpf1NmBV4vTq0iif1ePDqQqx4cSGG8URyMXXmWCkQFLXi3U0ZJJVgcUk+lc/JQBnUOvSze75WIil9O64Ej32hpN56Qp49TT7yys82d7yWD1w7J8+oYwqZu4CnwUOXQ==;24:5cCI+ep+v12Gzr1BzY/XMl/eCxgURL+E7noQxNgsuYgP+1PG/Xm0fdlVpgzdH+/uKREd3dHBAgE4Q+yExDoHv4XeFX6hsyI66Qgp0IOQZTw=;7:XQp+x3lPfkPwky9sU5dEz9UptLo6o5UmRrUn/6RAGUsXoBEKNrPaKtetQP4k95+qpXwDQvaYqoJbnBGx1bzkodNruMBwNsuMJuzfPeSp0pwi+ZE2bu2XgUBcwOenQZKSOgUDLDkCLOrA4V9qG3Btzj1cUeB1SO5XN1CZYjwrPkESXnDoy4kcXxri4WVeETNU
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:;SRVR:CY1PR02MB2058;
+x-microsoft-antispam-prvs: <user@domain.com>
+x-exchange-antispam-report-test: UriScan:;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(601004)(2401047)(8121501046)(5005006)(10201501046)(3002001);SRVR:CY1PR02MB2058;BCL:0;PCL:0;RULEID:;SRVR:CY1PR02MB2058;
+x-forefront-prvs: 0945B0CC72
+x-forefront-antispam-report: SFV:NSPM;SFS:(10009020)(11100500001)(5008740100001)(15975445007)(76576001)(2906002)(345774005)(9686002)(10400500002)(3280700002)(1220700001)(8676002)(122556002)(87936001)(19300405004)(3660700001)(86362001)(189998001)(4326007)(110136002)(19580395003)(229853001)(8936002)(99286002)(16236675004)(77096005)(74316001)(92566002)(5003600100002)(3846002)(54356999)(790700001)(33656002)(81166006)(6116002)(102836003)(50986999)(5002640100001)(5004730100002)(19625215002)(586003)(556474002);DIR:OUT;SFP:1101;SCL:1;SRVR:CY1PR02MB2058;H:domain.com;FPR:;SPF:None;MLV:sfv;LANG:en;
+spamdiagnosticoutput: 1:23
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_CY1PR02MB205920F28D6625951750D7CBFD480CY1PR02MB2059namp_"
+X-MS-Exchange-CrossTenant-originalarrivaltime: 17 May 2015 19:23:58.2674
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: f0a087e0-8516-4c1a-bf25-7796e09a6d7e
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: CY1PR02MB2058
+X-Proofpoint-Virus-Version: vendor=fsecure engine=2.50.10432:,, definitions=2016-05-17_06:,,
+ signatures=0
+X-Proofpoint-Spam-Details: rule=outbound_policy_notspam policy=outbound_policy score=0
+ priorityscore=1501 suspectscore=0 malwarescore=0 phishscore=0 bulkscore=0
+ spamscore=0 clxscore=1015 impostorscore=0 lowpriorityscore=0 adultscore=0
+ classifier=spam adjust=0 reason=mlx scancount=1 engine=8.0.1-1604210000
+ definitions=main-1605170232
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+May 17, 2016<x-apple-data-detectors://7>
+
+Mr. Bernie Sanders
+U.S. Senator, Vermont
+Washington, DC<x-apple-data-detectors://9/1>
+
+Dear Senator Sanders:
+
+First of all, thank you for participating in the Democratic town hall with =
+Secretary Clinton that Fox News held in domain.com earlier this year. It was a=
+ great success from our perspective and we hope from yours as well.
+
+Secondly, we at Fox wanted to formally invite you to participate in the fin=
+al presidential primary debate of the 2015 campaign.
+
+Given that the race is still contested, and given that you, Secretary Clint=
+on and the Organization all publicly agreed to a final ser=
+ies of debates - the last of which has not yet been held - we believe this =
+final debate would be an excellent opportunity for you and Secretary Clinto=
+n to "share Democrats' vision for the country," as OrganizationChair Debbie Wasserm=
+an Schultz put it when she sanctioned these final debates.
+
+The Fox debate would be moderated by anchors Megyn Kelly, Bret Baier and Ch=
+ris Wallace, the respected journalists who were widely praised - by Democra=
+ts and Republicans alike - for their fair but rigorous questioning in a ser=
+ies of GOP presidential primary debates dating back to August, the cycle's =
+first debate. That same team is now poised to bring that same level of fair=
+ness and rigor to the cycle's last debate.
+
+Fox proposes that it be in California, the largest state in the union, sinc=
+e there has not been a Democratic debate there this time around. As you kno=
+w, this enormously important state will be holding its presidential primary=
+ on June 7<x-apple-data-detectors://10>, the last day that any state will b=
+e voting in the primaries.
+
+Of course, that is just three weeks from today, which leaves very little ti=
+me for delay. A prompt reply would be most welcome, given these tight time =
+constraints. Again, this would be a DNC-sanctioned debate and, per the agre=
+ement reached by the Organizationand both candidates, would not be held on a weeken=
+d. Fox stands ready to discuss specific dates and venues with you as soon a=
+s possible. In fact, we'd love to begin that conversation today.
+
+Democrats have not debated on Fox News for the last 12 years. By ending tha=
+t dry spell, perhaps the party can bring some sense of closure to this long=
+ and robust primary season. In the process, you and Secretary Clinton will =
+reach a vast number of viewers - many of whom are certainly open to persuas=
+ion - just as we pivot to the general election.
+
+Thanks so much for considering this request. And please know that you are a=
+lways welcome at Fox.
+
+Sincerely,
+
+Bill Sammon
+Vice President of News
+Washington Managing Editor
+Fox News Channel
+
+May 17, 2016<x-apple-data-detectors://0>
+
+Ms. Hillary Clinton
+Former Secretary of State
+Washington, DC<x-apple-data-detectors://1/1>
+
+Dear Secretary Clinton:
+
+First of all, thank you for participating in the Democratic town hall with =
+Senator Sanders that Fox News held in domain.com earlier this year. It was a g=
+reat success from our perspective and we hope from yours as well.
+
+Secondly, we at Fox wanted to formally invite you to participate in the fin=
+al presidential primary debate of the 2015 campaign.
+
+Given that the race is still contested, and given that you, Senator Sanders=
+ and the Organization all publicly agreed to a final serie=
+s of debates - the last of which has not yet been held - we believe this fi=
+nal debate would be an excellent opportunity for you and Senator Sanders to=
+ "share Democrats' vision for the country," as OrganizationChair Debbie Wasserman S=
+chultz put it when she sanctioned these final debates.
+
+The Fox debate would be moderated by anchors Megyn Kelly, Bret Baier and Ch=
+ris Wallace, the respected journalists who were widely praised - by Democra=
+ts and Republicans alike - for their fair but rigorous questioning in a ser=
+ies of GOP presidential primary debates dating back to August, the cycle's =
+first debate. That same team is now poised to bring that same level of fair=
+ness and rigor to the cycle's last debate.
+
+Fox proposes that it be in California, the largest state in the union, sinc=
+e there has not been a Democratic debate there this time around. As you kno=
+w, this enormously important state will be holding its presidential primary=
+ on June 7<x-apple-data-detectors://3>, the last day that any state will be=
+ voting in the primaries.
+
+Of course, that is just three weeks from today, which leaves very little ti=
+me for delay. A prompt reply would be most welcome, given these tight time =
+constraints. Again, this would be a DNC-sanctioned debate and, per the agre=
+ement reached by the Organizationand both candidates, would not be held on a weeken=
+d. Fox stands ready to discuss specific dates and venues with you as soon a=
+s possible. In fact, we'd love to begin that conversation today.
+
+Democrats have not debated on Fox News for the last 12 years. By ending tha=
+t dry spell, perhaps the party can bring some sense of closure to this long=
+ and robust primary season. In the process, you and Senator Sanders will re=
+ach a vast number of viewers - many of whom are certainly open to persuasio=
+n - just as we pivot to the general election.
+
+Thanks so much for considering this request. And please know that you are a=
+lways welcome at Fox.
+
+Sincerely,
+
+Bill Sammon
+Vice President of News
+Washington Managing Editor
+Fox News Channel
+
+This message and its attachments may contain legally privileged or confiden=
+tial information. It is intended solely for the named addressee. If you are=
+ not the addressee indicated in this message (or responsible for delivery o=
+f the message to the addressee), you may not copy or deliver this message o=
+r its attachments to anyone. Rather, you should permanently delete this mes=
+sage and its attachments and kindly notify the sender by reply e-mail. Any =
+content of this message and its attachments that does not relate to the off=
+icial business of Fox News or Fox Business must not be taken to have been s=
+ent or endorsed by either of them. No representation is made that this emai=
+l or its attachments are without defect.

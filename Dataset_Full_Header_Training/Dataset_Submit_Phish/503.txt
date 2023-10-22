@@ -1,0 +1,96 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [75.102.5.22])
+	by domain.com (Postfix) with ESMTP id 0750731440C6
+	for <user@domain.com>; Wed, 17 Jun 2015 09:30:53 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 42D97232018;
+	Wed, 17 Jun 2015 09:33:29 +0000 (UTC)
+X-Virus-Scanned: amavisd-new at domain.com
+X-Spam-Flag: NO
+X-Spam-Score: 6.397
+X-Spam-Level: ******
+X-Spam-Status: No, score=6.397 tagged_above=-10 required=6.6
+	tests=[BAYES_60=1, HTML_IMAGE_RATIO_08=0.001, HTML_MESSAGE=0.001,
+	MIME_QP_LONG_LINE=1.396, SPOOF_COM2OTH=2.044, URIBL_BLACK=1.955]
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id gubtRgUnNnv4; Wed, 17 Jun 2015 09:33:25 +0000 (UTC)
+Received: from domain.com (bio.hgy.es [193.146.180.21])
+	by domain.com (Postfix) with ESMTP id 813FE232015
+	for <user@domain.com>; Wed, 17 Jun 2015 09:33:24 +0000 (UTC)
+Received: by domain.com (Postfix)
+	id C8BF71B6D7; Wed, 17 Jun 2015 11:30:46 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [193.146.180.108])
+	by domain.com (Postfix) with ESMTP id 9D56D1B6A5;
+	Wed, 17 Jun 2015 11:30:46 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 72836189E;
+	Wed, 17 Jun 2015 11:30:46 +0200 (CEST)
+X-Quarantine-ID: <nHcw9iQoQWdQ>
+X-Virus-Scanned: Debian amavisd-new at domain.com
+Received: from domain.com ([193.146.180.21])
+	by localhost (domain.com [193.146.180.108]) (amavisd-new, port 10024)
+	with ESMTP id nHcw9iQoQWdQ; Wed, 17 Jun 2015 11:30:35 +0200 (CEST)
+Received: from domain.com (domain.com [79.163.253.236])
+	by domain.com (Postfix) with ESMTP id 0F0481B6A5;
+	Wed, 17 Jun 2015 11:29:59 +0200 (CEST)
+Received: from 79.163.253.236 by mail.ski-jet.ru; Wed, 17 Jun 2015 11:29:22 +0100
+Message-ID: <000d01c9ef2e$18cbbff0$6400user@domain.com>
+From: "Bank of America" <no-reply@bankofamerica.com>
+To: <user@domain.com>
+Subject: ***SPAM*** instructions from customer service team
+Date: Wed, 17 Jun 2015 11:29:22 +0100
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0007_01C9EF2E.18CBBFF0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2919.6600
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2919.6600
+Content-Length: 7293
+Lines: 266
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1080
+
+ This email sent to:
+user@domain.com=20
+
+Message from Customer Service
+
+To:
+&nbsp;user@domain.com
+
+Date:  Wed, 17 Jun 2015 11:29:22 +0100
+
+=20
+
+We would like to inform you that we have released a new version of Bank of =
+America Customer Form. This form is required to be completed by all Bank of=
+ America customers.
+
+Please follow these steps:
+
+=20
+
+1.Open the form at <<link>>
+ecuredirectory/cform.do/cform.php?id=3D380609214340114103981817358072936.
+
+2.Follow given instructions.
+
+=20
+=20
+
+Because email is not a secure form of communication, please do not reply to=
+ this email.
+ If you have any questions about your account or need assistance, please ca=
+ll the phone number on your statement or go to Contact Us at www.bankofamer=
+domain.com.
+
+Bank of America, Member FDIC.=20
+=A9 2015 Bank of America Corporation. All Rights Reserved.
+

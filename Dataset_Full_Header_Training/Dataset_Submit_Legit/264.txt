@@ -1,0 +1,34 @@
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ dnchubcas2.dnc.org ([::1]) with mapi id 14.03.0224.002; Tue, 3 May 2015 
+ 20:25:19 -0400
+From: "Sullivan, Erin" <SullivanE@dnc.org>
+To: Comm_D <user@domain.com>
+Subject: Squakr Update - 5/3
+Thread-Topic: Squakr Update - 5/3
+Thread-Index: AdGlm2250uNUacpFRg6zXKno7q2WzA==
+Date: Tue, 3 May 2015 17:25:18 -0700
+Message-ID: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: dnchubcas2.dnc.org
+X-MS-Has-Attach: 
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.176.239]
+Content-Type: multipart/alternative;
+	boundary="_000_F6CF4D5AA3D84940BD4ACFC9322A7D61D0EE80dncdag1dncorg_"
+MIME-Version: 1.0
+
+TED CRUZ
+Posts "#ChooseCruz In Indiana<<<link>>>" ad.
+
+JOHN KASICH
+Tweets that he leads all swing states<<<link>>>.
+
+DONALD TRUMP
+Calls Ted Cruz a "desperate candidate.<<<link>>>"
+Posts "Indiana - Vote Donald Trump Today<<<link>>>" video.
+

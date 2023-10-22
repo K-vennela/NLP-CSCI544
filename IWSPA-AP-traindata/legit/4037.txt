@@ -1,0 +1,4 @@
+This is a multi-part message in MIME format. --------------020800020009020904000309
+Content-Type: multipart/alternative; boundary="------------020101090700030501080805"
+--------------020101090700030501080805 Content-Type: text/plain; charset=us-ascii;
+format=flowed Content-Transfer-Encoding: 7bit ---

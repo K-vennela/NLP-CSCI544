@@ -1,0 +1,65 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Wed, 20 Aug 2015 22:20:02 +0200
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id 2C36B6293B	for
+ <user@domain.com>; Wed, 20 Aug 2015 21:05:17 +0100 (BST)
+Received: by domain.com (Postfix)	id 02E182BC1F8; Wed, 20 Aug 2015 
+ 22:19:53 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from [192.168.20.105] (93-32-171-26.domain.com
+ [93.32.171.26])	(using TLSv1 with cipher AES128-SHA (128/128 bits))	(No
+ client certificate requested)	by domain.com (Postfix) with ESMTPSA
+ id 8DF5B2BC06A;	Wed, 20 Aug 2015 22:19:52 +0200 (CEST)
+References: <6user@domain.com>
+In-Reply-To: <6user@domain.com>
+Message-ID: <user@domain.com>
+CC: Matteo Oliva <user@domain.com>, Simonetta Gallucci
+	<user@domain.com>, "user@domain.com"
+	<user@domain.com>, Fabio Busatto <user@domain.com>,
+	Antonella Capaldo <user@domain.com>, "user@domain.com"
+	<user@domain.com>, "user@domain.com"
+	<user@domain.com>, Elisabetta Ciceri <user@domain.com>,
+	Giovanni Cino <user@domain.com>, Fabrizio Cornelli
+	<user@domain.com>, "user@domain.com"
+	<user@domain.com>, Marco Fontana <user@domain.com>,
+	Walter Furlan <user@domain.com>, Diego Giubertoni
+	<user@domain.com>, Luca Guerra <user@domain.com>,
+	Lorenzo Invernizzi <user@domain.com>, Daniel Maglietta
+	<user@domain.com>, "user@domain.com"
+	<user@domain.com>, Antonio Mazzeo <user@domain.com>,
+	"Daniele Milan" <user@domain.com>, Daniele Molteni
+	<user@domain.com>, Bruno Muschitiello
+	<user@domain.com>, Alberto Ornaghi
+	<user@domain.com>, Eduardo Pardo Carvajal
+	<user@domain.com>, Emanuele Placidi <user@domain.com>,
+	Christian Pozzi <user@domain.com>,
+	=?utf-8?Q?Sergio_Rodriguez-Sol=C3=ADs_y_Guerrero?= <user@domain.com>,
+	Mauro Romeo <user@domain.com>, "user@domain.com"
+	<user@domain.com>, Alessandro Scarafile <user@domain.com>,
+	Emad Shehata <user@domain.com>, "user@domain.com"
+	<user@domain.com>, "user@domain.com"
+	<user@domain.com>
+X-Mailer: iPhone Mail (11D257)
+From: Marco Catino <m.catino@hackingteam.com>
+Subject: Re: R: Re: E Max si sposa!
+Date: Wed, 20 Aug 2015 22:19:43 +0200
+To: Marco Losito <user@domain.com>
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=MARCO CATINO146
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-663504278_-_-"
+
+Ci sono anche io. 
+M. 
+
+--
+Marco Catino
+Field Application Engineer
+
+Sent from my mobile.

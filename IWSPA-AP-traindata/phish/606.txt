@@ -1,0 +1,25 @@
+Dear Email Users,
+This Message is IT System, Helpdesk. The major project of upgrading
+the email servers to Microsoft Exchange 2011 (from Exchange 2003/2007)
+is in progress. Mailbox moves have been completed, you only need to
+complete the below information to Activate. Immediately the
+information is received, mailbox moves will begin shortly and storage
+space will increase from 500MB to 1GB. OWA (Outlook Web Access)
+accessed will begin, please kindly fill with valid information by clicking on the link below:
+<<link>>
+Our goal is to have your email account moves completed before 48 hours.
+You will receive an e-mail in a couple of hours when your mailbox
+account is moved. Inability to complete information on the form within
+48 hours you receive this e-mail will render your e-mail in-active
+from our database.
+Regards,
+Helpdesk! Account Services
+-------------------------
+Please do not reply to this message. Mail sent to this address cannot
+be answered.
+NOTICE - This communication may contain confidential and privileged
+information that is for the sole use of the intended recipient. Any
+viewing, copying or distribution of, or reliance on this message by
+unintended recipients is strictly prohibited. If you have received
+this message in error, please notify us immediately by replying to the
+message and deleting it from your computer.

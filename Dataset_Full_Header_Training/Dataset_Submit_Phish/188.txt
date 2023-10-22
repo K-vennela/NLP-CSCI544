@@ -1,0 +1,54 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 7594F23CB27
+	for <user@domain.com>; Mon, 25 Jul 2015 09:10:15 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id EWphej7JXR8u for <user@domain.com>;
+	Mon, 25 Jul 2015 09:10:14 -0500 (CDT)
+Received: from FSWMIM03.dmz.fsw.leidenuniv.nl (fswmim03.dmz.fsw.leidenuniv.nl [132.229.65.93])
+	by domain.com (Postfix) with ESMTP id 5D54023CB26
+	for <user@domain.com>; Mon, 25 Jul 2015 09:10:13 -0500 (CDT)
+Received: from FSWEXC01.fsw.leidenuniv.nl (unverified [132.229.72.77]) by 
+    FSWMIM03.dmz.fsw.leidenuniv.nl (Clearswift SMTPRS 5.3.4) with ESMTP 
+    id <user@domain.com>; Mon, 25 
+    Jul 2015 15:55:54 +0200
+X-MimeOLE: Produced By Microsoft Exchange V6.5
+Content-class: urn:content-classes:message
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+    boundary="----_=_NextPart_001_01CC4AD2.8097813C"
+Subject: Helpdesk Require Your Quick Response
+Date: Mon, 25 Jul 2015 15:55:24 +0200
+Message-ID: <user@domain.com>
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+Thread-Topic: Helpdesk Require Your Quick Response
+Thread-Index: AcxK0n/DhQUH0/hmTeSrEpRB29vMhQ==
+From: "Jepma, M." <MJepma@FSW.leidenuniv.nl>
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 6
+
+Your mailbox has exceeded one or more size limits set by your administrator.
+ Your mailbox size is 164899 KB. You are to recieve this warning when your =
+mailbox reaches 160000 KB
+ Mailbox size limits:
+ Account Would be disabled only if account owner refuses to revalidate acco=
+unt within 48hours of receiving this warning.
+ To reset and revalidate kindly CLICK HERE <<<link>>
+n.htm> : Thank you.
+ Help Desk
+
+**********************************************************************
+This email and any files transmitted with it are confidential and
+intended solely for the use of the individual or entity to whom they
+are addressed. If you have received this email in error please notify
+the system manager.
+**********************************************************************
+

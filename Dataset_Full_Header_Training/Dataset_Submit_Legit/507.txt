@@ -1,0 +1,76 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Fri, 20 Mar 2015 14:43:14 +0100
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id 195F3621D8	for
+ <user@domain.com>; Fri, 20 Mar 2015 13:21:12 +0000 (GMT)
+Received: by domain.com (Postfix)	id A9B4DB6600F; Fri, 20 Mar 2015 
+ 14:43:14 +0100 (CET)
+Delivered-To: user@domain.com
+Received: from [192.168.1.208] (unknown [192.168.1.208])	(using TLSv1 with
+ cipher DHE-RSA-AES128-SHA (128/128 bits))	(No client certificate requested)
+	by domain.com (Postfix) with ESMTPSA id 9CEF12BC229;	Fri, 20 Mar
+ 2015 14:43:14 +0100 (CET)
+Message-ID: <550user@domain.com>
+Date: Fri, 20 Mar 2015 14:43:25 +0100
+From: Giancarlo Russo <g.russo@hackingteam.com>
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Thunderbird/31.5.0
+To: Eric Rabe <user@domain.com>, Daniele Milan
+	<user@domain.com>
+CC: Philippe Vinci <user@domain.com>, David Vincenzetti
+	<user@domain.com>
+Subject: Re: On interrupting with the E. client
+References: <2user@domain.com> <user@domain.com>
+In-Reply-To: <user@domain.com>
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=GIANCARLO RUSSOF7A
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1345765865_-_-"
+
+    I spoke with Eric and I had a brief discussion with David this
+    morning. 
+
+    here the two only options that we consider viable: let me say that
+    we all agree on the problem created by the client and it also seems
+    that from a legal point of view they are compliant with their own
+    law. So I would like to have also your feedback on both
+    alternatives:
+
+    1) Stop to serve the client. 
+
+    In this case we should carefully motivate the decision, basically
+    because their maintenance contract is not expired yet. 
+
+    We can tackle the discussion mentioning both (a) the export control
+    rules and the request of clarification from authority (it could be a
+    true consequence in the near future and we will probably need to
+    domain.com a specific authorization requests); (b) misuse of the
+    software that exposed our product. The misuses might also be
+    considered a violation of the license but also of existing relevant
+    law and regulation (of course we should seek for legal advice).
+
+    2) Propose a meeting to the client in order to evaluate different
+    options of cooperation
+
+    Basically we should evaluate if we are willing to serve them based
+    on a different agreement, that is, in other word, a mandatory local
+    assistance (with a local FTE Support selected by us) in order to
+    supervise any operations and avoid the type of gross tech misconduct
+    they performed. We should basically review each single attack
+    scenario in order to ensure that they are not modifying any security
+    setting of the infrastructure (e.g. Firewall configuration) and any
+    attack strategy (email, ecc).
+
+    Of course this is just a proposal and option (2) requires additional
+    internal discussion and a face to face meeting with the client in
+    case we will proceed in this way. 
+
+    What is your opinion?
+
+    Giancarlo
+

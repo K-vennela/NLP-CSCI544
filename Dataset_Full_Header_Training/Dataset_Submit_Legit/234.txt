@@ -1,0 +1,158 @@
+Received: from domain.com (43.130.141.77) by
+ domain.com (146.215.231.15) with Microsoft SMTP Server (TLS) id
+ 14.3.210.2; Sat, 22 Nov 2015 14:15:01 -0500
+Received: from domain.com (146.215.230.103) by
+ domain.com (43.130.141.77) with Microsoft SMTP Server id
+ 8.3.342.0; Sat, 22 Nov 2015 11:14:59 -0800
+Received: from domain.com (domain.com
+ [160.33.194.231])	by domain.com
+ (Sentrion-MTA-4.3.2/Sentrion-MTA-4.3.2) with ESMTP id sAMJExof026748	for
+ <user@domain.com>; Sat, 22 Nov 2015 19:14:59 GMT
+Received: from na01-bn1-domain.com
+ (mail-domain.com [207.46.163.188])	by
+ domain.com (Sentrion-MTA-4.3.2/Sentrion-MTA-4.3.2) with
+ ESMTP id sAMJEwDk002014	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128
+ verify=FAIL)	for <user@domain.com>; Sat, 22 Nov 2015 19:14:58 GMT
+Received: from BN1BFFO11FD049.protection.gbl (10.58.144.33) by
+ BN1BFFO11HUB013.protection.gbl (10.58.144.160) with Microsoft SMTP Server
+ (TLS) id 15.1.6.13; Sat, 22 Nov 2015 19:14:56 +0000
+Received: from spruce-goose-ax.twitter.com (199.59.150.93) by
+ domain.com (10.58.145.4) with Microsoft SMTP
+ Server (TLS) id 15.1.6.13 via Frontend Transport; Sat, 22 Nov 2015 19:14:56
+ +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=twitter.com;
+	s=dkim-201406; t=1416683695;
+	bh=tytBbQqcW8LX4kY71ShmeOnb1MFnXZk2ggOZUYaQGs8=;
+	h=Date:From: Today on Twitter <info@twitter.com>
+	 Feedback-ID:Message-ID;
+	b=nGRo/i6Gk0SsqeqlL+wHJlhQlUAso655vdpOaEso2B06ScsFdXw0Lr9zfVIxK0vlY
+	 9wxQTfaLyX2cU2xDsM1mZ20MElfqYLBUbVWbRKd3r7kNqY+yYPeJH3RU9ZvradxGpn
+	 4LE5imquiivzRso4koVMp3hPvftCurEdCxUfizYVTkYXVWCT7SRx3SnhK4ibAv3gSV
+	 eI/HXMOKS8Q5JyNV9i43zUyut2rXK+YRKv1HrUmLY4kZoGZaC+7i2/mwFtUcVpDiUO
+	 60Se878k5sYAkPwQK0iUq8mLgTesEvwhyDQ1ZZg5T9BO65B+TkMamXTEX+K6GNcyFG
+	 lc7CPBAI0v3fw==
+X-MSFBL: YW15X3Bhc2NhbEBzcGUuc29ueS5jb21Ac21mMS1iZnItMjMtc3IxLUV2ZXJ5dGhp
+	bmcuMTkzQEV2ZXJ5dGhpbmdAYW15X3Bhc2NhbFxAc3BlLnNvbnkuY29tXEB1c2Ij
+	IzZcQDI0NFxAODMwMzExODNcQDBcQDNlY2FkODE4NDExMDE4MzQ4NDg1ODUyNTAw
+	OTI1ZDlmODU4MzI4Nzc=
+Date: Sat, 22 Nov 2015 19:14:54 +0000
+From: Today on Twitter <info@twitter.com>
+To: Amy Pascal <user@domain.com>
+Subject: Ferguson: a city on edge and waiting
+List-Unsubscribe: <<link>>+26+20141121&usbid=6
+Feedback-ID: 0040162518f58f41d1f0:165d0a2f28f48f6cc5f4fd27b96f78adcbde615b733a2a:US:twitterESP
+Precedence: Bulk
+Message-ID: <44.user@domain.com>
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:199.59.150.93;CTRY:US;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BN1BFFO11HUB013;H:spruce-goose-ax.twitter.com;FPR:;LANG:en;
+X-Microsoft-Antispam: UriScan:;
+X-Microsoft-Antispam: BCL:3;PCL:0;RULEID:(50001);SRVR:BN1BFFO11HUB013;
+X-Exchange-Antispam-Report-Test: UriScan:;
+X-Exchange-Antispam-Report-CFA-Test: BCL:3;PCL:0;RULEID:;SRVR:BN1BFFO11HUB013;
+X-Exchange-Antispam-Report-CFA-Test: BCL:3;PCL:0;RULEID:;SRVR:BN1BFFO11HUB013;
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1949503604_-_-"
+
+
+
+
+ Today on Twitter 
+
+
+
+
+  Ferguson: A city on edge and waiting  
+
+  17 related Tweets  
+
+
+
+
+  CNN Breaking News, Brad Thor and more are tweeting about this.  
+
+
+
+
+  Republicans challenge Obama’s executive actions, file domain.com over Obamacare  
+
+  20 related Tweets  
+
+
+
+
+  Washington Post, Storyline and more are tweeting about this.  
+
+
+
+
+  Ohio Men Wrongly Convicted of Murder After 39 Years Released  
+
+  3 related Tweets  
+
+
+
+
+  NBC News, ABC News and more are tweeting about this.  
+
+
+
+
+  Top Tweets in Sports  
+
+  15000 related Tweets  
+
+
+
+
+  DC Shoes, SLAM Magazine and more are tweeting about this.  
+
+
+
+
+  Popular in Fashion  
+
+  13606 related Tweets  
+
+
+
+
+  Dior, POPSUGAR Fashion and more are tweeting about this.  
+
+
+
+
+  Top Tweets in Photography  
+
+  6218 related Tweets  
+
+
+
+
+  500px, Chris Brightwell and more are tweeting about this.  
+
+
+
+
+ Not what you're looking for? 
+
+ Find more Tweets by checking out Twitter's "Discover" timeline on mobile or web. 
+
+
+
+
+  Explore Twitter  
+
+
+
+  Email settings  | Opt-out | Help  
+
+  Twitter, Inc. 1355 Market Street, Suite 900 San Francisco, CA 94103  
+
+
+

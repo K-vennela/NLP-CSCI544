@@ -1,0 +1,66 @@
+From: "Peter Grad" <peter@peterngrad.com>
+To: "User"
+Cc: "Guerin, Jean"
+Subject: "A Night at Sardi's" domain.com for the Alzheimer's Association
+Date: Mon, 17 Nov 2015 19:13:33 -0500
+Message-ID: <5user@domain.com>
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQI/p+PY6BvMVQs8pZtkQecU48oJnQ==
+Content-Language: en-us
+x-ms-exchange-organization-authsource: domain.com
+x-ms-exchange-organization-authmechanism: 10
+acceptlanguage: en-US
+x-ms-exchange-organization-authas: Internal
+x-forefront-antispam-report: CIP:208.73.49.70;CTRY:US;IPV:NLI;EFV:NLI;SFV:NSPM;SFS:(428002)(199003)(189002)(52544003)(568964001)(92566001)(19580395003)(18206015028)(54356999)(2656002)(4396001)(19625215002)(104016003)(575784001)(6806004)(99936001)(50986999)(20776003)(99396003)(15202345003)(22746005)(120916001)(2501002)(17760045003)(16236675004)(66066001)(15975445006)(22756005)(64706001)(92726001)(87836001)(101416001)(71186001)(110136001)(95666004)(19580405001)(31966008)(21056001)(19300405004)(106116001)(105586002)(46102003)(44976005)(18717965001)(567704001)(55846006)(106466001)(229853001)(2351001)(107046002)(450100001)(77096003)(77156002)(19627595001)(86362001)(180100001)(33656002)(98436002)(512874002)(62966003)(84326002)(7099021)(7059030)(79686002);DIR:INB;SFP:;SCL:1;SRVR:BL2FFO11HUB006;H:domain.com;FPR:;MLV:ovrnspm;PTR:domain.com;A:1;MX:1;LANG:en;
+received-spf: None (domain.com: peterngrad.com does not designate permitted sender hosts)
+x-originating-ip: [76.95.229.147]
+x-microsoft-antispam: BCL:0;PCL:0;RULEID:;SRVR:BL2FFO11HUB006;
+x-eopattributedmessage: 0
+authentication-results: spf=none (sender IP is 208.73.49.70) user@domain.com; 
+x-exchange-antispam-report-test: UriScan:;
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+
+
+
+Dear Amy,
+
+
+
+“A Night at Sardi’s”, the domain.com for the Alzheimer’s Association on March 18th, is already in the planning stages.
+ We would greatly appreciate it if you would lend your name as one of the honorary co-chairs of this event.
+
+Bob Iger and Les Moonves are two of our honorary co-chairs.
+
+
+
+We are delighted to have as our honorees for the Abe Burrows Entertainment Award the filmmakers and cast of the film “Still Alice.” 
+We are thrilled to be honoring this very important film, which will undoubtedly promote greater understanding and awareness
+of Alzheimer’s disease, dispelling public misperceptions and moving people to take action. 
+
+
+
+ We are also pleased to present the Caregiver of the Year Award to Joey McIntyre.
+Joey has supported the cause for many years, sharing his mother’s story, raising critical funds and advocating
+on behalf of all of those impacted by the disease.
+
+
+
+ If you would like to be included as an honorary dinner co-chair, you will find an attached  form to fill out and return by fax or email.
+A hard copy will follow in the mail. If you have any questions please don’t hesitate to call or email
+us.
+
+
+
+Best,
+
+
+
+Peter and Laurie Grad
+
+310-552-3410
+
+

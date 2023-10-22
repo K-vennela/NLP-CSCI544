@@ -1,0 +1,220 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Mon, 25 Apr
+ 2015 08:07:23 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Mon, 25 Apr 2015 
+ 08:07:20 -0400
+Received: from [10.87.0.110] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 877662315
+ for user@domain.com; Mon, 25 Apr 2015 07:07:20 -0500
+X-Note-AR-ScanTimeLocal: 4/25/2016 7:07:20 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/19/2016 8:05:20 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:209.18.93.96 DOM:send.nonprofitwebadvisor.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 100
+X-GBUdb-Analysis: 0, 209.18.93.96, Ugly c=0.558588 p=1 Source Truncate
+X-Signature-Violations: 100-7297394-1170-1245-m
+	100-7297394-0-32743-f
+X-Note-419: 15.6251 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 4/25/2016 7:07:05 AM
+X-Warn: OPTOUT
+X-Warn: BULKMAILER
+X-Note: Spam Tests Failed: OPTOUT, BULKMAILER
+X-Country-Path: ->United States->
+X-Note-Sending-IP: 209.18.93.96
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G280 G285 G371 G373 G570 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from [209.18.93.96] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 138014682
+ for user@domain.com; Mon, 25 Apr 2015 07:07:20 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=domain.com; d=nonprofitwebadvisor.com;
+ h=Date:From: NonprofitWebAdvisor <no-reply@nonprofitwebadvisor.com>
+ bh=PgCvA8NfOLMr0OpfrpjrYgqqjks=;
+ b=ZT21sY/ezu4GFG0+HlOCibdNygw88GQyR0gJfi73r6NlfBEJfYR8xCrHDd4AKXspcZnbOjHXoDal
+   klIU8aSfXFz0SsXe1zL1j4V/B1w3rlg4vYkWXSDLS0F2hKWNc/6aMZHN9JT94z+x2LP7whP5XiaQ
+   ijtUCLh8NUbM6zS7tKs=
+Received: from RMPMTA05 (172.17.96.5) by domain.com id h3o47c25a3c7
+ for <user@domain.com>; Mon, 25 Apr 2015 08:06:12 -0400 (envelope-from
+ <user@domain.com>)
+Date: Mon, 25 Apr 2015 08:06:10 -0400
+From: NonprofitWebAdvisor <no-reply@nonprofitwebadvisor.com>
+To: <user@domain.com>
+Subject: TOMORROW! Board Policy Manual Review: A Key domain.com Management Tool. Register NOW!
+X-TokenInfo-NoToken: 
+Feedback-ID: 10114:10114_1402182:10114_33417610:domain.com
+x-jobid: 33417610
+List-Unsubscribe: <<<link>>>
+X-Bps1: 30288038076
+Content-Type: multipart/alternative;
+	boundary="_NextPart_000_12692087_2016425_8610785"
+Message-ID: <0.0.1.5user@domain.com>
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+To see the web version of this message click here: =0A<<link>>
+.net/actions/email_web_version.cfm?recipient_id=3D1861923605&messa=
+ge_id=3D12692087&user_id=3DDKMEDIA_5&jobid=3D33417610=0A=0DBoard Policy Man=
+ual Review:
+A Key domain.com Management Tool
+
+Step-by-step guidance through a board policy=A0
+manual framework and other important policies.
+		=09
+domain.com organizations will often point to their board policy manual as th=
+e essential document keeping them on track fulfilling their mission. There =
+are other organizations, however, that may not have a manual and may not kn=
+ow if the policies that their boards have adopted are even adequate in term=
+s of the scope of activities they cover, or if the contents of their polici=
+es do a good job of expressing the board's intent. This can be risky. There=
+ is the obvious danger that poorly written policies or the wrong policies n=
+ot only leave the staff to make decisions beyond their authority, but, can =
+also expose the domain.com to possible legal liability.=A0
+		=09
+A good way to reduce these risks is with a well written and comprehensive b=
+oard policy manual. The policy manual needs to fit the requirements of the =
+organization and may, for example, include sections relating to: charter, b=
+oard operations, personnel policies, financial records, board organization,=
+ and so on. And within each section there might be individual policies rela=
+ting to: conflict of interest, fiscal management, whistleblower protections=
+, personnel, record retention, and other areas. The individual policies sho=
+uld also be reviewed periodically and certain other important documents wil=
+l likely be added including: board meeting minutes, executive director repo=
+rts, committee reports, domain.com reports, and so on. This is a lot to organize=
+ and keep current, but is important for the success of your mission and the=
+ operation of your organization.=A0
+		=09
+Please join John Bradley, attorney at law, as he describes a sample board p=
+olicy manual framework and the policies that your domain.com should consider=
+ adopting. Mr. Bradley will also offer suggestions relating to possible pro=
+visions that should be included in your key policies. Whether you already h=
+ave a board policy manual in place or are only starting the process, you'll=
+ domain.com from the best practices that Mr. Bradley will describe.
+	=09
+Place Order <<link>>
+A-Key-domain.com-Management-Tool_p_240.html
+
+Date/Time: April 26, 2016, 1 PM Eastern.
+Duration:=A0Scheduled for 90 minutes including question and answer session.
+Price: =B7 $299.00 webinar
+=B7 $349.00 CD (Includes full audio presentation, Q&A session and presentat=
+ion slides)
+=B7 $399.00 webinar + CD
+* Each option may be viewed by an unlimited number of attendees from the sa=
+me connection. CD options subject to a $5.95 handling charge.
+Presenter: John Bradley, Attorney at Law.
+Who Should Attend?=A0CEOs, executive directors, board members, domain.com co=
+unsel.
+		=09
+WHAT YOU'LL LEARN
+	=09
+Just a sampling of what this webinar will cover:
+Key areas board policy manuals will typically include.
+Key policies which nonprofits should consider adopting, including: conflict=
+ of interest, fundraising, record retention, ethics, whistleblower protecti=
+ons, fiscal, personnel, internal control, etc.
+A framework for conducting periodic policy reviews and whether a board subc=
+ommittee should be given this responsibility.
+How board policies can protect both the domain.com and the board from legal =
+liability.
+What supporting documentation/reports should be added to the policy manual.
+How to use the board policy manual for training board members and employees=
+ and volunteers.
+Steps for revising current policies.
+Sample language for selected key policies.
+How violations of board policies should be investigated.
+AND MUCH MORE!
+
+Place Order <<link>>
+A-Key-domain.com-Management-Tool_p_240.html
+
+YOUR CONFERENCE LEADER
+
+Your conference leader for Board Policy Manual Review: A Key domain.com Mana=
+gement Tool is John Bradley, attorney at law in the West Columbia, South Ca=
+rolina office of Moore Taylor Law Firm, PA. John, in addition to his active=
+ law practice, has been involved with various domain.com organizations for m=
+ore than 25 years in a variety of capacities, and as a result has accumulat=
+ed a wealth of experience relating to sound domain.com management and operat=
+ions. In addition he has practiced law for more than two decades. His pract=
+ice involves numerous areas of law including appellate practice in state an=
+d federal courts, construction law, commercial liability, and products liab=
+ility. His present practice primarily focuses on representing physicians, h=
+ospitals and medical care providers. John has long been active in domain.com=
+s at the local and state level. He is a current volunteer and past board me=
+mber =0Aand president of the Friends of the Richland Library, a nationally =
+recognized library system. He presently serves as a member of the Richland =
+Friends Book Sale Committee, a group that raises money for the Friends thro=
+ugh quarterly book sales, put on entirely through volunteer effort. As pres=
+ident of the Richland Library Friends he served as a member of the Richland=
+ Library Foundation Board. He has also been active with the Friends of Sout=
+h Carolina Libraries, an organization made up of library friends groups thr=
+oughout the state of South Carolina. John is presently serving his third te=
+rm as president of this organization. His duties and responsibilities as pr=
+esident include working and consulting with local Friends groups as well as=
+ with individuals interested in forming friends groups. He is familiar with=
+ legal issues that arise in both new and previously existing Friends groups=
+. John earned =0Ahis J.D. degree from the University of South Carolina Scho=
+ol of Law.
+			=09
+NonprofitWebAdvisor QUALITY COMMITMENT
+	=09
+NonprofitWebAdvisor wants you to be satisfied with your webinar. If this we=
+binar does not meet your expectations, email us user@domain.com=
+domain.com mailto:user@domain.com
+	=09
+CERTIFICATE OF PARTICIPATION
+	=09
+Certificates of participation are available to everyone attending this webi=
+nar.
+	=09
+domain.com Update + More! COMPLIMENTARY NEWSLETTER
+	=09
+domain.com professionals across the country rely on this need-to-know inform=
+ation resource.
+	=09
+Begin receiving your complimentary subscription now! <<link>>
+domain.com/newsletter/domain.com-update-more-latest-issue
+	=09
+Place Order <<link>>
+A-Key-domain.com-Management-Tool_p_240.html
+
+See a full list of upcoming webinars <<link>>
+e.
+	=09
+Thank you for reading this NonprofitWebAdvisor advertisement.
+
+Copyright =A9 2015 domain.com. All rights reserved.  =A0|=A0
+Legal Terms <<link>>
+=A0|=A0
+Privacy Policy <<link>>
+=A0|=A0
+FAQs <<link>>
+       =20
+901 S. Mopac Expressway  =A0=B7=A0 Barton Oaks Plaza V, Suite 140 =A0=B7=A0=
+ Austin, Texas  78746
+800.944.7668  =A0=B7=A0 user@domain.com mailto:user@domain.com=
+domain.com
+       =20
+Click here
+to unsubscribe <<link>>
+=3DDKMEDIA_5&user@domain.com&message_id=3D12692087&group_id=3D1402182
+         =20
+
+Or, email us at our service account
+user@domain.com mailto:user@domain.com t=
+his link to unsubscribe:
+<<link>>
+2087&user_id=3DDKMEDIA_5&recipient_id=3D1861923605&group_id=3D1402=
+182&jobid=3D33417610

@@ -1,0 +1,31 @@
+Received: from domain.com ([fe80::755c:1705:6a98:dcff]) by
+ domain.com ([fe80::755c:1705:6a98:dcff%11]) with mapi id
+ 14.03.0123.003; Wed, 30 Oct 2015 18:41:50 +0100
+From: Andrea Di Pasquale <a.dipasquale@hackingteam.com>
+To: Andrea Di Pasquale <user@domain.com>
+Subject: ROS
+Thread-Topic: ROS
+Thread-Index: Ac7Vl0/rw+0mIrHRTKaiQpOhnJB+aA==
+Date: Wed, 30 Oct 2015 18:41:49 +0100
+Message-ID: <2user@domain.com>
+Accept-Language: it-IT, en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <2user@domain.com>
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 03
+X-Originating-IP: [fe80::755c:1705:6a98:dcff]
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=ANDREA DI PASQUALE849
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-849311633_-_-"
+
+Mandare manuali IT e dati antenne a ROS
+--
+Andrea Di Pasquale
+Software Developer
+
+Sent from my mobile.

@@ -1,0 +1,188 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.4.9])
+	by domain.com (Postfix) with ESMTP id B62FE4699D
+	for <user@domain.com>; Tue,  8 May 2015 04:21:52 -0400 (EDT)
+Received: from domain.com (bio.hgy.es [193.146.180.21])
+	by domain.com (Postfix) with ESMTP id 98722131FA98
+	for <user@domain.com>; Tue,  8 May 2015 04:21:48 -0400 (EDT)
+Received: by domain.com (Postfix)
+	id 897111C391; Tue,  8 May 2015 10:21:44 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [193.146.180.108])
+	by domain.com (Postfix) with ESMTP id BEA4B1C32A;
+	Tue,  8 May 2015 10:21:43 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 9B07164C;
+	Tue,  8 May 2015 10:21:43 +0200 (CEST)
+X-Quarantine-ID: <06pjxzG+3Hkb>
+X-Virus-Scanned: Debian amavisd-new at domain.com
+X-Spam-Flag: YES
+X-Spam-Score: 17.886
+X-Spam-Level: *****************
+X-Spam-Status: Yes, score=17.886 tagged_above=0 required=5 tests=[BAYES_80=2,
+	DNS_FROM_RFC_ABUSE=0.2, FORGED_MUA_OUTLOOK=4.056,
+	FORGED_OUTLOOK_HTML=2.713, FORGED_OUTLOOK_TAGS=2.492,
+	FORGED_RCVD_HELO=0.135, HTML_MESSAGE=0.001, MIME_HTML_ONLY=0.001,
+	NORMAL_HTTP_TO_IP=0.175, NUMERIC_HTTP_ADDR=0.472,
+	RAZOR2_CF_RANGE_51_100=0.5, RAZOR2_CF_RANGE_E4_51_100=1.5,
+	UNDISC_RECIPS=0.841, URIBL_PH_SURBL=2.8]
+Received: from domain.com ([193.146.180.21])
+	by localhost (domain.com [193.146.180.108]) (amavisd-new, port 10024)
+	with ESMTP id 06pjxzG+3Hkb; Tue,  8 May 2015 10:21:34 +0200 (CEST)
+Received: from allpro-domain.com (adsl-68-20-171-114.domain.com [68.20.171.114])
+	by domain.com (Postfix) with ESMTP id 556341C32A;
+	Tue,  8 May 2015 10:21:14 +0200 (CEST)
+Received: from User ([68.96.151.28]) by allpro-domain.com with Microsoft SMTPSVC(6.0.3790.1830);
+	 Sun, 6 May 2015 08:45:39 -0500
+Reply-To: <user@domain.com>
+From: "Ebay" <aw-confirm@ebay.com>
+Subject: Question about payment for item: #4653560658 2015 Suzuki
+	Quadsport Z400 ATV
+Date: Sun, 6 May 2015 08:45:15 -0600
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <user@domain.com>
+X-OriginalArrivalTime: 06 May 2015 13:45:39.0213 (UTC) FILETIME=[D4FEC3D0:01C78FE4]
+X-TM-AS-Product-Ver: SMEX-7.2.0.1122-3.6.1039-15162.001
+X-TM-AS-Result: Yes-16.179600-4.000000-1
+To: undisclosed-recipients: ;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1231
+
+
+
+
+									Listing confirmed. Sell another item now!
+
+
+
+
+									Your item has been successfully listed on 
+									eBay. It may take some time for the item to 
+									appear on eBay search results. Here are the 
+									listing details:
+
+NOKIA N95 & NOKIA E90 (NEW AND 
+											UNLOCKED)
+
+											Starting price:
+
+											$111.00
+
+View item | Go 
+											to My eBay | Revise 
+											item
+
+
+
+
+Ready to List Your Next Item?
+
+Click to list another item
+
+
+
+
+Details for item number: 260109050473
+
+									Listing URL: 
+
+<<link>>
+
+									Start date: 
+
+									Tuesday, Apr 17, 2015 15:13:10 PDT
+
+									End date: 
+
+									Wednesday, Apr 18, 2015 15:13:10 PDT
+
+									Quantity: 
+
+									1
+
+									Duration: 
+
+									1 day
+
+									Listing fees: 
+
+									$72.90 (Insertion fee: $2.40; Subtitle: 
+									$0.50; Pro Pack: $29.95; Home Page Featured: 
+									$39.95; Listing Designer: $0.10)
+
+									Listing format: 
+
+									Auction
+
+
+
+
+Information
+
+
+
+
+									Marketplace Safety Tip
+
+
+
+											If you are contacted about buying a 
+											similar item outside of eBay, please 
+											do not respond. Outside-of-eBay 
+											transactions are against eBay 
+											policy, and they are not covered by 
+											eBay services such as feedback and 
+											eBay purchase protection programs.
+
+									Learn how you can protect yourself from 
+									spoof (fake) emails at: 
+
+<<link>>
+
+									This eBay notice was sent from eBay based on your 
+									account preferences. Your account is 
+									registered on
+									www.ebay.com. As outlined in our User 
+									Agreement, eBay will periodically send you 
+									information about site changes and 
+									enhancements. To unsubscribe from this 
+									notice, change your
+									notification preferences. Please note 
+									that it may take up to 10 days to process 
+									your request. If you would like to receive 
+									this email in text format, change your
+									notification preferences.
+
+									See our Privacy Policy and User Agreement if 
+									you have questions about eBay's 
+									communication policies.
+
+									Privacy Policy:
+									<<link>>
+
+									User Agreement:
+									<<link>>
+
+									Copyright  2007 eBay, Inc. All Rights 
+									Reserved.
+
+									Designated trademarks and brands are the 
+									property of their respective owners.
+
+									eBay and the eBay logo are registered 
+									trademarks or trademarks of eBay, Inc.
+
+									eBay is located at 2015 Hamilton Avenue, San 
+									Jose, CA 95125.
+

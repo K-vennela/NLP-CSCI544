@@ -1,0 +1,499 @@
+06.03.97
+fAJL partid.txt
+2.1    CO
+2.2    Professor
+2.3    Head of Group
+2.4    M
+2.5    Fritz
+2.6
+2.7    Schweingruber
+2.8.1  Swiss Federal Institute for Forest, Snow and Landscape
+Research
+2.8.2  Department of Ecology
+2.8.3  Forest and Climate Research Unit
+2.9
+2.10   Zuercherstrasse 111
+2.11
+2.12   8903
+2.13   Birmensdorf
+2.14   CH
+2.15   41 1 7392281
+2.16   41 1 7392215
+2.17   fritz.schweingruber@wsl.ch
+2.18   1
+2.19   6000
+2.20   0
+2.21   2000
+2.22   3000
+2.23   0
+2.24   1000
+2.26   0
+2.1    CR
+2.2    Doctor of Philosophy
+2.3    Senior Research Associate
+2.4    M
+2.5    Keith
+2.6
+2.7    Briffa
+2.8.1  University of East Anglia
+2.8.2  School of Environmental Sciences
+2.8.3  Climatic Research Unit
+2.9
+2.10
+2.11
+2.12   NR4 7TJ
+2.13   Norwich
+2.14   GB
+2.15   44 1603 592090
+2.16   44 1603 507784
+2.17   k.briffa@uea.ac.uk
+2.18   2
+2.19   6,000
+2.20   0
+2.21   2,000
+2.22   4,000
+2.23   0
+2.24   0
+2.25   0
+2.1    CR
+2.2    Doctor of Biological Sciences
+2.3    Head of the Laboratory of Dendrochronology
+2.4    M
+2.5    Stepan
+2.6    Grigor'evich
+2.7    Shiyatov
+2.8.1  Institute of Plant and Animal Ecology
+2.8.2
+2.8.3  Laboratory of Dendrochronology
+2.9    Ural Branch RAS
+2.10   8 Marta Street 202
+2.11
+2.12   620144
+2.13   Ekaterinburg
+2.14   RU
+2.15   7 3432 294080
+2.16   7 3432 294161
+2.17   plant@insec.quorus.e-burg.su
+2.18   3
+2.19   24000
+2.20   12000
+2.21   1300
+2.22   4700
+2.23   0
+2.24   1000
+2.25   5000
+2.1    CR
+2.2    Doctor of Biological Sciences
+2.3    Director of Forest Institute
+2.4    M
+2.5    Evgeny
+2.6    Alexandrovich
+2.7    Vaganov
+2.8.1  Institute of Forest
+2.8.2
+2.8.3  Laboratory of Dendrochronology
+2.9    Siberian Branch RAS
+2.10
+2.11
+2.12   660036
+2.13   Krasnoyarsk
+2.14   RU
+2.15   7 3912 431429
+2.16   7 3912 433686
+2.17   evag@ifor.krasnoyarsk.su
+2.18   3
+2.19   24000
+2.20   12000
+2.21   1300
+2.22   4700
+2.23   0
+2.24   1000
+2.25   5000
+fAJL power.txt
+"MULTI-MILLENNIAL-LENGTH DENDROCLIMATIC RECONSTRUCTIONS AT
+HIGH-LATITUDE REGIONS OF SIBERIA".
+By signing this declaration, I certify that the information given
+in this proposal relating to me and the team I represent is to
+the best of my knowledge true and complete. I have been involved
+in the preparation of the full proposal and I agree with its
+contents. I am fully authorised to commit myself and the team I
+represent to be ready to set up and execute all tasks, duties and
+obligations assigned to us in this research proposal, if
+selected.
+I hereby authorise the co-ordinator as lawful attorney and
+administrator and empower him to act all of the necessary actions
+to administrate validly the herein said rights on behalf of me in
+case the proposal should be selected by INTAS, inter alia, to
+negotiate and to conclude the co-operation agreement, as well as
+any amendments, variations or additions to the co-operation
+agreement on my behalf.
+Laboratory of Dendrochronology
+Institute of Forest SB RAS
+Krasnoyarsk
+Dr.Eugene A.Vaganov
+5 March, 1997
+fAJL projid.txt
+1.1 Multi-millennial-length dendroclimatic reconstructions
+at high-latitude regions of Siberia.
+1.2 5
+1.3 600
+1.4 36
+1.5 Oct-97
+1.6 4
+1.7 60000
+By signing this proposal, I certify that the information given in
+this proposal is the best of my knowledge, true and complete as
+received from all project participants; that all participants
+were involved in the preparation, agree with this project
+proposal and have declared themselves ready to perform the
+project as proposed in case of selection.
+I am fully authorised to commit myself and the team I represent
+to be ready to set up and execute all tasks, duties and
+obligations assigned to us in this research proposal and I am
+ready to act as the co-ordinator of the project.
+The proposal contains ..... pages.
+PROJECT CO-ORDINATOR           First name and family name:
+Fritz Schweingruber
+Date: ..... March,1997             Original signature:
+fAJL sum.txt
+4.1. TITLE OF THE PROJECT
+Multi-millennial-length dendroclimaticreconstructions
+at high-latitude regions of Siberia
+4.2. SUMMARY
+This research will make a major contribution to our knowledge of
+high-resolution climate variability at high latitudes of Western
+and Middle Siberia throughout the Holocene using the unique
+potential of tree-ring data.
+The specific objectives of this proposal are the development of
+two supra-long (each spanning 6-9000 years up to present)
+continuous larch ring-width chronologies at two distant each
+other high-latitude locations of Siberia (Yamal and Taimyr
+peninsulas). Ring-width chronologies developed from coniferous
+trees growing at the polar timberline in Siberia contain a very
+strong climatic signal, mainly summer air temperatures. With
+these chronologies high-resolution continuous and quantitative
+reconstruction of summer temperatures will be made.
+As in the areas of the past and present polar and upper
+timberlines trees megafossils have been preserved properly in
+large quantities in the Holocene deposits (alluvial, lacustrine
+and peat), there is a good possibility to develop continuous,
+multi-millennial tree-ring chronologies.
+Now the material already collected and measured (1800 subfossil
+wood samples from Yamal and 280 samples from Taimyr) has yielded
+the ring-width chronologies continuously spanning the last 3200
+years (Yamal) and 950 years (Taimyr).
+However, there are also many more samples that have been measured
+and have provided data, now assembled in a number of provisionally
+"floating" chronologies covering much of the period from 7000 to
+1700 B.C. (based on some 70 radiocarbon dates of samples of this
+wood). There is a fair chance that a 6-9000-year continuous
+chronologies will be constructed within the span of the proposed
+project.
+These chronologies and temperature reconstructions will be the
+first to be so long, reliable, annually-resolved and
+precisely-dated with known reliability across the whole of
+northern Hemisphere. These reconstructions will allow to compare
+and contrast the details of temperature changes at the
+moderate-continental region of Yamal Peninsula with the
+continental region of Taimyr Peninsula and allow modern and
+predicted temperature patterns to be compared with variability
+patterns of pre-industrial era. Participants of the proposed
+project are the well-known institutions which are engaged in the
+field of dendrochronology and dendroclimatology and have
+collaborated with each other during the last 6 years.
+fAJL workpro.txt
+3.1 TITLE
+Multi-millennial-length dendroclimatic reconstructions
+at high-latitude regions of Siberia
+3.2 OBJECTIVES
+This research will make a major contribution to our knoweledge of
+high-resolution climate variability at high latitudes of Western
+and Middle Siberia throughout the Holocene using the unique
+potential of tree-ring data.
+The specific objectives of this proposal are as follows:
+- to develop two supra-long (each spanning 6-9000 years up to
+present) continuous ring-width larch chronologies at two
+high-latitude locations of Siberia;
+- using these tree-ring chronologies, tomake a multi-millennial
+high-resolution continuous and quantitative reconstruction of
+summer temperatures;
+- to analyse spatio-temporal patterns of temperature variability
+at these locations over a range of timescales (annual, decadal,
+multi-decadal and centennial) and their connections with various
+forcing factors and other annual resolution records being
+developed elsewhere in the Arctic and Subarctic.
+3.3. BACKGROUND
+Reconstruction and analysis of natural climatic changes through
+the whole Holocene at high latitudes are of great importance as
+climatic conditions, especially air temperature, are most
+variable and sensitive to various forcing functions (Budyko,
+1980; Jones and Kelly, 1983; Intergovernmental Panel on Climate
+Change, 1990). However, there are a minute quantity of long,
+precisely-dated and high-resolution proxy climatic series for
+these regions.
+The territory of Yamal Peninsula located on the eastern boundary
+of influence of the Atlantic air masses and the territory of the
+eastern part of Taimyr Peninsula located between the Arctic High
+and Siberian High are of major importance for monitoring regional
+and global-mean air temperatures and assessing theories and
+models concerned with past, current and future climate changes
+(Lamb, 1977; Briffa and Jones, 1993; Moses et al., 1987).
+Tree rings as a proxy indicator of the past climatic conditions
+are of special interest as they allow to reconstruct climatic
+parameters with seasonal and annual resolution for many hundred
+and thousand years, to provide an exact absolute and relative
+dating of the tree-ring data, to establish high-frequency climate
+changes (from interannual to centennial timescales) with high
+confidence, to obtain dendroclimatic information practically for
+every site where trees grow at present or grew in the past.
+Intensive dendroclimatic investigations are carrying out in many
+countries and regions, mainly in temperate and subtropic zones
+(Fritts, 1976, 1991 ). At high latitudes such works began later
+(during the last two decades) and living trees were used
+primarily for developing tree-ring chronologies of 200-500 years
+long (Aniol and Eckstein, 1984; Shiyatov, 1984, 1986; Jacoby and
+D'Arrigo, 1989; Schweingruber, Briffa and Nogler, 1993; Briffa,
+Jones, Schweingruber, Shiyatov and Vaganov,1996; Jacoby, Wiles,
+D'Arrigo, 1996; Vaganov, Shiyatov and Mazepa, 1996). As in the
+areas of the past and present polar and upper timberlines trees
+megafossils have been preserved properly in large quantities on
+the surface and in the Holocene deposits (alluvial, lacustrine
+and peat), there is a possibility to develop continuous,
+multi-millennium and sensitive to climate tree-ring chronologies.
+Such works began in the Polar Ural Mountains (Shiyatov, 1986;
+Graybill and Shiyatov, 1992; Briffa, Jones, Schweingruber,
+Shiyatov and Cook, 1995), in the southern part of Yamal Peninsula
+(Shiyatov, Surkov, 1980; Hantemirov, 1995), in Finnish Lapland
+and Northern Sweden (Zetterberg, Eronen and Briffa, 1995), in
+the eastern part of Taimyr Peninsula (Vaganov, Naurazbaev,
+Schweingruber and Briffa, in press) and in the Lower Indigirka
+River at present. Now the longest, continuous and absolute-dated
+ring-width chronologies developed for the Yamal Peninsula
+(spanning 3200 years) and for the Northern Scandinavia (spanning
+2160 years) and the "floating" chronologies dated by the
+radiocarbon method extended back 9500 and over 7000 years
+respectively.
+Ring-width chronologies developed from coniferous trees growing
+at the polar timberline in moderate-continental and continental
+regions of Siberia contain a very strong climatic signal, mainly
+summer air temperatures of tree growth year (Graybill and
+Shiyatov, 1992; Briffa, Jones, Schweingruber, Shiyatov and Cook,
+1995; Hantemirov, 1995; Vaganov, Shiyatov and Mazepa, 1996).The
+explained variance over the calibration and verification periods
+is highest reported in the literature to date (65-70%) and it
+allows to make a quantitative reconstructions of summer
+temperatures. These chronologies and temperature reconstructions
+will be the first to be so long, reliable, annually-resolved and
+precisely-dated with known reliability across the whole of
+northern Hemisphere. These reconstructions will allow to compare
+and contrast the details of temperature changes at the
+moderate-continental region of Yamal Peninsula with the
+continental region of Taimyr Peninsula and allow modern and
+predicted temperature patterns to be compared with variability
+patterns of pre-industrial era.
+Participants of the proposed project are the well-known
+institutions which are engaged in the field of dendrochronology
+and dendroclimatology and have collaborated with each other
+during the last 6 years.
+- The Group of Tree-Ring and Site of the Swiss Federal Institute
+for Forest, Snow and Landscape Research (Birmensdorf,
+Switzerland). The Group is currently engaged on a major programme
+of densitometric and ring-width chronology development involving
+many sites across the whole of the Northern Hemisphere including
+sites with living trees in the polar timberline area of Russia.
+This work is specifically designed to provide
+climatically-sensitive data for use in large spatial climate
+reconstruction work. Dr. F.H.Schweingruber, Head of the Group, is
+known throughout the world for his work in wood anatomy and
+dendrochronology and the development of tree-ring densitometry.
+He has published extensively in different areas of wood anatomy
+and tree-growth research and has authored several classic books.
+- The Laboratory of Dendrochronology of the Institute of Plant
+and Animal Ecology of the Russian Academy of Sciences,
+Ekaterinburg, Russia is one of the leading laboratory in the
+field of dendrochronology in Russia. The Laboratory has an
+international reputation for its work on the developing
+ring-width chronologies at high latitudes and altitudes,
+reconstruction of climatic conditions, developing long-term
+chronologies, studying cycles in tree-ring series, using
+tree-ring data for studies of the upper and polar timberlines
+dynamics and forest succession. Dr. S.G.Shiyatov, Head of the
+Laboratory, is one of the pioneers of dendrochronology in Russia
+and has worked for more than 30 years in the Far North and
+mountains of the Urals, Siberia, Far East and Middle Asia. He has
+published more than 130 articles and three monographs. Dr.
+Shiyatov was the first who began to collect subfossil wood in
+Russia for developing long-term chronologies.
+- The Laboratory of Dendrochronology of the Institute of Forest
+of the Russian Academy of Sciences, Krasnoyarsk, Russia is
+another leading laboratory in the field of dendrochronology in
+Russia. Dr. E.A.Vaganov, Director of the Institute of Forest and
+Head of the Laboratory of Dendrochronology, has an international
+reputation for his work on the cell structure of wood lyers of
+coniferous trees, seasonal growth variations and cambium
+activity, developing simulation models of seasonal tree growth,
+developing ring-width and cell chronologies, reconstructing
+climatic conditions of the past using tree-ring chronologies. He
+has published more than 100 articles and 5 monographs.
+- The Climatic Research Unit of the University of East Anglia,
+Norwich, Great Britain is one of the world's leading research
+organisation specialising in the study of climate change: climate
+history, current climates, projected changes and impacts. Dr.
+K.R.Briffa, Senior Research Associate at the Climatic Research
+Unit, has considerable experience in climatology and with the use
+of statistical methods of climate analyses and dendroclimatic
+reconstruction, especially with regard to large-spatial-scale
+reconstructions of climate patterns and published many articles
+on the theoretical and practical aspects of dendrochronology and
+dendroclimatology, and on use of paleoclimate data for
+understanding current and possible future climates.
+3.4 SCIENTIFIC AND TECHNICAL DESCRIPTION
+3.4.1. RESEARCH ACTIVITIES
+Tree-ring data will be obtained from living trees and subfossil
+wood of Siberian larch (Larix sibirica Ledeb.) in western Siberia
+and Gmelini larch (Larix Gmelini Pilger) in central Siberia. The
+first location is situated in the southern part of Yamal
+Peninsula (67-688N, 69-718E), the second location in the eastern
+part of Taimyr Peninsula (71-738N, 98-1058E). There is a great
+many properly preserved subfossil wood in the Holocene deposits
+at both locations, mainly in the alluvial and peat deposits.
+The main variable measured will be ring width. This variable
+reflects properly climate influences on tree growth at the polar
+timberline areas of Siberia having a continental climate.
+Ring-width chronologies for the last 400-500 years will be
+developed from the oldest living trees. Extensions to these
+chronologies back further in time will be made by using subfossil
+material, joined with the living material by standard crossdating
+procedures. High-precision radiocarbon dates will be used for
+rough dating of "floating" tree-ring chronologies.
+The sampling subfossil wood and development of the Yamal's
+supra-long chronology began since 1982 by the workers of the
+Laboratory of Dendrochronology (Ekaterinburg). Most intensively
+this work was carried out during the last five years. Now the
+material already collected and measured (1800 subfossil wood
+cuts) has yielded the ring-width chronology continuously spanning
+the last 3200 years. However, there are also many more samples
+that have been measured and have provided data, now assembled in
+a number of provisionally "floating" chronologies covering much
+of the period from 7000 to 1700 B.C. (based on some 45
+radiocarbon dates of samples of this wood). These chronologies
+separated by 50 to 500 year length gaps. There is a fair chance
+that a 9000-year continuous chronology will be constructed for
+this location within the span of the proposed project.
+Similarly, work with a shorter history than the Yamal's research
+has clearly established potential to build a chronology at least
+as long in the Taimyr Peninsula where the modern polar timberline
+extends to about 72830'N, most northern over the world. This work
+is not so advanced as in Yamal, but the work to date suggests
+that very rapid progress is likely. Samples from living and dead
+trees have already been assembled at the Laboratory of
+Dendrochronology (Krasnoyarsk) into the 950-year continuous
+chronology. The collections from this location are not so
+extensive as those made to date at Yamal (280 subfossil wood
+samples), but there is an abundant supply of subfossil trees,
+many with over 300 annual rings. 25 radiocarbon dates of samples
+of this material suggest major phases of tree growth around 8500
+B.P. and 5000 B.P. The general distribution of the radiocarbon
+dates suggests that, eventually, sufficient trees can probably be
+located to span the whole of the last 10000 years. It is not
+expected that a continuous 10000-year ring-width chronology will
+be produced within timeframe of this project. However, there are
+good prospects of producing a 5-6000- year chronology to the
+present.
+3.4.2 RESEARCH RESULTS
+During three years we expect to develop the continuous and
+good-replicated tree-ring 9000-year larch chronology for the
+Yamal Peninsula and the 5-6000-year larch chronology for the
+Taimyr Peninsula. Using these chronologies we intend to
+reconstruct and analyse a summer temperature variation at several
+time scales (annual, decadal, multi-decadal and centennial) and
+compare the data obtained with other high-resolution
+Holocene-length proxy data (ice cores, laminated sediments,
+historical documents).
+The results of this project will be published primarily in the
+scientific literature in Russian and English and presented at
+different national and international conferences. Because of the
+fundamental interdisciplinarity and collaborative interaction
+within the subgroups, a number of multi-authored papers will be
+produced. The individual and mean ring-width chronologies and the
+reconstructions produced will be distributed to the international
+scientific community through submission to the International
+Tree-Ring Data Bank (Boulder, Colorado, USA) and to other
+national and international institutions and data centres.
+3.5 MANAGEMENT INFORMATION
+3.5.1 TASK DIVISION
+Dr F.H.Schweingruber (Swiss Federal Institute for Forest, Snow
+and Landscape Research) will be the project co-ordinator on the
+proposed project from the INTAS countries.
+Dr S.G.Shiyatov (Institute of Plant and Animal Ecology) will be
+the responsible scientist on the proposed project and he will
+take part in collecting, dating, developing and analysing the
+multi-millennial ring-width chronology at the area of Yamal
+Peninsula. The next young scientists of the Institute will be
+involved in the project:
+Rashit M. Hantemirov, Candidate of Biological Sciences,
+34 years old. He will take part in collecting, cross-dating
+and analysing the material.
+Alexander Yu. Surkov, technician, 30 years old. He will take part
+in collecting, preparing and measuring the subfossil wood samples.
+Dr E.A.Vaganov (Institute of Forest) will be the responsible
+scientist on the proposed project and he will take part in
+collecting, dating, developing and analysing the multi-millennial
+ring-width chronology at the area of Taimyr Peninsula. The next
+young scientists will be involved in the project:
+Mukhtar M. Naurazbaev, junior research fellow,35  years old.
+He will take part in collecting, preparing, measuring, cross-
+dating and analysing the material.
+Alexander V.Kirdyanov, post-graduate, 25 years old.
+He will take part in data processing, density measurements,
+chronology analysis.
+Dmitry V.Ovchinnikov, post-graduate, 26 years old.
+He will take part in cross-dating, data processing,
+chronology analysis.
+Dr K.R.Briffa (Climatic Research Unit) will be the responsible
+scientist on the proposed project and he will take part in
+analysing growth-climate relationships, developing statistical
+models of tree growth, extracting climatic signal, reconstructing
+and analysing climatic conditions of the remote past.
+3.5.2 PLANNING
+To carry-out the objectives of this proposal the workers of the
+Russian laboratories will carry out an intensive collecting
+subfossil wood during summers of 1997-1998 at two high-latitude
+locations (Yamal and Taimyr peninsulas) using helicopters, boats
+and ships. To finish the development of the Yamal chronology it
+is necessary to collect additionally no less than 300-400 cuts of
+subfossil wood. Much more intensive collecting (600-800 cuts for
+two field seasons) is needed to develop the Taimyr chronology.
+All samples collected during these two years and earlier will be
+measured and cross-dated at Ekaterinburg and Krasnoyarsk
+laboratories until the middle of 1999.
+The Russian laboratories together with the Climatic Research Unit
+of the University of East Anglia during 1997-1999 will be
+analysing the material obtained (standardization of individual
+series, development of mean chronologies, studying growth-climate
+relationships, developing statistical models of tree growth,
+extracting climatic signal, reconstructing and analysing climatic
+conditions of the remote past). This work will be finished at the
+end of 1999.
+3.5.3 EQUIPMENT
+Participants of the proposed project have the necessary equipment
+for fieldwork, measuring equipment and compatible software.
+3.5.4 SCIENTIFIC REFERENCES
+Briffa, K.R., Jones, P.D., Schweingruber, F.H., Shiyatov, S.G.
+and Cook, E.R. Unusual twentieth-century summer warmth in a
+1,000-year temperature record from Siberia. Nature, 1995, Vol.
+376, 13 July, 156-159.
+Briffa, K.R., Jones, P.D., Schweingruber, F.H., Shiyatov, S.G.,
+Vaganov, E.A. Development of a North Eurasian chronology network:
+Rationale and preliminary results of comparative ring-width and
+densitimetric analyses in Northern Russia. Radiocarbon, 1996,
+25-41.
+Hantemirov, R.M. A 2,305 year tree-ring reconstruction of mean
+June-July temperature deviations in the Yamal Peninsula.
+Publication of the Academy of Finland,1995, 6, 124-127.
+Shiyatov, S.G., Mazepa, V.S., Vaganov, E.A., Schweingruber, F.H.
+Summer temperature variations reconstructed by tree-ring Data at
+the polar timberline in Siberia. Radiocarbon, 1996, 61-70.
+Vaganov, E.A., Shiyatov, S.G., Mazepa, V.S. Dendroclimatic Study
+in Ural-Siberian Subarctic. Novosibirsk: "Nauka", Siberian
+Publishing Firm RAS, 1996, 246 pp. (in Russian).

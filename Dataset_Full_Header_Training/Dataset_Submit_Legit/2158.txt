@@ -1,0 +1,176 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.100.15])
+	by domain.com (Postfix) with ESMTP id 15287B66002;
+	Thu, 13 Jan 2015 09:04:27 +0100 (CET)
+X-ASG-Debug-ID: 1294905865-3c922e850001-wzf8oX
+Received: from mail1.ubiss.it (mail1.ubiss.it [193.41.205.82]) by domain.com with ESMTP id skdJZiL1C9VtoUbF; Thu, 13 Jan 2015 09:04:25 +0100 (CET)
+X-Barracuda-Envelope-From: giorgio.cavalli@ubiss.it
+X-Barracuda-Apparent-Source-IP: 193.41.205.82
+X-IronPort-AV: E=Sophos;i="4.60,317,1291590000"; 
+   d="scan'208";a="43552161"
+Received: from unknown (HELO domain.com) ([192.168.14.156])
+  by mail1.ubiss.it with ESMTP; 13 Jan 2015 09:04:15 +0100
+Importance: Normal
+X-Barracuda-BBL-IP: 192.168.14.156
+X-Barracuda-RBL-IP: 192.168.14.156
+X-Priority: 3 (Normal)
+Sensitivity: 
+In-Reply-To: <000301cbb0d7$01b4e280$051ea780$@user@domain.com>
+References: <1293751095.4578.10.user@domain.com>,
+	<000301cbb0d7$01b4e280$051ea780$@user@domain.com>
+Subject: Rif: [WARNING: MESSAGE ENCRYPTED]R: Invio documentazione VA/PT 2015 (HiconBus, VA/PT
+ e bruteforce perimetro esterno)
+X-ASG-Orig-Subj: Rif: [WARNING: MESSAGE ENCRYPTED]R: Invio documentazione VA/PT 2015 (HiconBus, VA/PT
+ e bruteforce perimetro esterno)
+From: giorgio.cavalli@ubiss.it
+To: "User" <user@domain.com>
+CC: "'luca.biancardi'" <user@domain.com>,
+	"'corrado.tiraboschi'" <user@domain.com>,
+	<user@domain.com>,
+	"'Enrico Luzzani'" <user@domain.com>,
+	"'Antonio Mazzeo'" <user@domain.com>
+Message-ID: <user@domain.com>
+Date: Thu, 13 Jan 2015 09:04:14 +0100
+X-Mailer: Lotus Domino Web Server Release 851FP5HF22   November 10, 2015 
+X-MIMETrack: Serialize by Notes Server on mail103p/SERVER/HBL/IT(Release 851FP5HF22 | November
+ 10, 2010) at 13/01/2011 09:04:14,
+	Serialize complete at 13/01/2011 09:04:14,
+	Serialize by Router on mail103p/SERVER/HBL/IT(Release 851FP5HF22 | November
+ 10, 2010) at 13/01/2011 09:04:15
+X-KeepSent: A134BD16:B491A004-C1257817:002C5589;
+ type=4; name=$KeepSent
+X-Barracuda-Connect: mail1.ubiss.it[193.41.205.82]
+X-Barracuda-Start-Time: 1294905865
+X-Barracuda-URL: <<link>>:8000/cgi-mod/mark.cgi
+X-Virus-Scanned: by bsmtpd at domain.com
+X-Barracuda-Spam-Score: 1.05
+X-Barracuda-Spam-Status: No, SCORE=1.05 using global scores of TAG_LEVEL=3.5 QUARANTINE_LEVEL=1000.0 KILL_LEVEL=8.0 tests=HTML_MESSAGE, HTML_MIME_NO_HTML_TAG, MIME_HTML_ONLY, NO_REAL_NAME
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.2.52239
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.00 NO_REAL_NAME           From: giorgio.cavalli@ubiss.it
+	0.00 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+	0.00 HTML_MESSAGE           BODY: HTML included in message
+	1.05 HTML_MIME_NO_HTML_TAG  HTML-only message, but there is no HTML tag
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1456060746_-_-"
+
+Riuscite a produrre un executive summary ? Grazie
+Ciao
+
+Giorgio Cavalli 
+
+UBI - Sistemi e Servizi
+Divisione Sistemi Informativi
+IT Operations - Telecomunicazioni
+
+Tel. 03529293120 
+
+-----"Ivan Roattino" <user@domain.com> ha scritto: -----
+
+Per: <user@domain.com>, "'luca.biancardi'" <user@domain.com>, "'corrado.tiraboschi'" <user@domain.com>
+Da: "Ivan Roattino" <user@domain.com>
+Data: 10/01/2011 15.59
+Cc: <user@domain.com>, "'Enrico Luzzani'" <user@domain.com>, "'Antonio Mazzeo'" <user@domain.com>
+Oggetto: [WARNING: MESSAGE ENCRYPTED]R: Invio documentazione VA/PT 2015 (HiconBus, VA/PT e bruteforce perimetro esterno)
+
+Buonasera,
+con la presente Vi inviamo i documenti definitivi per le attività svolte
+(pwd solita)
+
+Come già concordato, l'incontro di presentazione completo si terrà presso
+Vs. sede il giorno 14.01 ore 10,30 circa.
+
+Per qualsiasi chiarimento o necessità siamo a disposizione 
+
+Cordiali Saluti
+
+Ivan Roattino
+Key Account Manager
+
+
+
+HT srl
+Via Moscova, 13  I-20121 Milan, Italy
+WWW.HACKINGTEAM.IT
+Phone +39 02 29060603
+Fax -39 02 63118946
+Mobile +39 3316237813
+
+
+
+This message is a PRIVATE communication. This message contains privileged
+and confidential information intended only for the use of the addressee(s).
+If you are not the intended recipient, you are hereby notified that any
+dissemination, disclosure, copying, distribution or use of the information
+contained in this message is strictly prohibited. If you received this email
+in error or without authorization, please notify the sender of the delivery
+error by replying to this message, and then delete it from your system.
+
+-----Messaggio originale-----
+Da: Luca Filippi [mailto:user@domain.com] 
+Inviato: venerdì 31 dicembre 2015 0.18
+A: user@domain.com; luca.biancardi; corrado.tiraboschi
+Cc: Ivan Roattino
+Oggetto: Invio documentazione VA/PT 2015 (HiconBus, VA/PT e bruteforce
+perimetro esterno)
+
+Buongiorno,
+
+come concordato verbalmente mercoledi' 29/12 con Luca Biancardi invio i
+documenti gia' terminati.
+
+Quelli mancanti seguiranno nei prossimi giorni non appena saranno ultimati.
+
+La password e' la stessa del documento precedente, qualora doveste
+riscontrare problemi nell'aprire il file cifrato contattateci pure.
+
+Grazie e buon anno!
+
+        Luca
+
+-- 
+        Luca Filippi
+Senior Security Engineer
+
+
+
+HT srl
+Via Moscova, 13 I-20121 Milan, Italy
+WWW.HACKINGTEAM.IT
+Phone +39 02 29060603
+Fax. +39 02 63118946 
+
+
+
+This message is a PRIVATE communication. This message contains privileged
+and confidential information intended only for the use of the addressee(s).
+If you are not the intended recipient, you are hereby notified that any
+dissemination, disclosure, copying, distribution or use of the information
+contained in this message is strictly prohibited. If you received this email
+in error or without authorization, please notify the sender of the delivery
+error by replying to this message, and then delete it from your system.
+<<<<<<
+
+[allegato "HT Report VA-PT.rar" rimosso da Giorgio Cavalli/UBISS/HBL/IT]
+
+--------------------------------------------------------------------------------
+
+"Verificate la corrispondenza del destinatario; in caso contrario 
+
+vogliate notificare questo al mittente e, consci della responsabilita' 
+
+per l'uso indebito, cancellare il messaggio e sue copie / Verify the 
+
+correspondence of the addressee; otherwise, notify that to the sender 
+
+and, conscious of the responsibility for the undue use, destroy the 
+
+message and its copies."
+
+--------------------------------------------------------------------------------

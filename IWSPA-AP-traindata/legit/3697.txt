@@ -1,0 +1,17 @@
+Thanks Tim,
+am working my way through the comments
+Have also re-read Mike Evans 2002 paper.
+I am frustrated with the associate editors comments. He seems to be overtly defending
+Mike's reconstruction which are quite different in nature - i.e. he reconstructed 2 spatial
+fields - the 1st being ENSO related and the 2nd being probably related to the PDO although
+it is not clear form the text.
+The coral data-sets are also quite different, with only ~ 4 series being common to both
+studies. In fact, many of the coral series used by Mike did not pass my screening process.
+Lastly, the only statistic use by Mike for validation is the correlation coefficient. I
+like to think I have been a little more robust at least in this regard.
+I need to diplomatically word all this. I never wanted to criticise Mike's work in anyway
+way. It was for that reason that I made little mention to it initially.
+anyway, I hope to get a more cleaner version done by early next week.
+will keep you all posted
+Rob.
+PS. do you have the FORTRAN code for Ed Cook's SSA software?

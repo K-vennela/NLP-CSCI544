@@ -1,0 +1,87 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Thu, 19 May
+ 2015 13:16:08 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Thu, 19 May 2015 
+ 13:16:05 -0400
+Received: from [10.87.0.110] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 924514660;
+ Thu, 19 May 2015 12:16:16 -0500
+X-Note-AR-ScanTimeLocal: 5/19/2016 12:16:07 PM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: user@domain.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->->United States->
+X-Note-Sending-IP: 209.85.220.171
+X-Note-Reverse-DNS: mail-qk0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from [209.85.220.171] (HELO mail-qk0-domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 142826803;
+ Thu, 19 May 2015 12:16:07 -0500
+Received: by mail-qk0-domain.com with SMTP id n63so51985591qkf.0;
+        Thu, 19 May 2015 10:16:07 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:subject:From: <hrtsleeve@gmail.com>
+         :content-transfer-encoding:message-id:references:to;
+        bh=gMQ2QUgWe4wF/qChm4f5+IYz5LT53nzsCveGrPqufiY=;
+        b=BUe/xZPjsuRpuV2uFqHqwODhzH/jMV2AR7Yx883uAhvm5Fi2YcONIsKJQHbaG6y7Yd
+         ssL8qcUWUv3l43FCNc0kQxFCbMiyC9fZzKO3p9QuRwbTZ1zCjloqejAB57dIqEbDMMCO
+         R0/fa/nbqlhkfpVnX+Jjt+Iimck2FM7l91dN4nLTqyWpfdb1zmFM3QmeNtEZ/c16K/bN
+         DMnZvaSMuEmsVOrp4hJIJvlDHn7Hwz9EXF6uMQFeyQNCvq6guNxDXB9SnRgMeiPCOlCJ
+         6ZJ2HwGj2e9FtxESvaF61paTFMorI5dRm6dpyTvIroUBqp4pRLS2+K/IoCqqN9n7MoH7
+         NazQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:subject:From: <hrtsleeve@gmail.com>
+         :content-transfer-encoding:message-id:references:to;
+        bh=gMQ2QUgWe4wF/qChm4f5+IYz5LT53nzsCveGrPqufiY=;
+        b=l91QhoOAt4cT9JX9M2nDuI19nE7c8Dvkz5cwOVZ7S8REhrYPFOlAWeviZ9Aztw/zmu
+         CM0nAiiwGyQ0q9gsxlILRSkdhH7G0PGx1WUGzipW3jB6vsof8wMZtcraNNU3kAsex1hv
+         mLV0tIwf3cx9ir6Bo2equKsZbGFr0u1RHWTAaFsa+Bz1PdlnEwrtbMRR13shO6cY7Y4z
+         8rc4jgxsYuYnn6IUkVeaaAv6watoD11eZqBQnMG27fsQni2MS0wiq16gXHDcw6vivKU2
+         uZCX4FjPysSB7bkLYuYOtR/Um1aHsVlfmIqTWSNmOurNTAd3fbaXxGttQtD+m5YSYsoF
+         w7Tg==
+X-Gm-Message-State: AOPr4FUxI7qb/fpLdO+8Q8D0HzSnkV8fuon9kNdimhZb7u/Q+j/uFIyj2ROqLZ292ej9lA==
+X-Received: by 10.237.34.240 with SMTP id q45mr62901qtc.90.1463678167280;
+        Thu, 19 May 2015 10:16:07 -0700 (PDT)
+Return-Path: <user@domain.com>
+Received: from [10.132.133.8] ([166.170.33.41])        by smtp.gmail.com with
+ ESMTPSA id q7sm29331qtd.34.2016.05.19.10.16.06        (version=TLSv1/SSLv3
+ cipher=OTHER);        Thu, 19 May 2015 10:16:06 -0700 (PDT)
+Content-Type: multipart/alternative;
+	boundary="Apple-Mail-4322A9F2-87C0-47BE-B4A3-1CD12F603C1A"
+Subject: Re: INTERVIEW REQUEST: FACE THE NATION
+From: <hrtsleeve@gmail.com>
+X-Mailer: iPad Mail (13E238)
+In-Reply-To: <05user@domain.com>
+Date: Thu, 19 May 2015 13:16:05 -0400
+CC: "P. Aikowsky" <user@domain.com>, "Banfill, Ryan" <user@domain.com>,
+	Kate Houghton <user@domain.com>, Tracie Pough <user@domain.com>
+Content-Transfer-Encoding: 7bit
+Message-ID: <user@domain.com>
+References: <0633user@domain.com> <79user@domain.com> <user@domain.com> <0633user@domain.com> <user@domain.com> <user@domain.com> <0user@domain.com> <05user@domain.com>
+To: "User" <user@domain.com>
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Let's take this offline. I basically agree with you. When you say "cancel", h=
+ave you confirmed this?
+
+DWS
+

@@ -1,0 +1,305 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Sun, 22 May
+ 2015 18:42:35 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Sun, 22 May 2015 
+ 18:42:24 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 928740660
+ for user@domain.com; Sun, 22 May 2015 17:42:33 -0500
+X-Note-AR-ScanTimeLocal: 5/22/2016 5:42:33 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @turner.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: LOCAL->United States->
+X-Note-Sending-IP: 198.2.130.95
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from domain.com ([198.2.130.95] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 140059529
+ for user@domain.com; Sun, 22 May 2015 17:42:33 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=domain.com;
+ h=Subject:From: =?utf-8?Q?CNN=20Politics=20Nightcap?= <CNNNightcap@turner.com>
+ bh=ZwL706jyQ5HrlfhIE1zbCA11Gco=;
+ b=eW/F6iN2Vjot9aCp8elsNg0TkTjv51Vk9VtptkugOlsBpXSNWlpJHF2i0TGPMe+XHPr5Xc4mEQxL
+   K6i1+Dz+AoVrCkK9xfa7bg/+/yoS8nsyAhR08G7z4Q+NHQ1SBohAMtpa+5WjC270BlPnUA96BFkz
+   UQy7559BOZ9LaRgeph8=
+Received: from (127.0.0.1) by domain.com id h88qti1ohkg8 for
+ <user@domain.com>; Sun, 22 May 2015 22:42:30 +0000 (envelope-from
+ <user@domain.com>)
+Subject: =?utf-8?Q?Too=20close=20to=20call=3A=20=27Trump=20vs.=20Clinton=27=20tightens=20up?=
+From: =?utf-8?Q?CNN=20Politics=20Nightcap?= <CNNNightcap@turner.com>
+Reply-To: =?utf-8?Q?CNN=20Politics=20Nightcap?= <user@domain.com>
+To: <user@domain.com>
+Date: Sun, 22 May 2015 22:42:30 +0000
+Message-ID: <47user@domain.com>
+X-Mailer: MailChimp Mailer - **CID88d70abcc2531c496baa**
+X-Campaign: mailchimp47c9040f6ff957a59bd88396e.88d70abcc2
+X-campaignid: mailchimp47c9040f6ff957a59bd88396e.88d70abcc2
+X-Report-Abuse: Please report abuse for this campaign here: <<link>>
+X-MC-User: 47c9040f6ff957a59bd88396e
+X-Feedback-ID: 43253633:43253633.258109:us11:mc
+List-ID: 47c9040f6ff957a59bd88396emc list <47c9040f6ff957a59bd88396e.123725.list-domain.com>
+X-Accounttype: pr
+List-Unsubscribe: <mailto:user@domain.com?subject=unsubscribe>, <<<link>>>
+Sender: CNN Politics Nightcap <user@domain.com>
+x-mcda: FALSE
+Content-Type: multipart/alternative;
+	boundary="_----------=_MCPart_2102957045"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+CNN Politics: Nightcap
+View this email in your browser (<<link>>
+c9040f6ff957a59bd88396e&id=3D88d70abcc2&e=3D531c496baa)
+May 22=2C 2015 
+by Gregory Krieg
+Welcome to the CNN Politics Nightcap and good Sunday evening from New York=
+=2E Two big presidential polls broke out while you slept in this morning=2C=
+ and they brought some uninspiring news for Hillary Clinton and Donald Tru=
+mp. So what does it mean for a tightening race? Bernie Sanders weighs in.=
+ Your bartender is Greg Krieg=2C (<<link>>
+g) filling in for Eric Bradner (<<link>>
+id=3Dnl_pol_071915_profile?sr=3Dnl_pol_072215_bradner) . The tip jar: nigh=
+user@domain.com (mailto:user@domain.com) .
+
+** Sanders is itching to shed Organizationchair
+------------------------------------------------------------
+
+The fact of it? Not much of a surprise. Bernie Sanders and his supporters=
+ have been critical of Debbie Wasserman Schultz and the Democratic Nationa=
+l Committee from the drop.
+
+The superdelegate surge to Clinton=2C those oddly timed debates ... the se=
+nator from Vermont has all but accused Wasserman Schultz of rigging the ra=
+ce.
+
+But he went a step further this weekend=2C telling CNN's Jake Tapper he wi=
+ll=2C if elected=2C effectively remove her as Organizationchair and would=2C in th=
+e meantime=2C openly support and raise money (<<link>>
+1/politics/bernie-sanders-debbie-wasserman-schultz/index.html) for her Dem=
+ocratic primary challenger=2C Tim Canova.
+
+"Well=2C clearly=2C I favor her opponent=2C" Sanders said during an interv=
+iew on "State of the Union." "His views are much closer to mine than as to=
+ Wasserman Schultz's."
+
+** Settle in -- this could take awhile
+------------------------------------------------------------
+
+Democrats who rooted for a Donald Trump takeover of the GOP with the idea=
+ that it would pave Hillary Clinton's road to the White House are getting=
+ nervous. Recent polling is putting a damper on the schadenfreude=2C as Tr=
+ump increasingly looks the part of a formidable opponent.
+
+A couple of new polls out Sunday show Trump and Clinton in a statistical d=
+ead heat (<<link>>
+ump-polls/index.html) =2C further validating concerns recently voiced by a=
+ngsty liberals=2C such as Clinton's own 2015 press secretary=2C Jay Carson=
+=2E
+
+"I hear far too many of my liberal friends calling (Trump) a 'joke' and ac=
+ting like the general (election) is in the bag=2C which is nuts because he=
+'s dangerous and he has a path to victory=2C" Carson wrote on Instagram.
+
+As CNN's Stephen Collinson reports=2C the nail-biting has begun (<<link>>
+domain.com/2016/05/21/politics/hillary-clinton-donald-trump-nailbiter/index=
+=2Ehtml) .
+
+** Time to call up the reinforcements?
+------------------------------------------------------------
+
+With Trump and Clinton carrying significant negatives into the general ele=
+ction contest=2C this could be the year that running mates make a real imp=
+act on the outcome in November.
+
+CNN's Will Cadigan took a look at the candidates' respective weaknesses an=
+d put together a list of potential vice presidential picks who could help=
+ satisfy=2C reassure or energize unenthusiastic and anxious
+voters.
+
+Here (<<link>>
+vice-presidential-picks/index.html)  is the list. (<<link>>
+/05/21/politics/donald-trump-hillary-clinton-vice-presidential-picks/index=
+=2Ehtml)  Note: One of the names floated by Cadigan -- Sen. Bob Corker of Te=
+nnessee -- has plans to meet with Trump on Monday in New York=2C CNN's Jim=
+ Acosta confirms.
+
+(Oh=2C and while we're talking running mates=2C former Massachusetts Gov.=
+ Bill Weld=2C now seeking to become the Libertarian Party's vice president=
+ial candidate=2C said Trump's plan to deport an estimated 11 million undoc=
+umented immigrants reminded him of Nazi terror tactics (<<link>>
+/2016/05/22/politics/bill-weld-holocaust-donald-trump/index.html) .
+Buzzing
+
+Larry David and Kate McKinnon reprised their roles as Bernie Sanders and H=
+illary Clinton=2C tossing back a couple drinks before sashaying through an=
+other killer cold open on NBC's "Saturday Night Live." Enjoy their two-ste=
+p in its entirety right now (<<link>>
+) .
+
+Last Call
+
+** The party warms up ... but the cash stays cold
+------------------------------------------------------------
+
+Trump has opened the door to significant outside donations=2C but traditio=
+nally big GOP spenders aren't walking through -- at least not yet. In The=
+ New York Times (<<link>>
+p-republican-fundraising.html?ref=3Dpolitics) =2C Alex Burns and Jonathan=
+ Martin asked the deep-pocketed holdouts why they planned to sit this one=
+ out.
+
+And while some indicated they could still come around to the presumptive n=
+ominee=2C Connecticut investor Michael Vlock seems unlikely to budge: "He=
+=E2=80=99s an ignorant=2C amoral=2C dishonest and manipulative=2C misogyni=
+stic=2C philandering=2C hyper-litigious=2C isolationist=2C protectionist b=
+lowhard." (Sooo you're telling me there's a chance?! (<<link>>
+com/watch?v=3DTCKOI24k_UY) ) But really=2C check out the story (<<link>>
+=2domain.com/2016/05/22/us/politics/donald-trump-republican-fundraising.ht=
+ml?ref=3Dpolitics) .
+
+** Constitutional crisis averted
+------------------------------------------------------------
+
+On Thursday=2C the Oklahoma Legislature passed a bill to criminalize abort=
+ion procedures in the Sooner State=2C sending it to Gov. Mary Fallin for f=
+inal approval.
+
+But the anti-abortion rights Republican -- and Trump veepstakes contender=
+ (<<link>>) -- balke=
+d=2C vetoing the legislation Friday=2C and heading off an avalanche of law=
+suits and a likely Supreme Court showdown.
+
+How high were the stakes? Steve Vladeck=2C a CNN contributor and law profe=
+ssor at the American University Washington College of Law=2C put it this w=
+ay: "This bill is as direct an assault on Roe v. Wade -- and the Supreme C=
+ourt's subsequent jurisprudence -- as anything we've seen before. If this=
+ law is upheld=2C then (the Roe decision) is meaningless." CNN's Theodore=
+ Schleifer=2C Will Cadigan and Kristen Holmes recount the close call. (htt=
+p://domain.com/2016/05/20/politics/oklahoma-governor-vetoes-bill-that-wou=
+ld-criminalize-abortion/index.html)
+
+** Is Graham about to board the #TrumpTrain?
+------------------------------------------------------------
+
+In December=2C the senator from South Carolina called Trump a "race-baitin=
+g=2C xenophobic=2C religious bigot." But less than six months later=2C Lin=
+dsey Graham is quietly urging his fellow Republicans to back the presumpti=
+ve nominee.
+
+The news -- as reported here (<<link>>
+d-trump-lindsey-graham-republican-party/index.html) by CNN's Jeremy Diamon=
+d -- represents a big step toward a thaw in the former primary rivals' onc=
+e icy relationship. They recently enjoyed what Graham described as a "cord=
+ial=2C pleasant phone conversation=2C" and now a prominent GOP fund-raiser=
+ in Florida tells CNN that the senator told donors at a private event Satu=
+rday "that we need to get behind (Trump)."
+
+** Inside Politics: About that 'Trump Effect'
+------------------------------------------------------------
+
+Trump's ability to connect in a general election campaign certainly worrie=
+s many in the Republican establishment. But what about those more measured=
+ GOP officials seeking re-election in the House and Senate? The convention=
+al wisdom is that a sinking nominee could drag down anyone with an R next=
+ to their name.
+
+But new research suggests that the so-called "Trump effect" isn't material=
+izing. CNN's John King explains here (<<link>>
+on-center-2016/ip-forecast-michelle-obama-hillary-clinton/index.html) .
+Straight Up
+
+** "I don't want to have guns in classrooms=2C although in some cases teac=
+hers should have guns in classrooms=2C frankly."
+------------------------------------------------------------
+
+**
+-- Donald Trump=2C twisting himself into a rhetorical pretzel on the quest=
+ion of allowing firearms in schools (<<link>>
+s/hillary-clinton-donald-trump-nra/index.html) during a morning chat with=
+ "Fox and Friends."
+------------------------------------------------------------
+
+Tipsy
+
+Presidential historian (and Twitter savant) Michael Beschloss (<<link>>
+domain.com/BeschlossDC/) turned up these 34 precious words of advice former=
+ first lady Eleanor Roosevelt graciously offered a young John F. Kennedy i=
+n early 1959.
+
+Closing Time
+
+Does Trump have mob ties? Did he ever? Politico asked and this is what it=
+ found. (<<link>>
+mob-organized-crime-213910)  ... Tenth time's the charm? President Barack=
+ Obama takes another whack at his long-desired "pivot" to Asia as his visi=
+t count reaches double-digits (<<link>>
+a-asia-trip-vietnam-japan-hiroshima/index.html) . ... The Texas GOP's atte=
+mpt to enshrine anti-LGBT language into its platform is upended by the mig=
+ht of the Oxford comma. The Guardian explains (<<link>>
+us-news/2016/may/21/texas-republican-party-gay-grammar-wording?CMP=3Dfb_us=
+) .
+Paid Content
+<<link>>
+_sendid=3D88d70abcc2&cs_esp=3Dmailchimp&cs_offset=3D0&cs_stripeid=3D2621
+
+<<link>>
+_sendid=3D88d70abcc2&cs_esp=3Dmailchimp&cs_offset=3D1&cs_stripeid=3D2621
+
+<<link>>
+_sendid=3D88d70abcc2&cs_esp=3Dmailchimp&cs_offset=3D2&cs_stripeid=3D2621
+<<link>>
+tm_campaign=3Dcnn&utm_content=3Danimatedlogo
+<<link>>
+IAPn Share (<<link>>
+domain.com%2Fb2IAPn)
+<<link>>+close+to+call%3A+%27Trump+vs.+C=
+linton%27+tightens+up: http%3A%2F%2domain.com%2Fb2IAPn Tweet (<<link>>
+domain.com/intent/tweet?text=3DToo+close+to+call%3A+%27Trump+vs.+Clinton%27+t=
+ightens+up: http%3A%2F%2domain.com%2Fb2IAPn)
+<<link>>
+=3D88d70abcc2&e=3D531c496baa Forward (<<link>>
+ard?u=3D47c9040f6ff957a59bd88396e&id=3D88d70abcc2&e=3D531c496baa)
+Subscribe to Nightcap (<<link>>)
+Get the Nightcap=2C a comprehensive summary of the most important politica=
+l news=2C delivered to your inbox daily.
+
+Your bartender for ** CNN Politics' Nightcap (<<link>>)
+is Eric Bradner (** @ericbradner (<<link>>)
+) =E2=80=94 Tips=2C thoughts and beer recommendations are always welcome a=
+t ** user@domain.com (mailto:user@domain.com)
+=2E
+Copyright =C2=A9 2015 Cable News Network=2C LP=2C LLLP.  A Time Warner Com=
+pany.  All Rights Reserved.=2C All rights reserved.
+ You are receiving this message because you subscribed to the CNN Politics=
+ Nightcap newsletter.
+
+Our mailing address is:
+Cable News Network=2C LP=2C LLLP.  A Time Warner Company.  All Rights Rese=
+rved.
+One CNN Center
+Atlanta=2C GA 30328
+USA
+** unsubscribe from this list (<<link>>
+?u=3D47c9040f6ff957a59bd88396e&id=3Da4165679e3&e=3D531c496baa&c=3D88d70abcc2=
+)
+** update subscription preferences (<<link>>
+le?u=3D47c9040f6ff957a59bd88396e&id=3Da4165679e3&e=3D531c496baa)
+** Facebook (<<link>>)
+** Twitter (<<link>>)
+** Tumblr (<<link>>)

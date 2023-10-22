@@ -1,0 +1,181 @@
+Received: from domain.com (146.215.230.105) by
+ domain.com (43.130.141.77) with Microsoft SMTP Server id
+ 8.3.342.0; Sat, 14 Jun 2015 11:00:07 -0700
+Received: from domain.com ([160.33.194.230])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s5EI06Ra020003	for <user@domain.com>; Sat, 14 Jun 2015 
+ 18:00:06 GMT
+Received: from mail199-co9-domain.com (mail-domain.com
+ [207.46.163.20])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s5EHxxhA029383
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Sat, 14 Jun 2015 18:00:00 GMT
+Received: from mail199-co9 (localhost [127.0.0.1])	by
+ mail199-co9-domain.com (Postfix) with ESMTP id E751CA406EB	for
+ <user@domain.com>; Sat, 14 Jun 2015 18:00:04 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:12.130.136.195;KIP:(null);UIP:(null);IPV:NLI;H:omp.news.united.com;RD:omp.news.united.com;EFVD:NLI
+X-SpamScore: 1
+X-BigFish: vps1(zzbb2dI8d0Ie0f1hc430I1936Ie0eahaceIzz1f42h2148h1ee6h1de0h1fdah162I2073h2146h1202h1e76h2189h1d1ah1d2ah21bch1fc6h208ch1f8fizz1de098h1df219h1def03h177df4h17326ah16fI1def87h8275bh1ce122h1bc7b9h1def86h1de097h186068h1954cbh18602eh1b778fh1ce120h164c38j1ce121i1df164iz2fh5eh5fh839h93fh950hd25h107ah10d2h1288h12a5h12bdh137ah13b6h13eah1441h1537h153bh162dh1631h1758h18e1h1946h19b5h1b0ah224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1fe8h1ff5h2216h2336h2438h2461h2487h24d7h2516h2545h255dh25f6h2605h268bh26d3h27e2h282bh2847h28a6h2064k)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail199-co9: domain of news.united.com designates 12.130.136.195 as permitted sender) client-ip=12.130.136.195; user@domain.com; helo=omp.news.united.com ;domain.com ;
+Received: from mail199-co9 (localhost.localdomain [127.0.0.1]) by mail199-co9
+ (MessageSwitch) id 140276879866733_30732; Sat, 14 Jun 2015 17:59:58 +0000
+ (UTC)
+Received: from domain.com (unknown [10.236.132.245])	by
+ mail199-domain.com (Postfix) with ESMTP id 0B8B270004F	for
+ <user@domain.com>; Sat, 14 Jun 2015 17:59:58 +0000 (UTC)
+Received: from omp.news.united.com (12.130.136.195) by
+ domain.com (10.236.130.23) with Microsoft SMTP Server id
+ 14.16.227.3; Sat, 14 Jun 2015 17:59:57 +0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=united; d=news.united.com;
+ h=MIME-Version:Content-Type:Content-Transfer-Encoding:Date:From: MileagePlus Statement <MyMileagePlus@news.united.com>
+ bh=JLoKeck8dtKuHiCs9yPYyY1v7fY=;
+ b=Osddf96VL84W/Vj5Z4bcKZcpVLmGenjNRQaftr7xyjbm7JV//50J+olZWE+U0SNTUi0bsHepQ3wJ
+   8ij7ZcHvNGr6Q6ZbXfcpRNttHGq+hecySYPOPIzVkexunr0r1vhl4S4VW+w63NETezg8uV0XJnTG
+   ZLcATbcJV58nGJt+wuA=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=united; d=news.united.com;
+ b=ZO5B1GWe/5JYzBU4Jigr0cY4Ds7mjIOA00SRCEoJF53LKbQZO9VX+5BcJI6LnJC4ddSCV4VGM4fy
+   mwlnSHOG1QnvqmpgTuoufEcKXKhyLV2a6xIver8O8u65nios/qoUomGWSJ7tNBY+uJF4YvNKwlVf
+   Fkh7Ruc+onZZo9QeTdk=;
+Received: by omp.news.united.com id hji6pq160v85 for
+ <user@domain.com>; Sat, 14 Jun 2015 10:59:56 -0700 (envelope-from
+ <user@domain.com>)
+Received: by omp.news.united.com id hji6po160v87 for
+ <user@domain.com>; Sat, 14 Jun 2015 10:59:56 -0700 (envelope-from
+ <user@domain.com>)
+Date: Sat, 14 Jun 2015 10:59:55 -0700
+From: MileagePlus Statement <MyMileagePlus@news.united.com>
+Reply-To: MileagePlus Statement <user@domain.com>
+Subject: June monthly statement: Enter for a chance to win 100
+X-cid: ca.13530.5
+X-sgxh1: HuPXiHkJHtxkiLQkhgPQJhu
+To: <user@domain.com>
+X-valueof-DROP_DATE: 06/09/2014
+X-valueof-CAMPAIGN_CODE: C000008531
+X-valueof-CELL_CODE: ET01
+X-valueof-ONEPASS_NUMBER: TN357582
+Message-ID: <0.0.user@domain.com>
+Return-Path: user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+ <<link>>    To ensure delivery to your inbox, please add user@domain.com to your address book.
+ <<link>>    
+
+ <<link>>    View in web browser
+
+ <<link>>    
+
+ <<link>>     <<link>>    MileagePlus - United     
+ <<link>>    
+
+ <<link>>    
+
+ <<link>>    Enter for a chance to win 100,000 miles and $5,000 shopping spree       
+ <<link>>    01
+
+award miles
+
+ <<link>>    
+
+Amy Pascal
+
+MileagePlus® #: XXXXX582
+
+ <<link>>    
+
+ <<link>>    
+
+MileagePlus status: Member
+
+Summary as of 06/06/2014
+
+ <<link>>    
+
+ <<link>>    
+
+Year to date:
+
+Premier qualifying miles2:
+
+0
+
+Premier qualifying segments2:
+
+0
+
+Premier qualifying dollars2 : 
+
+$0
+
+ <<link>>    
+
+My account       <<link>>    
+
+ <<link>>    
+
+
+
+
+ <<link>>    
+
+Enroll by July 10 and earn up to 3,000 bonus miles 
+
+Learn more 
+
+ <<link>>     <<link>>    
+
+Find summer vacation bliss wherever you land 
+
+ <<link>>    
+
+ <<link>>    Book now         <<link>>    
+
+
+
+ <<link>>    
+
+ <<link>>    
+
+Earn thousands of miles on handpicked products 
+
+ <<link>>    
+
+ <<link>>    Shop now         <<link>>    
+
+
+
+ <<link>>            
+
+ <<link>>    
+
+Earn up to 10,000 miles for two event tickets 
+
+Find tickets 
+
+ <<link>>    
+
+ <<link>>    
+
+ <<link>>     <<link>>    
+
+ <<link>>     
+
+ <<link>>    
+
+Earn 25,000 bonus miles when you upgrade to DIRECTV 
+
+ <<link>> <<link>> <<link>> <<link>> <<link>> <<link>> <<link>>  
+Learn more              
+
+ <<link>>     <<link>>     
+
+ <<link>>    
+
+Earn 4X miles per Avis car rental and save up to 35% 
+
+ <<link>>    
+
+Learn more      
+

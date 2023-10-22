@@ -1,0 +1,85 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Thu, 19 May
+ 2015 17:42:02 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Thu, 19 May 2015 
+ 17:41:58 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 925219650
+ for user@domain.com; Thu, 19 May 2015 16:42:09 -0500
+X-Note-AR-ScanTimeLocal: 5/19/2016 4:42:10 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: user@domain.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->PRIVATE->United States->
+X-Note-Sending-IP: 209.17.115.45
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from domain.com ([209.17.115.45] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 139905669
+ for user@domain.com; Thu, 19 May 2015 16:42:09 -0500
+Received: from domain.com ([10.30.71.209])	by
+ domain.com (8.14.4/8.14.4) with ESMTP id u4JLfwaX021774
+	for <user@domain.com>; Thu, 19 May 2015 17:41:58 -0400
+Received: (qmail 31729 invoked by uid 0); 19 May 2015 21:41:58 -0000
+X-TCPREMOTEIP: 45.49.244.80
+X-Authenticated-UID: user@domain.com
+Received: from unknown (HELO ?192.168.1.7?)
+ (user@domain.com@45.49.244.80)  by 0 with ESMTPA; 19 May 2015 
+ 21:41:58 -0000
+From: Lindsay Rachelefsky <lindsay@skyadvisorygroup.com>
+Content-Type: multipart/alternative;
+	boundary="Apple-Mail-80E15599-7497-4396-81A1-406DD3CFBC2C"
+Content-Transfer-Encoding: 7bit
+Subject: Fwd: Update: Upcoming events with the President, Convention
+Message-ID: <594660user@domain.com>
+Date: Thu, 19 May 2015 14:41:57 -0700
+References: <3user@domain.com>
+CC: Kristin White <user@domain.com>
+To: Jordan Kaplan <user@domain.com>
+X-Mailer: iPhone Mail (13F69)
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Not until we merge right?
+
+Lindsay Rachelefsky
+Sky Advisory Group
+9713 Santa Monica Blvd, Suite 207
+Beverly Hills, CA 90210
+310-497-5573
+
+Begin forwarded message:
+
+oad have each contributed $33,400 to the Hillary Victory Fund, do they curre=
+ntly qualify for the Main Line convention package?
+
+anted to be sure and include you. If you have friends that would be interest=
+ed in attending either of the below events, please forward these invitations=
+ to them! As we head into our Convention and the last year of President Obam=
+a=E2=80=99s administration, we want to be sure folks have every opportunity t=
+o support the President.=20
+
+ntion in Philadelphia from July 25-28! As the presidential primary unfolds, t=
+he DNC=E2=80=99s services and tools will provide the eventual Democratic nom=
+inee (and candidates up and down the ticket) with significant tactical advan=
+tages. Thank you for all you have done to ensure we are in this position of s=
+trength! We have several Convention packages available to ensure you have th=
+e access to credentials, tickets, briefings and events throughout the Conven=
+tion. We are less than 70 days away from Convention, and I want to be sure y=
+ou will be with us in Philly =E2=80=93 take a look at the packages and let m=
+e know which is best for you!
+

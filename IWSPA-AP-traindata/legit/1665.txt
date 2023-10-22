@@ -1,0 +1,41 @@
+Kevin,
+I will be around tomorrow (so Dec 21) until Dec 23 inclusive. Then again from Jan 3.
+I will be checking email during the break from Dec 28 onwards.
+Are you in control of the glossary additions and modifications?
+As to change of base period - this seems like a decision for the whole of WGI. To redo
+the global temperature average, I can just move the series up/down, but this isn't
+the correct way to do it. I should talk out a new base period from all the individual
+stations and recalculate anomalies for the oceans. For the oceans this isn't a
+problem, but the land it is a serious problem. Many stations have good (i.e. near
+complete base periods for 1961-90) but I'll lose hundreds, maybe over a thousand,
+stations if I went to 1981-2000.
+For both surface temperature and precipitation we don't have spatially complete datasets
+(like models) so it will be quite difficult.
+For the circulation indices (like SOI and NAO) based on station pairs there is a
+variance term (SD). Some of the character of the series will change. We could
+easily adjust all these series by simple offsetting but it isn't doing it properly.
+I'm in the throws of a project with the HC checking all the 61-90 normals we have
+for series that are incomplete, to ensure we don't have any biases.  This has taken
+quite a time and I don't want to waste the effort.
+The arguments of Albert and Dave make a lot of sense - continuity with the TAR etc.
+These sort of things can be explained, but then the FOD will not be compatible with
+all the papers we are referring to.  This will lead to lots of confusion. I would like to
+stick with 1961-90. I don't want to change this until 1981-2010 is complete, for 3
+reasons : 1) We need 30 years and 81-10 will get all the MSU in nicely, and 2)
+I will be near retirement !!  3) is one of perception.  As climatologists we are
+often changing base periods and have done for years. I remember getting a number
+of comments when I changed from 1951-80 to 1961-90. If we go to a more recent one
+the anomalies will seem less warm - I know this makes no sense scientifically, but
+it gives the skeptics something to go on about ! If we do the simple way, they will say
+we aren't doing it properly.
+Best idea might be to show some maps of 1981-2000 minus 1961-90 to show spatially
+where it makes a difference for temp and precip.  Showing it is quite small and likely
+within the intermodel differences for years which are only nominally 1981-2000. This
+might
+keep both sides happy.
+We also probably need to consider WGII. Also the paleo chapter will find 1981-2000
+impossible.  1961-90 is difficult for them but not insurmountable.
+Cheers
+Phil
+PS Fatima has received all the emails - her email only came to me.  Not heard from
+some of our LAs.

@@ -1,0 +1,41 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Fri, 8 May 2015 14:46:45 +0200
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id E14BF60033	for
+ <user@domain.com>; Fri,  8 May 2015 13:23:19 +0100 (BST)
+Received: by domain.com (Postfix)	id 69D9F4440B51; Fri,  8 May 2015 
+ 14:46:38 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from EmadPC (unknown [192.168.1.198])	(using TLSv1 with cipher
+ ECDHE-RSA-AES256-SHA (256/256 bits))	(No client certificate requested)	by
+ domain.com (Postfix) with ESMTPSA id 660A6444048A	for
+ <user@domain.com>; Fri,  8 May 2015 14:46:38 +0200 (CEST)
+From: Emad Shehata <e.shehata@hackingteam.com>
+To: 'Antonio Mazzeo' <user@domain.com>
+Subject: QUESTO E' il mio INDIRIZZO
+Date: Fri, 8 May 2015 14:46:45 +0200
+Message-ID: <001401d0898d$0a8f9380$1faeba80$@user@domain.com>
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdCJjQpe10cb28TkRIW4jIb+ViJQoQ==
+Content-Language: it
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EMAD SHEHATA450
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-145527159_-_-"
+
+  Emad Shehata
+Key Account Manager
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com
+mobile: +39 3357939078
+phone: +39 0229060603   

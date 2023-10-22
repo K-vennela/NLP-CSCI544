@@ -1,0 +1,24 @@
+Hi all,
+let me add to Fortunat that I feel Keith and Tim have done a tremendous job in very thorny
+terrain. And I agree with Peck - science has moved way past the "hockey stick" debate, and
+it is great how our chapter shows that.
+Nevertheless, we should remember that the Von Storch et al. (2004) critique was a
+fundamental methodological critique that applies to *all* (or at least most) proxy
+reconstructions - it is not just a Storch vs. Mann quarrel (although it is that as well, of
+course). Hence it is worth mentioning their error, else this could still call the entirety
+of our conclusions from that section into question.
+Currently, our draft just says:
+At present, the extent of any such bias in specific reconstructions is uncertain
+This is true, but leaves in my view slightly too much room for interpretation - like, it
+would still encompass the interpretation that the bias of all reconstructions is
+desastrous, so they are all "nonsense" in Von Storch's words.
+What about saying something along the lines:
+"At present, the extent of any such bias in specific reconstructions is uncertain, although
+probably not as large as suggested by Von Storch et al. (2004), whose work was affected by
+a calibration error (Wahl, Ritson and Amman, 2006)."
+Regards, Stefan
+p.s. Tim: Are you convinced the more recent papers by the VS group use the correct
+calibration? In those curves that are intended to show the pseudoproxies perform poorly
+even when calibrated correctly, as long as you add a lot more noise, I wonder why the
+pseudoproxies perform poorly even within the calibration interval, where they now should be
+calibrated to properly reproduce the 20th C warming trend, and they don't?

@@ -1,0 +1,80 @@
+Received: from domain.com (146.215.230.104) by
+ domain.com (43.130.141.78) with Microsoft SMTP Server id
+ 8.3.342.0; Thu, 10 Jul 2015 14:55:11 -0700
+Received: from domain.com ([160.33.194.231])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s6ALtBBS030893	for <user@domain.com>; Thu, 10 Jul 2015 
+ 21:55:11 GMT
+Received: from mail63-co9-domain.com (mail-domain.com [207.46.163.20])
+	by domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s6ALv4IE005130	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128
+ verify=FAIL)	for <user@domain.com>; Thu, 10 Jul 2015 21:57:05 GMT
+Received: from mail63-co9 (localhost [127.0.0.1])	by mail63-co9-domain.com
+ (Postfix) with ESMTP id EDA6BCC0160	for <user@domain.com>; Thu, 10
+ Jul 2015 21:55:09 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:192.64.237.154;KIP:(null);UIP:(null);IPV:NLI;H:mx-justfab-domain.com;RD:mx-justfab-domain.com;EFVD:NLI
+X-SpamScore: 2
+X-BigFish: vps2(z59c9hz758Ic857hdbb0izz1f42h1ee6h1de0h2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6h208ch1fdahzebhz8275ch1d7338h1de098h1def03h17326ah1def87h8275bh1bc7b9h8275dh1defc1h1def86h1de097h186068h172c6ch1ce120h1a691ciz2fheh5fh839he5bh1288h12a5h137ah139eh13eah1441h14ddh1504h1537h162dh1631h1758h1898h18e1h1946h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1e23h1fe8h1ff5h20f0h2218h2216h226dh24afh2327h2336h2438h2461h2487h24d7h2516h2545h2565h25f6h2605h268bh26d3h27e2h282bh28a1h28b0h29d0h2a24h2b05h214ai)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail63-co9: domain of domain.com designates 192.64.237.154 as permitted sender) client-ip=192.64.237.154; user@domain.com; helo=mx-justfab-domain.com ;domain.com ;
+Received: from mail63-co9 (localhost.localdomain [127.0.0.1]) by mail63-co9
+ (MessageSwitch) id 1405029306679575_27721; Thu, 10 Jul 2015 21:55:06 +0000
+ (UTC)
+Received: from domain.com (unknown [10.236.132.230])	by
+ mail63-domain.com (Postfix) with ESMTP id A1997840041	for
+ <user@domain.com>; Thu, 10 Jul 2015 21:55:06 +0000 (UTC)
+Received: from mx-justfab-domain.com (192.64.237.154) by
+ domain.com (10.236.130.26) with Microsoft SMTP Server id
+ 14.16.227.3; Thu, 10 Jul 2015 21:55:06 +0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; s=mt; d=domain.com;
+ h=Date:From: Deadline.com <alerts@deadline.com>
+ bh=afN4sUM6YxPSULeMSe12upxhVqc=;
+ b=Xgja2R+wRIf4sKThiI6nxcAmt7WhotdeHbBBD5Qbut6uaXHvQS60CCdDmiSasud8Kt1Qh4kaoK5M
+   jgTXaKIM2C3flJBM0yoHyDI4zIoArF007Wv6bSTa06L+PA1itw7f1fS5FPoIrZByjf/+Dh7qdoQU
+   vXEMCEEWNb+MRG99l6w=
+Received: from nyp1-p-p4129-prd-jma-05.sailthru.pvt (64.34.57.234) by
+ mx-justfab-domain.com id hns5s41qqbsh for <user@domain.com>; Thu,
+ 10 Jul 2015 17:55:13 -0400 (envelope-from <user@domain.com>)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1405029332;
+	s=sailthru; d=deadline.com;
+	h=Date:From: Deadline.com <alerts@deadline.com>
+	bh=QY9pT0Hv9s1U8Ih+azpIkIoM4Ly8zlr/I2gT6YK67kA=;
+	b=TQ2Wi63M5+ovbjyfCg8/8DfQ8R+U60hUv3Z0CqUnNcOSQ4E1X6IO/v2Nbe4Ijhkh
+	jYKjqHmfjxOzYVO9aMbwA/FmbW3p3lcZBiRQimY0+vfFTRl9LLFbEyjsZVetpPO5jWX
+	AsTegtYcHH/DdeK6bzyL66M9QfdD8Pe7Zz1KsSCY=
+Date: Thu, 10 Jul 2015 17:55:32 -0400
+From: Deadline.com <alerts@deadline.com>
+To: <user@domain.com>
+Message-ID: <20140710215532.2813935.5867@domain.com>
+Subject: [domain.com] TCA: Cinemax Picks Up 'The Knick' For A Second
+ Season
+Precedence: bulk
+X-TM-ID: 20140710215532.2813935.5867
+X-Info: Message sent by domain.com customer Deadline
+X-Info: We do not domain.com unsolicited commercial email
+X-Info: Please report abuse by forwarding complete headers to
+X-Info: user@domain.com
+X-Mailer: domain.com
+X-JMailer: nyp1-p-p4129-prd-jma-05.sailthru.pvt
+X-IADB-IP: 65.39.215.25
+X-IADB-IP-REVERSE: 25.215.39.65
+X-IADB-URL: <<link>>
+X-Unsubscribe-Web: <<link>>
+List-Unsubscribe: <<<link>>>, <mailto:user@domain.com>
+X-rpcampaign: stdgp2813935
+Return-Path: user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+<<link>> 
+
+<<link>> 
+
+        Deadline Hollywood has posted urgent news:              
+
+        TCA: Cinemax Picks Up 'The Knick' For A Second Season           
+
+        For all of Deadline's headlines, follow us @Deadline on Twitter.                
+
+This email was sent to user@domain.com by Deadline. To ensure delivery to your inbox (and not your spam folder), please add user@domain.com to your address book. If you prefer not to continue receiving email communications, ple

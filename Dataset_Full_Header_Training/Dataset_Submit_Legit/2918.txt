@@ -1,0 +1,60 @@
+Received: from domain.com (146.215.230.103) by
+ domain.com (43.130.141.77) with Microsoft SMTP Server id
+ 8.3.297.1; Sun, 9 Feb 2015 11:32:14 -0800
+Received: from domain.com ([160.33.194.230])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s19JWEID032521	for <user@domain.com>; Sun, 9 Feb 2015 
+ 19:32:14 GMT
+Received: from mail16-va3-domain.com (mail-domain.com
+ [216.32.180.115])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s19JWD33019508
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Sun, 9 Feb 2015 19:32:13 GMT
+Received: from mail16-va3 (localhost [127.0.0.1])	by mail16-va3-domain.com
+ (Postfix) with ESMTP id 9324F24025B	for <user@domain.com>; Sun,  9
+ Feb 2015 19:32:13 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:199.16.156.157;KIP:(null);UIP:(null);IPV:NLI;H:spring-chicken-ar.twitter.com;RD:spring-chicken-ar.twitter.com;EFVD:NLI
+X-SpamScore: 2
+X-BigFish: vps2(z579eh551biz9371Ic616hd772he0eahc857hzz1f42h2148h208ch1ee6h1de0h1fdah2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6hzz17326ah8275bh1bc7b9h8275dh1de097h186068h172c6ch1ce121iz2fh5fh2a8h839ha12hd25h1288h12a5h12bdh137ah13eah1441h14ddh1504h1537h153bh162dh1631h1758h18e1h1901h1946h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1fe8h1ff5h20f0h2216h22d0h2336h2438h2461h2487h24d7h2516h2545h214ai1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail16-va3: domain of bounce.twitter.com designates 199.16.156.157 as permitted sender) client-ip=199.16.156.157; user@domain.com; helo=spring-chicken-ar.twitter.com ;.twitter.com ;
+Received: from mail16-va3 (localhost.localdomain [127.0.0.1]) by mail16-va3
+ (MessageSwitch) id 1391974331497135_25219; Sun,  9 Feb 2015 19:32:11 +0000
+ (UTC)
+Received: from domain.com (unknown [10.7.14.231])	by
+ mail16-domain.com (Postfix) with ESMTP id 73BAB26027B	for
+ <user@domain.com>; Sun,  9 Feb 2015 19:32:11 +0000 (UTC)
+Received: from spring-chicken-ar.twitter.com (199.16.156.157) by
+ domain.com (10.7.99.23) with Microsoft SMTP Server (TLS) id
+ 14.16.227.3; Sun, 9 Feb 2015 19:32:11 +0000
+DKIM-Signature: v=1; a=rsa-sha1; d=twitter.com; s=dkim-201303; c=relaxed/relaxed;
+	q=dns/txt; user@domain.com; t=1391974330;
+	h=From: Twitter <info@twitter.com>
+	bh=bUBctIPxlCXRzHzSpmZrWHzSQ4k=;
+	b=MjEj80r/DUYxmNr9V5pfsYkKezgTI/OgTEF/z1YKsQT5lAtMUz2UL6Bhb3lQxfwd
+	DsHLVWu3vxG69BT8cxKojtJuwTxCWodFCUbGx9aGVrw3to4Ip++r07hOUypZC+sM
+	0vPCd4mjTzpdqdbH988gIq3CBgLof8CnrjynCw6MkNc=;
+X-MSFBL: YW15X3Bhc2NhbEBzcGUuc29ueS5jb21AYXRsYS1hcW4tMDUtc3IxLUV2ZXJ5dGhp
+	bmcuMTc3QEV2ZXJ5dGhpbmdAYW15X3Bhc2NhbFxAc3BlLnNvbnkuY29tXEA5MlxA
+	ODMwMzExODNcQDBcQDFkZmQ0ZDEwN2QyOThiNzgyOTU1NzgzNGExZjEwNzgyNjUx
+	MmE2YTA=
+Date: Sun, 9 Feb 2015 19:32:10 +0000
+From: Twitter <info@twitter.com>
+To: Amy Pascal <user@domain.com>
+Subject: Jump Street Movies retweeted a tweet from SINGER BOY ALEX JAY  on
+ Twitter!
+Precedence: Bulk
+Message-ID: <user@domain.com>
+Return-Path: user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+<<link>>+21+20140208
+        <<link>>+21+20140208                     Amy Pascal,     
+Here's a tweet that was just shared on Twitter.         
+
+                 Go to Twitter           
+
+
+

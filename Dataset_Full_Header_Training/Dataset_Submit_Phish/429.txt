@@ -1,0 +1,48 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [10.23.1.4])
+	by domain.com (Postfix) with ESMTP id AFE75536F21
+	for <user@domain.com>; Fri, 28 Jan 2015 12:07:06 -0500 (EST)
+Received: from 10.23.1.4 (unknown [216.117.150.44])
+	by domain.com (Postfix) with SMTP id 6CEDC85A734
+	for <user@domain.com>; Fri, 28 Jan 2015 12:01:04 -0500 (EST)
+Received: from  [172.100.4.116]
+	by 10.23.1.4 id 2Y1xxSg6d9bT;
+	Fri, 28 Jan 2015 16:06:39 -0100
+Message-ID: <h9t543-04--20y-285gsa4$f4$28$-0@rsaxnu7c>
+From: "PayPal" <service@paypal.com>
+To: <user@domain.com>
+Subject: PayPal Account Security Measures
+Date: Fri, 28 Jan 05 16:06:39 GMT
+X-Mailer: MIME-tools 5.503 (Entity 5.501)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="3A46DE8E_72A_"
+X-Priority: 3
+X-MSMail-Priority: Normal
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 83
+
+Dear PayPal Member,
+
+Your account has been randomly flagged in our system as a part of our rout=
+ine security measures. 
+This is a must to ensure that only you have access and use of your PayPal =
+account and to ensure a safe PayPal experience. We require all flagged acc=
+ounts to verify their information on file with us. To verify your Informat=
+ion at this time, please domain.com our secure server webform by clicking the h=
+yperlink below
+
+Click here to verify =
+your Information
+
+ Thank you for using PayPal!
+
+The PayPal Team
+
+Please do not reply to this e-mail. Mail sent
+to this address cannot be answered. For assistance, log
+in

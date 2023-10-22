@@ -1,0 +1,19 @@
+<x-flowed>
+Hi Eystein and Peck,
+sorry, but I'm *still* working on the figures.  On the simulations 
+one, we were requested to include results from the new Stendel et al. 
+(2005, Clim. Dyn.) simulation with ECHAM4-OPYC3 for the last 500 
+years.  Did you get these data already?  I've just emailed Martin 
+Stendel to ask for them, but thought I'd check in case you already had them.
+Cheers
+Tim
+Dr Timothy J Osborn
+Climatic Research Unit
+School of Environmental Sciences, University of East Anglia
+Norwich  NR4 7TJ, UK
+e-mail:   t.osborn@uea.ac.uk
+phone:    +44 1603 592089
+fax:      +44 1603 507784
+web:      <<link>>~timo/
+sunclock: <<link>>~timo/sunclock.htm
+</x-flowed>

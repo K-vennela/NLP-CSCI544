@@ -1,0 +1,78 @@
+Return-Path: <>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 5FE2423CA9F
+	for <user@domain.com>; Mon, 21 May 2015 23:45:09 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id PJVuZQL4j5Kc for <user@domain.com>;
+	Mon, 21 May 2015 23:45:07 -0500 (CDT)
+Received: from domain.com (domain.com [65.55.83.131])
+	by domain.com (Postfix) with ESMTP id 72ECD23CAA3
+	for <user@domain.com>; Mon, 21 May 2015 23:45:07 -0500 (CDT)
+Received: from domain.com (10.9.14.245) by
+ domain.com (10.9.40.50) with Microsoft SMTP Server (TLS) id
+ 14.1.225.23; Tue, 22 May 2015 04:44:53 +0000
+Received: from mail21-tx2-domain.com (10.9.14.236) by
+ domain.com (10.9.40.27) with Microsoft SMTP Server id
+ 14.1.225.23; Tue, 22 May 2015 04:44:53 +0000
+Received: from mail21-tx2 (localhost [127.0.0.1])	by mail21-tx2-domain.com
+ (Postfix) with ESMTP id DE82FA02A8;	Tue, 22 May 2015 04:44:52 +0000 (UTC)
+X-BigFish: VPS49(z21eIzc85dhzz1202hzz8275bh10a5edkjz2fh2a8h668h839hd25hf0ah)
+X-FB-OUTBOUND-SPAM: yes
+X-SpamScore: 49
+X-Forefront-Antispam-Report: CIP:209.131.83.32;KIP:(null);UIP:(null);IPV:NLI;H:mail.washjeff.edu;RD:mail.washjeff.edu;EFVD:NLI
+Received-SPF: pass (mail21-tx2: domain of washjeff.edu designates 209.131.83.32 as permitted sender) client-ip=209.131.83.32; user@domain.com; helo=mail.washjeff.edu ;washjeff.edu ;
+Received: from mail21-tx2 (localhost.localdomain [127.0.0.1]) by mail21-tx2
+ (MessageSwitch) id 1337661891219422_3787; Tue, 22 May 2015 04:44:51 +0000
+ (UTC)
+Received: from domain.com (unknown [10.9.14.245])	by
+ mail21-domain.com (Postfix) with ESMTP id DA0BF4400BF;	Tue, 22 May 2015 
+ 04:44:50 +0000 (UTC)
+Received: from mail.washjeff.edu (209.131.83.32) by domain.com
+ (10.9.99.138) with Microsoft SMTP Server (TLS) id 14.1.225.23; Tue, 22 May
+ 2015 04:44:50 +0000
+Received: from exch-mstore.washjeff.edu ([209.131.83.31]) by
+ exch-cas.washjeff.edu ([209.131.83.32]) with mapi; Tue, 22 May 2015 00:45:02
+ -0400
+From: Joseph DiSarro <jdisarro@washjeff.edu>
+Date: Tue, 22 May 2015 00:45:02 -0400
+Subject: 05/22/2012 Validate
+Thread-Topic: 05/22/2012 Validate
+Thread-Index: AQHNN9WmgJZF6OP/9UeoZnrkGWlSxg==
+Message-ID: <90710user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+acceptlanguage: en-US
+Content-Type: multipart/alternative;
+	boundary="_000_90710BD5A44FB64C80656FC703CE01A4027C33B47732exchmstorew_"
+MIME-Version: 1.0
+To: Undisclosed recipients:;
+X-FOPE-CRA-Verdict: 209.131.83.32$domain.com%0%1%washjeff.edu%False%False%0$domain.com%0%1%washjeff.edu%False%False%0$itn.co.uk%17439%4%washjeff.edu%False%False%0$domain.com%16325%4%washjeff.edu%False%False%0$domain.com%0%1%washjeff.edu%False%False%0$domain.com%0%1%washjeff.edu%False%False%0$domain.com%0%1%washjeff.edu%False%False%0$domain.com%0%1%washjeff.edu%False%False%0$
+Reply-To: <user@domain.com>
+X-OriginatorOrg: washjeff.edu
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 91
+
+IT Service,
+
+You have exceeded the domain.com of 23432 storage on your mailbox set by your
+WEBCTSERVICE/Administrator, and you will be having problems in sending and
+recieving mails Until You Re-Validate. To prevent this, please click on
+the link below to reset your account.
+
+CLICK HERE<<<link>>
+key=3DdGZwdHc4RUc2X2V1YUxxR1B2M1hjblE6MQ>
+
+Failure to do this, will result in limited access to your mailbox Warning
+!!! Do not send your username and password via email.
+
+Regards,
+IT Service
+System Administrator

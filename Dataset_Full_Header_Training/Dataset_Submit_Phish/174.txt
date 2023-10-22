@@ -1,0 +1,102 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [10.3.4.5])
+	by domain.com (Postfix) with ESMTP id 1D2B8468EB;
+	Thu,  8 Jun 2015 05:08:55 -0400 (EDT)
+Received: from 64.105.88.2 (domain.com [64.105.88.2])
+	by domain.com (Postfix) with SMTP id C6FBB6FA540;
+	Thu,  8 Jun 2015 05:01:40 -0400 (EDT)
+Received: from 136.129.151.169 by ; Thu, 08 Jun 2015 02:55:32 -0700
+Message-ID: <user@domain.com>
+From: "HSBC Bank Online" <service@hsbc.co.uk>
+Reply-To: "User" <user@domain.com>
+To: user@domain.com, user@domain.com, user@domain.com
+Subject: Limited Account Access Details
+Date: Thu, 08 Jun 2015 04:52:32 -0500
+X-Mailer: The Bat! (v1.52f) Business
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--69298481134085444"
+X-Priority: 1
+X-MSMail-Priority: High
+Status: 
+X-Status: 
+X-Keywords: 
+
+Complete Your Account Verification
+
+#message .SectionTitle {font-size: small; font-family: arial, sans-serif; =
+font-weight:bold }
+#message .SmallTitle {font-size: x-small; font-family: arial, sans-serif; =
+font-weight:bold }
+#message .SectionBody {font-size: x-small; font-family: arial, sans-serif}=
+
+#message .DetailTable, #message .DetailTable th {font-size: 10 pt; font-fa=
+mily: arial, sans-serif; font-weight:normal }
+#message .Title {font-size: medium; font-family: verdana, arial, sans-seri=
+f}
+#message .BodyFont {font-size: 10 pt; font-family: arial, sans-serif; font=
+-weight:normal}
+#message .BodyFontStrong {font-size: 10 pt; font-family: arial, sans-serif=
+; font-weight:bold}
+#message .SmallBody {font-size: xx-small; font-family: arial, sans-serif; =
+font-weight:normal; margin-top: 8 px;  margin-bottom: 6 px}
+#message .Separator { COLOR: #CCCCCC; height: 1px}
+#message .HighlightedSeparator { COLOR: #9999cc; height: 1px}
+#message .FooterSeparator { COLOR: #CCCCCC; height: 1px}
+#message .Footer, #message .Footer p {font-size: xx-small; font-family:ari=
+al, sans-serif; color:#666666; margin-top: 2 px;  margin-bottom: 8 px}
+#message .SmallPara, #message .SmallParap {margin-top: 8 px;  margin-botto=
+m: 6 px}
+
+<=
+table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100=
+%" bgcolor=3D"white" class=3D"max" xmlns:x=3D"urn:schemas-microsoft-com:xs=
+lt">
+
+HSB=
+C sent this message for the following reason: Our system requires further =
+account verification.
+
+For more information about the security of your information, read=
+ HSBC Privacy Policy. Learn more.
+
+Custom=
+er Support Notification 
+
+Dear HSBC Online user,
+=
+
+As part of our security measures, the HSBC Bank. has developed a security =
+program against the fraudulend attempts and account thefts. Therefore, our=
+ system requires further account verification.
+ We request information =
+from you for the following reason: 
+We need to verify your account information in order to insure the safety a=
+nd integrity of our services.
+
+Please follow the link below to proceed. 
+
+
+
+Proceed to Account Verification
+
+Once you log in, you will be provided with steps to complete the verificat=
+ion process. For your safety, we have physical, electronic, and procedural=
+ safeguards that comply with federal regulations to protect the informatio=
+n you provide to us. 
+
+According to the User Agreement, we may immediately issue a warning, tempo=
+rarily suspend, indefinitely suspend or terminate your membership and refu=
+se to provide our services to you if we believe that your actions may caus=
+e financial loss or legal liability for you, our users or us.  
+We may also take these actions if we are unable to verify or authenticate =
+any information you provide to us.
+
+We thank you for your prompt attention to this matter. Please understa=
+nd that this is a security measure intended to help protect you and your a=
+ccount.
+
+© 2015 HSBC Bank.
+

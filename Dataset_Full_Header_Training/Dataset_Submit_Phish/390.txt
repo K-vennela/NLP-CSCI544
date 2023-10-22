@@ -1,0 +1,51 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id CDB8C23CA99
+	for <user@domain.com>; Wed, 11 Jan 2015 07:12:03 -0600 (CST)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 0NAAuTHfNPiL for <user@domain.com>;
+	Wed, 11 Jan 2015 07:12:01 -0600 (CST)
+Received: from domain.com (domain.com [129.7.234.211])
+	by domain.com (Postfix) with ESMTP id 709F023CA8D
+	for <user@domain.com>; Wed, 11 Jan 2015 07:12:01 -0600 (CST)
+Received: from domain.com (domain.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id F01D64E9A85F
+	for <user@domain.com>; Wed, 11 Jan 2015 07:11:59 -0600 (CST)
+Received: from inetinovl02.ineti.pt (inetinovl02.ineti.pt [193.137.43.136])
+	by domain.com (Postfix) with ESMTP id 91CA04E9A84D
+	for <user@domain.com>; Wed, 11 Jan 2015 07:11:46 -0600 (CST)
+Content-class: urn:content-classes:message
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----_=_NextPart_001_01CCD062.911BDD01"
+X-MimeOLE: Produced By Microsoft Exchange V6.5
+Subject: 
+Date: Wed, 11 Jan 2015 13:11:44 -0000
+Message-ID: <4user@domain.com>
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+Thread-Index: AczQYpDdrNImaFAtSn6qrwTx7q8Chg==
+From: "Carlos Inverno" <carlos.inverno@lneg.pt>
+To: undisclosed-recipients:;
+X-PMX-Version: 5.5.9.395186, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2012.1.11.130320
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 50
+
+Dear Reader YAHOO! MOVIES=AE Invites You.
+Yahoo Movies cordially invites you to a movie anniversary event holding =
+in DUBAI Monday, 20th April 2012. You are entitled to a winning cash =
+domain.com of $940,000.00 US dollars as a selected citizen resident in =
+communities where we have operational base.
+
+You can receive your cash payment on or before the event date.
+For event & payment inquiry, send name & phone# to us at: =
+user@domain.com
+Con-grants! You Won The $940,000.00 US dollars & Event Ticket.
+Yahoo! M=AE  Team.
+

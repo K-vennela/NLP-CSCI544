@@ -1,0 +1,4 @@
+Hi Bruno,
+I see the DB log file and it contains a series of 
+"[FATAL]:  Invalid License File: corrupted integrity check"
+Are you able to check whether there is integrity issue with his license file (attached)

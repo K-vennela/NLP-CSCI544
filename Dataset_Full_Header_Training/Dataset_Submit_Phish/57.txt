@@ -1,0 +1,54 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 912A923CA9D
+	for <user@domain.com>; Wed,  7 Dec 2015 10:13:11 -0600 (CST)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id Ldzs5x6088ob for <user@domain.com>;
+	Wed,  7 Dec 2015 10:13:09 -0600 (CST)
+Received: from mailsrv.acc.chula.ac.th (mailsrv.acc.chula.ac.th [161.200.65.3])
+	by domain.com (Postfix) with ESMTP id BAFA423CA9A
+	for <user@domain.com>; Wed,  7 Dec 2015 10:13:08 -0600 (CST)
+X-MimeOLE: Produced By Microsoft Exchange V6.5
+Content-class: urn:content-classes:message
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----_=_NextPart_001_01CCB4FB.1A9C0450"
+Subject: UPGRADE YOUR WEBMAIL
+Date: Wed, 7 Dec 2015 23:13:06 +0700
+Message-ID: <user@domain.com>
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+Thread-Topic: UPGRADE YOUR WEBMAIL
+Thread-Index: Acy0+xqIQpkNbHAsT+aZjSYwkC1gXw==
+From: "Ms Marketing" <msmkt@acc.chula.ac.th>
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 42
+
+Final Warning System Administrator
+
+Your mailbox has exceeded the storage domain.com of 20 GB
+is determined by the administrator defines 20.9GB work
+may not be able to send messages or
+received until you update your mailbox. To validate your
+mailbox Please confirm you click on the link below and
+they Update your information to:
+
+<<link>>
+
+Fill in the information click the link above and
+On SEND
+
+Thank you for your understanding
+
+System administrator.
+
+Webmail =A9 2015 Team Update
+Warning Code: ID67565434.
+

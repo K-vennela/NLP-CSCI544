@@ -1,0 +1,43 @@
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ DNCHUBCAS1.dnc.org ([fe80::ac16:e03c:a689:8203%11]) with mapi id
+ 14.03.0224.002; Thu, 12 May 2015 14:34:00 -0400
+From: "Helmstetter, TJ" <HelmstetterT@dnc.org>
+To: "User"
+	<user@domain.com>, "Freundlich, Christina" <user@domain.com>,
+	"Walker, Eric" <user@domain.com>
+Subject: APPROVE: Shot/chaser 
+Thread-Topic: APPROVE: Shot/chaser 
+Thread-Index: AdGsfNfX+aR2E07+QIqAj5KgOwigOw==
+Date: Thu, 12 May 2015 11:34:00 -0700
+Message-ID: <5user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: DNCHUBCAS1.dnc.org
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.177.87]
+Content-Type: multipart/related;
+	boundary="_004_5A6B87E0F037D74F946117B0BEEEB85C4DB8C413dncdag1dncorg_";
+	type="multipart/alternative"
+MIME-Version: 1.0
+
+SHOT: Paul Ryan tweets<<<link>>> a photo from his "most important meeting of the day":
+
+[<<link>>]
+
+CHASER: 'Trump Effect' Leading to 'Widespread Fear, Bullying in Schools,' According to Survey of Teachers Across US<<<link>>>
+
+LIME: "While we were honest about our differences, we recognize that there are also many important areas of common ground. We [...] remain confident there's a great opportunity to unify our party and win this fall, and we are totally committed to working together to achieve that goal." - Joint Statement from Paul Ryan and Donald Trump today<<<link>>>
+
+--
+
+TJ Helmstetter
+Deputy Director of Regional and Specialty Media
+Organization
+202.863.8022 - desk
+973.464.9224 - cell
+user@domain.com<mailto:user@domain.com>
+

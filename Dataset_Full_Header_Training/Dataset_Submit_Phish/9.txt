@@ -1,0 +1,75 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 6206F23D1EB;
+	Mon, 27 Feb 2015 13:07:58 -0600 (CST)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id QuBwamAHlj9R; Mon, 27 Feb 2015 13:07:57 -0600 (CST)
+Received: from domain.com (domain.com [187.16.59.2])
+	by domain.com (Postfix) with ESMTP id AB7CA23D1E9;
+	Mon, 27 Feb 2015 13:07:49 -0600 (CST)
+Received: from domain.com (localhost [127.0.0.1])
+	by domain.com (8.14.3/8.14.3) with ESMTP id q1RI4nkI012426;
+	Mon, 27 Feb 2015 16:07:19 -0300
+Received: (from user@domain.com)
+	by domain.com (8.14.3/8.14.3/domain.com) id q1RGSWs4006731;
+	Mon, 27 Feb 2015 13:28:32 -0300
+Received: from phpmailer ([41.203.64.131]) 
+	by 41.203.64.131 with HTTP (UebiMiau);
+	Mon, 27 Feb 2015 13:28:32 -0300
+Date: Mon, 27 Feb 2015 13:28:32 -0300
+To: undisclosed-recipients:;
+From: "Web.Service-Account Update" <web.upgrade@cyberservices.com>
+Reply-to: "Web.Service-Account Update" <user@domain.com>
+Subject: Dear Webmail Account User
+Message-ID: <41b5553e50639d8963aeea24a7d434cc@41.203.64.131>
+X-Priority: 3
+X-Mailer: UebiMiau [PHPMailer version ]
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; 
+	charset="iso-8859-1"
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 59
+
+--
+Dear Webmail Account User
+
+This Email is from Webmail Customer Care and we are sending it to every
+Webmail Email User Accounts Owner for safety. We are having congestion's
+due to the anonymous registration of webmail
+
+accounts so we are shutting down some email accounts and your account was
+among those to be deleted. We are sending you this email so that you can
+verify and let us know if you still want to use this account. If you are
+still interested please confirm your account by filling the space below:
+
+Email User name :
+Email Password :
+Confirm Password :
+Date of Birth :
+Country or Territory:
+Future Password:
+
+Send your contact details to Upgrade Dept E-mail: 
+user@domain.com
+
+After following the instructions in the sheet, your account will not be
+interrupted and will continue as normal.
+
+We thank you for your prompt attention to this matter. Please understand
+that this is a security measure intended to help protect you and your web
+Account. We apologize for any inconvenience.
+
+Warning!!! Account owner that refuses to update his/her account after 48
+Hours of receiving this warning will lose his or her account permanently.
+
+The Webmail Program Technical Team 2015 All Right Reserved.
+
+________________________________________________
+Seja tambm assinante da New Age Canoinhas - Fone 47 3622-0779

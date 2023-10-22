@@ -1,0 +1,70 @@
+Return-Path: <user@domain.com>
+Reply-To: <user@domain.com>
+From: "Marco Catino" <support@hackingteam.com>
+To: <user@domain.com>
+Subject: [!TJX-730-64880]: Assignment - Buenos dias deseamos actualizar a la version 9.0
+Date: Fri, 22 Nov 2015 11:01:26 +0100
+Message-ID: <1385114486.528user@domain.com>
+X-Mailer: Microsoft Outlook 15.0
+Thread-Index: AQK5xSd6m+yRSM8NinEsdAz4+VJamw==
+X-OlkEid: 0000000065B99B20C2857749979341BFED77CC1B070034AD76187591974DBF6C4F76951C873A01005249000000000230709749A9DC45970DBCF6F077600B0000000060D40000A7A1930D84DCDC46AA7B0034E0104D4E
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-615933390_-_-"
+
+Marco Catino updated #TJX-730-64880
+
+-----------------------------------
+
+Staff (Owner): Marco Catino (was: -- Unassigned --)
+Status: In Progress (was: Open)
+
+Buenos dias deseamos actualizar a la version 9.0
+
+------------------------------------------------
+
+Ticket ID: TJX-730-64880
+URL: <<link>>
+Name: John Guevara
+Email address: user@domain.com
+Creator: User
+Department: General
+Staff (Owner): Marco Catino
+Type: Feedback
+Status: In Progress
+Priority: High
+Template group: Default
+Created: 21 November 2015 11:51 PM
+Updated: 22 November 2015 10:01 AM
+
+John,
+
+in order to upgrade to the latest version, you will need to download from the Support Portal and install on your servers, IN THIS ORDER:
+
+1) rcs-setup-9.0.0.exe
+
+2) rcs-setup-9.1.0.exe
+
+3) rcs-setup-9.1.1.exe
+
+Each file will have to be run ON THE BACKEND FIRST, AND ON THE COLLECTOR AFTERWARDS.
+
+You can use the attached license file.
+
+After installing successfully rcs-setup-9.1.1.exe, you can download and install rcs-ocr-9.1.1 on the backend only.
+
+After downloading each file, please make sure that it is not corrupted by checking the md5 checksum:
+
+rcs-ocr-9.0.0.exe => 52c623779e8a5c1036d0b67872a3da6b
+
+rcs-setup-9.1.0.exe => 941e7a5ae6b7343523a5afb7197b413b
+
+rcs-setup-9.1.1.exe => 6e2d403e6bce68a889695429c1da61ea
+
+Feel free to refer to us if you need further support.
+
+Regards
+
+Staff CP:  <<link>>
+

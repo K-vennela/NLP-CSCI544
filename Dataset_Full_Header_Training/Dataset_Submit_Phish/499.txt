@@ -1,0 +1,122 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.4.9])
+	by domain.com (Postfix) with ESMTP id 13D9C46938
+	for <user@domain.com>; Wed, 30 May 2015 20:08:48 -0400 (EDT)
+Received: from domain.com (domain.com [192.168.6.4])
+	by domain.com (Postfix) with ESMTP id 1643C131FAB1
+	for <user@domain.com>; Wed, 30 May 2015 20:08:48 -0400 (EDT)
+Received: from smtp1.mtw.ru (smtp1.mtw.ru [194.135.105.241])
+	by domain.com (Postfix) with ESMTP id B34A66FA1A8
+	for <user@domain.com>; Wed, 30 May 2015 20:08:47 -0400 (EDT)
+Received: by smtp1.mtw.ru (Postfix, from userid 501)
+	id F17907AE60; Thu, 31 May 2015 04:01:11 +0400 (MSD)
+Received: from sp (unknown [62.5.177.26])
+	by smtp1.mtw.ru (Postfix) with ESMTP id 546347AE48;
+	Thu, 31 May 2015 04:01:11 +0400 (MSD)
+Received: from User ([62.242.226.17])
+	(authenticated user user@domain.com)
+	by sp (Kerio MailServer 6.2.1);
+	Tue, 29 May 2015 15:20:57 +0400
+Reply-To: <user@domain.com>
+From: "eBay PowerSellers !"<eBay@powerseller.com>
+Subject: Congratulations!You're an eBay Silver PowerSeller .Get your PowerSeller benefits now!
+Date: Tue, 29 May 2015 13:19:27 +0200
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20070531000111.546347user@domain.com>
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1335
+
+Dear
+
+                                eBay Member,
+You've
+
+                          been on a super sales streak and since you've done
+
+                          so well, it's time to recognize you for your efforts.
+
+                          You are PowerSeller Silver!
+Congratulations! 
+
+                        joining the eBay Silver PowerSeller Program. Come and 
+
+                        join us. When you join the PowerSeller program, you'll 
+
+                        be able to receive more of the support you'll need for 
+
+                        continued success. So, why domain.com? Join 
+
+                        now!
+
+PowerSeller
+
+                                icon  next
+
+                                to your User ID in recognition of your hard work.
+
+PowerSeller
+
+                                Priority Support via email webform and phone
+
+                                support at Silver level and above.
+
+Exclusive
+
+                                offerings on the PowerSeller portal--check in
+
+                                frequently to see updated program benefits and
+
+                                special offers!
+
+Discussion
+
+                                Board for you to network with other PowerSellers.
+
+
+
+
+Free
+
+                                PowerSeller Business Templates for business cards
+
+                                and letterhead.
+
+Membership
+
+                                  to the PowerSeller program is FREE. 
+
+ Again,
+
+                          congratulations and best wishes for your continued
+
+                          success!
+Regards,
+
+  eBay PowerSeller Team
+If you agree with this rank please 
+
+                      Become 
+
+                      an eBay Power Seller within 24 hours
+You are receiving this
+
+                                    communication because you are part of the PowerSeller program. This is a one time communication. There is no need
+
+                                    to unsubscribe. eBay will not request personal data (password, domain.com card/bank numbers) in an email.Copyright 
+
+                                      2015 eBay Inc. All Rights Reserved.
+ Designated trademarks and brands are the property of
+
+                                      their respective owners. eBay and the eBay logo are trademarks of eBay Inc.

@@ -1,0 +1,258 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id DAE7E23CA7E
+	for <user@domain.com>; Tue, 17 Jul 2015 12:26:18 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id V0TyHmI4NNs1 for <user@domain.com>;
+	Tue, 17 Jul 2015 12:26:18 -0500 (CDT)
+Received: from domain.com (domain.com [129.7.234.211])
+	by domain.com (Postfix) with ESMTP id B209B23CA6E
+	for <user@domain.com>; Tue, 17 Jul 2015 12:26:18 -0500 (CDT)
+Received: from domain.com (domain.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 7A6F14E990F4
+	for <user@domain.com>; Tue, 17 Jul 2015 12:26:21 -0500 (CDT)
+Received: from mx.padmin.hu (mx.padmin.hu [91.82.84.179])
+	by domain.com (Postfix) with ESMTP id E7B0C4E990E5
+	for <user@domain.com>; Tue, 17 Jul 2015 12:26:20 -0500 (CDT)
+Received: from localhost (localhost [127.0.0.1])
+	by mx.padmin.hu (Postfix) with ESMTP id A8D5AD282B
+	for <user@domain.com>; Tue, 17 Jul 2015 19:26:20 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at kinimod.padmin.hu
+Received: from mx.padmin.hu ([127.0.0.1])
+	by localhost (mx.padmin.hu [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id z31nFCCyJV9O for <user@domain.com>;
+	Tue, 17 Jul 2015 19:26:20 +0200 (CEST)
+Received: by mx.padmin.hu (Postfix, from userid 5083)
+	id 8207FD255F; Tue, 17 Jul 2015 19:24:59 +0200 (CEST)
+To: user@domain.com
+Subject: Notice PayPaI : Account Notification.
+X-PHP-Originating-Script: 5083:11.php
+From: Review Account <service.e@support-service.com>
+Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Message-Id: <20120717172459.8207user@domain.com>
+Date: Tue, 17 Jul 2015 19:24:59 +0200 (CEST)
+X-PMX-Version: 5.5.9.395186, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2012.7.17.171518
+X-PerlMx-Spam: Gauge=XXIIII, Probability=24%, Report='
+ REPLY_TO_EMPTY 1.699, CTYPE_JUST_HTML 0.848, HTML_70_90 0.1, BODYTEXTH_SIZE_10000_LESS 0, BODY_SIZE_5000_5999 0, BODY_SIZE_7000_LESS 0, URI_ENDS_IN_PHP 0, __ANY_URI 0, __CANPHARM_COPYRIGHT 0, __CT 0, __CTE 0, __CTYPE_HTML 0, __CTYPE_IS_HTML 0, __FRAUD_SUBJ_A 0, __HAS_FROM 0, __HAS_HTML 0, __HAS_MSGID 0, __HTML_BOLD 0, __HTML_FONT_BLUE 0, __HTML_FONT_GREEN 0, __HTML_FONT_RED 0, __MIME_HTML 0, __MIME_HTML_ONLY 0, __MIME_VERSION 0, __PHISH_PHRASE1_B 0, __PHISH_PHRASE2 0, __PHISH_PHRASE3 0, __PHISH_SPEAR_DETAILS 0, __PHISH_SPEAR_GREETING 0, __PHISH_SUBJ_PHRASE2 0, __SANE_MSGID 0, __TAG_EXISTS_HTML 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_NO_MAILTO 0, __URI_NO_WWW 0, __URI_NS '
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 109
+
+PayPaI | Message
+
+A:link {
+	COLOR: #336699
+}
+BODY {
+	FONT-FAMILY: Helvetica, Verdana, sans-serif
+}
+P {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif
+}
+.boldsmall {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif
+}
+B {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif
+}
+.copyblock {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif; TEXT-ALIGN: center
+}
+P.footer {
+	FONT-SIZE: 11px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif
+}
+P.copyblockheading {
+	FONT: bold 11px/11px Arial, Helvetica, Verdana, sans-serif
+}
+TD {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif
+}
+TH {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif
+}
+TD.copyblock {
+	FONT-SIZE: 11px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif; TEXT-ALIGN: center
+}
+H1 {
+	FONT-SIZE: 14pt; COLOR: #333366
+}
+H2 {
+	FONT-SIZE: 12pt; COLOR: #666666
+}
+H3 {
+	FONT-SIZE: 11pt; COLOR: #000000
+}
+H4 {
+	FONT-SIZE: 12pt; COLOR: #000000
+}
+.header {
+	FONT-SIZE: 12px
+}
+.headerbright {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #ffffff
+}
+.headerbrightsmall {
+	FONT-SIZE: 11px; COLOR: #ffffff
+}
+.popup {
+	FONT-SIZE: 12px
+}
+.subhead {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px
+}
+.errorheader {
+	FONT-WEIGHT: bold; FONT-SIZE: 11pt; COLOR: red
+}
+.errorbold {
+	FONT-WEIGHT: bold; FONT-SIZE: 15pt; COLOR: #ff0000
+}
+.spacer {
+	FONT-SIZE: 11px; MARGIN-LEFT: 10px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif
+}
+UL {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif
+}
+LI {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif
+}
+OL {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif
+}
+BLOCKQUOTE {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif
+}
+SUP {
+	FONT-SIZE: 8px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif
+}
+.copyright {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif; TEXT-ALIGN: center
+}
+.super {
+	FONT-SIZE: 11px
+}
+.small {
+	FONT-SIZE: 11px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif
+}
+.smallblue {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: blue; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif
+}
+.smallblueNonBold {
+	FONT-SIZE: 11px; COLOR: blue; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif
+}
+.boldLabel {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px
+}
+.indentLabel {
+	FONT-SIZE: 11px; MARGIN-LEFT: 15px
+}
+.statementError {
+	FONT-SIZE: 13px; COLOR: red
+}
+.smallred {
+	FONT-SIZE: 11px; COLOR: red; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif
+}
+.cadisc {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif
+}
+.footer10 {
+	FONT-SIZE: 10px
+}
+.navmenu {
+	COLOR: #0000ff; TEXT-DECORATION: underline
+}
+.navmenunone {
+	TEXT-DECORATION: none
+}
+.ime_capone_compose {
+	TEXT-DECORATION: none
+}
+.formlabel {
+	TEXT-DECORATION: none
+}
+.buttonText {
+	TEXT-DECORATION: none
+}
+.ime_capone_navmenu {
+	FONT-SIZE: 12px; COLOR: #0000ff; TEXT-DECORATION: underline
+}
+.ime_capone_navmenunone {
+	FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+.ime_capone_header_bold {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px
+}
+.ime_capone_regular {
+	FONT-SIZE: 12px
+}
+.ime_capone_regular_bold {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px
+}
+.feecolor {
+	BACKGROUND-COLOR: #ebf7fb
+}
+A.ime_capone_folder_list:link {
+	FONT-SIZE: 12px; COLOR: black
+}
+A.ime_capone_folder_list:visited {
+	FONT-SIZE: 12px; COLOR: black
+}
+.text {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Arial,helvetica,sans-serif
+}
+.textBold {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Arial,helvetica,sans-serif
+}
+.textSmall {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial,helvetica,sans-serif
+}
+.textSmallBold {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial,helvetica,sans-serif
+}
+
+Dear PayPaI member,
+
+We are writing regarding your PayPaI Account.
+
+(Your case ID for this reason is COMM-880-164-293.)
+
+
+
+We have reason to believe that your account was accessed by a third party.
+
+
+
+Because protecting the security of your account is our primary concern,
+
+
+
+we have limited access to sensitive PayPaI account features.We understand
+
+
+
+that this may be an inconvenience but please understand that this temporary limitation is for your protection.
+
+ Note : Federal law provides certain protection to individual customers when there is unauthorized account activity.
+
+ This guarantee provides additional protection from loss resulting from unauthorized activity. 
+
+What you need to do:
+
+
+
+Activate your account by click on the link bellow and complete the fields : 
+
+Account Login>>
+
+- Update your information immediately.
+
+If you have questions, we are available 24 hours a day, 7 days a week.
+
+Copyright  1995-2012 PayPaI Inc. All Rights Reserved.

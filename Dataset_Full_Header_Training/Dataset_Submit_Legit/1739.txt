@@ -1,0 +1,174 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Fri, 29 Apr
+ 2015 02:23:15 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Fri, 29 Apr 2015 
+ 02:23:05 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 886865657;
+ Fri, 29 Apr 2015 01:23:15 -0500
+X-Note-AR-ScanTimeLocal: 4/29/2016 1:23:13 AM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Note-AR-Scan: None - PIPE
+Received: by domain.com (CommuniGate Pro PIPE 6.1.7)  with PIPE id
+ 135776676; Fri, 29 Apr 2015 01:23:13 -0500
+Received: from mail-yw0-domain.com ([209.85.161.173] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 135776673;
+ Fri, 29 Apr 2015 01:23:08 -0500
+Received: by mail-yw0-domain.com with SMTP id o66so167596737ywc.3;
+        Thu, 28 Apr 2015 23:23:09 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:From: Ryan Banfill <ryban1001@gmail.com>
+        bh=31+QnNwavuNWDAqY/pP0nCdHA1RIziQkz9ZQD8T6i08=;
+        b=kya4ByINfLu6gZNsj4ZRLKlT0IgIO1rVpsZXJdSJ/ooq0fORckvK6I1qoWVymYIa/v
+         bzGHo0QBV58KZ32kFs6PqEpK+M1AS4MJ6+ap+FMSqgHg9oxT6XbY60c1k8f6KdFFkGXS
+         2CZFJIo4T57gLMgta+lpQHO/TVvSe0UfX5e8LoEGw0D0vYlPj+LHqZPQHH8O7KlQWluu
+         sM4yTxuIJNrUU82d94eVy6SA8roX3NnMjWEZAVlH3bS8anfAmn63v01R1uGzSEnnuSXz
+         IwJ/LZAqllQ/q+4ckf4vqLtmWnpHXswZnmKiCbktIO4r9uN4/jfTHKZiIauf2jdfi9YC
+         UPsw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:date
+         :message-id:subject:From: Ryan Banfill <ryban1001@gmail.com>
+        bh=31+QnNwavuNWDAqY/pP0nCdHA1RIziQkz9ZQD8T6i08=;
+        b=QbNfXMZpAwR0U8CLWSuchL/GHWEaP08FadVxhxcfgOWpmc6ChRgCiLoNuWagmnmap/
+         Br1Kgp1EM6j7PcclIFRl1DrqljR0JrtL06sebIEY7ZaIuuR5xDGoVnqSLqVkOYZ961QJ
+         m0sdWtQDTvqcn0VA9X1Nbc04LHgKn5rBAK4S2jHT1rLOi5FIfeEvjCE8PPqjcJux/HOA
+         e2p6pY8cM3fI2/A/xe3Lcb+bwtYi/Kg+iNKzLP3bDdbJ7V6KqB8Bda/CUgQ31lghmXZL
+         C69cJ7pBcxtE5N6+6k8GJeRoPHSxjZm7Lo9hqa5r39MFwwqjxNLNkoCDP2z/n5PkS+eH
+         QeuQ==
+X-Gm-Message-State: AOPr4FXSuIP2PCMUqwkF87v+XcZirTj2WkuytDx0EEZ+eeZxQUptAaXy4lUeaehQOvV1cYO4aJWiMZ2J8zcGsQ==
+X-Received: by 10.176.0.37 with SMTP id 34mr10184939uai.28.1461910988425; Thu,
+ 28 Apr 2015 23:23:08 -0700 (PDT)
+Received: by 10.159.37.238 with HTTP; Thu, 28 Apr 2015 23:23:08 -0700 (PDT)
+In-Reply-To: <D347F738.384A0%user@domain.com>
+References: <user@domain.com>
+	<D347F738.384A0%user@domain.com>
+Date: Fri, 29 Apr 2015 02:23:08 -0400
+Message-ID: <CAMqErhL-J2_hsmep+user@domain.com>
+Subject: Fwd: White House Correspondents Dinner / Wasserman Schultz
+From: Ryan Banfill <ryban1001@gmail.com>
+To: "User"
+	<user@domain.com>, "Walker, Eric" <user@domain.com>, Kate Houghton
+	<user@domain.com>, Geoff Burgan <user@domain.com>
+Content-Type: multipart/mixed; boundary="001a11376ce028c693053199adca"
+X-Note-AR-ScanTimeLocal: 4/29/2016 1:23:09 AM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Note: VCH-CT/SI:0-27132/SG:7 4/29/2016 1:22:29 AM
+X-Virus-Scan: V-X0H0M0
+X-Note: SPF: IP:209.85.161.173 DOM:gmail.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note: ICH-CT/SI:0-5418/SG:7 4/29/2016 1:22:28 AM
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-735/SG:21 4/29/2016 1:22:28 AM
+X-GBUdb-Analysis: Unknown
+X-Signature-Violations: 0-0-0-32767-c
+X-Note-419: 15.6263 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 4/29/2016 1:23:08 AM
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 209.85.161.173
+X-Note-Reverse-DNS: mail-yw0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G406 G418 G475 G667 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Good morning,
+
+I'm going to be off the grid for most of the day traveling to DC. Can we
+add this to the chair's briefing on the WHCD?
+There is a seating chart attached. Howard Saltz, the Sun-Sentinel's
+publisher, would like to introduce her to some folks from the Sun-Sentinel
+and the Tribune company.
+
+See below. They're at Table 54. His cell number is 954-802-9516.
+
+Thanks,
+
+Ryan
+
++++++++++++
+Tribune Publishing=E2=80=99s corporate executives and LATimes publisher/edi=
+tor will
+be in attendance. I will find them and make introductions. They are:
+
+   - Justin Dearborn, CEO of Tribune Publishing.
+   - Tim Ryan, President of Tribune Publishing.
+   - Davan Maharaj, editor/publisher of the Los Angeles Times.
+
+---------- Forwarded message ----------
+From: Ryan Banfill <ryban1001@gmail.com>
+Date: Thu, Apr 28, 2015 at 5:30 PM
+Subject: Re: White House Correspondents Dinner / Wasserman Schultz
+To: Ryan Banfill <user@domain.com>
+
+Attached is a list of our personnel and their table assignments. There
+might be some last-minute changes, but this is essentially it.
+
+Tribune Publishing will have four tables. There will  be the
+publishers/editors-in-chief from the Chicago Tribune, South Florida
+Sun-Sentinel, Orlando Sentinel, Hartford Courant, Baltimore Sun, Allentown
+(PA) Morning Call and Newport News (VA) Daily Press; their spouses; and
+some key advertising clients from each market. Filling out the tables will
+be our Washington reporters and some other dignitaries.
+
+I=E2=80=99m still checking on our corporate executives and the editor/publi=
+sher
+from the Los Angles Times. I believe they will be there, but I do not have
+table assignments for them yet.
+
+I would be happy to facilitate introductions with the congresswoman. I=E2=
+=80=99m at
+Table 54. My cellphone is 954-802-9516.
+
+Thanks for your help.
+*____*
+Howard Saltz
+Publisher & Editor-in-Chief
+<<<link>>>
+500 E. Broward Blvd., Suite 900
+Fort Lauderdale, FL 33394
+954-356-4601
+
+*Click to follow me:*
+
+<<<link>>>
+<<<link>>>
+<<<link>>>
+<<<link>>>
+<<<link>>+HowardSaltz1#+HowardSaltz1/posts>
+
+From: Ryan Banfill <ryban1001@gmail.com>
+Date: Thursday, April 28, 2015 at 10:00 AM
+To: "User" <user@domain.com>
+Subject: White House Correspondents Dinner / Wasserman Schultz
+
+Mr. Saltz,
+
+I'm sorry I missed your call the other day. I'm working with Congresswoman
+Wasserman Schultz and we want to make sure she says hello to you and the
+team at Saturday's dinner.
+
+We're putting together some briefing materials. Will you please let me know
+where you are sitting and who will be at your table?
+
+Thank you,
+
+Ryan

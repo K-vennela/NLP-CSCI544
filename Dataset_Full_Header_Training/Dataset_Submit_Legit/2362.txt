@@ -1,0 +1,51 @@
+From: "Deadline.com" <alerts@deadline.com>
+To: "User"
+Subject: [domain.com] 'Ouija' Says Yes To No. 1, 'John Wick' No. 2 With A Bullet, 'St. Vincent,' 'Birdman' Expand - B.O. Weekend
+Date: Sun, 26 Oct 2015 02:52:03 -0400
+Message-ID: <20141026065203.3245738.5272@domain.com>
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQERVo8NGVy/SYx1EopBwe/gDoJ/BA==
+Content-Language: en-us
+x-ms-exchange-organization-authas: Internal
+x-ms-exchange-organization-authmechanism: 10
+x-ms-exchange-organization-authsource: domain.com
+x-forefront-antispam-report: CIP:65.39.215.146;CTRY:US;SRV:BULK;EFV:NLI;SFV:NSPM;SFS:(438002)(199003)(377454003)(189002)(18804003)(99396003)(50986999)(95736001)(93916002)(4396001)(575784001)(102836001)(62966002)(22186001)(71186001)(77156001)(15975445006)(84326002)(19580405001)(44976005)(19580395003)(120916001)(88136002)(15187005004)(19300405004)(18206015028)(85852003)(104766002)(180100001)(76482002)(18926405002)(47976999)(50226001)(64026002)(21056001)(89996001)(92726001)(92566001)(104166001)(19618635001)(85306004)(31966008)(146001)(2361001)(87836001)(87286001)(110136001)(36756003)(107886001)(107046002)(2351001)(110476001)(20776003)(229853001)(80022003)(46102003)(106466001)(77096002)(956001)(19617315012)(15202345003)(88526003)(94906001)(7059028)(15398625002)(85226002)(562404015)(17308445002)(342395003)(19623405001);DIR:INB;SFP:;SCL:1;SRVR:BN1BFFO11HUB004;H:mx-domain.com;FPR:;MLV:sfv;PTR:mx-domain.com;A:1;MX:1;LANG:en;
+received-spf: Pass (domain.com: domain of domain.com designates 65.39.215.146 as permitted sender) receiver=domain.com; client-ip=65.39.215.146; helo=mx-domain.com;
+authentication-results: spf=pass (sender IP is 65.39.215.146) user@domain.com; 
+x-microsoft-antispam: BCL:5;PCL:0;RULEID:(71001)(120001);SRVR:BN1BFFO11HUB004;
+x-eopattributedmessage: 0
+List-Unsubscribe: <<<link>>>, <mailto:user@domain.com>
+x-domain.com: domain.com
+dkim-signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1414306323;	s=sailthru; d=deadline.com;	h=Date:From: "Deadline.com" <alerts@deadline.com>
+x-exchange-antispam-report-test: UriScan:;
+x-rpcampaign: stdgp3245738
+x-info: user@domain.com
+x-iadb-ip-reverse: 5.56.18.172
+x-iadb-url: <<link>>
+x-tm-id: 20141026065203.3245738.5272
+x-iadb-ip: 172.18.56.5
+x-unsubscribe-web: <<link>>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+Weekend Box Office News Alert:
+
+'Ouija' Says Yes To No. 1, 'John Wick' No. 2 With A Bullet, 'St. Vincent,' 'Birdman' Expand - B.O. Weekend
+
+3rd UPDATE, Saturday, 11:51 PM: Earlier today, Ouija was the only film in the box office Top Ten that was dropping but it began to pick up steam this afternoon and this evening. It's still on track for right around a $20M weekend to take the No. one spot bragging rights for Universal and Blumhouse. John Wick's Saturday was not that strong for Lionsgate and will end the weekend at around $14M and c Read more...
+
+Box Office Stats:
+
+Recent
+
+This email was sent to user@domain.com by Deadline. To ensure delivery to your inbox (and not your spam folder), please add user@domain.com to your address book. If you prefer not to continue receiving email communications, please unsubscribe here instead of replying to this email.
+
+To update your profile and customize what email alerts and newsletters you receive, please click here.
+
+Having trouble reading this email? View the web version here.
+
+Copyright © 2014 PMC, All rights reserved.
+
+1​1​1​7​5 Santa Monica Blvd. Los Angeles, CA 9​0​0​2​5
+

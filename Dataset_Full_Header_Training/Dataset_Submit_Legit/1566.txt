@@ -1,0 +1,130 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Mon, 13 Apr 2015 11:35:36 +0200
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id 719EC60063	for
+ <user@domain.com>; Mon, 13 Apr 2015 10:12:53 +0100 (BST)
+Received: by domain.com (Postfix)	id 1C15B2BC229; Mon, 13 Apr 2015 
+ 11:35:36 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from EmadPC (unknown [192.168.1.198])	(using TLSv1 with cipher
+ AES256-SHA (256/256 bits))	(No client certificate requested)	by
+ domain.com (Postfix) with ESMTPSA id 0A8C32BC031;	Mon, 13 Apr 2015 
+ 11:35:36 +0200 (CEST)
+From: Emad Shehata <e.shehata@hackingteam.com>
+To: 'Giancarlo Russo' <user@domain.com>
+CC: 'Marco Bettini' <user@domain.com>, 'Elisabetta Ciceri'
+	<user@domain.com>, 'Simonetta Gallucci' <user@domain.com>
+References: <user@domain.com> <010001d075bf$fe124d40$fa36e7c0$@user@domain.com> <552user@domain.com>
+In-Reply-To: <552user@domain.com>
+Subject: R: R: RE: RE: Service restoration
+Date: Mon, 13 Apr 2015 11:35:35 +0200
+Message-ID: <01c201d075cd$31de6bb0$959b4310$@user@domain.com>
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdB1wXZxhkqVw8RgSxq/WJlmYKn3TwAC3llA
+Content-Language: it
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EMAD SHEHATA450
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1795077971_-_-"
+
+Ciao Giancarlo e-mail mandata al cliente dopo una sua richiesta. Ho inoltre richiesto che venga data una risposta alla tua e-mail: ti hanno chiamato tramite il centralino ed Antonella ha informato che sei all’estero: può dare il tuo cell? Saluti  Emad Shehata
+Key Account Manager
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com
+mobile: +39 3357939078
+phone: +39 0229060603   Da: Giancarlo Russo [mailto:user@domain.com] 
+Inviato: lunedì 13 aprile 2015 10:12
+A: Emad Shehata
+Cc: 'Marco Bettini'; 'Elisabetta Ciceri'; 'Simonetta Gallucci'
+Oggetto: Re: R: RE: RE: Service restoration Aspettiamo ancora risposta su come pensano di saldare il restante 50%, risposta alla mia mail...
+
+Giancarlo
+
+On 4/13/2015 10:01 AM, Emad Shehata wrote:Ciao Giancarlo, ancora i soldi non sono sul ns c.c., In caso in cui arrivino i soldi ti chiedo conferma o meno a procedere alla estensione della licenza sino al 01 Giugno 2015. Saluti  Emad Shehata
+Key Account Manager
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com
+mobile: +39 3357939078
+phone: +39 0229060603   Da: Emad Shehata [mailto:user@domain.com] 
+Inviato: domenica 12 aprile 2015 10:51
+A: Giancarlo Russo
+Cc: Marco Bettini; Elisabetta Ciceri; Simonetta Gallucci
+Oggetto: I: RE: RE: Service restoration Ciao Gian, 
+
+Hanno effettuato pagamento di eur 17.750,00. Domani verificheremo che sia sul ns conto.
+
+Se sei in sintonia potremo attivare la licenza. Il resto lo prenderemo a Giugno in concomitanza con Maintenance ed un upgrade di sistema: 1 Collector + 3 Anos+ Intelligence Module.
+
+Fammi sapere
+
+Buon viaggio 
+-- 
+Emad Shehata 
+Key Account Manager 
+
+Sent from my mobile.
+ Da: Saeed Al-Ghamdi [mailto:user@domain.com] 
+Inviato: Sunday, April 12, 2015 10:43 AM
+A: Emad Shehata 
+Cc: Elisabetta Ciceri; Dr. Ahmad Moahmmed Alsolaim <user@domain.com>; Giancarlo Russo; Simonetta Gallucci; 'user@domain.com'' <user@domain.com'>; Mesfer S. Al Mesfer <user@domain.com> 
+Oggetto: RE: RE: Service restoration 
+ Dear Emad, Kindly find attached the payment confirmation regarding the 50% of the withholding tax and expected to appear in your banking account tomorrow Monday,  as discussed last week, Kindly arrange for the service to be re-activated ASAP,  Thanks and Br, Saeed   From: Emad Shehata <e.shehata@hackingteam.com>
+Sent: Thursday, April 09, 2015 7:36 PM
+To: Saeed Al-Ghamdi
+Cc: Elisabetta Ciceri; Dr. Ahmad Moahmmed Alsolaim; Giancarlo Russo; Simonetta Gallucci; 'user@domain.com''; Mesfer S. Al Mesfer
+Subject: R: RE: Service restoration Dear Saeed,
+Thanks for your e-mail and sorry if I response to your call quickly but I was not in position to finish the conversation.
+
+We are obligated to domain.com the confirmation of the payment and your official response to Mr. Giancarlo.
+
+All of us we need to be customer oriented and at the some time we need to be carefull about the financial aspect.
+
+Best regards
+
+Please understand and once again, our financial dept are waiting for you response.
+
+Best regards 
+-- 
+Emad Shehata 
+Key Account Manager 
+
+Sent from my mobile.
+ Da: Saeed Al-Ghamdi [mailto:user@domain.com] 
+Inviato: Thursday, April 09, 2015 06:06 PM
+A: Emad Shehata 
+Cc: Elisabetta Ciceri; Dr. Ahmad Moahmmed Alsolaim <user@domain.com>; Giancarlo Russo; Simonetta Gallucci; user@domain.com' <user@domain.com'>; Mesfer S. Al Mesfer <user@domain.com>; Giancarlo Russo; Giancarlo Russo 
+Oggetto: RE: Service restoration 
+ Dear Emad, The payment has been processed, unfortunately we are approaching the weekend as today is the last working day of the week,  expect the payment to show up in your account coming Monday, meanwhile we need the service back to the client ASAP, we don’t want this to have more affect with the client for  future business and expansion, Br Saeed  From: Emad Shehata <e.shehata@hackingteam.com>
+Sent: Thursday, April 09, 2015 4:37 PM
+To: Saeed Al-Ghamdi
+Cc: 'Elisabetta Ciceri'; Dr. Ahmad Moahmmed Alsolaim; 'Giancarlo Russo'; 'Simonetta Gallucci'; user@domain.com'; Mesfer S. Al Mesfer
+Subject: R: Service restoration  Dear Saeed, thanks for your e-mail and you support.Can you please send us the swift copy of the payment: this is facilitate me to have an evidence in front of our the Financial dept.Secondly I’m kindly ask you to gave us an answer on Mr. Giancarlo’s e-mail ( please find attached the e-mail).Best regards    Emad Shehata
+Key Account Manager
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com
+mobile: +39 3357939078
+phone: +39 0229060603   Da: Saeed Al-Ghamdi [mailto:user@domain.com] 
+Inviato: giovedì 9 aprile 2015 12:31
+A: Emad Shehata
+Cc: Elisabetta Ciceri; Dr. Ahmad Moahmmed Alsolaim; Giancarlo Russo; Simonetta Gallucci; user@domain.com; Mesfer S. Al Mesfer
+Oggetto: Service restoration  Dear Emad, I hope this email finds you well, In reference to the withholding tax, TCC will pay 50% of the amount today, and we will provide you with the payment document later, now we need the service to be restored, and service block need to be removed ASAP, kindly confirm receiving this email, and service restoration. Best Regards, Saeed 
+
+--  Giancarlo RussoCOO Hacking TeamMilan Singapore Washington DCwww.hackingteam.com email: user@domain.com: +39 3288139385phone: +39 02 29060603

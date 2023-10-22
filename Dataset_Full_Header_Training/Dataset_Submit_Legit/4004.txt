@@ -1,0 +1,81 @@
+Received: from domain.com (146.215.230.103) by
+ domain.com (43.130.141.78) with Microsoft SMTP Server id
+ 8.3.342.0; Mon, 7 Jul 2015 00:12:49 -0700
+Received: from domain.com ([160.33.194.229])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s677Cmco000455	for <user@domain.com>; Mon, 7 Jul 2015 
+ 07:12:48 GMT
+Received: from mail180-ch1-domain.com (mail-domain.com
+ [216.32.181.174])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s677Dq3q018658
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Mon, 7 Jul 2015 07:13:53 GMT
+Received: from mail180-ch1 (localhost [127.0.0.1])	by
+ mail180-ch1-domain.com (Postfix) with ESMTP id E96362C06EE	for
+ <user@domain.com>; Mon,  7 Jul 2015 07:12:47 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:146.82.220.230;KIP:(null);UIP:(null);SRV:BULK;H:domain.com;RD:domain.com;EFVD:NLI
+X-SpamScore: 13
+X-BigFish: vps13(z59c9hzc89bhe0eah40fdkzz1ee6h162I2073h2146h1202h122fh2189h1d2ah1fc6h208ch1fdahzebhz1de098h1cea93h1df219h1def03h17326ah1def87h8275bh1bc7b9h8275dh1def86h1de097h186068h16ffban164c38j1df123i177f16iz2fh5fh839h8aah8e2h8e3h93fh950he5bh10d2h1288h12a5h12bdh137ah13b6h13eah1441h1537h153bh162dh1631h1758h18e1h19b5h1b0ah224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1fe8h1ff5h2216h2336h2438h2461h2487h24d7h2516h2545h255eh25f6h2605h268bh26d3h27e2h282bh28a1h29d0h2a24h2b05hbe9i)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail180-ch1: domain of news.marketing-domain.com designates 146.82.220.230 as permitted sender) client-ip=146.82.220.230; user@domain.com; helo=domain.com ;domain.com ;
+Received: from mail180-ch1 (localhost.localdomain [127.0.0.1]) by mail180-ch1
+ (MessageSwitch) id 1404717165679899_26854; Mon,  7 Jul 2015 07:12:45 +0000
+ (UTC)
+Received: from domain.com (domain.com
+ [10.43.68.248])	by mail180-domain.com (Postfix) with ESMTP id
+ A0CD0420040	for <user@domain.com>; Mon,  7 Jul 2015 07:12:45 +0000
+ (UTC)
+Received: from domain.com (146.82.220.230) by
+ domain.com (10.43.70.25) with Microsoft SMTP Server id
+ 14.16.227.3; Mon, 7 Jul 2015 07:12:44 +0000
+DKIM-Signature: v=1; a=rsa-sha1; d=news.marketing-domain.com; s=ei0; c=simple/simple;
+	q=dns/txt; user@domain.com; t=1404717164;
+	h=From: =?utf-8?B?QWR2ZXJ0aXNpbmcgKyBNYXJrZXRpbmcgTWFnYXppbmU=?=
+	bh=i887FdqgceyZhmKzA9/3lRQBlew=;
+	b=Vl3ZXW9QHxO7XNnsUC4m5j4rCS1z3aE83sdUEpF0dCsffJ4/26gQluswqrvIT3Wb
+	W4vahHiSjdy9bDXVfWezctDkf4fDBkAUTpXr/WcnjgTpLqTHj8zWHkuBfWrh+Jqz
+	VeIV3ja/lYxxlbsX04zok8Bf6UAoHoIF6mVPQb9XyzQ=;
+Received: from [10.21.250.192] ([10.21.250.192:2918] helo=CORE6PUMPER3)	by
+ pc1udsmta1n12 (envelope-from <user@domain.com>)
+	(ecelerity 2.2.2.45 r(34222M)) with ESMTP	id 72/3E-31183-B684AB35; Mon, 07
+ Jul 2015 03:12:44 -0400
+Date: Mon, 7 Jul 2015 03:12:44 -0400
+Message-ID: <user@domain.com>
+X-DMHA-ID-Packet: Z4gvK5o622ozTB0yWzQ48ThVy2QQZniMYl513AYdIsl4DFIuSfUtC1F0JvEEXG9As2khkXUGivg=
+From: =?utf-8?B?QWR2ZXJ0aXNpbmcgKyBNYXJrZXRpbmcgTWFnYXppbmU=?=
+	<user@domain.com>
+Reply-To: =?utf-8?B?QWR2ZXJ0aXNpbmcgKyBNYXJrZXRpbmcgQ2lyY3VsYXRpb24=?=
+	<user@domain.com>
+To: <user@domain.com>
+Subject: =?utf-8?B?NyBKdWx5OiBCZWhpbmQgTWFzdGVyQ2FyZCdzIFByaWNlbGVzcyBicmFuZGlu?=
+ =?utf-8?B?ZywgQmVybmFtYSBmYWNlcyBwbGFnaWFyaXNtIGFjY3VzYXRpb24gcGx1cyBT?=
+ =?utf-8?B?YW1zdW5nIHRha2VzIGEgZGlnIGF0IEFwcGxlIGFnYWlu?=
+Return-Path: user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+ <<link>>       
+
+<<link>>   SUBSCRIBE       JOBS       EVENTS        
+ <<link>>       
+
+Find us on:       <<link>>      <<link>>    <<link>>   <<link>>   
+07 JULY 2015     <<link>>       
+
+ <<link>>       
+
+Priceless for 17 years, what’s next for MasterCard?     
+
+<<link>>   
+
+How do you build keep a legacy brand position like MasterCard's Priceless fresh? Global marketing chief Raja Rajamannar reveals the cogs and wheels of the programme. » More    
+BREAKING NEWS
+Great Eastern tipped to be on agency hunt
+
+Saatchi & Saatchi Singapore hires digital director
+
+Nissin Foods gets PR help
+
+<<link>>   
+

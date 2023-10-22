@@ -1,0 +1,45 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.4.9])
+	by domain.com (Postfix) with ESMTP id 8C86646968
+	for <user@domain.com>; Sun, 17 Jun 2015 22:00:01 -0400 (EDT)
+Received: from domain.com (domain.com [192.168.6.4])
+	by domain.com (Postfix) with ESMTP id 933B7131FAE4
+	for <user@domain.com>; Sun, 17 Jun 2015 22:00:01 -0400 (EDT)
+Received: from domain.com (unknown [70.43.33.74])
+	by domain.com (Postfix) with ESMTP id 5FEC96FA1C5
+	for <user@domain.com>; Sun, 17 Jun 2015 22:00:01 -0400 (EDT)
+Received: from User ([84.12.13.202]) by domain.com with Microsoft SMTPSVC(6.0.3790.1830);
+	 Sun, 17 Jun 2015 21:59:57 -0400
+From: "eBay"<aw-confirm@ebay.com>
+Subject: Account On-hold: Please confirm your eBay informations today
+Date: Mon, 18 Jun 2015 03:02:34 +0100
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <user@domain.com>
+X-OriginalArrivalTime: 18 Jun 2015 01:59:57.0934 (UTC) FILETIME=[5F6390E0:01C7B14C]
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1409
+
+Message sent trough 
+                  eBay System
+
+                  Your registered name is included to show this 
+                  message originated from eBay. 
+
+Learn more. 
+
+
+
+Account On-hold: 
+                  Please confirm your eBay informations today

@@ -1,0 +1,86 @@
+Date: Mon, 9 Oct 2000 18:08:04 +0500
+From: Rashit Hantemirov <rashit@ipae.uran.ru>
+X-Mailer: The Bat! (v1.00 Build 1311) Registered to Andy Malyshev
+Reply-To: Rashit Hantemirov <rashit@ipae.uran.ru>
+Organization: IPAE
+Priority: Normal
+X-Confirm-Reading-To: Rashit Hantemirov <rashit@ipae.uran.ru>
+To: Keith Briffa <k.briffa@uea.ac.uk>
+Subject: Yamal treeline figures
+Dear Keith,
+Stepan Shiyatov tell me that you need some figures concerning
+Yamal chronology and tree line dynamics to show somewhere in
+France.
+Attached are archived files contained some figures.
+File MAP - the map of region of research. Red dots - subfossil
+wood sites, green marks - recent northern border of larch along
+river valleys.
+File FIGURES - in Excel format, contains several figures.
+Sheet "Values-10" - data on northernmost position of trees and
+number of trees dated for corresponding year (decadal step)
+Sheet "Treeline" - dynamics of treeline in Yamal during last 7000
+years reconstructed using about 1000 subfossil wood remains.
+Recent treeline position is about 6734.
+One year ago we supposed (C-14 data, Hantemirov, Shiyatov
+1999) that significant drop of treeline (the transition from
+"middle" to "late" Holocene) was about 1700-1600 AD. According
+new data it was earlier (about 2550 BC). May be it is because
+of lack of data from region northward of 68N (only 25
+datings)?
+Sheet "Treeline and Nu" - treeline dynamics and number of dated
+trees. May be number of trees reflects the long scale climate
+fluctuations as well.
+Sheet "2600-all" - for last 4600 years: treeline dynamics,
+number of trees, 11 most cold summers for last 7000 years
+(according our version of reconstruction), most expressed
+frosts in July (reconstructed using junipers from Polar Urals,
+see file PATHOL, frost in 1626 BC - based on subfossil larch -
+you can put away it), summer temperatures reconstruction
+smoothed with 20- and 100-year filters (our version of
+reconstruction).
+Sheet "Values-2" - values for preceding figures, in 2-years
+step.
+Sheet "Yam-Ur-fig" - comparing of treeline data for Yamal and
+Polar Urals upper treeline dynamics (data by S.G.Shiyatov)
+Sheet "Yamal-Ural" - values for preceding figure, in 2-years
+step.
+Sheet "Treeline-std" - treeline dynamics and 50-year standard
+deviations of summer temperatures (our version of
+reconstruction). This figure shows surprising high negative
+correlation. However may be both of them just reflect long
+scale climate fluctuations?
+Sheet "Std" - 50-year standard deviations of summer
+temperatures (our version of reconstruction) .
+File PATHOL - in Excel format, contains data and figure on
+pathological structures in tree rings of Siberian juniper
+(Juniperus sibirica Burgsd.). According our data (Hantemirov et
+al., 2000) the presence of frost rings provides evidence for
+frosts that occurred in late June or first days of July (frost
+rings in earlywood) and in the first half of July (frost rings in
+late wood). Long term and pronounced temperature drop in the
+middle of very warm period in the second half of July is the
+factor responsible for wood density fluctuations (false rings).
+Please let me know when you receive this. Some time large
+messages get lost.
+P.S. We (Eugene Vaganov, Stepan Shiyatov, Leonid Agafonov and I)
+will be in Birmensdorf from 23 till 29 October. Are you going to
+Switzerland after your meeting? We would be happy to see you
+there.
+Best regards,
+Rashit M. Hantemirov
+Lab. of Dendrochronology
+Institute of Plant and Animal Ecology
+8 Marta St., 202
+Ekaterinburg, 620144, Russia
+e-mail: rashit@ipae.uran.ru
+Fax: +7 (3432) 29 41 61; phone: +7 (3432) 29 40 92
+--
+Professor Keith Briffa,
+Climatic Research Unit
+University of East Anglia
+Norwich, NR4 7TJ, U.K.
+Phone: +44-1603-593909
+Fax: +44-1603-507784
+[1]<<link>>
+References
+1. <<link>>

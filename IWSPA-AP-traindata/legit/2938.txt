@@ -1,0 +1,52 @@
+Dear Neville,
+You mentioned to me some time ago that in your view, the 11-year solar cycle
+did not influence temperature.  There have been numerous attempts by
+academics to establish a correlation, but each has been shot down on some
+ground or other.  I remember Barrie Pittock was especially dismissive of
+attempts to correlate solar cycle with temperature.
+Have you tried this approach?
+Load "Mathematica" into your PC and run the following set of instructions -
+data = ReadList[ "c:\sydney.txt", Number]
+dataElements = Length[data]
+X = ListPlot[ data, PlotJoined-> True];
+fourierTrans = Fourier[data];
+ListPlot[Abs[fourierTrans], PlotJoined -> True];
+fitfun1 = Fit[data,{1,x,x^2,x^3,Sin[11 2 Pi x/dataElements],
+Cos[11 2 Pi x/dataElements]},x];
+fittable = Table[N[fitfun1], {x, dataElements}];
+Y = ListPlot[fittable, PlotJoined -> True];
+Show[X, Y] 
+The reference to "c:\sydney.txt" is a suggested pathname for the following
+set of data - which is Sydney's annual mean temperature.
+16.8  16.5  16.8  17  17  16.7  17.1  17.4  17.9  17.4  17.2  17.1  16.9  17  17.2  17.2  17.4  
+17.6  17.6  17.6  16.7  17.1  16.8  17.4  16.8  17.3  17.8  17.5  17.1  17.2  17.6  17.3  17.1  
+16.9  16.9  17.3  17.3  17.3  17.6  17.5  17.4  17.2  17.1  17.3  17.2  17.2  16.9  17.5  17.4  
+17.2  17  17.5  17.4  17.5  17.7  18.3  17.8  17.4  17.2  17.4  18.3  17.3  18  18.1  18  17.5  
+17.3  18  17  18.2  17.4  17.6  17.5  17.4  17.1  17.4  17.3  17.5  17.7  18  17.8  18  17.4  
+17.8  16.8  17.5  17.4  17.6  17.6  17.2  17.4  17.9  17.9  17.6  17.7  17.8  17.7  17.6  17.8  
+18.3  18  17.6  17.8  17.8  17.8  18.1  17.9  17.5  17.8  18.3  18  17.7  17.3  17.5  18.5  17.4 
+17.8  17.7  17.8  17.7  18  18.5  18.2  17.8  18.1  17.5  17.8  17.8  18  18.6  18.1  18.1  
+18.6  
+So Far so good.
+"Mathematica" first plots out the data itself (see Atachment 1)
+The first part of the instruction set lets "mathematica" do a Fourier Transform
+on the data, ie. searching out the periodicities, if there are any.   The result is
+shown on Attachment 2.
+The transform result shows a sharp spike at the 11 year point (I wonder
+what is significant about 11 years?).  The second part of the instructions
+now acts upon this observed spike (the Cos 11 bit), to extract it's
+waveform from the rest of the noise.  The result is shown as a waveform
+in attachment 3, the waves having an 11-year period, with the long-term
+Sydney warming easily evident.
+Attachment 4 shows the original Sydney data overlaid against the 11-year
+periodicity.
+It would appear that the solar cycle does indeed affect temperature.
+(I tried the same run on the CRU global temperature set.  Even though CRU
+must be highly smoothed by the time all the averages are worked out, the
+11-year pulse is still there, albeit about half the size of Sydneys).
+Stay cool.
+John Daly      <<link>>~daly
+Attachment Converted: c:\eudora\attach\Sydney.gif
+Attachment Converted: c:\eudora\attach\Fourier.gif
+Attachment Converted: c:\eudora\attach\Solar1.gif
+Attachment Converted: c:\eudora\attach\Solar2.gif

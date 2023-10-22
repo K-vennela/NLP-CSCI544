@@ -1,0 +1,101 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Mon, 2 May
+ 2015 15:48:58 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Mon, 2 May 2015 
+ 15:48:55 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 891966577
+ for user@domain.com; Mon, 02 May 2015 14:48:59 -0500
+X-Note-AR-ScanTimeLocal: 5/2/2016 2:48:59 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @nbcuni.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: UNKNOWN->PRIVATE->United States->LOCAL->United States->
+X-Note-Sending-IP: 67.231.157.49
+X-Note-Reverse-DNS: mx0b-00176domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mx0b-00176domain.com ([67.231.157.49] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 136579272
+ for user@domain.com; Mon, 02 May 2015 14:48:59 -0500
+Received: from pps.filterd (domain.com [127.0.0.1])	by
+ domain.com-00176a04. (8.16.0.11/8.16.0.11) with SMTP id
+ u42JmGdA039203	for <user@domain.com>; Mon, 2 May 2015 15:48:56 -0400
+Received: from domain.com ([173.213.212.135])	by
+ domain.com-00176a04. with ESMTP id 22mqy7ujmq-1	(version=TLSv1.2
+ cipher=RC4-SHA bits=128 verify=NOT)	for <user@domain.com>; Mon, 02 May 2015 
+ 15:48:56 -0400
+Received: from unknown (HELO domain.com) ([10.40.78.204])  by
+ domain.com with ESMTP; 02 May 2015 15:48:55 -0400
+Received: from domain.com ([169.254.12.64]) by
+ domain.com ([3.3.179.62]) with mapi id 14.03.0195.001; Mon,
+ 2 May 2015 15:48:55 -0400
+From: "Sellers, Savannah (NBCUniversal)" <Savannah.Sellers@nbcuni.com>
+To: "User"User,
+ User" <user@domain.com>
+Subject: RE: DWS--Phil Griffin
+Thread-Topic: DWS--Phil Griffin
+Thread-Index: AdGkqr800p3fDbtuRwu+rtRN5ajGtgAAJP8g
+Date: Mon, 2 May 2015 19:48:54 +0000
+Message-ID: <1user@domain.com>
+References: <6user@domain.com>
+In-Reply-To: <6user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+x-originating-ip: [3.23.52.165]
+x-exclaimer-md-config: 47edc00f-f2d6-45ef-be83-8a353bd47e45
+Content-Type: multipart/related;
+	boundary="_004_1D66E565D753C84993D3DC6182C3B55801116060USAOAEMWP012mai_";
+	type="multipart/alternative"
+X-CFilter-Loop: Forward
+X-Proofpoint-Virus-Version: vendor=fsecure engine=2.50.10432:,, definitions=2016-05-02_13:,,
+ signatures=0
+X-Proofpoint-Spam-Details: rule=outbound_notspam policy=outbound score=0 spamscore=0 suspectscore=0
+ malwarescore=0 phishscore=0 adultscore=0 bulkscore=0 classifier=spam
+ adjust=0 reason=mlx scancount=1 engine=8.0.1-1603290000
+ definitions=main-1605020311
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Hi User,
+We are all set here for a 10am meeting in Phil's office at 30 Rock.
+Please confirm this works on your end.
+Thanks so much,
+Savannah
+
+[cid:image001.png@01D0D901.124B16D0]
+Savannah Sellers
+O: (212) 664-3494
+C: (858) 774-7406
+user@domain.com<mailto:user@domain.com>
+
+From: "Sellers, Savannah (NBCUniversal)" <Savannah.Sellers@nbcuni.com>
+Sent: Monday, May 02, 2015 3:43 PM
+To: User; Sellers, Savannah (NBCUniversal)
+Subject: DWS--Phil Griffin
+
+Savannah and User,
+Connecting you two to confirm/coordinate a 10am meeting between DWS and Phi=
+l in Phil's office tomorrow.
+
+Mark Kornblau
+Senior Vice President, Communications
+NBCUniversal News Group
+212.664-2007
+user@domain.com<mailto:user@domain.com>
+

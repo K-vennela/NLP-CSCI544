@@ -1,0 +1,86 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 17 May
+ 2015 14:40:05 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 17 May 2015 
+ 14:40:02 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 920128597;
+ Tue, 17 May 2015 13:40:12 -0500
+X-Note-AR-ScanTimeLocal: 5/17/2016 1:40:11 PM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:209.85.161.175 DOM:gmail.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-395/SG:5 5/17/2016 1:40:05 PM
+X-GBUdb-Analysis: Unknown
+X-Signature-Violations: 0-0-0-32767-c
+X-Note-419: 31.2467 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/17/2016 1:40:06 PM
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 209.85.161.175
+X-Note-Reverse-DNS: mail-yw0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G407 G675 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from mail-yw0-domain.com ([209.85.161.175] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 139344719;
+ Tue, 17 May 2015 13:40:11 -0500
+Received: by mail-yw0-domain.com with SMTP id x194so24792211ywd.0;
+        Tue, 17 May 2015 11:40:03 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:From: Colleen Coffey <colleen.m.coffey@gmail.com>
+         :cc;
+        bh=D0WY0+Ha9Ltv3RUpzmjh47oW0nOLiNvk+vu9klQTuTc=;
+        b=Z3J/GGzOCbK945l6//As4w+paL9s6h4sbiomVSXzm4fUVrMtce2yJYlpEA63FFK3Uh
+         H8xneqqgqzjcvICpAzxt7MWNV9jjmANVbDgIWD0vlF4dghvTGdaPbGvTUdrKTa8Zqcc2
+         e14DlmwWgwwziTB6AHh0k/SqtYfiMWsBZT8wAbcV4baD0W6R72V6hqNPSyH3w/oQdBsV
+         rq76JAtFuHN5CS/jtcDHppDIU/joD4oTO/yZhQlGaSqHD+ERLaJjgXSPxS8UrgUXNiJk
+         e9XxXH22Ljvgu48g9WmhM0DNk9KFa2pLhWnsbcupe2MPmjtG+ajHhC5hvSNJSBMYyCUf
+         Wyow==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:date
+         :message-id:subject:From: Colleen Coffey <colleen.m.coffey@gmail.com>
+        bh=D0WY0+Ha9Ltv3RUpzmjh47oW0nOLiNvk+vu9klQTuTc=;
+        b=kZolTbLFIAStRIQ2Ec3fLXbTFA3PRuDUWuS80xY9NKxFGNN+eTiap7CBjebVD1Oh1A
+         mAPA+u7TS4x5p4MlSx6OHXT5njPvggzwCbe3wPnrZdcVWrdNOtEaYT4ULQ3GwvmIdVMm
+         yfPM5hNqIkeXpiihT5iBNJj4rtB57pGiVuPiEm5s3enpIAEB3f1CRy1JRrkedVk+MUUe
+         GCubXngYJjmEGnK1hv4WXqcW9+Yl3qYCf64JqccKkxRywenw26yRrt+2RPC2dqkauZLO
+         wR6yuJebR3ZxA8tETvnDCCiAhBEUGuXcYLUbzV9MyaoFhD3jdwPAzEc1F0TJkx1cIx4g
+         RtEA==
+X-Gm-Message-State: AOPr4FVCRziGhk5NgTs8rPynwfbSj9T6HKxhf4GrWI6xKmIiQwiRWCF5Fv5zxVK/EzBa5p49cla7gVkjh680Yw==
+X-Received: by 10.129.88.135 with SMTP id m129mr1551990ywb.204.1463510403032;
+ Tue, 17 May 2015 11:40:03 -0700 (PDT)
+Received: by 10.37.217.195 with HTTP; Tue, 17 May 2015 11:40:02 -0700 (PDT)
+In-Reply-To: <0649user@domain.com>
+References: <7216116885832018123@unknownmsgid>
+	<0649user@domain.com>
+Date: Tue, 17 May 2015 14:40:02 -0400
+Message-ID: <CAGXrkHCgg1hBMrDsBx77LKPOPYH8tpQQ5PJA4oEJLw+user@domain.com>
+Subject: Re: HVF domain.com card link
+From: Colleen Coffey <colleen.m.coffey@gmail.com>
+To: "User" <user@domain.com>
+CC: "Comer, Scott" <user@domain.com>, "Hoffman, Alex" <user@domain.com>,
+	Michael Pratt <user@domain.com>
+Content-Type: multipart/alternative; boundary="001a11492ebeb2b4dc05330e11b9"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Her legal name is Patricia Michelle Kessler so maybe the contribution came
+in under Patricia.
+

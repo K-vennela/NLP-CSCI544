@@ -1,0 +1,104 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 18 May
+ 2015 11:38:24 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 18 May 2015 
+ 11:38:21 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 921887431
+ for user@domain.com; Wed, 18 May 2015 10:38:26 -0500
+X-Note-AR-ScanTimeLocal: 5/18/2016 10:38:24 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:136.147.176.200 DOM:domain.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 100
+X-GBUdb-Analysis: 0, 136.147.176.200, Ugly c=0 p=0 Source New
+X-Signature-Violations: 100-5945350-947-979-m
+	100-5945350-2224-2256-m
+	100-5945350-14036-14068-m
+	100-5945350-15734-15766-m
+	100-5945350-0-17504-f
+X-Note-419: 15.6253 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/18/2016 10:38:08 AM
+X-Warn: OPTOUT
+X-Warn: BULKMAILER
+X-Note: Spam Tests Failed: OPTOUT, BULKMAILER
+X-Country-Path: ->United States->
+X-Note-Sending-IP: 136.147.176.200
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G281 G286 G374 G376 G580 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from domain.com ([136.147.176.200] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 139531477
+ for user@domain.com; Wed, 18 May 2015 10:38:24 -0500
+Received: by domain.com id h7i66e163hs3 for <user@domain.com>;
+ Wed, 18 May 2015 15:38:14 +0000 (envelope-from
+ <user@domain.com>)
+X-Virus-Scanned: amavisd-new at orionsmtp-207.domain.com
+Message-ID: <943user@domain.com>
+Date: Wed, 18 May 2015 09:38:14 -0600
+Subject: Pocket your guest lists with our brand new Android phone app
+From: David Nydegger <david.nydegger@zkipster.com>
+Reply-To: <user@domain.com>
+To: <user@domain.com>
+Content-Type: multipart/alternative;
+	boundary="_=_swift_v4_1463585759_8a1485f5d13819800f9a0eb755031d31_=_"
+List-Unsubscribe: <<<link>>>
+X-Report-Abuse-To: user@domain.com
+x-job: 7235189_37195
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+GUEST LISTS ON ANDROID
+
+
+
+
+Welcome to the party, Android!
+
+
+
+
+Real-time guest lists are amazing - they synchronize across devices, are
+always up to date, and you can access the data from anywhere you want=2E
+Since we started, more than 50,000 event professionals in more than 100
+countries downloaded zkipster for iPad, iPhone or Android tablets=2E
+
+Today, we=E2=80=99re proud to add an Android phone app to that list! Get yo=
+ur
+guest lists into the pockets of all your staff and your clients, and keep
+full control of your data=2E Empower your team with zkipster, and make your=
+
+next event a success=2E Charge up your phone and connect it to the action=
+=2E
+
+David Nydegger, Head of Product
+
+
+
+=C2=A9 2015 zkipster USA, Inc=2E All Rights Reserved=2E
+401 Broadway, New York, NY 10013
+
+
+
+
+If you don't want to receive these emails anymore, please unsubscribe=2E
+
+<<link>>
+4fc8fb442c7dea16afceeb061e0f651233a/7253046
+
+=09=09=09=09=09=09=09=09=09=20
+
+=09=09=09=09=09=09=20
+

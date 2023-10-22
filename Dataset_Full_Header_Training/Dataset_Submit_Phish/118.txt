@@ -1,0 +1,54 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id 834AC468E1
+	for <user@domain.com>; Mon,  3 Sep 2015 06:52:31 -0400 (EDT)
+Received: from domain.com (domain.com [204.181.64.8])
+	by domain.com (Postfix) with ESMTP id 63105131FB6C
+	for <user@domain.com>; Mon,  3 Sep 2015 06:52:31 -0400 (EDT)
+Received: from domain.com (domain.com [69.36.186.76])
+	by domain.com (Postfix) with ESMTP id 59A7C6FA1D0
+	for <user@domain.com>; Mon,  3 Sep 2015 06:52:31 -0400 (EDT)
+Received: from User (cpe-24-24-70-30.domain.com [24.24.70.30])
+	(authenticated bits=0)
+	by domain.com (8.12.11.20060308/8.12.11) with ESMTP id l83AlvRk000328;
+	Mon, 3 Sep 2015 04:48:00 -0600
+Message-Id: <200709031048.user@domain.com>
+Reply-To: <user@domain.com>
+From: "aw-confirm"<aw-confirm@dmhosting.g.ysm.yahoo.com>
+Subject: Suspension Notice
+Date: Mon, 3 Sep 2015 07:48:24 -0300
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+To: undisclosed-recipients:;
+Content-Length: 3393
+Lines: 54
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 93
+
+Suspension Notice
+
+your username is suspended from eBay
+
+									You have been indefinitely suspended from eBay because our records indicate your account was involved in activities that violate our policy governing payment of eBay fees. Learn more about this offense.
+
+
+
+									If you feel you have been suspended in error or want to appeal this decision by providing additional information, please contact us.
+
+
+
+									An email regarding this was sent to you.
+
+
+
+Continue

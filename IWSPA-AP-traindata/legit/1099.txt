@@ -1,0 +1,37 @@
+<x-flowed>
+Prof. Douglass,
+You have access to EXACTLY THE SAME radiosonde data that we used in our 
+recently-published paper in the International Journal of Climatology 
+(IJoC). You are perfectly within your rights to verify the calculations 
+we performed with those radiosonde data. You are welcome to do so.
+We used the IUK radiosonde data (the data mentioned in your email) to 
+calculate zonal-mean temperature changes at different atmospheric 
+levels. You should have no problem in replicating our calculation of 
+zonal means. You can compare your results directly with those displayed 
+in Figure 6 of our paper. You do not need our "numerical quantities" in 
+order to determine whether we have correctly calculated zonal-mean 
+trends, and whether the IUK data show tropospheric amplification of 
+surface temperature changes.
+Similarly, you should have no problem in replicating our calculation of 
+"synthetic" MSU temperatures from radiosonde data. Algorithms for 
+calculating synthetic MSU temperatures have been published by ourselves 
+and others in the peer-reviewed literature. You have already 
+demonstrated (in your own IJoC paper of 2007) that you are capable of 
+computing synthetic MSU temperatures from climate model output.
+Furthermore, I note that in your 2007 IJoC paper, you have already 
+successfully replicated our "model average" synthetic MSU temperature 
+trends (which were published in the Karl et al., 2006 CCSP Report).
+In summary, you have access to the same model and observational data 
+that we used in our 2008 IJoC paper. You have all the information that 
+you require in order to determine whether the conclusions reached in our 
+IJoC paper are sound or unsound.
+You are quick to threaten your intent to file formal complaints against 
+me "with the journal and other scientific bodies". If I were you, Dr. 
+Douglass, I would instead focus my energies on rectifying the serious 
+error in the "robust statistical test" that you applied to compare 
+modeled and observed temperature trends.
+I am copying this email to all co-authors of the 2008 Santer et al. IJoC 
+paper, as well as to Professor Glenn McGregor at IJoC. They deserve to 
+be fully apprised of your threat to file formal complaints.
+Please do not communicate with me in the future.
+Ben Santer

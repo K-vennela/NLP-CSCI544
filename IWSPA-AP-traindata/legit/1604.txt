@@ -1,0 +1,261 @@
+<x-flowed>
+Dear folks,
+I just wanted to update you on my progress in formulating a response to 
+the Douglass et al. paper in the International Journal of Climatology 
+(IJC). There have been several developments.
+First, I contacted Science to gauge their level of interest in 
+publishing a response to Douglass et al. I thought it was worthwhile to 
+"test the water" before devoting a lot of time to the preparation of a 
+manuscript for submission to Science. I spoke with Jesse Smith, who 
+handles most of the climate-related papers at Science magazine.
+The bottom line is that, while Science is interested in this issue 
+(particularly since Douglass et al. are casting doubt on the findings of 
+the 2005 Santer et al. Science paper), Jesse Smith thought it was highly 
+unlikely that Science would carry a rebuttal of work published in a 
+different journal (IJC). Regretfully, I agree. Our response to Douglass 
+et al. does not contain any fundamentally new science - although it does 
+contain some new and interesting work (see below).
+It's an unfortunate situation. Singer is promoting the Douglass et al. 
+paper as a startling "new scientific evidence", which undercuts the key 
+conclusions of the IPCC and CCSP Reports. Christy is using the Douglass 
+et al. paper to argue that his UAH group is uniquely positioned to 
+perform "hard-nosed" and objective evaluation of model performance, and 
+that it's dangerous to leave model evaluation in the hands of biased 
+modelers. Much as I would like to see a high-profile rebuttal of 
+Douglass et al. in a journal like Science or Nature, it's unlikely that 
+either journal will publish such a rebuttal.
+So what are our options? Personally, I'd vote for GRL. I think that it 
+is important to publish an expeditious response to the statistical flaws 
+in Douglass et al. In theory, GRL should be able to give us the desired 
+fast turnaround time. Would GRL accept our contribution, given that the 
+Douglass et al. paper was published in IJC? I think they would - we've 
+done a substantial amount of new work (see below), and can argue, with 
+some justification, that our contribution is more than just a rebuttal 
+of Douglass et al.
+Why not go for publication of a response in IJC? According to Phil, this 
+option would probably take too long. I'd be interested to hear any other 
+thoughts you might have on publication options.
+Now to the science (with a lower-case "s"). I'm appending three 
+candidate Figures for a GRL paper. The first Figure was motivated by 
+discussions I've had with Karl Taylor and Tom Wigley. It's an attempt to 
+convey the differences between our method of comparing observed and 
+simulated trends (panel A) and the approach used by Douglass et al. 
+(panel B).
+In our method, we account for both statistical uncertainties in fitting 
+least-squares linear trends to noisy, temporally-autocorrelated data and 
+for the effects of internally-generated variability. As I've described 
+in previous emails, we compare each of the 49 simulated T2 and T2LT 
+trends (i.e., the same multi-model ensemble used in our 2005 Science 
+paper and in the 2006 CCSP Report) with observed T2 and T2LT trends 
+obtained from the RSS and UAH groups. Our 2-sigma confidence intervals 
+on the model and observed trends are estimated as in Santer et al. 
+(2000). [Santer, B.D., T.M.L. Wigley, J.S. Boyle, D.J. Gaffen, J.J. 
+Hnilo, D. Nychka, D.E. Parker, and K.E. Taylor, 2000: Statistical 
+significance of trends and trend differences in layer-average 
+atmospheric temperature time series, J. Geophys. Res., 105, 7337-7356]
+The method that Santer et al. (2000) used to compute "adjusted" trend 
+confidence intervals accounts for the fact that, after fitting a trend 
+to T2 or T2LT data, the regression residuals are typically highly 
+autocorrelated. If this autocorrelation is not accounted for, one could 
+easily reach incorrect decisions on whether the trend in an individual 
+time series is significantly different from zero, or whether two time 
+series have significantly different trends. Santer et al. (2000) 
+accounted for temporal autocorrelation effects by estimating r{1}, the 
+lag-1 autocorrelation of the regression residuals, using r{1} to 
+calculate an effective sample size n{e}, and then using n{e} to 
+determine an adjusted standard error of the least-squares linear trend. 
+Panel A of Figure 1 shows the 2-sigma "adjusted" standard errors for 
+each individual trend. Models with excessively large tropical 
+variability (like FGOALS-g1.0 and GFDL-CM2.1) have large adjusted 
+standard errors. Models with coarse-resolution OGCMs and low-amplitude 
+ENSO variability (like the GISS-AOM) have smaller than observed adjusted 
+standard errors. Neglect of volcanic forcing (i.e., absence of El 
+Chichon and Pinatubo-induced temperature variability) can also 
+contribute to smaller than observed standard errors, as in 
+CCCma-CGCM3.1(T47).
+The dark and light grey bars in Panel A show (respectively) the 1- and 
+2-sigma standard errors for the RSS T2LT trend. As is visually obvious, 
+36 of the 49 model trends are within 1 standard error of the RSS trend, 
+and 47 of the 49 model trends are within 2 standard errors of the RSS 
+trend.
+I've already explained our "paired trend test" procedure for calculating 
+the statistical significance of the model-versus-observed trend 
+differences. This involves the normalized trend difference d1:
+d1 = (b{O} - b{M}) / sqrt[ (s{bO})**2 + (s{bM})**2 ]
+where b{O} and b{M} represent any single pair of Observed and Modeled 
+trends, with adjusted standard errors s{bO} and s{bM}.
+Under the assumption that d1 is normally distributed, values of d1 > 
++1.96 or < -1.96 indicate observed-minus-model trend differences that 
+are significant at some stipulated significance level, and one can 
+easily calculate a p-value for each value of d1. These p-values for the 
+98 pairs of trend tests (49 involving UAH data and 49 involving RSS 
+data) are what we use for determining the total number of "hits", or 
+rejections of the null hypothesis of no significant difference between 
+modeled and observed trends. I note that each test is two-tailed, since 
+we have no information a priori about the "direction" of the model trend 
+(i.e., whether we expect the simulated trend to be significantly larger 
+or smaller than observed).
+REJECTION RATES FOR "PAIRED TREND TESTS, OBS-vs-MODEL
+Stipulated sign. level     No. of tests       T2 "Hits"     T2LT "Hits"
+5%                        49 x 2    (98)     2  (2.04%)     1  (1.02%)
+10%                        49 x 2    (98)     4  (4.08%)     2  (2.04%)
+15%                        49 x 2    (98)     7  (7.14%)     5  (5.10%)
+Now consider Panel B of Figure 1. It helps to clarify the differences 
+between the Douglass et al. comparison of model and observed trends and 
+our own comparison. The black horizontal line ("Multi-model mean trend") 
+is the T2LT trend in the 19-model ensemble, calculated from model 
+ensemble mean trends (the colored symbols). Douglass et al.'s 
+"consistency criterion", sigma{SE}, is given by:
+sigma{SE} = sigma / sqrt(N - 1)
+where sigma is the standard deviation of the 19 ensemble-mean trends, 
+and N is 19. The orange and yellow envelopes denote the 1- and 
+2-sigma{SE} regions.
+Douglass et al. use sigma{SE} to decide whether the multi-model mean 
+trend is consistent with either of the observed trends. They conclude 
+that the RSS and UAH trends lie outside of the yellow envelope (the 
+2-sigma{SE} region), and interpret this as evidence of a fundamental 
+inconsistency between modeled and observed trends. As noted previously, 
+Douglass et al. obtain this result because they fail to account for 
+statistical uncertainty in the estimation of the RSS and UAH trends. 
+They ignore the statistical error bars on the RSS and UAH trends (which 
+are shown in Panel A). As is clear from Panel A, the statistical error 
+bars on the RSS and UAH trends overlap with the Douglass et al. 
+2-sigma{SE} region. Had Douglass et al. accounted for statistical 
+uncertainty in estimation of the observed trends, they would have been 
+unable to conclude that all "UAH and RSS satellite trends are 
+inconsistent with model trends".
+The second Figure plots values of our test statistic (d1) for the 
+"paired trend test". The grey histogram is based on the values of d1 for 
+the 49 tests involving the RSS T2LT trend and the simulated T2LT trends 
+from 20c3m runs. The green histogram is for the 49 paired trend tests 
+involving model 20c3m data and the UAH T2LT trend. Note that the d1 
+distribution obtained with the UAH data is negatively skewed. This is 
+because the numerator of the d1 test statistic is b{O} - b{M}, and the 
+UAH tropical T2LT trend over 1979-1999 is smaller than most of the model 
+trends (see Figure 1, panel A).
+The colored dots are values of the d1 test statistic for what I referred 
+to previously as "TYPE2" tests. These tests are limited to the M models 
+with multiple realizations of the 20c3m experiment. Here, M = 11. For 
+each of these M models, I performed paired trend tests for all C unique 
+combinations of trends pairs. For example, for a model with 5 
+realizations of the 20c3m experiment, like GISS-EH, C = 10. The 
+significance of trend differences is solely a function of "within-model" 
+effects (i.e., is related to the different manifestations of natural 
+internal variability superimposed on the underlying forced response). 
+There are a total of 62 paired trend tests. Note that the separation of 
+the colored symbols on the y-axis is for visual display purposes only, 
+and facilitates the identification of results for individual models.
+The clear message from Figure 2 is that the values of d1 arising from 
+internal variability alone are typically as large as the d1 values 
+obtained by testing model trends against observational data. The two 
+negative "outlier" values of d1 for the model-versus-observed trend 
+tests involve the large positive trend in CCCma-CGCM3.1(T47). If you 
+have keen eagle eyes, you'll note that the distribution of colored 
+symbols is slightly skewed to the negative side. If you look at Panel A 
+of Figure 1, you'll see that this skewness arises from the relatively 
+small ensemble sizes. Consider results for the 5-member ensemble of 
+20c3m trends from the MRI-CGCM2.3.2. The trend in realization 1 is close 
+to zero; trends in realizations 2, 3, 4, and 5 are large, positive, and 
+vary between 0.27 to 0.37 degrees C/decade. So d1 is markedly negative 
+for tests involving realization 1 versus realizations 2, 3, 4, and 5. If 
+we showed non-unique combinations of trend pairs (e.g., realization 2 
+versus realization 1, as well as 1 versus 2), the distribution of 
+colored symbols would be symmetric. But I was concerned that we might be 
+accused of "double counting" if we did this....
+The third Figure is the most interesting one. You have not seen this 
+yet. I decided to examine how the Douglass et al. "consistency test" 
+behaves with synthetic data. I did this as a function of sample size N, 
+for N values ranging from 19 (the number of models we used in the CCSP 
+report) to 100. Consider the N = 19 case first. I generated 19 synthetic 
+time series using an AR-1 model of the form:
+xt(i) = a1 * (xt(i-1) - am) + zt(i) + am
+where a1 is the coefficient of the AR-1 model, zt(i) is a 
+randomly-generated noise term, and am is a mean (set to zero here). 
+Here, I set a1 to 0.86, close to the lag-1 autocorrelation of the UAH 
+T2LT anomaly data. The other free parameter is a scaling term which 
+controls the amplitude of zt(i). I chose this scaling term to yield a 
+temporal standard deviation of xt(i) that was close to the temporal 
+standard deviation of the monthly-mean UAH T2LT anomaly data. The 
+synthetic time series had the same length as the observational and model 
+data (252 months), and monthly-mean anomalies were calculated in the 
+same way as we did for observations and models.
+For each of these 19 synthetic time series, I first calculated 
+least-squares linear trends and adjusted standard errors, and then 
+performed the "paired trends". The test involves all 171 unique pairs of 
+trends: b{1} versus b{2}, b{1} versus b{3},... b{1} versus b{19}, b{2} 
+versus b{3}, etc. I then calculate the rejection rates of the null 
+hypothesis of "no significant difference in trend", for stipulated 
+significance levels of 5%, 10%, and 20%. This procedure is repeated 1000 
+times, with 1000 different realizations of 19 synthetic time series. We 
+can therefore build up a distribution of rejection rates for N = 19, and 
+then do the same for N = 20, etc.
+The "paired trend" results are plotted as the blue lines in Figure 3. 
+Encouragingly, the percentage rejections of the null hypothesis are 
+close to the theoretical expectations. The 5% significance tests yield a 
+rejection rate of a little over 6%; 10% tests have a rejection rate of 
+over 11%, and 20% tests have a rejection rate of 21%. I'm not quite sure 
+why this slight positive bias arises. This bias does show some small 
+sensitivity (1-2%) to choice of the a1 parameter and the scaling term. 
+Different choices of these parameters can give rejection rates that are 
+closer to the theoretical expectation. But my parameter choices for the 
+AR-1 model were guided by the goal of generating synthetic data with 
+roughly the same autocorrelation and variance properties as the UAH 
+data, and not by a desire to get as close as I possibly could to the 
+theoretical rejection rates.
+So why is there a small positive bias in the empirically-determined 
+rejection rates? Perhaps Francis can provide us with some guidance here. 
+Karl believes that the answer may be partly linked to the skewness of 
+the empirically-determined rejection rate distributions. For example, 
+for the N = 19 case, and for 5% tests, values of rejection rates in the 
+1000-member distribution range from a minimum of 0 to a maximum of 24%, 
+with a mean value of 6.7% and a median of 6.4%. Clearly, the minimum 
+value is bounded by zero, but the maximum is not bounded, and in rare 
+cases, rejection rates can be quite large, and influences the mean. This 
+inherent skewness must make some contribution to the small positive bias 
+in rejection rates in the "paired trends" test.
+What happens if we naively perform the paired trends test WITHOUT 
+adjusting the standard errors of the trends for temporal autocorrelation 
+effects? Results are shown by the black lines in Figure 3. If we ignore 
+temporal autocorrelation, we get the wrong answer. Rejection rates for 
+5% tests are 60%!
+We did not publish results from any of these synthetic data experiments 
+in our 2000 JGR paper. In retrospect, this is a bit of a shame, since 
+Figure 3 nicely shows that the adjustment for temporal autocorrelation 
+effects works reasonably well, while failure to adjust yields completely 
+erroneous results.
+Now consider the red lines in Figure 3. These are the results of 
+applying the Douglass et al. "consistency test" to synthetic data. 
+Again, let's consider the N = 19 case first. I calculate the trends in 
+all 19 synthetic time series. Let's consider the first of these 19 time 
+series as the surrogate observations. The trend in this time series, 
+b{1}, is compared with the mean trend, b{Synth}, computed from the 
+remaining 18 synthetic time series. The Douglass sigma{SE} is also 
+computed from these 18 remaining trends. We then form a test statistic 
+d2 = (b{1} - b{Synth}) / sigma{SE}, and calculate rejection rates for 
+the null hypothesis of no significant difference between the mean trend 
+and the trend in the surrogate observations. This procedure is then 
+repeated with the trend in time series 2 as the surrogate observations, 
+and b{Synth} and sigma{SE} calculated from time series 1, 3, 4,..19. 
+This yields 19 different tests of the null hypothesis. Repeat 1,000 
+times, and build up a distribution of rejection rates, as in the "paired 
+trends" test.
+The results are truly alarming. Application of the Douglass et al. 
+"consistency test" to synthetic data - data generated with the same 
+underlying AR-1 model! - leads to rejection of the above-stated null 
+hypothesis at least 65% of the time (for N = 19, 5% significance tests). 
+As expected, rejection rates for the Douglass consistency test rise as 
+N increases. For N = 100, rejection rates for 5% tests are nearly 85%. 
+As my colleague Jim Boyle succinctly put it when he looked at these 
+results, "This is a pretty hard test to pass".
+I think this nicely illustrates the problems with the statistical 
+approach used by Douglass et al. If you want to demonstrate that modeled 
+and observed temperature trends are fundamentally inconsistent, you 
+devise a fundamentally flawed test is very difficult to pass.
+I hope to have a first draft of this stuff written up by the end of next 
+week. If Leo is agreeable, Figure 4 of this GRL paper would show the 
+vertical profiles of tropical temperature trends in the various versions 
+of the RAOBCORE data, plus model results.
+Sorry to bore you with all the gory details. But as we've seen from 
+Douglass et al., details matter.
+With best regards,
+Ben

@@ -1,0 +1,86 @@
+Received: from domain.com (146.215.230.102) by
+ domain.com (43.130.141.78) with Microsoft SMTP Server id
+ 8.3.264.0; Mon, 3 Mar 2015 16:20:46 -0800
+Received: from domain.com ([160.33.194.230])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s240Kj87020674	for <user@domain.com>; Tue, 4 Mar 2015 
+ 00:20:45 GMT
+Received: from mail202-ch1-domain.com (mail-domain.com
+ [216.32.181.174])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s240Ki4A018711
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Tue, 4 Mar 2015 00:20:44 GMT
+Received: from mail202-ch1 (localhost [127.0.0.1])	by
+ mail202-ch1-domain.com (Postfix) with ESMTP id B2C311C041A	for
+ <user@domain.com>; Tue,  4 Mar 2015 00:20:44 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:192.64.236.105;KIP:(null);UIP:(null);IPV:NLI;H:mx-domain.com;RD:mx-domain.com;EFVD:NLI
+X-SpamScore: 3
+X-BigFish: vps3(z579eh5109h5105hzc89bhc857hc545Idbb0izz1f42h2148h208ch1ee6h1de0h1fdah2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6hzz8275ch1d7338h1de098h1def03h17326ah1def87h8275bh1bc7b9h8275dh1defc1h1def86h1de097h186068h172c6ch1ce120h1a691ciz2fheh5fh839ha12he5bh1288h12a5h137ah139eh13eah1441h14ddh1504h1537h162dh1631h1758h1898h18e1h1946h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1e23h1fe8h1ff5h20f0h2218h2216h226dh24afh2327h2336h2438h2461h2487h24d7h2516h2545h255eh2565h214ai24c8i1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail202-ch1: domain of domain.com designates 192.64.236.105 as permitted sender) client-ip=192.64.236.105; user@domain.com; helo=mx-domain.com ;domain.com ;
+Received: from mail202-ch1 (localhost.localdomain [127.0.0.1]) by mail202-ch1
+ (MessageSwitch) id 1393892441933591_8482; Tue,  4 Mar 2015 00:20:41 +0000
+ (UTC)
+Received: from domain.com (domain.com
+ [10.43.68.245])	by mail202-domain.com (Postfix) with ESMTP id
+ D5A5A4200CE	for <user@domain.com>; Tue,  4 Mar 2015 00:20:41 +0000
+ (UTC)
+Received: from mx-domain.com (192.64.236.105) by domain.com
+ (10.43.70.22) with Microsoft SMTP Server id 14.16.227.3; Tue, 4 Mar 2015 
+ 00:20:41 +0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1393892441;
+	s=sailthru; d=variety.com;
+	h=Date:From: Variety Breaking News <donotreply@variety.com>
+	bh=Fm+tQW/vBUBmX2pEQ3+qO2/Q6CuF77fB/Bpph/7JAiE=;
+	b=EWmyF9nnQ1NFjTUmFQHFsY+isMgrgdSgieeqw3owj2TUiKkCdbCblOOQ+fao7U9w
+	MG8fbyxvUpBGl+pjqPLib7R/nNEc3XvJq0rbU4KhuuA452xT4RoTMbqQG6MS9zP0zxl
+	Z3cypsOuRL/D+y3lmscLZsK0CkgJj7i9py91Ht4c=
+Date: Mon, 3 Mar 2015 19:20:41 -0500
+From: Variety Breaking News <donotreply@variety.com>
+To: <user@domain.com>
+Message-ID: <20140304002041.2459868.19352@domain.com>
+Subject: =?utf-8?B?V2h5IOKAmDEyIFllYXJzIGEgU2xhdmUnIElzIHRoZSBNb3M=?=
+ =?utf-8?B?dCBTYXRpc2Z5aW5nIE9zY2FyIFdpbm5lciBpbiBZZWFycw==?=
+Precedence: bulk
+X-TM-ID: 20140304002041.2459868.19352
+X-Info: Message sent by domain.com customer Variety
+X-Info: We do not domain.com unsolicited commercial email
+X-Info: Please report abuse by forwarding complete headers to
+X-Info: user@domain.com
+X-Mailer: domain.com
+X-IADB-IP: 192.64.236.105
+X-IADB-IP-REVERSE: 105.236.64.192
+X-IADB-URL: <<link>>
+X-Unsubscribe-Web: <<link>>
+List-Unsubscribe: <<<link>>>, <mailto:user@domain.com>
+X-rpcampaign: stcoy2459868
+Return-Path: user@domain.com
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+PETER DEBRUGE: All is right with the universe. Not sure I felt this way going in, but as it turn... 
+
+​ 
+
+Variety         
+
+Breaking News   
+
+Monday, March 3, 2015   
+
+​ 
+
+<<link>> 
+
+        Why ‘12 Years a Slave' Is the Most Satisfying Oscar Winner in Years             
+
+        PETER DEBRUGE: All is right with the universe. Not sure I felt this way going in, but as it turns out, the Oscar race was all abo...            
+        Full Story              
+
+
+
+
+Subscribe to Other Variety Newsletters   
+

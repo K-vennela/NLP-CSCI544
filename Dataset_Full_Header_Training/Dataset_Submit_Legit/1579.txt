@@ -1,0 +1,96 @@
+Received: from domain.com ([fe80::755c:1705:6a98:dcff]) by
+ domain.com ([fe80::755c:1705:6a98:dcff%11]) with mapi id
+ 14.03.0123.003; Wed, 22 Apr 2015 08:54:43 +0200
+From: Emad Shehata <e.shehata@hackingteam.com>
+To: Simonetta Gallucci <user@domain.com>
+CC: Elisabetta Ciceri <user@domain.com>, Giancarlo Russo
+	<user@domain.com>, Marco Bettini <user@domain.com>
+Subject: R: RE: Replying email
+Thread-Topic: RE: Replying email
+Thread-Index: AQHQfMk12gQ3Z0rtQkmArQSkVUx9Gw==
+Date: Wed, 22 Apr 2015 08:54:42 +0200
+Message-ID: <user@domain.com>
+In-Reply-To: <004801d07cc6$47856e00$d6904a00$@user@domain.com>
+Accept-Language: it-IT, en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <user@domain.com>
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 03
+X-Originating-IP: [fe80::755c:1705:6a98:dcff]
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EMAD SHEHATA450
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1252371169_-_-"
+
+E vai!!
+--
+Emad Shehata
+Key Account Manager
+
+Sent from my mobile.
+
+
+
+Da: Simonetta Gallucci
+Inviato: Wednesday, April 22, 2015 08:33 AM
+A: Emad Shehata
+Cc: Elisabetta Ciceri; Giancarlo Russo; Marco Bettini
+Oggetto: RE: Replying email
+
+
+
+Ciao,  vi informo che in data odierna abbiamo ricevuto il saldo di eur 17.175 (seconda tranche TCC). Ora tutte le fatture risultano completamente saldate.  Grazie,  Simonetta Gallucci 
+Financial Controller 
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com 
+mobile: +39 3939310619
+phone: +39 0229060603 From: Emad Shehata <e.shehata@hackingteam.com>
+Sent: giovedì 16 aprile 2015 10:59
+To: 'Simonetta'
+Cc: 'Elisabetta Ciceri'; 'Giancarlo Russo'; 'Marco Bettini'
+Subject: I: Replying email Ciao Simonetta, in merito a TCC ed il suo insoluto, ti confermo che dovremo ricevere bonifico del restante 50%, stimato per fine prossima settimana a grandi linee. Ti prego di darci evidenza del pagamento. Saluti  Emad Shehata
+Key Account Manager
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com
+mobile: +39 3357939078
+phone: +39 0229060603   Da: Salem H. Ghabboun [mailto:user@domain.com] 
+Inviato: mercoledì 15 aprile 2015 09:38
+A: Giancarlo Russo
+Cc: Dr. Ahmad Moahmmed Alsolaim; Saeed Al-Ghamdi; Emad Shehata
+Oggetto: RE: Replying email Thanks a lot. We will proceed in finalizing the issue.Regards, SALEM H. GHABBOUN      LEGAL ADVISORTECHNOLOGY CONTROL CO.  (TCC)P.O Box 14944 Riyadh 11434Kingdom of Saudi ArabiaT +966 920014888 Ext. 181M +966 535559132 From: Emad Shehata <e.shehata@hackingteam.com>
+Sent: Wednesday, April 15, 2015 3:40 AM
+To: Salem H. Ghabboun
+Cc: Dr. Ahmad Moahmmed Alsolaim; Saeed Al-Ghamdi; Emad Shehata
+Subject: Re: Replying email Thank you for the clarification Salem,
+
+the system was restored yesterday,  looking forward to conclude this admistrative issue as soon as possible,
+
+GiancarloOn 4/14/2015 12:23 PM, Salem H. Ghabboun wrote:Mr. Giancarlo, Referring to your below email, I really appreciate your prompt reply. However, we understand very well your requirement but unfortunately we can’t apply to it and provide you with a specific payment for withholding tax against the services purchased from your company, simply because we pay periodically the withholding tax on more one project/business gathered together and do not pay on each specific purchase, contract or client or service. It will be easier for us that your company handle recovering the paid amounts but this can’t happen due to the above justification.  So we can’t just domain.com to your company a sole withholding tax payment done to Zakat department in relation with the services and the license we purchased from your side.I hope this issue is now clarified. On the other hand, and in regard with the remaining (50%), I clarified within my below email that it will be paid within (5) working days upon the immediate return back for services to our Customer. So I also hope that what I confirmed in regard the remaining (50%) is applicable to you, hoping to return back the service to our customer without any further delays, and allow me to thank you for your nice gesture which is indeed  highly appreciated. Thank you again & Best regards,    SALEM H. GHABBOUN      LEGAL ADVISORTECHNOLOGY CONTROL CO.  (TCC)P.O Box 14944 Riyadh 11434Kingdom of Saudi ArabiaT +966 920014888 Ext. 181M +966 535559132 From: Emad Shehata <e.shehata@hackingteam.com>
+Sent: Tuesday, April 14, 2015 12:53 PM
+To: Salem H. Ghabboun
+Cc: Dr. Ahmad Moahmmed Alsolaim; Saeed Al-Ghamdi; Emad Shehata; user@domain.com
+Subject: Re: Replying email Dear Salem.
+
+thank you for the clarification but we never asked TCC to pay/recover taxes on our behalf: we simply asked to provide evidence that this taxes has been paid so that we can recover it (with a compensation mechanism) from our local tax declaration. However, since in 2 years we have not received any evidence of such tax payment from your side we are forced to ask you to pay the outstanding amount. 
+
+Again, it is a simply accounting operation but we need paper document to do it and so far we have not in the position to properly register the outstanding amount: so how do you suggest we will threat the remaining 50%? Are you going to provide us certification of the tax payment performed in KSA? 
+
+As a gesture of good faith, we are going to extend for 15 days the license of the client waiting for collection of the amount and your input on how deal with the remaining 50%,
+
+Best regards,
+
+Giancarlo
+
+As I mentioned previously we can recover the withholded tax from our local tax declaration if there is a document stating that you have paid this amount in KSA. More importantly we did not provide any delegaOn 4/13/2015 1:12 PM, Salem H. Ghabboun wrote:Mr. Giancarlo,  Referring to your email dated April 7, 2015, please be informed that the deduction that took place by TCC on some of your payments came to cover the withholding tax for the Income and Zakat Department – KSA according to section (E) payments terms paragraph (4) within our purchase order no. TCC-LPO-0026-09-12-V5 dated 26.09.2012 approved by your company.Furthermore, and as for the obtained tax exemption received from your company, please be informed that we submitted the exemption on behalf of your company to recover the paid withholding tax and the recovery is still under process. (please refer to the attached)Despite of the above, and despite the fact that it won’t be fair for TCC to pay withholding tax on your company’s behalf, but in order to maintain our unique business relation, we have concluded a wire transfer for the domain.com of your company for the amount of (17,175.00) Seventeen thousand one hundred seventy five Euro which represents (50%) of the deducted amounts against the withholding tax.  We will transfer the remaining (50%) as wire transfer within (5) working days, accordingly your company is required for immediate return back for Services to our customer without any further delays.Hoping to succeed in recovering the paid withholding tax.Best Regards,   SALEM H. GHABBOUN      LEGAL ADVISORTECHNOLOGY CONTROL CO.  (TCC)P.O Box 14944 Riyadh 11434Kingdom of Saudi ArabiaT +966 920014888 Ext. 181M +966 535559132  --  Giancarlo RussoCOO Hacking TeamMilan Singapore Washington DCwww.hackingteam.com email: user@domain.com: +39 3288139385phone: +39 02 29060603 --  Giancarlo RussoCOO Hacking TeamMilan Singapore Washington DCwww.hackingteam.com email: user@domain.com: +39 3288139385phone: +39 02 29060603

@@ -1,0 +1,43 @@
+Return-Path: <user@domain.com>
+Reply-To: <user@domain.com>
+From: "Alberto Pelliccione" <alberto@hackingteam.it>
+To: "User" <user@domain.com>
+CC: <user@domain.com>
+Subject: demo ipa A
+Date: Tue, 29 Nov 2015 13:17:31 +0200
+Organization: HT
+Message-ID: <4user@domain.com>
+X-Mailer: Microsoft Outlook 15.0
+Thread-Index: AQIl8wKlyStf2l2Rn5hy0+1iyHFBWg==
+X-OlkEid: 000000007D2091DA92D3914ABB4C05769578F4790700C3B68E10F77511CEB4CD00AA00BBB6E600000000000C0000A96A85A9D2A04643865EB2097E3CF3A300000000409C0000BE73607D6D03724CA28C3213166AF4A3
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-615933390_-_-"
+
+Ciao ale,
+ho bisogno di prendere un IPA di backup per KL, in ufficio e'
+disponibile solo il DemoIpaA, posso prenderlo?
+La pass di root e' scritta da qualche parte?
+
+Grazie
+
+-- 
+Alberto Pelliccione
+Senior Security Engineer
+
+HT srl
+Via Moscova, 13 I-20121 Milan, Italy
+WWW.HACKINGTEAM.IT
+Phone: +39 02 29060603
+Fax: +39 02 63118946
+Mobile: +39 3486512408
+
+This message is a PRIVATE communication. This message contains
+privileged and confidential information intended only for the use of the
+addressee(s). If you are not the intended recipient, you are hereby
+notified that any dissemination, disclosure, copying, distribution or
+use of the information contained in this message is strictly prohibited.
+If you received this email in error or without authorization, please
+notify the sender of the delivery error by replying to this message, and
+then delete it from your system.

@@ -1,0 +1,243 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 10 May
+ 2015 18:05:32 -0400
+Received: from server555.appriver.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 10 May 2015 
+ 18:05:27 -0400
+Received: from [10.87.0.113] (HELO inbound.appriver.com)  by
+ server555.appriver.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 907889638
+ for user@domain.com; Tue, 10 May 2015 17:05:34 -0500
+X-Note-AR-ScanTimeLocal: 5/10/2016 5:05:29 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: 72.3.212.195 ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->United States->
+X-Note-Sending-IP: 72.3.212.195
+X-Note-Reverse-DNS: outbound.appriver.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G8 G276 G277 G278 G279 G283 G284 G294 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDIP
+X-Note: Headers Injected
+Received: from [72.3.212.195] (HELO outbound.appriver.com)  by
+ inbound.appriver.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 137851154
+ for user@domain.com; Tue, 10 May 2015 17:05:29 -0500
+Received: from [10.242.231.127] (HELO server551sql)  by outbound.appriver.com
+ (CommuniGate Pro SMTP 6.1.2)  with ESMTP id 32469867 for user@domain.com;
+ Tue, 10 May 2015 17:05:29 -0500
+From: AppRiver SpamLab <notice@appriver.com>
+To: <user@domain.com>
+Date: Tue, 10 May 2015 17:05:29 -0500
+Subject: Held Spam Report for 5/9/2016
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+Message-ID: <user@domain.com>
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+															Daily Held Spam Report
+
+
+
+user@domain.com
+
+Monday, May 9, 2=
+016
+
+View, Search, Sort Report |
+										Request Current Report |
+										Change Report Settings
+
+Spam: 11
+
+																																	=09
+
+
+
+View |
+											Release
+
+user@domain.com
+
+Last Chance! Screening & Interviewing Applicants: What's l=
+egal, What's Not, 5/16 Webinar
+
+												7:51p from United States (9.18 KB)
+
+
+
+																									=09
+
+
+
+View |
+											Release
+
+user@domain.com
+
+WED! DOL Proposed Revisions to Overtime Rules: Analysis of Lik=
+ely Exempt Threshold Change, More!
+
+												3:10p from United States (35.61 KB)
+
+
+
+																									=09
+
+
+
+View |
+											Release
+
+user@domain.com<=
+/a>
+
+NEXT WEEK! Insurance Concerns in Commercial Contracts: Address=
+ing Unique Risk Profiles for Your Deal
+
+												1:21p from United States (43.94 KB)
+
+
+
+																									=09
+
+
+
+View |
+											Release
+
+user@domain.com
+
+THURSDAY! Essential Skills for New & Experienced Superviso=
+rs: How to Make the Leap. Register NOW!
+
+												1:16p from United States (34.48 KB)
+
+
+
+																									=09
+
+
+
+View |
+											Release
+
+user@domain.com
+
+Disciplining Employees: The Right Way to Do It
+
+												10:56a from United States (9.78 KB)
+
+
+
+																									=09
+
+
+
+View |
+											Release
+
+user@domain.com
+
+Last chance to register: Succession Planning webinar
+												10:25a from United States (28.95 KB)
+
+
+
+																									=09
+
+
+
+View |
+											Release
+
+user@domain.com
+
+You have UNREAD MESSAGES from Corenda Doten
+
+												9:46a from Romania (1.9 KB)
+
+
+
+																									=09
+
+
+
+View |
+											Release
+
+user@domain.com
+
+Read your MESSAGE from naughty Mrs. Florencia Watterson=
+
+												9:24a from Viet Nam (2.29 KB)
+
+
+
+																									=09
+
+
+
+View |
+											Release
+
+user@domain.com
+
+WEDNESDAY! Procurement Rules Under the Supercircular/Omni-Circ=
+ular: Key Requirements. Register NOW!
+
+												8:09a from United States (33.61 KB)
+
+
+
+																									=09
+
+
+
+View |
+											Release
+
+user@domain.com
+
+We're More Than Just Your Local Webstore, We're Your Friends- =
+Kaplanj.
+
+												4:07a from Viet Nam (31.03 KB)
+
+
+
+																									=09
+
+
+
+View |
+											Release
+
+user@domain.com
+
+Common Grammatical Errors That Make You Look Dumb
+
+												3:40a from United States (9.3 KB)
+
+
+
+Virus: 0
+
+Outbound: 0
+
+Copyright ©2003-2016=20
+															AppRiver, All Rights Reserved
+
+
+
+Unsubscribe
+

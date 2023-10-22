@@ -1,0 +1,112 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 18 May
+ 2015 18:00:00 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 18 May 2015 
+ 17:59:57 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 922935361
+ for user@domain.com; Wed, 18 May 2015 17:00:07 -0500
+X-Note-AR-ScanTimeLocal: 5/18/2016 4:59:58 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:199.16.156.172 DOM:bounce.twitter.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-235/SG:5 5/18/2016 4:59:07 PM
+X-GBUdb-Analysis: 0, 199.16.156.172, Ugly c=0.612136 p=-0.547368 Source Normal
+X-Signature-Violations: 0-0-0-32767-c
+X-Note-419: 15.6226 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/18/2016 4:59:48 PM
+X-Warn: COMMENTS HTML Comments found in Message Body
+X-Warn: BOUNCETRACKER Bounce User Tracking Found
+X-Warn: WEBBUG
+X-Warn: OPTOUT
+X-Warn: WEIGHT10
+X-Warn: WEIGHT15
+X-Note: Spam Tests Failed: COMMENTS, BOUNCETRACKER, WEBBUG, OPTOUT, WEIGHT10, WEIGHT15
+X-Country-Path: United States->
+X-Note-Sending-IP: 199.16.156.172
+X-Note-Reverse-DNS: spring-chicken-bg.twitter.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G340 G341 G376 G398 G399 G400 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from spring-chicken-bg.twitter.com ([199.16.156.172] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 139357533
+ for user@domain.com; Wed, 18 May 2015 16:59:58 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=twitter.com;
+	s=dkim-201406; t=1463608797;
+	bh=FNNERvR5jbi309InhMJYa59vbfS4Tpr4Tsdfn4jq0Qs=;
+	h=Date:From: Popular in your network <info@twitter.com>
+	 Message-ID;
+	b=CXFPuY4EzcYRWXGuFgf+Sfs4BysOYwDEhJZBhw3cZYPaVh8pAWnZO2XpuKRpSgAZA
+	 gb/NouWtK4DaWG4vKoVVk5oKRq9UF84d8beYPy319BgitFZdY7vK+sEipNTd0FOQJ0
+	 qGkhU5ngmGsGZjYP7q2tdtxUorlFrSKPPjrzjzEH7lZOKWIL4gGV+oPxbVMsV6sUzZ
+	 3pCLlulG+iq4o0bSxpsimza9Akb3Jwq20v8wiLi/oRs1yvtSrYATd0BL7SKsN7XQsE
+	 U0oBlLT9o4YM+yZS/0ok+gbUgG+xHAaXA9mQGdEwFNXARghqXA2VJyKgPbO4PyXQZC
+	 OZkBYjoROwuTg==
+X-MSFBL: LXelmgUewRPy83DLq/1S2VEuI0M6CNFKJuRMpBShFoI=|eyJ1IjoibWlyYW5kYWx
+	AZG5jLm9yZ0BpaWQjI2I5MzE0MWRiNmUzMTQ3YzZiZmJlNjRkYTcxYzE0MGZkQHV
+	zYiMjMjRAMjQ0QDEzNzU3OTAwMTZAMEBiZmJiMTM1M2Q1NjVlZjcyY2RhYmRmNWV
+	mYTQxZDFkNmIxZjFjZmUwIiwiciI6Im1pcmFuZGFsQGRuYy5vcmciLCJnIjoiRXZ
+	lcnl0aGluZyIsImIiOiJhdGxhLWFxaS0yMy1zcjEtRXZlcnl0aGluZy4xOTIifQ=
+	=
+Date: Wed, 18 May 2015 21:59:57 +0000
+From: Popular in your network <info@twitter.com>
+To: User <user@domain.com>
+Subject: =?UTF-8?Q?Trump_Meets_His_Match_on_Twitter_=E2=80=93_?=
+ =?UTF-8?Q?His_Own_SCOTUS_Nominee_|_Factivists?=
+Content-Type: multipart/alternative;
+	boundary="----=_Part_1755434_903938182.1463608797703"
+List-Unsubscribe: <<<link>>+26&usbid=6>
+Feedback-ID: 0040162518f58f41d1f0:15491f3b2ee48656f8e7fb2fac:none:twitterESP
+Precedence: Bulk
+Message-ID: <5user@domain.com>
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Hey User,
+
+Trump Meets His Match on Twitter =E2=80=93 His Own SCOTUS Nominee | Factivi=
+sts
+<<link>>
+bGVfcmVjcw%253D%253D%26refsrc%3Demail&amp;t=3D1&amp;cn=3DZmxleGlibGVfcmVjcw=
+%3D%3D&amp;sig=3D8c73481b09a234858da4b3cd3da84847e54e22bc&amp;iid=3Db93141d=
+b6e3147c6bfbe64da71c140fd&amp;uid=3D1375790016&amp;nid=3D244+1456
+
+@FoxNews
+Amtrak victims: NTSB investigative findings hard to believe  <<link>>
+j6T13RZVU <<link>>
+<<link>>
+
+@TeamCavuto
+.@SenatorSessions joins Neil to discuss @realDonaldTrump's list of potentia=
+l Supreme Court nominees #CAVUTO @FoxNews <<link>>
+<<link>>
+
+@SIRIUSXM
+The cast of @NeighborsMovie joined us today to talk about, well, neighbors!=
+ Hear the Town Hall on @EWlive this Sat. <<link>>
+<<link>>
+
+@SpeakerRyan
+Great to hang out with another Wisconsinite today! <<link>>
+<<link>>
+
+@MSNBC
+Gun used to kill Trayvon Martin earns $140K bid at auction: <<link>>
+UA1XShCa <<link>>
+<<link>>
+
+Opt-out: <<link>>
+d7391f5d55f29cdcc557d63a040b864cdd71b659&iid=3Db93141db6e3147c6bfbe64da71c1=
+40fd&uid=3D1375790016&nid=3D244+26&usbid=3D6

@@ -1,0 +1,72 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (unknown [75.102.5.22])
+	by domain.com (Postfix) with ESMTP id CF1B34688C
+	for <user@domain.com>; Sun, 31 May 2015 00:02:39 -0400 (EDT)
+Received: from localhost (localhost [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 71FC223206F;
+	Sun, 31 May 2015 04:04:50 +0000 (UTC)
+X-Virus-Scanned: amavisd-new at domain.com
+X-Spam-Flag: NO
+X-Spam-Score: -2.599
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.599 tagged_above=-10 required=6.6
+	tests=[BAYES_00=-2.599]
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id D1bYaLuaWgnK; Sun, 31 May 2015 04:04:44 +0000 (UTC)
+Received: from mail03do.versatel.de (mail03do.versatel.de [89.245.129.23])
+	by domain.com (Postfix) with ESMTP id 0E3EA23202A
+	for <user@domain.com>; Sun, 31 May 2015 04:04:35 +0000 (UTC)
+Received: (qmail 27337 invoked from network); 31 May 2015 04:02:19 -0000
+Received: from webmail01.versatel-nord.de ([62.214.102.231])
+          (envelope-sender <user@domain.com>)
+          by mail03do.versatel.de (qmail-ldap-1.03) with SMTP
+          for <user@domain.com>; 31 May 2015 04:02:17 -0000
+Received: from 41.211.254.97 ([41.211.254.97]) by webmail.versatel.de
+	(Horde MIME library) with HTTP; for <user@domain.com>; Sun, 31 May
+	2009 06:02:14 +0200
+Message-ID: <20090531060214.2user@domain.com>
+Date: Sun, 31 May 2015 06:02:14 +0200
+From: WEBMAIL SERVICE HELP DESK <servicedesk@webmail.info>
+Reply-to: user@domain.com
+To: undisclosed-recipients:;
+Subject: Webmail Account Verification Update ! ! !
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset=ISO-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+User-Agent: domain.com Messaging Program (IMP) H3 (4.0.3)
+X-Originating-IP: 41.211.254.97
+Content-Length: 1116
+Lines: 23
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1069
+
+Dear Webmail User,
+
+The Webmail Program that periodically checks the size of your e-mail
+space is sending you this information. The program runs weekly to
+ensure your inbox does not grow too large, thus  preventing you from
+receiving or sending new e-mail. As this message is being sent, you
+have 18 megabytes (MB) or more stored in  your inbox. To help us reset
+your space in our database, please  enter your current user
+name (_________________) password  (_______________)
+
+You will receive a periodic alert if your inbox size is between 18
+and 20 MB. If your inbox size is 20 MB, a program on your Webmail
+will move your oldest e-mails to a folder in your home directory to
+ensure you can continue receiving incoming e-mail. You will be
+notified this has taken place. If your inbox grows to 25 MB, you will
+be unable to receive new e-mail and it will be returned to  sender.
+All this is programmed to ensure your e-mail continues to function
+well. Thank you for your cooperation and understanding.
+
+Information Technology Services Apologizes for any inconvenience caused
+by this required work.
+
+IT Service Desk.

@@ -1,0 +1,114 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 4 May
+ 2015 16:51:56 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 4 May 2015 
+ 16:51:49 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 897004410
+ for user@domain.com; Wed, 04 May 2015 15:51:57 -0500
+X-Note-AR-ScanTimeLocal: 5/4/2016 3:51:56 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @politico.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->
+X-Note-Sending-IP: 68.232.198.10
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from domain.com ([68.232.198.10] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 137091967
+ for user@domain.com; Wed, 04 May 2015 15:51:56 -0500
+Received: by domain.com id h59gek163hsu for <user@domain.com>; Wed,
+ 4 May 2015 14:51:42 -0600 (envelope-from
+ <user@domain.com>)
+From: "POLITICO's  2015 Blast" <2016blast@politico.com>
+To: <user@domain.com>
+Subject: =?UTF-8?B?UE9MSVRJQ08ncyAyMDE2IEJsYXN0LCBwcmVzZW50ZWQgYnkgUXVh?=
+ =?UTF-8?B?bGNvbW06IEthc2ljaOKAmXMgb3V0ICDigJQgVHJ1bXDigJlzIHJlYnJhbmRp?=
+ =?UTF-8?B?bmcgYmVnaW5zIOKAlCBJbnNpZGUgQ3J1euKAmXMgZmluYWwgZGF5cyDigJQg?=
+ =?UTF-8?B?NSB0aGluZ3MgeW91IG5lZWQgdG8ga25vdw==?=
+Date: Wed, 4 May 2015 14:51:41 -0600
+List-Unsubscribe: <mailto:user@domain.com>
+Reply-To: POLITICO subscriptions
+	<user@domain.com>
+x-job: 1376319_5389880
+Message-ID: <34186040-04user@domain.com>
+Content-Type: multipart/alternative; boundary="vKOcT1bAweGM=_?:"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+By Henry C. Jackson | 05/04/2016 04:49 PM EDT
+
+KAS CLOSED: DONALD TRUMP it is, then.
+
+JOHN KASICH is ending his presidential campaign. The decision makes him the last of Trump's GOP foes to leave the 2015 field. Kasich had been set to soldier on - he was scheduled to talk to reporters in Washington, D.C. today, before embarking on a series of finance events, POLITICO's Daniel Strauss reports. And as recently as last night, he had vowed to fight until the end.
+
+One sign this was a last minute decision: He released a (Blast note: Fairly poor, as these things go) Star Wars-themed ad. <<link>> 
+
+But by this morning, he was on his way out. Kasich's withdrawal came hours after Trump delivered a decisive win in Indiana and TED CRUZ left the race. After abruptly clearing his schedule, Kasch announced a 5 p.m. eastern press conference in Columbus, Ohio. Read more at: <<link>> 
+
+Happy Wednesday. The GOP party is just ending (or just beginning) but your 2015 Blast is same as it ever was. And May the fourth be with you. <<link>>  (Every day, but especially today.) Henry C. Jackson (@henrycjjackson) is here to guide you through the day's campaign news, so send your tips, complaints and hot takes to user@domain.com 
+
+** A message from Qualcomm: We're inventing the technologies that connect cities to their citizens. Through the use of intelligent connectivity solutions, we're developing the wireless communication technologies that revolutionize city infrastructure. Our innovations in smart infrastructure help make cities more efficient and cost-effective. Learn more at <<link>> **
+
+Here are four more things to do we're watching today. 
+
+2) REBRANDING: Welcome to the rebranding phase of DONALD TRUMP's presidential campaign. Hours after more-or-less securing the Republican presidential nomination, Trump struck a conciliatory tone, announced he'd begun to vet vice presidential candidates <<link>> and generally eschewed some of the bombast that has characterized his run to date - at least in regards to anyone not named HILLARY CLINTON. His campaign declared she had "truly never been vetted before." The question, of course: How long will it last? Even in the afterglow of victory on Wednesday, he couldn't resist calling columnist George Will a "loser." So there you go. 
+<<link>> 
+
+3) END OF THE CRUZ: POLITICO's Shane Goldmacher and Katie Glueck deliver a must-read on the end of the TED CRUZ campaign - an effort that ended, in part, as Cruz considered a political future beyond 2016. Their story is chock full of details, from Iowa caucus night, when Cruz's campaign circulated reports BEN CARSON was leaving the 2015 race, to tough decisions ahead of a fateful loss in Indiana that, it became clear, was always going to be Cruz's last stand. In the end, Cruz found that what had once been his rationale as a candidate - the distrust of the Washington GOP establishment - became one of his biggest obstacles in overcoming DONALD TRUMP. And the question is where it leaves him
+ going forward. <<link>> 
+
+4) TRUMP-MAS MORNING: The realization that DONALD TRUMP will be the Republican nominee prompted a fair amount of freaking out among Republicans. Some, as POLITICO's Eli Stokols reports, signaled that they would be looking toward HILLARY CLINTON. <<link>> And POLITICO's Nolan D. McCaskill reports that Republicans of all sorts - even conservatives like Rep. Louie Gohmert - expressed worries about what Trump's nomination would mean. <<link>>
+
+5)  HEY, STILL BERNING HERE: HILLARY CLINTON was focused on DONALD TRUMP today <<link>> and eyeing swing states. <<link>> But, uh, hey BERNIE SANDERS won last night's Indiana primary ... As POLITICO's Glenn Thrush reports, Sanders' victory probably won't change the arc of the Democratic nomination. But Clinton is going to have to see him off somehow. <<link>> And Sanders' victory gave him a swell of momentum after what had been a tough week of staff cutbacks. It was enough that Sanders could pledge, in an interview with NPR today, that he would stay in the race until the end. "I
+ think it is good for the United States of America, good for the Democratic Party, to have a vigorous debate, to engage people in the political process," he said. <<link>> 
+
+TRAIL MIX: Elsewhere on the campaign trail, HILLARY CLINTON can be deposed, pundits got so very much wrong about DONALD TRUMP. TED CRUZ had a rough night. Democrats want to continue berning and the Rolling Stones want Trump off of their cloud.
+
+COMING ATTRACTIONS: A judge says that HILLARY CLINTON can be deposed in the investigation of her emails. <<link>> 
+
+TAKE THE GARLAND: With DONALD TRUMP's nomination at hand some Republicans say the Senate should just move forward with Merrick Garland's Supreme Court nomination. <<link>> 
+
+TRUMPED BY TRUMP: An impressive, but not nearly definitive, list of bad predictions related to DONALD TRUMP. <<link>> 
+
+VEEPSTAKES: A look at the attributes DONALD TRUMP wants in a vice president. (CBS) <<link>> 
+
+CAN'T ALWAYS GET WHAT YOU WANT: The Rolling Stones have asked DONALD TRUMP to stop using their music at events. (Time) <<link>> 
+
+INJURY TO INSULT: TED CRUZ accidentally bumped and elbowed his wife, Heidi, during his withdrawal speech last night and it went viral. (US Weekly) <<link>> 
+
+LET IT BERN: More than 50 percent of Democrats want BERNIE SANDERS to stay in the race until the end. (USA Today) <<link>> 
+
+WHAT'S NEXT: BERNIE SANDERS heads to West Virginia. HILLARY CLINTON is in California. 
+
+THEY SAID IT: "Republicans must know that there is absolutely no chance that we will win the White House in 2015 now." - RedState managing editor Leon Wolf with a measured reaction to DONALD TRUMP securing the GOP nomination. <<link>> 
+
+MAGIC NUMBER: 13. That's HILLARY CLINTON's lead in a new CNN/ORC poll for a general election matchup vs. DONALD TRUMP. <<link>> 
+
+FOLLOW @POLITICO'S politics team: @PoliticoCharlie, @POLITICO_Steve, @PoliticoAlex, @anniekarni, @GlennThrush, @EliStokols, @katieglueck, @schreckreports, @gdebenedetti, @Hadas_Gold, @ec_schneider, @kyledcheney , @theodoricmeyer, @MarcACaputo, @PoliticoKevin,@mikeallen, @dlippman, @Danielstrauss4, @henrycjjackson, @shanegoldmacher,@KristinPolitico, @PoliticoScott, @Patrick_C_Reis
+
+There you go - now you're caught up on the 2015 race. TBNR. Pizza is finger food, and we'll see you back here tomorrow.
+
+** A message from Qualcomm: We're partnering with New York City to create a state-of-the-art network to transform old public pay phones into Wi-Fi hotspots. With "Links," we're giving people access to the domain.com at speeds 100x faster than average public Wi-Fi as well as 24/7 free public phone calls and a charging station for mobile devices. Giving the city that never sleeps a Wi-Fi that's always connected is another way we're bringing the future forward faster. Learn more at <<link>> **
+
+To view online:
+<<link>>
+ To change your alert settings, please go to <<link>> or <<link>> email was sent to user@domain.com by: POLITICO, LLC 1000 Wilson Blvd. Arlington, VA, 22209, USA
+
+To unsubscribe,<<link>>
+

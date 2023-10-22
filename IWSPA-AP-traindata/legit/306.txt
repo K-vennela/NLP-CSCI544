@@ -1,0 +1,83 @@
+<x-flowed>
+Hi Peck, Eystein and Fortunat,
+I've drafted two versions of the new fig 6.14, comprising a new panel 
+showing the forcing used in the EMIC runs, plus the old fig 6.13e 
+panel showing the EMIC simulated NH temperatures.  Keith has seen them already.
+First you should know what I did, so that you (especially Fortunat) 
+can check that what I did was appropriate:
+(1) For the volcanic forcing, I simply took the volcanic RF forcing 
+from Fortunat's file and applied the 30-year smoothing before plotting it.
+(2) For the solar forcing there are 2 curves.  For the first, I took 
+the Bard 0.25% column from Fortunat's RF file.  For the second, I 
+took the Bard 0.08% column from Fortunat's RF file from 1001 to 1609, 
+and then appended the WLS RF forcing from 1610 to 1998.  Then I 
+smoothed the combined record.  NOTE that for the Bard0.25%, the line 
+is flat from 1961 onwards which probably isn't realistic, even though 
+that is what was used in the model runs.
+(3) For the "all other forcings" there are 2 curves.  For the first, 
+I took the CO2 concentrations provided by Fortunat, then used the 
+"standard" IPCC formula from the TAR (in fact the first of the three 
+options for CO2 in IPCC TAR Table 6.2) to convert this to a radiative 
+forcing.  I then added this to the non-CO2 radiative forcings data 
+from Fortunat's file, to get the total radiative forcing.  For the 
+second, I replaced all values after 1765 with the 1765 value (for the 
+natural forcings case).  Then I smoothed the combined record (as in 
+fig 6.13c, I only applied a 10-year smoothing when plotting the "all 
+other forcings", because it is fairly smooth anyway and using a high 
+smoothing results in lower final values when there is a strong trend 
+at the end of a time series).
+Now, some comments on the figures themselves (please print them and 
+refer to them when reading this):
+(1) File 'chap6_f6.14_option1.pdf' is strongly preferred by Keith and 
+me.  This shows the three forcing components separately, which helps 
+with understanding the individual causes of specific warming and 
+cooling periods.  I have managed to reduce the size of this 
+considerably, compared to the equivalent panel in fig 6.13, because 
+with only a few series on it I could squeeze them together more and 
+also reduce the range of the vertical axes.
+(2) Although we don't prefer it, I have also made 
+'chap6_f6.14_option2.pdf' which is even smaller by only showing the 
+sum of all the forcings in the top panel.
+Which version do you prefer?  Please let me know so I can make final 
+changes only to the preferred version.
+Some more comments:
+(1) Fig 6.14b was originally Fig 6.13e.  When it was part of that 
+figure, the colour bar showing the shades of grey used to depict the 
+overlapping ranges of the published temperature reconstructions was 
+only on Fig 6.13d.  Do you think I should now also add it to the EMIC 
+panel (6.14b), now that it is in a separate figure?  It will be a bit 
+of a squeeze because of the legend that is already in 6.14b.
+(2) Another carry over from when 6.14b was part of 6.13, is that the 
+time range of all panels had to match (900-2010).  Now that the EMICs 
+are in a separate figure, I could start them in year 1000, which is 
+when the forcing and simulations begin.  Unless you want 6.13 and 
+6.14 to remain comparable?  Again please comment/decide.
+(3) I wasn't sure what colours to use for the forcing series.  In 
+option 1, the volcanic and other forcings apply to all runs, so I 
+chose black (with thick/thin used to distinguish the "all" forcings 
+from the "natural-only" forcings (basically the thin flat line in 
+"all other forcings).  The cyan-green-blue runs used strong solar 
+forcing, so I used blue for that forcing.  The red-orange-brown runs 
+used weak solar forcing, so I used brown for that forcing.  Sound ok?
+Sorry for the long email, but I wanted to get everything explained to 
+avoid too many iterations.
+Please let me know your decisions/comments on these questions, or on 
+any other aspects of the new figure.
+Cheers
+Tim
+</x-flowed>
+Attachment Converted: "c:\eudora\attach\chap6_f6.14_option1.pdf"
+Attachment Converted: "c:\eudora\attach\chap6_f6.14_option2.pdf"
+<x-flowed>
+Dr Timothy J Osborn, Academic Fellow
+Climatic Research Unit
+School of Environmental Sciences, University of East Anglia
+Norwich  NR4 7TJ, UK
+e-mail:   t.osborn@uea.ac.uk
+phone:    +44 1603 592089
+fax:      +44 1603 507784
+web:      <<link>>~timo/
+sunclock: <<link>>~timo/sunclock.htm
+**Norwich -- City for Science:
+**Hosting the BA Festival 2-9 September 2006
+</x-flowed>

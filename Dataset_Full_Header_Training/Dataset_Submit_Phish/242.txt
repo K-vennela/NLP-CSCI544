@@ -1,0 +1,45 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [10.23.1.4])
+	by domain.com (Postfix) with ESMTP id B17F4536E93
+	for <user@domain.com>; Sun, 30 Jan 2015 06:05:59 -0500 (EST)
+Received: from 216.117.150.44 (unknown [216.117.150.44])
+	by domain.com (Postfix) with SMTP id A3FBD85AA0A
+	for <user@domain.com>; Sun, 30 Jan 2015 05:59:43 -0500 (EST)
+Received: from 52.208.126.184 by ; Sun, 30 Jan 2015 05:06:29 -0600
+Message-ID: <user@domain.com>
+From: "PayPal" <support@paypal.com>
+Reply-To: "User" <user@domain.com>
+To: user@domain.com
+Subject: PayPal Flagged Account
+Date: Sun, 30 Jan 2015 10:04:29 -0100
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--268269821457024013"
+X-Originating-IP: 10.23.1.4
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 93
+
+Dear PayPal Member,
+
+Your account has been randomly flagged in our system as a part of our rout=
+ine security measures. 
+This is a must to ensure that only you have access and use of your PayPal =
+account and to ensure a safe PayPal experience. We require all flagged acc=
+ounts to verify their information on file with us. To verify your Informat=
+ion at this time, please domain.com our secure server webform by clicking the h=
+yperlink below
+
+Click here to verify =
+your Information
+
+ Thank you for using PayPal!
+
+The PayPal Team
+
+Please do not reply to this e-mail. Mail sent
+to this address cannot be answered. For assistance, log
+in

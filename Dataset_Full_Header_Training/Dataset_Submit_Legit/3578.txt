@@ -1,0 +1,118 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 18 May
+ 2015 10:30:10 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 18 May 2015 
+ 10:30:07 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 921646461
+ for user@domain.com; Wed, 18 May 2015 09:30:16 -0500
+X-Note-AR-ScanTimeLocal: 5/18/2016 9:30:08 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @catherinecortezmasto.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 209.85.223.180
+X-Note-Reverse-DNS: mail-io0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mail-io0-domain.com ([209.85.223.180] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 139228077
+ for user@domain.com; Wed, 18 May 2015 09:28:55 -0500
+Received: by mail-io0-domain.com with SMTP id f89so67098840ioi.0
+        for <user@domain.com>; Wed, 18 May 2015 07:28:55 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=catherinecortezmasto-domain.com; s=20150623;
+        h=mime-version:date:message-id:subject:From: Cortez Masto Press <press@catherinecortezmasto.com>
+        bh=FbfMkPWNjEDD4JhPDL4VRP1Vfp6Iw74n7syWCwJxV+A=;
+        b=rWXc4zwOvDkmx8rgNd4y4cWQyimcQ4TifVDqI2A78xrP7Uc7aZ8RpgOwicayTqFUdY
+         HzxzKWXpt5A9D6NkjxN77MJecTgMcrkN66DPRP737RKSEoeMRLNrHCNbz/Rm8TjaGGs8
+         3FGiKu13DVWdp8pe+iVQthq5POhGjhXR19O7dewiNYYO6x4PaiAeiEkFGInLmxLj9FhR
+         Bm7REnOzejYUqiqxKWEeTgIxiVbwMhLcnkw1y+rgxcpt1R6E275Zsr/nJ2Mc3roW7Wog
+         HZPyr7flEJ0YCF4cFDc7d/hBHvhJ68DfNO92LMpjChS9sLZA/UVEFHkHS2UmN7KMzk8L
+         AKOw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:date:message-id:subject:From: Cortez Masto Press <press@catherinecortezmasto.com>
+        bh=FbfMkPWNjEDD4JhPDL4VRP1Vfp6Iw74n7syWCwJxV+A=;
+        b=KFZDgw6CevoKJU4lh0mlO1QM/8Y3crGh1ePQdO/b0/l9Mlk0NQ2P8hpnPWmFSlzvaa
+         ZqTD+e7tNh0IQoOn+jeYDxgdy8YTQlc3nt+RnnaUoyWCNWdlAwh/zUD/QoEq1YZJ5sjZ
+         mCVDJsbgasg5kmPK3mRUSlinv0io4zZQ6l9Xz8vYpNTgcL18cxyCVkr2nD48cLE77+sZ
+         hWGG6fpRwsVZh51rHoLODcZL57UY67DCI3Zkv7FLrx3xvs/PfszxkDcURhDvwsjPOanp
+         +xJtErJBroqMKsvG6gxy8nuEVQHJn/h8rruCvcKHyYKIG5uy8/+ieaSc92QBxctOk0te
+         9VpQ==
+X-Gm-Message-State: AOPr4FXjPDXSoLpTvYNVS71XwA5OxMoArQDlgrFXnz+3m4SGHIJfV0xh3oQ1G8lrVTmHByuAKBQHCVFjThTVog==
+X-Received: by 10.107.135.74 with SMTP id j71mr5107497iod.158.1463581734805;
+ Wed, 18 May 2015 07:28:54 -0700 (PDT)
+Received: by 10.107.41.4 with HTTP; Wed, 18 May 2015 07:28:54 -0700 (PDT)
+Date: Wed, 18 May 2015 07:28:54 -0700
+Message-ID: <CAFmhtJXA5MOPMEWz5MO_DUAxMDbVHA83RsBEFwa+Xe+user@domain.com>
+Subject: =?UTF-8?Q?=2A=2A=2AMEDIA_ADVISORY=2A=2A=2A_UPDATED_TIME=3A_TODAY_at_10=3A45am_?=
+	=?UTF-8?Q?in_Reno=3A_Catherine_Cortez_Masto_to_Tour_Reno_Senior_Center_o?=
+	=?UTF-8?Q?n_4th_Anniversary_of_Congressman_Heck_Calling_Social_domain.com?=
+	=?UTF-8?Q?y_a_=E2=80=9CPyramid_Scheme=E2=80=9D?=
+From: Cortez Masto Press <press@catherinecortezmasto.com>
+To: Cortez Masto Press <user@domain.com>
+Content-Type: multipart/related; boundary="001a113f921868b1e705331ead91"
+BCC: <user@domain.com>
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+*=E2=80=8B**For Planning Purposes Only*
+May 18, 2015 
+
+****MEDIA ADVISORY****
+
+*TODAY, WEDNESDAY, MAY 18 AT 10:45 AM AT WASHOE CO. SENIOR SERVICES CENTER*
+
+***Please note time has been updated to 10:45am***
+
+*Catherine Cortez Masto to Tour Reno Senior Center on 4th Anniversary of
+Congressman Heck Calling Social Security a =E2=80=9CPyramid Scheme=E2=80=9D=
+*
+
+Reno, NV =E2=80=93 *TODAY, Wednesday, May 18 at 10:45 a.m. PST* at the Wash=
+oe
+County Senior Services Center, former Nevada Attorney General and U.S.
+Senate candidate Catherine Cortez Masto will meet with senior citizens to
+discuss the importance of preserving essential seniors=E2=80=99 benefits, i=
+ncluding
+Social Security and Medicare. Cortez Masto will highlight how she will
+fight to protect benefits for seniors, unlike her opponent Congressman
+Heck, who called Social Security a =E2=80=9Cpyramid scheme=E2=80=9D and wan=
+ts to subject
+Nevadans=E2=80=99 retirement savings to the whims of Wall Street. The tour =
+is open
+to credentialed media. Cortez Masto will do an availability with press upon
+conclusion of the tour.
+
+*WHAT*:    Catherine Cortez Masto to Join Northern Nevada seniors to
+discuss importance of protecting seniors=E2=80=99 benefits
+
+*WHO*:      Catherine Cortez Masto
+
+*WHERE*: Washoe County Senior Services Center
+
+1155 E 9th St.
+
+Reno, NV 89512
+
+*WHEN*:   Wednesday, May 18, 2015 
+
+10:45 a.m. PST
+
+Press planning to attend should RSVP to user@domain.com
+
+###

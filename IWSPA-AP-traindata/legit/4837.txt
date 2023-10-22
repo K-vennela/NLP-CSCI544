@@ -1,0 +1,4 @@
+A Great Movie That Honors Our Veterans
+In honor of Veterans Day, we chose the 10 greatest films that inspire...
+Movieguide News Edition
+#_eoa_div, #_eoa_img { display:none; } @media print{ #_eoa_div { background-image: url('<<link>>'); } } div.OutlookMessageHeader, table.moz-email-headers-table, blockquote #_eoa_div, #mailContainerBody #_eoa_div { background-image:url('<<link>>') }		

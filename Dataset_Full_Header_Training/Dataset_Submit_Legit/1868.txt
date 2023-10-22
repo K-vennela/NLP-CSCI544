@@ -1,0 +1,49 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Mon, 24 Nov 2015 15:16:40 +0100
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id 52FBA60021	for
+ <user@domain.com>; Mon, 24 Nov 2015 13:58:38 +0000 (GMT)
+Received: by domain.com (Postfix)	id 04DAEB6603F; Mon, 24 Nov 2015 
+ 15:16:41 +0100 (CET)
+Delivered-To: user@domain.com
+Received: from [172.20.20.171] (unknown [172.20.20.171])	(using TLSv1 with
+ cipher DHE-RSA-AES256-SHA (256/256 bits))	(No client certificate requested)
+	by domain.com (Postfix) with ESMTPSA id F30C1B6603E	for
+ <user@domain.com>; Mon, 24 Nov 2015 15:16:40 +0100 (CET)
+From: Alberto Ornaghi <a.ornaghi@hackingteam.com>
+Subject: tni
+Message-ID: <4729user@domain.com>
+Date: Mon, 24 Nov 2015 15:16:40 +0100
+To: Andrea Di Pasquale <user@domain.com>
+X-Mailer: Apple Mail (2.1993)
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=ALBERTO ORNAGHIDD4
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-849311633_-_-"
+
+IP:  172.16.42.1
+
+--
+
+Alberto Ornaghi
+
+Software Architect
+
+Hacking Team
+
+Milan Singapore Washington DC
+
+www.hackingteam.com
+
+email: user@domain.com
+
+mobile: +39 3480115642
+
+office: +39 02 29060603 
+

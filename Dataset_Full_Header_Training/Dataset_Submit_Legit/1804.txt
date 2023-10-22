@@ -1,0 +1,166 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Thu, 19 May
+ 2015 10:03:42 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Thu, 19 May 2015 
+ 10:03:38 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 923879577
+ for user@domain.com; Thu, 19 May 2015 09:03:41 -0500
+X-Note-AR-ScanTimeLocal: 5/19/2016 9:03:40 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @politico.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->
+X-Note-Sending-IP: 68.232.198.10
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from domain.com ([68.232.198.10] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 141509631
+ for user@domain.com; Thu, 19 May 2015 09:03:40 -0500
+Received: by domain.com id h7n3r6163hsm for <user@domain.com>; Thu,
+ 19 May 2015 08:03:31 -0600 (envelope-from
+ <user@domain.com>)
+From: POLITICO Pulse <pulse@politico.com>
+To: <user@domain.com>
+Subject: =?UTF-8?B?UE9MSVRJQ08gUHVsc2UsIHByZXNlbnRlZCBieSBQaFJNQTogSG91?=
+ =?UTF-8?B?c2UgYXBwcm92ZXMgWmlrYSBmdW5kcyDigJTCoEVib2xhIGN6YXI6IEhvdXNl?=
+ =?UTF-8?B?IHBsYW4gaXMgJ2lycmVzcG9uc2libGUgYW5kIGluZXhjdXNhYmxlJyDigJQ=?=
+ =?UTF-8?B?wqBVLlMuIHNwZW5kcyBtb3JlIG9uIG1lbnRhbCBoZWFsdGggdGhhbiBjYW5j?=
+ =?UTF-8?B?ZXI=?=
+Date: Thu, 19 May 2015 08:03:29 -0600
+List-Unsubscribe: <mailto:user@domain.com>
+Reply-To: POLITICO subscriptions
+	<user@domain.com>
+x-job: 1376319_5439150
+Message-ID: <user@domain.com>
+Content-Type: multipart/alternative; boundary="AqSwjFrc7OcS=_?:"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+By Dan Diamond | 05/19/2016 10:00 AM EDT
+
+The former Ebola czar is furious about how Congress has handled Zika, and Donald Trump's list of potential Supreme Court picks include opponents of contraception. But first: The latest development in the Zika funding fight.
+
+HOUSE APPROVES ZIKA FUNDS - The House last night approved a $622 million funding package to combat Zika, a measure that the White House said is a "woefully inadequate" response to the threat posed by the virus.
+
+The Republican-backed bill, approved 241-184 mostly on party lines, reprograms $352 million in unspent Ebola funds and another $270 million from HHS' administrative budget toward Zika preparedness. However, the package only runs through September. 
+
+COLE: MORE ZIKA MONEY WILL COME - Rep. Tom Cole, chairman of the House Appropriations Labor-HHS subcommittee, told reporters Wednesday that he will provide "very substantial" funding for Zika in the next appropriations bill, which covers the fiscal year that begins Oct. 1. 
+
+That funding would come on top of the $622 million that the House approved last night. He declined to give an exact dollar figure, but said it will be "very comparable" to the $1.1 billion package the Senate advanced this week. 
+
+The Senate's plan covers both fiscal years. The different timetables could be an issue if the House and Senate go to conference with separate funding packages. Democrats, meanwhile, want to fund the entirety of the White House's $1.9 billion request.
+
+EBOLA CZAR: HOUSE ZIKA PLAN IS 'IRRESPONSIBLE AND INEXCUSABLE' - Congress's failure to quickly act on Zika funding ignores all the hard-won lessons of the Ebola outbreak and puts Americans at risk of a preventable epidemic, Ron Klain told POLITICO's "Pulse Check" podcast.
+
+Klain, who led the White House's successful response to the Ebola outbreak, says that the House's patchwork funding deal is especially egregious, because it takes money away from the ongoing fight against infectious diseases.
+
+"This is as crazy as saying we're going to take a fire hydrant out of the ground in one place and move it some place else to fight a different fire," Klain said.
+
+- When politics collide with public health. He's also furious that partisan politics have been injected into a public health crisis - especially one that affects infants and leads to brain defects.
+
+"The babies being born are neither Democrats or Republicans," Klain says. "They're babies."
+
+Read the story: <<link>>
+Listen to the interview: <<link>> 
+
+Don't miss 'Pulse Check'
+Subscribe to the podcast on iTunes and check out recent episodes, including Andy Slavitt on CMS's plan to win back the "hearts and minds" of doctors and Farzad Mostashari on how government really works.
+
+SENATE DEMS TRY TO FAST-TRACK ZIKA MONEY - Senate Democrats on Wednesday asked Republicans to send a stand-alone Zika bill to the House that employs the same language as the $1.1 billion Senate deal that advanced Tuesday. (Dems would also be OK with sending the White House's $1.9 billion plan). Republican Sen. John Cornyn denied the request. 
+
+"Every Democrat and a little less than half of Republicans supported this bill - let's send it to the House right now, and let's urge them to pass it as quickly as possible," Sen. Patty Murray said on the Senate floor. While the Senate voted 68-29 Tuesday to advance the Zika funding, it was merely a procedural vote on an amendment to a transportation and military funding bill that faces obstacles unrelated to Zika. Murray's request would essentially speed the path for the Zika funding request to President Barack Obama's desk.
+
+THIS IS THURSDAY PULSE - Where we encourage you to read Facebook's privacy settings before accidentally live-streaming a major medical procedure to the domain.com. Tips and video links to user@domain.com or @ddiamond on Twitter. 
+
+With help from Jen Haberkorn (@jenhab) and Joanne Kenen (@joannekenen).
+
+DONALD TRUMP'S SCOTUS LIST INCLUDES ABORTION FOES - The presumed Republican nominee on Wednesday named 11 judges that he'd consider for the Supreme Court - and many of them oppose contraception and abortion rights. 
+
+For instance, Justices Steve Colloton and Raymond Gruender of the 8th domain.com Court of Appeals last year sided with religious nonprofits that opposed Obamacare's birth control coverage requirement. It was the only appeals court to rule against the Obama administration, which won several similar cases.
+
+More for Pros: <<link>> 
+
+U.S. SPENDS MORE ON MENTAL HEALTH THAN ANY CONDITION - That's according to a new Health Affairs study, which found that the cost of caring for patients with mental health disorders topped $201 billion in 2013. That's more than any other medical condition, including cancer and heart disease, Pro's Brianna Ehley notes.
+
+Nearly 40 percent of the total cost of caring for mental health disorders is spent on institutionalized populations, including patients in nursing homes, psychiatric hospitals and prisons, the study found. This cohort was previously excluded from similar studies, wrote study author Charles Roehrig of the Altarum Institute.
+
+The next most expensive medical conditions 
+. Heart conditions: $147 billion
+. Trauma: $143 billion 
+. Cancer: $122 billion.
+
+Watch Live: POLITICO Pro Health Care Report - Reaching the Tipping Point: A conversation about regional variation in health care delivery system reform. How are different parts of the country responding to the push for value-based payment in the public and private sectors? Why do delivery and payment reforms take root in some markets but not others?
+
+I'm moderating this conversation with Joanne Kenen, POLITICO's executive editor for health care. Livestream begins at 8:30am: <<link>>
+
+** A message from PhRMA: PhRMA member companies invested $58.8 billion in research and development in 2015, up 10.3 percent from 2014, new data show. For more than 30 years, the U.S. biopharmaceutical industry has led the world in the development of medicines, and PhRMA member companies continue to be at the forefront. Learn more. **
+
+WAYS AND MEANS PUSHES BIPARTISAN MEDICARE REFORMS - House Ways and Means Committee Health Subcommittee Chair Pat Tiberi and Ranking Member Rep. Jim McDermott on Wednesday introduced the Helping Hospitals Improve Patient Care Act. The legislation, which is fully offset, includes a series of provisions to better account for socioeconomic status in Medicare's readmissions program and provide relief to "mid-build" hospital outpatient departments.
+
+See the bill text: <<link>> 
+
+ - Provisions are 'crucial,' says AAMC. "This new legislation will help ensure that teaching hospitals, which treat our nation's most medically complex and vulnerable patients, are not unfairly and disproportionately penalized by Medicare's readmissions program," said Darrell Kirch, head of the the Association of American Medical Colleges. 
+
+IS MEDICARE PLANNING TO ACCOMMODATE CPC+ACO? - The agency last month prohibited dual participation in its new Comprehensive Primary Care Plus and existing Medicare Shared Savings programs, leading to complaints from providers that they'd have to choose between joining CPC+ or maintaining their existing Medicare ACOs.
+
+But CMS is now soliciting comment from providers on whether it makes sense to accommodate both programs.
+
+"We would like to understand how, if at all, your proposed regions, lines of business, and number of covered lives would change if CPC+ accommodated primary care practices currently participating, or seeking participation, in an ACO in Track 1, 2, or 3 of the Medicare Shared Savings Program," a CMS email sent this week reads. The email's authors promise that they'll be sharing more information and additional questions "as soon as possible."
+
+MANHATTAN INSTITUTE: BAD PROGRAM DESIGN LEADING TO TOO MUCH MEDICAID - A new paper from Oren Cass suggests that the U.S. safety net is set up to steer Americans toward health care, and particularly Medicaid. According to Cass, that structure leads to wasteful government spending - and doesn't necessarily domain.com low-income Americans' health, either.
+
+Read the report: <<link>> 
+
+Government social spending per person in poverty, inflation-adjusted
+1975: $11,600 per person
+2015: $23,400 per person 
+
+Rising health care expenditures accounted for more than 90 percent of that increase, according to Cass.
+
+OOPS: WHEN CONGRESSIONAL TESTIMONY GOES WRONG - Two witnesses at Tuesday's House hearing on the controversial Part B demo used the same language to blast Medicare's proposed pilot in their written testimony. The domain.com: Lobbyists who got sloppy, the Huffington Post's Jeff Young reports. 
+
+More: <<link>> 
+
+URBAN INSTITUTE ON HOW SOCIAL SPENDING INFLUENCES HEALTH - The institute on Wednesday launched a new Web feature investigating why Americans tend to die younger than residents of comparable nations, despite spending nearly twice as much per person on health care. <<link>> 
+
+THERANOS VOIDS TWO YEARS WORTH OF TESTS - The embattled blood-testing company has told CMS that it's issued tens of thousands of corrected blood tests to patient and providers, the Wall Street Journal reports. It's the latest attempt by the once-high flying startup to stave off federal sanctions after a series of devastating reports about its proprietary tests. <<link>> 
+
+AROUND TOWN - Karl Eisenhower, a well-known health care journalist who was most recently at RealClear Media, has joined the Alliance for Health Reform as director of communications and special projects ... Health Affairs founding editor John Iglehart on Wednesday won the William B. Graham Prize for Health Services Research.
+
+WHAT WE'RE READING
+
+A front-page story in the New York Times blasts Congress for not doing enough to domain.com access to opioids. <<link>>
+
+Art Caplan and Jonathan Moreno call for independent medical assessments of presidential candidates: <<link>> 
+
+After Johns Hopkins abandoned the practice yesterday, only one medical school - UT-Chattanooga - is still using live animals to train medical students.<<link>>
+
+Josh Zeitlin explores the case over not canceling the Olympics, despite the Zika threat: <<link>> 
+
+Autism can be an asset in the workplace, says NPR's Yuki Noguchi, who finds that the condition can mask hidden talents: <<link>>
+
+** A message from PhRMA: The biopharmaceutical industry continues to be the most research and development-intensive industry in U.S. economy, and PhRMA member companies are at the forefront. New data show PhRMA member companies invested $58.8 billion in research and development in 2015, up 10.3 percent from 2014. The biopharmaceutical industry's long-term research and development investments have led to more medicines in clinical development than ever before, more than 7,000 medicines globally. From 2015 to 2015, more than 550 new medicines were approved by the U.S. Food and Drug Administration - including a record 56 new medicines in 2015. Given just 12 percent of medicines in clinical
+ trials ever make it to patients it is critical we have pragmatic, pro-innovation policies to sustain the long-term investments needed to develop tomorrow's cures. Learn more about the industry's commitment to researching tomorrow's treatments and cures here. **
+
+To view online:
+<<link>>
+ To change your alert settings, please go to <<link>> or <<link>> email was sent to user@domain.com by: POLITICO, LLC 1000 Wilson Blvd. Arlington, VA, 22209, USA
+
+To unsubscribe,<<link>>
+

@@ -1,0 +1,211 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Fri, 22 May 2015 11:39:49 +0200
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id E0228621B3	for
+ <user@domain.com>; Fri, 22 May 2015 10:15:59 +0100 (BST)
+Received: by domain.com (Postfix)	id DB07A444085A; Fri, 22 May 2015 
+ 11:39:19 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from EmadPC (unknown [192.168.1.198])	(using TLSv1 with cipher
+ ECDHE-RSA-AES256-SHA (256/256 bits))	(No client certificate requested)	by
+ domain.com (Postfix) with ESMTPSA id C272E4440480;	Fri, 22 May 2015 
+ 11:39:19 +0200 (CEST)
+From: Emad Shehata <e.shehata@hackingteam.com>
+To: 'Simonetta Gallucci' <user@domain.com>
+CC: 'Marco Bettini' <user@domain.com>, 'Emad Shehata'
+	<user@domain.com>, 'Giancarlo Russo' <user@domain.com>
+References: <04d901d0931d$c9697250$5c3c56f0$@user@domain.com> <user@domain.com>
+In-Reply-To: <user@domain.com>
+Subject: R: RE: I: TsESSI
+Date: Fri, 22 May 2015 11:39:48 +0200
+Message-ID: <000501d09473$3eaf4c50$bc0de4f0$@user@domain.com>
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdCPCWltfJB63mJQW0OLbHMe1puEqgAApx8wAJpDfLAAApBmAABnFq1QAACgjoQAVRzr8A==
+Content-Language: it
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EMAD SHEHATA450
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1252371169_-_-"
+
+Ciao Simonetta, potresti per piacere farmi sapere la questione del CD, ossia il documento da Far firmare da David? Inoltre potresti gentilmente scrivere al cliente in merito al contratto. Senza entrambi i documenti non riescono ad importare il CD in quanto la loro organizzazione ha cambiato nominativo. Grazie mille   Emad Shehata
+Key Account Manager
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com
+mobile: +39 3357939078
+phone: +39 0229060603   Da: Emad Shehata [mailto:user@domain.com] 
+Inviato: mercoledì 20 maggio 2015 18:58
+A: Simonetta Gallucci; Giancarlo Russo
+Cc: Marco Bettini
+Oggetto: R: RE: I: TsESSI Ciao Simonetta,
+Per me va bene, interfacciati pure: basta essere tutti in sintonia che alla fine ne usciamo come sempre :)
+
+Aspettiamo ok a procedere di Gian e poi procedi.
+
+Grazie mille 
+-- 
+Emad Shehata 
+Key Account Manager 
+
+Sent from my mobile.
+ Da: Simonetta Gallucci 
+Inviato: Wednesday, May 20, 2015 06:55 PM
+A: Emad Shehata; Giancarlo Russo 
+Cc: Marco Bettini 
+Oggetto: RE: I: TsESSI 
+ Ciao Emad,  stavo guardando le due versione ed alla fine hanno accolto le partimeno controverse del contratto.  Nello specifico, hanno riformulato i primi tre articoli ma, a mio avviso, sarebbe meglio mantenere la nostra versione, che dettaglia meglio tutti gli step della negoziazione. I loro punti 6 e 7, poi, risultano superflui, perché nell’atto stesso di cedere il contratto si cedono tutti gli elementi che compongono lo stesso (agreement no. 36, EULA, agreement no. 333, diritti di proprietà intellettuale).  Il punto più importante, però, è che loro vogliono sottoporre il contratto alla giurisdizione internazionale, mentre noi a quella italiana e su quel punto non mi sembra il caso di transigere.  Se vuoi posso anche scrivere direttamente a loro per spiegare punto per punto la nostra visione delle cose. Dal momento che non ci hanno sottoposto il tema prima di procedere ma ce lo stanno imponendo, quanto meno dobbiamo riuscire a tutelarci nel miglior modo possibile da eventuali inconvenienti in futuro.  Che ne pensi? Gian, sei d’accordo? Simonetta Gallucci 
+Financial Controller 
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com 
+mobile: +39 3939310619
+phone: +39 0229060603 From: Emad Shehata <e.shehata@hackingteam.com>
+Sent: lunedì 18 maggio 2015 17:29
+To: 'Giancarlo Russo'
+Cc: 'Simonetta Gallucci'; 'Marco Bettini'
+Subject: I: I: TsESSI Qui invece trovi quello mandato da loro  Emad Shehata
+Key Account Manager
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com
+mobile: +39 3357939078
+phone: +39 0229060603   Da: Emad Shehata [mailto:user@domain.com] 
+Inviato: lunedì 18 maggio 2015 16:16
+A: 'Giancarlo Russo'
+Cc: 'Simonetta Gallucci'; 'Marco Bettini'
+Oggetto: I: I: TsESSI Ciao Giancarlo, Dobbiamo parlare al tuo rientro di quanto in allegato e di seguito.Saluti   Emad Shehata
+Key Account Manager
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com
+mobile: +39 3357939078
+phone: +39 0229060603   Da: Emad Shehata [mailto:user@domain.com] 
+Inviato: venerdì 15 maggio 2015 14:40
+A: 'Giancarlo Russo'
+Cc: 'Simonetta Gallucci'; 'Marco Bettini'
+Oggetto: I: I: TsESSI Caro Giancarlo, in allegato denominato (ДОГОВОР ЦЕССИИ С ПЕРЕВОДОМ) traduzione + aggiunte in merito al contratto del cliente Kazako.Altro è il ns allegato mandato. Ne parliamo poi al tuo rientro.Saluti   Emad Shehata
+Key Account Manager
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com
+mobile: +39 3357939078
+phone: +39 0229060603   Da: Astana Team [mailto:user@domain.com] 
+Inviato: venerdì 15 maggio 2015 14:20
+A: Emad Shehata
+Oggetto: Re: I: TsESSI We have made changes to meet your and our corrections 2015-05-15 13:04 GMT+06:00 Emad Shehata <user@domain.com>:DearsCan you kindly send us the Doc. Format?We notice that you made some modification on our suggestion. Best regards  Emad Shehata
+Key Account Manager
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com
+mobile: +39 3357939078
+phone: +39 0229060603   Da: Astana Team [mailto:user@domain.com] 
+Inviato: venerdì 15 maggio 2015 06:06
+A: Emad Shehata
+Oggetto: Re: I: TsESSI Dear Emad, We are sending you the last version of the agreement drawn up with all your suggestions. The issues related to the intellectual property rights are already indicated in the Principal agreement and in the agreement #36. These documents (the Principal agreement and agreement#36) do not expire aftter signing the Assignment agreement. We kindly ask you to approve it as soon as possible. Best regards,  2015-05-13 20:25 GMT+06:00 Emad Shehata <user@domain.com>:Dears, Can you please update us on the following topic? Best regards  Emad Shehata
+Key Account Manager
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com
+mobile: +39 3357939078
+phone: +39 0229060603   Da: Emad Shehata [mailto:user@domain.com] 
+Inviato: martedì 5 maggio 2015 12:44
+A: 'Astana Team'
+Cc: 'rsales'
+Oggetto: R: I: TsESSI DearOk thanks  Emad Shehata
+Key Account Manager
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com
+mobile: +39 3357939078
+phone: +39 0229060603   Da: Astana Team [mailto:user@domain.com] 
+Inviato: martedì 5 maggio 2015 12:44
+A: Emad Shehata
+Oggetto: Re: I: TsESSI Dear Emad!text was translated and his lawyers are now considering. kind regards 2015-05-04 16:23 GMT+06:00 Emad Shehata <user@domain.com>:Dears, trust this e-mail find you well. Can you please let us know about translation of the contract. After the translation we will in position to sign and stamp it. Best regards   Emad Shehata
+Key Account Manager
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com
+mobile: +39 3357939078
+phone: +39 0229060603   Da: Emad Shehata [mailto:user@domain.com] 
+Inviato: mercoledì 22 aprile 2015 19:35
+A: 'Astana Team'
+Cc: 'rsales'
+Oggetto: R: TsESSI Dears, please find attached our contract with the correct content. Please translate it in your local language and send us back for our signature and stamp.As per your request our legal dept just put it in a correct English format and the content is the same.  Best regards  Emad Shehata
+Key Account Manager
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com
+mobile: +39 3357939078
+phone: +39 0229060603   Da: Emad Shehata [mailto:user@domain.com] 
+Inviato: lunedì 20 aprile 2015 14:40
+A: 'Astana Team'
+Cc: 'rsales'
+Oggetto: R: TsESSI Ok thanks, we are working on it  Emad Shehata
+Key Account Manager
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com
+mobile: +39 3357939078
+phone: +39 0229060603   Da: Astana Team [mailto:user@domain.com] 
+Inviato: lunedì 20 aprile 2015 11:41
+A: Emad Shehata
+Oggetto: Re: TsESSI Yes, the contract. 2015-04-18 15:23 GMT+06:00 Emad Shehata <user@domain.com>:Dear Marat,
+Good morninh, what is TsEssi? Is it the contract? 
+-- 
+Emad Shehata 
+Key Account Manager 
+
+Sent from my mobile.
+ Da: Astana Team [mailto:user@domain.com] 
+Inviato: Saturday, April 18, 2015 05:08 AM
+A: Emad Shehata 
+Oggetto: TsESSI 
+ Good morning! Any news on TsESSI?   Emad Shehata
+Key Account Manager
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com
+mobile: +39 3357939078
+phone: +39 0229060603      

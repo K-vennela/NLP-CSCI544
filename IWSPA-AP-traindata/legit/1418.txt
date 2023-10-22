@@ -1,0 +1,27 @@
+<x-flowed>
+Hi Stefan and team - great. David Rind is getting the solar forcing 
+series de jour (latest Lean). I expect Keith back on line soon, and 
+then he can help us figure out what type of simulation(s) we'd like, 
+and what other forcings we ought to use. My take is that it would be 
+good to use the same forcing used in the runs currently in Fig 6.10 
+(or at least the "best" of those runs - subjective, I'm sure, and all 
+with the old larger amplitude Lean solar), but with the new reduced 
+amplitude forcing.
+Fig 6.10 currently has the Bauer et al, 2003 run w/ CLIMBER - is it 
+CLIMBER2? Could/should we just re-run with the new solar in place of 
+the old solar (I don't have the paper here - was the solar used 
+scaled to Lean?).
+I'll cc this to the entire team, as there might be other ideas on how 
+to do this - I think we would want two simulations over the last 400 
+years. One w/ the old Lean solar, one with the new. If we could use 
+one of the existing plotted runs as the "old Lean" run, then we only 
+need one new run. The idea is to show what difference TAR solar (old 
+Lean) vs. AR4 solar (new Lean) means.
+So, lets see what Keith and others say, and then line things up to 
+get the run done. If we can do it w/ CLIMBER, great. If we need to 
+involve another EMIC (assuming we're not going to get a AOGCM run 
+done in less than a month), then we need to line that up. Whatever 
+model we use, it should be one already in use by the AR4, so we don't 
+have to worry about the results being published - just the model. 
+Make sense?
+Thanks again for the quick reply. Best, Peck

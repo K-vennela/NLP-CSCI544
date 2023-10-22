@@ -1,0 +1,105 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 17 May
+ 2015 13:48:54 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 17 May 2015 
+ 13:48:52 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 919973648;
+ Tue, 17 May 2015 12:49:02 -0500
+X-Note-AR-ScanTimeLocal: 5/17/2016 12:48:53 PM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: user@domain.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: LOCAL->->United States->
+X-Note-Sending-IP: 209.85.192.52
+X-Note-Reverse-DNS: mail-qg0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mail-qg0-domain.com ([209.85.192.52] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 139051594;
+ Tue, 17 May 2015 12:48:53 -0500
+Received: by mail-qg0-domain.com with SMTP id 90so12386600qgz.1;
+        Tue, 17 May 2015 10:48:53 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:content-transfer-encoding:message-id:date:subject:from
+         :in-reply-to:references:to:cc;
+        bh=rTmm9AkwHg3OeEQ8d7yByOJew3I6J9zqhECzyI0Tz1M=;
+        b=q5C2idfIUIgH/a+tfWGIVnoVPcn2rA1Zrgv/pk5Uy+ja104lc1cnmU5hARVssOievx
+         Z3fG6emGarbZnu9x8YbSHO4wcISmc5aVKICbL6d7Bpe9DxVFOdtEXeERWX4SaPqJfX7X
+         KnwIeQ0Eu9W81lsJipIuVVzgUSxi85sMSTIJXNhoN56UTG52/6+aZ18pFgG6O7bm0BLk
+         YB/oEmRnEwtWLZhkjLTLkyjtin1fOcYJeq2AZ8tlrqwNwcIT1KHRYghvTwgO7nIniaaH
+         OfY56QazF4XDZqTkJ5TPT2sBZnGMi+uRpX1gIOQbTxF2J7q4rRmQC/Pk46j9iAZEgsES
+         ZX4A==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:content-transfer-encoding
+         :message-id:date:subject:From: Debbie Wasserman Schultz <hrtsleeve@gmail.com>
+        bh=rTmm9AkwHg3OeEQ8d7yByOJew3I6J9zqhECzyI0Tz1M=;
+        b=We1hanOzFiY3hDQFKn37J/1duTGGP5II9yM0RN+zs/+5swNOiYKf5UVLLG8Ymcsi01
+         VS4lCdF74y0SeX+TUW7q+Ca+QHAa6zzshc7tudPmZLQQS4OmRecARRRLdg5KounE4kxg
+         CoI0Ubq4eY+z3a5ZXspRC5x/ym6c94Mjd80BzNYQgArMTYb7IqXP2FyaCwNnx2nFAlTd
+         4ll3LEvXEd1GxdJa2ZULCkhSUX2UShd4HR/lrSvKWJ7hmQIIb8Y1PIGbhhqVIJG4mozd
+         rnqr5k6l9dBrHBfxc5Eh/pXEEx+bkiT8PJ1WKOx31uaqgOf8dDewiim2VSmSDwhogjUF
+         x1/A==
+X-Gm-Message-State: AOPr4FUhIERMWIAGSY8yy9qEsqJ6rBXBFj4kkwcZR6QeldJVJoGMLTexaMpvpn9idySfpw==
+X-Received: by 10.140.173.85 with SMTP id t82mr3213353qht.10.1463507333345;
+        Tue, 17 May 2015 10:48:53 -0700 (PDT)
+Return-Path: <user@domain.com>
+Received: from [127.0.0.1] (mobile-166-171-059-233.domain.com.
+ [166.171.59.233])        by smtp.gmail.com with ESMTPSA id
+ e63sm1898146qga.17.2016.05.17.10.48.51        (version=TLSv1/SSLv3
+ cipher=OTHER);        Tue, 17 May 2015 10:48:51 -0700 (PDT)
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+X-Mailer: BlackBerry Email (10.3.2.858)
+Message-ID: <20160517174850.5083222.59581.59521@gmail.com>
+Date: Tue, 17 May 2015 13:48:50 -0400
+Subject: Re: FOR REVIEW: OrganizationStatement on Nevada Democratic Party Letter
+From: Debbie Wasserman Schultz <hrtsleeve@gmail.com>
+In-Reply-To: <user@domain.com>
+References: <user@domain.com>
+ <63user@domain.com>,<20160517173815.5083222.34847.59516@gmail.com>
+ <40user@domain.com>
+ <user@domain.com>
+To: "User" <user@domain.com>, Tracie Pough <user@domain.com>
+CC: "User" <user@domain.com>, "Banfill, Ryan" <user@domain.com>,
+	"Dacey, Amy" <user@domain.com>
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+                       =
+                                                               Sorry, remove double use of and in my domain.com b=
+efore sending.                                                       =
+                                                                           =
+
+
+
+=
+                                                                     =
+                                                                           =
+                                                   Sent from my BlackBerry 10 smartphone.  =
+                                                                           =
+                                                                           =
+                                =
+                       From: Debbie Wasserman Schultz <hrtsleeve@gmail.com>
+6 1:46 PMTo: Tracie Pough; Debbie Wasserman Schultz=
+Cc: User; Banfill, Ryan; Dacey, AmySubje=
+ct: RE: FOR REVIEW: OrganizationStatement on Nevada Democratic Party Letter

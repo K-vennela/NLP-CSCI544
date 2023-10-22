@@ -1,0 +1,188 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Thu, 5 May
+ 2015 09:14:06 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Thu, 5 May 2015 
+ 09:13:57 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 897969146
+ for user@domain.com; Thu, 05 May 2015 08:14:07 -0500
+X-Note-AR-ScanTimeLocal: 5/5/2016 8:14:05 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: user@domain.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->
+X-Note-Sending-IP: 68.232.198.10
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from domain.com ([68.232.198.10] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 136905162
+ for user@domain.com; Thu, 05 May 2015 08:14:05 -0500
+Received: by domain.com id h5d3hq163hso for <user@domain.com>; Thu,
+ 5 May 2015 07:13:19 -0600 (envelope-from
+ <user@domain.com>)
+From: Mike Allen <politicoplaybook@politico.com>
+To: <user@domain.com>
+Subject: =?UTF-8?B?UE9MSVRJQ08gUGxheWJvb2ssIHByZXNlbnRlZCBieSBKUE1vcmdh?=
+ =?UTF-8?B?biBDaGFzZSAmIENvLjogQkVOIFNBU1NFLCByaXNpbmctc3RhciBHT1Agc2Vu?=
+ =?UTF-8?B?YXRvciwgY2FsbHMgZm9yIGRyYWZ0IG9mIOKAmGFkdWx04oCZIGNvbnNlcnZh?=
+ =?UTF-8?B?dGl2ZSB0byBjaGFsbGVuZ2UgVHJ1bXA6ICNXZUNhbkRvQmV0dGVyIOKAkyBD?=
+ =?UTF-8?B?SElQIFNNSVRIIHRvIDIxc3QgQ2VudHVyeSBGb3ggLS0gQuKAmURBWVM6IERh?=
+ =?UTF-8?B?biBCYWx6LCBSeWFuIEhlYXRoLCBNYXJrIE1jS2lubm9uLCBCcmlhbiBXaWxs?=
+ =?UTF-8?B?aWFtcw==?=
+Date: Thu, 5 May 2015 07:13:19 -0600
+List-Unsubscribe: <mailto:user@domain.com>
+Reply-To: POLITICO subscriptions
+	<user@domain.com>
+x-job: 1376319_5391925
+Message-ID: <user@domain.com>
+Content-Type: multipart/alternative; boundary="tj05SOCoZZ8n=_?:"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+05/05/2016 09:10 AM EDT
+
+By Mike Allen (@mikeallen; user@domain.com) and Daniel Lippman (@dlippman; user@domain.com)
+
+Good Thursday morning. CNN's Cindy Rodriguez has "Cinco de Mayo do's and don'ts." Basically: Don't. <<link>>
+
+BITE DU JOUR: Asked whether most Republican strategists and politicians will fall in for Trump, a famous Republican operative told Daniel: "It's not a genetically courageous group."
+
+--@jmartNYT: "Was there a mass cell service outage today? Because a lot of elected Rs are 'traveling' today and somehow unable to access cell phones." ... Molly Ball (@mollyesque): "Just ran into @gov_gilmore. 'What a nightmare, what a nightmare,' he muttered. 'Are you going to vote for him?' 'Sure.'"
+
+--"Trump begins in a massive hole ... trails Hillary Clinton and Bernie Sanders by polling margins not seen in a generation," by Steven Shepard: "Trump begins the general-election phase of the campaign facing the prospect of a near-historic blowout defeat. And pollsters think he might be so far in the hole that he can't dig himself out. ... A CNN/ORC International poll ... found Clinton leading Trump by 13 points among registered voters nationally, 54 percent to 41 percent." <<link>> 
+
+--"Hill GOP braces for Trump: Republicans are reckoning with the top of their fall ticket - but some would rather focus on Paul Ryan's agenda," by Jake Sherman and Rachael Bade: "Many of them are still in shock, and some of the chattiest of them won't answer their telephones. But slowly, Hill Republicans are coming to grips with a Donald Trump-driven Republican Party, and they are already strategizing how to navigate it. ... 
+
+"In the Senate, all five Republican leaders indicated Wednesday that they would support Trump as the eventual nominee. And on both sides of the Rotunda, members from various corners of the House and Senate Republican conferences began jumping aboard the Trump Train." <<link>> 
+
+SIREN -- SEN. BEN SASSE (R-Neb.), age 44, kicks of his 2015 presidential campaign (and signals his willingness to mount, or at least help with, an independent-conservative bid in 2016) with a Facebook manifesto and tweet storm (@BenSasse), "AN OPEN LETTER TO MAJORITY AMERICA ... If you are one of those rare souls who genuinely believe Hillary Clinton and Donald Trump are honorable people ... then this letter is not for you. Instead, this letter is for the majority of Americans who wonder why the nation that put a man on the moon can't find a healthy leader who can take us forward together. ... 
+
+"I trust the judgment of this farm town [Fremont, Neb.] way more than I trust DC. And so I'd like to share a dozen-ish observations on ... [my] Wal-Mart and other conversations today: ... 3. Young people despise the two parties even more than the general electorate. ... 4. ... [W]e've not passed along the meaning of America to the next generation. ... 5. These two national political parties are enough of a mess that I believe they will come apart. ... 6. In the history of polling, we've basically never had a candidate viewed negatively by half of the electorate. This year, we have two. ... 
+
+"9. So ... let's have a thought experiment for a few weeks: Why shouldn't America draft an honest leader who will focus on 70% solutions for the next four years? You know ... an adult? ... (Such a leader should be able to campaign 24/7 for the next six months. Therefore he/she likely can't be an engaged parent with little kids. [Sasse and his wife, Melissa, home-school their three kids.]) ... 10. Imagine if we had a candidate: ... who didn't want to stitch together a coalition based on anger but wanted to take a whole nation forward ... 
+
+"The sun is mostly set on the Platte River -- and the kids need baths. So g'night. Ben #WeCanDoBetter #GiveUsMoreChoices." <<link>> ... News story by Nick Gass <<link>> 
+
+"JOE SCARBOROUGH: I won't vote for Trump if he doesn't change," by Nick Gass: If Trump maintains his call to bar Muslims from entering the United States, he'll lose badly, Scarborough said on "Morning Joe": "The convention offers him an opportunity - will be the first time a lot of Americans have really looked at Donald Trump the candidate. ... The vice presidential selection offers him an opportunity. ... If he goes into August with these numbers, I will say in August he's going to lose big time. The window, while we have six months, he's got about a two-month window to start turning this stuff around quickly or he will lose. ... 
+
+"I gotta say I was surprised and disappointed ... that yesterday, he stuck by the Muslim ban. That's a loser. ... I'm never going to vote for a guy who says they are going to ban somebody because of the god they worship. And he's got to have to make that turn fast. He didn't do it yesterday. Maybe he does it over the next couple of weeks." <<link>>
+
+--"Trump deportation plan would wreak economic havoc, study says," by Nick Gass: "[A]ccording to a study released [today] by the American Action Forum, a conservative think tank, ... [r]ounding [illegal immigrants] up and deporting them, even temporarily, would result in a decrease of $381.5 billion to $623.2 billion of economic output." <<link>> ... The study <<link>> 
+
+2016 PLAYERS - NBC News' Kristen Welker: "Longtime Clinton aide Marlon Marshall will run the campaign's battleground team ... as director of states and political engagement. The campaign's director of primary states, Brynne Craig, was promoted and will also serve as chief of staff of the ... states and political engagement team ... Michelle Kleppe, who was Clinton's organizing director for the Iowa caucus and is a veteran of the 2015 and 2015 Obama campaigns, will serve as Clinton's national organizing director.
+
+"Joining the campaign are Meg Ansara, who will become battleground states director and previously worked as regional director on Barack Obama's 2015 campaign; and Addisu Demissie, ... veteran of presidential and regional campaigns, who will work as a senior staff member in Clinton's states and political engagement department." <<link>>
+
+BLOCKBUSTER PLAYBOOK BREAKFAST tomorrow: RNC Chair Reince Priebus! Don't miss this one. Doors at 7:30 a.m.; program at 8 at Hyatt Regency on Capitol Hill, 400 New Jersey Ave. NW. RSVP <<link>>
+
+--SEND suggested questions to user@domain.com 
+
+** A message from JPMorgan Chase & Co.: Five million American jobs are unfilled right now. We're providing people with the training they need to compete for those roles. Learn more: <<link>> **
+
+BREAKING: "21st Century Fox today announced today that Chip Smith has been named Executive Vice President, Public Affairs. Mr. Smith, a co-Founder and Chief Executive Officer of The Glover Park Group, will oversee global legislative, regulatory and strategic policy matters for the company [which includes the Fox networks, 28 local television stations and film studio Twentieth Century Fox Film]. ... Smith will report to Executive Chairman Lachlan Murdoch and CEO James Murdoch. He will be based in Washington ... and New York and will oversee the policy offices of the company in the United States, Hong Kong, Brussels and the [U.K.] ... 
+
+"Smith co-founded The Glover Park Group in 2015 along with Michael Feldman, Carter Eskew and Joe Lockhart ... Smith was ... Chief Operating Officer for Vice President Al Gore's 2015 presidential campaign. ... Before joining MCI, Chip was an Executive Vice President at Shrum, Devine & Donilon." Read the release. <<link>> 
+
+--PLAYBOOK READS BETWEEN THE LINES: Smith was part of the team that built GPG into a national powerhouse advising corporations on policy, communications, image and reputation. The move suggests that James Murdoch, who was named CEO of 21CF last June, is looking to better integrate his legislative, regulatory and strategic communications functions.
+
+--CHIP'S NOTE to GPG staff last night: "I don't start my new thing until later in the summer. So, there will be more than enough time for us to think through the questions and answers that this particular moment creates. Feel free to grab me anytime, or troll me more fearlessly if that's been your hobby #trollchip #GPGPlaybook." 
+
+FIRST LOOK: "Katie Couric has joined Craig Zadan and Neil Meron [producers of the Academy Award-winning 'Chicago'] as executive producers of FLINT, a new Lifetime docudrama based on 'The Toxic Tap,' TIME's [Feb. 1] cover story by Josh Sanburn ... [, who] will serve as a consultant ... The film is to be released by Sony Pictures Television in association with Zadan and Meron's Storyline Entertainment & Katie Couric Productions. ... Through the film's dramatization of real-life players in this saga, FLINT will call attention to what really happened and ensure history does not repeat itself, in Flint or elsewhere." <<link>> 
+
+BUSINESS BURST -- WSJ editorial, "The Quickening: Why is Justice suing one of the nation's most careful FHA lenders?": "You'd never know it from Washington's tale of a reckless corporation endangering the public fisc, but instead of losing money, taxpayers appear to be making money off Quicken Loans. In a legal filing last year, the company said that, according to the government's own evaluations of mortgage lenders, 'the quality of loans originated by Quicken Loans today is more than twice as good as the national average, and the best among all large FHA lenders.'" <<link>> 
+
+--"Exxon Mobil Backs FuelCell Effort to Advance Carbon Capture Technology," by NYT's John Schwartz: "In an agreement announced [today], Exxon Mobil said it had tightened an existing relationship with FuelCell [Energy] in hopes of taking ... technology from the lab to the market. ... Jay Faison, a Republican entrepreneur who is urging his party to support clean energy, called Exxon's announcement a 'monumental point in time for this energy transition.'" <<link>> ... Release <<link>> 
+
+TOP TWEETS: @HolmesJosh: "Congratulations everyone. Hillary is still losing primaries in May but is already up double digits in November" ... @ariannahuff: "Imagine someone pushing JFK and birther conspiracies being given the FBI" ... @BuzzFeedAndrew: "Democrats have enough material at this point to make 'in his own words' ads for almost every demographic group."
+
+--HuffPost banner, "LIAR XENOPHOBE MISOGYNIST DEMAGOGUE PRESIDENTIAL NOMINEE"
+
+CAUGHT ON TAPE -- "Chris Matthews Caught on Hot Mic Ogling Melania Trump," by Variety's Katie Van-Syckle: "During the network's coverage of Donald Trump's Indiana primary victory speech, MSNBC's Chris Matthews was caught [saying:] ... 'Did you see her walk? Runway walk. My God is that good ... I could watch that runway show' ... Brian Williams ... quickly cut to a commercial break." <<link>> 
+
+CLICKER - MICHAEL KRUSE and NOAH WEILAND in Politico Magazine, "Donald Trump's Greatest Self-Contradictions: The many, many, MANY sides of the likely Republican nominee, in his own words": "To create the definitive archive of Trump's long argument with himself, POLITICO mined an almost limitless seam of his radio and TV interviews, newspaper and magazine profiles, books written about him and books written by him, rambling campaign speeches and late-night tweets. ... Has anyone ever disagreed with Donald Trump more than Donald Trump?" <<link>> 
+
+SCOOP DU JOUR - "McCain on tape: Trump damages my reelection hopes," by Burgess Everett and Seung Min Kim: "Publicly, John McCain insists Donald Trump will have a negligible effect on his campaign for reelection. But behind closed doors at a fundraiser in Arizona last month, [he] offered a far more dire assessment to his supporters. 'If Donald Trump is at the top of the ticket, here in Arizona, with over 30 percent of the vote being the Hispanic vote, no doubt that this may be the race of my life,' McCain said ... 'If you listen or watch Hispanic media in the state and in the country, you will see that it is all anti-Trump. The Hispanic community is roused and angry in a way that I've never
+ seen in 30 years.'" With 1-min. audio <<link>> 
+
+MONEY HONEYS -- "What the Kochs think about Trump now: Top GOP officials are warming to the party's presumptive nominee, but the donor class remains unswayed," by Alex Isenstadt: "[I]n interviews with more than a dozen major GOP funders, not one on Wednesday would domain.com to donating to Trump. ... Representatives of Charles and David Koch ... warned the brothers could sit out the presidential campaign entirely." <<link>> 
+
+PUNDIT ACCOUNTABILITY -- "The 9 worst predictions about Trump's rise to the top: With Trump all but clinching the GOP nomination, we look back at the greatly exaggerated reports of his political demise," by Nick Gass: "Because he's not a 'real candidate' ... Because he's not a 'real candidate' ... Because he'll be out by Iowa ... Because he 'seriously' won't win ... Because everyone will laugh at you for thinking that Trump will win ... Because it's going to be Marco Rubio ... Because he hasn't been tested ... Because I'll leave the party ... Because he's finally collapsing." <<link>> 
+
+FLASHBACK -- "Trump in 2000: How I'll Be the First Celebrity President," by The Daily Beast: "In an eerily prescient interview in 2000, Donald Trump predicted his own political rise and laid out his plan to hack the media. ... Here's The Donald [in Gear magazine] ... applauding the 'celebrity culture in which athletes, movie stars and businessmen are considered for public office,' ripping 'the hypocrites (who) argue that a man who loves and appreciates beautiful women...shouldn't become a national leader' and trashing 'the whinnying culture critics and media hacks (who) bemoan the rise of celebrity culture.'" With Trump's full 2015 article <<link>> 
+
+HOT VIDEO - "Watch Trump Insult His Rivals... and Then Lavish Praise on Them When They domain.com," by Bloomberg's Matt Negrin: "[A]s soon as they drop out of the race, they become 'incredible' people. Here's what Trump said then and now about Ted Cruz, Marco Rubio, Jeb Bush, Chris Christie, and Ben Carson." 2-min. video <<link>> 
+
+TALKER -- "Johnny's Half Shell is moving to Adams Morgan," by Politico Influence author Isaac Arnsdorf: "The iconic oyster bar and seafood restaurant will close May 26 and reopen next month at 1819 Columbia Road NW, the current site of Cashion's Eat Place ... While the restaurant did a famously brisk business with private dining, it struggled on weekends and has to compete with an increasingly vibrant D.C. food scene. 'The rent was fine before there were 400 new restaurants,' [co-owner Ann] Cashion said. ... The new space will seat 125, down from the current capacity of 350." <<link>> 
+
+BEN RHODES PROFILE - in the upcoming N.Y. Times Magazine, "The Aspiring Novelist Who Became Obama's Foreign-Policy Guru: How Ben Rhodes rewrote the rules of diplomacy for the digital age," by David Samuels: "Like Obama, Rhodes is a storyteller who uses a writer's tools to advance an agenda that is packaged as politics but is often quite personal. He is adept at constructing overarching plotlines with heroes and villains who materialize in digital space, with their conflicts and motivations supported by flurries of carefully chosen adjectives, quotations and leaks from named and unnamed senior officials.
+
+"He is the master shaper and retailer of Obama's foreign-policy narratives, at a time when the killer wave of social media has washed away the sand castles of the traditional press. His ability to navigate and shape this new environment makes him a more effective and powerful extension of the president's will than any number of policy advisers or diplomats or spies. He doesn't think for the president, but he knows what the president is thinking, which is a source of tremendous power within a White House that has awarded itself vastly expanded authority over the operations of the American government, just as George Bush's and Bill Clinton's White Houses did.'" 
+<<link>> 
+
+SNEAK PEEKS -- "Is Donald Trump 'The Steve Jobs of Politics?' Newt Gingrich thinks so," by Bloomberg Businessweek's Joshua Green with Kevin Cirilli and Jennifer Jacobs: Newt Gingrich says of Trump, "He's been so creative, and he does things so differently, and he will be so dominant, that we have to figure out how we build around him ... This is one, singular person who is the Steve Jobs of modern politics. And he is going to drive the system." Gingrich also doesn't shoot down rumors he could be Trump's VP: "given an invitation to end the speculation by issuing a Shermaneque denial, he replied, 'Nobody from Georgia issues Shermanesque statements. It goes against the state constitution.'" 
+<<link>> 
+
+JARED KUSHNER PROFILE -- "First you get the newspaper ... Then you get the building ... Then you get the father-in-law ... Then you get the power," by Bloomberg Businessweek's Devon Leonard: "He began making major decisions at his family's real estate company ... when he was 23 in 2004, around the time his father, a prominent Democratic fundraiser and aspiring kingmaker, pleaded guilty to tax fraud, misleading federal election officials, and retaliating against a witness. ... People who think highly of Kushner, and those who don't, all talk about his impeccable manners. They say he never loses his temper, at least not in public. He's unfailingly polite. He remembers names and opens car
+ doors for people. ... Kushner is also extremely guarded ... [and] often comes across as purposefully bland, as if he's trying to discourage interest in his activities-or himself." <<link>> 
+
+LATE-NIGHT BEST - Stephen Colbert, "Hungry For Power Games: Dyin' Ted" -- 5-min. video <<link>> 
+
+VALLEY TALK - "YouTube Said to Plan 'Unplugged' Online TV Service for 2017," by Bloomberg's Lucas Shaw and Alistair Barr: "YouTube is working on a paid subscription service called Unplugged that would offer customers a bundle of cable TV channels streamed over the domain.com ... YouTube executives have discussed these plans with most major media companies, including Comcast Corp.'s NBCUniversal, domain.com Inc., Twenty-First Century Fox Inc. and CBS Corp." <<link>>
+
+REMEMBERING BOB BENNETT - Salt Lake Tribune's Thomas Burr: "Bennett died Wednesday after fighting for months against pancreatic cancer and suffering a recent stroke. He was 82. The former Utah Republican senator's 6-foot-6 lanky frame inevitably led to comparisons with Washington Irving's character Ichabod Crane. But in recent years he took on a different persona: a symbol of the old-style politician who practiced the art of compromise being overwhelmed by the rising power of the tea party. In 2010, he met his electoral demise at the hands of Mike Lee" primarily due to his support of the bailout. <<link>> 
+
+MEDIAWATCH - L.A. Times adding foreign bureaus -- Tribune CEO Justin Dearborn on earnings call yesterday: "We are cultivating the powerful L.A. Times brand into a global revenue generator by launching strategic partnerships and creating even more content. ... [W]e plan to invest in global news bureaus when others are cutting back. We plan to open seven news bureaus overseas in 2015 ... Hong Kong, Seoul, Mexico City, Moscow, Rio de Janeiro, Lagos and Mumbai. Each of these cities represents vibrant entertainment heavy cultures." <<link>> 
+
+-- NATALIE MORALES to move to LA -- Noah Oppenheim, SVP and executive in charge of TODAY, emails the staff: "[T]his summer, Natalie Morales will move to LA to become TODAY's West Coast Anchor and a host of Access Hollywood and Access Hollywood Live. She'll also continue to play a prominent role on Dateline."
+
+HAPPENING TODAY - "Fundraiser for ALS 'Ice Bucket Challenge' Co-founder": Today "Washington residents will be raising their pint glasses for the medical care and expenses of Pete Frates, the co-founder of the unforgettable ALS 'Ice Bucket Challenge.' Pete, who was diagnosed with ALS in March of 2012, at the age of 27, has raised over $115 million for disease research through the 'Ice Bucket Challenge' ... Proceeds will go towards Pete's medical costs are estimated to be over $200,000 a year." At Hawk 'n' Dove from 5 to 8 p.m. <<link>> 
+
+WASHINGTON, INC. - "Spotify is continuing to set up their office in Washington with a second big hire. The company has hired Holly Maine, a well-connected D.C. advertising sales veteran who has previously held senior positions with Atlantic Media, Centro and most recently led the paid media strategy team at The Glover Park Group. She will lead Spotify's advertising efforts for the DC/Mid-Atlantic region and will work alongside Tom Manatos, who joined Spotify earlier this year, as their VP of government relations."
+
+--"SKDKnickerbocker Named Holmes Report Public Affairs Agency of the Year": "Paul Holmes, founder and CEO of the Holmes Report, highlighted SKDK's extensive experience in landmark Supreme Court activity and work for the nation's most progressive issues, such as reproductive health and immigration as well as corporate projects such as GE Capital restructuring, Herbalife defense and Amalgamated Bank promotion."
+
+--"Precision Strategies Recognized as One of the 'Top Agencies of the Year' by Holmes Report": "Precision Strategies, celebrating its third anniversary this week, was named one of the 'Top Agencies of the Year' by The Holmes Report for demonstrating 'an ability to drive earned, digital and paid media by deploying a rigorous approach to data and analytics.'" <<link>> 
+
+FIRST LOOK - "Washington Life Magazine releases 2015 'Power 100' issue": "There are 42 new names on the list this year, including ... Tad Devine and Scott Goodstein ... Paul Manafort, Andrew Shapiro and Michael Allen of Beacon Strategies ... 20 are media notables, including The Washington Post's Fred Ryan and Marty Baron, Politico CEO Robert Allbritton, Atlantic Media's David Bradley ... Vox Media's Jim Bankoff and Ezra Klein and The Huffington Post's Howard Fineman and Ryan Grim (who we describe as a 'well-liked manager.')" <<link>> ... The feature with all 100 names <<link>> 
+
+OUT AND ABOUT - Juleanna Glover, Niki Christoff, Tammy Haddad, Josh Ginsberg, Susan Molinari, and Steve Schmidt co-hosted a dinner party last night at Juleanna's house to celebrate Steve Hilton's new book "More Human: Designing a World Where People Come First." The author, the CEO of Crowdpac and former director of strategy for David Cameron, read out a sentence from his book: "'Whenever the lobbyists, the politicians, the journalists, and the authors of books like this all go to the same parties, all live in the same neighborhoods in Washington, New York and San Francisco, an insular ruling elite precipitates, regardless of who's in office, the same people are in power.' And it's great to
+ see you all here tonight. [Laughter.] The thing is I do have one complaint though. When I did my book party in London, the prime minister showed up to the party, so I'm very let down tonight." Juleanna then chimed in: "Dick Cheney is in the kitchen." $22.34 on Amazon <<link>> ... His Jan. 2015 Guardian story, "I run a Silicon Valley startup - but I refuse to own a cellphone" <<link>> 
+
+SPOTTED: Tim Miller, Allie Brandenburger, Kevin Chaffee, Craig Gordon, Indira Lakshmanan, Steve Clemons, Geoff Morrell, Anu Rangappa, Benny Johnson, Eric Lipton and Elham Dehbozorgi, Alexis Weiss, Margaret Carlson, Heather Podesta, Richard Reeves, Garance Franke-Ruta, Christina Sevilla, Mary Jordan, Kevin Sullivan, Meredith McPhillips, Becca Glover Watkins, Betsy Martin, Marianne Levine. 
+
+TRANSITIONS -- "Allison Gracey, a ten-year veteran of CNN, has joined Edelman as a Vice President on the National Health Media Team. She is joined by Justin Hyde, former managing editor of Yahoo Autos, who serves as a Vice President on the Corporate Affairs Team. Alexis Weiss, a Senior Editorial Producer with CNN, has also joined the firm to serve as a Vice President on the Media Services and Strategies Team." <<link>> 
+
+BIRTHDAYS: Mark McKinnon ... Dan Balz, the pride of Freeport, Ill. (h/ts Adam and Teresa) ... Brian Williams is 57 ... Brussels Playbook author Ryan Heath - send him a birthday gift by subscribing to the best newsletter in Europe <<link>> (h/t the Politico Europe family) ... former AFL-CIO president John J. Sweeney is 82 ... John Miller, NYPD deputy commissioner for intelligence and counterterrorism, and former CBS News correspondent, is 58 ... Sacha Haworth, DCCC spox for Midwest... Mike Dorning, White House correspondent for Bloomberg News: "Raised in Central Illinois, based in D.C. Dad of 3. Labrador owner," per his Twitter (gaucho tip: Courto) ...
+ Christine Pelosi (h/t Mom, Alexandra) ... Dustin Walker, comms. director for Senate Armed Services ... Politico's Alex Guillen ... Julian St Patrick Clayton, in Northeast civic engagement at JPMorgan Chase ...
+
+... Happy Cinco de Madden: Colin Norris Madden is 7 (h/t Mom and Dad, Jaclyn and Kevin) ... Dan Hornung, policy adviser in the White House Office of the Chief of Staff (h/t former roommate Nathaniel Sobel) ... Ann Saybolt (h/t Jon Haber) ... 
+
+... Mike Dennehy, of N.H. and McCain fame ... Katie Quinn ... Barry Piatoff ... Jeff Hellerman ... Urooj S. Raja ... Michael Hamrick ... Koji, beloved dog of Hayley Palozej ... Jackson Sump, a recent University of Kansas grad who grew up in the DC area where his dad Mark is a long time Democratic operative (h/t godmother Kiki McLean) ... Cris Selin ... USC law student and Politico alum Nathaniel Haas, celebrating by taking a constitutional law final exam in the morning then out for craft beer at the Arts district brewery in downtown LA ... AP's David Sharp ... Jesse Thomas ... Kim Palmese ... domain.com Piraino ... Lisa George (h/ts Teresa Vilmain) ... actress Pat Carroll is 89 ... Kurt Loder is
+ 71 ... rhythm-and-blues singer Chris Brown is 27 (h/ts AP)
+
+** A message from JPMorgan Chase & Co.: There are over 5 million American jobs unfilled right now. We're connecting employers, job seekers and educators so people can develop the right skills for jobs available today. Learn more: <<link>> **
+
+SUBSCRIBE to the Playbook family: POLITICO Playbook  <<link>> ... New York Playbook  <<link>> ... Florida Playbook  <<link>> ... New Jersey Playbook <<link>> ... Massachusetts Playbook <<link>> ... Illinois Playbook  <<link>> ... California Playbook <<link>> ... Brussels Playbook 
+ <<link>> ... All our political and policy tipsheets <<link>>
+
+To view online:
+<<link>>
+ To change your alert settings, please go to <<link>> or <<link>> email was sent to user@domain.com by: POLITICO, LLC 1000 Wilson Blvd. Arlington, VA, 22209, USA
+
+To unsubscribe,<<link>>
+

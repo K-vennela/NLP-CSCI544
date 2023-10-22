@@ -1,0 +1,18 @@
+body {background-color: #CFCFCF;}
+#emailHeader p {text-align: center; font-family: Arial; font-size:10px; color:#787878;}
+If
+you are having trouble viewing this email, view it online.
+WEBINAR: Don't be (falsely) alarmed: The truth is out there (in your packets) 
+Join
+our upcoming webinar with James Barrett, EMEA technical director at Emulex. He'll provide you with proven methodologies to rapidly identify, examine and classify false positive security alerts by using freely available network packet inspection tools and visualization techniques. 
+Understand
+what salient information can be extracted from packet level data
+Webinar:
+Date & Time:
+Speaker:
+About Us
+body {background-color: #CFCFCF;}
+#emailFooter p {text-align: center; font-family: Arial; font-size:10px; color:#787878;}
+This is a commercial message sent by Emulex. 
+Emulex Ltd., Trinity Court, Molly Millars Lane Wokingham, Berks RG412PY
+Emulex respects your privacy.

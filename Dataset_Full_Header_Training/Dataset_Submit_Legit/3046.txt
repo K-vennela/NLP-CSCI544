@@ -1,0 +1,25 @@
+Received: from USSDIXMSG22.spe.sony.com ([43.130.141.74]) by
+ ussdixhub21.spe.sony.com ([43.130.141.76]) with mapi; Mon, 28 Jul 2015 
+ 09:22:31 -0700
+From: "Rivera, Christina" <Christina_Rivera@spe.sony.com>
+To: "User" <user@domain.com>
+Date: Mon, 28 Jul 2015 09:22:30 -0700
+Subject: Loren Schwartz's office called asking if they can have JS300
+ tomorrow at 10AM for a Amy & Michael Meeting...
+Thread-Topic: Loren Schwartz's office called asking if they can have JS300
+ tomorrow at 10AM for a Amy & Michael Meeting...
+Thread-Index: Ac+qgCDflWkHgNXJQJiXuxDqlvGhTQ==
+Message-ID: <1user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <1user@domain.com>
+Status: RO
+X-libpst-forensic-sender: /O=SONY/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CRIVERA1
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-406539735_-_-"
+
+I let them know that our meeting only goes until 9:45AM, but I was going to check with you if all was ok. 
+

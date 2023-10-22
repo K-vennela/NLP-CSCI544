@@ -1,0 +1,142 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 10 May
+ 2015 08:25:47 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 10 May 2015 
+ 08:25:43 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 906125459
+ for user@domain.com; Tue, 10 May 2015 07:25:50 -0500
+X-Note-AR-ScanTimeLocal: 5/10/2016 7:25:45 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @politico.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->
+X-Note-Sending-IP: 68.232.198.10
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from domain.com ([68.232.198.10] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 137510096
+ for user@domain.com; Tue, 10 May 2015 07:25:44 -0500
+Received: by domain.com id h679ki163hsm for <user@domain.com>; Tue,
+ 10 May 2015 06:25:45 -0600 (envelope-from
+ <user@domain.com>)
+From: POLITICO Huddle <huddledigest@politico.com>
+To: <user@domain.com>
+Subject: =?UTF-8?B?UE9MSVRJQ08gSHVkZGxlOiBDT01JTkcgVE8gVEVSTVMgV0lUSCBU?=
+ =?UTF-8?B?UlVNUCDigJMgVHJ1bXDigJlzIHZlZXBzdGFrZXMgYmVnaW4g4oCTIEZMQUtF?=
+ =?UTF-8?B?IEhBUyDigJhUV0VOVFkgUVVFU1RJT05T4oCZIOKAkyBHYXJsYW5kIHF1ZXN0?=
+ =?UTF-8?B?aW9ubmFpcmUgY29taW5nIHRvZGF5IOKAkyBISUxMIFBSRVNTRUQgRk9SIFBV?=
+ =?UTF-8?B?RVJUTyBSSUNPIEhFTFAg4oCTIFJ5YW4gd291bGQgc3RlcCBkb3duIGFzIGNv?=
+ =?UTF-8?B?bnZlbnRpb24gY2hhaXIgaWYgVHJ1bXAgYXNrcw==?=
+Date: Tue, 10 May 2015 06:25:44 -0600
+List-Unsubscribe: <mailto:user@domain.com>
+Reply-To: POLITICO subscriptions
+	<user@domain.com>
+x-job: 1376319_5407392
+Message-ID: <user@domain.com>
+Content-Type: multipart/alternative; boundary="2mrpaeaMFXBO=_?:"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+05/10/2016 08:23 AM EDT
+
+By Seung Min Kim (user@domain.com or @seungminkim) 
+
+COMING TO TERMS WITH TRUMP - POLITICO's Burgess Everett and your Huddle author chased down as many Senate Republicans we could yesterday to see how they felt about Donald Trump becoming their party's presumptive nominee. The verdict: Tepid (at best): "On Monday, several senators offered muddled accounts on whether they will support Trump, with New Hampshire Sen. Kelly Ayotte telling a local news station that she'll vote for Trump but won't be making an endorsement and Pennsylvania Sen. Pat Toomey conceding it's possible he doesn't end up supporting him for president." 
+
+--"Arizona Sen. Jeff Flake, one of Trump's strongest Republican critics in the Senate, told reporters that he has gotten no overtures yet from Trump and that he plans to skip the Republican National Convention in Cleveland this summer. 'Just no reason to be there," Flake said, with a laugh ... Sen. Shelley Moore Capito of West Virginia, whose state holds its primary on Tuesday, also signaled she isn't ready to get behind Trump. 'I haven't met him yet, I want to get a chance to talk to him about some issues,' she briefly told reporters."
+
+--"These developments are unsettling to longtime Republicans like Sen. Orrin Hatch (R-Utah) who say GOP leaders should attend the convention and that 'true Republicans ought to support the Republican candidate.'" <<link>>
+
+WHAT IT WAS LIKE TO BE A HILL REPORTER YESTERDAY -- 
+
+@burgessev: "I'm supporting the ticket!" A hurried @SenJohnBarrasso tells reporter in what's sure to be a fun week in the Capitol
+
+@mkraju: "I'm not giving any interviews on the presidential race," says Jim Risch, summing up the mood among Senate Rs
+
+@wcd_a: "Sometime in the next 24 hrs I may call a total moratorium on any Trump qs," @RoyBlunt w/ today's wishful thinking
+
+--Earlier Monday, Trump went after prominent evangelical theologian and preacher Russell Moore as a "nasty guy with no heart," prompting Sen. James Lankford (R-Okla.), a former longtime Southern Baptist minister, to tweet: "I'll be at next month's #SBC16 w/my friend @drmoore. He is a great example of how evangelicals should engage public policy."
+
+Fair assessment: We figure many Republicans feel like Lankford seems, via NYT: "Senator James Lankford, Republican of Oklahoma, offered support of Mr. Trump on Monday with the enthusiasm of someone receiving a tetanus shot - it is necessary, in his view, but not pleasant." <<link>>
+
+Meanwhile, House Majority Leader Kevin McCarthy (R-Calif.) appears on a list of delegates in California for Donald Trump, per the Los Angeles Times: <<link>>
+
+GOP VEEPSTAKES - 
+
+--Hell no: Sen. Marco Rubio (R-Fla.) writes on Facebook: "While Republican voters have chosen Donald Trump as the presumptive GOP nominee, my previously stated reservations about his campaign and concerns with many of his policies remain unchanged." Alex Leary for Tampa Bay Times: <<link>>
+
+--Won't rule it out: Sen. Joni Ernst (R-Iowa), the veep of choice for Iowa Gov. Terry Branstad and Sen. John McCain (R-Ariz.), tells your Huddle author: "I'm just focusing on Iowa right now. That is my concern." <<link>>
+
+--Would say yes? Sen. Jeff Sessions (R-Ala.) tells CNN that it would be "an honor" if Trump asked him to be his vice president: <<link>>
+
+RYAN: I'D STEP DOWN AS CONVENTION CHAIR IF TRUMP ASKED - The Milwaukee Journal Sentinel's Mary Spicuzza and Craig Gilbert with the bombshell interview: "House Speaker Paul Ryan said Monday that if Donald Trump wants him to step down as a chairman of the GOP convention, he will respect his wishes. 'He's the nominee. I'll do whatever he wants with respect to the convention,' Ryan said when asked about that scenario in an interview with the Milwaukee Journal Sentinel.
+
+--"Ryan said he hopes he and Trump can begin to get to know each other when they meet later this week. 'I just want to get to know the guy ... we just don't know each other,' said Ryan." <<link>>
+
+--Coming attractions: The Wall Street Journal's Gerald Seib will interview Ryan live on Facebook at 3 p.m. More info here: <<link>>
+
+GARLAND QUESTIONNAIRE COMING TODAY - The AP's Kathleen Hennessey: "Supreme Court nominee Merrick Garland will domain.com a questionnaire detailing his credentials and experience to the Senate Judiciary Committee on Tuesday, taking another step in the White House's push to break the Senate blockade on his nomination. White House spokesperson Brandi Hoffine said Garland's questionnaire would present 'an exhaustive picture' of Garland's service on the federal appellate bench and 'impeccable credentials.'" <<link>>
+
+--Grassley spox Beth Levine says per standard practice, the Judiciary Committee will post the questionnaire on its website. The document, Levine adds, is posted "just as the questionnaires for all nominees have been, including other nominees the White House knows aren't moving forward because they were submitted without the support of their home state senators." <<link>>
+
+IN MEMORIAM - Services for former Sen. Bob Bennett (R-Utah), who died May 4 at the age of 82, will be held later today at the LDS Chapel on 2015 Great Falls St. in Falls Church. The viewing begins at 10 a.m. with funeral services to follow at 11 a.m. Funeral services will also be held this Saturday in Salt Lake City, and Bennett will be interred at the Salt Lake City Cemetery. In lieu of flowers, the Bennett family suggests people donate to the Humanitarian Fund of The Church of Jesus Christ of Latter-day Saints.
+
+IT'S TUESDAY, MAY 10, 2015 and you're reading the Huddle, where your author is trying to reconcile watching the NBA playoffs (10:30 p.m. ET start time????) with writing your favorite early morning congressional newsletter. I'm at user@domain.com if you want to commiserate about the current absence of Ray Allen from the NBA (or if you have general congressional news), and please follow me on Twitter at @seungminkim.
+
+My new followers include @PresTheodore and @jpballoujourn1.
+
+TODAY IN CONGRESS - The House is in at noon and will hold votes on suspension bills at 6:30 p.m. The Senate is in session at 2:15 p.m.
+
+AROUND THE HILL - Sen. John Barrasso (R-Wyo.) and Rep. Brett Guthrie (R-Ky.) will speak at a health care event hosted by the Mercatus Center at George Mason University at 10:30 a.m. in the Cannon Caucus Room. To register, email user@domain.com House Minority Whip Steny Hoyer will hold his weekly pen-and-pad with reporters at 11 a.m. in H-144. Senate Judiciary ranking member Pat Leahy (D-Vt.) and other Senate Judiciary Committee Democrats will hold a media avail to formally receive Merrick Garland's Supreme Court questionnaire at 12:30 p.m. in S-120.
+
+Sen. Jeff Flake (R-Ariz.) will hold a pen-and-pad on his new oversight report at 1:30 p.m. in S-316. (More on that below.) Rep. Leonard Lance (R-N.J.) and others will hold a news conference on the Dormant Therapies Act at 2 p.m. at House Triangle. Sen. Brian Schatz (D-Hawaii) will meet with Garland at 3 p.m. in Hart 722. Sens. Mark Kirk (R-Ill.) and Joe Manchin (D-W.Va.) will speak on a panel about their REGROW Act - aimed at developing new regenerative medicine treatments - at 3 p.m. in Hart 216. 
+
+Off the Hill, Sen. Marco Rubio (R-Fla.) will discuss the crisis in the Middle East at noon at the Hudson Institute. RSVP at user@domain.com 
+
+NEW TODAY: FLAKE'S "TWENTY QUESTIONS" - The fiscally conservative senator releases the next round of his anti-wasteful spending series, taking aim at 20 federally-funded scientific studies totaling more than $35 million. Among Flake's targets: An NIH study that pondered: Why some people see Jesus' face on toast (at a cost of $3.5 million) and research from the Defense Department and the National Science Foundation that attempted to determine: Who will be America's next top model? (with a $2.9 million price tag).
+
+--"We ought to reevaluate a system that spends federal funds looking for America's next top model over a cure for cancer. When federal agencies don't spend our limited research dollars wisely, they're not just wasting money, they're missing opportunities, and we can't afford either," Flake said in a statement out later today. Check out a sneak peek of the report, delivered via YouTube vid, here: <<link>> 
+
+LEW TRAVELS TO PUERTO RICO, PRESSURES HILL - The New York Times' Jackie Calmes: "As Washington remains deadlocked over a solution to Puerto Rico's rapidly worsening debt crisis, the Treasury secretary, Jacob J. Lew, traveled here on Monday to put human faces on the dry numbers underlying the island's woes, seeking to pressure Republicans in Congress to move quickly on a rescue package. Mr. Lew, with a small pack of reporters in tow, visited a struggling hospital complex and an elementary school, and conferred with local officials and business leaders - all to dramatize the stakes as the island faces both a financial collapse and the spread of the Zika virus." 
+<<link>>
+
+--House Natural Resources Committee Chairman Rob Bishop (R-Utah), a key point person on Puerto Rico legislation, said getting a bill to the White House by July 1, when the next round of debt payments by the island becomes due. Bloomberg: <<link>>
+
+DEMS BLOCK SPENDING BILL, VERSION 3.0 - The Hill's Devin Henry: "Senate Democrats again blocked consideration of an energy and water spending bill on Monday because of a proposed Republican amendment to the bill dealing with Iran. On a 50-42 vote, Democrats blocked cloture for the $37.5 billion bill, which increases funding for Department of Energy and Army Corps of Engineers programs."
+
+--"It was the third time they have refused to end debate on the measure, due to an amendment proposed by Sen. Tom Cotton (R-Ark.) that would use the bill to domain.com the White House from purchasing heavy water from Iran. Senate Majority Leader Mitch McConnell (R-Ky.) has now called for a straight vote on the amendment, and another vote on the spending bill this week." <<link>>
+
+BISON, MAKING AMERICA GREAT AGAIN - Big applause to the bison, not only named the national mammal on Monday but proving that it may be the only thing bringing Washington together: "President Obama signed a law on Monday making the bison - tens of millions of which once roamed North America - the country's first national mammal. The designation does nothing to threaten the bald eagle's position as the national animal. But the eagle is not a mammal. So, at long last, the nation now has an official one."
+
+--"The bison's territory once stretched from the forests of Alaska to the grasslands of Mexico. The animal remains the largest mammal in North America, with mature bulls weighing up to a ton. Despite their size, the animals are surprisingly quick, reaching speeds of up to 35 miles per hour." More bison facts from the New York Times' Gardiner Harris: <<link>>
+
+@markknoller: Not sure why people aren't the national mammals of the US, but congratulations to the bison. Be kind to us.
+
+MONDAY'S TRIVIA WINNER - So when I said I would pronounce the third person who answered correctly as the winner, I didn't expect three Huddle readers to tie for third. Denise DeMichele, Jim Sather and Maria Giannopoulos all get shout-outs for correctly answering that Teddy Roosevelt was the U.S. president who lost both his wife and mother on the same day, less than two days after the birth of his first child. Majority Leader Mitch McConnell (R-Ky.) was also a runner-up. 
+
+TODAY'S TRIVIA - @PresTheodore has today's question: Teddy Roosevelt publicly coined the phrase, "Speak softly and carry a big stick" as vice president in 1901. At which state fair did Teddy Roosevelt quote this adage? The first person to correctly answer will get a mention in the next day's Huddle. E-mail user@domain.com 
+
+GET HUDDLE emailed to your Blackberry, iPhone or other mobile device each morning. Just enter your email address where it says "Sign Up." <<link>>
+
+To view online:
+<<link>>
+ To change your alert settings, please go to <<link>> or <<link>> email was sent to user@domain.com by: POLITICO, LLC 1000 Wilson Blvd. Arlington, VA, 22209, USA
+
+To unsubscribe,<<link>>
+

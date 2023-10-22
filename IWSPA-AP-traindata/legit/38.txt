@@ -1,0 +1,56 @@
+Adrian,
+Emails to Kate yesterday were returned by the ECMWF server (for your email
+address) but not for Dick's?
+I also found the two emails you sent last night in my spam list. No idea why
+this is happening. I found some other semi-important emails in my spam as well!
+Anyway - hope you get this email!
+All three reviewers are positive, which is good, but there is still a lot of to do as
+you say.
+Here are some initial thoughts. Before I begin - it seems as though Rev 2 comments have
+ended abruptly during #13. I'd suggest you ask if there is any more?
+Rev 1
+I would have thought that the second point (larger trends in full ERA-INTERIM fields) was
+just an interesting aside, and not as important as the RH decline.
+I'll need to go back to see if sections 5 and 6 can be reordered/restructured?
+Both Reviewers 1 and 2 (they appear to be Kevin and Aiguo, but odd to have two people
+who only live a few rooms apart!) make quite a few statements about GPCC. We're
+doing updating work on the higher resolution CRU-TS (0.5 by 0.5 degree lat/long)
+datasets. We're doing comparisons with GPCC and for the Giorgi type regions (as in
+Fig 3.14 of Ch 3 of AR4) and the agreement is amazingly good. Maybe all you
+need to point to is this Figure and the previous one (Fig 3.12) to say that for land
+regions at the continental scale, it doesn't matter which datasets are used (for the
+period
+from the 1970s). The key thing is that they just use gauges, with no satellites.
+My view is that bringing in satellites as in CMAP and GPCP products can lead to
+problems, and some circularity with ERA results - as you'll be using some of the same
+satellite data products.  The point to emphasize for precip is that GPCC is totally
+independent from any ERA (40 or Interim) input.
+I've come across these issues about GPCC before. I've been haranguing Bruno Rudolf
+and now Tobias Fuchs of GPCC to write something up for a number of years within AOPC!
+I think their QC is likely the best of all the centres, but they will continue to get
+these
+doubts if they don't write anything up. They should at least explain how they do their
+interpolation - it can certainly be done better.
+GPCC is using so much more data that is has to be better than any other product.
+They can't release the raw station data, and it seems they can't release the numbers
+in each grid box.
+There will be an HC paper on the buoy/ship SST issue, but this isn't yet used
+operationally.
+It will come, but not before your paper goes back.
+I hope it is fairly straightforward to do RMSs as well as correlations.  We had SDs in the
+2004 paper. I don't think RMSs would show anything untoward, but would take up some
+more space.
+WRT Rev 2, I'm not that convinced by some of Aiguo's arguments. Between us, I'm
+not that convinced by some of his data analyses. The ones involving PDSI leave a
+lot to be desired (this is coming to light in other work we are doing).
+Rev 2 #6  Obviously not read the paper(s). CRUTEM3 is a simple average of stations
+within a grid box. There is no interpolation! If there are no stations, then there is no
+value!
+I think this is the same for HadCRUH as well.
+Rev 2 #13 Comment seems to end abruptly. I'd like to know what I might
+have said! I don't think I've ever said I doubt GPCP!
+I am around all the time except for the week of July 12-17, when I'll
+be at the IPCC Scoping meeting in Venice. Kevin will be there as well.
+Aiguo will be in CRU the first few days of the week after (July 20/21)
+Cheers
+Phil

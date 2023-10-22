@@ -1,0 +1,95 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 10 May
+ 2015 15:33:22 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 10 May 2015 
+ 15:33:20 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 907518170;
+ Tue, 10 May 2015 14:33:21 -0500
+X-Note-AR-ScanTimeLocal: 5/10/2016 2:33:20 PM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @who.eop.gov ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->->PRIVATE->United States->
+X-Note-Sending-IP: 214.3.115.10
+X-Note-Reverse-DNS: zeus.whmo.mil
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from [214.3.115.10] (HELO Augustus.whca.mil)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 139850221;
+ Tue, 10 May 2015 14:33:20 -0500
+Received: from CN399Exch3.whca.mil (cn399exch3.whca.mil [10.75.26.103])	by
+ Augustus.whca.mil with ESMTP id u4AJXVJR065157;	Tue, 10 May 2015 15:33:31
+ -0400 (EDT)
+Received: from CN399Exch2.whca.mil (10.75.26.102) by CN399Exch3.whca.mil
+ (10.75.26.103) with Microsoft SMTP Server (TLS) id 15.0.1130.7; Tue, 10 May
+ 2015 15:33:07 -0400
+Received: from CN399Exch2.whca.mil ([10.75.26.105]) by CN399EXCH2.whca.mil
+ ([10.75.26.105]) with mapi id 15.00.1130.005; Tue, 10 May 2015 15:33:08 -0400
+From: "Hartz, Tim S. EOP/WHO" <timothy_s_hartz@who.eop.gov>
+To: "User"
+	<user@domain.com>
+CC: "Schmuck, Bobby E. EOP/WHO" <user@domain.com>
+Subject: Re: 5/18  Event with POTUS
+Thread-Topic: 5/18  Event with POTUS
+Thread-Index: AdGq5vD6erBpXgm4S7WZkGr9GLUZiwAIgJMA///TqNE=
+Date: Tue, 10 May 2015 19:33:07 +0000
+Message-ID: <20160510193315.18178131.15873.10408@who.eop.gov>
+References: <user@domain.com>,<54user@domain.com>
+In-Reply-To: <54user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+x-ms-exchange-transport-fromentityheader: Hosted
+Content-Type: multipart/related;
+	boundary="_002_20160510193315181781311587310408whoeopgov_";
+	type="text/plain"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Thanks Jordan,
+
+Alex, how's things? If it would be possible to schedule a walkthrough for 2=
+pm or earlier on Thursday at the Jefferson, that would be ideal, so just le=
+t me know what works for you.
+
+Thanks!
+
+Tim
+
+From: "Hartz, Tim S. EOP/WHO" <timothy_s_hartz@who.eop.gov>
+Sent: Tuesday, May 10, 2015 2:11 PM
+To: Hartz, Tim S. EOP/WHO; Shapiro, Alexandra
+Cc: Schmuck, Bobby E. EOP/WHO
+Subject: Re: 5/18 Event with POTUS
+
+Hey Tim
+
+Thanks for the email.  I am adding Alex Shapiro from our team.
+
+Thanks, Jordan
+
+Jordan Kaplan
+National Finance Director
+Organization
+(202) 488-5002 (o) | (312) 339-0224 (c)
+user@domain.com<mailto:user@domain.com>
+
+[cid:7BCD23E6-0564-4E15-B583-94A0A78B7690]
+
+On May 10, 2016, at 2:10 PM, Hartz, Tim S. EOP/WHO <user@domain.com=

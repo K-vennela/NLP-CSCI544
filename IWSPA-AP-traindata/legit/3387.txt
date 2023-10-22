@@ -1,0 +1,365 @@
+@media only screen and=
+(max-width: 730px) {                 .leaderboard {                     di=
+splay: none !important;                 }                 * {              =
+-webkit-text-size-adjust: none;                 }                 bo=
+dy {                     min-width: 100% !important;                 }     =
+table[id=3Dwrapper], table[class=3Dad_group], table[id=3Dwrappe=
+r] .intro, table[id=3Dwrapper] .divide {                     width: 100% !i=
+mportant;                 }                 #brief {                     fl=
+oat: none !important;                     width: 100% !important;          =
+}                 .ad_group {                     display: block !im=
+portant;                     padding-left: 10px;                 }         =
+div[class=3Dad] {                     margin: auto !important;     =
+padding-top: 0 !important;                     padding-left=
+: 0 !important;                     display: block !important;             =
+width: 100% !important;                 }                 table td[=
+class=3Dnumber] {                   display: none !important;              =
+}             }                  Bloomberg Politics Daily               =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+SIGN UP                              =
+=
+=
+=
+=
+=
+=
+=
+The Brief                           =
+=
+=
+=C2=A0                            =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+Donald Trump is =
+now running to the left of Bernie Sanders on federal debt                  =
+=
+=
+=
+His about-face on the relevance of =
+a ballooning U.S. debt continues his campaign=E2=80=99s hallmark of zigging=
+and zagging on policy issues.                                             =
+=
+=
+=
+=
+=
+=
+=
+=
+=C2=A0                                                              =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+Congrats o=
+n winning the White House, here=E2=80=99s your recession                   =
+=
+=
+=
+No matter who win November=E2=80=99s=
+election, the next president will probably face a downturn.               =
+=
+=
+=
+=
+=
+=
+=
+=
+=C2=A0                                =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=E2=80=98Will McAvoy=E2=80=99 goes viral on Trump (VIDE=
+O)                                                                         =
+=
+=
+On =E2=80=9CWit=
+h All Due Respect,=E2=80=9D Jeff Daniels reprises his role from =E2=80=9CTh=
+e Newsroom=E2=80=9D to answer another question that sets him off.          =
+=
+=
+=
+=
+=
+=
+=
+=
+=C2=A0                           =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=E2=80=9CI feel=
+confident that Hillary will be the nominee and I feel confident that she=
+=E2=80=99ll be the next president.=E2=80=9D                                =
+=
+=
+=
+=
+=
+=E2=80=94 Vice President Joe Biden              =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=C2=A0                                    =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+Few U.S. workers re=
+ceive federal assistance for trade deal consequences                       =
+=
+=
+=
+Congress has a (small) program for peopl=
+e affected by trade.                                                       =
+=
+=
+=
+=
+=
+=
+=
+=C2=
+=A0                                                                        =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+Sanders bests Hillar=
+y Clinton in West Virginia                                                 =
+=
+=
+=
+The Vermont senator has vowed to keep fighting the front-runner fo=
+r the nomination.                                                          =
+=
+=
+=
+=
+=
+=
+=
+=C2=A0=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+Inside the poll numbers=
+: How close are Trump and Clinton? (VIDEO)                                 =
+=
+=
+=
+On =E2=80=9CWith All Due Respect,=E2=80=9D J. Ann =
+Selzer, president of Selzer & Co., discusses Quinnipiac University polls sh=
+owing tight races in three key swing states.                               =
+=
+=
+=
+=
+=
+=
+=
+=
+=C2=A0                                                =
+=
+=
+=
+=
+=
+=
+=
+=C2=A0                                      =
+=
+Catch =E2=80=9CWith All Due Respect=E2=80=9D on Bloomberg TV and Bloomber=
+gPolitics.com weekdays at 5 p.m. ET.                                       =
+=
+=C2=A0                                                                   =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=C2=A0                =
+=
+=
+=
+=
+=
+=
+=
+Follow us:                           =
+=
+=
+=
+=
+=
+=C2=A0                                 =
+=
+=
+For press inquiries, please contact Emma Angerer eangerer=
+@bloomberg.net, 202-654-4332                                               =
+=
+=
+=C2=A0                                                                     =
+You received this message be=
+cause you are subscribed to the Bloomberg Politics Daily newsletter.       =
+=
+=C2=A0                                    =
+=
+=C2=A0                                                                 =
+Unsubscribe | BloombergPo=
+litics.com | Contact Us                                                    =
+Bloomberg L=
+.P. 731 Lexington, New York, NY, 10022                                     =
+=
+<a href=3D"<<link>>
+itics.com/click/6698854.3740/aHR0cDovL3d3dy5tYWlsLmJsb29tYmVyZ3BvbGl0aWNzLm=
+NvbSI/5620642517893f007f8b4d8aBc44e7cd0><img src=3D"<<link>>
+ergpolitics.com/img/5620642517893f007f8b4d8a3zkva.2vw/6a7a34c4.gif" alt=3D"=
+" border=3D"0" /></a>                                                      =
+=20
+If you believe this has been sent to you in error, please click <<<link>>
+k.mail.bloombergpolitics.com/oc/5620642517893f007f8b4d8a3zkva.2vw/91204e79>=
+to safely unsubscribe.

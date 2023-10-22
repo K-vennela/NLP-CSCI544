@@ -1,0 +1,20 @@
+***************
+Ben (or, really, everybody else),
+I don't know whether you have all seen the paper analyzing the observed
+data that Ben and I sent to J. Climate ?? This is where the JGR paper
+began, and it is useful to compare both papers. In the J. Climate paper
+we  assessed the best fits using a subjective balance of raw and lowpass
+filtered results. The reason for this was because of the difficulty of
+setting up an automated procedure -- which is the problem that Ben is
+currently having to deal with. In the next iteration of the JGR paper,
+the reason for moving to a more automated procedure will be explained.
+Both the subjective and automated procedures have their advantages and
+disadvantages. The latter procedure, of course, is in no way
+'objective'. Many subjective choices have to be made in setting up the
+procedure. This is why the word 'automated' is used above, rather than
+'objective'.
+If you have not seen the J. Climate paper, let me know and I will send
+you a copy. There is a companion paper that has been accepted by GRL
+that I will send at the same time.
+Cheers, Tom.
+***************

@@ -1,0 +1,56 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from htamm (unknown [192.168.1.174])
+	(using TLSv1 with cipher AES128-SHA (128/128 bits))
+	(No client certificate requested)
+	by mail.hackingteam.it (Postfix) with ESMTPSA id DBBB52BC161;
+	Wed,  1 Dec 2015 12:15:55 +0100 (CET)
+From: "Antonella Capaldo" <a.capaldo@hackingteam.it>
+To: <user@domain.com>
+CC: <user@domain.com>
+Subject: SN SWF decompiler domain.com
+Date: Wed, 1 Dec 2015 12:18:18 +0100
+Organization: HT S.r.l.
+Message-ID: <003b01cb9149$74912320$5db36960$@user@domain.com>
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-index: AcuRSXRm/X9TTF8vTuKVe2+THN2Qhg==
+Content-Language: it
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-417933465_-_-"
+
+000016-Q5XT61-C11XQB-FZBMKZ-TJA20Q-GMTKEF-797NA2-209QQM-RWBUM1-4FP3B8
+
+
+
+Antonella
+Capaldo
+Administrative
+Support
+
+
+
+HT srl
+Via
+Moscova, 13 I-20121 Milan, Italy
+WWW.HACKINGTEAM.IT
+Phone
++39 02 29060603
+Fax.
++39 02 63118946
+
+
+
+This
+message is a PRIVATE communication. This message contains privileged and confidential
+information intended only for the use of the addressee(s).
+If
+you are not the intended recipient, you are hereby notified that any
+dissemination, disclosure, copying, distribution or use of the information
+contained in this message is strictly prohibited. If you received this email in
+error or without authorization, please notify the sender of the delivery error
+by replying to this message, and then delete it from your system.
+
+

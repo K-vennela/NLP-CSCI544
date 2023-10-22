@@ -1,0 +1,44 @@
+Ciao Anto,
+bisognerebbe creare il seguente ordine di acquisto.
+Grazie mille,
+Ale
+t_Ordini
+ID
+Ordine
+Codice Fornitore
+Fornitore
+Tipo Ordine
+Data Ordine
+Servizio
+Num Fatture Attese
+Commessa
+Valuta
+Imponibile
+Totale Ordine
+Imponibile Valuta Estera
+Tot_Ordine_Valuta Estera
+Data Tasso Cambio
+Controvalore in euro
+Richiedente
+Autorizzatore
+Modalità Pagamento
+Note / Commenti
+619
+999487
+Studio Legale Pulitanò Zanchetti
+Chiuso
+Costi Indiretti_Consulenze
+1
+Uso Interno
+Euro
+€ 5980,00
+€ 6149,28
+0,00
+0,00
+€ 0,00
+Russo Giancarlo
+Russo Giancarlo
+BB ricevimento fattura
+Alessandra
+Mino 
+www.hackingteam.com

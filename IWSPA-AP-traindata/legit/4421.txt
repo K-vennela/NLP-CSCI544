@@ -1,0 +1,172 @@
+Doug,
+Maybe Steve sent you the two emails I've resent. Ignore my ramblings at the end of one,
+but I was getting a little fed up.  The Legates email is at the end, in case you're
+interested.
+The pdf is worth a read. Odd that he writes a press release, then starts working on a
+paper.
+We've very occasionally written a press release, but only after the paper has come out.
+I tried to explain the 'missing' rings. They aren't missing, but due to the samples not
+being right for density measurements. All Schweingruber's chronologies are constructed
+this way - traditional ring width measurements aren't made. Some of the Russian groups
+he's worked with have added extra ring width cores and sometime get longer series, but
+all the data Keith and I work with is from Fritz, so if density is missing, then RW is
+also.
+Fritz did almost all the coring - 99% of the sites. We only help coring on a couple of
+occasions.
+This comes from alignment tracking as you say, but Fritz also says it is partly due to
+the need to extract the lignin and to avoid resin. When we cored together, he was always
+saying we weren't doing it properly getting twisted cores.  I'm not a proper dendro
+person,
+as I only got into this because of Keith - it may not be lignin, but something has to be
+extracted with solvents.
+The Polar Urals site was collected by Fritz and Stepan Shiyatov. There are living trees
+back to the 1500s and then stumps at a slightly higher elevation. Stepan has been back
+more recently and regeneration is occurring at higher levels, but it is taking time. Tree
+lines
+take a while to respond to the recent warmth in some regions. Once the trees are
+established
+and not killed by frosts/snow in winter they survive even if it gets cooler. I discussed
+this
+in a review paper in RoG attached. The section on the issue is brief.
+All the cores were collected over a couple of days. Fritz made a mistake with the
+labelling
+for one core and that explains the 400 years of missing values. Someone at WDCP
+must have combined the cores with the same ids. Dendro people are always looking for the
+oldest trees and we kept the earliest series in. Steve seems to have a thing about these
+and the 10th and 11th centuries, but they are correctly dated. Fritz uses loads of plots
+and pointer years and doesn't make mistakes normally. There is a very distinct year at
+AD 1032. Fritz is also cross dating with LWW and EWW and other features and not just
+on RW. I say not just, he normally does with density.  At the coring stage Fritz had no
+idea
+of the ages of the stumps (well just the number of years). There may have been samples
+off the front that couldn't be dated at all, for all I know.  I suspect though they are
+roughly
+the same calendar age, as the site has distinct dates for the start of trees, which
+represent
+regeneration periods. Maybe you can try and explain the tree-line argument to Steve.
+When he had to omit parts of cores, he was always able to know where the two parts sat
+in the sequence. We need to keep them together to do things like RCS.
+Anyway, I have to go home - it's been very wet lately and the grass has grown. The
+lawn must be mowed when the sun shines.
+Keep pushing that he should write up what he does (and Ross) in proper journals. E&E
+and Climate Research are not read by many now. I only look at them when I get
+alerted and I remain exasperated.
+Cheers
+Phil
+Legates email
+Phil Jones has made a valid point in that some of the articles cited
+in my critique do not 'directly' address problems with Mann and Jones (MJ)
+but rather, address problems with earlier works by Mann, Bradley, and
+Hughes (MBH) and other colleagues.  Fair enough - I have changed the
+critique to reflect that fact.  The revised version has been posted since
+July 19 at:
+[1]<<link>>
+However, I still contend that most of my original arguments - namely, the
+problems with the shaft, blade, and sheath - apply equally to Mann and
+Jones as well as the other Mann et al. manifestations of the 'hockey
+stick'.
+MJ incorporate data from a number of the same sources as those used
+by MBH; for example, Mann's unpublished PC1 from the western North
+American tree-ring data, Cook's Tasmanian tree rings, Thompson's Quelccaya
+and Dunde ice core oxygen isotope records (the latter embedded in Yang's
+Chinese composite), and Fisher's stacked Greenland ice core oxygen isotope
+record. Calibration and verification of MJ includes the flawed MBH curve.
+Thus, any errors in MBH effectively undermine the calibration-verification
+results of MJ, leaving this study unsupported and any problems with the
+underlying common proxies identified in critiques of MBH will also result
+in identical problems in MJ.
+My criticism regarding the blade is that 0.6 deg C warming for the
+last century is noted by the IPCC whereas MJ (and other M et al
+representations) have up to 0.95 deg C warming in their observed record.
+See MJ's figure 2 where for the global and NH reconstruction, their
+estimates for 2000 exceed +0.4 and +0.5 (nearly +0.6), respectively.
+MJ's NH curve is included in the attached graph.  Thus, I stand by my
+criticism of MJ on this point, which is more egregious in MJ than other M
+et al representations.
+>From Jones:  "The trend over the 20th century in the Figure and in the
+instrumental data.  IPCC quotes 0.6 deg C over the 1901-2000 period.  Fact
+- but Legates is eyeballing the curve to get 0.95 deg C. A figure isn't
+given in Mann and Jones (2003). Take it from me the trend is about the
+same as the instrumental record."
+Funny, but there IS a figure in MJ - see their Figure 2.  As for me
+'eyeballing' an apparently non-existent curve, I attach a figure from Soon
+et al. (2004) that contains a portion of MJ's Figure 2 to allow others to
+decide for themselves whether MJ suggest a twentieth century warming of
+0.6 deg C or 0.95 deg C.  Moreover, maybe someone can explain why every
+time Mann and his colleagues draft another curve, the temperature in 2000
+gets warmer and warmer after the fact...
+My criticisms regarding the sheath (largely from a paper on which I
+am working) stem from the characterization of the uncertainty by MJ that
+arises solely from the 'fit' statistics to the 1600-1855 period using
+cross-validation with, not observations, but composites of three
+previously compiled reconstructions, including that developed by MBH - the
+focus of known flaws and errors in the shaft.  Note that some of the same
+data are used in both MBH and MJ, which doesn't allow for a truly
+independent cross-validation.  My rather obvious point was not that fit
+statistics should not be included (as Jones asserts) but that MJ included
+no errors in either input realization (observations or proxy data) or
+other obvious sources of error.  The claim by MBH and MJ is that only the
+model lack-of-fit contributes to uncertainty is inherently flawed.
+Considerable errors exist in the representation of both fields -
+annual temperatures from both observations and proxy records - and must be
+incorporated.  Clearly, there is a spatial bias associated with
+observations that are biased away from the oceans, high latitudes, and
+high altitudes.  The spatial problem is far more pronounced when only a
+handful of proxies are used to represent the global temperatures at
+earlier time periods.  Both MBH and MJ are equally guilty in this regard.
+David R. Legates
+Several people have asked me for the full references to the works I have
+cited.  They are:
+Chapman, D.S., M.G. Bartlett, and R.N. Harris (2004):  Comment on 'Ground
+vs. surface air temperature trends:  Implications for borehole surface
+temperature reconstructions' by M.E. Mann and G. Schmidt.  Geophysical
+Research Letters, 31, L07205, doi:10.1029/2003GL019054.
+Esper, J, E.R. Cook, and F.H. Schweingruber (2002):  Low-frequency signals
+in long tree-ring chronologies for reconstructing past temperature
+variability, Science, 295, 2250-2253.
+Esper, J, D.C. Frank, and R.J.S. Wilson (2004):  Climate reconstructions:
+Low-frequency ambition and high-frequency ratification.  EOS, Transactions
+of the American Geophysical Union, Vol. 85 (12):113,120.
+IPCC TAR (Intergovernmental Panel on Climate Change, Third Assessment
+Report) (2001):  Climate Change 2001: The Scientific Basis, Houghton,
+J.T., Ding, Y., Griggs, D.J., Noguer, M., van der Linden, P. J., Dai, X.,
+Maskell, K., Johnson, C.A. (Eds.), Cambridge University Press.
+Mann, M.E., R.S. Bradley, and M.K. Hughes (1998):  Global-Scale
+Temperature Patterns and Climate Forcing Over the Past Six Centuries,
+Nature, 392, 779-787.  [see also the correction in Nature - Mann, Bradley,
+and Hughes, 2004]
+Mann, M.E., R.S. Bradley, and M.K. Hughes (1999): Northern Hemisphere
+Temperatures During the Past Millennium: Inferences, Uncertainties, and
+Limitations.  Geophysical Research Letters, 26, 759-762.
+Mann, M.E., and P.D. Jones (2003):  Global surface temperature over the
+past two millennia, Geophysical Research Letters, 30(15), 1820, doi:
+10.1029/2003GL017814.
+Mann, M.E., and G. Schmidt (2003):  Ground vs. surface air temperature
+trends:  Implications for borehole surface temperature reconstructions.
+Geophysical Research Letters, 30(12), 1607, doi:10.1029/2003GL017170.
+McIntyre, S., and R. McKitrick (2003): Corrections to the Mann et al
+(1998) Proxy Data Based and Northern Hemispheric Average Temperature
+Series.  Energy and Environment, 14, 751-771.
+Pollack, H.N., and J.E. Smerdon (2004):  Borehole climate reconstructions:
+Spatial structure and hemispheric averages.  Journal of Geophysical
+Research, 109, D11106, doi:10.1029/2003JD004163.
+Rutherford, S., and M.E. Mann (2004):  Correction to 'Optimal surface
+temperature reconstructions using terrestrial borehole data'.  Journal of
+Geophysical Research, 109, D11107, doi:10.1029/2003JD004290.
+Soon, W.-H., S.L. Baliunas, C. Idso, S. Idso, and D.R. Legates (2003):
+Reconstructing Climatic and Environmental Changes of the Past 1000 Years:
+A Reappraisal.  Energy and Environment, 14:233-296.
+Soon, W.-H., D.R. Legates, and S.L. Baliunas (2004):  Estimation and
+Representation of Long-Term (>40 year) trends of
+Northern-Hemisphere-gridded Surface Temperature:  A Note of Caution.
+Geophysical Research Letters, 31(3).
+Prof. Phil Jones
+Climatic Research Unit        Telephone +44 (0) 1603 592090
+School of Environmental Sciences    Fax +44 (0) 1603 507784
+University of East Anglia
+Norwich                          Email    p.jones@uea.ac.uk
+NR4 7TJ
+UK
+----------------------------------------------------------------------------
+References
+1. <<link>>

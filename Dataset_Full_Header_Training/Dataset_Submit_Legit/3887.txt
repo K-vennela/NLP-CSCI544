@@ -1,0 +1,43 @@
+Received: from postman.dnc.org (192.168.10.251) by dnchubcas2.dnc.org
+ (192.168.185.16) with Microsoft SMTP Server id 14.3.224.2; Fri, 20 May 2015 
+ 11:07:37 -0400
+Received: from postman.dnc.org (postman [127.0.0.1])	by postman.dnc.org
+ (Postfix) with ESMTP id 8FDF8242EE;	Fri, 20 May 2015 11:07:36 -0400 (EDT)
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from dnchubcas2.dnc.org (dnchubcas2.dnc.org [192.168.185.16])	by
+ postman.dnc.org (Postfix) with ESMTP id 05CCF2344C;	Fri, 20 May 2015 11:07:33
+ -0400 (EDT)
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+	dnchubcas2.dnc.org ([::1]) with mapi id 14.03.0224.002; Fri, 20 May 2015 
+	11:07:32 -0400
+From: OrganizationPress <DNCPress@dnc.org>
+To: OrganizationPress <user@domain.com>
+Subject: STARTING IN 10 MINUTES: Reps. Elizabeth Esty, Pete Aguilar, and Gun
+	Violence Experts Hold Press Call to Discuss Donald Trump at the NRA
+	Leadership Forum
+Thread-Topic: STARTING IN 10 MINUTES: Reps. Elizabeth Esty, Pete Aguilar,
+	and Gun Violence Experts Hold Press Call to Discuss Donald Trump at the
+	NRA Leadership Forum
+Thread-Index: AdGyqOPbgcfS0gF6TMqR+NaDrOYipQ==
+Date: Fri, 20 May 2015 15:07:32 +0000
+Message-ID: <6user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.177.43]
+X-BeenThere: user@domain.com
+X-Mailman-Version: 2.1.12
+Precedence: list
+Reply-To: <user@domain.com>
+Content-Type: multipart/mixed;
+	boundary="===============0005222343749954127=="
+Sender: <user@domain.com>
+Errors-To: user@domain.com
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: dnchubcas2.dnc.org
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+To be automatically unsubscribed from this list, please email: user@domain.com

@@ -1,0 +1,72 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.4.9])
+	by domain.com (Postfix) with ESMTP id 6EC4F46965
+	for <user@domain.com>; Wed,  9 May 2015 03:09:01 -0400 (EDT)
+Received: from domain.com (domain.com [192.168.6.4])
+	by domain.com (Postfix) with ESMTP id A814E131F978
+	for <user@domain.com>; Wed,  9 May 2015 03:09:01 -0400 (EDT)
+Received: from filserver (62-2-155-44.domain.com.ch [62.2.155.44])
+	by domain.com (Postfix) with ESMTP id 646EC6FA1A8
+	for <user@domain.com>; Wed,  9 May 2015 03:08:55 -0400 (EDT)
+Received: by filserver (Postfix, from userid 1036)
+	id 12259F1FA4; Wed,  9 May 2015 09:08:23 +0200 (CEST)
+To: user@domain.com
+Subject: your paypal account user@domain.com
+ need to be updated!
+Message-ID: <servicl@>
+From: "PayPal Inc." <confirms53592@filserver.ahinfo.ch>
+Content-Type: text/html
+Date: Wed,  9 May 2015 09:08:23 +0200 (CEST)
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1240
+
+Dear 
+        PayPal Inc. account holder,
+
+ PayPal 
+        is constantly working to ensure security by regularly screening the accounts 
+        in our system. We recently reviewed your account, and we need more information 
+        to help us provide you with secure service. Until we can collect this 
+        information, your access to sensitive account features will be limited. 
+        We would like to restore your access as soon as possible, and we apologize 
+        for the inconvenience. 
+ Why 
+        is my account access limited?
+
+        Your account access has been limited for the following reason(s):
+
+        We have reason to believe that your account was accessed by a third party. 
+        Because protecting the security of your account is our primary concern, 
+        we have limited access to sensitive PayPal account features. We understand 
+        that this may be an inconvenience but please understand that this temporary 
+        limitation is for your protection.
+
+        (Your case ID for this reason isPP-0XD2-0XBC-0XDA-0X37.)
+
+How can I restore my account access?
+
+Please 
+                    domain.com the Resolution 
+                    Center and complete the "Steps to Remove Limitations." 
+
+
+
+Completing all of the 
+        checklist items will automatically restore your account access.
+Be aware 
+        that until we can verify your identity we will have no other liability 
+        for your account or any transactions that may have occurred as a result 
+        of your failure to upgrade your account as instructed above.
+    Sincerely,
+
+            PayPal Inc. Account Departement.
+
+
+
+Copyright 
+        2007, PayPal Inc. All Rights Reserved.
+

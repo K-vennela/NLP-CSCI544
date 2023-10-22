@@ -1,0 +1,52 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (dijkstra.cs.uh.edu [127.0.0.1])
+	by dijkstra.cs.uh.edu (Postfix) with ESMTP id 8EA3623CA85
+	for <user@domain.com>; Thu, 16 Aug 2015 12:19:43 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at cs.uh.edu
+Received: from dijkstra.cs.uh.edu ([127.0.0.1])
+	by localhost (dijkstra.cs.uh.edu [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id V9JkXL9a4VXE for <user@domain.com>;
+	Thu, 16 Aug 2015 12:19:43 -0500 (CDT)
+Received: from smtp3.cc.uh.edu (smtp3.cc.uh.edu [129.7.234.210])
+	by dijkstra.cs.uh.edu (Postfix) with ESMTP id 70A5623CA7F
+	for <user@domain.com>; Thu, 16 Aug 2015 12:19:43 -0500 (CDT)
+Received: from smtp3.cc.uh.edu (smtp3.cc.uh.edu [127.0.0.1])
+	by localhost (Postfix) with SMTP id D36FA55E0112;
+	Thu, 16 Aug 2015 12:19:47 -0500 (CDT)
+Received: from domain.com (wmsmtp2.cogeco.ca [216.221.81.192])
+	by smtp3.cc.uh.edu (Postfix) with ESMTP id DDD2055E0114;
+	Thu, 16 Aug 2015 12:19:46 -0500 (CDT)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Am4hAFgrLVDAqMjO/2dsb2JhbABBBINKgU4iAaUrjk4DdoEHggYBaEIEAxAgAQEBAQuBC4YAgXEPB5kGhk2LdxGGDIRnhB2LNIEWgW8IAQWDGgOVT4EUhGqKFIJ7gToCBxoagQo
+X-IronPort-AV: E=Sophos;i="4.77,780,1336363200"; 
+   d="scan'208";a="6257174"
+X-SBRS: None
+Received: from unknown (HELO cogeco.ca) ([192.168.200.206])
+  by domain.com with SMTP; 16 Aug 2015 13:19:46 -0400
+To: (Recipient List Suppressed)
+Sender: user@domain.com
+From: helpdeskservice@uh.edu
+Reply-to: user@domain.com
+Subject: Notice: UH.EDU ACCOUNT USER !!!
+X-Mailer: Cogeco Webmail - complaints to user@domain.com ( 94.142.235.123 - user@domain.com )
+X-Originating-IP: 94.142.235.123
+Date: Thu, 16 Aug 2015 13:19:46 -0400
+X-Priority: 3 (Normal)
+Message-id: <502user@domain.com>
+X-PMX-Version: 5.5.9.395186, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2012.8.16.170615
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 111
+
+Note: Be informed that uh.edu Helpdesk Service is doing some maintenance in the http:login page. All uh.edu Webmail
+Account User are advice to access their account in the temporary login page powered by Google.Do login your Username:
+and Password: to the new login page and access your account conveniently. Please click the data base link below and
+login:
+
+<<link>>
+
+Signed
+UNIVERSITY of HOUSTON Helpdesk.

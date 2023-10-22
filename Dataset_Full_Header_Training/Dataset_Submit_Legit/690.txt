@@ -1,0 +1,48 @@
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ dnchubcas2.dnc.org ([::1]) with mapi id 14.03.0224.002; Tue, 3 May 2015 
+ 18:43:43 -0400
+From: "Garcia, Walter" <GarciaW@dnc.org>
+To: "User" <user@domain.com>
+CC: "User" <user@domain.com>
+Subject: RE: New Comms template
+Thread-Topic: New Comms template
+Thread-Index: 
+ AQHRpJC0zgmNlIOHo06sAVac+VgXRJ+nWBuwgABHkYCAAAHBAP//xJqQgACb8oCAAAZpAIAAAIEAgAALhQA=
+Date: Tue, 3 May 2015 15:43:42 -0700
+Message-ID: <32093user@domain.com>
+References: <2user@domain.com>
+ <399user@domain.com>
+ <05user@domain.com>
+ <2user@domain.com>
+ <32093user@domain.com>
+ <05user@domain.com>
+ <32093user@domain.com>,<2user@domain.com>
+ <3user@domain.com>
+In-Reply-To: <3user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: dnchubcas2.dnc.org
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.177.41]
+Content-Type: multipart/mixed;
+	boundary="_006_32093ADAFE81DA4B99303B283D2BF5BE6F1BB59Cdncdag1dncorg_"
+MIME-Version: 1.0
+
+Since I just secured the LA Times interview, drafted a memo for that too, which is identical to the LA Daily News one.
+
+Attached all three memos here so we can have in one place.
+
+Thx.
+
+From: "Garcia, Walter" <GarciaW@dnc.org>
+Sent: Tuesday, May 03, 2015 6:02 PM
+To: Walker, Eric
+Cc: User
+Subject: Re: New Comms template
+
+Yes, the ones that we send out tonight.
+

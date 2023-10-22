@@ -1,0 +1,45 @@
+Hi Tim
+Thanks for sending this. Unfortunately, I don't really have the time look into any of this
+in detail, but let me offer the following additional explanation which will hopefully
+clarify the nature of any differences between our results. I fear that I may not have been
+clear enough in my previous explanation.
+The reason that our uncertainty estimates reduce little fwith increasing timescale for the
+earlier networks is that the effective degrees of freedom are diminished sharply by the
+redness of the calibration residuals for networks prior to AD 1600 and earlier. But unlike
+you, wee do not model the residuals as an AR process--this may the source of some of the
+differences.
+Back to AD 1600 (and later networks), the calibration residuals pass for "white noise" ,
+and the estimates follow simply from the residual uncalibrated variance, and the reduction
+of variance upon averaging follows standard sqrt(N) statistics.
+Prior to that, the networks failed the test. So we decomposed the calibration residuals
+into a "low-frequency" band (all timescales longer than 40 years which are not
+distinguishable from secular timescales, since I had a roughly 80 years series and was
+evaluating the spectrum using a multiple-taper estimate with a spectral bandwidth of +/-2
+Rayleigh frequencies). We then estimated the enhancement of unresolved variance in the
+low-frequency band relative to the nominal white noise level. The enhancement was about a
+factor of 5-6 or so for the earlier networks, as I recall. To get the component of
+uncertainty for the low-frequency band alone (timescales longer than 40 years), I simply
+took that enhancement factor x the nominal unresolved calibration variance x the bandwidth
+of the "low-frequency" band (0.025 cycle/year). This yields a reduction in variance that is
+far less than the nominal "sqrt N" reduction applied to the individual annual
+uncertainties. Of course,  one could calculate the equivalent N' (effective temporal
+degrees of freedom) that this implies in a model of the residuals as AR(1) red noise,  but
+we didn't take this approach. We modeled it as a simple step-increase spectrum (w/ the
+boundary at f=0.025 cycle/yr). Modeling the residuals as red noise would, my guess is,
+generally yield the same result, but it might have the effect of dampening the estimated
+enhancement of unresolved variance at the longest timescales. In any case, it should yield
+similar, but it would be very surprising if identical(!), results, consistent w/ your
+observations.
+My guess for the difference in the AD 1600 network is that, based on the spectrum test, we
+did not reject the white noise null hypothesis for the residuals. So there was no variance
+enhancement factor for that, or subsequent, networks. It would appear that your method
+argues for significant serial correlation in that case. Not sure why we come to different
+conclusions in this case (perhaps using different criteria for testing for the significance
+of redness in the spectrum/serial correlation), but that's probably the reason...
+I hope that clarifies this. Please keep me in the loop on this. I've copied to Scott, who
+may have some additional insights here, since we've been dealing w/ these issues now in the
+RegEM estimates (Scott:did we ever reject the white noise null hypothesis in the residuals
+for any of our proxy-based NH reconstrucitions in the paper submited to J. Climate? I don't
+recall).
+Thanks,
+mike

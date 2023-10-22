@@ -1,0 +1,38 @@
+I have NATIA in August. I would really like to get inexpensive t-shirts made here for NATIA. 
+But more pins and lanyards are always welcome. I still have brochures 
+<!--
+/* Font Definitions */
+@font-face
+{font-family:Wingdings;
+panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+{font-family:"Cambria Math";
+panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+{font-family:Calibri;
+panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+{margin:0cm;
+margin-bottom:.0001pt;
+font-size:11.0pt;
+font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+{mso-style-priority:99;
+color:blue;
+text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+{mso-style-priority:99;
+color:purple;
+text-decoration:underline;}
+span.StileMessaggioDiPostaElettronica17
+{mso-style-type:personal-compose;
+font-family:"Calibri","sans-serif";
+color:windowtext;}
+.MsoChpDefault
+{mso-style-type:export-only;}
+@page WordSection1
+{size:612.0pt 792.0pt;
+margin:70.85pt 2.0cm 2.0cm 2.0cm;}
+div.WordSection1
+{page:WordSection1;}

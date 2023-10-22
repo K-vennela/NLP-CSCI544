@@ -1,0 +1,62 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id D12A4468D5
+	for <user@domain.com>; Wed,  5 Sep 2015 09:19:05 -0400 (EDT)
+X-Greylist: delayed 1445 seconds by postgrey-1.27 at domain.com; Wed, 05 Sep 2015 09:19:05 EDT
+Received: from domain.com (domain.com [67.100.85.10])
+	by domain.com (Postfix) with ESMTP id 93E2E131FCC7
+	for <user@domain.com>; Wed,  5 Sep 2015 09:19:05 -0400 (EDT)
+Received: from smpsoex2k6 [70.159.136.100] by domain.com with ESMTP
+  (SMTPD-9.20) id A79E0690; Wed, 05 Sep 2015 04:48:46 -0700
+From: "Bank Of America"<service@bankofamerica.com>
+Subject: Bank Of America - Urgent Notice!!
+Date: Wed, 5 Sep 2015 07:56:49 -0500
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <200709050448562.user@domain.com>
+To: undisclosed-recipients:;
+Content-Length: 2015 
+Lines: 54
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 109
+
+
+
+
+Verify Your Account Details 
+
+
+
+As part of measures of ensuring a safer and more secure Banking environment. We have re-structured our Banking servers .
+Hence, we have decided to put an extra verification process to ensure your identity and account information is protected.
+ Please click on continue, to the verification process and ensure your Account information is entered correctly to get verified.It is all about your security.
+
+ Thank you.
+
+
+
+Continue To Online Banking 
+
+
+
+
+          Bank of America will 
+never ask your ATM pin
+
+
+
+Bank of America, N.A. Member FDIC. Equal Housing Lender
+
+
+
+ 2015 Bank of America Corporation. All rights reserved

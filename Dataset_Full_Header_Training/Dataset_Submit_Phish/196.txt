@@ -1,0 +1,53 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id 3CAE0469D4
+	for <user@domain.com>; Wed, 29 Aug 2015 16:07:50 -0400 (EDT)
+X-Greylist: delayed 2015 seconds by postgrey-1.27 at domain.com; Wed, 29 Aug 2015 16:07:49 EDT
+Received: from domain.com (domain.com [206.222.30.98])
+	by domain.com (Postfix) with SMTP id D6217131FC44
+	for <user@domain.com>; Wed, 29 Aug 2015 16:07:49 -0400 (EDT)
+Received: (qmail 64363 invoked from network); 29 Aug 2015 14:41:22 -0400
+Received: from domain.com (HELO 2k3-fileserv) (admin@71.242.248.228)
+  by domain.com with SMTP; 29 Aug 2015 14:41:22 -0400
+Reply-To: <user@domain.com>
+From: "PayPal"<service@paypal.com>
+Subject: Danger : update your Account information now !!
+Date: Wed, 29 Aug 2015 14:44:45 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20070829200749.user@domain.com>
+To: undisclosed-recipients:;
+Content-Length: 1582
+Lines: 10
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 77
+
+PayPal Member: 
+ Due to concerns, for the safety and integrity of the paypal
+account we have issued this warning message.
+ It has come to our attention that your PayPal account information needs to be 
+updated as part of our continuing commitment to protect your account and to 
+reduce the instance of fraud on our website. If you could please take 5-10 minutes 
+out of your online experience and update your personal records you will not run into 
+any future problems with the online service.
+
+However, failure to update your records will result in account suspension.
+
+Once you have updated your account records your paypal account
+service will not be interrupted and will continue as normal. 
+To update your PayPal records open following link: 
+<<link>>
+Thank You.
+Copyright  1999-2006 PayPal.
+ All rights reserved.
+Information about FDIC pass-through insurance 

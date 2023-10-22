@@ -1,0 +1,98 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Fri, 20 May
+ 2015 14:02:34 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Fri, 20 May 2015 
+ 14:02:28 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 926827142;
+ Fri, 20 May 2015 13:02:43 -0500
+X-Note-AR-ScanTimeLocal: 5/20/2016 1:02:33 PM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @domain.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: United States->PRIVATE->United States->
+X-Note-Sending-IP: 66.151.182.17
+X-Note-Reverse-DNS: mta-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mta-domain.com ([66.151.182.17] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 139658515;
+ Fri, 20 May 2015 13:02:33 -0500
+Received: from domain.com
+ (domain.com [10.0.180.1])	by
+ mta-domain.com (Postfix) with ESMTP id 3rBG4835BBzTQjq;
+	Fri, 20 May 2015 14:02:32 -0400 (EDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=domain.com; s=bsdkey; t=1463767352;
+	bh=8IZWV0E6yCjngt1HG1q+1QlyvD19W5UBZhLctHbVKVM=;
+	h=Date:To:From: Contribution <postmaster@finance.democrats.org>
+	b=PzJNX4LjVl5MhxtpxWj2F7kVT01CsrYo1hNUutTm+K3/f8puu2UzYGeV167gDGBtv
+	 3Hd2uiAhrnbGb87mhIRJ8vQJLopM+5qtVMQeUYjQ7PzTV4n6iGlBV6WiOu5kE9DQf5
+	 9qs/0YSyTY1w8vHXI7uz8jnkK6FM/xi+o32U9K+I=
+Received: from phpmailer ([166.182.82.49]) 	by domain.com
+ with HTTP (PHPMailer);	Fri, 20 May 2015 18:02:32 +0000
+Date: Fri, 20 May 2015 18:02:32 +0000
+To: <user@domain.com>, <user@domain.com>, <user@domain.com>,
+	<user@domain.com>
+From: Contribution <postmaster@finance.democrats.org>
+Subject: Contribution: TN035 - DWS Knoxville Reception / Mark Siegel / 250.00 USD
+Message-ID: <997123user@domain.com>
+X-Mailer: PHPMailer [version 1.71-blue_mailer]
+X-blue_mailer-http_host: finance.democrats.org
+X-blue_mailer-history_ids: 30187282 30187283 30187284 30187285
+Content-Type: multipart/alternative;
+	boundary="b1_997123f81e55c8f1b25f07df8051d50e"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+CONTRIBUTION DATA
+-----------------
+                      Page: TN035 - DWS Knoxville Reception
+                      Type: One-time
+              Total Amount: $250.00
+                First Name: Mark
+                 Last Name: Siegel
+                   Address: 3827 Glenfield Drive
+                            Knoxville, TN 37919
+                     Phone: 8655462221
+                     Email: user@domain.com
+                  Employer: Social Security Administration
+          Employer Address: 
+                            ,  
+                Occupation: ALJ
+              Payment Type: Discover
+                 Account #: 6557
+             Transaction #: %%TransactionId%%
+                 User Id #: %%UserId%%
+          Contribution Key: IICNmjXvRUR0_r9QC7
+
+CUSTOM FIELD DATA
+------------------------------
+(Section header: "Additional Information")
+Fundraiser code (optional): 
+Who encouraged you to make this contribution?: 
+Guest name(s), if contributing for multiple tickets: Rabbi Alon Ferency (on place of me)
+
+GENERAL INFORMATION
+-------------------
+      domain.com Date: Fri, 20 May 2015 17:59:50 +0000
+           Status: Authorized
+Client IP Address: 166.182.82.49
+   Client Browser: Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_2 like Mac OS X) domain.com/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13F69 Safari/601.1
+

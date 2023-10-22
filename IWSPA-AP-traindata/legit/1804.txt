@@ -1,0 +1,41 @@
+Hi Harry,
+finally had time to take a look at the latest cruts3 run through to 2008
+for tmp, picked up from /cru/cruts/
+Two PDFs showing seasonal national means are attached.
+Look at ...2008a_vs_2008b.pdf first.  Black is your previous update to
+2008, pink is the latest one.  Many very similar, some small differences
+(presumably due to outlier 3/4 SD removal... note that as these are
+national/seasonal means, outliers might be quite large, yet only show up
+small in the means if many other stations contribute).
+page 4. The hot spike in Guatemala SON has been removed in the new
+version.  That looks much better.
+page 6 & page 9: the hot spikes in France, Italy and Austria in JJA in
+2003 have been reduce slightly too.  Not sure if this is right or not,
+could ask Phil what he thinks.  Could Jul & Aug 2003 have been so hot that
+some observations validly did exceed the +3SD outlier check?  Or do you
+use a +4SD check for TMP?  Anyway, this is one to ask Phil about.
+There are various other erroneous hot spikes that have now been correctly
+removed, I won't list them all here.
+However, there are some cold spikes in both previous and latest 2008
+updates... see e.g. Mali SON on page 12.  Have you turned on only outlier
+checking for +3SD, and not for -3SD?  Some wrong-looking cold spikes are
+still present.
+Now look at ...2005_vs_2008b.pdf.  Black is last years CRUTS3 through to
+2005 (I know the files went to mid 2006, but I stopped at last complete
+year).  Note this isn't CRUTS2.1! :-)  Pink is again the newest version of
+the update to 2008.
+There are some early 20th century differences that I'm not too bothered
+about, though it would be nice to know why they arise.  One concern is
+that the mean level is different between the versions... see e.g. JJA for
+various countries on pages 7 and 8.  Seems to be a constant offset.  It's
+too big to be a simple rounding error in my calculations (I may have
+changed from 1 dec. place to 2 dec. place, but some differences are about
+0.5 deg C), and these are absolute values so there's no dependency on any
+anomalisation/reference period meaning as I'm not doing any.
+Intriguing.  Perhaps some normals have change in some regions/seasons?
+So:
+(1) hot spikes have been corrected.
+(2) cold spikes still there.
+(3) some odd differences in mean level.
+Progress!
+Tim

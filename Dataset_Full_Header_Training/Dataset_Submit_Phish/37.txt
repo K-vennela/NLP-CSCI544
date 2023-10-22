@@ -1,0 +1,117 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [10.3.4.5])
+	by domain.com (Postfix) with ESMTP id C954C468E7
+	for <user@domain.com>; Mon, 24 Jul 2015 00:20:23 -0400 (EDT)
+Received: from host01.nbn.ru (host01.nbn.ru [213.219.249.56])
+	by domain.com (Postfix) with ESMTP id 73BB46FA441
+	for <user@domain.com>; Mon, 24 Jul 2015 00:20:23 -0400 (EDT)
+Received: from nobody by host01.nbn.ru with local (Exim 4.60 (FreeBSD))
+	(envelope-from <user@domain.com>)
+	id 1G4ry7-000Bv5-Ib
+	for user@domain.com; Mon, 24 Jul 2015 08:22:59 +0400
+To: user@domain.com
+Subject: PayPal - Notice : Restore Your Account !
+From: support@paypal.com <notify@paypal.com>
+Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Message-Id: <user@domain.com>
+Date: Mon, 24 Jul 2015 08:22:59 +0400
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - host01.nbn.ru
+X-AntiAbuse: Original Domain - domain.com
+X-AntiAbuse: Originator/Caller UID/GID - [65534 65534] / [26 6]
+X-AntiAbuse: Sender Address Domain - host01.nbn.ru
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+Status: 
+X-Status: 
+X-Keywords: 
+
+
+
+
+Your account will be suspended !
+
+We are contacting you to remind you
+    that on 28 July 2015 our Account Review Team identified some unusual
+    activity in your account. In accordance with PayPal's User Agreement and to
+    ensure that your account has not been compromised, access to your 
+account was limited. Your account
+    access will remain limited until this issue has been resolved.
+To secure your account and quickly
+    restore full access, we may require some additional information from you
+    for the following reason:
+We have been notified that a card associated
+    with your account has been reported as 
+lost or stolen, or that there were
+    additional problems with your card.
+To securely confirm your PayPal
+    information please go to your PayPal's Update Profile or click on the link
+    bellow:
+
+
+
+Click
+        here to activate your account
+
+    Thank you for using PayPal!
+
+    The PayPal Team
+
+Please do not reply to this e-mail. Mail sent to this
+      address cannot be answered. For assistance, log
+      in to your PayPal account and choose the "Help" link in the
+      footer of any page.
+
+      To receive email notifications in plain text instead of HTML, update your
+      preferences here.
+
+PayPal
+    Email ID PP891
+
+Protect Your
+        Account Info
+
+
+
+
+Make sure you never provide your password to fraudulent
+        websites. 
+
+        To safely and securely access the PayPal website or your account, open
+        a new web browser (e.g. domain.com Explorer or Netscape) and type in the
+        PayPal URL (<<link>>) to be sure you are on the real
+        PayPal site.
+
+        PayPal will never ask you to enter your password in an email.
+
+        For more information on protecting yourself from fraud, please review
+        our Security Tips at <<link>>
+
+Protect Your
+        Password
+
+
+
+
+You should never give your
+        PayPal password to anyone, including PayPal employees.
+
+This process is mandatory, and
+        if not completed within the nearest time your account or domain.com card
+        may be subject for temporary suspension. 
+
+We encourage you to log in and
+        perform the steps necessary to restore your account access 
+as soon as possible. Allowing
+        your account access to remain limited for an extended period 
+of time may result in further
+        limitations on the use of your account and possible account closure.
+
+
+

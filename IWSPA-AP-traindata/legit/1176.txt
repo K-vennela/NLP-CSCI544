@@ -1,0 +1,12 @@
+Thanks Keith,
+I just read your email after reading the others. We actually eliminate records with
+negative correlations (this is mentioned breifly in the GRL article,), and we investigated
+a variety of weighting schemes to assure the basic robustness of the composite--but I
+certainly endorse your broader point here. Many of these records have some significant
+uncertainties or possible sources of bias, and this isn't the place to get into that. The
+uncertainties get at this, at some level, and other places (e.g. the Reviews of Geophysics
+paper Phil and I are drafting) will provide an opportunity to discuss these kinds of issues
+in more detail--we will certainly be seeking advice (either officially or unofficially)
+from each of you once we have finalized the draft of that...
+Now back to my honeymoon...
+mike

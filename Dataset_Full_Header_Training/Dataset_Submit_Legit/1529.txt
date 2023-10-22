@@ -1,0 +1,270 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Thu, 12 May
+ 2015 17:01:30 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Thu, 12 May 2015 
+ 17:01:26 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 912501891;
+ Thu, 12 May 2015 16:01:34 -0500
+X-Note-AR-ScanTimeLocal: 5/12/2016 4:01:28 PM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @egencia.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: United States->
+X-Note-Sending-IP: 216.251.112.210
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from domain.com ([216.251.112.210] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 138314477;
+ Thu, 12 May 2015 16:01:28 -0500
+Message-ID: <078edd$1user@domain.com>
+From: Egencia TripController <no-reply@egencia.com>
+To: <user@domain.com>, <user@domain.com>, <user@domain.com>
+Reply-To: <user@domain.com>
+Date: Thu, 12 May 2015 14:01:28 -0700
+Subject: =?iso-8859-15?Q?ACTION=A0REQUIRED:=A0TripController=A0-=A0User=A0User=A0-=A0Anchorage,=A0AK=A0-=A0May=A013,=A02016=A0-=A0Approved?=
+Content-Type: text/html; charset="iso-8859-15"
+Content-Transfer-Encoding: quoted-printable
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Importance: high
+X-Priority: 1
+MIME-Version: 1.0
+
+=09
+=09
+=09
+=09
+=09
+
+
+
+User's trip approval request has been approved by Malber=
+t Smith
+
+=09
+=09
+
+=09
+=09
+=09
+
+=09
+=09
+=09
+
+=09
+
+
+
+=09
+
+
+
+	ACTION REQUIRED:=20
+
+
+
+	Though the travel items are approved, they have not all been booked. You m=
+ust go to the Egencia website to complete booking of these items. Please ch=
+eck your itinerary for additional information.
+
+
+
+=09
+
+
+
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+
+=09
+=09
+=09
+
+
+
+	Book Now
+
+
+
+=09
+=09
+
+=09
+=09
+=09
+=09
+
+
+
+Traveler User (user@domain.com)
+
+Itinerary Anchorage, AK 23766536381
+
+=09
+=09
+
+
+
+=09
+=09
+
+
+
+=09
+=09
+	=
+
+=09
+	Hotel: Historic Anchorage Hotel, Anchorage
+=09
+
+
+
+=09
+
+=09
+	Arranged by   Rachel Palermo
+
+=09
+=09
+=09
+	Price at submission   $541.22
+
+=09
+	Start date   Friday May-13-2016
+
+End date   Sunday May-15-2016
+
+=09
+	Policy   Out of policy
+
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+	Department   Communications (20)
+
+=09
+=09
+=09
+	Booking status  =20
+=09
+
+
+
+=09
+	=09
+=09
+=09
+
+=09
+=09
+
+Not Reserved
+
+
+
+Approval status  =20
+=20
+	Approved
+=09
+
+=09
+=09
+
+
+
+=09
+=09
+
+=09
+
+=09
+
+=20
+=09
+=09
+
+
+
+=09
+=09
+
+
+
+=09
+
+=20
+

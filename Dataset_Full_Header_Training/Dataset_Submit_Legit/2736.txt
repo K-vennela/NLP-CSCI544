@@ -1,0 +1,57 @@
+From: "Variety Breaking News" <donotreply@variety.com>
+To: "User"
+Subject: How Robin Williams Inspired a Generation to Seize the Day
+Date: Tue, 12 Aug 2015 14:30:15 -0400
+Message-ID: <20140812183015.2929789.45266@domain.com>
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQHfVOWVHottr+g67lYZUTYZkz48uQ==
+Content-Language: en-us
+x-ms-exchange-organization-authas: Internal
+x-ms-exchange-organization-authmechanism: 10
+x-ms-exchange-organization-authsource: domain.com
+x-forefront-antispam-report: CIP:192.64.237.167;CTRY:US;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BY2FFO11HUB058;H:mx-washpost-domain.com;FPR:;LANG:en;
+x-microsoft-antispam: BCL:0;PCL:0;RULEID:(120001);UriScan:(133331);
+x-eopattributedmessage: 0
+List-Unsubscribe: <<<link>>>, <mailto:user@domain.com>
+x-domain.com: domain.com
+dkim-signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1407868215;	s=sailthru; d=variety.com;	h=Date:From: "Variety Breaking News" <donotreply@variety.com>
+x-rpcampaign: stcoy2929789
+x-info: user@domain.com
+x-iadb-ip-reverse: 25.215.39.65
+x-iadb-url: <<link>>
+x-tm-id: 20140812183015.2929789.45266
+x-iadb-ip: 65.39.215.25
+x-unsubscribe-web: <<link>>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+It was “Dead Poets Society” that did it. That was the movie that pushed me over the edge from ca...
+
+​
+
+Breaking News
+
+Tuesday, August 12, 2014
+
+​
+
+How Robin Williams Inspired a Generation to Seize the Day
+
+It was “Dead Poets Society” that did it. That was the movie that pushed me over the edge from casual moviegoer to full-blown film...
+
+Full Story
+
+Check out the redesigned Variety411
+
+This email was sent to user@domain.com by Variety. To ensure delivery to your inbox (and not your spam folder), please add user@domain.com to your address book. If you prefer not to continue receiving email communications, please unsubscribe here instead of replying to this email.
+
+To update your profile and customize what email alerts and newsletters you receive, please click here.
+
+Having trouble reading this email? View the web version here.
+
+Copyright © 2014 Variety Media, LLC, a subsidiary of Penske Business Media.
+1​1​1​7​5 Santa Monica Blvd. Los Angeles, CA 9​0​0​2​5
+
+Variety and the Flying V logos are trademarks of Variety Media, LLC., used under license.
+

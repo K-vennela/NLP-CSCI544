@@ -1,0 +1,158 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Mon, 9 May
+ 2015 11:56:40 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Mon, 9 May 2015 
+ 11:56:38 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 904426085
+ for user@domain.com; Mon, 09 May 2015 10:56:44 -0500
+X-Note-AR-ScanTimeLocal: 5/9/2016 10:56:38 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:170.20.0.120 DOM:domain.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note: ICH-CT/SI:0-2337/SG:3 5/9/2016 10:56:03 AM
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-360/SG:12 5/9/2016 10:56:03 AM
+X-GBUdb-Analysis: 0, 170.20.0.120, Ugly c=0.519059 p=-0.818182 Source Normal
+X-Signature-Violations: 0-0-0-32767-c
+X-Note-419: 31.2503 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/9/2016 10:56:24 AM
+X-Warn: SHORTURL Failed URIBINARY Code: Yml0Lmx5
+X-Note: Spam Tests Failed: SHORTURL
+X-Country-Path: UNKNOWN->PRIVATE->United States->
+X-Note-Sending-IP: 170.20.0.120
+X-Note-Reverse-DNS: mail-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G387 G407 G419 G583 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from mail-domain.com ([170.20.0.120] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 137356328
+ for user@domain.com; Mon, 09 May 2015 10:56:38 -0500
+Received: from unknown (HELO domain.com) ([10.149.32.81])
+  by domain.com with ESMTP; 09 May 2015 11:56:34 -0400
+Received: from domain.com ([169.254.11.123]) by
+ domain.com ([10.149.32.81]) with mapi id 14.03.0248.002;
+ Mon, 9 May 2015 11:56:30 -0400
+From: CBS Communications Group Releases
+	<user@domain.com>
+Subject: JENNIFER GODDARD NAMED EDITOR IN CHIEF, CBS WATCH! MAGAZINE
+Thread-Topic: JENNIFER GODDARD NAMED EDITOR IN CHIEF, CBS WATCH! MAGAZINE
+Thread-Index: AdGqC1ZnjuGOfPppTmOSoG681t2xvA==
+Date: Mon, 9 May 2015 15:56:28 +0000
+Message-ID: <7user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+x-originating-ip: [10.149.32.69]
+Content-Type: multipart/related;
+	boundary="_006_7A2384A66442DA4A8F78121C0B5745940EECD5F2ED1PWISTMSXMB02_";
+	type="multipart/alternative"
+To: Undisclosed recipients:;
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+[CBS Corp logo gold][watch_logo_red]
+<<link>>
+
+JENNIFER GODDARD NAMED EDITOR IN CHIEF, CBS WATCH! MAGAZINE
+
+[108269_D0042b_embed]
+
+NEW YORK, N.Y. =96 May 9, 2015 =96 Jennifer Goddard has been named Editor i=
+n Chief of Watch!, the official magazine of CBS, it was announced today by =
+Gil Schwartz, Senior Executive Vice President and Chief Communications Offi=
+cer of CBS Corporation. She will work in partnership with Watch! publisher =
+Michael Rizzi and report to Schwartz, as well as to Dana McClintock, Execut=
+ive Vice President of Communications, CBS Corporation.
+
+=93I couldn=92t be more pleased to name Jennifer to this important role,=94=
+ said Schwartz. =93Over the years, she has been an integral player as Watch=
+! has grown from a simple concept to a profitable and compelling expression=
+ of the CBS brand. I look forward to the contributions she will make as we =
+move the magazine to the next level.=94
+
+=93I congratulate Jennifer on her new leadership role at Watch! magazine,=
+=94 said Rizzi. =93I have worked with Jennifer for the past 10 years =96 ri=
+ght from the onset of our very first few issues =96 and I am now looking fo=
+rward to working alongside her as we continually advance this incredible CB=
+S property within the print and digital universe. Jennifer=92s new role wil=
+l give us the unique opportunity to align our editorial and sales departmen=
+ts, which will afford incredible new opportunities for our advertisers to c=
+onnect with our dedicated audience. Her hard work and determination have an=
+d will continue to help us achieve success during the days, months and year=
+s ahead.=94
+
+Now celebrating its 10-year anniversary, Watch! is the official magazine of=
+ CBS and offers a rare, glamorous window into the lives of television=92s b=
+iggest stars. With sumptuous photography, exotic settings, first class domain.com=
+orial and top tier talents, Watch! has steadily become one of the industry=
+=92s most elegant, sophisticated publications, effortlessly blending the wo=
+rlds of celebrity, culture, fashion, travel and beauty in a magazine that r=
+eaches one million readers across the country. In addition, the magazine=92=
+s digital properties present readers with pathways to enhance their experie=
+nce with the publication. Timely, behind-the-scenes interviews and photo ga=
+lleries bring the reader closer to their favorite characters and their favo=
+rite shows. The digital version of Watch! can be found at domain.com/shows=
+/watch_magazine/<<<link>>> as well as on a =
+variety of platforms, including Apple News; the bi-monthly magazine is sold=
+ on newsstands at Barnes & Noble, Hudson News, Target and Walmart.
+
+In her new role, Goddard replaces Jeremy Murphy, who has left the company. =
+Goddard was part of the original team who helped launch Watch! 10 years ago=
+, serving first as a writer and later as deputy editor of news and entertai=
+nment. She most recently led the magazine=92s day-to-day operations as its =
+Managing Editor, a position she has held since 2008.
+
+Prior to that, Goddard worked in non-domain.com organizations focused on youth =
+development, public service and anti-poverty initiatives. She served as a c=
+urriculum designer for Bank Street College=92s partnership with the Corpora=
+tion for National and Community Service to develop and deliver training to =
+AmeriCorps VISTA supervisors. Before that, Goddard was a consultant at Girl=
+ Scouts of the USA and created curriculum design for national grant-funded =
+projects in financial literacy, self-esteem and advocacy for girls ages 4-1=
+7. She has done grant writing work for Children of Promise, a non-domain.com or=
+ganization in Brooklyn that provides critical after-school programs for chi=
+ldren whose parents are incarcerated. She also served as a consultant to th=
+e New York City Department of Education=92s Talent Office, helping to launc=
+h initiatives like the Teacher Data domain.com.
+
+Goddard earned her Master=92s degree in English from Florida Atlantic Unive=
+rsity. She lives in Brooklyn, NY, with her husband and son.
+
+About CBS Corporation:
+CBS Corporation (NYSE: CBS.A and CBS) is a mass media company that creates =
+and distributes industry-leading content across a variety of platforms to a=
+udiences around the world. The Company has businesses with origins that dat=
+e back to the dawn of the broadcasting age as well as new ventures that ope=
+rate on the leading edge of media. CBS owns the most-watched television net=
+work in the U.S. and one of the world=92s largest libraries of entertainmen=
+t content, making its brand =97=94the Eye=94 =97 one of the most recognized=
+ in business. The Company=92s operations span virtually every field of medi=
+a and entertainment, including cable, publishing, radio, local TV, film, an=
+d interactive and socially responsible media. CBS=92s businesses include CB=
+S Television Network, The CW (a joint venture between CBS Corporation and W=
+arner Bros. Entertainment), CBS Television Studios, CBS Global Distribution=
+ Group (CBS Studios International and CBS Television Distribution), CBS Con=
+sumer Products, CBS Home Entertainment, CBS Interactive, CBS Films, Showtim=
+e Networks, CBS Sports Network, Pop (a joint venture between CBS Corporatio=
+n and Lionsgate), Smithsonian Networks, Simon & Schuster, CBS Television St=
+ations, CBS Radio and CBS EcoMedia. For more information, go to www.cbscorp=
+domain.com<<<link>>>.
+
+* * *
+
+Press Contact:
+Kate Fisher        212-975-3818      user@domain.com<mailto:user@domain.com=
+om>

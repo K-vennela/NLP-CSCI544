@@ -1,0 +1,30 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Thu, 12 Jun 2015 10:14:00 +0200
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id C7A11621B9	for
+ <user@domain.com>; Thu, 12 Jun 2015 09:01:53 +0100 (BST)
+Received: by domain.com (Postfix)	id C4210B6603C; Thu, 12 Jun 2015 
+ 10:14:00 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com
+ [192.168.200.205])	by domain.com (Postfix) with ESMTP id B5449B6600D
+	for <user@domain.com>; Thu, 12 Jun 2015 10:14:00 +0200 (CEST)
+Date: Thu, 12 Jun 2015 10:14:00 +0200
+From: "Daniele Milan (Confluence)" <confluence@hackingteam.com>
+To: <user@domain.com>
+Message-ID: <1996881267.63.1402560840737.JavaMail.CONFLUENCE$@confluence>
+Subject: [confluence] Daniele Milan updated a event in the "In Office
+ Actitities (Training - Delivery - Ecc)" calendar
+Precedence: bulk
+Auto-Submitted: auto-generated
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2135562172_-_-"
+
+  Daniele Milan updated a event in the In Office Actitities (Training - Delivery - Ecc) calendar Jun 17, 2014 Until Jun 18, 2014   Vietnam MOPS, domain.com to HQYou are receiving this notification because you are watching the following:   In Office Actitities (Training - Delivery - Ecc)   Sent by Atlassian Confluence 5.4.4, the Enterprise Wiki 

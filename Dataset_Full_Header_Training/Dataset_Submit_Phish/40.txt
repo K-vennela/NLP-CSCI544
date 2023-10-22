@@ -1,0 +1,43 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 5CB7423CA8A
+	for <user@domain.com>; Fri, 23 Sep 2015 09:25:00 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id WFNMDZ8xoAZm for <user@domain.com>;
+	Fri, 23 Sep 2015 09:24:57 -0500 (CDT)
+Received: from domain.com (domain.com [129.7.234.210])
+	by domain.com (Postfix) with ESMTP id DE51223CAEB
+	for <user@domain.com>; Fri, 23 Sep 2015 09:24:57 -0500 (CDT)
+Received: from domain.com (domain.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 99CB055E1E01
+	for <user@domain.com>; Fri, 23 Sep 2015 09:24:56 -0500 (CDT)
+Received: from smtp8.myvirtualmerchantelavon.com (unknown [69.161.223.222])
+	by domain.com (Postfix) with SMTP id 3A83355E1DF8
+	for <user@domain.com>; Fri, 23 Sep 2015 09:24:56 -0500 (CDT)
+MIME-Version: 1.0
+Content-Transfer-Encoding: binary
+Content-Type: multipart/mixed; boundary="_----------=_1316787887245391010"
+DomainKey-Signature: a=rsa-sha1; h=From: elavonIDmerchant39782@myvirtualmerchantelavon.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=myvirtualmerchantelavon.com; h=mime-version:content-transfer-encoding:content-type:date:From: elavonIDmerchant39782@myvirtualmerchantelavon.com
+X-MimeOLE: Produced By Microsoft Exchange V6.5
+Date: Fri, 23 Sep 2015 10:24:47 -0400
+From: elavonIDmerchant39782@myvirtualmerchantelavon.com
+To: user@domain.com
+Subject: Customer Notification - Elavon Merchants
+Message-Id: <20110923142456.3user@domain.com>
+X-PMX-Version: 5.5.9.395186, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2011.9.23.141514
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 11
+
+Dear Elavon Virtual Merchant customer,
+
+Your online account password is expired, to prevent losing access to your account,
+please download your attachment and login to update your password. Thank you.
+
+$elavonIDmerchant: FESC81314YQMDZTZSG0FQZJ0UZ7JZKXGD685EZ38VSKHEEFXTHU7NE0KE4ES3KD35XR63FDTZHAYNYA2NBFXJPCQYUHGBVKNJMAY0VZKYL3ED4A13Q

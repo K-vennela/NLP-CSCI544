@@ -1,0 +1,44 @@
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ dnchubcas2.dnc.org ([::1]) with mapi id 14.03.0224.002; Tue, 17 May 2015 
+ 14:11:33 -0400
+From: "Cox, Clayton" <CoxC@dnc.org>
+To: "User" <user@domain.com>
+CC: "Marquez, Karina" <user@domain.com>
+Subject: Thursday Simas Briefings
+Thread-Topic: Thursday Simas Briefings
+Thread-Index: AdGwZ4lcHWlz0rglQ9aIRmcDtGXUYQ==
+Date: Tue, 17 May 2015 11:11:33 -0700
+Message-ID: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: dnchubcas2.dnc.org
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+Content-Type: multipart/mixed;
+	boundary="_009_E8340FA46589874A8DC284BB5E13C938FE885F68dncdag1dncorg_"
+MIME-Version: 1.0
+
+Attached are the briefings for Thursday. Friday's breakfast briefing is still in the works as I am waiting on Conrad (my POC) to send over his list of attendees.
+
+Schedule for Thursday:
+
+11am: Jim Crown
+12pm: Lunch with JB Pritzker
+2pm: Chuck Smith
+4pm: Michael Sacks
+4:45pm: Drinks with Fred Eychaner
+6:30pm: Dinner with Sue, Grace, David Cohen, the Moogs and the Leets
+
+--
+Clayton Cox
+Regional Finance Director
+Florida, Georgia & Midwest
+Organization
+user@domain.com<mailto:user@domain.com>
+Office: (202) 572-5453
+Cell: (678) 595-4557
+Contribute today: <<link>>
+

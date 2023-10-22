@@ -1,0 +1,183 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Sat, 21 May
+ 2015 18:06:06 -0400
+Received: from server555.appriver.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Sat, 21 May 2015 
+ 18:05:54 -0400
+Received: from [10.87.0.110] (HELO inbound.appriver.com)  by
+ server555.appriver.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 928132964
+ for user@domain.com; Sat, 21 May 2015 17:05:44 -0500
+X-Note-AR-ScanTimeLocal: 5/21/2016 5:05:54 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: 72.3.212.195 ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->United States->
+X-Note-Sending-IP: 72.3.212.195
+X-Note-Reverse-DNS: outbound.appriver.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G8 G276 G277 G278 G279 G283 G284 G294 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDIP
+X-Note: Headers Injected
+Received: from [72.3.212.195] (HELO outbound.appriver.com)  by
+ inbound.appriver.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 143261265
+ for user@domain.com; Sat, 21 May 2015 17:05:54 -0500
+Received: from [10.242.231.127] (HELO server551sql)  by outbound.appriver.com
+ (CommuniGate Pro SMTP 6.1.2)  with ESMTP id 34533833 for user@domain.com;
+ Sat, 21 May 2015 17:05:44 -0500
+From: AppRiver SpamLab <notice@appriver.com>
+To: <user@domain.com>
+Date: Sat, 21 May 2015 17:05:44 -0500
+Subject: Held Spam Report for 5/20/2016
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+Message-ID: <user@domain.com>
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+															Daily Held Spam Report
+
+
+
+user@domain.com
+
+Friday, May 20, =
+2016
+
+View, Search, Sort Report |
+										Request Current Report |
+										Change Report Settings
+
+Spam: 1
+
+																																	=09
+
+
+
+View |
+											Release
+
+user@domain.com
+
+I burn with passion
+
+												10:18p from Islamic Republic Of Iran (1.57 KB)
+
+
+
+Virus: 8
+
+																													=09
+
+
+
+user@domain.com
+
+May Sale Invoices from X5 RETAIL GROUP N.V
+
+											2:55p from Italy (200.67 KB)
+
+
+
+																						=09
+
+
+
+user@domain.com
+
+Private
+
+											1:45p from Philippines (31.95 KB)
+
+
+
+																						=09
+
+
+
+user@domain.com=
+
+Re:
+
+											1:16p from Italy (3.32 KB)
+
+
+
+																						=09
+
+
+
+user@domain.com=
+com
+
+FW:
+
+											9:40a from Viet Nam (29.89 KB)
+
+
+
+																						=09
+
+
+
+user@domain.com
+
+Re:
+
+											8:05a from Israel (3.16 KB)
+
+
+
+																						=09
+
+
+
+Joaqu??user@domain.com
+
+NuevoDocumento 0
+
+											8:01a from India (6.8 KB)
+
+
+
+																						=09
+
+
+
+user@domain.com
+Re:
+
+											7:16a from India (3.19 KB)
+
+
+
+																						=09
+
+
+
+user@domain.com
+
+Re:
+
+											6:14a from Italy (3.16 KB)
+
+
+
+Outbound: 0
+
+Copyright ©2003-2016=20
+															AppRiver, All Rights Reserved
+
+
+
+Unsubscribe
+

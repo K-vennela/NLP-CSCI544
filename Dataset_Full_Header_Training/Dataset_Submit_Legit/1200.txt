@@ -1,0 +1,123 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Sat, 21 May
+ 2015 02:32:40 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Sat, 21 May 2015 
+ 02:32:33 -0400
+Received: from [10.87.0.110] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 927613030
+ for user@domain.com; Sat, 21 May 2015 01:32:49 -0500
+X-Note-AR-ScanTimeLocal: 5/21/2016 1:32:38 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:198.2.131.28 DOM:domain.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 100
+X-GBUdb-Analysis: 0, 198.2.131.28, Ugly c=0 p=1 Source Caution
+X-Signature-Violations: 100-5953858-1805-1835-m
+	100-5946975-1918-1937-m
+	100-5945064-3767-3797-m
+	100-5953858-0-28263-f
+X-Note-419: 15.6196 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/21/2016 1:32:29 AM
+X-Warn: BOUNCETRACKER Bounce User Tracking Found
+X-Warn: OPTOUT
+X-Warn: BULKMAILER
+X-Note: Spam Tests Failed: BOUNCETRACKER, OPTOUT, BULKMAILER
+X-Country-Path: LOCAL->United States->
+X-Note-Sending-IP: 198.2.131.28
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G281 G286 G340 G374 G376 G580 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from [198.2.131.28] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 143188476
+ for user@domain.com; Sat, 21 May 2015 01:32:38 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=domain.com;
+ h=Subject:From: =?utf-8?Q?Britney=20Whaley?= <info@votemichaelblake.com>
+ bh=wmJCFpSB8EeWftWw+CT7nlxK8FE=;
+ b=V70avzcz10sPB5GhtQDdoMel4Ya9IY8vkrhDOHx9kThvUAdbaF26Q2HT0UKN0HK5M5dqQbjl8RvL
+   FAing6DI7P4Hqe7jBgCaNPBybAwbDiK20mj3BfGMMOLggYB4SdNg8CUI0Z2/H2x3DCZ44dMCjQAj
+   utp61et8ujBz1TSxVNU=
+Received: from (127.0.0.1) by domain.com id h800gc1ohlg8 for
+ <user@domain.com>; Sat, 21 May 2015 06:32:37 +0000 (envelope-from
+ <user@domain.com>)
+Subject: =?utf-8?Q?Public=20Schedule=20for=20Assemblymember=20Michael=20A.=20Blake=20=28May=2021=2C=202016=29?=
+From: =?utf-8?Q?Britney=20Whaley?= <info@votemichaelblake.com>
+Reply-To: =?utf-8?Q?Britney=20Whaley?= <user@domain.com>
+To: <user@domain.com>
+Date: Sat, 21 May 2015 06:32:37 +0000
+Message-ID: <455user@domain.com>
+X-Mailer: MailChimp Mailer - **CID4ac4d186bde8f323209a**
+X-Campaign: mailchimp455bc6c87b952f7efebdc076e.4ac4d186bd
+X-campaignid: mailchimp455bc6c87b952f7efebdc076e.4ac4d186bd
+X-Report-Abuse: Please report abuse for this campaign here: <<link>>
+X-MC-User: 455bc6c87b952f7efebdc076e
+X-Feedback-ID: 28646391:28646391.1002829:us8:mc
+List-ID: 455bc6c87b952f7efebdc076emc list <455bc6c87b952f7efebdc076e.462561.list-domain.com>
+X-Accounttype: pd
+List-Unsubscribe: <mailto:user@domain.com?subject=unsubscribe>, <<<link>>>
+Sender: Britney Whaley <user@domain.com>
+x-mcda: FALSE
+Content-Type: multipart/alternative;
+	boundary="_----------=_MCPart_1555859604"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Contact:
+Britney Whaley
+user@domain.com
+702-318-1490
+
+Public Schedule for Assemblymember Michael A. Blake
+
+Schedule for May 21st
+
+10:30AM
+
+Speak at New York State Young Democrats Convention
+Mercy College - The Bronx Campus=2C 1200 Waters Place=2C Bronx=2C NY
+
+11:30AM
+
+Speak at the New York City Baby Shower hosted by The New York City Childre=
+n's domain.com=2C Deputy Mayor Richard Buery and Deputy Mayor Herminia Palaci=
+o
+Children's Aid Society=2C 1522 Southern Boulevard=2C Bronx=2C NY
+
+12:30PM
+
+Speak at The Breakout Bronx Event
+The Bronx Courthouse 265 E 161st Street=2C Bronx=2C NY
+
+3:00PM
+
+Attend Bronx Deliverance Center of Faith
+1314 Southern Boulevard=2C Bronx=2C NY
+
+** Facebook (<<link>>)
+** Facebook (<<link>>)
+** Twitter (<<link>>)
+** Twitter (<<link>>)
+** Website (<<link>>)
+** Website (<<link>>)
+Copyright =C2=A9 2015 Assemblymember Michael Blake=2C All rights reserved.
+
+Our mailing address is:
+user@domain.com
+
+** unsubscribe from this list (<<link>>
+m/unsubscribe?u=3D455bc6c87b952f7efebdc076e&id=3Dd1878491a9&e=3De8f323209a&c=
+=3D4ac4d186bd)
+** update subscription preferences (<<link>>
+e.com/profile?u=3D455bc6c87b952f7efebdc076e&id=3Dd1878491a9&e=3De8f323209a)

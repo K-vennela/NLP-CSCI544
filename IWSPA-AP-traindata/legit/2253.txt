@@ -1,0 +1,33 @@
+<x-flowed>
+Hi Stefan,
+our (Keith and mine) understanding of this issue is that Burger et 
+al. (2006, Tellus, already published and therefore citable) already 
+point out the von Storch et al. (2004) mistake in implementing the 
+Mann et al. (1998) method.  But we haven't stated this (or cited the 
+Science in press comment) because Burger et al. also demonstrate that 
+when they implement the method without the detrending step (i.e., 
+following the Mann et al. approach more accurately than von Storch et 
+al. did) then the bias is still there, though of smaller magnitude 
+than von Storch et al. (2004) suggested.  Given that we already say 
+that the extent of any bias is uncertain, it does not seem necessary 
+to go into the details any further by discussing the implementation 
+by von Storch et al. of the Mann et al. method.
+Finally, I think (though here it is less clear from their paper and I 
+am relying on my recollection of talking to Gerd Burger) that Burger 
+et al. also show that the amount of noise von Storch et al. added to 
+create the pseudo-proxies yields a pseudo-reconstruction that has 
+much better verification skill than obtained by Mann et al. (1998) 
+for their real reconstruction.  If they increase the noise added 
+(deteriorating the "skill" of the pseudo-proxies) until they get 
+similar verification statistics as Mann et al. report, then the size 
+of the bias gets bigger.  In fact, the bias they obtain with the 
+higher noise but "correct" no-detrending method is actually very 
+similar to the bias von Storch et al. reported with lower noise but 
+incorrect detrending method!  So where does that leave us?  I don't 
+think there's room to put all this in.  Of course the magnitude of 
+the bias cannot be determined from any pseudo-proxy simulation 
+anyway, and will be different for different models.
+We'd be interested to know if your (or others on the cc list) 
+interpretation of Burger et al. (2006) is significantly different to this.
+Cheers
+Tim

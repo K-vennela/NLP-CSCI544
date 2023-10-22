@@ -1,0 +1,248 @@
+Dear Phil,
+Thanks for your response. I agree that I think these folks just don't quite
+seem to get it! Anyways, I've pasted in the text of Broecker's piece below
+(everything there but the figure. Trust me, the figure isn't worth looking
+at anyways). Will be very interested to hear your thoughts after reading
+this...
+mike
+PALEOCLIMATE:
+Was the Medieval Warm Period Global?
+Wallace S. Broecker*
+The reconstruction of global temperatures during the last millennium can
+provide important clues for how
+climate may change in the future. A recent, widely cited reconstruction
+(1) leaves the impression that the
+20th century warming was unique during the last millennium. It shows no
+hint of the Medieval Warm
+Period (from around 800 to 1200 A.D.) during which the Vikings colonized
+Greenland (2), suggesting
+that this warm event was regional rather than global. It also remains
+unclear why just at the dawn of the
+Industrial Revolution and before the emission of substantial amounts of
+anthropogenic greenhouse gases,
+Earth's temperature began to rise steeply.
+Was it a coincidence? I do not think so. Rather, I suspect that the
+post-1860 natural warming was the
+most recent in a series of similar warmings spaced at roughly 1500-year
+intervals throughout the present
+interglacial, the Holocene. Bond et al. have argued, on the basis of the
+ratio of iron-stained to clean
+grains in ice-rafted debris in North Atlantic sediments, that climatic
+conditions have oscillated steadily
+over the past 100,000 years (3), with an average period close to 1500
+years. They also find evidence for
+the Little Ice Age (from about 1350 to 1860) (3). I agree with the authors
+that the swing from the
+Medieval Warm Period to the Little Ice Age was the penultimate of these
+oscillations and will try to
+make the case that the Medieval Warm Period was global rather than regional.
+One difficulty encountered when trying to reconstruct Holocene temperature
+fluctuations is that they were probably less than 1C. In my
+estimation, at least for time scales greater than a century or two, only
+two proxies can yield temperatures that are accurate to 0.5C: the
+reconstruction of temperatures from the elevation of mountain snowlines
+and borehole thermometry. Tree ring records are useful for measuring
+temperature fluctuations over short time periods but cannot pick up
+long-term trends because there is no way to establish the long-term
+evolution in ring thickness were temperatures to have remained constant.
+Corals also are not accurate enough, especially because few records
+extend back a thousand years. The accuracy of the temperature estimates
+based on floral or faunal remains from lake and bog sediments is
+likely no better than 1.3C (4) and hence not sufficiently sensitive for
+Holocene thermometry.
+The Mountain Glaciation Record
+At the Last Glacial Maximum, mountain snowlines throughout the world were
+on average about 900 m lower than today (5). On the basis of
+today's rates of temperature change with elevation, this required an air
+temperature cooling at the elevation of the glacier of about 5C (and a
+corresponding tropical sea surface temperature cooling of about 3C).
+During the Younger Dryas--a cold "spell" of about 1200 years during the
+last deglaciation--snowlines in the Swiss and New Zealand Alps dropped to
+about 300 m below the lowest levels reached in the subsequent
+Holocene.
+Since their 1860 maximum at the end of the Little Ice Age, the retreat of
+Swiss glaciers represents a rise in snowline of about 90 m (6). If this
+rise could be attributed entirely to air temperature, the required warming
+would be between 0.5 and 0.6C. However, simple considerations
+suggest that precipitation changes result in a negative feedback of about
+20% (7). The warming required to account for the post-1860 retreat of
+Alpine snowlines would then be between 0.6 and 0.7C.
+The post-1860 glacier retreat is not confined to Switzerland. With the
+exception of Antarctica, it has been well documented everywhere on
+Earth where ice-covered mountains are present (2). There is no doubt that
+the Little Ice Age was global in extent and that the post-1860
+warming was also global. In this regard, the Mann et al. (1)
+reconstruction is consistent with the mountain snowline record.
+The Medieval Warm Period has also left its traces in the Swiss Alps.
+Holzhauser has reconstructed the history of a larchwood aqueduct
+constructed by medieval farmers (8). It ran from a small mountain lake
+along the valley occupied by the Grosser Aletsch Glacier, supplying
+water to an Alpine village. The aqueduct was first constructed around 1200
+A.D. (toward the end of the Medieval Warm Period). It was
+partially destroyed when the glacier advanced in 1240 A.D. and had to be
+totally rerouted after a further advance in 1370 A.D.
+Swiss geologists and geomorphologists agree that the large moraines
+marking the maximum glacier extent during the Little Ice Age are a
+composite of debris left behind by a series of Holocene advances (9). For
+example, soils separating individual advance episodes have been
+found within the moraines. Precise dating has proven difficult, however,
+and the chronology of these prior advances remains uncertain.
+Two recent studies of Holocene climate cycles in the Swiss Alps have
+greatly improved this situation. Both focus on establishing the times of
+glacial retreats rather than advances. Holzhauser (8), on the basis of
+radiocarbon dating of larchwood stumps exposed by the ongoing retreat of
+the Grosser Aletsch Glacier, finds warm episodes 2400  300 and 1500  200
+calendar years ago. Hormes and Schlchter (10-12) have dated
+wood and peat fragments that are being disgorged from beneath a number of
+Swiss glaciers. Radiocarbon dates of a large number of these
+samples cluster in three major groups centered at 8700, 6600, and 4300
+calendar years before present. The correlation between these Alpine
+warm phases and the warm phases of Bond's North Atlantic ice-rafting
+record, although imperfect, is encouraging (see the figure).
+Climatic oscillations during the Holocene. Circles show the ratios of
+iron-stained to total grains (for grains with diameters >63 mm) in a
+North Atlantic core (3). The chronology is taken from (22). The green
+(10-12) and yellow (8) boxes are based on radiocarbon dating on wood
+and peat formed when the glaciers had retreated to positions similar to or
+up-valley from those at present (see text). 
+CREDIT: FIGURE PREPARED BY AUTHOR FOR THIS PUBLICATION
+Borehole Thermometry
+Geothermal heat is produced deep inside Earth, and the shape of the
+vertical temperature profile measured in a borehole from any point on
+Earth's surface thus reflects the depth dependence of the thermal
+conductivity of the crustal material. The temperature at the surface does not
+remain constant, however, and the thermal profiles therefore have kinks
+that reflect past air temperature fluctuations. Mathematical
+deconvolutions are used to reconstruct these fluctuations from the
+temperature profile, but because of smoothing due to diffusive spreading of
+past thermal anomalies, many different time histories fit the observed
+downhole temperature record. The modeler selects from these
+possibilities the temperature history with the least complicated shape.
+The details are thus lost, and only the broad features of the time history
+are captured.
+Deconvolutions of thermal records from holes drilled through the polar ice
+caps reveal broad maxima that reflect the colder temperatures during
+glacial times. In Greenland boreholes, this broad glacial feature is
+preceded by a narrower one, which requires a temperature oscillation to have
+occurred in the late Holocene. The timing of this swing broadly matches
+that of the Medieval Warm Period to Little Ice Age oscillation. Its
+magnitude is about 2C (13). The borehole temperature record for Greenland
+thus appears to reflect the climate changes thought to have led to
+the establishment and eventual abandonment of the Viking colonies in
+southern Greenland (2). It is also consistent with records in the Swiss
+Alps.
+Far Field Evidence
+Evidence for the Medieval Warm Period from other parts of the world exists
+but is spotty and/or circumstantial. From an analysis of 6000
+continental borehole thermal records from around the world (14), Huang et
+al. conclude that 500 to 1000 years ago, temperatures were warmer
+than today, but that about 200 years ago, they cooled to a minimum some
+0.2 to 0.7C below present. However, as is the case for the thermal
+profiles in ice, those for continental boreholes are highly smoothed.
+Although suggestive, the fluctuation postulated by Huang et al. does not
+prove that the Medieval Warm Period was global in extent.
+Evidence that climate during the latter part of the Medieval Warm Period
+was much different from today's comes from moisture records for
+the western United States. Stine has studied lodgepole pine trees rooted
+at 8 to 19 m depth in Lake Tenaya in the high Sierra Nevada (15). For
+the trees to have grown, the lake must have been nearly dry. In contrast,
+only once during the past 50 years has the lake not overflown during
+snowmelt. Using radiocarbon dating and ring counting, Stine has shown that
+for 70 years before 1093 A.D., the lake stood at least 13 m below
+its outflow spillway, and for 141 years before 1333 A.D., it stood at
+least 11 m below its spillway (16). Stine has documented similar events at
+Mono Lake and the Walker River (17). He concludes that late in the
+Medieval Warm Period, California experienced several decade-long
+periods of profound drought.
+If, as Bond et al. (3) suggest, the cyclic changes in ice-rafted debris
+composition reflect oscillations in the strength of the Atlantic's conveyor
+circulation, one might expect temperature changes in Antarctica to have
+been opposite in phase to those in the North Atlantic, as was the case
+during the last deglaciation (18). Clow has carried out a deconvolution of
+the temperature record at the Antarctic Taylor Dome site (19). His
+reconstruction shows that the air temperature was 3C colder during the
+time of the Medieval Warm Period than during that of the Little Ice
+Age. This record suggests that conditions in Antarctica underwent an
+antiphased oscillation during the Medieval Warm Period-Little Ice Age
+period.
+The Case for a Global Event
+The case for a global Medieval Warm Period admittedly remains
+inconclusive. But keeping in mind that most proxies do not have adequate
+sensitivity, it is interesting that those capable of resolving temperature
+changes of less than 1C yield results consistent with a global Medieval
+Warm Period. To test whether this is indeed the case, we require Holocene
+snowline fluctuation records for tropical and Southern Hemisphere
+sites and continued studies of wood and peat exposed by the continuing
+retreat of Northern Hemisphere glaciers. As the world's mountain
+glaciers continue to retreat, ever more evidence for past Holocene warm
+episodes will be exposed.
+One might ask why the strength of the Atlantic's conveyor circulation
+oscillates on a time scale of one cycle per 1000 to 2000 years. I suspect
+that it has to do with the export through the atmosphere of water vapor
+from the Atlantic to the Pacific Ocean. The magnitude of this export
+has been estimated to be (0.25  0.10) x 106 m3/s (20). If this freshwater
+loss were not balanced by the export of salt from the Atlantic, the
+latter's salt content would rise at the rate of about one gram per liter
+each 1500 years. Such an increase in salt content would densify cold
+surface water by an amount equivalent to a 4 to 5 K cooling, thereby
+strongly altering the buoyancy of surface waters in the North Atlantic and
+hence their ability to sink to the abyss.
+I believe that this salt export is not continuous but episodic. The salt
+content of the Atlantic periodically builds up until a strong conveyor
+circulation mode is turned on, causing the salt content to drain down.
+Eventually, a weak circulation mode kicks in, allowing the salt content to
+build up again. I have suggested previously (21) that an apparent mismatch
+between radiocarbon and chlorofluorocarbon-based estimates of the
+rate of deep-water formation in the Southern Ocean may reflect a change in
+circulation after the Little Ice Age.
+The geographic pattern of Holocene climate fluctuations remains murky, but
+several things are clear. The Little Ice Age and the subsequent
+warming were global in extent. Several Holocene fluctuations in snowline,
+comparable in magnitude to that of the post-Little Ice Age warming,
+occurred in the Swiss Alps. Borehole records both in polar ice and in
+wells from all continents suggest the existence of a Medieval Warm
+Period. Finally, two multidecade-duration droughts plagued the western
+United States during the latter part of the Medieval Warm Period. I
+consider this evidence sufficiently convincing to merit an intensification
+of studies aimed at elucidating Holocene climate fluctuations, upon
+which the warming due to greenhouse gases is superimposed.
+References and Notes
+1.M. E. Mann, R. S. Bradley, M. K. Hughes, Geophys. Res. Lett. 26, 759
+(1999) [ADS]. 
+2.J. M. Grove, The Little Ice Age (Methuen, New York, 1988), pp. 1-198. 
+3.G. C. Bond et al., Mechanisms of Global Climate Change at Millennial
+Time Scales, Geophysical Monograph Series, vol. 112
+(American Geophysical Union, Washington, DC, 1999), pp. 35-58
+[publisher's information]. 
+4.A. Lotter et al., Palaeogeogr. Palaeoclimatol. Palaeoecol. 159, 349
+(2000) [GEOREF]. 
+5.S. C. Porter, Quat. Sci. Rev., in press. 
+6.M. Maisch et al., Die Gletscher der Schweizer Alpen (Hochschulverlag
+AG an der ETH Zrich, Zrich, 1999), pp. 221-256. 
+7.M. Greene, W. S. Broecker, D. Rind, Geophys. Res. Lett. 26, 1909
+(1999) [ADS]. 
+8.H. Holzhauser, in Paloklimaforschung Palaeoclimate Research 24,
+Special Issue: ESF Project "European Palaeoclimate and Man
+16," B. Frenzel et al., Eds. (Verlag, Stuttgart, 1997), pp. 35-58. 
+9.F. Rothlisberger et al., Geogr. Helv. 35/5, 21 (1980). 
+10.A. Hormes, The 14C Perspective of Glacier Recessions in the Swiss
+Alps and New Zealand (Verlag, Osnabrck, Germany, 2001),
+p. 176. 
+11.A. Hormes, C. Schlchter, T. F. Stocker, Radicarbon 40, 809 (1998). 
+12.A. Hormes, B. U. Mller, C. Schlchter, Holocene, in press. 
+13.E. J. Steig et al., Science 282, 92 (1998). 
+14.S. Huang, H. N. Pollack, P. O. Snen, Geophys. Res. Lett. 24, 1947
+(1997) [ADS]. 
+15.S. Stine, in Water, Environment and Society in Times of Climatic
+Change, A. S. Issar, N. Brown, Eds. (Kluwer Academic,
+Amsterdam, Netherlands, 1998), pp. 43-67 [publisher's information]. 
+16.The level that would have existed had there been an annual
+snowmelt-induced overflow. 
+17.S. Stine, Nature 369, 546 (1994) [GEOREF]. 
+18.W. S. Broecker, Paleoceanography 13, 119 (1998) [ADS]. 
+19.G. Clow, personal communication. 
+20.F. Zaucker, W. S. Broecker, J. Geophys. Res. 97, 2765 (1992) [ADS]. 
+21.W. S. Broecker, S. Sutherland, T.-H. Peng, Science 286, 1132 (1999). 
+22.M. Stuiver et al., Radiocarbon 40, 1041 (1998). 
+The author is at Lamont-Doherty Earth Observatory, Columbia University,
+Palisades, NY 10964, USA. E-mail: user@domain.com

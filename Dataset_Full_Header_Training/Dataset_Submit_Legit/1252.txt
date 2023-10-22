@@ -1,0 +1,47 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Thu, 19 Mar 2015 17:04:00 +0100
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id 8DA57628C7	for
+ <user@domain.com>; Thu, 19 Mar 2015 15:41:58 +0000 (GMT)
+Received: by domain.com (Postfix)	id 9E2842BC22E; Thu, 19 Mar 2015 
+ 17:03:59 +0100 (CET)
+Delivered-To: user@domain.com
+Received: from [192.168.1.180] (unknown [192.168.1.180])	(using TLSv1 with
+ cipher DHE-RSA-AES256-SHA (256/256 bits))	(No client certificate requested)
+	by domain.com (Postfix) with ESMTPSA id 8AF8D2BC035;	Thu, 19 Mar
+ 2015 17:03:59 +0100 (CET)
+From: Daniele Milan <d.milan@hackingteam.com>
+Date: Thu, 19 Mar 2015 17:03:59 +0100
+Subject: On interrupting with the E. client
+To: Philippe Vinci <user@domain.com>, Eric Rabe
+	<user@domain.com>, Giancarlo Russo <user@domain.com>, "David
+ Vincenzetti" <user@domain.com>
+Message-ID: <2user@domain.com>
+X-Mailer: Apple Mail (2.2070.6)
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=DANIELE MILAN5AF
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-603028132_-_-"
+
+Dear all,
+I’m receiving ongoing pressure from the E. client to resume the relationship that came to an halt after the CitizenLab/HRW reports.I think that we all agree that we should interrupt any business with them due to the recurring media exposure and resulting technical issues. Their reckless and clumsy usage of our solution caused us enough damage. What’s worst is that we can be sure that if we allow them to continue, more will come.
+I would like to have your opinion on this and eventually on how to communicate this decision both with the customer and the media, if appropriate. Thanks,Daniele
+
+--
+Daniele Milan
+Operations Manager
+
+HackingTeam
+Milan Singapore WashingtonDC
+www.hackingteam.com
+
+email: user@domain.com
+mobile: + 39 334 6221194
+phone:  +39 02 29060603
+

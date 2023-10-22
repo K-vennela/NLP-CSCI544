@@ -1,0 +1,46 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [10.23.1.4])
+	by domain.com (Postfix) with ESMTP id D0A68536FC6
+	for <user@domain.com>; Wed,  2 Feb 2015 20:49:19 -0500 (EST)
+Received: from domain.com (domain.com [63.110.133.72])
+	by domain.com (Postfix) with ESMTP id 0D5C085A8EE
+	for <user@domain.com>; Wed,  2 Feb 2015 20:42:34 -0500 (EST)
+Received: (from user@domain.com)
+	by domain.com (8.11.0/8.11.0) id j12InUs28371;
+	Wed, 2 Feb 2015 11:49:30 -0700
+Date: Wed, 2 Feb 2015 11:49:30 -0700
+Message-Id: <200502021849.user@domain.com>
+To: user@domain.com
+Subject: eBay: Account Violate User Agreement
+From: eBay Safeharbor Department <eBay@reply3.ebay>
+Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 103
+
+Dear PayPal Member,
+
+Your account has been randomly flagged in our system as a part of our rout=
+ine security measures. 
+This is a must to ensure that only you have access and use of your PayPal =
+account and to ensure a safe PayPal experience. We require all flagged acc=
+ounts to verify their information on file with us. To verify your Informat=
+ion at this time, please domain.com our secure server webform by clicking the h=
+yperlink below
+
+Click here to verify =
+your Information
+
+ Thank you for using PayPal!
+
+The PayPal Team
+
+Please do not reply to this e-mail. Mail sent
+to this address cannot be answered. For assistance, log
+in

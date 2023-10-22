@@ -1,0 +1,26 @@
+Warwick,
+I did not think I would get a chance today to look at the web page.
+I see what boxes you are referring to. The interpolation procedure cannot
+produce larger anomalies than neighbours (larger values in a single
+month). If you have found any of these I will investigate. If you are
+talking about larger trends then that is a different matter. Trends
+say in Fig 2.9 for the 1976-99 period require 16 years to have data
+and at least 10 months in each year. It is conceivable that at there are
+24 years in this period that missing values in some boxes influence
+trend calculation.
+I would expect this to be random across the globe.
+Cheers
+Phil
+Warwick,
+Been away.  Just checked my program and the interpolation shouldn't
+produce larger anomalies than the neighbouring cells. So can you send
+me the cells, months and year of the two cells you've found ? If I
+have this I can check to see what has happened and answer (1).
+As for (2) and (3) we compared all stations with neighbours and these
+two stations did not have problems when the work was done (around 1985/6).
+I am not around much for the next 3 weeks but will be here most of
+this week and will try to answer (1) if I get more details. If you have
+the names of stations that you've compared Olenek and Verhojansk with
+I would appreciate that.
+Cheers
+Phil

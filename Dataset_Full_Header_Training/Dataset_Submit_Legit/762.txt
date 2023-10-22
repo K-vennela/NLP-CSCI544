@@ -1,0 +1,173 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Wed, 6 May 2015 18:58:22 +0200
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id 9E8E3621B0;	Wed,  6 May 2015 
+ 17:34:59 +0100 (BST)
+Received: by domain.com (Postfix)	id E94564440B2D; Wed,  6 May 2015 
+ 18:58:17 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from MacBook-di-domain.com (unknown [192.168.1.211])	(using
+ TLSv1.2 with cipher ECDHE-RSA-AES256-SHA384 (256/256 bits))	(No client
+ certificate requested)	by domain.com (Postfix) with ESMTPSA id
+ E497B444081B;	Wed,  6 May 2015 18:58:17 +0200 (CEST)
+Date: Wed, 6 May 2015 18:58:21 +0200
+From: Alessandro Scarafile <a.scarafile@hackingteam.com>
+To: Eduardo Pardo <user@domain.com>
+CC: 'amministrazione' <user@domain.com>
+Message-ID: <user@domain.com>
+In-Reply-To: <002a01d0874a$771aa930$654ffb90$@hackingteam.com>
+References: <78user@domain.com>
+ <002a01d0874a$771aa930$654ffb90$@hackingteam.com>
+Subject: RE: Communicating vacation/leaves or unavailability
+X-Mailer: Airmail (303)
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=ALESSANDRO SCARAFILED45
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-435165190_-_-"
+
+Ciao Eduardo,as per our call, we confirmed for now for the week July 13-17.
+Alessandro 
+Il giorno
+ 05 maggio 2015 @ 17:45:10, Eduardo Pardo (user@domain.com) ha scritto: 
+
+Ciao Ale,
+
+
+
+
+I’d like to ask for my 2015 vacations, for the following
+dates:
+
+
+
+
+1.     
+July
+13th to July 24th of 2015.
+
+2.     
+December
+21st of 2015 to January 1st of
+2016.
+
+
+
+
+Could you please check and let me know?
+
+
+
+
+Thanks,
+
+
+
+
+--
+
+Eduardo Pardo
+
+Field Application Engineer
+
+
+
+
+email: 
+user@domain.com
+
+phone: +39 3666285429
+
+mobile: +57 3003671760
+
+
+
+
+Hacking Team
+
+www.hackingteam.com
+
+
+
+
+From: Alessandro Scarafile <a.scarafile@hackingteam.com>
+Daniele
+Milan [mailto:user@domain.com]
+
+Sent: Thursday, April 09, 2015 3:25 AM
+
+To: "User"; Daniel Martinez; Eduardo Pardo;
+Eugene Ho
+
+Cc: Alessandro Scarafile; amministrazione
+
+Subject: Communicating vacation/leaves or
+unavailability
+
+
+
+
+Dear Colleagues,
+
+
+
+
+I would like to clarify the process to
+communicate unavailability (e.g., illness, personal impediments) or
+ask for vacations.
+
+Kindly follow this indications to avoid
+misunderstandings.
+
+
+
+
+1. If you are asking for vacation/leave, check
+with Alessandro for the period you intend to ask. Alessandro will
+approve or negate based on the planned activities;
+
+2. in any case, vacation or
+unavailability must be promptly communicated
+to user@domain.com
+
+
+
+
+Please mind that this communication is
+specific for you who are not resident in Italy.
+
+
+
+
+Thanks for your cooperation,
+
+Daniele
+
+
+
+
+--
+
+Daniele Milan
+
+Operations Manager
+
+HackingTeam
+
+Milan Singapore WashingtonDC
+
+www.hackingteam.com
+
+email: user@domain.com
+
+mobile: + 39 334 6221194
+
+phone:  +39 02 29060603
+
+
+

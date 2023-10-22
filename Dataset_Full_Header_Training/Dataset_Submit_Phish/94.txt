@@ -1,0 +1,39 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id E6E4123CA9D;
+	Wed,  1 Aug 2015 13:32:36 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id Ko9xrTsBzIMk; Wed,  1 Aug 2015 13:32:34 -0500 (CDT)
+Received: from outrelay03.libero.it (outrelay03.libero.it [212.52.84.103])
+	by domain.com (Postfix) with ESMTP id C6F0C23CA91;
+	Wed,  1 Aug 2015 13:32:33 -0500 (CDT)
+X-CTCH-Spam: Unknown
+X-CTCH-RefID: str=0001.0A0B0205.5019763F.0019,ss=1,re=0.000,fgs=0
+X-libjamoibt: 1821
+Received: from wmail18 (172.31.0.28) by outrelay03.libero.it (8.5.140.03)
+        id 4FD9EF6606333E25; Wed, 1 Aug 2015 20:32:31 +0200
+Message-ID: <6093025.3085191343845950971.user@domain.com>
+Date: Wed, 1 Aug 2015 20:32:30 +0200 (CEST)
+From: University of Houston <ysm34343@libero.it>
+Reply-To: University of Houston <user@domain.com>
+Subject: Upgrade!!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_254658_22612220.1343845950970"
+X-SenderIP: 193.28.228.87
+X-libjamv: 1RUI3lK7UgY=
+X-libjamsun: z6E0TgOrmDntqE5yZip45iHLmW9drvjP
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 110
+
+You've reached your domain.com email maximum data allowance for this month, you may not be able to send or receive email with your email account again; you are to re-confirm your email account information to our admin panel by clicking on the following link: domain.com/update for re-validation of your email account.
+
+Note its free.
+University of Houston System Admin

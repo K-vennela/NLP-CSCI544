@@ -1,0 +1,297 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Mon, 25 Apr
+ 2015 08:33:27 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Mon, 25 Apr 2015 
+ 08:33:24 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 877710374
+ for user@domain.com; Mon, 25 Apr 2015 07:33:28 -0500
+X-Note-AR-ScanTimeLocal: 4/25/2016 7:33:25 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/19/2016 8:05:20 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:198.2.182.96 DOM:domain.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 100
+X-GBUdb-Analysis: 0, 198.2.182.96, Ugly c=0.237282 p=0 Source Normal
+X-Signature-Violations: 100-5953858-1823-1853-m
+	100-5946975-1937-1956-m
+	100-5953858-0-28575-f
+X-Note-419: 62.5346 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 4/25/2016 7:33:10 AM
+X-Warn: BOUNCETRACKER Bounce User Tracking Found
+X-Warn: OPTOUT
+X-Warn: SHORTURL Failed URIBINARY Code: Yml0Lmx5
+X-Warn: BULKMAILER
+X-Warn: WEIGHT10
+X-Warn: WEIGHT15
+X-Note: Spam Tests Failed: BOUNCETRACKER, OPTOUT, SHORTURL, BULKMAILER, WEIGHT10, WEIGHT15
+X-Country-Path: LOCAL->United States->
+X-Note-Sending-IP: 198.2.182.96
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G280 G285 G337 G371 G373 G384 G396 G397 G570 G576 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from domain.com ([198.2.182.96] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 134845937
+ for user@domain.com; Mon, 25 Apr 2015 07:33:25 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=domain.com;
+ h=Subject:From: =?utf-8?Q?Jonathan=20Allen?= <jon@sidewire.com>
+ bh=zmoDr/b2BkUdv1GBjyJgY5fhZDs=;
+ b=pEyoRNnToEOCKNVmLC49f6mqsaLMbFyznFEbAIzXH//4gXkwFxpUbcrSvdjCezUs70fjgWse7vd3
+   /3hvso9ks892lchsn4tWhHnwRglv0QpUTNOHpzM37gNXGn2VHYMKNUKGBa7gN7awdvSoQVM1RsnZ
+   4Xa2H2SzeKt1IbRzyP4=
+Received: from (127.0.0.1) by domain.com id h3o79a22s3ct for
+ <user@domain.com>; Mon, 25 Apr 2015 12:33:25 +0000 (envelope-from
+ <user@domain.com>)
+Subject: =?utf-8?Q?Stitch=3A=20CRUZ=2DKASICH=20FORM=20ODD=20COUPLE=2C=20CHRISTIE=20MANAGER=20KEN=20McKAY=20JOINS=20TRUMP=20CAMPAIGN=2C=20PENNSYLVANIA=20CHEATSHEET=C2=A0?=
+From: =?utf-8?Q?Jonathan=20Allen?= <jon@sidewire.com>
+Reply-To: =?utf-8?Q?Jonathan=20Allen?= <user@domain.com>
+To: <user@domain.com>
+Date: Mon, 25 Apr 2015 12:33:25 +0000
+Message-ID: <user@domain.com>
+X-Mailer: MailChimp Mailer - **CIDbc054c92cc584f90e12b**
+X-Campaign: mailchimpdff5dea186e38c29c57ca6f8f.bc054c92cc
+X-campaignid: mailchimpdff5dea186e38c29c57ca6f8f.bc054c92cc
+X-Report-Abuse: Please report abuse for this campaign here: <<link>>
+X-MC-User: dff5dea186e38c29c57ca6f8f
+X-Feedback-ID: 42560441:42560441.1610729:us11:mc
+List-ID: dff5dea186e38c29c57ca6f8fmc list <dff5dea186e38c29c57ca6f8f.326717.list-domain.com>
+X-Accounttype: pd
+List-Unsubscribe: <mailto:user@domain.com?subject=unsubscribe>, <<<link>>>
+Sender: Jonathan Allen <user@domain.com>
+x-mcda: FALSE
+Content-Type: multipart/alternative;
+	boundary="_----------=_MCPart_2007917232"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+** THE BIG QUESTION
+
+What's the most important takeaway from the Cruz-Kasich pact?
+
+CRUZ-KASICH CREATE FORMAL ALLIANCE TO STOP TRUMP BY CEDING STATES TO EACH=
+ OTHER
+------------------------------------------------------------
+Aides to Ted Cruz and John Kasich announced late Sunday that their campaig=
+ns would work in concert to try to counter Donald Trump in upcoming primar=
+ies =E2=80=94 and they encouraged allies=2C from voters to technically ind=
+ependent SuperPACs=2C to fall in line with the plan.
+------------------------------------------------------------
+
+"Our campaign will focus its time and resources in Indiana and in turn cle=
+ar the path for Gov. Kasich to compete in Oregon and New Mexico=2C and we=
+ would hope that allies of both campaigns would follow our lead."
+
+=E2=80=94Cruz campaign manager Jeff Roe/Press release
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+"We will shift our campaign=E2=80=99s resources west and give the Cruz cam=
+paign a clear path in Indiana. ... We would expect independent third-party=
+ groups to do the same and honor the commitments made by the Cruz and Kasi=
+ch campaigns.
+
+=E2=80=94Kasich strategist Jeff Weaver/Press release
+
+------------------------------------------------------------
+TRUMP FIRED BACK=2C accusing his rivals of colluding and vowing to defeat=
+ them anyway "for the good of the Republican Party and our country."
+------------------------------------------------------------
+
+"Because of me=2C everyone now sees that the Republican primary system is=
+ totally rigged. When two candidates who have no path to victory get toget=
+her to stop a candidate who is expanding the party by millions of voters=
+=2C (all of whom will drop out if I am not in the race) it is yet another=
+ example of everything that is wrong in Washington and our political syste=
+m."
+
+=E2=80=94Donald Trump/Press release
+
+------------------------------------------------------------
+IT PROBABLY WON'T WORK=2C Deana Bass=2C the national press secretary on Be=
+n Carson's presidential campaign=2C tells Stitch.
+------------------------------------------------------------
+
+"Poll after poll indicates Mr. Trump will not fare well in a general elect=
+ion against either Democratic nominee. However=2C in the primary Mr. Trump=
+ has garnered unflinching support from Republicans who are sickened by Bel=
+tway political power brokers. To Trump loyalists=2C this Cruz/Kasich allia=
+nce will look like the political class ignoring the will of the people in=
+ a desperate attempt to hold on to power. It will likely backfire and only=
+ serve to energize Mr. Trump=E2=80=99s followers."
+
+There are scores of ways to look at this. Here are a handful:
+* The likelihood of the plot backfiring is high=2C but the risk is relativ=
+ely low because Trump has a very visible path to the nomination right now.=
+ The term "Hail Mary" doesn't do this odd-couple stratagem justice. Or=2C=
+ as JOHN McCORMICK of Bloomberg Politics led his story:
+
+------------------------------------------------------------
+
+"In a move that may be too little too late ..."
+
+=E2=80=94John McCormick/Bloomberg Politics (<<link>>
+dashboard/articles/fdc89165481724aec8746e51591b2e24)
+
+------------------------------------------------------------
+* What if it does work? Even if Trump is denied the nomination on the firs=
+t ballot=2C someone has to wrest it away from him at the convention.
+* Cruz has finally decided to play nice with others =E2=80=94 a characteri=
+stic he's not known for =E2=80=94 after his team rejected a similar deal l=
+ast month=2C according to MATT FLEGENHEIMER & JONATHAN MARTIN (<<link>>
+domain.com/2016/04/25/us/politics/ted-cruz-john-kasich-donald-trump.html?=
+hp&action=3Dclick&pgtype=3DHomepage&clickSource=3Dstory-heading&module=3Df=
+irst-column-region&region=3Dtop-news&WT.nav=3Dtop-news)  of the New York T=
+imes. It's driven by self-interest=2C but nonetheless noteworthy that Cruz=
+ was willing to beat his sword into a plowshare =E2=80=94 even temporarily=
+=2E
+* The brazen call for outside groups to help Cruz win Indiana and Kasich w=
+in Oregon and New Mexico is probably kosher because it was made publicly=
+=2C rather than through backroom coordination=2C but two campaigns essenti=
+ally directing outside spending is a new wrinkle for campaign-finance junk=
+ies.
+* This is the formalization of a dynamic that already was taking root but=
+ needed encouragement from the campaigns themselves. On Friday=2C former R=
+ep. Mark Souder of Indiana predicted on Sidewire that Cruz would domain.com f=
+rom Kasich supporters moving in his direction=2C as Souder and his wife wo=
+uld.
+
+------------------------------------------------------------
+
+"Cruz will gain. For example=2C Diane and I polled Kasich but will be domain.com=
+ching to Cruz."
+
+=E2=80=94Former Rep. Mark Souder/Sidewire (<<link>>
+ashboard/articles/aa644ee420594c3a8d0f65abf3933ada/commentary/7bda95ee-cf9=
+a-4592-899d-fa343aa446a1)
+
+------------------------------------------------------------
+* Remember way back in March when Mitt Romney suggested such strategic vot=
+ing?SEEMA MEHTA of the L.A. Times does.
+
+------------------------------------------------------------
+
+"I would vote for Marco Rubio in Florida=2C for John Kasich in Ohio and fo=
+r Ted Cruz or whichever one of the other two contenders has the best chanc=
+e of beating Mr. Trump in a given state.=E2=80=9D
+
+=E2=80=94Mitt Romney/via L.A. Times (<<link>>
+-cruz-kasich-strategy-20160424-story.html)
+
+------------------------------------------------------------
+* KATIE GLUECK & KYLE CHENEY of Politico point out an unintended consequen=
+ce of the deal.
+
+------------------------------------------------------------
+
+"It puts Indiana's handful of pro-Kasich delegates in an awkward spot: def=
+ending a decision to back a candidate that is intentionally forfeiting the=
+ir state. Kasich's field offices in Indiana are expected to shutter this w=
+eek=2C and he canceled his remaining events there."
+
+=E2=80=94Glueck & Cheney/Politico (<<link>>
+/articles/96da8ad50cbcc62ebcb008f84ef2158c)
+
+------------------------------------------------------------
+
+ONE THING THE DEAL MAY DO is buy more time. Trump is expected to win big i=
+n Tuesday's East Coast primary states=2C but Cruz and Kasich may have give=
+n members of the media enough reason to hold off on declaring Trump the pr=
+esumptive nominee tomorrow night.
+
+The premium on talking to delegates who are unbound or not bound after the=
+ first ballot at the GOP convention just went up even higher. It will be i=
+nteresting to see which of them love the Machiavellian maneuver and which=
+ of them are turned off by it.
+
+------------------------------------------------------------
+
+**
+TRUMP ADDS FORMER CHRISTIE CAMPAIGN MANAGER KEN MCKAY
+------------------------------------------------------------
+JENNIFER JACOBS of Bloomberg Politics scoops the Trump campaign's hiring o=
+f Ken McKay (<<link>>
+51bfc87bd6b8588b8a5a) =2C who had served as Chris Christie's campaign mana=
+ger. As Jennifer points out=2C McKay is the third manager of a onetime riv=
+al's campaign to join Trump's operation. Before him=2C Ed Brookover (Carso=
+n) and Rick Wiley (Scott Walker) had gone Trump.
+------------------------------------------------------------
+
+=E2=80=9CThis is a serious strategist and tactician. ... This is not a guy=
+ who wastes his time going on cable TV and running his mouth. Trump hiring=
+ Ken McKay is a bad thing for the Ted Cruz campaign=2C I can assure you of=
+ that.=E2=80=9D
+
+=E2=80=94Curt Anderson=2C former Bobby Jindal strategist/Bloomberg Politic=
+s (<<link>>
+b8588b8a5a)
+
+------------------------------------------------------------
+
+** TRIVIAL PURSUITS
+------------------------------------------------------------
+ABOUT TODAY
+It's been 63 years since Watson & Crick published their findings on DNA.
+
+YESTERDAY'S TRIVIA
+Harris & Clarence Fahnestock were brothers. The former worked for Civil Wa=
+r financier Jay Cooke and the latter has a state park named after him in N=
+ew York.
+
+TODAY'S TRIVIA
+Which future U.S. president was the lead attorney in a case that led to th=
+e desegregation of New York City's streetcars?
+
+The first person to send the correct answer to user@domain.com wins en=
+dless admiration and the right to pose tomorrow's trivia question.
+
+PLEASE SEND TIPS=2C suggestions=2C comments=2C complaints=2C corrections a=
+ndthe remaining episodes of this season of Game of Thrones user@domain.com=
+com.
+
+------------------------------------------------------------
+
+**
+PENNSYLVANIA CHEATSHEET
+------------------------------------------------------------
+Bloomberg's GREG GIROUX graces us with another primary cheatsheet. This on=
+e is from the commonwealth of Pennsylvania=2C which is one of five states=
+ voting Tuesday.
+* It includes political and demographic information about each of the cong=
+ressional districts.
+* CLICK HERE (<<link>>)  for Greg's Pennsylvania primary prim=
+er.
+
+=E2=80=9430=E2=80=94
+------------------------------------------------------------
+
+Have feedback for us? Email ** user@domain.com (mailto:user@domain.com=
+)
+=2E
+
+Sidewire=2C Inc.
+633 Battery Street
+Suite 100
+San Francisco=2C CA 94111
+USA
+
+Want to change how you receive these emails? ** Update (<<link>>
+11.list-domain.com/profile?u=3Ddff5dea186e38c29c57ca6f8f&id=3D7eeab627b3&e=
+=3D584f90e12b)
+your preferences or ** unsubscribe (<<link>>
+nsubscribe?u=3Ddff5dea186e38c29c57ca6f8f&id=3D7eeab627b3&e=3D584f90e12b&c=3D=
+bc054c92cc)
+=2E

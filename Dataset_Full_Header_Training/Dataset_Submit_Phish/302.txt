@@ -1,0 +1,54 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 3070E23CA94;
+	Mon, 25 Jun 2015 07:21:08 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id Z8HI9wCqVEbX; Mon, 25 Jun 2015 07:21:05 -0500 (CDT)
+Received: from mx02.tmcmed.org (mx02.tmcmed.org [12.187.59.165])
+	by domain.com (Postfix) with ESMTP id C725E23CA93;
+	Mon, 25 Jun 2015 07:21:05 -0500 (CDT)
+X-IronPort-AV: E=Sophos;i="4.77,471,1336366800"; 
+   d="scan'208,217";a="4293486"
+Received: from shhexch01.tmc.int ([10.1.100.231])
+  by mx02.tmcmed.org with ESMTP; 25 Jun 2015 07:21:13 -0500
+X-MimeOLE: Produced By Microsoft Exchange V6.5
+Content-class: urn:content-classes:message
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----_=_NextPart_001_01CD52CC.F2A5866D"
+Subject: Attention;
+Date: Mon, 25 Jun 2015 07:20:46 -0500
+Message-ID: <user@domain.com>
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+Thread-Topic: Attention;
+Thread-Index: Ac1SzO/LcJT9unfRRpOvOQM1ynr1GQ==
+From: "Liu, Fannie" <Fannie.Liu@tmcmed.org>
+To: <user@domain.com>
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 101
+
+Attention;=20
+There've been an automatic security update on your email address. Click her=
+e to complete update <<<link>>
+=3DdExDOG1xYjNpcHQ2WWVhV2QyNVdkeVE6MQ>=20
+Please note that you have withing 24 hours to complete this update. because=
+ you might lose acess to your Email Box.
+---------------------------------------------------------------------------=
+-------------------------------------------------------------
+The information contained in this communication may be confidential and is =
+intended only for the
+ use of the intended recipient(s).   If the reader of this message is not t=
+he intended recipient(s),
+ you are hereby notified that any dissemination, distribution, or copying o=
+f this communication,
+ or any of its contents, is strictly prohibited. If you have received this =
+communication in error,
+ please return it to the sender immediately and delete any copy of it from =
+your computer system.

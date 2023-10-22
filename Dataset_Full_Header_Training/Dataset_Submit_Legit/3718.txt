@@ -1,0 +1,30 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Thu, 3 Apr 2015 15:49:00 +0200
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id D4D39621CB	for
+ <user@domain.com>; Thu,  3 Apr 2015 14:39:21 +0100 (BST)
+Received: by domain.com (Postfix)	id A4E75B6603F; Thu,  3 Apr 2015 
+ 15:49:00 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from domain.com (confluence.hackingteam.com
+ [192.168.200.205])	by domain.com (Postfix) with ESMTP id 9641AB6603D
+	for <user@domain.com>; Thu,  3 Apr 2015 15:49:00 +0200 (CEST)
+Date: Thu, 3 Apr 2015 15:49:00 +0200
+From: "Daniele Milan (Confluence)" <confluence@hackingteam.com>
+To: <user@domain.com>
+Message-ID: <1364408764.3316.1396532940623.JavaMail.CONFLUENCE$@confluence>
+Subject: [confluence] Daniele Milan updated a event in the "TENTATIVE
+ ACTIVITY" calendar
+Precedence: bulk
+Auto-Submitted: auto-generated
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2135562172_-_-"
+
+  Daniele Milan updated a event in the TENTATIVE ACTIVITY Pre-Sales Meeting calendar Apr 03, 2014 Until Apr 04, 2014 All day  Croatia, demo    You are receiving this notification because you are watching the following:  TENTATIVE ACTIVITY   Pre-Sales Meeting   Sent by Atlassian Confluence 5.4.1, the Enterprise Wiki 

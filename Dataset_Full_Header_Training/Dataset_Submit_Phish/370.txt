@@ -1,0 +1,59 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (dijkstra.cs.uh.edu [127.0.0.1])
+	by dijkstra.cs.uh.edu (Postfix) with ESMTP id EEA9723CC5A
+	for <user@domain.com>; Mon, 13 Feb 2015 19:17:56 -0600 (CST)
+X-Virus-Scanned: amavisd-new at cs.uh.edu
+Received: from dijkstra.cs.uh.edu ([127.0.0.1])
+	by localhost (dijkstra.cs.uh.edu [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 5Xk40RTeK2yu for <user@domain.com>;
+	Mon, 13 Feb 2015 19:17:56 -0600 (CST)
+Received: from smtp4.cc.uh.edu (smtp4.cc.uh.edu [129.7.234.211])
+	by dijkstra.cs.uh.edu (Postfix) with ESMTP id CA8FE23CC59
+	for <user@domain.com>; Mon, 13 Feb 2015 19:17:56 -0600 (CST)
+Received: from smtp4.cc.uh.edu (smtp4.cc.uh.edu [127.0.0.1])
+	by localhost (Postfix) with SMTP id A3177E085EC
+	for <user@domain.com>; Mon, 13 Feb 2015 19:17:54 -0600 (CST)
+Received: from domain.com (unknown [69.175.121.141])
+	by smtp4.cc.uh.edu (Postfix) with ESMTP id 97AC9E085E8
+	for <user@domain.com>; Mon, 13 Feb 2015 19:17:54 -0600 (CST)
+Received: from alquds by domain.com with local (Exim 4.69)
+	(envelope-from <user@domain.com>)
+	id 1Rx7Ek-00011F-EQ
+	for user@domain.com; Mon, 13 Feb 2015 20:31:19 -0500
+To: user@domain.com
+Subject: University of Houston: Security Message
+From: University of Houston <support@uh.edu>
+Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Message-Id: <user@domain.com>
+Date: Mon, 13 Feb 2015 20:31:18 -0500
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - domain.com
+X-AntiAbuse: Original Domain - uh.edu
+X-AntiAbuse: Originator/Caller UID/GID - [525 525] / [47 12]
+X-AntiAbuse: Sender Address Domain - domain.com
+X-PMX-Version: 5.5.9.395186, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2012.2.14.10915
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 56
+
+Welcome To University of Houston
+
+		This is to inform you that your University of Houston Webmail profile needs 
+		to be updated.
+
+		To access your University of Houston Webmail Secure profile,
+
+		Click here to re-login
+
+		Update Your Profile Account
+
+		Thanks For Your Co-operation.
+
+		The University of Houston Webmail Security Team.
+

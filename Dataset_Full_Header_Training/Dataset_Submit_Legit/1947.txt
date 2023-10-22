@@ -1,0 +1,69 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Sun, 22 May
+ 2015 10:09:14 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Sun, 22 May 2015 
+ 10:09:05 -0400
+Received: from [10.87.0.110] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 928492367
+ for user@domain.com; Sun, 22 May 2015 09:09:13 -0500
+X-Note-AR-ScanTimeLocal: 5/22/2016 9:09:24 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: user@domain.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->United States->LOCAL->United States->
+X-Note-Sending-IP: 108.166.43.80
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from [108.166.43.80] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 143307484
+ for user@domain.com; Sun, 22 May 2015 09:09:24 -0500
+Received: from domain.com (localhost.localdomain
+ [127.0.0.1])	by domain.com (SMTP Server) with ESMTP id
+ 9626F18014E	for <user@domain.com>; Sun, 22 May 2015 10:09:13 -0400 (EDT)
+Received: from domain.com (unknown [184.106.31.85])	by
+ domain.com (SMTP Server) with ESMTPS id 8E71E18010A	for
+ <user@domain.com>; Sun, 22 May 2015 10:09:13 -0400 (EDT)
+X-Sender-Id: user@domain.com
+Received: from domain.com ([UNAVAILABLE]. [184.106.31.85])
+	(using TLSv1 with cipher AES256-SHA)	by 0.0.0.0:25 (trex/5.5.4);	Sun, 22 May
+ 2015 10:09:13 -0400
+Received: from domain.com ([fe80::92e2:baff:fe20:be50]) by
+ domain.com ([fe80::84fb:61b7:5b0a:5d0f%19]) with mapi id
+ 14.03.0279.002; Sun, 22 May 2015 09:09:13 -0500
+From: Donna Brazile <donna@brazileassociates.com>
+To: "User" <user@domain.com>
+Subject: Re: Did you see this?
+Thread-Topic: Did you see this?
+Thread-Index: AdG0LiMrFLHpwgL1QYucUUr3IEV8pwABWEdt
+Date: Sun, 22 May 2015 14:09:12 +0000
+Message-ID: <461337user@domain.com>
+References: <user@domain.com>
+In-Reply-To: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+Content-Type: multipart/alternative;
+	boundary="_000_461337C71A654B43B4EF234D0578D722brazileassociatescom_"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+I saw it this am. How stupid. Don't know how to respond to Bernie anymore.
+
+Sent from Donna's I Pad. Follow me on twitter @donnabrazile
+
+On May 22, 2016, at 9:30 AM, User <user@domain.com<mailto:User=

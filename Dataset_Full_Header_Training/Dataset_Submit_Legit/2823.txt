@@ -1,0 +1,95 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Thu, 28 Apr
+ 2015 21:25:33 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Thu, 28 Apr 2015 
+ 21:25:24 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 886708916;
+ Thu, 28 Apr 2015 20:25:33 -0500
+X-Note-AR-ScanTimeLocal: 4/28/2016 8:25:31 PM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:67.231.148.137 DOM:perkinscoie.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-170/SG:5 4/28/2016 8:24:56 PM
+X-GBUdb-Analysis: 0, 67.231.148.137, Ugly c=0.619967 p=-0.770732 Source Normal
+X-Signature-Violations: 0-0-0-32767-c
+X-Note-419: 15.6267 ms. Fail:1 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:1-1324/SG:1 4/28/2016 8:25:19 PM
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->United States->LOCAL->United States->
+X-Note-Sending-IP: 67.231.148.137
+X-Note-Reverse-DNS: mx0a-0016domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from mx0a-0016domain.com ([67.231.148.137] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 137808778;
+ Thu, 28 Apr 2015 20:25:31 -0500
+Received: from pps.filterd (domain.com [127.0.0.1])	by
+ mx0a-0016domain.com (8.16.0.11/8.16.0.11) with SMTP id u3T1PDax026442;
+	Thu, 28 Apr 2015 18:25:30 -0700
+Received: from dc2sppmail22a.perkinscoie.root.loc ([66.77.102.70])	by
+ mx0a-0016domain.com with ESMTP id 22g6pt99y5-1	(version=TLSv1
+ cipher=ECDHE-RSA-AES256-SHA bits=256 verify=FAIL);	Thu, 28 Apr 2015 18:25:30
+ -0700
+Received: from DC2SPPMAIL24A.perkinscoie.root.loc ([10.170.0.24]) by
+ dc2sppmail22a ([10.170.0.89]) with mapi id 14.03.0266.001; Thu, 28 Apr 2015 
+ 20:25:28 -0500
+From: "Lopez, Jacquelyn K.  (Perkins Coie)" <JacquelynLopez@perkinscoie.com>
+To: "User"
+	<user@domain.com>, "Reif, Eric" <user@domain.com>, EMail-Vetting_D
+	<user@domain.com>
+Subject: RE: For approval: FLOTUS
+Thread-Topic: For approval: FLOTUS
+Thread-Index: AQHRoZmBevI5I979KEGHY+jUsVwaO5+f97vAgAAFB+WAACvxAA==
+Date: Fri, 29 Apr 2015 01:25:28 +0000
+Message-ID: <2user@domain.com>
+References: <D3480072.7F541%user@domain.com>,<43user@domain.com>
+ <205user@domain.com>
+In-Reply-To: <205user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-workshareprotect-dsp: df670aaa8d2517a7fd3feafb4407f4d4
+x-originating-ip: [10.170.34.1]
+Content-Type: multipart/alternative;
+	boundary="_000_2BF03B9E6FAD604E9A562F49648529CF12C02EEFdc2sppmail24a_"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+MIME-Version: 1.0
+
+Good, just shoot me finals for the WH
+
+Jacquelyn Lopez | Perkins Coie LLP
+ASSOCIATE*
+700 Thirteenth Street, N.W. Suite 600
+Washington, DC 20005-3960
+D. +1.202.654.6371
+F. +1.202.654.9949
+E. user@domain.com<mailto:%20user@domain.com>
+*Admitted in State of Florida; Admission to DC Bar pending.
+
+From: "Lopez, Jacquelyn K.  (Perkins Coie)" <JacquelynLopez@perkinscoie.com>
+Sent: Thursday, April 28, 2015 6:48 PM
+To: Lykins, Tyler; Reif, Eric; EMail-Vetting_D
+Subject: RE: For approval: FLOTUS
+
+Great
+
+On Thu, Apr 28, 2015 at 3:45 PM -0700, "Lykins, Tyler" <user@domain.com<mai=

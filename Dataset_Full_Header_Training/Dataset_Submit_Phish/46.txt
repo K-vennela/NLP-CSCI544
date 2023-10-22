@@ -1,0 +1,45 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 11D9523CAA3
+	for <user@domain.com>; Mon,  7 Nov 2015 06:29:55 -0600 (CST)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 2Ftn8vzZ6nJo for <user@domain.com>;
+	Mon,  7 Nov 2015 06:29:53 -0600 (CST)
+Received: from domain.com (domain.com [205.167.120.105])
+	by domain.com (Postfix) with ESMTP id A62D423CAA2
+	for <user@domain.com>; Mon,  7 Nov 2015 06:29:53 -0600 (CST)
+X-MimeOLE: Produced By Microsoft Exchange V6.5
+Content-class: urn:content-classes:message
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Subject: Mailbox Quota Exceeded
+Date: Mon, 7 Nov 2015 05:29:51 -0700
+Message-ID: <27user@domain.com>
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+Thread-Topic: Mailbox Quota Exceeded
+Thread-Index: AcydSPE6WNVTszDSRK6vKdzIPwopkA==
+From: "Nisa Bruce" <BruceN@SanJuanCollege.edu>
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 31
+
+Your web mail quota has exceeded the set quota which is 3GB. you are =
+currently running on 3.9 GB. To re-activate and increase your web mail =
+quota please
+click the link below.
+
+<<link>>
+VfWHotMXJSWkE6MQ=20
+=20
+Failure to do so may result in the cancellation of your web mail =
+account.
+Thanks, and sorry for the inconvenience Local-host.

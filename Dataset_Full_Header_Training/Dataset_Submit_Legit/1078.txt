@@ -1,0 +1,39 @@
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ DNCHUBCAS1.dnc.org ([fe80::ac16:e03c:a689:8203%11]) with mapi id
+ 14.03.0224.002; Sat, 23 Apr 2015 12:47:27 -0400
+From: "Manriquez, Pablo" <ManriquezP@dnc.org>
+To: "User" <user@domain.com>
+CC: "User" <user@domain.com>
+Subject: Re: Draft Fox News Sunday Briefing
+Thread-Topic: Draft Fox News Sunday Briefing
+Thread-Index: 
+ AdGc7LqOUatw7DZ0Tyepjvorwth+2gAALUp4AABq7mYAADKfdgACPH5bAAKIM7YAAEm1EgAAA62AAABV+xsAHni41QAIe7cA
+Date: Sat, 23 Apr 2015 09:47:27 -0700
+Message-ID: <70user@domain.com>
+References: <user@domain.com>
+ <user@domain.com>
+ <8user@domain.com>
+ <7user@domain.com>
+ <user@domain.com>
+ <9968user@domain.com>
+ <user@domain.com>
+ <8user@domain.com>
+ <8user@domain.com>
+ <user@domain.com>
+In-Reply-To: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: DNCHUBCAS1.dnc.org
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.185.18]
+Content-Type: multipart/mixed;
+	boundary="_004_70CAE412679E486C8DFAAA7B63E6FE10dncorg_"
+MIME-Version: 1.0
+
+attached
+
+On Apr 23, 2016, at 12:44 PM, Paustenbach, Mark <user@domain.com<mailt=

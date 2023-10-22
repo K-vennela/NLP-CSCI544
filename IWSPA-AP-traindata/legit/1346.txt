@@ -1,0 +1,8 @@
+<x-flowed>
+Great. I'll play with both the composite series and the three  
+individuals. I was hoping to get some spatially distributed  
+information, so might include all three. I will also subdivide by  
+proxy time and use PCA to examine spatial patterns.  I'll take a stab  
+at revising the text to include a few sentences about how we chose  
+the tree-ring series.  Then maybe you can take a look on Monday.   
+Have a good weekend. Darrell

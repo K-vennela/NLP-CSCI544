@@ -1,0 +1,70 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 26 Apr
+ 2015 08:26:04 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 26 Apr 2015 
+ 08:25:59 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 879902424;
+ Tue, 26 Apr 2015 07:26:05 -0500
+X-Note-AR-ScanTimeLocal: 4/26/2016 7:26:03 AM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @who.eop.gov ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->->PRIVATE->United States->
+X-Note-Sending-IP: 214.3.115.10
+X-Note-Reverse-DNS: zeus.whmo.mil
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from [214.3.115.10] (HELO Augustus.whca.mil)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 135080249;
+ Tue, 26 Apr 2015 07:26:02 -0500
+Received: from CN399Exch3.whca.mil (cn399exch3.whca.mil [10.75.26.103])	by
+ Augustus.whca.mil with ESMTP id u3QCQFx1087472;	Tue, 26 Apr 2015 08:26:15
+ -0400 (EDT)
+Received: from CN399Exch3.whca.mil (10.75.26.103) by CN399Exch3.whca.mil
+ (10.75.26.103) with Microsoft SMTP Server (TLS) id 15.0.1130.7; Tue, 26 Apr
+ 2015 08:25:56 -0400
+Received: from CN399Exch3.whca.mil ([10.75.26.103]) by CN399Exch3.whca.mil
+ ([10.75.26.103]) with mapi id 15.00.1130.005; Tue, 26 Apr 2015 08:25:56 -0400
+From: "Friedman, Jennifer B. EOP/WHO" <Jennifer_B_Friedman@who.eop.gov>
+To: "User"
+	<user@domain.com>
+Subject: list of P endorsements this cycle
+Thread-Topic: list of P endorsements this cycle
+Thread-Index: AdGftpenMZ9uTy7gQNOPh8Pjs8RVFg==
+Date: Tue, 26 Apr 2015 12:25:56 +0000
+Message-ID: <0user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-ms-exchange-transport-fromentityheader: Hosted
+x-originating-ip: [10.75.20.202]
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Morning guys, I know this is a busy day, but if you have it handy, do you m=
+ind sending me the rundown of Potus endorsements this cycle?  I have an old=
+er version, but want to make sure I have the most recent.
+
+Also, I thought Juliet's story was about as expected-- not too terrible. =20
+
+Thanks,
+Jen

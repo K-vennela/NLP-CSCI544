@@ -1,0 +1,65 @@
+<x-flowed>
+Dear All,
+I would like to respond to some of the items in the attached text on 
+issues etc. in particular to the statement in the section 3.1.1 
+(sections 3: Drivers of required change in the future).
+"There is now greater demand for a higher level of policy relevance in 
+the work of IPCC, which could provide policymakers a robust scientific 
+basis for action".
+1. While it is true that a vast majority of the public and the 
+policymakers have accepted the reality of human influence on climate 
+change (in fact many of us were arguing for stronger language with a 
+higher level of confidence at the last meetings of the LAs), how 
+confident are we about the projected regional climate changes?
+I would like to submit that the current climate models have such large 
+errors in simulating the statistics of regional (climate) that we are 
+not ready to provide policymakers a robust scientific basis for "action" 
+at regional scale. I am not referring to mitigation, I am strictly 
+referring to science based adaptation.
+For example, we can not advise the policymakers about re-building the 
+city of New Orleans - or more generally about the habitability of the 
+Gulf-Coast - using climate models which have serious deficiencies in 
+simulating the strength, frequency and tracks of hurricanes.
+We will serve society better by enhancing our efforts on improving our 
+models so that they can simulate the statistics of regional climate 
+fluctuations; for example: tropical (monsoon depressions, easterly 
+waves, hurricanes, typhoons, Madden-Julian oscillations) and 
+extratropical (storms, blocking) systems in the atmosphere; tropical 
+instability waves, energetic eddies, upwelling zones in the oceans; 
+floods and droughts on the land; and various manifestations (ENSO, 
+monsoons, decadal variations, etc.) of the coupled ocean-land-atmosphere 
+processes.
+It is inconceivable that policymakers will be willing to make 
+billion-and trillion-dollar decisions for adaptation to the projected 
+regional climate change based on models that do not even describe and 
+simulate the processes that are the building blocks of climate 
+variability. Of course, even a hypothetical, perfect model does not 
+guarantee accurate prediction of the future regional climate, but at the 
+very least, our suggestion for action will be based on the best possible 
+science.
+It is urgently required that the climate modeling community arrive at a 
+consensus on the required accuracy of the climate models to meet the 
+"greater demand for a higher level of policy relevance".
+2. Is "model democracy" a valid scientific method? The "I" in the IPCC 
+desires that all models submitted by all governments be considered 
+equally probable. This should be thoroughly discussed, because it may 
+have serious implications for regional adaptation strategies. AR4 has 
+shown that model fidelity and model sensitivity are related. The models 
+used for IPCC assessments should be evaluated using a consensus metric.
+3. Does dynamical downscaling for regional climate change provide a 
+robust scientific basis for action?
+Is there a consensus in the climate modeling community on the validity 
+of regional climate prediction by dynamical downscaling? A large number 
+of dynamical downscaling efforts are underway worldwide. This is not 
+necessarily because it is meaningful to do it, but simply because it is 
+possible to do it. It is not without precedent that quite deficient 
+climate models are used by large communities simply because it is 
+convenient to use them. It is self-evident that if a coarse resolution 
+IPCC model does not correctly capture the large-scale mean and transient 
+response, a high-resolution regional model, forced by the lateral 
+boundary conditions from the coarse model, can not improve the response. 
+Considering the important role of multi-scale interactions and feedbacks 
+in the climate system, it is essential that the IPCC-class global models 
+themselves be run at sufficiently high resolution.
+Regards,
+Shukla

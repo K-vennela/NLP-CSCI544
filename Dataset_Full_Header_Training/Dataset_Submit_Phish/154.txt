@@ -1,0 +1,52 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [10.3.4.5])
+	by domain.com (Postfix) with ESMTP id 5A07E4694F
+	for <user@domain.com>; Thu, 20 Jul 2015 17:50:53 -0400 (EDT)
+Received: from localhost.localdomain (unknown [221.123.68.53])
+	by domain.com (Postfix) with ESMTP id B5FC16FA51C
+	for <user@domain.com>; Thu, 20 Jul 2015 17:50:53 -0400 (EDT)
+Received: from localhost.localdomain (mailbk [127.0.0.1])
+	by localhost.localdomain (8.12.10/8.12.10) with ESMTP id k6KM95fk030145
+	for <user@domain.com>; Fri, 21 Jul 2015 06:09:05 +0800
+Received: (from user@domain.com)
+	by localhost.localdomain (8.12.10/8.12.10/domain.com) id k6KM94rY030143;
+	Fri, 21 Jul 2015 06:09:04 +0800
+Date: Fri, 21 Jul 2015 06:09:04 +0800
+Message-Id: <200607202209.user@domain.com>
+To: user@domain.com
+Subject: Warning Notification!
+From: PayPal Update! <Update@PayPal.com>
+Content-Type: text/html
+Status: 
+X-Status: 
+X-Keywords: 
+
+
+
+
+Warning Notification
+
+
+
+
+Dear Sir, 
+It has come to our attention that yourPayPal account information needs to be
+updated as part of our continuing commitment to protect your account and to
+reduce the instance of fraud on our website. If you could please take 5-10 minutes
+out of your online experience and update your personal records you will not run intoany future problems with the online service.
+However, failure to update your records will result in account suspension.
+Please update your recordsbeforeJuly 21 , 2006.
+Once you have updated your account records, yourPayPal account activity will not be interrupted and will continue as normal.
+Click here to update your PayPal account information
+
+
+
+Copyright © 1999-2006 PayPal. All rights reserved.
+
+Information about FDIC
+pass-through insurance
+
+
+

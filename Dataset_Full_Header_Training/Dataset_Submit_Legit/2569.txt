@@ -1,0 +1,258 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Fri, 29 Apr
+ 2015 10:03:40 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Fri, 29 Apr 2015 
+ 10:03:28 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 887396485
+ for user@domain.com; Fri, 29 Apr 2015 09:03:38 -0500
+X-Note-AR-ScanTimeLocal: 4/29/2016 9:03:36 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: user@domain.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 209.85.218.54
+X-Note-Reverse-DNS: mail-oi0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mail-oi0-domain.com ([209.85.218.54] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 135838401
+ for user@domain.com; Fri, 29 Apr 2015 09:03:36 -0500
+Received: by mail-oi0-domain.com with SMTP id x201so119326399oif.3
+        for <user@domain.com>; Fri, 29 Apr 2015 07:03:36 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=catherinecortezmasto-domain.com; s=20150623;
+        h=mime-version:date:message-id:subject:From: Zach Hudson <zach@catherinecortezmasto.com>
+        bh=gjIfaq7V+vDZflNucxO9gWazCjAlYk9Yoo8hLRkQ8Kk=;
+        b=k26i4+JxLgXfpx8W1hsdI4FilnHwhwxXMdL6n3wWUboNzqrOYmwOCthmgXowvAcH9f
+         FZKX7TwdzZtJijKCsZExZG4PEB1w95lUmg00S4br8tvpP1feiXa0smE80bogkqyn/GhT
+         hb1omJJoozvNz1WKT4yBXtETkAkTsI7QYufakUvQFL3LSxe0NI+Wc7+n/j+wo7pDvCHt
+         0gdu+Q7DKcVnVCf99boahTKuu4GOvTlXCiKxBI7TRMiu9c8OyDQMWsa5yXQsN7TAuke3
+         pQV8FYpezrRq+rN2WY/pnz2mvAkOkH5MjWlnqV392eZRuKeNYKAvg0b28amhsgovBx03
+         70Rg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:date:message-id:subject:From: Zach Hudson <zach@catherinecortezmasto.com>
+        bh=gjIfaq7V+vDZflNucxO9gWazCjAlYk9Yoo8hLRkQ8Kk=;
+        b=WMv2fNO0Q9qbvLXmogkVKGPOzkIY5X/NW/UcIgaxPv9faJkgMrWjBuJ28Eqn3CCf2b
+         N/1XsGNO+WDpKZGXfxEf4kLdTivVSRkKN+39LBMaC/G2AFT7HFWiaQA+GbWFO9VjPJ/C
+         REY3YI5wj32VQUV7y4XnxGiOe8zmJ40rrHpJISjc0OH0xuEGei6w++X0uZoHQeeLoddb
+         /rs5wB4iGIFnohcnSS+/oza51svg3M2syJwryO1xEPpbs/cFMFe/FTDZt9fnhbMdgy+V
+         pc3YGg5PxE3FH5YbDakHktSy4nGIfuW0nzWhg9HvfvPPZDLI/OXXepNAHbCQ97FXdmsW
+         2K3g==
+X-Gm-Message-State: AOPr4FXZ91ICw4W/NgOlVVMqr9FH0XiRmhA9LuyInkBNn9ZlvoGzMPqlkBRL4rbBMHK+oD7eq9nWHRG3oekbMQ==
+X-Received: by 10.202.213.148 with SMTP id m142mr4105540oig.24.1461938615440;
+ Fri, 29 Apr 2015 07:03:35 -0700 (PDT)
+Received: by 10.182.110.234 with HTTP; Fri, 29 Apr 2015 07:03:35 -0700 (PDT)
+Date: Fri, 29 Apr 2015 07:03:35 -0700
+Message-ID: <CAMPRaUPbT8uq6b2krUmJBu5aFvc6+ffMBq7QvyJc+-user@domain.com>
+Subject: NEW VIDEO: Telemundo Las Vegas On Catherine Cortez Masto College
+ Affordability Roundtable
+From: Zach Hudson <zach@catherinecortezmasto.com>
+To: undisclosed-recipients:;
+Content-Type: multipart/related; boundary="001a113b0850dbccfa0531a01b49"
+BCC: <user@domain.com>
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+=E2=80=8B
+
+For Immediate Release
+
+April 29, 2015 
+
+Contact: *user@domain.com <user@domain.com>*
+
+*NEW VIDEO: Telemundo Las Vegas On Catherine Cortez Masto College
+Affordability Roundtable*
+
+*View the coverage here
+<<<link>>>*
+
+Las Vegas, NV =E2=80=93 Earlier this week, former Nevada Attorney General a=
+nd U.S.
+Senate candidate Catherine Cortez Masto held a college affordability
+roundtable with college students from southern Nevada. But while Cortez
+Masto is focused on making college more affordable for Nevada students, her
+opponents, Sharron Angle and Congressman Heck, would follow the lead of
+their party=E2=80=99s bosses in Washington in putting billionaires like the=
+ Koch
+Brothers ahead of Nevada students and working families.
+
+Congressman Heck has consistently voted with his party to make college more
+expensive for Nevada students. He has voted multiple times for reckless
+Republican budgets that cut Pell grants for 35,000 Nevada students and even
+voted to increase student loan interest rates.
+
+=E2=80=9CTime and again Congressman Heck has voted to make college more exp=
+ensive
+for Nevada students,=E2=80=9D said Zach Hudson, spokesperson for Catherine =
+Cortez
+Masto for Senate. =E2=80=9CFortunately, Nevada students have a choice betwe=
+en a
+bipartisan problem solver like Catherine Cortez Masto, who will work across
+the aisle to make college more affordable for Nevada students, and a
+politician like Sharron Angle or Congressman Heck, who would side with
+their party bosses in Washington and make college even more expensive for
+Nevada students and graduates.=E2=80=9D
+
+View Telemundo=E2=80=99s coverage of the roundtable here.
+<<<link>>>
+
+*Background:*
+
+*Heck Voted For House Republican Budget That Would Cut Spending By $5.5
+Trillion Over 10 Years. *In March 2015, Heck voted for: =E2=80=9CAdoption o=
+f the
+concurrent resolution that would provide for $2.937 trillion in new budget
+authority in fiscal 2016, not including off-budget accounts. It would
+assume $5.5 trillion in spending reductions over the next 10 years,
+including by assuming repeal of the 2015 healthcare law. It also would
+propose reducing spending on Medicare and Medicaid and changing programs
+such as food stamps. It would call for restructuring Medicare into a
+=E2=80=98premium support=E2=80=99 system beginning in 2024, call for a defi=
+cit-neutral
+overhaul of the tax code that lowers rates and assume $147 billion in
+additional savings through =E2=80=98dynamic scoring,=E2=80=99 and would inc=
+lude
+instructions to committees to trigger the budget reconciliation process to
+cut mandatory spending. The resolution would call for fiscal 2015 base
+discretionary spending that adheres to the sequester-reduced defense and
+non-defense caps set by the Budget Control Act, and for future years it
+would assume a 10-year increase in defense caps of $387 billion while
+calling for cutting non-defense caps by $759 billion. As amended, for
+fiscal 2015 it would call for allowing $96 billion in uncapped war-related
+funding to provide additional defense funding beyond sequester-reduced
+caps, without requiring offsets.=E2=80=9D The bill was adopted by a vote of
+228-199. [CQ, 3/25/15 <<<link>>>; H. Con. Res. 27,
+Vote 142,3/25/15 <<<link>>>]
+
+=C2=B7 *35,000 Nevadans Received Pell Grants To Help Pay For College. *[Whi=
+te
+House Report, Republican Budget Resolutions: Same Failed Top-Down Economics=
+,
+ 3/18/15
+<<<link>>
+sequestration_impacts.pdf>
+]
+
+=C2=B7 *Republican Budget Eliminates Mandatory Funding For Pell Grants And
+Freezes Grants At Their Current Level Instead Of Keeping Pace With
+Inflation. *=E2=80=9CThe Republican budgets eliminate mandatory funding for=
+ Pell
+Grants, and the House budget specifies that it would freeze the maximum
+grant at its current level, instead of allowing it to increase to keep pace
+with inflation. Over time, this would reduce financial aid for almost all
+of the more than 8 million students who rely on Pell Grants to afford
+college.=E2=80=9D [White House Report, Republican Budget Resolutions: Same =
+Failed
+Top-Down Economics, 3/18/15
+<<<link>>
+sequestration_impacts.pdf>
+]
+
+=C2=B7 *House Republican Budget Elimination Of Mandatory Funding For Pell G=
+rants
+Would Likely Force Further Cuts To Eligibility And Benefits. *In October
+2015, Center on Budget and Policy Priorities CBPP Report on House
+Republican budget stated: =E2=80=9CThe plan freezes the maximum Pell Grant =
+for ten
+years, even as tuition and room and board costs will continue to rise.  It
+also eliminates Pell Grant funding on the mandatory side of the budget
+(Pell Grants receive both mandatory and discretionary funding, as explained
+below), likely forcing further cuts in eligibility and benefits.  In
+addition, it would make student loans more expensive and cut other
+education and training programs (see box).=E2=80=9D [Center on Budget and P=
+olicy
+Priorities, =E2=80=9CHouse Budget Committee Plan Cuts Pell Grants Deeply, R=
+educing
+Access to Higher Education,=E2=80=9D10/21/15
+<<<link>>>]
+
+=C2=B7 *CBO: Eliminating Mandatory Funding For Pell Grants Would Increase C=
+osts
+For Students =E2=80=93 Students Who Borrowed $23,000 Would =E2=80=9CLeave S=
+chool With
+Additional Debt Of About $3,800 Because Of The Accrued Interest Costs.=E2=
+=80=9D *In
+November 2014, the Congressional Budget Office Estimated impact of
+eliminating mandatory spending on student loans: =E2=80=9CUnder either alte=
+rnative,
+borrowers who lost access to subsidized loans would pay interest on
+unsubsidized loans from the date of loan disbursement, which would raise
+their costs. If a student who would have borrowed $23,000 (the lifetime
+domain.com) through subsidized loans over five years beginning with the
+2014=E2=80=932015 academic year instead borrowed the same amount through
+unsubsidized loans, that student would leave school with additional debt of
+about $3,800 because of the accrued interest costs. Over a typical 10-year
+repayment period, the student=E2=80=99s monthly payment would be $43 higher=
+ than if
+he or she had borrowed that same amount through subsidized loans.=E2=80=9D
+[Congressional Budget Office, Reduce or Eliminate Subsidized Loans for
+Undergraduate Students, 11/13/13
+<<<link>>>]
+
+*Heck Voted For GOP Student Loan Bill That Would Raise Student Loan
+Interest Rates When Treasury Rates Rise. *In May 2013, Heck voted for:
+=E2=80=9CUnder the GOP proposal, student loans would be reset every year, p=
+egged to
+10-year Treasury notes with added percentage points. For instance, students
+who receive subsidized or unsubsidized Stafford student loans would pay the
+Treasury rate, plus 2.5 percentage points starting for loans issued after J=
+uly
+1. Current subsidized Stafford loans are offered at a fixed 3.4 percent
+rate and unsubsidized Stafford loans are offered at 6.8 percent. The
+interest rate on loans to parents and graduate students is 7.9 percent.
+Using Congressional Budget Office projections, the GOP plan would translate
+to a 5 percent interest rate on all Stafford loans in 2014, but the rate
+would climb to 7.7 percent for loans in 2023. =E2=80=98We're ripping off ki=
+ds,=E2=80=99
+said Rep. Peter Welch, D-Vt. Stafford loan rates would be capped at 8.5
+percent, while loans for parents and graduate students would have a 10.5
+percent ceiling under the GOP plan.=E2=80=9D [Associated Press, 5/24/13
+<<<link>>
+e-student-loans/print>;
+H.R. 1911, Vote 183, 5/23/13 <<<link>>>]
+
+=C2=B7 *Associated Press: =E2=80=9CThe GOP Plan Would Cost Students And Fam=
+ilies
+Heavily.=E2=80=9D *=E2=80=9CIn real dollars, the GOP plan would cost studen=
+ts and families
+heavily, according to the nonpartisan Congressional Research Service. The
+office used the CBO projections for Treasury notes' interest rates each
+year.=E2=80=9D [Associated Press, 5/22/13
+<<<link>>
+n-plan>
+]
+
+=C2=B7 *Students With Subsidized Stafford Loans Would Pay Almost $5,000 Mor=
+e
+Over 10 Years In Real Dollars.* =E2=80=9CIn real dollars, the GOP plan woul=
+d cost
+students and families heavily, according to the nonpartisan Congressional
+Research Service. The office used the CBO projections for Treasury notes'
+interest rates each year. Students who max out their subsidized Stafford
+loans over four years would pay $8,331 in interest payments under the
+Republican bill, and $3,450 if rates were kept at 3.4 percent. If rates
+were allowed to double in July, that amount would be $7,284 over the
+typical 10-year window to repay the maximum $19,000.=E2=80=9D [Associated P=
+ress,
+5/22/13
+<<<link>>
+n-plan>
+]
+
+###

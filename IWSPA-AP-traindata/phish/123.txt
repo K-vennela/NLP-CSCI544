@@ -1,0 +1,11 @@
+Dear CU User
+You are receiving this message because your off-campus/on-campus access may have been compromised. Your account will expire in 2 days.
+Because of security problems, we applied some changes (Upgrade) and this is due to the implementation of a new version of CUWebLogin Service.
+This means while you are off-campus or on-campus you will have no access to Cornell University e-resources and internal web services.
+You can activate it by going to CUWebLogin \ Authentication Service and simply login with your NetID. (It's better to login from Cornell campus or at least via US IP address)
+To protect your privacy, completely exit your web browser when finished.
+Login will remain in effect until you completely exit your browser or several hours have elapsed.
+Regards,
+Cornell University Library
+Service Desk
+user@domain.com

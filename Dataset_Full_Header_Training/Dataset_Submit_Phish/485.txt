@@ -1,0 +1,54 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (unknown [75.102.5.22])
+	by domain.com (Postfix) with ESMTP id 7E17F468BA
+	for <user@domain.com>; Thu, 11 Jun 2015 14:24:28 -0400 (EDT)
+Received: from localhost (localhost [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 5EEBC232037;
+	Thu, 11 Jun 2015 18:26:56 +0000 (UTC)
+X-Virus-Scanned: amavisd-new at domain.com
+X-Spam-Flag: YES
+X-Spam-Score: 8.856
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.856 tagged_above=-10 required=6.6
+	tests=[AWL=2.647, BAYES_50=0.001, FORGED_MUA_OUTLOOK=3.116,
+	MSOE_MID_WRONG_CASE=0.82, SPOOF_COM2COM=2.272]
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 7BvKe-eOx-ee; Thu, 11 Jun 2015 18:26:56 +0000 (UTC)
+Received: from domain.com (domain.com [72.245.189.106])
+	by domain.com (Postfix) with ESMTP id 1A9C2232030
+	for <user@domain.com>; Thu, 11 Jun 2015 18:26:52 +0000 (UTC)
+Received: from User ([86.47.46.147]) by domain.com with Microsoft SMTPSVC(6.0.3790.3959);
+	 Thu, 11 Jun 2015 13:58:37 -0400
+From: "Support"<support@securitycenter.com>
+Subject: Chase Survey Notification.
+Date: Thu, 11 Jun 2015 18:58:37 +0100
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <user@domain.com>
+X-OriginalArrivalTime: 11 Jun 2015 17:58:38.0592 (UTC) FILETIME=[3F727000:01C9EABE]
+To: undisclosed-recipients:;
+Content-Length: 268
+Lines: 9
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1075
+
+Dear Chase member,
+
+You were qualified to participate in $50.00 domain.com reward surwey.
+Just take part in our quick 5 question survey:
+
+<<link>>
+
+Chase Bank Survey Department.
+ 2015 Chase Bank . All rights reserved.

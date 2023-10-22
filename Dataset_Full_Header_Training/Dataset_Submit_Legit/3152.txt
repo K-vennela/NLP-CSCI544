@@ -1,0 +1,56 @@
+Received: from domain.com (146.215.230.105) by
+ domain.com (43.130.141.76) with Microsoft SMTP Server id
+ 8.3.342.0; Wed, 30 Apr 2015 04:01:33 -0700
+Received: from domain.com ([160.33.194.229])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s3UB1Wxq012986	for <user@domain.com>; Wed, 30 Apr 2015 
+ 11:01:32 GMT
+Received: from mail97-co9-domain.com (mail-domain.com [207.46.163.23])
+	by domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s3UB0g3U024651	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128
+ verify=FAIL)	for <user@domain.com>; Wed, 30 Apr 2015 11:00:42 GMT
+Received: from mail97-co9 (localhost [127.0.0.1])	by mail97-co9-domain.com
+ (Postfix) with ESMTP id 263D86403A0	for <user@domain.com>; Wed, 30
+ Apr 2015 11:01:31 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:68.232.192.198;KIP:(null);UIP:(null);IPV:NLI;H:domain.com;RD:domain.com;EFVD:NLI
+X-SpamScore: 1
+X-BigFish: vps1(z4c5Izc85fhzz1f42h1ee6h1de0h1fdah2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6h208chzz8275ch1def03h177df4h17326ah172cdfh1def87h8275bh1bc7b9h1defc1h1def86h18c673h19a27bh1de097h186068h1ce120h1b9c21i1ce121i1df151iz2fh11bfMeh5fh839hc60hc61hd24he13h107ah1288h12a5h137ah13eah1441h1504h1537h153bh158dh162dh1631h1758h18e1h1946h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1fe8h1ff5h20f0h2216h2336h2438h2461h2487h24d7h2516h2545h25f6h2605h268bh26d3h2673i27b1k1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail97-co9: domain of domain.com designates 68.232.192.198 as permitted sender) client-ip=68.232.192.198; user@domain.com; helo=domain.com ;domain.com ;
+Received: from mail97-co9 (localhost.localdomain [127.0.0.1]) by mail97-co9
+ (MessageSwitch) id 1398855688791068_10480; Wed, 30 Apr 2015 11:01:28 +0000
+ (UTC)
+Received: from domain.com (unknown [10.236.132.239])	by
+ mail97-domain.com (Postfix) with ESMTP id BD77EC4004E	for
+ <user@domain.com>; Wed, 30 Apr 2015 11:01:28 +0000 (UTC)
+Received: from domain.com (68.232.192.198) by
+ domain.com (10.236.130.27) with Microsoft SMTP Server id
+ 14.16.227.3; Wed, 30 Apr 2015 11:01:28 +0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=20120411; d=198.domain.com;
+ h=From: "Fierce, Inc." <noreply@fierceinc.com>
+ bh=pVgy3YMdLrkh0TBYimWTc8ZsdGk=;
+ b=UcvTCr84fHDkTReWQfpFsaV+5EmagcmsLJClawqIBmvDi7HcdgBFMK4bo/mxfe9ufo0KwO3U8fTW
+   W9DB70olNsQx2/NNNF6SUWuTPcAEWcS652PJ5iBO2Ihd+d3cPM38WjqkzgAQRxVTpljIqNyw0yYu
+   WDPBrG77S5oKfXmNdHk=
+Received: by domain.com id hc3c0g163hsb for
+ <user@domain.com>; Wed, 30 Apr 2015 05:00:46 -0600 (envelope-from
+ <user@domain.com>)
+From: "Fierce, Inc." <noreply@fierceinc.com>
+To: <user@domain.com>
+Subject: Fierce Webinar: a reminder to join Susan Scott @ WiRL
+Date: Wed, 30 Apr 2015 05:00:46 -0600
+List-Unsubscribe: <mailto:user@domain.com>
+x-job: 1059635_2208650
+Message-ID: <140user@domain.com>
+Return-Path: 
+ user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+ Fierce + Women in Real Life domain.com 2014        
+
+ A reminder to join Susan Scott at the WiRL Online Leadership domain.com    
+
+REGISTER TODAY  
+

@@ -1,0 +1,62 @@
+Received: from domain.com (146.215.230.102) by
+ domain.com (43.130.141.77) with Microsoft SMTP Server id
+ 8.3.297.1; Wed, 19 Feb 2015 11:01:35 -0800
+Received: from domain.com ([160.33.194.230])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s1JJ1ZiY014426	for <user@domain.com>; Wed, 19 Feb 2015 
+ 19:01:35 GMT
+Received: from mail43-va3-domain.com (mail-domain.com
+ [216.32.180.115])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s1JJ1YXe025163
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Wed, 19 Feb 2015 19:01:34 GMT
+Received: from mail43-va3 (localhost [127.0.0.1])	by mail43-va3-domain.com
+ (Postfix) with ESMTP id 7807830015C	for <user@domain.com>; Wed, 19
+ Feb 2015 19:01:34 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:207.254.213.243;KIP:(null);UIP:(null);SRV:BULK;H:domain.com;RD:domain.com;EFVD:NLI
+X-SpamScore: 12
+X-BigFish: vps12(z3e12h579ehzc89bhc857hzz1f42h2148h208ch1ee6h1de0h1fdah2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6hzz1d7338h1de098h1def03h177df4h17326ah172cdfh1def87h8275bh1bc7b9h1def86h19a27bh1de097h186068h1ce121iz2fheh5fh839h8aaha12hd25h1288h12a5h137ah13eah1441h1504h1537h153bh162dh1631h1758h18e1h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1fe8h1ff5h20f0h2216h2336h2438h2461h2487h24d7h2516h2545h255dh255eh255fs1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail43-va3: domain of domain.com designates 207.254.213.243 as permitted sender) client-ip=207.254.213.243; envelope-from=bounces+1158822.54574511.267567@domain.com; helo=domain.com ;domain.com ;
+Received: from mail43-va3 (localhost.localdomain [127.0.0.1]) by mail43-va3
+ (MessageSwitch) id 139283649250532_30712; Wed, 19 Feb 2015 19:01:32 +0000
+ (UTC)
+Received: from domain.com (unknown [10.7.14.231])	by
+ mail43-domain.com (Postfix) with ESMTP id DC5F4A017F	for
+ <user@domain.com>; Wed, 19 Feb 2015 19:01:31 +0000 (UTC)
+Received: from domain.com (207.254.213.243) by
+ domain.com (10.7.99.28) with Microsoft SMTP Server id
+ 14.16.227.3; Wed, 19 Feb 2015 19:01:29 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=default; d=domain.com;
+ h=Mime-Version:From: Hollywood & Swine <info@hollywoodandswine.com>
+ bh=y6j3Bpvtf0WlX2eGrzVA27I0Obxpu57KBmnhMxRmmzs=;
+ b=pdhqawBs6uvPB1FvbrrTG+3M9U1oL5+fJPoUjcSmsHQsAdtSsMVqaEeostdSlOCWp+ypO992aWsw
+   kpDlbEAx+HPWusdubRenh+Ve7rv2xbjqiSVnSjJ+YXTDPNf7SnkKrVZwkWD6d6c3uR+f7/Zc9j+2
+   2kUIYWEF7tKbCZew+Us=
+From: Hollywood & Swine <info@hollywoodandswine.com>
+To: <user@domain.com>
+Date: Wed, 19 Feb 2015 14:01:29 -0500
+Subject: =?UTF-8?Q?Breaking_News:_Jimmy_Fallon=E2=80=99s_=E2=80=98Tonight_Show?=
+ =?UTF-8?Q?=E2=80=99_A_Hit_with_Unemployed_Americans_Who_Stay_up_All_Night?=
+ =?UTF-8?Q?_Watching_Television?=
+Errors-To: bounces+1158822.54574511.267567@domain.com
+List-Unsubscribe: <<<link>>>, <mailto:bounces+1158822.54574511.267567@domain.com>
+X-List-Unsubscribe: <<<link>>>
+X-Unsubscribe-Web: <<<link>>>
+X-Feedback-ID: 01_1158822_267567:01_1158822:01:vocus
+X-ICPINFO: 
+X-Return-Path-Hint: bounces+1158822.54574511.267567@domain.com
+Message-ID: <0.1.user@domain.com>
+Return-Path: bounces+1158822.54574511.267567@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+
+
+
+Forward to a Friend »    <<link>>    <<link>>       
+ <<link>>       
+
+February 18th, 2014
+

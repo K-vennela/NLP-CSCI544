@@ -1,0 +1,127 @@
+Dear Tom,
+Thanks for your message and papers. The problem is clearly one of the
+science-policy interface. If science cannot demonstrate that it makes a
+difference in terms of avoided climate change and impacts if GHG
+concentrations are stabilised, why bother? Currently a Danish guy, Bjrn
+Lomborg, is making the headlines again (Guardian, New York Times,
+Economist), TV programmes, etc.) telling the public (and policymakers)  not
+only that there aren;'t any environmental problems, but also, even if
+climate change may be real, it does not make any sense at all to do
+something about it, since efforts to control GHG emissions are expensive
+and the mitigation would not make any difference at all anyway in terms of
+avoiding negative consequences. Very popular message. Now clearly,
+scientists should clearly explain what they can say about this issue. My
+expectation would indeed be that comparing climate changes resulting from
+reference cases and from stabilization cases would not be distinguishable
+until well into the 2nd half of the century (like in the GRL paper), but if
+this is so, so be it. 2050 seems a lot closer now in 2001 (2050 is THIS
+century and our childrens' lifetime) than it was in 1999 (when 2050 was
+something of the next century and some abstract next generations). It is a
+matter of communication skills to get the message across about the long
+timescales and inertia of the systems involved, and the difficulty of
+identifying the climate change signal in the noise of natural variability.
+I would be curious what your opinion is about the UK work of Nigel Arnell,
+Martin Parry, John Mitchell and others, analysing the (significant) avoided
+impacts of 550 stabilisation from an IS98a reference. Another strategy of
+concerned scientists may be not to do these analyses at all in order to
+avoid a possible result that the differences between reference and
+stabilisation can not be demonstrated in a scientifically credible and
+unambiguous way and hence climate policy action may be obstructed. To me,
+this does not seem to be the honest way to go.
+I am not sure what this all implies for the planned recommended
+stabilization runs. Your points about the climate sensitivity and non-CO2
+gases are well taken. I am not sure the sulfur emissions in the proposed
+post-SRES scenarios would make a lot of difference, since already in the
+SRES base cases sulfur emissions are pretty low, and these would only be
+slightly different (usually lower) in the stabilisation cases. You suggest
+"carefully constructed idealized scenarios". Do you mean carefully
+constructed from the climate system point of view in order to get
+"distinguishable results", or carefully constructed from the socio-economic
+point of view so as to analyse real-world consistent and plausible futures
+(the latter is what Morita's exercise tried to achieve)? My answer would
+be: both.
+I'd like to reflect a little bit more on this and since I am a scenario
+expert rather than a climate expert, await reactions from people more
+expert in the area of climate modelling, like Sarah, Mike and Tim, and
+Martin himself as chair of the TGCIA.
+Thanks again,
+Rob
+Tom Wigley                                                                                     
+<wigley@ucar.        To:     Rob Swart <Rob.Swart@rivm.nl>                                     
+edu>                 cc:     user@domain.com, tim.carter@fmi.fi, m.hulme@uea.ac.uk,            
+s.raper@uea.ac.uk, Tsuneyuki MORITA <t-morita@nies.go.jp>, steve smith    
+25-08-01             <ssmith@pnl.gov>, (bcc: Rob Swart/RIVM/NL)                                
+01:47                Subject:     Re: TGCIA scenario recommendations                           
+Please                                                                                         
+respond to                                                                                     
+wigley                                                                                         
+Rob and others,
+The key thing with doing stabilization runs with AOGCMs is (as Rob says)
+that the different cases "would have to be distinguishable from one
+another". This is the crux of the problem (in fact, it is a non-trivial
+problem even to define what is meant by "distinguishable from one
+another").
+A few years ago we decided to try to do some matched no-climate-policy
+and (550ppm) stabilization runs where the two scenarios had some
+semblance of realism. (It turns out that the only similar work is that
+done by the Hadley Ctr, but the scenarios they used are highly
+idealized.) Our runs were also idealized in that we only changed CO2 --
+in the best scientific tradition of changing only one thing at a time to
+assess sensitivities. The first results of our exercise (using CSM) are
+in Dai et al., J. Climate 14, 485-519, 2000. A number of things were
+clear from this. First, one cannot tell much from single realizations of
+the two cases -- ensemble runs are essential. Second, as we already knew
+from running simple models, the no-policy and stabilization runs diverge
+only slowly. Even after 50 years, the two are only just distinguishable
+at the global-mean level; so, clearly,differences at the regional level
+(especially for precipitation) would not be detectible above the noise
+of natural variability.
+So our next step was to do ensembles of 5, this time using PCM instead
+of CSM (this paper is in press in BAMS -- for a pdf preprint, look at
+www.cgd.ucar.edu/cas/adai/). Even then, for ensemble means, the
+separation between the no-policy and stabilization cases is slow. So I
+devised an extended no-policy case out to 2200 (50 years beyond where
+the CO2 level stabilizes in the stabilization run), and we extended some
+of the runs out to 2200. This work is in press in GRL (and downloadable
+from the above site). Additional important results come from these
+experiments. One important result is that, even for precipitation, the
+*patterns* of change are not detectibly different between the no-policy
+and stabilization runs. A second important result is that, for most of
+the world the intra-ensemble differences are similar to or greater than
+the underlying signals of change. Distinguishing the no-policy and
+stabilization runs therefore presents a much greater challenge than any
+of you probably realize.
+There are two issues to keep in mind, however. The first is that PCM and
+CSM have quite low climate sensitivities. So, will things be different
+if one used a more sensitive model? I suspect not in any major way. The
+reason is because inter-annual variability tends to be higher in more
+sensitive models, so the signal-to-noise ratio may not change much. This
+also applies to the intra-ensemble noise, since the root cause of these
+intra-ensemble differences is the internal variability of the model.
+The second issue is that we have only changed CO2 in our experiments. We
+know that attempts to stabilize CO2 via emissions reductions also affect
+SO2 emissions -- so perhaps the no-policy and stabilization cases might
+be more distinguishable if one accounted for these concomitant SO2
+effects? I have addressed this issue at the global-mean level in a paper
+on stabilization that I will attach to this email. (A more extensive
+analysis is in another paper, with Steve Smith as my co-author, that I
+am not ready to share with anyone just yet.) My judgment, as someone
+with quite a lot of experience in this area, is that having full spatial
+details will not make the problem any easier; since, as the spatial
+scale is reduced so the noise increases.
+My recommendation from all this is that, first, you read the attached
+paper (and I would welcome feedback on this) and the three
+above-mentioned Dai et al. paper. Then, you might want to re-consider
+what your strategy should be. In my view, I do not think we as a
+community are at the stage where we can blindly develop paired no-policy
+and stabilization scenarios and simply feed them into AOGCMs to see the
+consequences. I believe that carefully constructed idealized scenarios
+(perhaps based on what Morita is doing) will provide much more useful
+information. You are already probably well aware of the need to do
+ensemble runs, and I don't need to remind you how computationally
+expensive this can be.
+I hope these comments, and the papers, are useful. I'm sorry that it is
+impossible for me to come to the Barbados meeting, but I am willing to
+help in any way that I can.
+Best wishes (and good luck), Tom.
+********************************

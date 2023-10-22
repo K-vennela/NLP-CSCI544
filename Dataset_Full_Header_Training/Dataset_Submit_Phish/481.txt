@@ -1,0 +1,49 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id 39436468B2
+	for <user@domain.com>; Wed,  1 Apr 2015 23:44:26 -0400 (EDT)
+Received: from smtp27.orange.fr (smtp27.orange.fr [80.12.242.95])
+	by domain.com (Postfix) with ESMTP id 0E3A6131F75B
+	for <user@domain.com>; Wed,  1 Apr 2015 23:44:26 -0400 (EDT)
+Received: from me-domain.com (localhost [127.0.0.1])
+	by mwinf2709.orange.fr (SMTP Server) with ESMTP id 5BBBB1C00087;
+	Thu,  2 Apr 2015 05:44:25 +0200 (CEST)
+Received: from User (AToulouse-258-1-121-10.w90-60.abo.wanadoo.fr [90.60.216.10])
+	by mwinf2709.orange.fr (SMTP Server) with SMTP id 6DE861C00082;
+	Thu,  2 Apr 2015 05:43:48 +0200 (CEST)
+X-ME-UUID: 20090402034349450.6user@domain.com
+From: "eBay Inc"<AccountsAppleyUp032009@bay.com>
+Subject: Information your Seller Account !
+Date: Thu, 2 Apr 2015 05:44:27 +0200
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20090402034349.6user@domain.com>
+To: undisclosed-recipients:;
+Content-Length: 576
+Lines: 18
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1024
+
+<!--
+div{color:#000}div{font-family:arial,sans-serif}.g{margin:1em 0}td{color:#000}td{font-family:arial,sans-serif}.j{width:34em}.std{font-size:82%}-->
+
+Dear Ebay Seller Member,
+
+    Please login to your 
+    Account and domain.com the
+ Message Center section in
+    order to   Message.
+
+    To Login, please click the link below:
+
+LogIN_Seller

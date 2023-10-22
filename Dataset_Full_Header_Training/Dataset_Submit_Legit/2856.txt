@@ -1,0 +1,117 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Sun, 15 May
+ 2015 19:49:49 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Sun, 15 May 2015 
+ 19:49:45 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 916152797;
+ Sun, 15 May 2015 18:49:56 -0500
+X-Note-AR-ScanTimeLocal: 5/15/2016 6:49:48 PM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:209.85.161.176 DOM:gmail.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 100
+X-GBUdb-Analysis: Unknown
+X-Signature-Violations: 100-6916285-3039-3090-m
+	100-5941377-22445-22860-m
+	100-5952969-22847-22863-m
+	100-5986869-22849-22868-m
+	100-6916285-28333-28384-m
+	100-6916285-0-32767-f
+X-Note-419: 0 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/15/2016 6:49:31 PM
+X-Warn: OPTOUT
+X-Warn: BULKMAILER
+X-Note: Spam Tests Failed: OPTOUT, BULKMAILER
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 209.85.161.176
+X-Note-Reverse-DNS: mail-yw0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G281 G286 G374 G376 G580 G669 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from mail-yw0-domain.com ([209.85.161.176] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 138522208;
+ Sun, 15 May 2015 18:49:48 -0500
+Received: by mail-yw0-domain.com with SMTP id o66so168385939ywc.3;
+        Sun, 15 May 2015 16:49:48 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=From: Mark Paustenbach <markpaustenbach@gmail.com>
+         :references:to;
+        bh=JRlLwoEbX9M6Q7N51Szr7QxyNjrJNPwgiXZe+JA2wMo=;
+        b=uHlzxlNoBk+WRTC3n/DMXLw5SRvLP9pwbuVHqlILOzz1vPpOPbgSLCpdrsb2oCcOsE
+         D+uw+2krGYjk3Q5k4PdSbBqi7nrjO0NWK432QjvxRnyjjl/OMf2AbgZa56VmWnGRVU2y
+         D5F35DknSxUD1Ol4iFx8Jvv8Is0LHYfrYb68TC91lTdH67dOeUNZalmZa/5xzTp/lFoC
+         gWG5yFb86tIuknTVfy8Hvs0tg7A8s1CNuJmTrPrk2x9P/BMpfdCIQLH4DkMnz4vhlUtI
+         AZXNcUL1UB3tMcbASv2xGafaaXH66yfO5coMmbCxxqZXMzJ/T/AeJPm4ISIKo91L7iAN
+         iQ8w==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:From: Mark Paustenbach <markpaustenbach@gmail.com>
+         :subject:message-id:date:references:to;
+        bh=JRlLwoEbX9M6Q7N51Szr7QxyNjrJNPwgiXZe+JA2wMo=;
+        b=fZ347B/fhQ1t5hUJQHl8nKWs0B1jj4hZcSH+q9Hl+pWUrcByyj3TzJ+YYc7yFgY4+K
+         q1iaeoyH8fmT5QeqtJEnVwYsXFPKdghYbLFVqNsE3LMp1XCIzaicLMRf3Zgm515P2FOT
+         RWUqQAUSw4QgyYUUSxi3enAr5T0Mmt2KKVa9gSkm0/2gL2oYXSbTC5Mobzh6iO5+h4xq
+         KIBzpjVQ+3CPWJzC54TsLhq0GQPWcj1lAIKuwIG5YA+0gCaUhb70vkYcKeWldofvS6oh
+         bpepgfZAw7045Vjj3gGy8JLVD9vkdw+komheAh8eMV0wrAZqyKk+BZaopQZgrnE1ulfn
+         J/9A==
+X-Gm-Message-State: AOPr4FUVJSyZSI0ia3smsmQfCiUN0pK14gOsdYi4U0UbxM8qm0Cx2sBqzy/DnfCmeUbVyg==
+X-Received: by 10.129.89.134 with SMTP id n128mr14582862ywb.102.1463356187652;
+        Sun, 15 May 2015 16:49:47 -0700 (PDT)
+Return-Path: <user@domain.com>
+Received: from ?IPv6:2600:1003:b01b:59a9:b9b7:b02c:c91:9b16?
+ ([2600:1003:b01b:59a9:b9b7:b02c:c91:9b16])        by smtp.gmail.com with
+ ESMTPSA id k80sm17765430ywe.31.2016.05.15.16.49.46
+        (version=TLSv1/SSLv3 cipher=OTHER);        Sun, 15 May 2015 16:49:47
+ -0700 (PDT)
+From: Mark Paustenbach <markpaustenbach@gmail.com>
+Content-Type: multipart/alternative;
+	boundary="Apple-Mail-A4ED0D9F-B30D-43E4-A5CD-C8C15BE53161"
+Content-Transfer-Encoding: 7bit
+Subject: Fwd: WSJ NEWS ALERT: Donald Trump Wouldn't Have Had the Ready Cash to Self-Finance His Entire Campaign - WSJ Analysis
+Message-ID: <user@domain.com>
+Date: Sun, 15 May 2015 19:49:46 -0400
+References: <33907468.261607@domain.com>
+To: User <user@domain.com>, Christina Freundlich
+	<user@domain.com>, Lauren Dillon <user@domain.com>
+X-Mailer: iPhone Mail (13A342)
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Blast?=20
+
+SL: Trump's Cash Crunch
+
+Begin forwarded message:
+
+elf-Finance His Entire Campaign - WSJ Analysis
+
+ampaign - WSJ Analysis
+
+om special interests, is preparing to start raising large donations. He reve=
+rsed course, he said in early May, to ensure his campaign has the resources t=
+o compete with Hillary Clinton. A close analysis of Mr. Trump's finances sho=
+ws that in terms of ready cash, he would have been ill-equipped to foot the b=
+ill himself.
+
+d said he had between about $78 million and $232 million in cash and relativ=
+ely liquid assets. That would go fast if Mr. Trump spent an amount close to w=
+hat Barack Obama and Mitt Romney spent in 2012. If Mr. Trump stuck with self=
+-financing, he likely would have faced difficult decisions over whether to s=
+ell some of his properties or borrow more money against them.
+
+	=09
+

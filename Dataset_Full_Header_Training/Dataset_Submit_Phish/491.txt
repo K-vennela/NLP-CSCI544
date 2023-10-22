@@ -1,0 +1,88 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.4.9])
+	by domain.com (Postfix) with ESMTP id 4A912468C1
+	for <user@domain.com>; Wed,  2 May 2015 03:15:52 -0400 (EDT)
+Received: from domain.com (bio.hgy.es [193.146.180.21])
+	by domain.com (Postfix) with ESMTP id B2CB7131FA65
+	for <user@domain.com>; Wed,  2 May 2015 03:15:51 -0400 (EDT)
+Received: by domain.com (Postfix)
+	id 5520C1C4CC; Wed,  2 May 2015 09:15:48 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [193.146.180.108])
+	by domain.com (Postfix) with ESMTP id 79CD81C3AE
+	for <user@domain.com>; Wed,  2 May 2015 09:15:47 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 6CF22679
+	for <user@domain.com>; Wed,  2 May 2015 09:15:47 +0200 (CEST)
+X-Quarantine-ID: <H45QwaxoL6o5>
+X-Virus-Scanned: Debian amavisd-new at domain.com
+X-Spam-Flag: YES
+X-Spam-Score: 27.319
+X-Spam-Level: ***************************
+X-Spam-Status: Yes, score=27.319 tagged_above=0 required=5
+	tests=[BAYES_50=0.001, DNS_FROM_RFC_ABUSE=0.2,
+	FORGED_MUA_OUTLOOK=4.056, FORGED_OUTLOOK_HTML=2.713,
+	FORGED_OUTLOOK_TAGS=2.492, HTML_MESSAGE=0.001, MIME_HTML_ONLY=0.001,
+	RAZOR2_CF_RANGE_51_100=0.5, RAZOR2_CF_RANGE_E4_51_100=1.5,
+	RAZOR2_CHECK=12, RCVD_IN_BL_SPAMCOP_NET=1.558,
+	RCVD_IN_SORBS_WEB=1.456, UNDISC_RECIPS=0.841]
+Received: from domain.com ([193.146.180.21])
+	by localhost (domain.com [193.146.180.108]) (amavisd-new, port 10024)
+	with ESMTP id H45QwaxoL6o5 for <user@domain.com>;
+	Wed,  2 May 2015 09:14:50 +0200 (CEST)
+Received: from JTNVideo (24-180-63-195.domain.com [24.180.63.195])
+	by domain.com (Postfix) with ESMTP id 3235B1C330
+	for <user@domain.com>; Tue,  1 May 2015 23:47:58 +0200 (CEST)
+Received: from User ([71.246.101.105]) by JTNVideo with Microsoft SMTPSVC(5.0.2195.6713);
+	 Tue, 1 May 2015 14:46:25 -0700
+Reply-To: <user@domain.com>
+From: "PayPal" <service@paypal.com>
+Subject: Resolution center
+Date: Tue, 1 May 2015 17:33:16 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <user@domain.com>
+X-OriginalArrivalTime: 01 May 2015 21:46:25.0514 (UTC) FILETIME=[2AAA3CA0:01C78C3A]
+To: undisclosed-recipients: ;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1203
+
+
+
+
+Online Banking Profile Update Required.
+
+ Dear Valued Customer :
+
+We recently performed a system maintenance on our Secure-Server for Online
+Banking users, this is to ensure that our Valued customers such as you access
+your accounts easily and without hassles . This Upgrade was designed in order to
+provide a better and risk-free Online Banking session, during an attempt to
+upgrade your account into our newly-secured secured-server we were unable to
+update your account therefore leading us to send you this e-mail letter which
+was sent directly from our Secured Updating Server. You are required to click on
+the " Update Now " link stated below in order to update your account ,
+clicking on the " Update Now " will take you to our external secured server (
+Fully Secured ) where you will be required to fill in necessary information in
+order to complete your update process . Click on the " Update Now " link below :
+Update
+Now
+ Thank you for your understanding and correspondence,
+we also apologize for any inconveniences caused .
+
+Online Banking Accounts Department -
+ Bank Of
+America .
+Bank of America, Member FDIC.
+
+ 2015 Bank of America Corporation. All Rights Reserved.

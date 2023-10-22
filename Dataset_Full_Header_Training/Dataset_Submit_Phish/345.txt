@@ -1,0 +1,65 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id C883946895
+	for <user@domain.com>; Fri, 27 Mar 2015 13:24:34 -0400 (EDT)
+X-Greylist: delayed 18849 seconds by postgrey-1.27 at domain.com; Fri, 27 Mar 2015 13:24:34 EDT
+Received: from domain.com (mail.solutionintegrators.biz [65.183.4.6])
+	by domain.com (Postfix) with ESMTP id 9023B131F6FC
+	for <user@domain.com>; Fri, 27 Mar 2015 13:24:34 -0400 (EDT)
+Received: from User ([76.160.175.238]) by domain.com with MailEnable ESMTP; Thu, 26 Mar 2015 18:31:20 -0500
+From: "Paypal Inc."<aw-conftrm@paypal.us>
+Subject: Dear Valued PayPal Member!
+Date: Thu, 26 Mar 2015 18:33:18 -0500
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20090327172434.9023user@domain.com>
+To: undisclosed-recipients:;
+Content-Length: 1480
+Lines: 32
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1020
+
+Dear valued PayPal member,
+
+	It has come to our attention that your PayPal account information needs to be 
+	updated as part of our continuing commitment to protect your account and to 
+	reduce the instance of fraud on our website. If you could please take 5-10 minutes 
+	out of your online experience and update your personal records you will not run into 
+	any future problems with the online service.
+
+	However, failure to update your records will result in account suspension. 
+	Please update your records on or before 
+
+March 26, 2009.
+
+	Once you have updated your account records, your PayPal session will not be 
+	interrupted and will continue as normal.
+
+
+
+
+	To update your PayPal records click on the following link:
+
+
+
+
+<<link>>
+
+	Thank You.
+
+	PayPal Update Team
+
+	Accounts Management As outlined in our User Agreement, PayPal will 
+	periodically send you information about site changes and enhancements.
+
+Copyright  1999-2007 PayPal. All rights reserved.

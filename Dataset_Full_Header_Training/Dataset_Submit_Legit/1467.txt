@@ -1,0 +1,75 @@
+Received: from domain.com (146.215.230.103) by
+ domain.com (43.130.141.76) with Microsoft SMTP Server id
+ 8.3.342.0; Fri, 1 Aug 2015 09:45:37 -0700
+Received: from domain.com ([160.33.194.229])	by
+ domain.com (Sentrion-MTA-4.3.1/Sentrion-MTA-4.2.2) with
+ ESMTP id s71GjbR3015890	for <user@domain.com>; Fri, 1 Aug 2015 
+ 16:45:37 GMT
+Received: from na01-bn1-domain.com
+ (mail-domain.com [207.46.163.144])	by
+ domain.com (Sentrion-MTA-4.3.1/Sentrion-MTA-4.2.2) with
+ ESMTP id s71Gja47014415	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128
+ verify=FAIL)	for <user@domain.com>; Fri, 1 Aug 2015 16:45:37 GMT
+Received: from BL2FFO11FD025.protection.gbl (10.173.160.30) by
+ BL2FFO11HUB022.protection.gbl (10.173.161.46) with Microsoft SMTP Server
+ (TLS) id 15.0.980.11; Fri, 1 Aug 2015 16:45:31 +0000
+Received: from mx-justfab-domain.com (192.64.237.158) by
+ domain.com (10.173.161.104) with Microsoft
+ SMTP Server id 15.0.990.10 via Frontend Transport; Fri, 1 Aug 2015 16:45:31
+ +0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; s=mt; d=domain.com;
+ h=Date:From: Deadline.com <alerts@deadline.com>
+ bh=4hKGqwGuyZzPytcfEhmnMyGUjOg=;
+ b=A0FqAFsebfLbFMQ55/dSGP4SDe5OOipsnXWK6FgNmEyKtkv9k89FKCrtd7U9X0CntYpzo0lfJCWo
+   8yvynAMVyQyE6fQh2l9dDWUAXSsXoZeBvJQCoh2kRXQcCzlUtfSKbAu6kCQqVP/Ls6bsLTKCsqEW
+   G1AEnboc5OBdXPuC5YA=
+Received: from nyp1-p-p4334-prd-jma-11.sailthru.pvt (65.39.215.163) by
+ mx-justfab-domain.com id hrf23k1qqbs6 for <user@domain.com>; Fri,
+ 1 Aug 2015 12:44:08 -0400 (envelope-from <user@domain.com>)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1406911433;
+	s=sailthru; d=deadline.com;
+	h=Date:From: Deadline.com <alerts@deadline.com>
+	bh=yZQPRaWETEhZnL6DP/32Y+xaV3yGRqTKxfo/z+Kx3tU=;
+	b=jSWUZziA1toICugl83nN3sRFqlMAb5xO0VWfoRxiDaJGks5CC3cx3KTROP335z1U
+	Pz/M/lCQNBoQDBp/HPa50LGGOfavc2mcXjO6RvGyhIEsXzw86g9Js6rSp8xD+dQMJ5G
+	l2hOGOiSCHwMTLSTis339axxUIg+D0n6ZgASMsiI=
+Date: Fri, 1 Aug 2015 12:43:53 -0400
+From: Deadline.com <alerts@deadline.com>
+To: <user@domain.com>
+Message-ID: <20140801164353.2886197.4578@domain.com>
+Subject: [domain.com] Jerry Levin Q&A: Ex-Time Warner Chief Decries Fox
+ Mega-Merger And Lack Of Creative Guts And Corporate Vision
+Precedence: bulk
+X-TM-ID: 20140801164353.2886197.4578
+X-Info: Message sent by domain.com customer Deadline
+X-Info: We do not domain.com unsolicited commercial email
+X-Info: Please report abuse by forwarding complete headers to
+X-Info: user@domain.com
+X-Mailer: domain.com
+X-JMailer: nyp1-p-p4334-prd-jma-11.sailthru.pvt
+X-IADB-IP: 65.39.215.25
+X-IADB-IP-REVERSE: 25.215.39.65
+X-IADB-URL: <<link>>
+X-Unsubscribe-Web: <<link>>
+List-Unsubscribe: <<<link>>>,
+ <mailto:user@domain.com>
+X-rpcampaign: stdgp2886197
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: 
+ UriScan:(133331);SFV:NSPM;SFS:(189002)(199002)(18804003)(85852003)(93916002)(89996001)(81342001)(50226001)(83072002)(76482001)(19619215002)(81542001)(95736001)(50986999)(19580405001)(83322001)(92726001)(92566001)(99396002)(101416001)(19300405004)(80022001)(21056001)(15202345003)(44976005)(88136002)(956001)(71186001)(47976999)(31966008)(74662001)(20776003)(146001)(64706001)(19580395003)(46102001)(77156001)(79102001)(77982001)(15975445006)(87286001)(19618635001)(4396001)(87836001)(84326002)(62966002)(69596002)(36756003)(18926405002)(110136001)(15187005004)(104016003)(74502001)(53416004)(77096002)(104166001)(107886001)(2361001)(102836001)(107046002)(229853001)(2009002)(85306004)(2351001)(105586002)(106476002)(81156004)(106466001)(106356001)(110146005)(18206015026)(19617315012)(110126003)(106996001)(959005)(105646008)(85226002)(17308445002)(562404015)(94166001);DIR:INB;SFP:;SCL:1;SRVR:BL2FFO11HUB022;H:mx-justfab-domain.com;FPR:;MLV:ovr;PTR:InfoNoRecords;MX:1;A:1;LANG:en;
+X-Microsoft-Antispam: BCL:0;PCL:0;RULEID:(120001)
+Return-Path: user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+<<link>> 
+
+<<link>> 
+
+        Deadline Hollywood has posted urgent news:              
+
+        Jerry Levin Q&A: Ex-Time Warner Chief Decries Fox Mega-Merger And Lack Of Creative Guts And Corporate Vision            
+        For all of Deadline's headlines, follow us @Deadline on Twitter.                
+
+This email was sent to user@domain.com by Deadline. To ensure delivery to your inbox (and not your spam folder), please add user@domain.com to your address book. If you prefer not to continue receiving email communications, ple

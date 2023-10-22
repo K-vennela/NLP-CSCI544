@@ -1,0 +1,32 @@
+X-Sender: esper@mail.wsl.ch
+Date: Mon, 12 Jan 2004 10:26:27 +0100
+To: Briffa Keith <k.briffa@uea.ac.uk>,
+Cook Ed <user@domain.com>
+From: Jan Esper <esper@wsl.ch>
+Subject: EOS revision
+Hi Ed and Keith
+for your information, I attached the revision of the EOS article. In this version we
+added some lines about the data-overlap between the MBH and ECS records.
+I also attached a figure showing a comparison between MBH and EsperFULL (using all data)
+and EsperSUB (without Tornetraesk and the Polar Urals).
+Take care
+Jan
+--
+Dr. Jan Esper
+Swiss Federal Research Institute WSL
+Zuercherstrasse 111, 8903 Birmensdorf
+Switzerland
+Phone: +41-1-739 2510
+Fax:     +41-1-739 2215
+Email:   esper@wsl.ch
+--
+Professor Keith Briffa,
+Climatic Research Unit
+University of East Anglia
+Norwich, NR4 7TJ, U.K.
+Phone: +44-1603-593909
+Fax: +44-1603-507784
+[1]<<link>>[2]/
+References
+1. <<link>>
+2. <<link>>

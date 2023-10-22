@@ -1,0 +1,45 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 6FED423CA8B
+	for <user@domain.com>; Mon,  5 Dec 2015 23:28:18 -0600 (CST)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id VvkC67E1hd5m for <user@domain.com>;
+	Mon,  5 Dec 2015 23:28:16 -0600 (CST)
+Received: from outlook.santacruz.k12.az.us (mail.santacruz.k12.az.us [67.212.206.114])
+	by domain.com (Postfix) with ESMTP id 8805323CA84
+	for <user@domain.com>; Mon,  5 Dec 2015 23:28:16 -0600 (CST)
+Received: from SC-domain.com ([10.1.1.117]) by
+ sc-exch-domain.com ([10.1.1.114]) with mapi; Mon, 5 Dec 2015 22:28:12
+ -0700
+From: Luz Romero <LRomero@santacruz.k12.az.us>
+Date: Mon, 5 Dec 2015 22:28:12 -0700
+Subject: System Administrator
+Thread-Topic: System Administrator
+Thread-Index: AQHMs9fYdpiexvtwdEezgyt5Z+8I8Q==
+Message-ID: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+acceptlanguage: en-US
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 41
+
+Your mailbox has exceeded the storage domain.com which is 20GB as set by your ad=
+ministrator, you are currently running on 20.9GB, you may not be able to se=
+nd or receive new mail until you re-validate your mailbox.To re-validate yo=
+ur mailbox please <<<link>>> CLICK HERE<<<link>>>
+
+Thanks
+System Administrator.
+WebCT Administrator

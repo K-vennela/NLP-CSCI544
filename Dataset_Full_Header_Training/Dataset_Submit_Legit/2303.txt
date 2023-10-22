@@ -1,0 +1,64 @@
+Received: from domain.com (146.215.230.104) by
+ domain.com (43.130.141.78) with Microsoft SMTP Server id
+ 8.3.264.0; Tue, 25 Feb 2015 21:45:33 -0800
+Received: from domain.com ([160.33.194.231])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s1Q5jWKe015741	for <Steven_O'user@domain.com>; Wed, 26 Feb 2015 
+ 05:45:32 GMT
+Received: from mail184-ch1-domain.com (mail-domain.com
+ [216.32.181.174])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s1Q5kks6000481
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <Steven_O'user@domain.com>; Wed, 26 Feb 2015 05:46:46 GMT
+Received: from mail184-ch1 (localhost [127.0.0.1])	by
+ mail184-ch1-domain.com (Postfix) with ESMTP id 1A3C92601F3	for
+ <Steven_O'user@domain.com>; Wed, 26 Feb 2015 05:45:32 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:64.18.0.147;KIP:(null);UIP:(null);IPV:NLI;H:domain.com;RD:domain.com;EFVD:NLI
+X-SpamScore: 2
+X-BigFish: vps2(zzda00hdc73hzz1f42h208ch1ee6h1de0h1fdah2073h2146h1202h1e76h2189h1d1ah1d2ah21bch1fc6hzz17326ah8275bh1de097h186068h18602eh17598djz2dh109h2a8h839h8e3h93fhd25he5bhe83h11a0h1288h12a5h12a9h12bdh137ah13b6h13eah1441h1504h1537h153bh162dh1631h1758h18b6h18e1h1946h19b5h1b0ah2222h224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1fe8h1ff5h2052h20b3h2216h22d0h2336h2438h2461h2487h24d7h2516h2545h255eh1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received: from mail184-ch1 (localhost.localdomain [127.0.0.1]) by mail184-ch1
+ (MessageSwitch) id 1393393529151424_25329; Wed, 26 Feb 2015 05:45:29 +0000
+ (UTC)
+Received: from domain.com (domain.com
+ [10.43.68.250])	by mail184-domain.com (Postfix) with ESMTP id 17355C0047
+	for <Steven_O'user@domain.com>; Wed, 26 Feb 2015 05:45:29 +0000 (UTC)
+Received: from domain.com (64.18.0.147) by
+ domain.com (10.43.70.13) with Microsoft SMTP Server (TLS) id
+ 14.16.227.3; Wed, 26 Feb 2015 05:45:24 +0000
+Received: from domain.com ([165.156.4.1]) (using TLSv1) by
+ domain.com ([64.18.4.12]) with SMTP	ID
+ DSNKUw1/user@domain.com; Tue, 25 Feb 2015 21:45:23
+ PST
+Received: from unknown (HELO domain.com) ([3.3.179.61])  by
+ domain.com with ESMTP/TLS/AES128-SHA; 26 Feb 2015 01:12:01 -0500
+Received: from domain.com (3.161.17.58) by
+ domain.com (3.3.179.61) with Microsoft SMTP Server (TLS) id
+ 14.3.146.2; Wed, 26 Feb 2015 00:45:21 -0500
+Received: from domain.com ([169.254.4.20]) by
+ domain.com ([3.161.17.58]) with mapi id 14.03.0146.002; Wed,
+ 26 Feb 2015 05:45:19 +0000
+From: "Clark, Duncan (NBCUniversal)" <duncan.clark@nbcuni.com>
+To: Steven ODell <Steven_O'user@domain.com>
+Subject: You around for a chat
+Thread-Topic: You around for a chat
+Thread-Index: Ac8yte8DS6Ri/i6ITc6MvAPbpWlrWg==
+Date: Wed, 26 Feb 2015 05:45:19 +0000
+Message-ID: <user@domain.com>
+Accept-Language: en-GB, en-US
+Content-Language: en-GB
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-exclaimer-md-config: 47edc00f-f2d6-45ef-be83-8a353bd47e45
+Content-ID: <user@domain.com>
+Return-Path: user@domain.com
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-406539735_-_-"
+
+I am in HK.
+
+Sent from my iPhone
+
+For further details of NBCUniversal, Please domain.com domain.com and for details of the sender domain.com <<link>>

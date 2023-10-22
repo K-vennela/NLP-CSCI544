@@ -1,0 +1,121 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 4 May
+ 2015 09:46:17 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 4 May 2015 
+ 09:46:09 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 895714075
+ for user@domain.com; Wed, 04 May 2015 08:46:16 -0500
+X-Note-AR-ScanTimeLocal: 5/4/2016 8:46:15 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: user@domain.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 209.85.218.50
+X-Note-Reverse-DNS: mail-oi0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mail-oi0-domain.com ([209.85.218.50] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 136673560
+ for user@domain.com; Wed, 04 May 2015 08:46:15 -0500
+Received: by mail-oi0-domain.com with SMTP id v145so65258584oie.0
+        for <user@domain.com>; Wed, 04 May 2015 06:46:14 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=catherinecortezmasto-domain.com; s=20150623;
+        h=mime-version:date:message-id:subject:From: Zach Hudson <zach@catherinecortezmasto.com>
+        bh=2hP8bB6B21EhVJnqIuZvbD7yygvlNxAjv+UaDMMZttY=;
+        b=HI5i0CzDKu7SKv8l06t/6duAu+UxpDnKlIt1RP3SMhGm2S3SsD+HNhrZJQOXxJO06m
+         h/mOWQugzVhfbyB2lJpOqtFN87gTWzFv0kqBTFlnL07fnds9fsQqj6PgGM+rIYdsC1HM
+         Acq+F8xElIT9jmrtP0PyoY3spU0V0ky4ZZ4Tqq5rVL5e8mVESq3vFuM+16tGePmaQ282
+         lj+c3slxZdIzl0E78U82ACzLsge6FMFSCFd2Z5/iMtuW32fL/mHVEHBdtzlKr6eHrYzE
+         QyawHpAiCZah32IcNMrccdRPLCXNMs2dNwMHppUufqeaOMZJv8dbMfxY/JrzdxJWtL8a
+         jOJw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:date:message-id:subject:From: Zach Hudson <zach@catherinecortezmasto.com>
+        bh=2hP8bB6B21EhVJnqIuZvbD7yygvlNxAjv+UaDMMZttY=;
+        b=jndxv4vmgIulW1PdtVw+cBpDKgg4rt2T8Od33H6SGpW9OZAmuQ4Vffaj5f6xfo3sX0
+         xL7CelC6aailJ8HVSBrLyNaMf+1Rj79YDd7xi2A1JYYf3NMNgCZ8UbKaxLgVB0kguBd8
+         4uIOxyhjBx/jgrauiRinHVSVPlPwoJaLG4z9IrVySh6UvXAik9OFcxad7uL+uwl1bY4w
+         gaVPiQzihht+RjH5lan2BsPHmVj5IarQPJ1Y3JBnNpmY/CxNnH2zzormmCGMsojybGBi
+         Qfhx59J+tLdkUC1Cl/CFlbwRcMVMAL0miIg/lwjNyRkFboseN5t8tUQMqV/dYqA1/QXb
+         kPnw==
+X-Gm-Message-State: AOPr4FXFXyjREkPNLCPEuHI/Z0EbeArT5z2Wzca1PpSq4J/+1Rw8t6ByNZzNrnqsUQfGl0lOl7vDiARaY7i3YA==
+X-Received: by 10.157.40.242 with SMTP id s105mr3802063ota.68.1462369573536;
+ Wed, 04 May 2015 06:46:13 -0700 (PDT)
+Received: by 10.182.110.234 with HTTP; Wed, 4 May 2015 06:46:13 -0700 (PDT)
+Date: Wed, 4 May 2015 06:46:13 -0700
+Message-ID: <CAMPRaUPRQQEpzQ2JUQXeii6fhx1SEUeDju+user@domain.com>
+Subject: NEW VIDEO: On Day Trump Becomes GOP Nominee, Congressman Heck
+ Reiterates Support
+From: Zach Hudson <zach@catherinecortezmasto.com>
+To: undisclosed-recipients:;
+Content-Type: multipart/related; boundary="001a11c15c0ef6acd30532047224"
+BCC: <user@domain.com>
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+=E2=80=8B
+
+For Immediate Release
+
+May 4, 2015 
+
+Contact: user@domain.com
+
+*NEW VIDEO: On Same Day Trump Becomes Presumptive GOP Nominee, Congressman
+Heck Reiterates Support *
+
+*View video of Congressman Heck=E2=80=99s comments here
+<<<link>>>*
+
+Las Vegas, NV =E2=80=93 Last night, Donald Trump became the presumptive Rep=
+ublican
+nominee with his win in the Indiana Republican Primary. Coincidentally,
+hours earlier, Congressman Heck gave a testy television interview where he
+whined about Catherine Cortez Masto telling the truth about his
+anti-immigrant voting record. Laughably, Congressman Heck then doubled down
+on his support for one of the most anti-immigrant candidates for President
+in recent history, Donald Trump.
+
+When pressed by KSNV=E2=80=99s Jeff Gillan if he would support Trump if he =
+wins the
+nomination, Congressman Heck said, =E2=80=9CI=E2=80=99ll support whoever th=
+e nominee is=E2=80=A6=E2=80=9D
+Well, Republican voters, and the Republican National Committee
+<<<link>>>, have spoken. The
+nominee is Trump.
+
+=E2=80=9CCongressman Heck doubled down on his support for nominee Donald Tr=
+ump on
+the same day Trump became the presumptive Republican nominee for
+President,=E2=80=9D said Zach Hudson, spokesperson for Catherine Cortez Mas=
+to for
+Senate. =E2=80=9CNo matter who emerges from the Republican primary for Sena=
+te,
+Sharron Angle or Congressman Heck, Nevadans will have a Republican nominee
+who shares Donald Trump=E2=80=99s anti-immigrant agenda that would tear fam=
+ilies
+apart. Whether it's Trump-Angle, or Trump-Heck, Nevadans will reject this
+anti-immigrant ticket and elect Catherine Cortez Masto to the Senate to
+focus on solving problems like passing comprehensive immigration reform,
+raising the minimum wage, and creating an economy that works for everyone,
+not just billionaires like Donald Trump.=E2=80=9D
+
+View video of Congressman Heck doubling down on supporting nominee Trump
+here. <<<link>>>
+
+###

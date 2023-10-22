@@ -1,0 +1,22 @@
+From: Alberto Ornaghi <a.ornaghi@hackingteam.com>
+X-Smtp-Server: domain.com:alor
+Subject: Galileo
+Message-ID: <8user@domain.com>
+X-Universally-Unique-Identifier: 86c89410-b5f8-47d0-99d3-d760ef089c3b
+Date: Mon, 7 Oct 2015 12:14:19 +0200
+To: Andrea Di Pasquale <user@domain.com>
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1561796924_-_-"
+
+--
+Alberto Ornaghi
+Software Architect
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+email: user@domain.com
+mobile: +39 3480115642office: +39 02 29060603 
+

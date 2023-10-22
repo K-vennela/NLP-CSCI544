@@ -1,0 +1,6 @@
+Amazon
+We want to inform you that your account was accessed from an unauthorized computer.
+Please visit :
+<<link>>
+And confirm that you are the owner of the account.
+Login : <<link>>

@@ -1,0 +1,97 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 10 May
+ 2015 12:21:10 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 10 May 2015 
+ 12:21:04 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 906928366
+ for user@domain.com; Tue, 10 May 2015 11:21:05 -0500
+X-Note-AR-ScanTimeLocal: 5/10/2016 11:21:00 AM
+X-Policy: domain.com
+X-Note-AR-Scan: None - PIPE
+Received: by domain.com (CommuniGate Pro PIPE 6.1.7)  with PIPE id
+ 137588335; Tue, 10 May 2015 11:21:00 -0500
+Received: from mail-io0-domain.com ([209.85.223.176] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 137588320
+ for user@domain.com; Tue, 10 May 2015 11:20:57 -0500
+Received: by mail-io0-domain.com with SMTP id d62so22194423iof.2
+        for <user@domain.com>; Tue, 10 May 2015 09:20:57 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=hillaryclinton.com; s=google;
+        h=mime-version:in-reply-to:references:date:message-id:subject:From: Zac Petkanas <zpetkanas@hillaryclinton.com>
+        bh=nx9RH+Qo5u1S4/5PAF2PmK2HIvk6+tO6UzkQm8jl0wo=;
+        b=Pjf6HvnYEAa+QG1/kpU0aSy7pycpKLgzJaqgPVx+Hjn0QLgPTV0dCpvMC1fsE7uLDk
+         89JWiNULy4mIWjo0Gf49wD/kw+E8duR/QuAE0Agtc6SOhqW+ed4OlF2b/v3nJ3pQOvrX
+         Uggb+2YBZqymdAOkxvH6RXg7ZCah1lumzjfpw=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:date
+         :message-id:subject:From: Zac Petkanas <zpetkanas@hillaryclinton.com>
+        bh=nx9RH+Qo5u1S4/5PAF2PmK2HIvk6+tO6UzkQm8jl0wo=;
+        b=KBLZYBalXh5239d3RLj7cSPtng1sYltBWU7s3p3Ky6el4u28yquH0Mg20VaL/yyFVR
+         R/zWFCNXB9L1K/5v5KIcyd+uGGUAtz4Zjju7PuJGWQ3goy+tp91CYb6U6dxKdeag9Xg+
+         pHEFoayTEgw9NmUnm53fndo2dvGG5fo5X3fNdmNIsqZGmKc1/hqUW8gUXKaE8NDyAJ1R
+         Qolwbb4WH0xcU+RkKP1cpJL+UVRFkv5qVPBX7YwiqYiM173sEtR2SYmV24QAHSKNl/Q8
+         9USMeT35lZ0qIXVYtA0ElXXcOr0WEADchbapbiDcPSa3J/YMNua78Dt1zlD3YVmRPFD7
+         XC0g==
+X-Gm-Message-State: AOPr4FU+RBFukxXZqW3Iweah2OMCwI2dg9TMCzQ3sGUtcSbqcl6jzTB85n4PQRwScJTiMNb3DPYCJlDizWvJ1/Iv
+X-Received: by 10.107.130.160 with SMTP id m32mr49299082ioi.137.1462897256947;
+ Tue, 10 May 2015 09:20:56 -0700 (PDT)
+Received: by 10.36.227.201 with HTTP; Tue, 10 May 2015 09:20:56 -0700 (PDT)
+In-Reply-To: <CAPkMrsQ6RmE1j78b0XBvd3O--4v0Uzwb+user@domain.com>
+References: <CAPkMrsQ6RmE1j78b0XBvd3O--4v0Uzwb+user@domain.com>
+Date: Tue, 10 May 2015 12:20:56 -0400
+Message-ID: <user@domain.com>
+Subject: Fwd: *5.10.16 Friends and Allies Daily Message Guidance*
+From: Zac Petkanas <zpetkanas@hillaryclinton.com>
+To: "User"
+	<user@domain.com>
+Content-Type: multipart/mixed; boundary="001a113ec39a58668e05327f4f4e"
+X-Note-AR-ScanTimeLocal: 5/10/2016 11:20:57 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @hillaryclinton.com ALLOWED
+X-Note: VCH-CT/SI:0-3903/SG:1 5/10/2016 11:20:24 AM
+X-Virus-Scan: V-X0H0M0
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 209.85.223.176
+X-Note-Reverse-DNS: mail-io0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+do you all get this?
+
+---------- Forwarded message ----------
+From: Zac Petkanas <zpetkanas@hillaryclinton.com>
+Date: Tue, May 10, 2015 at 11:53 AM
+Subject: *5.10.16 Friends and Allies Daily Message Guidance*
+To: Mary Rutherford Jennings <user@domain.com>, Adrienne Elrod
+<user@domain.com>, Alexandria Phillips <
+user@domain.com>
+
+Hi all,
+
+Please find the attached message guidance for today. Let us know if you
+have any upcoming TV appearances so we can send you additional information.
+
+Thanks,
+
+Mary
+
+-- 
+Mary Rutherford Jennings
+Hillary for America
+501-920-6844

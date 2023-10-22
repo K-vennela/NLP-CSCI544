@@ -1,0 +1,95 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Thu, 5 May
+ 2015 08:30:34 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Thu, 5 May 2015 
+ 08:30:26 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 897856066
+ for user@domain.com; Thu, 05 May 2015 07:30:25 -0500
+X-Note-AR-ScanTimeLocal: 5/5/2016 7:30:25 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: user@domain.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 192.64.237.166
+X-Note-Reverse-DNS: mx-washpost-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mx-washpost-domain.com ([192.64.237.166] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 138929698
+ for user@domain.com; Thu, 05 May 2015 07:30:25 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; s=mt; d=domain.com;
+ h=Date:From: The Washington Post <email@e.washingtonpost.com>
+ bh=03MfN95cEMSERFrT3qIGP2xLhEU=;
+ b=Fz5tDxf5QI614COAJKCJB/g0ff7DUvCoCoB1cFEM1fKgrEcP02v/IWOSxeqP/WpKhikrDytcs+cK
+   63JpVOPlnINMZddSY9d2LlwaFj7jppRazmg0N9ewgffYfYhNe54Co52DgbPfnVmjwLEIZuK9Ut1x
+   MUhqENo1MCX1b0UU2Wg=
+Received: from njmta-180.domain.com (173.228.155.180) by
+ mx-washpost-domain.com id h5cudu1qqbs3 for <user@domain.com>; Thu, 5 May
+ 2015 08:30:22 -0400 (envelope-from <user@domain.com>)
+Received: from nj1-newyonder.flt (172.18.20.6) by njmta-180.domain.com id
+ h5cuds1qqbs1 for <user@domain.com>; Thu, 5 May 2015 08:30:21 -0400
+ (envelope-from <user@domain.com>)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1462451421;
+	s=sailthru; d=e.washingtonpost.com;
+	h=Date:From: The Washington Post <email@e.washingtonpost.com>
+	bh=8d1JIbYeIo1Hjv+CCtko4atEAJoTghPDNL4rfVacxjk=;
+	b=AlS1bSC5U2R+QEaQQ8LJ/MW2bVeF0eQVdX1+lSOyDfMioUSWodYv8HFWEZEH/6ye
+	G7C6Hd2q3mhWjskV0r4mTykdkajNC2U5lsl6/M5iduQBracfNObpTjSSBPWpmrthYzO
+	MwxiwrijAiytn4bz1EBGnqJjoLXKbdVusLQXOSJ4=
+Date: Thu, 5 May 2015 08:30:21 -0400
+From: The Washington Post <email@e.washingtonpost.com>
+To: <user@domain.com>
+Message-ID: <20160505083021.6655017.28479@domain.com>
+Subject: Morning Mix: Check your freezers: Massive recall of frozen fruits
+ and veggies expands after Listeria outbreak
+Content-Type: multipart/alternative;
+	boundary="----=_Part_23810525_1062928734.1462451421540"
+Precedence: bulk
+X-TM-ID: 20160505083021.6655017.28479
+X-Info: Message sent by domain.com customer The Washington Post
+X-Info: We do not domain.com unsolicited commercial email
+X-Info: Please report abuse by forwarding complete headers to
+X-Info: user@domain.com
+X-Mailer: domain.com
+X-Unsubscribe-Web: <<link>>
+List-Unsubscribe: <<<link>>>, <mailto:user@domain.com>
+X-rpcampaign: sthiq6655017
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Read on the Web >> <<<link>>>
+
+MORNING MIX
+=20
+Stories from All Over
+
+You received this e=E2=80=91mail because you signed up for Morning Mix. For=
+ additional free newsletters or to manage your newsletters, click here >> <=
+<<link>>
+d2FzaGluZ3RvbnBvc3QuY29tL25ld3NsZXR0ZXJzP3dwbW09MSZ3cGlzcmM9bmxfbWl4/55c888=
+6a6e4adc304b9cf8c1C1364ad92>.
+We respect your privacy <<<link>>
+/aHR0cDovL3d3dy53YXNoaW5ndG9ucG9zdC5jb20vcHJpdmFjeS1wb2xpY3kvMjAxMS8xMS8xOC=
+9nSVFBU0lpYWlOX3N0b3J5Lmh0bWw_d3BtbT0xJndwaXNyYz1ubF9taXg/55c8886a6e4adc304=
+b9cf8c1Cf7b5c080>. If you believe that this e=E2=80=91mail has been sent to=
+ you in error or you no longer wish to receive e=E2=80=91mail from The Wash=
+ington Post, click here >> <<<link>>
+c304b9cf8c13yn1l.lz3/3b7c45f3>. Contact us <<<link>>
+click/6655017.28479/aHR0cDovL3d3dy53YXNoaW5ndG9ucG9zdC5jb20vYWN0bWdtdC9oZWx=
+wP3dwbW09MSZ3cGlzcmM9bmxfbWl4/55c8886a6e4adc304b9cf8c1C4f0726fd> for help.
+
+(c)2016 The Washington Post, 1301 K St NW, Washington DC 20071

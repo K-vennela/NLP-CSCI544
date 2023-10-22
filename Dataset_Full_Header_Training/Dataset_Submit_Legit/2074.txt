@@ -1,0 +1,86 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Thu, 5 May
+ 2015 13:54:13 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Thu, 5 May 2015 
+ 13:54:05 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 898874188
+ for user@domain.com; Thu, 05 May 2015 12:54:14 -0500
+X-Note-AR-ScanTimeLocal: 5/5/2016 12:54:13 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @hillaryclinton.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 209.85.161.179
+X-Note-Reverse-DNS: mail-yw0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mail-yw0-domain.com ([209.85.161.179] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 137280080
+ for user@domain.com; Thu, 05 May 2015 12:54:13 -0500
+Received: by mail-yw0-domain.com with SMTP id j74so133710920ywg.1
+        for <user@domain.com>; Thu, 05 May 2015 10:54:11 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=hillaryclinton.com; s=google;
+        h=mime-version:in-reply-to:references:From: Josh Schwerin <jschwerin@hillaryclinton.com>
+         :cc;
+        bh=AW6CqTxE/9x4Hlaa4btQpC/CTekkxXJ3R2WrpuX+s6g=;
+        b=PkFTfN58jcEkFNN2E/cAJklcMjHfIDNLsupLBnYr9OexzZ0r4qCvwtxDs/WLpqHUFU
+         QBvAcnmMRKtytlHvTX4OlPqHmMTkdeuFSMSJIOTcNLw/ZFe+WtmkXHafNrLjVmlVWjLq
+         pSWwL28/BNYo26aNZwiTKjflldqwV3e8ruIQw=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:From: Josh Schwerin <jschwerin@hillaryclinton.com>
+         :message-id:subject:to:cc;
+        bh=AW6CqTxE/9x4Hlaa4btQpC/CTekkxXJ3R2WrpuX+s6g=;
+        b=FtqMbSKKnqXZdV0LelFAKnpICCuIhlm+rZSViovgWiMOABjrCAGdLy96Dfmc6faZMO
+         Waw3/xxhVe/FsH39NUCnIVk4A7UWkO/sUOnwFx25K7CvrscCJGhnufrpdYbGi8RAYLuK
+         eEWCtqhLZYmwBD20Em2aHnQkHqHezr5FBhWc2/j6V8aeiqSwtuUqxcL46gEcYTHHmmFp
+         Apj5OA4r/L8M9g6jQ2I9PQawfdXB1m5Uf3FXBPSyIoGKzkTIQtYxgo7XZH5TlgCJ+y/W
+         Ju6880JZWBCfAJS5a0K5nMejXaHCLEXcDf1Mco/rq1k8oaiQhzDjcQkP2P1fMt9+qbEf
+         hetA==
+X-Gm-Message-State: AOPr4FXQ5mTnv9/No2y+xCsSL2tRrBwhjTbA58p2NvjIwadTx+Q9m1BPdc+/wb6CeNKclf5ly+jKRkn+OOM226K8
+X-Received: by 10.37.15.85 with SMTP id 82mr9461586ybp.75.1462470850644; Thu,
+ 05 May 2015 10:54:10 -0700 (PDT)
+Received: by 10.129.34.11 with HTTP; Thu, 5 May 2015 10:53:50 -0700 (PDT)
+In-Reply-To: <CAPrY+5Jn+rm+user@domain.com>
+References: <user@domain.com>
+ <05user@domain.com>
+ <CAGitY4QguWbb3MAdmOxzfONNScmuH-DWP+jtRfvq6c+user@domain.com>
+ <05user@domain.com>
+ <CAPrY+5LjMCe5JKo22ht5BoM3DZi5kh7OfRoYAgdVAQHOoKgj+user@domain.com>
+ <CAPrY+5Jmq15BXQaydXO03OUYE9wtrqDJN51OHjCyChFqh+user@domain.com>
+ <05user@domain.com>
+ <CAPrY+5K+Ae7ganSLHkU6j+X+EWu8-t-RwJJv+user@domain.com>
+ <CAPrY+5JVWCxJy5cNpT-QLj75Z2_eFK+2c4B1Rbu-1sK+user@domain.com>
+ <05user@domain.com> <CAPrY+5Jn+rm+user@domain.com>
+From: Josh Schwerin <jschwerin@hillaryclinton.com>
+Date: Thu, 5 May 2015 13:53:50 -0400
+Message-ID: <CAPrY+5+_8user@domain.com>
+Subject: =?UTF-8?Q?Re=3A_FW=3A_FLAG=3A_NEWS=3A_Politico_Exposes_Clinton_Campaig?=
+	=?UTF-8?Q?n_=E2=80=98Money=2DLaundering=E2=80=99_Scheme?=
+To: "User" <user@domain.com>
+CC: "Paustenbach, Mark" <user@domain.com>, Zac Petkanas
+	<user@domain.com>
+Content-Type: multipart/related; boundary="001a113f585c8d3d0705321c07cb"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Hey,
+When do you think you'll have a draft of this?
+
+On Wed, May 4, 2015 at 8:03 PM, Josh Schwerin <user@domain.com=
+

@@ -1,0 +1,45 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id 89D27468AA
+	for <user@domain.com>; Wed, 15 Apr 2015 08:42:53 -0400 (EDT)
+X-Greylist: delayed 634 seconds by postgrey-1.27 at domain.com; Wed, 15 Apr 2015 08:42:53 EDT
+Received: from domain.com (domain.com [65.42.4.188])
+	by domain.com (Postfix) with ESMTP id 3851C131F776
+	for <user@domain.com>; Wed, 15 Apr 2015 08:42:53 -0400 (EDT)
+Received: from User [65.15.116.203] by domain.com with ESMTP
+  (SMTPD32-8.13) id A36A1479010E; Wed, 15 Apr 2015 08:30:34 -0400
+From: "eBay Item"<onli-ne@ebay-email.com>
+Subject: I am responding to the email for your auction which was posted
+Date: Wed, 15 Apr 2015 08:32:13 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <200904150830748.user@domain.com>
+To: undisclosed-recipients:;
+Content-Length: 1164
+Lines: 12
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1030
+
+Hi,
+
+I am responding to the email for your auction which was posted on eBay. 
+I believe i emailed you a week ago regarding this sale, and my interest in it. 
+Please confirm that it is the same auction with the one posted on eBay link: 
+
+<<link>>
+
+I am very interested in this auction and ready to complete the deal as soon as possible. 
+Hope to hear from you soon!
+
+Sincerely,
+Steve Neff 

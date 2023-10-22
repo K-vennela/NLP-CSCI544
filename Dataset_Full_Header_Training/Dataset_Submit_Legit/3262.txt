@@ -1,0 +1,95 @@
+Received: from domain.com (146.215.230.102) by
+ domain.com (43.130.141.77) with Microsoft SMTP Server id
+ 8.3.342.0; Thu, 5 Jun 2015 08:02:19 -0700
+Received: from domain.com ([160.33.194.231])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s55F2Inm011769	for <user@domain.com>; Thu, 5 Jun 2015 
+ 15:02:19 GMT
+Received: from mail65-ch1-domain.com (mail-domain.com
+ [216.32.181.169])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s55F3pdM012090
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Thu, 5 Jun 2015 15:03:51 GMT
+Received: from mail65-ch1 (localhost [127.0.0.1])	by mail65-ch1-domain.com
+ (Postfix) with ESMTP id DF5FA1601A4	for <user@domain.com>; Thu,  5
+ Jun 2015 15:02:17 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:207.67.38.30;KIP:(null);UIP:(null);IPV:NLI;H:xtinmta02-30.domain.com;RD:xtinmta02-30.domain.com;EFVD:NLI
+X-SpamScore: 8
+X-BigFish: vps8(z5105h4c5Izc85fhe0eah891Re10bpe146ozz1f42h2148h1ee6h1de0h1fdah2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6h208chzz8275ch1def03h8275fh177df4h17326ah1def87h8275bh1bc7b9h1def86h1de097h186068h172c6ch1b778fh122ac1I1ce120h1ce121i1df164iz2fheh5fh839hc60hc61hd24he13h107ah1288h12a5h137ah13eah1441h1504h1537h153bh158dh162dh1631h1758h18e1h1946h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1fe8h1ff5h20f0h2216h2336h2438h2461h2487h24d7h2516h2545h25f6h2605h2673h268bh26d3h27e2h282bh28a1h27b1k)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail65-ch1: domain of domain.com designates 207.67.38.30 as permitted sender) client-ip=207.67.38.30; user@domain.com; helo=xtinmta02-30.domain.com ;domain.com ;
+Received: from mail65-ch1 (localhost.localdomain [127.0.0.1]) by mail65-ch1
+ (MessageSwitch) id 1401980534760097_13611; Thu,  5 Jun 2015 15:02:14 +0000
+ (UTC)
+Received: from domain.com (domain.com
+ [10.43.68.247])	by mail65-domain.com (Postfix) with ESMTP id B1314300098
+	for <user@domain.com>; Thu,  5 Jun 2015 15:02:14 +0000 (UTC)
+Received: from xtinmta02-30.domain.com (207.67.38.30) by
+ domain.com (10.43.70.26) with Microsoft SMTP Server id
+ 14.16.227.3; Thu, 5 Jun 2015 15:02:10 +0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=20120419; d=30.domain.com;
+ h=From: Siegel+Gale <simplyinformed@siegelgale.com>
+ bh=hQSVleNVIaTckNzbYx+uGmHQJ8g=;
+ b=KKOP8W1wGMj9a5wN3voYC6gTWCHP2n93lART559BlLrxLXk4xU7csXE1yq3yfHPZUSaRGR3aZ8j1
+   YOzKfAS6Ml4onw9PZUfiaap/qPOQQLn4oDvln5EeFK+be4o9mTEzHevwSmdr4dqoH5QSNauDheJ4
+   rIhil9LrAw2AygycAdY=
+Received: by xtinmta02-30.domain.com id hi2374163hs8 for
+ <user@domain.com>; Thu, 5 Jun 2015 09:01:00 -0600 (envelope-from
+ <user@domain.com>)
+From: Siegel+Gale <simplyinformed@siegelgale.com>
+To: <user@domain.com>
+Subject: #B2BNow: A new Siegel+Gale study | Why brand matters for B2B | Simple reminders before you go global
+Date: Thu, 5 Jun 2015 09:00:59 -0600
+List-Unsubscribe: <mailto:user@domain.com>
+x-job: 85170_20685798
+Message-ID: <9user@domain.com>
+Return-Path: 
+ user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+ <<link>>
+ <<link>>        View past issues         Share   Contact us      Subscribe        <<link>>       
+ <<link>>         <<link>>        
+siegel_and_gale_logo     
+
+ <<link>>        
+
+Simply Informed  
+
+ <<link>>        
+
+ <<link>>        
+
+ <<link>>         <<link>>         <<link>>        
+ <<link>>         <<link>>
+
+Siegel+Gale releases global B2BNow study, A lesson for B2B from consumer marketing, Six simple reminders before you go global, Attn CEO: Be the keeper of the brand
+
+ <<link>>         <<link>>        
+ <<link>>         <<link>>         <<link>>        
+ <<link>>         <<link>>        
+forbes
+
+
+
+
+ <<link>>        
+
+New Research     
+
+ <<link>>        
+
+Siegel+Gale releases
+
+global B2BNow study,
+
+demonstrates the importance
+
+of consumer connection in
+
+B2B branding     
+
+
+

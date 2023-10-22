@@ -1,0 +1,53 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 13C7223CAB3
+	for <user@domain.com>; Wed,  8 Aug 2015 04:07:27 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 7CBwO6rPsgGN for <user@domain.com>;
+	Wed,  8 Aug 2015 04:07:27 -0500 (CDT)
+Received: from domain.com (sruedge02.sru.edu [205.149.70.126])
+	by domain.com (Postfix) with ESMTP id C396E23CAAC
+	for <user@domain.com>; Wed,  8 Aug 2015 04:07:26 -0500 (CDT)
+Received: from domain.com (10.99.2.18) by
+ domain.com (10.99.2.21) with Microsoft SMTP Server (TLS)
+ id 8.2.254.0; Wed, 8 Aug 2015 05:06:34 -0400
+Received: from domain.com ([::1]) by
+ domain.com ([10.99.2.18]) with mapi; Wed, 8 Aug 2015 
+ 05:07:29 -0400
+From: "Moul, Aaron M" <amm4078@sru.edu>
+Date: Wed, 8 Aug 2015 05:07:29 -0400
+Subject: Keeping track of your usage
+Thread-Topic: Keeping track of your usage
+Thread-Index: AQHNdUU8FESwFo+pjUWLltyCQSr8yQ==
+Message-ID: <4user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+acceptlanguage: en-US
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+To: Undisclosed recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 114
+
+You have exceeded the domain.com of your mailbox set by our IT Service, and from=
+ now you cannot be receiving all incoming emails and also some of your outg=
+oing emails will not be delivered and LASTLY, your account will be 'DE-ACTI=
+VATED' within 24 hours from now. To prevent , you are advised to click on t=
+he link below to reset your account. Failure to do , will result to  limite=
+d access to your mailbox while your account will remain  IN-ACTIVE within t=
+he next 24 hours. click the link below:
+<<link>>
+UpZWlJaWW1YVHB4QmtyTmc6MQ
+Thanks for letting us serve you better!
+Regards,
+Management.
+Upgrade Department

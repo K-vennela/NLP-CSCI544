@@ -1,0 +1,59 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Tue, 29 Oct 2015 12:18:20 +0100
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id B8C22621E8	for
+ <user@domain.com>; Tue, 29 Oct 2015 11:14:07 +0000 (GMT)
+Received: by domain.com (Postfix)	id 6BDA52BC1F6; Tue, 29 Oct 2015 
+ 12:18:20 +0100 (CET)
+Delivered-To: user@domain.com
+Received: from support.hackingteam.com (support.hackingteam.com
+ [192.168.100.70])	by domain.com (Postfix) with ESMTP id 4BFF02BC1F4
+	for <user@domain.com>; Tue, 29 Oct 2015 12:18:20 +0100 (CET)
+Message-ID: <1383045500.526user@domain.com>
+Date: Tue, 29 Oct 2015 11:18:20 +0000
+Subject: [!PEX-793-73158]: Assignment - Problem with a event agent.
+From: Marco Valleri <support@hackingteam.com>
+Reply-To: <user@domain.com>
+To: <user@domain.com>
+X-Priority: 3 (Normal)
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=SUPPORTFE0
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-615933390_-_-"
+
+Marco Valleri updated #PEX-793-73158
+
+------------------------------------
+
+Staff (Owner): Marco Valleri (was: Guido Landi)
+
+Problem with a event agent.
+
+---------------------------
+
+Ticket ID: PEX-793-73158
+URL: <<link>>
+Name: netsec
+Email address: user@domain.com
+Creator: User
+Department: General
+Staff (Owner): Marco Valleri
+Type: Issue
+Status: In Progress
+Priority: Medium
+Template group: Default
+Created: 02 October 2015 09:48 AM
+Updated: 29 October 2015 11:18 AM
+
+RCS will support Mavericks starting form version 9.1 (release mid-November).
+
+Thank you.
+
+Staff CP:  <<link>>
+

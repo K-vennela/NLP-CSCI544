@@ -1,0 +1,85 @@
+Received: from domain.com (146.215.230.102) by
+ domain.com (43.130.141.76) with Microsoft SMTP Server id
+ 8.3.297.1; Sun, 2 Feb 2015 19:07:52 -0800
+Received: from domain.com ([160.33.194.228])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s1337pka009866	for <user@domain.com>; Mon, 3 Feb 2015 
+ 03:07:52 GMT
+Received: from mail126-co9-domain.com (mail-domain.com
+ [207.46.163.21])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s1337oZe018774
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Mon, 3 Feb 2015 03:07:51 GMT
+Received: from mail126-co9 (localhost [127.0.0.1])	by
+ mail126-co9-domain.com (Postfix) with ESMTP id 7E5AE90009A	for
+ <user@domain.com>; Mon,  3 Feb 2015 03:07:50 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:192.64.236.105;KIP:(null);UIP:(null);IPV:NLI;H:mx-domain.com;RD:mx-domain.com;EFVD:NLI
+X-SpamScore: 3
+X-BigFish: vps3(z579ehzc545Ic89bhc857hdbb0izz1f42h2148h208ch1ee6h1de0h1fdah2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6hzz8275ch1d7338h1de098h1def03h17326ah1def87h8275bh1bc7b9h8275dh1defc1h1def86h1de097h186068h172c6ch1ce120h1a691ciz2fheh5fh839ha12he5bh1288h12a5h137ah139eh13eah1441h14ddh1504h1537h162dh1631h1758h1898h18e1h1946h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1e23h1fe8h1ff5h20f0h2218h2216h226dh24afh2327h2336h2438h2461h2487h24d7h2516h214ai24c8i1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail126-co9: domain of domain.com designates 192.64.236.105 as permitted sender) client-ip=192.64.236.105; user@domain.com; helo=mx-domain.com ;domain.com ;
+Received: from mail126-co9 (localhost.localdomain [127.0.0.1]) by mail126-co9
+ (MessageSwitch) id 1391396868655102_17931; Mon,  3 Feb 2015 03:07:48 +0000
+ (UTC)
+Received: from domain.com (unknown [10.236.132.243])	by
+ mail126-domain.com (Postfix) with ESMTP id 90E05180047	for
+ <user@domain.com>; Mon,  3 Feb 2015 03:07:48 +0000 (UTC)
+Received: from mx-domain.com (192.64.236.105) by domain.com
+ (10.236.130.19) with Microsoft SMTP Server id 14.16.227.3; Mon, 3 Feb 2015 
+ 03:07:48 +0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1391396868;
+	s=sailthru; d=variety.com;
+	h=Date:From: Variety Breaking News <donotreply@variety.com>
+	bh=xwljCLAKha2CEv6J80j+vsf5C9MTbfzwcFS6QT6iwls=;
+	b=aZvTov188Pt3kQh4wpsXMOE+Ncrr+1rap7QpH2g/+lPif4OoQm1vCUlXSinYikDY
+	mlq5rjggyUGLunIWxzpH4mkVLnobVDC/TysFXAtHDoyhHdDCDRAtamI3H8d1xTWCEXr
+	RAiA0Lj8Y7clAwpPuHS5tdvN6OzEJpZjOIWJGNxc=
+Date: Sun, 2 Feb 2015 22:07:48 -0500
+From: Variety Breaking News <donotreply@variety.com>
+To: <user@domain.com>
+Message-ID: <20140203030748.2393873.19582@domain.com>
+Subject: Variety's Justin Chang Remembers Philip Seymour Hoffman: A Master
+ of His Screen Craft
+Precedence: bulk
+X-TM-ID: 20140203030748.2393873.19582
+X-Info: Message sent by domain.com customer Variety
+X-Info: We do not domain.com unsolicited commercial email
+X-Info: Please report abuse by forwarding complete headers to
+X-Info: user@domain.com
+X-Mailer: domain.com
+X-IADB-IP: 192.64.236.105
+X-IADB-IP-REVERSE: 105.236.64.192
+X-IADB-URL: <<link>>
+X-Unsubscribe-Web: <<link>>
+List-Unsubscribe: <<<link>>>, <mailto:user@domain.com>
+X-rpcampaign: stcoy2393873
+Return-Path: user@domain.com
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+“You’re aberrated. You’ve wandered from the proper path, haven’t you? These problems you have … ... 
+
+​ 
+
+Variety         
+
+Breaking News   
+
+Sunday, February 2, 2015        
+
+​ 
+
+<<link>> 
+
+        Variety's Justin Chang Remembers Philip Seymour Hoffman: A Master of His Screen Craft           
+
+        “You’re aberrated. You’ve wandered from the proper path, haven’t you? These problems you have … you seem so familiar to me.” Thes...            
+        Full Story              
+
+
+
+
+Subscribe to Other Variety Newsletters   
+

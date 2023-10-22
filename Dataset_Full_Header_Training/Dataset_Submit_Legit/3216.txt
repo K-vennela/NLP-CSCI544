@@ -1,0 +1,376 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 18 May
+ 2015 08:02:44 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 18 May 2015 
+ 08:02:42 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 921245208
+ for user@domain.com; Wed, 18 May 2015 07:02:51 -0500
+X-Note-AR-ScanTimeLocal: 5/18/2016 7:02:51 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @egencia.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: United States->
+X-Note-Sending-IP: 216.251.112.210
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from domain.com ([216.251.112.210] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 139456110
+ for user@domain.com; Wed, 18 May 2015 07:02:51 -0500
+Message-ID: <9b1e43$1user@domain.com>
+From: Egencia TripController <no-reply@egencia.com>
+To: <user@domain.com>
+Reply-To: <user@domain.com>
+Date: Wed, 18 May 2015 05:02:41 -0700
+Subject: =?iso-8859-15?Q?TripController=A0-=A0Jordan=A0Vaughn=A0-=A0Indianapolis,=A0IN=A0-=A0Jun=A03,=A02016=A0-=A0Approval=A0Request?=
+Content-Type: text/html; charset="iso-8859-15"
+Content-Transfer-Encoding: quoted-printable
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+=09
+=09
+=09
+=09
+=09
+
+
+
+=09
+	Jordan Vaughn is requesting trip approval from Jordan Kaplan
+=09
+
+
+
+	=09
+=09
+	=09
+=09
+=09
+=09
+=09
+=09
+=09
+
+
+
+=09
+	Quick links
+
+Approve all
+
+Deny all=
+
+View trip online
+
+=09
+=09
+=09
+
+
+
+Traveler Jordan Vaughn (user@domain.com)
+
+Itinerary Indianapolis, IN 23778352753
+
+=09
+=09
+	=
+
+=09
+	Flight: Washington (DCA) to Indianapolis (IND)
+=09
+
+
+
+=09
+
+=09
+=09
+	Policy   In policy
+
+=09
+=09
+=09
+=09
+=09
+	Department   Finance (01)
+
+=09
+=09
+=09
+	Booking status  =20
+=09
+
+
+
+=09
+	=09
+=09
+=09
+
+=09
+=09
+=09
+
+Not booked
+
+
+
+Approval status  =20
+=20
+	Awaiting approval
+=09
+
+=09
+=09
+
+
+
+=09
+=09
+
+=09
+
+
+
+Selected flight
+
+=09
+=09
+	Price at submission   $355.20 
+
+Lowest logical fare   $278.20
+
+=09
+=09
+	Airline  
+=09
+=09
+	United 605
+
+=09
+=09
+=09
+=09
+=09
+	Depart   Jun-3-2016  7:05 AM
+
+Arrive   Jun-3-2016 11:42 AM
+
+Number of connections  
+=09
+=09
+=09
+	1 stop
+=09
+
+
+
+=09
+=09
+=09
+	Airline  
+=09
+=09
+	United 5268
+
+=09
+=09
+=09
+=09
+=09
+	Depart   Jun-5-2016  6:00 AM
+
+Arrive   Jun-5-2016  9:44 AM
+
+Number of connections  
+=09
+=09
+=09
+	1 stop
+=09
+
+
+
+=09
+=09
+
+=09
+
+=20
+=09
+=09
+
+
+
+=09
+=09
+	=
+
+=09
+	Car: Budget, Indianapolis, IN (IND-Indianapolis Intl.)
+=09
+
+
+
+=09
+
+=09
+=09
+=09
+	Price at submission   $85.94
+
+=09
+	Start date   Friday Jun-3-2016
+
+End date   Sunday Jun-5-2016
+
+=09
+	Policy   In policy
+
+=09
+=09
+=09
+=09
+=09
+	Department   Finance (01)
+
+=09
+=09
+=09
+	Booking status  =20
+=09
+
+
+
+=09
+	=09
+=09
+=09
+
+=09
+=09
+=09
+
+Not booked
+
+
+
+Approval status  =20
+=20
+	Awaiting approval
+=09
+
+=09
+=09
+
+
+
+=09
+=09
+
+=09
+
+=09
+
+=20
+=09
+=09
+
+
+
+=09
+=09
+	=
+
+=09
+	Hotel: Le M=E9ridien Indianapolis, Indianapolis
+=09
+
+
+
+=09
+
+=09
+=09
+=09
+	Price at submission   $451.58
+
+=09
+	Start date   Friday Jun-3-2016
+
+End date   Sunday Jun-5-2016
+
+=09
+	Policy   Out of policy
+
+=09
+=09
+=09
+=09
+=09
+	Department   Finance (01)
+
+=09
+=09
+=09
+	Booking status  =20
+=09
+
+
+
+=09
+	=09
+=09
+=09
+
+=09
+=09
+
+Not Reserved
+
+
+
+Approval status  =20
+=20
+	Awaiting approval
+=09
+
+=09
+=09
+
+
+
+=09
+=09
+
+=09
+
+=09
+
+=20
+=09
+=09
+
+
+
+=09
+
+=20
+

@@ -1,0 +1,49 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [10.23.1.4])
+	by domain.com (Postfix) with ESMTP id 444635371B3
+	for <user@domain.com>; Fri, 28 Jan 2015 11:48:35 -0500 (EST)
+Received: from domain.com (domain.com [192.168.64.8])
+	by domain.com (Postfix) with ESMTP id 9C1C285A772
+	for <user@domain.com>; Fri, 28 Jan 2015 11:42:26 -0500 (EST)
+Received: from 192.168.64.8 (unknown [216.117.137.148])
+	by domain.com (Postfix) with SMTP id 26914183BFA
+	for <user@domain.com>; Thu, 27 Jan 2015 14:16:36 -0500 (EST)
+Received: from domain.com ([133.6.20.110]) by 192.168.64.8 id 3LYn1DxQX17M; Fri, 28 Jan 2015 01:12:32 +0600
+Message-ID: <q4-6$c--0--$-user@domain.com>
+From: "PayPal" <service@paypal.com>
+To: <user@domain.com>
+Subject: PayPal Flagged Account
+Date: Fri, 28 Jan 05 01:12:32 GMT
+X-Mailer: QUALCOMM Windows Eudora Version 5.1
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="84.C_FB__8D0C.4"
+X-Priority: 3
+X-MSMail-Priority: Normal
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 82
+
+Dear PayPal Member,
+
+Your account has been randomly flagged in our system as a part of our rout=
+ine security measures. 
+This is a must to ensure that only you have access and use of your PayPal =
+account and to ensure a safe PayPal experience. We require all flagged acc=
+ounts to verify their information on file with us. To verify your Informat=
+ion at this time, please domain.com our secure server webform by clicking the h=
+yperlink below
+
+Click here to verify =
+your Information
+
+ Thank you for using PayPal!
+
+The PayPal Team
+
+Please do not reply to this e-mail. Mail sent
+to this address cannot be answered. For assistance, log
+in

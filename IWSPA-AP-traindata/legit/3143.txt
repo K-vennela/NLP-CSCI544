@@ -1,0 +1,32 @@
+Tom,
+Ben should have seen the ERA-40 Report # 18. You can forward the JGR paper.
+WRT 1, it is difficult to say as it depends who's produced the values. For HadCRUT2v, I
+think I've convinced the HC that the globe is (NH+SH)/2. If Peter Thorne did the
+calculations
+then this will be the case.
+There is another issue. Sometimes the trends over Jan79-Dec03 are calculated from the
+300 months rather than the 25 years. Christy does this, I think.
+NCDC's Globe is probably the one domain. I've been doing some work with Russ Vose at
+NCDC, which he's still to write up. Most of the differences were due to how the globe
+was calculated. It is more informative to also include NH and SH as well as globe in such
+tables.  I'll forward a plot Tom Peterson produced a week or two ago.
+ERA-40 (2 )comparisons are discussed in the ERA-40 report # 18 and the JGR submitted
+paper.
+This also has comparisons by continent, which again are more informative.  There is a plot
+in that work from the full globe vs the CRU coverage.  I wouldn't believe their tropics.
+Also
+Antarctica is way off as well - at least where the surface data are located, so I wouldn't
+have much faith in their values for the unmonitored parts.
+On (3)  I did some comparisons ages ago with Jim Angell's surface data from sondes. Jim's
+data was just noisier and I suspect LKS would be also.  I've not done anything like this
+for
+ages. The closest would be the ERA-40 comparisons, which is much more extensive than
+the LKS network.
+I might have a chance to do an LKS comparison if Dian sends me the co-ordinates.
+Comparisons over 1958-2003 will be much more realistic, but the ERA-40/NCEP degrade
+prior to the 1960s. LKS would be better here. All sonde data look odd in the late 1950s to
+the early 1960s. The jump around 1976/77 has always intrigued me. It is bigger in some
+regions than others - I think it gets more credence because it is large over western North
+America. Kevin had a paper on this in BAMS in the late 1980s.
+Cheers
+Phil

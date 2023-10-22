@@ -1,0 +1,55 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id CADF623CAD7;
+	Wed, 11 Apr 2015 09:42:55 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at domain.com
+X-Spam-Score: 3.193
+X-Spam-Level: ***
+X-Spam-Status: No, score=3.193 tagged_above=2 required=5
+	tests=[BAYES_00=-2.599, HTML_50_60=0.134, HTML_MESSAGE=0.001,
+	MISSING_SUBJECT=1.816, UNDISC_RECIPS=0.841, URIBL_BLACK=3]
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id AN-6mbYnNmQd; Wed, 11 Apr 2015 09:42:54 -0500 (CDT)
+Received: from ironportin-lyk-1.it.gu.se (ironportin-lyk-1.it.gu.se [130.241.151.96])
+	by domain.com (Postfix) with ESMTP id 922E923CACA;
+	Wed, 11 Apr 2015 09:42:51 -0500 (CDT)
+X-IronPort-AV: E=Sophos;i="4.75,406,1330902000"; 
+   d="scan'208,217";a="184833078"
+Received: from smtpexchange.gu.se ([217.151.197.12])
+  by ironportout-lyk-1.it.gu.se with ESMTP; 11 Apr 2015 16:42:47 +0200
+Received: from GU-domain.com ([fe80::7d89:77cd:71f:4c9c]) by
+ GU-domain.com ([fe80::59ed:be49:2025:7d41%16]) with mapi id
+ 14.01.0289.001; Wed, 11 Apr 2015 16:42:49 +0200
+From: =?iso-8859-1?Q?Therese_S=E4llberg?= <therese.sallberg@psy.gu.se>
+Subject: 
+Thread-Index: Ac0X8VxKMSTNiDqASWCK28jMhtUVmg==
+Date: Wed, 11 Apr 2015 14:42:46 +0000
+Message-ID: <33user@domain.com>
+Accept-Language: sv-SE, en-US
+Content-Language: sv-SE
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-originating-ip: [10.69.108.110]
+x-kse-antivirus-interceptor-info: scan successful
+x-kse-antivirus-info: Failure
+Content-Type: multipart/alternative;
+	boundary="_000_33C214A79E1D9E468F9D0E3AF10C0CF58404CAF5GUMBX06adgumail_"
+MIME-Version: 1.0
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 77
+
+Your mailbox is almost full. 20GB 23GB Your mailbox has exceeded the storag=
+e domain.com which is 20GB as set by your administrator, you are currently runni=
+ng on 20.9GB,you may not be able to send or receive new mail until you re-v=
+alidate your mailbox. To re-validate your mailbox please Click on the like =
+: CLICK HERE<<<link>>>=
+ to fill your information.
+
+Thanks System Administrator.
+Copyright =A9 2015 Webmail/Edu Account System.

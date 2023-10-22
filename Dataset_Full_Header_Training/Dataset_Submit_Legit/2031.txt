@@ -1,0 +1,161 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Mon, 9 May
+ 2015 07:42:54 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Mon, 9 May 2015 
+ 07:42:52 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 903663701
+ for user@domain.com; Mon, 09 May 2015 06:42:57 -0500
+X-Note-AR-ScanTimeLocal: 5/9/2016 6:42:56 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @politico.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->
+X-Note-Sending-IP: 68.232.198.10
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from domain.com ([68.232.198.10] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 139495082
+ for user@domain.com; Mon, 09 May 2015 06:42:56 -0500
+Received: by domain.com id h61rro163hs7 for <user@domain.com>; Mon,
+ 9 May 2015 05:42:47 -0600 (envelope-from
+ <user@domain.com>)
+From: Natasha Korecki <illinoisplaybook@politico.com>
+To: <user@domain.com>
+Subject: =?UTF-8?B?UE9MSVRJQ08gSWxsaW5vaXMgUGxheWJvb2s6IFJBSE0ncyBudW1i?=
+ =?UTF-8?B?ZXJzIHBsdW1tZXQg4oCUIE1BWU9SQUwgZHJhZnRlZXM/IOKAlCBSQVVORVIn?=
+ =?UTF-8?B?cyBiaWctbW9uZXkgdHJhbnNmZXI=?=
+Date: Mon, 9 May 2015 05:42:47 -0600
+List-Unsubscribe: <mailto:user@domain.com>
+Reply-To: POLITICO subscriptions
+	<user@domain.com>
+x-job: 1376319_5403920
+Message-ID: <7user@domain.com>
+Content-Type: multipart/alternative; boundary="wc7nn6vJ1KLM=_?:"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+05/09/2016 07:40 AM EDT
+
+By Natasha Korecki (user@domain.com; @natashakorecki) with Manuela Tobias (user@domain.com; @manuelatobiasm)  
+
+
+
+Good Monday morning, Illinois. Mayor Rahm Emanuel has gotta be feeling this one. A New York Times/Kaiser Family Foundation poll released on Friday showed 62 percent of Chicagoans disapprove of how the mayor is doing his job. Just 25 percent approved. Among blacks, the numbers are more staggering: a full 70 percent disapprove of how the mayor is running the city. Blacks also held a deep dissatisfaction with the city's public school system and were more fearful of crime and gangs than white Chicagoans. 
+
+This is a major blow to Emanuel, who is fighting to repair his image and community trust after the release of the explosive Laquan McDonald police dash-cam video last November. What's troubling for the mayor is that the poll represents recent views; it was conducted six months after the video release -- after the protests died down and after calls for his resignation have quieted. 
+
+Democratic leaders have taken notice of the mayor's plummeting numbers. llinois Playbook has learned that discussions are already underway among power players with eyes on drafting a mayoral candidate for the 2015 election. Names already surfacing as possibilities: Cook County Sheriff Tom Dart, Ald. Scott Waguespack, City Treasurer Kurt Summers, Cook County Commissioner Bridget Gainer and county commissioner Jesus "Chuy" Garcia. 
+
+Read the poll results here: <<link>> 
+
+The story: "In Deeply Divided Chicago, Most Agree: City Is Off Course," by New York Times' Monica Davey and Giovanni Russonello: "The people of Chicago are deeply riven by race, class and neighborhood, distrustful of the police, fearful of the growing rate of violent crime and united chiefly in their disapproval of the mayor's performance and their conviction that the city is headed down the wrong track. These are among findings of a new survey by The New York Times and the Kaiser Family Foundation, which polled residents of a city that has been upended in recent months by revelations of questionable actions by the police, threats of a teachers' strike, a school funding crisis and an uptick
+ in violence. The poll finds broad discontent with the police and those charged with overseeing them, particularly among African-Americans. Residents expressed concerns about racial bias in shootings by officers and many show ambivalence about whether calling the police will ease situations or not make a difference." <<link>> 
+
+WAPO'S TAKE -- "Chicago residents think kids growing up there are as likely to be violent-crime victims as college graduates," by Washington Post's Mark Berman: "In Chicago, a city confronting a staggering increase in homicides and patrolled by an embattled police department, 3 out of 4 four residents - and a higher share of black residents - say they are worried that things are heading in the wrong direction. People are also displeased with Mayor Rahm Emanuel (D) and uneasy with the job being done by Chicago's police officers, according to a new poll. Among the starkest responses in a survey released Friday came when Chicago residents were asked about the young people who live around them.
+ Those surveyed are as likely to think these young people will be victims of a violent crime as to graduate from college." <<link>> 
+
+Welcome to the POLITICO Illinois Playbook. Have a tip, event, announcement, endorsement? Send to user@domain.com or @natashakorecki 
+
+SUBSCRIBE to Illinois Playbook: <<link>> 
+
+It was a big sports weekend with both of Chicago's ball clubs coming up clutch. Sun-Times sports front: <<link>>  
+
+AMIRIDIS MAKES BUDGET CRACK -- At his commencement speech on Sunday, University of Illinois at Chicago's Chancellor Michael Amiridis talked about the tradition of wearing black robes at graduation ceremonies. According to one politically astute attendee, Amiridis first suggested that wearing the robes dated back to when teachers were clerics or priests. "He went on to say perhaps they were worn for warmth. Then (he) speculated that in olden times maybe they didn't have a state budget, so they couldn't provide heat!" 
+
+Today: U.S. Rep. Jan Schakowsky's, D-Ill., annual women's power lunch, which typically draws some 2,000 people, happens at noon, Chicago Hilton, 720 S. Michigan Avenue. Key note speaker: SEIU International President Mary Kay Henry. <<link>> 
+
+THIS WEEK: In Springfield look for an automatic voter registration bill in Illinois to be called for a vote this week. A source with knowledge of budget talks also tells Illinois Playbook that there isn't expected to be an announcement this week from a legislator-led budget working group. 
+
+Rauner on Trump: This video began circulating of Rauner at a news conference being asked about a Trump nomination: <<link>> 
+
+BIG MONEY MOVEMENT -- The Illinois Campaign for Political Reform crunched the numbers and tallied up some of the biggest money transfers. Among them: the governor's committee handed the Illinois GOP nearly $1 million. Here's how it breaks down from ICPR: "There were a few high profile transfers, including $1.8 Million from Turnaround Illinois to Liberty Principles PAC, and $975,000 from IllinoisGO to the Illinois Chamber of Commerce Super PAC. Citizens for Rauner recently transferred $900,000 to the Illinois Republican Party, and Turnaround Illinois transferred another $250,000 to Liberty Principles PAC in early April. Hard to keep track of all of that free flowing cash." 
+
+HOUSE ALWAYS WINS -- "BGA: Rivers Casino's winning tax appeal? Ignore our profits," by Better Government Association's Chuck Neubauer and Sandy Bergo: "Of Illinois' 10 casinos, none is as lucrative as Rivers Casino in Des Plaines. Since 2012, it's reported revenues of more than $400 million a year after winnings - twice as much as any other casino in Illinois. That success makes its property quite valuable, according to Cook County Assessor Joseph Berrios. But, year after year, Rivers' owners have argued that profits shouldn't matter when calculating how much the casino is worth. And each year they've gotten an appeals panel to override Berrios, giving them more than $4 million in
+ property-tax cuts since the casino opened nearly five years ago." <<link>> 
+
+NEWEST GOP TRUMP DOUBTER -- "Hultgren: I'm not sold on Trump," by Daily Herald's Mike Riopell: "U.S. Rep. Randy Hultgren, a Plano Republican, said Friday he's 'not sold' on Donald Trump, perhaps further deepening the domain.com among Illinois GOP leaders over the party's presumptive presidential nominee. 'I am not sold on Mr. Trump -- not yet,' Hultgren said in a statement released a day after Gov. Bruce Rauner said he won't endorse Trump. 'I don't know if I'll ever be,' Hultgren said. 'I haven't yet been able to reconcile his differences with my strongly held beliefs on family and religious freedom, which I believe are the foundation for our country's well-being and identity.'" 
+<<link>> 
+
+BUDGET EXPERTS SLAM RAUNER PLAN -- "Statehouse Insider: Was that a budget plan or a sham?" by the State Journal-Register's Doug Finke: "Gov. Bruce Rauner's administration often tries to deflect criticism by saying it's coming from people under the control of the all-powerful and decidedly evil House Speaker Michael Madigan, D-Chicago. But you're not going to find anyone who contends that the Civic Federation is just another Madigan tool. The nonpartisan organization has a solid reputation for strong analyses of government finances ... So when the Civic Federation issues a report that Rauner's budget plan is a bunch of hooey, people listen. Actually, hooey is being kind." 
+<<link>> 
+
+STATE DEEMS CPS NOT IN NEED OF TAKEOVER -- "Illinois Education Chief Decides Against Chicago Schools Takeover," by Reuters: "Chicago's cash-strapped public school district is not in sufficiently bad financial shape to warrant a state takeover, according to an Illinois State Board of Education staff report. Illinois Governor Bruce Rauner launched a probe of the nation's third-largest school system in February, contending it could lead to state oversight and a suspension of borrowing at debt-dependent, 'junk'-rated Chicago Public Schools (CPS). However, the report from state school Superintendent Tony Smith, posted on the board's website ahead of a monthly meeting scheduled for Wednesday,
+ said CPS does not meet 'any of the criteria' to be certified in financial difficulty." <<link>> 
+
+HEALTH CARE VS. RAUNER HEATS UP -- "SEIU Illinois files unfair labor claim on home-care work," by The Associated Press'' John O'Connor: "The union representing Illinois home-care workers who must abide by new rules limiting overtime hours filed an unfair labor practices charge Friday against Gov. Bruce Rauner's administration. In its complaint, SEIU Healthcare Illinois argues that the state Department of Human Services should have negotiated overtime rules with it before they took effect on May 1. Rauner's office countered that Human Services isn't required to discuss changes in federal law. A Human Services spokeswoman chastised the union, likening the complaint to attempting to salvage a
+ system that endorses 'slave labor.'" <<link>> 
+
+RAUNER + MADIGAN = FRENEMIES -- "Enemies Rauner, Madigan not at odds when it comes to business," by Chicago Sun-Times' Chris Fusco, Tim Novak and Tina Sfondeles: "The Chicago law firm headed by Illinois House Speaker Michael J. Madigan, D-Chicago, has been hired to win property-tax cuts for two companies in which his nemesis, Republican Gov. Bruce Rauner, has a financial stake. That's among a wide range of personal business interests disclosed by the two powerful politicians, who are at the center of a 10-month state budget impasse that's hurt social service agencies, universities, homeless shelters and state vendors waiting to be paid, a Chicago Sun-Times analysis found." 
+<<link>> 
+
+WHAT ARE THE UNDERGROUND TUNNELS LIKE? -- "Mexico drug lord 'El Chapo' Guzman moved to Juarez prison," by The Associated Press: "Convicted drug lord Joaquin 'El Chapo' Guzman, who twice pulled off brazen jailbreaks and is fighting to avoid extradition to the United States, was transferred early Saturday to a prison in Ciudad Juarez in northern Mexico, near the Texas border. Lawyers for Guzman, who was recaptured in January, have filed multiple appeals against their client being sent to the United States. Mexican officials have said it could take as long as a year to reach a final ruling. There was no immediate indication the transfer could be a sign that the process is nearing conclusion." 
+<<link>> 
+
+PROTECTING 'GOOD-PAYING JOBS' -- "Rauner: Keep nuclear plants in state's 'energy mix,'" by Herald & Review's Edith Brady-Lunny Lee: "Gov. Bruce Rauner said Friday he hasn't had a chance to review legislation proposed to help financially struggling nuclear power plants in Clinton and the Quad-Cities, but he considers nuclear power important to the state's 'energy mix.' Answering questions during a domain.com to Bloomington, Rauner said, 'Nuclear plants have have a lot of good-paying jobs' that he doesn't want to lose. But he added, 'I'm concerned when a big company says in order to stay in Illinois, they need a big taxpayer subsidy.'" <<link>> 
+
+SPREADING OUT THE NOISE -- "O'Hare noise plan solves some problems, creates new ones," by Chicago Tribune's Mary Wisniewski: "As early as next month, the Federal Aviation Administration is expected to test a new plan for rotating nighttime flights in and out of O'Hare International Airport, something supporters say will spread the pain of jet noise, but opponents worry will hurt the northwest suburbs. The O'Hare Noise Compatibility Commission, made up of municipalities and school districts around the airport, approved by a 45-5 vote on Friday a 'Fly Quiet' plan that will alternate which runways are used for arrivals and departures from week to week." 
+<<link>> 
+
+NOT THE KIND OF GROUP DISCOUNT THEY WANTED -- "Groupon does small round of layoffs in Chicago," by Chicago Tribune's Amina Elahi: "Groupon laid off about 30 people from its customer service department on Thursday, mostly in Chicago, a week after reporting earnings and installing a new chief financial officer. 'Earlier today we parted ways with approximately 30 people in our customer service organization as part of our ongoing streamlining program,' Groupon spokesman Bill Roberts said in an email. 'Those affected will receive full severance benefits.' Roberts said Groupon (Nasdaq: GRPN) continues to employ hundreds in its customer service division. He said most of those affected by the cuts
+ were Chicago-based, while a few were remote workers." <<link>> 
+
+EVENTS h/t to IntelligentEvent 
+
+TODAY 
+
+
+
+The Current State of the Illinois Budget - City Club of Chicago - Rauner is reaping the budgetary fruits of Madigan has sown for years. Now what? How can we get past this impasse? Is there common ground? A panel featuring Hon. Patti Bellock, Hon. Daniel Biss, Hon. Andy Manar, and Hon. David McSweeney will discuss the future of the state budget. SOLD OUT. 
+
+
+
+ 21st Century Policing, 20th Century Police Training - Institute of Politics - Police training has changed little over the last quarter century, helping fuel the distrust on the streets. Dr. Daniel Isom II, a national leader in policing and criminal justice research and studies, the former Chief of the St. Louis Metropolitan Police Department, will lead a discussion on successful policing using the "Community Ownership Model of Policing". 
+
+
+
+ Live Recording of "The Axe Files" with Jon Stewart - Institute of Politics - Jon Stewart talks with David Axelrod about politics, celebrity, and the state of the nation. SOLD OUT 
+
+
+
+ TUESDAY: A Conversation with Will Burns, AirBnB - 1871 - Will Burns, former 4th Ward Alderman, serves as the Director, Midwest Policy and Senior Advisor at Airbnb. He'll join 1871's Howard Tullman and Tom Alexander for a discussion on the homesharing platform's rapid growth and economic impact on Chicago's neighborhoods, as well as how the proposed City Council ordinance could affect Chicago's hosts and visitors. 
+
+
+
+ On The Table 2015 - Join thousands of Chicagoland residents to talk about how we can help unite the place we call home. In today's world, this act of coming together has never been more important. On the Table 2015 will connect individuals and communities of diverse perspectives and backgrounds. Talking - and listening - to our neighbors is an important first step toward creating a more unified Chicagoland region. 
+
+WHERE'S RAHM? No public events. 
+
+WHERE'S RAUNER? In Lake Villa then Lyons Township with Republican House Leader Jim Durkin talking education funding and "recent bipartisan momentum."  
+
+FOR MORE political and policy news from POLITICO Illinois, domain.com: <<link>> 
+
+
+
+SUBSCRIBE to the Playbook family: POLITICO Playbook: <<link>> ... New York Playbook: <<link>> ... Florida Playbook: <<link>> ... New Jersey Playbook: <<link>> ... Massachusetts Playbook: <<link>> ... Illinois Playbook: <<link>> ... California Playbook: <<link>> and our friends at POLITICO Brussels Playbook:
+ <<link>> ... All our policy and political tipsheets 
+<<link>> 
+
+THE MEDIA ISSUE- POLITICO MAGAZINE ONLINE TODAY: As Washington prepares for the final White House Correspondents Dinner of the Obama Administration, POLITICO Magazine's MEDIA ISSUE takes a look at how the press has contributed to the rise of GOP frontrunner Donald Trump. Jack Shafer, Susan Mulcahy, Michael Grunwald, Michael Crowley and Campbell Brown are just some of the contributors to this must-read issue. Read here-<<link>> 
+
+To view online:
+<<link>>
+ To change your alert settings, please go to <<link>> or <<link>> email was sent to user@domain.com by: POLITICO, LLC 1000 Wilson Blvd. Arlington, VA, 22209, USA
+
+To unsubscribe,<<link>>
+

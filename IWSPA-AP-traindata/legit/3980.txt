@@ -1,0 +1,11 @@
+Thanks Keith,
+I've made these changes and a few very minor changes just to improve the grammar in places,
+etc. Also, I'm embarassed to say that Scott's name was accidentally left out of the author
+list, so I've included that back in.
+There was one bit about the high-pass filtering and low-pass filtering which you changed,
+based on  I think some minor confusion about what I meant. I've fixed that.
+I'm assuming that Tim will be ok w/ the attached, final version, so I'm going to go ahead
+and submit to Nature now. We'll have ample opportunity for revision at a later stage.
+Lets cross our fingers.
+Thanks again everyone,
+Mike

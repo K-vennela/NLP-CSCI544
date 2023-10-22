@@ -1,0 +1,51 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id 741FD468C9
+	for <user@domain.com>; Sat, 25 Aug 2015 22:15:45 -0400 (EDT)
+X-Greylist: delayed 17844 seconds by postgrey-1.27 at domain.com; Sat, 25 Aug 2015 22:15:45 EDT
+Received: from domain.com (domain.com [91.121.68.162])
+	by domain.com (Postfix) with ESMTP id 3CC90131FBDD
+	for <user@domain.com>; Sat, 25 Aug 2015 22:15:45 -0400 (EDT)
+Received: from nobody by domain.com with local (Exim 4.66)
+	(envelope-from <user@domain.com>)
+	id 1IP31M-0003JU-In
+	for user@domain.com; Sat, 25 Aug 2015 23:18:16 +0200
+To: user@domain.com
+Subject: Your Online Banking Account Has been De-Activated 
+From: Online Banking Alert <Security@bankofamerica.com>
+Reply-To: user@domain.com
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Message-Id: <user@domain.com>
+Date: Sat, 25 Aug 2015 23:18:16 +0200
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - domain.com
+X-AntiAbuse: Original Domain - domain.com
+X-AntiAbuse: Originator/Caller UID/GID - [99 32002] / [47 12]
+X-AntiAbuse: Sender Address Domain - domain.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+Content-Length: 4632
+Lines: 79
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 66
+
+Dear Valued Customer : 
+As part of our security   measures, we regularly screen activity in the Bank Of America Online Banking   system. We recently contacted you after noticing an issue on your account.We   requested information from you for the following reason:
+
+            Our system   requires further account verification.
+To restore your account,   please Sign in to Online Banking.
+thank you for using Bank Of America Online Service. 
+
+Please do not reply to   this message. If you have any questions about the information in this e-Bill,   please contact your biller. For all other questions, call us at   800-887-5749. 
+
+Bank of America, N.A. Member FDIC. Equal   Housing Lender
+
+© 2015 Bank of America Corporation. All rights   reserved
+

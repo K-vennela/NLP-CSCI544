@@ -1,0 +1,105 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 4 May
+ 2015 09:46:49 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 4 May 2015 
+ 09:46:43 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 895715728
+ for user@domain.com; Wed, 04 May 2015 08:46:50 -0500
+X-Note-AR-ScanTimeLocal: 5/4/2016 8:46:48 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @turner.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->->->->PRIVATE->LOCAL->United States->
+X-Note-Sending-IP: 157.166.168.213
+X-Note-Reverse-DNS: ppsprmsb.turner.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from ppsprmsb.turner.com ([157.166.168.213] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 136506102
+ for user@domain.com; Wed, 04 May 2015 08:46:48 -0500
+Received: from pps.filterd (ppsprmsb.turner.com [127.0.0.1])	by
+ ppsprmsb.turner.com (8.15.0.59/8.15.0.59) with SMTP id u44DklIG038104	for
+ <user@domain.com>; Wed, 4 May 2015 09:46:47 -0400
+Received: from atltbshub02.turner.com (atltbshub02.turner.com
+ [10.189.248.156])	by ppsprmsb.turner.com with ESMTP id 22q8uwurqd-2
+	(version=TLSv1/SSLv3 cipher=AES128-SHA bits=128 verify=NOT)	for
+ <user@domain.com>; Wed, 04 May 2015 09:46:47 -0400
+Received: from edge.turner.com (10.166.126.155) by ATLTBSHUB02.turner.com
+ (10.189.248.156) with Microsoft SMTP Server (TLS) id 14.3.195.1; Wed, 4 May
+ 2015 09:46:46 -0400
+Received: from na01-bn1-domain.com (207.46.163.182)
+ by edge.turner.com (10.166.126.155) with Microsoft SMTP Server (TLS) id
+ 14.3.224.2; Wed, 4 May 2015 09:46:46 -0400
+Received: from domain.com (10.141.208.146) by
+ domain.com (10.141.208.149) with Microsoft SMTP
+ Server (TLS) id 15.1.485.9; Wed, 4 May 2015 13:46:45 +0000
+Received: from domain.com ([10.141.208.146]) by
+ domain.com ([10.141.208.146]) with mapi id
+ 15.01.0477.016; Wed, 4 May 2015 13:46:45 +0000
+From: "Liptak, Kevin" <Kevin.Liptak@turner.com>
+To: "User" <user@domain.com>
+Subject: Re: Hi User -- CNN Q
+Thread-Topic: Hi User -- CNN Q
+Thread-Index: AQHRjqzD8Nq6MuMatE+eTwzE8e4/T596QmbwgAA9YtGAAADs4IAueL0h
+Date: Wed, 4 May 2015 13:46:45 +0000
+Message-ID: <5231user@domain.com>
+References: <user@domain.com>,<user@domain.com>
+ <user@domain.com>,<05user@domain.com>
+ <user@domain.com>,<05user@domain.com>
+In-Reply-To: <05user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+authentication-results: domain.com; dkim=none (message not signed)
+ header.d=none;domain.com; dmarc=none action=none header.from=turner.com;
+x-originating-ip: [166.170.32.194]
+x-ms-office365-filtering-correlation-id: e83713ba-1901-4a10-ba13-08d374228862
+x-microsoft-exchange-diagnostics: 1;BLUPR07MB660;5:zIA7MlT8gnOYofiw+yMtEyhwxkUjSLLJ+gQvq1LrzqGz7zZh4S5wvBes6M5MZWTNPh8D1pWjKacrdK6KN9jWAI8tPiHK5aKuzue5nGBj6YRVzlyuIhAT1GEaoy7thPwyWQhpsMUKknC/9DOm9fL8Sg==;24:v7i5l07fthq7qijPX+lHz34cTq+m1NhGnsAsPZi5Ied9Ve/zuSM+tcI45Ej9Q1kQph4fRUx/8U0Oz4c3FrNTHztH+B3+NVIuXOvYyNk4GBc=;7:0eN1ftgo9IKgqXdYDJf8bGIIL5B4c66fXYD7LMf81gppOniJz/YyFFfAKQMxnmq+CNNMhE0jbZtq6YzQo+YX9PuMAMdASe2sh0rrU86m/mRdBx50co249KuuTVEXAxeCE1dN6k0d1o0krz5xVmWI76XKGdZoZAQNNqdh4G8OdISErIURuHqQc//uYTjsxV7c
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:;SRVR:BLUPR07MB660;
+x-microsoft-antispam-prvs: <user@domain.com>
+x-exchange-antispam-report-test: UriScan:;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(102415293)(102615271)(9101521098)(9101528026)(601004)(2401047)(8121501046)(5005006)(10201501046)(3002001);SRVR:BLUPR07MB660;BCL:0;PCL:0;RULEID:;SRVR:BLUPR07MB660;
+x-forefront-prvs: 093290AD39
+x-forefront-antispam-report: SFV:NSPM;SFS:(10009020)(66654002)(24454002)(377454003)(19617315012)(93886004)(11100500001)(66066001)(8936002)(2906002)(110136002)(189998001)(17760045003)(54356999)(33656002)(16236675004)(19625215002)(15187005004)(76176999)(50986999)(5008740100001)(86362001)(81166005)(224903001)(5004730100002)(36756003)(87936001)(5002640100001)(2900100001)(19580405001)(2950100001)(15975445007)(5003630100001)(1220700001)(82746002)(19580395003)(122556002)(99936001)(106116001)(83716003)(450100001)(586003)(10400500002)(102836003)(77096005)(92566002)(3280700002)(3660700001)(6116002)(3846002)(107886002)(99286002)(28003001);DIR:OUT;SFP:1101;SCL:1;SRVR:BLUPR07MB660;H:domain.com;FPR:;SPF:None;MLV:sfv;LANG:en;
+spamdiagnosticoutput: 1:23
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/related;
+	boundary="_004_5231FCB717EE4D1884626D78D0DDBD4Aturnercom_";
+	type="multipart/alternative"
+X-MS-Exchange-CrossTenant-originalarrivaltime: 04 May 2015 13:46:45.4159
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 0eb48825-e871-4459-bc72-d0ecd68f1f39
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BLUPR07MB660
+X-Proofpoint-Virus-Version: vendor=fsecure engine=2.50.10432:5.15.96,1.0.3,0.0.0000
+ definitions=2016-05-04_05:2016-05-04,2016-05-04,1970-01-01 signatures=0
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Hey User -- hope you're well. Wanted to touch base again to see what more y=
+ou can say on President Obama's role going forward in the presidential race=
+ -- even though the nomination process is still ongoing, are there places/a=
+reas you guys see him playing a major role? How eager are Democrats to get =
+him out on the trail?
+
+Thanks
+Kevin
+
+Sent from my iPhone
+
+On Apr 4, 2016, at 20:07, User <user@domain.com<mailto:user@domain.com=

@@ -1,0 +1,92 @@
+<x-flowed>
+Tim,
+As promised some comments on the paper.
+General: It is very good, just what is needed and puts the last 4 years of 
+debate into the right context.
+General: why consistently 'climate changes' rather than the more usual 
+'climate change'?
+Abstract, line 10: why only quote as high as 0.99 and not the lowest 
+correlation (which actually is more to the point - it is still very good 
+after the 2020s, even for precip).
+Abstract, lines 12-13: as worded this does not quite follow, although I see 
+from later that the ellipses used are at 95% confidence.  Just because they 
+fall outside natural variability does not *in itself* prove they are stat. sig.
+p.2, lines 17-19 (and also several places on p.4): impacts are mentioned, 
+but nothing said about adaptation.  It is really adaptation 
+actions/decisions that are crucial, impacts are only one way to get 
+there.  Alter the focus.
+p.2, line -10: add 'necessarily' between 'not' and 'be'.  AOGCMs may 
+actually do not so bad a job on occasions about climate change (relative 
+changes for example), so don't completely dismiss this one.
+p.5, section 2: general point: there is no list or table or statement about 
+exactly what these 17 experiments are.  The models are listed, but not the 
+experiments.  e.g. which SRES scenarios did which modelling group and how 
+many ensembles?  For the lay person this is not obvious.
+p.7, top line: you should perhaps make the point that simple bias indices 
+such as these may partly be explained by elevation offsets (model height 
+vs. real height).  It is to my mind a mitigating factor than can work in a 
+model's favour (not always).  It should be mentioned, because the biases 
+may not be due to just dumb models, but due to simple resolution issues 
+that can be adjusted easily.  A similar point perhaps applies in the next 
+para. about ocean/land boundaries.  OK, you could say this just shows how 
+bad models are, but it perhaps gives people a poorer view of the model 
+physics and credibility than is truly needed.  Another point to mention in 
+this para about precip. is the obvious point about decadal natural 
+variability.  It's a tall order to expect the models to get the 1961-90 
+monthly mean precip. exactly right, owing to internal variability.  Indeed, 
+give such variability can be plus/minus 10-20% or more it would be 
+astonishing if they matched.  Be generous to models I say.
+p.9, middle - interesting point about ECHAM4 and NCAR masks!!
+p.15, para 2: didn't you have A1FI available from Hadley?  Surely it could 
+have been used to test this?  Last sentence in this para:  why 'evidently 
+conform'?
+p.16, last line: interesting point here:  if you claim the pattern-scaling 
+didn't work for the 2020s because of nat var (S/N ratios) then why actually 
+should we go with the raw model results anyway - certainly if it is the 
+signal we are interested in (and not the noise), it suggests the raw 2020s 
+models results are misleading us!  This is a rather circular argument I 
+realise but the bottom line point again comes back to S/N ratios and the 
+role of nat decadal variabiliy, esp. for precip.  Are we going to recommend 
+adaptations to noise or to signals - and why?
+p.17, middle para:  what about mentioning climate sensitivity here?  I know 
+its out of vogue now, but PCM and NIES differences are explained by overall 
+model sensitivity aren't they.
+p.17, para 4:  this point about where agreement occurs between models is 
+important.  Some people - I heard Wigley do it recently - write models off 
+at regional scales re. precip changes because they all disagree.  They do 
+for some regions, but not all and where we think we have physical grounds 
+to accept agreement as legit. (e.g. UK; cf. UKCIP02 scenario metholody) 
+then we should be confident to say so.
+p.17, line -7: why use 'forecasting' here?  Could confuse some people.  The 
+old argument about terms I guess.  And again top line on p.18 is dangerous 
+- we can "predict" nat. variability in a stochastic sense using 
+ensembles.  Change the wording.
+p.18, line 9: not only are they difficult to forsee, they are simply 
+unforseeable to a significant extent because it is we who determine them; I 
+prefer to make the distinction between different types of prediction 
+problem more explicit.
+p.18, lines 19-20: I don't like the use of 'truth' and 'precise' here.  It 
+implies a strong natural science view prediction and the competence of 
+science (modellers!) which I think should be softened.
+p.18, para 4:  the inter-model differences bit being as large as the 
+inter-scenario differences.  Again at least mention the role of nat var 
+here - some of these inter-model differences *must* be due to nat var, not 
+simply models not able to agree with each other.
+p.19, para 1:  I think the stabilisation case should be mentioned 
+here.  What about pattern-scaling stab scenarios?  As I hear it from DEFRA 
+and Hadley here in UK this was a big issue at the TGCIA meeting.  Make a 
+comment at least; I think in principle p-scaling is probably OK (within 
+some limits) even here.  I think you should make reference to some of Tim 
+Mitchell's work here (and/or elsewhere) since he has looked at some of 
+these things too.  His thesis or his CC paper perhaps.
+And finally, w/o sounding as self-serving as Tom Wigley, it would be nice 
+if you could reference (perhaps in section 3.3) the Hulme/Brown (1998) 
+paper in CR which was the first time I published scatter plots in this form 
+for GCMs results - and possible the first time this form of presentation 
+had been used anywhere (but I stand corrected of course; maybe I simply 
+picked it up from someone else).
+So there it is: a great piece of work and a good write up.  I don't know 
+Kimmo but pass on my congratulations to him.  I'll look out for it on the 
+web site.
+Best wishes,
+Mike

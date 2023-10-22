@@ -1,0 +1,101 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Fri, 29 Apr
+ 2015 21:23:52 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Fri, 29 Apr 2015 
+ 21:23:41 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 888768105
+ for user@domain.com; Fri, 29 Apr 2015 20:23:53 -0500
+X-Note-AR-ScanTimeLocal: 4/29/2016 8:23:51 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:209.85.213.174 DOM:nhdp.org ADDR:user@domain.com
+X-Note: SPF: None
+X-Note-SnifferID: 100
+X-GBUdb-Analysis: Unknown
+X-Signature-Violations: 100-5946664-3846-4026-m
+	100-5946664-3846-4040-m
+	100-5946975-13679-13698-m
+	100-5946664-0-16431-f
+X-Note-419: 15.6267 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 4/29/2016 8:23:47 PM
+X-Warn: WEBBUG
+X-Warn: OPTOUT
+X-Warn: BULKMAILER
+X-Note: Spam Tests Failed: WEBBUG, OPTOUT, BULKMAILER
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 209.85.213.174
+X-Note-Reverse-DNS: mail-ig0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G280 G285 G373 G375 G397 G572 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from mail-ig0-domain.com ([209.85.213.174] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 138009913
+ for user@domain.com; Fri, 29 Apr 2015 20:23:51 -0500
+Received: by mail-ig0-domain.com with SMTP id m9so34409685ige.1
+        for <user@domain.com>; Fri, 29 Apr 2015 18:23:51 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=nhdp-domain.com; s=20150623;
+        h=From: Thomas Nuccio <tnuccio@nhdp.org>
+         :references:to;
+        bh=YMcru9+/3+DiRHVzSJsbbeLHLIHC4Ghe9FaW0/xCOXo=;
+        b=vHcgsMdS/7aRlq000gaYprhYA5I4aGYTXR6XufJ89wv/GrlbDx2dczgoEfdpusOHyU
+         gVMWMTCjegLpor0shlp4j06LNhOCOQzNyrEtsFVL5L5cdruiocya9w11hUimwTPL73g8
+         ieAT8lRWkDDm9C5EuUuEXsFvUwdBNvxsFoNzkt89PnGlb0xzuZrKcpd7Lg61rGhs7wsL
+         9zySrGEdyNxTK7FB9+A6pKC+UBFXZaVt9fBDbrnnLtkIOgOw64GxluyFPjNgcayXl1/F
+         4FW5VVELQTOHXvQESfM8y4kiqjEHrYYUvzA5tk+OrWMerL6G32aYFPYpNm8tx65luvvn
+         BKfw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:From: Thomas Nuccio <tnuccio@nhdp.org>
+         :subject:message-id:date:references:to;
+        bh=YMcru9+/3+DiRHVzSJsbbeLHLIHC4Ghe9FaW0/xCOXo=;
+        b=RXuNbnmBmrirKLLuG3TvfMUajapKbw9oqTbT+w3zrTLeTiauJut1SGP97axf32RlnS
+         AJVRhoITb6R0ppRZXbJ6FiPMpJHMNdbSnwwcedPG01l05qTCl3YNwF8lO2M1Zb/ny/Zn
+         OFUqanPijVdTXNfEEZY7hSm1fK72WY0xXNTMr3LulszZuNv8vfRGaf+G8mtB/Fuk70al
+         WF/e8D7IiXTdfC41QCQCfXQFlgJn6sapW1g9k0oGfX9lR8VxZOhRUifIW0ztHx+jGypR
+         IEoiyP+FwGH3n8dgRJRe2/0wxDJ/lB2AfC3aiorHgAS/nK7BRuKkoiMAaTiUuDqYv7Yk
+         stKg==
+X-Gm-Message-State: AOPr4FV5hVP4rISS51hLyQk3yoMlQ9hUZG+7kdvAZV/RnSciw2oP4MgUcB5LC1JxsiQLIg==
+X-Received: by 10.50.27.99 with SMTP id s3mr8084563igg.88.1461979431018;
+        Fri, 29 Apr 2015 18:23:51 -0700 (PDT)
+Return-Path: <user@domain.com>
+Received: from ?IPv6:2602:30a:2e39:f930:3872:40c:cf28:f77d?
+ ([2602:30a:2e39:f930:3872:40c:cf28:f77d])        by domain.com with
+ ESMTPSA id ef3sm3371048igb.12.2016.04.29.18.23.49        for <user@domain.com>
+        (version=TLSv1/SSLv3 cipher=OTHER);        Fri, 29 Apr 2015 18:23:49
+ -0700 (PDT)
+From: Thomas Nuccio <tnuccio@nhdp.org>
+Content-Type: multipart/alternative;
+	boundary="Apple-Mail-3BDCE836-7AD9-4DFF-9291-3601500DAA27"
+Content-Transfer-Encoding: 7bit
+Subject: Cruz email: Our New Ad (With Carly!!)  
+Message-ID: <4user@domain.com>
+Date: Fri, 29 Apr 2015 21:23:48 -0400
+References: <02.user@domain.com>
+To: <user@domain.com>
+X-Mailer: iPhone Mail (13E238)
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+MIME-Version: 1.0
+
+Sent from my iPhone
+
+Begin forwarded message:
+
+=99s running mate, Carly Fiorina. It=E2=80=99s a great ad, and we=E2=80=99re=
+ getting it up on the air right now. The only problem? We need your contribu=
+tion to make our ad buy as big as it needs to be.
+
+ With your quick donation, there=E2=80=99s still time to expand our ad buy a=
+nd make sure this ad is seen by as many people as possible.
+

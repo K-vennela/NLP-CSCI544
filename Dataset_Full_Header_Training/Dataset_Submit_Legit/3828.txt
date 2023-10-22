@@ -1,0 +1,437 @@
+Received: from dncedge1.dnc.org (192.168.185.10) by dnchubcas2.dnc.org
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Fri, 29 Apr
+ 2015 17:25:42 -0400
+Received: from domain.com (8.19.118.102) by dncwebmail.dnc.org
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Fri, 29 Apr 2015 
+ 17:25:31 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 888533745
+ for user@domain.com; Fri, 29 Apr 2015 16:25:42 -0500
+X-Note-AR-ScanTimeLocal: 4/29/2016 4:25:42 PM
+X-Policy: dnc.org
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: user@domain.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: LOCAL->United States->
+X-Note-Sending-IP: 198.2.138.226
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from domain.com ([198.2.138.226] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 135775791
+ for user@domain.com; Fri, 29 Apr 2015 16:25:42 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=domain.com;
+ h=Subject:From: =?utf-8?Q?Raymond=20Buckley?= <ASDC@dnc.org>
+ bh=7qNb9ZNGMceu+tdqnqaIUdJgXpg=;
+ b=2Gh61EkhsSmMK/BIu8X5hm1Bw4p5KlTSEyAOYpMZmawlIKnMNslWA6BUCucy2IkNxcbHhMCgo8x8
+   1XAKqd9DwJ6NTCodHQmR6g4MM3Lhzsz7Aps9TOH3lvgkkkFU/7FaAIR7blv3Grl0pqgFl5r/Vrjq
+   5zNDD9IHhHECqKAyikw=
+Received: from (127.0.0.1) by domain.com id h4f8l81sb54o for
+ <user@domain.com>; Fri, 29 Apr 2015 21:25:39 +0000 (envelope-from
+ <user@domain.com>)
+Subject: =?utf-8?Q?ASDC=20Newsletter=20*Philadelphia=20Meeting=20Schedule=20Edition=21*?=
+From: =?utf-8?Q?Raymond=20Buckley?= <ASDC@dnc.org>
+Reply-To: =?utf-8?Q?Raymond=20Buckley?= <user@domain.com>
+To: <user@domain.com>
+Date: Fri, 29 Apr 2015 21:25:39 +0000
+Message-ID: <user@domain.com>
+X-Mailer: MailChimp Mailer - **CIDa42a69e1627633d8eb8e**
+X-Campaign: mailchimpca6d16b8af5e1932f64d24222.a42a69e162
+X-campaignid: mailchimpca6d16b8af5e1932f64d24222.a42a69e162
+X-Report-Abuse: Please report abuse for this campaign here: <<link>>
+X-MC-User: ca6d16b8af5e1932f64d24222
+X-Feedback-ID: 17616351:17616351.1335713:us4:mc
+List-ID: ca6d16b8af5e1932f64d24222mc list <ca6d16b8af5e1932f64d24222.180005.list-domain.com>
+X-Accounttype: pd
+List-Unsubscribe: <mailto:user@domain.com?subject=unsubscribe>, <<<link>>>
+Sender: Raymond Buckley <user@domain.com>
+x-mcda: FALSE
+Content-Type: multipart/alternative;
+	boundary="_----------=_MCPart_1683307352"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: dncedge1.dnc.org
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+<<link>>
+------------------------------------------------------------
+Register (<<link>>) for the ASDC Spring Meeting an=
+d Convention Walkthrough (<<link>>) in Philadelph=
+ia=2C PA!
+May 19-21=2C 2015 
+Sheraton Downtown Hotel Booking:
+
+<<link>>
+30AEC5E2
+Four Points Northeast Overflow Booking: 866-716-8133 and mention the ASDC=
+ Spring Meeting
+------------------------------------------------------------
+
+Friday =2C April 29th=2C 2015 
+Dear Colleagues;
+
+I am pleased to share with you our schedule of events for our May 19-21st=
+ Spring Meeting and Convention Walkthrough in Philadelphia! We have an exc=
+iting few days of trainings=2C briefings=2C site visits and events  design=
+ed to help you and your delegations get ready for 2015 Convention and the=
+ general election season.
+
+You should plan to arrive in downtown Philadelphia by 1:00pm on Thursday=
+=2C May 19th (x-apple-data-detectors://14)  and depart no earlier than Sat=
+urday=2C May 21st at 1:00pm (x-apple-data-detectors://15) .
+
+Please review the schedule below as well as important registration and hot=
+el booking information.
+
+Thursday=2C May 19^th
+
+2:00pm-5:00pm                       ASDC Coordinated Campaign Training
+Location: Sheraton Philadelphia Downtown
+
+5:30pm-6:00pm                       Travel time
+
+6:00pm-8:00pm                       DNCC/Host Committee Welcome Reception
+
+8:30pm-9:00pm                       Travel time
+
+Friday=2C May 20^th
+
+8:30am-9:00am                       Grab-and-go breakfast
+Location: Sheraton Philadelphia Downtown
+
+9:00am-9:15am                       Travel time
+
+9:15am-10:00am                     Tour of Pennsylvania Convention Center
+
+10:00am-10:30am                   Travel time
+
+10:30am-11:30am                   Tour of Wells Fargo Center
+
+11:30am-12:00pm                   Travel time to hotel
+
+12:00pm-2:00pm                     Lunch& DNCC Briefing w/
+DNCC CEO Leah D.Daughtry & DNCC Senior Staff
+
+Location: Sheraton Philadelphia Downtown
+
+2:00pm-2:30pm                       Break
+
+2:30pm-5:30pm                       ASDC General Meeting
+
+5:30pm-6:30pm                       Break/Travel time
+
+6:30pm-8:30pm                       Evening Reception
+
+Saturday=2C May 21^st
+
+8:30am-9:30am                     ASDC Women=E2=80=99s Breakfast
+Location: Sheraton Philadelphia Downtown
+
+10:00am-1:00pm                  Executive Directors Meeting
+Chairs & Vice Chairs Workshop
+Location: Sheraton Philadelphia Downtown
+
+Registration: Please register by using this link:
+<<link>>
+Password: asdc
+
+Hotel Accommodations: You may book your hotel accommodations by clicking t=
+his link (<<link>>
+964&key=3D30AEC5E2)  or calling the Sheraton Philadelphia Downtown at 1-80=
+0-325-3535 (tel:1-800-325-3535)  and mentioning the ASDC Spring Meeting. T=
+he rate for the Sheraton is $249 a night.
+
+*Please note that the room block is currently full for Wednesday night sta=
+ys*
+
+You may also book at the Sheraton Four Points Philadelphia Northeast by ca=
+lling 866-716-8133 (tel:866-716-8133)  and mentioning the ASDC Spring Meet=
+ing. The rate there is $139 a night=2C rooms are limited and it is a drive=
+ away Sent from my iPhone
+
+If you would like to schedule a domain.com to your delegation hotel=2C please c=
+ontact the DNCC soon so they can help arrange it by emailing Clark Lee cle=
+user@domain.com (mailto:user@domain.com) . See you in Philadelp=
+hia!
+
+Thank you for all that you do=2C
+
+Raymond Buckley=2C State Chair*
+NH Democratic Party
+105 North State Street (x-apple-data-detectors://18)
+Concord=2C NH 03301 (x-apple-data-detectors://18)   603-225-6899 (tel:603-=
+225-6899)
+
+*President of the Association of State Democratic Chairs and Vice Chair of=
+ Organization
+
+------------------------------------------------------------
+WHAT'S IN THIS EMAIL
+Letter from Executive Director
+Training Update
+Digital Leaderboard
+Jobs List
+Important Upcoming Dates
+
+------------------------------------------------------------
+LETTER FROM EXECUTIVE DIRECTOR
+ASDC Family=E2=80=94
+
+This week I had the opportunity to domain.com Philadelphia in preparation for o=
+ur upcoming meeting. We are really excited to be teaming up with the DNCC=
+=2C Host Committee the Pennsylvania Democratic Party to make this a great=
+ week of events and trainings!
+
+As President Buckley mentioned; please REGISTER (<<link>>
+/meeting/) and BOOK YOUR HOTELS for the meeting ASAP.
+
+Additionally=2C I wanted to make sure that you saw the email earlier this=
+ week with important information from Rules and Bylaws Chairs Lorraine Mil=
+ler and Jim Roosevelt on the Delegate Selection Process (<<link>>
+domain.com/file/d/0B-2z-QgCRjMHVXhyb2NyenhOUXM/view) . Click on the link to v=
+iew. Please share with your networks and interested parties.
+
+Thanks for Reading
+Jonae
+
+Jonae Wartel
+Executive Director
+Association of State Democratic Chairs
+
+------------------------------------------------------------
+TRAINING UPDATE
+
+State parties--
+
+Wednesday we held our final training webinar of the 2015 T3 Program. It's=
+ hard to believe 6 weeks have gone by so fast=2C but as they say=2C time f=
+lies when you're having fun! We closed out the program by learning differe=
+nt methods of opposition research=2C and how T3 participants can take the=
+ skills they've learned and train new volunteers in the states.
+
+I'm excited to issue certification to our dedicated participants who tuned=
+ in each week for all 12 training webinars. Their commitment to the progra=
+m demonstrates their eagerness to use the skills they've learned to grow o=
+ur county parties=2C and in turn strengthen our state parties. I'm excited=
+ to hear about the wonderful training programs that will grow out of the T=
+3 Program=2C and hope that you'll reach out for a list of certified traine=
+rs in your state. Although the program has ended=2C our march to victory i=
+n November is just beginning. Check out what participants have said about=
+ the program on Twitter below!
+
+Thank you for joining yesterday's Train to Win Webinar webinar: Convention=
+ Best Practices: A Day in the Life where we were joined by state party lea=
+ders who discussed what you can expect from each of the major events durin=
+g the Convention with a focus on breakfasts=2C the Convention Hall=2C spee=
+ches and credentials. Many thanks to our wonderful presenters.
+
+Thanks for reading!
+
+Vanna
+
+Vanna Cure
+Training Director
+Association of State Democratic Chairs
+
+------------------------------------------------------------
+
+DIGITAL LEADERBOARD
+FACEBOOK Likes:
+1. Florida Democratic Party - 156=2C789
+2. Texas Democratic Party - 127=2C487
+3. Democrats Abroad - 70=2C900
+4. Wisconsin Democratic Party - 44=2C467
+5. Michigan Democratic Party  - 41=2C038
+
+FACEBOOK Increased Likes:
+1. Florida Democratic Party - 3=2C085
+2. Connecticut Democratic Party - 594
+3. Wisconsin Democratic Party - 344
+4. Pennsylvania Democratic Party - 288
+5. Texas Democratic Party- 284
+
+TWITTER Followers:
+1. Florida Democratic Party - 46=2C481
+2. Connecticut Democratic Party - 29=2C453
+3. Texas Democratic Party - 28=2C560
+4. California Democratic Party - 16=2C674
+5. Ohio Democratic Party - 15=2C444
+
+TWITTER Increased Followers:
+1. Kansas Democratic Party - 291
+2. Connecticut Democratic Party - 230
+3. Washington Democratic Party - 109
+4. North Carolina Democratic Party - 80
+5. California Democratic Party - 75
+
+------------------------------------------------------------
+
+JOBS LIST
+Arizona
+Arizona Deputy Coordinated Campaign Director (<<link>>
+izona-deputy-coordinated-campaign-director/)
+
+Arizona Deputy Data Director (<<link>>
+a-director/)
+
+Arizona Paid Fellows (<<link>>
+rector-2/)
+
+Arizona Field Organizers (<<link>>
+rs/)
+
+Arizona Regional Field Directors (<<link>>
+al-field-directors/)
+
+Georgia
+Georgia County Affairs Coordinator (<<link>>
+ty-affairs-coordinator/)
+
+Minnesota
+Minnesota Red to Blue Program Director (<<link>>
+a-red-to-blue-program-director/)
+
+Minnesota Digital Director (<<link>>
+rector/)
+
+Minnesota Telemarketing Jobs (<<link>>
+eting-jobs/)
+
+Montana
+Montana Coordinated Campaign Field Director (<<link>>
+tana-coordinated-campaign-field-director/)
+
+Montana Communications Director (<<link>>
+cations-director/)
+
+Ohio
+Ohio Field Organizers (<<link>>)=
+  ***New***
+
+Ohio Hamilton County Commissioner Campaign Manager (<<link>>
+org/ohio-hamilton-county-commission-campaign-manager/)
+
+Ohio Democratic Caucus Campaign Managers (<<link>>
+emocratic-caucus-campaign-managers/)
+
+Ohio Research Associate (<<link>>
+/)
+
+Ohio Hamilton County Coordinated Campaign Director (<<link>>
+org/ohio-hamilton-county-coordinated-campaign-director/)
+
+Ohio Finance Assistant / Scheduler (<<link>>
+-assistant-scheduler-2/)
+
+New Hampshire
+New Hampshire Communications Director (<<link>>
+hire-communications-director/)
+New Hampshire Finance Director (<<link>>
+nance-director/)
+
+New Mexico
+New Mexico Data Director (<<link>>
+or/)
+
+New Mexico Communications Director (<<link>>
+ommunications-director/)
+
+North Dakota
+North Dakota Communications Director (<<link>>
+ce-assistant-scheduler-2/)
+Oklahoma
+Oklahoma Political Director (<<link>>
+director/)  ***New***
+
+Oklahoma Executive Director (<<link>>
+director/)  ***New***
+
+Oregon
+Oregon Development Ass (<<link>>
+tant/) istant (<<link>>)
+
+Oregon Digital Director (<<link>>
+/)
+
+Oregon Communications Director (<<link>>
+tions-director/)
+
+Oregon Opposition Researcher (<<link>>
+researcher/)
+
+South Dakota
+South Dakota Field Director (<<link>>
+director/)
+
+Utah
+Utah Regional Field Organizers (<<link>>
+eld-organizer/)
+
+Virginia
+Virginia Organizers (<<link>>)  ***N=
+ew***
+
+West Virginia
+West Virginia Finance Director (<<link>>
+nance-director/)
+
+Wisconsin
+Wisconsin Candidate Services Director (<<link>>
+-candidate-services-director/)
+
+------------------------------------------------------------
+
+IMPORTANT UPCOMING DATES
+
+20 days until Thursday=2C May 19- Saturday=2C May 21st=2C 2015 
+ASDC Convention Walk Through in Philadelphia=2C PA
+
+86 days until Monday=2C July 25th=2C 2015 
+Democratic National Convention=2C Philadelphia=2C PA
+
+191 days until November 8th=2C 2015 
+Election Day
+------------------------------------------------------------
+LEADERSHIP & STAFF
+
+President Raymond Buckley
+@ChairmanBuckley
+Eastern Vice President Deb Kozikowski
+@DemDivaCooks
+Southern Vice President Karen Carter Peterson
+@TeamKCP
+Midwest Vice President Maureen Monahan
+@MaureenKMonahan
+Western Vice President Jaxon Ravens
+@JaxonRavens
+Secretary Rick Palacio
+@RickPalacio
+Treasurer Alex Rooker
+@AlexRooker
+
+Executive Director Jonae Wartel
+user@domain.com
+770-653-9789 (tel:770-653-9789)
+Training Director Vanna Cure
+user@domain.com (mailto:user@domain.com)
+620-757-1472 (tel:620-757-1472)
+Senior Advisor Ann Fishman
+user@domain.com (mailto:user@domain.com)
+301-537-5120 (tel:301-537-5120)
+<<link>> <<link>>
+
+Paid for by the Association of State Democratic Chairs (<<link>>
+domain.com/) =2C 430 S. Capitol St. SE=2C Washington=2C D.C. 20003=2C
+and not authorized by any candidate or candidate's committee.
+Unsubscribe (<<link>>
+af5e1932f64d24222&id=3D8b1e47c616&e=3D7633d8eb8e&c=3Da42a69e162)

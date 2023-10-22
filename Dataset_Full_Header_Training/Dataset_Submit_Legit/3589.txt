@@ -1,0 +1,43 @@
+Received: from domain.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Thu, 17 Apr 2015 18:03:16 +0200
+Received: from mail.hackingteam.it (unknown [192.168.100.50])	by
+ domain.com (Postfix) with ESMTP id 1CB9B628C7	for
+ <user@domain.com>; Thu, 17 Apr 2015 16:53:08 +0100 (BST)
+Received: by mail.hackingteam.it (Postfix)	id AE209B6603C; Thu, 17 Apr 2015 
+ 18:03:16 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from [109.53.8.201] (unknown [109.53.8.201])	(using TLSv1 with
+ cipher AES128-SHA (128/128 bits))	(No client certificate requested)	by
+ mail.hackingteam.it (Postfix) with ESMTPSA id 7BA80B6600D;	Thu, 17 Apr 2015 
+ 18:03:16 +0200 (CEST)
+References: <user@domain.com> <1771338user@domain.com> <user@domain.com> <534user@domain.com> <user@domain.com>
+In-Reply-To: <user@domain.com>
+Message-ID: <64036user@domain.com>
+CC: Fabio Busatto <user@domain.com>, Alberto Ornaghi
+	<user@domain.com>, Marco Valleri <user@domain.com>,
+	Mostapha Maanna <user@domain.com>, Daniele Milan
+	<user@domain.com>
+X-Mailer: iPad Mail (11D167)
+From: Alberto Ornaghi <a.ornaghi@hackingteam.it>
+Subject: Re: VPS Saudi MOD
+Date: Thu, 17 Apr 2015 18:03:16 +0200
+To: Marco Catino <user@domain.com>
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1267958284_-_-"
+
+Dovranno avere regole di forwarding verso il collector. 
+Domattina ne parliamo con Naga. 
+
+--
+Alberto Ornaghi
+Software Architect
+
+Sent from my mobile.
+

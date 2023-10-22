@@ -1,0 +1,87 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id 8D04246869
+	for <user@domain.com>; Fri, 31 Aug 2015 21:07:28 -0400 (EDT)
+Received: from domain.com (domain.com [204.181.64.8])
+	by domain.com (Postfix) with ESMTP id ACD33131FB82
+	for <user@domain.com>; Fri, 31 Aug 2015 21:07:28 -0400 (EDT)
+Received: from domain.com (unknown [66.175.224.36])
+	by domain.com (Postfix) with ESMTP id 8E4FB6FA1C4
+	for <user@domain.com>; Fri, 31 Aug 2015 21:07:28 -0400 (EDT)
+Received: from User ([144.167.91.4]) by domain.com with Microsoft SMTPSVC(6.0.3790.1830);
+	 Fri, 31 Aug 2015 16:34:55 -0500
+From: "security@paypaI.com"<security@paypaI.com>
+Subject: PayPal - Please Restore Your Account
+Date: Fri, 31 Aug 2015 15:40:07 -0500
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <user@domain.com>
+X-OriginalArrivalTime: 31 Aug 2015 21:34:55.0750 (UTC) FILETIME=[C5EE1A60:01C7EC16]
+To: undisclosed-recipients:;
+Content-Length: 5241
+Lines: 129
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 83
+
+Dear PayPal Valued Member,
+
+We are contacting you to remind you that on 29 August 2007 our Account Review Team identified some unusual activity in 
+
+your account.
+
+In accordance with PayPal's User Agreement and Privacy Policy, and to ensure that your account has not been compromised yet, 
+
+access to your account was limited.
+
+Your account access will remains limited until this issue has been resolved.
+
+To secure your account and quickly restore full access on your account, we encourage you to log in and perform the steps 
+
+necessary to restore your account access as soon as possible by clicking the link below:
+
+Please click here to restore your account access
+
+Failure to verify and/or update your personal records, or if you choose to ignore our request, may result in further 
+
+limitations or eventual account closure.
+
+Thank you for your prompt attention to this matter. Please understand that this case intended to help protecting you and your 
+
+account.
+We apologize for any inconvenience. 
+
+Sincerely,
+
+PayPal, Inc.
+
+P.O. Box 45950
+
+Omaha, NE 68145 
+
+Please do not reply to this e-mail. Mail sent to this address cannot be answered. For assistance, log in to your PayPal 
+
+account and choose the "Help" link in the header of any page.
+
+To modify your notification preferences, log in to your PayPal account, click the Profile sub-tab, then click the 
+
+Notifications link under Account Information. Changes may take up to 10 days to be reflected in our mailings. PayPal will not 
+
+sell or rent any of your personally identifiable information to third parties. For more information about the security of 
+
+your information, read our Privacy Policy at <<link>> 
+
+Copyright  2015 PayPal Inc. All rights reserved. Designated trademarks and brands are the property of their 
+
+respective owners. PayPal is located at 2015 N. First St., San Jose, CA 95131. 
+
+

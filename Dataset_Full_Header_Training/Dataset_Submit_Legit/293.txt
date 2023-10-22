@@ -1,0 +1,58 @@
+From: "Variety Breaking News" <donotreply@variety.com>
+To: "User"
+Subject: Julia Louis-Dreyfus Wins for Lead Actress in a Comedy for 'Veep'
+Date: Mon, 25 Aug 2015 20:51:33 -0400
+Message-ID: <20140826005133.2985697.18110@domain.com>
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQIwtxkDxMYp/lJg97i9frJZ6B2GGg==
+Content-Language: en-us
+x-ms-exchange-organization-authas: Internal
+x-ms-exchange-organization-authmechanism: 10
+x-ms-exchange-organization-authsource: domain.com
+x-forefront-antispam-report: CIP:192.64.237.159;CTRY:US;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BN1BFFO11HUB023;H:mx-justfab-domain.com;FPR:;LANG:en;
+x-microsoft-antispam: BCL:0;PCL:0;RULEID:(120001);UriScan:(133331);
+x-eopattributedmessage: 0
+List-Unsubscribe: <<<link>>>, <mailto:user@domain.com>
+x-domain.com: domain.com
+dkim-signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1409014293;	s=sailthru; d=variety.com;	h=Date:From: "Variety Breaking News" <donotreply@variety.com>
+x-rpcampaign: stcoy2985697
+X-Message-Flag: Flag for follow up
+x-info: user@domain.com
+x-iadb-ip-reverse: 25.215.39.65
+x-iadb-url: <<link>>
+x-tm-id: 20140826005133.2985697.18110
+x-iadb-ip: 65.39.215.25
+x-unsubscribe-web: <<link>>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+Julia Louis-Dreyfus has scored her third consecutive win for lead comedy actress for HBO's "Veep...
+
+​
+
+Breaking News
+
+Monday, August 25, 2014
+
+​
+
+Julia Louis-Dreyfus Wins for Lead Actress in a Comedy for 'Veep'
+
+Julia Louis-Dreyfus has scored her third consecutive win for lead comedy actress for HBO's "Veep." Monday's 66th annual Primetime...
+
+Full Story
+
+Check out the redesigned Variety411
+
+This email was sent to user@domain.com by Variety. To ensure delivery to your inbox (and not your spam folder), please add user@domain.com to your address book. If you prefer not to continue receiving email communications, please unsubscribe here instead of replying to this email.
+
+To update your profile and customize what email alerts and newsletters you receive, please click here.
+
+Having trouble reading this email? View the web version here.
+
+Copyright © 2014 Variety Media, LLC, a subsidiary of Penske Business Media.
+1​1​1​7​5 Santa Monica Blvd. Los Angeles, CA 9​0​0​2​5
+
+Variety and the Flying V logos are trademarks of Variety Media, LLC., used under license.
+

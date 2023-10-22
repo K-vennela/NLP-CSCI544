@@ -1,0 +1,80 @@
+Mike,
+Thanks for the quick response.  Responses to responses follows....
+(1)	I tried the composite GHG plus UIUC SUL on Norm's machine, in just
+the way you said.  However, the results for the USA seem to be identical
+to those using *only* UIUC GHG input.  I'll try again.
+(2)	You are right in saying one shouldn't scale GHG patterns by
+GHG+SUL dTs.  However, to be strictly consistent one should never allow
+GHG patterns to be used alone.  So you are *not* being consistent if you
+allow this---which you do.  The point then is to minimize the extent of
+the inconsistency.
+It is unarguably correct that the global-mean temperature to use 
+is the one containing all forcings (i.e., column 6 in *DRIVE.OUT).  The
+choice then is what pattern(s) to use.  If we had no SUL information, we
+would have to use GHG patterns; as in the original SCENGEN.  Scaling these
+with the MAGICC GHG output would give both incorrect patterns and
+incorrect global-mean warming.  Scaling with column 6 at least gets the
+global-mean warming correct (within MAGICC uncertainties).  You seem to 
+have chosen to get *both* things wrong, instead of just the patterns.
+I can see some logic in your method; I just think (strongly) that
+it is wrong.  At the very least, it will be confusing to the user.
+If the user selects only GHG model patterns, then won't they wonder why
+the global-mean temperature is inconsistent with MAGICC?  To take an
+extreme case, suppose the full dT is 2degC and the GHG-alone dT is 3degC.
+Is it better to scale an approximate pattern (i.e., the GHG pattern) by
+2degC or 3degC?  In my view, GHG scaled by 2degC would be much closer to
+GHG+SUL scaled by 2degC than GHG scaled by 3degC.  Surely the real issue
+(given that it is impossible to be entirely consistent in this case) is to
+get a result that is as close to the 'right' result as possible.  I feel
+quite sure that scaling by column 6 is best on this basis---especially
+given that the patterns are much more uncertain than the global-means.  I
+think this is absolutely beyond doubt.
+The bottom line here is that consistency is impossible if one uses
+only GHG patterns.  Column 6 was included deliberately, and after some
+thought (along the lines noted above).  
+Of course, it is possible to get column 6 results by adding
+columns 2, 3, 4 and 5 as they now stand (and as they are in the version
+that you have).  However, one cannot do this with the correct *raw*
+column 3, 4, and 5 output because of the nonlinear direct forcing effect.
+It just happens that, in your version, I 'faked up' column 5 as the
+difference between column 6 and the sum of columns 2, 3 and 4.  I did this
+simply to get the code working; but (as you now know) I never got around
+to fixing it up until now.  In the latest version, column 6 is again equal
+to the sum of columns 2, 3, 4 and 5 because I scale columns 3, 4 and 5 to
+ensure that this is so.
+(3)	Re HadCM2, again it is impossible to be consistent.  What I said
+before is that the reason for adding these results is simply to make them
+readily available.  I do *not* advocate using them in combination with any
+other model results.  It is, I believe, perfectly reasonable to scale 
+these results with column 6 data.  Of course, this 'hides' an assumption
+about the relative magnitudes of the GHG and SUL components---i.e., it
+assumes that the HadCM2 relative magnitudes are okay.  The point of
+scaling, however, is to account for other factors that change the
+global-mean temperature relative to HadCM2 results, such as different
+sensitivities.
+I agree with you that it would not be an efficient use of time
+splitting the HadCM2 SUL results into GHG and 'aerosol' component
+patterns.  The whole point of the sulphate part of SCENGEN is to look at
+the influence of different SO2 emissions patterns.  Splitting up HadCM2
+wouldn't help here at all.
+I also think it would be valueless to hardwire HadCM2 dT results 
+into SCENGEN---again, this would defeat the purpose of including these
+results.  It would introduce an additional inconsistency; since HadCM2
+patterns change with time, it would not be logical to scale the 2071-2100
+pattern with (e.g.) 2031-2060 dT.  Of course, you could argue that it is
+illogical to scale this pattern with (e.g.) 2031-60 dT from MAGICC; but
+this is a different issue that I don't think is worth discussing at this
+time.
+(4)	Thanks for explaining the UIUC 'other data' problem.  I will ask
+Michael whether he can provide full global fields for the other variables,
+since it really would be valuable to include them.  If he can give us
+these data, could you add them to SCENGEN? (re this, see below)
+(5)	I appreciate your problems with Olga and Mike Salmon.  As far as I
+can see, incorporating the revised MAG.FOR code into MAGICC/SCENGEN
+shouldn't be too difficult.  I can, however, get hold of some money to pay
+for some of Mike's time to do other work---perhaps $5000 or so.  Can we
+set something up?  The contractual side would be easy---just a matter of
+agreeing a brief statement of work, and having CRU send a bill.  If this
+is useful and possible, then can you check it out with Mike and Trevor?
+Cheers,
+Tom

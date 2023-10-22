@@ -1,0 +1,78 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Fri, 20 May
+ 2015 14:46:42 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Fri, 20 May 2015 
+ 14:46:36 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 926934145
+ for user@domain.com; Fri, 20 May 2015 13:46:50 -0500
+X-Note-AR-ScanTimeLocal: 5/20/2016 1:46:50 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @perkinscoie.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->LOCAL->United States->
+X-Note-Sending-IP: 67.231.156.136
+X-Note-Reverse-DNS: mx0b-0016domain.com
+X-Note-Return-Path: 
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mx0b-0016domain.com ([67.231.156.136] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 141875479
+ for user@domain.com; Fri, 20 May 2015 13:46:50 -0500
+Received: from pps.filterd (domain.com [127.0.0.1])	by
+ mx0b-0016domain.com (8.16.0.11/8.16.0.11) with SMTP id u4KIkWW2017809
+	for <user@domain.com>; Fri, 20 May 2015 11:46:40 -0700
+Received: from dc2sppmail23a.perkinscoie.root.loc ([66.77.102.70])	by
+ mx0b-0016domain.com with ESMTP id 23151u7fcm-1	(version=TLSv1
+ cipher=ECDHE-RSA-AES256-SHA bits=256 verify=FAIL)	for <user@domain.com>; Fri,
+ 20 May 2015 11:46:40 -0700
+Received: from DC2SPPMAIL23A.perkinscoie.root.loc
+ ([fe80::7509:aa8c:1739:c2b5%27]) by DC2SPPMAIL23A.perkinscoie.root.loc
+ ([fe80::7509:aa8c:1739:c2b5%27]) with Microsoft SMTP Server id
+ 14.03.0266.001; Fri, 20 May 2015 13:46:40 -0500
+From: "Wilson, Graham M.  (Perkins Coie)" <GWilson@perkinscoie.com>
+To: "User" <user@domain.com>
+Subject: Automatic reply: 
+Thread-Index: AQHRssfwq8XcMrU+r0OSDtNetg98Bp/CKlSu
+Date: Fri, 20 May 2015 18:46:40 +0000
+Message-ID: <user@domain.com>
+References: <11user@domain.com>
+In-Reply-To: <11user@domain.com>
+X-MS-Has-Attach: 
+X-Auto-Response-Suppress: All
+X-MS-Exchange-Inbox-Rules-Loop: user@domain.com
+X-MS-TNEF-Correlator: 
+Content-Type: multipart/alternative;
+	boundary="_000_c1cf6abbcc0440759a3ba3c830c202b2DC2SPPMAIL23Aperkinscoi_"
+Return-Path: <>
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+I will be out of the office through Monday, May 23rd. I will be checking em=
+ails but may not be able to get back to you as quickly as I normally would.=
+ If you require immediate assistance please feel free to call my cell phone=
+ at 202-679-3482 or contact my assistant Karla Guity at 202-654-6273 and sh=
+e will be able to direct you to another attorney in the Political Law Group=
+.  Otherwise, I will get back to you as soon as I can.
+
+Best,
+
+Graham Wilson
+
+________________________________
+
+NOTICE: This communication may contain privileged or other confidential inf=
+ormation. If you have received it in error, please advise the sender by rep=
+ly email and immediately delete the message and any attachments without cop=
+ying or disclosing the contents. Thank you.

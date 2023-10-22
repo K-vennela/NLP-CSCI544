@@ -1,0 +1,78 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Mon, 9 May
+ 2015 17:16:08 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Mon, 9 May 2015 
+ 17:16:06 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 905326132
+ for user@domain.com; Mon, 09 May 2015 16:16:11 -0500
+X-Note-AR-ScanTimeLocal: 5/9/2016 4:16:11 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @wsj.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 209.85.218.50
+X-Note-Reverse-DNS: mail-oi0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mail-oi0-domain.com ([209.85.218.50] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 137882951
+ for user@domain.com; Mon, 09 May 2015 16:16:11 -0500
+Received: by mail-oi0-domain.com with SMTP id x19so225641919oix.2
+        for <user@domain.com>; Mon, 09 May 2015 14:16:07 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=wsj-domain.com; s=20150623;
+        h=mime-version:in-reply-to:references:date:message-id:subject:From: "Lee, Carol" <carol.lee@wsj.com>
+         :cc;
+        bh=ZEkamlR/EpxiYy6/RPTLNUKzSXp2RanfW4yBg6k9ZAo=;
+        b=hEw1+yJ0T2jHIslvCwWcHRNSDmEOXH1kG4Lds2N7htfDbhD+eLGBPLcYaNYa1LOTQ0
+         uUibUphuXAVyk6eBRMowH3QBoSAZj3tQ+KQbzYKw7WRlfvlsTpHU6P8BZpzCvFnxsLC8
+         McObHuWDPPo0La0NM1TU4NVbJ9dWLUxWTFrNJhdDxEgT+U1RXluVedZMjiBSVqWmBF/S
+         OgyABkHhODIqHN9Yt3wUTlHbQC3pgM9n2KmsSq/Ju+TsIBnJuova7LX5Gd6H5vJQlRBz
+         tU521y7nDCz+/g1kBtJ4xGbAQ8SicIUAKctSpCPn0iRinOElAz/xbXLjRR4XEwWVb6R5
+         10Iw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:date
+         :message-id:subject:From: "Lee, Carol" <carol.lee@wsj.com>
+        bh=ZEkamlR/EpxiYy6/RPTLNUKzSXp2RanfW4yBg6k9ZAo=;
+        b=NQeEEvFePJhfdC40rfkMJsIZ4q3lyP+LKp9gK+LCXJsYZgxUbzgmcGzy3qC2548qY3
+         /lbEoIiPy78aoIiTv1Ya0DFJjdUb+pFOYTyPTssfZbSIxNa3eAQG/hNu6e8YEcARoUQb
+         yW40HjgoIJPbOlDAtsOXhh+HWC6CKglWjCDGH9SafKkAfZSSMrzMrKbrvqmbVnsy7ylA
+         32FrfrA2BlBtLXEasVeSBgK8C/zCCm8GJqy1fyuTiJVeG+zexriihaCmq6cSim1aYYYD
+         mmz78OdKXNHU4fOHcyli3o6sxltqA2ukdfCxtshRUQVF/abYJtQcg7aqgwFEym9k0Z2S
+         FwrA==
+X-Gm-Message-State: AOPr4FWKNrbwfRKjfH5efRY6KRoDNk5ZYwK2kIa/hbvvCtZsoT8aY2hF/Z+y/nprYtkoGAxP4SiT/bZq8o0TeOLO
+X-Received: by 10.157.6.200 with SMTP id 66mr1126983otx.176.1462828566579;
+ Mon, 09 May 2015 14:16:06 -0700 (PDT)
+Received: by 10.157.8.83 with HTTP; Mon, 9 May 2015 14:16:06 -0700 (PDT)
+In-Reply-To: <user@domain.com>
+References: <602user@domain.com>
+	<user@domain.com>
+Date: Mon, 9 May 2015 17:16:06 -0400
+Message-ID: <user@domain.com>
+Subject: Re: List of Potus endorsements thus far
+From: "Lee, Carol" <carol.lee@wsj.com>
+To: "User" <user@domain.com>
+CC: Jennifer Friedman <user@domain.com>, "User"
+	<user@domain.com>
+Content-Type: multipart/alternative; boundary="94eb2c0432f4145be105326f5155"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Great, thanks! Anything on the books yet for him to do events for
+candidates?
+

@@ -1,0 +1,46 @@
+Received: from domain.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Tue, 10 Jun 2015 11:16:53 +0200
+Received: from mail.hackingteam.it (unknown [192.168.100.50])	by
+ domain.com (Postfix) with ESMTP id 335386037E;	Tue, 10 Jun 2015 
+ 10:04:47 +0100 (BST)
+Received: by mail.hackingteam.it (Postfix)	id 00D2DB6603D; Tue, 10 Jun 2015 
+ 11:16:50 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from EmadPC (unknown [192.168.1.186])	(using TLSv1 with cipher
+ AES128-SHA (128/128 bits))	(No client certificate requested)	by
+ mail.hackingteam.it (Postfix) with ESMTPSA id BF5E1B6600D;	Tue, 10 Jun 2015 
+ 11:16:49 +0200 (CEST)
+From: Emad Shehata <e.shehata@hackingteam.it>
+To: 'Astana Team' <user@domain.com>
+CC: 'Emad Shehata' <user@domain.com>, 'HT' <user@domain.com>
+References: <user@domain.com>
+In-Reply-To: <user@domain.com>
+Subject: R: appendix
+Date: Tue, 10 Jun 2015 11:16:49 +0200
+Message-ID: <00e601cf848c$b5934850$20b9d8f0$@user@domain.com>
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: Ac+EeP1woad1sFTPTIG08uX0dORUNQAE1jng
+Content-Language: it
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-128259149_-_-"
+
+Dears, kindly find attached the Revised appendix.Also you will find the invoice for the second installment. Those documents already in you hand. Kindly sent the Revised Appendix sign and stamp from your part as well by post. Best regards Emad Shehata
+Key Account Manager
+
+Hacking Team
+Milan Singapore Washington DC
+domain.com
+
+email: user@domain.com
+mobile: +39 3357939078
+phone: +39 0229060603       Da: Astana Team [mailto:user@domain.com] 
+Inviato: martedì 10 giugno 2015 08:56
+A: Emad Shehata
+Oggetto: appendix  

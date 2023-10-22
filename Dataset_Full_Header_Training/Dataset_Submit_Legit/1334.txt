@@ -1,0 +1,102 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Sat, 21 May
+ 2015 16:03:53 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Sat, 21 May 2015 
+ 16:03:46 -0400
+Received: from [10.87.0.110] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 928080525;
+ Sat, 21 May 2015 15:03:52 -0500
+X-Note-AR-ScanTimeLocal: 5/21/2016 3:04:02 PM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @domain.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: United States->PRIVATE->United States->
+X-Note-Sending-IP: 66.151.182.17
+X-Note-Reverse-DNS: mta-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from [66.151.182.17] (HELO mta-domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 143253830;
+ Sat, 21 May 2015 15:04:02 -0500
+Received: from domain.com
+ (domain.com [10.0.180.1])	by
+ mta-domain.com (Postfix) with ESMTP id 3rBwjg6r2GzTQxT;
+	Sat, 21 May 2015 16:03:51 -0400 (EDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=domain.com; s=bsdkey; t=1463861032;
+	bh=j62YouEn2mrheD1I+HGwHjJf/VfVm0Qx+SA/K3wi/90=;
+	h=Date:To:From: Contribution <postmaster@finance.democrats.org>
+	b=TRhstTvVQBRA1M8d+pFIp5+rzRd3hOpX4GUjPM1nS3KWE41WRWhukolk/ODFLkMIZ
+	 TAgWb2kQPnUZLeDla04TRLYzx+227U+ntayyLwgFJUghARcxu+rwNK1QB1hVqA30zP
+	 C/JbBnPGkJaaAEDp9hNvqAwZRBlHgqukMAEZaLww=
+Received: from phpmailer ([66.191.237.38]) 	by domain.com
+ with HTTP (PHPMailer);	Sat, 21 May 2015 20:03:51 +0000
+Date: Sat, 21 May 2015 20:03:51 +0000
+To: <user@domain.com>, <user@domain.com>, <user@domain.com>,
+	<user@domain.com>
+From: Contribution <postmaster@finance.democrats.org>
+Subject: Contribution: TN035 - DWS Knoxville Reception / Donald Lighter / 2,000.00 USD
+Message-ID: <user@domain.com>
+X-Mailer: PHPMailer [version 1.71-blue_mailer]
+X-blue_mailer-http_host: finance.democrats.org
+X-blue_mailer-history_ids: 30200078 30200079 30200080 30200081
+Content-Type: multipart/alternative;
+	boundary="b1_d44c475ebf0a0c31ea0747241b2979c0"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+CONTRIBUTION DATA
+-----------------
+                      Page: TN035 - DWS Knoxville Reception
+                      Type: One-time
+         Number of Tickets: 2
+             Ticket Amount: $2,000.00
+               Ticket Info: %%TicketInfo%%
+Additional Contribution Amount: 0
+              Total Amount: $2,000.00
+                First Name: Donald
+                 Last Name: Lighter
+                   Address: 2015 River Sound Dr
+                            Knoxville, TN 37922
+                     Phone: 8656753815
+                     Email: user@domain.com
+                  Employer: Self
+          Employer Address: 
+                            ,  
+                Occupation: MD
+              Payment Type: Visa
+                 Account #: 3027
+             Transaction #: %%TransactionId%%
+                 User Id #: %%UserId%%
+          Contribution Key: IIEWJbyv9IC8LLbv5f
+
+CUSTOM FIELD DATA
+------------------------------
+(Section header: "Additional Information")
+Fundraiser code (optional): 
+Who encouraged you to make this contribution?: Congresswoman Wasserman-Schulz
+Guest name(s), if contributing for multiple tickets: Amy Lighter and her colleague
+
+GENERAL INFORMATION
+-------------------
+      domain.com Date: Sat, 21 May 2015 20:03:43 +0000
+           Status: Under Review
+Client IP Address: 66.191.237.38
+   Client Browser: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0
+

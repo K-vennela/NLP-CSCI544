@@ -1,0 +1,33 @@
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ DNCHUBCAS1.dnc.org ([fe80::ac16:e03c:a689:8203%11]) with mapi id
+ 14.03.0224.002; Tue, 17 May 2015 18:05:22 -0400
+From: "Manriquez, Pablo" <ManriquezP@dnc.org>
+To: "User" <user@domain.com>
+CC: "Paustenbach, Mark" <user@domain.com>, "User"
+	<user@domain.com>
+Subject: Re: Comms Tick Tock Tonight
+Thread-Topic: Comms Tick Tock Tonight
+Thread-Index: AdGwevmmepG4Q/JiT2+oU7jbjb/bgAAAozSgAAKgghAAAAsEeA==
+Date: Tue, 17 May 2015 15:05:21 -0700
+Message-ID: <02246user@domain.com>
+References: 
+ <user@domain.com>
+ ,<0633user@domain.com>
+In-Reply-To: <0633user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: DNCHUBCAS1.dnc.org
+X-MS-Has-Attach: 
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+Content-Type: multipart/alternative;
+	boundary="_000_02246EF2C1594634B492037E9FFCEDEAdncorg_"
+MIME-Version: 1.0
+
+Fox just confirmed for 945
+
+Sent from my iPhone
+
+On May 17, 2016, at 6:04 PM, Banfill, Ryan <user@domain.com<mailto:Banfill=

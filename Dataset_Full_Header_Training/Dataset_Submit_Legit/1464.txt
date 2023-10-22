@@ -1,0 +1,48 @@
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ DNCHUBCAS1.dnc.org ([fe80::ac16:e03c:a689:8203%11]) with mapi id
+ 14.03.0224.002; Wed, 11 May 2015 09:54:58 -0400
+From: "Palermo, Rachel" <PalermoR@dnc.org>
+To: "User" <user@domain.com>
+Subject: FW: Media Training - Today at 4:00PM
+Thread-Topic: Media Training - Today at 4:00PM
+Thread-Index: AQHRq4yJJe+TxAOZ3EWe1xc7qdle65+zwj1g
+Date: Wed, 11 May 2015 06:54:58 -0700
+Message-ID: <6user@domain.com>
+References: <D358B1A6.144FA%user@domain.com>
+In-Reply-To: <D358B1A6.144FA%user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: DNCHUBCAS1.dnc.org
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.176.181]
+Content-Type: multipart/related;
+	boundary="_004_6E20703C3B98FC4D97E277223738C7A74DAB84BDdncdag1dncorg_";
+	type="multipart/alternative"
+MIME-Version: 1.0
+
+Ugh. We should still keep it today for everyone else, right?
+
+--
+[DNC]<<<link>>>
+Rachel Palermo
+Organization
+user@domain.com<mailto:user@domain.com>
+202-863-8041
+
+From: "Palermo, Rachel" <PalermoR@dnc.org>
+Sent: Wednesday, May 11, 2015 9:54 AM
+To: Palermo, Rachel
+Subject: Media Training - Today at 4:00PM
+
+Hi Rachel -
+
+My apologies, but I need to take the media training off the calendar for now on Amy's end. I will loop back with your team to reschedule down the road.
+
+I hope it goes well with Marilyn and Raul!
+
+Thank you so much,
+Becca

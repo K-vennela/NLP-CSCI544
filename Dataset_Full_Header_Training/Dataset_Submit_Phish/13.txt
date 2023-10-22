@@ -1,0 +1,56 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id D809523CA80;
+	Sun, 18 Mar 2015 17:59:35 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id WnJ1SQc9Kixv; Sun, 18 Mar 2015 17:59:34 -0500 (CDT)
+Received: from domain.com (domain.com [62.121.20.91])
+	by domain.com (Postfix) with ESMTP id 7854923CA7F;
+	Sun, 18 Mar 2015 17:59:34 -0500 (CDT)
+Received: from [62.121.11.99] (helo=domain.com)
+	by domain.com with esmtpa (Exim 4.69)
+	(envelope-from <user@domain.com>)
+	id 1S9P3n-0004se-KU; Sun, 18 Mar 2015 22:58:47 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="=_c29b9c6470031074f5fefd8d6a810dff"
+Date: Sun, 18 Mar 2015 15:58:47 -0700
+From: Admin <updatingservice@comcbd.co.cc>
+To: undisclosed-recipients:;
+Subject: e-mail alert
+Reply-To: <user@domain.com>
+Mail-Reply-To: <user@domain.com>
+Message-ID: <8user@domain.com>
+X-Sender: user@domain.com
+User-Agent: Roundcube Webmail/0.6-svn
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 65
+
+
+
+
+This message is from domain.com Webmail Services messaging center,we
+are receiving complaints for unauthorized use of
+your Email.We are
+making an extra security check on all email accounts.To keep your
+account active you are to provide
+the below informations.
+
+Email
+Address:
+Password:
+Date Of Birth:
+e-mail-
+user@domain.com
+
+Thanks
+domain.com Webmail-Service- Team
+
+
+

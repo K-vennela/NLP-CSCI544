@@ -1,0 +1,17 @@
+<x-flowed>
+Darrell (from AGU Toronto):
+Great news from Science!
+A quick comment on Amplification and signal to noise issues (comment 
+1 below).  It think you meant that the referee felt that Arctic 
+amplificaton did not translate to a more robust signal because the 
+noise would be equally amplified.  I don't know that we can challenge 
+the "climate noise" but we can make the case that the "proxy noise", 
+that is, the uncertainty in proxy calibration, is, as far as I know, 
+the same in the Arctic as in lower latitudes.  Consequently, the 
+larger temperature signal expected in the Arctic can be more reliably 
+detected by our proxies because it is more likely to exceed the 
+sensitivity limits of our proxies.  If we assume the "climate noise" 
+is more or less gaussian, then we should be better able to detect the 
+relatively subtle temp changes of the Holocene in the Arctic than 
+elsewhere.
+Giff

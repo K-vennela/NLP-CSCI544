@@ -1,0 +1,74 @@
+Received: from domain.com (146.215.230.103) by
+ ussdixhub21.spe.sony.com (43.130.141.76) with Microsoft SMTP Server id
+ 8.3.342.0; Fri, 25 Jul 2015 03:29:40 -0700
+Received: from domain.com ([160.33.194.231])	by
+ domain.com (Sentrion-MTA-4.3.1/Sentrion-MTA-4.2.2) with
+ ESMTP id s6PATd3D021766	for <user@domain.com>; Fri, 25 Jul 2015 
+ 10:29:40 GMT
+Received: from na01-bn1-domain.com
+ (mail-domain.com [207.46.163.183])	by
+ domain.com (Sentrion-MTA-4.3.1/Sentrion-MTA-4.2.2) with
+ ESMTP id s6PAVadW023157	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128
+ verify=FAIL)	for <user@domain.com>; Fri, 25 Jul 2015 10:31:37 GMT
+Received: from BY2FFO11FD022.protection.gbl (10.1.14.32) by
+ BY2FFO11HUB043.protection.gbl (10.1.15.226) with Microsoft SMTP Server (TLS)
+ id 15.0.980.11; Fri, 25 Jul 2015 10:29:36 +0000
+Received: from domain.com (146.82.220.233) by
+ domain.com (10.1.15.211) with Microsoft SMTP
+ Server id 15.0.980.11 via Frontend Transport; Fri, 25 Jul 2015 10:29:36 +0000
+DKIM-Signature: v=1; a=rsa-sha1; d=news.marketing-domain.com; s=ei0; c=simple/simple;
+	q=dns/txt; user@domain.com; t=1406284171;
+	h=From: =?utf-8?B?TWFya2V0aW5nIE1hZ2F6aW5l?=
+	bh=fkzh6UzMrr3GzmVnwVH4FA/8kCQ=;
+	b=ZG4jVlYveT7NUQFRF0YJ+lpz9a987KaNk3d9UNBORRKuvmHp0n2BH1PYJAcwfnQM
+	qi52MgIDFnQ0T8UJYS4U7PBt+G9KevNKLXgSdim8W9LzsEsAkKIjOxe5D9qMn1wr
+	kx7f7nNES//vEeU6z6IC6Ycz3euNh4Tp17m+LqQSVlU=;
+Received: from [10.21.250.192] ([10.21.250.192:1711] helo=CORE6PUMPER3)	by
+ pc1udsmta1n22 (envelope-from <user@domain.com>)
+	(ecelerity 2.2.2.45 r(34222M)) with ESMTP	id 49/A5-21864-B8132D35; Fri, 25
+ Jul 2015 06:29:31 -0400
+Date: Fri, 25 Jul 2015 06:29:31 -0400
+Message-ID: <user@domain.com>
+X-DMHA-ID-Packet: Z4gvK5o622ozTB0yWzQ48ThVy2cQZoCJYl53KAYdIsl4DFEfLGYtC1EcXxEEXG9As2khkVs-EtE=
+From: =?utf-8?B?TWFya2V0aW5nIE1hZ2F6aW5l?=
+	<user@domain.com>
+Reply-To: =?utf-8?B?TWFya2V0aW5nIENpcmN1bGF0aW9u?=
+	<user@domain.com>
+To: <user@domain.com>
+Subject: =?utf-8?B?TWFya2V0aW5nIERhaWx5IFBoaWxpcHBpbmVzLCAyNSBKdWx5OiBQaGlsaXBw?=
+ =?utf-8?B?aW5lIFN0YXIgdmVudHVyZXMgaW50byBUViwgdGhlIGZ1dHVyZSBvZiBvdXRk?=
+ =?utf-8?B?b29yIGFkdmVydGlzaW5nIHBsdXMgZXZlciBzZWVuIGEgZ2lhbnQgc2FyZGlu?=
+ =?utf-8?B?ZSBkaXNjbyBiYWxsPw==?=
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:146.82.220.233;CTRY:US;SRV:BULK;EFV:NLI;SFV:NSPM;SFS:(979002)(438002)(36944003)(4423002)(3542003)(189002)(199002)(53806999)(110136001)(74662001)(2351001)(22186001)(15975445006)(81542001)(23676002)(85306003)(110456001)(92726001)(19625215002)(107886001)(54356999)(15202345003)(229853001)(95666004)(43066003)(18950595002)(107046002)(86362001)(102836001)(4396001)(99396002)(22756004)(50986999)(20776003)(83322001)(36756003)(106466001)(79102001)(22746004)(19618635001)(85852003)(50466002)(23846002)(104016003)(46102001)(44976005)(87836001)(956001)(21056001)(2361001)(83072002)(81342001)(19580395003)(19580405001)(106796001)(18206015026)(19617315012)(166374004)(47402001)(14613045004)(15398625002)(79686002)(15072585003)(19622755008)(969003)(989001)(999001)(1009001)(1019001);DIR:INB;SFP:;SCL:1;SRVR:BY2FFO11HUB043;H:domain.com;FPR:;MLV:ovrnspm;PTR:domain.com;MX:1;A:1;LANG:en;
+X-Microsoft-Antispam: BCL:3;PCL:0;RULEID:(50001)
+Received-SPF: Pass (: domain of news.marketing-domain.com designates
+ 146.82.220.233 as permitted sender) receiver=; client-ip=146.82.220.233;
+ helo=domain.com;
+Authentication-Results: spf=pass (sender IP is 146.82.220.233)
+ user@domain.com; 
+Return-Path: user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+ <<link>>       
+
+<<link>>   SUBSCRIBE       JOBS       EVENTS        
+ <<link>>       
+
+Find us on:       <<link>>      <<link>>    <<link>>   <<link>>   
+25 JULY 2015     <<link>>       
+
+ <<link>>       
+
+Philippine Star ventures into TV with new lifestyle show        
+
+<<link>>   
+
+The Philippine Star has become the first newspaper in the country to venture into television with the launch of Modern Living TV. » More        
+BREAKING NEWS
+Master Report: Marketing to Women
+
+WATCH Durex finds a balanced rhythm for Performax launch
+

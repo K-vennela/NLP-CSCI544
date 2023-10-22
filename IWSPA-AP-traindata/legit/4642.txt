@@ -1,0 +1,18 @@
+Kevin,
+In the caption to Fig 3.6.2, can you change 1882-2004 to 1866-2004 and
+add a reference to Konnen (with umlaut over the o) et al. (1998). Reference
+is in the list. Dennis must have picked up the MSLP file from our web site,
+that has the early pre-1882 data in. These are fine as from 1869 they are Darwin,
+with the few missing months (and 1866-68) infilled by regression with Jakarta.
+This regression is very good (r>0.8). Much better than the infilling of Tahiti, which
+is said in the text to be less reliable before 1935, which I agree with.
+Cheers
+Phil
+Prof. Phil Jones
+Climatic Research Unit        Telephone +44 (0) 1603 592090
+School of Environmental Sciences    Fax +44 (0) 1603 507784
+University of East Anglia
+Norwich                          Email    p.jones@uea.ac.uk
+NR4 7TJ
+UK
+----------------------------------------------------------------------------

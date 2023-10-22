@@ -1,0 +1,36 @@
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ DNCHUBCAS1.dnc.org ([fe80::ac16:e03c:a689:8203%11]) with mapi id
+ 14.03.0224.002; Wed, 11 May 2015 16:21:27 -0400
+From: "Bhatnagar, Akshai" <BHATNAGARA@dnc.org>
+To: "User" <user@domain.com>, Comm_D <user@domain.com>
+CC: "user@domain.com" <user@domain.com>
+Subject: RE: Video Request: William Johnson on CNN
+Thread-Topic: Video Request: William Johnson on CNN
+Thread-Index: AdGrwOcHdmngHnXPTgq9ZDzEiow1uQAAcEdg
+Date: Wed, 11 May 2015 13:21:27 -0700
+Message-ID: <3user@domain.com>
+References: <6282user@domain.com>
+In-Reply-To: <6282user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: DNCHUBCAS1.dnc.org
+X-MS-Has-Attach: 
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.176.40]
+Content-Type: multipart/alternative;
+	boundary="_000_3C6ACBE2E75F45409FB3CF31D461AB366F618FD2dncdag1dncorg_"
+MIME-Version: 1.0
+
+William Johnson<<<link>>>
+
+From: "Bhatnagar, Akshai" <BHATNAGARA@dnc.org>
+Sent: Wednesday, May 11, 2015 4:09 PM
+To: Comm_D
+Cc: user@domain.com
+Subject: Video Request: William Johnson on CNN
+
+With Jake Tapper. Happening now

@@ -1,0 +1,90 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 26 Apr
+ 2015 16:22:58 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 26 Apr 2015 
+ 16:22:53 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 881379702
+ for user@domain.com; Tue, 26 Apr 2015 15:22:59 -0500
+X-Note-AR-ScanTimeLocal: 4/26/2016 3:22:58 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:209.85.223.177 DOM:engagecuba.org ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-185/SG:5 4/26/2016 3:22:14 PM
+X-GBUdb-Analysis: Unknown
+X-Signature-Violations: 0-0-0-4503-c
+X-Note-419: 15.6212 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 4/26/2016 3:22:56 PM
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 209.85.223.177
+X-Note-Reverse-DNS: mail-io0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from mail-io0-domain.com ([209.85.223.177] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 135073939
+ for user@domain.com; Tue, 26 Apr 2015 15:22:58 -0500
+Received: by mail-io0-domain.com with SMTP id f89so27489204ioi.0
+        for <user@domain.com>; Tue, 26 Apr 2015 13:22:57 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=engagecuba-domain.com; s=20150623;
+        h=mime-version:From: Adelina Bryant <abryant@engagecuba.org>
+        bh=SkqzBOJtRppINZHjBbTEPcYXGHD8TUA0OsWRiWsycaI=;
+        b=a4DSo130eSSgE+ua0mW9ib/141mJBhidqfBAdWzijH4oU7g+b+e9DEMzK8aJckBSpp
+         ENvB7y0x1CqeSnopbicrwd/sBVMD+fB9zxflSbHJp2c4o8eOAP6hoVAQ+jlE+JSr7fAb
+         Tjp/A99LwljNTblEUlCS8KEiQBP4nYtD5lTdUalF/eOiIo6oKJynG5ABn/FfqiAlX2aN
+         VQ67A4WRQt1N5ZNyuQnOdYbm2T2UGOGKSGCIWc92jCUcRRo+92hB8m5UuFiXqx3ofS4m
+         eSvv6kAu1FN+6j1/zSWk6YlOLivr3W25USNB5qs10bCWx3ojiyJ5ddpyAWsHKKqXPPFS
+         YkYw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:From: Adelina Bryant <abryant@engagecuba.org>
+        bh=SkqzBOJtRppINZHjBbTEPcYXGHD8TUA0OsWRiWsycaI=;
+        b=Jp5k+aUmvAGr4ffej+S4BOF9egM9zCIkTvtEV8c34oA7iKFJRnmVrmCJjjyP24xwGm
+         n8xE7h8s+djOUl6BnQDtXYKkRGRqTM4K/jK4tB8Cb5LbnjE4EhmHmDiPZVSX29Fy6Eds
+         +952h8Xt6y4wvBGqzM7ejvt7eJjhpwgFQRIds/db1nLRevPCxmX54OzjzhbqASieXFzO
+         eGpw1CYTYzIUxnkcNhkKWnntYrMGDD/RSDzyS/pXLzP3gSTO/NvMy+9uQWFfQ91vWW09
+         VjpiNFvWKpxazAxpAdwOUnpA+w2beuzc9viu3zVvf98n/Tkwv/XQ9D368yWA4pKJZMRM
+         oZyw==
+X-Gm-Message-State: AOPr4FXybv0DUDSfygZAHWODrZ93X72zNiO/d3iCpPOvyX/dksyouvha27aCupjhO6qQIFfJNXgdkUpxPlRP8w==
+X-Received: by 10.107.136.208 with SMTP id s77mr6686657ioi.0.1461702176888;
+ Tue, 26 Apr 2015 13:22:56 -0700 (PDT)
+Received: by 10.79.104.193 with HTTP; Tue, 26 Apr 2015 13:22:17 -0700 (PDT)
+From: Adelina Bryant <abryant@engagecuba.org>
+Date: Tue, 26 Apr 2015 16:22:17 -0400
+Message-ID: <CAGGX714ntQjFc=JJCN_emNKCFUGoiP9prT=+b+user@domain.com>
+Subject: Meeting with DWS
+To: <user@domain.com>
+CC: Liana Pardini <user@domain.com>, James Williams
+	<user@domain.com>
+Content-Type: multipart/alternative; boundary="001a113ea6ee05d1620531690feb"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+User,
+
+Thank you for your offer to connect James with Congressman
+Wasserman-Shultz's office.
+
+Please let us know the best way to schedule.
+
+Thank you!
+
+Addie Bryant
+
+*Engage Cuba <<<link>>>*
+1050 Thomas Jefferson St. NW
+Washington, DC 20007

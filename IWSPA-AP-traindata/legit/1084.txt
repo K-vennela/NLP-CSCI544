@@ -1,0 +1,5 @@
+Android: - Added password module- Fixed Viber- Fix for GPS location tracking- Added upgrade when phone is rooted- Under certain circumstances the agent can obtain root privileges even on unrooted phone
+(senti l'ultima non so come metterla, sono solo sicuro di non volerci scrivere che abbiamo aggiuntoun local exploit, la riga nel changelog si puo' anche omettere se non e' necessaria)
+BlackBerry:- No relevant changes
+Symbian:- No relevant changes
+Windows Phone 8:- First release, refer to the manual

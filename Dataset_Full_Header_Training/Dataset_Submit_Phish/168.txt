@@ -1,0 +1,73 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id AE85D23CACA;
+	Tue,  3 Jul 2015 10:54:00 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id wgKVH3qn3Vjg; Tue,  3 Jul 2015 10:54:00 -0500 (CDT)
+Received: from smtp.cliu.org (smtp.cliu.org [209.18.48.132])
+	by domain.com (Postfix) with ESMTP id 83E6F23CAAD;
+	Tue,  3 Jul 2015 10:54:00 -0500 (CDT)
+Received: from localhost (unixserver-01.cliu.org [127.0.0.1])
+	by smtp.cliu.org (Postfix) with ESMTP id 215619BCFC2;
+	Tue,  3 Jul 2015 11:54:02 -0400 (EDT)
+X-Virus-Scanned: amavisd-new at cliu.org
+Received: from smtp.cliu.org ([127.0.0.1])
+	by localhost (unixserver-01.cliu.org [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id w3Pf+wpk45UP; Tue,  3 Jul 2015 11:54:01 -0400 (EDT)
+Received: from owa.cliu.org (unknown [172.29.176.76])
+	by smtp.cliu.org (Postfix) with ESMTP id BD04D9BD010;
+	Tue,  3 Jul 2015 11:54:01 -0400 (EDT)
+Received: from AQUARIUS.cliu.org ([fe80::3072:aa55:16ad:1610]) by
+ cepheus.cliu.org ([::1]) with mapi id 14.02.0298.004; Tue, 3 Jul 2015 
+ 11:54:00 -0400
+From: Rosina Liggitt <liggittr@cliu.org>
+To: "User" <user@domain.com>
+Subject: Re-Validate Your Mailbox
+Thread-Topic: Re-Validate Your Mailbox
+Thread-Index: Ac1ZM4up5TQevr1bTzKF2MWIPWYBeQ==
+Date: Tue, 3 Jul 2015 15:53:59 +0000
+Message-ID: <8user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-originating-ip: [41.203.64.130]
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 105
+
+Your Mailbox Has Exceeded It Storage domain.com As Set By Your Administrator, An=
+d You Will Not Be Able To Receive New Mails Until You Re-Validate It. To Re=
+-Validate - > Click Here:<<<link>>
+/spreadsheet/viewform?formkey=3DdGtjZ1hTSmpnSlVzU1JrZXhJZkJFdVE6MQ>
+Thanks,
+System Administrator.
+
+EOE Statement:
+The Carbon Lehigh Intermediate domain.com is an equal opportunity employer and do=
+es not discriminate on the basis of race, color, religion, national origin,=
+ age, marital status, gender or non-relevant handicap in activities, progra=
+ms, or employment practices.  For information regarding civil rights or gri=
+evance procedures, contact Mr. John B. Houser, Section 504 Coordinator, or =
+Ms. Kim Talipan, Title IX and ADA Coordinator at the Carbon Lehigh Intermed=
+iate domain.com, 4210 Independence Dr., Schnecksville, PA 18078-2580, 800-223-482=
+1
+
+Confidentiality Statement:
+The documents accompanying this electronic transmission contain information=
+ that is confidential and/or legally privileged.  The information is intend=
+ed only for the use of the individual or entity named on this e-mail.  If y=
+ou are not the intended recipient, you are hereby notified that any disclos=
+ure, copying, distribution, or the taking of any action in reliance on the =
+contents of this e-mail information is strictly prohibited.  If you have re=
+ceived this in error, please notify us by telephone immediately.  Thank you=
+.
+<<<link>>>

@@ -1,0 +1,100 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id 44C1946968
+	for <user@domain.com>; Tue, 14 Aug 2015 15:24:26 -0400 (EDT)
+Received: from domain.com (domain.com [204.181.64.8])
+	by domain.com (Postfix) with ESMTP id 6F78E131FE71
+	for <user@domain.com>; Tue, 14 Aug 2015 15:24:26 -0400 (EDT)
+Received: from 192.168.1.201 (rrcs-24-97-97-81.domain.com [24.97.97.81])
+	by domain.com (Postfix) with SMTP id 445706FA1C4
+	for <user@domain.com>; Tue, 14 Aug 2015 15:24:26 -0400 (EDT)
+Received: from 64.97.132.72 by ; Tue, 14 Aug 2015 18:31:10 -0200
+Message-ID: <user@domain.com>
+From: "Paypal " <service@paypal.com>
+Reply-To: "User" <user@domain.com>
+To: user@domain.com
+Subject: PayPal Account Review Department
+Date: Tue, 14 Aug 2015 21:31:10 +0100
+X-Mailer: Microsoft Outlook, Build 10.0.2627
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--216441648669794"
+X-Priority: 1
+X-MSMail-Priority: High
+Content-Length: 6436
+Lines: 177
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 20
+
+
+
+
+We recently=
+ noticed one or more attempts to log in 
+			to your PayPal account from a foreign IP address.
+
+			If you recently accessed your account while traveling, the unusual 
+			log in attempts may have been initiated by you. However if 
+			you are the rightful holder of the account,click on the link below 
+			to log into the account and follow the instructions.
+
+
+
+
+<<link>>
+If you choose not to complete the=
+ request, you 
+                    give us no choice but to suspend  your account 
+                    temporary.
+It takes at least 72 hours for 
+                    the investigation in this case and we strongly recomme=
+nd you 
+                    to verify your account at that time.
+If you received this notice and y=
+ou are not the authorized account holder, 
+please be aware that it is in violation of PayPal policy to represent ones=
+elf as an other PayPal user.Such action may 
+also be in violation of local, national, and/or international law. PayPal =
+is committed to assist law enforcement with 
+any inquires related attempts to missapropriate personal information with =
+the intent to domain.com fraud or theft. 
+Information will be provided at the request or law enforcement agencies to=
+ ensure that perpetrators are prosecuted to 
+the fullest extent of the law.
+Thanks for your patience as we wo=
+rk together to protect your account.
+PayPal Account Review Department.=
+
+
+
+
+Please do no=
+t reply to this
+email. This mailbox is not monitored and you will not receive a response.<=
+br>
+For assistance, log in to your PayPal account and click the Help<=
+/a> link located in
+the top right corner of any PayPal page. 
+
+
+
+
+PayPal Email ID PP00145
+
+            &n;=
+bsp;           &nbs;=
+p;            =
+
+
+
+Copyright =A9 
+
+
+
+Paypal 2007. All righ=
+ts 
+

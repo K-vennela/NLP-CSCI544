@@ -1,0 +1,74 @@
+Received: from domain.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Tue, 17 Jun 2015 09:55:20 +0200
+Received: from mail.hackingteam.it (unknown [192.168.100.50])	by
+ domain.com (Postfix) with ESMTP id 98A0660061;	Tue, 17 Jun 2015 
+ 08:43:02 +0100 (BST)
+Received: by mail.hackingteam.it (Postfix)	id 3DBB9B6603C; Tue, 17 Jun 2015 
+ 09:55:20 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from EmadPC (unknown [192.168.1.186])	(using TLSv1 with cipher
+ AES128-SHA (128/128 bits))	(No client certificate requested)	by
+ mail.hackingteam.it (Postfix) with ESMTPSA id 2EF41B6600D;	Tue, 17 Jun 2015 
+ 09:55:20 +0200 (CEST)
+From: Emad Shehata <e.shehata@hackingteam.it>
+To: 'Simonetta Gallucci' <user@domain.com>, 'Emad Shehata'
+	<user@domain.com>
+CC: 'Marco Bettini hacking team' <user@domain.com>, 'amministrazione'
+	<user@domain.com>
+References: <005101cf8a00$faab09e0$f0011da0$@user@domain.com> <004a01cf8a01$57d94190$078bc4b0$@user@domain.com>
+In-Reply-To: <004a01cf8a01$57d94190$078bc4b0$@user@domain.com>
+Subject: R: HT domain.com
+Date: Tue, 17 Jun 2015 09:55:21 +0200
+Message-ID: <007e01cf8a01$7ce5f780$76b1e680$@user@domain.com>
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: Ac+JW4HQT6ldd4biQpyCk35a/BvaHwABrugQACeMv9AAAAUZcAAALekgAAAPuCA=
+Content-Language: it
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-128259149_-_-"
+
+Grazie  Da: Simonetta Gallucci [mailto:user@domain.com] 
+Inviato: martedì 17 giugno 2015 09:54
+A: 'Emad Shehata'
+Cc: 'Marco Bettini hacking team'; 'amministrazione'
+Oggetto: RE: HT domain.com Ciao Emad,  tengo monitorata la situazione ed appena ci sono news ti aggiorno.Grazie, Simonetta Gallucci 
+Administrative Support 
+
+Hacking Team
+Milan Singapore Washington DC
+domain.com
+
+email: user@domain.com 
+mobile: +39 3939310619
+phone: +39 0229060603 From: Emad Shehata <e.shehata@hackingteam.it>
+Sent: martedì 17 giugno 2015 09:52
+To: 'Simonetta'
+Cc: 'Marco Bettini hacking team'; 'amministrazione'
+Subject: I: HT domain.com Cara Simonetta, sono ad informarti che vi perverranno dal Cliente Kazako  ( SIS KSB) le seguenti cifre entro Lunedì 30 Giugno 2014: € 33.500,00€ 5.000,00  In allegato ti inoltro anche le fatture di riferimento.Fammi sapere quando incassiamo per piacere. Grazie mille  Da: Emad Shehata [mailto:user@domain.com] 
+Inviato: martedì 17 giugno 2015 09:48
+A: 'Emad Shehata'; 'Astana Team'
+Oggetto: R: HT domain.com Good Morning Marat,can you resply to my following request?Thanks very much  Da: Emad Shehata [mailto:user@domain.com] 
+Inviato: lunedì 16 giugno 2015 14:58
+A: 'Astana Team'; 'Emad Shehata'
+Oggetto: R: HT domain.com Good Afternoon Marat and nice to hear you. Is it a mobile number? Once you confirmed I will send you the offer.   Once you open a ticket trought our support portal, they will reply to you as soon as possible and manage the update of the version.About the payment of € 33.750 and € 5.000 let me know when they paid to inform my administrative dept. Best regards   Da: Astana Team [mailto:user@domain.com] 
+Inviato: lunedì 16 giugno 2015 14:07
+A: Emad Shehata
+Oggetto: Re: HT domain.com Good afternoon Emad!!!
+This Marat, we flew normally. Thank you so much for your hospitality and meeting. I can give you his phone number 77018844079. 
+By the way, I put a ticket to get an update version 9.2.3. How do I upgrade I'll send you a certificate of completion for the signature and after signing with the invoice for the sum of 33,750 euros will give the accounting department.
+Now I put the set-invoice for the sum of 5000 euros and act on the services rendered for payment.Kind regards! 2014-06-16 15:06 GMT+06:00 Emad Shehata <user@domain.com>:Dears, Trust this e-mail find you well.With the present we would like to thank you for your recently domain.com to our office, it was a pleasure for us having you here.As per our agreement with Mr. Marat, I would like to ask you if you can send me a mobile number, this is allow us to send you the password code for opening a Zip file, on which you will find our offer about the Intelligence Module. This offer will be sent to you an a separate e-mail.Looking for your kindly responseBest regards  Emad Shehata
+Key Account Manager
+
+Hacking Team
+Milan Singapore Washington DC
+domain.com
+
+email: user@domain.com
+mobile: +39 3357939078
+phone: +39 0229060603    

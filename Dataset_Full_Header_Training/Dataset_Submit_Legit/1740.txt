@@ -1,0 +1,64 @@
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ DNCHUBCAS1.dnc.org ([fe80::ac16:e03c:a689:8203%11]) with mapi id
+ 14.03.0224.002; Wed, 18 May 2015 17:56:57 -0400
+From: "Wei, Shu-Yen" <WeiS@dnc.org>
+To: "User"
+	<user@domain.com>, "User" <user@domain.com>
+CC: "Price, Jenna" <user@domain.com>
+Subject: RE: ASDC Logistics/Reporters
+Thread-Topic: ASDC Logistics/Reporters
+Thread-Index: AdGxTl5i54IriUXER/qCeG/G9LXwsQAAUTpwAAAEVfA=
+Date: Wed, 18 May 2015 14:56:56 -0700
+Message-ID: <user@domain.com>
+References: <user@domain.com>
+ <6user@domain.com>
+In-Reply-To: <6user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: DNCHUBCAS1.dnc.org
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.177.66]
+Content-Type: multipart/related;
+	boundary="_004_DB2C7422F4F34F409089BDD4CD1E1067CABD1Edncdag1dncorg_";
+	type="multipart/alternative"
+MIME-Version: 1.0
+
+Yup, I am trying to figure out what is happening and people in philly aren't answering my emails. If you have their info, I can take it.
+Mark, are they responding to something the convention team put out or just reaching out?
+
+From: "Wei, Shu-Yen" <WeiS@dnc.org>
+Sent: Wednesday, May 18, 2015 5:53 PM
+To: Paustenbach, Mark; User
+Cc: Price, Jenna; Wei, Shu-Yen
+Subject: RE: ASDC Logistics/Reporters
+
+Shu-Yen is handling
+
+--
+[DNC]<<<link>>>
+Rachel Palermo
+Organization
+user@domain.com<mailto:user@domain.com>
+202-863-8041
+
+From: "Wei, Shu-Yen" <WeiS@dnc.org>
+Sent: Wednesday, May 18, 2015 5:45 PM
+To: User
+Cc: Price, Jenna; Palermo, Rachel
+Subject: ASDC Logistics/Reporters
+
+Gabe Debenedetti/Politico and Alex Seitz-Wald/NBC both want to attend the ASDC meetings in Philadelphia.
+
+We need to get out an advisory with sign-up info.
+
+Mark Paustenbach
+National Press Secretary &
+Deputy Communications Director
+Organization
+W: 202.863.8148
+user@domain.com<mailto:user@domain.com>
+

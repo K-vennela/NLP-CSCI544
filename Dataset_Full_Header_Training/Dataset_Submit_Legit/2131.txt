@@ -1,0 +1,180 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Mon, 2 May
+ 2015 15:42:57 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Mon, 2 May 2015 
+ 15:42:53 -0400
+Received: from [10.87.0.110] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 891950827;
+ Mon, 02 May 2015 14:42:57 -0500
+X-Note-AR-ScanTimeLocal: 5/2/2016 2:42:55 PM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: Too many policies to list
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:67.231.156.136 DOM:perkinscoie.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note: ICH-CT/SI:0-774/SG:1 5/2/2016 2:42:39 PM
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-544/SG:8 5/2/2016 2:42:39 PM
+X-GBUdb-Analysis: 0, 67.231.156.136, Ugly c=0.592804 p=-1 Source Normal
+X-Signature-Violations: 0-0-0-32767-c
+X-Note-419: 31.2716 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/2/2016 2:42:39 PM
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->United States->LOCAL->United States->
+X-Note-Sending-IP: 67.231.156.136
+X-Note-Reverse-DNS: mx0b-0016domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G406 G418 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from [67.231.156.136] (HELO mx0b-0016domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 139503512;
+ Mon, 02 May 2015 14:42:55 -0500
+Received: from pps.filterd (domain.com [127.0.0.1])	by
+ mx0b-0016domain.com (8.16.0.11/8.16.0.11) with SMTP id u42JfZYk018900;
+	Mon, 2 May 2015 12:42:54 -0700
+Received: from dc2sppmail23a.perkinscoie.root.loc ([66.77.102.70])	by
+ mx0b-0016domain.com with ESMTP id 22mryvck82-1	(version=TLSv1
+ cipher=ECDHE-RSA-AES256-SHA bits=256 verify=FAIL);	Mon, 02 May 2015 12:42:54
+ -0700
+Received: from DC2SPPMAIL24A.perkinscoie.root.loc ([10.170.0.24]) by
+ DC2SPPMAIL23A.perkinscoie.root.loc ([fe80::7509:aa8c:1739:c2b5%27]) with mapi
+ id 14.03.0266.001; Mon, 2 May 2015 14:42:54 -0500
+From: "Wilson, Graham M.  (Perkins Coie)" <GWilson@perkinscoie.com>
+To: Brad Marshall <user@domain.com>, "User" <user@domain.com>,
+	Debbie Wasserman Schultz <user@domain.com>, Lindsey Reynolds
+	<user@domain.com>, "Dacey, Amy" <user@domain.com>, Tracie Pough
+	<user@domain.com>
+CC: Kate Houghton <user@domain.com>, "Paustenbach, Mark"
+	<user@domain.com>, "Banfill, Ryan" <user@domain.com>
+Subject: RE: Money Laundering DRAFT Response
+Thread-Topic: Money Laundering DRAFT Response
+Thread-Index: AdGkplVpNPNmVbJpTSSUq/ssW9HdVAAA3v+wAAA/S/A=
+Date: Mon, 2 May 2015 19:42:53 +0000
+Message-ID: <user@domain.com>
+References: <05user@domain.com>
+ <5user@domain.com>
+In-Reply-To: <5user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+x-workshareprotect-dsp: f6a1f2157fe904b5ff01c45deffb9297
+x-originating-ip: [10.170.34.1]
+Content-Type: multipart/related;
+	boundary="_004_E41C6FD972ED0347AADF94D723BA171E132188B6dc2sppmail24a_";
+	type="multipart/alternative"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Exactly.
+
+Graham M. Wilson | Perkins Coie LLP
+Direct. +1.202.434.1638
+
+From: "Wilson, Graham M.  (Perkins Coie)" <GWilson@perkinscoie.com>
+Sent: Monday, May 02, 2015 3:39 PM
+To: User; Debbie Wasserman Schultz; Lindsey Reynolds; Dacey, Amy; =
+Tracie Pough
+Cc: Kate Houghton; Paustenbach, Mark; Banfill, Ryan; Wilson, Graham M. (Per=
+kins Coie)
+Subject: RE: Money Laundering DRAFT Response
+
+Two items:
+
+We had JFA' s with Kerry in 2004.
+
+Funds are going to the Organizationnow to build tools for the fall, etc., but there=
+ will be a point when funds will stay in the states to fund coordinated cam=
+paigns.
+
+From: "Wilson, Graham M.  (Perkins Coie)" <GWilson@perkinscoie.com>
+Sent: Monday, May 02, 2015 3:12 PM
+To: Debbie Wasserman Schultz; Brad Marshall; Lindsey Reynolds; Dacey, Amy; =
+Tracie Pough
+Cc: Kate Houghton; Paustenbach, Mark; Banfill, Ryan; Graham Wilson
+Subject: Money Laundering DRAFT Response
+
+Here's a draft quote and background points to use in pushing back on the Sa=
+nders claim that we're using the HVF for "money laundering." Thoughts?
+
+Quote:
+"The suggestion there's anything unusual about our joint victory funds has =
+no basis in the law or reality. Independent experts like the Election Law B=
+log<<<link>>
+rg_-3Fp-3D81996&d=3DCwMFAg&c=3DXRWvQHnpdBDRh-yzrHjqLpXuHNC_9nanQc6pPG_SpT0&=
+r=3Dztfeb3sYMwYJc4m6DQzcZ1EDxKmQmE8pe5TrXm4gdCU&m=3DJhw9qH4Iu14CI5sCDojc1sx=
+sDjF-948bJ4ehJbjmGsI&s=3D_WeS6P3Z_uK-HFgZ-O11c6jd9t0792v0ZiCqpZMB-3o&e=3D> =
+have noted that from a legal perspective, the criticisms are 'weak,' and bo=
+th campaigns signed on to similar agreements. While only one campaign is cu=
+rrently using their joint victory fund, we encourage both of our campaigns =
+to identify opportunities to support the national and state Democratic part=
+ies now so that we can continue to build the infrastructure to help elect D=
+emocrats up and down the ballot in November." - OrganizationCommunications Director
+On Background:
+
+*         The money raised by the joint victory funds, even when the money =
+goes to the DNC, still helps state parties. The funds help strengthen, for =
+example, our national voter file and communications, research and digital s=
+upport for state parties and down ballot candidates. That includes training=
+ across a variety of areas, for example, and access to media monitoring and=
+ rapid response support. This is helping the Party right NOW build the infr=
+astructure we need for the general election.
+
+*         Rick Hasen, an influential academic on campaign finance, posted a=
+n analysis on the Election Law Blog that addressed this issue. Hasen states=
+ in the article that "it is hard to see what provision of the law" is at is=
+sue. As the blog points out, "legally" the criticism of the fund "seems wea=
+k."   <<link>><<<link>>
+om/v2/url?u=3Dhttp-3A__electionlawblog.org_-3Fp-3D81996&d=3DCwMFAg&c=3DXRWv=
+QHnpdBDRh-yzrHjqLpXuHNC_9nanQc6pPG_SpT0&r=3Dztfeb3sYMwYJc4m6DQzcZ1EDxKmQmE8=
+pe5TrXm4gdCU&m=3DxosCmCfJlZ5AfIscnIGFPlKd_WqB4JHLY4vSLilK-IE&s=3DIDZd2_ULQh=
+vZFm33gwH-mCSwcJMtMpjuFI5_FJQQvqk&e=3D>
+
+*         We welcome any effort by our candidates to help raise money for t=
+he Organizationand state parties.
+
+*         Similar agreements were set up with both the Clinton campaign and=
+ the Sanders campaign early in the cycle, precisely because of the urgency =
+to build a strong national infrastructure now that will help elect Democrat=
+s up and down the ballot in November. The Sanders campaign has not used the=
+irs.
+
+*         These arrangements are not new or unusual. Similar joint fundrais=
+ing committees were established with our Democratic candidate in both 2015 =
+and 2012. And again, both campaigns have signed on and have the option of u=
+sing joint victory funds.
+
+*         And let's be clear, neither the Organizationnor state parties are subsidi=
+zing fundraising through these committees for either campaign. For whatever=
+ each campaign raises under the agreement that then goes to their campaign,=
+ that campaign pays a directly proportional amount for the cost of that fun=
+draising.
+
+[SigDems]<<<link>>>User, Communications Director
+Organization
+202-863-8148 - user@domain.com<mailto:user@domain.com> - User<http=
+s://domain.com/v2/url?u=3Dhttps-3A__www.twitter.com_MiraUser=
+DC&d=3DCwMFAg&c=3DXRWvQHnpdBDRh-yzrHjqLpXuHNC_9nanQc6pPG_SpT0&r=3Dztfeb3sYM=
+wYJc4m6DQzcZ1EDxKmQmE8pe5TrXm4gdCU&m=3DJhw9qH4Iu14CI5sCDojc1sxsDjF-948bJ4eh=
+JbjmGsI&s=3DFIw3GTlcw6qWi12NiQK2MRdKHDamXemt_WiaX_Wpayw&e=3D>
+
+________________________________
+
+NOTICE: This communication may contain privileged or other confidential inf=
+ormation. If you have received it in error, please advise the sender by rep=
+ly email and immediately delete the message and any attachments without cop=
+ying or disclosing the contents. Thank you.

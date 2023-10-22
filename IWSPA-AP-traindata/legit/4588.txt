@@ -1,0 +1,17 @@
+Dear Toms, Chris and Ben,
+If large-scale is important (as said by Tom W), I can't see how microclimatic
+issues that Roger goes on about can be that important. Maybe when you all
+meet at the delightful Chicago Airport Hilton, you can remind him of spatial
+degrees of freedom.
+Is the NOAA Tsurf used the new Smith and Reynolds (2005) spatially infilled
+surface dataset? If this is the case maybe Ben could do a plot of NOAA minus
+HadCRUT2v?
+I have a plot that David Parker produced of Smith and Reynolds (2005) over land
+and Jones and Moberg (2003) land (as smoothed global averages) from 1880.
+Prior to about 1960 the SR dataset is always about 0.15 warmer than JM. This looks
+likely due to infilling with 61-90 averages (i.e zeroes) over the Antarctic and some
+continental interiors of S. America, Africa, western China and Australia (where there
+are no obs pre early 1950s, 1956 for the Antarctic). SR should be OK for 1979-99
+and be very similar to HadCRUT2v.
+Cheers
+Phil

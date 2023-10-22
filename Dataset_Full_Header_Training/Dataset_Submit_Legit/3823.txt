@@ -1,0 +1,65 @@
+Received: from domain.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Wed, 4 Jun 2015 15:12:28 +0200
+Received: from domain.com (unknown [192.168.100.50])	by
+ domain.com (Postfix) with ESMTP id D511E600EE	for
+ <user@domain.com>; Wed,  4 Jun 2015 14:00:37 +0100 (BST)
+Received: by domain.com (Postfix)	id 36A2CB6603C; Wed,  4 Jun 2015 
+ 15:12:28 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.100.25])
+	by domain.com (Postfix) with ESMTP id 2BD11B6600D	for
+ <user@domain.com>; Wed,  4 Jun 2015 15:12:28 +0200 (CEST)
+X-ASG-Debug-ID: 1401887539-066a756ba394610001-wzf8oX
+Received: from ip-address-pool-xxx.fpt.vn (ip-address-pool-xxx.fpt.vn
+ [118.71.2.31]) by domain.com with ESMTP id rdh7cthgQk6OzZw0 for
+ <user@domain.com>; Wed, 04 Jun 2015 15:12:22 +0200 (CEST)
+X-Barracuda-Envelope-From: Doctor Oz <a.mazzeo@fpt.vn>
+X-Barracuda-Apparent-Source-IP: 118.71.2.31
+X-Barracuda-BRL-Tag: Barracuda Reputation
+Received: from [10.0.0.11] ([10.0.0.11:9638] helo=ip-address-pool-xxx.fpt.vn)
+	by 5B8D9 (envelope-from <user@domain.com>)	(ecelerity 3.5.1.37854
+ r(Momo-dev:3.5.1.0)) with ESMTP	id 20/EA-7E079-38962638; Wed, 04 Jun 2015 
+ 20:12:23 +0700
+Date: Wed, 4 Jun 2015 20:12:18 +0700
+From: Doctor Oz <a.mazzeo@fpt.vn>
+Reply-To: <user@domain.com>
+To: <user@domain.com>
+Message-ID: <98user@domain.com>
+Subject: [BULK]  Try my anti-aging secret
+X-ASG-Orig-Subj: Try my anti-aging secret
+X-Mailer: WhatCounts
+ENVID: WC-7279640950436-b2b8b96c84d4792e49f823021145-201f3339613cff1c8ba5ec3140117c80
+List-Unsubscribe: <<<link>>>
+X-Unsubscribe-Web: <<<link>>>
+X-Barracuda-Connect: ip-address-pool-xxx.fpt.vn[118.71.2.31]
+X-Barracuda-Start-Time: 1401887541
+X-Barracuda-URL: <<link>>:8000/cgi-mod/mark.cgi
+X-Virus-Scanned: by bsmtpd at domain.com
+X-Barracuda-BRTS-Status: 1
+X-ASG-Tag: BRL ()
+X-Barracuda-Spam-Score: 2.60
+X-Barracuda-Spam-Status: No, SCORE=2.60 using global scores of TAG_LEVEL=3.5 QUARANTINE_LEVEL=1000.0 KILL_LEVEL=8.0 tests=BSF_SC0_MV0124, BSF_SC7_SA578_CH, HTML_MESSAGE, MARKETING_SUBJECT, MIME_HTML_ONLY
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.3.6372
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.60 MARKETING_SUBJECT      Subject contains popular marketing words
+	0.00 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+	0.00 HTML_MESSAGE           BODY: HTML included in message
+	1.50 BSF_SC0_MV0124         Custom rule MV0124
+	0.50 BSF_SC7_SA578_CH       Custom Rule SA578_CH
+X-Barracuda-Spam-Flag: YES
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-120036179_-_-"
+
+Dear user@domain.com !
+Miracle Phytoceramides is an anti-aging oral supplement. Healthy skin is necessary to look elegant and striking. If you want to get glowing and radiant skin you need to take healthy balanced diet, walk regularly and want to stay hydrated. 
+Click here to read more and buy phytoceramides online.
+

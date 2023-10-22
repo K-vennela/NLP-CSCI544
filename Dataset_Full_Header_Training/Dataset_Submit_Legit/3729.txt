@@ -1,0 +1,71 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Mon, 4 Nov 2015 11:18:43 +0100
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id 41B37621C6;	Mon,  4 Nov 2015 
+ 10:14:18 +0000 (GMT)
+Received: by domain.com (Postfix)	id DDC772BC1F6; Mon,  4 Nov 2015 
+ 11:18:42 +0100 (CET)
+Delivered-To: user@domain.com
+Received: from domain.com (exchange.hackingteam.com
+ [192.168.100.51])	(using TLSv1 with cipher AES128-SHA (128/128 bits))	(No
+ client certificate requested)	by domain.com (Postfix) with ESMTPS id
+ C62A42BC03F;	Mon,  4 Nov 2015 11:18:42 +0100 (CET)
+Received: from domain.com ([fe80::755c:1705:6a98:dcff]) by
+ domain.com ([fe80::755c:1705:6a98:dcff%11]) with mapi id
+ 14.03.0123.003; Mon, 4 Nov 2015 11:18:42 +0100
+From: Eros Marcon <e.marcon@hackingteam.com>
+To: Alberto Ornaghi <user@domain.com>, Marco Bettini
+	<user@domain.com>
+CC: Marco Valleri <user@domain.com>, "'user@domain.com'"
+	<user@domain.com>, "'user@domain.com'"
+	<user@domain.com>
+Subject: R: Re: Booth Demo
+Thread-Topic: Re: Booth Demo
+Thread-Index: Ac7ZOK9Q3+DfOGrhSjyH9kI+yNLkvv//8Q8AgAAAJ4D//9QcYA==
+Date: Mon, 4 Nov 2015 10:18:41 +0000
+Message-ID: <user@domain.com>
+In-Reply-To: <user@domain.com>
+Accept-Language: it-IT, en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-originating-ip: [fe80::755c:1705:6a98:dcff]
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EROS MARCONC61
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-783489455_-_-"
+
+Ok. Va bene anche per me.
+
+-- 
+
+Eros Marcon 
+
+Senior Software Developer 
+
+Sent from my mobile.
+
+
+
+
+Da: Alberto Ornaghi
+
+Inviato: Monday, November 04, 2015 09:41 AM
+
+A: Marco Bettini 
+
+Cc: Marco Valleri; rsales <user@domain.com>; Eros Marcon <user@domain.com>
+
+Oggetto: Re: Booth Demo 
+
+
+
+
+ok anche per me.
+

@@ -1,0 +1,30 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Fri, 24 Apr 2015 18:22:01 +0200
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id 464BE62925	for
+ <user@domain.com>; Fri, 24 Apr 2015 16:58:59 +0100 (BST)
+Received: by domain.com (Postfix)	id 1B5112BC230; Fri, 24 Apr 2015 
+ 18:22:01 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com
+ [192.168.200.205])	by domain.com (Postfix) with ESMTP id 0DF502BC22F
+	for <user@domain.com>; Fri, 24 Apr 2015 18:22:01 +0200 (CEST)
+Date: Fri, 24 Apr 2015 18:22:00 +0200
+From: "Eduardo Pardo Carvajal (Confluence)" <confluence@hackingteam.com>
+To: <user@domain.com>
+Message-ID: <1555960140.2794.1429892521014.JavaMail.CONFLUENCE$@confluence>
+Subject: [confluence] Eduardo Pardo Carvajal updated a event in the "01.
+ PRE-SALES" calendar
+Precedence: bulk
+Auto-Submitted: auto-generated
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-615933390_-_-"
+
+  Eduardo Pardo Carvajal updated a event in the 01. PRE-SALES calendar Apr 23, 2015 All day  Demo Colombia (Armada Nacional)    You are receiving this notification because you are watching the following:   01. PRE-SALES   Sent by Atlassian Confluence 5.6.3, the Enterprise Wiki 

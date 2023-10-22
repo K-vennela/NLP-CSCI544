@@ -1,0 +1,1 @@
+Hello,<br><br>You have been invited by a friend to join our social network. To join, please follow the link below:<br><a href="<<link>>"><<link>></a><br><br>Best Regards,<br>Social Network Administration<br><br>----------------------------------------<br>

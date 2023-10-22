@@ -1,0 +1,341 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Wed, 1 Apr 2015 11:31:34 +0200
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id CA6A9621AA	for
+ <user@domain.com>; Wed,  1 Apr 2015 10:09:11 +0100 (BST)
+Received: by domain.com (Postfix)	id 446D4B66042; Wed,  1 Apr 2015 
+ 11:31:34 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from EmadPC (unknown [192.168.1.198])	(using TLSv1 with cipher
+ AES256-SHA (256/256 bits))	(No client certificate requested)	by
+ domain.com (Postfix) with ESMTPSA id 224EAB6600F;	Wed,  1 Apr 2015 
+ 11:31:34 +0200 (CEST)
+From: Emad Shehata <e.shehata@hackingteam.com>
+To: 'Simonetta Gallucci' <user@domain.com>
+CC: 'Elisabetta Ciceri' <user@domain.com>,
+	<user@domain.com>, 'Giancarlo Russo' <user@domain.com>
+References: <D12F3307.1B97A%user@domain.com> <550985user@domain.com> <3950user@domain.com> <55100user@domain.com> <009b01d06c5e$3d049320$b70db960$@user@domain.com> <01bc01d06c5e$7b1f0320$715d0960$@user@domain.com>
+In-Reply-To: <01bc01d06c5e$7b1f0320$715d0960$@user@domain.com>
+Subject: R: R: Re: R: R: Re: R: Invoices Balance
+Date: Wed, 1 Apr 2015 11:31:32 +0200
+Message-ID: <00bb01d06c5e$a4268d60$ec73a820$@user@domain.com>
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdBlaQOX8vHG7XmpReyI0GWuVmkA8QG9SSogAAAJsDAAABFAIA==
+Content-Language: it
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EMAD SHEHATA450
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1252371169_-_-"
+
+Ciao Simonetta, perfetto..Fammi sapere che sono a disposizione, magari lo chiamo un attimo per tastare il terreno.. Saluti  Emad Shehata
+Key Account Manager
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com
+mobile: +39 3357939078
+phone: +39 0229060603   Da: Simonetta Gallucci [mailto:user@domain.com] 
+Inviato: mercoledì 1 aprile 2015 11:30
+A: 'Emad Shehata'
+Cc: 'Elisabetta Ciceri'; user@domain.com; 'Giancarlo Russo'
+Oggetto: RE: R: Re: R: R: Re: R: Invoices Balance Ciao Emad,  l’ultima mail che ho io è quella del 23/03 (che hai anche tu). Magari più tardi rivediamo un attimo la cosa e nel caso mandiamo un’altra mail. Grazie,  Simonetta Gallucci 
+Financial Controller 
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com 
+mobile: +39 3939310619
+phone: +39 0229060603 From: Emad Shehata <e.shehata@hackingteam.com>
+Sent: mercoledì 1 aprile 2015 11:29
+To: 'Simonetta Gallucci'
+Cc: 'Elisabetta Ciceri'; user@domain.com; 'Giancarlo Russo'
+Subject: R: R: Re: R: R: Re: R: Invoices Balance Cara Simonetta, abbiamo avuto un feedback da parte di Mesfer? Saluti  Emad Shehata
+Key Account Manager
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com
+mobile: +39 3357939078
+phone: +39 0229060603   Da: Giancarlo Russo [mailto:user@domain.com] 
+Inviato: lunedì 23 marzo 2015 13:58
+A: Mesfer S. Al Mesfer
+Cc: Elisabetta Ciceri; 'user@domain.com'; Simonetta Gallucci; Saeed Al-Ghamdi; Emad Shehata
+Oggetto: Re: R: Re: R: R: Re: R: Invoices Balance Thank you Mesfer.
+
+We can send you a note for the payment since the amount was already officially invoiced. 
+
+Thanks
+
+GiancarloOn 3/23/2015 12:10 AM, Mesfer S. Al Mesfer wrote:Dear Giancarlo, Your subject was escalated to TCC upper management who agreed to pay 50% of your balance till get an accurate date for the remaining 50%? Now, please send us an invoice with 50% to proceed? Best Regards, Mesfer Al Mesfer, PMPProgram ManagerTCC-Digital Security UnitT:+966920014888 Ext.171F:+96614168989M:+966558281100E: user@domain.com From: Emad Shehata <e.shehata@hackingteam.com>
+Sent: Wednesday, March 18, 2015 5:03 PM
+To: Mesfer S. Al Mesfer
+Cc: Elisabetta Ciceri; 'user@domain.com'; Simonetta Gallucci; Saeed Al-Ghamdi; Emad Shehata
+Subject: Re: R: Re: R: R: Re: R: Invoices Balance Sorry Mesfer,
+
+what is not clear to me is the fact that we need to domain.com additional two months for closing something that should have been already settled months ago. I am closing our financial year and as you certainly know this is an old receivable and I can not afford to keep it open as it is now. Do you think you can do it by the end of this month?
+
+thanks
+
+GiancarloOn 3/18/2015 11:56 AM, Mesfer S. Al Mesfer wrote:Dear Giancarlo, If you linked the proposed date with your license expiration date then this is a different story. We really want to satisfy you but this is the message I got from the corresponding people. Now, do you accept 25 May 2015 which is five days ahead of your license expiration date? Best Regards,
+
+Mesfer Al Mesfer, PMPProgram ManagerTCC-Digital Security domain.com
+T:+966920014888 Ext.171
+F:+96614168989
+M:+966558281100
+E: user@domain.com From: Emad Shehata <e.shehata@hackingteam.com>
+Date: Tuesday, March 17, 2015 at 7:27 PM
+To: Mesfer Al Mesfer <user@domain.com>, Emad Shehata <user@domain.com>
+Cc: Elisabetta Ciceri <user@domain.com>, "'user@domain.com'" <user@domain.com>, Simonetta Gallucci <user@domain.com>, Saeed Al-Ghamdi <user@domain.com>, Giancarlo Russo <user@domain.com>
+Subject: R: Re: R: R: Re: R: Invoices Balance Dear Mesfer,
+
+I am sorry but after months of discussion your proposed date is not acceptable to us. June 15th is after the expiration of the current maintenance contract.
+
+I would really appreciate your revision of the situation to get the payment done in the next days in order to avoid any service interruption to the end user.
+
+I am sure you will understand,
+
+Best regards
+
+Giancarlo
+
+-- 
+Giancarlo Russo 
+COO 
+
+Sent from my mobile.
+ Da: Mesfer S. Al Mesfer [mailto:user@domain.com] 
+Inviato: Tuesday, March 17, 2015 12:31 PM
+A: Emad Shehata 
+Cc: Giancarlo Russo; Elisabetta Ciceri; user@domain.com <user@domain.com>; Simonetta Gallucci; Saeed Al-Ghamdi <user@domain.com> 
+Oggetto: Re: R: R: Re: R: Invoices Balance 
+ Dear Emad, On behalf of TCC, I would like to thank you for your domain.com last week. Secondly, I’m writing here to confirm that you will receive your invoice balance not later than Monday 15 Jun 2015. I double checked our finance as well as the legal agency who is following with the Tax agency and we agreed on this date. Thanks again and have a good day. Best Regards,
+
+Mesfer Al Mesfer, PMPProgram ManagerTCC-Digital Security domain.com
+T:+966920014888 Ext.171
+F:+96614168989
+M:+966558281100
+E: user@domain.com From: Emad Shehata <e.shehata@hackingteam.com>
+Date: Wednesday, March 11, 2015 at 5:27 PM
+To: Mesfer Al Mesfer <user@domain.com>
+Cc: Giancarlo Russo <user@domain.com>, Elisabetta Ciceri <user@domain.com>, "'user@domain.com'" <user@domain.com>, Simonetta Gallucci <user@domain.com>
+Subject: R: R: Re: R: Invoices Balance Dear Mesfer, trust this e-mail find you well. First of all really appreciate to meet you and really thanks for your support.As agreed, please kindly let us know within next Tuesday, before will be better J, when the Invoice Balance will be paid.However we understood that your account dept. already started with the paper work, we need to have a reasonable date of closing the issue since our financial dept. need to close it due an Italian tax/account regulation by definitely date. Thanks again for your understand Best regards Emad Shehata
+Key Account Manager
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email:user@domain.com
+mobile: +39 3357939078
+phone: +39 0229060603   Da: Simonetta Gallucci [mailto:user@domain.com] 
+Inviato: mercoledì 4 febbraio 2015 14:25
+A: 'Mesfer S. Al Mesfer'
+Cc: 'Emad Shehata'; 'Giancarlo Russo'; 'Elisabetta Ciceri'; user@domain.com
+Oggetto: RE: R: Re: R: Invoices Balance Dear Mesfer,  about the exchange rate we will agree upon it once you’ll proceed with the payment.  Feel free to contact me for any further question.Regards,  Simonetta Gallucci 
+Financial Controller 
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com 
+mobile: +39 3939310619
+phone: +39 0229060603 From: Emad Shehata <e.shehata@hackingteam.com>
+Sent: mercoledì 4 febbraio 2015 13:35
+To: Simonetta Gallucci
+Cc: 'Emad Shehata'; 'Giancarlo Russo'; 'Elisabetta Ciceri'; user@domain.com
+Subject: Re: R: Re: R: Invoices Balance Hi, Thanks for reply. However, the exchange rate is variable so we need to rely on the rate in the time of wire transfer. What do you think? Best Regards,
+
+Mesfer Al Mesfer, PMP
+Sr. Projects ManagerTCC-Digital Security domain.com
+T:+966920014888 Ext.171
+F:+96614168989
+M:+966558281100
+E: user@domain.com From: Emad Shehata <e.shehata@hackingteam.com>
+Date: Wednesday, February 4, 2015 at 3:27 PM
+To: Mesfer Al Mesfer <user@domain.com>
+Cc: 'Emad Shehata' <user@domain.com>, 'Giancarlo Russo' <user@domain.com>, 'Elisabetta Ciceri' <user@domain.com>, "user@domain.com" <user@domain.com>
+Subject: RE: R: Re: R: Invoices Balance Hi Mesfer,  I thought that in my previous mails was clear that HT gave TCC green light to pay legal fees for SAR 10.000, equivalent around to 2.300, if it means that we can receive back the remaining balance of eur 34.350, net deduction of legal fees.  If my assumptions made above are correct, you can go ahead. Look forward to your reply.Kind regards,  Simonetta Gallucci 
+Financial Controller 
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com 
+mobile: +39 3939310619
+phone: +39 0229060603 From: Emad Shehata <e.shehata@hackingteam.com>
+Sent: mercoledì 4 febbraio 2015 13:13
+To: Simonetta Gallucci
+Cc: 'Emad Shehata'; 'Giancarlo Russo'; 'Elisabetta Ciceri'; user@domain.com
+Subject: Re: R: Re: R: Invoices Balance Hi Simonetta, As per our finance, once HT give TCC the green light to pay the legal entity’s fee they will domain.com the documents and inform us how long time it will take accordingly. Best Regards,
+
+Mesfer S. Al Mesfer, PMP
+Sr. Projects Manager
+T:+966920014888 Ext.171
+F:+96614168989
+M:+966558281100
+E: user@domain.com From: Emad Shehata <e.shehata@hackingteam.com>
+Date: Tuesday, February 3, 2015 at 1:35 PM
+To: Mesfer Al Mesfer <user@domain.com>
+Cc: 'Emad Shehata' <user@domain.com>, 'Giancarlo Russo' <user@domain.com>, 'Elisabetta Ciceri' <user@domain.com>, "user@domain.com" <user@domain.com>
+Subject: RE: R: Re: R: Invoices Balance Dear Mesfer,  thanks for your feedback.  Did you already domain.com the document to the Income Tax Dept for reimbursement of the whole amount?How long is the process? Please inform us before proceeding with the refund, in order to agree the currency exchange rate. Look forward to hearing news from you.  Kind regards,  Simonetta Gallucci 
+Financial Controller 
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com 
+mobile: +39 3939310619
+phone: +39 0229060603 From: Emad Shehata <e.shehata@hackingteam.com>
+Sent: domenica 25 gennaio 2015 12:55
+To: Simonetta Gallucci
+Cc: 'Emad Shehata'; 'Giancarlo Russo'; 'Elisabetta Ciceri'; user@domain.com
+Subject: Re: R: Re: R: Invoices Balance Dear Simonetta, Here is finance’s feedback: We cannot accept the rate Hacking Team Company mentioned in their email because we don’t know the exact date of amount reimbursement from Zakat & Income Tax Department; and we don’t know  how long  the document process will take in the Income Tax Dept after we domain.com it next week. Best Regards,
+
+Mesfer S. Al Mesfer, PMP
+Sr. Project Manager
+T:+966920014888 Ext.171
+F:+96614168989
+M:+966558281100
+E: user@domain.com From: Emad Shehata <e.shehata@hackingteam.com>
+Date: Friday, January 23, 2015 at 5:46 PM
+To: Mesfer Al Mesfer <user@domain.com>
+Cc: 'Emad Shehata' <user@domain.com>, 'Giancarlo Russo' <user@domain.com>, 'Elisabetta Ciceri' <user@domain.com>, "user@domain.com" <user@domain.com>
+Subject: RE: R: Re: R: Invoices Balance Dear Mesfer,  have you any news from your financial department?Thanks for your support.  Kind regards,  Simonetta Gallucci 
+Financial Controller 
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com 
+mobile: +39 3939310619
+phone: +39 0229060603 From: Emad Shehata <e.shehata@hackingteam.com>
+Sent: giovedì 22 gennaio 2015 08:57
+To: 'Mesfer S. Al Mesfer'
+Cc: 'Emad Shehata'; 'Giancarlo Russo'; 'Elisabetta Ciceri'; 'user@domain.com'
+Subject: RE: R: Re: R: Invoices Balance Hi Mesfer,  in this case I think that the only practicable solution is that TCC pay straight the amount net deduction. We apply today currency change of 4.3547 from Bank of Italy (<<link>>), so we consider a deduction of eur 2.296,37; it means that remaining amount TCC should pay is eur 32.053,63.  Do you agree?Thanks again,  Simonetta Gallucci 
+Financial Controller 
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com 
+mobile: +39 3939310619
+phone: +39 0229060603 From: Emad Shehata <e.shehata@hackingteam.com>
+Sent: giovedì 22 gennaio 2015 08:38
+To: Simonetta Gallucci
+Cc: Emad Shehata; Giancarlo Russo; Elisabetta Ciceri; 'user@domain.com'
+Subject: Re: R: Re: R: Invoices Balance Hi, As per finance, the deduction is needed first then TCC will do the wire transfer of the remaining amount. Best Regards,
+
+Mesfer S. Al Mesfer
+Sr. Project Manager
+T:+966920014888 Ext.171
+F:+96614168989
+M:+966558281100
+E: user@domain.com From: Emad Shehata <e.shehata@hackingteam.com>
+Date: Thursday, January 22, 2015 at 9:51 AM
+To: Mesfer Al Mesfer <user@domain.com>
+Cc: Emad Shehata <user@domain.com>, Giancarlo Russo <user@domain.com>, Elisabetta Ciceri <user@domain.com>, "'user@domain.com'" <user@domain.com>
+Subject: R: Re: R: Invoices Balance Thanks Mesfer.
+Look forward to your update.
+
+Regards, 
+-- 
+Simonetta Gallucci 
+Financial Controller 
+
+Sent from my mobile.
+ Da: Mesfer S. Al Mesfer [mailto:user@domain.com] 
+Inviato: Thursday, January 22, 2015 07:11 AM
+A: Simonetta Gallucci 
+Cc: Emad Shehata; Giancarlo Russo; Elisabetta Ciceri; Marco Bettini <user@domain.com> 
+Oggetto: Re: R: Invoices Balance 
+ OK Simonetta. Let me consult our finance and get back to you. Best Regards,
+
+Mesfer S. Al Mesfer
+Sr. Project Manager
+T:+966920014888 Ext.171
+F:+96614168989
+M:+966558281100
+E: user@domain.com From: Emad Shehata <e.shehata@hackingteam.com>
+Date: Thursday, January 22, 2015 at 12:50 AM
+To: Mesfer Al Mesfer <user@domain.com>
+Cc: Emad Shehata <user@domain.com>, Giancarlo Russo <user@domain.com>, Elisabetta Ciceri <user@domain.com>, Marco Bettini <user@domain.com>
+Subject: Re: R: Invoices Balance Dear Mesfer,  I think that the best practice to manage this matter is to proceed as follows: - you send us a wire transfer for the total amount of eur 34.350- your legal advisors send us an invoice, issued to HT (you should have all details) for the amount agreed (SAR 10.000)- once we receive your payment we will go ahead with the wire transfer for your legal advisors Does it work for you?Thanks again for your support. Kind regards,  Simonetta GallucciFinancial Controller
+Inviato da iPad
+Il giorno 21/gen/2015, alle ore 19:45, "Mesfer S. Al Mesfer" <user@domain.com> ha scritto:Hi,Yes you are right. Mesfer Al Mesfer  On Jan 21, 2015, at 21:00, Simonetta Gallucci <user@domain.com> wrote:Dear Mesfer,  did you receive my mail this morning?Look forward to your reply.  Kind regards,  Simonetta Gallucci 
+Financial Controller 
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com 
+mobile: +39 3939310619
+phone: +39 0229060603 From: Emad Shehata <e.shehata@hackingteam.com>
+Sent: mercoledì 21 gennaio 2015 08:19
+To: 'Mesfer S. Al Mesfer'; 'Emad Shehata'
+Cc: 'Giancarlo Russo'; 'Elisabetta Ciceri'; 'Marco Bettini'
+Subject: RE: R: Invoices Balance Dear Mesfer,  thanks for your reply.  Just to be sure: you are asking to deduct your legal expenses (sar 10.000, equivalent to more or less eur 3.000,00) from our domain.com and to pay us a balance of eur 34. 350,00 with no tax applied. Is it correct? Please advise.  Kind regards,  Simonetta Gallucci 
+Financial Controller 
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com 
+mobile: +39 3939310619
+phone: +39 0229060603 From: Emad Shehata <e.shehata@hackingteam.com>
+Sent: mercoledì 21 gennaio 2015 06:44
+To: Emad Shehata
+Cc: 'Giancarlo Russo'; 'Elisabetta Ciceri'; 'Marco Bettini'; 'Simonetta Gallucci'
+Subject: Re: R: Invoices Balance Dears Simonetta & Emad, I double checked our finance who confirmed they finished the paperworks with DZIT (local tax authority). Now, the legal advisor who finished these papers want us to pay him 10,000 SR. should we deduct this amount from your balance below then transfer the remaining to you account? Please advise? Best Regards,
+
+Mesfer S. Al Mesfer
+Sr. Project Manager
+T:+966920014888 Ext.171
+F:+96614168989
+M:+966558281100
+E: user@domain.com From: Emad Shehata <e.shehata@hackingteam.com>
+Date: Tuesday, January 20, 2015 at 1:20 PM
+To: Mesfer Al Mesfer <user@domain.com>
+Cc: Sultan Rashed <user@domain.com>, 'Giancarlo Russo' <user@domain.com>, 'Elisabetta Ciceri' <user@domain.com>, 'Marco Bettini' <user@domain.com>, 'Simonetta Gallucci' <user@domain.com>
+Subject: R: Invoices Balance Dear Mesfer, trust this e-mail find you well. Please let us know about the invoice balance as detailed here from our Financial Controller.Your prompt response will be really appreciate. Best regards  Emad Shehata
+Key Account Manager
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email:user@domain.com
+mobile: +39 3357939078
+phone: +39 0229060603     Da: Simonetta Gallucci [mailto:user@domain.com] 
+Inviato: venerdì 16 gennaio 2015 16:19
+A: 'Mesfer S. Al Mesfer'
+Cc: user@domain.com; 'Giancarlo Russo'; 'Elisabetta Ciceri'; 'Marco Bettini'; 'Emad Shehata'
+Oggetto: Invoices Balance Dear Mesfer,  as anticipated by our Account Manager Emad I write to request you an update about our invoices balance.  Here below a short recap of the situation:  Invoice No. AmountCollected amountBalance157/2012€ 370.500,00€ 351.975,00€ 18.525,00045/2013€ 28.500,00€ 18.525,00€ 9.975,00048/2013€ 39.000,00€ 33.150,00€ 5.850,00 From an accounting point of view, the income of eur 18.525,00 received on Jan. 21st 2015 should be allocated to balance our invoice No. 157/2012, instead of considering it as an advanced payment for the invoice No. 045/2013.  It means that for us the invoice No. 045/2013 is totally due and it remains also a balance to receive for the invoice No. 048/2013 (eur. 5.850); expected total amount is eur 34.350. If it was applied a withhold tax, we need to receive as soon as possible the related certificate; otherwise we consider the pending balance abovementioned.  I kindly request you to give me a feedback about this matter by next Wednesday, in order to solve it.Best regards,  Simonetta Gallucci 
+Financial Controller 
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com 
+mobile: +39 3939310619
+phone: +39 0229060603 This email and any files transmitted with it may be confidential and intended solely for the use of the addressed individual or entity. If you have received this email in error kindly notify the sender immediately and do not disclose the contents to any other person, or store or copy the information in any medium. Statements of intent shall only become binding when confirmed in hard copy by an authorized signatory. TCC accepts no liability for any damage caused by any virus transmitted by this email. Any views or opinions presented in this email are solely those of the author and do not necessarily represent those of TCC. This email and any files transmitted with it may be confidential and intended solely for the use of the addressed individual or entity. If you have received this email in error kindly notify the sender immediately and do not disclose the contents to any other person, or store or copy the information in any medium. Statements of intent shall only become binding when confirmed in hard copy by an authorized signatory. TCC accepts no liability for any damage caused by any virus transmitted by this email. Any views or opinions presented in this email are solely those of the author and do not necessarily represent those of TCC. This email and any files transmitted with it may be confidential and intended solely for the use of the addressed individual or entity. If you have received this email in error kindly notify the sender immediately and do not disclose the contents to any other person, or store or copy the information in any medium. Statements of intent shall only become binding when confirmed in hard copy by an authorized signatory. TCC accepts no liability for any damage caused by any virus transmitted by this email. Any views or opinions presented in this email are solely those of the author and do not necessarily represent those of TCC. This email and any files transmitted with it may be confidential and intended solely for the use of the addressed individual or entity. If you have received this email in error kindly notify the sender immediately and do not disclose the contents to any other person, or store or copy the information in any medium. Statements of intent shall only become binding when confirmed in hard copy by an authorized signatory. TCC accepts no liability for any damage caused by any virus transmitted by this email. Any views or opinions presented in this email are solely those of the author and do not necessarily represent those of TCC. This email and any files transmitted with it may be confidential and intended solely for the use of the addressed individual or entity. If you have received this email in error kindly notify the sender immediately and do not disclose the contents to any other person, or store or copy the information in any medium. Statements of intent shall only become binding when confirmed in hard copy by an authorized signatory. TCC accepts no liability for any damage caused by any virus transmitted by this email. Any views or opinions presented in this email are solely those of the author and do not necessarily represent those of TCC. This email and any files transmitted with it may be confidential and intended solely for the use of the addressed individual or entity. If you have received this email in error kindly notify the sender immediately and do not disclose the contents to any other person, or store or copy the information in any medium. Statements of intent shall only become binding when confirmed in hard copy by an authorized signatory. TCC accepts no liability for any damage caused by any virus transmitted by this email. Any views or opinions presented in this email are solely those of the author and do not necessarily represent those of TCC. This email and any files transmitted with it may be confidential and intended solely for the use of the addressed individual or entity. If you have received this email in error kindly notify the sender immediately and do not disclose the contents to any other person, or store or copy the information in any medium. Statements of intent shall only become binding when confirmed in hard copy by an authorized signatory. TCC accepts no liability for any damage caused by any virus transmitted by this email. Any views or opinions presented in this email are solely those of the author and do not necessarily represent those of TCC. This email and any files transmitted with it may be confidential and intended solely for the use of the addressed individual or entity. If you have received this email in error kindly notify the sender immediately and do not disclose the contents to any other person, or store or copy the information in any medium. Statements of intent shall only become binding when confirmed in hard copy by an authorized signatory. TCC accepts no liability for any damage caused by any virus transmitted by this email. Any views or opinions presented in this email are solely those of the author and do not necessarily represent those of TCC. This email and any files transmitted with it may be confidential and intended solely for the use of the addressed individual or entity. If you have received this email in error kindly notify the sender immediately and do not disclose the contents to any other person, or store or copy the information in any medium. Statements of intent shall only become binding when confirmed in hard copy by an authorized signatory. TCC accepts no liability for any damage caused by any virus transmitted by this email. Any views or opinions presented in this email are solely those of the author and do not necessarily represent those of TCC.  --  Giancarlo RussoCOO Hacking TeamMilan Singapore Washington DCwww.hackingteam.com email: user@domain.com: +39 3288139385phone: +39 02 29060603This email and any files transmitted with it may be confidential and intended solely for the use of the addressed individual or entity. If you have received this email in error kindly notify the sender immediately and do not disclose the contents to any other person, or store or copy the information in any medium. Statements of intent shall only become binding when confirmed in hard copy by an authorized signatory. TCC accepts no liability for any damage caused by any virus transmitted by this email. Any views or opinions presented in this email are solely those of the author and do not necessarily represent those of TCC.  --  Giancarlo RussoCOO Hacking TeamMilan Singapore Washington DCwww.hackingteam.com email: user@domain.com: +39 3288139385phone: +39 02 29060603

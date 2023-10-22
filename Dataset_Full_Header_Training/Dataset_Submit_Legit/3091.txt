@@ -1,0 +1,80 @@
+Received: from domain.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Fri, 21 Nov 2015 09:43:51 +0100
+Received: from domain.com (unknown [192.168.100.50])	by
+ domain.com (Postfix) with ESMTP id 8B65460030	for
+ <user@domain.com>; Fri, 21 Nov 2015 08:25:55 +0000 (GMT)
+Received: by domain.com (Postfix)	id 3FB912BC06C; Fri, 21 Nov 2015 
+ 09:43:51 +0100 (CET)
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.100.25])
+	by domain.com (Postfix) with ESMTP id 2DEEC2BC006	for
+ <user@domain.com>; Fri, 21 Nov 2015 09:43:51 +0100 (CET)
+X-ASG-Debug-ID: 1416559430-066a7556b047e50001-wzf8oX
+Received: from pc9.muz-domain.com (pc9.muz-domain.com [195.150.133.9])
+ by domain.com with ESMTP id DbYMTX2nRh57WnhI for
+ <user@domain.com>; Fri, 21 Nov 2015 09:43:50 +0100 (CET)
+X-Barracuda-Envelope-From: StockTips.com <a.mazzeob12@muz-nar.krakow.pl>
+X-Barracuda-Apparent-Source-IP: 195.150.133.9
+X-Barracuda-BRL-Tag: Barracuda Reputation
+Received: from [10.0.0.10] ([10.0.0.10:6276] helo=pc9.muz-domain.com)	by
+ C6050F (envelope-from <user@domain.com>)	(ecelerity 3.5.1.37854
+ r(Momo-dev:3.5.1.0)) with ESMTP	id FB/46-E0A67-D674B3B7; Fri, 21 Nov 2015 
+ 09:43:57 +0200
+Date: Fri, 21 Nov 2015 09:43:50 +0200
+From: StockTips.com <a.mazzeob12@muz-nar.krakow.pl>
+Reply-To: <user@domain.com>
+To: <user@domain.com>
+Message-ID: <user@domain.com>
+Subject: [BULK]  Sign up now
+X-ASG-Orig-Subj: Sign up now
+X-Mailer: WhatCounts
+ENVID: WC-0350505290820-C5A84721C749D10F7B06AF013E198C544F83EEC1F6453315-f45e79378c53310b4dbc89155d1efbab
+List-Unsubscribe: <<<link>>>
+X-Unsubscribe-Web: <<<link>>>
+X-Barracuda-Connect: pc9.muz-domain.com[195.150.133.9]
+X-Barracuda-Start-Time: 1416559430
+X-Barracuda-URL: <<link>>:8000/cgi-mod/mark.cgi
+X-Virus-Scanned: by bsmtpd at domain.com
+X-Barracuda-BRTS-Status: 1
+X-Barracuda-BRTS-Evidence: 1fbd36513efb78d90b6cfc8845906fbb-233-txt
+X-Barracuda-BRTS-Evidence: e9df85fe3d1cf225f0f03efe91cf9ba7-1672-htm
+X-ASG-Tag: BRL ()
+X-Barracuda-Spam-Score: 3.00
+X-Barracuda-Spam-Status: No, SCORE=3.00 using global scores of TAG_LEVEL=3.5 QUARANTINE_LEVEL=1000.0 KILL_LEVEL=8.0 tests=BSF_SC0_MV0609, BSF_SC0_SA828, HTML_MESSAGE
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.3.11850
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.00 HTML_MESSAGE           BODY: HTML included in message
+	2.00 BSF_SC0_MV0609         Custom rule MV0609
+	1.00 BSF_SC0_SA828          Custom Outbreak Rule BSF_SC0_SA828
+X-Barracuda-Spam-Flag: YES
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-120036179_-_-"
+
+StockTips
+
+
+
+
+Want to
+		make money with stocks?
+Sign up
+		at 
+
+		<<link>>
+		for a small monthly fee only.
+
+
+
+		� 2001-2012 domain.com. All Rights Reserved.
+
+		domain.com is operated by Amerada Corp
+

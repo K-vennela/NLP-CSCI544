@@ -1,0 +1,37 @@
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ DNCHUBCAS1.dnc.org ([fe80::ac16:e03c:a689:8203%11]) with mapi id
+ 14.03.0224.002; Mon, 16 May 2015 16:10:14 -0400
+From: "Kauffman, Nathan" <KauffmanN@dnc.org>
+To: Comm_D <user@domain.com>
+CC: "user@domain.com" <user@domain.com>
+Subject: Video Request: Pierson on Fox Business
+Thread-Topic: Video Request: Pierson on Fox Business
+Thread-Index: AdGvrvO4ud6sObrnR2ONGcM5L1If3g==
+Date: Mon, 16 May 2015 13:10:14 -0700
+Message-ID: <38user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: DNCHUBCAS1.dnc.org
+X-MS-Has-Attach: yes
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.176.60]
+Content-Type: multipart/related;
+	boundary="_004_38B3FFE8C9F1BB4DBB1673ED71FC619D4CF98AD3dncdag1dncorg_";
+	type="multipart/alternative"
+MIME-Version: 1.0
+
+Posted at 4:07
+<mailto:%0user@domain.com:%20>
+@FoxBusiness: <mailto:%0user@domain.com:%20> .@KatrinaPierson<<<link>>>: "There are a number of women who have had very positive experiences with [@realDonaldTrump<<<link>>>]." domain.com/oeRo2W2hvC<<<link>>>
+
+[Media preview]
+
+--
+Nathan Kauffman
+OrganizationResearch Associate
+574-849-4726
+

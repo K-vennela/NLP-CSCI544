@@ -1,0 +1,112 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 3 May
+ 2015 17:44:47 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 3 May 2015 
+ 17:44:42 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 894734757;
+ Tue, 03 May 2015 16:44:48 -0500
+X-Note-AR-ScanTimeLocal: 5/3/2016 4:44:47 PM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:131.94.68.13 DOM:fiu.edu ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-215/SG:5 5/3/2016 4:44:04 PM
+X-GBUdb-Analysis: 0, 131.94.68.13, Ugly c=0.487159 p=-0.59292 Source Normal
+X-Signature-Violations: 0-0-0-13748-c
+X-Note-419: 15.6234 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/3/2016 4:44:44 PM
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->->->United States->LOCAL->United States->
+X-Note-Sending-IP: 131.94.68.13
+X-Note-Reverse-DNS: smtp4-dr.fiu.edu
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from smtp4-dr.fiu.edu ([131.94.68.13] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 138617746;
+ Tue, 03 May 2015 16:44:47 -0500
+Received: from pps.filterd (smtp4-dr.fiu.edu [127.0.0.1])	by smtp4-dr.fiu.edu
+ (8.14.5/8.14.5) with SMTP id u43LiUQw030523;	Tue, 3 May 2015 17:44:45 -0400
+Received: from fiumailsmtp.fiu.edu (dithub01.ad.fiu.edu [131.94.72.22])	by
+ smtp4-dr.fiu.edu with ESMTP id 22q0e12t82-12;	Tue, 03 May 2015 17:44:45 -0400
+Received: from na01-by2-domain.com (207.46.163.237)
+ by fiu.edu (192.168.251.13) with Microsoft SMTP Server (TLS) id 14.3.123.3;
+ Tue, 3 May 2015 17:44:20 -0400
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=domain.com; s=selector1-fiu-edu;
+ h=From: Carlos Becerra <cabecerr@fiu.edu>
+ bh=hno0Vnelz2WSzje1kx0jcpCkLABo8v/C3/SYwoA+P/w=;
+ b=ArKBKvL1Zd1vyrTItjX391VYa4sY/H8IUgW15H7t1DPt9oX2foHEjkRyY0ExhFLEB+fgV42VXPtq0zl/LRLZv/2SLpmskflS3+6RtVy/1px6EPNjvEQaEdBXZ6XOe4NCMh4WhD/fiFNJaM5j4WrfHDVtugcp4knwL/z+VaiKwRg=
+Received: from domain.com (10.163.227.15) by
+ domain.com (10.163.227.15) with Microsoft SMTP
+ Server (TLS) id 15.1.485.9; Tue, 3 May 2015 21:44:14 +0000
+Received: from domain.com ([10.163.227.15]) by
+ domain.com ([10.163.227.15]) with mapi id
+ 15.01.0485.011; Tue, 3 May 2015 21:44:14 +0000
+From: Carlos Becerra <cabecerr@fiu.edu>
+To: "User" <user@domain.com>
+CC: User <user@domain.com>, Kate Houghton <user@domain.com>,
+	"User" <user@domain.com>
+Subject: Re: FIU polling initiative 
+Thread-Topic: FIU polling initiative 
+Thread-Index: AQHRpSVKh6mgMRxBykqlzNIAZOPvg5+nc8dwgABLzEw=
+Date: Tue, 3 May 2015 21:44:14 +0000
+Message-ID: <94715user@domain.com>
+References: <3user@domain.com>,<3487user@domain.com>
+In-Reply-To: <3487user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+authentication-results: domain.com; dkim=none (message not signed)
+ header.d=none;domain.com; dmarc=none action=none header.from=fiu.edu;
+x-originating-ip: [166.171.58.54]
+x-ms-office365-filtering-correlation-id: 64e68fd8-895d-4db5-41cd-08d3739c11e0
+x-microsoft-exchange-diagnostics: 1;SN1PR0501MB2030;5:h+OY23UNBbnOaDz3ppgLcdUa2aBQeFORS4SLVgCrU7UhsvHAjHHs6YzjMbsQXcrHdsYNqM6QjmH0K2vIalS/1AYrxjJiCp4ZrdUusGx3UWPCTFYICIGDcoWYhlsIwCz++9R5sV2+kzPSu77w6Ww4Mw==;24:jgKbcwePAI8I9bM96l6jTm2WzkV7BnI/t1Fm/5k8M3JdgQ/k4qsPN7RwypABc4k2WLH/73rpApiwBK0YFjBwd8ngZyYHoGXf/hZs1PV8C4s=;7:/1YqgPM97pI3doacamGqb2bNyiEP0ik0wCXx1TChS6np9T4FpYEicuDbCEgsiQjYGauSMqGW3p1Wjj/smIW9oj5GW2dloFlakitTH3cRsw2kvxh2Uab/jw2s3a1/9d0YjFfgjNwb1VN9z0uZ0TcQWUH4xxeYJVbqRNDMae4Ijo2BJipzdubNt5JUquWOeMGg
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:;SRVR:SN1PR0501MB2030;
+x-microsoft-antispam-prvs: <user@domain.com>
+x-exchange-antispam-report-test: UriScan:;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(9101521098)(9101528026)(601004)(2401047)(8121501046)(5005006)(10201501046)(3002001);SRVR:SN1PR0501MB2030;BCL:0;PCL:0;RULEID:;SRVR:SN1PR0501MB2030;
+x-forefront-prvs: 0931CB1479
+x-forefront-antispam-report: SFV:NSPM;SFS:(10009020)(24454002)(377454003)(50986999)(2906002)(2900100001)(1220700001)(4326007)(75432002)(19625215002)(90282001)(16236675004)(122556002)(81166005)(66066001)(553524004)(82746002)(19580405001)(10400500002)(19580395003)(102836003)(3846002)(5004730100002)(33656002)(88552002)(106116001)(8936002)(76176999)(790700001)(3660700001)(87936001)(54356999)(5008740100001)(89122001)(92566002)(5002640100001)(11100500001)(2950100001)(3280700002)(586003)(189998001)(99286002)(86362001)(110136002)(19617315012)(3480700004)(15975445007)(83716003)(77096005)(36756003);DIR:OUT;SFP:1101;SCL:1;SRVR:SN1PR0501MB2030;H:domain.com;FPR:;SPF:None;MLV:sfv;LANG:en;
+spamdiagnosticoutput: 1:23
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_94715B78739A4A7A9578AE356FA74B0Dfiuedu_"
+X-MS-Exchange-CrossTenant-originalarrivaltime: 03 May 2015 21:44:14.0280
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: ac79e5a8-e0e4-434b-a292-2c89b5c28366
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SN1PR0501MB2030
+X-Proofpoint-Virus-Version: vendor=fsecure engine=2.50.10432:5.15.96,1.0.3,0.0.0000
+ definitions=2016-05-03_10:2016-05-03,2016-05-03,1970-01-01 signatures=0
+x-Proofpoint-Spam-Details: rule=outbound_notspam policy=outbound score=0 spamscore=0 suspectscore=0
+ phishscore=0 adultscore=0 bulkscore=0 classifier=spam adjust=0 reason=mlx
+ scancount=1 engine=7.0.1-1603290000 definitions=main-1605030329
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+User, holler if you can later, in case you have time to meet with Eduardo G=
+amarra quickly tomorrow morning.
+305-439-8158
+
+Carlos
+
+fiu * dca * mia
+305 439 8158
+
+On May 3, 2016, at 1:13 PM, Guerra, Liana <user@domain.com<mailto:user@domain.com=

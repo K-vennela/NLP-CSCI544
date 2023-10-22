@@ -1,0 +1,66 @@
+Hello Jonathan, Keith, and Eystein:
+I don't yet have any word from Steve Schneider concerning the
+Wahl-Ammann article on the MBH/MM issues...
+...HOWEVER, here is something that slipped under my radar screen, about
+which I should have made you aware previously.  I've attached the
+ACCEPTED version of the Wahl-Ritson-Ammann comment article on the
+vonStorch et al. 2004 Science paper.  This the article that criticizes
+MBH for very large low-frequency amplitude losses.  The final acceptance
+from Science just came today, and is copied below.
+In this comment article (specifically requested to be expanded to 1000
+words by the Science editors), we note that the calibration and
+verification performance of the MBH method as implemented in VS04 show
+really poor LF fidelity--which cannot happen if the MBH method is
+implemented according to its original form.  We note this, which is
+explained by a significant omission on the part of VS04 in implementing
+the MBH methodology (a detrending step that was only disclosed later
+last year in a conference proceedings paper).  We also comment on
+physical and statistical reasons why detrending is not appropriate in
+this context.  We conclude that the large amplitude losses VS04 claims
+are simply not correct.
+I am imagining that this contextualization of the VS04 critique would
+also be relevant for your chapter, and it can now be considered "in
+press" as the from our Science correspondent notes below.  I would think
+this acceptance makes it "citable".  If not, I understand.
+NOTE THAT THIS ARTICLE IS SUBJECT TO THE USUAL SCIENCE EMBARGO RULES.  I
+DO NOT BELIEVE THAT THIS MEANS CITATION IS EMBARGOED.  (Cf. 4th
+paragraph in copied message below that supports citation.)
+Peace, Gene
+*******************************
+Dr. Eugene R. Wahl
+Asst. Professor of Environmental Studies
+Alfred University
+607.871.2604
+********************** copied message below ********************
+Dear Dr. Wahl,
+Below is the formal acceptance of your manuscript. The paper is
+technically not "in press" yet, though I  assume that either "accepted"
+or "in press" would be acceptable.
+Dear Dr. Wahl,
+We are pleased to accept your revised Technical Comment on the paper by
+von Storch et al. for publication. 
+The text of your comment will be edited to conform to *Science* style
+guidelines.  Before publication you will receive galley proofs for
+author corrections.  Please return the marked and corrected proofs, by
+fax or overnight express, within 48 hours of receipt.
+For authors with NIH grants intending to deposit the accepted version of
+their paper on PubMed Central, the following text must be displayed as a
+footnote with an asterisk to the manuscript title:
+"This manuscript has been accepted for publication in Science.  This
+version has not undergone final editing.  Please refer to the complete
+version of record at <<link>>  This manuscript may
+not be reproduced or used in any manner that does not fall within the
+fair use provisions of the Copyright Act without the prior, written
+permission of AAAS."
+As noted in our License for Publication, the manuscript cannot be posted
+sooner than 6 months after final publication of the paper in Science.
+As you know, the full text of technical comments and responses appears
+on our website, Science Online, with abstracts published in the Letters
+section of the print *Science*.
+Thanks for your patience during this long process, and thanks for
+publishing in *Science*.
+Sincerely,
+Tara S. Marathe
+Associate Online Editor, Science
+user@domain.com 
+*********************** end copied message ******************

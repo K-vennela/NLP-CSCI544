@@ -1,0 +1,131 @@
+Received: from domain.com (146.215.230.104) by
+ domain.com (43.130.141.76) with Microsoft SMTP Server id
+ 8.3.297.1; Mon, 24 Feb 2015 09:01:19 -0800
+Received: from domain.com ([160.33.194.230])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s1OH1O5O026248	for <user@domain.com>; Mon, 24 Feb 2015 
+ 17:01:24 GMT
+Received: from mail166-ch1-domain.com (mail-domain.com
+ [216.32.181.174])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s1OH1Nxh027850
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Mon, 24 Feb 2015 17:01:23 GMT
+Received: from mail166-ch1 (localhost [127.0.0.1])	by
+ mail166-ch1-domain.com (Postfix) with ESMTP id 819D51A05C3	for
+ <user@domain.com>; Mon, 24 Feb 2015 17:01:23 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:199.15.215.82;KIP:(null);UIP:(null);IPV:NLI;H:em-sj-82.domain.com;RD:em-sj-82.domain.com;EFVD:NLI
+X-SpamScore: 6
+X-BigFish: vps6(z302ajz9371Ic89bhdc43he0eahc857hdbb0idbf2izz1f42h2148h208ch1ee6h1de0h1fdah21bdh2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6hzz1d7338h1de098h1def03h172cfch17326ah1def87h8275bh1bc7b9h8275dh1def86h1de097h186068h1b778fh1ce120h1d68deh1ce121iz2fheh5fh839h8e2h8e3h10d2h1288h12a5h137ah13eah1441h1537h153bh158dh162dh1631h1758h18e1h1946h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1fe8h1ff5h20f0h21e9h2216h2336h2438h2461h2487h24d7h2516h2545h255ehbe9i214ai1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail166-ch1: domain of em-sj-77.domain.com designates 199.15.215.82 as permitted sender) client-ip=199.15.215.82; user@domain.com; helo=em-sj-82.domain.com ;domain.com ;
+Received: from mail166-ch1 (localhost.localdomain [127.0.0.1]) by mail166-ch1
+ (MessageSwitch) id 1393261281686461_3080; Mon, 24 Feb 2015 17:01:21 +0000
+ (UTC)
+Received: from domain.com (domain.com
+ [10.43.68.234])	by mail166-domain.com (Postfix) with ESMTP id
+ A3B443C013A	for <user@domain.com>; Mon, 24 Feb 2015 17:01:21 +0000
+ (UTC)
+Received: from em-sj-82.domain.com (199.15.215.82) by
+ domain.com (10.43.70.19) with Microsoft SMTP Server id
+ 14.16.227.3; Mon, 24 Feb 2015 17:01:21 +0000
+DKIM-Signature: v=1; a=rsa-sha256; d=pointit.com; s=m1; c=relaxed/relaxed;
+	q=dns/txt; user@domain.com; t=1393261281;
+	h=From: Point It Webinars <webinar@pointit.com>
+	bh=5bVUyhWYCZWZaf5LBWLlNuQCoUZXmcMSUXFI0K2PAc0=;
+	b=bTcRV4BvV6ZJJ1407q/ksgtr1JvbVAxO6phi1WMr3Um/OI0riTFZS75DdaFSkd3o
+	c8R48UhHUy9Mf8zZAyxhNzEvYdh0QDfaKafmS+32BpCjYjaKprPk0ZzrTgiTBRUv
+	L24DvapkihIQaTIi3dmMUprOaUiNmyRPwJpocaDmio8=;
+X-MSFBL: YW15X3Bhc2NhbEBzcGUuc29ueS5jb21AZHZwLTE5OS0xNS0yMTUtODJAYmctc2ot
+	MDFAMDAyLVZLVi03MDc6MTcxOjExOTE6ODYzOjA6MTI3ODo3OjEyOTc3
+Received: from [10.0.8.1] ([10.0.8.1:37072] helo=domain.com)	by
+ domain.com (envelope-from <user@domain.com>)	(ecelerity
+ 3.5.0.35861 r(Momo-dev:tip)) with ESMTP	id 17/38-59964-1EA7B035; Mon, 24 Feb
+ 2015 11:01:21 -0600
+Date: Mon, 24 Feb 2015 11:01:21 -0600
+From: Point It Webinars <webinar@pointit.com>
+Reply-To: <user@domain.com>
+To: <user@domain.com>
+Message-ID: <1466271574.1559982284.1393261281140.user@domain.com>
+Subject: You are invited to: Manage Search Like a Pro with Ad Extensions
+X-Report-Abuse: Please report abuse here: <<link>>
+X-Binding: bg-sj-01
+X-MarketoID: 002-VKV-707:171:1191:863:0:1278:7:12977
+List-Unsubscribe: <mailto:user@domain.com>
+X-MailFrom: Point It Webinars <webinar@pointit.com>
+Return-Path: 002-user@domain.com
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+
+
+
+         logo_point-it.png
+
+
+
+
+Manage Search Like a Pro with Ad Extensions
+
+Ad Extensions do's and don'ts 
+
+Hello Amy,
+
+Ad extensions are becoming increasingly important in pay-per-click campaigns. How do we know this? Google & Bing have been placing more and more importance on ad extensions by encouraging their proper use. Though they are sometimes taken for granted, ad extensions allow paid search managers to provide additional content and resources alongside their ads—thereby gaining more real estate on the SERP. 
+Are you using ad extensions to their fullest potential? Which extensions are best for your campaigns? Join Point It’s own Evelyn Baek and Chris Hoag as they explain the do’s and don’ts of ad extensions.
+Register Now
+
+
+
+
+In this webinar you will learn:
+
+Definitions and examples of ad extensions for both Google & Bing
+Best practices and applications for ad extensions
+Guide to what types of accounts should be utilizing which extensions
+Ad extension optimization techniques
+Recommendations for testing & tracking performance​
+
+
+
+
+Register today!
+
+
+
+
+         Live Webinar            
+
+
+
+
+         Wednesday March 5, 2014
+
+2:00 PM EST
+
+11:00 AM PST
+
+Register Now
+
+Presented By:
+
+ Evelyn
+
+Evelyn Baek
+
+Senior Client Manager
+
+Point It 
+
+
+
+
+ Chris Hoag
+
+Chris Hoag
+
+Senior Client Manager
+
+Point I
+

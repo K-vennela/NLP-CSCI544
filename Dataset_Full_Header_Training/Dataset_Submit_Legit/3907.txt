@@ -1,0 +1,99 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 11 May
+ 2015 18:04:42 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 11 May 2015 
+ 18:04:39 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 910226530
+ for user@domain.com; Wed, 11 May 2015 17:04:46 -0500
+X-Note-AR-ScanTimeLocal: 5/11/2016 5:04:46 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:66.231.93.47 DOM:bounce.email.globe.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 100
+X-GBUdb-Analysis: 0, 66.231.93.47, Ugly c=0.401053 p=0.0612245 Source Normal
+X-Signature-Violations: 100-5950968-1306-1338-m
+	100-5948747-1307-1338-m
+	100-5945076-11919-11944-m
+	100-5945075-12194-12223-m
+	100-5950968-0-17263-f
+X-Note-419: 15.6244 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/11/2016 5:04:34 PM
+X-Warn: OPTOUT
+X-Warn: BULKMAILER
+X-Note: Spam Tests Failed: OPTOUT, BULKMAILER
+X-Country-Path: ->United States->
+X-Note-Sending-IP: 66.231.93.47
+X-Note-Reverse-DNS: mta.email.globe.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G281 G286 G374 G376 G580 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from mta.email.globe.com ([66.231.93.47] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 138367624
+ for user@domain.com; Wed, 11 May 2015 17:04:46 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=200608; d=email.globe.com;
+ h=From: The Boston Globe <circulationoffers@email.globe.com>
+ bh=gowCTbvIyjksnfef73hR2DmBzsQ=;
+ b=q13k9GXXsYh8b6FP5WhrR2g4cH8xYDR7z/jiR2X008tHMoBmRREU9Rlm4/B+pyV/HclJGA7Rcvk/
+   6B+Pqu3XCGxCXd+gBUhAAy35ldDOSY9VaTRSmX3FZHPob8ybLFixwp8X8kCpo1cEPSK9BHZbBaiw
+   QfzUdY8iqmP9pgxbkeI=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=200608; d=email.globe.com;
+ b=TLBcxX7OsS2FgKOhr8Z2FHydjiEyyLJ81oeZO9RBHYHE+VI2cJpO0LwGcE+x+UxvRH3QAtbVzTmj
+   phgkeUzUA6rTr8rNFt0j/Oujah9QAGqQ3hj7DdBYiqYVWwDDYqLp74CP45u9yFC7u18IOfWQQYzB
+   S+yK4mLUvlbEJWM1VJA=;
+Received: by mta.email.globe.com id h6em7i163hsj for <user@domain.com>; Wed,
+ 11 May 2015 16:04:41 -0600 (envelope-from
+ <user@domain.com>)
+From: The Boston Globe <circulationoffers@email.globe.com>
+To: <user@domain.com>
+Subject: We invite you to see for yourself.
+Date: Wed, 11 May 2015 16:04:41 -0600
+List-Unsubscribe: <mailto:user@domain.com>
+Reply-To: The Boston Globe
+	<user@domain.com>
+x-job: 10790744_35443447
+Message-ID: <19user@domain.com>
+Content-Type: multipart/alternative; boundary="V95NepBlljHD=_?:"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+The Globe by the numbers: 26 Pulitzer Wins. 20+ stories read per month per subscriber. 60K+ Subscribers. Subscribe to domain.com and save 75% off for 8 weeks.
+
+<<link>>
+
+Stay connected with domain.com. Get unlimited digital access for just 99 cents a week. Click below to get access now.
+
+<<link>>
+
+*****************************************************
+
+domain.com digital subscription is a domain.com card only offer. Your domain.com card will be automatically charged in advance every four weeks unless a different renewal term is specified in the offer. At the end of the introductory period, your digital subscription will continue at $3.99 per week unless you cancel your subscription. After 52 weeks, your full price rate will increase to $6.93 per week. Offer valid for those who have not had digital access in the last 90 days. Prices are subject to change. Additional terms and conditions may apply.
+
+*****************************************************
+
+To ensure you receive Boston Globe emails, please add user@domain.com to your address book.
+
+We value your privacy.
+
+To unsubscribe from receiving future emails like this one, please click on this link or copy & paste this URL into your domain.com browser:  <<link>>
+
+To unsubscribe from all future Globe consumer emails, please click on this link or copy & paste this URL into your domain.com browser:  <<link>>
+
+If you have any questions, please call 1-888-MY-GLOBE (1-888-694-5623).
+
+Address: 
+The Boston Globe
+135 Morrissey Boulevard
+Boston, MA 02125

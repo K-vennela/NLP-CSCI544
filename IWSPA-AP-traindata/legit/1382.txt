@@ -1,0 +1,38 @@
+Hi all on the list above... Some of you have received this already straight from David, but
+some other key people have not. Eystein and I would appreciate it very much if you would
+please read/comment/and edit the attached section 6.5.8 (Sensitivity) NO LATER THAN
+THURSDAY NOON, Eastern time (6PM GMT).
+Please send responses to all on the address list ABOVE, plus Peck.
+Thanks, Peck
+X-Sieve: CMU Sieve 2.2
+X-Sender: drind@4dmail.giss.nasa.gov
+Date: Wed, 12 Jan 2005 13:29:53 -0500
+To: joos <joos@climate.unibe.ch>
+From: David Rind <drind@giss.nasa.gov>
+Subject: Re: Fwd: Re: Fwd: 6.5.8 Sensitivity
+Cc: David Rind <drind@giss.nasa.gov>,
+Jonathan Overpeck <user@domain.com>,
+Dominique Raynaud <raynaud@lgge.obs.ujf-grenoble.fr>,
+Eystein Jansen <eystein.jansen@geo.uib.no>,
+trond.dokken@bjerknes.uib.no, peltier@atmosp.physics.utoronto.ca,
+Jean-Claude Duplessy <Jean-Claude.Duplessy@lsce.cnrs-gif.fr>,
+rahmstorf@pik-potsdam.de, cddhr@giss.nasa.gov
+X-Virus-Scanned: amavisd-new at email.arizona.edu
+X-Spam-Status: No, hits=-2.272 required=7 tests=BAYES_00, HTML_20_30,
+HTML_MESSAGE, MIME_SUSPECT_NAME
+X-Spam-Level:
+Dear Fortunat (and others),
+Here is the revised section 6.5.8. I've put in most of your changes (and also most of
+those suggested by Stefan, particularly with regards to clarifying the sign of the
+radiative forcing). Most importantly, I've removed the table - I agree it seems to imply
+a solidity that is really not there. The one thing I have not done is condense it
+greatly (of course!). The real reason for going into such detail, rather than just
+saying, "well, the forcing and response are uncertain, so we can't conclude anything",
+is I think it's important to show that paleoclimate scientists have gone to some effort
+to try to deduce climate sensitivity from the paleorecord, the parameter that is
+probably of most interest to IPCC. In that respect the details are important, as are the
+magnitudes of uncertainty represented in the different studies. Obviously, at any point
+in the proceedings the section can be shortened, but I thought it useful to start with
+this level of quantification, and show paleoclimate has this similarity with the rest of
+IPCC in addition to more qualitative concepts.
+I've responded to your individual comments below.

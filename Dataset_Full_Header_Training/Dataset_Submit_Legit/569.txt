@@ -1,0 +1,43 @@
+Return-Path: <user@domain.com>
+Reply-To: <user@domain.com>
+From: "HT Srl" <support@hackingteam.com>
+To: <user@domain.com>
+Subject: [!WPR-586-27471]: Assignment - Ticket system does not send emails when there is a reply to the ticket
+Date: Tue, 7 Aug 2015 13:51:48 +0200
+Message-ID: <1344340308.5021015454715@support.hackingteam.com>
+X-Mailer: Microsoft Outlook 15.0
+Thread-Index: AQHszFyN4LJ9CyAAGT4lREKlXXuZTQ==
+X-OlkEid: 000000007D2091DA92D3914ABB4C05769578F4790700A96A85A9D2A04643865EB2097E3CF3A30000000002080000A96A85A9D2A04643865EB2097E3CF3A3000000007E51000013F7DC6481D5F447B49A6BC20D1AB78A
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-615933390_-_-"
+
+Daniele Milan updated #WPR-586-27471
+
+------------------------------------
+
+Staff (Owner): Daniele Milan (was: -- Unassigned --)
+
+Ticket system does not send emails when there is a reply to the ticket
+
+----------------------------------------------------------------------
+
+Ticket ID: WPR-586-27471
+URL: <<link>>
+Full Name: Charles Devon
+Email: user@domain.com
+Creator: User
+Department: General
+Staff (Owner): Daniele Milan
+Type: Issue
+Status: Open
+Priority: Normal
+Template Group: Default
+Created: 07 August 2015 11:47 AM
+Updated: 07 August 2015 11:47 AM
+
+We no longer get email alerts when you guys respond to our questions on the new ticket system.  Can this be fixed (it is very nice to get emails).
+
+Staff CP:  <<link>>
+

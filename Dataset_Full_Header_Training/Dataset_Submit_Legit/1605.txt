@@ -1,0 +1,108 @@
+Received: from domain.com (146.215.230.105) by
+ domain.com (43.130.141.76) with Microsoft SMTP Server id
+ 8.3.297.1; Wed, 11 Dec 2015 07:13:09 -0800
+Received: from domain.com ([160.33.194.228])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id rBBFD8xW026787	for <user@domain.com>; Wed, 11 Dec 2015 
+ 15:13:08 GMT
+Received: from mail25-db9-domain.com
+ (mail-domain.com [213.199.154.242])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id rBBFD7Pb019077	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128
+ verify=FAIL)	for <user@domain.com>; Wed, 11 Dec 2015 15:13:08 GMT
+Received: from mail25-db9 (localhost [127.0.0.1])	by mail25-db9-domain.com
+ (Postfix) with ESMTP id EB2563603F4	for <user@domain.com>; Wed, 11
+ Dec 2015 15:13:06 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:207.254.213.218;KIP:(null);UIP:(null);SRV:BULK;H:domain.com;RD:domain.com;EFVD:NLI
+X-SpamScore: 3
+X-BigFish: vps3(zz103dKec9Ic857hfd3Icbnzz1f42h2148h208ch1ee6h1de0h1fdah2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6hzz1de098h17326ah172cdfh1def03h1def87h8275bh1bc7b9h8275dh1def86h19a27bh1de097h1de096h186068h1ce121i18b566iz2fheh5fh839h8aaha12hd25h1288h12a5h137ah13eah1441h1504h1537h153bh162dh1631h1758h18e1h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1fe8h1ff5h20f0h2216h2336h1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail25-db9: domain of domain.com designates 207.254.213.218 as permitted sender) client-ip=207.254.213.218; envelope-from=bounces+597282.83253598.625202@domain.com; helo=domain.com ;domain.com ;
+Received: from mail25-db9 (localhost.localdomain [127.0.0.1]) by mail25-db9
+ (MessageSwitch) id 1386774783521825_16152; Wed, 11 Dec 2015 15:13:03 +0000
+ (UTC)
+Received: from domain.com (unknown [10.174.16.247])	by
+ mail25-domain.com (Postfix) with ESMTP id 709024600BF	for
+ <user@domain.com>; Wed, 11 Dec 2015 15:13:03 +0000 (UTC)
+Received: from domain.com (207.254.213.218) by
+ domain.com (10.174.14.40) with Microsoft SMTP Server id
+ 14.16.227.3; Wed, 11 Dec 2015 15:13:02 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=default; d=domain.com;
+ h=Mime-Version:From: Julia Stamm <julia@breakingintohollywood.org>
+ bh=5YuIbbs/NNUExcoS8fs66zjjqoqb+lllRR2nvTu+Sv8=;
+ b=iQcwB3E59os6tqON+UVsN25bwpk4e3GkaI8GFo0zUQ4ZWQtBvoFj04W28QLihDqeIKjYQAjA3AE9
+   dakpuh3ldrfQTo6OpV3Pz6vJASjv92E/wqXliF12yYIWHzohJF79dB4OQtN/SDkMLsxjmkiUrTSW
+   MVFtIfYJ7jNA0evBPYU=
+From: Julia Stamm <julia@breakingintohollywood.org>
+To: <user@domain.com>
+Date: Wed, 11 Dec 2015 10:13:02 -0500
+Subject: Q&A with Tyler Perry Studios' Freelance Casting Director
+Errors-To: bounces+597282.83253598.625202@domain.com
+List-Unsubscribe: <<<link>>>, <mailto:bounces+597282.83253598.625202@domain.com>
+X-List-Unsubscribe: <<<link>>>
+X-Unsubscribe-Web: <<<link>>>
+X-Feedback-ID: 01_597282_625202:01_597282:01:vocus
+X-ICPINFO: 
+X-Return-Path-Hint: bounces+597282.83253598.625202@domain.com
+Message-ID: <0.1.user@domain.com>
+Return-Path: bounces+597282.83253598.625202@domain.com
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+Space is limited for our Saturday event on January 25th with Tyler Perry Studios' Freelance Casting Director.  RSVP info is below. You absolutely do not want to miss our speaker. Actors, start your year off right! Writers, Producers and Directors, come out and network with us!  Spread the word!
+
+
+
+NEXT BiH EVENTS: (Must Always RSVP in Advance!)
+
+Q&A with Tyler Perry Studios' Freelance Casting Director
+
+Saturday, January 25th from 12-3PM @ Westside Pavilion in Los Angeles
+
+$45 for Non-BiH Members; always FREE for BiH Members
+
+Who should attend? Actors, Producers, Writers and curious industry professionals
+
+To RSVP or for more info on the speaker's bio, domain.com www.breakingintohollywood.org/12514 
+
+
+
+
+  _____  
+
+Click on magazine cover image to check out our Winter 2015 issue of Hollywood & Vine.
+
+<<link>>
+
+
+
+To be removed from our email list, follow the iContact instructions at the very end of original email. Thanks! 
+
+
+
+
+Julia Stamm
+
+Events Assistant
+
+
+
+
+BReaKiNG iNTo HoLLyWooD (BiH)
+
+Hollywood & Vine (H&V)
+
+Hollywood & Vine Film Festival (HVFF)
+
+9595 Wilshire Blvd., 9th Floor
+
+Beverly Hills, CA 90212
+
+310.712.3459
+
+www.breakingintohollywood.org 
+
+domain.com
+

@@ -1,0 +1,73 @@
+Received: from domain.com ([fe80::755c:1705:6a98:dcff]) by
+ domain.com ([fe80::755c:1705:6a98:dcff%11]) with mapi id
+ 14.03.0123.003; Mon, 19 May 2015 15:51:47 +0200
+From: Emad Shehata <e.shehata@hackingteam.com>
+To: "User" <user@domain.com>,
+	"'user@domain.com'" <user@domain.com>, travel
+	<user@domain.com>
+Subject: R: Proof Of Concept - GENDARMERIA
+Thread-Topic: Proof Of Concept - GENDARMERIA
+Thread-Index: Ac9xCAbODO6X01pdSX6F4Y460JoU0wADRcdQAI5gEeAABrbQmA==
+Date: Mon, 19 May 2015 15:51:46 +0200
+Message-ID: <user@domain.com>
+In-Reply-To: <00ab01cf734e$e9fe8a90$bdfb9fb0$@user@domain.com>
+Accept-Language: it-IT, en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <user@domain.com>
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 03
+X-Originating-IP: [fe80::755c:1705:6a98:dcff]
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EMAD SHEHATA450
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1505733112_-_-"
+
+Ciao Antonella e ben ritrovata,
+In merito al volo, ho dei problemi sul rientro, in quanto ultimo treno per Firenze da Milano e' alle 20.00.
+Se riesci a trovare un diretto su firenze, allora non avrei problemi.
+Grazie
+
+--
+Emad Shehata
+Key Account Manager
+
+Sent from my mobile.
+
+
+
+Da: Antonella Capaldo [mailto:user@domain.com]
+Inviato: Monday, May 19, 2015 01:41 PM
+A: 'Emad Shehata' <user@domain.com>; travel
+Oggetto: R: Proof Of Concept - GENDARMERIA
+
+
+
+Ciao Emad, Di seguito i dettagli della tua richiesta: ** Volo Diretto **EASYJET MH5F72     totale per  2 pax 
+  1.1SHEHATAALYMOUSTAFA/EMAD                
+lun 26 maggio 2014
+Milano Malpensa-- Casablanca (Mohammed V) Par 18:05 - Arr 20:10 2 Adulti 2  mer 28 maggio 2014
+Casablanca (Mohammed V)-- Milano Malpensa Par 20:00 - Arr 23:55 2 Adulti 2  SHERATON CASABLANCA HOTEL  prezzo per persona 100 Avenue des F.A.R, P.O. BOX 7582Casablanca, 20000Morocco Phone 212522439494  Attendo tu o riscontro.Grazie milleCiao  Antonella CapaldoAdministrative Support Hacking Team
+Milan Singapore Washington DCwww.hackingteam.com
+email: user@domain.com:+39 3667216471
+phone: +39 0229060603    Da: Emad Shehata [mailto:user@domain.com] 
+Inviato: venerdì 16 maggio 2015 16:46
+A: 'travel'
+Oggetto: I: Proof Of Concept - GENDARMERIA Cari Sono con la presente a chiedervi disponibilità dei seguenti voli:  Commessa                         POC MAROCCOPax                                       2 ( io ed il FAE ancora da confermare)Andata                                Lunedì 26 Maggio 2014Ritorno                                Mercoledì 28 Maggio 2014Hotel:                                  Sheraton Casablanca Hotel & Towers100, Avenue des F.A.R.Casablanca, 20000 Marocco In gentile attesaSaluti  Da: Emad Shehata [mailto:user@domain.com] 
+Inviato: venerdì 16 maggio 2015 15:09
+A: 'Omar Guessous'
+Cc: 'Marco Bettini hacking team'
+Oggetto: POC: Proof Of Concept - GENDARMERIA Dear Omar, as per our calling, I would like to confirm you the POC activity.To allow us to going deeper; I’m kindly ask you the following: 1)      NDA signed form the END USER ( they can give us in the occasion of the POC), just anticipate it to them. 2)      We need a reference person that will be in touch with us to organize the proof of concept. Looking for your response Best regards   Emad Shehata
+Key Account Manager
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com
+mobile: +39 3357939078
+phone: +39 0229060603   

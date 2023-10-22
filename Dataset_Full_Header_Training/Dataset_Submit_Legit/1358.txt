@@ -1,0 +1,48 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Sun, 8 Feb 2015 08:40:36 +0100
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id A5483621D9	for
+ <user@domain.com>; Sun,  8 Feb 2015 07:19:49 +0000 (GMT)
+Received: by domain.com (Postfix)	id 992B1B6603E; Sun,  8 Feb 2015 
+ 08:40:36 +0100 (CET)
+Delivered-To: user@domain.com
+Received: from [172.16.1.1] (unknown [172.16.1.1])	(using TLSv1 with cipher
+ DHE-RSA-AES256-SHA (256/256 bits))	(No client certificate requested)	by
+ domain.com (Postfix) with ESMTPSA id 8B295B6600F;	Sun,  8 Feb 2015 
+ 08:40:36 +0100 (CET)
+Subject: Re: e-mail contact
+From: David Vincenzetti <d.vincenzetti@hackingteam.com>
+In-Reply-To: <user@domain.com>
+Date: Sun, 8 Feb 2015 08:40:36 +0100
+CC: Marco Bettini <user@domain.com>, Giancarlo Russo
+	<user@domain.com>
+Message-ID: <7user@domain.com>
+References: <user@domain.com>
+To: Emad Shehata <user@domain.com>
+X-Mailer: Apple Mail (2.2070.6)
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=DAVID VINCENZETTI7AA
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1252371169_-_-"
+
+OK.
+David
+
+-- 
+David Vincenzetti 
+CEO
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com 
+mobile: +39 3494403823 
+phone: +39 0229060603 
+

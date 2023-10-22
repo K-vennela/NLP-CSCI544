@@ -1,0 +1,111 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Mon, 23 May
+ 2015 00:06:25 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Mon, 23 May 2015 
+ 00:06:14 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 928861581;
+ Sun, 22 May 2015 23:06:23 -0500
+X-Note-AR-ScanTimeLocal: 5/22/2016 11:06:34 PM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Note-AR-Scan: None - PIPE
+Received: by domain.com (CommuniGate Pro PIPE 6.1.7)  with PIPE id
+ 142116289; Sun, 22 May 2015 23:06:34 -0500
+Received: from mail-vk0-domain.com ([209.85.213.53] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 142116279;
+ Sun, 22 May 2015 23:06:29 -0500
+Received: by mail-vk0-domain.com with SMTP id r140so30191572vkf.0;
+        Sun, 22 May 2015 21:06:19 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=content-transfer-encoding:From: <hrtsleeve@gmail.com>
+         :to;
+        bh=dQlRqDiLkVsT9Rb0zNeTQNZ87k6K9Epm9wTsw1lKw2I=;
+        b=B4wiXhWeRm1FfuSJLjg+xBreV9chZ1NTQ7/4C+hQr/4Qr69w56NnWsW1RMseZjzK9v
+         atT3KVKd0TGFFmFdiOehYskTc590UGLRLNkSF6NwliKIqEka1RT+5E4BlY71TUNTqkLP
+         u0i3DYW1D2RW4Z2BDQQDI5iGk5a/t07HTtiu/7j68TCWtnmGOxu7lNnEMMQADEiHIilB
+         +bdvqr3o9JxJXpeuMBkxYeTGigl4bk+J7lPZjcek5bUB8I5Z06yPQXI7qCu2ahMvrpdJ
+         GZpiwaiSAXBRoK0bqz5JgqJrbi/j8eii7m/76hxSakxak3/g6PGEv0pG8YAc6S52LJlo
+         ANyQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:content-transfer-encoding:From: <hrtsleeve@gmail.com>
+         :subject:message-id:to;
+        bh=dQlRqDiLkVsT9Rb0zNeTQNZ87k6K9Epm9wTsw1lKw2I=;
+        b=PrEA1svtU8wFTuSZSkBET/YO7k2SS55TXnLIywSV4etMJhfRNNkxdkoVC3MNiknqkK
+         3GKGXWC63W/tTBGy2+BmoOHsH6SsjD9y2gMJRGbFwdxt6y7QNFnBTJsYXOnfUpsp8ixs
+         eXEzOpnQzgG9t1kyRBzwHrOWTMBt3Krucf0gdAh4XS53ugVdUljYBChX5f/KUe73BsGw
+         SM+69K3U1nD4cucKHvY3JGA62So0pkJulqJgoln7GqP6Yr1rYly+Fa/PeDosAAvtWbPy
+         9qBrepXlGGrgVc8p/AUeIiQKY6itlEHxmUsCgPvA3IOhKz1nA+Gsyvb2bztjfbHAmlrL
+         Zecw==
+X-Gm-Message-State: AOPr4FXt61tvk8KmOerd0ZGCZ25dqTza0lmDJvbiG/5wmeVUA2958FuDo/2UV4jFkrVp9Q==
+X-Received: by 10.31.209.66 with SMTP id i63mr8542186vkg.21.1463976378697;
+        Sun, 22 May 2015 21:06:18 -0700 (PDT)
+Return-Path: <user@domain.com>
+Received: from [10.0.0.10] (c-73-204-55-181.domain.com.
+ [73.204.55.181])        by smtp.gmail.com with ESMTPSA id
+ 90sm343521uap.12.2016.05.22.21.06.16        (version=TLSv1/SSLv3
+ cipher=OTHER);        Sun, 22 May 2015 21:06:17 -0700 (PDT)
+Content-Type: multipart/mixed;
+	boundary="Apple-Mail-C199635D-6C41-4A5B-8AE0-9EEE64477FBC"
+Content-Transfer-Encoding: 7bit
+From: <hrtsleeve@gmail.com>
+Date: Mon, 23 May 2015 00:06:16 -0400
+Subject: Notes for DRAFT Platform Press Release (DWS)
+Message-ID: <user@domain.com>
+To: April Mellody <user@domain.com>, User
+	<user@domain.com>, Leah Daughtry <user@domain.com>, Tracie Pough
+	<user@domain.com>, Patrice Taylor <user@domain.com>, Hilary Rosen
+	<user@domain.com>
+X-Mailer: iPad Mail (13E238)
+X-Note-AR-ScanTimeLocal: 5/22/2016 11:06:30 PM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: user@domain.com ALLOWED
+X-Note: VCH-CT/SI:0-3936/SG:1 5/22/2016 11:05:34 PM
+X-Virus-Scan: V-X0H0M0
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->->United States->
+X-Note-Sending-IP: 209.85.213.53
+X-Note-Reverse-DNS: mail-vk0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Here it is with an domain.com and a question.=20
+
+Annotation Summary for: DRAFT Platform Press Release (DWS)
+
+Page 1, Typewriter (Red):
+  Comment: Question: Are we referencing me as the DNCC Chairwoman intention=
+ally in the first paragraph?
+
+Page 1, Line Drawing (Red)
+
+Page 1, Line Drawing (Red)
+
+Page 1, Line Drawing (Red)
+
+Page 1, Typewriter (Red):
+  Comment: appointed
+
+Page 1, Line Drawing (Red)
+
+--
+
+Marked up using iAnnotate PDF on my iPad
+

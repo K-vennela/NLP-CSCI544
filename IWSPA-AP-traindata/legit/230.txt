@@ -1,0 +1,85 @@
+<x-flowed>
+Dear All,
+Thanks very much for the helpful discussion on these issues.
+I write to make a point that may not be well 
+recognized regarding the character of the 
+temperature trends in the lowermost 
+stratosphere/upper troposphere.  I have already 
+discussed this with Ben but want to share with 
+others since I believe it is relevant to this 
+controversy at least at some altitudes.   The 
+question I want to raise is not related to the 
+very important dialogue on how to handle the 
+errors and the statistics, but rather how to 
+think about the models.
+The attached paper by Forster et al. appeared 
+recently in GRL.   It taught me something I 
+didn't realize, namely that ozone losses and 
+accompanying temperature trends at higher 
+altitudes can strongly affect lower altitudes, 
+through the influence of downwelling longwave. 
+There is now much evidence that ozone has 
+decreased significantly in the tropics near 70 
+mbar.    What we show in the attached paper by 
+Forster et al is that ozone depletion near 70 
+mbar affects temperatures not only at that level, 
+but also down to lower altitudes.  I think this 
+is bound to be important to the tropical 
+temperature trends at least in the 100-50 mbar 
+height range, possibly lower down as well, 
+depending upon the degree to which there is a 
+'substratosphere' that is more radiatively 
+influenced than the rest of the troposphere. 
+Whether it can have an influence as low as 200 
+mbar - I don't know.    But note that having an 
+influence could mean reducing the warming there, 
+not necessarily flipping it over to a net 
+cooling.    This 'long-distance' physics, whereby 
+ozone depletion and associated cooling up high 
+can affect the thermal structure lower down, is 
+not a point I had understood despite many years 
+of studying the problem so I thought it 
+worthwhile to point it out to you here.  It has 
+often been said (I probably said it myself five 
+years ago) that ozone losses and associated 
+cooling can't happen or aren't important in this 
+region - but that is wrong.
+Further, the fundamental point made in the paper 
+of Thompson and Solomon a few years back remains 
+worth noting, and is, I believe, now resolved in 
+the more recent Forster et al paper:   that the 
+broad structure of the temperature trends, with 
+quite large cooing in the lowermost stratosphere 
+in the tropics, comparable to that seen at higher 
+latitudes, is a feature NOT explained by e.g. CO2 
+cooling, but now can be explained by the observed 
+ozone losses.   Exactly how big the tropical 
+cooling is, and exactly how low down it goes, 
+remains open to quantitative question and 
+improvement of radiosonde datasets.  But I 
+believe the fundamental point we made in 2005 
+remains true:  the temperature trends in the 
+lower stratosphere in the tropics are, even with 
+corrections, quite comparable to that seen at 
+other latitudes.     We can now say it is surely 
+linked to the now-well-observed trends in ozone 
+there.     The new paper further shows that you 
+don't have to have ozone trends at 100 mbar to 
+have a cooling there, due to down-welling 
+longwave, possibly lower down still.      Whether 
+enhanced upwelling is a factor is a central 
+question.
+No global general circulation model can possibly 
+be expected to simulate this correctly unless it 
+has interactive ozone, or prescribes an observed 
+tropical ozone trend.   The AR4 models did not 
+include this, and any 'discrepancies' are not 
+relevant at all to the issue of the fidelity of 
+those models for global warming.    So in closing 
+let me just say that just how low down this 
+effect goes needs more study, but that it does 
+happen and is relevant to the key problem of 
+tropical temperature trends is one that I hope 
+this email has clarified.
+Happy new year,
+Susan

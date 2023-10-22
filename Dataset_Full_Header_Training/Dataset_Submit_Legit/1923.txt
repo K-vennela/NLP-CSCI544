@@ -1,0 +1,102 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Thu, 12 May
+ 2015 11:44:31 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Thu, 12 May 2015 
+ 11:44:27 -0400
+Received: from [10.87.0.110] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 911530360
+ for user@domain.com; Thu, 12 May 2015 10:44:34 -0500
+X-Note-AR-ScanTimeLocal: 5/12/2016 10:44:28 AM
+X-Policy: domain.com
+X-Note-AR-Scan: None - PIPE
+Received: by domain.com (CommuniGate Pro PIPE 6.1.7)  with PIPE id
+ 141467488; Thu, 12 May 2015 10:44:26 -0500
+Received: from [209.85.220.179] (HELO mail-qk0-domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 141467447
+ for user@domain.com; Thu, 12 May 2015 10:44:21 -0500
+Received: by mail-qk0-domain.com with SMTP id r184so45402369qkc.1
+        for <user@domain.com>; Thu, 12 May 2015 08:44:21 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:From: Constantine Contogenis <ccontogenis@gmail.com>
+        bh=Bt5YbrZG39gp31xAGT7ufBYv5kgqaLACeoqB4CZUC6Q=;
+        b=tg3RlJd7Zk6fdn4lHfOPIQn9X8w36sQg4B6AmffrRK3rmbzXv48L+sR+e5mGYyDprs
+         v5UpqQj5YVRcSZiI3zh102THOzpykv9kjdQIk6qKP8oxuW7lhfIQO8SzK/L3vw470lny
+         Ha048LsDOiMnaofump4ISucp3UiTDlny7kG8g38Ee+FafakN/kQiyKGt8yQZD8h/tJhN
+         x5Ib5XTPIg3/Buj+bt/RrZm/IPnkQHqKVkmKF+ODbTYrINjtkSFye1jIgOdTWf3Sovrx
+         IQfk8DNdEQyrNTDigedbit32RcSveb3K9n9Yss3Dnt/LFw5B4OeMrxuaGccHdrp8Wrv0
+         utig==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:date:message-id:subject:From: Constantine Contogenis <ccontogenis@gmail.com>
+        bh=Bt5YbrZG39gp31xAGT7ufBYv5kgqaLACeoqB4CZUC6Q=;
+        b=kTXemBd8onndJbj3SbsnoIOZRP4dJZbXMShNhjK/oGWzJ/+LP1g44lMI/WXBuPQPcD
+         B8E4UZ1AT/KRAAjVwDRic16/Fxd8ad7WV4ZflIrVUq7R4FDE/GCLwC34DKnd2RzNUcpP
+         En6tlPi7Otk0bqwU8IyhjAVSv8jDkExhiGepz3o28cokeTiwjg2d6VhMTJhDu9j1OfLl
+         cORMOrt7xFTjhbOC88/aRFWeqI88Fp3aw5SukZQPbEOfH3+S0B/AY4ZRrk219IsSnY2B
+         hW+7ab6WzuvmY8qBwQl23fHFP56t5wncvgro28rHRG24kaRay8n9Bj9WMeD9m+SBveqt
+         65xA==
+X-Gm-Message-State: AOPr4FVgdF/7JL38ngfJjnuFQSps1fiKIz9VGw8udCR+r7shztrOzmtAXTUmvukucQE0B9IFFcUd6yK2kCcnDw==
+X-Received: by 10.55.102.7 with SMTP id a7mr10881498qkc.69.1463067860822; Thu,
+ 12 May 2015 08:44:20 -0700 (PDT)
+Received: by 10.233.221.134 with HTTP; Thu, 12 May 2015 08:44:20 -0700 (PDT)
+Date: Thu, 12 May 2015 11:44:20 -0400
+Message-ID: <user@domain.com>
+Subject: Resume: Writer: Advocacy/Fundraising
+From: Constantine Contogenis <ccontogenis@gmail.com>
+To: <user@domain.com>
+Content-Type: multipart/mixed; boundary="94eb2c0562e82094940532a7080b"
+X-Note-AR-ScanTimeLocal: 5/12/2016 10:44:23 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Note: VCH-CT/SI:0-3905/SG:1 5/12/2016 10:43:35 AM
+X-Virus-Scan: V-X0H0M0
+X-Note: SPF: IP:209.85.220.179 DOM:gmail.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note: ICH-CT/SI:0-779/SG:1 5/12/2016 10:43:35 AM
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-272/SG:8 5/12/2016 10:43:36 AM
+X-GBUdb-Analysis: 0, 209.85.220.179, Ugly c=0.797991 p=-0.984395 Source White
+X-Signature-Violations: 0-0-0-32767-c
+X-Note-419: 15.6226 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/12/2016 10:44:21 AM
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 209.85.220.179
+X-Note-Reverse-DNS: mail-qk0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G407 G483 G675 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Jordan Kaplan, National Finance Director, DNC
+
+Dear Mr. Kaplan,
+
+I am a freelance writer/consultant, offering my attached resume for your
+consideration.  I've planned and executed hundreds of fundraising campaigns
+for domain.com, advocacy, and political organizations =E2=80=93 via direct m=
+ail,
+online marketing, and websites.
+
+For 10 years, I was Copy Director at the Sanky Perlowin agency.  I've
+written for former Senator Clinton's re-election, DNC, DCCC, DGA, Lincoln
+Center for the Performing Arts, American Farmland Trust, Catholic
+Charities, CancerCare, Fresh Air Fund, Special Olympics, Food Bank NY,
+Greenpeace USA, PETA, and New York Restoration Project.
+
+If you are interested, I'd be happy to discuss how I could be useful to the
+Organizationas a freelance writer.  At your request, I will send you samples of my
+work.
+
+Sincerely,
+Constantine Contogenis

@@ -1,0 +1,209 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Fri, 13 May
+ 2015 12:30:10 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Fri, 13 May 2015 
+ 12:30:07 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 913912994
+ for user@domain.com; Fri, 13 May 2015 11:30:15 -0500
+X-Note-AR-ScanTimeLocal: 5/13/2016 11:30:09 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @hillaryclinton.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->->->->United States->
+X-Note-Sending-IP: 209.85.223.197
+X-Note-Reverse-DNS: mail-io0-domain.com
+X-Note-Return-Path: nationalpress2016+user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mail-io0-domain.com ([209.85.223.197] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 138460876
+ for user@domain.com; Fri, 13 May 2015 11:30:09 -0500
+Received: by mail-io0-domain.com with SMTP id d62sf221874047iof.1
+        for <user@domain.com>; Fri, 13 May 2015 09:30:09 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=hillaryclinton.com; s=google;
+        h=mime-version:From: Hillary for America Press <Press@hillaryclinton.com>
+         :x-original-authentication-results:precedence:mailing-list:list-id
+         :x-spam-checked-in-group:list-post:list-help:list-archive
+         :list-unsubscribe;
+        bh=3py5fSwR/FKje58TWi2Y0yxhIYg6IR6HOQGk92yTarE=;
+        b=SRKth1Pn2zqweoaah/1SrXrnkI4SLRptMma9o6inn0bge2pytCy6bKwkVnT41JjM7K
+         rjkkwvgIHFeBji1ftcFPaKuF4Ze0yglf32x5bvEHZjd7EtJZBdD+/GSoSmwd8JwQylXv
+         Hxf4LGtgUO4v6VSc4mA4plhE6pyAzZV/hSFGU=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:From: Hillary for America Press <Press@hillaryclinton.com>
+         :x-original-sender:x-original-authentication-results:precedence
+         :mailing-list:list-id:x-spam-checked-in-group:list-post:list-help
+         :list-archive:list-unsubscribe;
+        bh=3py5fSwR/FKje58TWi2Y0yxhIYg6IR6HOQGk92yTarE=;
+        b=bvPusARm9SVuRbeu9IF4QS3tI0ba/Y9n3fdkVOvzj/d9Yeo+/qqwudY/ay07WYf5fe
+         ZlX+wOlphAvKoTpLWdJKh9vYvH24GTbIEcqYis5BgVSzPi6+dEBtVPOYQZb2ANIVUnea
+         KaoveT5lDcQbfGmCwtzBQTF/QkFJ4Z4Z15PJjQTsISQYVyrcdxG+QQ+RVE2I6ncgNIwo
+         PaZI85ZPwCyn0QxDZJcwi6QxKeFo0Mt+aojyZmTBs3bZeaiZhF4fIBdgefri/lqTl4uI
+         zae22Tzm82EZ8lHigzcIefi3lCNUC075eY9sQOhyRSFsjA6OpUra0OJr2bZ8uTGIS7rH
+         +Crw==
+X-Gm-Message-State: AOPr4FUiTSSdSUc/2Gds7f0Yzia1eBECHLrTsCNpLNsLgu6WINZtXHwZYgZbuI3BtrdVU8w3
+X-Received: by 10.36.26.148 with SMTP id 142mr2499194iti.6.1463157009096;
+        Fri, 13 May 2015 09:30:09 -0700 (PDT)
+X-BeenThere: user@domain.com
+Received: by 10.107.137.19 with SMTP id l19ls995724iod.1.gmail; Fri, 13 May
+ 2015 09:30:06 -0700 (PDT)
+X-Received: by 10.50.1.105 with SMTP id 9mr1350305igl.1.1463157006567;
+        Fri, 13 May 2015 09:30:06 -0700 (PDT)
+Received: from mail-ig0-domain.com (mail-ig0-domain.com.
+ [2607:f8b0:4001:c05::233])        by domain.com with ESMTPS id
+ m33si17002256ioi.125.2016.05.13.09.30.06        for
+ <user@domain.com>        (version=TLS1_2
+ cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);        Fri, 13 May 2015 
+ 09:30:06 -0700 (PDT)
+Received-SPF: pass (domain.com: domain of user@domain.com designates 2607:f8b0:4001:c05::233 as permitted sender) client-ip=2607:f8b0:4001:c05::233;
+Received: by mail-ig0-domain.com with SMTP id bi2so15433447igb.0
+        for <user@domain.com>; Fri, 13 May 2015 09:30:06
+ -0700 (PDT)
+X-Received: by 10.50.221.67 with SMTP id qc3mr1358711igc.36.1463157006161;
+ Fri, 13 May 2015 09:30:06 -0700 (PDT)
+Received: by 10.79.138.198 with HTTP; Fri, 13 May 2015 09:29:26 -0700 (PDT)
+From: Hillary for America Press <Press@hillaryclinton.com>
+Date: Fri, 13 May 2015 12:29:26 -0400
+Message-ID: <CA+QwVzZ4Bp00FNE=QA_H5uqYkwm56t6nb4hNnMWoyT+user@domain.com>
+Subject: What Else in Donald Trump's Tax Returns Does He Think Is "None of
+ Your Business"?
+To: Hillary for America Press <user@domain.com>
+Content-Type: multipart/related; boundary="001a11343b789b108c0532bbc9a8"
+BCC: <user@domain.com>
+X-Original-Sender: user@domain.com
+X-Original-Authentication-Results: domain.com;       dkim=pass
+ user@domain.com;       spf=pass (domain.com: domain of
+ user@domain.com designates 2607:f8b0:4001:c05::233 as permitted
+ sender) user@domain.com;       dmarc=pass
+ (p=QUARANTINE dis=NONE) header.from=hillaryclinton.com
+Precedence: list
+Mailing-list: list user@domain.com; contact nationalpress2016+user@domain.com
+List-ID: <nationalpress2016.hillaryclinton.com>
+X-Spam-Checked-In-Group: user@domain.com
+X-Google-Group-Id: 5632930410
+List-Post: <<<link>>>,
+ <mailto:user@domain.com>
+List-Help: <<<link>>>,
+ <mailto:nationalpress2016+user@domain.com>
+List-Archive: <<<link>>>
+List-Unsubscribe: <mailto:googlegroups-manage+5632930410+user@domain.com>,
+ <<<link>>>
+Return-Path: nationalpress2016+user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+*=E2=80=8B*
+
+*What Else in Donald Trump's Tax Returns Does He Think Is "None of Your
+Business"?*
+
+When asked on Good Morning America
+<<<link>>
+ss/story?id=3D39086788>
+this morning what tax rate he pays, Donald Trump responded "it's none of
+your business." If his tax rate is none of our business, what else in his
+tax returns does Trump think is none of the voters' business? Donald Trump
+has repeatedly refused to release his tax returns because he claims he's
+under domain.com. Unfortunately for Trump, the IRS has explicitly said
+<<<link>>
+eleasing-tax-returns>
+that excuse is bogus. It's time for Donald Trump to release his full tax
+returns and stop hiding the truth from voters.
+"Our country has a long history of presidential candidates releasing their
+full tax returns and for good reason. Voters deserve to know what's in
+Donald Trump's returns - how exactly he makes his money and what he does
+with it. Enough is enough. We know he=E2=80=99s done his best to avoid payi=
+ng his
+fair share of taxes. What else is he hiding in those tax returns?" said
+Hillary for America Deputy Communications Director Christina Reynolds.
+
+*But don't just take our word for it:*
+
+*New York Daily News: Donald Trump could be hiding his true net worth or
+that he skirts taxes by not coughing up returns
+<<<link>>
+olds-tax-returns-article-1.2635313>Atlantic:
+What Is Trump Trying to Hide in His Tax Returns?
+<<<link>>
+o-hide-in-his-tax-returns/482253/>*
+
+*Fortune: Here's What Might Be Hiding in Donald Trump's Tax Returns
+<<<link>>>*
+
+*TIME: The =E2=80=98Bombshells=E2=80=99 That Could Be in Trump=E2=80=99s Ta=
+xes
+<<<link>>>*
+
+*CBS News: 5 ways Donald Trump's tax returns could spook voters
+<<<link>>
+oters/>*
+*Washington Post: Trump=E2=80=99s false claim that =E2=80=98there=E2=80=99s=
+ nothing to learn=E2=80=99 from
+his tax returns
+<<<link>>
+e-claim-that-theres-nothing-to-learn-from-his-tax-returns/>*
+
+*Associated Press: What's in Trump's returns? A look at how he plays tax
+game
+<<<link>>:publicid:domain.com:63fb819c279a452ba7082ddad284874=
+8>*
+
+*Bloomberg: I Saw Trump's Tax Returns. You Should, Too.
+<<<link>>
+o-release-his-tax-returns>*
+
+*New York Times: What We Can Learn From Donald Trump=E2=80=99s Unreleased T=
+ax
+Returns
+<<<link>>
+mps-unreleased-tax-returns.html>*
+
+*Chicago Sun Times: Top five reasons Donald Trump should cough up his tax
+returns
+<<<link>>
+ough-up-his-tax-returns/>*
+
+*Market Watch: Opinion: =E2=80=98Dodging Donald=E2=80=99 Trump has no good =
+reason to
+withhold his tax returns
+<<<link>>
+ald-trump-to-withhold-his-tax-returns-2016-05-11>*
+
+*domain.com: Mitt Romney calls Donald Trump=E2=80=99s refusal to release ta=
+x
+returns =E2=80=98disqualifying,=E2=80=99 again speculates of =E2=80=98bombs=
+hell=E2=80=99
+<<<link>>
+umps-refusal-release-tax-returns-disqualifying>*
+
+*Citizens for Tax Justice: Why Donald Trump May Be Hiding His Tax Returns
+<<<link>>
+ng.php#.VzXRfD9fuRs>*
+###
+
+For Immediate Release, May 13, 2015 
+Contact: user@domain.com
+
+PAID FOR BY HILLARY FOR AMERICA
+Contributions or gifts to Hillary for America are not tax deductible.
+Hillary for America, PO Box 5256, New York
+
+--=20
+You received this message because you are subscribed to the Google Groups "=
+NationalPress2016" group.
+To unsubscribe from this group and stop receiving emails from it, send an e=
+mail to nationalpress2016+user@domain.com

@@ -1,0 +1,101 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 18 May
+ 2015 09:19:08 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 18 May 2015 
+ 09:19:07 -0400
+Received: from [10.87.0.110] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 921429279;
+ Wed, 18 May 2015 08:19:16 -0500
+X-Note-AR-ScanTimeLocal: 5/18/2016 8:19:07 AM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: user@domain.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->->United States->
+X-Note-Sending-IP: 209.85.192.45
+X-Note-Reverse-DNS: mail-qg0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from [209.85.192.45] (HELO mail-qg0-domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 142466898;
+ Wed, 18 May 2015 08:19:07 -0500
+Received: by mail-qg0-domain.com with SMTP id w36so25192314qge.3;
+        Wed, 18 May 2015 06:19:07 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=content-transfer-encoding:From: <hrtsleeve@gmail.com>
+         :to:cc;
+        bh=iFx3Hy2zihEo8B1r7TxnObh6F4h2LAHLhyIp1jVbfVM=;
+        b=qcf1Qo2sOMJMml8zK5xLRD8+icMUwX+TSgDfY76jPgkkjuSeXVwFjUgxtxSx55UDm+
+         Wf4/R0KMTwf0FIsAQSTNtLslf5+mXDLMa94kKRHYsZr06bqM36YV44viD0J6xkkK0fyB
+         xvba/S/OkaG8JUsjFt3pxN/MvtflgDeXv/ZVQ1qOSSHbE8510UDyuBWGbygq1oK6KfQz
+         ZUppp+QaEVtIoWBhdCY3S8gQ/Asm6GTIPrrEgesPk5gi6xgqtX2Fq9pCbsz5UNJp6ZtN
+         RPcFqvgzyd1giOKF9+8TzwHxZpWFxRn4NJmqoJu5Xwwejh6w0+RWBnRzXRylPWnGodn0
+         TU1w==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:content-transfer-encoding:From: <hrtsleeve@gmail.com>
+         :subject:message-id:date:to:cc;
+        bh=iFx3Hy2zihEo8B1r7TxnObh6F4h2LAHLhyIp1jVbfVM=;
+        b=iXxiUw5CZhd34lZ1b3MRDuG4iw9sq/TFw9itJmaT1tvABk1FvS4qfBb+DaMdmkWRxM
+         8yrvbkj4y5TAOO5f9yhtb+bu7it2NvjSFP1xieDfsnbCJr10h6CIpu8qO3ui7pJVqt+O
+         5VkcUxXFxTpdV+qfUJdFcBIvM/njlT2JhjEp8iqtH1vNKZyV+BIvEoKwkwyfYz6XKFp2
+         DLik7tijcs0FiDgEN5gbhhK9Eh4CugfsWFvp8Et0L5yDBupCtqnyfSV50sNWMYWgR4A3
+         otWGAc+uCtZIdQXo5ER83K2P4qctkzwgd/r61KOvyf9sP1hwdbytnEwjpcT+jhK89DhM
+         twmA==
+X-Gm-Message-State: AOPr4FXG22Usp/1MyVmdi84pFX6rKMWaWjOwakfh+4jgp0TUd37Z487GqKlYcVXBvsAF/Q==
+X-Received: by 10.140.41.200 with SMTP id z66mr7330195qgz.20.1463577547202;
+        Wed, 18 May 2015 06:19:07 -0700 (PDT)
+Return-Path: <user@domain.com>
+Received: from [10.166.23.249] ([166.170.29.214])        by smtp.gmail.com
+ with ESMTPSA id d31sm4103221qgd.44.2016.05.18.06.19.06
+        (version=TLSv1/SSLv3 cipher=OTHER);        Wed, 18 May 2015 06:19:06
+ -0700 (PDT)
+Content-Transfer-Encoding: 7bit
+Content-Type: multipart/alternative;
+	boundary="Apple-Mail-2E681918-4738-4176-881C-0F380BF7BEE0"
+From: <hrtsleeve@gmail.com>
+Subject: Chuck, this must stop
+Message-ID: <user@domain.com>
+Date: Wed, 18 May 2015 09:19:05 -0400
+To: Chuck Todd <user@domain.com>
+CC: User <user@domain.com>
+X-Mailer: iPad Mail (13E238)
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Chuck, see below.  I would like to discuss this with you today. Can you reac=
+h out to User to schedule a call? Thanks.=20
+DWS
+
+=80=99 Dem Primary =E2=80=98Has Been Unfair=E2=80=99 To Sanders
+
+rzezinski called for OrganizationChair Representative Debbie Wasserman Schultz (D-FL=
+) to =E2=80=9Cstep down=E2=80=9D over her handling of this year=E2=80=99s De=
+mocratic presidential primary.
+
+as been very poorly handled from the start. Ot has been unfair, and they hav=
+en=E2=80=99t taken him seriously, and it starts, quite frankly, with the per=
+son that we just heard speaking. It just does.=E2=80=9D
+
+=9D
+
+h wondered why Sanders would =E2=80=9Cget in line=E2=80=9D for the Democrati=
+c Party, given that they =E2=80=9Crigged the entire thing,=E2=80=9D and that=
+ if he was in Sanders=E2=80=99 position, =E2=80=9CI=E2=80=99d say, =E2=80=98=
+Go straight to hell, I=E2=80=99m running as an independent.'=E2=80=9D
+
+DWS=

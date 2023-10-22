@@ -1,0 +1,43 @@
+Return-Path: <user@domain.com>
+Reply-To: <user@domain.com>
+From: "HT Srl" <support@hackingteam.com>
+To: <user@domain.com>
+Subject: [!SVZ-997-73103]: Assignment - Da scout a Backdoor
+Date: Fri, 18 Jan 2015 11:38:59 +0200
+Message-ID: <1358501939.50user@domain.com>
+X-Mailer: Microsoft Outlook 15.0
+Thread-Index: AQIEbSVJdZt2dTpvbtnsAwL5eXD2Jg==
+X-OlkEid: 000000007D2091DA92D3914ABB4C05769578F4790700A96A85A9D2A04643865EB2097E3CF3A30000000002080000A96A85A9D2A04643865EB2097E3CF3A300000000702E0000E363E316672FF14F85B982E9F7AA1C8F
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-615933390_-_-"
+
+Guido Landi updated #SVZ-997-73103
+
+----------------------------------
+
+Staff (Owner): Guido Landi (was: Bruno Muschitiello)
+
+Da scout a Backdoor
+
+-------------------
+
+Ticket ID: SVZ-997-73103
+URL: <<link>>
+Full Name: Salvatore Macchiarella
+Email: user@domain.com
+Creator: User
+Department: General
+Staff (Owner): Guido Landi
+Type: Bug
+Status: In Progress
+Priority: High
+Template Group: Default
+Created: 04 December 2015 07:17 AM
+Updated: 16 January 2015 05:29 PM
+
+Collector 14/01/2013
+
+Staff CP:  <<link>>
+

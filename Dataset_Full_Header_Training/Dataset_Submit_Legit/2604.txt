@@ -1,0 +1,42 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from htdba0c9969511 (unknown [192.168.1.162])
+	(using TLSv1 with cipher RC4-MD5 (128/128 bits))
+	(No client certificate requested)
+	by mail.hackingteam.it (Postfix) with ESMTPSA id F3228B66002
+	for <user@domain.com>; Mon, 30 Nov 2015 10:48:50 +0100 (CET)
+From: "Alessandro Lomonaco" <a.lomonaco@hackingteam.it>
+To: "User" <user@domain.com>
+Subject: Rif DIGI per VIttoira
+Date: Mon, 30 Nov 2015 10:55:53 +0100
+Message-ID: <000801ca71a3$4e24c140$ea6e43c0$@user@domain.com>
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: Acpxo01eqq+FH3eGTJOBIy/8tRivfg==
+Content-Language: it
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-627993328_-_-"
+
+user@domain.com
+349-2478944
+
+Alessandro Lomonaco
+Key Account Manager
+
+HT srl
+Via Moscova, 13 I-20121 Milan, Italy
+<<link>>
+Phone +39 02 29060603
+Fax. +39 02 63118946
+Mobile: +39 3480115641
+
+This message is a PRIVATE communication. This message contains privileged
+and confidential information intended only for the use of the addressee(s).
+If you are not the intended recipient, you are hereby notified that any
+dissemination, disclosure, copying, distribution or use of the information
+contained in this message is strictly prohibited. If you received this email
+in error or without authorization, please notify the sender of the delivery
+error by replying to this message, and then delete it from your system
+

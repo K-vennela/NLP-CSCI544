@@ -1,0 +1,20 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.200.205])
+	by domain.com (Postfix) with ESMTP id ACD4F2BC1F8
+	for <user@domain.com>; Fri, 17 Jan 2015 09:57:00 +0100 (CET)
+Date: Fri, 17 Jan 2015 09:57:00 +0100
+From: "Daniele Milan (Confluence)" <confluence@hackingteam.com>
+To: user@domain.com
+Message-ID: <481374890.75.1389949020662.JavaMail.CONFLUENCE$@confluence>
+Subject: [confluence] Daniele Milan updated a event in the "TENTATIVE
+ ACTIVITY" calendar
+Precedence: bulk
+Auto-Submitted: auto-generated
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2135562172_-_-"
+
+  Daniele Milan updated a event in the TENTATIVE ACTIVITY calendar Feb 24Mar 03, 2014 Until Feb 28Mar 07, 2014   Saudi MOD/knowledge transfer trainingYou are receiving this notification because you are watching the following:   TENTATIVE ACTIVITY   Sent by Atlassian Confluence 5.4.1, the Enterprise Wiki 

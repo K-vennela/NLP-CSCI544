@@ -1,0 +1,51 @@
+From: "Deadline.com" <alerts@deadline.com>
+To: "User"
+Subject: [domain.com] 'Sunday Night Football' Ratings Even, 'Bob's Burgers' Up In 'Mulaney' Slot, 'Once Upon A Time' Steady
+Date: Mon, 17 Nov 2015 12:37:02 -0500
+Message-ID: <20141117173702.3355002.3085@domain.com>
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQEj07Lxq4DQv23ObnY+8e8IJoPsAA==
+Content-Language: en-us
+x-ms-exchange-organization-authsource: domain.com
+x-ms-exchange-organization-authmechanism: 10
+x-ms-exchange-organization-authas: Internal
+List-Unsubscribe: <<<link>>>, <mailto:user@domain.com>
+x-forefront-antispam-report: CIP:64.34.57.227;CTRY:US;SRV:BULK;EFV:NLI;SFV:NSPM;SFS:(438002)(18804003)(199003)(189002)(19580405001)(89996001)(110486001)(4396001)(50986999)(15975445006)(2351001)(18926405002)(36756003)(31966008)(107886001)(107046002)(88136002)(92726001)(104766002)(44976005)(102836001)(15202345003)(62966003)(575784001)(71186001)(2361001)(15187005004)(45846002)(19300405004)(92566001)(104166001)(87836001)(180100001)(110136001)(95736001)(77096003)(229853001)(77156002)(106896001)(21056001)(19617315012)(450100001)(20776003)(88526003)(19618635001)(956001)(87286001)(120916001)(22186001)(18206015028)(19580395003)(46102003)(93916002)(106466001)(50226001)(47976999)(84326002)(146001)(99396003)(7099021)(24686002)(7059030)(94166001)(562404015)(15398625002)(17308445002)(85226002)(342395003)(19623405001);DIR:INB;SFP:;SCL:1;SRVR:BN1BFFO11HUB064;H:mx-domain.com;FPR:;MLV:ovr;PTR:mx-domain.com;A:1;MX:3;LANG:en;
+received-spf: Pass (domain.com: domain of domain.com designates 64.34.57.227 as permitted sender) receiver=domain.com; client-ip=64.34.57.227; helo=mx-domain.com;
+dkim-signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1416245822;	s=sailthru; d=deadline.com;	h=Date:From: "Deadline.com" <alerts@deadline.com>
+x-microsoft-antispam: BCL:6;PCL:0;RULEID:(82001)(120001);SRVR:BN1BFFO11HUB064;
+x-eopattributedmessage: 0
+authentication-results: spf=pass (sender IP is 64.34.57.227) user@domain.com; 
+x-exchange-antispam-report-test: UriScan:;
+x-unsubscribe-web: <<link>>
+x-rpcampaign: stdgp3355002
+x-iadb-url: <<link>>
+x-tm-id: 20141117173702.3355002.3085
+x-iadb-ip-reverse: 2.56.18.172
+x-iadb-ip: 172.18.56.2
+x-info: user@domain.com
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+Nellie Andreeva's TV Ratings Alert:
+
+'Sunday Night Football' Ratings Even, 'Bob's Burgers' Up In 'Mulaney' Slot, 'Once Upon A Time' Steady
+
+Lopsided games are almost becoming a primetime tradition this NFL season and it was no different last night. Another Sunday Night Football (6.2/16) and another blowout. Week 11 saw Tom Brady, Jonas Gray and the New England Patriots thrash the Indianapolis Colts 42-20 in the latter's own home stadium. However, unlike the Colts, NBC and the NFL will be pleased with the results. Fast nationals to fas Read more...
+
+TV Rating Stats:
+
+Recent
+
+This email was sent to user@domain.com by Deadline. To ensure delivery to your inbox (and not your spam folder), please add user@domain.com to your address book. If you prefer not to continue receiving email communications, please unsubscribe here instead of replying to this email.
+
+To update your profile and customize what email alerts and newsletters you receive, please click here.
+
+Having trouble reading this email? View the web version here.
+
+Copyright © 2014 PMC, All rights reserved.
+
+1​1​1​7​5 Santa Monica Blvd. Los Angeles, CA 9​0​0​2​5
+

@@ -1,0 +1,85 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Thu, 19 May
+ 2015 12:32:49 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Thu, 19 May 2015 
+ 12:32:46 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 924389728;
+ Thu, 19 May 2015 11:32:57 -0500
+X-Note-AR-ScanTimeLocal: 5/19/2016 11:32:48 AM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: user@domain.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->->United States->
+X-Note-Sending-IP: 209.85.220.179
+X-Note-Reverse-DNS: mail-qk0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mail-qk0-domain.com ([209.85.220.179] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 139541041;
+ Thu, 19 May 2015 11:32:48 -0500
+Received: by mail-qk0-domain.com with SMTP id y126so15857010qke.1;
+        Thu, 19 May 2015 09:32:48 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:subject:From: <hrtsleeve@gmail.com>
+         :content-transfer-encoding:message-id:references:to;
+        bh=1fw4rCihQnerW2yXDrZKiWnpb7SQfzaBRLG7im1SQdY=;
+        b=sGgmiiaBF7BoyxZfioN3msNU97dCP3Rn4wwVk7Ort3k9sHPtpmDmKO5PS6jSt3AWZ/
+         CGhWG9qvwMqX/6MAThm0hoCJ52s/qS5XqvE4vb7l6EsgSN+2+fsXuPgl0bJKJ+K50fHz
+         JEIKbW7Agj2h37ifeFWjjaieOlNivreD3HX4NV7cCYobMb8u606YycHlVrYBc+gcAegX
+         IglQMvr6G5fEmnQjqwEqPeCyyfn317UzStl8/bzFwHsSfB3SKtB7dYpgrg374DXor9Eq
+         3ssydqtXSef9TdYs/CttXAYr3V8LKAloXJykWrjkKOat0LzXitIS5SqFNV++Ul3PRH14
+         HwKw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:subject:From: <hrtsleeve@gmail.com>
+         :content-transfer-encoding:message-id:references:to;
+        bh=1fw4rCihQnerW2yXDrZKiWnpb7SQfzaBRLG7im1SQdY=;
+        b=OjCDqs9HDjxaSy8MCsRDMUH8EDWsvf6+L1813fomrkJbH3DTEL9JExKHaXIa0NLjVJ
+         /WVmjqui2uGiWfCCbWB9lmmOAmL80x9wg/pQFge+ltG97Q32dTn/FSv8jpdlRYbwt6OX
+         RxxQL5u9ryLQ9tvmdyhdrpZOO750wHkL0I3/OlP1UFA6u3lHssNy/HU0dkRdqiP9i71o
+         hDlyVlm/t+Fuua77phr19qNgi++xW5CVyzg+0IbUKWfXBfYJlgH0VnE1l2EQrrWKLAMa
+         YJLP/35rz2trwIIePzpuh3pOY2iMHsKyUssGLmGu6Fmst7sk0Wwsk4GTX4meFGyT4/ql
+         0c+w==
+X-Gm-Message-State: AOPr4FV7s8glHrlnT/aMnB9ycnV1xssPi+rBbJKZV/16aZFKdruWvfoWxKVT9AKS7OGrmA==
+X-Received: by 10.55.74.14 with SMTP id x14mr16080330qka.70.1463675568197;
+        Thu, 19 May 2015 09:32:48 -0700 (PDT)
+Return-Path: <user@domain.com>
+Received: from [10.132.133.8] ([166.170.33.41])        by smtp.gmail.com with
+ ESMTPSA id q19sm6901895qhb.20.2016.05.19.09.32.47        (version=TLSv1/SSLv3
+ cipher=OTHER);        Thu, 19 May 2015 09:32:47 -0700 (PDT)
+Content-Type: multipart/alternative;
+	boundary="Apple-Mail-2AF9D392-6D12-4A2E-9444-5E0AC1CB2343"
+Subject: Re: INTERVIEW REQUEST: FACE THE NATION
+From: <hrtsleeve@gmail.com>
+X-Mailer: iPad Mail (13E238)
+In-Reply-To: <user@domain.com>
+Date: Thu, 19 May 2015 12:32:46 -0400
+CC: "Banfill, Ryan" <user@domain.com>, "User" <user@domain.com>,
+	"P. Aikowsky" <user@domain.com>
+Content-Transfer-Encoding: 7bit
+Message-ID: <014585user@domain.com>
+References: <0633user@domain.com> <79user@domain.com> <user@domain.com> <0633user@domain.com> <user@domain.com>
+To: Tracie Pough <user@domain.com>
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Please see my previous response and reply using that email.=20
+
+DWS
+

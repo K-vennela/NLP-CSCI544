@@ -1,0 +1,42 @@
+Dear Mike,
+Regarding my last mesage,
+In case you wonder about my background, I have attached a 2-page version of
+my CV, in rich-text format, file bjhmcv2.rtf
+My experience, ranging from laboratory work with CO2 fluxes and marine
+algae, through to organising events at the UN climate negotiations, combined
+with a strong mathematical and linguistic background, is a somewhat unusual
+combination which perhaps makes me more a "jack of all trades" than a
+specialist. On the other hand, this has given me an interdisciplinary
+overview which may be valuable for bridging the gap between science and
+policy, appreciating dilemmas and uncertainties, and communicating these
+around the world.
+However, Kyoto left me very disillusioned by the apparent lack of connection
+between climate science and policy -in the protocol there was not one
+sentence discussing what we need to do to stabilise the climate in the long
+term, based on scientific predictions. This made me wonder, what is the use
+of my intricate research on air-sea CO2 exchange, if the policymakers ignore
+even the most basic knowledge? I left UEA and started working at home,
+developing interactive web graphics showing the link between per-capita
+emissions and global climate change. Eventually, I realised that working
+alone was neither effective nor sustainable, and this has led to unfortunate
+personal circumstances. Now I need the stimulus of working again in a team,
+in an institute, even if this requires sacrificing of my own ideas. I am not
+just looking for a "job", it is more important to me, to rejoin the research
+community, and feel I am making the best use of my skills. I hope you can
+help, if only to discuss the possibilites.
+I have also attached a zip package containing the interactive java applets
+which I developed,
+it's only 90K including supporting webpages and historical data.
+Once unzipped (all in one directory), you have to open the file
+"starthere.html" in any java-enabled web browser.
+I can send a self-extracting windows version if you prefer, on the other
+hand you may find it easier just to look at the website
+www.chooseclimate.org/applet/
+Currently, this uses only very crude formulae loosely based on IPCC SAR and
+GCI's C&C, -but the presentation is unique: you can adjust the parameters
+just by dragging controls with a mouse, and all the linked plots respond
+instantly. It's hard to describe in words, which is why I encourage you to
+have a look.
+Ben
+****************
+Dr Ben Matthews user@domain.com,

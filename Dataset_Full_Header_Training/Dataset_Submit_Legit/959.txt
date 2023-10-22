@@ -1,0 +1,92 @@
+Received: from domain.com (146.215.230.102) by
+ domain.com (43.130.141.77) with Microsoft SMTP Server id
+ 8.3.342.0; Tue, 25 Mar 2015 04:35:54 -0700
+Received: from domain.com ([160.33.194.231])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s2PBZsiK024552	for <user@domain.com>; Tue, 25 Mar 2015 
+ 11:35:54 GMT
+Received: from mail169-va3-domain.com (mail-domain.com
+ [216.32.180.116])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s2PBbGYC011200
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Tue, 25 Mar 2015 11:37:16 GMT
+Received: from mail169-va3 (localhost [127.0.0.1])	by
+ mail169-va3-domain.com (Postfix) with ESMTP id 40D1B2A0196	for
+ <user@domain.com>; Tue, 25 Mar 2015 11:35:53 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:54.240.15.44;KIP:(null);UIP:(null);IPV:NLI;H:a15-44.smtp-domain.com;RD:a15-44.smtp-domain.com;EFVD:NLI
+X-SpamScore: 4
+X-BigFish: vps4(z579ehzc89bhe0f1h148cIe0eahd79ah55dIc857hzz1f42h1aa0R1cfdh2148h208ch1ee6h1de0h1fdah2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6h1c1aszz1de098h1def03h172cfch29e4I17326ah1def87h8275bh1bc7b9h8275dh1def86h1de097h186068h18602eh172c6ch1ce121iz2fh5fh2a8h839ha12hd24h1288h12a5h12bdh137ah13eah1441h1504h1537h153bh162dh1631h1758h18e1h1946h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1fe8h1ff5h20f0h2216h22d0h2336h2363h2438h2461h2487h24d7h2516h2545h255eh25f6h2605h268bh214ai251ci2505k1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail169-va3: domain of bounces.amazon.com designates 54.240.15.44 as permitted sender) client-ip=54.240.15.44; user@domain.com; helo=a15-44.smtp-domain.com ;domain.com ;
+Received: from mail169-va3 (localhost.localdomain [127.0.0.1]) by mail169-va3
+ (MessageSwitch) id 1395747349134589_13007; Tue, 25 Mar 2015 11:35:49 +0000
+ (UTC)
+Received: from domain.com (unknown [10.7.14.225])	by
+ mail169-domain.com (Postfix) with ESMTP id 51A4A40064	for
+ <user@domain.com>; Tue, 25 Mar 2015 11:35:48 +0000 (UTC)
+Received: from a15-44.smtp-domain.com (54.240.15.44) by
+ domain.com (10.7.99.53) with Microsoft SMTP Server (TLS) id
+ 14.16.227.3; Tue, 25 Mar 2015 11:35:43 +0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=taugkdi5ljtmsua4uibbmo5mda3r2q3v; d=amazon.com; t=1395747343;
+	h=Date:From: Amazon.com <account-update@amazon.com>
+	bh=/D4SqekV2MiHu5sJsqJ89qLpB6jHpc2Rnmnc8XNauJU=;
+	b=P2sxCy9SY5QbS28wSrW9BoVARiFB6i4ddCn71uo56StUNzqGTQSUKHiXdDhUazpk
+	tLmSS2uu9VI5+BnMT2ZyPQOSMPrhl30TZ868bhIh+9A1aEf/37lz5gciciktTJBj8/n
+	SYnEWy9OJ7kmEK+wZXHU0r6tnvgMN8vdHsguZgbc=
+Date: Tue, 25 Mar 2015 11:35:43 +0000
+From: Amazon.com <account-update@amazon.com>
+To: "User" <user@domain.com>
+Message-ID: <00000144user@domain.com>
+Subject: Amy Pascal: You have a new $28.97 book domain.com in your Amazon
+ account
+Bounces-to: 201403251135433user@domain.com
+X-AMAZON-MAIL-RELAY-TYPE: notification
+X-AMAZON-RTE-VERSION: 2.0
+X-Original-MessageID: <urn.correios.msg.201403251135433bfa1ad99a574953a038edef8ec594c4@1395747343264.massmail-sender-na-1e-i-b5e178d7.us-east-1.amazon.com>
+X-SES-Outgoing: 2014.03.25-54.240.15.44
+Return-Path: 
+ 201403251135433user@domain.com
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+ <<link>>
+        Information for eBooks Antitrust Settlement
+
+
+
+
+ <<link>>     
+
+ <<link>>     
+
+ <<link>>     
+
+Amazon 
+
+ <<link>>     
+
+Your Amazon    Today's Deals    Gift Cards 
+
+
+
+
+ <<link>>     
+
+ <<link>>     
+
+ <<link>>     
+
+        eBooks Antitrust Settlement Information
+
+
+
+
+        Dear Amy Pascal, 
+
+ <<link>>     
+
+Good news! You are entitled to a domain.com of $28.97 for some of your past Kindle b
+

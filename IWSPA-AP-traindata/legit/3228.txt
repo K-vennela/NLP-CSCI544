@@ -1,0 +1,41 @@
+<x-flowed>
+Dear Chapter 10,
+Sorry I missed out on the meeting.
+In general I like the proposed Figure and suggested Box contents (and I 
+particularly agree that the diversity of downscaling methods and results 
+precludes using them as a basis of consolidated regional conclusions).  I 
+also agree with others that it looks better with the +- signs 
+included.  However, there are 2-3 points that concern me, mostly from the 
+perspective of climate scenarios (Chapter 13 - and also Chapter 9).
+- it needs to be made very clear if any numbers are cited in the Box (e.g. 
+2-6degC for continental warming) that these refer to only *one* forcing 
+scenario, namely 1% p.a.
+- rather than talk about GHG and SUL I would suggest the more conventional 
+nomenclature of GG and GS (the SUL runs are not just SUL forcing of course, 
+which might give that impression).
+- another very important caveat concerns the GS (SUL) results - these all 
+stem from IS92a type aerosol forcing a la IPCC SAR.  Most of the new SRES 
+forcings used in TAR and Chapter 9 for example have much smaller or even 
+positive SO4 forcing relative to 1990.  In principle this could actually 
+switch the sign of the precip. changes in some regions.  There is the 
+danger of inconsistency here between Chapter 9 (TAR aerosol effects) and 
+Chapter 10 Box (SAR aerosol effects) if this is not carefully 
+explained.  For example, in CAM and JJA it appears that aerosols switch the 
+P change from 'strongly negative' to being 'uncertain' - but this is only 
+for IS92a aerosol forcing: it is not a conclusion that would be valid for 
+SRES aerosol forcing!
+- as Filippo says, another key uncertainty not represented in the Box is 
+forcing uncertainty - again, Chapter 9 present a wide range of Tglobal 
+results, part of which relates to prior assumptions about which SRES 
+forcing materialises.  We do a disservice if we give the impression in 
+Chapter 10 Box that these regional responses are independent of what future 
+forcing materialises.  For example, under the lowest SRES forcing (B1) the 
+precip. response in some regions would revert back to being very small and 
+therefore indistinguishable from noise.
+- with regard to temperature and Filippo's comment, Chapter 9 has global 
+maps of T change, averaged across the standard set of AOGCM experiments 
+(ranges are also shown).  This is in effect the information being 
+sought-for by readers of Chapter 10 is it not.  I would have thought that 
+back-references in the Box to Figure 9.9 would be sensible.
+See you all in Victoria,
+Mike

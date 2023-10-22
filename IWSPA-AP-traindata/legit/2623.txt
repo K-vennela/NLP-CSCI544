@@ -1,0 +1,14 @@
+Dear all,
+It could be viewed that using n-1 for 9 models where we used n-1 for five
+models before is an implicit change in the stringency of our criterion.
+When we had five models, agreement (0/5, 1/5, 4/5 or 5/5) could be expected
+37% of the time just by chance (ignoring the near zero case).  With nine
+models the equivalent figure for n-1 is only 3.5%, and it is still much
+lower for n-2 (18%)... (assuming that my somewhat rusty probability
+calculations are correct).  It really depends on what we had understood the
+purpose of the criterion to be.  I am not certain how much this was
+discussed.
+Also, I would prefer Friday night as well if it means that more information
+will be available.
+Cheers
+Peter

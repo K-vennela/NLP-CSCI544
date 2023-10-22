@@ -1,0 +1,95 @@
+Received: from domain.com (146.215.230.102) by
+ domain.com (43.130.141.78) with Microsoft SMTP Server id
+ 8.3.342.0; Tue, 27 May 2015 06:09:08 -0700
+Received: from domain.com ([160.33.194.231])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s4RD970t013321	for <user@domain.com>; Tue, 27 May 2015 
+ 13:09:07 GMT
+Received: from mail90-va3-domain.com (mail-domain.com
+ [216.32.180.113])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s4RDAjlX029515
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Tue, 27 May 2015 13:10:45 GMT
+Received: from mail90-va3 (localhost [127.0.0.1])	by mail90-va3-domain.com
+ (Postfix) with ESMTP id E92421E0188	for <user@domain.com>; Tue, 27
+ May 2015 13:09:06 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:192.64.237.136;KIP:(null);UIP:(null);IPV:NLI;H:mx-about-domain.com;RD:mx-about-domain.com;EFVD:NLI
+X-SpamScore: 10
+X-BigFish: vps10(z579eh34f1m55a8kzc89bh758Ic857hc545Idbb0izz1f42h2148h208ch1ee6h1de0h1fdah2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6hzz8275ch1d7338h1de098h1def03h17326ah1def87h8275bh1bc7b9h8275dh1defc1h1def86h1de097h186068h172c6ch1ce120h1a691ciz2fheh5fh839he5bh1288h12a5h137ah139eh13eah1441h14ddh1504h1537h162dh1631h1758h1898h18e1h1946h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1e23h1fe8h1ff5h20f0h2218h2216h226dh24afh2327h2336h2438h2461h2487h24d7h2516h2545h2565h25f6h2605h268bh26d3h27e2h282bh28a1h214ai24c8i)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail90-va3: domain of domain.com designates 192.64.237.136 as permitted sender) client-ip=192.64.237.136; user@domain.com; helo=mx-about-domain.com ;domain.com ;
+Received: from mail90-va3 (localhost.localdomain [127.0.0.1]) by mail90-va3
+ (MessageSwitch) id 1401196143575232_10870; Tue, 27 May 2015 13:09:03 +0000
+ (UTC)
+Received: from domain.com (unknown [10.7.14.244])	by
+ mail90-domain.com (Postfix) with ESMTP id 621552C0060	for
+ <user@domain.com>; Tue, 27 May 2015 13:09:03 +0000 (UTC)
+Received: from mx-about-domain.com (192.64.237.136) by
+ domain.com (10.7.99.39) with Microsoft SMTP Server id
+ 14.16.227.3; Tue, 27 May 2015 13:08:54 +0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; s=mt; d=domain.com;
+ h=Date:From: Variety Breaking News <donotreply@variety.com>
+ bh=lpN/lcRC1xvmOfEMBFCyg1jHrxk=;
+ b=lJ8NTIhrpIsKljpMlh99oUh5IlWBfR5sFEE+o5gSwkIUt/Wvny8FOChGpoL76RWTuj9DOsQAttOH
+   KJhZA9OCIka91yJMk66HKN8t5PHrWRUpVPcVViKuOR/GJFH+fDdq1B5gGZzKIN3c6XZwCrIvgxMk
+   pxOB4V2jtgrEiKClUzQ=
+Received: from nyp1-p-p4137-prd-jma-02.sailthru.pvt (64.34.57.231) by
+ mx-about-domain.com id hgi7741qqbs1 for <user@domain.com>; Tue,
+ 27 May 2015 09:09:06 -0400 (envelope-from <user@domain.com>)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1401196124;
+	s=sailthru; d=variety.com;
+	h=Date:From: Variety Breaking News <donotreply@variety.com>
+	bh=m8QfzhcNF7mT8cRSYsFq+r+CufCkx+f4jclw0N1n03Q=;
+	b=H33h9+yxJLP6eBtMuu22T/OdFfCfgDYdhjjMJJOsUq2Za3qXNFVCdRzIkwfd/+b0
+	1FUgc0tND8s9ASJigKvOAfYmkadCO24tgCvBr9O22pX7z8VsPaWhBUgEYoEoAhdpgbn
+	Kqauie23UxtarsW3xt6s1XcxqUgscm/xKP5olNuI=
+Date: Tue, 27 May 2015 09:08:44 -0400
+From: Variety Breaking News <donotreply@variety.com>
+To: <user@domain.com>
+Message-ID: <20140527130844.2688189.18739@domain.com>
+Subject: 'Mad Men' Q&A with Matthew Weiner: 'Life and Death Are Bigger than
+ Money'
+Precedence: bulk
+X-TM-ID: 20140527130844.2688189.18739
+X-Info: Message sent by domain.com customer Variety
+X-Info: We do not domain.com unsolicited commercial email
+X-Info: Please report abuse by forwarding complete headers to
+X-Info: user@domain.com
+X-Mailer: domain.com
+X-JMailer: nyp1-p-p4137-prd-jma-02.sailthru.pvt
+X-IADB-IP: 65.39.215.25
+X-IADB-IP-REVERSE: 25.215.39.65
+X-IADB-URL: <<link>>
+X-Unsubscribe-Web: <<link>>
+List-Unsubscribe: <<<link>>>, <mailto:user@domain.com>
+X-rpcampaign: stcoy2688189
+Return-Path: user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+Matthew Weiner spent most of Memorial Day in his office writing the final-finale of “Mad Men,” t... 
+
+​ 
+
+Variety         
+
+Breaking News   
+
+Tuesday, May 27, 2015   
+
+​ 
+
+<<link>> 
+
+        'Mad Men' Q&A with Matthew Weiner: 'Life and Death Are Bigger than Money'               
+
+        Matthew Weiner spent most of Memorial Day in his office writing the final-finale of “Mad Men,” the day, as fans parsed the state ...            
+        Full Story              
+
+
+
+
+Check out the redesigned Variety411      <<link>>         
+This email was sent to user@domain.com by Variety. To ensure delivery to your inbox (and no
+

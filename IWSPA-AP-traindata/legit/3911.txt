@@ -1,0 +1,24 @@
+<x-flowed>
+HI Tim,
+THanks for looking into this so quickly. I agree w/ your assessment. It is 
+probably just the fact that the signal of interest in SOI and NINO3 is 
+really the interannual signal, and this is not evident in the low-frequency 
+component shown, which emphasizes discrepancies that are actually small 
+compared to amplitude of the interannual signal present in both Stahle et al 
+and Mann et al. So I would urge showing the annual reconstructions in this 
+case, rather than smoothed for this reason...
+In IPCC we only chose to show 1700 to present, which is a better 
+calibrated/verified interval than back to 1650, so I'd encourage you guys to 
+restrict it to 1700-present if you can. Other than that,
+I think it is important to acknowledge that SOI and NINO3 have different 
+low-frequency trends over the 20th century, and might well have different 
+trends in the past. It is true that many of the proxies used are sensitive 
+to the SOI (e.g. mexican tree rings), but others are sensitive to Pacific 
+SST (e.g. corals from GBR, New Caledonia, Galapagos) and our claim is that 
+the calibration process will select out the best estimate of the temperature 
+patterns, rather than SLP patterns, associated w/ ENSO, from the multiproxy 
+network. In the future, we'll be going after SLP reconstruction too, and 
+it'll be interesting to see what the difference is.
+I hope that clarifies. Please let me know if I can be of any further help, 
+provide further clarification, etc. Thanks again,
+mike

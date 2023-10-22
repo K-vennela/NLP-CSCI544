@@ -1,0 +1,36 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Wed, 11 Feb 2015 13:36:47 +0100
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id D782660063	for
+ <user@domain.com>; Wed, 11 Feb 2015 12:15:53 +0000 (GMT)
+Received: by domain.com (Postfix)	id C8C222BC0EF; Wed, 11 Feb 2015 
+ 13:36:47 +0100 (CET)
+Delivered-To: user@domain.com
+Received: from [192.168.10.37] (unknown [73.188.64.137])	(using TLSv1 with
+ cipher DHE-RSA-AES256-SHA (256/256 bits))	(No client certificate requested)
+	by domain.com (Postfix) with ESMTPSA id 46BE6B6600B	for
+ <user@domain.com>; Wed, 11 Feb 2015 13:36:47 +0100 (CET)
+From: Eric Rabe <e.rabe@hackingteam.com>
+Date: Wed, 11 Feb 2015 07:36:48 -0500
+Message-ID: <446user@domain.com>
+Subject: Re: R: E Rabe GOES
+References: <91user@domain.com> <006201d04124$43e40730$cbac1590$@user@domain.com> <0user@domain.com> <047201d04164$f8c2dec0$ea489c40$@user@domain.com> <602user@domain.com> <user@domain.com> <026201d045e8$520fa2b0$f62ee810$@user@domain.com>
+In-Reply-To: <026201d045e8$520fa2b0$f62ee810$@user@domain.com>
+To: Lucia Rana <user@domain.com>
+X-Mailer: iPad Mail (12B440)
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=ERIC RABEC30
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1735072458_-_-"
+
+The card is issued by the U.S. Government, not an airline.   It lets me pass by the normal long lines coming back into the uS and maybe a few other countries...When I come back into the USA.   It is a system called Global Online Enrollment System or GOES.    For more info check:  
+<<link>>
+
+Eric
+Eric user@domain.com

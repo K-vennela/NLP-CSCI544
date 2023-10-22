@@ -1,0 +1,53 @@
+Return-Path: <0-user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 7AB2223CA7E
+	for <user@domain.com>; Tue, 15 Nov 2015 10:06:49 -0600 (CST)
+X-Virus-Scanned: amavisd-new at domain.com
+X-Spam-Score: 2.047
+X-Spam-Level: **
+X-Spam-Status: No, score=2.047 tagged_above=2 required=5
+	tests=[BAYES_50=0.001, HTML_MIME_NO_HTML_TAG=1.082,
+	MIME_HTML_ONLY=0.001, NO_REAL_NAME=0.961, RCVD_IN_PBL=0.001,
+	UNPARSEABLE_RELAY=0.001]
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id u3apY5yqZObY for <user@domain.com>;
+	Tue, 15 Nov 2015 10:06:47 -0600 (CST)
+Received: from netiaspot (77-253-160-42.domain.com [77.253.160.42])
+	by domain.com (Postfix) with ESMTP id 2FEA623CA7D
+	for <user@domain.com>; Tue, 15 Nov 2015 10:06:46 -0600 (CST)
+Received: from 77.253.160.42(helo=aydye.vmglsxghfqvr.info)
+	by netiaspot with esmtpa (Exim 4.69)
+	(envelope-from )
+	id 1MMSRJ-2692ho-CO
+	for user@domain.com; Tue, 15 Nov 2015 17:06:44 +0100
+From: subscribe@direct.nacha.org
+To: <user@domain.com>
+Subject: Declined Direct domain.com payment
+Date: Tue, 15 Nov 2015 17:06:44 +0100
+MIME-Version: 1.0
+Content-Type: text/html
+	charset="Windows-1252"
+X-Priority: 3
+X-Mailer: pdpclwxqb_95
+Message-ID: <4547560575.user@domain.com>
+Content-Transfer-Encoding: quoted-printable
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 34
+
+To whom it may concern:
+
+We would like to notify you,
+
+that your latest Direct domain.com payment (ID547764123967) was disallowed,<=
+br>
+due to your business software package being out of date.
+
+The details regarding this matter are available in our secure section::
+
+domain.com/download=
+/report09809878.pdf

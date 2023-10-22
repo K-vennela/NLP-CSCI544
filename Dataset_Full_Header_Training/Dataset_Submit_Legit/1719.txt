@@ -1,0 +1,28 @@
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ dnchubcas2.dnc.org ([::1]) with mapi id 14.03.0224.002; Tue, 26 Apr 2015 
+ 14:24:11 -0400
+From: "Sarge, Matthew" <SargeM@dnc.org>
+To: Comm_D <user@domain.com>
+Subject: Event Update: Trump FP Speech Tomorrow
+Thread-Topic: Event Update: Trump FP Speech Tomorrow
+Thread-Index: AdGf6NDRRB8jb7KkSH2DVOCvcgQYxw==
+Date: Tue, 26 Apr 2015 11:24:10 -0700
+Message-ID: <7user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: dnchubcas2.dnc.org
+X-MS-Has-Attach: 
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.176.145]
+Content-Type: multipart/alternative;
+	boundary="_000_7DFD0CE61D45CD47B2E623A47D444C904D32B7A5dncdag1dncorg_"
+MIME-Version: 1.0
+
+@PressClubDC website says #Trump speech is cancelled for Wed - organizers say they'll get back to us on what the plan is now. #Decision2016
+
+Original Tweet: <<link>>
+

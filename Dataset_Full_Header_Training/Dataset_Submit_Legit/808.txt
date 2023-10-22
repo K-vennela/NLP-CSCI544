@@ -1,0 +1,71 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from [217.56.23.217] (unknown [217.56.23.217])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mail.hackingteam.it (Postfix) with ESMTP id 451E166C7;
+	Fri, 24 Jul 2015 16:01:43 +0200 (CEST)
+Subject: download checkio e messaggi di errore
+From: Luca Filippi <luca.filippi@hackingteam.it>
+Reply-To: user@domain.com
+To: cod <user@domain.com>, Enrico Luzzani <user@domain.com>
+Organization: Hacking Team
+Date: Fri, 24 Jul 2015 16:05:07 +0200
+Message-ID: <1248444307.5219.43.user@domain.com>
+X-Mailer: Evolution 2.26.1.1 
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1927130096_-_-"
+
+user@domain.com:/media/win_c/downloads$ domain.com 94.89.30.70 993
+
+Trying 94.89.30.70...
+
+Connected to 94.89.30.70.
+
+Escape character is '^]'.
+
+d@/srv/modelli/a/@user@domain.com@pluto
+
+E5@(/217.56.23.217:48096) ATTENZIONE il file e/o la directory richiesta non esistono!
+
+Connection closed by foreign host.
+
+user@domain.com:/media/win_c/downloads$ domain.com 94.89.30.70 993
+
+Trying 94.89.30.70...
+
+Connected to 94.89.30.70.
+
+Escape character is '^]'.
+
+d@/srv/modelli/a/@user@domain.com@pluto
+
+E6@(/217.56.23.217:48097) ATTENZIONE il file e/o la directory richiesta non esistono!
+
+Connection closed by foreign host.
+
+sembra che cercando di scaricare un filename senza estensione l'errore sia E5, con l'estensione sia E6
+
+        l
+
+-- 
+        Luca Filippi
+Senior Security Engineer
+
+
+
+HT srl 
+Via Moscova, 13 I-20121 Milan, Italy 
+WWW.HACKINGTEAM.IT 
+Phone +39 02 29060603 
+Fax. +39 02 63118946 
+
+
+
+This message is a PRIVATE communication. This message contains privileged and confidential information intended only for the use of the addressee(s).
+If you are not the intended recipient, you are hereby notified that any dissemination, disclosure, copying, distribution or use of the information contained in this message is strictly prohibited. If you received this email in error or without authorization, please notify the sender of the delivery error by replying to this message, and then delete it from your system.
+<<<<<<
+

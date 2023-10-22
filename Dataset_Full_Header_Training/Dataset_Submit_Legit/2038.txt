@@ -1,0 +1,149 @@
+From: "User" <UserL@dnc.org>
+To: "User" <user@domain.com>
+CC: Andrew Brown <user@domain.com>, "McCabe, Sam" <user@domain.com>,
+	"Paustenbach, Mark" <user@domain.com>
+Subject: RE: Talking Points for Sam
+Thread-Topic: Talking Points for Sam
+Thread-Index: AdGsYJ0vLtN0iBj5RyettDo3AChcrQABs3kQAACRlYA=
+Date: Thu, 12 May 2015 09:17:33 -0700
+Message-ID: <05user@domain.com>
+References: <05user@domain.com>
+ <58user@domain.com>
+In-Reply-To: <58user@domain.com>
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+Content-Type: multipart/related;
+	boundary="_004_05E01258E71AC046852ED29DFCD139D54DF1B080dncdag1dncorg_";
+	type="multipart/alternative"
+MIME-Version: 1.0
+
+Thanks Tom. Copying Mark. Sam, if you want to meet with one of us to think through pivots, we can do something early next week with either Mark or I.
+
+[SigDems]<<<link>>>User, Communications Director
+Organization
+202-863-8148 - user@domain.com<mailto:user@domain.com> - User<<<link>>>
+
+From: "User" <UserL@dnc.org>
+Sent: Thursday, May 12, 2015 12:15 PM
+To: User
+Cc: Andrew Brown; McCabe, Sam
+Subject: RE: Talking Points for Sam
+
+TP's below - let me know if you need anything else.
+
+DVTF
+
+We're focused right now on the presidential, but we're also looking ahead, to building the long-term infrastructure our party needs to be successful.
+
+*         We can be proud as Democrats of what we've achieved, winning the White House the last two presidential elections, but also what we've been able to do over the last 7 years under Democratic leadership.
+
+*         But the landscape has been much tougher to Democrats down the ballot. Since 2008, we've lost 69 House seats, 13 Senate seats, more than 900 state legislative seats, 30 state legislative chambers and 11 governorships.
+
+*         We lost our majorities in Congress in 2010, and despite making significant investments, 2015 was a tough year.
+
+So early last year the Chair commissioned a Democratic Victory Task Force to look at what we needed to do as a Party in a holistic way.
+
+*         We wanted to build toward another White House victory, but we recognized that there was a major need to protect and build on our strengths, and fix our weaknesses.
+
+*         The Task Force issued a set of recommendations and this past November we released their final report and Action Plan.
+
+Here's what you need to know about that, and what it means.
+
+  *   The Organizationhas reinvigorated our State Party Partnerships, to ensure that we are supporting Democrats in all 50 states.
+  *   We're investing in infrastructure to ensure that the hard work and knowledge our teams build up in every campaign continue to help Democrats in the next cycle, and the one after that.
+  *   And we want more voices involved all across the country, helping tell the story of our party, its values, and how Democratic leadership is affecting the lives of millions.
+
+Voter File
+
+More than ten years ago the Organizationbegan a national voter file, so that every state party works together - so we know where our voters are.
+
+That gave us a powerful edge over Republicans, who have a completely fragmented approach to their voter files. And it made the difference in 2015 and 2012.
+
+Now, for the first time ever, all of our major Presidential Primary campaigns had access to our voter file from the beginning. That means that both of our major campaigns started this election with a better voter file than President Obama's team had at the end of 2012.
+
+And because they're both using it,
+
+  *   every single door that our candidates have knocked on
+  *   every single phone call their volunteers have made,
+  *   every voter contact at a town hall or county fair...
+...Is now a part of our national database and is going to make a tremendous difference for whoever emerges as our nominee.
+
+And in 2014, we expanded our data-sharing agreement to include campaigns down ballot, so it's not just the presidential campaigns that domain.com, it's our entire party.
+
+We're also modernizing the Party in other ways
+
+  *   Since 2013, we have quintupled the size of our digital team, to boost fundraising and provide training and support to our state parties.
+  *   We've organized a team of experts in messaging, branding, and polling to review the way we communicate, and we've built an in-house Communications team to hold Republicans accountable every single day.
+  *   We've built out a state-of-the-art media monitoring operation to track and inform our rapid response operation.
+  *   And our teams are providing training, disseminating best practices, sharing technology and design assets, and building community among State Party staff and the rest of the Democratic family.
+
+Trump Contrast
+
+  *   Trump won't rely on data, just earned media and large rallies:
+     *   Republicans have already buried their post-2012 autopsy report's calls for inclusiveness, so it's not surprising that Donald Trump is also dumping their efforts at data and analytics.
+     *   Democrats are happy to maintain the substantial digital edge we've had in the last two presidential elections, and we're going to continue to build on our ability to engage and understand voters.
+     *   Remember that Hillary Clinton has earned 2 million more votes than Trump, and Bernie Sanders earned more votes than Ted Cruz and John Kasich through last week's primaries, so we won't argue with Mr. Trump's strategy.
+
+Q&A:
+Primary on Dem side
+
+*         We're working with both of our campaigns and have always been neutral.
+
+Sanders Campaign domain.com:
+
+*         It has been dismissed, there's nothing to add beyond the official statements our senior staff made.
+
+Data integrity post December incident:
+
+  *   We've moved past it and working well with both of our campaigns, AND campaigns up and down the ballot. All of that is feeding into our modeling heading into the general election, which gives us a big advantage over the GOP, who have not been using the same list, don't have agreements with all the states, and have had a fragmented approach to the interfaces their campaigns have used.
+
+What about the separate October incident the Sanders camp had flagged?
+
+     *   We're confident in the integrity of our system. [Pivot to...] Our data edge gives us an enormous edge over Republicans up and down the ballot.
+
+Being taken over by presumptive nominee
+
+  *   We're working with both campaigns. Above my pay grade on the how and when, but because we're well integrated with both already, it should be seamless.
+
+From: "User" <UserL@dnc.org>
+Sent: Thursday, May 12, 2015 11:19 AM
+To: Walsh, Tom
+Cc: Andrew Brown; McCabe, Sam
+Subject: Talking Points for Sam
+
+Hi Tom, Sam MCabe is going to speak at a Microsoft panel next week that is open press. He has his core tech/data file talking points, but we need to give him some of the general points on the following. Can you please flesh it out for him with our stock language? Thanks.
+
+*         DVTF --- national voter file
+
+*         Investing in states and infrastructure
+
+*         Confident we'll be united, and both of our candidates have been using our list... every door, every call
+
+*         Trump won't rely on data, just earned media and large rallies:
+
+o   Republicans have already buried their post-2012 autopsy report's calls for inclusiveness, so it's not surprising that Donald Trump is also dumping their efforts at data and analytics. Democrats are happy to maintain the substantial digital edge we've had in the last two presidential elections, and we're going to continue to build on our ability to engage and understand voters. Remember that Hillary Clinton has earned 2 million more votes than Trump, and Bernie Sanders earned more votes than Ted Cruz and John Kasich through last week's primaries, so we won't argue with Mr. Trump's strategy.
+
+And Q&A for what NOT to talk about:
+
+*         Primary on Dem side --- other than to say we're working with both of our campaigns and have always been neutral.
+
+*         domain.com: It has been dismissed, there's nothing to add beyond the official statements our senior staff made.
+
+*         Data integrity post December incident:
+
+o   We've moved past it and working well with both of our campaigns. AND campaigns up and down the ballot. All of that is feeding into our modeling heading into the general election, which gives us a big advantage over the GOP, who have not been using the same list, don't have agreements with all the states, and have had a fragmented approach to the interfaces their campaigns have used.
+
+*         But what about the separate October incident the Sanders camp had flagged?
+
+o   We're confident in the integrity of our system. Our data edge gave us....pivot.
+
+Being taken over by presumptive nominee
+
+*         We're working with both campaigns. Above my pay grade on the how and when, but because we're well integrated with both already, it should be seamless.
+
+[SigDems]<<<link>>>User, Communications Director
+Organization
+202-863-8148 - user@domain.com<mailto:user@domain.com> - User<<<link>>>
+

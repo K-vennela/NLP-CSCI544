@@ -1,0 +1,166 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [10.3.4.5])
+	by domain.com (Postfix) with ESMTP id CDCC646942
+	for <user@domain.com>; Wed,  5 Jul 2015 18:53:57 -0400 (EDT)
+Received: from domain.com.tw (unknown [203.75.204.92])
+	by domain.com (Postfix) with ESMTP id 01E0F6FA2C4
+	for <user@domain.com>; Wed,  5 Jul 2015 18:53:57 -0400 (EDT)
+Received: from User ([221.186.212.253])
+	(authenticated bits=0)
+	by domain.com.tw (8.12.11/8.12.11) with ESMTP id k65MsqFA097086;
+	Thu, 6 Jul 2015 06:54:55 +0800 (CST)
+Message-Id: <200607052254.user@domain.com>
+From: "eBay member
+Subject: Question from eBay member
+Date: Thu, 6 Jul 2015 01:41:07 +0300
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+To: undisclosed-recipients:;
+Status: 
+X-Status: 
+X-Keywords: 
+
+<!--
+.style1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: x-small;
+}
+.style2 {font-size: x-small}
+-->
+
+eBay sent this message to you from Stanley Muller (welshdruid) .
+
+  Your registered name is included to show this message originated from eBay. Learn more.
+
+Question about Item -- Respond Now
+
+eBay sent this message on behalf of an eBay member via My Messages. Responses sent using email will not reach the eBay member.Use the Respond Now button below to respond to this message
+
+ Question from welshdruid
+
+About This Member
+
+welshdruid( 872)
+
+Positive Feedback:
+100%
+
+Member Since:
+Apr-30-03
+
+Location:
+CA, United States
+
+Registered On:
+www.ebay.com
+
+Hi, 
+Is the item still available for sale? Let me know because I'm online and I can pay you right now.
+
+            Thank you,
+
+welshdruid
+
+Respond to this question in My Messages.
+
+Thank you for using eBay!
+
+Marketplace Safety Tip
+
+Always remember to complete your transactions on eBay - it`s the safer way to trade.
+
+Is this message an offer to buy your item directly through email without winning the item on eBay? If so, please help make the eBay marketplace safer by reporting it to us. These "outside of eBay" transactions may be unsafe and are against eBay policy. Learn more about trading safely.
+
+Is this email inappropriate? Does it violate eBay policy? Help protect the community by reporting it.
+
+See our Privacy Policy and User Agreement if you have questions about eBay's communication policies.
+
+Copyright  1995-2006 eBay, Inc. All Rights Reserved.
+Designated trademarks and brands are the property of their respective owners.
+eBay and the eBay logo are registered trademarks or trademarks of eBay, Inc.
+eBay is located at 2015 Hamilton Avenue, San Jose, CA 95125.
+
+From user@domain.com  Thu Jul  6 11:10:41 2015 
+Return-Path: 
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [10.5.6.7])
+	by domain.com (Postfix) with ESMTP id 26AE4469FD
+	for ; Thu,  6 Jul 2015 11:10:41 -0400 (EDT)
+Received: from 217.219.162.130 (unknown [217.219.162.130])
+	by domain.com (Postfix) with SMTP id A4D646CD09D
+	for ; Thu,  6 Jul 2015 11:10:40 -0400 (EDT)
+Received: from 218.126.68.71 by ; Thu, 06 Jul 2015 09:05:04 -0600
+Message-ID: 
+From: "eBay member
+Reply-To: "User" 
+To: user@domain.com, user@domain.com
+Subject: Important Account Information
+Date: Thu, 06 Jul 2015 12:09:04 -0300
+X-Mailer: Microsoft Outlook Express 6.00.2462.0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--18218071165186053632"
+X-Priority: 3
+X-MSMail-Priority: Normal
+Status: 
+X-Status: 
+X-Keywords:                   
+
+----18218071165186053632
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<=
+br>   D=
+ear JPMorgan Chase & Co. Customer,
+
+   Due to suspicious activities on your=
+ JPMorgan Chase online accounts your account has been
+   temp=
+orarily LOCKED
+
+   In order to reinstate your account =
+and resume online banking please CONFIRM you=
+r online 
+   account, or you can call customer service M=
+onday thru Friday 8 a.m. EST to 1 a.m. EST and 
+   Satur=
+day 8 a.m. EST to 5 p.m. EST at 1-800-621-0361.
+
+ &n;=
+bsp; ________________________________________________________________=
+______
+   ABOUT=
+ THIS MESSAGE:   This me=
+ssage was delivered to you as a Chase domain.com card customer to provide you =
+account
+   updates and information about your card benef=
+its. Chase values your privacy and your
+   preferences.<=
+/div>
+   Your persona=
+l information is protected by state-of-the-art technology. For more detail=
+ed 
+   security information, view our Online Privacy Policy. To request in writing: C=
+hase Privacy 
+   Operations, 451 Florida Street, Fourth =
+Floor, LA2-9376, Baton Rouge, LA 70801
+   If you want to contact Chase, please do not rep=
+ly to this message, but instead go to 
+   <<link>> For faster service, please e=
+nroll or log in to your account. Replies to
+   this mess=
+age will not be read or responded to.
+   This email was sent to: user@domain.com   =A9 2015 JPMorgan Ch=
+ase & Co.
+
+----18218071165186053632

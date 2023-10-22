@@ -1,0 +1,75 @@
+<x-flowed>
+Hi Keith,
+After the meeting in Norway, where I presented the Esper stuff as 
+described in the extended abstract I sent you, and hearing Bradley's 
+follow-up talk on how everybody but him has fucked up in 
+reconstructing past NH temperatures over the past 1000 years (this is 
+a bit of an overstatement on my part I must admit, but his air of 
+papal infallibility is really quite nauseating at times), I have come 
+up with an idea that I want you to be involved in.  Consider the 
+tentative title:
+"Northern Hemisphere Temperatures Over The Past Millennium: Where Are 
+The Greatest Uncertainties?"
+Authors:  Cook, Briffa, Esper, Osborn, D'Arrigo, Bradley(?), Jones 
+(??), Mann (infinite?) - I am afraid the Mike and Phil are too 
+personally invested in things now (i.e. the 2003 GRL paper that is 
+probably the worst paper Phil has ever been involved in - Bradley 
+hates it as well), but I am willing to offer to include them if they 
+can contribute without just defending their past work - this is the 
+key to having anyone involved. Be honest. Lay it all out on the table 
+and don't start by assuming that ANY reconstruction is better than 
+any other.
+Here are my ideas for the paper in a nutshell (please bear with me):
+1) Describe the past work (Mann, Briffa, Jones, Crowley, Esper, yada, 
+yada, yada) and their data over-laps.
+2) Use the Briffa&Osborn "Blowing Hot And Cold" annually-resolved 
+recons (plus Crowley?) (boreholes not included) for comparison 
+because they are all scaled identically to the same NH extra-tropics 
+temperatures and the Mann version only includes that part of the NH 
+(we could include Mann's full NH recon as well, but he would probably 
+go ballistic, and also the new Mann&Jones mess?)
+3) Characterize the similarities between series using unrotated 
+(maybe rotated as well) EOF analysis (correlation for pure 
+similarity, covariance for differences in amplitude as well) and 
+filtering on the reconstructions - unfiltered, 20yr high-pass, 100-20 
+bandpass, 100 lowpass - to find out where the reconstructions are 
+most similar and different - use 1st-EOF loadings as a guide, the 
+comparisons of the power spectra could also be done I suppose
+4) Do these EOF analyses on different time periods to see where they 
+differ most, e.g., running 100-year EOF windows on the unfiltered 
+data, running 300-year for 20-lp data (something like that anyway), 
+and plot the 1st-EOF loadings as a function of time
+5) Discuss where the biggest differences lie between reconstructions 
+(this will almost certainly occur most in the 100 lowpass data), 
+taking into account data overlaps
+6) Point out implications concerning the next IPCC assessment and EBM 
+forcing experiments that are basically designed to fit the lower 
+frequencies - if the greatest uncertainties are in the >100 year 
+band, then that is where the greatest uncertainties will be in the 
+forcing experiments
+7) Publish, retire, and don't leave a forwarding address
+Without trying to prejudice this work, but also because of what I 
+almost think I know to be the case, the results of this study will 
+show that we can probably say a fair bit about <100 year 
+extra-tropical NH temperature variability (at least as far as we 
+believe the proxy estimates), but honestly know fuck-all about what 
+the >100 year variability was like with any certainty (i.e. we know 
+with certainty that we know fuck-all).
+Of course, none of what I have proposed has addressed the issue of 
+seasonality of response. So what I am suggesting is strictly an 
+empirical comparison of published 1000 year NH reconstructions 
+because many of the same tree-ring proxies get used in both seasonal 
+and annual recons anyway. So all I care about is how the recons 
+differ and where they differ most in frequency and time without any 
+direct consideration of their TRUE association with observed 
+temperatures.
+I think this is exactly the kind of study that needs to be done 
+before the next IPCC assessment. But to give it credibility, it has 
+to have a reasonably broad spectrum of authors to avoid looking like 
+a biased attack paper, i.e. like Soon and Balliunas.
+If you don't want to do it, just say so and I will drop the whole 
+idea like a hot potato. I honestly don't want to do it without your 
+participation. If you want to be the lead on it, I am fine with that 
+too.
+Cheers,
+Ed

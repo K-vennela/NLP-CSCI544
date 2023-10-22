@@ -1,0 +1,84 @@
+Received: from domain.com (146.215.230.103) by
+ domain.com (43.130.141.77) with Microsoft SMTP Server id
+ 8.3.297.1; Sat, 8 Feb 2015 17:21:56 -0800
+Received: from domain.com ([160.33.194.228])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s191LtsV000479	for <user@domain.com>; Sun, 9 Feb 2015 
+ 01:21:55 GMT
+Received: from mail86-ch1-domain.com (mail-domain.com
+ [216.32.181.168])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s191N48s023173
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Sun, 9 Feb 2015 01:23:04 GMT
+Received: from mail86-ch1 (localhost [127.0.0.1])	by mail86-ch1-domain.com
+ (Postfix) with ESMTP id 5583D3201FE	for <user@domain.com>; Sun,  9
+ Feb 2015 01:21:54 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:192.64.236.105;KIP:(null);UIP:(null);IPV:NLI;H:mx-domain.com;RD:mx-domain.com;EFVD:NLI
+X-SpamScore: 2
+X-BigFish: vps2(zzc545Ic89bhe0eahd79ahc857hdbb0izz1f42h2148h208ch1ee6h1de0h1fdah2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6hzz8275ch1d7338h1de098h1def03h17326ah1def87h8275bh1bc7b9h8275dh1defc1h1def86h1de097h186068h172c6ch1ce120h1a691ciz2fheh5fh839ha12he5bh1288h12a5h137ah139eh13eah1441h14ddh1504h1537h162dh1631h1758h1898h18e1h1946h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1e23h1fe8h1ff5h20f0h2218h2216h226dh24afh2327h2336h2438h2461h2487h24d7h2516h2545h214ai1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail86-ch1: domain of domain.com designates 192.64.236.105 as permitted sender) client-ip=192.64.236.105; user@domain.com; helo=mx-domain.com ;domain.com ;
+Received: from mail86-ch1 (localhost.localdomain [127.0.0.1]) by mail86-ch1
+ (MessageSwitch) id 1391908912296146_22585; Sun,  9 Feb 2015 01:21:52 +0000
+ (UTC)
+Received: from domain.com (domain.com
+ [10.43.68.245])	by mail86-domain.com (Postfix) with ESMTP id 4336C420066
+	for <user@domain.com>; Sun,  9 Feb 2015 01:21:52 +0000 (UTC)
+Received: from mx-domain.com (192.64.236.105) by domain.com
+ (10.43.69.249) with Microsoft SMTP Server id 14.16.227.3; Sun, 9 Feb 2015 
+ 01:21:52 +0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1391908911;
+	s=sailthru; d=variety.com;
+	h=Date:From: Variety Breaking News <donotreply@variety.com>
+	bh=GTSxTet4NMDw7h49FvhW7dYoStK83M0kvUSX/s/NIdY=;
+	b=MwMuhLkI5aRjTecRMiMnrS6ncdfc43QOaEXuB7uGtxO6UCghzPO4l6rJeAhq12a3
+	ocUmF7rNK8raoLVJFt6ZhfRFEXsm59l8aQZoLZpEaOJ6xHJ94M8aJbpcdrML8IpHuh4
+	8IJA05VJvK+mKYojdoq7keKjgGENJ7WfOpQpiRTQ=
+Date: Sat, 8 Feb 2015 20:21:51 -0500
+From: Variety Breaking News <donotreply@variety.com>
+To: <user@domain.com>
+Message-ID: <20140209012151.2408270.19493@domain.com>
+Subject: Ken Ziffren to Replace Tom Sherak as L.A. Film Czar
+Precedence: bulk
+X-TM-ID: 20140209012151.2408270.19493
+X-Info: Message sent by domain.com customer Variety
+X-Info: We do not domain.com unsolicited commercial email
+X-Info: Please report abuse by forwarding complete headers to
+X-Info: user@domain.com
+X-Mailer: domain.com
+X-IADB-IP: 192.64.236.105
+X-IADB-IP-REVERSE: 105.236.64.192
+X-IADB-URL: <<link>>
+X-Unsubscribe-Web: <<link>>
+List-Unsubscribe: <<<link>>>, <mailto:user@domain.com>
+X-rpcampaign: stcoy2408270
+Return-Path: user@domain.com
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+Veteran entertainment attorney Ken Ziffren will be named Los Angeles' next film czar, succeeding... 
+
+​ 
+
+Variety         
+
+Breaking News   
+
+Saturday, February 8, 2015      
+
+​ 
+
+<<link>> 
+
+        Ken Ziffren to Replace Tom Sherak as L.A. Film Czar             
+
+        Veteran entertainment attorney Ken Ziffren will be named Los Angeles' next film czar, succeeding Tom Sherak, sources confirmed.                 
+        Full Story              
+
+
+
+
+Subscribe to Other Variety Newsletters   
+

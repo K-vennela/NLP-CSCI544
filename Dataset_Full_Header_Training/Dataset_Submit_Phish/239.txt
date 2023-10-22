@@ -1,0 +1,72 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (unknown [75.102.5.22])
+	by domain.com (Postfix) with ESMTP id D08FB46879
+	for <user@domain.com>; Tue,  2 Jun 2015 19:19:08 -0400 (EDT)
+Received: from localhost (localhost [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 89906232014;
+	Tue,  2 Jun 2015 23:21:23 +0000 (UTC)
+X-Virus-Scanned: amavisd-new at domain.com
+X-Spam-Flag: YES
+X-Spam-Score: 8.174
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.174 tagged_above=-10 required=6.6
+	tests=[BAYES_60=1, FORGED_MUA_OUTLOOK=3.116,
+	FORGED_OUTLOOK_HTML=0.001, FORGED_OUTLOOK_TAGS=0.001,
+	HTML_MESSAGE=0.001, MIME_HTML_ONLY=1.457, NORMAL_HTTP_TO_IP=0.001,
+	NO_DNS_FOR_FROM=1.496, RDNS_NONE=0.1, TVD_PH_SUBJ_META=1,
+	WEIRD_PORT=0.001]
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id glGyYqgWAm4t; Tue,  2 Jun 2015 23:21:19 +0000 (UTC)
+Received: from domain.com.tw (unknown [60.248.171.99])
+	by domain.com (Postfix) with ESMTP id DD8F3232013
+	for <user@domain.com>; Tue,  2 Jun 2015 23:21:18 +0000 (UTC)
+Received: from User ([10.20.99.35]) by domain.com.tw with Microsoft SMTPSVC(6.0.3790.3959);
+	 Wed, 3 Jun 2015 07:18:47 +0800
+From: "Commonwealth Bank of Australia"<netbank@mailbox.au>
+Subject: Notice!
+Date: Tue, 2 Jun 2015 18:30:24 -0500
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <user@domain.com>
+X-OriginalArrivalTime: 02 Jun 2015 23:18:47.0345 (UTC) FILETIME=[7B09CA10:01C9E3D8]
+To: undisclosed-recipients:;
+Content-Length: 1125
+Lines: 22
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1070
+
+
+
+
+    Dear Customer,
+      Commonwealth Bank of Australia 
+        temporarily suspended your account.
+
+Reason: Billing failure.
+
+        We require you to complete an account update so we can unlock your account.
+
+To 
+        start the update process Log 
+        In.
+Once you have completed 
+        the process, we will send you an email notifying
+
+        that your account is available again. After that you can access your account 
+        at
+
+        any time. 
+
+Copyright © Commonwealth Bank of Australia, All Rights Reserved
+

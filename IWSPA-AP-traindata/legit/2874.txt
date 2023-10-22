@@ -1,0 +1,151 @@
+X-Authentication-Warning: ueamailgate01.uea.ac.uk: defang set sender to
+<user@domain.com> using -f
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+d=gmail.com; s=gamma;
+h=domainkey-signature:received:received:message-id:from:to
+:content-type:mime-version:subject:date:cc:x-mailer;
+bh=vzM4qpeBuZ3NQSBfkIPACp4rqI5xIH9tfL6OUhWjxcE=;
+b=EAAG1b17JLng2YRgwSZWUqtdNH6FAbtHYku6HP2vIb37BakYy+nAI9oPe2vJmnlvkJ
+NNnqybDof85G8yHA50MDKl4+VLRSz1W49oSH4z1YMaJMpW74/NwVRwySDSoyitHvoaeO
+du0IYmPQvWXg+hHATrIfMR3WSPuzT+bsHby1M=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+d=gmail.com; s=gamma;
+h=message-id:from:to:content-type:mime-version:subject:date:cc
+:x-mailer;
+b=vshpN16BnkBlTzIbqZGkiKhZRrLDTy4h9YDrCcr1arlUpxQoFm7wGfUrAY9lINDGiv
+rTtJrNYHwK42PcQotJXHe7XlhWBVuII6hxTU5X811ycdc4IcIxNIyRWDYYJGZMFSHdyj
+IJjD59a4V+W1eHp2Kkv9yiXdaWSBeshQE2gvQ=
+From: Chris Turney <user@domain.com>
+To: Keith Briffa <k.briffa@uea.ac.uk>, Phil Jones <p.jones@uea.ac.uk>,
+t.osborn@uea.ac.uk
+Subject: NERC Consortium Proposal
+Date: Mon, 9 Mar 2009 12:42:53 +0100
+Cc: Philip Brohan <philip.brohan@metoffice.gov.uk>,
+Rob Allan <rob.allan@metoffice.gov.uk>,
+Peter Cox <P.M.Cox@exeter.ac.uk>
+X-Mailer: Apple Mail (2.930.3)
+X-Canit-CHI2: 0.00
+X-Bayes-Prob: 0.0001 (Score 0, tokens from: @@RPTN, f023)
+X-Spam-Score: 0.00 () [Tag at 5.00] HTML_MESSAGE,SPF(pass,0)
+X-CanItPRO-Stream: UEA:f023 (inherits from UEA:10_Tag_Only,UEA:default,base:default)
+X-Canit-Stats-ID: 18712069 - 127314cabecf (trained as not-spam)
+X-Antispam-Training-Forget:
+[1]<<link>>
+X-Antispam-Training-Nonspam:
+[2]<<link>>
+X-Antispam-Training-Spam: [3]<<link>>
+X-Scanned-By: CanIt (www . roaringpenguin . com) on 139.222.131.184
+Hi Keith, Phil and Tim,
+Please find attached an outline bid for the NERC Consortium bid we
+discussed at the end of last year.  I must apologise for the delay in
+getting back to you.  Exeter has suddenly gone mad with appointments
+of staff and postgrads.  It's all good fun but it's taken up a lot of
+my time over the past couple of months.
+For a NERC Consortium we need to put in a 2 page document as an
+expression of interest.  If approved we can then go forward for
+submission. The next deadline is 1 July.
+Can you have a look at the attached and let me know what you think?
+Could you let me know what sort of support you'd need if we go
+forward.  We have up to 3.5 million to spend over 5 years. Included
+in the document we have to include a summary of the funding we'd like
+to get from NERC, any other funds we have in support and other
+benefits e.g. training.  For the latter we envisaged approximately 1
+postdoc and 2 PhDs per UK institution.
+I'm currently in Copenhagen for a meeting so my email contact will be
+a little erratic but am back Friday.
+Hope things are going well.
+All the best,
+Chris
+****************************************************
+Professor Chris Turney FRSA FRGS
+Author of Ice, Mud and Blood: Lessons from Climates Past
+Popular science website:
+[4]www.christurney.com
+Journal of Quaternary Science Asian and Australasian Regional Editor
+School of Geography, Archaeology and Earth Resources
+The University of Exeter
+Exeter
+Devon
+EX4 4RJ
+UK
+Times Higher University of the Year 2007-08
+Director of Carbonscape, Fixing carbon the way nature intended
+Home page:
+[5]www.sogaer.ex.ac.uk/geography/people/staff/c_turney/main.shtml
+E-mail: c.turney@exeter.ac.uk
+Office Tel.: +44 (0)1392 263331
+Fax.: +44 (0)1392 263342
+****************************************************
+Slartibartfast:  Science has achieved some wonderful things of course,
+but I'd far rather be happy than right any day.
+Arthur Dent:  And are you?
+Slartibartfast:  No. Thats where it all falls down of course.
+Arthur Dent:  Pity. It sounded like quite a good lifestyle otherwise.
+The Hitchhikers Guide to the Galaxy, Douglas Adams
+****************************************************
+Hi Keith, Phil and Tim,
+Please find attached an outline bid for the NERC Consortium bid we discussed at the end
+of last year.  I must apologise for the delay in getting back to you.  Exeter has
+suddenly gone mad with appointments of staff and postgrads.  It's all good fun but it's
+taken up a lot of my time over the past couple of months.
+For a NERC Consortium we need to put in a 2 page document as an expression of interest.
+If approved we can then go forward for submission. The next deadline is 1 July.
+Can you have a look at the attached and let me know what you think?  Could you let me
+know what sort of support you'd need if we go forward.  We have up to 3.5 million to
+spend over 5 years. Included in the document we have to include a summary of the funding
+we'd like to get from NERC, any other funds we have in support and other benefits e.g.
+training.  For the latter we envisaged approximately 1 postdoc and 2 PhDs per UK
+institution.
+I'm currently in Copenhagen for a meeting so my email contact will be a little erratic
+but am back Friday.
+Hope things are going well.
+All the best,
+Chris
+****************************************************
+Professor Chris Turney FRSA FRGS
+Author of [6]Ice, Mud and Blood: Lessons from Climates Past
+Popular science website:
+[7]www.christurney.com
+[8]Journal of Quaternary Science Asian and Australasian Regional Editor
+School of Geography, Archaeology and Earth Resources
+The University of Exeter
+Exeter
+Devon
+EX4 4RJ
+UK
+Times Higher University of the Year 2007-08
+Director of [9]Carbonscape, Fixing carbon the way nature intended
+Home page:
+[10]www.sogaer.ex.ac.uk/geography/people/staff/c_turney/main.shtml
+E-mail: [11]c.turney@exeter.ac.uk
+Office Tel.: +44 (0)1392 263331
+Fax.: +44 (0)1392 263342
+****************************************************
+Slartibartfast: Science has achieved some wonderful things of course, but I'd far rather
+be happy than right any day.
+Arthur Dent:  And are you?
+Slartibartfast:  No. Thats where it all falls down of course.
+Arthur Dent:  Pity. It sounded like quite a good lifestyle otherwise.
+The Hitchhikers Guide to the Galaxy, Douglas Adams
+****************************************************
+--
+Professor Keith Briffa,
+Climatic Research Unit
+University of East Anglia
+Norwich, NR4 7TJ, U.K.
+Phone: +44-1603-593909
+Fax: +44-1603-507784
+[12]<<link>>
+References
+1. <<link>>
+2. <<link>>
+3. <<link>>
+4. <<link>>
+5. <<link>>
+6. <<link>>
+7. <<link>>
+8. <<link>>
+9. <<link>>
+10. <<link>>
+11. mailto:c.turney@exeter.ac.uk
+12. <<link>>

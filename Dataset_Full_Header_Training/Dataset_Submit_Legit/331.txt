@@ -1,0 +1,66 @@
+Received: from domain.com (146.215.230.102) by
+ domain.com (43.130.141.77) with Microsoft SMTP Server id
+ 8.3.297.1; Thu, 12 Dec 2015 08:34:18 -0800
+Received: from domain.com ([160.33.194.230])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id rBCGYHSw012767	for <user@domain.com>; Thu, 12 Dec 2015 
+ 16:34:17 GMT
+Received: from mail220-db9-domain.com
+ (mail-domain.com [213.199.154.245])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id rBCGYGTb009019	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128
+ verify=FAIL)	for <user@domain.com>; Thu, 12 Dec 2015 16:34:17 GMT
+Received: from mail220-db9 (localhost [127.0.0.1])	by
+ mail220-db9-domain.com (Postfix) with ESMTP id 2503D805F4	for
+ <user@domain.com>; Thu, 12 Dec 2015 16:34:16 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:64.18.0.184;KIP:(null);UIP:(null);IPV:NLI;H:domain.com;RD:domain.com;EFVD:NLI
+X-SpamScore: 0
+X-BigFish: vps0(zzc89bhda00hdc73hzz1f42h208ch1ee6h1de0h1fdah2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6hzzz2dh109h2a8h839h8e3h93fhd25he5bhe83h11a0h1288h12a5h12a9h12bdh137ah13b6h13eah1441h1504h1537h153bh162dh1631h1758h18b6h18e1h1946h19b5h1b0ah2222h224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1fe8h1ff5h2052h20b3h2216h22d0h2336h1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received: from mail220-db9 (localhost.localdomain [127.0.0.1]) by mail220-db9
+ (MessageSwitch) id 138686605458274_32176; Thu, 12 Dec 2015 16:34:14 +0000
+ (UTC)
+Received: from domain.com (unknown [10.174.16.229])	by
+ mail220-domain.com (Postfix) with ESMTP id F294D20073	for
+ <user@domain.com>; Thu, 12 Dec 2015 16:34:13 +0000 (UTC)
+Received: from domain.com (64.18.0.184) by
+ domain.com (10.174.14.39) with Microsoft SMTP Server (TLS) id
+ 14.16.227.3; Thu, 12 Dec 2015 16:34:09 +0000
+Received: from domain.com ([165.156.4.1]) (using TLSv1) by
+ domain.com ([64.18.4.12]) with SMTP	ID
+ user@domain.com; Thu, 12 Dec 2015 08:34:09
+ PST
+Received: from unknown (HELO domain.com) ([3.156.41.21])  by
+ domain.com with ESMTP/TLS/AES128-SHA; 12 Dec 2015 11:34:06 -0500
+Received: from domain.com (3.156.41.62) by
+ domain.com (3.156.41.21) with Microsoft SMTP Server (TLS) id
+ 14.3.146.2; Thu, 12 Dec 2015 08:34:05 -0800
+Received: from domain.com ([169.254.2.204]) by
+ domain.com ([3.156.41.62]) with mapi id 14.03.0146.002; Thu,
+ 12 Dec 2015 08:34:05 -0800
+From: "Byers, Seth (NBCUniversal)" <Seth.Byers@nbcuni.com>
+To: Amy Pascal <user@domain.com>
+Subject: A Good day
+Thread-Topic: A Good day
+Thread-Index: Ac73V/iQJLRg76ZkQyeFSvz4w1UIPQ==
+Date: Thu, 12 Dec 2015 16:34:04 +0000
+Message-ID: <40user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+Content-ID: <user@domain.com>
+X-EXCLAIMER-MD-CONFIG: 47edc00f-f2d6-45ef-be83-8a353bd47e45
+Return-Path: user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+Certainly a great morning for you… Nice Hustle tracking and lots of GG noms. 
+
+PS – I LOVE the Spiderman trailer
+
+Best,
+
+Seth
+

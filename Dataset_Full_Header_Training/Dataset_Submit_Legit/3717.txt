@@ -1,0 +1,86 @@
+Received: from domain.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Mon, 12 May 2015 19:20:06 +0200
+Received: from mail.hackingteam.it (unknown [192.168.100.50])	by
+ domain.com (Postfix) with ESMTP id D08EC621AD;	Mon, 12 May 2015 
+ 18:09:04 +0100 (BST)
+Received: by mail.hackingteam.it (Postfix)	id 91C85B6603E; Mon, 12 May 2015 
+ 19:20:06 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from domain.com (exchange.hackingteam.it
+ [192.168.100.51])	(using TLSv1 with cipher AES128-SHA (128/128 bits))	(No
+ client certificate requested)	by mail.hackingteam.it (Postfix) with ESMTPS id
+ 82D05B6600D;	Mon, 12 May 2015 19:20:06 +0200 (CEST)
+Received: from domain.com ([fe80::755c:1705:6a98:dcff]) by
+ domain.com ([fe80::755c:1705:6a98:dcff%11]) with mapi id
+ 14.03.0123.003; Mon, 12 May 2015 19:20:06 +0200
+From: Emad Shehata <e.shehata@hackingteam.it>
+To: "User" <user@domain.com>
+CC: "'user@domain.com'" <user@domain.com>,
+	"'user@domain.com'" <user@domain.com>,
+	"'user@domain.com'" <user@domain.com>, Marco Bettini
+	<user@domain.com>, "'user@domain.com'"
+	<user@domain.com>
+Subject: R: Demo in Lebanon
+Thread-Topic: Demo in Lebanon
+Thread-Index: AQHPWu6sSBlcNl+jTE6y1/J0xhSLXJsdZHUAgAAJf4CAH1wRgIAAaCIAgAAk0FU=
+Date: Mon, 12 May 2015 17:20:05 +0000
+Message-ID: <user@domain.com>
+In-Reply-To: <user@domain.com>
+Accept-Language: it-IT, en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-originating-ip: [fe80::755c:1705:6a98:dcff]
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-603028132_-_-"
+
+Dear Mr. Karl
+
+Thanks for your e-mail.
+
+I'm Emad Shehata, nice to meet you.
+
+Based on your below confirmation, I would like to inform you that by tomorrow I will send you our flight details.
+
+Best regards
+
+-- 
+
+Emad Shehata 
+
+Key Account Manager 
+
+Sent from my mobile.
+
+
+
+
+Da: Karl Feghali [mailto:user@domain.com]
+
+Inviato: Monday, May 12, 2015 08:08 PM
+
+A: Marco Bettini <user@domain.com> 
+
+Cc: RSALES (user@domain.com) <user@domain.com>; Emad Shehata <user@domain.com>; Lt Nabil Sardouk armée kahwaji <user@domain.com>
+
+Oggetto: Demo in Lebanon 
+
+
+
+
+Dear Mr Bettini
+
+Further to our previous emails for a presentation in Lebanon at the Lebanese army offices , I would like to confirm you that Lieutenant Sardouk,who is cc to this email, and myself are looking to meet Mr Emad Shehata (key account manager) and Mr Walter
+ Furlan (field engineer) on May 20th.
+We will try to make 2rooms reservation at Monroe hotel for 2 persons for 2 nights (19 and 20 of May unless you specify other) and will send you the confirmation in a couple of days,once received.
+
+Best regards
+Karl 
+

@@ -1,0 +1,42 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [10.5.6.7])
+	by domain.com (Postfix) with ESMTP id E83354696E
+	for <user@domain.com>; Fri,  9 Jun 2015 07:29:27 -0400 (EDT)
+Received: from domain.com (stuff.cheapbits.NET [216.145.0.109])
+	by domain.com (Postfix) with SMTP id E201A6CD18B
+	for <user@domain.com>; Fri,  9 Jun 2015 07:29:27 -0400 (EDT)
+Received: (qmail 12547 invoked by uid 510); 9 Jun 2015 11:25:37 -0000
+Date: 9 Jun 2015 11:25:37 -0000
+To: user@domain.com
+Subject: Urgent Notification: !!! Update Billing Information !!! 
+Message-ID: <1149852337.16025.user@domain.com>
+From: "PayPal.inc Security Center Department " <Support@PayPal.com>
+Content-Type: text/html
+Status: 
+X-Status: 
+X-Keywords: 
+
+Dear user of PayPal services, 
+
+    It has come to our attention that your PayPal 
+Billing Information records are out of date. That requires you to update 
+the Billing Information. 
+Once you have updated them, your PayPal session will not be interrupted 
+and will continue as normal.
+ You can domain.com additional information at the following link:
+
+<<link>>
+
+Please update your records in maximum 12 hours.
+Failure to update your 
+records will result in account termination. 
+
+Thank You for using PayPal!
+
+Your PayPal team.
+
+Attention! Do not reply to this letter, it has been 
+sent to You automatically by an email robot! 
+

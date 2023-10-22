@@ -1,0 +1,180 @@
+> From: user@domain.com
+> Date: Mon, 28 Sep 2009 15:54:05 +0000
+> To: user@domain.com
+> Subject: 2009JD012960 (Editor - Steve Ghan):Decision Letter
+> CC: user@domain.com
+>
+> Manuscript Number: 2009JD012960
+> Manuscript Title: Comment on "Influence of the Southern Oscillation on tropospheric
+temperature" by J. D. McLean, C. R. de Freitas, and R. M. Carter
+>
+>
+> Dear Dr. Foster:
+>
+> 3 reviews of your above-referenced manuscript are attached below. Reviewer 3 is concerned
+with the tone on the writing; while I appreciate the value of "taking the high road", I do
+not object to emphatic statements that conclusions are incorrect. Strong language is needed
+sometimes when errors must be corrected. Please carefully consider the Reviewers'
+recommendations for revisions, make the necessary changes, and respond to me with a
+point-by-point response of how you have addressed each concern. In your cover letter,
+please include a statement confirming that all authors listed on the manuscript concur with
+submission in its revised form.
+>
+>
+>
+> The due date for your revised paper is October 28, 2009. If you will be unable to submit
+a revised manuscript by this time, please notify my office and arrange for an extension
+(maximum two weeks). If we do not hear from you by the revision due date, your manuscript
+will be considered as withdrawn.
+>
+> When you are ready to submit your revision, please use the link below.
+>
+> *The link below will begin the resubmission of your manuscript, please Do Not click on
+the link until you are ready to upload your revised files. Any partial submission that sits
+for 3 days without files will be deleted.
+>
+>
+<<<link>>
+4DW4K5nQ0wZ>
+>
+>
+> (NOTE: The link above automatically submits your login name and password. If you wish to
+share this link with co-authors or colleagues, please be aware that they will have access
+to your entire account for this journal.)
+>
+> **In order to save time upon acceptance, it would be helpful if files in the correct
+format are uploaded at revision. Article and table files may be in Word, WordPerfect or
+LaTeX and figure files should be separately uploaded as .eps, .tif or pdf files. If you
+have color figures, please go to the site below to select a color option. Please put your
+color option in the cover letter.
+<<link>>
+>
+> Please see the AGU web site for more information about preparing text and art files
+(<<link>>). If you have any questions, please contact the
+editor&#xFFFD;s assistant.
+>
+> Sincerely,
+>
+> Steve Ghan
+> Editor, Journal of Geophysical Research - Atmospheres
+>
+> -----------Important JGR-Atmospheres Information-------------------------------
+>
+> Submission, Review and Publication Stages Chart
+> Text Preparation and Formatting
+> Manuscript Preparation
+> Acceptable Electronic File Formats
+> Editorial Style Guide for Authors
+> Auxiliary Materials (Electronic Supplements)
+>
+> Artwork Preparation
+> Guidelines for Preparing Graphics Files
+> Figure FAQ
+> Prices for Color in AGU Journals
+>
+> AGU Copyright Transfer Form
+> Manuscript Status Tool (for manuscripts recently accepted)
+>
+> If you need assistance with file formats and/or color options please e-mail
+user@domain.com and quote your manuscript number.
+>
+> If you need Adobe Acrobat Reader to download the forms, it is available, free, on the
+internet at: <<link>>
+>
+> ------------------------------------------------------------------------------
+>
+> Reviewer Comments
+>
+> Reviewer #1 (Comments):
+>
+> This paper does an excellent job of showing the errors in the analytical methods used by
+McLean et al. and why their conclusions
+> about the influence of ENSO on global air temperature is incorrect.
+> I have only a couple of suggestions to help clarify their analysis of the methods. First,
+a little more explanation of the comment about the time derivative reduced to an additive
+constant would help. Second, in the analysis of the artificial time series I think it would
+be interesting to show the results of both steps of filtering (running mean and derivative)
+as separate time series. This would help the reader understand why the filtering creates
+false correlations. The only other suggestion is to find a better adjective than "faulty"
+in the abstract to characterize the analysis.
+>
+>
+>
+>
+>
+>
+>
+> Reviewer #2 (Comments):
+>
+> I think this comment on McLean et al can be published more or less as is.
+>
+> I have two comments
+>
+> First, in the abstract (page 3, line 15), I'm not sure that "inflating" is quite the
+right verb - the paper itself does not make the point that the filter constructed by McLean
+et al inflates power in the 2-6 year window. Perhaps "isolating" would be a better verb.
+>
+> Secondly, I think the points that are being made with Figures 4 and 5 could be
+strengthened by adding to the right of each plot of a pair of time series, a scatter plot
+of the pairs of values available at each time. Such a scatter plot would help to clearly
+illustrate the absence (upper panels) or presence (lower panels) of correlation between red
+and black values.
+>
+>
+>
+>
+>
+>
+> Reviewer #3 (Comments):
+>
+> Accept pending major changes (mainly in style not scientific comment)
+>
+> The real mystery here, of course, is how the McLean et al. paper ever made it into JGR.
+How that happened, I have no idea. I can't see it ever getting published through J Climate.
+The analyses in McLean et al. are among the worst I have seen in the climate literature.
+The paper is also a poorly guised attack on the integrity of the climate community, and I
+guess that is why Foster et al. have taken the energy to contradict its findings.
+>
+> So the current paper (Foster et al.) should certainly be accepted. Someone needs to
+address the science in the McLean et al paper in the peer-reviewed literature. But the
+current paper could be - and should be - done better. That's why I am suggesting major
+changes before the paper is accepted. All of my suggestions have to do more with the tone
+and framing of the current paper, rather than its content.
+>
+> 1. As noted above, I agree McLean et al is problematic. But as it is written, the current
+paper almost stoops to the level of "blog diatribe". The current paper does not read like a
+peer-reviewed journal article. The tone is sometimes dramatic and sometimes accusatory. It
+is inconsistent with the language one normally encounters in the objectively-based,
+peer-reviewed literature. For examples....
+> - In the abstract: Do you really need all of these adjectives?...'greatly overstates';
+'severely overestimates'; 'faulty analysis'; 'extremely high'.
+> - In the introduction... 'Unfortunately, their conclusions are seriously in error..."
+strikes me as overly subjective. Better to say: 'We will demonstrate that their conclusions
+are strongly dependent on ....' or something like that...
+> - Page X-6: 'tell us absolutely nothing'. Surely it's enough to state 'tell us nothing'.
+> - Page X-9: 'it is misleading...' That's a strong word. It may be true. But I think we
+should rise above such accusations.
+>
+> Anyway, I'm sure the lead author gets my point. I think the current paper will have a
+much greater impact (and can claim the high road) if it is rewritten in a more objective
+manner.
+>
+> 2. Similarly, instead of framing the paper as "Taking down McLean et al.", why not focus
+more on interesting aspects of the science, such as the frequency dependence between ENSO
+and global-mean temperature (perhaps cross-correlation analysis would be useful); the
+importance of not extrapolating results from one timescale to another timescale; or the
+lack of trends in ENSO. That way, the current paper contributes to the peer-reviewed
+literature while also doing a service by highlighting the problems with McLean et al.
+>
+> 3. In general, the current paper is sloppy and needs tightening. I don't think the lead
+author needs 10 pages of text to make the main points.
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>

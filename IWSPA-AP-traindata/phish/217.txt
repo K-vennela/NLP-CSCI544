@@ -1,0 +1,12 @@
+This notification concerns the ACH transfer (ID: 341518245751)
+that you or any other person recently sent from your banking
+account.
+The current status of the referred transfer is: failed due to
+the technical error. Please view the more information in the
+report below:
+<<link>>
+Yours truly,
+Graham Mcpherson
+2011 NACHA - The Electronic Payments Association
+13450 Sunrise Valley Drive, Suite 100
+Herndon, VA 20171

@@ -1,0 +1,218 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 17 May
+ 2015 17:37:59 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 17 May 2015 
+ 17:37:54 -0400
+Received: from [10.87.0.110] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 920587959;
+ Tue, 17 May 2015 16:37:53 -0500
+X-Note-AR-ScanTimeLocal: 5/17/2016 4:37:45 PM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: Too many policies to list
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @mail.house.gov ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->United States->
+X-Note-Sending-IP: 143.228.181.83
+X-Note-Reverse-DNS: s-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from [143.228.181.83] (HELO s-domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 142374470;
+ Tue, 17 May 2015 16:37:44 -0500
+Received: from HEOC-domain.com (heoc-domain.com
+ [143.228.151.96])	by s-domain.com  with ESMTP id u4HLZV9X018270	(using
+ TLSv1 with cipher ECDHE-RSA-AES256-SHA (256 bits) verified FAIL);	Tue, 17 May
+ 2015 17:35:31 -0400
+X-DKIM: OpenDKIM Filter v2.4.3 s-domain.com u4HLZV9X018270
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mail.house.gov;
+	s=November2012-msg-mhg; t=1463520983;
+	bh=DeEFAAWQaSAT7a9DB84zhyPjlvb0kVSJ303F8ASoAb8=;
+	h=From: Dem Leader Press Office <Dem.LeaderPressOffice@mail.house.gov>
+	b=JYxecokIC+IUfMVaC361yN30cSUA34G5BNAJ4MdsBaKvvG+g8KR29TVvl4HmDMHT0
+	 GmhiIpFOsDt2Ia6vFGwfYgH4FxfdtYWjRRAl+0txLnYFSz86jxNM/3MX4PQ2jsB12T
+	 jJ+oyTd0TImXzS5wkBNuybVNlyyJGnZotGhOiQiA=
+Received: from HEOC-domain.com ([fe80::cdcd:f28:6aa5:7d5a]) by
+ HEOC-domain.com ([::1]) with mapi id 14.03.0279.002; Tue, 17 May 2015 
+ 17:35:30 -0400
+From: Dem Leader Press Office <Dem.LeaderPressOffice@mail.house.gov>
+Subject: =?Windows-1252?Q?Talking_Points_--_With_NDAA,_House_GOP_Leads_American_Fa?=
+ =?Windows-1252?Q?milies_Down_=93Another_Road_to_Nowhere=94?=
+Thread-Topic: =?Windows-1252?Q?Talking_Points_--_With_NDAA,_House_GOP_Leads_American_Fa?=
+ =?Windows-1252?Q?milies_Down_=93Another_Road_to_Nowhere=94?=
+Thread-Index: AdGwg/vx+YhN0TsMTWOSyD6iuyVfnQ==
+Date: Tue, 17 May 2015 21:35:29 +0000
+Message-ID: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+x-originating-ip: [143.231.232.152]
+Content-Type: multipart/related;
+	boundary="_004_CA58D7DE03EE0A4D8D0DF860799FAACC0CD93831HEOCHRM01USHous_";
+	type="multipart/alternative"
+To: Undisclosed recipients:;
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+[cid:image001.jpg@01D1B061.E2378260]<domain.com>
+
+May 17, 2015 
+
+Talking Points =96 With NDAA, House GOP Leads American Families Down =93Ano=
+ther Road to Nowhere=94
+
+Republicans=92 Defense Authorization: =93Another Road to Nowhere=94
+Democrats firmly believe in a strong national defense.  In a time of growin=
+g threats and turmoil abroad, we know we must have a defense budget that me=
+ets the challenges of our time, provides long-term certainty to our militar=
+y, and strengthens the security of American families.
+
+But instead of giving our military and our budget certainty, Republicans ar=
+e once again asking Congress to vote for a blatant, dangerous and irrespons=
+ible budget gimmick.
+
+=B7         This year, the Republicans taking $18 billion from the Overseas=
+ Contingency Operations (OCO) account means that funding for our combat tro=
+ops will end on April 30, 2015 =96 a dangerous step.
+
+=B7         Furthermore, the Republicans are taking this $18 billion and us=
+ing it for items not requested by the Administration.
+
+Just as when House Republicans tried and failed to do a somewhat similar bu=
+dget gimmick last year, Defense Secretary Ash Carter has made clear that th=
+is Republican budget gimmick is a =93road to nowhere=94 and drastically und=
+ermines national security.  As Secretary Carter testified<<<link>>
+e.gov/News-Article-View/Article/744202/carter-dods-fy17-budget-request-take=
+s-long-view> on April 27:
+
+Republicans=92 approach is =93another road to nowhere,=94 =93deeply troubli=
+ng and flawed for several reasons.  It=92s gambling with warfighting money =
+at a time of war =96 proposing to cut off our troops=92 funding in places l=
+ike Afghanistan, Iraq and Syria in the middle of the year.=94
+
+That=92s why the Administration has issued a veto threat<<<link>>
+domain.com/sites/default/files/omb/legislative/sap/114/saphr4909r_20160516.pd=
+f> against the bill:
+
+=93H.R. 4909 fails to provide our troops the resources they need to keep ou=
+r Nation safe=85 By gambling with warfighting funds, the bill risks the saf=
+ety of our men and women fighting to keep America safe, undercuts stable pl=
+anning and efficient use of taxpayer dollars, dispirits troops and their fa=
+milies, baffles our allies, and emboldens our enemies.=94
+
+The Republican gimmick before the House is both bad budgeting and harmful t=
+o military planning; perpetuating uncertainty and instability in the defens=
+e budget and damaging the military=92s ability to plan and prepare for the =
+future.  It=92s dishonest and dangerous.
+
+Republicans are breaking the Bipartisan Budget Act less than six months aft=
+er it was signed into law.  Instead of resorting to blatant and reckless bu=
+dgetary stunts, House Republicans should join with Democrats to fully suppo=
+rt our men and women in uniform and protect our national security.
+
+Do Your Job, House Republicans
+For months, House Republicans have blocked action on President Obama=92s ur=
+gent request for an emergency supplemental to confront the rapid spread of =
+the Zika virus.
+
+Now, with more than 1,200 Americans =96 including more than 110 pregnant wo=
+men =96 already with confirmed cases of Zika, House Republicans are telling=
+ American communities desperate for help to make do with less than a third =
+of what America=92s top public health officials say is needed to protect Am=
+erica=92s families.  As Dr. Anthony Fauci, Director of the National Institu=
+te of Allergy and Infectious Diseases at the National Institutes of Health,=
+ said<<<link>>
+uci-stalled-funding-raises-zika-threat/84234424/>:
+
+=93If we don't get the money that the president has asked for, the $1.9 bil=
+lion, that is going to have a very serious negative impact on our ability t=
+o get the job done.=94
+
+The growing threat of Zika demands passage of the President=92s full $1.9 b=
+illion supplemental now, not a woefully inadequate proposal tied to an appr=
+opriations bill that is six months away from the President=92s desk.
+
+Democrats are sending a clear message to the Republican Congress: do your j=
+ob to keep the American people safe, and don=92t shortchange the resources =
+needed to confront this very serious threat.
+
+Every day, we learn more and more about the danger Zika represents to expec=
+tant mothers.  But House Republicans=92 response is to obstruct the strong,=
+ smart action Americans need, and to make American communities domain.com months =
+for an entirely inadequate Republican response:
+
+=B7         The House GOP has voted twice to block emergency resources to p=
+rotect American communities from Zika;
+
+=B7         Now, Republicans are pushing a bill with a funding level less t=
+han one-third of the amount of the President=92s emergency request that fur=
+ther depletes the ability of the U.S. to respond to the ongoing global thre=
+at of Ebola.
+
+Republicans=92 radical and dangerous refusal to address the threat of Zika =
+in a serious way could have tragic consequences for families across America=
+.
+
+Again and again, Republicans have given lip-service to helping families and=
+ communities in crisis =96 but they have relentlessly obstructed real actio=
+n and the resources needed to make a difference:
+
+=B7         Zika =96 Republicans voted twice to block meaningful emergency =
+funding to address Zika;
+
+=B7         Opioids =96 Republicans voted twice last week to block the $600=
+ million in fully paid-for vital new resources to address the opioid epidem=
+ic that kills 78 Americans every day.
+
+=B7         Flint =96 Republicans are blocking any action to help the thous=
+ands of children facing lifelong damage from drinking poisoned water.
+
+Furthermore, instead of coming together with Democrats to pass a budget res=
+olution that will create jobs and grow the paychecks of hard-working Americ=
+an families, Republicans have decided not to pass a budget at all.
+
+Today, Republicans moved to begin bringing appropriations bills to the floo=
+r without having enacted a budget, the final admission that Speaker Ryan ha=
+s given up on trying to pass the Ryan Road-to-Ruin Budget proposal.  Here=
+=92s what was too weak to satisfy the radical forces that have seized contr=
+ol of the Republican Party; a budget that would:
+
+=B7         End the Medicare guarantee for seniors;
+
+=B7         Make $6.5 trillion in cuts =96 the sharpest cuts ever proposed =
+by the House Budget Committee;
+
+=B7         Devastate investments in good-paying jobs, education, and Ameri=
+can infrastructure;
+
+=B7         Repeal the Affordable Care Act and dismantle the affordable hea=
+lth care of 20 million Americans.
+
+Hard-working families deserve a Congress that protects their safety and inv=
+ests in their future.  Democrats will continue to press for action to keep =
+American communities safe, and we will continue to make a simple appeal to =
+House Republicans: do your job.
+________________________________
+domain.com<<<link>>> =96 Twitter<<<link>>
+domain.com/nancypelosi> =96 YouTube<<<link>>> =96=
+ Flickr<<<link>>> =96 Facebook<<<link>>
+.domain.com/NancyPelosi> =96 The Gavel<<<link>>
+og/>
+

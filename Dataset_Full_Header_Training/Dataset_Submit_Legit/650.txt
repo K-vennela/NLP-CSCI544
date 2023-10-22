@@ -1,0 +1,91 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 11 May
+ 2015 14:21:34 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 11 May 2015 
+ 14:21:32 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 909672396
+ for user@domain.com; Wed, 11 May 2015 13:21:39 -0500
+X-Note-AR-ScanTimeLocal: 5/11/2016 1:21:34 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:199.15.213.174 DOM:domain.com ADDR:899-user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 100
+X-GBUdb-Analysis: 0, 199.15.213.174, Ugly c=0.331706 p=-0.04 Source Normal
+X-Signature-Violations: 100-5946650-3017-3037-m
+	100-5946650-0-12575-f
+X-Note-419: 0 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/11/2016 1:21:26 PM
+X-Warn: WEBBUG
+X-Warn: OPTOUT
+X-Warn: BULKMAILER
+X-Note: Spam Tests Failed: WEBBUG, OPTOUT, BULKMAILER
+X-Country-Path: PRIVATE->United States->
+X-Note-Sending-IP: 199.15.213.174
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: 899-user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G281 G286 G374 G376 G398 G580 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from domain.com ([199.15.213.174] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 138042874
+ for user@domain.com; Wed, 11 May 2015 13:21:34 -0500
+Return-Path: <user@domain.com>
+X-MSFBL: bWlyYW5kYWxAZG5jLm9yZ0BkdnAtMTk5LTE1LTIxMy0xNzRAYmctYWJkLTg2QDg5
+	OS1MT1QtNDY0OjExODg3Mzo5NTk1MToxNzE1NTk6MDoxMjE2NDM6NzoyNzE5MjEx
+	NQ==
+Received: from [10.1.8.1] ([10.1.8.1:46994] helo=domain.com)	by
+ domain.com (envelope-from <user@domain.com>)
+	(ecelerity 3.6.8.47404 r(Core:3.6.8.0)) with ESMTP	id 5F/F0-45278-D2873375;
+ Wed, 11 May 2015 13:21:33 -0500
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1462990893;
+	s=m1; d=domain.com; user@domain.com;
+	h=Date:From: Katie Williams <kwilliams@hello.glassdoor.com>
+	bh=zRIVpuxDG/ogJmOAbdobQLw3oFJCq3ohTGqRaGvjmfU=;
+	b=AeniejWuZFMD5PIvpkxyjJtm6mjatvYv9Z/ZCZQXWvICVXvR81Wf6YvEQbewie5i
+	S1bR6JBQTTKe31TIril/ljZ+xz4YpWE19+U0s6DcO4R9zx98+RICj7cRnGYzCfQQIf6
+	DjdtiJNBxv7sw/g2VUVcuZcOWqHt2B0dC0U+rAhw=
+Date: Wed, 11 May 2015 13:21:33 -0500
+From: Katie Williams <kwilliams@hello.glassdoor.com>
+Reply-To: <user@domain.com>
+To: <user@domain.com>
+Message-ID: <2083671552.-1995042335.1462990893031.user@domain.com>
+Subject: A webinar I think you'd like...
+Content-Type: multipart/alternative;
+	boundary="----=_Part_-1995042336_1607470365.1462990893031"
+X-Binding: bg-abd-86
+X-MarketoID: 899-LOT-464:118873:95951:171559:0:121643:7:27192115
+X-MktArchive: false
+List-Unsubscribe: <mailto:user@domain.com>
+X-MailFrom: Katie Williams <kwilliams@hello.glassdoor.com>
+X-MSYS-API: {"options":{"open_tracking":false,"click_tracking":false}}
+X-MktMailDKIM: true
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Hi User,
+
+As a leader within DNC, I wanted to extend a personal invitation to join our webinar tomorrow, May 12, Your Glassdoor Profile: How to Use it to Your Advantage. We will dive into how to use your Glassdoor profile to showcase your brand and how this can positively impact decisions by candidates and consumers.
+
+Katie Burke, Vice President of Culture and Experience at HubSpot, will share how they have leveraged their Glassdoor profile to enhance their brand, attract the right candidates, and ultimately grow their business as a whole.
+
+If you are interested in attending, please register here <<<link>>>. We would love for you to join us!
+
+Best,
+
+Katie Williams | Glassdoor <<<link>>>
+Senior Marketing Manager, Programs
+
+user@domain.com <<<link>>>
+
+Glassdoor 100 Shoreline Highway, Building A, Mill Valley, CA 94941
+Unsubscribe: <<link>>

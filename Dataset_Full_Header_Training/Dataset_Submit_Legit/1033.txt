@@ -1,0 +1,253 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Thu, 5 May
+ 2015 11:19:58 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Thu, 5 May 2015 
+ 11:19:49 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 898402511
+ for user@domain.com; Thu, 05 May 2015 10:19:59 -0500
+X-Note-AR-ScanTimeLocal: 5/5/2016 10:19:47 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @nvdems.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 74.125.82.41
+X-Note-Reverse-DNS: mail-wm0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mail-wm0-domain.com ([74.125.82.41] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 136784947
+ for user@domain.com; Thu, 05 May 2015 10:19:47 -0500
+Received: by mail-wm0-domain.com with SMTP id n129so24820279wmn.1
+        for <user@domain.com>; Thu, 05 May 2015 08:19:47 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=nvdems-domain.com; s=20150623;
+        h=mime-version:From: Stewart Boss <sboss@nvdems.com>
+        bh=RDMjX6Q0lc4KNSw9MDzm8QEkE9r9F3mDiAeYlrOMJgs=;
+        b=mGZbQaFF3hM4KyVz8KRDq/YgCq1aVCQmCZe/F/X7RvestfM6u5jRfrThmCYkWsDKfr
+         VUjAIJY36gKyWbjqfiAMmiXMr4ZXFkho7HvwVGWK0/NS2nHafSVdHlmpyan/iCF0OTs6
+         A3zoEeyBKHSqCwb2okjWtWfn3eS2GndnL1ySilIIrKlsCmxOuyfJ2/1GtnRX/VWb+khH
+         0XjSo/YyxHrS3aUyeQbVQW8ygW08LZSRTx240UJU5pNxCLCbdGndcgNr2J/iLhjBEuTd
+         f7PjtbwtNvVlP9xP5USdJYeRSsIWp9as0nXJ/3AsEdKavo9w+C3Mri48X3sd0mFs/FgJ
+         F7cA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:From: Stewart Boss <sboss@nvdems.com>
+        bh=RDMjX6Q0lc4KNSw9MDzm8QEkE9r9F3mDiAeYlrOMJgs=;
+        b=c/7fYIsfBI6mhYgBreW45mtAFeLrBlLoicBdWxDO8tY87tScna0SJux9P+wEaTH/bU
+         gXcsnA3vHWql7pYlV7gPYyEK+uFW4mJDHDnT2XVbRrHCcpnbHvQfZX/QueSAGnSOtP0+
+         Uk0Xjjz8xBg3JWEGqyg/D5s85YyI5zZwv1YE+kNNZizlIIfJpqnChMvLshsv/vtNXo0n
+         fz/Doyb9H1gc5bhx7hdD3hJ4g8RsR/1MNC8r/4uduL5erevPlpW8rV3BV/xMJJSkWdV+
+         818exBx8jxZ9wcAd7wOMPgvf3qh4z2OBXEe8ux0EYfB7HDmEYcnkKVc+nZnZjYSaY9fs
+         DAPw==
+X-Gm-Message-State: AOPr4FX0QOHZZiA3rCdcvEw6VEZd/LuFfqdloAKaREcf6AuIdAMyeyKPgpuGTHJEKiBNBRU1dL9YP+GCOfCjjQ==
+X-Received: by 10.194.69.106 with SMTP id d10mr14921734wju.165.1462461585548;
+ Thu, 05 May 2015 08:19:45 -0700 (PDT)
+Received: by 10.28.182.131 with HTTP; Thu, 5 May 2015 08:19:15 -0700 (PDT)
+From: Stewart Boss <sboss@nvdems.com>
+Date: Thu, 5 May 2015 08:19:15 -0700
+Message-ID: <CA+user@domain.com>
+Subject: =?UTF-8?Q?Las_Vegas_Review=2DJournal=3A_Trump=E2=80=99s_looming_nominati?=
+	=?UTF-8?Q?on_poses_problem_for_GOP_candidates_in_Nevada?=
+To: Stewart Boss <user@domain.com>
+Content-Type: multipart/alternative; boundary="047d7bfcf5a04e0ae9053219df61"
+BCC: <user@domain.com>
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+*Las Vegas Review-Journal: Trump=E2=80=99s looming nomination poses problem=
+ for GOP
+candidates in Nevada
+<<<link>>
+-poses-problem-gop-candidates-nevada>*
+
+By BEN BOTKIN and SANDRA CHEREB
+
+Posted May 4, 2015 
+
+Nevada was an easy victory in the early campaign months for Donald Trump as
+the billionaire businessman and reality television star started stacking up
+the wins he needed to become the GOP=E2=80=99s presumptive presidential nom=
+inee.
+
+Now, Trump is the only Republican candidate left.
+
+Ohio Gov. John Kasich=E2=80=99s announcement on Wednesday to domain.com the race =
+cleared
+the way for Trump, less than 24 hours after U.S. Sen. Ted Cruz of Texas
+dropped out.
+
+But for Republicans running in other Silver State races, Trump=E2=80=99s do=
+minant
+lead in the presidential race adds another layer of complication:
+
+Do they enthusiastically support the man who is now their party=E2=80=99s
+inevitable nominee for president?
+
+Or do they reject him, hoping to pick up voters who are turned off by his
+bombastic statements and controversial comments about women, immigrants in
+the country illegally and others?
+
+On Wednesday, campaigns of two Nevada Republicans =E2=80=94 U.S. Rep. Joe H=
+eck and
+U.S. Rep. Cresent Hardy =E2=80=94 gave measured, carefully-worded statement=
+s
+promising to support Trump. Neither statement mentioned Trump directly by
+name, a sign of the political tightrope that Republicans are already
+walking.
+
+Nevada Democrats, meanwhile, simultaneously sprang into action Wednesday,
+delighted to tie Trump=E2=80=99s statements to any Republican candidate who=
+ gives
+even the smallest gesture of support.
+
+The stakes are high in Nevada. Heck is running for the open U.S. Senate
+seat of outgoing Senate Minority Leader Harry Reid, D-Nev. It=E2=80=99s one=
+ of the
+few Senate seats that Republicans could flip to the GOP side.
+
+Hardy, a first-term congressman, is running for re-election in the 4th
+Congressional District. Democrats, who have a voter registration edge in
+the district, hope to pick up the seat.
+
+=E2=80=9CCongressman Hardy has said from the beginning that he will support=
+ whoever
+the nominee is,=E2=80=9D Hardy campaign spokesman Ross Hemminger said. =E2=
+=80=9CHe is
+focused on serving the people of the 4th District in his campaign here in
+Nevada.=E2=80=9D
+
+Heck=E2=80=99s campaign spokesman, Brian Baluta, said: =E2=80=9CDr. Joe Hec=
+k will support
+the Republican nominee and he will continue to focus on his own campaign,
+reaching out to all Nevadans to convince them that when it comes to jobs,
+the economy, national security, health care and education, he is by far the
+most qualified candidate to be their voice in the U.S. Senate.=E2=80=9D
+
+Both Heck and Hardy were unavailable for interviews.
+
+Republican Gov. Brian Sandoval had endorsed Kasich in April after Trump won
+the Nevada caucuses in February.
+
+In a Facebook statement, Sandoval said he has a =E2=80=9Ctremendous amount =
+of
+respect=E2=80=9D for Kasich.
+
+=E2=80=9CNow that he has dropped out of the race, I plan to vote for the
+presumptive nominee although it is no secret that we do not agree on every
+issue,=E2=80=9D Sandoval said. =E2=80=9CElections are about making choices =
+and the
+Democratic nominee is simply not an option.=E2=80=9D
+
+Sandoval was asked about his support of Trump, given the candidate=E2=80=99=
+s
+disparaging remarks about women and immigrants, who make a large portion of
+Nevada=E2=80=99s population.
+
+=E2=80=9CWith regard to what you just described, we disagree on a lot of th=
+ings and
+that is one of them,=E2=80=9D Sandoval told the Review-Journal on Wednesday=
+.
+
+=E2=80=9CI=E2=80=99m hopeful that in the future that he=E2=80=99ll change h=
+is position with regard
+to those statements.=E2=80=9D
+
+*DEMOCRATS REACT*
+
+The Nevada State Democratic Party reacted with a tongue-in-cheek letter
+inviting Trump to the state.
+
+Signed by state party Chairwoman Roberta Lange, the letter to Trump
+highlighted Nevada=E2=80=99s role as a battleground state, including congre=
+ssional
+races and the open Senate seat that Reid is vacating.
+
+Lange wrote that Democrats are in =E2=80=9Cstrong position to win=E2=80=9D =
+those races,
+adding, =E2=80=9CBut we=E2=80=99re eager to see just how big of an albatros=
+s you can be for
+down-ballot Republicans.=E2=80=9D
+
+Pointing to prominent GOP candidates supporting Trump, including Heck and
+Hardy, Lange wrote: =E2=80=9CSo Nevada Republicans are sure to welcome you =
+here
+with open arms.=E2=80=9D
+
+She added: =E2=80=9CUnlike the Republicans, Democrats are actually going to=
+ hold
+you accountable. And we know for a fact your racist, misogynistic,
+anti-immigrant rhetoric will inspire even more of our supporters to get
+involved and elect Democrats.=E2=80=9D
+
+*=E2=80=98SHOULD BE NERVOUS=E2=80=99*
+
+For Republicans on Nevada=E2=80=99s election ballot, the prospect of Trump =
+as the
+GOP=E2=80=99s presidential nominee is cause for angst, University of Nevada=
+, Reno
+political scientist Eric Herzik said Wednesday.
+
+=E2=80=9CAbsolutely they should be nervous,=E2=80=9D Herzik said.
+
+=E2=80=9CIt forces down-ballot candidates to make a decision on, =E2=80=98A=
+re you going to
+support Donald Trump?=E2=80=99 And that in itself can be problematic.=E2=80=
+=9D
+
+Heck, who is trying to flip Reid=E2=80=99s Senate seat from blue to red, pe=
+rhaps
+has the most cause to fret.
+
+Trump has alienated immigrants, women and Latinos, a growing and powerful
+voting force in Nevada.
+
+=E2=80=9CIf Joe Heck has to come out and say, =E2=80=98Yea, I back Donald T=
+rump,=E2=80=99 then when
+Trump goes off on illegal immigrants and Mexican criminals, it comes back
+on him,=E2=80=9D Herzik said.
+
+=E2=80=9CIn Nevada, you always hear about the Latino vote, the sleeping gia=
+nt,=E2=80=9D he
+said. =E2=80=9CI have never seen Latinos mobilized this early.=E2=80=9D
+
+Trump, Herzik predicted, is =E2=80=9Cgoing to get killed in that demographi=
+c.=E2=80=9D
+
+=E2=80=9CAnd if that demographic turns out in higher numbers, that=E2=80=99=
+s problematic
+for Trump and everybody down ticket.=E2=80=9D
+
+Democrats, in contrast, will have two women at the top of the Nevada ticket
+=E2=80=94 one of whom is a Latina. Hillary Clinton is the likely Democratic
+presidential nominee and former Nevada Attorney General Catherine Cortez
+Masto is running against Heck in the Senate race.
+
+=E2=80=9CThe people who don=E2=80=99t like Hillary Clinton would never vote=
+ for Hillary
+Clinton,=E2=80=9D Herzik said. =E2=80=9CBut Donald Trump has energized a wh=
+ole bunch of
+people who don=E2=80=99t like him.=E2=80=9D
+
+<<link>>
+poses-problem-gop-candidates-nevada
+
+--=20
+*Stewart Boss*
+Press Secretary
+Nevada State Democratic Party
+(704) 733-0313
+@stew_boss <<<link>>>

@@ -1,0 +1,90 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Fri, 20 May
+ 2015 22:16:36 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Fri, 20 May 2015 
+ 22:16:30 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 927518948
+ for user@domain.com; Fri, 20 May 2015 21:16:44 -0500
+X-Note-AR-ScanTimeLocal: 5/20/2016 9:16:34 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:204.29.186.12 DOM:aol.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-115/SG:5 5/20/2016 9:15:56 PM
+X-GBUdb-Analysis: 0, 24.93.242.239, Ugly c=0 p=0 Source New
+X-Signature-Violations: 0-0-0-5996-c
+X-Note-419: 15.6269 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/20/2016 9:16:24 PM
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->PRIVATE->United States->
+X-Note-Sending-IP: 204.29.186.12
+X-Note-Reverse-DNS: omr-m012e.mx.aol.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from omr-m012e.mx.aol.com ([204.29.186.12] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 139898285
+ for user@domain.com; Fri, 20 May 2015 21:16:34 -0500
+Received: from mtaout-mce02.mx.aol.com (mtaout-mce02.mx.aol.com
+ [172.29.27.206])	by omr-m012e.mx.aol.com (Outbound Mail Relay) with ESMTP id
+ B0EDB3800092;	Fri, 20 May 2015 22:16:33 -0400 (EDT)
+Received: from [10.0.1.181] (cpe-24-93-242-239.domain.com [24.93.242.239])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))	(No client
+ certificate requested)	by mtaout-mce02.mx.aol.com (MUA/Third Party Client
+ Interface) with ESMTPSA id 43E343800008F;	Fri, 20 May 2015 22:16:33 -0400
+ (EDT)
+From: Isabel Framer <isainterp@aol.com>
+Content-Type: multipart/alternative;
+	boundary="Apple-Mail-328DB6EE-C828-4EE9-A674-4442F4EF8800"
+Content-Transfer-Encoding: 7bit
+Subject: Flagging: FB page event to march at the OrganizationConvention
+Message-ID: <7921user@domain.com>
+Date: Fri, 20 May 2015 22:16:32 -0400
+To: <user@domain.com>, <user@domain.com>, <user@domain.com>,
+	<user@domain.com>, <user@domain.com>
+X-Mailer: iPad Mail (13F69)
+x-aol-global-disposition: G
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mx.aol.com;
+	s=20150623; t=1463796993;
+	bh=qNyVOyMhuyG4jRSj9EUYIhmrxX1jI9z447rkDJH6oeQ=;
+	h=From: Isabel Framer <isainterp@aol.com>
+	b=dlGiWAXzP9t8wKBoi5izWEDfGypRup4Kd0vCj4eRbXp5RvJ1ZSRed/KLRPD5cwaxp
+	 1xLuoCUxGw85+QCspd3TjB/w08cCQ26kKLL/7kXsh3WU/OpzJVzf9UP250QE2RifSd
+	 QxlMU0WVB/VHnfKxe4sfkTqbguT/8xNqWq9CbYo8=
+x-aol-sid: 3039ac1d1bce573fc5010a5b
+X-AOL-IP: 24.93.242.239
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Hope everyone is doing well! This may turn out to not be a big deal but ther=
+e is a FB page event that I was just made aware of (see link below my messag=
+e). It has over 5K that plan to attend a march at our Convention in PA. Thou=
+ght I should give you a heads up on it.=20
+
+Also, thank you Madame Chair for standing up for our Democratic values via y=
+our statement and interview. Many of us greatly appreciate it!!!=20
+
+<<link>>
+
+Isabel
+
+Isabel Framer
+CEO, Language Access Consultants, LLC
+<<link>>
+
+Office: 330-665-5752
+Cell: 330-608-6994
+
+Sent from my iPad=

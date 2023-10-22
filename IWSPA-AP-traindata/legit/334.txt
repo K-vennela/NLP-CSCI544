@@ -1,0 +1,47 @@
+Chris,
+Sorry to be flooding you with another email, but I was discussing
+this with Tim. Tim reminded me of a paper that he'd written 
+in that well known journal Dendrocronologia ! I've sent down
+a copy of the proofs to you both. The paper has been in press for 
+the last 2 years ! This must be the slowest journal in the 
+world. This has some more theory in it and some variance 
+corrections for tree-ring and temperature series.
+We are going ahead with the method I've outlined over the 
+last few emails. Tim and I have modified a couple of things 
+slightly :
+1) Using the present combined dataset ( Jones, 1994 and Parker
+et al. 1995) we will calculate monthly rbars for each 5 by 5 
+box. The grid-box time series will be filtered with a 30-
+year Gaussian filter. rbar will be calculated from the residual
+grid-box time series. Tim reckons that a longer filter is better
+(an analysis in the paper). He suggests 40 years, but this 
+involves more problems with the ends, so we'll go with 30. I
+don't think 20,30,40 will make that much difference to the
+rbar values.
+We are using the combined dataste for the estimation as this
+should produce better rbar values around coasts and islands. If we
+used the land only dataset we would have real problems with
+isolated islands and with some coasts ( where all neighbouring
+boxes will be in one direction from the coastal box).
+2) Having got fields of the monthly rbars we'll then apply the
+formula to the land-only dataset. As you're doing something
+similar with the marine dataset, we can remerge the two
+variance corrected datasets using David's merging ( growing
+land and neighbour checking) program.
+3) We will then write this up as a small paper for GRL, about
+the land only results. Both of you can be on this if you want.
+We can decide later what to do about the merged dataset.
+4) applying the correction in real time in the future will mean
+that we will always be slightly changing approximately the last
+15 years data - because of the filter end effects. Best would
+seem to be to maintain the present version we have and apply
+this variance correction every few years ( eg the IPCC cycle !).
+Cheers
+Phil
+Prof. Phil Jones
+Climatic Research Unit        Telephone +44 (0) 1603 592090 
+School of Environmental Sciences    Fax +44 (0) 1603 507784 
+University of East Anglia                      
+Norwich                          Email    p.jones@uea.ac.uk 
+NR4 7TJ
+UK

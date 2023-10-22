@@ -1,0 +1,41 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Tue, 10 Mar 2015 04:37:47 +0100
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id 3631D621A2	for
+ <user@domain.com>; Tue, 10 Mar 2015 03:16:02 +0000 (GMT)
+Received: by domain.com (Postfix)	id 4C7E9B66040; Tue, 10 Mar 2015 
+ 04:37:47 +0100 (CET)
+Delivered-To: user@domain.com
+Received: from DanielPC (unknown [203.116.19.132])	(using TLSv1 with cipher
+ AES256-SHA (256/256 bits))	(No client certificate requested)	by
+ domain.com (Postfix) with ESMTPSA id 1A8F7B6600B;	Tue, 10 Mar 2015 
+ 04:37:36 +0100 (CET)
+Reply-To: <user@domain.com>
+From: Daniel Maglietta <d.maglietta@hackingteam.com>
+To: 'Giancarlo Russo' <user@domain.com>, <user@domain.com>
+CC: Daniele Milan <user@domain.com>, <user@domain.com>, 'Eugene
+ Ho' <user@domain.com>
+References: <001a01d057f3$f97d1ce0$ec7756a0$@hackingteam.com>
+In-Reply-To: <001a01d057f3$f97d1ce0$ec7756a0$@hackingteam.com>
+Subject: FW: Potential CVs
+Date: Tue, 10 Mar 2015 11:37:36 +0800
+Organization: HT SRL
+Message-ID: <008301d05ae3$90bac660$b2305320$@hackingteam.com>
+X-Mailer: Microsoft Outlook 15.0
+Thread-Index: AQIGwtgaRzHeVjGh5oq7KzqYaJzMQJyoP6vw
+Content-Language: en-sg
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=DANIEL MAGLIETTA983
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1376413519_-_-"
+
+Hi Gian,  I just had the first interview via skype with Sundararajan, I would send him to the next step of interview.The good thing is that his family lives in India meaning that he would not mind to be based in India up to 70% of the time. He is currently on a yearly package of SGD 48.750 and an annual bonus of 8.19% of his current salary, and he could start working with us next week if needed. Ale, when could you have a skype call with him? Thanks,    Daniel MagliettaChief of HT Singapore Representative Office user@domain.com: +6591273560www.hackingteam.com HT SrlUOB Plaza 180 Raffles PlaceLevel 35-25 Singapore 048624 From: Daniel Maglietta <d.maglietta@hackingteam.com>
+Sent: Friday, 6 March, 2015 5:58 PM
+To: 'Daniel Maglietta'
+Subject: Potential CVs Hi Daniel, Please find some potential resumes for FAE attached.Thanks  Regards, Eugene HoField Application Engineer Hacking TeamMilan Singapore Washington DCwww.hackingteam.com email: user@domain.com: +65 9127 3063 

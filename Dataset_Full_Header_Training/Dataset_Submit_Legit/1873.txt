@@ -1,0 +1,37 @@
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ dnchubcas2.dnc.org ([::1]) with mapi id 14.03.0224.002; Sun, 1 May 2015 
+ 21:20:06 -0400
+From: "Paustenbach, Mark" <PaustenbachM@dnc.org>
+To: "User" <user@domain.com>
+CC: Kate Houghton <user@domain.com>, "Bonosky, Garret" <user@domain.com>,
+	"User" <user@domain.com>, Ryan Banfill <user@domain.com>
+Subject: Briefings for NYC on Mon and Tues
+Thread-Topic: Briefings for NYC on Mon and Tues
+Thread-Index: AdGkD0X+y6R5zMJPS36TKSdcUC8kYg==
+Date: Sun, 1 May 2015 18:20:06 -0700
+Message-ID: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: dnchubcas2.dnc.org
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.176.66]
+Content-Type: multipart/mixed;
+	boundary="_007_DB091DC3DEF527488ED2EB534FE59C127E7E91dncdag1dncorg_"
+MIME-Version: 1.0
+
+See attached for the media briefings for DWS for Monday (Bloomberg Politics meeting and "With All Due Respect") and Tuesday (Wall Street Journal and Buzzfeed). Please let me know if you have any questions.
+
+Thanks,
+Mark
+
+Mark Paustenbach
+National Press Secretary &
+Deputy Communications Director
+Organization
+W: 202.863.8148
+user@domain.com<mailto:user@domain.com>
+

@@ -1,0 +1,86 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Thu, 12 May
+ 2015 08:12:54 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Thu, 12 May 2015 
+ 08:12:51 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 910895268
+ for user@domain.com; Thu, 12 May 2015 07:12:59 -0500
+X-Note-AR-ScanTimeLocal: 5/12/2016 7:12:59 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @hillaryclinton.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 209.85.213.175
+X-Note-Reverse-DNS: mail-ig0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mail-ig0-domain.com ([209.85.213.175] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 140195146
+ for user@domain.com; Thu, 12 May 2015 07:12:59 -0500
+Received: by mail-ig0-domain.com with SMTP id bi2so175687033igb.0
+        for <user@domain.com>; Thu, 12 May 2015 05:12:53 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=hillaryclinton.com; s=google;
+        h=mime-version:in-reply-to:references:date:message-id:subject:From: Zac Petkanas <zpetkanas@hillaryclinton.com>
+         :cc;
+        bh=Epk23GtSCa9KdPTkNvEP2mYmH5/LlqGXu4gbaZ/wG+Y=;
+        b=fcjiZyUjVGsy6lM1ZWhRtFXTOLUCdbQ24Baq57sKu9bXPj+RgQAbegYlJsYBKA/v56
+         lEudVZF/HLH4Y1YmHIiHxZdv4lFzBqRJqgZ8XxTPhqerH6kxWwFIoOuMhdkU+7MR73LF
+         +xmum+8EC0Zmva8E2XadmGzVXqC91EWODBaHA=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:date
+         :message-id:subject:From: Zac Petkanas <zpetkanas@hillaryclinton.com>
+        bh=Epk23GtSCa9KdPTkNvEP2mYmH5/LlqGXu4gbaZ/wG+Y=;
+        b=l+vWw7pxRb9+OxmxXQg4m8Gi7u95zP/UQCKl4RetxVKeeyeUA28E9VJWlQcvmpp7cH
+         VGpJlNeIVZ8aduXYAXJsYgzNR4qkPaFhP+BPrdPipi7/uJUQUaeVyhLHPp2XV17nFJCB
+         pM2qB5GtR6NZvzspx+bSfrP9ZQWORP0uS+WBMWIJ+NIDksbREV+FuKmYQbahtN2AjXgu
+         Ua6RKlNrLuF3zlgkyUwUtiFOiKY6+mZCYo80FUhtgYLfYnPVAKzgRlt/OhPTtDWjgiIW
+         zNoB5XyRsIwdiXkZ+eDU0lgvRiOL9/5qCTNxjmbIw8eKlX7k68UlDnmgOs0zsMPIVDSm
+         dYqA==
+X-Gm-Message-State: AOPr4FVlMkGNlo3wtFLeuHDaOpJdi/hEp8IAaxAUeuTzNP60tTbOVkyLFjBHFFEIuij2PkZ9D7NC6YBqM8kI9O96
+X-Received: by 10.50.29.242 with SMTP id n18mr7551210igh.62.1463055172919;
+ Thu, 12 May 2015 05:12:52 -0700 (PDT)
+Received: by 10.36.227.201 with HTTP; Thu, 12 May 2015 05:12:52 -0700 (PDT)
+In-Reply-To: <user@domain.com>
+References: <2user@domain.com>
+	<05user@domain.com>
+	<CAGitY4QqQ44Mt-V+user@domain.com>
+	<user@domain.com>
+Date: Thu, 12 May 2015 08:12:52 -0400
+Message-ID: <user@domain.com>
+Subject: =?UTF-8?Q?Re=3A_FW=3A_Press_events_re=3A_this_week=E2=80=99s_Trump=2FRyan_me?=
+	=?UTF-8?Q?eting?=
+From: Zac Petkanas <zpetkanas@hillaryclinton.com>
+To: "User" <user@domain.com>
+CC: "Paustenbach, Mark" <user@domain.com>
+Content-Type: multipart/alternative; boundary="f46d04428ecade7dd50532a41318"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+No. We had a whole back and forth on this exact subject where you made the
+exact arguments you're making now.
+
+Our conversation on Wednesday was about driving the wedge between Paul Ryan
+and Donald Trump, where Paul Ryan had trouble with his muslim ban and
+deportation squad etc... and that he would have to cave in order to get to
+Trump's position.  Short of that: just sticking with the general disunity
+theme and chaos in the Republican party, staying out of policy. That's what
+you agreed to do on the 1:30pm call yesterday. That's what I informed our
+campaign that you would be doing. We specifically talked about how we don't
+want to tie them together just yet or talk about the Ryan-Trump agenda.
+

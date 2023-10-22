@@ -1,0 +1,76 @@
+<x-flowed>
+Dear Keith,
+I hope that you had a good trip back from Bergen.
+Some of the review comments which appeared to be relevant for the 
+Holocene section are yours. I copy them here so that you can take there 
+of them.
+All the best,
+Valrie.
+6-687
+A
+26:18
+28:19
+Replace "limiting the vallue" on line 18 to "review as a" on line 19 by 
+"which means there is no legitimate"
+[VINCENT GRAY (Reviewers comment ID #: 88-774)]
+FOR KEITH
+6-694
+A
+27:0
+33:
+Section 6.6.1.1 (on 2000-yr proxy reconstructions) is a little too long. 
+It can be either shortened or reorganized into 2 or more shorter 
+sections, say on reconstruction history, debate, and new development.
+[Govt. of United States of America (Reviewers comment ID #: 2023-407)]
+6-695
+A
+27:0
+Fig. 6.10a. Rather than showing the average of 4 European stations I 
+suggest to plot the available averaged European mean land temperature 
+(using much more than just 4 stations) from Luterbacher et al. 2004 and 
+Xoplaki et al. 2005. This continental scale average would provide a more 
+appropriate overview for the last 250 years. The first lead author has 
+the data or they can be obtained prepared from xoplaki@giub.unibe.ch or 
+juerg@giub.unibe.ch. Xoplaki, E., Luterbacher, J., Paeth, H., Dietrich, 
+D., Steiner N., Grosjean, M., and Wanner, H., 2005: European spring and 
+autumn temperature variability and change of extremes over the last half 
+millennium, Geophys. Res. Lett., 32, L15713. Luterbacher, J., Dietrich, 
+D., Xoplaki, E., Grosjean, M., and H. Wanner, 2004: European seasonal 
+and annual temperature variability, trends and extremes since 1500, 
+Science, 303, 1499-1503.
+[Jrg Luterbacher (Reviewers comment ID #: 151-8)]
+6-696
+A
+27:0
+Fig 6.10. I here repeat a point made in my comments on the FOD. It is 
+statistically invalid and visually misleading to overlay the black 
+instrumental line on this diagram. The coloured graph lines show proxy 
+records that end at 1980. If you want a line that continues up to more 
+recent years that then you must use the proxy records that continue past 
+1980, not switch to a different type of series. There are up to date 
+proxy records available, but as I'm sure the authors of this chapter are 
+aware, they depart from the surface instrumental record, many of them 
+declining after 1980. By failing to show this, and including the surface 
+temperature data in black, it constitutes a misrepresentation, since the 
+black line is an invalid forward extrapolation of the proxy data. If the 
+reason for not showing the updated proxies is that they are not 
+considered to be good representatives of temperature anymore, then by 
+what right does the Figure insinuate that they were good proxies 8-10 
+centuries ago? It is no defence to claim that MBH99 established a 
+statistically skillful relationship between the proxy network and the 
+instrumental data, since that claim has been refuted, as discussed 
+above. McIntyre and McKitrick (2005a,d) showed that the pre-1450 RE 
+statistic was incorrectly benchmarked, yielding a spurious inference, 
+and the r2 stat calculated by MB&H themselves, which showed the lack of 
+skill, was simply not reported. The failure of the r2 and CE stats is 
+confirmed by Wahl and Ammann. The squared correlation between the MBH 
+long proxies and the instrumental record is nearly zero (MM05a,c). The 
+mean correlation between the long NOAMER proxies and gridcell 
+temperatures in the MBH98 data set (which dominate the pre-AD1450 
+portion) is -0.08 (McIntyre and McKitrick 2005c), and the RE 
+significance benchmark is above the MBH98 RE score, using all available 
+implementation of the Mann code (McIntyre and McKitrick 2005d). The 
+surface instrumental record cannot be used as a statistically valid 
+extrapolation for the proxies after 1980.
+[Ross McKitrick (Reviewers comment ID #: 174-35)]
+</x-flowed>

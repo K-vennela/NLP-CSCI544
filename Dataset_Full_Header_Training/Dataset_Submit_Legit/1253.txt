@@ -1,0 +1,60 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (localhost [127.0.0.1])
+	by localhost (Postfix) with SMTP id 21743733F;
+	Tue, 23 Jun 2015 16:39:29 +0200 (CEST)
+Received: from lismife.office.int.lisit.it (81-208-92-179.domain.com [81.208.92.179])
+	by domain.com (Postfix) with ESMTP id 4D669734A;
+	Tue, 23 Jun 2015 16:39:21 +0200 (CEST)
+Received: from EVS.office.int.lisit.it ([172.24.80.3]) by lismife.office.int.lisit.it with Microsoft SMTPSVC(6.0.3790.3959);
+	 Tue, 23 Jun 2015 16:42:41 +0200
+Received: from 172.24.80.81 ([172.24.80.81]) by EVS.office.int.lisit.it ([172.24.80.7]) with Microsoft Exchange Server HTTP-DAV ;
+ Tue, 23 Jun 2015 14:42:40 +0000
+Received: from LISMI256 by evs.office.int.lisit.it; 23 Jun 2015 16:42:44 +0200
+Subject: Re: R: R: Card e policlinico di Pavia
+From: Bruno Milani <bruno.milani@lisit.it>
+To: Francesco Schifilliti <user@domain.com>
+CC: Ivan Roattino <user@domain.com>, Enrico Luzzani <user@domain.com>, "antonio.mazzeo" <user@domain.com>,  Roberto Banfi <user@domain.com>, user@domain.com
+In-Reply-To: <633user@domain.com>
+References: <1245144150.6673.17.user@domain.com>
+	 <633user@domain.com>
+	 <1245156289.3540.100.user@domain.com>
+	 <633user@domain.com>
+Date: Tue, 23 Jun 2015 16:42:44 +0200
+Message-ID: <1245768164.15850.11.user@domain.com>
+X-Mailer: Evolution 2.24.5 (2.24.5-1.fc10) 
+X-OriginalArrivalTime: 23 Jun 2015 14:42:41.0207 (UTC) FILETIME=[DC74DC70:01C9F410]
+X-PMX-Version: 5.5.4.371499, Antispam-Engine: 2.7.1.369594, Antispam-Data: 2009.6.23.143044
+X-PerlMx-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ BODY_SIZE_6000_6999 0, BODY_SIZE_7000_LESS 0, ECARD_WORD 0, INVALID_MSGID_NO_FQDN 0, RDNS_GENERIC_POOLED 0, RDNS_SUSP 0, RDNS_SUSP_GENERIC 0, __BOUNCE_CHALLENGE_SUBJ 0, __C230066_P5 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __HAS_MSGID 0, __HAS_XOAT 0, __HAS_X_MAILER 0, __MIME_TEXT_ONLY 0, __MIME_VERSION 0, __SANE_MSGID 0, __SXL_FUR_TIMEOUT , __SXL_SIG_TIMEOUT , __SXL_URI_TIMEOUT , __TO_MALFORMED_2 0'
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1456060746_-_-"
+
+Dovrebbe essere nuovamente possibile visualizzare il referto del San
+Matteo.
+Fatemi sapere se ci sono ancora problemi così verifico.
+
+Grazie e buon lavoro
+
+Bruno
+
+-  
+Milani Bruno
+GSS - domain.com S.p.A.
+Via Vida 10,
+Milano 
+Tel. +39 02 26 888 300
+E-Mail user@domain.com
+------------------------------------------
+Privacy statement D.Lgs 196/2003.
+This message is confidential and is intended only for the use of the
+addressee. If you are not the right addressee you may not copy, forward
+or print this message. Please delete it and immediately notify us the
+mistake. Thank you. 
+
+Il giorno mar, 16/06/2009 alle 18.54 +0200, Francesco Schifilliti ha
+scritto:
+

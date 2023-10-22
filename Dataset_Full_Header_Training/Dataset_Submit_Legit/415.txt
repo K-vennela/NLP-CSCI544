@@ -1,0 +1,70 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Tue, 30 Sep 2015 09:44:15 +0200
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id 60F2A621AA;	Tue, 30 Sep 2015 
+ 08:28:12 +0100 (BST)
+Received: by domain.com (Postfix)	id 837DD2BC087; Tue, 30 Sep 2015 
+ 09:44:15 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from EmadPC (unknown [192.168.1.196])	(using TLSv1 with cipher
+ AES128-SHA (128/128 bits))	(No client certificate requested)	by
+ domain.com (Postfix) with ESMTPSA id 729992BC05F;	Tue, 30 Sep 2015 
+ 09:44:15 +0200 (CEST)
+From: Emad Shehata <e.shehata@hackingteam.com>
+To: 'Emad Shehata' <user@domain.com>, 'Astana Team'
+	<user@domain.com>
+CC: 'Simonetta' <user@domain.com>, <user@domain.com>,
+	'amministrazione' <user@domain.com>
+References: <user@domain.com>	<user@domain.com>	<CADsNJ7roLPT3Rcx7HKvciFiTzHtMi+user@domain.com>	<5425377user@domain.com> <user@domain.com> 
+In-Reply-To: 
+Subject: R: I: Re: act of technical support and invoice
+Date: Tue, 30 Sep 2015 09:44:15 +0200
+Message-ID: <001e01cfdc82$553f8880$ffbe9980$@user@domain.com>
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: Ac/ZeMRRc2OOVocCRUu0HgQdRK9Y4ACQaE7wADHksTA=
+Content-Language: it
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EMAD SHEHATA450
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1345765865_-_-"
+
+Dear Aman, here the DHL TRUCK NUMBER ( Air Way Bill): 7367996311. You can have a look on the following website and then type in the number/code:  <<link>> Best regards   Da: Emad Shehata [mailto:user@domain.com] 
+Inviato: lunedì 29 settembre 2015 09:58
+A: 'Astana Team'
+Cc: 'Simonetta'; 'user@domain.com'; 'amministrazione'
+Oggetto: R: I: Re: act of technical support and invoice Dear Aman, as per your request, we will send the documents as in attached and the AWB will be sent to you in a shortly time.Can you please let me know about the payment?Best regards  Da: Astana Team [mailto:user@domain.com] 
+Inviato: venerdì 26 settembre 2015 12:58
+A: Emad Shehata
+Oggetto: Re: I: Re: act of technical support and invoice Please send back the documents stamped via DHL, enter the recipient's phone number 77172320712 .Thank you for help.Aman. 2014-09-26 15:53 GMT+06:00 Emad Shehata <user@domain.com>:Dear Aman, have I sent it to you again?Please let me know.Best regards  Da: Astana Team [mailto:user@domain.com] 
+Inviato: giovedì 25 settembre 2015 14:15
+A: Emad Shehata
+Oggetto: Re: I: Re: act of technical support and invoice Dear Emad! Please send us the track number for the second package.Aman 2014-09-25 18:13 GMT+06:00 Astana Team <user@domain.com>:your treck nomber is not correct 5214316542 2014-09-25 16:27 GMT+06:00 Emad Shehata <user@domain.com>:Dear Aman.
+Have you received the documents? From our side information, you got it on 18.09.2014 and we are pretty sure that they were properly stamp. 
+
+The attached documents are the ones that we sent to you.
+
+Please let me know
+Best regards
+
+-- 
+Emad Shehata 
+Key Account Manager 
+
+Sent from my mobile.
+ Da: Astana Team [mailto:user@domain.com] 
+Inviato: Thursday, September 25, 2015 01:18 PM
+A: Emad Shehata 
+Oggetto: Re: act of technical support and invoice 
+ Dear Emad please send us these documents with stamp.  You sent earlier documents without stamp. dhl track nomber.  We are waiting for your help. Aman. 2014-09-15 20:04 GMT+06:00 Emad Shehata <user@domain.com>:Dear Marat, ok great!!!Looking for the payment J  Da: Astana Team [mailto:user@domain.com] 
+Inviato: lunedì 15 settembre 2015 15:30
+A: Emad Shehata
+Oggetto: Re: act of technical support and invoice Ok, Emad. I showed the financiers, this option suits.Thank you!!! 2014-09-15 18:06 GMT+06:00 Emad Shehata <user@domain.com>:Dear Marat, have a look now and let me know if is it okLet’m me know if I have to send to you by DHL as well  Da: Astana Team [mailto:user@domain.com] 
+Inviato: lunedì 15 settembre 2015 13:48
+A: Emad Shehata; Emad Shehata
+Oggetto: act of technical support and invoice Dear Emad! We got the documents for payment (act of work performed, invoice). But these documents are not worth printing in your organization. According to our legislation for the payment of these documents shall bear the stamp of the service provider.Please send me the new documents signed and stamped. Printing is necessary to put on the act of work performed and on the invoice.And please do not put in acts of date. Thank you!     

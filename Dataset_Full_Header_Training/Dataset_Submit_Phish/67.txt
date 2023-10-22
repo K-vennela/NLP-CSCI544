@@ -1,0 +1,66 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [10.3.4.5])
+	by domain.com (Postfix) with ESMTP id 6D6334693A
+	for <user@domain.com>; Sat,  5 Aug 2015 12:10:28 -0400 (EDT)
+Received: from domain.com (62-167-10-183.static.adslpremium.ch [62.167.10.183])
+	by domain.com (Postfix) with ESMTP id 225AD6FA440
+	for <user@domain.com>; Sat,  5 Aug 2015 12:10:32 -0400 (EDT)
+Received: by domain.com (Postfix, from userid 0)
+	id 0A426BAFFF; Sat,  5 Aug 2015 18:00:02 +0200 (CEST)
+To: user@domain.com
+Subject: Dear valued Star Systems member,account update request
+From: Star Systems <Update@StarSystems.localhost.local>
+Content-Type: text/html
+Message-Id: <20060805160002.0user@domain.com>
+Date: Sat,  5 Aug 2015 18:00:02 +0200 (CEST)
+Status: R
+X-Status: 
+X-Keywords: 
+
+
+
+
+Dear valued Star Systems member: 
+
+It has come to our attention that 
+      your Star Systems 
+      account information needs to be updated as part of our continuing 
+      commitment to protect your account and to reduce the instance of 
+      fraud on our website.  If you could please take 5-10 minutes out of 
+      your online experience and update your personal records you will not run 
+      into any future problems with the 
+      online 
+      service. 
+
+
+
+However, failure to update your records will 
+      result in account suspension. 
+
+
+
+Once you have updated 
+      your account records, your Star Systems 
+      session will not be interrupted and will continue as normal. 
+
+
+
+To update your Star Systems 
+      records click on the following link: 
+<<link>>
+
+
+
+Thank You.  
+Star Systems
+UPDATE 
+      TEAM                                     
+
+
+
+Accounts Management as outlined in our User 
+      Agreement, Star Systems 
+      will periodically send you information about site changes and 
+      enhancements. 

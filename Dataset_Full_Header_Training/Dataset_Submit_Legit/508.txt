@@ -1,0 +1,386 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from mail.hackingteam.it (localhost [127.0.0.1])
+	by localhost (Postfix) with SMTP id 1B8C06A7D;
+	Thu, 14 May 2015 17:25:33 +0200 (CEST)
+Received: from [217.56.23.219] (host219-23-static.56-217-domain.com [217.56.23.219])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mail.hackingteam.it (Postfix) with ESMTP id 9E7916A78;
+	Thu, 14 May 2015 17:25:31 +0200 (CEST)
+Subject: Re: Rif: Re: R: HT - Liberatoria e NDA
+From: Luca Filippi <luca.filippi@hackingteam.it>
+Reply-To: user@domain.com
+To: user@domain.com
+CC: user@domain.com, user@domain.com, Ivan Roattino <user@domain.com>, "antonio.mazzeo" <user@domain.com>,  Enrico Luzzani <user@domain.com>, Roberto Banfi <user@domain.com>
+In-Reply-To: <user@domain.com>
+References: <user@domain.com>
+	 <001b01c9d2eb$93243160$b96c9420$@user@domain.com>
+	 , <1242204430.7275.13.user@domain.com>
+	 <user@domain.com>
+Organization: Hacking Team
+Date: Thu, 14 May 2015 17:28:47 +0200
+Message-ID: <1242314927.5521.51.user@domain.com>
+X-Mailer: Evolution 2.24.5 
+X-PMX-Version: 5.5.4.371499, Antispam-Engine: 2.7.1.369594, Antispam-Data: 2009.5.14.151627
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-145527159_-_-"
+
+Ciao,
+
+abbiamo provato a fare un semplice login con le credenziali che ci avete dato per vedere un po' com'e' fatto il sito ma si comporta in modo strano.
+
+Sembra che entrambi gli utenti accedano agli stessi due task.
+
+FLog puo' visualizzare i dati del task mentre ForLog no.
+
+Per i nostri test ci servirebbe, se possibile un altro utente con altri task, in modo da vedere se dall'uno e' possibile accedere ai dati dell'altro e viceversa.
+
+Gia' cosi' comunque abbiamo visto che si puo' arrivare alla lista di tutti i task presenti, assegnati o gia' chiusi...
+
+Ho visto poi che c'e' un link alla guida dell'help desk ma si trova su un server della domain.com. Potrebbe servirci per capire un po' meglio cosa puo' fare un utente "lecito" al fine di costruire alcuni scenari possibili di attacco all'applicazione.
+
+Se poi avete gia' in mente alcune cose che un utente non dovrebbe riuscire a fare ditecelo pure cosi' proviamo se ci si riesce.
+
+Grazie!
+
+            Luca Filippi
+
+-----Original Message-----
+
+From: Luca Filippi <luca.filippi@hackingteam.it>
+
+To: user@domain.com
+
+Cc: user@domain.com, user@domain.com, user@domain.com, Ivan Roattino <user@domain.com>, antonio.mazzeo <user@domain.com>, Enrico Luzzani <user@domain.com>, Roberto Banfi <user@domain.com>
+
+Subject: Rif: Re: R: HT - Liberatoria e NDA
+
+Date: Thu, 14 May 2015 16:00:53 +0200
+
+Ciao,
+l'applicazione e' pronta per essere testata (<<link>>)
+Solo la classe da voi specificata (217.56.23.208 255.255.255.240) potra' avere l'accesso.
+Sono state create due utenze a cui sono stati assegnati qualche task giusto per prova:
+
+
+
+Login: FLog
+Password: password1
+
+
+
+Login: ForLog
+Password: pwdrem01
+
+
+
+sono login e password elementari, le login e pwd di produzione saranno su almeno 8 caratteri alfanumerici con maiuscole e minuscole.
+
+
+
+Se aveste il bisogno di info applicative, chiamate il numero 035/392447 (Paolo Soderi o Cesare Villa) oppure via email alla casella user@domain.com .
+
+
+
+Rimango a disposizione per qualsiasi chiarimento.
+Buon lavoro.
+
+Germano Zini
+
+-----Luca Filippi <user@domain.com> ha scritto: -----
+
+Per: user@domain.com, user@domain.com
+
+Da: Luca Filippi <user@domain.com>
+
+Data: 13/05/2009 10.47
+
+Cc: Ivan Roattino <user@domain.com>, "antonio.mazzeo" <user@domain.com>, Enrico Luzzani <user@domain.com>, Roberto Banfi <user@domain.com>
+
+Oggetto: Re: R: HT - Liberatoria e NDA
+
+Buongiorno,
+
+la network da cui faremo le attivita' e':
+
+217.56.23.208/28
+
+Grazie e buon lavoro,
+
+        Luca Filippi
+
+-----Original Message-----
+
+From: Luca Filippi <luca.filippi@hackingteam.it>
+
+To: user@domain.com
+
+Cc: user@domain.com, 'Luca Filippi' <user@domain.com>
+
+Subject: R: HT - Liberatoria e NDA
+
+Date: Tue, 12 May 2015 12:22:38 +0200
+
+Ricevuto correttamente, grazie.
+
+Vi invio i riferimenti del responsabile che seguirà le attività: 
+
+Ing. Luca Filippi  user@domain.com 340.5488603
+
+Se volete, contattatelo direttamente anche da subito, per scambiare le
+
+info utili allo start-up.
+
+Come Vi ho anticipato possiamo iniziare le attività anche senza ordine
+
+formale,
+
+è sufficiente una Vs. mail di accettazione per ora.
+
+Resto a disposizione.
+
+Ciao.
+
+Ivan Roattino
+
+Key Account Manager
+
+HT srl
+
+Via Moscova, 13  I-20121 Milan, Italy
+
+WWW.HACKINGTEAM.IT
+
+Phone +39 02 29060603
+
+Fax -39 02 63118946
+
+Mobile +39 3316237813
+
+This message is a PRIVATE communication. This message contains
+
+privileged and confidential information intended only for the use of the
+
+addressee(s).
+
+If you are not the intended recipient, you are hereby notified that any
+
+dissemination, disclosure, copying, distribution or use of the
+
+information contained in this message is strictly prohibited. If you
+
+received this email in error or without authorization, please notify the
+
+sender of the delivery error by replying to this message, and then
+
+delete it from your system.
+
+Da:user@domain.com [mailto:user@domain.com] 
+
+Inviato: martedì 12 maggio 2015 11.52
+
+A: user@domain.com
+
+Cc: user@domain.com
+
+Oggetto: HT - Liberatoria e NDA
+
+ciao!!
+
+finalmente, via fax, ti ho fatto avere i documenti per la liberatoria
+
+alla attvita di ethical hacking.
+
+fammi sapere se il fax e' arrivato bene..
+
+ciaoO!
+
+Gabriele Zanotto
+
+Ubi-s Sicurezza del sistema informativo
+
+Gruppo Ubi >< Banca
+
+Via Palazzolo 71
+
+24122 Bergamo
+
+                               Per: <user@domain.com>
+
+                               Da: "Ivan Roattino"
+
+                               <user@domain.com>
+
+                               Data: 04/05/2009 16.51
+
+                               Cc: <user@domain.com>
+
+                               Oggetto: HT - Liberatoria e NDA
+
+
+
+
+                               Ciao Germano,
+
+
+
+
+                               in attesa di ricevere Vs. indicazioni,
+
+                               ti allego Liberatoria e NDA firmati da
+
+                               noi.
+
+
+
+
+                               Ci servono controfirmati prima della
+
+                               partenza del PT (vanno bene anche via
+
+                               mail),
+
+
+
+
+                               gli originali li scambiamo appena ci
+
+                               incontriamo.
+
+
+
+
+                               Ciao, grazie
+
+
+
+
+                               Ivan Roattino
+
+
+
+
+                               Key Account Manager
+
+
+
+
+                               HT srl
+
+
+
+
+                               Via Moscova, 13  I-20121 Milan, Italy
+
+
+
+
+                               WWW.HACKINGTEAM.IT
+
+
+
+
+                               Phone +39 02 29060603
+
+
+
+
+                               Fax -39 02 63118946
+
+
+
+
+                               Mobile +39 3316237813
+
+
+
+
+--------------------------------------------------------------------------------
+
+"Verificate la corrispondenza del destinatario; in caso contrario 
+
+vogliate notificare questo al mittente e, consci della responsabilita' 
+
+per l'uso indebito, cancellare il messaggio e sue copie / Verify the 
+
+correspondence of the addressee; otherwise, notify that to the sender 
+
+and, conscious of the responsibility for the undue use, destroy the 
+
+message and its copies."
+
+--------------------------------------------------------------------------------
+
+-- 
+
+       Luca Filippi
+
+Senior Security Engineer
+
+
+
+
+HT srl 
+
+Via Moscova, 13 I-20121 Milan, Italy 
+
+WWW.HACKINGTEAM.IT 
+
+Phone +39 02 29060603 
+
+Fax. +39 02 63118946 
+
+
+
+
+This message is a PRIVATE communication. This message contains
+
+privileged and confidential information intended only for the use of the
+
+addressee(s).
+
+If you are not the intended recipient, you are hereby notified that any
+
+dissemination, disclosure, copying, distribution or use of the
+
+information contained in this message is strictly prohibited. If you
+
+received this email in error or without authorization, please notify the
+
+sender of the delivery error by replying to this message, and then
+
+delete it from your system.
+
+<<<<<<
+
+--------------------------------------------------------------------------------
+"Verificate la corrispondenza del destinatario; in caso contrario 
+vogliate notificare questo al mittente e, consci della responsabilita' 
+per l'uso indebito, cancellare il messaggio e sue copie / Verify the 
+correspondence of the addressee; otherwise, notify that to the sender 
+and, conscious of the responsibility for the undue use, destroy the 
+message and its copies."
+--------------------------------------------------------------------------------
+
+-- 
+        Luca Filippi
+Senior Security Engineer
+
+
+
+HT srl 
+Via Moscova, 13 I-20121 Milan, Italy 
+WWW.HACKINGTEAM.IT 
+Phone +39 02 29060603 
+Fax. +39 02 63118946 
+
+
+
+This message is a PRIVATE communication. This message contains privileged and confidential information intended only for the use of the addressee(s).
+If you are not the intended recipient, you are hereby notified that any dissemination, disclosure, copying, distribution or use of the information contained in this message is strictly prohibited. If you received this email in error or without authorization, please notify the sender of the delivery error by replying to this message, and then delete it from your system.
+<<<<<<
+

@@ -1,0 +1,44 @@
+Received: from domain.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Fri, 20 Jun 2015 10:57:26 +0200
+Received: from mail.hackingteam.it (unknown [192.168.100.50])	by
+ domain.com (Postfix) with ESMTP id D4327621B3;	Fri, 20 Jun 2015 
+ 09:45:02 +0100 (BST)
+Received: by mail.hackingteam.it (Postfix)	id EB281B6603E; Fri, 20 Jun 2015 
+ 10:57:26 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from EmadPC (unknown [192.168.1.186])	(using TLSv1 with cipher
+ AES128-SHA (128/128 bits))	(No client certificate requested)	by
+ mail.hackingteam.it (Postfix) with ESMTPSA id D9D51B6603C;	Fri, 20 Jun 2015 
+ 10:57:26 +0200 (CEST)
+From: Emad Shehata <e.shehata@hackingteam.it>
+To: 'Astana Team' <user@domain.com>, 'Emad Shehata'
+	<user@domain.com>
+CC: 'Marco Bettini' <user@domain.com>, 'amministrazione'
+	<user@domain.com>
+References: <user@domain.com> 
+In-Reply-To: 
+Subject: R: act
+Date: Fri, 20 Jun 2015 10:57:28 +0200
+Message-ID: <004f01cf8c65$a9b04200$fd10c600$@user@domain.com>
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: Ac+K5oGwRYDpx0KcRwmnByXsR2AnLAAAVqrwAF9sVJA=
+Content-Language: it
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1505733112_-_-"
+
+Dear Marat, can you pls update me on the payment status?Best regards  Da: Emad Shehata [mailto:user@domain.com] 
+Inviato: mercoledì 18 giugno 2015 13:25
+A: 'Astana Team'; 'Emad Shehata'
+Cc: 'Marco Bettini'; 'amministrazione'
+Oggetto: R: act Dear Marta, done it.  Da: Astana Team [mailto:user@domain.com] 
+Inviato: mercoledì 18 giugno 2015 13:15
+A: Emad Shehata
+Oggetto: act Dear Emad
+if you can send the scanned act today. Tomorrow will finansitsy book money in the bank.regards

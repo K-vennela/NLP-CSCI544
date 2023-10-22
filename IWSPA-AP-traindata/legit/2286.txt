@@ -1,0 +1,40 @@
+Dear all,
+thank you for the meeting on tuesday. I think it went well. Here as
+promised and slightly late is a summary of what we discussed. Myles can
+you forward the message to Michael. Can you let me know if you are all
+happy with this and once I have made any corrections you want I'd like
+to send it to John, Geoff and Tim Barnett -- anyone else you think
+should get it?
+Proxy Climate forcing.
+Solar -- Beer has a Be based proxy reconstruction of Solar ACTIVITY
+which can be converted to irradiance changes. [Is it different from LBB
+or H&S ?] Has the LBB dataset been updated? Has Svensmark got a better
+handle on his proposed physical mechanisms to amplify solar irradiance
+changes? [Someone to check at RMS meeting which I won't be able to
+attend] Want forcing back to 1600?? though HC would find it hard to
+justify doing runs that early -- me to see if John/Geoff think useful or
+not.
+Me to check with William the source of the rumour about problems with
+the H&S dataset.
+Volcanoes. Volcanoes are an important climate forcings [Issue for
+IPCC??] Do volcanic erruptions cluster? Myles to "persuade" a student to
+look at Phil/Keith's dataset and see if there is evidence for this? Are
+there other indices of volcanic activity? Is climate response to
+volcanoes sensitive to mean state?? i.e. in cooler climate get bigger
+response. [Gareth could see from our model if Krakota response
+significantly different from Pinatubo]
+Proxy Climate data + comparision with obs and models.
+Keith/Phil have 400 sites of high quality tree ring density data which
+there are willing to let HC (Mat) use to do a crude model/data
+comparision. Mat and Tim to liase on what they are doing. Note that
+funny things are happening in the density data post 1950. Also available
+may be some borehole data [Phil to talk to Pollock/Wang about
+possibility] which could use to compare with model -- should consider
+using lower soil temperature rather than 1. m temp. There are a few
+sites with data from 0A to 2000 as well as many sites with data for 1700
+to 2000 -- should consider both. There may be some other tree ring data
+which tells us something about SW USA precip and thus ENSO.
+Tim wants to compare patterns of temperature var from the proxy data
+and   compare that with the models i.e compare "observed" and modelled
+covariance structure rather than just the variability. Also Tim wants to
+try and unpick Mann's stuff.... HC to provide solar forced run from 1700

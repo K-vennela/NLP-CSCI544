@@ -1,0 +1,104 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [75.102.5.22])
+	by domain.com (Postfix) with ESMTP id 272FE3144042
+	for <user@domain.com>; Thu,  2 Jul 2015 22:49:07 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id B687D232056;
+	Thu,  2 Jul 2015 22:52:06 +0000 (UTC)
+X-Virus-Scanned: amavisd-new at domain.com
+X-Spam-Flag: YES
+X-Spam-Score: 10.726
+X-Spam-Level: **********
+X-Spam-Status: Yes, score=10.726 tagged_above=-10 required=6.6
+	tests=[AV:HTML.Phishing.Bank-1090=0.1,  AWL=0.718, BAYES_50=0.001,
+	FORGED_MUA_OUTLOOK=3.116, FORGED_OUTLOOK_HTML=0.001,
+	FORGED_OUTLOOK_TAGS=0.001, HTML_IMAGE_ONLY_28=1.561,
+	HTML_MESSAGE=0.001, HTML_MIME_NO_HTML_TAG=0.097, MIME_HTML_ONLY=1.457,
+	NO_DNS_FOR_FROM=1.496, RDNS_NONE=0.1, SUBJ_ALL_CAPS=2.077]
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id pazolVtQzdUX; Thu,  2 Jul 2015 22:52:02 +0000 (UTC)
+Received: from domain.com (unknown [67.101.242.118])
+	by domain.com (Postfix) with ESMTP id 80E28232015
+	for <user@domain.com>; Thu,  2 Jul 2015 22:52:02 +0000 (UTC)
+Received: from User ([203.230.71.200]) by domain.com with Microsoft SMTPSVC(6.0.3790.1830);
+	 Thu, 2 Jul 2015 18:48:56 -0400
+Reply-To: <user@domain.com>
+From: "Chase Bank"<chase@reply987.chase.com>
+Subject: IMPORTANT INFORMATION ABOUT YOUR ACCOUNT
+Date: Fri, 3 Jul 2015 07:48:55 +0900
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <user@domain.com>
+X-OriginalArrivalTime: 02 Jul 2015 22:48:56.0936 (UTC) FILETIME=[48438E80:01C9FB67]
+To: undisclosed-recipients:;
+Content-Length: 2015 
+Lines: 49
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1094
+
+A message from Chase Card Services Fraud Department
+
+
+
+
+Dear Card Member, 
+
+Due to the recent phishing attacks and
+attempted identity theft associated with them, we have decided
+to verify identity of
+our members. We apologize for any inconvenience this may cause but we feel
+that
+is a necessary precaution to protect our members personal identity
+information.
+
+We recently attempt to verify some recent transactions on your
+account.
+
+After we have made the verification we were unable to confirm your
+personal identity information we have
+on file. You will need to update your
+information in order to maintain online services. Click here to log-in
+Chase Online(SM) any day of the week,
+complete all the we need to establish your identity. For your
+protection, we require
+an exact match between the information we have on file and the information that
+you
+will confirm.
+
+We apologize for any inconvenience this may cause you, but these
+steps are necessary to protect you
+and your JPMorgan Chase accounts. There is no need
+to call us in response to a phone message we've
+left in the last three days unless
+you see any transactions you don't recognize. We thank you for
+choosing JPMorgan
+Chase as your financial services provider and look forward to hearing from you
+very
+soon.
+
+Customer Service
+Please do not reply to this
+message. We are unable to respond to Account inquiries sent in reply to
+Account
+inquiries sent in reply to this e-mail. To contact us by phone, please call the number
+on the
+back of your Card.
+
+
+
+Sincerely, 
+Chase domain.com
+Banking Fraud Department 
+
+

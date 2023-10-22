@@ -1,0 +1,54 @@
+Received: from domain.com ([fe80::755c:1705:6a98:dcff]) by
+ domain.com ([fe80::755c:1705:6a98:dcff%11]) with mapi id
+ 14.03.0123.003; Fri, 22 May 2015 18:40:47 +0200
+From: Eduardo Pardo Carvajal <e.pardo@hackingteam.com>
+To: Giancarlo Russo <user@domain.com>, Massimiliano Luppi
+	<user@domain.com>, "'user@domain.com'"
+	<user@domain.com>, Marco Bettini <user@domain.com>,
+	Philippe Antoine Vinci <user@domain.com>
+Subject: Re: Pagamento e programmazione.
+Thread-Topic: Pagamento e programmazione.
+Thread-Index: AQHQlK4NsrM8Q+NSm0Ozox3R2fqtFA==
+Date: Fri, 22 May 2015 18:40:46 +0200
+Message-ID: <377user@domain.com>
+In-Reply-To: <555user@domain.com>
+Accept-Language: en-US, it-IT
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <377user@domain.com>
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 03
+X-Originating-IP: [fe80::755c:1705:6a98:dcff]
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EDUARDO PARDO CARVAJALDB9
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1252371169_-_-"
+
+Giancarlo,
+
+Luca left yesterday to Sao Paulo and Tony is leaving today. I think he is coming to Brasilia next week. I'll send you a picture of the check as soon as I have it.
+
+Eduardo Pardo
+
+
+
+From: Eduardo Pardo Carvajal <e.pardo@hackingteam.com>
+Sent: Friday, May 22, 2015 01:28 PM
+To: Massimiliano Luppi; Eduardo Pardo Carvajal; user@domain.com <user@domain.com>; Marco Bettini; Philippe Antoine Vinci
+Subject: Re: Pagamento e programmazione.
+
+
+
+    Max,
+
+    as you can see Luca is going to give a bank ceck to Eduardo as
+    warranty for the payment that is under bank approval. 
+
+    Eduardo, please let me knowlater that everything is fine,
+
+    Giancarlo
+
+On 5/22/2015 6:10 PM, Luca Gabrielli

@@ -1,0 +1,90 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.4.9])
+	by domain.com (Postfix) with ESMTP id BC9AF4695A
+	for <user@domain.com>; Wed, 13 Jun 2015 14:58:07 -0400 (EDT)
+Received: from domain.com (domain.com [192.168.6.4])
+	by domain.com (Postfix) with ESMTP id 9DFA5131FABF
+	for <user@domain.com>; Wed, 13 Jun 2015 14:58:07 -0400 (EDT)
+Received: from exchange1.SYBERION.COM (domain.com [206.132.1.11])
+	by domain.com (Postfix) with ESMTP id 8F1096FA1C5
+	for <user@domain.com>; Wed, 13 Jun 2015 14:58:07 -0400 (EDT)
+Received: from User ([70.233.11.217]) by exchange1.SYBERION.COM with Microsoft SMTPSVC(5.0.2195.6713);
+	 Wed, 13 Jun 2015 14:56:16 -0400
+Reply-To: <user@domain.com>
+From: "eBay Member"<eBay@member.com>
+Subject: Question about Item -- Respond Now
+Date: Wed, 13 Jun 2015 11:57:59 -0700
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <user@domain.com>
+X-OriginalArrivalTime: 13 Jun 2015 18:56:16.0234 (UTC) FILETIME=[8538FCA0:01C7ADEC]
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1391
+
+Dear eBay member 
+
+We recently noticed more attempts to 
+log in to your eBay account from a 
+foreign IP address and we have reasons to 
+belive that your account was compromised 
+by a third party without your 
+authorization. 
+
+If you recently accessed your account while traveling,the 
+unusual log in attempts 
+may have been initiated by you. 
+However,if you 
+are the account holder please verify that, clicking on the link below, 
+fill 
+the form and then domain.com. In this way we will verify your identity.
+
+<<link>>
+
+The log in attempt was made From: "eBay Member"<eBay@member.com>
+IP address: 81.158.54.12 
+
+ISP host: 81.158.54.98 
+
+If you choose to ignore our request , your 
+account will be suspended until you will verify your identity 
+
+We ask 
+that you allow at least 72 hours for the case to be investigated and we 
+
+strongly recommend not to make any changes to your account in that time. 
+
+If you received this notice and you are not the authorized account 
+
+holder, please be aware that it is in violation of eBay policy to represent 
+
+oneself as another eBay user. Such action may also be in violation of 
+
+local, national, and/or international law. eBay is committed to assist 
+
+law enforcement with any inquires related to attempts to misappropriate 
+
+personal information with the intent to domain.com fraud or theft. 
+
+Information will be provided at the request of law enforcement agencies to 
+
+ensure that perpetrators are prosecuted to the full extent of the law. 
+
+*Please do not respond to this e-mail as your reply will not be received. 
+
+Thanks for your patience as we work together to protect your account. 
+
+Regards, 
+
+Safeharbor Department 
+eBay Inc. 

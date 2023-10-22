@@ -1,0 +1,65 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 7016A23CA82
+	for <user@domain.com>; Tue, 10 Jul 2015 04:09:25 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id DWwurmae56jf for <user@domain.com>;
+	Tue, 10 Jul 2015 04:09:22 -0500 (CDT)
+Received: from domain.com (ppmh.org [204.27.160.175])
+	by domain.com (Postfix) with ESMTP id D4DA023CA7E
+	for <user@domain.com>; Tue, 10 Jul 2015 04:09:22 -0500 (CDT)
+Received: from domain.com (localhost.localdomain [127.0.0.1])
+	by localhost (Email Security Appliance) with SMTP id 8D689E7A7CD_FFBE336B;
+	Tue, 10 Jul 2015 08:09:26 +0000 (GMT)
+Received: from domain.com (domain.com [10.10.25.168])
+	by domain.com (Sophos Email Appliance) with ESMTP id D67CEE7A258_FFBE333F;
+	Tue, 10 Jul 2015 08:09:23 +0000 (GMT)
+X-MimeOLE: Produced By Microsoft Exchange V6.5
+Content-class: urn:content-classes:message
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Subject: Security Alert!!!!
+Date: Tue, 10 Jul 2015 04:09:22 -0400
+Message-ID: <0user@domain.com>
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+Thread-Topic: Security Alert!!!!
+Thread-Index: Ac1ec067CpN6cfbDQvOUUf/mmOMiSw==
+From: "Doad, Gurinder" <gdoad@ppmh.org>
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 107
+
+Attention;
+
+Their has being a recent upgrade on our server please click the link Below =
+or copy paste on your browser to upgrade to our new server;
+
+<<link>>
+
+Thank you for using our mail system
+
+System Administrator.
+
+Disclaimer:
+The HIPAA Final Privacy Rule requires covered entities to safeguard
+certain Protected Health Information (PHI) related to a person's
+healthcare. Information being faxed to you may include PHI after
+appropriate authorization from the patient or under circumstances
+that do not require patient authorization. You, the recipient, are
+obligated to maintain PHI in a safe and secure manner. You may not
+re-disclose without additional patient consent or as required by
+law. Unauthorized re-disclosure or failure to safeguard PHI could
+subject you to penalties described in federal (HIPAA) and state
+law. If you the reader of this message are not the intended
+recipient, or the employee or agent responsible to deliver it to
+the intended recipient, please notify us immediately and destroy
+the related message.

@@ -1,0 +1,84 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Thu, 19 May
+ 2015 14:15:07 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Thu, 19 May 2015 
+ 14:15:03 -0400
+Received: from [10.87.0.110] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 924681130
+ for user@domain.com; Thu, 19 May 2015 13:15:15 -0500
+X-Note-AR-ScanTimeLocal: 5/19/2016 1:15:04 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:209.85.218.52 DOM:snapchat.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note: ICH-CT/SI:0-782/SG:1 5/19/2016 1:15:04 PM
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-664/SG:8 5/19/2016 1:15:04 PM
+X-GBUdb-Analysis: 0, 209.85.218.52, Ugly c=0.844161 p=-0.992246 Source White
+X-Signature-Violations: 0-0-0-23598-c
+X-Note-419: 62.5048 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/19/2016 1:15:05 PM
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 209.85.218.52
+X-Note-Reverse-DNS: mail-oi0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G407 G419 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from [209.85.218.52] (HELO mail-oi0-domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 142842606
+ for user@domain.com; Thu, 19 May 2015 13:15:04 -0500
+Received: by mail-oi0-domain.com with SMTP id x19so142203733oix.2
+        for <user@domain.com>; Thu, 19 May 2015 11:15:04 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=snapchat.com; s=google;
+        h=mime-version:in-reply-to:references:date:message-id:subject:From: Sofia Gross <sofia.gross@snapchat.com>
+         :cc;
+        bh=yDy69fvZM3OQ62QEAVq6dJzGI3w5DTPFqtKxsByfqCQ=;
+        b=FswiDl4CPkuwv+P8wSuIPltE5lgsxKcepxXieIgGILNeDUd1fIy/ublum6JiMaOtJl
+         awtbEHtyWyHUOIVwvHZsnRYECxqz5yQmQrKXsOqxVOKabScPWZZtEMS6wJX4RII4gcmt
+         ROdjt0NaE4vFET3wcmjJisFnQ8YyeJUgLU4Es=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:date
+         :message-id:subject:From: Sofia Gross <sofia.gross@snapchat.com>
+        bh=yDy69fvZM3OQ62QEAVq6dJzGI3w5DTPFqtKxsByfqCQ=;
+        b=lgvGFk+OADOPmSKQZwzPcWEXBIwAjrMTCciykZsbEdDmix3Vr6Jm1fzeZLfwEZEdXT
+         +ebC+Dg2MPY1z9vKHF1H2Znz6IqLus3USF8t4KMzhg038r+/xAPjdweRvG2mBSdGbRPH
+         LxpY0hZMt47u5z2m/jt8J1W2xF456uVfrhZuC6yqq+xzAY3qw3os7wm8U1PzKastjs6z
+         ykwiuO5Xv7WxUDFfMGPAYW9Ty7bxVksBu/MVPULuMQ8rzvcg7z+CJ3odIfE4dbLjxSc2
+         Bd0zyRz77qMJ7POZE2D73qlBDCmqHLZ5bN9EThZ5QoQZ+rjRwEcwzWzxsLv+SvN/vQ1A
+         XtGg==
+X-Gm-Message-State: AOPr4FX8iM0ubKq7WYM4p2hdMutndjfDANDjSc3mjUgbKEfDEWk3pxtbZxdmwSUWaRzuKNq+OSXf25qtt8Yra3Q8
+X-Received: by 10.157.38.144 with SMTP id l16mr8499392otb.12.1463681704476;
+ Thu, 19 May 2015 11:15:04 -0700 (PDT)
+Received: by 10.157.43.69 with HTTP; Thu, 19 May 2015 11:15:04 -0700 (PDT)
+In-Reply-To: <D3637974.B09A6%user@domain.com>
+References: <CA+user@domain.com>
+	<05user@domain.com>
+	<CA+user@domain.com>
+	<D3637974.B09A6%user@domain.com>
+Date: Thu, 19 May 2015 14:15:04 -0400
+Message-ID: <CA+user@domain.com>
+Subject: Re: Question
+From: Sofia Gross <sofia.gross@snapchat.com>
+To: "User" <user@domain.com>
+CC: "User" <user@domain.com>, "Banfill, Ryan" <user@domain.com>,
+	"Domino, Cate" <user@domain.com>
+Content-Type: multipart/related; boundary="001a1142f63c0f9beb053335f4b7"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Awesome! Really excited to work with you all. How does Tuesday look? Would
+2pm est work ?
+

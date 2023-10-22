@@ -1,0 +1,31 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Wed, 6 May 2015 17:51:00 +0200
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id DC503628D3	for
+ <user@domain.com>; Wed,  6 May 2015 16:27:37 +0100 (BST)
+Received: by domain.com (Postfix)	id 34562444081B; Wed,  6 May 2015 
+ 17:50:56 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from domain.com (confluence.hackingteam.com
+ [192.168.200.205])	by domain.com (Postfix) with ESMTP id
+ 31320444048A	for <user@domain.com>; Wed,  6 May 2015 17:50:56
+ +0200 (CEST)
+Date: Wed, 6 May 2015 17:51:00 +0200
+From: "Eduardo Pardo Carvajal (Confluence)" <confluence@hackingteam.com>
+To: <user@domain.com>
+Message-ID: <1304629113.6736.1430927460105.JavaMail.CONFLUENCE$@confluence>
+Subject: [confluence] Eduardo Pardo Carvajal updated a "Leave" event in the
+ "05. LEAVE" calendar
+Precedence: bulk
+Auto-Submitted: auto-generated
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-615933390_-_-"
+
+  Eduardo Pardo Carvajal updated a "EventsLeave" event in the 05. LEAVE calendar Jul 13, 2015 Until Jul 17, 2015   Eduardo Pardo Carvajal Vacation You are receiving this notification because you are watching the following:   05. LEAVE   This message was sent by Atlassian Confluence 5.6.3, Team Collaboration Software 

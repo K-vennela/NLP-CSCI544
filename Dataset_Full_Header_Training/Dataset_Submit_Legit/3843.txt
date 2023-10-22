@@ -1,0 +1,181 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 27 Apr
+ 2015 19:07:51 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 27 Apr 2015 
+ 19:07:44 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 884096431
+ for user@domain.com; Wed, 27 Apr 2015 18:07:51 -0500
+X-Note-AR-ScanTimeLocal: 4/27/2016 6:07:49 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @egencia.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: United States->
+X-Note-Sending-IP: 216.251.112.210
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from domain.com ([216.251.112.210] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 137563613
+ for user@domain.com; Wed, 27 Apr 2015 18:07:49 -0500
+Message-ID: <9b1e43$1user@domain.com>
+From: Egencia TripController <no-reply@egencia.com>
+To: <user@domain.com>
+Reply-To: <user@domain.com>
+Date: Wed, 27 Apr 2015 16:07:48 -0700
+Subject: =?iso-8859-15?Q?TripController=A0-=A0Jordan=A0Kaplan=A0-=A0Los=A0Angeles,=A0CA=A0-=A0May=A03,=A02016=A0-=A0Approval=A0Request?=
+Content-Type: text/html; charset="iso-8859-15"
+Content-Transfer-Encoding: quoted-printable
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+=09
+=09
+=09
+=09
+=09
+
+
+
+=09
+	Jordan Kaplan is requesting trip approval from Bradley Marshall<=
+/b>
+=09
+
+
+
+	=09
+=09
+	=09
+=09
+=09
+=09
+=09
+=09
+=09
+
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+
+=09
+=09
+=09
+
+
+
+View trip online
+
+=09
+=09
+
+=09
+=09
+=09
+=09
+
+
+
+Traveler Jordan Kaplan (user@domain.com)
+
+Itinerary Los Angeles, CA 23733083588
+
+=09
+=09
+	=
+
+=09
+	Hotel: W Los Angeles - West Beverly Hills, Los Angeles
+=09
+
+
+
+=09
+
+=09
+=09
+=09
+	Price at submission   $525.32
+
+=09
+	Start date   Tuesday May-3-2016
+
+End date   Wednesday May-4-2016
+
+=09
+	Policy   Out of policy
+
+=09
+=09
+=09
+=09
+=09
+	Department   Finance (01)
+
+=09
+=09
+=09
+	Booking status  =20
+=09
+
+
+
+=09
+	=09
+=09
+=09
+
+=09
+=09
+
+Not Reserved
+
+
+
+Approval status  =20
+=20
+	Awaiting approval
+=09
+
+=09
+=09
+
+
+
+=09
+=09
+
+=09
+
+=09
+
+=20
+=09
+=09
+
+
+
+=09
+
+=20
+

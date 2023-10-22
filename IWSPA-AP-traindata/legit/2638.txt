@@ -1,0 +1,75 @@
+They told me at check in that it was not prepaid. Giancarlo happened to be there and offered his card.  
+I told him I was not staying the 6th and retuning on the 7th. Did not seem to hurt anything since, according to them nothing had been paid. 
+It's an unfortunate confusion, but not sure what I can do. 
+<!--
+/* Font Definitions */
+@font-face
+{font-family:"Cambria Math";
+panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+{font-family:Calibri;
+panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+{font-family:Tahoma;
+panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+{margin:0cm;
+margin-bottom:.0001pt;
+font-size:11.0pt;
+font-family:"Calibri","sans-serif";
+color:black;}
+a:link, span.MsoHyperlink
+{mso-style-priority:99;
+color:blue;
+text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+{mso-style-priority:99;
+color:purple;
+text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+{mso-style-priority:99;
+mso-style-link:"Testo fumetto Carattere";
+margin:0cm;
+margin-bottom:.0001pt;
+font-size:8.0pt;
+font-family:"Tahoma","sans-serif";
+color:black;}
+span.TestofumettoCarattere
+{mso-style-name:"Testo fumetto Carattere";
+mso-style-priority:99;
+mso-style-link:"Testo fumetto";
+font-family:"Tahoma","sans-serif";}
+span.BalloonTextChar
+{mso-style-name:"Balloon Text Char";
+mso-style-priority:99;
+mso-style-link:"Balloon Text";
+font-family:"Tahoma","sans-serif";}
+p.BalloonText, li.BalloonText, div.BalloonText
+{mso-style-name:"Balloon Text";
+mso-style-link:"Balloon Text Char";
+margin:0cm;
+margin-bottom:.0001pt;
+font-size:11.0pt;
+font-family:"Calibri","sans-serif";
+color:black;}
+span.StileMessaggioDiPostaElettronica21
+{mso-style-type:personal;
+font-family:"Calibri","sans-serif";
+color:#002060;}
+span.StileMessaggioDiPostaElettronica22
+{mso-style-type:personal;
+font-family:"Calibri","sans-serif";
+color:#1F497D;}
+span.StileMessaggioDiPostaElettronica23
+{mso-style-type:personal-reply;
+font-family:"Calibri","sans-serif";
+color:#1F497D;}
+.MsoChpDefault
+{mso-style-type:export-only;
+font-size:10.0pt;}
+@page WordSection1
+{size:612.0pt 792.0pt;
+margin:70.85pt 2.0cm 2.0cm 2.0cm;}
+div.WordSection1
+{page:WordSection1;}

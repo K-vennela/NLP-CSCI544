@@ -1,0 +1,43 @@
+Received: from domain.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Thu, 20 Mar 2015 08:35:47 +0100
+Received: from mail.hackingteam.it (unknown [192.168.100.50])	by
+ domain.com (Postfix) with ESMTP id C07F26007F	for
+ <user@domain.com>; Thu, 20 Mar 2015 07:26:38 +0000 (GMT)
+Received: by mail.hackingteam.it (Postfix)	id 7B6C8B6603C; Thu, 20 Mar 2015 
+ 08:35:47 +0100 (CET)
+Delivered-To: user@domain.com
+Received: from [172.20.20.132]
+ (host138-246-static.50-88-domain.com [88.50.246.138])	(using
+ TLSv1 with cipher DHE-RSA-AES128-SHA (128/128 bits))	(No client certificate
+ requested)	by mail.hackingteam.it (Postfix) with ESMTPSA id 65DD3B6600D	for
+ <user@domain.com>; Thu, 20 Mar 2015 08:35:47 +0100 (CET)
+Message-ID: <532user@domain.com>
+Date: Thu, 20 Mar 2015 08:35:49 +0100
+From: Antonio Mazzeo <a.mazzeo@hackingteam.it>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.4.0
+To: Alberto Ornaghi <user@domain.com>
+Subject: link
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1267958284_-_-"
+
+<<link>>
+
+-- 
+Antonio Mazzeo
+Senior Security Engineer
+
+Hacking Team
+Milan Singapore Washington DC
+domain.com
+
+email: user@domain.com
+mobile: +39 3311863741
+phone: +39 0229060603
+

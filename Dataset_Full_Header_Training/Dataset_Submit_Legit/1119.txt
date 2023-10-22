@@ -1,0 +1,99 @@
+Received: from domain.com (146.215.230.103) by
+ domain.com (43.130.141.77) with Microsoft SMTP Server id
+ 8.3.342.0; Thu, 26 Jun 2015 17:16:26 -0700
+Received: from domain.com ([160.33.194.231])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s5R0GPCB030954	for <user@domain.com>; Fri, 27 Jun 2015 
+ 00:16:25 GMT
+Received: from mail122-ch1-domain.com (mail-domain.com
+ [216.32.181.169])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s5R0ICOB017339
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Fri, 27 Jun 2015 00:18:12 GMT
+Received: from mail122-ch1 (localhost [127.0.0.1])	by
+ mail122-ch1-domain.com (Postfix) with ESMTP id 479F54805D2	for
+ <user@domain.com>; Fri, 27 Jun 2015 00:16:22 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:205.201.130.180;KIP:(null);UIP:(null);IPV:NLI;H:domain.com;RD:domain.com;EFVD:NLI
+X-SpamScore: 0
+X-BigFish: vps0(z3e12hz9371Ic89bhc85fhec9Izz1f42h1ee6h1de0h1fdah21bdh2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6h208chzz1de098h1def03h17326ah1def87h8275bh1bc7b9h8275dh1def86h18c673h19a27bh1de097h186068hc704dh1ce121iz2fheh5eh5fh839ha45hd24h10d2h1288h12a5h137ah139eh13eah1441h1537h162dh1631h1758h1898h18e1h1946h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e00h1e1dh1e23h1fe8h1ff5h20f0h2218h2216h226dh24afh2327h2336h2438h2461h2487h24d7h2516h2545h25f6h2605h268bh26d3h27e2h282bh28a1h28b0h298fh29d0h2a24h1d9ci)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail122-ch1: domain of domain.com designates 205.201.130.180 as permitted sender) client-ip=205.201.130.180; user@domain.com; helo=domain.com ;02.domain.com ;
+Received: from mail122-ch1 (localhost.localdomain [127.0.0.1]) by mail122-ch1
+ (MessageSwitch) id 1403828180333074_12240; Fri, 27 Jun 2015 00:16:20 +0000
+ (UTC)
+Received: from domain.com (domain.com
+ [10.43.68.249])	by mail122-domain.com (Postfix) with ESMTP id
+ EA0DE2A0084	for <user@domain.com>; Fri, 27 Jun 2015 00:16:11 +0000
+ (UTC)
+Received: from domain.com (205.201.130.180) by
+ domain.com (10.43.70.29) with Microsoft SMTP Server id
+ 14.16.227.3; Fri, 27 Jun 2015 00:16:11 +0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=domain.com;
+ h=Subject:From: =?utf-8?Q?Stacey=20Snider?= <rsvp@dreamworksstudios.com>
+ bh=aS8pSx68C0iTmtgqzzm7lR+JYj4=;
+ b=nne1fgSYV0qqcJynF2qLRDD9ylxVqi8RDVUmY1+MefK5dbNFgQcmpgssFc5yE/ilPbY+KQw9wgqI
+   9tLSMJKoHH+jiFyUQFiV90T/apA4W5Hm3rzFIhzTTDZe9PGIScXTnhf5C4HkxOHeXTmuqliOKUqV
+   AJmyxEcgqIybCJziFVI=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=domain.com;
+ b=qW2+5xuOWe2Rd9dCQaTnRpdIzUlePeMBQhRFpXODIr5rgfZFY9M6poiJym0mKRA6aQWy+m5f92lT
+   nLlpD86p+GOPRUTz2Bk9KDxfHyNLnYsXHu3Uz6IUUu6mhGxej8Y0oTTOHEgCUlMH+exD+gs5Wqt9
+   9u3/Bh09Ph32P43o4Ho=;
+Received: from (127.0.0.1) by domain.com id hlirro1jvmg5 for
+ <user@domain.com>; Fri, 27 Jun 2015 00:15:55 +0000 (envelope-from
+ <user@domain.com>)
+Subject: =?utf-8?Q?Stacey=20Snider=20invites=20you=20to=20a=20special=20screening=20of=20THE=20HUNDRED=2DFOOT=20JOURNEY?=
+From: =?utf-8?Q?Stacey=20Snider?= <rsvp@dreamworksstudios.com>
+Reply-To: =?utf-8?Q?Stacey=20Snider?= <user@domain.com>
+To: =?utf-8?Q?Amy=20&=20Bernie=20Weinraub?= <user@domain.com>
+Date: Fri, 27 Jun 2015 00:15:55 +0000
+Message-ID: <user@domain.com>
+X-Mailer: MailChimp Mailer - **CID989b6e29f879be0793c6**
+X-Campaign: mailchimpd825779d8f94848be8f58775a.989b6e29f8
+X-campaignid: mailchimpd825779d8f94848be8f58775a.989b6e29f8
+X-Report-Abuse: Please report abuse for this campaign here: <<link>>
+X-MC-User: d825779d8f94848be8f58775a
+X-Feedback-ID: 22437259:22437259.529841:us7:mc
+X-Accounttype: ff
+List-Unsubscribe: <mailto:user@domain.com?subject=unsubscribe>, <<<link>>>
+Sender: Stacey Snider <user@domain.com>
+x-mcda: FALSE
+Return-Path: 
+ user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+
+
+
+ <<link>> 
+
+The Hundred-Foot Journey - In Theaters August 8
+
+Watch the Video
+
+For blackberry users:
+
+Please join Stacey for a special screening of
+
+THE HUNDRED-FOOT JOURNEY
+
+Wednesday, July 9, 2014
+
+7:00 PM
+
+iPic Theater
+
+10840 Wilshire Boulevard
+
+Westwood
+
+Hors d'oeuvres & cocktails to follow.
+
+To RSVP, please reply to this email.    
+
+
+
+
+This email was sent to user@domain.com
+

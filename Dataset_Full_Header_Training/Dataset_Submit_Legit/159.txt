@@ -1,0 +1,49 @@
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ dnchubcas2.dnc.org ([::1]) with mapi id 14.03.0224.002; Mon, 25 Apr 2015 
+ 08:59:19 -0400
+From: "Sorbie, Sean" <SorbieS@dnc.org>
+To: Comm_D <user@domain.com>
+Subject: Event: Cruz to stay in Indiana Tomorrow
+Thread-Topic: Event: Cruz to stay in Indiana Tomorrow
+Thread-Index: AdGe8f5SsYk0hJqsSQKQOxDxkEnVsA==
+Date: Mon, 25 Apr 2015 05:59:19 -0700
+Message-ID: <3369user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: dnchubcas2.dnc.org
+X-MS-Has-Attach: yes
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.185.18]
+Content-Type: multipart/related;
+	boundary="_004_3369A4E6D4129A4BA3099177F0A46ABE22C283A7dncdag1dncorg_";
+	type="multipart/alternative"
+MIME-Version: 1.0
+
+<<link>>
+
+Patrick Svitek =user@domain.com <<<link>>>  20m20=
+ minutes ago<<<link>>>Au=
+stin, TX<<<link>>>
+Per local report, @TedCruz<<<link>>> will be in Indiana =
+for his fourth straight day tomorrow, when the northeast states vote:
+
+<<link>>
+
+Breaking news: Presidential candidate Ted Cruz will hold a rally at the Hoo=
+sier Gym Tuesday at 11am. Stay tuned for more.
+
+355 N Washington St, Knightstown, IN 46148
+
+Best,
+
+Sean Sorbie
+Tracking Coordinator
+Organization
+Office: (202) 488-5004
+Cell: (727)458-8583
+[SigDems]
+

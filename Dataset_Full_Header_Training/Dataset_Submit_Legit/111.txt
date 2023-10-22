@@ -1,0 +1,61 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Wed, 16 Oct 2015 15:51:37 +0200
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id B8C4F621BC	for
+ <user@domain.com>; Wed, 16 Oct 2015 14:47:51 +0100 (BST)
+Received: by domain.com (Postfix)	id BCADA2BC1EF; Wed, 16 Oct 2015 
+ 15:51:37 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from support.hackingteam.com (support.hackingteam.com
+ [192.168.100.70])	by domain.com (Postfix) with ESMTP id A2E362BC044
+	for <user@domain.com>; Wed, 16 Oct 2015 15:51:37 +0200 (CEST)
+Message-ID: <1381931497.525user@domain.com>
+Date: Wed, 16 Oct 2015 13:51:37 +0000
+Subject: [!RZD-265-35534]: Assignment - I need a file infected 
+From: Marco Valleri <support@hackingteam.com>
+Reply-To: <user@domain.com>
+To: <user@domain.com>
+X-Priority: 3 (Normal)
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=SUPPORTFE0
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-615933390_-_-"
+
+Marco Valleri updated #RZD-265-35534
+
+------------------------------------
+
+Staff (Owner): Marco Valleri (was: -- Unassigned --)
+
+I need a file infected 
+
+-----------------------
+
+Ticket ID: RZD-265-35534
+URL: <<link>>
+Name: Felipe Romero Sanchez
+Email address: user@domain.com
+Creator: User
+Department: domain.com requests
+Staff (Owner): Marco Valleri
+Type: Issue
+Status: In Progress
+Priority: High
+Template group: Default
+Created: 10 October 2015 05:51 PM
+Updated: 16 October 2015 01:51 PM
+
+We are sorry for the delay, but the domain.com building system has been modified to support the new RCS9.
+
+The new RCS version (codenamed Galileo) will be released on October 28th. After that date the domain.com service will start again regularly.
+
+Thank you for your patience.
+
+Staff CP:  <<link>>
+

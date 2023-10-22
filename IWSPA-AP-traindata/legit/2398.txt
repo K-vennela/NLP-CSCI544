@@ -1,0 +1,384 @@
+@media only screen and (max-device-width: 480px) {
+body {
+font-family: Arial, Sans-Serif;
+}
+.desktop {display:none; display:none !important}
+.mobile {
+display:block !important; 
+overflow:visible !important;
+float: none !important;
+width: auto !important;
+height: auto !important;
+}
+table.root {
+width: 100%;
+}
+a {
+text-decoration: none;
+color: #00357E;
+}
+}
+TECHNOLOGY
+Thursday, Oct. 23, 2014
+TOP NEWS
+FCC Pauses Comments on $45B Comcast, $49B AT&T; Deals 
+The Federal Communications Commission on Wednesday slowed down its review of both Comcast Corp.’s merger with Time Warner Cable Inc. and AT&T; Inc.’s potential purchase of DirecTV, saying more time is needed to resolve disputes over who has access to contracts with content providers.
+Jury Clears Apple In $94M Patent Suit Over IPhones, IPads
+Apple Inc. triumphed in GPNE Corp.'s $94 million patent trial Wednesday when a California federal jury unanimously found that the tech titan's iPhones and iPads didn't infringe two data-communications patents, though Apple failed to convince jurors that those patents are invalid.
+Yahoo Earnings Buoyed By Alibaba’s Historic IPO
+Yahoo Inc. booked stronger than expected earnings for the third quarter, with results buoyed by the $9.4 billion worth of Alibaba Group Holding Ltd. shares it unloaded during the e-commerce mammoth’s historic initial public offering last month, according to a statement Tuesday.
+SG Asks High Court To Eye 'Good-Faith' Patent Defense
+The Solicitor General has urged the U.S. Supreme Court to take up Commil USA LLC’s petition over whether parties accused of inducing infringement should be able to use a good-faith belief in a patent’s invalidity as a defense, saying that such a holding undermines the Patent Act’s effectiveness.
+Unwired Planet Wins Apple Report From $1B Samsung Victory
+A California federal judge has ordered Apple Inc. to hand over a damage analysis from its nearly $1 billion victory over Samsung Electronic Co. Ltd., granting patent group Unwired Planet LLC a victory in its battle with Apple Inc. over mobile device patents.
+US Talks Can't Extend Patent Law To Foreign Sales: Fed. Circ.
+The Federal Circuit on Wednesday upheld a $1.5 million judgment against Pulse Electronics Corp. for infringing three Halo Electronics Inc. transformer patents used in domestic products, but said that U.S. patent laws don't apply to units sold internationally even if negotiations for foreign sales occurred in the U.S.
+Tessera Wants Judge To Enforce $30M Patent Deal, Nix Trial
+Tessera Inc. is pushing a California federal judge to enforce a $30 million settlement it reached in February with Advanced Semiconductor Engineering Inc. in a patent-infringement suit, claiming ASE has “settler's remorse” and asking the court to call off a Nov. 10 trial, according to filings this week.
+LITIGATION
+Google Says Nortel Shouldn't Block Docs In Rockstar IP Row
+Google Inc. on Tuesday became the latest company to urge a Delaware bankruptcy judge to reject a bid by defunct Nortel Networks Inc. to grant it protection against subpoenas it has received in connection with patent infringement litigation involving Rockstar Consortium LP, the buyer of Nortel's patent portfolio.
+3rd Circ. Affirms Dismissal Of Virgin Islands Telecom Case
+The Third Circuit on Tuesday upheld a lower court's decision to transfer a complicated settlement dispute involving Norton Rose Fulbright, investment firm Greenlight Capital Inc., a group of insolvent Virgin Islands telecommunications firms and others to bankruptcy court, which then recommended that the case be thrown out.
+Motorola Tells 7th Circ. FTAIA No Cartel Shield
+Motorola Mobility LLC told the Seventh Circuit on Tuesday that the Foreign Trade Antitrust Improvements Act, which was designed to limit the foreign reach of U.S. antitrust law, was not meant to give a free pass to cartels whose products end up in the U.S. just because the sales happen abroad.
+Quanta Doesn't Nix Restricted Sales, Lexmark Tells Fed. Circ.
+Lexmark International Inc. on Tuesday urged the Federal Circuit to overturn a decision that the company’s inkjet cartridge return program is invalid under patent law, arguing that a U.S. Supreme Court ruling the lower court relied on did not overrule the appeals court’s previous finding on restricted sales.
+SanDisk Fights Cert. Bid In Flash Memory Antitrust Suit
+SanDisk Corp. urged a federal judge to deny retailers and customers class certification in a suit accusing the company of using its patents to monopolize the flash memory industry, saying that the memory purchasers failed to prove that common issues predominate.
+Amazon, Apple, Dropbox Sued Over Networking Patent
+Google Inc., Apple Inc., and Amazon.com Inc. were among several tech businesses sued on Tuesday in Texas federal court by Vantage Point Technology Inc., which claims services such as Google Drive and iCloud violate a patent covering a method for transferring documents over the Internet.
+DEALS
+Verizon Taps Debt Market Again With $6.5B Bond Sale
+Verizon Communications Inc. said Wednesday it will offer $6.5 billion in bonds as it seeks to take advantage of the low interest rate environment, to refinance its existing debt.
+SoftBank Leads $100M Financing For Indonesian Online Market
+Japanese telecommunications giant SoftBank Corp. on Wednesday continued its push to become the largest Internet company in Asia by leading a $100 million investment round in Indonesian online marketplace PT Tokopedia.
+Northrop Grumman, CSC Win $71M In DOD Software Contracts
+Computer Sciences Corp. and a unit of defense giant Northrop Grumman Corp. have been awarded software support contracts to provide services for various U.S. Department of Defense technology and communication programs, worth up to a combined $71.4 million, the Pentagon announced Tuesday.
+Market Rumors: Wingstop, Yodle, ECB
+Private equity-backed chicken wing chain Wingstop is cooking up a potentially $100 million initial public offering, while marketing software maker Yodle is reconsidering its plans for a public debut.
+BANKRUPTCY
+UniTek To Swap Debt For Equity, Go Private In Ch. 11
+Troubled telecommunications installation provider UniTek Global Services Inc.’s private equity stakeholders have reached a deal to take the company private and restructure its debts through a forthcoming prepackaged bankruptcy plan.
+Bankrupt Seegrid Gets Nod For Dec. Hearing On Ch. 11 Plan
+Robotics developer Seegrid Corp. on Wednesday won the blessing of a Delaware bankruptcy judge to present its prepackaged Chapter 11 plan for confirmation in December, despite opposition from its former CEO who sought additional time to fight the plan.
+EXPERT ANALYSIS
+Japan's Trade Secret Law Reform Should Focus On Discovery
+Faced with a growing trend of trade secret theft, Japanese lawmakers are actively debating reforms to strengthen both civil and criminal enforcement of trade secrets. The proposals, however, fail to address the fundamental weakness of trade secret enforcement under current Japanese law, say attorneys with Finnegan Henderson Farabow Garrett & Dunner LLP, Kitahama Partners and Lexia Partners.
+1st Circ. Injects Uncertainty Into Stay Relief Denials
+Both the majority and dissent in a First Circuit ruling in Pinpoint IT Services LLC v. Rivera could be accused of drawing an arbitrary line in the sand — their positions bring uncertainty to bankruptcy appeals of stay relief denials even prior to any consideration of the merits of such appeals, say Douglas Gooding and Meg McKenzie Feist of Choate Hall & Stewart LLP.
+LEGAL INDUSTRY
+4 Reasons Associates Hate Their Jobs
+The junior ranks at major law firms have always been hotbeds of discontent, with long hours and overbearing partners leaving associates wondering why they ever complained about the rigors of law school. Here, Law360 looks at four occupational hazards that are driving associates nuts and what they — and their firms — can do about them.
+Pandora Streams Ex-EA General Counsel Into Legal Lineup
+California-based Pandora Media Inc. has hired the former general counsel of Electronic Arts Inc. to serve as head of the legal department for the music streaming service.
+Reed Smith Hatches Global Ebola Task Force
+Reed Smith LLP said Tueday it has formed a “global Ebola task force” to address a wave of client concerns about the spread of the disease in West Africa and beyond, while Tennessee's Waller Lansden Dortch & Davis LLP launched an online resource center for employers.
+Pro Bono Firm Of 2014: Ropes & Gray
+Between fighting for low-income HIV patients’ right to receive due funding for health care and helping ensure troubled youths are given a fair shake, Ropes & Gray LLP attorneys devoted over 115,000 hours to free advocacy this past year, earning the firm a spot on Law360's list of top pro bono firms of 2014.
+Titan Of The Plaintiffs Bar: Roberta D. Liebenberg 
+A tireless champion of women in law and advocate for her clients, Roberta D. Liebenberg of Fine Kaplan & Black RPC has helped secure multimillion-dollar settlements for plaintiffs in antitrust cases covering products such as automotive filters and chemicals used in mattress foam, all while giving unflagging support to her fellow female attorneys.
+JOBS
+Counsel I – Clinical Contracts 
+Gilead Sciences
+Foster , California
+Patent Attorney/Patent Agent
+NSIP Law
+Washington, District of Columbia
+Patent Counsel
+Broadcom
+Irvine, California
+Patent Prosecution Associate/Agent
+Harrity & Harrity LLP
+Fairfax, Virginia
+Organizations In The News
+COMPANIES
+AT&T Inc.
+AU Optronics Corp.
+Advanced Micro Devices, Inc.
+Advanced Semiconductor Engineering Inc.
+Alibaba Group Holdings Ltd.
+Amazon.com Inc.
+American Bar Association
+American Society Of Composers Authors & Publishers
+Apple Inc.
+BTI Consulting Group Inc.
+Bain & Company Inc.
+Barnes & Noble Inc
+Broadcast Music Inc.
+Brown Armstrong CPA
+CBS Corporation
+Cerberus Capital Management LP
+Cisco Systems Inc.
+Comcast Corporation
+Computer Sciences Corporation
+Credit Suisse Group AG
+Dow Chemical Co.
+Dropbox Inc.
+EMC Corporation
+Edge International Inc.
+Electronic Arts Inc.
+Facebook
+Fujitsu Ltd.
+Giant Eagle Inc.
+Goldman Sachs Group Inc.
+Google Inc.
+HTC Corporation
+Highmark Inc.
+Honeywell International Inc.
+Hynix Semiconductor
+Intergraph Corporation
+JPMorgan Chase & Co.
+John Wiley & Sons, Inc.
+Kellogg Company
+LG Electronics Inc.
+LM Ericsson Telephone Company
+Lexmark International, Inc.
+Microsoft Corporation
+Morgan Stanley
+Motorola Mobility LLC
+NASDAQ OMX Group Inc.
+Nokia Corporation
+Nortel Networks Corporation
+Northrop Grumman Corporation
+Panasonic Corporation
+QUALCOMM Incorporated
+Ritz Camera & Image
+Rockstar Consortium Inc.
+Samsung Electronics
+SanDisk Corporation
+Siliconware Precision Industries Company, Ltd.
+Softbank Corp.
+Sony Corporation
+Sony Music Entertainment Inc.
+The DIRECTV Group, Inc.
+The Link REIT
+The Walt Disney Company
+Time Warner Cable
+Toshiba
+Toyota Motor Corporation
+Verizon Communications
+VirnetX Holding Corporation
+Vodafone Group plc
+Wells Fargo & Co.
+Yahoo! Inc.
+LAW FIRMS
+Ashby & Geddes
+Banner & Witcoff
+Bartlit Beck
+Benesch Friedlander
+Bickel & Brewer
+Burns & Levinson
+Butler Rubin
+Choate
+Cleary Gottlieb
+Cotsirilos Tighe
+Covington & Burling
+Crowell & Moring
+Davis Wright Tremaine
+Dentons
+Eclipse Group
+Eimer Stahl
+Fenwick & West
+Finnegan
+Fish & Richardson
+Gardere Wynne
+Gibson Dunn
+Heim Payne
+Hunton & Williams
+Ireland Carroll
+Kellogg Huber
+Lewis Brisbois
+McKool Smith
+Morgan Duffy-Smith
+Morris Nichols
+Norton Rose Fulbright
+Nossaman LLP
+O'Melveny & Myers
+Paul Hastings
+Paul Weiss
+Pepper Hamilton
+Pillsbury Winthrop
+Potter Anderson
+Quinn Emanuel
+Reed Smith
+Richards Layton
+Ropes & Gray
+Rothschild Barry
+Sayles Werbner
+Sheppard Mullin
+Sidley Austin
+Simpson Thacher
+Skadden
+Stoll Keenon
+Stueve Siegel
+Susman Godfrey
+Waller Lansden
+White & Case
+WilmerHale
+Womble Carlyle
+GOVERNMENT AGENCIES
+Centers for Disease Control and Prevention
+Centers for Medicare & Medicaid Services
+Federal Communications Commission
+Federal Reserve System
+International Trade Commission
+The White House
+U.S. Department of Defense
+U.S. Department of Justice
+U.S. Marine Corps
+U.S. Navy
+U.S. Patent and Trademark Office
+U.S. Supreme Court
+ORGANIZATIONS IN THE NEWS
+COMPANIES
+Apple Inc.
+Google Inc.
+Amazon.com Inc.
+Motorola Mobility LLC
+SanDisk Corporation
+The DIRECTV Group, Inc.
+Time Warner Cable
+Toshiba
+AT&T Inc.
+AU Optronics Corp.
+Advanced Micro Devices, Inc.
+Advanced Semiconductor Engineering Inc.
+Alibaba Group Holdings Ltd.
+American Bar Association
+American Society Of Composers Authors & Publishers
+BTI Consulting Group Inc.
+Bain & Company Inc.
+Barnes & Noble Inc
+Broadcast Music Inc.
+Brown Armstrong CPA
+CBS Corporation
+Cerberus Capital Management LP
+Cisco Systems Inc.
+Comcast Corporation
+Computer Sciences Corporation
+Credit Suisse Group AG
+Dow Chemical Co.
+Dropbox Inc.
+EMC Corporation
+Edge International Inc.
+Electronic Arts Inc.
+Facebook
+Fujitsu Ltd.
+Giant Eagle Inc.
+Goldman Sachs Group Inc.
+HTC Corporation
+Highmark Inc.
+Honeywell International Inc.
+Hynix Semiconductor
+Intergraph Corporation
+JPMorgan Chase & Co.
+John Wiley & Sons, Inc.
+Kellogg Company
+LG Electronics Inc.
+LM Ericsson Telephone Company
+Lexmark International, Inc.
+Microsoft Corporation
+Morgan Stanley
+NASDAQ OMX Group Inc.
+Nokia Corporation
+Nortel Networks Corporation
+Northrop Grumman Corporation
+Panasonic Corporation
+QUALCOMM Incorporated
+Ritz Camera & Image
+Rockstar Consortium Inc.
+Samsung Electronics
+Siliconware Precision Industries Company, Ltd.
+Softbank Corp.
+Sony Corporation
+Sony Music Entertainment Inc.
+The Link REIT
+The Walt Disney Company
+Toyota Motor Corporation
+Verizon Communications
+VirnetX Holding Corporation
+Vodafone Group plc
+Wells Fargo & Co.
+Yahoo! Inc.
+LAW FIRMS
+Cleary Gottlieb
+Crowell & Moring
+Fish & Richardson
+Morris Nichols
+Sidley Austin
+Simpson Thacher
+White & Case
+WilmerHale
+Ashby & Geddes
+Banner & Witcoff
+Bartlit Beck
+Benesch Friedlander
+Bickel & Brewer
+Burns & Levinson
+Butler Rubin
+Choate
+Cotsirilos Tighe
+Covington & Burling
+Davis Wright Tremaine
+Dentons
+Eclipse Group
+Eimer Stahl
+Fenwick & West
+Finnegan
+Gardere Wynne
+Gibson Dunn
+Heim Payne
+Hunton & Williams
+Ireland Carroll
+Kellogg Huber
+Lewis Brisbois
+McKool Smith
+Morgan Duffy-Smith
+Norton Rose Fulbright
+Nossaman LLP
+O'Melveny & Myers
+Paul Hastings
+Paul Weiss
+Pepper Hamilton
+Pillsbury Winthrop
+Potter Anderson
+Quinn Emanuel
+Reed Smith
+Richards Layton
+Ropes & Gray
+Rothschild Barry
+Sayles Werbner
+Sheppard Mullin
+Skadden
+Stoll Keenon
+Stueve Siegel
+Susman Godfrey
+Waller Lansden
+Womble Carlyle
+GOVERNMENT AGENCIES
+U.S. Supreme Court
+U.S. Patent and Trademark Office
+U.S. Department of Justice
+Centers for Disease Control and Prevention
+Centers for Medicare & Medicaid Services
+Federal Communications Commission
+Federal Reserve System
+International Trade Commission
+The White House
+U.S. Department of Defense
+U.S. Marine Corps
+U.S. Navy
+JOBS
+Counsel I – Clinical Contracts 
+Gilead Sciences
+Foster , California
+Patent Attorney/Patent Agent
+NSIP Law
+Washington, District of Columbia
+Patent Counsel
+Broadcom
+Irvine, California
+Patent Prosecution Associate/Agent
+Harrity & Harrity LLP
+Fairfax, Virginia

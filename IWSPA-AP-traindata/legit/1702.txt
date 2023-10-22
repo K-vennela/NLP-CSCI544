@@ -1,0 +1,139 @@
+Hi Keith - Happy new year. Hopefully, you had a good holiday. I've had a chance to read
+your section and hopefully you've had a chance to read what I sent just before the
+holidays. The purpose of this email is to help get a focus on the finish line (just a few
+days away) and to get a dialog going that will hopefully help you finish section 6.3.2.1.
+If you'd like to talk on the phone, just let me know.
+Please see my email from right before xmas holidays for original comments. Plus, here are
+the new ones from both me and David Rind:
+0) as leader of this KEY section, we need you to take the lead integrating everything you
+think should be integrated, editing and boiling it down to just ca 4 pages of final text
+(e.g., 8 pages of typed text plus figs). This means cutting some material (e.g., forcings
+and simulations) and perhaps moving glacier record (MUCH boiled down) to a box. See below.
+00) note that we can also perhaps move some of the details to the appendix (although we
+won't write this until after the current ZOD crunch, save an outline of what you might want
+in there).
+1) I like your figure ideas, with the comments:
+1a) I don't think you need figure 1d - the SH recons are sketchy since not much data, and
+it might be better to just discuss in a sentence or three. Any space saved is good too. Not
+sure about your proposed 1e - have to see it, I guess.
+1b) Figure 2 looks interesting. I'm trying to get the latest Arctic recon from Konrad
+Hughen - it is quite robust and a significant multi-proxy update. Should be published in
+time, though not sure thing since he's still hot on including his (our) AO recon which is
+more sketchy
+1c) I think we can save space and improve organization if we DO NOT include Fig 3. However,
+this is open for debate - see David's comments below.
+2) I agree with David's comments in general - so see them below. The prickly issue is where
+to put the forcings and simulated changes. I am close to having the prose from the
+radiation chapter, including the latest Lean and Co's view on solar - this will make many
+of the existing simulations involving inferred past solar forcing suspect (I will send in a
+day or so I hope). This means that we might be best saving space and downplaying this work
+some. I'm not sure, but wanted to debate it with you. Also, Chap 9 will have simulations in
+spades, so we can save space by letting them do it. Also, as David points out, we can focus
+on it elsewhere in our chapter more concisely - leaving you to focus on the VERY important
+obs record of temp and other changes. Can you tell, I'm still not 100% sure? I'll send
+another email to you and others about this in a bit.
+3) Your section is too long and needs to be condensed. Thus, you need to think through
+what's most important and what's less so. For example, we need to figure out how to
+condense the glacier record of change. David thinks it should be a separate section that
+cuts across time scales (i.e., Holocene and last 2000 years). Perhaps we should try to make
+it into a box - 3 to 5 short paragraphs and a figure or two. Either way we have to really
+wack it. What do you think - you and I should be on the same page with Eystein before
+discussing w/ Olga perhaps. Or you can discuss with her - you're the lead on this section.
+4) you're doing an impressive job! Lots to keep track of.
+Next, here is what David has offered. Take it all with a grain of salt, but I have read it
+and he has many good points. On the structural or any other points, I'm happy to discuss on
+the phone, or you can just debate with him and me on email.
+******* From David Rind 1/4/05 ****************
+6.3 Understanding Past Climate System Change (forcing and response)
+6.3.1 Introduction (0.5 pages)
+6.3.2 The Current Interglacial
+6.3.2.1 Last 2000 years (4 pages)
+Figure 1 should be of the last 2000 years, with appropriate caveats, not just since 1860
+(which will undoubtedly be in other chapters).
+pp. 8-18:  The biggest problem with what appears here is in the handling of the greater
+variability found in some reconstructions, and the whole discussion of the 'hockey stick'.
+The tone is defensive, and worse, it both minimizes and avoids the problems. We should
+clearly say (e.g., page 12 middle paragraph) that there are substantial uncertainties that
+remain concerning the degree of variability - warming prior to 12K BP, and cooling during
+the LIA, due primarily to the use of paleo-indicators of uncertain applicability, and the
+lack of global (especially tropical) data. Attempting to avoid such statements will just
+cause more problems.
+In addition, some of the comments are probably wrong - the warm-season bias (p.12) should
+if anything produce less variability, since warm seasons (at least in GCMs) feature smaller
+climate changes than cold seasons. The discussion of uncertainties in tree ring
+reconstructions should be direct, not referred to other references - it's important for
+this document. How the long-term growth is factored in/out should be mentioned as a prime
+problem. The lack of tropical data - a few corals prior to 1700 - has got to be discussed.
+The primary criticism of McIntyre and McKitrick, which has gotten a lot of play on the
+Internet, is that Mann et al. transformed each tree ring prior to calculating PCs by
+subtracting the 1902-1980 mean, rather than using the length of the full time series (e.g.,
+1400-1980), as is generally done. M&M claim that when they used that procedure with a red
+noise spectrum, it always resulted in a 'hockey stick'. Is this true? If so, it constitutes
+a devastating criticism of the approach; if not, it should be refuted. While IPCC cannot be
+expected to respond to every criticism a priori, this one has gotten such publicity it
+would be foolhardy to avoid it.
+In addition, there are other valid criticisms to the PC approach. Assuming that the PC
+structure stays the same was acknowledged in the Mann et al paper as somewhat risky, given
+the possibility of altered climate forcing (e.g., solar). Attempting to reconstruct
+tropical temperatures using high latitude PCs assumes that the PCs are influenced only by
+global scale processes. In a paper we now have in review in JGR, and in other papers
+already published, it is shown that high latitude climate changes can directly affect the
+local expression of the modes of variability (NAO in particular).  So attempting to fill in
+data at other locations from PCs that could have local influences may not work well; at the
+least, it has large uncertainties associated with it.
+The section from p.18-20 - simulations of temperature change over the last millennium ,
+including regional expressions - should not be in this section. It is covered in the
+modeling section (several different times), and will undoubtedly be in other chapters as
+well. And the first paragraph on p. 19 is not right - only by using different forcings have
+models been able to get similar responses (which does not constitute good agreement). The
+discussion in the first paragraph of p. 20 is not right - the dynamic response is almost
+entirely in winter, which would not have affected the 'warm season bias'
+paleoreconstructions used to prove it. It also conflicts with ocean data (Gerard Bond,
+personal communication). Anyway, it's part of the section that should be dropped.
+pp. 20-28: The glacial variations should be summarized in a coherentglobal  picture.
+Variations as a function of time should be noted - not just lumped together between 1400
+and 1850 - for example, it should be noted where glaciers advanced during the 17th century
+and retreated during the 19th century, for that is important in understanding possible
+causes for the Little Ice Age (as well as the validity of the 'hockey stick'). The
+discussion on the bottom of p.25-27  as to the causes of the variations is inappropriate
+and should be dropped - note if solar forcing is suspect, every paragraph that relates
+observed changes to solar forcing will be equally suspect (e.g., see also p. 44, first
+paragraph).
+Bottom of p. 27: Greene et al. (GRL, 26, 1909-1912, 1999) did an analysis of 52 glaciated
+areas from 30-60N and found that the highest correlation between their ELA variations in
+the last 40 years was with summer season freezing height and winter season precip. The warm
+season freezing height was by far more important. Therefore, the relationship of glacier
+variations to NAO changes (which are important only in winter), as discussed in this
+paragraph, while perhaps valid for a period of time in southern Norway, is not generally
+applicable.
+p. 34-36 on forcings: note that this is redundant to what is discussed in several later
+sections (e.g., 6.5.2); and other chapters), and that is true of forcing in general for the
+whole of section 6.2. I would strongly suggest dropping forcing from section 6.3.2.1, at
+least, and perhaps giving it its own number, or referring to othersubsections for it. It
+has a different flavor from the responses, and the section is already very big. Forcing
+does need to be discussed in the paleoclimate chapter, for reasons of climate sensitivity
+and explaining observations, but that is what Chapter 6.5 is about.
+(In summary - 6.3.2.1 already is taking on one controversy - paleotemperatures, which is
+needs to do better,  It should not have to deal with the forcing problems as well, and
+especially not in an off-handed way.)
+Specific comments: p. 36: 6 ppm corresponds to a temperature response of 0.3 to 0.6K using
+the IPCC sensitivity range.
+p. 36, last paragraph: one could equally well conclude that the reconstructions are showing
+temperature changes that are too small.  This is the essence of the problem with the last
+2000 years: if the reconstructions are right, either there was no solar forcing, or climate
+sensitivity is very low. If the real world had more variability, either there was solar
+forcing, or climate sensitivity is high (as is internal variability). I've tried to say
+this in the climate sensitivity sub-chapter.
+pp. 37-41: obviously a lot of overlap, but it shouldn't be hard to combine these.
+p. 39, first paragraph: but can the models fully explain what is thought to have happened?
+Quantification is important here, because many of the same climate/veg models are being
+used to assess future changes in vegetation.
+p. 42 - first full paragraph: what are the implications of the methane drop without a CO2
+drop?
+p. 43, middle paragraph: obviously should mention solar-orbital forcing in this paragraph.
+p. 44, first paragraph: again, assuming a solar forcing
+p. 45, first paragraph: overlap with pp. 20-28.
+Second paragraph: overlap with p.39, last full paragraph
+p. 52 - repeat of p. 43.
+******* END From David Rind 1/4/05 ****************
+Thanks! Cheers, peck

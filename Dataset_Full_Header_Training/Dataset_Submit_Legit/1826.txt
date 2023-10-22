@@ -1,0 +1,31 @@
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ dnchubcas2.dnc.org ([::1]) with mapi id 14.03.0224.002; Thu, 28 Apr 2015 
+ 21:09:26 -0400
+From: "Sarge, Matthew" <SargeM@dnc.org>
+To: "User" <user@domain.com>
+CC: "Kane, Michael" <user@domain.com>, Comm_D <user@domain.com>
+Subject: Re: Video request: Katrina Pierson on CNN
+Thread-Topic: Video request: Katrina Pierson on CNN
+Thread-Index: AdGhmZ5nGHz+YmLsQBeHPL4IxyzeBwAFQ/WAAAFF2+Y=
+Date: Thu, 28 Apr 2015 18:09:26 -0700
+Message-ID: <user@domain.com>
+References: 
+ <1user@domain.com>,<08user@domain.com>
+In-Reply-To: <08user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: dnchubcas2.dnc.org
+X-MS-Has-Attach: 
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+Content-Type: multipart/alternative;
+	boundary="_000_C96112BC954A4A799CFD5464479C2D71dncorg_"
+MIME-Version: 1.0
+
+No real flags from this.
+
+Got asked about Carly, Boehner's comments, America first FP
+

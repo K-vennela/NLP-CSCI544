@@ -1,0 +1,144 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 27 Apr
+ 2015 19:17:02 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 27 Apr 2015 
+ 19:16:55 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 884107262
+ for user@domain.com; Wed, 27 Apr 2015 18:17:03 -0500
+X-Note-AR-ScanTimeLocal: 4/27/2016 6:17:02 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:205.201.135.83 DOM:domain.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 100
+X-GBUdb-Analysis: 0, 205.201.135.83, Ugly c=0 p=0 Source New
+X-Signature-Violations: 100-5953858-1789-1819-m
+	100-5946975-1903-1922-m
+	100-5945063-5288-5313-m
+	100-5953858-0-28367-f
+X-Note-419: 31.253 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 4/27/2016 6:16:45 PM
+X-Warn: BOUNCETRACKER Bounce User Tracking Found
+X-Warn: OPTOUT
+X-Warn: BULKMAILER
+X-Note: Spam Tests Failed: BOUNCETRACKER, OPTOUT, BULKMAILER
+X-Country-Path: LOCAL->United States->
+X-Note-Sending-IP: 205.201.135.83
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G280 G285 G339 G373 G375 G572 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from domain.com ([205.201.135.83] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 137564511
+ for user@domain.com; Wed, 27 Apr 2015 18:17:02 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=domain.com;
+ h=Subject:From: =?utf-8?Q?Univision=20News?= <dailybrief@univision.net>
+ bh=Adsj7QC9lGhboCa8zt5JnzWZ1CM=;
+ b=DZ7JtJGHglzGAHOautv7RXnKa3ayLJH4h2fP1RLQi9oxae4twG/73fmEWEgs2/5ihyBmOzqpOcim
+   WX1lwQ3NjViZ4SBxwWetEjYpeLR5dcohCxC/MKoTCqy0uVf6ZAYi5uwmH5gIirNDnojoqKOkOrPg
+   iLG7S6DGllhfn76KrlU=
+Received: from (127.0.0.1) by domain.com id h4546q1mr1ot for
+ <user@domain.com>; Wed, 27 Apr 2015 23:17:00 +0000 (envelope-from
+ <user@domain.com>)
+Subject: =?utf-8?Q?Daily=20Brief=3A=20Ted=20Cruz=20Names=20Carly=20Fiorina=20As=20His=20Running=20Mate?=
+From: =?utf-8?Q?Univision=20News?= <dailybrief@univision.net>
+Reply-To: =?utf-8?Q?Univision=20News?= <user@domain.com>
+To: <user@domain.com>
+Date: Wed, 27 Apr 2015 23:17:00 +0000
+Message-ID: <5user@domain.com>
+X-Mailer: MailChimp Mailer - **CIDb8f31c975accf2e888e6**
+X-Campaign: mailchimp5e06b619917f7a0a6b28d05cc.b8f31c975a
+X-campaignid: mailchimp5e06b619917f7a0a6b28d05cc.b8f31c975a
+X-Report-Abuse: Please report abuse for this campaign here: <<link>>
+X-MC-User: 5e06b619917f7a0a6b28d05cc
+X-Feedback-ID: 40079569:40079569.543985:us10:mc
+List-ID: 5e06b619917f7a0a6b28d05ccmc list <5e06b619917f7a0a6b28d05cc.188293.list-domain.com>
+X-Accounttype: pd
+List-Unsubscribe: <mailto:user@domain.com?subject=unsubscribe>, <<<link>>>
+Sender: Univision News <user@domain.com>
+x-mcda: FALSE
+Content-Type: multipart/alternative;
+	boundary="_----------=_MCPart_407441696"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Did a friend forward you this email?
+Get the Daily Brief everyday on your inbox (#)
+<<link>>
+Follow us <<link>> <<link>>
+domain.com/UniPolitica
+April 27=2C 2015 
+
+** Top news today in Hispanic America (<<link>>
+domain.com/daily/top-news-today-in-hispanic-america-156/)
+------------------------------------------------------------
+|
+Click to play (<<link>>
+oday-in-hispanic-america-156/)
+<<link>>
+c-america-156/
+
+<<link>>
+2/banner_news.png
+* =E2=80=9CACELA=E2=80=9D PRIMARY RECAP: It was a victorious night for Hil=
+lary Clinton and Donald Trump. The Democratic candidate gained 204 delegat=
+es and won four out of the five states in the contest. Republican candidat=
+e was granted 109 delegates and won all five states participating. Senator=
+ Bernie Sanders won Rhode Island and picked up 13 delegates.
+
+* HASTERT SENTENCING: Former Speaker of the House Dennis Hastert has been=
+ sentenced to 15 months in prison today. Hastert was being accused of sexu=
+ally abusing young boys while working as a teacher and a wrestling coach i=
+n Illinois. Federal officials also discovered that Hastert was paying =E2=
+=80=9Chush-money=E2=80=9D to one of the alleged victims.
+
+* MARY PAT CHRISTIE GETTING ATTENTION FOR =E2=80=9CEYE ROLL=E2=80=9D: Chri=
+s Christie=E2=80=99s wife=2C Mary Pat=2C is getting a lot of attention ove=
+r an apparent =E2=80=9Ceye roll=E2=80=9D during Trump=E2=80=99s victory sp=
+eech last night. Christie=E2=80=99s reaction came after Donald Trump took=
+ aim at Democ... Read more (<<link>>
+ly/top-news-today-in-hispanic-america-156/)
+
+|
+
+** Today=E2=80=99s data
+------------------------------------------------------------
+
+English proficiency among U.S. Latinos has risen over the past 14 years=2C=
+ an increase almost entirely due to the growing share of younger Hispanics=
+ born in the U.S.=2C according to a new Pew Research Center analysis of Ce=
+nsus Bureau data.
+Source: Pew Research Center=2C April 20=2C 2015 
+|
+Add user@domain.com (mailto:user@domain.com) to your add=
+res book
+Did a friend forward you this email?
+Get the executive every day on your mail (<<link>>
+domain.com/daily/subscribe)
+Why did I get this mail? (<<link>>
+/subscribe)
+Terms of Service (<<link>>
+=3Dterms) and Privacy Policy (<<link>>
+aily/?text=3Dprivacy)
+Univision All Rights Reserved 2015 
+
+This email was sent to user@domain.com (mailto:user@domain.com)
+why did I get this? (<<link>>
+619917f7a0a6b28d05cc&id=3Dbdb6fbd96e&e=3Dccf2e888e6&c=3Db8f31c975a)     unsu=
+bscribe from this list (<<link>>
+u=3D5e06b619917f7a0a6b28d05cc&id=3Dbdb6fbd96e&e=3Dccf2e888e6&c=3Db8f31c975a)=
+     update subscription preferences (<<link>>
+m/profile?u=3D5e06b619917f7a0a6b28d05cc&id=3Dbdb6fbd96e&e=3Dccf2e888e6)
+Univision . 8551 NW 30TH TERRACE . Miami=2C FL 33122 . USA

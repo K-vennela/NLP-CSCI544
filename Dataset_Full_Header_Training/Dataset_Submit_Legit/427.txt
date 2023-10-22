@@ -1,0 +1,85 @@
+Received: from dncedge1.dnc.org (192.168.185.10) by dnchubcas2.dnc.org
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Fri, 29 Apr
+ 2015 20:56:13 -0400
+Received: from domain.com (8.19.118.102) by dncwebmail.dnc.org
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Fri, 29 Apr 2015 
+ 20:56:02 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 888739655;
+ Fri, 29 Apr 2015 19:56:14 -0500
+X-Note-AR-ScanTimeLocal: 4/29/2016 7:56:14 PM
+X-Policy: dnc.org
+X-Policy: dnc.org
+X-Policy: dnc.org
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: user@domain.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: United States->
+X-Note-Sending-IP: 54.240.8.95
+X-Note-Reverse-DNS: a8-95.smtp-domain.com
+X-Note-Return-Path: 0100015464user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from a8-95.smtp-domain.com ([54.240.8.95] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 136245652;
+ Fri, 29 Apr 2015 19:56:14 -0500
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=go7aoqylmj73p2nqyzh3byqxovqw22p6; d=dnc.org; t=1461977771;
+	h=To:Subject:Message-ID:Date:From: OrganizationHelpdesk <help@dnc.org>
+	bh=iT91pEwuFwa2HogqH7empvNWNHsSH0Bh3Ux9UCBXsxA=;
+	b=A1hlbWkGAXPHoofst6PQxKh+rkDUZnK24e0qJYL097rvozB8CB3I3V5DP/XAUwkC
+	M1sKyvPDWUkNSpBTfHC+JGTOxCeRvOfYFMIyHjbdtNAXnVr1n1rw3IZrwuGowNgPLN2
+	nh1d0twqLrtCh4pSd27//nZUN1wUoGnzI0G4Azfo=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=6gbrjpgwjskckoa6a5zn6fwqkn67xbtw; d=domain.com; t=1461977771;
+	h=To:Subject:Message-ID:Date:From: OrganizationHelpdesk <help@dnc.org>
+	bh=iT91pEwuFwa2HogqH7empvNWNHsSH0Bh3Ux9UCBXsxA=;
+	b=GNhvf55c3D6SY9mWPxIxb12HbuwXE9D/t2Ex2UOmLj7+T0Cyx34rkCoiD/vqcGS4
+	sbGzpsIS6ucW9MaqR4Vi6KedFgrYzcUYJNzuAWerUuQ8qHm2GhqY1epkPfE0JHv/Yh0
+	2U18jdaOX+C24FoYKH1f2bKkXPygUCYVw0gRzH7M=
+To: <user@domain.com>
+Subject: [#UHJ-992-60335]: Factivists password not working again
+X-PHP-Originating-Script: 1001:SimpleMailInvoker.php
+Message-ID: <0100015464user@domain.com>
+Date: Sat, 30 Apr 2015 00:56:11 +0000
+From: OrganizationHelpdesk <help@dnc.org>
+Reply-To: <user@domain.com>
+CC: <user@domain.com>, <user@domain.com>
+Content-Type: multipart/alternative;
+	boundary="_=_swiftmailer_v4_146197777193674100efba5cf3a50ed88e15a2afaf_=_"
+References: <6user@domain.com>
+X-SES-Outgoing: 2016.04.30-54.240.8.95
+Feedback-ID: 1.us-east-1.rZt79Eni5/b7t65swylaLCaMeaCk0ieREbvl20JysEU=:AmazonSES
+Return-Path: 0100015464user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: dncedge1.dnc.org
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Rachel-
+
+I have learned that Alberto spoke with you and the problem is not solved.  =
+So, I am closing the ticket.
+
+Yared
+
+Yared Tamene (user@domain.com)
+
+Ticket Details=
+
+---------------------------------
+Ticket ID: UHJ-992-60335
+Departmen=
+t: OrganizationHelpdesk
+Type: 15 Minutes
+Status: Work Complete
+Priority: Low=
+
+Helpdesk: <<link>>

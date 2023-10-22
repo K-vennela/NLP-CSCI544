@@ -1,0 +1,80 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [10.5.6.7])
+	by domain.com (Postfix) with ESMTP id 133E946A0D;
+	Sun, 25 Jun 2015 09:58:15 -0400 (EDT)
+Received: from domain.com (unknown [216.85.230.86])
+	by domain.com (Postfix) with SMTP id 956066CCDDA;
+	Sun, 25 Jun 2015 09:58:15 -0400 (EDT)
+Reply-To: <user@domain.com>
+From: "Service@eBay.com" <service@Update.eBay.com>
+Subject: Place or Update domain.com Card on File 
+Date: Sun, 25 Jun 2015 10:01:53 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20060625135815.956066user@domain.com>
+To: undisclosed-recipients:;
+Status: 
+X-Status: 
+X-Keywords: 
+
+Place or Update domain.com Card on 
+    File 
+
+Dear 
+      eBay member,
+
+During our regularly schedule account 
+      maintenance and verification we have detected a slight error in your 
+      billing information on file with eBay. 
+Your card 
+      will be used for identification only and will not be charged at any time. 
+      By having this type of identification from all users, eBay remains a safe 
+      place to buy and sell. Setting up a seller account necessitates valid 
+      domain.com or domain.com card and checking account information.
+For 
+      automatic payments, your domain.com card will normally be charged 5 to 7 days 
+      after you receive your invoice. Enter and domain.com the required information. 
+      Your account may be suspended for non-payment, and you may be responsible 
+      for collection costs.
+If you 
+      don't want to place your card on file, you can enter a different email 
+      instead (only certain types of emails can be used, such as those issued by 
+      companies, schools, and paid domain.com Service providers).
+
+Your 
+                  domain.com card on file with eBay
+
+
+
+Card number: 
+                  XXXX-XXXX-XXXX-XXXX (Not shown for security 
+                purposes) 
+
+
+
+
+Please sign in to your eBay 
+      account and update your billing information:
+
+<<link>>:h:sin:US 
+
+
+
+If your account information 
+      is not update, your ability to sell or bid on eBay will become restricted. 
+      Remember: Your personal information is protected by 
+      eBay's Privacy Policy. and encrypted 
+      by the industry standard SSL software.
+
+Thank 
+      you,
+eBay Billing 
+      Department

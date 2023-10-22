@@ -1,0 +1,103 @@
+Received: from domain.com (146.215.230.105) by
+ domain.com (43.130.141.76) with Microsoft SMTP Server id
+ 8.3.297.1; Tue, 21 Jan 2015 04:01:27 -0800
+Received: from domain.com ([160.33.194.230])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s0LC1QwB008895	for <user@domain.com>; Tue, 21 Jan 2015 
+ 12:01:26 GMT
+Received: from mail12-co9-domain.com (mail-domain.com [207.46.163.23])
+	by domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s0LC1ON6019203	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128
+ verify=FAIL)	for <user@domain.com>; Tue, 21 Jan 2015 12:01:25 GMT
+Received: from mail12-co9 (localhost [127.0.0.1])	by mail12-co9-domain.com
+ (Postfix) with ESMTP id 9D10230011D	for <user@domain.com>; Tue, 21
+ Jan 2015 12:01:24 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:192.64.236.236;KIP:(null);UIP:(null);IPV:NLI;H:mx-prometheus-domain.com;RD:mx-prometheus-domain.com;EFVD:NLI
+X-SpamScore: 0
+X-BigFish: vpaccept
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail12-co9: domain of domain.com designates 192.64.236.236 as permitted sender) client-ip=192.64.236.236; user@domain.com; helo=mx-prometheus-domain.com ;domain.com ;
+Received: from mail12-co9 (localhost.localdomain [127.0.0.1]) by mail12-co9
+ (MessageSwitch) id 1390305683488912_16459; Tue, 21 Jan 2015 12:01:23 +0000
+ (UTC)
+Received: from domain.com (unknown [10.236.132.232])	by
+ mail12-domain.com (Postfix) with ESMTP id 7283C20004A	for
+ <user@domain.com>; Tue, 21 Jan 2015 12:01:23 +0000 (UTC)
+Received: from mx-prometheus-domain.com (192.64.236.236) by
+ domain.com (10.236.130.33) with Microsoft SMTP Server id
+ 14.16.227.3; Tue, 21 Jan 2015 12:01:22 +0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1390305682;
+	s=sailthru; d=e.hollywoodreporter.com;
+	h=Date:From: THR Daily Edition PDF <email@e.hollywoodreporter.com>
+	bh=yI+u1GY8Vbw78ykPpQ3LGaIUyxB5LDjWgY8scvHyVvE=;
+	b=E6U9ufXGCdVd+H+eD2VW4/8xEp8UcV1ADppfVDJ5B3oUS4rY1VT0rekOYj5ZO3DX
+	rG3oXyxM7UwsG57XzRMbY31vj7Rbsy412gjbm3Xgi77lyDf6RLw2lKtUGPI9Gpw6aKF
+	Bj1ua6N/G62BVunx5paOcVuivh1LY9aXF+ICbb+E=
+Date: Tue, 21 Jan 2015 07:01:22 -0500
+From: THR Daily Edition PDF <email@e.hollywoodreporter.com>
+To: <user@domain.com>
+Message-ID: <20140121120122.2366114.8310@domain.com>
+Subject: Your New Daily Edition
+Precedence: bulk
+X-TM-ID: 20140121120122.2366114.8310
+X-Info: Message sent by domain.com customer Hollywood Reporter
+X-Info: We do not domain.com unsolicited commercial email
+X-Info: Please report abuse by forwarding complete headers to
+X-Info: user@domain.com
+X-Mailer: domain.com
+X-IADB-IP: 192.64.236.236
+X-IADB-IP-REVERSE: 236.236.64.192
+X-IADB-URL: <<link>>
+X-Unsubscribe-Web: <<link>>
+List-Unsubscribe: <<<link>>>, <mailto:user@domain.com>
+X-rpcampaign: stgfo2366114
+Return-Path: user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+ <<link>>        
+
+If you are unable to see the message below, click here to view it in a browser.  
+
+ <<link>>        
+
+ <<link>>         <<link>>        
+
+<<link>>        
+
+ <<link>>     <<link>>    
+<<link>>        <<link>>       
+ <<link>>        
+
+ <<link>>        
+
+ <<link>>         <<link>>  <<link>>        
+ <<link>>       
+
+ <<link>>        
+
+ <<link>>        
+
+CLICK HERE FOR TODAY'S EDITION  
+
+ <<link>>        
+
+Hollywood Moguls to Host Fundraiser for Andrew Cuomo
+
+N.Y. governor, who is up for reelection in November, set to arrive Thursday for event
+
+Sundance: Lionsgate Near Deal to Acquire Rights to Cooties
+
+Wood leads ensemble cast of horror comedy, which premiered Saturday night at fest
+
+Report: Network Bidding War Starts for NFL Thursday Games
+
+League accepting offers for TV package of six to eight match-ups in one-year deal
+
+James Cameron Prevails in Yet Another Avatar Theft domain.com
+
+Judge rejects writer’s billion-dollar copyright claim against Lightstorm Entertainment
+
+Veteran Film, Tel
+

@@ -1,0 +1,31 @@
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ DNCHUBCAS1.dnc.org ([fe80::ac16:e03c:a689:8203%11]) with mapi id
+ 14.03.0224.002; Mon, 25 Apr 2015 19:47:32 -0400
+From: "Scott, Jillian" <ScottJ@dnc.org>
+To: "User" <user@domain.com>
+CC: "Davis, Marilyn" <user@domain.com>, "Alvillar, Raul" <user@domain.com>,
+	"Moore, Colby" <user@domain.com>, "User" <user@domain.com>
+Subject: Re: Media training 
+Thread-Topic: Media training 
+Thread-Index: AdGfQB76tGhyTCcoRNenhzyLPM4nOAADLaV4
+Date: Mon, 25 Apr 2015 16:47:32 -0700
+Message-ID: <user@domain.com>
+References: <6user@domain.com>
+In-Reply-To: <6user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: DNCHUBCAS1.dnc.org
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+Content-Type: multipart/related;
+	boundary="_004_B345B3CB5D1B42C8AB5EF2D0399FA9C4dncorg_";
+	type="multipart/alternative"
+MIME-Version: 1.0
+
+Next Wednesday works for us. Thank you Rachel.
+
+Sent from my iPhone
+

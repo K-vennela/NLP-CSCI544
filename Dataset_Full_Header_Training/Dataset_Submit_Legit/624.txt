@@ -1,0 +1,92 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 10 May
+ 2015 09:09:11 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 10 May 2015 
+ 09:09:09 -0400
+Received: from [10.87.0.110] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 906238356
+ for user@domain.com; Tue, 10 May 2015 08:08:29 -0500
+X-Note-AR-ScanTimeLocal: 5/10/2016 8:08:24 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: user@domain.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->
+X-Note-Sending-IP: 68.232.198.10
+X-Note-Reverse-DNS: mta.politicoemail.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from [68.232.198.10] (HELO mta.politicoemail.com)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 140924794
+ for user@domain.com; Tue, 10 May 2015 08:08:23 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=200608; d=politicoemail.com;
+ h=From: POLITICO <email@politicoemail.com>
+ bh=fMfoGrK54x1bJxE9FXQgWIsCjPY=;
+ b=kwxXjsy95M8ETp53aZSQ/Wq5OCQJyLnU1zVMfa2ZTDLYKsJVQ3c82MJHTqYheltlHR3j+ebNjniw
+   0IjWsxj95FLyxTAYEJt0JhHfP/LJ80ivFub1XG9pDUR7vK83C3PcyernV290kqpiSCqKY1BAg3l3
+   0syXdzoba/AClt9aniA=
+Received: by mta.politicoemail.com id h67eke163hsd for <user@domain.com>; Tue,
+ 10 May 2015 07:07:58 -0600 (envelope-from
+ <user@domain.com>)
+From: POLITICO <email@politicoemail.com>
+To: <user@domain.com>
+Subject: GOP insiders: Bob Corker a good VP pick for Trump
+Date: Tue, 10 May 2015 07:07:58 -0600
+List-Unsubscribe: <mailto:user@domain.com>
+Reply-To: POLITICO subscriptions
+	<user@domain.com>
+x-job: 1376319_5407547
+Message-ID: <3user@domain.com>
+Content-Type: multipart/alternative; boundary="LTteqJ2h3Byh=_?:"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+GOP insiders: Bob Corker a good VP pick for Trump
+By Mike Allen
+05/10/2016 09:05 AM EDT
+
+Republican insiders are buzzing about Sen. Bob Corker (R-Tenn.), chair of Senate Foreign Relations, as an attractive, plausible vice-presidential pick for Trump. 
+
+Last week, Corker told USA Today's Mary Troyan that he "offered to help Donald Trump develop a foreign policy platform, making him one of the few senators to publicly embrace Trump ... Trump called him last week and he and Trump's campaign staff have talked since then."
+
+Corker, among the wealthiest members of Congress, spent most of his life in business, and his bio says he brings a "results-driven businessman's perspective." Corker - age 63, to Trump's 69 - surprised many in Washington by lavishing on-camera praise on Trump's foreign-policy speech two weeks ago. 
+
+A Republican who knows Corker well said: "He's an independent guy - kind of a tough guy - who's not afraid to swim upstream. He's frustrated by being in the Senate and not getting anything done. I think he'd really lean into this. He's not afraid to buck the old guard. And he's no dummy: He jumped out on the Trump thing early."
+
+Another source said: "Corker is not well-liked by his colleagues in the Senate. A big reason is he likes to get stuff done with Democrats. Trump might find that attractive."
+
+Trump, who has said he plans to pick an experienced politician who knows the Hill and can help him get things done, dropped a potentially significant clue in his March 31 interview with the Washington Post's Bob Woodward and Bob Costa: "Somebody that can walk into the Senate and who's been friendly with these guys for 25 years, and people for 25 years."
+
+One current officeholder who is also mentioned as a possible running mate, who has served in both House and Senate, and first came to the Hill 35 years ago, is Sen. Dan Coats (R-Ind.), age 72. He's an Army veteran who served in the House for eight years and the Senate for 10, then was George W. Bush's ambassador to Germany (arriving just before 9/11). Coats promoted faith-based initiatives on the outside, then in 2015 returned to the Senate, where he's on the finance and intelligence committees. 
+
+Of course, Trump has a special place in his heart for the Hoosier state. And a longtime friend said of Coats: "He's beloved. The man has no enemies. Everyone loves him. He's a governing choice. Clean as a whistle."
+
+Sen. John Thune (R-S.D.), 55, who gets mentioned around town as a veep pick, said in March that he'd support the nominee. Thune reiterated that support last week in an interview with KSFY, the ABC station in Sioux Falls, but said he hopes Trump will mature as a candidate:
+
+"I think there are a lot of things, in terms of what he's said and how he's said them, that he's going to have to demonstrate that he can improve upon and that he can be a candidate that actually is true to Republican principles. ... I'm hopeful, over time -- and we'll see in the weeks and months ahead -- that Donald Trump can become that kind of person."
+
+One more possible vice presidential candidate also seems likely: Indiana Gov. Mike Pence, who's a favorite of the Kochs and served 12 years in the U.S. House, with a stint as chair of the House Republican Conference. 
+
+Pence, 56, who says he "achieved the largest state tax cut in Indiana history," voted for Cruz but then endorsed Trump, which makes him a great bridge. "It would symbolically make a statement to the reform segment of the party," a top GOPer said. A source said that Pence, who's running for reelection, has received vetting overtures from Trump Tower.
+
+SUBSCRIBE to Politico Playbook: <<link>>
+
+To view online:
+<<link>>
+ To change your alert settings, please go to <<link>> or <<link>> email was sent to user@domain.com by: POLITICO, LLC 1000 Wilson Blvd. Arlington, VA, 22209, USA
+
+To unsubscribe,<<link>>
+

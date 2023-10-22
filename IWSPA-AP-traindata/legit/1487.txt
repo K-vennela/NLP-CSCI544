@@ -1,0 +1,39 @@
+<x-flowed>
+Phil,
+Here are some speculations on correcting SSTs to partly
+explain the 1940s warming blip.
+If you look at the attached plot you will see that the
+land also shows the 1940s blip (as I'm sure you know).
+So, if we could reduce the ocean blip by, say, 0.15 degC,
+then this would be significant for the global mean -- but
+we'd still have to explain the land blip.
+I've chosen 0.15 here deliberately. This still leaves an
+ocean blip, and i think one needs to have some form of
+ocean blip to explain the land blip (via either some common
+forcing, or ocean forcing land, or vice versa, or all of
+these). When you look at other blips, the land blips are
+1.5 to 2 times (roughly) the ocean blips -- higher sensitivity
+plus thermal inertia effects. My 0.15 adjustment leaves things
+consistent with this, so you can see where I am coming from.
+Removing ENSO does not affect this.
+It would be good to remove at least part of the 1940s blip,
+but we are still left with "why the blip".
+Let me go further. If you look at NH vs SH and the aerosol
+effect (qualitatively or with MAGICC) then with a reduced
+ocean blip we get continuous warming in the SH, and a cooling
+in the NH -- just as one would expect with mainly NH aerosols.
+The other interesting thing is (as Foukal et al. note -- from
+MAGICC) that the 1910-40 warming cannot be solar. The Sun can
+get at most 10% of this with Wang et al solar, less with Foukal
+solar. So this may well be NADW, as Sarah and I noted in 1987
+(and also Schlesinger later). A reduced SST blip in the 1940s
+makes the 1910-40 warming larger than the SH (which it
+currently is not) -- but not really enough.
+So ... why was the SH so cold around 1910? Another SST problem?
+(SH/NH data also attached.)
+This stuff is in a report I am writing for EPRI, so I'd
+appreciate any comments you (and Ben) might have.
+Tom.
+</x-flowed>
+Attachment Converted: "c:\eudora\attach\TTHEMIS.xls"
+Attachment Converted: "c:\eudora\attach\TTLVSO.XLS"

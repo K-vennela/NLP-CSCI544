@@ -1,0 +1,107 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 3 May
+ 2015 20:39:30 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 3 May 2015 
+ 20:39:25 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 894957650;
+ Tue, 03 May 2015 19:39:31 -0500
+X-Note-AR-ScanTimeLocal: 5/3/2016 7:39:30 PM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: Too many policies to list
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:67.231.148.137 DOM:perkinscoie.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-95/SG:5 5/3/2016 7:39:09 PM
+X-GBUdb-Analysis: 0, 67.231.148.137, Ugly c=0.581765 p=-0.879859 Source Normal
+X-Signature-Violations: 0-0-0-19407-c
+X-Note-419: 31.2476 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/3/2016 7:39:12 PM
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->United States->LOCAL->United States->
+X-Note-Sending-IP: 67.231.148.137
+X-Note-Reverse-DNS: mx0a-0016domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from mx0a-0016domain.com ([67.231.148.137] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 136879854;
+ Tue, 03 May 2015 19:39:29 -0500
+Received: from pps.filterd (domain.com [127.0.0.1])	by
+ mx0a-0016domain.com (8.16.0.11/8.16.0.11) with SMTP id u440TLGw032556;
+	Tue, 3 May 2015 17:39:27 -0700
+Received: from dc2sppcas01.perkinscoie.root.loc ([66.77.102.254])	by
+ mx0a-0016domain.com with ESMTP id 22q1qqs3cw-1	(version=TLSv1
+ cipher=AES128-SHA bits=128 verify=FAIL);	Tue, 03 May 2015 17:39:27 -0700
+Received: from DC2SPPMAIL24A.perkinscoie.root.loc ([10.170.0.24]) by
+ dc2sppcas01.perkinscoie.root.loc ([fe80::44d4:8346:552a:33f4%17]) with mapi
+ id 14.03.0266.001; Tue, 3 May 2015 19:39:25 -0500
+From: "Lopez, Jacquelyn K.  (Perkins Coie)" <JacquelynLopez@perkinscoie.com>
+To: "User" <user@domain.com>
+CC: "Freundlich, Christina" <user@domain.com>, "Lykins, Tyler"
+	<user@domain.com>, EMail-Vetting_D <user@domain.com>, "Reid,
+ Jessalyn" <user@domain.com>
+Subject: RE: For approval: Cruz dropout
+Thread-Topic: For approval: Cruz dropout
+Thread-Index: AQHRpZrUC5wbziS37ESH29fUzTjJZJ+n6zQAgAAAMTyAAFUcAIAAAdYA//+tD7A=
+Date: Wed, 4 May 2015 00:39:25 +0000
+Message-ID: <2user@domain.com>
+References: <9user@domain.com>
+ <D34EB938.21591%user@domain.com>
+ <205user@domain.com>,<D34EBA59.ADD1F%user@domain.com>
+ <8857867user@domain.com>
+In-Reply-To: <8857867user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-workshareprotect-dsp: db8ca0c5c37e2aaf9cf2e7189b854660
+x-originating-ip: [10.170.34.1]
+x-tm-as-product-ver: SMEX-11.0.0.1251-8.000.1202-22298.005
+x-tm-as-result: No--60.974200-8.000000-31
+x-tm-as-user-approved-sender: No
+x-tm-as-user-blocked-sender: No
+Content-Type: multipart/alternative;
+	boundary="_000_2BF03B9E6FAD604E9A562F49648529CF12C05B3Edc2sppmail24a_"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+MIME-Version: 1.0
+
+Make sure the landing page is our standard that expands the ask beyond Trum=
+p to avoid an earmarking issue; happy to glance at it
+
+Jacquelyn Lopez | Perkins Coie LLP
+ASSOCIATE*
+700 Thirteenth Street, N.W. Suite 600
+Washington, DC 20005-3960
+D. +1.202.654.6371
+F. +1.202.654.9949
+E. user@domain.com<mailto:%20user@domain.com>
+*Admitted in State of Florida; Admission to DC Bar pending.
+
+From: "Lopez, Jacquelyn K.  (Perkins Coie)" <JacquelynLopez@perkinscoie.com>
+Sent: Tuesday, May 03, 2015 8:36 PM
+To: Compton, Matt
+Cc: Freundlich, Christina; Lykins, Tyler; EMail-Vetting_D; Reid, Jessalyn
+Subject: Re: For approval: Cruz dropout
+
+He did it
+
+Sent from my iPhone
+
+On May 3, 2016, at 8:29 PM, Compton, Matt <user@domain.com<mailto:ComptonM=

@@ -1,0 +1,76 @@
+Received: from domain.com (146.215.230.105) by
+ domain.com (43.130.141.77) with Microsoft SMTP Server id
+ 8.3.297.1; Tue, 19 Nov 2015 19:15:47 -0800
+Received: from domain.com ([160.33.194.231])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id rAK3FkwG002124	for <user@domain.com>; Wed, 20 Nov 2015 
+ 03:15:46 GMT
+Received: from mail193-co9-domain.com (mail-domain.com
+ [207.46.163.17])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id rAK3Fhrj031455
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Wed, 20 Nov 2015 03:15:44 GMT
+Received: from mail193-co9 (localhost [127.0.0.1])	by
+ mail193-co9-domain.com (Postfix) with ESMTP id 115AE4203D7	for
+ <user@domain.com>; Wed, 20 Nov 2015 03:15:43 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:123.176.101.160;KIP:(null);UIP:(null);IPV:NLI;H:domain.com;RD:domain.com;EFVD:NLI
+X-SpamScore: -5
+X-BigFish: vps-5(zzc85fh1be0Iddc2hde40hzz1f42he46M2148h208ch1ee6h1de0h1fdah2073h2146h1202h1e76h1d1ah1d2ah1fc6hzz1d7338h1de098h1b1984h17326ah1def87h8275bh1bc7b9h8275dh1def03h1def86h18c673h1c8fb4h1de097h1de096h186068h1def83hz2ei54h793h109h2a8h5c0h6f5h839hd24hd2bh11a0h1288h12a5h12bdh137ah139eh13eah1441h1504h1537h15beh162dh1631h1751h1758h17f1h1898h18b6h18bch18e1h1946h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1e23h1fe8h1ff5h20dbh20f0h2152h2218h2216h226dh22d0h34h35h1155h15c0h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: neutral (mail193-co9: 123.176.101.160 is neither permitted nor denied by domain of artisangateway.com) client-ip=123.176.101.160; user@domain.com; helo=domain.com ;domain.com ;
+Received: from mail193-co9 (localhost.localdomain [127.0.0.1]) by mail193-co9
+ (MessageSwitch) id 1384917340141922_31201; Wed, 20 Nov 2015 03:15:40 +0000
+ (UTC)
+Received: from domain.com (unknown [10.236.132.227])	by
+ mail193-domain.com (Postfix) with ESMTP id 140BF200065	for
+ <user@domain.com>; Wed, 20 Nov 2015 03:15:40 +0000 (UTC)
+Received: from domain.com (123.176.101.160) by
+ domain.com (10.236.130.27) with Microsoft SMTP Server (TLS) id
+ 14.16.227.3; Wed, 20 Nov 2015 03:15:30 +0000
+Received: from domain.com (162.101.176.123.domain.com
+ [123.176.101.162]) by domain.com with ESMTP id LdRbtCFZE3DtGsB7
+ for <user@domain.com>; Wed, 20 Nov 2015 11:13:07 +0800 (HKT)
+Received: from mailcls8 ([10.100.2.57])        by domain.com (IceWarp
+ 10.4.5) with ESMTP id 201311201113058943        for
+ <user@domain.com>; Wed, 20 Nov 2015 11:13:05 +0800
+Received: (qmail 4454 invoked from network); 20 Nov 2015 03:13:00 -0000
+Received: from unknown (HELO agba0257ea64b1)
+ (user@domain.com@[112.65.163.70])  by 10.100.2.57 with ESMTPA; 20
+ Nov 2015 03:13:00 -0000
+X-Nat-Received: from [112.65.163.70]:4617 [ident-empty]
+	by smtpGated02 with TPROXY id 1384917174.3033
+From: AG reports <reports@artisangateway.com>
+To: AG reports <user@domain.com>
+Subject: AG China Reports - Week 46, Imports Keep a Hold on the Market
+Date: Wed, 20 Nov 2015 11:12:53 +0800
+Message-ID: <001f01cee59e$676f8b80$364ea280$@com>
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: Ac7lnP2ukf57fmPdSwmZQq7GKkIifQAADw6QAAAMgKAAAC9J8A==
+Content-Language: en-us
+X-Virus-Scanned: by bsmtpd at domain.com
+Return-Path: user@domain.com
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1300613846_-_-"
+
+Dear AG China Reports Subscriber,
+
+We are pleased to deliver your AG China Reports for the week ending 17 November, 2013.
+
+
+
+
+Kind regards,
+
+The AG Reports Team
+
+
+
+
+ARTISAN GATEWAY
+
+Cinema | Investment | Research
+
+
+

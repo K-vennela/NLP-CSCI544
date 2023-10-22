@@ -1,0 +1,65 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id 80360468B7
+	for <user@domain.com>; Thu, 16 Apr 2015 00:50:33 -0400 (EDT)
+Received: from domain.com (217.232-241-81.adsl-domain.com.be [81.241.232.217])
+	by domain.com (Postfix) with ESMTP id 3D41C131F763
+	for <user@domain.com>; Thu, 16 Apr 2015 00:50:33 -0400 (EDT)
+Received: from User ([63.148.253.101]) by domain.com with Microsoft SMTPSVC(6.0.3790.3959);
+	 Thu, 16 Apr 2015 06:52:56 +0200
+Reply-To: <user@domain.com>
+From: "secure@halifax.co.uk"<secure@halifax.co.uk>
+Subject: An unauthorized account activity.
+Date: Thu, 16 Apr 2015 00:50:30 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <user@domain.com>
+X-OriginalArrivalTime: 16 Apr 2015 04:52:56.0796 (UTC) FILETIME=[359D39C0:01C9BE4F]
+To: undisclosed-recipients:;
+Content-Length: 1783
+Lines: 43
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1032
+
+#obmessage .dummy {}
+#z BODY,
+ #z  TD {font-family: verdana,arial,helvetica,sans-serif;
+font-size:12px;color: #000000;}
+
+Dear Halifax Member,
+
+An unauthorized account activity claim was recently filed against the following transaction:
+
+Transaction Date: 15 / April / 2009
+
+Transaction Amount: $44,00 USD 
+
+Your Transaction ID: 46U64120SC849601T 
+
+Buyer's Transaction ID:34A33092GU990703J
+
+Case Number: HH-373-249-603
+
+To complete our investigation, you must provide additional information within the next seven days.
+
+Please log in to your Halifax account and verify your details
+
+You will have the opportunity to enter any details or information regarding this case which will help Halifax investigate the matter fully.
+
+Thanks for your cooperation through this process. We are continuing to work to ensure that Halifax is secure for all users.
+
+Sincerely,
+
+Halifax Review Department
+
+Copyright  1999-2009 Halifax. All rights reserved.

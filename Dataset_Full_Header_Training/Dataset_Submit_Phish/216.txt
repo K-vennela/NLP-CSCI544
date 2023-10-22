@@ -1,0 +1,71 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 3B7ED23CAAB
+	for <user@domain.com>; Mon,  9 Jan 2015 08:23:58 -0600 (CST)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id W93xfSpTvBox for <user@domain.com>;
+	Mon,  9 Jan 2015 08:23:58 -0600 (CST)
+Received: from domain.com (domain.com [129.7.234.211])
+	by domain.com (Postfix) with ESMTP id 1CDAE23CAAA
+	for <user@domain.com>; Mon,  9 Jan 2015 08:23:58 -0600 (CST)
+Received: from domain.com (domain.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id A02624E996D2;
+	Mon,  9 Jan 2015 08:23:56 -0600 (CST)
+Received: from mail.iuncapped.co.za (mail.iuncapped.co.za [196.214.93.188])
+	by domain.com (Postfix) with ESMTP id 100574E996C0;
+	Mon,  9 Jan 2015 08:23:56 -0600 (CST)
+Received: by mail.iuncapped.co.za (Postfix, from userid 48)
+	id B0E817D84CA; Mon,  9 Jan 2015 16:02:56 +0200 (SAST)
+Received: from 69.147.227.226
+        (SquirrelMail authenticated user sanliz)
+        by mail.iuncapped.co.za with HTTP;
+        Mon, 9 Jan 2015 16:02:56 +0200 (SAST)
+Message-ID: <1117_1326119036_4user@domain.com>
+Date: Mon, 9 Jan 2015 16:02:56 +0200 (SAST)
+Subject: *****SPAM***** Verify Now!!!!
+From: =?iso-8859-1?Q?=AEUh.edu/Login=AE?= <data001@zemra.org>
+Reply-To: user@domain.com
+User-Agent: SquirrelMail/1.4.8-5.el5.centos.10
+MIME-Version: 1.0
+Content-Type: text/plain;charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+To: undisclosed-recipients:;
+X-IUncapped-MailScanner-Information: Please contact DcData Support (user@domain.com)
+X-IUncapped-MailScanner-ID: B0E817D84CA.AC554
+X-IUncapped-MailScanner: Found to be clean
+X-IUncapped-MailScanner-From: =?iso-8859-1?Q?=AEUh.edu/Login=AE?= <data001@zemra.org>
+X-PMX-Version: 5.5.9.395186, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2012.1.9.141515
+X-PerlMx-Spam: Gauge=XXXXIIIIIIIII, Probability=49%, Report='
+ PHISH_SPEAR1_X3 3, PHISH_SPEAR2_X3 1, PRIORITY_NO_NAME 0.716, MULTIPLE_RCPTS 0.1, PHISH_SPEAR_CONTENT_X3 0.1, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1000_LESS 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BODY_SIZE_800_899 0, NO_URI_FOUND 0, TO_UNDISCLOSED_RECIPIENTS 0, WEBMAIL_SOURCE 0, WEBMAIL_USER_AGENT 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_JOB 0, __FRAUD_CONTACT_NAME 0, __HAS_MSGID 0, __HAS_X_PRIORITY 0, __MIME_TEXT_ONLY 0, __MIME_VERSION 0, __PHISH_PHRASE1_B 0, __PHISH_SPEAR_ACCOUNT_1 0, __PHISH_SPEAR_CONSEQUENCES_A 0, __PHISH_SPEAR_HTTP_RECEIVED 0, __PHISH_SPEAR_PASSWORD_1 0, __PHISH_SPEAR_STRUCTURE_1 0, __PHISH_SPEAR_STRUCTURE_2 0, __SANE_MSGID 0, __TO_MALFORMED_3 0, __USER_AGENT 0'
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 48
+
+We discovered series of illegal attempts on your mail Account from a bad
+Ip Location and will shut your account as it has been flagged as a Spam
+account. You are thus immediately required to Secure Your On line Access
+by Manually Filling The Form Below by clicking on the reply-to button on
+your page, Filling the Correct Information Carefully and Sending to
+domain.com Alert Center:
+
+User-name:.................................
+Password:..................................
+Date of Birth:..............................
+Occupation:................................
+Country Or Territory:...................
+
+Warning!!! Account owner that refuses to update his or her account before
+two weeks of receiving this warning will lose his or her account
+permanently.
+
+--
+This message has been scanned for viruses and
+dangerous content by MailScanner, and is
+believed to be clean.

@@ -1,0 +1,510 @@
+Received: from domain.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Wed, 2 Apr 2015 11:01:15 +0200
+Received: from domain.com (unknown [192.168.100.50])	by
+ domain.com (Postfix) with ESMTP id A431A600EE	for
+ <user@domain.com>; Wed,  2 Apr 2015 09:51:38 +0100 (BST)
+Received: by domain.com (Postfix)	id E443EB6603D; Wed,  2 Apr 2015 
+ 11:01:14 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.100.25])
+	by domain.com (Postfix) with ESMTP id D7F7FB6603C	for
+ <user@domain.com>; Wed,  2 Apr 2015 11:01:14 +0200 (CEST)
+X-ASG-Debug-ID: 1396429272-066a753ba062590001-nH4FZa
+Received: from domain.com (domain.com
+ [164.143.240.173]) by domain.com with ESMTP id DyBxOiDdd6cYXUUP
+ for <user@domain.com>; Wed, 02 Apr 2015 11:01:12 +0200 (CEST)
+X-Barracuda-Envelope-From: <alice.tiligna@it.pwc.com>
+X-Barracuda-Apparent-Source-IP: 164.143.240.173
+Received: from UK-EMAMBX001.EMA.PWCINTERNAL.COM
+ (uk-domain.com [10.250.44.136])	by domain.com
+ (8.14.5/8.14.5) with ESMTP id s32919Dd025142;	Wed, 2 Apr 2015 10:01:10 +0100
+In-Reply-To: <user@domain.com>
+References: <user@domain.com> <533user@domain.com> <user@domain.com>
+To: Giancarlo Russo <user@domain.com>
+CC: <user@domain.com>, Elisabetta Ciceri <user@domain.com>,
+	<user@domain.com>, <user@domain.com>
+Subject: Re: Nota integrativa  e relazione sulla gestione
+X-ASG-Orig-Subj: Re: Nota integrativa  e relazione sulla gestione
+X-KeepSent: 9BE203AF:370C122C-C1257CAE:002C741A;
+ type=4; name=$KeepSent
+X-Mailer: Lotus Notes Release 8.5.2 August 10, 2015 
+Message-ID: <user@domain.com>
+From: <alice.tiligna@it.pwc.com>
+Date: Wed, 2 Apr 2015 11:00:50 +0200
+Disposition-Notification-To: <user@domain.com>
+X-MIMETrack: Serialize by Router on UK-EMAMBX001/UK/INTL(Release 8.5.2FP4 HF528|October
+ 24, 2013) at 02/04/2014 10:01:09
+X-Barracuda-Connect: domain.com[164.143.240.173]
+X-Barracuda-Start-Time: 1396429272
+X-Barracuda-URL: <<link>>:8000/cgi-mod/mark.cgi
+X-Barracuda-BRTS-Status: 1
+X-Virus-Scanned: by bsmtpd at domain.com
+X-Barracuda-Spam-Score: -1001.00
+X-Barracuda-Spam-Status: No, SCORE=-1001.00 using global scores of TAG_LEVEL=3.5 QUARANTINE_LEVEL=1000.0 KILL_LEVEL=8.0 
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-187499446_-_-"
+
+Ciao Giancarlo,
+
+abbiamo completato le verifiche sulla
+NI e sulla relazione, di seguito alcune osservazioni:
+
+per alcuni dettagli manca il comparativo
+con il 2015 (principalmente i dati del Conto economico).
+compensi PWC per la revisione legale
+ammontano ad Euro 26.000 e non ad euro 18.133. Modificherei inoltre il
+paragrafo a commento dei compensi nel seguente modo:
+
+"Di seguito si riporta il prospetto,
+redatto ai sensi dell’art. 149-duodecies del Regolamento Emittenti
+Consob, che evidenzia i corrispettivi di competenza dell’esercizio per
+i servizi di revisione resi dalla società di revisione PriceWaterhouseCoopers
+S.p.A."  
+
+Eliminerei ".. e per quelli diversi
+dalla revisione"
+
+distinzione ricavi per area geografica:
+potresti fornirci il dettaglio con cui sono stati ripartiti i ricavi tra
+Italia ed Estero?
+
+Ti chiederei gentilmente di inoltrarci
+la NI una volta apportate le correzioni indicate.
+
+Rimangono infine in sospeso:
+
+- chiarimenti in merito alla polizza
+assicurativa che abbiamo identificato dalla risposta banca
+
+- risposta del legale Bird & Bird
+e le risposte in originale di Stamford e dello Studio Chiaravalli (ricevuti
+fax)
+
+- risposte banche. In allegato l'aggiornamento
+ad oggi delle banche circolarizzate.
+
+Rimango a disposizione per qualsiasi chiarimento
+
+A presto
+
+Alice
+
+Alice Tiligna
+
+PwC | Mi - Martinelli 
+
+Direct: +39 02 7785798 | Mobile: +39 347 1187065 | Fax: +39027785231
+
+Email: user@domain.com
+
+PricewaterhouseCoopers SpA
+
+Via Monte Rosa 91, 20149 Milano, Italy
+
+domain.com/it
+
+Print less, think more
+
+Mario La Greca
+01/04/2014 19:06
+
+To
+Giancarlo Russo <user@domain.com>
+
+cc
+Simonetta Gallucci, Alice Tiligna
+
+Subject
+Re: Nota integrativa  e relazione
+sulla gestione
+
+Ciao Giancarlo, 
+
+Scusa se rispondo solo adesso.
+
+Stiamo già procedendo con le verifiche sulla
+nota e sulla relazione e contiamo di darti un riscontro al massimo domani
+in mattinata.
+
+Ne approfitto inoltre per chiederti se riuscivi
+appena puoi a fornirci un chiarimento in merito alla seguente polizza assicurativa,
+come accennato anche a Simonetta.
+
+Volevamo capire infatti la natura di questa
+polizza e cosa la differenzia con le altre 4 polizze che sono state poi
+classificate tra le immobilizzazioni finanziarie.
+
+Grazie mille
+
+Mario
+
+Mario La Greca
+
+PwC | Mi - Martinelli
+
+Direct: +39 | Mobile: +39 347 7257312
+
+Email: user@domain.com
+
+PricewaterhouseCoopers SpA
+
+Via Monte Rosa 91, 20149 Milano, Italy
+
+domain.com/it
+
+Print less, think more
+
+Giancarlo
+Russo 
+01/04/2014 16:11
+
+To
+Mario La Greca
+
+cc
+Alice Tiligna, Elisabetta Ciceri, Simonetta
+Gallucci
+
+Subject
+Re: Nota integrativa  e relazione
+sulla gestione
+
+Mario, Alice,
+
+in allegato Nota e Relazione sulla gestione. Domattina le farò firmare
+a David. Fatemi sapere se ci sono osservazioni,
+
+grazie
+
+Giancarlo
+
+Il 01/04/2014 11:14, user@domain.com
+ha scritto:
+
+Ciao Giancarlo, 
+
+come va? 
+
+scusa se ti disturbo. Volevo chiederti, appena possibile, se riesci a girarci
+la nota integrativa e la relazione sulla gestione, in modo da procedere
+subito alle verifiche prima del CDA. 
+
+Grazie mille per la disponibilità 
+
+Mario
+
+Mario La Greca
+
+PwC | Mi - Martinelli
+
+Direct: +39 | Mobile: +39 347 7257312
+
+Email: user@domain.com
+
+PricewaterhouseCoopers SpA
+
+Via Monte Rosa 91, 20149 Milano, Italy
+
+domain.com/it
+
+Print less, think more
+
+-------------------- End of message text --------------------
+
+The information transmitted is intended only for the person or entity to
+which it is addressed and may contain confidential and/or privileged material.
+Any review, retransmission, dissemination or other use of, or taking of
+any action in reliance upon, this information by persons or entities other
+than the intended recipient is prohibited. If you received this in error,
+please contact the sender and delete the material from any computer.
+
+For more information about our privacy policy and the disclosure pursuant
+to Legislative Decree n. 196/2003 (“Personal Data Protection Code”) please
+view <<link>>
+
+-- 
+
+Giancarlo Russo 
+
+COO 
+
+Hacking Team 
+
+Milan Singapore Washington DC 
+
+domain.com
+
+email:user@domain.com
+
+mobile: +39 3288139385 
+
+phone: +39 02 29060603 
+
+. 
+
+Il 01/04/2014 15:54, Reuven Elazar ha scritto:
+
+Horizon paid additional 26,000€
+see paragraph 2.2 in attached order, there’s also 1 year maintenance included
+in the same order last line in paragraph 2.1
+
+Please explain your decision
+
+
+
+
+From: <alice.tiligna@it.pwc.com>
+
+Sent: יום ג, 01 אפריל 2015 16:48
+
+To: Reuven Elazar
+
+Cc: Adam Weinberg; Zohar Weizinger; 'HT'
+
+Subject: R: expiring license Azerbaijan 
+
+
+
+
+Dear Reuven,
+
+
+
+
+the 1st year of maintenance
+is the one already included in the purchasing price.
+
+This means that it is going
+to expire at the end of this month. 
+
+
+
+
+Regards, 
+
+
+
+
+Massimiliano 
+
+
+
+
+Da: Reuven Elazar [mailto:user@domain.com]
+
+Inviato: martedì 1 aprile 2015 15:39
+
+A: Massimiliano Luppi
+
+Cc: Adam Weinberg; Zohar Weizinger; HT
+
+Oggetto: RE: expiring license Azerbaijan 
+
+
+
+
+Dear max
+
+They have purchased a system
+with 1 year maintenance included (starting 4/2013), and additional year
+warranty, starting from 4/2014 till 4/2015, attached are the signed orders
+
+Why should they upgrade the
+system, what are the main changes?
+
+Best regards,
+
+
+
+
+From: <alice.tiligna@it.pwc.com>
+
+Sent: יום ג, 01 אפריל 2015 13:05
+
+To: Reuven Elazar
+
+Cc: Adam Weinberg; Zohar Weizinger; HT
+
+Subject: expiring license azerbaijan 
+
+
+
+
+Hi Reuven,
+
+
+
+
+as you can see from the emails
+below, the Azeri customer is interested in upgrading the system.
+
+Their current maintenance
+will expire at the end of the month (end of April), after that date they
+will not be able to use the system anymore.
+
+Please approach the customer
+and anticipate they’ll receive the renewal quotation soon.
+
+
+
+
+I’ll send it to your attention
+shortly. 
+
+
+
+
+Regards, 
+
+
+
+
+Massimiliano Luppi
+
+Key Account Manager
+
+
+
+
+HackingTeam
+
+Milan Singapore Washington
+DC
+
+domain.com
+
+
+
+
+mail: user@domain.com
+
+mobile: +39 3666539760
+
+phone: +39 02 29060603
+
+
+
+
+Begin forwarded message:
+
+
+
+
+From: <alice.tiligna@it.pwc.com>
+
+Subject: Re: Protect your identity
+
+Date: 31 Mar 2015 07:12:34 GMT+2
+
+To: Daniele Milan <user@domain.com>,
+<user@domain.com>
+
+Cc: Giancarlo Russo <user@domain.com>,
+Reuven Elazar <user@domain.com>,
+"Charuhchev, Abik (user@domain.com)"
+<user@domain.com>
+
+
+
+
+Dears,
+
+
+
+
+We received required firewall (SonicWall
+2400) and I need your assistance to configure it according to your rules,
+also for switch Dell PowerConnect 5524. After both of them will be configured,
+I will placed and connect them inside the rack as required. Should I start
+to re-install OS on servers and what data I need to backup before? Please
+assist me as soon as possible.
+
+
+
+
+Best regards, 
+
+Riad
+
+
+
+
+2014-02-07 9:23 GMT+04:00 test wizard <user@domain.com>:
+
+Dear Daniele,
+
+
+
+
+As I understand, HT should take care setup
+of firewall and switch, because it was HT's requirement to use it. Not
+me, not NICE didn't know HT's security policies and system internal workflow
+and as result we may setup it not as required. So logically your team should
+do it and we will assist them of course.
+
+
+
+
+Kind regards,
+
+Riad
+
+
+
+
+2014-02-06 Daniele Milan <user@domain.com>:
+
+
+
+
+Dear Riad,
+
+
+
+
+I’m trying to check with NICE for them
+to setup the firewall and network, but I’ve still got no answer so far.
+
+After they take care of the installation,
+we will review that all the security requirements have been implemented
+correctly and complete the restore of the system.
+
+
+
+
+Daniele
+
+
+
+
+--
+
+Daniele Milan
+
+Operations Manager
+
+HackingTeam
+
+Milan Singapore WashingtonDC
+
+domain.com
+
+email: user@domain.com
+
+mobile: +
+39 334 6221194
+
+phone:  +39
+02 29060603
+
+
+
+
+On 06 Feb 2014, at 06:49, test wizard <user@domain.com>

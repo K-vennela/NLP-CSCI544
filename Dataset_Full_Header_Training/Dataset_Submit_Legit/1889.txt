@@ -1,0 +1,66 @@
+Received: from domain.com (172.23.144.44) by
+ domain.com (43.130.141.76) with Microsoft SMTP Server id
+ 8.3.297.1; Thu, 12 Dec 2015 06:27:22 -0800
+Received: from domain.com ([43.130.141.76])          by
+ domain.com (Lotus Domino Release 6.5.6)          with ESMTP id
+ 2013121206272012-81277 ;          Thu, 12 Dec 2015 06:27:20 -0800 
+Received: from domain.com (146.215.230.102) by
+ domain.com (43.130.141.76) with Microsoft SMTP Server id
+ 8.3.297.1; Thu, 12 Dec 2015 06:27:19 -0800
+Received: from domain.com ([160.33.194.228])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id rBCERImU018719;	Thu, 12 Dec 2015 14:27:18 GMT
+Received: from mail98-va3-domain.com (mail-domain.com
+ [216.32.180.113])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id rBCERAml022661
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL);	Thu, 12 Dec 2015 
+ 14:27:10 GMT
+Received: from mail98-va3 (localhost [127.0.0.1])	by mail98-va3-domain.com
+ (Postfix) with ESMTP id E5F6216016D;	Thu, 12 Dec 2015 14:27:09 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:206.225.165.108;KIP:(null);UIP:(null);IPV:NLI;H:hub023-nj-1.domain.com;RD:hub023-nj-1.domain.com;EFVD:NLI
+X-SpamScore: 5
+X-BigFish: Vvps5(zz98dI9371Ida00hdc73hc74nzz1f42h2148h208ch1ee6h1de0h1fdah2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6hzz1de098h8275bh1de097hz2fh87h109h2a8h839h8e2h8e3h944hd25he5bh1220h1288h12a5h12a9h12bdh137ah13b6h13eah1441h1504h1537h153bh162dh1631h1758h18e1h1946h19b5h1b0ah224fh1d0ch1d2eh1d3fh1dfeh1dffh1fe8h1ff5h2052h20b3h2216h22d0h2336hbe9i1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail98-va3: domain of annapurnapics.com designates 206.225.165.108 as permitted sender) client-ip=206.225.165.108; user@domain.com; helo=hub023-nj-1.domain.com ;domain.com ;
+X-FB-DOMAIN-IP-MATCH: fail
+Received: from mail98-va3 (localhost.localdomain [127.0.0.1]) by mail98-va3
+ (MessageSwitch) id 1386858280574613_21771; Thu, 12 Dec 2015 14:24:40 +0000
+ (UTC)
+Received: from domain.com (unknown [10.7.14.241])	by
+ mail98-domain.com (Postfix) with ESMTP id 2BD06C0120;	Thu, 12 Dec 2015 
+ 14:23:46 +0000 (UTC)
+Received: from hub023-nj-1.domain.com (206.225.165.108) by
+ domain.com (10.7.99.56) with Microsoft SMTP Server (TLS) id
+ 14.16.227.3; Thu, 12 Dec 2015 14:23:45 +0000
+Received: from MBX023-E1-NJ-4.domain.com ([10.240.8.54]) by
+ HUB023-NJ-1.domain.com ([10.240.8.30]) with mapi id 14.03.0158.001;
+ Thu, 12 Dec 2015 06:23:45 -0800
+From: Megan Ellison <megan@annapurnapics.com>
+To: "User" <user@domain.com>
+CC: Grosses-AH <user@domain.com>, Grosses-Weekend
+	<user@domain.com>
+Subject: Re: A sweep !
+Thread-Topic: A sweep !
+Thread-Index: Ac73QMBQOSomD3buRYKszQKLJgRVaQABQMf3
+Date: Thu, 12 Dec 2015 14:23:44 +0000
+Message-ID: <user@domain.com>
+References: <8user@domain.com>
+In-Reply-To: <8user@domain.com>
+Accept-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+Return-Path: user@domain.com
+X-MIMETrack: Itemize by SMTP Server on USCCiMTA02/SVR/SPE(Release 6.5.6|March 06, 2007) at
+ 12/12/2013 06:27:20 AM,
+	Serialize by Router on USCCiMTA02/SVR/SPE(Release 6.5.6|March 06, 2007) at
+ 12/12/2013 06:27:21 AM,
+	Serialize complete at 12/12/2013 06:27:21 AM
+Content-Language: en-US
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-406539735_-_-"
+
+HUGE. Fucking awesome!! Congratulations everyone!!
+
+This email was sent from my iPhone. Where in the world is Carmen Sandiego?
+

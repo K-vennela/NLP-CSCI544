@@ -1,0 +1,75 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id B19E423CA88;
+	Tue, 17 Jan 2015 02:28:48 -0600 (CST)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 0Ke95ut0KcBY; Tue, 17 Jan 2015 02:28:47 -0600 (CST)
+Received: from domain.com (domain.com [65.55.88.11])
+	by domain.com (Postfix) with ESMTP id 03E9523CA78;
+	Tue, 17 Jan 2015 02:28:46 -0600 (CST)
+Received: from mail53-tx2-domain.com (10.9.14.236) by
+ domain.com (10.9.40.22) with Microsoft SMTP Server id
+ 14.1.225.23; Tue, 17 Jan 2015 08:28:37 +0000
+Received: from mail53-tx2 (localhost [127.0.0.1])	by mail53-tx2-domain.com
+ (Postfix) with ESMTP id 437E24E02CC;	Tue, 17 Jan 2015 08:28:38 +0000 (UTC)
+X-SpamScore: 6
+X-BigFish: VS6(z3945nzc85dhzz1202hzz8275bhz2dhc1ahc1bhc1ahc1bh2a8h668h839h62h)
+X-Spam-TCS-SCL: 1:0
+X-Forefront-Antispam-Report: CIP:134.139.50.71;KIP:(null);UIP:(null);IPV:NLI;H:ITS-CAS01.campus.ad.csulb.edu;RD:its-cas01.campus.ad.csulb.edu;EFVD:NLI
+X-FB-SS: 0,0,
+Received: from mail53-tx2 (localhost.localdomain [127.0.0.1]) by mail53-tx2
+ (MessageSwitch) id 1326788917930359_29128; Tue, 17 Jan 2015 08:28:37 +0000
+ (UTC)
+Received: from domain.com (unknown [10.9.14.248])	by
+ mail53-domain.com (Postfix) with ESMTP id A158B480051;	Tue, 17 Jan 2015 
+ 08:28:37 +0000 (UTC)
+Received: from ITS-CAS01.campus.ad.csulb.edu (134.139.50.71) by
+ domain.com (10.9.99.144) with Microsoft SMTP Server (TLS) id
+ 14.1.225.23; Tue, 17 Jan 2015 08:28:35 +0000
+Received: from ITS-MAIL01.campus.ad.csulb.edu ([169.254.1.71]) by
+ ITS-CAS01.campus.ad.csulb.edu ([134.139.50.71]) with mapi id 14.01.0355.002;
+ Tue, 17 Jan 2015 00:28:39 -0800
+From: Donna Banning <Donna.Banning@csulb.edu>
+Subject: Re:Staff/Students
+Thread-Topic: Re:Staff/Students
+Thread-Index: AczU8MVds82qfTHJQ82NI87eiuEIoA==
+Importance: high
+X-Priority: 1
+Sensitivity: company-confidential
+Date: Tue, 17 Jan 2015 08:28:38 +0000
+Message-ID: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-originating-ip: [174.36.247.85]
+Content-Type: multipart/alternative;
+	boundary="_000_C5F00ADB53A5F24FB66F1D3F4080F9FB175A50CDITSMAIL01campus_"
+MIME-Version: 1.0
+To: Undisclosed recipients:;
+X-OriginatorOrg: csulb.edu
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 52
+
+Attention:Staff/Students
+
+Please be advise that new programs and updates have been recently added to =
+the
+University email system to prevent phishing and virus infected email messag=
+es from
+users Mailboxes.Copy and paste the following link into your browser to upda=
+te your
+Mailbox antivirus; <<link>>
+.php?
+
+Thank you.
+
+I.T.S  help desk.
+
+=A92012 The University of Houston, 4800 Calhoun Road, Houston, Texas 77004

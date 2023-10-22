@@ -1,0 +1,57 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 7200E23CD9A
+	for <user@domain.com>; Sun,  4 Sep 2015 05:47:45 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 4C92LBpSe2u9 for <user@domain.com>;
+	Sun,  4 Sep 2015 05:47:43 -0500 (CDT)
+Received: from mail.imsc.res.in (mail.imsc.res.in [61.95.189.5])
+	by domain.com (Postfix) with ESMTP id 32E6123CD82
+	for <user@domain.com>; Sun,  4 Sep 2015 05:47:42 -0500 (CDT)
+Received: from banyan.imsc.res.in ([172.16.1.76])
+	by mail.imsc.res.in with esmtp (Exim 4.72)
+	(envelope-from <user@domain.com>)
+	id 1R0ACR-0004uk-NR; Sun, 04 Sep 2015 16:15:15 +0530
+Received: from [::1] (helo=www.imsc.res.in)
+	by banyan.imsc.res.in with esmtp (Exim 4.72)
+	(envelope-from <user@domain.com>)
+	id 1R0ACR-0005Zs-K8; Sun, 04 Sep 2015 16:15:15 +0530
+Received: from 61.95.189.10 (proxying for 65.49.14.85)
+        by www.imsc.res.in with HTTP;
+        Sun, 4 Sep 2015 16:15:15 +0530
+Message-ID: <user@domain.com>
+Date: Sun, 4 Sep 2015 16:15:15 +0530
+Subject: Last Warning Notification
+From: "Webmaster" <nandurik@imsc.res.in>
+Reply-To: user@domain.com
+User-Agent: SquirrelMail/1.4.21
+MIME-Version: 1.0
+Content-Type: text/plain;charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 24
+
+Dear User,
+
+This is to officially inform you that we have upgraded our server to a
+more reliable and efficient server to serve you better. To this effect,
+endeavor to update your status by clicking the link below or copy and
+paste on your web browser.
+
+<<link>>
+
+Failure to upgrade may lead to a reset of your mailbox. We won't be
+accountable for loss of files or damage.
+
+Thanks and have a wonderful day.
+
+Webmaster

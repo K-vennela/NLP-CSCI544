@@ -1,0 +1,72 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [75.102.5.22])
+	by domain.com (Postfix) with ESMTP id 3DE62314406E
+	for <user@domain.com>; Sat,  4 Jul 2015 16:35:58 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 78486232018;
+	Sat,  4 Jul 2015 16:39:00 +0000 (UTC)
+X-Virus-Scanned: amavisd-new at domain.com
+X-Spam-Flag: YES
+X-Spam-Score: 7.665
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.665 tagged_above=-10 required=6.6
+	tests=[BAYES_00=-2.599, FM_IS_IT_OUR_ACCOUNT=0,
+	FORGED_MUA_OUTLOOK=3.116, FORGED_OUTLOOK_HTML=0.001,
+	FORGED_OUTLOOK_TAGS=0.001, HTML_MESSAGE=0.001, MIME_HTML_ONLY=1.457,
+	MSOE_MID_WRONG_CASE=0.82, NORMAL_HTTP_TO_IP=0.001,
+	SUSPICIOUS_RECIPS=2.912, URIBL_BLACK=1.955]
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id DzpdB4UXo8e0; Sat,  4 Jul 2015 16:38:56 +0000 (UTC)
+Received: from winks-domain.com (winks-domain.com [208.131.134.40])
+	by domain.com (Postfix) with ESMTP id 53BFD232007
+	for <user@domain.com>; Sat,  4 Jul 2015 16:38:55 +0000 (UTC)
+Received: from User ([203.230.71.200])
+	(authenticated bits=0)
+	by winks-domain.com (8.13.1/8.13.1) with ESMTP id n64GUgQI026729;
+	Sat, 4 Jul 2015 10:30:44 -0600
+Message-Id: <200907041630.user@domain.com>
+Reply-To: <user@domain.com>
+From: "Chase Bank"<chasse@emailonline.chasse.com>
+To: user@domain.com, user@domain.com, user@domain.com,
+        user@domain.com, user@domain.com
+Subject: Thanks again for using online payments. 
+Date: Sun, 5 Jul 2015 01:30:30 +0900
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Content-Length: 7055
+Lines: 230
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1095
+
+E-mail Security Information.
+
+             Dear Customer,
+
+              Thank you for scheduling your recent domain.com card payment online.  Your payment will post to your domain.com card account ending in 1400 ( All Accounts ) on 07/09/2009.
+
+
+
+             Now that you're making your payment online, are you aware of all the convenient ways you can manage your account online?
+
+
+
+             Just log in to 
+
+See Statements - Choose to stop receiving paper statements and view up to six years of your statements online.
+
+See automatic payments - Set up monthly payments to be made automatically.
+
+Transfer a balance - Transfer a balance to your domain.com card account.
+
+Go to Personalized Alerts - Schedule alerts to be reminded of key account activity.

@@ -1,0 +1,95 @@
+Dear Osvaldo and Martin,
+It is very difficult to make considered input into this process at such short notice.  I
+received the emails Wednesday afternoon, just before being away from the office for 48
+hours.  I also am not fully aware of the process into which this is fitting and it is the
+first time I have seen the WGII outline.  I do however make some comments on the following:
+The WGII outline
+Chapter 2 on data etc.
+Chapter 13 on critical damage etc.
+WGII outline
+-----------------
+Key Questions:  there is, in analytical terms, very little difference between the 2nd and
+4th key question you pose.  The impacts under unmitigated CC (Q2) are not in any
+fundamental way different from the impacts under mitigated CC (Q4).  2degC warming, for
+example, will give broadly the same impacts whether this occurs because of strong CC policy
+intervention or whether it occurs because of low carbon development paths.  What matters
+more for impacts is the rate of CC and what matters more for how important those impacts
+are is the development path pursued.  I think this distinction between mitigated and
+unmitigated CC is tenuous and unhelpful.  This has a bearing on the later discussions about
+stabilisation (where "stabilisation" is usually assumed to be, indeed often synonymous
+with, the result of mitigative action; actually (quasi-) stabilisation, at different
+levels, can occur in a world with relatively little direct CC mitigation policy).
+The progression through the sections follows a rather linear and reductionist model -
+observed impacts, future impacts, adaptation,regions.  I would have liked to have seen an
+early opening chapter on the nature of the dynamic relationship between climate and society
+(before we even start talking about climate change), this being able to bring out notions
+of vulnerability and adaptation - both fundamental to put on the table before we start
+thinking about future climate change and how important it is.  This could also point out
+that "critical" damage is already being caused by climate and climate variability.
+Under your structure, the observed impacts section (II) should surely parallel the later
+future impacts section (III) in terms of sectors/themes.  There are only 4 themes in
+section II, yet 6 (different) themes in section III.  Why for example is nothing said about
+observed impacts on urban infrastructure or on coasts?  The asymmetry between these section
+sub-themes is itself perhaps revealing.
+It seems odd that adaptation is to be addressed in all the thematic chapters in Section III
+*as well as* in a separate later chapter on adaptation.  This situation is ripe for overlap
+and redundancy.  Our understanding of adaptation in any case should be brought in right at
+the beginning (see above).
+The avoiding critical damage chapter suffers from the same problem identified above - what
+matters is whether and how such exceedance rates can be identified, not whether they result
+from either a mitigated or an unmitigated scenario - this academic distinction cannot be
+sustained in the real world.
+The regional section is in danger of repeating the mistake in the TAR, again leading to
+dispersion of effort and redundancy.  My suggestion would be *not* to assess all new
+regional knowledge (again; very turgid), but instead to produce a much more streamlined
+section focusing on a few regional/local case studies that illustrate sharply many of the
+(integrating) themes introduced earlier - vulnerability, adaptation, criticality, impacts.
+Deliberately seek to be selective and not comprehensive.
+I also do not see how the WGII chapters will be co-ordinated with the 5 cross-cutting
+papers identified here - again, there seems much scope for duplicitous effort and
+redundancy or even contradiction.  And since the cross-cutting papers are really the
+interesting and useful ones, this suggests to me that the old traditional WG structure of
+IPCC is now deeply flawed (as I have said more than once before in public).
+Chapter 2 - Assumptions, etc.
+---------------------------------------------
+First question to raise is what is WGI doing in this regard?  I cannot comment sensibly
+without knowing how WGI will tackle questions of scenarios and future projections.
+In section 2.3, 4th bullet:  how relevant really are these "Stabilisation scenarios
+(mitigation)"?  At the very least IPCC must clear up this issue about whether stabilisation
+is a short-hand for mitigation (as implied here).  This is potentially misleading, since
+stabilisation can occur in many different worlds, by no means all of them worlds with
+strong CC mitigation policies.  Continuation of this thinking means reality is being forced
+to accommodate the arbitrary thinking of the UNFCCC rather than UNFCCC being forced to take
+account of reality.
+Also in this bullet is "Impacts of extreme climate events".  Why are impacts being looked
+at here?  Surely this is totally misplaced.  What is important are scenarios - of whatever
+origin and methodology - that embed within them changes in the character of "extreme"
+weather and how we describe such changes.  We should not separate this out as a separate
+issue surely.
+Section 2.4 (the second appearance) confuses me.  Much of this material appears earlier in
+2.3, thus characterisations of future conditions is what 2.3 is about and also the
+projected changes in key drivers is what the scenarios part of 2.3 is all about.  Do you
+mean to differentiate between methodology (2.3) and outcomes (2.4b)?  And as always you
+will run into the problem of summarising what scenarios actually *are* assumed in this
+report - is there to be an IPCC 4AR standard scenario(s) that all should use?  I suspect
+not.  Resolving this problem gets to the heart of the structural problem with IPCC.
+Different people will use different assumptions.
+Chapter 13 - Critical Damage ...
+------------------------------------------------
+This outline was almost unintelligible to me!  For example having read the opening aims and
+scope statement several times, I an still not clear about the approach this chapter is
+taking.  Sections 13.2 and 13.3 are also extremely unclear as is section 13.4.
+I think someone needs to do some clearer thinking about this chapter before sending it out
+for people to comment on.  I have my own views on this, but at such short notice and
+without knowing the agreed IPCC process I'm not going to write the chapter outline for you.
+Inter alia, the chapter should address the following:
+- different paradigms for defining "critical"; will vary by sector, culture, etc.
+- distinction between external (pronounced) definitions of critical and internal
+(experienced/perceived) definitions
+- relationship between adaptive capacity and "critical" rates of change
+- dependence of critical thresholds on sector and spatial scale
+- reversibility (or not) of critical damage
+... and if the use of "critical" is a euphemism for "dangerous" then it is not very subtle
+- people will see through this.  What is the difference between critical and dangerous?
+Professor Mike Hulme
+Tyndall Centre

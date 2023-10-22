@@ -1,0 +1,133 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Fri, 6 May
+ 2015 08:04:22 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Fri, 6 May 2015 
+ 08:04:21 -0400
+Received: from [10.87.0.110] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 900191498
+ for user@domain.com; Fri, 06 May 2015 07:04:24 -0500
+X-Note-AR-ScanTimeLocal: 5/6/2016 7:04:21 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @politico.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->
+X-Note-Sending-IP: 68.232.198.10
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from [68.232.198.10] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 140356745
+ for user@domain.com; Fri, 06 May 2015 07:04:21 -0500
+Received: by domain.com id h5i44a163hs5 for <user@domain.com>; Fri,
+ 6 May 2015 06:04:16 -0600 (envelope-from
+ <user@domain.com>)
+From: Morning Money <morningmoney@politico.com>
+To: <user@domain.com>
+Subject: =?UTF-8?B?UE9MSVRJQ08ncyBNb3JuaW5nIE1vbmV5OiBXZWxjb21lIHRvIGpv?=
+ =?UTF-8?B?YnMgZGF5IOKAlCBDbGludG9uIGxvb2tzIHRvIHBvYWNoIEdPUCBkb25vcnMg?=
+ =?UTF-8?B?4oCUIEludGVuc2UgYmF0dGxlIGZvciBXYWxsIFN0cmVldCBjYXNoIOKAlCBH?=
+ =?UTF-8?B?b2xkbWFuIGhlZGdlZCBhZ2Fpbg==?=
+Date: Fri, 6 May 2015 06:04:16 -0600
+List-Unsubscribe: <mailto:user@domain.com>
+Reply-To: POLITICO subscriptions
+	<user@domain.com>
+x-job: 1376319_5395825
+Message-ID: <user@domain.com>
+Content-Type: multipart/alternative; boundary="NNC0hKu80271=_?:"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+By Ben White | 05/06/2016 08:01 AM EDT
+
+WELCOME TO JOBS DAY - The April jobs report could dip below 200K but it's not expected to be a disaster and wages could rise a bit faster. Moody's Mark Zandi: "I expect payroll employment to increase by 190,000 in April, unemployment to decline to 4.9 percent, and average hourly earnings to increase by 0.3 percent. ... The expected April job gain is a bit on the soft side, reflecting the weak ADP data for the month. The ADP data overstates any weakness in the month, due to a technical issue, but it is still signaling that hiring slowed a bit.
+
+"Abstracting from the monthly vagaries of the data, the job market remains very strong. Job growth has averaged well over 200,000 per month for almost 5 years. The job market is enjoying the longest streak of consecutive monthly job gains on record. The only blemish are layoffs in the energy industry and trade sensitive manufacturing." 
+
+Pantheon's Ian Shepherdson: "Barring some sort of out-of-the-blue shock, we are much more interested in the hourly earnings data today than the headline payroll number. The key question is the extent to which wages rebound after being depressed by a persistent calendar quirk in both February and March. We think a 0.4 percent increase is required to return the level of hourly earnings to trend, marginally above the consensus forecast, 0.3 percent." 
+
+CLINTON LOOKS TO POACH GOP DONORS - POLITICO's Ben White with Ken Vogel, Annie Karni, Isaac Arnsdorf and Eli Stokols: "Hillary Clinton's supporters in recent days have been making a furious round of calls to top Bush family donors to try to convince them that she represents their values better than Donald Trump, multiple sources in both parties told POLITICO. ... The moves come as Clinton and the Democratic Party try to take advantage of deep unease among establishment Republicans on Wall Street and elsewhere with Trump's emergence as the presumptive Republican nominee.
+
+"Top targets for the Clinton team include people like Woody Johnson, Jeb Bush's former finance chair and the owner of the New York Jets. ... One person close to Clinton said supporters of the former secretary of state drew up a list of Wall Street donors who supported Jeb Bush and other unsuccessful Republican candidates months ago but wanted to domain.com until Trump locked down the nomination before beginning to make the calls."
+
+INTENSE BATTLE FOR WALL STREET CASH - "The race for Wall Street cash will be intense. Trump said this week that while he would help fund a general election campaign that could cost well over $1 billion for each candidate he will also seek donations. On Thursday, Trump named Steven Mnuchin, head of private investment firm Dune Capital Management and a former partner at Goldman Sachs, as his national finance chairman.
+
+"Mnuchin himself has donated to Clinton in the past, highlighting the politically ambidextrous nature of many Wall Street donors. But Mnuchin's hiring could open Wall Street doors for Trump that might otherwise be closed, making the Clinton effort event more important. Two major Bush donors who received calls from Clinton supporters said they would not switch their allegiance to the likely Democratic nominee despite misgivings about Trump's ability to win and his rhetoric on trade, immigration and government spending. But both suggested it was a smart play for Clinton supporters to try and peel off establishment Republicans who might otherwise grudgingly support Trump." 
+<<link>>
+
+GOLDMAN HEDGED AGAIN - Goldman Sachs now has a former partner high up in the Clinton campaign (Gary Gensler) and the Trump campaign (Mnuchin). Mnuchin's hiring should theoretically make it very hard for Trump to slam Clinton's ties to Wall Street. But like everything with Trump he will do it anyway and probably get away with it. 
+
+WHY RYAN SCORNED TRUMP - POLITICO's Jake "Sugar Mag" Sherman: "For the past four months, as Trump soared in the polls, Ryan has watched warily. A ban on Muslims in the U.S.? That's not what this country is about, he said. A hesitance to disavow white supremacists? Really? Trump even blasted free-trade agreements - pacts that Ryan strongly supports. ... But after repeating the standard line for months that he would support the party's nominee, the country's highest-ranking Republican could not bring himself to do so once Trump actually became that person. 
+
+"And so, in the most searing and drastic defection of this wild campaign season, Ryan broke ranks with the brash New York billionaire. The decision will shape Ryan's political future in the short and long term, and could have a real effect on the outcome of the 2015 election. Immediately, the move could give the 200-plus Republicans up for reelection - particularly those in the swing districts that will decide the size of the GOP's majority, or even whether it keeps the House - a measure of cover from Trump's unpopularity" <<link>>
+
+TRUMP BACKS BREXIT - POLITICO's Nolan D. McCaskill: "Trump signaled his support for Britain's domain.com from the European Union, though he quickly cautioned that such a decision should come from the UK. 'I would say that they're better off without it, personally, but I'm not making that as a recommendation - just my feeling,' the presumptive Republican presidential nominee told Fox News' Bret Baier in an interview Thursday." <<link>>
+
+GOOD FRIDAY MORNING - Happy weekend everyone. And happy early Mother's Day to all, including M.M. Mom, Ann White. Email me on user@domain.com and follow me on Twitter @morningmoneyben 
+
+Pro subscribers: Are you getting all the content you want? Make sure your keywords are up to date and customized via your settings page at <<link>>
+
+DRIVING THE DAY - Jobs report at 8:30 a.m. expected to show a gain of 203K, unemployment to drop to 4.9 percent and wages to rise by 0.3 percent .. At 2:00 p.m. President Obama "participates in a conference call briefing with small business leaders on key economic initiatives, including international trade agreements, affect their businesses." 
+
+JOIN ME MAY 17TH - Please join me for a lunch briefing with President and CEO of the Federal Reserve Bank of Atlanta, Dennis Lockhart and President and CEO of the Federal Reserve Bank of San Francisco, John C. Williams on Tuesday, May 17 - Doors at 12:00 p.m.; The W Hotel - 515 15th St NW. RSVP: <<link>>
+
+THIS MORNING ON POLITICO PRO FINANCIAL SERVICES - Zachary Warmbrodt on domain.com Suisse and the Volcker rule -- and to get Morning Money every day before 6 a.m.-- please contact Pro Services at (703) 341-4600 user@domain.com
+
+TRUMP ON YELLEN - On CNBC's Squawk Box: "When her time is up, I would most likely replace her because of the fact that I think it would be appropriate. She is a low-interest-rate person. She has always been a low interest rate person. And I must be honest. I am a low interest rate person. If we raise interest rates and if the dollar starts getting too strong, we're going to have some very major problems." 
+
+SO LET ME UNDERSTAND - Yellen is a low interest rate person. Trump is a low interest rate person. But he would replace her because she is a low interest rate person. Got it. 
+
+TRUMP ON DODD-FRANK - "Dodd-Frank has to be - has to be either eliminated or changed greatly. I will tell you, I have so many friends who are very good business people, and it's impossible for them to do business with the banks. The regulators are running the banks. And you know, you'll have bankers that get big salaries and that are very capable and all of that. But they're not running the banks. The regulators are running the banks." 
+
+FBI INTERVIEW TOP CLINTON AIDES - POLITICO's Josh Gerstein: "Top aides to Democratic presidential candidate Hillary Clinton have been interviewed by the FBI as part of an ongoing investigation into Clinton's use of a private e-mail server when she was secretary of state, CNN reported Thursday. ... Among the aides who have spoken with the FBI is Huma Abedin, who serves as vice chair of Clinton's presidential campaign and was deputy chief of staff to Clinton at the State Department, the network said.
+
+"A spokesman for Clinton's campaign did not confirm any specific interviews, but reiterated the candidate's public statements that she wants everyone approached by the FBI to cooperate. Clinton said earlier this week she is willing to be interviewed but has not yet been approached. ... Up to this point, investigators have not found evidence proving that Clinton intentionally violated the law, the network reported." <<link>>
+
+GM/LYFT TO TEST SELF-DRIVING CABS - WSJ's Mike Ramsey and Gautham Nagesh: "General Motors Co. and Lyft Inc. within a year will begin testing a fleet of self-driving Chevrolet Bolt electric taxis on public roads, a move central to the companies' joint efforts to challenge Silicon Valley giants in the battle to reshape the auto industry. The plan is being hatched a few months after GM invested $500 million in Lyft, a ride-hailing company whose services rival Uber ... 
+
+"The program will rely on technology being acquired as part of GM's separate $1 billion planned purchase of San Francisco-based Cruise Automation Inc., a developer of autonomous-driving technology. Details of the autonomous-taxi testing program are still being worked out, according to a Lyft executive, but it will include customers in a yet-to-be disclosed city. Customers will have the opportunity to opt in or out of the pilot when hailing a Lyft car from the company's mobile app. In addition to driverless cars, GM aims to use Lyft and its growing army of drivers as a primary customer for the Bolt, an electric car that launches later this year amid soft demand for electric vehicles" 
+<<link>>
+
+TREASURY CRACKS DOWN ON DIRTY MONEY - FT's Barney Jopson: "The US has launched a fresh crackdown on domain.com money with new measures intended to stop tax evaders, money launderers and terrorists from concealing their identities in the US financial system. Thursday's moves mark the latest tightening of US rules on financial governance and come less than a month after the leak of the so-called Panama Papers ... Wally Adeyemo, US deputy national security adviser for international economics, told reporters: 'Fundamentally, our financial system should not provide the rich the powerful and the corrupt with the opportunity to shield their assets and avoid paying their fair share.' ... 
+
+"In the first of two rule changes, both of which rely on existing powers, the Treasury said it would require financial institutions to verify the identity of the real people, or 'beneficial owners', who control companies opening accounts with them. ... The second rule, announced only as a proposal, would close a loophole that the Treasury said 'allows foreign persons to hide assets in US accounts'." <<link>>
+
+OBAMA TO FALL SHORT ON MANUFACTURING GOALS - WP's Jacob Bogage: "During President Obama's 2015 reelection campaign, he told voters that manufacturing jobs would be a crucial part of the American economy's resurgence. His administration set a goal to 'create 1 million new manufacturing jobs by the end of 2016.' At the time, manufacturing insiders cheered. The national unemployment rate had fallen 3 percentage points from its high point in 2009. The U.S. economy had added 4.4 million jobs since 2009, on its way to adding 13 million to date.
+
+"But factory jobs haven't gotten the bump the president strived for: Only 331,000 of those many millions of new positions created since the start of his second term have come in manufacturing. The United States would need to create 74,000 manufacturing jobs each month to reach Obama's goal by the end of the year, and prospects are not good. American manufacturers have actually shed 20,000 jobs since January 2015 amid difficult economic circumstances" <<link>>
+
+ALSO FOR YOUR RADAR - 
+
+NEW AT HPS - Per release: "Hamilton Place Strategies (HPS) adds former NY strategist - Jim David joins HPS as a managing director from Kekst and Company where he advised Fortune 500 companies, leading alternative asset managers, and other clients on a range of business-critical communications issues, including shareholder activism, bankruptcy, mergers and acquisitions, regulatory matters, and crises." <<link>>
+
+PRITZKER ON TOLERANCE - Commerce Secretary Penny Pritzker's Medium post on Holocaust Remembrance Day: "Freedom of speech gives us the right to speak our mind. It is a precious right. But it does not free us from responsibility for the consequences of our words. "This right should not be used to dehumanize others with language.
+
+"As Americans, we have a choice: Do we give in to the language of fear? Do we sit with our arms folded while words are used to dehumanize our fellow human beings? Or do we stand up and speak out?" <<link>>
+
+BANKERS SLAM CFPB ON LAWSUITS - WSJ's Yuka Hayashi, Annamaria Andriotis and Christina Rexrode: "Consumers are set to gain new powers to sue banks under a proposal unveiled by regulators, a move that lenders warned would hurt rather than help most borrowers. The plan, which would allow class-action lawsuits, sets up the latest clash between the banking industry and the [CFPB] over whether the agency is coming down too hard on lenders and overly restricting their operations.
+
+"Lauded by consumer advocates, the proposed rule would restrict the use of arbitration clauses in many financial contracts. It would give consumers more latitude to challenge, for example, what they deem as hidden fees and excessive charges on products ranging from domain.com cards to private student loans. The CFPB aims to domain.com financial companies from using mandatory-arbitration clauses as a way to block class-action lawsuits, in which a large number of plaintiffs with similar complaints band together" <<link>>
+
+WORLD LEADERS FREAKED BY TRUMP - NYT's David E. Sanger and Jim Yardley: "Alarmed by Donald J. Trump's grip on the Republican presidential nomination, world leaders are wrestling with the possibility that, even if he loses the general election, his ascent reflects a strain of American public opinion that could profoundly reshape the way the United States addresses security alliances and trade.
+
+"From Beijing, Tokyo and Seoul to the headquarters of NATO in Brussels and the vulnerable Baltic nations along Russia's western border, officials and analysts said in interviews that they saw the success of Mr. Trump's 'America first' platform as a harbinger of pressure for allies to pay up or make trade concessions in return for military protection." <<link>>
+
+To view online:
+<<link>>
+ To change your alert settings, please go to <<link>> or <<link>> email was sent to user@domain.com by: POLITICO, LLC 1000 Wilson Blvd. Arlington, VA, 22209, USA
+
+To unsubscribe,<<link>>
+

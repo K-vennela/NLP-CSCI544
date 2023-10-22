@@ -1,0 +1,20 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.200.205])
+	by domain.com (Postfix) with ESMTP id DCDE32BC1EE
+	for <user@domain.com>; Tue,  7 Jan 2015 16:17:01 +0100 (CET)
+Date: Tue, 7 Jan 2015 16:17:01 +0100
+From: "Daniele Milan (Confluence)" <confluence@hackingteam.com>
+To: user@domain.com
+Message-ID: <1419526105.3041.1389107821934.JavaMail.CONFLUENCE$@confluence>
+Subject: [confluence] Daniele Milan updated a "Travel" event in the
+ "TENTATIVE ACTIVITY" calendar
+Precedence: bulk
+Auto-Submitted: auto-generated
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2135562172_-_-"
+
+  Daniele Milan updated a "Travel" event in the TENTATIVE ACTIVITY Pre-Sales Meeting calendar Feb 10, 2014 Until Feb 12, 2014   Emad Shehata, Mostapha Maanna Egypt / POC to MCIT     You are receiving this notification because you are watching the following:  TENTATIVE ACTIVITY   Pre-Sales Meeting   Sent by Atlassian Confluence 5.4, the Enterprise Wiki 

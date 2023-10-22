@@ -1,0 +1,18 @@
+Ben,
+Thanks for the plots and keeping me up to date. The ERA-40/CRU comparisons
+are quite interesting. I'm hopeful Adrian will write up a summary for publication in
+addition
+to an ECMWF report.
+This sort of thing is important wrt IPCC and also papers such as Kalnay and Cai.
+I'm also working with Russ Vose and others at NCDC to get a comparison of CRU/GHCN
+and NASA datasets in GRL. NCDC have used their first difference technique with CRU
+data. Differences are very, very small due to data and the technique doesn't matter much
+either. All seems to boil down to how the global average is defined. Calculated as one
+domain as NCDC (and until recently the HC as well) want to do it, it is biased to the NH.
+If you do it the CRU way (G=0.5(NH+SH)) then it looks much more like an OA version
+of HadCRUT2v that the HC have just produced.  Been saying this for years as has Tom,
+so no surprises. Finally got the HC to realise it, now just need to convince NCDC.
+NCDC will also have a new 5 by 5 deg gridded dataset of Tx and Tn soon, right up to
+the present. Need to compare this with ERA-40.
+Cheers
+Phil

@@ -1,0 +1,69 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id 194324685B
+	for <user@domain.com>; Wed, 11 Mar 2015 09:23:11 -0400 (EDT)
+X-Greylist: delayed 81 seconds by postgrey-1.27 at domain.com; Wed, 11 Mar 2015 09:23:10 EDT
+Received: from domain.com (domain.com [64.61.90.218])
+	by domain.com (Postfix) with ESMTP id E81E7131F749
+	for <user@domain.com>; Wed, 11 Mar 2015 09:23:10 -0400 (EDT)
+Received: from User ([72.85.232.17]) by domain.com with Microsoft SMTPSVC(6.0.3790.3959);
+	 Wed, 11 Mar 2015 08:22:43 -0400
+Reply-To: <user@domain.com>
+From: "PayPal"<paypal@paypals.com>
+Subject: Update Your Billing Records - Urgent Action Required
+Date: Wed, 11 Mar 2015 08:29:12 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <user@domain.com>
+X-OriginalArrivalTime: 11 Mar 2015 12:22:43.0968 (UTC) FILETIME=[1459E000:01C9A244]
+To: undisclosed-recipients:;
+Content-Length: 2015 
+Lines: 43
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1006
+
+Dear valued PayPal Customer,
+
+Due to recent fraudulent transactions, we have issued the following security requirements.
+
+It has come to our attention that 98% of all fraudulent transactions are caused by members
+using stolen domain.com cards to purchase or sell non existant items. Thus we require our members to add a domain.com/Check card
+to their billing records as part of our continuing commitment to protect your account and to reduce the instance of 
+fraud on our website. Your domain.com/Check card will only be used to identify you. If you could please take 5-10 minutes 
+out of your online experience and renew your records you will not run into any future problems with the PayPal 
+service. However, failure to confirm your records will result in your account suspension.
+
+We are requesting this information to verify and protect your identity. Federal regulations require all financial 
+institutions to obtain, verify, and record identification from all persons opening new accounts or obtaining ongoing 
+payment services. This is in order to prevent the use of the U.S. banking system in terrorist and other illegal 
+activity. For these reasons, PayPal will utilize services provided by various domain.com reporting agencies to 
+verify the information you domain.com to us.
+
+Once you have updated your account records your pending PayPal account transactions will not be interrupted and 
+will continue as normal.
+
+To update your billing records please proceed to our secure webform by clicking here.
+
+Thank you for your time,
+
+PayPal Billing Department.
+
+Please do not reply to this email. This mailbox is not monitored and you will not receive a response. For assistance, 
+log 
+in to your PayPal account and 
+choose the Help link located in the top right corner of any PayPal page.
+
+To receive email 
+notifications in plain text instead of HTML, update your preferences here.
+
+PayPal Email ID PP247

@@ -1,0 +1,91 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Thu, 19 May
+ 2015 13:14:42 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Thu, 19 May 2015 
+ 13:14:38 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 924510353
+ for user@domain.com; Thu, 19 May 2015 12:14:50 -0500
+X-Note-AR-ScanTimeLocal: 5/19/2016 12:14:40 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:199.15.213.174 DOM:domain.com ADDR:899-user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 100
+X-GBUdb-Analysis: 0, 199.15.213.174, Ugly c=0.297854 p=-0.111111 Source Normal
+X-Signature-Violations: 100-5946650-2783-2803-m
+	100-5946650-0-11983-f
+X-Note-419: 0 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/19/2016 12:14:32 PM
+X-Warn: WEBBUG
+X-Warn: OPTOUT
+X-Warn: BULKMAILER
+X-Note: Spam Tests Failed: WEBBUG, OPTOUT, BULKMAILER
+X-Country-Path: PRIVATE->United States->
+X-Note-Sending-IP: 199.15.213.174
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: 899-user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G281 G286 G374 G376 G398 G580 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from domain.com ([199.15.213.174] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 139384800
+ for user@domain.com; Thu, 19 May 2015 12:14:40 -0500
+Return-Path: <user@domain.com>
+X-MSFBL: bWlyYW5kYWxAZG5jLm9yZ0BkdnAtMTk5LTE1LTIxMy0xNzRAYmctYWJkLTg2QDg5
+	OS1MT1QtNDY0OjExOTM4OTo5NjM4NToxNzM1NzM6MDoxMjA2MTA6NzoyNzE5MjEx
+	NQ==
+Received: from [10.1.8.1] ([10.1.8.1:45259] helo=domain.com)	by
+ domain.com (envelope-from <user@domain.com>)
+	(ecelerity 3.6.8.47404 r(Core:3.6.8.0)) with ESMTP	id EB/A5-45278-2F0FD375;
+ Thu, 19 May 2015 11:59:30 -0500
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1463677170;
+	s=m1; d=domain.com; user@domain.com;
+	h=Date:From: Katie Williams <katie.williams@hello.glassdoor.com>
+	bh=MlYYw3x8Tpf8c6YM4kpY58M2CS2GAZ1oq2OFTMfvZ2Q=;
+	b=SFPoTu4WUCSkTZNDuuuLNlnnaQV/rhLaKePGnqjjOjBP2KtgAbClwsduzjR6ozkE
+	+dkeoT9HE/XitcOJE28wTuRTe1PcgeFLb0d66wkh/uxKdHRy82ki7marv9UbGLTuJCP
+	WO6ceL4/fKAJ1surTeB/sExOBbw5p5rs3Cz5nmPs=
+Date: Thu, 19 May 2015 11:59:30 -0500
+From: Katie Williams <katie.williams@hello.glassdoor.com>
+Reply-To: <user@domain.com>
+To: <user@domain.com>
+Message-ID: <1233024857.-1748554416.1463677170869.user@domain.com>
+Subject: DEMO DAY, 5/26: Using Glassdoor to Build Your Employer Brand
+Content-Type: multipart/alternative;
+	boundary="----=_Part_-1748554418_1519672113.1463677170868"
+X-Binding: bg-abd-86
+X-MarketoID: 899-LOT-464:119389:96385:173573:0:120610:7:27192115
+X-MktArchive: false
+List-Unsubscribe: <mailto:user@domain.com>
+X-MailFrom: Katie Williams <katie.williams@hello.glassdoor.com>
+X-MSYS-API: {"options":{"open_tracking":false,"click_tracking":false}}
+X-MktMailDKIM: true
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Hi User,
+
+
+
+Wanted to let you know about our Demo Day on May 26 <<<link>>> on using a Glassdoor Free Employer Account to manage your employer brand. 
+
+Kelsey Hanger, our Sales Development Representative, will be sharing ways to respond to reviews, update DNC's Glassdoor profile, monitor competition for talent, and leverage talent analytics to optimize recruiting.
+
+Would love to have you join us! Register here <<<link>>>.
+
+Regards,
+
+Katie Williams | Glassdoor <<<link>>>
+ Sr. Marketing Manager, Programs
+
+Glassdoor 100 Shoreline Highway, Mill Valley, CA 94941
+Unsubscribe: <<link>>

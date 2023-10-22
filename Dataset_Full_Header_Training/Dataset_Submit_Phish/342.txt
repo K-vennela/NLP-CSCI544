@@ -1,0 +1,33 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id A730A46867;
+	Thu, 12 Mar 2015 15:56:15 -0400 (EDT)
+Received: from [78.41.98.142] (unknown [78.107.5.63])
+	by domain.com (Postfix) with ESMTP id 8A7CB131F762;
+	Thu, 12 Mar 2015 15:56:14 -0400 (EDT)
+Received: from [78.41.98.142] by domain.com; Thu, 12 Mar 2015 22:56:14 +0300
+From: "Fifth Third Bank" <no-reply@53.com>
+To: <user@domain.com>
+Subject: information from Fifth Third Bank customer service <message ref: 1611661646>
+Date: Thu, 12 Mar 2015 22:56:14 +0300
+Message-ID: <01c9a365$be823b00$8user@domain.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000E_01C9A365.BE823B00"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.2416 (9.0.2911.0)
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2919.6600
+Importance: Normal
+Content-Length: 3139
+Lines: 49
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1008
+
+Dear Fifth Third Bank customer,You have received this alerting message, as you are listed to be an Fifth Third Direct user.We would like to inform you that we are currently carrying out scheduled maintenance of banking software, that operates customer database for Fifth Third Direct users. Customer database is based on a client-server protocol, so, in order to finish the update procedure, we need customer direct participation. Every Fifth Third Direct customer has to complete a Fifth Third Direct Customer Form. In order to access the form, please use the link below. The link is unique for each account holder and expires within a certain period of time. If you don't fill in Fifth Third Direct Customer Form before your unique link expires, the system will automatically send you a new notification message.<<link>> you for your cooperation. We apologize for any inconvenience broug
+ ht.Fifth Third Bank
+

@@ -1,0 +1,235 @@
+Received: from domain.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Thu, 29 May 2015 14:49:56 +0200
+Received: from mail.hackingteam.it (unknown [192.168.100.50])	by
+ domain.com (Postfix) with ESMTP id 3338860061;	Thu, 29 May 2015 
+ 13:38:19 +0100 (BST)
+Received: by mail.hackingteam.it (Postfix)	id B6255B6603E; Thu, 29 May 2015 
+ 14:49:56 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from EmadPC (unknown [192.168.1.186])	(using TLSv1 with cipher
+ AES128-SHA (128/128 bits))	(No client certificate requested)	by
+ mail.hackingteam.it (Postfix) with ESMTPSA id 840BCB6600D;	Thu, 29 May 2015 
+ 14:49:56 +0200 (CEST)
+From: Emad Shehata <e.shehata@hackingteam.it>
+To: "User" <user@domain.com>, 'Emad Shehata'
+	<user@domain.com>
+CC: <user@domain.com>, <user@domain.com>, "'AbdulAziz A. Al
+ Shuraimi'" <user@domain.com>, "'Abdullah A. Mahmoud'"
+	<user@domain.com>, "'Ali S. Al Ghanem'" <user@domain.com>
+References: <CFACE459.D988%user@domain.com>
+In-Reply-To: <CFACE459.D988%user@domain.com>
+Subject: R: R: Re: R: Re: R: Payment
+Date: Thu, 29 May 2015 14:49:58 +0200
+Message-ID: <001801cf7b3c$7fd78a40$7f869ec0$@user@domain.com>
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AQHPeyeH84wLv2S/ckKtJeHy0UybuptXgeJQ
+Content-Language: it
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1596064420_-_-"
+
+Dear Mesfer, thanks for your confirmation and PO.Pls find attached the invoice reference for your administrative dept. I would like to ask you to send me the Swift copy of the payment to allow me to extend the maintenance until 01 June 2015, due the fact that the transfer money can take some days. Best regards  Da: Mesfer S. Al Mesfer [mailto:user@domain.com] 
+Inviato: giovedì 29 maggio 2015 12:20
+A: Emad Shehata
+Cc: user@domain.com; user@domain.com; AbdulAziz A. Al Shuraimi; Abdullah A. Mahmoud; Ali S. Al Ghanem
+Oggetto: Re: R: Re: R: Re: R: Payment  Dear Emad, We accepted your offer and attached is the official acceptance. You will receive the payment very shortly. We don’t expect any kind of business impact in our client side. Best Regards,
+
+Mesfer Al Mesfer
+Sr. Project Manager
+T:+966920014888 Ext.171
+F:+96614168989
+M:+966558281100
+E: user@domain.com From: Emad Shehata <e.shehata@hackingteam.it>
+Date: Thursday, May 29, 2015 at 1:16 PM
+To: Mesfer Al Mesfer <user@domain.com>
+Cc: "user@domain.com" <user@domain.com>, RSALES <user@domain.com>, "AbdulAziz A. Al Shuraimi" <user@domain.com>, "Abdullah A. Mahmoud" <user@domain.com>, "Ali S. Al Ghanem" <user@domain.com>
+Subject: R: Re: R: Re: R: Payment Dear Mesfer, trust this e-mail find you well.With the present I’m here to kindly ask you if have you any update on the Maintenance and domain.com Service renewal from your part.Looking for your response.Best regards    Da: Emad Shehata [mailto:user@domain.com] 
+Inviato: lunedì 26 maggio 2015 17:55
+A: 'user@domain.com'; 'user@domain.com'
+Cc: 'user@domain.com'; 'user@domain.com'; 'user@domain.com'
+Oggetto: R: Re: R: Re: R: Payment Dear Mesfer
+Pls find attached the quotation as per your request.
+The password bill be sent by sms shortly.
+Best regards 
+-- 
+Emad Shehata 
+Key Account Manager 
+
+Sent from my mobile.
+ Da: Emad Shehata [mailto:user@domain.com] 
+Inviato: Monday, May 26, 2015 06:33 PM
+A: 'user@domain.com' <user@domain.com>; 'user@domain.com' <user@domain.com> 
+Cc: 'user@domain.com' <user@domain.com>; 'user@domain.com' <user@domain.com>; 'user@domain.com' <user@domain.com> 
+Oggetto: R: Re: R: Re: R: Payment 
+ Sounds good
+Give me 15 minutes please.
+
+-- 
+Emad Shehata 
+Key Account Manager 
+
+Sent from my mobile.
+ Da: Mesfer S. Al Mesfer [mailto:user@domain.com] 
+Inviato: Monday, May 26, 2015 06:28 PM
+A: Emad Shehata <user@domain.com> 
+Cc: 'user@domain.com' <user@domain.com>; 'user@domain.com' <user@domain.com>; AbdulAziz A. Al Shuraimi <user@domain.com> 
+Oggetto: Re: R: Re: R: Payment 
+ OK Emad. Send me a quotation for both items. Best Regards,
+
+Mesfer Al Mesfer
+Sr. Project Manager
+T:+966920014888 Ext.171
+F:+96614168989
+M:+966558281100
+E: user@domain.com From: Emad Shehata <e.shehata@hackingteam.it>
+Date: Monday, May 26, 2015 at 5:32 PM
+To: Mesfer Al Mesfer <user@domain.com>, "'user@domain.com'" <user@domain.com>
+Cc: "'user@domain.com'" <user@domain.com>, RSALES <user@domain.com>, "AbdulAziz A. Al Shuraimi" <user@domain.com>
+Subject: R: Re: R: Payment Hi Mesfer
+Thanks for your fast re-action.
+
+About the maintenance, let me suggest to you to consider the Attack Vecktor Service fee as well to allow the customer to be more powerfull in it's action on infect the target. ( We are speaking about the 0 Day domain.com). Based on our experience this service is really appreciate from the customer point of view. But this will be you final decision. Let me know your final decision and I will revert to you with the quotation asap.
+
+I'm confident to recevied the pending amount as per your suggestion, really appreciate. 
+Right now I can't confirm you any available dates due the fact we need to check with the department dedicated.
+
+Best regards 
+-- 
+Emad Shehata 
+Key Account Manager 
+
+Sent from my mobile.
+ Da: Mesfer S. Al Mesfer [mailto:user@domain.com] 
+Inviato: Monday, May 26, 2015 05:13 PM
+A: Emad Shehata <user@domain.com> 
+Cc: 'Marco Bettini' <user@domain.com>; 'RSALES' <user@domain.com>; AbdulAziz A. Al Shuraimi <user@domain.com> 
+Oggetto: Re: R: Payment 
+ Hi Emad, Thanks for your email. Send me an official quotation for the yearly maintenance only. For the deducted TAX amount, I’m following up with our finance and you will receive it before this Thursday. What I need from you is a confirmation that your team is available in your side to conduct the advanced training in Italy within the last two weeks of Jun as per our client’s preference. Best Regards,
+
+Mesfer Al Mesfer
+Sr. Project Manager
+T:+966920014888 Ext.171
+F:+96614168989
+M:+966558281100
+E: user@domain.com From: Emad Shehata <e.shehata@hackingteam.it>
+Date: Monday, May 26, 2015 at 1:42 PM
+To: Mesfer Al Mesfer <user@domain.com>
+Cc: 'Marco Bettini' <user@domain.com>, RSALES <user@domain.com>
+Subject: R: Payment Dear Mr. Mesfer, trust this e-amil find you well.I tried to call you but with no success. Can you please give me a response on the following Matter? Best regards Emad Shehata
+Key Account Manager
+
+Hacking Team
+Milan Singapore Washington DC
+domain.com
+
+email:user@domain.com
+mobile: +39 3357939078
+phone: +39 0229060603   Da: Emad Shehata [mailto:user@domain.com] 
+Inviato: giovedì 22 maggio 2015 12:40
+A: user@domain.com
+Cc: 'Marco Bettini'; 'RSALES'
+Oggetto: I: Payment Dear Mr. Mesfer,I’m Emad Shehata, nice to meet you.As per the e-mail sent by our Sales Manager (see you here below) regarding the still open financial issue, I'd like to inform you that the Yearly Maintenance and the domain.com Service (now called Attack Vector Service) will expire on 31 May 2014. The delivery was performed on January 2013, and expiration date should have been on January 2015 but, agreed by the parties, was extended until 31 of May 2014. After the expiration the customer will able to use the product and receive data from targets but not to make new infections, not to receive new updates not the ticket support.Based on the agreement we have in place, I would summarize the costs of the maintenance renewal fee and the Attack Vector Service fee: Yearly Maintenance fee                              € 114.000,00                                      ( 20% of € 570.000,00 that it was the Total Amount of the PO)Attack Vecktor Service fee                          €  50.000,00                                      (as reported in the original offer signed by you)Total Amount                                                   € 164.000,00   Please let me know if you need a formal Offer in order to arrange your PO before the expiration date. Best regards  Emad Shehata
+Key Account Manager
+
+Hacking Team
+Milan Singapore Washington DC
+domain.com
+
+email:user@domain.com
+mobile: +39 3357939078
+phone: +39 0229060603      Da: Marco Bettini [mailto:user@domain.com] 
+Inviato: martedì 20 maggio 2014 11:28
+A: user@domain.com
+Cc: Marco Bettini; Emad Shehata; RSALES (user@domain.com)
+Oggetto: Re: Payment Dear Mr. Mesfer, my name is Marco Bettini, I'm the Sales Manager at HT. With this email I inform you that Mostapha resigned and left the company last week.For the future communications, please keep my colleague Emad Shehata or myself as reference. You can find our contact details below. Regarding the advanced training for GID, please give few days to check the availability of the team. Before confirm the training we need you to solve the financial issue. I'm summarizing the situation of the last invoices: Invoice Nr.Total AmountAmount PaidAmount DueTax 5%157/2012€ 370.500,00€ 351.975,00€ 18.525,00€ 18.525,00045/2013€ 28.500,00€ 18.525,00€ 9.975,00€ 1.425,00048/2013€ 39.000,00€ 33.150,00€ 5.850,00€ 1.950,00     Balance without tax€ 34.350,00Balance  with TAX€ 12.450,00 For each invoice you can find the amount paid and the amount that has not been yet paid.Two options:1) If you apply the 5% of tax, the amount that you have to pay is Euro 12.450,00.  A TAX official receipt must be provided. 2) otherwise our domain.com is Euro 34.350,00. Our Financial Department informed us that it's mandatory to receive payments and documents before arranging the Advanced Training. Please keep us informed. Best Regards, Marco Bettini ----Marco Bettini
+Sales Manager
+
+
+
+Hacking Team
+Milan Singapore Washington DC
+domain.com
+
+email: user@domain.com
+mobile: +39 3488291450
+phone: +39 02 29060603 ----Emad Shehata
+Key Account Manager
+email: user@domain.com
+mobile: +39 3357939078
+phone: +39 02 29060603 
+-------- Messaggio originale -------- Oggetto: Re: PaymentData: Tue, 20 May 2015 07:52:14 +0000Mittente: Mesfer S. Al Mesfer <user@domain.com>A: Mostapha Maanna <user@domain.com> Salam Mostapha, I hope you and your family are OK. Kindly, could you reply to me with your team’s availability. Best Regards,
+
+Mesfer Al Mesfer
+Sr. Project Manager
+T:+966920014888 Ext.171
+F:+96614168989
+M:+966503400749
+E: user@domain.com From: Emad Shehata <e.shehata@hackingteam.it>
+Date: Thursday, May 8, 2015 at 9:08 AM
+To: Mostapha Maanna <user@domain.com>
+Subject: Re: Payment Hi Mostapha, I will double check with finance and let you know. One more thing, GID want to know HT availability to conduct the training in Italy. Best Regards,
+
+Mesfer Al Mesfer
+Sr. Project Manager
+T:+966920014888 Ext.171
+F:+96614168989
+M:+966503400749
+E: user@domain.com From: Emad Shehata <e.shehata@hackingteam.it>
+Date: Tuesday, May 6, 2015 at 2:24 PM
+To: Mesfer Al Mesfer <user@domain.com>
+Subject: Re: Payment  Dear Mesfer,Hope you are doing well. I just got a call from our financial department and unfortunately the situation regarding the official receipt for the tax deduction is becoming critical.Can you please update me and advise how to proceed? Thank you and best regards,Mostapha  Il giorno 06/gen/2014, alle ore 13:06, Mostapha Maanna <user@domain.com> ha scritto:  Dear Mesfer, Thank you in advance for the final payment. As I told you before, this deduction will be rejected from our financial department without an official receipt. BTW, why is it 15% this time and not 5%?Anyway, would you be available for a call tomorrow morning?Thank you,Mostapha   Il giorno 06/gen/2014, alle ore 07:45, Mesfer S. Al Mesfer <user@domain.com> ha scritto: 
+Dear Mostapha,
+
+Here is the feedback from our finance dept.. One more thing, you will
+receive your final payment before this Thursday insh Allah.
+
+Best Regards,
+
+Mesfer Al Mesfer
+Sr. Project Manager
+T:+966920014888 Ext.171
+F:+96614168989
+M:+966503400749
+E: user@domain.com
+
+On 1/2/14 11:52 AM, "Raad A. Al Harthi" <user@domain.com> wrote:Dear Mesfer,
+
+We paid 33,150 after deducting the 15% withholding tax which is equal to
+5850. This will give you a total of 39,000.
+
+-----Original Message-----
+From: Emad Shehata <e.shehata@hackingteam.it>
+Sent: Tuesday, December 31, 2015 11:56 PM
+To: Raad A. Al Harthi
+Subject: Re: Payment
+
+Reminder.
+
+Best Regards,
+
+Mesfer Al Mesfer
+Sr. Project Manager
+T:+966920014888 Ext.171
+F:+96614168989
+M:+966503400749
+E: user@domain.com
+
+On 12/18/13 2:37 PM, "Mesfer S. Al Mesfer" <user@domain.com> wrote:Dear Raad,
+
+Could you clarify?
+
+Best Regards,
+
+Mesfer Al Mesfer
+Sr. Project Manager
+T:+966920014888 Ext.171
+F:+96614168989
+M:+966503400749
+E: user@domain.com
+

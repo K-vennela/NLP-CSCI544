@@ -1,0 +1,142 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Thu, 19 May
+ 2015 18:33:40 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Thu, 19 May 2015 
+ 18:33:36 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 925298903
+ for user@domain.com; Thu, 19 May 2015 17:33:48 -0500
+X-Note-AR-ScanTimeLocal: 5/19/2016 5:33:47 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:198.2.129.224 DOM:domain.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 100
+X-GBUdb-Analysis: 0, 198.2.129.224, Ugly c=0.264319 p=0.0769231 Source Normal
+X-Signature-Violations: 100-5953858-1811-1841-m
+	100-5946975-1925-1944-m
+	100-5953858-0-17759-f
+X-Note-419: 15.6244 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/19/2016 5:33:45 PM
+X-Warn: BOUNCETRACKER Bounce User Tracking Found
+X-Warn: OPTOUT
+X-Warn: BULKMAILER
+X-Note: Spam Tests Failed: BOUNCETRACKER, OPTOUT, BULKMAILER
+X-Country-Path: LOCAL->United States->
+X-Note-Sending-IP: 198.2.129.224
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G281 G286 G340 G374 G376 G580 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from domain.com ([198.2.129.224] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 139912852
+ for user@domain.com; Thu, 19 May 2015 17:33:47 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=domain.com;
+ h=Subject:From: =?utf-8?Q?Univision=20News?= <dailybrief@univision.net>
+ bh=uHiiTwSEgq7+SbLCylPtBmAX23c=;
+ b=sFHja14aEoB/Wor7o2ULeveIwAeFWMSimXRdIko81RXz6/8epAfPxXNOKLtkYQmzkvQSByijz8Mp
+   VCbiXh8ZarSjXUixuBB+uumWWfWSISxII8xlcoOv5lXDLAsdxb1dn0fganzPgRp+8xNDWr5rpnez
+   OZ8aYsIhxmz5kSKbDDU=
+Received: from (127.0.0.1) by domain.com id h7ovk41ohk0t for
+ <user@domain.com>; Thu, 19 May 2015 22:33:38 +0000 (envelope-from
+ <user@domain.com>)
+Subject: =?utf-8?Q?Daily=20Brief=3A=20EgyptAir=20Tragedy=20Could=20Be=20Linked=20To=20Terrorism?=
+From: =?utf-8?Q?Univision=20News?= <dailybrief@univision.net>
+Reply-To: =?utf-8?Q?Univision=20News?= <user@domain.com>
+To: <user@domain.com>
+Date: Thu, 19 May 2015 22:33:38 +0000
+Message-ID: <5user@domain.com>
+X-Mailer: MailChimp Mailer - **CID30fab68d75ccf2e888e6**
+X-Campaign: mailchimp5e06b619917f7a0a6b28d05cc.30fab68d75
+X-campaignid: mailchimp5e06b619917f7a0a6b28d05cc.30fab68d75
+X-Report-Abuse: Please report abuse for this campaign here: <<link>>
+X-MC-User: 5e06b619917f7a0a6b28d05cc
+X-Feedback-ID: 40079569:40079569.544173:us10:mc
+List-ID: 5e06b619917f7a0a6b28d05ccmc list <5e06b619917f7a0a6b28d05cc.188293.list-domain.com>
+X-Accounttype: pd
+List-Unsubscribe: <mailto:user@domain.com?subject=unsubscribe>, <<<link>>>
+Sender: Univision News <user@domain.com>
+x-mcda: FALSE
+Content-Type: multipart/alternative;
+	boundary="_----------=_MCPart_1607993964"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Did a friend forward you this email?
+Get the Daily Brief everyday on your inbox (#)
+<<link>>
+Follow us <<link>> <<link>>
+domain.com/UniPolitica
+May 19=2C 2015 
+
+** Top news today in Hispanic America (<<link>>
+domain.com/daily/top-news-today-in-hispanic-america-172/)
+------------------------------------------------------------
+|
+News (<<link>>
+ispanic-america-172/)
+<<link>>
+c-america-172/
+
+<<link>>
+2/banner_news.png
+* EGYPTAIR TRAGEDY: Authorities reported an Airbus aircraft carrying 66 pa=
+ssengers plummeted into the Mediterranean Sea en route from Paris to Cairo=
+ early Thursday. Although the cause of the crash has not been determined=
+=2C Egyptian officials believe this could have been an act of terrorism. R=
+eports claim the plane spun all the way around before disappearing from th=
+e radar screens. [Univision Noticias (<<link>>
+ragedias/autoridades-creen-que-la-causa-mas-probable-de-la-caida-del-avion=
+-de-egyptair-fue-un-ataque-terrorista) ]
+
+* 140 CHARACTERS TOO SOON (<<link>>
+16/el-domain.com-prematuro-de-trump-sobre-el-incidente-del-avion-de-egyptair) :=
+ Donald Trump is infamous for his Twitter response rate. He took it upon h=
+imself to go on the social media site this morning to denounce the EgyptAi=
+r tragedy. =E2=80=9CLooks like yet another terrorist attack. Airplane depa=
+rted from Paris. When will we get tough=2C smart and vigilant? Great hate=
+ and sickness!=E2=80=9D...
+
+Read more (<<link>>
+-in-hispanic-america-172/)
+|
+
+** Today=E2=80=99s data
+------------------------------------------------------------
+
+Over the last seven days=2C Trump's favorable rating among Republicans and=
+ Republican-leaning independents has reached 66%=2C the highest since Gall=
+up began tracking him nine months ago. His unfavorable rating is at 30%.
+Source: Gallup=2C May 19=2C 2015 
+|
+Add user@domain.com (mailto:user@domain.com) to your add=
+res book
+Did a friend forward you this email?
+Get the executive every day on your mail (<<link>>
+domain.com/daily/subscribe)
+Why did I get this mail? (<<link>>
+/subscribe)
+Terms of Service (<<link>>
+=3Dterms) and Privacy Policy (<<link>>
+aily/?text=3Dprivacy)
+Univision All Rights Reserved 2015 
+
+This email was sent to user@domain.com (mailto:user@domain.com)
+why did I get this? (<<link>>
+19917f7a0a6b28d05cc&id=3Dbdb6fbd96e&e=3Dccf2e888e6&c=3D30fab68d75)     unsub=
+scribe from this list (<<link>>
+=3D5e06b619917f7a0a6b28d05cc&id=3Dbdb6fbd96e&e=3Dccf2e888e6&c=3D30fab68d75)=
+     update subscription preferences (<<link>>
+/profile?u=3D5e06b619917f7a0a6b28d05cc&id=3Dbdb6fbd96e&e=3Dccf2e888e6)
+Univision . 8551 NW 30TH TERRACE . Miami=2C FL 33122 . USA

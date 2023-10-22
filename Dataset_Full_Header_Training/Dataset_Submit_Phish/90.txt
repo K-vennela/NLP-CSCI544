@@ -1,0 +1,44 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [10.5.6.7])
+	by domain.com (Postfix) with ESMTP id E8551468D5
+	for <user@domain.com>; Wed, 12 Jul 2015 20:17:59 -0400 (EDT)
+Received: from crownprepress (unknown [209.60.29.74])
+	by domain.com (Postfix) with ESMTP id 027AE6CCF97
+	for <user@domain.com>; Wed, 12 Jul 2015 20:18:00 -0400 (EDT)
+Received: by crownprepress (Postfix, from userid 1039)
+	id 6130BC96F56; Wed, 12 Jul 2015 20:12:05 -0400 (EDT)
+To: user@domain.com
+Subject: Technical services of the Chase Bank.
+From: chaseonline@chase.com <chaseonline@chase.com>
+Content-Type: text/html
+Message-Id: <20060713001205.6130user@domain.com>
+Date: Wed, 12 Jul 2015 20:12:05 -0400 (EDT)
+Status: 
+X-Status: 
+X-Keywords: 
+
+Dear
+client of Chase Bank,
+
+Technical
+services of the Chase Bank are carrying out a planned software
+upgrade. We earnestly ask you to domain.com the following link to start the
+procedure of confirmation on customers data.
+
+To get
+started, please click the link below:
+
+<<link>>
+
+This
+instruction has been sent to all bank customers and is obligatory to
+fallow.
+
+Thank
+you,
+
+Customers
+Support Service.
+

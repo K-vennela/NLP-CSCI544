@@ -1,0 +1,300 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Fri, 29 Apr
+ 2015 17:32:49 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Fri, 29 Apr 2015 
+ 17:32:39 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 888545917
+ for user@domain.com; Fri, 29 Apr 2015 16:32:50 -0500
+X-Note-AR-ScanTimeLocal: 4/29/2016 4:32:48 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @skdknick.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->->United States->
+X-Note-Sending-IP: 157.56.111.136
+X-Note-Reverse-DNS: mail-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from [157.56.111.136] (HELO
+ na01-bn1-domain.com)  by domain.com
+ (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 135945306 for user@domain.com;
+ Fri, 29 Apr 2015 16:32:48 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=domain.com; s=selector1-skdknick-com;
+ h=From: Sam Michel <smichel@skdknick.com>
+ bh=SWMeqqL77/fpaJv9nB5jtuiIfyn2BfGP7/hXcoyEeZ8=;
+ b=RU7y17tzvusFrtovkEq3s+2eFEYvjUYR3QRtVXHr/7pDo2l1XkjN/3xRCrH0syDA5fsTTOOUFoXpZP2Gk0RwMnsEYOyTkxuQlS8d/7Z0iih6d+Roj+oStQ01KbPJNRDeyHYgkU15EQ6DcUaXLHjxV9kufIDrSuXuKZB20VjvztU=
+Received: from domain.com (10.160.150.155) by
+ domain.com (10.160.150.16) with Microsoft SMTP
+ Server (TLS) id 15.1.477.8; Fri, 29 Apr 2015 21:32:45 +0000
+Received: from domain.com ([10.160.150.155]) by
+ domain.com ([10.160.150.155]) with mapi id
+ 15.01.0477.014; Fri, 29 Apr 2015 21:32:45 +0000
+From: Sam Michel <smichel@skdknick.com>
+To: Sam Michel <user@domain.com>
+Subject: Today from the Constitutional Responsibility Project
+Thread-Topic: Today from the Constitutional Responsibility Project
+Thread-Index: AdGiXjkjxsidipgNTtyW+B/7F/VHAA==
+Date: Fri, 29 Apr 2015 21:32:45 +0000
+Message-ID: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+authentication-results: skdknick.com; dkim=none (message not signed)
+ header.d=none;skdknick.com; dmarc=none action=none header.from=skdknick.com;
+x-originating-ip: [50.193.144.129]
+x-ms-office365-filtering-correlation-id: 6f4ca86a-7107-496f-182d-08d37075cde4
+x-microsoft-exchange-diagnostics: 1;CY1PR0701MB1403;5:FXEoADIrkVeVT+rUPlTMaElzfFGbnzDAYS4CHTCTcpu0i4ptPOkweXB8zNEdHfJDZM9u1vr7urxbzqkrLzkFBPU/R5H4dZH/wj2G1Gb4Jvxl4i7vZKCl8WKTa1ZPgv3bljd7WpWIRxXXtHmnL8FrFg==;24:Qh6IpPa4PD7G94OiE79U7kFLzlAbWwTrLFgomPtreMh2sVtIST71csTwo9HdauP5AnWlBhjF0cbFmc6XgeQtljkkdzM5LMzCfXEWHHMfDKI=;7:JZXl1Z0Ps8XN+QhrjCYyJlVtqTt4IJdJVqWVGy0u/iFnu6cP5D0vf3keRBrwPb8L6+8XlKfFKxKgyYvyYlUDCVvDialq9DF/HvrRi7lSM4IHkyzU33j6C32DX5k6u4OM4C5xQfE55XqInp/OrT2dhOQz7+tqSk6uTQjufRS2XKs0NpKneCzoBurtin5sb5Bo
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:;SRVR:CY1PR0701MB1403;
+x-ld-processed: 51f4a8d4-10a8-4d6c-bc10-f2546164f7db,ExtAddr
+x-microsoft-antispam-prvs: <user@domain.com>
+x-exchange-antispam-report-test: UriScan:;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(9101521072)(601004)(2401047)(8121501046)(5005006)(3002001)(10201501046);SRVR:CY1PR0701MB1403;BCL:0;PCL:0;RULEID:;SRVR:CY1PR0701MB1403;
+x-forefront-prvs: 0927AA37C7
+x-forefront-antispam-report: SFV:NSPM;SFS:(10019020)(243025005)(37854004)(377454003)(111735001)(11905935001)(5008740100001)(99286002)(76576001)(66066001)(9686002)(2900100001)(92566002)(5003600100002)(10400500002)(81166005)(19300405004)(77096005)(87936001)(189998001)(229853001)(6200100001)(107886002)(110136002)(15975445007)(19617315012)(5002640100001)(3280700002)(3660700001)(50986999)(2906002)(3846002)(790700001)(6116002)(16236675004)(102836003)(122556002)(33656002)(15395725005)(19625215002)(86362001)(4001450100002)(586003)(1220700001)(74316001)(19580405001)(19580395003)(1096002)(54356999)(11100500001)(7059030)(15398625002);DIR:OUT;SFP:1102;SCL:1;SRVR:CY1PR0701MB1403;H:domain.com;FPR:;SPF:None;MLV:sfv;LANG:en;
+spamdiagnosticoutput: 1:23
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_CY1PR0701MB14018A821D29E22B04FC3CDCD8660CY1PR0701MB1401_"
+X-MS-Exchange-CrossTenant-originalarrivaltime: 29 Apr 2015 21:32:45.1409
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 51f4a8d4-10a8-4d6c-bc10-f2546164f7db
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: CY1PR0701MB1403
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Pennsylvania voters overwhelmingly oppose Sen. Pat Toomey's obstruction of =
+Chief Judge Merrick Garland's Supreme Court nomination.
+Today, the Constitutional Responsibility Project released its first televis=
+ion ad. The 30-second spot<<<link>>> showcases Sen. Too=
+mey's (R-PA) unprecedented refusal to consider any Supreme Court nominee an=
+d calls on Sen. Toomey to put the Constitution before his politics. The ad =
+will air in the Philadelphia media market over the Senate recess.
+
+Additionally, the Constitutional Responsibility Project, in conjunction wit=
+h the League of Conservation Voters, released a new survey of Pennsylvania =
+voters conducted by Hart Research. The survey found that Pennsylvania voter=
+s support giving Judge Garland a hearing and an up-or-down vote and strongl=
+y disapprove of the positon Senate Republican leadership has taken on this =
+matter.
+
+"This poll shows that Pennsylvanians strongly believe that Senator Toomey a=
+nd others must give the president's nominee both a fair hearing and a timel=
+y vote, and LCV members couldn't agree more.  Nearly 150,000 of them have s=
+igned a petition calling on the Senate to do its job, including nearly 5,00=
+0 in Pennsylvania alone," said Tiernan Sittenfeld, Senior Vice President of=
+ Government Affairs, League of Conservation Voters.
+
+A full memo from Hart Research Associates outlining the survey's findings a=
+nd polling method can be found HERE<<<link>>
+s/2016/04/WN9-PA.pdf>.
+
+Key findings from the Constitutional Responsibility Project and the League =
+of Conservation Voters survey include:
+
+  *   By a margin of 56 percent to 37 percent, Pennsylvania voters say the =
+Senate should hold hearings and give Chief Judge Garland an up-or-down-vote=
+.
+     *   Independent voters agree with this position by an event larger mar=
+gin - 60 percent to 36 percent.
+  *   After voters hear the pros and cons on Senator Toomey's positon on th=
+e Supreme Court vacancy, feelings toward him become notably less favorable.
+     *   Independents move from a small net positive view of Toomey (24 per=
+cent positive, 18 percent negative) to a large net negative opinion of him =
+(24 percent positive, 50 percent negative).
+  *   At the start of the survey, 43 percent of voters said they were incli=
+ned to vote for Senator Toomey over his Democratic challenger. After being =
+told about his stance on Judge Garland's nomination, 46 percent of voters s=
+aid they are less likely to support Senator Toomey.
+  *   16 percent of voters said they would be more open to voting for the D=
+emocratic challenger as a result of Senator Toomey's opposition to hearings=
+ and a vote for Judge Garland.
+
+Wisconsin voters do not approve of Sen. Johnson's Supreme Court obstruction=
+.
+Roll Call<<<link>>
+on/> reports on a new poll finding that Sen. Ron Johnson's (R-WI) continued=
+ refusal to consider Chief Judge Garland's nomination runs counter to the v=
+alues of Wisconsin voters.
+
+"60 percent of likely Wisconsin voters want to see the president and Senate=
+ take action to fill the vacancy now... Roughly half of voters felt that by=
+ blocking Obama's nominee, senators were "trying to advance their party's a=
+genda rather than doing what is right for the country."
+
+After meeting with Chief Merrick Garland yesterday, Sen. Gary Peters lauds =
+his "impeccable legal credentials.
+The domain.com News<<<link>>
+peters-urges-senate-vote-impeccable-garland/83654934/> reports:
+
+Sen. Peters (D-MI): "He comes to this nomination with ... impeccable legal =
+credentials. On top of that, he has the domain.com of already being confirmed =
+for his current position with broad bipartisan support. So this is the type=
+ of candidate that certainly deserves to have a hearing.""
+
+Chief Judge Garland is exactly the type of jurist we want on the Court.
+Former U.S. solicitor general Ted Olson writes in the Wall Street Journal<h=
+ttp://domain.com/articles/a-supreme-court-challenge-for-democrats-14618850=
+48>:
+
+Ted Olson, former U.S. solicitor general: "Mr. Garland is extraordinarily w=
+ell qualified...Throughout his career, he has impressed his colleagues and =
+his legal adversaries with his leadership, sense of fairness, and respect f=
+or the law. He has been a judge for 19 years and is now chief judge on the =
+U.S. Court of Appeals for the D.C. domain.com, considered by many to be the se=
+cond-most-important court in the country. Scalia and three current justices=
+ also served on the D.C. domain.com. By temperament, character and qualificati=
+ons, Judge Garland is precisely the kind of jurist we want on the Supreme C=
+ourt.  For Republicans, there is much to recommend giving Mr. Garland a goo=
+d look, a respectful hearing and a vote on the merits."
+
+Chief Judge Garland will approach the legal issues that face the disability=
+ community with thought and care.
+Michael Waterston, an expert in disability and civil rights law, reviewed C=
+hief Judge Garland's record and found him to be a thoughtful and fair juris=
+t.
+
+Michael Waterstone, disability and civil rights law expert: "How will Justi=
+ce Garland rule on the important issues facing the disability community - t=
+hings like whether websites need to be accessible to individuals who are bl=
+ind, or how far employers need to go in providing accommodations to workers=
+ with disabilities, or whether voters with disabilities are entitled to sec=
+ret and independent ballots, like everyone else? I don't know...But I do fe=
+el confident that Justice Garland would approach the questions carefully an=
+d thoughtfully, and without a predefined agenda against the rights of domain.com=
+e with disabilities."[Loyola Law School, 4/28/16<<<link>>
+s.edu/2016/04/garland-on-rights-of-people-with.html>]
+
+A look ahead at a sampling of activity by our grassroots allies:
+
+SATURDAY 4/30/16
+
+Event: #DoYourJob Day of Action canvasses
+Location: Manchester, Nashua, Concord, Dover, Keene and Portsmouth, NH
+Time: 9AM local time
+Host: AUFC-NH, NextGenNH, NH SEIU, PFAW-NH
+Press Contact: Liz Purdy, 603-731-2200, user@domain.com<mailto:user@domain.com=
+domain.com>
+
+Event: #DoYourJob Sen. Grassley Event
+Location: Iowa Southwestern Community College, 1501 W Townline St, Creston,=
+ IA
+Time: 12:00 PM local time
+Host: Americans United for Change
+Press Contact: Derek Eadon, user@domain.com<mailto:user@domain.com=
+domain.com>
+
+SUNDAY 5/01/16
+Event: #DoYourJob Sen. Grassley Event
+Location: Tyson's Center Parking Lot, Sioux City, IA
+Time: 12:00 PM local time
+Host: Americans United for Change
+Press Contact: Derek Eadon, user@domain.com<mailto:user@domain.com=
+domain.com>
+
+MONDAY 5/02/16
+
+Event: Press call to announce recess #DoYourJob recess events
+Time: 11AM ET
+Key briefers/speakers: Mary Kay Henry, SEIU International President; Cecile=
+ Richards, President, Planned Parenthood Federation of America; Mar=EDa Ter=
+esa Kumar, President & CEO, Voto Latino; Michael Brune, Executive Director,=
+ Sierra Club; Brad Woodhouse, President, Americans United for Change
+Press Contact and RSVP information: Sara Lonardo, user@domain.com<mai=
+lto:user@domain.com>
+
+Event: #DoYourJob Sen. Grassley Event
+Location: Davenport, IA
+Host: Americans United for Change
+Press Contact: Derek Eadon, user@domain.com<mailto:user@domain.com=
+domain.com>
+
+Event: Don't Trump the Courts Harrisburg event
+Location: Event outside of Sen. Toomey's office, 228 Walnut St # 1104, Harr=
+isburg, PA 17101
+Time: 10AM local time
+Host: Americans United for Change
+Press Contact: Aletheia Henry, 614-668-5116, user@domain.com=
+g.com<mailto:user@domain.com>
+
+Event: Don't Trump the Courts Philadelphia event
+Location: Event outside of Sen. Toomey's office, 1628 John F Kennedy Blvd #=
+1702, Philadelphia, PA 19103
+Time: 4PM local time
+Host: Americans United for Change
+Press Contact: Aletheia Henry, 614-668-5116, user@domain.com=
+g.com<mailto:user@domain.com>
+
+TUESDAY 5/03/16
+
+Event: Don't Trump the Courts Allentown event
+Location: Event outside of Sen. Toomey's office, 1150 S Cedar Crest Blvd # =
+101, Allentown, PA 18103
+Host: Americans United for Change
+Press Contact: Aletheia Henry, 614-668-5116, user@domain.com=
+g.com<mailto:user@domain.com>
+
+Event: #DoYourJob Sen. Grassley Event
+Location: Outside of Senator Grassley's Waterloo Office, 210 Waterloo Build=
+ing 531 Commercial Street Waterloo, IA
+Host: Americans United for Change
+Press Contact: Derek Eadon, user@domain.com<mailto:user@domain.com=
+domain.com>
+
+Event: #DoYourJob Sen. Blunt Event
+Location: Outside of Senator Blunt's St. Louis Office, 7700 Bonhomme,Clayto=
+n, MO 63105
+Host: Americans United for Change
+Press Contact: Martin Casas, user@domain.com<mailto:user@domain.com=
+
+Event: #DoYourJob Sen. Blunt Event
+Location: Missouri State Capitol, 201 W Capitol Ave, Jefferson City, MO 651=
+01
+Host: Americans United for Change
+Press Contact: Martin Casas, user@domain.com<mailto:user@domain.com=
+
+WEDNESDAY 5/04/16
+
+Event: Portsmouth #DoYourJob event
+Location: Sen. Ayotte's Office, 14 Manchester Square, Ste 140
+Portsmouth, NH 03801
+Time: 12PM local time
+Host: Americans United for Change
+Press Contact: Lucas Meyer, 603-568-2511
+
+Event: Des Moines #DoYourJob event
+Location: Sen. Grassley's Office, 210 Walnut St #721, Des Moines, IA 50309
+Time: 12PM local time
+Host: Americans United for Change
+Press Contact: Derek Eadon, 515-954-8630, user@domain.com<mail=
+to:user@domain.com>
+
+Event: Springfield #DoYourJob event
+Location: Sen. Blunt's office, 260 Russell Senate Office Bldg, Washington, =
+DC 20510
+Host: Americans United for Change
+Press Contact: Martin Casas, user@domain.com<mailto:user@domain.com=
+
+Event: Kansas City #DoYourJob event
+Location: Sen. Blunt's office, 1000 Walnut Street, Suite # 1560
+Kansas City, MO 64106
+Host: Americans United for Change
+Press Contact: Martin Casas, user@domain.com<mailto:user@domain.com=
+
+###
+

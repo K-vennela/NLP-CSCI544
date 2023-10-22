@@ -1,0 +1,47 @@
+Hi co-authors,
+here are some thoughts on what to say on climate sensitivity in our chapter - this is an
+attempt to focus on the main, simple messages for policy makers. (I think we should try
+retaining those important messages and not lose sight of them amidst all the details,
+complexity and caveats.)
+The main policy-relevant question could be phrased as follows: Does the past climate
+history tell us how sensitive the climate system is to CO2?
+I submit that the answers to this we get from different time periods are the following.
+Deep Time:
+Reconstructions are too uncertain (and boundary conditions too different, e.g. continents
+in different places, different ocean circulation) to draw quantitative conclusions about
+sensitivity to CO2, but there is clear evidence that times of high CO2 in Earth history
+tend to be ice free (Royer et al. 2004). A second piece of evidence is the Late Paleocene
+Thermal Maximum, which shows that the climate has responded by warming to a large carbon
+release into the atmosphere. Just how large this carbon release was is not known, since
+several origins of the carbon are possible, which have different isotope signature and
+would thus imply different amounts. But the temperature response was large (6K), and if
+anything this response would point to a high sensitivity.
+Glacial-Interglacial Changes:
+We have by now sufficiently good quantitative reconstructions of CO2 and other forcings as
+well as temperatures in order to derive useful quantitative estimates of climate
+sensitivity. LGM was the most recent time in history in which CO2 concentration differed
+greatly from pre-industrial values, by as much as it does now. It is the closest test case
+for response to CO2 changes that we have.
+There are two basic methods to derive climate sensitivity:
+(i) Based on data analysis - e.g. Lorius et al. 1991 (concluding sensitivity is 3-4 K).
+This method has the caveat that this sensitivity applies to colder climate, which may
+differ somewhat from that which applies in present climate as the strength of feedbacks is
+expected to depend on the mean climate (e.g., stronger snow-albedo feedback in colder
+conditions).
+(ii) Based on combining data and models - e.g. Schneider von Deimling et al. 2004. Does not
+have the above caveat, but depends on models.
+Lag of CO2 behind temperature does not imply a lack of CO2 effect on climate, since the lag
+is small (centuries, not millennia).
+Holocene, last millennium
+??
+Overall conclusions
+Qualitatively, climate history is at least consistent with the accepted CO2 sensitivity.
+There is no evidence for much lower or much higher CO2 sensitivity (note that CO2 is not
+the only forcing). The more recent climate history (as far back as ice core data go) does
+allow quantitative inferences. The results of these estimates all lie within the IPCC range
+and provide strong support for this. Paleodata may even allow to reduce this range, since
+at least one study argues that values above 4K are very likely inconsistent with the
+reconstructed LGM climate: for high CO2 sensitivity, tropical cooling in the glacial should
+have been larger.
+Cheers,
+Stefan

@@ -1,0 +1,58 @@
+From: "Variety Breaking News" <donotreply@variety.com>
+To: "User"
+Subject: Starz' Chris Albrecht: OTT Distribution 'Is a Tide That Has To Turn'
+Date: Thu, 30 Oct 2015 13:30:46 -0400
+Message-ID: <20141030173046.3268214.33516@domain.com>
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQI7t68fsTlhoZi5MgdJzAKYfOhzwA==
+Content-Language: en-us
+x-ms-exchange-organization-authas: Internal
+x-ms-exchange-organization-authmechanism: 10
+x-ms-exchange-organization-authsource: domain.com
+x-forefront-antispam-report: CIP:64.34.57.228;CTRY:US;SRV:BULK;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BL2FFO11HUB030;H:mx-domain.com;FPR:;LANG:en;
+x-eopattributedmessage: 0
+x-microsoft-antispam: BCL:6;PCL:0;RULEID:(82001)(120001);SRVR:BL2FFO11HUB030;
+dkim-signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1414690246;	s=sailthru; d=variety.com;	h=Date:From: "Variety Breaking News" <donotreply@variety.com>
+x-exchange-antispam-report-test: UriScan:;
+List-Unsubscribe: <<<link>>>, <mailto:user@domain.com>
+x-unsubscribe-web: <<link>>
+x-iadb-ip-reverse: 50.56.18.172
+x-iadb-url: <<link>>
+x-iadb-ip: 172.18.56.50
+x-rpcampaign: stcoy3268214
+x-tm-id: 20141030173046.3268214.33516
+x-info: user@domain.com
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+Starz CEO Chris Albrecht has come out strongly in favor of embracing over-the-top distribution o...
+
+​
+
+Breaking News
+
+Thursday, October 30, 2014
+
+​
+
+Starz' Chris Albrecht: OTT Distribution 'Is a Tide That Has To Turn'
+
+Starz CEO Chris Albrecht has come out strongly in favor of embracing over-the-top distribution options for the pay TV group in th...
+
+Full Story
+
+Check out the redesigned Variety411
+
+This email was sent to user@domain.com by Variety. To ensure delivery to your inbox (and not your spam folder), please add user@domain.com to your address book. If you prefer not to continue receiving email communications, please unsubscribe here instead of replying to this email.
+
+To update your profile and customize what email alerts and newsletters you receive, please click here.
+
+Having trouble reading this email? View the web version here.
+
+Copyright © 2014 Variety Media, LLC, a subsidiary of Penske Business Media.
+1​1​1​7​5 Santa Monica Blvd. Los Angeles, CA 9​0​0​2​5
+
+Variety and the Flying V logos are trademarks of Variety Media, LLC., used under license.
+

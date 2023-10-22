@@ -1,0 +1,59 @@
+Status: RO
+From: "Emanuele Placidi" <e.placidi@hackingteam.com>
+Subject: permission
+To: Diego Giubertoni
+Date: Fri, 29 May 2015 08:53:09 +0000
+Message-Id: <556828user@domain.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1301705985_-_-"
+
+W/DevicePolicyManagerService(  933): Failed loading admin 
+com.android.dvci/.listener.AR
+W/DevicePolicyManagerService(  933): java.lang.IllegalArgumentException: 
+Unknown admin: ComponentInfo{com.android.dvci/com.android.dvci.listener.AR}
+W/DevicePolicyManagerService(  933):     at 
+com.android.server.DevicePolicyManagerService.findAdmin(DevicePolicyManagerService.java:733) 
+
+W/DevicePolicyManagerService(  933):     at 
+com.android.server.DevicePolicyManagerService.loadSettingsLocked(DevicePolicyManagerService.java:865) 
+
+W/DevicePolicyManagerService(  933):     at 
+com.android.server.DevicePolicyManagerService.getUserData(DevicePolicyManagerService.java:534) 
+
+W/DevicePolicyManagerService(  933):     at 
+com.android.server.DevicePolicyManagerService.handlePackagesChanged(DevicePolicyManagerService.java:480) 
+
+W/DevicePolicyManagerService(  933):     at 
+com.android.server.DevicePolicyManagerService.access$100(DevicePolicyManagerService.java:95) 
+
+W/DevicePolicyManagerService(  933):     at 
+com.android.server.DevicePolicyManagerService$1.onReceive(DevicePolicyManagerService.java:178) 
+
+W/DevicePolicyManagerService(  933):     at 
+android.app.LoadedApk$ReceiverDispatcher$Args.run(LoadedApk.java:792)
+W/DevicePolicyManagerService(  933):     at 
+android.os.Handler.handleCallback(Handler.java:730)
+W/DevicePolicyManagerService(  933):     at 
+android.os.Handler.dispatchMessage(Handler.java:92)
+W/DevicePolicyManagerService(  933):     at 
+android.os.Looper.loop(Looper.java:137)
+W/DevicePolicyManagerService(  933):     at 
+com.android.server.ServerThread.run(SystemServer.java:1225)
+W/DevicePolicyManagerService(  933): Unknown tag: policies
+
+Puo' essere legato a quello che hai sistemato ieri >4.3 huawei y530 , 
+supersu
+
+-- 
+Emanuele Placidi
+Senior Software Developer
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com
+mobile: +39 3371115601
+phone: +39 0229060603
+

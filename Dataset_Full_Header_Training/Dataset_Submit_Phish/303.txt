@@ -1,0 +1,65 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id 333B546907
+	for <user@domain.com>; Tue,  4 Sep 2015 08:19:44 -0400 (EDT)
+Received: from domain.com (domain.com [204.181.64.8])
+	by domain.com (Postfix) with ESMTP id 40B01131FEC3
+	for <user@domain.com>; Tue,  4 Sep 2015 08:19:44 -0400 (EDT)
+Received: from domain.com (domain.com [63.119.231.19])
+	by domain.com (Postfix) with ESMTP id 356816FA1C5
+	for <user@domain.com>; Tue,  4 Sep 2015 08:19:44 -0400 (EDT)
+Received: from smpsoex2k6 ([70.159.136.100]) by domain.com with Microsoft SMTPSVC(6.0.3790.3959);
+	 Tue, 4 Sep 2015 08:19:42 -0400
+From: "Bank Of America"<service@bankofamerica.com>
+Subject: Bank Of America - Urgent Notice!!
+Date: Tue, 4 Sep 2015 08:23:59 -0500
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <user@domain.com>
+X-OriginalArrivalTime: 04 Sep 2015 12:19:42.0827 (UTC) FILETIME=[DF8873B0:01C7EEED]
+To: undisclosed-recipients:;
+Content-Length: 2015 
+Lines: 54
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 102
+
+
+
+
+Verify Your Account Details 
+
+
+
+As part of measures of ensuring a safer and more secure Banking environment. We have re-structured our Banking servers .
+Hence, we have decided to put an extra verification process to ensure your identity and account information is protected.
+ Please click on continue, to the verification process and ensure your Account information is entered correctly to get verified.It is all about your security.
+
+ Thank you.
+
+
+
+Continue To Online Banking 
+
+
+
+
+          Bank of America will 
+never ask your ATM pin
+
+
+
+Bank of America, N.A. Member FDIC. Equal Housing Lender
+
+
+
+ 2015 Bank of America Corporation. All rights reserved

@@ -1,0 +1,20 @@
+<x-flowed>
+Phil,
+Why is there so much missing data for the South Pole? The period Jan 75 thru
+Dec 90 is all missing except Dec 81, July & Dec 85, Apr 87, Apr & Sept 88,
+Apr 89. Also, from and including Aug 2003 is missing.
+Also -- more seriously but correctable. The S Pole is just represented 
+by a single
+box at 87.5S (N Pole ditto I suspect). This screws up area averaging. It 
+would be
+better to put the S Pole value in ALL boxes at 87.5S.
+I have had to do this in my code -- but you really should fix the 'raw' 
+gridded data.
+For area averages, the difference is between having the S Pole represent 
+the whole
+region south of 85S, and having (as now) it represent one 72nd of this 
+region. It
+is pretty obvious to me what is better.
+This affects the impression of missing data too of course.
+Tom.
+</x-flowed>

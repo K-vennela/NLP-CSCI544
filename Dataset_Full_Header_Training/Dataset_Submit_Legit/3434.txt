@@ -1,0 +1,20 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.200.205])
+	by domain.com (Postfix) with ESMTP id 880E12BC1F3
+	for <user@domain.com>; Thu, 28 Nov 2015 16:58:01 +0100 (CET)
+Date: Thu, 28 Nov 2015 16:58:01 +0100
+From: "Alessandro Scarafile (Confluence)" <confluence@hackingteam.com>
+To: user@domain.com
+Message-ID: <2111107042.226.1385654281518.JavaMail.CONFLUENCE$@confluence>
+Subject: [confluence] Alessandro Scarafile updated a "Events" event in the
+ "Others" calendar
+Precedence: bulk
+Auto-Submitted: auto-generated
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2135562172_-_-"
+
+  Alessandro Scarafile updated a "Events" event in the Others Deliveries calendar Dec 03, 2013 Until Dec 05, 2013   Kazakhstan (KNB) TrainingYou are receiving this notification because you are watching the following:  Others   Deliveries   Sent by Atlassian Confluence 5.3, the Enterprise Wiki 

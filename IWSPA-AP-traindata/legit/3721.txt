@@ -1,0 +1,123 @@
+Adrian and Ben,
+Roger Pielke did send this to me over the weekend, so he's being honest
+in one respect. I still think he's reading far too much into NCEP1. The bottom panel
+of their Fig1 shows both CRU and GHCN (-ERA40) having no difference over the period
+from the late 1960s. If the obs assimilated before 1967 (even in the US) were improved,
+the apparent drop before might disappear.
+Cheers
+Phil
+Date: Fri, 19 Nov 2004 18:35:58 -0700 (MST)
+From: Roger Pielke <user@domain.com>
+To: p.jones@uea.ac.uk
+cc: user@domain.com
+Subject: Re: K&C (fwd)
+X-UEA-MailScanner-Information: Please contact the ISP for more information
+X-UEA-MailScanner: Found to be clean
+Phil-
+FYI; thank you for sharing your paper. I have circulated the attached to
+our CCSP Committee with the permission of Eugenia and Ming, and want to
+also share with you.
+The conclusion from my own work with the NCEP reanalysis is that it is
+appropriate for trend assessments if integrated metrics are used
+(thickness for example), and for regions where the regional trend signal
+is quite large. We have published on both of this issues. One value-added
+of reanalyses is that since the winds are monitored independently of the
+temperatures, they provide information on the horizontal layer averaged
+temperatures in the mid- and high-latitudes, which helps adjust, to some
+extent, biases in the temperatures.
+Also, as we have shown with regional data (e.g. Florida) and others have
+shown elsewhere (e.g. Andy Pitman for Australia) there is a clear land use
+change signal on surface temperature. This provides independent evidence
+that the Kalnay and Cai results should be expected.
+Roger
+--
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Roger A. Pielke, Sr., Professor and State Climatologist
+1371 Campus Delivery, Department Atmospheric Science,
+Colorado State University, Fort Collins, CO  80523-1371,
+Phone: 970-491-8293/Fax: 970-491-3314, Email: user@domain.com
+VISIT OUR WEBSITES AT: [1]<<link>>
+and [2]<<link>>
+---------- Forwarded message ----------
+Date: Fri, 19 Nov 2004 11:04:42 -0700 (MST)
+From: Roger Pielke <user@domain.com>
+To: _NESDIS NCDC CCSP Temp Trends Lead Authors
+<CCSPTempTrendAuthors.NCDC@noaa.gov>, chris.folland@metoffice.gov.uk,
+peter.thorne@metoffice.gov.uk
+Cc: Eugenia Kalnay <user@domain.com>, Ming Cai <user@domain.com>
+Subject: Re: K&C (fwd)
+Resent-Date: Fri, 19 Nov 2004 11:05:15 -0700
+Resent-From: CCSPTempTrendAuthors.NCDC@noaa.gov
+Hi All
+I requested to Ming Cai and Eugenia Kalnay that they respond to the
+comments regarding their work. The response is forwarded to you in this
+e-mail.
+This debate, of course, should really take place in the literature. There
+has been, however, in my view an unfortunate change over time where
+reviewers who disagree with already published work recommend rejection of
+subsequent work rather than letting the community view and assess the
+different perspectives on a science issue. Our report has to make sure it
+is inclusive, in order to avoid this pitfall.
+An unbiased discussion of the K&C results, and ways to resolve the
+disagreement through hypothesis testing, should be included in the
+appropriate chapters.
+Roger
+--
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Roger A. Pielke, Sr., Professor and State Climatologist
+1371 Campus Delivery, Department Atmospheric Science,
+Colorado State University, Fort Collins, CO  80523-1371,
+Phone: 970-491-8293/Fax: 970-491-3314, Email: user@domain.com
+VISIT OUR WEBSITES AT: [3]<<link>>
+and [4]<<link>>
+---------- Forwarded message ----------
+Date: Fri, 19 Nov 2004 12:16:27 -0500
+From: cai <user@domain.com>
+To: Roger Pielke <user@domain.com>
+Cc: Ming Cai <user@domain.com>, Y. K. Lim <user@domain.com>,
+Eugenia Kalnay <user@domain.com>
+Subject: Re: K&C
+Dear Roger,
+Attached is the preliminary summary report on our recent work on the
+estimate of land-use-change climate impact using the reanalysis.   Very
+fortunately, we had secured a one-year funding from NSF starting last
+August.  Despite a short time period, we have already produced sufficient
+results to confirm the robustness of our original work using different
+datasets that have the state-of-art quality.
+Here I just want to add one more comment about Simmons et al. paper.
+Basically, they claimed that the difference between the ERA40 and CRU is
+very small and therefore, our method is not applicable if the reanalysis
+is as good as the ERA40.  There are two things that are incorrect in their
+claims.  First of all, if the reanalysis were made to be exactly the same
+as the observations, by definition, there would be no difference between
+reanalysis and the surface observations.  Since the ERA40 was obtained by
+directly assimilating the CRU surface observations whereas the NNR didn't
+use any surface temp. observation, it is natural to expect that the
+difference between the surface observation and ERA40 is small.  Second,
+Simmons et al. manually reduces the difference between the ERA40 and CRU
+by setting the mean difference between the ERA40 and CRU from 1987 to 2001
+be ZERO.  As a result, the difference "LOOKs" very small in recent years.
+However, the difference from 1961 to 1985 has to be larger (otherwise,
+they would make an error in their plot).  In other words, by doing so, the
+gap between the ERA40 and CRU appears decreasing in time rather increasing
+in time as shown in KC and in the new figure 1 in the attached file (which
+is the same as Simmons et al. paper except we reset the 1960-70 to be zero
+in order to see how the POSITIVE gap increases in time).  If we closely
+examine their figures, we will see by applying their treatment, the gap
+between CRU and reanalysis is a NEGATIVE one (e.g., CRU is below ERA40
+from 1960 to 1980) and such a NEGATIVE gap decrease in time is equivalent
+to that the POSITIVE gap increases in time as found in KC from the NNR
+data (e.g., the CRU becomes more above the ERA40).  So Simmons et al's
+results actually CONFIRM our findings rather discredit our finding.  We
+actually reproduced Simmons et al calculations and confirm that their
+results are correct (see the second attached figure, which is identical to
+Fig.1 in our preliminary report except the NEGATIVE gap is used and 1-year
+running mean was applied as in Simmons et al).  But their interpretations
+are incorrect.
+I appreciate if you could also forward the email to the CCSP authors.
+Let me know if you want to me to reply to Tom and CCSP co-authors
+directly.
+Regards.
+Ming
+The report:
+The replica of one of the key figures in Simmons et al.

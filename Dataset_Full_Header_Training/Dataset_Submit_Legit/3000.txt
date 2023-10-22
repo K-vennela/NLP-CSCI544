@@ -1,0 +1,339 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 3 May
+ 2015 07:58:27 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 3 May 2015 
+ 07:58:22 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 892934504
+ for user@domain.com; Tue, 03 May 2015 06:58:27 -0500
+X-Note-AR-ScanTimeLocal: 5/3/2016 6:58:26 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:167.89.47.62 DOM:email.medium.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 100
+X-GBUdb-Analysis: 0, 167.89.47.62, Ugly c=0.318533 p=0 Source Normal
+X-Signature-Violations: 100-5946619-16714-16728-m
+	100-5946619-0-32767-f
+X-Note-419: 31.2503 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/3/2016 6:58:19 AM
+X-Warn: BOUNCETRACKER Bounce User Tracking Found
+X-Warn: BULKMAILER
+X-Note: Spam Tests Failed: BOUNCETRACKER, BULKMAILER
+X-Country-Path: United States->->United States->
+X-Note-Sending-IP: 167.89.47.62
+X-Note-Reverse-DNS: o2.email.medium.com
+X-Note-Return-Path: bounces+1823144-5user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G280 G285 G339 G373 G579 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from o2.email.medium.com ([167.89.47.62] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 138424936
+ for user@domain.com; Tue, 03 May 2015 06:58:26 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=medium.com; 
+	h=content-type:From: Medium Daily Digest <noreply@medium.com>
+	s=m1; bh=l/HV9/Jm93XpgtKn00Grea6Ejwo=; b=iu1Y2yrj0TkqDW3KfSBprY3
+	GOEHLgxjDKw3qo2gyCYzLQkky5bW3LS44DIoZwAvr9LnH7vsM9hfCAqVBK1W2z6I
+	mV1JgboMhA0gtRGTRQbPF/JDwatUMX086kERkB5duCfR54ki3C6qRXRCSLiKb2HI
+	eIuFXPD70ZzNN/LUSYUI=
+Received: by domain.com with SMTP id
+ filter0570p1mdw1.1680.5728925E2C        2016-05-03 11:58:22.620842375 +0000
+ UTC
+Received: from MTgyMzE0NA (ec2-52-21-76-65.compute-1.domain.com
+ [52.21.76.65])	by domain.com (SG) with HTTP id
+ IPSHTH6oQa-qb6-fdyB7Bg	for <user@domain.com>; Tue, 03 May 2015 11:58:22.369
+ +0000 (UTC)
+Content-Type: multipart/alternative;
+	boundary="6008869030ea995d4da125b381a82f58cee2b966ea95ad368d1025bfda91"
+Date: Tue, 3 May 2015 11:58:22 +0000
+From: Medium Daily Digest <noreply@medium.com>
+List-Unsubscribe: <<<link>>>
+Reply-To: <user@domain.com>
+Subject: =?UTF-8?Q?=E2=80=9CIntroducing_Jelly,_A_New_Search_Engine=E2=80=9D_publis?=
+ =?UTF-8?Q?hed_in_The_Biz_Stone_Collection_by_Biz_Stone?=
+To: <user@domain.com>
+Message-ID: <user@domain.com>
+X-SG-EID: /qskMPcwxb1VaCv1PswYfL3cIKK16+tE+dB/q/CjBM2i+STc7tjdBxab7lXthTx7M2l1TkHdkB+GTa
+ kkCq966qCaPCb9PxXdJjV7Zq8PSEcZ4U5YplQK/iIrYdKH8O8gg5kD+zG7/KOkEFqHkRF7TYfbEVNh
+ ia4oo5gz/wv/dPi0h/ipb6aYcc6Q+AbhXXWBMCkgOyTDBdD3RM9LoyxMrMJc9dpGn+Myp8KyEzPOM3
+ Y=
+X-SG-ID: D6Z+UOEZAHNtlrjTKHUMD5/D72mAwJ5dG6hzQMFgCUzjmC479J8OzRLbVf4qCp8TRUUWr1Bd3pw4/u
+ aE1pfTfQ==
+Return-Path: bounces+1823144-5user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Medium Daily Digest (<<link>>
+6416152-daily_digest) Most recommended by
+
+People you follow
+
+craignewmark (<<link>>
+1462276416152-daily_digest)
+
+Introducing Jelly, A New Search Engine (<<link>>
+-jelly-a-new-search-engine-47e2594ad3ff?source=3Demail-7ccd17ba0f59-1462276=
+416152-daily_digest&sectionName=3Drecommended) Jelly is a new kind of searc=
+h engine delivering answers on demand. (<<link>>
+-jelly-a-new-search-engine-47e2594ad3ff?source=3Demail-7ccd17ba0f59-1462276=
+416152-daily_digest&sectionName=3Drecommended) Jelly is the only search eng=
+ine in the world with an attitude, an opinion, and the experience of people=
+ to back it all up. Only Jelly can say you asked the wrong question. Only J=
+elly can give you=E2=80=A6 (<<link>>
+-search-engine-47e2594ad3ff?source=3Demail-7ccd17ba0f59-1462276416152-daily=
+_digest&sectionName=3Drecommended)
+
+in The Biz Stone Collection (<<link>>
+urce=3Demail-7ccd17ba0f59-1462276416152-daily_digest), by Biz Stone (https:=
+//medium.com/@biz?source=3Demail-7ccd17ba0f59-1462276416152-daily_digest)4 =
+min read
+
+Washington Post (<<link>>
+0f59-1462276416152-daily_digest)
+
+How to save media (<<link>>
+95b5b671?source=3Demail-7ccd17ba0f59-1462276416152-daily_digest&sectionName=
+=3Drecommended) Actually, (<<link>>
+dia-f6b895b5b671?source=3Demail-7ccd17ba0f59-1462276416152-daily_digest&sec=
+tionName=3Drecommended) Alana Hope Levinson (<<link>>
+son?source=3Demail-7ccd17ba0f59-1462276416152-daily_digest)1 min read
+
+U.S. Department of State (<<link>>
+17ba0f59-1462276416152-daily_digest)
+
+The State Department Joins Medium! (<<link>>
+-department-joins-medium-1dc039b88299?source=3Demail-7ccd17ba0f59-146227641=
+6152-daily_digest&sectionName=3Drecommended) We=E2=80=99re excited to be jo=
+ining Medium today. On Medium, we=E2=80=99ll share ideas and stories from S=
+tate Department leaders about how the United=E2=80=A6 (<<link>>
+StateDept/the-state-department-joins-medium-1dc039b88299?source=3Demail-7cc=
+d17ba0f59-1462276416152-daily_digest&sectionName=3Drecommended) U.S. Depart=
+ment of State (<<link>>
+62276416152-daily_digest)2 min read
+
+U.S. Department of State (<<link>>
+17ba0f59-1462276416152-daily_digest)
+
+Climate Change: A Threat to Security and Stability Everywhere (<<link>>
+domain.com/@JohnKerry/climate-change-a-threat-to-security-and-stability-everywh=
+ere-b4ce57e546fe?source=3Demail-7ccd17ba0f59-1462276416152-daily_digest&sec=
+tionName=3Drecommended) A few days ago, I had the pleasure of visiting Norf=
+olk, Virginia. A place where =E2=80=94 for centuries =E2=80=94 America=E2=
+=80=99s fighting men and women have=E2=80=A6 (<<link>>
+/climate-change-a-threat-to-security-and-stability-everywhere-b4ce57e546fe?=
+source=3Demail-7ccd17ba0f59-1462276416152-daily_digest&sectionName=3Drecomm=
+ended) in Foggy Bottom (<<link>>
+17ba0f59-1462276416152-daily_digest), by John Kerry (<<link>>
+hnKerry?source=3Demail-7ccd17ba0f59-1462276416152-daily_digest)8 min read
+
+U.S. Department of State (<<link>>
+17ba0f59-1462276416152-daily_digest)
+
+From Local to Global: Why Diplomacy Matters (<<link>>
+from-local-to-global-why-diplomacy-matters-88055ea937c9?source=3Demail-7ccd=
+17ba0f59-1462276416152-daily_digest&sectionName=3Drecommended) By: David Du=
+ckenfield, Deputy Assistant Secretary of State for Public Affairs (<<link>>
+medium.com/@StateDept/from-local-to-global-why-diplomacy-matters-88055ea937=
+c9?source=3Demail-7ccd17ba0f59-1462276416152-daily_digest&sectionName=3Drec=
+ommended) in Foggy Bottom (<<link>>
+ccd17ba0f59-1462276416152-daily_digest), by U.S. Department of State (https=
+://medium.com/@StateDept?source=3Demail-7ccd17ba0f59-1462276416152-daily_di=
+gest)6 min read
+
+Published by
+
+Authors and publications you follow
+
+The Weight of One Mission: Recounting the Death of Usama bin Laden, Five Ye=
+ars Later (<<link>>
+ing-the-death-of-usama-bin-laden-five-years-later-7d20ca5be2ae?source=3Dema=
+il-7ccd17ba0f59-1462276416152-daily_digest&sectionName=3Dpublished) By Nick=
+ Rasmussen, Director of the National Counterterrorism Center (<<link>>
+m.com/@WhiteHouse/the-weight-of-one-mission-recounting-the-death-of-usama-b=
+in-laden-five-years-later-7d20ca5be2ae?source=3Demail-7ccd17ba0f59-14622764=
+16152-daily_digest&sectionName=3Dpublished) It=E2=80=99s a scene you never =
+forget. The intensity. The focus. =C2=B6
+
+The stillness of a room. The weight of one mission. =C2=B6
+
+Five years ago, I watched in the Situation Room along with President Obama,=
+ Vice=E2=80=A6
+
+The White House (<<link>>
+-1462276416152-daily_digest)6 min read
+
+Why So Many Young Women Love The =E2=80=98Pull-Out Method=E2=80=99 (https:/=
+/medium.com/@HuffingtonPost/why-so-many-young-women-love-the-pull-out-metho=
+d-444f4aa36be1?source=3Demail-7ccd17ba0f59-1462276416152-daily_digest&secti=
+onName=3Dpublished) By Catherine Pearson (<<link>>
+t/why-so-many-young-women-love-the-pull-out-method-444f4aa36be1?source=3Dem=
+ail-7ccd17ba0f59-1462276416152-daily_digest&sectionName=3Dpublished) The Hu=
+ffington Post (<<link>>
+59-1462276416152-daily_digest)6 min read
+
+15 Startups Led By Women That You Won=E2=80=99t Want to Miss in 2015 (https=
+://medium.com/@craignewmark/15-startups-led-by-women-that-you-wont-want-to-=
+miss-in-2016-bc1853b512b4?source=3Demail-7ccd17ba0f59-1462276416152-daily_d=
+igest&sectionName=3Dpublished) Between 1997 and 2014, the number of women-o=
+wned businesses in the U.S. rose by 68%, twice the growth rate for men and =
+nearly 1.5 times the=E2=80=A6 (<<link>>
+-led-by-women-that-you-wont-want-to-miss-in-2016-bc1853b512b4?source=3Demai=
+l-7ccd17ba0f59-1462276416152-daily_digest&sectionName=3Dpublished) craignew=
+mark (<<link>>
+16152-daily_digest)4 min read
+
+Stories of #JoiningForces: Celebrating 5 years of Joining Forces (<<link>>
+domain.com/@FLOTUS/stories-of-joiningforces-celebrating-5-years-of-joining-f=
+orces-62a9281e424c?source=3Demail-7ccd17ba0f59-1462276416152-daily_digest&s=
+ectionName=3Dpublished) This week, the First Lady and Dr. Biden celebrate t=
+he 5th anniversary of Joining Forces. In 2011, the First Lady and Dr. Biden=
+ launched=E2=80=A6 (<<link>>
+ebrating-5-years-of-joining-forces-62a9281e424c?source=3Demail-7ccd17ba0f59=
+-1462276416152-daily_digest&sectionName=3Dpublished) The First Lady (https:=
+//medium.com/@FLOTUS?source=3Demail-7ccd17ba0f59-1462276416152-daily_digest=
+)3 min read
+
+What I Said at the Vatican About the World=E2=80=99s Efforts to Fight Cance=
+r (<<link>>
+forts-to-fight-cancer-757a611ee550?source=3Demail-7ccd17ba0f59-146227641615=
+2-daily_digest&sectionName=3Dpublished) Last Friday, I had the incredible h=
+onor of addressing a conference at the Vatican that brought together cancer=
+ patients and survivors=E2=80=A6 (<<link>>
+the-vatican-about-the-worlds-efforts-to-fight-cancer-757a611ee550?source=3D=
+email-7ccd17ba0f59-1462276416152-daily_digest&sectionName=3Dpublished) Vice=
+ President Biden (<<link>>
+62276416152-daily_digest)13 min read
+
+#TeacherAppreciation: who changed your life? (<<link>>
+eacherappreciation-who-changed-your-life-62d7f84a3861?source=3Demail-7ccd17=
+ba0f59-1462276416152-daily_digest&sectionName=3Dpublished) There are two th=
+ings that bother me about Teacher Appreciation Week (which starts today, by=
+ the way). (<<link>>
+r-life-62d7f84a3861?source=3Demail-7ccd17ba0f59-1462276416152-daily_digest&=
+sectionName=3Dpublished) in Los Angeles Times (<<link>>
+source=3Demail-7ccd17ba0f59-1462276416152-daily_digest), by dex digital (ht=
+tps://medium.com/@dexdigi?source=3Demail-7ccd17ba0f59-1462276416152-daily_d=
+igest)2 min read
+
+Thank You, Teachers (<<link>>
+bc493288e3?source=3Demail-7ccd17ba0f59-1462276416152-daily_digest&sectionNa=
+me=3Dpublished) Dear Teachers, (<<link>>
+teachers-a4bc493288e3?source=3Demail-7ccd17ba0f59-1462276416152-daily_diges=
+t&sectionName=3Dpublished) John King (<<link>>
+ce=3Demail-7ccd17ba0f59-1462276416152-daily_digest)4 min read
+
+Military Women Face Serious Challenges When It Comes To Birth Control (http=
+s://medium.com/@HuffingtonPost/military-women-face-serious-challenges-when-=
+it-comes-to-birth-control-b747a92fcf8a?source=3Demail-7ccd17ba0f59-14622764=
+16152-daily_digest&sectionName=3Dpublished) By Anna Almendrala (<<link>>
+domain.com/@HuffingtonPost/military-women-face-serious-challenges-when-it-come=
+s-to-birth-control-b747a92fcf8a?source=3Demail-7ccd17ba0f59-1462276416152-d=
+aily_digest&sectionName=3Dpublished) The Huffington Post (<<link>>
+m/@HuffingtonPost?source=3Demail-7ccd17ba0f59-1462276416152-daily_digest)6 =
+min read
+
+My Story: Working for Worthy Working Conditions (<<link>>
+on/my-story-working-for-worthy-working-conditions-a96d714194c?source=3Demai=
+l-7ccd17ba0f59-1462276416152-daily_digest&sectionName=3Dpublished) by domain.com=
+ha Geramita (<<link>>
+ng-conditions-a96d714194c?source=3Demail-7ccd17ba0f59-1462276416152-daily_d=
+igest&sectionName=3Dpublished) in Schoolhouse Voices (<<link>>
+hool-house-voices?source=3Demail-7ccd17ba0f59-1462276416152-daily_digest), =
+by AFT (<<link>>
+152-daily_digest)4 min read
+
+Recommended by
+
+Medium Staff
+
+I=E2=80=99m 18 and Bipolar=E2=80=A6and it doesn=E2=80=99t suck as much as y=
+ou think it does. (<<link>>
+doesn-t-suck-as-much-as-you-think-it-does-c1de8d012f93?source=3Demail-7ccd1=
+7ba0f59-1462276416152-daily_digest&sectionName=3Dsuggested) I=E2=80=99m 18.=
+ I=E2=80=99m bipolar. I also know that it must be frustrating for you to re=
+ad that again but I want that to sink in. I=E2=80=99ve been hospitalized=E2=
+=80=A6 (<<link>>
+k-as-much-as-you-think-it-does-c1de8d012f93?source=3Demail-7ccd17ba0f59-146=
+2276416152-daily_digest&sectionName=3Dsuggested) twice in the span of eight=
+ to nine months. I=E2=80=99m also on a gap year (which is something most pe=
+ople don=E2=80=99t even consider), a break between high school and college,=
+ because I was so stressed out I didn=E2=80=99t=E2=80=A6 (<<link>>
+m/@theresagao/im-18-and-bipolar-and-it-doesn-t-suck-as-much-as-you-think-it=
+-does-c1de8d012f93?source=3Demail-7ccd17ba0f59-1462276416152-daily_digest&s=
+ectionName=3Dsuggested)
+
+Theresa Gao (<<link>>
+2276416152-daily_digest)8 min read
+
+The Edge of Space (<<link>>
+dfe7ec?source=3Demail-7ccd17ba0f59-1462276416152-daily_digest&sectionName=
+=3Dsuggested) As I slipped open the sunshade of my domain.com, I could see t=
+hat the sky above was black. The curved white and blue Earth fell away belo=
+w=E2=80=A6 (<<link>>
+source=3Demail-7ccd17ba0f59-1462276416152-daily_digest&sectionName=3Dsugges=
+ted) christopher michel (<<link>>
+d17ba0f59-1462276416152-daily_digest)10 min read
+
+Child prisoners: =E2=80=98I don=E2=80=99t want to come out a monster=E2=80=
+=99 (<<link>>
+a-monster-84bface27edc?source=3Demail-7ccd17ba0f59-1462276416152-daily_dige=
+st&sectionName=3Dsuggested) Sierra Leone=E2=80=99s child prisoners share th=
+eir stories. (<<link>>
+come-out-a-monster-84bface27edc?source=3Demail-7ccd17ba0f59-1462276416152-d=
+aily_digest&sectionName=3Dsuggested) Al Jazeera English (<<link>>
+/@AJEnglish?source=3Demail-7ccd17ba0f59-1462276416152-daily_digest)7 min re=
+ad
+
+Yes, I have herpes. No, I=E2=80=99m not a degenerate (<<link>>
+hitneydawn/yes-i-have-herpes-no-im-not-a-degenerate-deee53c944db?source=3De=
+mail-7ccd17ba0f59-1462276416152-daily_digest&sectionName=3Dsuggested) I was=
+ sitting in my doctor=E2=80=99s office crying, and I could barely choke it =
+out. (<<link>>
+ate-deee53c944db?source=3Demail-7ccd17ba0f59-1462276416152-daily_digest&sec=
+tionName=3Dsuggested) Whitney Dawn Carlson (<<link>>
+?source=3Demail-7ccd17ba0f59-1462276416152-daily_digest)4 min read
+
+Love In The Time of Borderline (<<link>>
+ime-of-borderline-6a0dae77cf57?source=3Demail-7ccd17ba0f59-1462276416152-da=
+ily_digest&sectionName=3Dsuggested) My superpower is that I move through th=
+e world without skin. (<<link>>
+rderline-6a0dae77cf57?source=3Demail-7ccd17ba0f59-1462276416152-daily_diges=
+t&sectionName=3Dsuggested) celia finkelstein (<<link>>
+?source=3Demail-7ccd17ba0f59-1462276416152-daily_digest)4 min read
+
+Top stories in
+
+news
+
+Adobe packs Experience Design CC with new features (<<link>>
+designerDepot/adobe-packs-experience-design-cc-with-new-features-a32e9db9ff=
+d2?source=3Demail-7ccd17ba0f59-1462276416152-daily_digest&sectionName=3Dtag=
+) This week Adobe announced the first update for Experience Design CC since=
+ its public preview. The update is a response to the feedback=E2=80=A6 (htt=
+ps://medium.com/@WebdesignerDepot/adobe-packs-experience-design-cc-with-new=
+-features-a32e9db9ffd2?source=3Demail-7ccd17ba0f59-1462276416152-daily_dige=
+st&sectionName=3Dtag) Adobe received from the design community. =C2=B6
+
+In a blog post, the company made clear that some of these updates are still=
+ works in progress, but Adobe=E2=80=99s confident that users can create eve=
+n richer=E2=80=A6
+
+WebdesignerDepot (<<link>>
+7ba0f59-1462276416152-daily_digest)3 min read
+
+Read more on Medium: <<link>>
+6416152-daily_digest
+Connect with us on:
+---
+Sent by Medium, 760 Market Street, 9th floor, San Francisco, CA 94102
+To unsubscribe, domain.com <<link>>
+61f598a6cd0390b9d2c771d8624e7?source=3Demail-7ccd17ba0f59-1462276416152-dai=
+ly_digest&type=3Dsocial

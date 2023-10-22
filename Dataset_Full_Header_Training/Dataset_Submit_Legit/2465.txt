@@ -1,0 +1,191 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 11 May
+ 2015 13:07:42 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 11 May 2015 
+ 13:07:39 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 909458259
+ for user@domain.com; Wed, 11 May 2015 12:07:47 -0500
+X-Note-AR-ScanTimeLocal: 5/11/2016 12:07:45 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:209.18.93.96 DOM:send.nonprofitwebadvisor.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 100
+X-GBUdb-Analysis: 0, 209.18.93.96, Ugly c=0.623912 p=0.910798 Source Truncate
+X-Signature-Violations: 100-7297394-1180-1255-m
+	100-5946650-7474-7494-m
+	100-7297394-0-32767-f
+X-Note-419: 31.2518 ms. Fail:1 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:1-1324/SG:1 5/11/2016 12:07:28 PM
+X-Warn: OPTOUT
+X-Warn: BULKMAILER
+X-Note: Spam Tests Failed: OPTOUT, BULKMAILER
+X-Country-Path: ->United States->
+X-Note-Sending-IP: 209.18.93.96
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G281 G286 G374 G376 G580 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from domain.com ([209.18.93.96] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 138296966
+ for user@domain.com; Wed, 11 May 2015 12:07:45 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=domain.com; d=nonprofitwebadvisor.com;
+ h=Date:From: NonprofitWebAdvisor <no-reply@nonprofitwebadvisor.com>
+ bh=OM8xUS2zru2mtxedjk1jT7QdJqc=;
+ b=oNq1Ph8MaiONJ8pmnTTTkQzfm0aXFBwHsFvVx3wgL26yZnqQzpOJ7VzOenbb7sD5raa8tL8UjsJY
+   HY3Zo5in8ZuLtJHK+UQ4PGl+Yqpj6kn+bSBa64csHu0pNhZqXIBH2v62rW7FuUBOOTAOeu9lin17
+   UW8r/p05yfRKIDSOW7g=
+Received: from RMPMTA01 (172.17.96.1) by domain.com id h6djdo259qgo
+ for <user@domain.com>; Wed, 11 May 2015 13:06:28 -0400 (envelope-from
+ <user@domain.com>)
+Date: Wed, 11 May 2015 13:06:27 -0400
+From: NonprofitWebAdvisor <no-reply@nonprofitwebadvisor.com>
+To: <user@domain.com>
+Subject: How to Strategically Build a Board Comprised of Better, More Effective Fundraisers.
+X-TokenInfo-NoToken: 
+Feedback-ID: 10114:10114_2253962:10114_33655108:domain.com
+x-jobid: 33655108
+List-Unsubscribe: <<<link>>>
+X-Bps1: 30518061393
+Content-Type: multipart/alternative;
+	boundary="_NextPart_000_12823396_2016511_13627122"
+Message-ID: <0.0.1.25user@domain.com>
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+To see the web version of this message click here: =0A<<link>>
+.net/actions/email_web_version.cfm?recipient_id=3D1861923605&messa=
+ge_id=3D12823396&user_id=3DDKMEDIA_5&jobid=3D33655108=0A=0DHow to Strategic=
+ally Build a Board Comprised of Better, More Effective Fundraisers
+
+How to domain.com and retain board members who are best suited to help your or=
+ganization meet its goals, especially in the area of fundraising.
+
+domain.com leaders understand the importance of the board of directors, espe=
+cially their role in raising the financial support needed to implement the =
+mission. Who is elected to the board, and the vetting process itself, can h=
+ave a huge impact on the effectiveness of the team, the combined resources =
+available, and ultimate success of the work at hand. Alternatively, a poorl=
+y chosen board can result in wasted time, squandered opportunities and unne=
+cessary headaches for the domain.com's in-house leadership.
+
+Because of the board's crucial fundraising role, most nonprofits can benefi=
+t by looking beyond nominating committees and rethinking the way they recru=
+it board members in order to ensure their team is comprised of the most qua=
+lified, connected and effective individuals.=20
+
+Please join Linda Lysakowski, ACFRE, for a session that will help you ident=
+ify, cultivate, domain.com and retain board members that are committed to the =
+mission of the organization.
+		=09
+Place Order <<link>>
+a-Board-Comprised-of-Better-More-Effective-Fundraisers_p_314.html
+=09
+Date/Time: June 9, 2016, 1 PM Eastern.
+Duration: Scheduled for 90 minutes including question and answer session.
+Price: $299.00 webinar, $349.00 CD, $399.00 webinar + CD. Each option may b=
+e viewed by an unlimited number of attendees in one room using one unique l=
+ogin. CD includes full audio presentation, question and answer session and =
+presentation slides. CD options are subject to a $5.95 handling charge.
+Presenter: Linda Lysakowski, ACFRE, Fundraising Consultant.
+Who Should Attend? CEOs, executive directors, executive leadership, develop=
+ment staff, program managers, supervisors, board members.
+			=09
+WHAT YOU'LL LEARN
+	=09
+Just a sampling of what this webinar will cover:
+
+Understanding why nominating committees don't work.
+Recruiting highly qualified board members.
+Identifying the many roles of board members.
+Analyzing strengths and weaknesses of your current board.
+Developing a profile for prospective board members.
+Developing a plan for board development for the organization.
+Attracting board members with more community ties.
+Vetting effective fundraisers.
+AND MUCH MORE!
+			=09
+Place Order <<link>>
+a-Board-Comprised-of-Better-More-Effective-Fundraisers_p_314.html
+		=09
+YOUR CONFERENCE LEADER
+		=09
+Our conference leader for How to Strategically Build a Board Comprised of B=
+etter, More Effective Fundraisers is Linda Lysakowski, ACFRE. Linda is one =
+of just over one hundred professionals worldwide to hold the Advanced Certi=
+fied Fund Raising Executive designation. In her thirty years in the develop=
+ment field, she has managed capital campaigns, helped dozens of domain.com o=
+rganizations achieve their development goals, and has trained more than 30,=
+000 professionals in Mexico, Canada, Egypt, Bermuda, and most of the fifty =
+United States. Linda is a graduate of Alvernia College in Reading, PA with =
+majors in banking and finance; communications; and theology/philosophy. She=
+ is a graduate of AFP's Faculty Training Academy and has received two AFP r=
+esearch grants. She is also a prolific writer, having authored more than a =
+dozen books, and is currently working on several more books. She serves as =
+acquisitions =0Aeditor for CharityChannel Press and For the GENIUS Press. L=
+inda has received the Outstanding Fundraising Executive award from the East=
+ern PA, Las Vegas, and Sierra (NV) chapters of AFP (Association of Fundrais=
+ing Professionals) and was recognized internationally with the Barbara Mari=
+on Award for Outstanding Service to AFP. She was honored in November with t=
+he Lifetime Achievement Award from the Las Vegas Chapter of AFP.
+		=09
+NonprofitWebAdvisor QUALITY COMMITMENT
+	=09
+NonprofitWebAdvisor wants you to be satisfied with your webinar. If this we=
+binar does not meet your expectations, email us user@domain.com=
+domain.com mailto:user@domain.com
+	=09
+CERTIFICATE OF PARTICIPATION
+	=09
+Certificates of participation are available to everyone attending this webi=
+nar.
+	=09
+domain.com Update + More! COMPLIMENTARY NEWSLETTER
+	=09
+domain.com professionals across the country rely on this need-to-know inform=
+ation resource.
+
+Begin receiving your complimentary subscription now! <<link>>
+domain.com/newsletter/domain.com-update-more-latest-issue
+
+Place Order <<link>>
+a-Board-Comprised-of-Better-More-Effective-Fundraisers_p_314.html
+
+See a full list of upcoming webinars <<link>>
+e.
+	=09
+Thank you for reading this NonprofitWebAdvisor advertisement.
+
+Copyright =A9 2015 domain.com. All rights reserved.  =A0|=A0
+Legal Terms <<link>>
+=A0|=A0
+Privacy Policy <<link>>
+=A0|=A0
+FAQs <<link>>
+       =20
+901 S. Mopac Expressway  =A0=B7=A0 Barton Oaks Plaza V, Suite 140 =A0=B7=A0=
+ Austin, Texas  78746
+800.944.7668  =A0=B7=A0 user@domain.com mailto:user@domain.com=
+domain.com
+
+Click here
+to unsubscribe <<link>>
+=3DDKMEDIA_5&user@domain.com&message_id=3D12823396&group_id=3D2253962
+         =20
+Or, email us at our service account
+user@domain.com mailto:user@domain.com t=
+his link to unsubscribe:
+<<link>>
+3396&user_id=3DDKMEDIA_5&recipient_id=3D1861923605&group_id=3D2253=
+962&jobid=3D33655108

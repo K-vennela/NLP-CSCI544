@@ -1,0 +1,73 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (dijkstra.cs.uh.edu [127.0.0.1])
+	by dijkstra.cs.uh.edu (Postfix) with ESMTP id 1EFE223CA8A;
+	Tue, 29 Nov 2015 13:12:32 -0600 (CST)
+X-Virus-Scanned: amavisd-new at cs.uh.edu
+X-Spam-Score: 2.239
+X-Spam-Level: **
+X-Spam-Status: No, score=2.239 tagged_above=2 required=5
+	tests=[BAYES_00=-2.599, SUBJ_ALL_CAPS=0.997, UNDISC_RECIPS=0.841,
+	URIBL_BLACK=3]
+Received: from dijkstra.cs.uh.edu ([127.0.0.1])
+	by localhost (dijkstra.cs.uh.edu [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id ZYtVjZ32Spzq; Tue, 29 Nov 2015 13:12:30 -0600 (CST)
+Received: from domain.com.ar (domain.com.ar [163.10.9.65])
+	by dijkstra.cs.uh.edu (Postfix) with ESMTP id 3445C23CA84;
+	Tue, 29 Nov 2015 13:12:29 -0600 (CST)
+Received: from localhost (localhost [127.0.0.1])
+	by domain.com.ar (Postfix) with ESMTP id 07134124413;
+	Tue, 29 Nov 2015 16:12:56 -0300 (ART)
+X-Virus-Scanned: Debian amavisd-new at 
+Received: from domain.com.ar ([127.0.0.1])
+	by localhost (domain.com.ar [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id OwPBIQd6arD4; Tue, 29 Nov 2015 16:12:55 -0300 (ART)
+Received: from domain.com.ar (domain.com.ar [163.10.9.65])
+	by domain.com.ar (Postfix) with ESMTP id 9144812440F;
+	Tue, 29 Nov 2015 16:12:55 -0300 (ART)
+MIME-Version: 1.0
+Date: Tue, 29 Nov 2015 16:12:55 -0300
+From: University of Houston WebMail <no-reply@uh.edu>
+To: undisclosed-recipients:;
+Subject: SERVICE ANNOUCEMENT
+Reply-To: user@domain.com
+Message-ID: <1010user@domain.com>
+X-Sender: user@domain.com
+User-Agent: RoundCube Webmail/0.2.1
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 38
+
+-- 
+SERVICE ANNOUCEMENT
+
+
+
+There's a new master of the digital universe. YOU.
+
+Thank you for being a University of Houston user for the past months. We
+look forward
+to bringing you an even faster, safer, easier-to-use your University of
+Houston mail very soon.
+We have upgraded the security on all accounts.You are advised to update
+your account.
+Please click on the link below to update your University of Houston mail
+account
+
+
+
+click here to update: <<link>>
+
+
+
+Thank you for being a loyal University of Houston Mail user.
+
+We hope you enjoy the newest version of our University of Houston Mail.
+
+David McDowell
+Senior Director,
+University of Houston WebMail.

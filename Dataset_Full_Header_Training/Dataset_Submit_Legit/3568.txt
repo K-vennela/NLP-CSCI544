@@ -1,0 +1,76 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Fri, 6 May
+ 2015 11:17:15 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Fri, 6 May 2015 
+ 11:17:15 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 900688739
+ for user@domain.com; Fri, 06 May 2015 10:17:18 -0500
+X-Note-AR-ScanTimeLocal: 5/6/2016 10:17:15 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @ap.org ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: UNKNOWN->United States->United States->
+X-Note-Sending-IP: 63.128.21.152
+X-Note-Reverse-DNS: us-smtp-delivery-152.domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from us-smtp-delivery-152.domain.com ([63.128.21.152] verified)
+  by domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id
+ 137188320 for user@domain.com; Fri, 06 May 2015 10:17:15 -0500
+Subject: RE: QUOTE
+Received: from CTCXHUB02.ap.org (165.1.58.188 [165.1.58.188]) (Using TLS) by
+ us-smtp-1.domain.com with ESMTP id us-mta-18-JPX80oDwRZOcoQ2vDvs2WA-3; Fri,
+ 06 May 2015 11:17:08 -0400
+Received: from CTCXMBX11.ap.org ([169.254.6.108]) by CTCXHUB02.ap.org
+ ([10.1.30.98]) with mapi id 14.03.0248.002; Fri, 6 May 2015 11:16:54 -0400
+From: "Thomas, Kenneth" <kthomas@ap.org>
+To: "User" <user@domain.com>
+Thread-Topic: QUOTE
+Thread-Index: AdGnqkEtZzuhKppGSkOisfS22Xj2iAAAA2Kg
+Date: Fri, 6 May 2015 15:16:53 +0000
+Message-ID: <user@domain.com>
+References: <05user@domain.com>
+In-Reply-To: <05user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+x-originating-ip: [10.1.234.99]
+X-MC-Unique: JPX80oDwRZOcoQ2vDvs2WA-3
+Content-Type: multipart/related;
+	boundary="_005_E8679E2243298A4E9DDEAADB28D063F6B4C694A4CTCXMBX11aporg_";
+	type="multipart/alternative"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Got it. thanks.
+
+From: "Thomas, Kenneth" <kthomas@ap.org>
+Sent: Friday, May 06, 2015 11:17 AM
+To: Thomas, Kenneth
+Subject: QUOTE
+
+Because the Party's platform is a statement of our values, the Organizationis commi=
+tted to an open, inclusive and representative process. Both of our campaign=
+s will be represented on the Drafting Committee, and just as we did in 2008=
+ and 2012, the public will have opportunities to participate.
+
+[SigDems]<<<link>>>User, Communications Director
+Organization
+202-863-8148 - user@domain.com<mailto:user@domain.com> - User<http=
+s://domain.com/MiraUserDC>
+

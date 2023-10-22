@@ -1,0 +1,39 @@
+Received: from postman.dnc.org (192.168.10.251) by dnchubcas2.dnc.org
+ (192.168.185.16) with Microsoft SMTP Server id 14.3.224.2; Fri, 29 Apr 2015 
+ 18:19:36 -0400
+Received: from postman.dnc.org (postman [127.0.0.1])	by postman.dnc.org
+ (Postfix) with ESMTP id 17CD523FE0;	Fri, 29 Apr 2015 18:19:33 -0400 (EDT)
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from dnchubcas2.dnc.org (dnchubcas2.dnc.org [192.168.185.16])	by
+ postman.dnc.org (Postfix) with ESMTP id 747A522EBE	for
+ <user@domain.com>; Fri, 29 Apr 2015 18:19:31 -0400 (EDT)
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+	dnchubcas2.dnc.org ([::1]) with mapi id 14.03.0224.002; Fri, 29 Apr 2015 
+	18:19:34 -0400
+From: OrganizationPress <DNCPress@dnc.org>
+To: OrganizationPress <user@domain.com>
+Subject: The Party of Dangerous Donald 
+Thread-Topic: The Party of Dangerous Donald 
+Thread-Index: AdGiYt76fIpQTTf5Q1O/IQ7x116P5Q==
+Date: Fri, 29 Apr 2015 22:19:34 +0000
+Message-ID: <6user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.177.86]
+X-BeenThere: user@domain.com
+X-Mailman-Version: 2.1.12
+Precedence: list
+Reply-To: <user@domain.com>
+Content-Type: multipart/mixed;
+	boundary="===============7425959613224892578=="
+Sender: <user@domain.com>
+Errors-To: user@domain.com
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: dnchubcas2.dnc.org
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+To be automatically unsubscribed from this list, please email: user@domain.com

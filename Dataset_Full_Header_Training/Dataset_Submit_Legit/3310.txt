@@ -1,0 +1,69 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 27 Apr
+ 2015 11:45:35 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 27 Apr 2015 
+ 11:45:30 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 882943245
+ for user@domain.com; Wed, 27 Apr 2015 10:45:36 -0500
+X-Note-AR-ScanTimeLocal: 4/27/2016 10:45:36 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: user@domain.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->
+X-Note-Sending-IP: 68.232.198.10
+X-Note-Reverse-DNS: mta.politicoemail.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mta.politicoemail.com ([68.232.198.10] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 135684403
+ for user@domain.com; Wed, 27 Apr 2015 10:45:36 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=200608; d=politicoemail.com;
+ h=From: POLITICO <email@politicoemail.com>
+ bh=Zxu1+CGeuv3j6GiNql1t9+HBS5Y=;
+ b=WvZfXOROxg22EnMPGjHhgujGFGczPspLOSmusufY36HnevCZoFujm3B8YKDgjsOTKrOVu1V0yFmI
+   NK4owPa/gW6P51I1N1l0fNuHXaMQGDjvYHjqWA1IuVChkIIMwEpn04oATHbguOwiQGlvwWt+Wxxv
+   sb8nSgxOddfTk3XB0q4=
+Received: by mta.politicoemail.com id h43f9u163hs7 for <user@domain.com>; Wed,
+ 27 Apr 2015 09:44:55 -0600 (envelope-from
+ <user@domain.com>)
+From: POLITICO <email@politicoemail.com>
+To: <user@domain.com>
+Subject: BREAKING NEWS: Supreme Court justices appear to be leaning in McDonnell's favor
+Date: Wed, 27 Apr 2015 09:44:55 -0600
+List-Unsubscribe: <mailto:user@domain.com>
+Reply-To: POLITICO subscriptions
+	<user@domain.com>
+x-job: 1376319_5363727
+Message-ID: <03user@domain.com>
+Content-Type: multipart/alternative; boundary="S5k2pNdmdG93=_?:"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Former Virginia Gov. Bob McDonnell had a surprisingly strong outing at the Supreme Court Wednesday, as majority of the court appeared to be leaning in the direction of overturning the corruption convictions a jury returned against him two years ago. 
+
+Two members of the court liberal wing - Justices Stephen Breyer and Elena Kagan - expressed serious concerns that the government's stance could expose public officials to prosecution for all kinds of acts routinely performed for political donors. Breyer appeared particularly troubled that upholding the convictions would shift too much power to federal prosecutors.
+
+With three conservative justices on the shorthanded court expressing similar worries, McDonnell seemed to stand a good chance of getting a ruling in his favor and avoiding the two-year prison sentence he is facing.
+
+McDonnell was convicted on 11 corruption-related counts in 2015 after he and his wife took more than $175,000 in gifts and loans from a Virginia businessman seeking state studies of a tobacco-based dietary supplement. The government said McDonnell the largesse was part of a corrupt deal to advance the businessman's interests.
+
+Read more: <<link>>
+ To change your alert settings, please go to <<link>> or <<link>> email was sent to user@domain.com by: POLITICO, LLC 1000 Wilson Blvd. Arlington, VA, 22209, USA
+
+To unsubscribe,<<link>>
+
