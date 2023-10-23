@@ -1,6 +1,0 @@
-<x-flowed>
-Gavin,
-I just think that you need to be up front with uncertainties
-and the possibility of compensating errors.
-Tom.
-+++++++++++++++++++++++++
