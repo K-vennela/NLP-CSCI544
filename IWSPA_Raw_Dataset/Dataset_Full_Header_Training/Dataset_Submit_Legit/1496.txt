@@ -1,0 +1,140 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 11 May
+ 2015 16:43:07 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 11 May 2015 
+ 16:43:05 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 910063388;
+ Wed, 11 May 2015 15:43:05 -0500
+X-Note-AR-ScanTimeLocal: 5/11/2016 3:42:59 PM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: Too many policies to list
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:209.85.192.64 DOM:domain.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 100
+X-GBUdb-Analysis: Unknown
+X-Signature-Violations: 100-5941379-14875-14970-m
+	100-5941379-16082-16161-m
+	100-5941379-0-22887-f
+X-Note-419: 31.2578 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/11/2016 3:42:59 PM
+X-Warn: OPTOUT
+X-Warn: BULKMAILER
+X-Note: Spam Tests Failed: OPTOUT, BULKMAILER
+X-Country-Path: ->->->->->United States->
+X-Note-Sending-IP: 209.85.192.64
+X-Note-Reverse-DNS: mail-qg0-domain.com
+X-Note-Return-Path: demcommunications+user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G281 G286 G374 G376 G580 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from mail-qg0-domain.com ([209.85.192.64] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 138077654;
+ Wed, 11 May 2015 15:42:59 -0500
+Received: by mail-qg0-domain.com with SMTP id e35sf10417646qge.0;
+        Wed, 11 May 2015 13:42:59 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=domain.com; s=20120806;
+        h=sender:mime-version:in-reply-to:references:date:message-id:subject
+         :From: Dean Ferguson <dean@idahodems.org>
+         :precedence:mailing-list:list-id:x-spam-checked-in-group:list-post
+         :list-help:list-archive:list-unsubscribe;
+        bh=f5h4Q/ker03ZjqN+S5HUcNYa+OO4wktkZKDMajpOUgc=;
+        b=RxazFPeApnKqqgbV2Zm8IbEpsFcz1b0njzpa1rei/aXrqV5CHaP9VUwh/45GLeUR7p
+         oVU1+Ic09x2HKLCJSfhDydBghGVCQwQjGhy+qOKtvWZcUf5uoQUS2c408G7f2Vk/ioBM
+         TdWbo/E5gy9Yi3n/z8UueRcPFijUFx4Bi/lRx80D2hYJdtkuLGgkHXjgLE6rkQKZAM5x
+         K24UAqtCWrlhwre4I9h0YWcM51AJ1Mm0Eq9yUmU5x2KOgutrqEHPcLU1GgVqiVssGO9l
+         MxjCUgV/XapAx2Hgcacnl6kchqqsATZ+mK0m+abKBdMchiZK1e9kYkIzlPuTyL/A8V7L
+         GKqA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=sender:x-gm-message-state:mime-version:in-reply-to:references:date
+         :message-id:subject:From: Dean Ferguson <dean@idahodems.org>
+         :x-original-authentication-results:precedence:mailing-list:list-id
+         :x-spam-checked-in-group:list-post:list-help:list-archive
+         :list-unsubscribe;
+        bh=f5h4Q/ker03ZjqN+S5HUcNYa+OO4wktkZKDMajpOUgc=;
+        b=PqDj4beXzKl/6IT4AtIo+rVHn5tZC6/wHzwv39NYcSsLrE4hLVaoZntiZLF9bAxokv
+         lbBcU7nxPgO1dII5s3n7v07w9nAJ0wgVwkfmETvewfobPsd0HLHi7AFuTpY5CDj7JtW6
+         INvSed5RO5ZQn8dqabTSVwkVIPR+WkpvSZZ4pv9gfAao9BSKUo0yMv0dEFMMyM5iaFcP
+         L3Tou7o9vgofXsQHNJrvHlehTq0iw/JWMQ+c4dVsrb/dwowYO+DN422YyoLX519c9RJc
+         6nsM9KT5MxQ57+JaPuTPt8UTVWlPq4cagNzlVMS+LE4micg3GVG4GU1F34bMmdOvwk7N
+         yD4Q==
+Sender: <user@domain.com>
+X-Gm-Message-State: AOPr4FUa36/K4G5P9NbV3MT8mHelBBjaw7i4pd8L7jl0YpTlnUIbJDzhJ9GMfPWfrtmFUA==
+X-Received: by 10.50.7.71 with SMTP id h7mr127515iga.8.1462999378867;
+        Wed, 11 May 2015 13:42:58 -0700 (PDT)
+X-BeenThere: user@domain.com
+Received: by 10.36.43.138 with SMTP id h132ls371281ita.41.canary; Wed, 11 May
+ 2015 13:42:58 -0700 (PDT)
+X-Received: by 10.66.100.197 with SMTP id fa5mr3711995pab.22.1462999378387;
+        Wed, 11 May 2015 13:42:58 -0700 (PDT)
+Received: from mail-vk0-domain.com (mail-vk0-domain.com.
+ [2607:f8b0:400c:c05::232])        by gmr-domain.com with ESMTPS id
+ q78si468929vkb.1.2016.05.11.13.42.58        for
+ <user@domain.com>        (version=TLS1_2
+ cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);        Wed, 11 May 2015 
+ 13:42:58 -0700 (PDT)
+Received-SPF: pass (domain.com: domain of user@domain.com designates 2607:f8b0:400c:c05::232 as permitted sender) client-ip=2607:f8b0:400c:c05::232;
+Received: by mail-vk0-domain.com with SMTP id m188so72590368vka.1
+        for <user@domain.com>; Wed, 11 May 2015 13:42:58
+ -0700 (PDT)
+X-Received: by 10.159.39.33 with SMTP id a30mr2420580uaa.59.1462999378074;
+ Wed, 11 May 2015 13:42:58 -0700 (PDT)
+Received: by 10.31.60.66 with HTTP; Wed, 11 May 2015 13:42:58 -0700 (PDT)
+In-Reply-To: <2user@domain.com>
+References: <2user@domain.com>
+Date: Wed, 11 May 2015 14:42:58 -0600
+Message-ID: <user@domain.com>
+Subject: Re: [COMMUNICATIONS] ALERT: Madeleine Morgenstern from Washington Examiner
+From: Dean Ferguson <dean@idahodems.org>
+To: "User" <user@domain.com>
+CC: "user@domain.com" <user@domain.com>
+Content-Type: multipart/alternative; boundary="94eb2c123cfa3d370a05329716b2"
+X-Original-Sender: user@domain.com
+X-Original-Authentication-Results: gmr-domain.com;       dkim=temperror (no
+ key for signature) user@domain.com;       spf=pass (domain.com:
+ domain of user@domain.com designates 2607:f8b0:400c:c05::232 as permitted
+ sender) user@domain.com
+Precedence: list
+Mailing-list: list user@domain.com; contact demcommunications+user@domain.com
+List-ID: <domain.com>
+X-Spam-Checked-In-Group: user@domain.com
+X-Google-Group-Id: 191713197092
+List-Post: <<<link>>>, <mailto:user@domain.com>
+List-Help: <<<link>>>, <mailto:demcommunications+user@domain.com>
+List-Archive: <<<link>>
+List-Unsubscribe: <mailto:googlegroups-manage+191713197092+user@domain.com>,
+ <<<link>>>
+Return-Path: demcommunications+user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Just curious ... she prodded me in Idaho on April 8. Ignored her because I
+didn't see an upside to giving that rotten newspaper a way to domain.com off
+Dems.
+
+Is she circling back around now?
+
+Also, do you all have a sense of what sort of ancillary "collectors
+edition" publications might be domain.com? I am thinking that our delegates may
+like to be in one of those.
+
+Does Organizationput together something like that that lists delegate names? You
+know how people like to see their names in print ...
+
+DF
+

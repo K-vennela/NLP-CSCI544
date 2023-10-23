@@ -1,0 +1,62 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Mon, 23 Feb 2015 15:35:02 +0100
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id 4BF1460062;	Mon, 23 Feb 2015 
+ 14:13:42 +0000 (GMT)
+Received: by domain.com (Postfix)	id B0E1DB6603E; Mon, 23 Feb 2015 
+ 15:35:02 +0100 (CET)
+Delivered-To: user@domain.com
+Received: from EduardoPC (unknown [191.95.251.236])	(using TLSv1 with cipher
+ AES256-SHA (256/256 bits))	(No client certificate requested)	by
+ domain.com (Postfix) with ESMTPSA id 24D68B6600B;	Mon, 23 Feb 2015 
+ 15:34:59 +0100 (CET)
+From: Eduardo Pardo <e.pardo@hackingteam.com>
+To: 'staff' <user@domain.com>
+CC: 'Eugene Ho' <user@domain.com>
+References: <1user@domain.com> <user@domain.com>
+In-Reply-To: <user@domain.com>
+Subject: RE: Welcome to Eugene!
+Date: Mon, 23 Feb 2015 09:35:00 -0500
+Message-ID: <001c01d04f75$ea5b3c00$bf11b400$@hackingteam.com>
+X-Mailer: Microsoft Outlook 15.0
+Thread-Index: AQIvf+JLix3cc7NGxk+Wy1t9/Ia2YJw/686Q
+Content-Language: en-us
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EDUARDO PARDO CARVAJALDB9
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1252371169_-_-"
+
+Welcome Eugene. Looking forward to meeting you! Good luck! --Eduardo PardoField Application Engineer Hacking TeamMilan Singapore Washington DCwww.hackingteam.com email: user@domain.com phone: +39 3666285429 mobile: +57 3003671760 From: Eduardo Pardo <e.pardo@hackingteam.com>
+Sent: Monday, February 23, 2015 9:33 AM
+To: staff
+Cc: Eugene Ho
+Subject: R: Welcome to Eugene! Welcome on Board Eugene!!!
+
+Hope to see you soon 
+-- 
+Emad Shehata 
+Key Account Manager 
+
+Sent from my mobile.
+ Da: Daniele Milan 
+Inviato: Monday, February 23, 2015 06:31 PM
+A: staff 
+Cc: Eugene Ho 
+Oggetto: Welcome to Eugene! 
+ I want to announce that today Eugene Ho joins HackingTeam! Give him a warm welcome! Eugene is very skilled and has long experience in dealing with challenging clients.He serves as Field Application Engineer resident in the Singapore office, following the APAC market. He’ll be of great help in making the difference in Asia as we do in the rest of the world. Welcome on board Eugene! Daniele --
+Daniele Milan
+Operations Manager
+
+HackingTeam
+Milan Singapore WashingtonDC
+www.hackingteam.com
+
+email: user@domain.com
+mobile: + 39 334 6221194
+phone:  +39 02 29060603 

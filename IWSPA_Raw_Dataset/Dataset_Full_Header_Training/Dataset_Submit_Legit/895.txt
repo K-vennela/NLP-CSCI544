@@ -1,0 +1,124 @@
+Received: from dncedge1.dnc.org (192.168.185.10) by DNCHUBCAS1.dnc.org
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 4 May
+ 2015 12:15:48 -0400
+Received: from domain.com (8.19.118.102) by dncwebmail.dnc.org
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 4 May 2015 
+ 12:15:41 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 896215719
+ for user@domain.com; Wed, 04 May 2015 11:15:48 -0500
+X-Note-AR-ScanTimeLocal: 5/4/2016 11:15:48 AM
+X-Policy: dnc.org
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:198.2.183.78 DOM:domain.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 100
+X-GBUdb-Analysis: 0, 198.2.183.78, Ugly c=0.389962 p=0.136364 Source Normal
+X-Signature-Violations: 100-5953858-1824-1854-m
+	100-5946975-1937-1956-m
+	100-5945063-4090-4115-m
+	100-5945064-24270-24300-m
+	100-5953858-0-27887-f
+X-Note-419: 31.2521 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/4/2016 11:15:43 AM
+X-Warn: BOUNCETRACKER Bounce User Tracking Found
+X-Warn: OPTOUT
+X-Warn: BULKMAILER
+X-Note: Spam Tests Failed: BOUNCETRACKER, OPTOUT, BULKMAILER
+X-Country-Path: LOCAL->United States->
+X-Note-Sending-IP: 198.2.183.78
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G280 G285 G339 G373 G375 G579 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from domain.com ([198.2.183.78] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 138768910
+ for user@domain.com; Wed, 04 May 2015 11:15:47 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=domain.com;
+ h=Subject:From: =?utf-8?Q?The=20National=20Democratic=20Club?=
+ bh=+NSeM6GXOwwaKSSqgeOHxDosgQ0=;
+ b=J7DNCpkJ/x+lv9wMzAuBtCDCuRvuRSXX0e+CWkPf/TX9PcaL1UQ9TJlOPYbUrZG8/n9JwIxYLNVl
+   OfKGbwiRvfS4lQ8TFbyLVbKMaaKYjs/psMPtZZXy3iQX/pqjKx/Ks2GU6zQ5ec0IKWwrCg0iepeq
+   fZji3HqvsXqPtDk0PAo=
+Received: from (127.0.0.1) by domain.com id h58g3222s7g6 for
+ <user@domain.com>; Wed, 4 May 2015 16:15:44 +0000 (envelope-from
+ <user@domain.com>)
+Subject: =?utf-8?Q?See=20you=20tomorrow=20at=20NDC=20for=20some=20Cinco=20de=20Mayo=20fun=21?=
+From: =?utf-8?Q?The=20National=20Democratic=20Club?=
+	<user@domain.com>
+Reply-To: =?utf-8?Q?The=20National=20Democratic=20Club?=
+	<user@domain.com>
+To: <user@domain.com>
+Date: Wed, 4 May 2015 16:15:44 +0000
+Message-ID: <3137user@domain.com>
+X-Mailer: MailChimp Mailer - **CIDf30da214d30508b56cd4**
+X-Campaign: mailchimp3137eed03aff9fb96d80d7f8d.f30da214d3
+X-campaignid: mailchimp3137eed03aff9fb96d80d7f8d.f30da214d3
+X-Report-Abuse: Please report abuse for this campaign here: <<link>>
+X-MC-User: 3137eed03aff9fb96d80d7f8d
+X-Feedback-ID: 18592315:18592315.991285:us7:mc
+List-ID: 3137eed03aff9fb96d80d7f8dmc list <3137eed03aff9fb96d80d7f8d.16417.list-domain.com>
+X-Accounttype: pd
+List-Unsubscribe: <mailto:user@domain.com?subject=unsubscribe>, <<<link>>>
+Sender: The National Democratic Club
+	<user@domain.com>
+x-mcda: FALSE
+Content-Type: multipart/alternative;
+	boundary="_----------=_MCPart_1831826264"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: dncedge1.dnc.org
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+See you tomorrow 05/05/16 for Cinco de Mayo!
+------------------------------------------------------------
+Email not displaying correctly?
+View it in your browser (<<link>>
+f9fb96d80d7f8d&id=3Df30da214d3&e=3D0508b56cd4) .
+
+** Cinco de Mayo!
+------------------------------------------------------------
+
+** Thursday=2C May 5th
+------------------------------------------------------------
+Join us this tomorrow and try our Mango Margarita Sunrise! Happy Hour will=
+ be extended until 9pm. Trivia will begin at 7:00pm!
+
+How does it work?
+The hosts go through three rounds of questions. The first round is made up=
+ of 21 rapid fire questions where the patrons have around 30 to 45 seconds=
+ to write their chosen answer on a sheet of paper given by the hosts.
+The second round offers a harder set of four questions that unusually winn=
+ow down the field and cause separation between the teams.
+The third and final round is very similar to =E2=80=9CFinal Jeopardy=E2=80=
+=9D: the hosts give the folks the topic=2C they bid a certain number of th=
+e points they have won over the last two rounds=2C the hosts reveal the qu=
+estion once the bids are turned in=2C and grade the answers accordingly. I=
+t's a blast!
+
+See you tomorrow!
+Forward to a Friend (<<link>>
+03aff9fb96d80d7f8d&id=3Df30da214d3&e=3D0508b56cd4)
+
+Copyright =C2=A9 2015 National Democratic Club=2C All rights reserved.
+ Member of the National Democratic Club
+
+Our mailing address is:
+National Democratic Club
+30 Ivy St SE=2C
+Washington=2C DC 20003
+USA
+
+** unsubscribe from this list (<<link>>
+scribe?u=3D3137eed03aff9fb96d80d7f8d&id=3Df81fa5d52c&e=3D0508b56cd4&c=3Df30d=
+a214d3)
+| ** update subscription preferences (<<link>>
+m/profile?u=3D3137eed03aff9fb96d80d7f8d&id=3Df81fa5d52c&e=3D0508b56cd4)

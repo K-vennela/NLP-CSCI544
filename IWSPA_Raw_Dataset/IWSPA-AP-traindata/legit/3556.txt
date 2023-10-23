@@ -1,0 +1,10 @@
+<x-flowed>
+Dear Claudia,
+The 13th session of the Working Group on Climate Modelling (WGCM) is 
+going to be taking place in San Francisco at the end of this month. 
+PCMDI is hosting this event. I just received an invitation to talk about 
+IDAG at this meeting. I'd be very happy to do this, but would appreciate 
+some guidance from you and others regarding what aspects of IDAG you'd 
+like me to discuss.
+With best regards,
+Ben

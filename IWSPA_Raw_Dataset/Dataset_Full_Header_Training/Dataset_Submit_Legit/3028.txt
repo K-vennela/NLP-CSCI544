@@ -1,0 +1,51 @@
+From: "Deadline.com" <alerts@deadline.com>
+To: "User"
+Subject: [domain.com] Int'l Box Office:  'Annabelle' Still A Doll With $26.5M Frame; 'Fury' Wages $11.2M; 'Lucy' Outmuscles 'Hercules' In China; 'Guardians' Warps To #3 On 2015 Global Hit List; More
+Date: Sun, 26 Oct 2015 15:14:57 -0400
+Message-ID: <20141026191457.3248081.5272@domain.com>
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQJ36ANHG/z/C6XOu68aJtiuVDhj8Q==
+Content-Language: en-us
+x-ms-exchange-organization-authas: Internal
+x-ms-exchange-organization-authmechanism: 10
+x-ms-exchange-organization-authsource: domain.com
+x-forefront-antispam-report: CIP:65.39.215.134;CTRY:US;SRV:BULK;EFV:NLI;SFV:NSPM;SFS:(438002)(199003)(46034005)(18804003)(189002)(95736001)(50986999)(36756003)(64026002)(50226001)(44976005)(19580405001)(106866001)(15187005004)(104766002)(31966008)(47976999)(76482002)(62966002)(102836001)(77156001)(146001)(18206015028)(20776003)(4396001)(15202345003)(19580395003)(180100001)(956001)(104166001)(99396003)(84326002)(15975445006)(92566001)(85852003)(92726001)(93916002)(87286001)(89996001)(19618635001)(87836001)(88136002)(120916001)(77096002)(88526003)(21056001)(71186001)(46102003)(80022003)(106466001)(19300405004)(19617315012)(18926405002)(229853001)(107886001)(110476001)(2351001)(107046002)(85306004)(2361001)(110136001)(94906001)(7059028)(562404015)(15398625002)(85226002)(17308445002)(342395003)(19623405001);DIR:INB;SFP:;SCL:1;SRVR:BY2FFO11HUB041;H:mx-domain.com;FPR:;MLV:sfv;PTR:mx-domain.com;A:1;MX:1;LANG:en;
+received-spf: Pass (domain.com: domain of domain.com designates 65.39.215.134 as permitted sender) receiver=domain.com; client-ip=65.39.215.134; helo=mx-domain.com;
+authentication-results: spf=pass (sender IP is 65.39.215.134) user@domain.com; 
+x-microsoft-antispam: BCL:5;PCL:0;RULEID:(71001)(120001);SRVR:BY2FFO11HUB041;
+x-eopattributedmessage: 0
+List-Unsubscribe: <<<link>>>, <mailto:user@domain.com>
+x-domain.com: domain.com
+dkim-signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1414350897;	s=sailthru; d=deadline.com;	h=Date:From: "Deadline.com" <alerts@deadline.com>
+x-exchange-antispam-report-test: UriScan:;
+x-rpcampaign: stdgp3248081
+x-info: user@domain.com
+x-iadb-ip-reverse: 4.56.18.172
+x-iadb-url: <<link>>
+x-tm-id: 20141026191457.3248081.5272
+x-iadb-ip: 172.18.56.4
+x-unsubscribe-web: <<link>>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+Weekend Box Office News Alert:
+
+Int'l Box Office:  'Annabelle' Still A Doll With $26.5M Frame; 'Fury' Wages $11.2M; 'Lucy' Outmuscles 'Hercules' In China; 'Guardians' Warps To #3 On 2015 Global Hit List; More
+
+Of the big openers this weekend internationally, Sony's Fury was among the most anticipted. Having just made its European premiere at the London Film Festival, the Brad Pitt war movie ended up with $11.2M from 1,975 screens in 15 markets. Predictably, the UK was a No. 1 grab with $4.2M from 680 screens. Sony puts that at par with Captain Phillips (which opened the LFF last year). In France, Fury r Read more...
+
+Box Office Stats:
+
+Recent
+
+This email was sent to user@domain.com by Deadline. To ensure delivery to your inbox (and not your spam folder), please add user@domain.com to your address book. If you prefer not to continue receiving email communications, please unsubscribe here instead of replying to this email.
+
+To update your profile and customize what email alerts and newsletters you receive, please click here.
+
+Having trouble reading this email? View the web version here.
+
+Copyright © 2014 PMC, All rights reserved.
+
+1​1​1​7​5 Santa Monica Blvd. Los Angeles, CA 9​0​0​2​5
+

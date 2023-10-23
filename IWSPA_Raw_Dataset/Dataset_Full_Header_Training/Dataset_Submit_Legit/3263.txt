@@ -1,0 +1,68 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Thu, 5 Feb 2015 15:00:39 +0100
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id 6F3A9600EA;	Thu,  5 Feb 2015 
+ 13:39:58 +0000 (GMT)
+Received: by domain.com (Postfix)	id 6EE812BC0F1; Thu,  5 Feb 2015 
+ 15:00:39 +0100 (CET)
+Delivered-To: user@domain.com
+Received: from manta.hackingteam.com (manta.hackingteam.com [192.168.100.25])
+	by domain.com (Postfix) with ESMTP id F00492BC03E	for
+ <user@domain.com>; Thu,  5 Feb 2015 15:00:38 +0100 (CET)
+X-ASG-Debug-ID: 1423144837-066a751f04309d0001-NaEkud
+Received: from domain.com (domain.com
+ [206.46.173.7]) by manta.hackingteam.com with ESMTP id jZz1iM0lgO2cjAtk for
+ <user@domain.com>; Thu, 05 Feb 2015 15:00:37 +0100 (CET)
+X-Barracuda-Envelope-From: Eric Rabe <e.rabe@hackingteam.com>
+X-Barracuda-Apparent-Source-IP: 206.46.173.7
+Received: from [10.1.10.74] ([73.13.158.239]) by domain.com
+ (Oracle Communications Messaging Server 7.0.5.32.0 64bit (built Jul 16 2014))
+ with ESMTPA id <0user@domain.com> for
+ user@domain.com; Thu, 05 Feb 2015 08:00:22 -0600 (CST)
+X-CMAE-Score: 0
+X-CMAE-Analysis: v=2.1 cv=QM3fnbPO c=1 sm=1 tr=0	a=Mzran/T9DZW7yPH9aO4/1A==:117
+ a=Poo5ZFgGAAAA:8 a=oR5dmqMzAAAA:8	a=-9mUelKeXuEA:10 a=0HtSIViG9nkA:10
+ a=PDKhxM19u8xf7ZsmZDQA:9	a=dG9CPzXrZdW08jao:21 a=qLTO-WCUsMYyp6z-:21
+ a=QEXdDO2ut3YA:10	a=0EW0mDOKAfEA:10 a=vawdeKvL_PUA:10 a=P4lJlTPLAFrthPjOmRcA:9
+	a=QzHNYnvXeNnVT1dw:21 a=-oA5Hb37_uKfED70:21 a=qDguv2CxBgGm2CfR:21
+	a=UiCQ7L4-1S4A:10 a=hTZeC7Yk6K0A:10 a=_W_S_7VecoQA:10
+Subject: Re: E Rabe GOES
+From: Eric Rabe <e.rabe@hackingteam.com>
+X-ASG-Orig-Subj: Re: E Rabe GOES
+In-Reply-To: <006201d04124$43e40730$cbac1590$@user@domain.com>
+Date: Thu, 5 Feb 2015 09:00:14 -0500
+CC: <user@domain.com>
+Message-ID: <0user@domain.com>
+References: <91user@domain.com>
+ <006201d04124$43e40730$cbac1590$@user@domain.com>
+To: Lucia Rana <user@domain.com>
+X-Mailer: Apple Mail (2.2070.1)
+X-Barracuda-Connect: domain.com[206.46.173.7]
+X-Barracuda-Start-Time: 1423144837
+X-Barracuda-URL: <<link>>:8000/cgi-mod/mark.cgi
+X-Virus-Scanned: by bsmtpd at hackingteam.com
+X-Barracuda-BRTS-Status: 1
+X-Barracuda-Spam-Score: 0.01
+X-Barracuda-Spam-Status: No, SCORE=0.01 using global scores of TAG_LEVEL=3.5 QUARANTINE_LEVEL=1000.0 KILL_LEVEL=8.0 tests=BSF_SC0_SA_TO_FROM_DOMAIN_MATCH, HTML_MESSAGE
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.3.14959
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.00 HTML_MESSAGE           BODY: HTML included in message
+	0.01 BSF_SC0_SA_TO_FROM_DOMAIN_MATCH Sender Domain Matches Recipient
+	                           Domain
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=ERIC RABEC30
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1252371169_-_-"
+
+Thanks so much, and have a good rest of your day.
+
+Eric Rabe_________________________________________________________tel: 215-839-6639mobile: 215-913-4761Skype: user@domain.com
+

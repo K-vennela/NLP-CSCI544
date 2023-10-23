@@ -1,0 +1,16 @@
+From: "Smith, Sidonie" <user@domain.com>
+To: "user@domain.com" <user@domain.com>
+Date: Wed, 10 Mar 2010 09:42:25 -0500
+Subject:
+Thread-Index: AQHKwF/ms4/DzxZrmEK8xddwHvQ/8w==
+Accept-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-AuthSource: CASHUB01.exchange.cornell.edu
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+acceptlanguage: en-US
+x-ph: V4.1@orchid
+x-pmx-version: 5.5.9.395186, Antispam-Engine: 2.7.2.376379, Antispam-Data:
+2010.3.10.143049
+x-pmx-cornell-spam-checked: walnut
+Your Mailbox Has Exceeded It Quota/Limit As Set By Your Administration, And You May Not Be Able To Send Or Receive New Mails Until You Re-Validate It. To Re-Validate, Please CLICK HERE hxxp://127.0.0.1/

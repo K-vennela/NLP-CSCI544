@@ -1,0 +1,137 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Thu, 12 May
+ 2015 14:07:50 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Thu, 12 May 2015 
+ 14:07:45 -0400
+Received: from [10.87.0.110] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 911973234;
+ Thu, 12 May 2015 13:07:42 -0500
+X-Note-AR-ScanTimeLocal: 5/12/2016 1:07:36 PM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: Too many policies to list
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @mail.house.gov ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->United States->
+X-Note-Sending-IP: 143.228.181.82
+X-Note-Reverse-DNS: s-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from [143.228.181.82] (HELO s-domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 141511933;
+ Thu, 12 May 2015 13:07:35 -0500
+Received: from HEOC-domain.com (heoc-domain.com
+ [143.228.151.96])	by s-domain.com  with ESMTP id u4CI5iEr013129	(using
+ TLSv1 with cipher ECDHE-RSA-AES256-SHA (256 bits) verified FAIL);	Thu, 12 May
+ 2015 14:05:44 -0400
+X-DKIM: OpenDKIM Filter v2.4.3 s-domain.com u4CI5iEr013129
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mail.house.gov;
+	s=November2012-msg-mhg; t=1463076368;
+	bh=ffRktCkD/Q1laA18bFZ2dv5BCOxooT7E732/MGpCQiY=;
+	h=From: Democratic Leader <Democratic.Leader@mail.house.gov>
+	b=B2kASZSYlNncSLSXPQZPo/XpeTqsWOjjkTPdpLKc0ohdqp3+mDz2+gVoCU9wPwxml
+	 P6f6jC7aZWFLyFemQeDcfMBdIw9Ekh+zpHCdER51nw+Vpt+wh6GZQw0vhpfThRaGWG
+	 sN3xZ4CGSZRsOC3kTug+fPac1VI6zwDN1HH0+urA=
+Received: from HEOC-domain.com ([fe80::cdcd:f28:6aa5:7d5a]) by
+ HEOC-domain.com ([::1]) with mapi id 14.03.0279.002; Thu, 12 May 2015 
+ 14:05:39 -0400
+From: Democratic Leader <Democratic.Leader@mail.house.gov>
+Subject: PELOSI -- Statement in Celebration of Israeli Independence Day
+Thread-Topic: PELOSI -- Statement in Celebration of Israeli Independence Day
+Thread-Index: AdGseNGF4caLgWLoQse7ofCyXfvS4Q==
+Date: Thu, 12 May 2015 18:05:37 +0000
+Message-ID: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+x-originating-ip: [143.231.232.152]
+Content-Type: multipart/related;
+	boundary="_004_CA58D7DE03EE0A4D8D0DF860799FAACC0CD88682HEOCHRM01USHous_";
+	type="multipart/alternative"
+To: Undisclosed recipients:;
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+[cid:image001.jpg@01D00FCE.229082C0]<<<link>>>
+
+    May 12, 2015 
+
+Contact: Drew Hammill/Evangeline George
+
+202-226-7616
+
+Pelosi Statement in Celebration of Israeli Independence Day
+
+Washington, D.C. =96 House Democratic Leader Nancy Pelosi released the foll=
+owing statement today marking Yom Ha=92atzmaut, Israel=92s Independence Day=
+:
+
+=93Today we celebrate the ingenuity, tenacity, and boundless courage of a p=
+roud nation.  For 68 years, the State of Israel has grown and blossomed.  T=
+hrough the beautiful commitment to the arts and sciences, technology and me=
+dicine, Israel=92s innumerable gifts to the world fosters our shared hope f=
+or a better future.
+
+=93Forged by pioneers and fulfilled by immigrants, the story of Israel rese=
+mbles the American story.  As the first nation to recognize the State of Is=
+rael, on this day and every day, the United States celebrates the unshakeab=
+le bond between our nations.  United by our shared democratic values, uplif=
+ted by our common purpose, and strengthened by our commitment to creating a=
+ lasting peace, the U.S. and Israel continue to stand steadfast in our effo=
+rts to sow peace and prosperity in the region and beyond.
+
+=93As we celebrate Israeli Independence Day, let us celebrate the rich hist=
+ory of this great nation and rejoice in our enduring friendship.  Let us pa=
+y tribute to the greatest political achievement of the 20th century: the es=
+tablishment of the State of Israel.  On behalf of my constituents, I extend=
+ best wishes to the people of Israel for a joyous Independence Day.=94
+
+# # #
+
+________________________________
+Press Release Link:
+<<link>>
+domain.com<<<link>>
+=3D27184&id=3D0o02k0tcpzlu6ejxx98kx2m9xt1wa&id2=3Dig3p7nh2dqu39rmj7s99ukn2q=
+jjbw&subscriber_id=3Dbaxcmkznpiaunskdcbzdudpovqtyblh&delivery_id=3Dcbsgtjub=
+xlceyjuegwyqomgtujbfbmp&tid=3D3.ajA.CBijRQ.Ck7A.T5fo..ARq9jw.b..l.A3-W.a.UR=
+xh7A.URxh7A.VOC4Gg> =96 Twitter<<<link>>
+=3DLink&ssid=3D27184&id=3D0o02k0tcpzlu6ejxx98kx2m9xt1wa&id2=3D3fgjr464dpiqd=
+27ofrqp17w526f1d&subscriber_id=3Dbaxcmkznpiaunskdcbzdudpovqtyblh&delivery_i=
+d=3Dcbsgtjubxlceyjuegwyqomgtujbfbmp&tid=3D3.ajA.CBijRQ.Ck7A.T5fo..ARq9jw.b.=
+.l.A3-W.a.URxh7A.URxh7A.VOC4Gg> =96 YouTube<<<link>>
+=3Dulink&fn=3DLink&ssid=3D27184&id=3D0o02k0tcpzlu6ejxx98kx2m9xt1wa&id2=3D3i=
+q1d25awniptoql0phq0ayxiyq8a&subscriber_id=3Dbaxcmkznpiaunskdcbzdudpovqtyblh=
+&delivery_id=3Dcbsgtjubxlceyjuegwyqomgtujbfbmp&tid=3D3.ajA.CBijRQ.Ck7A.T5fo=
+..ARq9jw.b..l.A3-W.a.URxh7A.URxh7A.VOC4Gg> =96 Flickr<<<link>>
+/public/?q=3Dulink&fn=3DLink&ssid=3D27184&id=3D0o02k0tcpzlu6ejxx98kx2m9xt1w=
+a&id2=3Djgqqrc9j8ruqfvzuezaxlw3rujzvq&subscriber_id=3Dbaxcmkznpiaunskdcbzdu=
+dpovqtyblh&delivery_id=3Dcbsgtjubxlceyjuegwyqomgtujbfbmp&tid=3D3.ajA.CBijRQ=
+.Ck7A.T5fo..ARq9jw.b..l.A3-W.a.URxh7A.URxh7A.VOC4Gg> =96 Facebook<<<link>>
+domain.com/public/?q=3Dulink&fn=3DLink&ssid=3D27184&id=3D0o02k0tcpzlu6ejx=
+x98kx2m9xt1wa&id2=3domain.com&subscriber_id=3Dbaxcmkznp=
+iaunskdcbzdudpovqtyblh&delivery_id=3Dcbsgtjubxlceyjuegwyqomgtujbfbmp&tid=3D=
+3.ajA.CBijRQ.Ck7A.T5fo..ARq9jw.b..l.A3-W.a.URxh7A.URxh7A.VOC4Gg> =96 The Ga=
+vel<<<link>>
+2k0tcpzlu6ejxx98kx2m9xt1wa&id2=3Dfmonicjc2fq1aiu6gebec0bui3gm7&subscriber_i=
+d=3Dbaxcmkznpiaunskdcbzdudpovqtyblh&delivery_id=3Dcbsgtjubxlceyjuegwyqomgtu=
+jbfbmp&tid=3D3.ajA.CBijRQ.Ck7A.T5fo..ARq9jw.b..l.A3-W.a.URxh7A.URxh7A.VOC4G=
+g>
+

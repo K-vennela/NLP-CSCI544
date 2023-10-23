@@ -1,0 +1,63 @@
+Received: from domain.com (146.215.230.104) by
+ domain.com (43.130.141.78) with Microsoft SMTP Server id
+ 8.3.342.0; Tue, 13 May 2015 11:01:33 -0700
+Received: from domain.com ([160.33.194.228])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s4DI1WgT030234	for <user@domain.com>; Tue, 13 May 2015 
+ 18:01:32 GMT
+Received: from mail165-va3-domain.com (mail-domain.com
+ [216.32.180.117])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s4DI2ZqV009606
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Tue, 13 May 2015 18:02:35 GMT
+Received: from mail165-va3 (localhost [127.0.0.1])	by
+ mail165-va3-domain.com (Postfix) with ESMTP id B2587340365	for
+ <user@domain.com>; Tue, 13 May 2015 18:01:31 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:199.59.150.99;KIP:(null);UIP:(null);IPV:NLI;H:spruce-goose-bd.twitter.com;RD:spruce-goose-bd.twitter.com;EFVD:NLI
+X-SpamScore: 4
+X-BigFish: vps4(z588dhz9371Ic616hd772he0eahc857hzz1f42h2148h1ee6h1de0h1fdah2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6h208ch2233kzz1df219h17326ah8275bh1bc7b9h8275dh1de097h186068h172c6ch1ce121iz2fh5fh2a8h839ha12hd25h1288h12a5h12bdh137ah13eah1441h14ddh1504h1537h153bh162dh1631h1758h18e1h1901h1946h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1fe8h1ff5h20f0h2216h22d0h2336h2438h2461h2487h24d7h2516h2545h255eh25f6h2605h268bh26d3h27e2h282bh214ai)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail165-va3: domain of bounce.twitter.com designates 199.59.150.99 as permitted sender) client-ip=199.59.150.99; user@domain.com; helo=spruce-goose-bd.twitter.com ;.twitter.com ;
+Received: from mail165-va3 (localhost.localdomain [127.0.0.1]) by mail165-va3
+ (MessageSwitch) id 1400004089182885_31211; Tue, 13 May 2015 18:01:29 +0000
+ (UTC)
+Received: from domain.com (unknown [10.7.14.239])	by
+ mail165-domain.com (Postfix) with ESMTP id 252621C006C	for
+ <user@domain.com>; Tue, 13 May 2015 18:01:29 +0000 (UTC)
+Received: from spruce-goose-bd.twitter.com (199.59.150.99) by
+ domain.com (10.7.99.54) with Microsoft SMTP Server (TLS) id
+ 14.16.227.3; Tue, 13 May 2015 18:01:23 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=twitter.com;
+	s=dkim-201303; t=1400004081;
+	bh=PmcPza1jr2xC/0nU1UO/xA0hV8skzLREG0iELWDrfFk=;
+	h=Date:From: Twitter <info@twitter.com>
+	b=LZ6O70L9TsRyszja/SDXUZ+Nb7jnIYRlb2Sn1FNkk93DTypLtJ5Oa6PLApdTD95wN
+	 cXFTSy98u54SsOWNZRHDfgq/fXM4XzoLWrHbJGiOF9EunYDpjk1UYWgYF5IR3yQnFx
+	 +zFGqXJoo4Jh4IL6zNvJVkeDlXBvYtifg6LIgvFU=
+X-MSFBL: YW15X3Bhc2NhbEBzcGUuc29ueS5jb21Ac21mMS1iZHEtMjMtc3IxLUV2ZXJ5dGhp
+	bmcuMTk5QEV2ZXJ5dGhpbmdAYW15X3Bhc2NhbFxAc3BlLnNvbnkuY29tXEAxMDRc
+	QDgzMDMxMTgzXEAwXEAxNmMzM2NjY2EyZjYxMDUwY2RlMWJiYmRjZWYzZjEzZjZj
+	ZWZlYzBi
+Date: Tue, 13 May 2015 18:01:21 +0000
+From: Twitter <info@twitter.com>
+To: Amy Pascal <user@domain.com>
+Subject: Spider-Man retweeted a tweet from Sherfy, Austin on Twitter!
+Precedence: Bulk
+Message-ID: <90.user@domain.com>
+Return-Path: user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+<<link>>+21+20140512
+        <<link>>+21+20140512                    Amy Pascal,     
+Here's a tweet that was just shared on Twitter.         
+
+                 Go to Twitter           
+
+
+
+
+                  <<link>>+20+20140512&t;=1              
+
+

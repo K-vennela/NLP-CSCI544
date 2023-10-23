@@ -1,0 +1,60 @@
+Received: from domain.com (146.215.230.105) by
+ domain.com (43.130.141.76) with Microsoft SMTP Server id
+ 8.3.297.1; Fri, 14 Feb 2015 18:07:19 -0800
+Received: from domain.com ([160.33.194.230])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s1F27GX6014932	for <user@domain.com>; Sat, 15 Feb 2015 
+ 02:07:17 GMT
+Received: from mail161-ch1-domain.com (mail-domain.com
+ [216.32.181.169])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s1F27FHY003392
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Sat, 15 Feb 2015 02:07:16 GMT
+Received: from mail161-ch1 (localhost [127.0.0.1])	by
+ mail161-ch1-domain.com (Postfix) with ESMTP id 870252001FB	for
+ <user@domain.com>; Sat, 15 Feb 2015 02:07:15 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:199.59.150.93;KIP:(null);UIP:(null);IPV:NLI;H:spruce-goose-ax.twitter.com;RD:spruce-goose-ax.twitter.com;EFVD:NLI
+X-SpamScore: 4
+X-BigFish: vps4(zz9371Ic89bhc616hd772hc857hzz1f42h2148h208ch1ee6h1de0h1fdah2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6hzz1730fah177df4h17326ah8275bh1bc7b9h8275dh1de097h186068h172c6chb64e9k1ce121iz2fh5fh2a8h839ha12hd25h1288h12a5h12bdh137ah13eah1441h14ddh1504h1537h153bh162dh1631h1758h18e1h1901h1946h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1fe8h1ff5h20f0h2216h22d0h2336h2438h2461h2487h24d7h2516h2545h255eh214ai1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail161-ch1: domain of bounce.twitter.com designates 199.59.150.93 as permitted sender) client-ip=199.59.150.93; user@domain.com; helo=spruce-goose-ax.twitter.com ;.twitter.com ;
+Received: from mail161-ch1 (localhost.localdomain [127.0.0.1]) by mail161-ch1
+ (MessageSwitch) id 1392430033944014_15853; Sat, 15 Feb 2015 02:07:13 +0000
+ (UTC)
+Received: from domain.com (domain.com
+ [10.43.68.242])	by mail161-domain.com (Postfix) with ESMTP id
+ E1FD2260070	for <user@domain.com>; Sat, 15 Feb 2015 02:07:13 +0000
+ (UTC)
+Received: from spruce-goose-ax.twitter.com (199.59.150.93) by
+ domain.com (10.43.70.18) with Microsoft SMTP Server (TLS) id
+ 14.16.227.3; Sat, 15 Feb 2015 02:07:13 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=twitter.com;
+	s=dkim-201303; t=1392430032;
+	bh=BF0XHDuFAkLuNoFb5MYVDgpCfj4fxue6JP+iAWY6SEo=;
+	h=Date:From: Twitter <info@twitter.com>
+	b=AlW0Nd6XxzgRTvD3GOD8pJsXm2bjRzQrVLmoLydHzA8fpO4xRuyHPZBhcQXqEAstD
+	 Jdpj1xMFlDVAjkha1MHh2oRsym5WLbAiBLk/zUjwG5tfkrEHlU2A3nexoVlco5xoVs
+	 4U5h/JQa0rTwgRzgLayckOViCi5Y0lOD5gyYGySI=
+X-MSFBL: YW15X3Bhc2NhbEBzcGUuc29ueS5jb21Ac21mMS1iZHAtMjMtc3IxLUV2ZXJ5dGhp
+	bmcuMTkzQEV2ZXJ5dGhpbmdAYW15X3Bhc2NhbFxAc3BlLnNvbnkuY29tXEA5M1xA
+	ODMwMzExODNcQDBcQGIyZmE1ZWIxMWIxZWUyMjFkM2QxZWNkZWYzMjU4ZDU5NjE0
+	ODA1NGM=
+Date: Sat, 15 Feb 2015 02:07:12 +0000
+From: Twitter <info@twitter.com>
+To: Amy Pascal <user@domain.com>
+Subject: 22 Jump Street favorited a photo from /\ on Twitter!
+Precedence: Bulk
+Message-ID: <62.user@domain.com>
+Return-Path: user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+<<link>>+21+20140213
+        <<link>>+21+20140213                     Amy Pascal,     
+Here's a photo that was just shared on Twitter.         
+
+                 Go to Twitter           
+
+
+

@@ -1,0 +1,62 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.4.9])
+	by domain.com (Postfix) with ESMTP id C414A46907
+	for <user@domain.com>; Tue,  5 Jun 2015 05:20:55 -0400 (EDT)
+Received: from domain.com (domain.com [192.168.6.4])
+	by domain.com (Postfix) with ESMTP id CF0AE131F906
+	for <user@domain.com>; Tue,  5 Jun 2015 05:20:55 -0400 (EDT)
+Received: from mv-is4.de (mv-is11.de [87.106.81.12])
+	by domain.com (Postfix) with ESMTP id C3AEF6FA1A8
+	for <user@domain.com>; Tue,  5 Jun 2015 05:20:55 -0400 (EDT)
+Received: by mv-is4.de (Postfix, from userid 30)
+	id B35694A2861; Tue,  5 Jun 2015 12:00:53 +0200 (CEST)
+To: user@domain.com
+Subject: Please Update Your Account Informations
+From: Online Banking <securityalert@wachovia.com>
+Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Message-Id: <20070605100053.user@domain.com>
+Date: Tue,  5 Jun 2015 12:00:53 +0200 (CEST)
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1357
+
+Dear Customer,
+It has come to our attention that your Wachovia
+account information needs to be
+
+updated as part of our continuing commitment to protect your account in this
+year 2015 and to
+
+reduce the instance of fraud on our website. If you could please take 5-10
+minutes
+
+out of your online experience and update your personal records you will not run
+into
+
+any future problems with the online service.
+Once you have updated your account records your
+Wachovia account
+
+service will not be interrupted and will continue as normal.
+To update your Wachovia records click on the
+following link:
+
+<<link>>
+25a
+
+Thank You.
+Accounts Management As outlined in our User
+    Agreement, Wachovia will
+
+    periodically send you information about site changes and enhancements.
+domain.com our Privacy Policy and User Agreement
+    if you have any questions.
+
+<<link>>
+

@@ -1,0 +1,62 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id A908F23CA7D
+	for <user@domain.com>; Sat,  7 Apr 2015 18:04:42 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id nyqF4vCfyL6F for <user@domain.com>;
+	Sat,  7 Apr 2015 18:04:40 -0500 (CDT)
+Received: from domain.com (domain.com [129.7.234.211])
+	by domain.com (Postfix) with ESMTP id 6773823CA78
+	for <user@domain.com>; Sat,  7 Apr 2015 18:04:34 -0500 (CDT)
+Received: from domain.com (domain.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id C2CD84E9A982
+	for <user@domain.com>; Sat,  7 Apr 2015 18:04:32 -0500 (CDT)
+Received: from domain.com.in (domain.com.in [125.22.76.8])
+	by domain.com (Postfix) with SMTP id 07E1E4E9A986
+	for <user@domain.com>; Sat,  7 Apr 2015 18:04:21 -0500 (CDT)
+Received: from domain.com.in (localhost.localdomain [127.0.0.1])
+	by domain.com.in (Postfix) with ESMTP id 024A29400C5;
+	Sun,  8 Apr 2015 02:21:45 +0530 (IST)
+Received: from 74.198.87.35
+        (SquirrelMail authenticated user wbmsc)
+        by domain.com.in with HTTP;
+        Sun, 8 Apr 2015 02:21:45 +0530 (IST)
+Message-ID: <45806.74.198.87.35.1333831905.user@domain.com>
+Date: Sun, 8 Apr 2015 02:21:45 +0530 (IST)
+Subject: collection issue,
+From: "David Langford" <wbmsc@wbhealth.gov.in>
+Reply-To: user@domain.com
+User-Agent: SquirrelMail/1.4.8-5.el5.centos.10
+MIME-Version: 1.0
+Content-Type: text/plain;charset=iso-8859-1
+X-Priority: 3 (Normal)
+Importance: Normal
+To: undisclosed-recipients:;
+X-domain.com.in-MailScanner-Information: Please contact the ISP for more information
+X-domain.com.in-MailScanner-ID: 024A29400C5.A0BB4
+X-domain.com.in-MailScanner: Found to be clean
+X-domain.com.in-MailScanner-SpamCheck: not spam, SpamAssassin (cached,
+	score=-1.44, required 5, autolearn=not spam, ALL_TRUSTED -1.44)
+X-domain.com.in-MailScanner-From: "David Langford" <wbmsc@wbhealth.gov.in>
+Content-Transfer-Encoding: quoted-printable
+X-PMX-Version: 5.5.9.395186, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2012.4.7.225416
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 75
+
+Good day Sir/Madame,
+I am contacting you regarding a collection issue, please can you help? I
+will be glad if you can help
+me with this issue or if you can give me a domain.com your response.
+Sincerely,
+David Langford
+
+--=20
+This message has been scanned for viruses and
+dangerous content by MailScanner, and is
+believed to be clean.

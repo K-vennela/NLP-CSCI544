@@ -1,0 +1,57 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id B75C523CA92
+	for <user@domain.com>; Wed, 14 Dec 2015 11:01:13 -0600 (CST)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id JVRsnc2mE5-b for <user@domain.com>;
+	Wed, 14 Dec 2015 11:01:11 -0600 (CST)
+Received: from domain.com (domain.com [129.7.234.210])
+	by domain.com (Postfix) with ESMTP id 2020123CA8D
+	for <user@domain.com>; Wed, 14 Dec 2015 11:01:10 -0600 (CST)
+Received: from domain.com (domain.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 57DD855E097F
+	for <user@domain.com>; Wed, 14 Dec 2015 11:01:09 -0600 (CST)
+Received: from domain.com (unknown [213.210.195.253])
+	by domain.com (Postfix) with ESMTP id 5F53355E09E7
+	for <user@domain.com>; Wed, 14 Dec 2015 11:01:07 -0600 (CST)
+Received: from transfer.eu ([193.87.160.84]) by domain.com with Microsoft SMTPSVC(6.0.3790.0);
+	 Wed, 14 Dec 2015 20:00:29 +0300
+From: Western Union Money Transfer<money@transfer.eu>
+To: user@domain.com
+Subject: Security Warning.
+Date: 14 Dec 2015 18:01:03 +0100
+Message-ID: <20111214180103.4user@domain.com>
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-OriginalArrivalTime: 14 Dec 2015 17:00:29.0820 (UTC) FILETIME=[E25D13C0:01CCBA81]
+X-PMX-Version: 5.5.9.395186, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2011.12.14.164814
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 40
+
+Dear Customer,
+
+NOTICE: Western Union issued a se=
+curity=20
+warning on your account due to a login
+ attempt failure.
+
+Unfortunately there are some issu=
+es with your 
+
+account and we need your fast response to resolve problem.
+
+To get started, Please click on t=
+he link=20
+below:
+
+<<link>>
+domain.com/WUCOMWEB/staticMid.do?method=3Dload&countryCode=3DHo=
+mePage

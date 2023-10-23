@@ -1,0 +1,84 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [75.102.5.22])
+	by domain.com (Postfix) with ESMTP id 3068231440D8
+	for <user@domain.com>; Fri, 24 Jul 2015 00:06:13 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 50421232018;
+	Fri, 24 Jul 2015 00:09:44 +0000 (UTC)
+X-Virus-Scanned: amavisd-new at domain.com
+X-Spam-Flag: YES
+X-Spam-Score: 9.238
+X-Spam-Level: *********
+X-Spam-Status: Yes, score=9.238 tagged_above=-10 required=6.6
+	tests=[AV:HTML.Phishing.Bank-1127=0.1,  BAYES_50=0.001,
+	DATE_IN_FUTURE_12_24=2.189, FORGED_MUA_OUTLOOK=3.116,
+	FORGED_OUTLOOK_HTML=0.001, FORGED_OUTLOOK_TAGS=0.001,
+	HTML_IMAGE_ONLY_24=1.552, HTML_MESSAGE=0.001, MIME_HTML_ONLY=1.457,
+	MSOE_MID_WRONG_CASE=0.82]
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id TxXjdtcnll7U; Fri, 24 Jul 2015 00:09:39 +0000 (UTC)
+Received: from domain.com (domain.com [212.177.133.13])
+	by domain.com (Postfix) with ESMTP id 11987232001
+	for <user@domain.com>; Fri, 24 Jul 2015 00:09:38 +0000 (UTC)
+Received: from User [85.120.71.34] by domain.com with ESMTP
+  (SMTPD-8.21) id AAC70C94; Fri, 24 Jul 2015 02:05:27 +0200
+Reply-To: <user@domain.com>
+From: "Bank of America"<notification@bankofamerica.com>
+Subject: Notification from Bank of America
+Date: Fri, 24 Jul 2015 15:05:55 -0700
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20090724020540.user@domain.com>
+To: undisclosed-recipients:;
+Content-Length: 2015 
+Lines: 30
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1114
+
+Bank of America Notification
+
+.dummy {}
+hr.dotted {width: 100%; margin-top: 0px; margin-bottom: 0px; border-left:
+#fff; border-right: #fff; border-top: #fff; border-bottom: 2px dotted #ccc;}
+
+Dear Bank of America Customer,
+
+
+
+
+We are 
+            contacting you to remind you that on 19 July 2015 our Account Review 
+            Team identified
+ some unusual activity in your account. In accordance 
+            with Bank of America User Agreement and to ensure
+ that your account has not 
+            been compromised, access to your account was limited.
+
+To securely confirm your Bank of America domain.com card features, please follow these steps:
+
+
+
+1. Contact Us at www.bankofamerica.com/SingOn/Verify-Your-Identity_Profile-Form-do.htm
+
+    2. Verify your identity.
+
+
+
+After you have submitted your message, check for a response within 48 hours.             
+
+Please do not reply to this e-mail. Mail sent to this address cannot be
+            answered.
+
+Bank of America, N.A. Member FDIC.
+ 2015 Bank of America Corporation. All rights reserved.

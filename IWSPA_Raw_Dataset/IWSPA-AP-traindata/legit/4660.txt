@@ -1,0 +1,32 @@
+Dear Keith, Peck and Eystein,
+as you'll have seen from Tom C's replies to my fairly direct requests for the 
+data that went into his MWP 
+figure, he seems somehow reluctant to send it to me and prefers me to find it 
+myself (including 
+spending a week re-assembling a Mongolian composite).  I have no time to do 
+this, so have instead 
+reverted to using the very similar data that we already had.  I'm sure it's so 
+similar that it tells the same 
+story.
+So, the attached file is my latest attempt at the MWP figure.  It shows 8 
+local/regional proxy series, 
+normalised over a common period after filtering to the 20-year and longer time 
+scale.  It also shows a 
+composite mean, and no temperature scale.  The period covered is 850 to 1350.
+What do you think?  Hopefully it is what you want.
+I've started on the SH figure, having received data from Ricardo and borehole 
+series for SH, S. Africa and 
+Australia from Jason/Henry.  I need to sort out Tasmania / New Zealand 
+instrumental data - Ed has this, 
+though I could extract appropriate boxes from the Jone et al. gridded data set 
+if necessary.
+I'll include these series:
+S American trees*2 plus instrumental T overlaid
+S African and Australian boreholes (must also overlay instrumental T to 
+explain why values are all 
+negative - due to early sampling prior to strongest warmng)
+Tasmanian and New Zealand trees*2 plus instrumental T)
+It may be Friday by the time I get this one done.
+Cheers
+Tim
+Attachment Converted: "c:\documents and settings\tim osborn\my documents\eudora\attach\ipccar4_mwpbox.pdf"

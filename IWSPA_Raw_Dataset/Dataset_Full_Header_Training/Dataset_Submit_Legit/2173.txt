@@ -1,0 +1,48 @@
+Return-Path: <user@domain.com>
+Reply-To: <user@domain.com>
+From: "Marco Catino" <support@hackingteam.com>
+To: <user@domain.com>
+Subject: [!PGO-626-81507]: Assignment - This is a test ticket
+Date: Wed, 18 Dec 2015 08:09:44 +0100
+Message-ID: <1387350584.52user@domain.com>
+X-Mailer: Microsoft Outlook 15.0
+Thread-Index: AQIP3JzVFqJTkZ9eCcHja5LvAz7m/w==
+X-OlkEid: 0000000065B99B20C2857749979341BFED77CC1B070034AD76187591974DBF6C4F76951C873A01005249000000000230709749A9DC45970DBCF6F077600B000000006131000005D61729F83A0D49A6CA32631174D86C
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-615933390_-_-"
+
+Marco Catino updated #PGO-626-81507
+
+-----------------------------------
+
+Staff (Owner): Marco Catino (was: -- Unassigned --)
+Status: Closed (was: Open)
+
+This is a test ticket
+
+---------------------
+
+Ticket ID: PGO-626-81507
+URL: <<link>>
+Name: Magbool
+Email address: user@domain.com
+Creator: User
+Department: General
+Staff (Owner): Marco Catino
+Type: Issue
+Status: Closed
+Priority: Normal
+Template group: Default
+Created: 18 December 2015 07:06 AM
+Updated: 18 December 2015 07:09 AM
+
+Ok, ticket received.
+
+I am closing this.
+
+Ciao.
+
+Staff CP:  <<link>>
+

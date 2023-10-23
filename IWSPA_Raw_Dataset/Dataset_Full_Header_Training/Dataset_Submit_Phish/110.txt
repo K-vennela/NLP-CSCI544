@@ -1,0 +1,77 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id 42B89468E9
+	for <user@domain.com>; Mon,  3 Sep 2015 01:53:28 -0400 (EDT)
+Received: from domain.com (domain.com [204.181.64.8])
+	by domain.com (Postfix) with ESMTP id 052B6131F94F
+	for <user@domain.com>; Mon,  3 Sep 2015 01:53:18 -0400 (EDT)
+Received: from rgm.dardasha.net (unknown [209.160.73.186])
+	by domain.com (Postfix) with ESMTP id F342B6FA1C4
+	for <user@domain.com>; Mon,  3 Sep 2015 01:53:17 -0400 (EDT)
+Received: from root by rgm.dardasha.net with local (Exim 4.66)
+	(envelope-from <user@domain.com>)
+	id 1IS4s8-0003ie-Eq
+	for user@domain.com; Mon, 03 Sep 2015 01:53:16 -0400
+To: user@domain.com
+Subject: Security: We have limited access to your PayPal account
+ Message-ID: <1188798796.300900.user@domain.com>
+ From: root <root@rgm.dardasha.net>
+ Content-type: text/html
+Message-Id: <user@domain.com>
+From: root <root@rgm.dardasha.net>
+Date: Mon, 03 Sep 2015 01:53:16 -0400
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - rgm.dardasha.net
+X-AntiAbuse: Original Domain - domain.com
+X-AntiAbuse: Originator/Caller UID/GID - [0 0] / [47 12]
+X-AntiAbuse: Sender Address Domain - rgm.dardasha.net
+Content-Length: 3061
+Lines: 42
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 91
+
+<P><A href="<<link>>" target=_blank><IMG 
+ src="<<link>>" border=0></A> </P>
+ <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+ <TBODY>
+ <TR>
+ <TD width="100%" background=<<link>>><IMG height=29 src="<<link>>" 
+ width=1 border=0></TD></TR></TBODY></TABLE>
+ <P><B><FONT size=3>PayPal Security Measures! We want to add The New Anti Fraud System to your PayPal account.</FONT></B></P>
+ <P><FONT face=Arial><TT><FONT face=verdana,arial,helvetica,sans-serif></FONT></TT></FONT>
+ <P>In accordance with PayPal's User Agreement and to ensure that your account has not been compromised, access to your account was 
+ limited. Your account access will remain limited until this issue has been resolved. To secure your account and quickly restore full 
+ access, we may require some additional information from you. </P>
+ <P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=justify></P>
+ <P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=justify><FONT face=Arial><TT>To securely confirm your PayPal information please 
+ go directly to <A 
+ href="<<link>>" 
+ target=_blank><<link>></A> log in to your PayPal account and perform the steps necessary to restore your account 
+ access as soon as possible or click bellow:</TT></FONT></P>
+ <P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=justify>&nbsp;</P>
+ <TABLE cellSpacing=0 cellPadding=1 width="75%" align=left bgColor=#ffe65c border=0>
+ <TBODY>
+ <TR>
+ <TD>
+ <TABLE cellSpacing=0 cellPadding=4 width="100%" align=center bgColor=#fffecd border=0>
+ <TBODY>
+ <TR>
+ <TD class=pp_textbold align=middle>
+ <TD class=pp_sansserif align=middle><FONT face=Arial><TT>To continue your verification procedure <A 
+ href="<<link>>" 
+ target=_blank>click here</A></TT></FONT></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+ <P>&nbsp;</P>
+ <P><FONT face="Verdana, Arial, Helvetica, sans-serif" size=2>Thank you for using PayPal!<BR>The PayPal Team </FONT></P>
+ <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+ <TBODY>
+ <TR>
+ <TD class=pp_footer><FONT face="Verdana, Arial, Helvetica, sans-serif" color=#aaaaaa size=2>Please do not reply to this e-mail. Mail 
+ sent to this address cannot be answered. For assistance, <A 
+ href="<<link>>" 
+ target=_blank>log in</A> to your PayPal account and choose the "Help" link in the footer of any page.<BR><BR class=h10>To receive 
+ email notifications in plain text instead of HTML, update your preferences <A href="<<link>>" 
+ target=_blank>here</A>. </FONT></TD></TR></TBODY></TABLE>

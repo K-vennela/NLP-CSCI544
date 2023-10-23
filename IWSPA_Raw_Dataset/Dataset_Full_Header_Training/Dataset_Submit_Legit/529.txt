@@ -1,0 +1,122 @@
+Received: from domain.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Thu, 15 May 2015 14:30:13 +0200
+Received: from mail.hackingteam.it (unknown [192.168.100.50])	by
+ domain.com (Postfix) with ESMTP id A5D37621AB;	Thu, 15 May 2015 
+ 13:19:05 +0100 (BST)
+Received: by mail.hackingteam.it (Postfix)	id 69754B6603F; Thu, 15 May 2015 
+ 14:30:13 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from EmadPC (unknown [192.168.1.192])	(using TLSv1 with cipher
+ AES128-SHA (128/128 bits))	(No client certificate requested)	by
+ mail.hackingteam.it (Postfix) with ESMTPSA id 5650BB6603C;	Thu, 15 May 2015 
+ 14:30:13 +0200 (CEST)
+From: Emad Shehata <e.shehata@hackingteam.it>
+To: 'Simonetta Gallucci' <user@domain.com>, 'Emad Shehata'
+	<user@domain.com>
+CC: 'amministrazione' <user@domain.com>, 'Marco Bettini'
+	<user@domain.com>
+References: <010001cf702c$302ea930$908bfb90$@user@domain.com> <015a01cf702d$1690a090$43b1e1b0$@user@domain.com> <000301cf7038$d23a7680$76af6380$@user@domain.com> <017a01cf7039$4475c790$cd6156b0$@user@domain.com>
+In-Reply-To: <017a01cf7039$4475c790$cd6156b0$@user@domain.com>
+Subject: R: Payment
+Date: Thu, 15 May 2015 14:30:13 +0200
+Message-ID: <001d01cf7039$6b70b8f0$42522ad0$@user@domain.com>
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: Ac9pHc61rBlkjYyGTvSED3O+NvJJEAHDkGfgAAAXpLAAAw05MAAAE1NwAAAdJsA=
+Content-Language: it
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-128259149_-_-"
+
+Well notedA presto  Da: Simonetta Gallucci [mailto:user@domain.com] 
+Inviato: giovedì 15 maggio 2015 14:29
+A: 'Emad Shehata'
+Cc: 'amministrazione'; 'Marco Bettini'
+Oggetto: RE: Payment Ciao Emad,  no in realtà con il cliente era da chiarire se bisognava applicare la tassa del 5% (ed in quel caso dovevano inviarci relativa prova) oppure no. Nel caso in cui non vi fosse alcuna tassa applicabile, il saldo ammonterebbe a € 34.350,00.Nel caso contrario a € 12.450,00.  Se hai bisogno di altre info dimmi pure.Grazie,  Simonetta Gallucci 
+Administrative Support 
+
+Hacking Team
+Milan Singapore Washington DC
+domain.com
+
+email: user@domain.com 
+mobile: +39 3939310619
+phone: +39 0229060603 From: Emad Shehata <e.shehata@hackingteam.it>
+Sent: giovedì 15 maggio 2015 14:26
+To: 'Simonetta Gallucci'; 'Emad Shehata'
+Cc: 'amministrazione'; 'Marco Bettini'
+Subject: R: Payment Ciao Simonetta, deduco allora che la somma da saldare sia:€ 34.350,00 + € 12.450,00= Totale € 46.800,00Grazie   Da: Simonetta Gallucci [mailto:user@domain.com] 
+Inviato: giovedì 15 maggio 2015 13:02
+A: 'Emad Shehata'
+Cc: 'amministrazione'; 'Marco Bettini'
+Oggetto: RE: Payment Ciao Emad,  ti riporto qui di seguito un riepilogo della situazione TCC.   N. invoiceImportoImporto incassatoSaldoTax 5%157/2012€ 370.500,00€ 351.975,00€ 18.525,00€ 18.525,00045/2013€ 28.500,00€ 18.525,00€ 9.975,00€ 1.425,00048/2013€ 39.000,00€ 33.150,00€ 5.850,00€ 1.950,00     Ns. credito NO tax€ 34.350,00Ns. credito SI tax€ 12.450,00 Se hai bisogno di altre info dimmi pure.Grazie,  Simonetta Gallucci 
+Administrative Support 
+
+Hacking Team
+Milan Singapore Washington DC
+domain.com
+
+email: user@domain.com 
+mobile: +39 3939310619
+phone: +39 0229060603 From: Emad Shehata <e.shehata@hackingteam.it>
+Sent: giovedì 15 maggio 2015 12:56
+To: 'Simonetta Gallucci'
+Cc: 'amministrazione'
+Subject: I: Payment Cara Simonetta, mi informi per piacere se sono arrivati tali pagamenti o c’è qualcosa in sospeso?Grazie mille  Da: Mostapha Maanna [mailto:user@domain.com] 
+Inviato: martedì 6 maggio 2015 13:25
+A: Mesfer S. Al Mesfer
+Oggetto: Re: Payment  Dear Mesfer,Hope you are doing well. I just got a call from our financial department and unfortunately the situation regarding the official receipt for the tax deduction is becoming critical.Can you please update me and advise how to proceed? Thank you and best regards,Mostapha  Il giorno 06/gen/2014, alle ore 13:06, Mostapha Maanna <user@domain.com> ha scritto:  Dear Mesfer,Thank you in advance for the final payment. As I told you before, this deduction will be rejected from our financial department without an official receipt. BTW, why is it 15% this time and not 5%?Anyway, would you be available for a call tomorrow morning?Thank you,Mostapha   Il giorno 06/gen/2014, alle ore 07:45, Mesfer S. Al Mesfer <user@domain.com> ha scritto: 
+Dear Mostapha,
+
+Here is the feedback from our finance dept.. One more thing, you will
+receive your final payment before this Thursday insh Allah.
+
+Best Regards,
+
+Mesfer Al Mesfer
+Sr. Project Manager
+T:+966920014888 Ext.171
+F:+96614168989
+M:+966503400749
+E: user@domain.com
+
+On 1/2/14 11:52 AM, "Raad A. Al Harthi" <user@domain.com> wrote:Dear Mesfer,
+
+We paid 33,150 after deducting the 15% withholding tax which is equal to
+5850. This will give you a total of 39,000.
+
+-----Original Message-----
+From: Emad Shehata <e.shehata@hackingteam.it>
+Sent: Tuesday, December 31, 2015 11:56 PM
+To: Raad A. Al Harthi
+Subject: Re: Payment
+
+Reminder.
+
+Best Regards,
+
+Mesfer Al Mesfer
+Sr. Project Manager
+T:+966920014888 Ext.171
+F:+96614168989
+M:+966503400749
+E: user@domain.com
+
+On 12/18/13 2:37 PM, "Mesfer S. Al Mesfer" <user@domain.com> wrote:Dear Raad,
+
+Could you clarify?
+
+Best Regards,
+
+Mesfer Al Mesfer
+Sr. Project Manager
+T:+966920014888 Ext.171
+F:+96614168989
+M:+966503400749
+E: user@domain.com
+

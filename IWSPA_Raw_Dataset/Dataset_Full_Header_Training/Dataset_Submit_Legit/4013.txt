@@ -1,0 +1,117 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 4 May
+ 2015 09:11:26 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 4 May 2015 
+ 09:11:19 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 895616986
+ for user@domain.com; Wed, 04 May 2015 08:11:27 -0500
+X-Note-AR-ScanTimeLocal: 5/4/2016 8:11:24 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:195.245.231.140 DOM:mailonline.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note: ICH-CT/SI:0-1550/SG:2 5/4/2016 8:10:45 AM
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-420/SG:10 5/4/2016 8:10:45 AM
+X-GBUdb-Analysis: 0, 195.245.231.140, Ugly c=0.592148 p=-0.833866 Source Normal
+X-Signature-Violations: 0-0-0-22671-c
+X-Note-419: 0 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/4/2016 8:11:08 AM
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->->Netherlands->Netherlands->
+X-Note-Sending-IP: 195.245.231.140
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G406 G418 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from domain.com ([195.245.231.140] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 136494958
+ for user@domain.com; Wed, 04 May 2015 08:11:24 -0500
+Return-Path: <user@domain.com>
+Received: from [85.158.139.3] by server-4.bemta-5.domain.com id
+ 29/D9-17285-BF4F9275; Wed, 04 May 2015 13:11:23 +0000
+X-Brightmail-Tracker: H4sIAAAAAAAAA+NgFrrDKsWRWlGSWpSXmKPExsVy+NXnAt3fXzT
+  DDd63sVh83cTvwOix499E1gDGKNbMvKT8igTWjFuN1xgL9hVV7GhPaWB8mdvFyMUhJHCJUeL8
+  /r8sXYycHGwCNhIXfx1jBbFFBNQk3nzexwZiCwsoS0w8Mpupi5EDKK4hcf1XGESJnsTWtX9YQ
+  MIsAioSm4/lgoR5BSIklu74xghiMwrISjxa+YsdxGYWEJe49WQ+E4gtISAi8fDiaTYIW1Ti5e
+  N/rBC2ksS7XZeYQE5jFuhklFj/7zgrxFBBiZMzn7BMYOSfhWTWLGR1s5DUzQK6iVkgT2L+skC
+  Ieh2JBbs/sUHY2hLLFr5mhrHPHHjMhCmuI/H7WxdUvaLE7atTWSF2LWaUmPtlIVzRy/07WGCK
+  pnQ/ZIeJz9x5Ay5+/OhVJrjmjtZpLDBFDXc+sCJrXsAotIpRvTi1qCy1SNdIL6koMz2jJDcxM
+  0fX0MBULze1uDgxPTUnMalYLzk/dxMjMNYZgGAH4/c/TocYJTmYlER5i+5rhgvxJeWnVGYkFm
+  fEF5XmpBYfYpTh4FCS4E34DJQTLEpNT61Iy8wBJh2YtAQHj5IIbxdImre4IDG3ODMdInWKUVF
+  KnDcaJCEAksgozYNrgyW6S4yyUsK8jECHCPEUpBblZpagyr9iFOdgVBLmvQAyhSczrwRu+iug
+  xUxAi9/PBVtckoiQkmpg3J5XdPY334b7KhfZ75ps3SPpGpm60qnkpebtH/q/qqyUXban77LPK
+  BD3zM8suWQpt9hZ0DxF6WndZ5PkgOkZl5f29mzwEU/rM5hpqp+fuaaCY1b8npb/emrvhD4lXv
+  i7zfnpWsOf69YuSf5UUBaT3n8hw6fiUPFDvy8TC4xL14VzLq/4UC+uxFKckWioxVxUnAgACY4
+  AFG8DAAA=
+X-Env-Sender: user@domain.com
+X-Msg-Ref: server-9.tower-90.domain.com!1462367482!33470429!2
+X-Originating-IP: [195.234.243.112]
+X-StarScan-Received: 
+X-StarScan-Version: 8.34; banners=mailonline.com,-,-
+X-VirusChecked: Checked
+Received: (qmail 784 invoked from network); 4 May 2015 13:11:22 -0000
+Received: from s3.associated.co.uk (HELO HSK-EXN-W05P-domain.com)
+ (195.234.243.112)  by server-9.tower-90.domain.com with SMTP; 4 May 2015 
+ 13:11:22 -0000
+Received: from HSK-EXN-W06P-domain.com ([fe80::14cb:3bdb:e9a1:6119])
+ by HSK-EXN-W05P-domain.com ([fe80::8010:a940:9739:2030%20]) with
+ mapi id 14.03.0266.001; Wed, 4 May 2015 14:11:22 +0100
+From: Francesca Chambers <Francesca.Chambers@mailonline.com>
+To: "User" <user@domain.com>
+Subject: Free for coffee on Friday?
+Thread-Topic: Free for coffee on Friday?
+Thread-Index: AdGmBganoGi2kmV4SmS4b5O90g4m4g==
+Date: Wed, 4 May 2015 13:11:21 +0000
+Message-ID: <4301592user@domain.com>
+Accept-Language: en-US, en-GB
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+x-originating-ip: [10.151.101.248]
+Content-Type: multipart/related;
+	boundary="_005_4301592D1CE41C43985ABBCCC0232B42B41101E4HSKEXNW06PPcorp_";
+	type="multipart/alternative"
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Hey User,
+
+Great seeing you, domain.com briefly, at the MSNBC party on Saturday night!
+
+Any chance you're in town and free for coffee on Friday? I have to hit the=
+ trail again over the weekend but I'd really like to touch base before I g=
+o.
+
+Best,
+
+Francesca Chambers
+White House Correspondent
+
+Daily Mail | 51 Astor Place, 9th Floor, New York, NY 10003
+
+[cid:C0FFDDA4-A7B5-4A83-82B0-6D14B1369EE4]
+[cid:1B9B73EA-D6E8-4333-8EAD-98E24A75B563]
+M: +1 913 755 8280
+E: user@domain.com<mailto:user@domain.com=
+com>
+
+______________________________________________________________________
+This e-mail and any attached files are intended for the named addressee on=
+ly. It contains information, which may be confidential and legally privile=
+ged and also protected by copyright. Unless you are the named addressee (o=
+r authorised to receive for the addressee) you may not copy or use it, or =
+disclose it to anyone else. If you received it in error please notify the =
+sender immediately and then delete it from your system.=20
+Associated Newspapers Ltd. Registered Office: Northcliffe House, 2 Derry S=
+t, Kensington, London, W8 5TT. Registered No 84121 England.

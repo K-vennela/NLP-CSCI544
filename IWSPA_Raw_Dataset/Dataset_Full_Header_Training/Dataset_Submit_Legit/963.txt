@@ -1,0 +1,78 @@
+Received: from domain.com (146.215.230.103) by
+ domain.com (43.130.141.77) with Microsoft SMTP Server id
+ 8.3.297.1; Fri, 27 Dec 2015 12:13:52 -0800
+Received: from domain.com ([160.33.194.228])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id rBRKDplo004839	for <user@domain.com>; Fri, 27 Dec 2015 
+ 20:13:51 GMT
+Received: from mail104-am1-domain.com (mail-domain.com
+ [213.199.154.199] (may be forged))	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id rBRKDoEh012696
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Fri, 27 Dec 2015 20:13:51 GMT
+Received: from mail104-am1 (localhost [127.0.0.1])	by
+ mail104-am1-domain.com (Postfix) with ESMTP id 00A454C00E6	for
+ <user@domain.com>; Fri, 27 Dec 2015 20:13:50 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:54.240.13.32;KIP:(null);UIP:(null);IPV:NLI;H:a13-32.smtp-domain.com;RD:a13-32.smtp-domain.com;EFVD:NLI
+X-SpamScore: -6
+X-BigFish: vps-6(z579ehz98aI98bI1462I70dI1936Ic857hd799hc54cIzz1f42h1cfdh2148h208ch1ee6h1de0h1fdah2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6hzz172cfch1def03h29e4I17326ah1def87h8275bh1bc7b9h8275dh1def86h1de097h1de096h186068h18602ehz2fh5fh839ha12hd24h10d2h1288h12a5h12bdh137ah13eah1441h1537h153bh162dh1631h1758h18e1h1946h19b5h1b0ah1bceh224fh1d0ch1d1eh1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1fe8h1ff5h20f0h2216h2336h2363h214ai1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail104-am1: domain of bounces.amazon.com designates 54.240.13.32 as permitted sender) client-ip=54.240.13.32; user@domain.com; helo=a13-32.smtp-domain.com ;domain.com ;
+Received: from mail104-am1 (localhost.localdomain [127.0.0.1]) by mail104-am1
+ (MessageSwitch) id 1388175228403368_12872; Fri, 27 Dec 2015 20:13:48 +0000
+ (UTC)
+Received: from domain.com (unknown [10.3.201.231])	by
+ mail104-domain.com (Postfix) with ESMTP id 5ED48200052	for
+ <user@domain.com>; Fri, 27 Dec 2015 20:13:48 +0000 (UTC)
+Received: from a13-32.smtp-domain.com (54.240.13.32) by
+ domain.com (10.3.207.154) with Microsoft SMTP Server id
+ 14.16.227.3; Fri, 27 Dec 2015 20:13:47 +0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=jvxsykglqiaiibkijmhy37vqxh4mzqr6; d=amazon.com; t=1388175226;
+	h=Date:From: Amazon.com Customer Service <payments-update@amazon.com>
+	bh=EpeQG5TTnYtWSIinjux/pMBDfKf0Bf0bFs13S7t5Kws=;
+	b=TIX93bBOvWxZt2C8rveI/QqvFU8XVM9Lp62b0KPza1Kw8s97XmZt73wBFHcR67Sx
+	wekiOeir6rXQQzegPqj4yofaC9XGGmJO6pwYfrE5k5A/roplq+v0huQE2TrBtGSHM/Y
+	G1+l59GgYuqN0ZdF+8l6dJux6eT0AdWQUjXOwzk4=
+Date: Fri, 27 Dec 2015 20:13:46 +0000
+From: Amazon.com Customer Service <payments-update@amazon.com>
+Reply-To: "User" <user@domain.com>
+To: Amy Pascal <user@domain.com>
+Message-ID: <0000014335user@domain.com>
+Subject: Your domain.com order of "How to Host a Murder: The..." and 4 more
+ item(s).
+Bounces-to: 201312272013448user@domain.com
+X-AMAZON-MAIL-RELAY-TYPE: notification
+X-AMAZON-RTE-VERSION: 2.0
+X-Original-MessageID: <urn.correios.msg.201312272013448dc2e47df2a44d5e90cda3ddfdca8167@1388175226753.rte-svc-1a-i-d31849a3.us-east-1.amazon.com>
+X-SES-Outgoing: 2013.12.27-54.240.13.32
+Return-Path: 
+ 201312272013448user@domain.com
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+domain.com      Your Orders  |  Your Account  |  domain.com     
+
+Payment Declined
+
+Order #115-8248738-3989824 
+
+Hello Amy Pascal, 
+
+We're writing to let you know that the payment for your order has been declined. The issuing bank may have declined the charge if the name, expiration date, or ZIP Code you entered does not exactly match the bank's information. There is no need to place a new order as we will automatically try your selected payment method again.* 
+Please domain.com your Order Details to update the payment information for your order.
+
+Order Details
+
+
+
+
+Order Details 
+
+
+
+
+Order #
+

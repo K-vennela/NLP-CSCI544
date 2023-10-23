@@ -1,0 +1,52 @@
+Return-Path: <user@domain.com>
+Reply-To: <user@domain.com>
+From: "HT Srl" <support@hackingteam.com>
+To: <user@domain.com>
+Subject: [!WJV-971-70483]: Assignment - Urgently a new login required on Support Portal
+Date: Mon, 15 Jul 2015 14:57:57 +0200
+Message-ID: <1373893077.51user@domain.com>
+X-Mailer: Microsoft Outlook 15.0
+Thread-Index: AQG6DgrxP59EWvUQ6qg1anJEUmdTSw==
+X-OlkEid: 000000007D2091DA92D3914ABB4C05769578F4790700A96A85A9D2A04643865EB2097E3CF3A30000000002080000A96A85A9D2A04643865EB2097E3CF3A300000000153E0000BD8CD4521ABF234884D8C2B5495C4A41
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-615933390_-_-"
+
+Bruno Muschitiello updated #WJV-971-70483
+
+-----------------------------------------
+
+Staff (Owner): Bruno Muschitiello (was: -- Unassigned --)
+Status: In Progress (was: Open)
+
+Urgently a new login required on Support Portal
+
+-----------------------------------------------
+
+Ticket ID: WJV-971-70483
+URL: <<link>>
+Full Name: Akhtar Saeed Hashmi
+Email: user@domain.com
+Creator: User
+Department: General
+Staff (Owner): Bruno Muschitiello
+Type: Feature Request
+Status: In Progress
+Priority: Urgent
+Template Group: Default
+Created: 15 July 2015 02:44 PM
+Updated: 15 July 2015 02:44 PM
+
+Hello there,
+
+Can you please register one new email address on support portal for log in, email address is user@domain.com
+
+Your kind consideration will be highly appreciated.
+
+Thanks and regards,
+
+Akhtar. 
+
+Staff CP:  <<link>>
+

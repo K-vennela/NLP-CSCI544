@@ -1,0 +1,54 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id EF53B23CAA3;
+	Mon,  7 Nov 2015 06:07:56 -0600 (CST)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id yQdcqFZTwh2X; Mon,  7 Nov 2015 06:07:55 -0600 (CST)
+Received: from smtp06.online.nl (smtp06.online.nl [194.134.42.51])
+	by domain.com (Postfix) with ESMTP id 550E723CAA2;
+	Mon,  7 Nov 2015 06:07:55 -0600 (CST)
+Received: from smtp06.online.nl (localhost [127.0.0.1])
+	by smtp06.online.nl (Postfix) with ESMTP id 8645D96681;
+	Mon,  7 Nov 2015 13:07:52 +0100 (CET)
+Received: from mailstore12.back.prod.mail.online.nl (mailstore12.back.prod.mail.online.nl [10.160.210.112])
+	by smtp06.online.nl (Postfix) with ESMTP;
+	Mon,  7 Nov 2015 13:07:52 +0100 (CET)
+Date: Mon, 7 Nov 2015 13:07:52 +0100 (CET)
+From: University of Houston <dehaandokkum@online.nl>
+Reply-To: University of Houston <user@domain.com>
+Message-ID: <1161590645.504770.1320667672492.user@domain.com>
+In-Reply-To: <1345053149.504763.1320667615644.user@domain.com>
+Subject: Upgrade your domain.com mail account.
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+X-Originating-IP: [80.243.144.25]
+X-Online-Scanned: by Cloudmark authority (on smtp06.online.nl)
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 30
+
+We are currently upgrading our system due to the fact that it has come to our notice that one or more of our student(s) are introducing a strong virus into our system and it is affecting the network. We are trying to find the specific person. 
+
+For this reason, all subscribers should domain.com their username, email address and password in order to have their mail account verified and protected against this virus. Non-compliance will result in the termination of your account in the next 48 hours. 
+
+Username:__________________________
+
+Email Address:_____________________
+
+Password:__________________________
+
+Confirm Password:__________________
+
+Hope to serve you better. 
+Sincerely, 
+domain.com mail support. 
+******************************************************************************************************************************************************************************************************************************
+This is an administrative message from domain.com mail server. It is not spam. From time to time, domain.com mail server will send you such messages to communicate important information about your subscription.
+******************************************************************************************************************************************************************************************************************************

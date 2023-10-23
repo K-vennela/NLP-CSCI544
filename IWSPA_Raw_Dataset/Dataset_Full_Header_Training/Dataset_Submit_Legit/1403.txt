@@ -1,0 +1,107 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Mon, 19 Jan 2015 13:49:13 +0100
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id 65117628C0;	Mon, 19 Jan 2015 
+ 12:29:09 +0000 (GMT)
+Received: by domain.com (Postfix)	id 4CDD62BC0F9; Mon, 19 Jan 2015 
+ 13:49:13 +0100 (CET)
+Delivered-To: user@domain.com
+Received: from EmadPC (unknown [172.16.1.4])	(using TLSv1 with cipher
+ AES256-SHA (256/256 bits))	(No client certificate requested)	by
+ domain.com (Postfix) with ESMTPSA id E66D02BC041;	Mon, 19 Jan 2015 
+ 13:49:12 +0100 (CET)
+From: Emad Shehata <e.shehata@hackingteam.com>
+To: 'Emad Shehata' <user@domain.com>, 'Lorenzo Invernizzi'
+	<user@domain.com>
+CC: 'fae' <user@domain.com>, 'rsales' <user@domain.com>,
+	'Alessandro Scarafile' <user@domain.com>, 'Daniele Milan'
+	<user@domain.com>, 'Marco Bettini' <user@domain.com>
+References: <00dc01d033ca$ac5d4b30$0517e190$@user@domain.com> <001501d033cc$d2346b20$769d4160$@user@domain.com> <010e01d033ce$10ff9810$32fec830$@user@domain.com> <006901d033db$d2e4f8a0$78aee9e0$@user@domain.com> <003301d033e2$38d960a0$aa8c21e0$@user@domain.com>
+In-Reply-To: <003301d033e2$38d960a0$aa8c21e0$@user@domain.com>
+Subject: R: Re: your proposal RCS (GALILEO)
+Date: Mon, 19 Jan 2015 13:49:12 +0100
+Message-ID: <006801d033e6$53537f20$f9fa7d60$@user@domain.com>
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdAzrP1A57lGijhUQEqoqG3JwzBNYwAHYYwQAABJnBAAAI4PYAAB0bJAAAMkSjAAARREcA==
+Content-Language: it
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EMAD SHEHATA450
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1345765865_-_-"
+
+Ciao Lorenzo,  per adesso lascia stare la mia richiesta, cercherò di oltre - trapassare a questa richiesta: informandolo che cmq ci dovremo vedere ed in quella occasione potremo affrontare tutte le loro richieste tecniche. Saluti  Da: Emad Shehata [mailto:user@domain.com] 
+Inviato: lunedì 19 gennaio 2015 13:20
+A: 'Lorenzo Invernizzi'
+Cc: 'fae'; 'rsales'; 'Alessandro Scarafile'; 'Daniele Milan'; 'Marco Bettini'
+Oggetto: R: Re: your proposal RCS (GALILEO) Ciao Lorenzo, nella mia telefonata con il cliente ho delineando proprio quello da tu menzionato qui di seguito, in quanto pensava proprio che noi fornivamo degli access point.Quello che mi indichi qui di sotto credi sia possibile avere un documento formale da inviare?   Da: Lorenzo Invernizzi [mailto:user@domain.com] 
+Inviato: lunedì 19 gennaio 2015 12:34
+A: 'Emad Shehata'
+Cc: 'fae'; 'rsales'; 'Alessandro Scarafile'; 'Daniele Milan'; 'Marco Bettini'
+Oggetto: R: Re: your proposal RCS (GALILEO) Ciao Emad, incollo qui sotto un estratto dal manuale tecnico che forniamo post-vendita ai clienti; riguarda la configurazione della modalità di sincronizzazione di un agente (mobile).  Non saprei quali ulteriori specifiche tecniche aggiungere, nel senso che lato RCS le informazioni che servono per la configurazione di sync tramite APN consistono appunto nel nome del servizio scelto, più eventuali credenziali.Ad esempio, per quanto riguarda alcuni degli operatori italiani, potrebbe essere: Operatore TIM·         APN Name: domain.com·         User: <username>·         Password: <password> Operatore Vodafone·         APN Name: domain.com·         User: <username>·         Password: <password> Operatore Tre·         APN Name: domain.com·         User: <username>·         Password: <password> Operatore Postemobile·         APN Name: domain.com·         User: <username>·         Password: <password> Operatore Fastweb·         APN Name: domain.com·         User: <username>·         Password: <password> eccetera. Si tratta quindi di scegliere un operatore mobile di rete dati e sottoscrivere un contratto (operazione a carico del cliente), configurando poi la backdoor come esemplificato sopra (e come indicato dall'operatore).Tale opzione è stata pensata, come detto, per evitare che i costi relativi al traffico generato dall'agente RCS vengano addebitati al target - causando eventuali sospetti.Forse il cliente sta chiedendo dettagli tecnici perchè ha inteso che forniamo noi dell'hardware (tipo fake access point) da usare per le operazioni, mentre in realtà ciò che facciamo è sfruttare dei servizi di rete dati di terze parti per avere un canale di comunicazione dedicato.Pensi che potrebbe essere questo l'equivoco?                                                                     Ciao, Lorenzo  Da: Emad Shehata [mailto:user@domain.com] 
+Inviato: 19 January 2015 10:56
+A: 'Lorenzo Invernizzi'
+Cc: 'fae'; 'rsales'; 'Alessandro Scarafile'; 'Daniele Milan'; 'Marco Bettini'
+Oggetto: R: Re: your proposal RCS (GALILEO) Ciao Lorenzo Il cliente ha bisogno di maggiori specifiche tecniche tramite una documentazione.Riusciremo a fare una sorta di documento dove lo spieghiamo in maniera formale? Grazie   Da: Lorenzo Invernizzi [mailto:user@domain.com] 
+Inviato: lunedì 19 gennaio 2015 10:47
+A: 'Emad Shehata'
+Cc: 'fae'; 'rsales'; 'Alessandro Scarafile'; 'Daniele Milan'; 'Marco Bettini'
+Oggetto: R: Re: your proposal RCS (GALILEO) Ciao Emad, non mi risulta che vi sia una documentazione tecnica specifica sulla sincronizzazione tramite APN. Esattamente, quali ulteriori informazioni vorrebbe il cliente? Grazie, Lorenzo Da: Emad Shehata [mailto:user@domain.com] 
+Inviato: 19 January 2015 10:31
+A: 'Lorenzo Invernizzi'
+Cc: 'fae'; 'rsales'; 'Alessandro Scarafile'; 'Daniele Milan'; 'Marco Bettini'
+Oggetto: I: Re: your proposal RCS (GALILEO) Ciao Lorenzo,  mi ha appena chiamato il cliente e vuole avere maggiori documentazione sul punto 3). In gentile attesaCordiali saluti  Da: khaled Alotaibi [mailto:user@domain.com] 
+Inviato: lunedì 19 gennaio 2015 06:59
+A: Emad Shehata
+Oggetto: Re: Re: your proposal RCS (GALILEO) Dear Emadcould u please call me on my mobile. br khaled ----- Original Message ----- From: Emad Shehata <e.shehata@hackingteam.com>
+
+Thanks for your confirmation and please consider us at your disposal for any further request.
+
+Best regards 
+-- 
+Emad Shehata 
+Key Account Manager 
+
+Sent from my mobile.
+ Da: khaled Alotaibi [mailto:user@domain.com] 
+Inviato: Thursday, January 15, 2015 07:55 AM
+A: Emad Shehata 
+Cc: majed alotaibi <user@domain.com>; user@domain.com <user@domain.com> 
+Oggetto: Re: your proposal RCS (GALILEO) 
+ Dear Mr. Emad  yes we have recieved your email , we will study ur answers , then we will return back to you if we have more questions. domain.com khaled----- Original Message ----- From: Emad Shehata <e.shehata@hackingteam.com>
+
+I tried to call you but seems that you are not available.
+
+Please let me know if you recevied our following e-mail and if our response were clear.
+
+Feel free to contact me at any time for any need from your side.
+
+Best regards
+
+Mobile 0039/335.79.39.078
+
+-- 
+Emad Shehata 
+Key Account Manager 
+
+Sent from my mobile.
+ Da: Emad Shehata 
+Inviato: Monday, January 12, 2015 04:33 PM
+A: user@domain.com <user@domain.com> 
+Cc: rsales; user@domain.com <user@domain.com> 
+Oggetto: I: your proposal RCS (GALILEO) 
+ Dear Mr. Khaled, please find our response on your request.  1.    it is mentioned in page 8 (3.1.1)  that  it can support Android , windows , Symbian and IOS. Our concerning is that means the original IOS latest virgin 8.2 is supported or only the gel break virgin,  also does the solution support original android or only the root android. ·         iOS: currently, jailbreak is mandatory in order to perform a successful infection.·         Android: both rooted and original Android are supported; though, a rooted Android will allow you to obtain a wider range of evidences (it allows you to activate more modules than the original one). Please notice that, even if an Android phone wasn't already rooted by the user, RCS software will automatically try to obtain the root privileges in order to allow you to collect the widest type of data possible.                                                                  2.      it is mentioned in page 9 (3.1.10) that the communication between the RCS Agents and Collectors is secured as follows:Communication must traverse at least two anonymizer nodes , which act as dedicated proxies. Direct communication to collector is forbidden.Our concerning who will create the anonymizer nodes and who will responsible about the cost of these proxies.Anonymizer nodes consist in VPS servers that can be rent from external providers; RCS software will be installed on each server, properly configured according to the customer's infrastructure. VPS servers can either be rent directly by the customer or provided by HT, just depending from the customer's preferences. In the last case HT will be know the VPS address. 3.     it is mentioned in page 9 (3.1.10) that the communication between the RCS Agents and Collectors is secured as follows:Agent on mobile device can synchronize using a dedicated APN , to avoid billing the device user for the bandwidth usage (in order to avoid suspects by the target) Our concerning who will install APN hardware and who will responsible about the cost of the APN.RCS software is not bound to a specific APN hardware, since it supports every kind of 2G/3G/4G data network. The APN service has to be chosen among the mobile service providers available in the area of the target. The customer will be responsible about the cost of the APN service.4.    it is mentioned in page 10 (3.1.18) that RCS System include Tactical Network Injector (TNI). Our concerning is how many (TNI) system the company will provide. It will be supply N° 1 of TNI 5.  it is mentioned in page 11 (3.1.24) that  (EDN) for exploits. Our concerning is until what time these new exploits will be provided to us, and after the warranty time what will be the mechanism of providing a new exploits.  domain.com Service will be supply in conjunction with the maintenance service, when expired both services have to be renewed. 6. it is mentioned in page 15 (3.6) in the list of Quantities Grid (HP network Laser Colour printer and HP Network laser printer is only 1. While our proposal mention quantities is 2. The quantities Grid mentioned in page 15 (3.6) are wrong. Please refer to the docs D4LIP005RCS-2-14-Vol II Quantities Grid , where the quantity are correct. (2+2)  We remain at your disposal. Best regards  Emad Shehata
+Key Account Manager
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com
+mobile: +39 3357939078
+phone: +39 0229060603 Dear Mr. Khaled, Thanks for your e-mail. I'm Emad Shehata, Key Account Manager in charge of your country, nice to meet you. We would like to inform you that we got your request and we will come back to you in a shortly time, kindly domain.com a while. Best regards Mobile +39 335.79.39.078 Da: khaled Alotaibi [mailto:user@domain.com]Inviato: Sunday, January 11, 2015 10:59 AMA: Giancarlo RussoCc: majed alotaibi <user@domain.com>Oggetto: your proposal RCS (GALILEO)  Dear Mr. Giancarlo Russo in referrence to your proposal Galileo  (RCS) ,we would like to have answers for the following questions regrding your technical proposal:  1.    it is mentioned in page 8 (3.1.1)  that  it can support Android , windows , Symbian and IOS. Our concerning is that means the original IOS latest virgin 8.2 is supported or only the gel break virgin,  also does the solution support original android or only the root android.2.      it is mentioned in page 9 (3.1.10) that the communication between the RCS Agents and Collectors is secured as follows:-         Communication must traverse at least two anonymizer nodes , which act as dedicated proxies. Direct communication to collector is forbidden.Our concerning who will create the anonymizer nodes and who will responsible about the cost of these proxies. 3.     it is mentioned in page 9 (3.1.10) that the communication between the RCS Agents and Collectors is secured as follows:-         Agent on mobile device can synchronize using a dedicated APN , to avoid billing the device user for the bandwidth usage (in order to avoid suspects by the target) Our concerning who will install APN hardware and who will responsible about the cost of the APN. 4.     it is mentioned in page 10 (3.1.18) that RCS System include Tactical Network Injector (TNI). Our concerning is how many (TNI) system the company will provide. 5.     it is mentioned in page 11 (3.1.24) that  (EDN) for exploits. Our concerning is until what time these new exploits will be provided to us, and after the warranty time what will be the mechanism of providing a new exploits.   6.     it is mentioned in page 15 (3.6) in the list of Quantities Grid (HP network Laser Colour printer and HP Network laser printer is only 1. While our proposal mention quantities is 2.  we are waiting for ur feedback. thanksbrkhaledMOI-GDTAMobile : 00966555491046Office :   00966112020542  --Emad ShehataKey Account Manager Sent from my mobile.  

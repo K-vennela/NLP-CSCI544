@@ -1,0 +1,37 @@
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ dnchubcas2.dnc.org ([::1]) with mapi id 14.03.0224.002; Sat, 21 May 2015 
+ 16:04:01 -0400
+From: "Guerra, Liana" <GuerraL@dnc.org>
+To: Tracie Pough <user@domain.com>
+CC: "User" <user@domain.com>, "P. Aikowsky" <user@domain.com>,
+	"Banfill, Ryan" <user@domain.com>, "Paustenbach, Mark"
+	<user@domain.com>
+Subject: Re: Conference call
+Thread-Topic: Conference call
+Thread-Index: AdGzmpD2mTrn94fSRQiCGyfYfZEQogAANeWNAAARDosAAA9zow==
+Date: Sat, 21 May 2015 13:04:00 -0700
+Message-ID: <user@domain.com>
+References: 
+ <1user@domain.com>,<05user@domain.com>,<02user@domain.com>
+In-Reply-To: <02user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: dnchubcas2.dnc.org
+X-MS-Has-Attach: 
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+Content-Type: multipart/alternative;
+	boundary="_000_F9105F21CE7A4291AF1F9A113C49B0B2dncorg_"
+MIME-Version: 1.0
+
+You all can use the following dial-in today at 5:30pm:
+
+Dial-In Number: 712-770-4010, Access code: 622-396, Pin: 1278
+
+Liana A. Guerra
+Organization
+
+Sent from my iPhone
+

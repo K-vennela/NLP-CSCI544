@@ -1,0 +1,11 @@
+<x-flowed>
+Dear all,
+here is the data from the Climber-3alpha simulations. I know they are 
+too late, but
+perhaps there is still a way to include them. The structure of the files 
+is the
+same as Eva's. The file names correspond to the ones you gave in the 
+simulation
+protocol.
+Cheers,
+Anders

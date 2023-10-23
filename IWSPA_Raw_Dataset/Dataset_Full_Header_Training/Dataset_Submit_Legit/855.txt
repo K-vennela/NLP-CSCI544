@@ -1,0 +1,165 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Fri, 6 May
+ 2015 18:07:17 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Fri, 6 May 2015 
+ 18:07:15 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 901645701;
+ Fri, 06 May 2015 17:07:18 -0500
+X-Note-AR-ScanTimeLocal: 5/6/2016 5:07:14 PM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:195.245.231.153 DOM:mailonline.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note: ICH-CT/SI:0-3112/SG:4 5/6/2016 5:07:03 PM
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-210/SG:14 5/6/2016 5:07:03 PM
+X-GBUdb-Analysis: 0, 195.245.231.153, Ugly c=0.574212 p=-0.908745 Source Normal
+X-Signature-Violations: 0-0-0-32767-c
+X-Note-419: 0 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/6/2016 5:07:03 PM
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->->Netherlands->Netherlands->
+X-Note-Sending-IP: 195.245.231.153
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G407 G419 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from domain.com ([195.245.231.153] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 137105934;
+ Fri, 06 May 2015 17:07:14 -0500
+Return-Path: <user@domain.com>
+Received: from [85.158.139.3] by server-17.bemta-5.domain.com id
+ 18/1B-06723-1951D275; Fri, 06 May 2015 22:07:13 +0000
+X-Brightmail-Tracker: H4sIAAAAAAAAA+NgFmphl+JIrShJLcpLzFFi42I5/Opzge4EUd1
+  wg3OvmCy+buK3WNi4i9WByWPHv4msAYxRrJl5SfkVCawZS655FMw+zFSx9tJ9tgbGDduYuhi5
+  OIQELjFKbF16k72LkZODTcBG4uKvY6wgtoiAmsSbz/vYQGxmAT2J/duPMoLYwgIBEsd6u1kga
+  gIlHr/4xQxhW0m8X9EE1ssioCLxceZjsJm8AhESc48egFo2hVFizhSIBKeAu0TDhVlgNqOArM
+  Sjlb/YIZaJS9x6Mp8JxJYQEJF4ePE0G4QtKvHy8T9WCFtJ4t2uS2BDmQU6GSU2tx9jgtgmKHF
+  y5hOWCYxCs5DMmoWsbhaSOoiiPInms3MZIWwdiQW7P7FB2NoSyxa+Zoaxzxx4zIQpriPx+1sX
+  VL2ixO2rU1khli1mlJhx4zE7TNHhtm4WmKIp3Q/h4jN33oCLHz96lQmueW3TJbiLnhw5i1Xzh
+  Kf3WGHiG/b0s8M1/7i7Eq5o69efbNg0H19xmRkmvvDFaajXQDb/joGpaezawI6sdwGjzCpG9e
+  LUorLUIl0zvaSizPSMktzEzBxdQwNTvdzU4uLE9NScxKRiveT83E2MwNTJAAQ7GKc2OB9ilOR
+  gUhLlzWPUDRfiS8pPqcxILM6ILyrNSS0+xCjDwaEkwftYBCgnWJSanlqRlpkDTOIwaQkOHiUR
+  3n0gad7igsTc4sx0iNQpRkUpcd5skIQASCKjNA+uDZY5LjHKSgnzMgIdIsRTkFqUm1mCKv+KU
+  ZyDUUmYdxnIFJ7MvBK46a+AFjMBLX4/VxNkcUkiQkqqgXHR7KAEEyf7c5ONlj/4YjvPdUZohn
+  nh3J/5C1QtvPmjuXedtuHfYdbbxrhs3oWYrQqyR7VW7sj4oSxo89rw/Q5Vr2srvvpzK4nZL76
+  j6fGz1oX5PlMuu//njCP/OHXZQtk77u4tLE88P1PFJe7h5L8v+r5a622oZqrcfyntcueH1yXX
+  tLb5LVJiKc5INNRiLipOBAC2YyapFwQAAA==
+X-Env-Sender: user@domain.com
+X-Msg-Ref: server-5.tower-90.domain.com!1462572431!39024553!1
+X-Originating-IP: [195.234.243.112]
+X-StarScan-Received: 
+X-StarScan-Version: 8.34; banners=mailonline.com,-,-
+X-VirusChecked: Checked
+Received: (qmail 7464 invoked from network); 6 May 2015 22:07:11 -0000
+Received: from s3.associated.co.uk (HELO HSK-EXN-W05P-domain.com)
+ (195.234.243.112)  by server-5.tower-90.domain.com with SMTP; 6 May 2015 
+ 22:07:11 -0000
+Received: from HSK-EXN-W06P-domain.com ([fe80::14cb:3bdb:e9a1:6119])
+ by HSK-EXN-W05P-domain.com ([fe80::8010:a940:9739:2030%20]) with
+ mapi id 14.03.0266.001; Fri, 6 May 2015 23:07:11 +0100
+From: Francesca Chambers <Francesca.Chambers@mailonline.com>
+To: "User" <user@domain.com>
+CC: "Paustenbach, Mark" <user@domain.com>
+Subject: RE: Reminder: I'll take whatever you want to share on Sanders
+ dispute!
+Thread-Topic: Reminder: I'll take whatever you want to share on Sanders
+ dispute!
+Thread-Index: AdGn1gm4Uj7ioNlyQ1Sj+2U1EQBHUAAACQAAAANRu0A=
+Date: Fri, 6 May 2015 22:07:11 +0000
+Message-ID: <4301592user@domain.com>
+References: <4301592user@domain.com>
+ <05user@domain.com>
+In-Reply-To: <05user@domain.com>
+Accept-Language: en-US, en-GB
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+x-originating-ip: [10.151.101.248]
+Content-Type: multipart/related;
+	boundary="_007_4301592D1CE41C43985ABBCCC0232B42B4112179HSKEXNW06PPcorp_";
+	type="multipart/alternative"
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+On a related note, my weekend hit is actually Sunday on MSNBC this weekend=
+, immediately after the Sunday shows, if you want to also keep that in min=
+d.
+
+Francesca Chambers
+White House Correspondent
+
+Daily Mail | 51 Astor Place, 9th Floor, New York, NY 10003
+
+[cid:C0FFDDA4-A7B5-4A83-82B0-6D14B1369EE4]
+[cid:1B9B73EA-D6E8-4333-8EAD-98E24A75B563]
+M: +1 913 755 8280
+E: user@domain.com<mailto:user@domain.com=
+com>
+
+From: Francesca Chambers <Francesca.Chambers@mailonline.com>
+Sent: Friday, May 06, 2015 4:31 PM
+To: Francesca Chambers
+Cc: Paustenbach, Mark
+Subject: RE: Reminder: I'll take whatever you want to share on Sanders dis=
+pute!
+
+Cool. Copying Mark here and I'll talk to him about our conversation.
+
+[SigDems]<<<link>>>User, Communications Director
+Organization
+202-863-8148 - user@domain.com<mailto:user@domain.com> - User<htt=
+ps://domain.com/MiraUserDC>
+
+From: Francesca Chambers <Francesca.Chambers@mailonline.com>
+Sent: Friday, May 06, 2015 4:30 PM
+To: User
+Subject: Reminder: I'll take whatever you want to share on Sanders dispute=
+!
+
+Francesca Chambers
+White House Correspondent
+
+Daily Mail | 51 Astor Place, 9th Floor, New York, NY 10003
+
+[cid:C0FFDDA4-A7B5-4A83-82B0-6D14B1369EE4]
+[cid:1B9B73EA-D6E8-4333-8EAD-98E24A75B563]
+M: +1 913 755 8280
+E: user@domain.com<mailto:user@domain.com=
+com>
+
+______________________________________________________________________
+This e-mail and any attached files are intended for the named addressee on=
+ly. It contains information, which may be confidential and legally privile=
+ged and also protected by copyright. Unless you are the named addressee (o=
+r authorised to receive for the addressee) you may not copy or use it, or =
+disclose it to anyone else. If you received it in error please notify the =
+sender immediately and then delete it from your system.
+Associated Newspapers Ltd. Registered Office: Northcliffe House, 2 Derry S=
+t, Kensington, London, W8 5TT. Registered No 84121 England.
+
+______________________________________________________________________
+This email has been scanned by the Symantec Email Security.cloud service.
+For more information please domain.com <<link>>
+______________________________________________________________________
+
+______________________________________________________________________
+This e-mail and any attached files are intended for the named addressee on=
+ly. It contains information, which may be confidential and legally privile=
+ged and also protected by copyright. Unless you are the named addressee (o=
+r authorised to receive for the addressee) you may not copy or use it, or =
+disclose it to anyone else. If you received it in error please notify the =
+sender immediately and then delete it from your system.=20
+Associated Newspapers Ltd. Registered Office: Northcliffe House, 2 Derry S=
+t, Kensington, London, W8 5TT. Registered No 84121 England.

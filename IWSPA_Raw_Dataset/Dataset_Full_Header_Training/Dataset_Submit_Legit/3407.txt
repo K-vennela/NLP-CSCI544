@@ -1,0 +1,96 @@
+Received: from domain.com (146.215.230.104) by
+ domain.com (43.130.141.76) with Microsoft SMTP Server id
+ 8.3.297.1; Thu, 7 Nov 2015 04:02:13 -0800
+Received: from domain.com ([160.33.194.231])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id rA7C1trM028316	for <user@domain.com>; Thu, 7 Nov 2015 
+ 12:01:56 GMT
+Received: from mail30-am1-domain.com (mail-domain.com
+ [213.199.154.203])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id rA7C1sR6025115
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Thu, 7 Nov 2015 12:01:55 GMT
+Received: from mail30-am1 (localhost [127.0.0.1])	by mail30-am1-domain.com
+ (Postfix) with ESMTP id 496A11602ED	for <user@domain.com>; Thu,  7
+ Nov 2015 12:01:54 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:192.64.236.6;KIP:(null);UIP:(null);SRV:BULK;H:mx-prometheus-domain.com;RD:mx-prometheus-domain.com;EFVD:NLI
+X-SpamScore: 0
+X-BigFish: vpaccept
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail30-am1: domain of domain.com designates 192.64.236.6 as permitted sender) client-ip=192.64.236.6; user@domain.com; helo=mx-prometheus-domain.com ;domain.com ;
+Received: from mail30-am1 (localhost.localdomain [127.0.0.1]) by mail30-am1
+ (MessageSwitch) id 138382571334278_6048; Thu,  7 Nov 2015 12:01:53 +0000
+ (UTC)
+Received: from domain.com (unknown [10.3.201.229])	by
+ mail30-domain.com (Postfix) with ESMTP id 0382A2004C	for
+ <user@domain.com>; Thu,  7 Nov 2015 12:01:53 +0000 (UTC)
+Received: from mx-prometheus-domain.com (192.64.236.6) by
+ domain.com (10.3.207.112) with Microsoft SMTP Server id
+ 14.16.227.3; Thu, 7 Nov 2015 12:01:52 +0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1383825712;
+	s=sailthru; d=e.hollywoodreporter.com;
+	h=Date:From: THR Daily Edition PDF <email@e.hollywoodreporter.com>
+	bh=+IDmVOZFypwAKHDFOtqZ1QEzsuJG7gmvCbYJ8s1Wh00=;
+	b=ALlyOFNNBqN8GBY5iVDqtUUW6T2d82VWfg0SW8OnhXrbz/p+SVeG/CdpMYJjlI1+
+	EOJeh05YEfgNMmWzlNJbu6NwyQZgsaQGo6QhYGQfU+ociy2Qx2iAF/UBftgM7/kOwhQ
+	1CbmdP1aRxVzBgZLvVs3SubsOKDCSxOn4UiAMuAs=
+Date: Thu, 7 Nov 2015 07:01:52 -0500
+From: THR Daily Edition PDF <email@e.hollywoodreporter.com>
+To: <user@domain.com>
+Message-ID: <20131107120152.2027658.12224@domain.com>
+Subject: Your New Daily Edition
+Precedence: bulk
+X-TM-ID: 20131107120152.2027658.12224
+X-Info: Message sent by domain.com customer Hollywood Reporter
+X-Info: We do not domain.com unsolicited commercial email
+X-Info: Please report abuse by forwarding complete headers to
+X-Info: user@domain.com
+X-Mailer: domain.com
+X-IADB-IP: 192.64.236.6
+X-IADB-IP-REVERSE: 6.236.64.192
+X-IADB-URL: <<link>>
+X-Unsubscribe-Web: <<link>>
+List-Unsubscribe: <<<link>>>, <mailto:user@domain.com>
+X-rpcampaign: stgfo2027658
+Return-Path: user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+ <<link>>        
+
+If you are unable to see the message below, click here to view it in a browser.  
+
+ <<link>>        
+
+ <<link>>         <<link>>        
+
+<<link>>        
+
+ <<link>>     <<link>>    
+<<link>>        <<link>>       
+ <<link>>        
+
+ <<link>>        
+
+ <<link>>         <<link>>  <<link>>        
+ <<link>>       
+
+ <<link>>        
+
+ <<link>>        
+
+CLICK HERE FOR TODAY'S EDITION  
+
+ <<link>>        
+
+Will Thor: The Dark World Near $90 Mil in Domestic Bow?
+
+Marvel/Disney tentpole has already earned $133.4 mil abroad in less than a week
+
+Dwayne Johnson Attached to Star in MGM’s Seal Team 666
+
+He’ll also exec produce supernatural action project; Spiliotopoulos will pen script
+
+Jane Got a Gun Producers Sue Dire
+

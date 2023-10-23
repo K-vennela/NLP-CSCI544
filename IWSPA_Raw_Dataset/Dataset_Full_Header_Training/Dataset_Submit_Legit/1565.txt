@@ -1,0 +1,285 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 10 May
+ 2015 13:26:02 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 10 May 2015 
+ 13:25:59 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 907139836
+ for user@domain.com; Tue, 10 May 2015 12:26:05 -0500
+X-Note-AR-ScanTimeLocal: 5/10/2016 12:26:01 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @hillaryclinton.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->->->->United States->
+X-Note-Sending-IP: 209.85.161.199
+X-Note-Reverse-DNS: mail-yw0-domain.com
+X-Note-Return-Path: nationalpress2016+user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mail-yw0-domain.com ([209.85.161.199] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 137609262
+ for user@domain.com; Tue, 10 May 2015 12:26:01 -0500
+Received: by mail-yw0-domain.com with SMTP id r185sf39897892ywf.3
+        for <user@domain.com>; Tue, 10 May 2015 10:26:01 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=hillaryclinton.com; s=google;
+        h=mime-version:From: Hillary for America Press <press@hillaryclinton.com>
+         :x-original-authentication-results:precedence:mailing-list:list-id
+         :x-spam-checked-in-group:list-post:list-help:list-archive
+         :list-unsubscribe;
+        bh=3TD+LIwMsRf+PzCenWxiqdVf1921A+N3P4okb5jRK/s=;
+        b=V5/Jh0VeezO5YW1casHXAoYmjGQlmCfwbWuGUVL93a63HNIgtINulKX3IMYmOXIeh9
+         db1fIjrtxHoE82j6GrUlf0dmTbWydHsChNgQb78to0fgIP2ROBHQs5rqntwKUSxLrQ18
+         pGfntGEurxOewLLDWuGxOAnL+rq97wBox4ycY=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:From: Hillary for America Press <press@hillaryclinton.com>
+         :x-original-sender:x-original-authentication-results:precedence
+         :mailing-list:list-id:x-spam-checked-in-group:list-post:list-help
+         :list-archive:list-unsubscribe;
+        bh=3TD+LIwMsRf+PzCenWxiqdVf1921A+N3P4okb5jRK/s=;
+        b=CIEW3DwoGM5M8kp5q47F8s+GPw5MUVg5pRPoP7WzfQZ1WjgiSSrVZzTw40r0trHt4/
+         mwtyOCgD8DqEAEgQpEtHWiU363ifnY5GhbybjTvabYpZV6Pti/mzvFmUdUFlJvvxsUiV
+         S51b+HDTraVoMTQPwEdBmmRJeeuFo3uLxXi9U6A6NDUXFslypLvXNDVdOiqpftsmJluv
+         jx2YA8WwlPpwpJRj7nHqQ1E3kidttbPXRCbizMnXHy7hoOsE8911tGQDX6rfYWgs+Kv/
+         8O7IXQyBRAwGGEia9RZRO+IO8IjqFL6OdoHqJblxoGD+fr+sjfluAOtc57uQuwKm+BaA
+         nYAw==
+X-Gm-Message-State: AOPr4FX5Jm5TCI3ePyvoMtm01hRAZLIns87V2c2TddRvl+EbkMHH3+ENfjM6uTk86fJSzumX
+X-Received: by 10.129.88.86 with SMTP id m83mr27368680ywb.52.1462901160796;
+        Tue, 10 May 2015 10:26:00 -0700 (PDT)
+X-BeenThere: user@domain.com
+Received: by 10.157.41.164 with SMTP id n33ls191783otb.3.gmail; Tue, 10 May
+ 2015 10:25:58 -0700 (PDT)
+X-Received: by 10.157.39.69 with SMTP id r63mr3140876ota.110.1462901158391;
+        Tue, 10 May 2015 10:25:58 -0700 (PDT)
+Received: from mail-oi0-domain.com (mail-oi0-domain.com.
+ [2607:f8b0:4003:c06::22a])        by domain.com with ESMTPS id
+ m66si1109400otc.106.2016.05.10.10.25.58        for
+ <user@domain.com>        (version=TLS1_2
+ cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);        Tue, 10 May 2015 
+ 10:25:58 -0700 (PDT)
+Received-SPF: pass (domain.com: domain of user@domain.com designates 2607:f8b0:4003:c06::22a as permitted sender) client-ip=2607:f8b0:4003:c06::22a;
+Received: by mail-oi0-domain.com with SMTP id k142so27113291oib.1
+        for <user@domain.com>; Tue, 10 May 2015 10:25:58
+ -0700 (PDT)
+X-Received: by 10.157.7.66 with SMTP id 60mr3109944ote.187.1462901157602; Tue,
+ 10 May 2015 10:25:57 -0700 (PDT)
+Received: by 10.182.212.7 with HTTP; Tue, 10 May 2015 10:25:17 -0700 (PDT)
+From: Hillary for America Press <press@hillaryclinton.com>
+Date: Tue, 10 May 2015 13:25:17 -0400
+Message-ID: <user@domain.com>
+Subject: =?UTF-8?B?Q+KAi2xpbnRvbuKAiyDigIt0b+KAiyBD4oCLb21taXQgdG8gQm9sZCwgTuKAi2V34oCLIA==?=
+	=?UTF-8?B?R+KAi29hbOKAiyDigItBc+KAiyDigItQcmVzaWRlbnTigIsg4oCLdG/igIsg4oCLTGltaXQg4oCLQ2hp?=
+	=?UTF-8?B?bGQg4oCLQ2FyZSDigItDb3N0cyDigIt0b+KAiyDigItOb+KAiyBN4oCLb3Jl4oCLIOKAi3RoYW7igIsg?=
+	=?UTF-8?B?MTAgUGVyY2VudOKAiyDigItvZuKAiyBG4oCLYW1pbHknc+KAiyBJ4oCLbmNvbWXigIs=?=
+To: Hillary for America Press <user@domain.com>
+Content-Type: multipart/related; boundary="001a113de492d76c8f05328037d2"
+BCC: <user@domain.com>
+X-Original-Sender: user@domain.com
+X-Original-Authentication-Results: domain.com;       dkim=pass
+ user@domain.com;       spf=pass (domain.com: domain of
+ user@domain.com designates 2607:f8b0:4003:c06::22a as permitted
+ sender) user@domain.com;       dmarc=pass
+ (p=QUARANTINE dis=NONE) header.from=hillaryclinton.com
+Precedence: list
+Mailing-list: list user@domain.com; contact nationalpress2016+user@domain.com
+List-ID: <nationalpress2016.hillaryclinton.com>
+X-Spam-Checked-In-Group: user@domain.com
+X-Google-Group-Id: 5632930410
+List-Post: <<<link>>>,
+ <mailto:user@domain.com>
+List-Help: <<<link>>>,
+ <mailto:nationalpress2016+user@domain.com>
+List-Archive: <<<link>>>
+List-Unsubscribe: <mailto:googlegroups-manage+5632930410+user@domain.com>,
+ <<<link>>>
+Return-Path: nationalpress2016+user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+*[image: Inline image 1]*
+
+*Clinton=E2=80=8B =E2=80=8Bto=E2=80=8B =E2=80=8domain.com to Bold, New=E2=80=
+=8B =E2=80=8BGoal=E2=80=8B =E2=80=8BAs=E2=80=8B =E2=80=8BPresident=E2=80=8B=
+ =E2=80=8Bto=E2=80=8B =E2=80=8domain.com=E2=80=8B
+=E2=80=8BChild =E2=80=8B=E2=80=8BCare =E2=80=8B=E2=80=8BCosts=E2=80=8B =E2=
+=80=8Bto=E2=80=8B =E2=80=8BNo=E2=80=8B =E2=80=8BMore=E2=80=8B =E2=80=8Bthan=
+=E2=80=8B=E2=80=8B 10 Percent=E2=80=8B =E2=80=8Bof=E2=80=8B =E2=80=8BFamily=
+'s=E2=80=8B
+=E2=80=8BIncome*
+
+*In Remarks In Kentucky, Clinton To Also Announce Plans to Expand Home
+Visiting Programs for New Parents and Boost Wages for Child Care Workers*
+
+Speaking at a family health center in Louisville this afternoon as part of
+her "Breaking Down Barriers" tour, Hillary Clinton will outline her vision
+to help working families afford the rising costs of child care.
+
+In particular, Clinton will domain.com that, as President, she will
+significantly increase child care investments so no family pays more than
+10 percent of their income for child care. From her earliest days after law
+school working as a child advocate to her work as First Lady to pass the
+Children=E2=80=99s Health Insurance Program, Hillary Clinton has championed=
+ the
+cause of parents and families and has always believed that =E2=80=9Cit take=
+s a
+village=E2=80=9D to raise a child.
+=E2=80=8B
+
+The cost of child care has increased by nearly 25 percent during the past
+decade, even as the wages of working families have stagnated. And while
+families across America are stretched by skyrocketing costs, child care has
+become more important than ever before=E2=80=94both as a critical work supp=
+ort for
+the changing structure of American families and as an essential component
+of a child=E2=80=99s early development. These high costs severely squeeze w=
+orking
+families, prevent too many children from getting a healthy start, and act
+as a disincentive for parents to stay in the workforce.
+
+In every state in America, sending two children to a child care center
+exceeds the cost of rent. And in the majority of states it is more
+expensive to send an infant to a child care center than a student to a
+4-year public college. These high costs severely squeeze working families
+and act as a disincentive for parents to stay in the workforce. Clinton
+will fight for every family in America to have access to high quality,
+affordable child care by significantly increasing the federal government=E2=
+=80=99s
+investment in child care subsidies and providing tax relief for the cost of
+child care to working families.
+
+=E2=80=8B
+Today, Clinton is also announcing two new steps she will take as president
+to make access to quality child care and early learning a reality for
+working families:
+
+   - *Improve the quality of care by giving a RAISE to America=E2=80=99s ch=
+ild care
+   workforce.* One of the key drivers of high quality child care is a
+   supported and effective child care workforce. Yet, despite the high cost=
+ of
+   child care, too many workers are not receiving a living wage, which fuel=
+s
+   turnover and undermines the quality of care; and, also causes many of th=
+ose
+   caring for and educating our children to live in poverty themselves. To
+   increase the quality of child care in America and pay child care workers
+   for the true value of their worth, Clinton will create the Respect And
+   Increased Salaries for Early Childhood Educators (RAISE) initiative. In
+   line with Clinton=E2=80=99s Care Workers Initiative
+   <<<link>>
+onomy/>,
+   RAISE will fund and support states and local communities that work to
+   increase the compensation of child care providers and early educators, a=
+nd
+   provide equity with Kindergarten teachers by investing in educational
+   opportunities, career ladders, and professional salaries
+   =E2=80=8B.
+
+=E2=80=8B
+=E2=80=8B
+
+   - *Provide home visiting services to more than 2 million parents and
+   children in the next 10 years.* Research shows that providing home
+   visits by a social worker or nurse, during and directly after pregnancy,
+   significantly improve maternal and child health, development, and learni=
+ng.
+   To expand access to these critical supports, Clinton will double our
+   investment in evidenced-based home visiting initiatives like the MIECHV
+   program. As Senator, Clinton co-sponsored the Education Begins at Home A=
+ct,
+   which built on her efforts in Arkansas to bring the HIPPY program to the
+   state. Her work helped inspire the MIECHV program.
+
+Clinton will also emphasize the importance of *supporting young parents as
+they balance family responsibilities with their own careers*. Many are
+still struggling to pay off their own student debt, and trying to save
+money for the future. For young parents, the strain of raising a family is
+particularly acute. As president, Clinton will:
+
+o  *Award scholarships of up to $1,500 per year to as many as one million
+student parents.* Nearly 5 million college students =E2=80=93 over 25 perce=
+nt all
+college students =E2=80=93 are balancing school with raising a child. To su=
+pport
+America=E2=80=99s student parents, Clinton will launch the Student Parents =
+in
+America Raising Kids (SPARK) program. Part of Clinton=E2=80=99s New College=
+ Compact
+<<<link>>
+act-costs/>,
+SPARK will award scholarships of up to $1,500 per year to as many as one
+million student parents. Recipients can use the awards for costs that
+create barriers to success=E2=80=94including child care and emergency finan=
+cial
+aid. SPARK is inspired by the Arkansas Single Parent Scholarship Fund,
+which Clinton helped found as first lady of Arkansas. The program has since
+awarded nearly 40,000 parent scholarships.
+
+o  *Increase access to child care on college campuses by serving an
+additional 250,000 children.* Clinton=E2=80=99s New College Compact will
+dramatically increase access to child care on campus by increasing funding
+for the Child Care Access Means Parents in School Program (CCAMPIS) from
+$15 million to $250 million per year. CCAMPIS, which provides grants for
+campus-based child care centers, has demonstrated real results in improving
+the graduation and retention rates of its recipients.
+
+These initiatives continue to build on Clinton=E2=80=99s robust agenda to e=
+nsure
+working families can access affordable child care and early learning
+programs, including:
+
+   - *Doubling our investment in high-quality early learning programs.*
+   Clinton will double the number of children served by Early Head Start an=
+d
+   the Early Head Start-Child Care Partnership program.
+
+   - *Making preschool universal for every 4-year old in America.* Clinton
+   will ensure that every 4-year old in America has access to high-quality
+   preschool within the next ten years. The evidence is clear that this wil=
+l
+   help reduce inequality over the long term, improve school performance, a=
+nd
+   allow parents to rest easier knowing their kids are learning and cared f=
+or.
+
+   - *Providing working parents paid time off to care for a new baby.*
+   Hillary knows that parents are the first and best caregivers for their
+   babies, yet a quarter of all women in the America return to work less th=
+an
+   two weeks after having a child, leaving them less time to bond with thei=
+r
+   newborns and increasing their risk of postpartum depression. Hillary wil=
+l
+   fight to pass 12 weeks of paid family leave
+   <<<link>>>, so mothers and
+   fathers can care for their new babies, and parents can take time off wor=
+k
+   to care for an ill child or parent, without fearing for their jobs or
+   paychecks.
+
+###
+
+For Immediate Release, May 10, 2015 
+Contact: user@domain.com
+
+PAID FOR BY HILLARY FOR AMERICA
+Contributions or gifts to Hillary for America are not tax deductible.
+Hillary for America, PO Box 5256, New York
+
+--=20
+You received this message because you are subscribed to the Google Groups "=
+NationalPress2016" group.
+To unsubscribe from this group and stop receiving emails from it, send an e=
+mail to nationalpress2016+user@domain.com

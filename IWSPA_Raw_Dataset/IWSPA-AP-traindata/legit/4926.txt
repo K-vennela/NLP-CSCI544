@@ -1,0 +1,55 @@
+Ben,
+Here a few main points about the paper. I've ignored minor English/wording
+things I spotted.
+p4 It seems better to put the other anthro forcings before the natural
+get discussed. (top of page). ie Other heteorogeneous.. sentence should be
+before Stratospheric aerosols.
+p4 Bottom. Could reference Delworth et al to illustrate the 'perfect'
+model argument. They reproduced reality 1 out of 5 attempts.
+p5 Don't like phenomenology of ENSO, change to ENSO sequences ?
+p6 middle. Emphasise that withe models you can look at a lot longer series.
+p6 bottom. Whether the model was really 'perfect' Michaels would find
+some problem.
+p7 2/3rd way down. Say something about Santer et al (2000a).
+p9 Don't think you need to say you got the SOI from CRU.
+p10 ECHAM4 has solar, but how much does it change by. Or is it constant ?
+p11 end of 2. Presumably in combining the SAT and SST you used anomalies.
+Worthwhile saying.
+p12-15 Section 3 gets to read like a recipe. It is important, but it
+might be better as an Appendix. Also I guess the amount of detail depends
+on success of other submissions.  I think the section needs reworking a
+bit as the style changes somewhat. 
+Have you considered whether alpha and tau and t(ramp) can differ by a 
+month between the surface and 2LT.
+The lag you use is 7 months. The science paper of Tom's uses 6 months.
+In the later tables I wasn't clear how raw and nofilt relate to each
+other. I guess all the Tables need longer captions with more
+explanation. I couldn't figure out what the () numbers referred to in
+the Tables.
+p17 I wonder if it's possible to show in a diagram that the iterative
+scheme works and you're getting to a global rather local minimum.
+p19 The higher 'ratios' get nearer to my 2, but only at the high end.
+p20  The last 4 numbers in Table 3 have been multiplied by 0.1 .
+p23 An interesting aside would be to show in one of the Tables how
+much change in the observations is due to volcanoes (ie show how
+much cooling due to this there has been). People will quote this
+value. It shows that 'natural' factors (solar/volcanoes) have led
+to cooling as solar effects will be very small over this time.
+p24 Emphasise later that models and obs all show 2LT level
+changes more than surface.
+p24 Say something about how good ECHAM4 is for ENSO, or refer to a paper.
+p25-33 All good stuff, but it does take a time to read. Not a very
+helpful comment, I know, but I'm being a referee.
+p33 Does Fig 7 use the same data as in Fig 5 ? One shwing things 
+through time, the other as a distribution.
+p35 PCM crept into the Hamburg section, so it should be said here when
+the GISS section starts.
+p38 Quantify the volcanic cooling. I mentioned this earlier.
+p39 Not clear what independent components are wrt Smith et al (2000).
+p42  Surface data has errors too.
+p43  The last sentence of the acknowledgements is like a red rag to a bull
+for Michaels. Even the perceptive adjective will not placate him.
+Have to go home now. I think I've covered most things I noticed.
+Have a good weekend !
+Cheers
+Phil

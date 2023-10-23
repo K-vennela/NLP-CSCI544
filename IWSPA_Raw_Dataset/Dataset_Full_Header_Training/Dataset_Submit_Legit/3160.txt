@@ -1,0 +1,138 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Thu, 12 May
+ 2015 15:11:46 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Thu, 12 May 2015 
+ 15:11:40 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 912185796
+ for user@domain.com; Thu, 12 May 2015 14:11:37 -0500
+X-Note-AR-ScanTimeLocal: 5/12/2016 2:11:30 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:148.163.156.137 DOM:domain.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-185/SG:5 5/12/2016 2:11:29 PM
+X-GBUdb-Analysis: 0, 148.163.156.137, Ugly c=0.496731 p=-0.822581 Source Normal
+X-Signature-Violations: 0-0-0-28008-c
+X-Note-419: 15.6252 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/12/2016 2:11:11 PM
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->->United States->LOCAL->United States->
+X-Note-Sending-IP: 148.163.156.137
+X-Note-Reverse-DNS: mx0a-00136701.domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from [148.163.156.137] (HELO mx0b-00136701.domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 138116256
+ for user@domain.com; Thu, 12 May 2015 14:11:29 -0500
+Received: from pps.filterd (domain.com [127.0.0.1])	by
+ mx0a-.domain.com (8.16.0.17/8.16.0.17) with SMTP id u4CJ9LLW017340;	Thu, 12
+ May 2015 15:11:27 -0400
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=domain.com; h=from : to : cc :
+ subject : date : message-id : references : in-reply-to : content-type :
+ mime-version; s=foxnews; bh=2q+vb4pDUXBgijQ8nw5s5wk9tiy5OHsQu39/EMNsoOY=;
+ b=XdFpi/i9Z4lX/mOjcSpXsFx3zwL+mhNrticaAGm0Fqnbs2dQXyeOF6z/q6VZxT5MxYCe
+ KRt8iAWCFv+IVMrlmaf0vhNQzzv4lDIiICZMbsLsHxcZ38JP2xbGVDJsCEigL6Iqlror
+ o1GaO3DdjdV4HmAiptB0pnFXXp2o+g56jvk= 
+Received: from na01-bn1-domain.com
+ (mail-domain.com [207.46.163.186])	by
+ mx0a-.domain.com with ESMTP id 22vqh60vuj-1	(version=TLSv1.2
+ cipher=ECDHE-RSA-AES256-SHA384 bits=256 verify=NOT);	Thu, 12 May 2015 
+ 15:11:26 -0400
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=domain.com;
+ s=selector1-foxnews-com;
+ h=From: "Sammon, Bill" <bill.sammon@FOXNEWS.COM>
+ bh=j+UMbdPe8emdCb3PZZgVA2MAKOSslzN2Q+MSCoZUqwg=;
+ b=GeWdlEv8Ck8XqCDyG5/flCsuwaXWazjpZ7Qcht7kwFpmY1Z9jFd3PGY2ZoOps4ZOTEER9a7qfYj6jovsoTBUk+WQqt6iECHfcuvXYIrhdVPu7yR3+vtUx/uGyh4XFXvAUsM0pOs4GXBznGt41Mf9gvhyPnVZ3a2pKCMCQYG1irg=
+Received: from domain.com (10.166.190.19) by
+ domain.com (10.166.190.19) with Microsoft SMTP
+ Server (TLS) id 15.1.492.11; Thu, 12 May 2015 19:11:20 +0000
+Received: from domain.com ([10.166.190.19]) by
+ domain.com ([10.166.190.19]) with mapi id
+ 15.01.0492.019; Thu, 12 May 2015 19:11:20 +0000
+From: "Sammon, Bill" <bill.sammon@FOXNEWS.COM>
+To: Erik Smith <user@domain.com>
+CC: "User" <user@domain.com>, Jessica Borchert
+	<user@domain.com>
+Subject: RE: Connecting you...
+Thread-Topic: Connecting you...
+Thread-Index: AdGf+spC/mMAFIh5Sm+H9uk2wppG+gACEuGwAACTdJkBaN5wgwAU7QH/AXvRds4AGN1oEAAMq2IA
+Date: Thu, 12 May 2015 19:11:20 +0000
+Message-ID: <user@domain.com>
+References: <05user@domain.com>,<user@domain.com>,<user@domain.com>,<9user@domain.com>,<user@domain.com>
+ <user@domain.com>
+ <user@domain.com>
+In-Reply-To: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+authentication-results: domain.com; dkim=none (message not signed)
+ header.d=none;domain.com; dmarc=none action=none
+ header.from=FOXNEWS.COM;
+x-originating-ip: [74.120.97.6]
+x-ms-office365-filtering-correlation-id: 50b05727-fa77-4348-f19c-08d37a9933a8
+x-microsoft-exchange-diagnostics: 1;CY1PR02MB2059;5:/VWwE2iZi4P17pDU5GUqz3zGrVQfUVkKgtTKAsKR4YKy5PG59ALiTcTgGcxx0iyGWRGK0EAvIGPBDHDSvH2ZQ7gYawk4ady6xc+igSn9xrBwijhKgxVTECl+okY9XtbkCwBYY6TmjOmI+O4SIBxuzg==;24:E52rdnOUGXqk1sdcAMDyTao8BxWKYMpbFGrdcKjYnKB4jTtWg/F3cG5g1/WO0w5fCb/bJJ54ZNnOt11Pst0WV3DTf8W8UgxnIfl0rARtkQw=;7:ikiwSXrWhzylNAHJ8y7VSqnt/JQR4w4S6mTSDiGDLriRZ8ByJHNEdzLxiLX75eC8l0BnfqPb8LOROUcub52Wn7NsJa6afX9OlDqQZ7xUAlD/9MRSXOlYmbhi1oBLzejAbO1u+2nBUgtkihE5XZHmtLLFKiobAn1XJS7f2CX5bJ/785SbSHfbpdX1bhtjqXPi
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:;SRVR:CY1PR02MB2059;
+x-microsoft-antispam-prvs: <user@domain.com>
+x-exchange-antispam-report-test: UriScan:;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(601004)(2401047)(5005006)(8121501046)(3002001)(10201501046);SRVR:CY1PR02MB2059;BCL:0;PCL:0;RULEID:;SRVR:CY1PR02MB2059;
+x-forefront-prvs: 0940A19703
+x-forefront-antispam-report: SFV:NSPM;SFS:(10009020)(377454003)(24454002)(8936002)(5004730100002)(19617315012)(92566002)(93886004)(19300405004)(11100500001)(86362001)(99286002)(5003600100002)(5002640100001)(87936001)(66066001)(50986999)(76176999)(76576001)(189998001)(110136002)(54356999)(122556002)(74316001)(16236675004)(10400500002)(19625215002)(561944003)(33656002)(2906002)(4326007)(3660700001)(1220700001)(19609705001)(15975445007)(9686002)(2900100001)(2950100001)(3280700002)(5890100001)(77096005)(586003)(81166006)(3846002)(102836003)(6116002)(19580405001)(790700001)(19580395003)(5008740100001)(3480700004);DIR:OUT;SFP:1101;SCL:1;SRVR:CY1PR02MB2059;H:domain.com;FPR:;SPF:None;MLV:sfv;LANG:en;
+spamdiagnosticoutput: 1:23
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_CY1PR02MB205905A1F2BD08DCCA2582B8FD730CY1PR02MB2059namp_"
+X-MS-Exchange-CrossTenant-originalarrivaltime: 12 May 2015 19:11:20.2535
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: f0a087e0-8516-4c1a-bf25-7796e09a6d7e
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: CY1PR02MB2059
+X-Proofpoint-Virus-Version: vendor=fsecure engine=2.50.10432:,, definitions=2016-05-12_09:,,
+ signatures=0
+X-Proofpoint-Spam-Details: rule=outbound_policy_notspam policy=outbound_policy score=0
+ priorityscore=1501 suspectscore=0 malwarescore=0 phishscore=0 bulkscore=0
+ spamscore=0 clxscore=1015 impostorscore=0 lowpriorityscore=0 adultscore=0
+ classifier=spam adjust=0 reason=mlx scancount=1 engine=8.0.1-1604210000
+ definitions=main-1605120252
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+You guys have time for a quick call? (obviously, we are on a very tight tim=
+eline). Thanks
+
+From: "Sammon, Bill" <bill.sammon@FOXNEWS.COM>
+Sent: Thursday, May 12, 2015 9:09 AM
+To: Sammon, Bill
+Cc: User; Jessica Borchert
+Subject: RE: Connecting you...
+
+Bill, the guidance I've gotten is that it would be best for Fox to secure a=
+ Organizationsanction and then approach the other campaigns with that.  There is no=
+t a formal process, so I would recommend you send a letter to OrganizationChair for=
+mally outlining your proposal and suggesting a partnership.  User and I can=
+ help you navigate the process from there.
+
+From: "Sammon, Bill" <bill.sammon@FOXNEWS.COM>
+Sent: Wednesday, May 11, 2015 9:16 PM
+To: Erik Smith
+Cc: User; Jessica Borchert
+Subject: Re: Connecting you...
+
+If Fox were to send letters of invitation to the two candidates for a final=
+ debate in California, can we say that the Organizationis amenable to Fox hosting i=
+t? Thank you.
+
+On May 4, 2016, at 8:00 AM, Erik Smith <user@domain.com<mailto:eri=

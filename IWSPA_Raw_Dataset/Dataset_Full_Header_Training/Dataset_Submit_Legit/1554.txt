@@ -1,0 +1,89 @@
+Received: from domain.com (146.215.230.104) by
+ domain.com (43.130.141.78) with Microsoft SMTP Server id
+ 8.3.342.0; Thu, 26 Jun 2015 12:25:45 -0700
+Received: from domain.com ([160.33.194.228])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s5QJPigT010345	for <user@domain.com>; Thu, 26 Jun 2015 
+ 19:25:44 GMT
+Received: from mail4-va3-domain.com (mail-domain.com [216.32.180.111])
+	by domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s5QJQfBd024087	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128
+ verify=FAIL)	for <user@domain.com>; Thu, 26 Jun 2015 19:26:41 GMT
+Received: from mail4-va3 (localhost [127.0.0.1])	by mail4-va3-domain.com
+ (Postfix) with ESMTP id 5253380065	for <user@domain.com>; Thu, 26 Jun
+ 2015 19:25:42 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:54.240.15.234;KIP:(null);UIP:(null);IPV:NLI;H:a15-234.smtp-domain.com;RD:a15-234.smtp-domain.com;EFVD:NLI
+X-SpamScore: -7
+X-BigFish: vps-7(zze0eahc857hc545Izz1f42h1aa0R1cfdh1ee6h1de0h1fdah2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6h208chzebhz1de098h172cfch1def03h29e4I17326ah1def87h8275bh1bc7b9h8275dh1def86h1de097h186068h1b778fh1ce120hz2fh5fh2a8h839ha12hd24h1288h12a5h12bdh137ah13eah1441h1504h1537h153bh162dh1631h1758h18e1h1946h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1fe8h1ff5h20f0h2216h22d0h2336h2363h2438h2461h2487h24d7h2516h2545h255eh25f6h2605h268bh26d3h27e2h282bh28a1h29d0h2a24h214ai251ci2505k)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail4-va3: domain of bounces.amazon.com designates 54.240.15.234 as permitted sender) client-ip=54.240.15.234; user@domain.com; helo=a15-234.smtp-domain.com ;domain.com ;
+Received: from mail4-va3 (localhost.localdomain [127.0.0.1]) by mail4-va3
+ (MessageSwitch) id 1403810738693513_6389; Thu, 26 Jun 2015 19:25:38 +0000
+ (UTC)
+Received: from domain.com (unknown [10.7.14.244])	by
+ mail4-domain.com (Postfix) with ESMTP id 9A9134C006E	for
+ <user@domain.com>; Thu, 26 Jun 2015 19:25:38 +0000 (UTC)
+Received: from a15-234.smtp-domain.com (54.240.15.234) by
+ domain.com (10.7.99.51) with Microsoft SMTP Server (TLS) id
+ 14.16.227.3; Thu, 26 Jun 2015 19:25:38 +0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=taugkdi5ljtmsua4uibbmo5mda3r2q3v; d=amazon.com; t=1403810634;
+	h=Date:From: Amazon Local <LocalDeals@amazon.com>
+	bh=c971XtplJ5ncZRNXgcH9/F4VDuw6Tlm66A9xAGdsFYE=;
+	b=k6c4w1Zt6/QInO4vwEDaTkW+qVLAYS+iYHCdbFRn0iqjcRbC8PKLsJAcF3qe3ZGS
+	uS5L3MKmqVclA5a/fMWhqz16m9KCDIkpHPvlq8h4EjaZgmK5x3hJSYi1jL9J2EdSH55
+	IQnR+jyBH4r53DyRjHt40JsO+qMvUJbA7/89i/As=
+Date: Thu, 26 Jun 2015 19:23:54 +0000
+From: Amazon Local <LocalDeals@amazon.com>
+To: "User" <user@domain.com>
+Message-ID: <00000146user@domain.com>
+Subject: Book a getaway with our travel deals
+Bounces-to: 201406261923548user@domain.com
+X-AMAZON-MAIL-RELAY-TYPE: merchandizing
+X-AMAZON-RTE-VERSION: 2.0
+X-Original-MessageID: <urn.correios.msg.201406261923548fe6faae0c084f51aea6c149b2d6b760@1403810634346.massmail-sender-na-1d-i-339d0c4e.us-east-1.amazon.com>
+X-SES-Outgoing: 2014.06.26-54.240.15.234
+Return-Path: 
+ 201406261923548user@domain.com
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+ <<link>>
+Deals on desert, mountain, and seaside destinations | Unsubscribe       
+
+domain.com         
+
+ <<link>> Top Travel Deals        domain.com         
+With our new Local Getaways you can save on travel packages close to home or on a journey to an exotic locale. 
+
+Two-Night Lakefront Suite Stay in Big Bear      
+
+Cabins4Less     
+
+39166 Big Bear Blvd, Big Bear, CA       
+
+
+
+
+$       
+
+199     
+
+Savings 41% 
+
+ <<link>>    <<link>>    <<link>>    <<link>>     <<link>>   
+Savings 41%      
+
+
+
+
+Romantic Stay on The Queen Mary with $30 Daily Attractions domain.com       
+
+The Queen Mary  
+
+1126 Queens Hwy, Long Beach, CA         
+
+ <<link>> miles away (
+

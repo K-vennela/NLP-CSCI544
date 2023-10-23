@@ -1,0 +1,50 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 0F25723CAAA
+	for <user@domain.com>; Tue, 10 Jan 2015 18:33:30 -0600 (CST)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 36wTfRugOYdp for <user@domain.com>;
+	Tue, 10 Jan 2015 18:33:27 -0600 (CST)
+Received: from domain.com (domain.com [129.7.234.211])
+	by domain.com (Postfix) with ESMTP id 88BEB23CAA0
+	for <user@domain.com>; Tue, 10 Jan 2015 18:33:27 -0600 (CST)
+Received: from domain.com (domain.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 149324E9A5A7;
+	Tue, 10 Jan 2015 18:33:26 -0600 (CST)
+Received: from gscs-exchange.gscs.org (gscs-exchange.gscs.org [168.9.82.21])
+	by domain.com (Postfix) with ESMTP id CFDB9E0845B;
+	Tue, 10 Jan 2015 18:33:23 -0600 (CST)
+X-MimeOLE: Produced By Microsoft Exchange V6.5
+Content-class: urn:content-classes:message
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Subject: System Administrator/Login/Up-Date
+Date: Tue, 10 Jan 2015 19:27:54 -0500
+Message-ID: <user@domain.com>
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+Thread-Topic: System Administrator/Login/Up-Date
+Thread-Index: AczP99m/F20LzoDhSaKgNetvYeK2UA==
+From: "Andre Grobbelaar" <andre.grobbelaar@gscs.org>
+To: <user@domain.com>
+X-PMX-Version: 5.5.9.395186, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2012.1.11.2414
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 49
+
+Dear Account Owner
+=20
+Your mailbox has exceeded the storage domain.com which is 20GB This message =
+is from (HELPDESK CENTER) Please Click  Login /Up-Date =
+<<<link>>
+C1kMExVMmFCNkE6MQ>  and follow the instruction carefully=20
+=20
+Thanks
+System Administrator Center.

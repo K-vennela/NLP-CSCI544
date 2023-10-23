@@ -1,0 +1,68 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [75.102.5.22])
+	by domain.com (Postfix) with ESMTP id F08A031440DC
+	for <user@domain.com>; Tue, 23 Jun 2015 07:35:41 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 22E24232008;
+	Tue, 23 Jun 2015 07:38:27 +0000 (UTC)
+X-Virus-Scanned: amavisd-new at domain.com
+X-Spam-Flag: NO
+X-Spam-Score: 2.343
+X-Spam-Level: **
+X-Spam-Status: No, score=2.343 tagged_above=-10 required=6.6
+	tests=[BAYES_50=0.001, HTML_FONT_FACE_BAD=0.884, HTML_MESSAGE=0.001,
+	MIME_HTML_ONLY=1.457]
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id lAHGO-mZrbqO; Tue, 23 Jun 2015 07:38:23 +0000 (UTC)
+Received: from domain.com (domain.com [69.94.56.9])
+	by domain.com (Postfix) with ESMTP id EBD1F232007
+	for <user@domain.com>; Tue, 23 Jun 2015 07:38:22 +0000 (UTC)
+Received: (from user@domain.com)
+	by domain.com (8.11.6/8.11.6) id n5N7ZWk09449;
+	Tue, 23 Jun 2015 02:35:32 -0500
+Date: Tue, 23 Jun 2015 02:35:32 -0500
+Message-Id: <200906230735.user@domain.com>
+To: user@domain.com
+Subject: Bank of America Alert: Online Access Suspended
+From: Bank of America Alert <onlinebanking@ealerts.bankofamerica.com>
+Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Content-Length: 3627
+Lines: 63
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1085
+
+
+
+
+Our Valued 
+Customer,
+
+Your access to Online Banking Service 
+      has been suspended. Due to a miss-match access code between your Security 
+      information. To enable you continue accessing your online account it will 
+      only take you few minutes to verify your Identity. Follow the reference 
+      below and you will be guided to where you can gain an instant verification 
+      process.
+
+<<link>>
+IMPORTANT - 
+      You are strictly advised to match your Sensitive Details correctly 
+      to avoid service denial. 
+
+Thank you for helping us to protect you.
+Security Advisor,
+
+      Bank Of America Alert
+Bank of America, N.A. Member FDIC. 
+
+Equal Housing Lender
+
+ 2015 Bank of America Corporation. All rights reserved.

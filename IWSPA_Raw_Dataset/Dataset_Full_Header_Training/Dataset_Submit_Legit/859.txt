@@ -1,0 +1,44 @@
+Return-Path: <user@domain.com>
+Reply-To: <user@domain.com>
+From: "HT Srl" <support@hackingteam.com>
+To: <user@domain.com>
+Subject: [!JKN-804-28210]: Assignment - Exploits not available when building a factory
+Date: Tue, 7 Aug 2015 09:58:22 +0200
+Message-ID: <1344326302.5020user@domain.com>
+X-Mailer: Microsoft Outlook 15.0
+Thread-Index: AQDKq1wQtmxB4TyLCkNWsR0FTizeBA==
+X-OlkEid: 000000007D2091DA92D3914ABB4C05769578F4790700A96A85A9D2A04643865EB2097E3CF3A30000000002080000A96A85A9D2A04643865EB2097E3CF3A3000000007E5A00003CFC799B31C9D649B9C35F226D1D7EE4
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-615933390_-_-"
+
+Alberto Ornaghi updated #JKN-804-28210
+
+--------------------------------------
+
+Staff (Owner): Alberto Ornaghi (was: -- Unassigned --)
+Status: Closed (was: Open)
+
+Exploits not available when building a factory
+
+----------------------------------------------
+
+Ticket ID: JKN-804-28210
+URL: <<link>>
+Full Name: Charles Devon
+Email: user@domain.com
+Creator: User
+Department: General
+Staff (Owner): Alberto Ornaghi
+Type: Issue
+Status: Closed
+Priority: Normal
+Template Group: Default
+Created: 07 August 2015 09:48 AM
+Updated: 07 August 2015 09:48 AM
+
+Under "exploits" there are no options.  We have an domain.com subscription.  This resulted after updating RCS to 8.1.2.  Should we just run the domain.com .exe package again?
+
+Staff CP:  <<link>>
+

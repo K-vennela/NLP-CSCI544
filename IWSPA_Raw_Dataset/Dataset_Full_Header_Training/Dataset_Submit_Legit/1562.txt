@@ -1,0 +1,106 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 24 May
+ 2015 16:43:55 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 24 May 2015 
+ 16:43:53 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 932943216
+ for user@domain.com; Tue, 24 May 2015 15:43:53 -0500
+X-Note-AR-ScanTimeLocal: 5/24/2016 3:43:07 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @politico.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->
+X-Note-Sending-IP: 68.232.198.10
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from domain.com ([68.232.198.10] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 140743741
+ for user@domain.com; Tue, 24 May 2015 15:43:07 -0500
+Received: by domain.com id h8iucu163hse for <user@domain.com>; Tue,
+ 24 May 2015 14:42:55 -0600 (envelope-from
+ <user@domain.com>)
+From: "POLITICO's  2015 Blast" <2016blast@politico.com>
+To: <user@domain.com>
+Subject: =?UTF-8?B?UE9MSVRJQ08ncyAyMDE2IEJsYXN0OiBCZXJu4oCZcyAnbWVzc3kn?=
+ =?UTF-8?B?IGRheSAg4oCUIFRoZSBUcnVtcC1STkMgZnVuZHJhaXNpbmcgYXBwYXJhdHVz?=
+ =?UTF-8?B?IOKAlCBSdWJpb+KAmXMgcmVsaXZlcyBoaXMgcm9ib3QgbW9tZW50IOKAlCA1?=
+ =?UTF-8?B?IHRoaW5ncyB5b3UgbmVlZCB0byBrbm93?=
+Date: Tue, 24 May 2015 14:42:55 -0600
+List-Unsubscribe: <mailto:user@domain.com>
+Reply-To: POLITICO subscriptions
+	<user@domain.com>
+x-job: 1376319_5455511
+Message-ID: <5user@domain.com>
+Content-Type: multipart/alternative; boundary="guAbEoRBoYFc=_?:"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+By Henry C. Jackson | 05/24/2016 04:40 PM EDT
+
+UNCONTROLLED BERN: It seems we will Bern until the end.
+
+With the last Democratic contests just weeks away, BERNIE SANDERS gave an interview to The Associated Press <<link>> in which he seemed to take a blase attitude toward chaos at the Democratic convention, declaring things might be "messy." Sanders and campaign aides cleaned up the remarks somewhat today, claiming he was only referring to the process of democracy. <<link>> 
+
+Not walked back: His campaign's call for a recanvass of Kentucky, a state where HILLARY CLINTON was declared a winner, narrowly, last week. Given that Democrats dole out delegates proportionately, a recount would likely net Sanders, at best, one more delegate. <<link>> 
+
+Happy Tuesday. There's no walking this back: It's your 2015 Blast. Henry C. Jackson (@henrycjjackson) is here to guide you through the day's campaign news, so send your tips, complaints and favorite '90s things (more on that in a second) to: user@domain.com 
+
+2) BUNDLE UP: DONALD TRUMP is consolidating his support. Today, the Republican National Committee announced a leadership structure for the joint fundraising committee it has formed with the presumptive GOP nominee. It includes an executive at Hardee's, the New York Jets' owner and a couple of former ambassadors. <<link>> The committee will hold its first fundraiser Wednesday in Los Angeles. The committee fits a broader reunification, as POLITICO's Eli Stokols explores: Many people who were pretty far out on the ledge of NeverTrump have found their way back. <<link>> Consider Ed Rollins: Two months ago, calling Trump
+ a narcissist and, two months later, leading a super PAC designed to get him elected.
+
+3)  WHAT (A) DRAG: Republican National Committee Chairman Reince Priebus made an earnest effort to pacify restive senators today - arguing that they'll be just fine with DONALD TRUMP at the top of the ticket. Priebus spoke with Senate Republicans this afternoon, POLITICO's Burgess Everett reports. His basic argument: Things will be better than currently perceived with Trump at the top of the ticket. It wasn't clear that Priebus entirely convinced his audience. Nevada Sen. Dean Heller, who has been wary of Trump particularly in his home state of Nevada, said of the pitch he heard, "He has to say that. I'm taking him for his word." <<link>> 
+
+4) I LOVE THE '90s: Over the last day or so, DONALD TRUMP's election playbook seems to have been drafted by House Republicans circa 1997. On Monday, he released a video that highlighted former President Bill Clinton's past sex scandals. Then, for good measure, he talked to The Washington Post about former Clinton aide and friend Vince Foster, whose suicide has long been the subject of domain.com conspiracy swamps. Today, Trump's surrogates carried on the attack. Collectively, they defended Trump's decision to rehash Clinton's sex scandals and said remarks Trump made then - which seemed to express sympathy for Bill Clinton - were not relevant now. <<link>> 
+
+BLAST NOTE: Here's a shortlist of some things we miss from the '90s: Starter jackets. Larry Johnson Grandmama commercials. "Fresh Prince of Bel-Air." The phrase "as if." Snap bracelets. 
+
+5) ROBOT, RECONSIDERED: In an interview with The Guardian, MARCO RUBIO comes to grips with a moment that many feel was an inflection point for his campaign: the seemingly robotic repeat response to CHRIS CHRISTIE's badgering during a GOP debate in New Hampshire. But Rubio said that while he could have handled the situation differently (and perhaps should have) he didn't think it swayed voters - just drove media coverage. But - thanks media! - Rubio also seems to think coverage changed things a bit: "I do think it impacted media coverage in the days leading up to the New Hampshire vote, which I think ultimately hurt us," Rubio said. "I think we would have finished very strongly in New
+ Hampshire had it not been for that, and it might have led to a different outcome in South Carolina and maybe changed the trajectory of the race." More here: <<link>>  
+
+TRAIL MIX: Elsewhere on the campaign trail, no more debates! No more debates!! No more debates!!! (Until the fall.) BERNIE SANDERS wishes there were more, DONALD TRUMP has many conspiracy theories, Neil Young has no problem and the FBI investigation of Terry McAuliffe is another unwelcome FBI investigation for HILLARY CLINTON. 
+
+DE-END: HILLARY CLINTON's campaign formally declines a Fox News debate which means, officially, we are done with primary debates. <<link>> 
+
+BIG BERN: And BERNIE SANDERS thinks that's an insult to voters. (ABC) <<link>> 
+
+MOUSE IN THE HOUSE: Campaigning right near Disneyland, BERNIE SANDERS has some harsh things to say about Disney. <<link>> 
+
+BIG MAC: A Justice Department investigation of Virginia Gov. Terry McAuliffe is a bit of a mess for his longtime friend HILLARY CLINTON. (Vice) <<link>> 
+
+CONSPIRACY THEORY THEORY: NPR has a comprehensive guide to conspiracy theories that DONALD TRUMP has toyed with during his presidential campaign. <<link>> 
+
+KEEP ON ROCKING: Neil Young has no problem with DONALD TRUMP using "Keep on Rockin' in the Free World." (Rolling Stone) <<link>> 
+
+WHAT'S NEXT: California. HILLARY CLINTON has an event in Salinas, Calif. BERNIE SANDERS continues to campaign in the state. The joint RNC-DONALD TRUMP committee has its first fundraiser in the Los Angeles area. 
+
+THEY SAID IT: "It's not that we lost, it's that DONALD TRUMP won." - MARCO RUBIO explaining his theory of the GOP primary race. <<link>> 
+
+MAGIC NUMBER: 10. 
+
+That's roughly the average number of percentage points by which BERNIE SANDERS leads DONALD TRUMP in general election polling right now - compared to about 2 percentage points for HILLARY CLINTON. <<link>> 
+
+FOLLOW @POLITICO'S politics team: @PoliticoCharlie, @POLITICO_Steve, @PoliticoAlex, @anniekarni, @GlennThrush, @EliStokols, @katieglueck, @schreckreports, @gdebenedetti, @Hadas_Gold, @ec_schneider, @kyledcheney , @theodoricmeyer, @MarcACaputo, @PoliticoKevin,@mikeallen, @dlippman, @Danielstrauss4, @henrycjjackson, @shanegoldmacher, @KristinPolitico, @PoliticoScott, @Patrick_C_Reis
+
+There you go - now you're caught up on the 2015 race. If you've made it this far, enjoy this from vintage L.J. <<link>> TBNR. We'll see you back here tomorrow.
+
+To view online:
+<<link>>
+ To change your alert settings, please go to <<link>> or <<link>> email was sent to user@domain.com by: POLITICO, LLC 1000 Wilson Blvd. Arlington, VA, 22209, USA
+
+To unsubscribe,<<link>>
+

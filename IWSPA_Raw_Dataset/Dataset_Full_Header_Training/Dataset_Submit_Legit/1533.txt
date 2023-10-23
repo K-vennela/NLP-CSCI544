@@ -1,0 +1,87 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Wed, 1 Oct 2015 14:34:43 +0200
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id 9CF6A621B2;	Wed,  1 Oct 2015 
+ 13:18:38 +0100 (BST)
+Received: by domain.com (Postfix)	id 62AD8BE2028; Wed,  1 Oct 2015 
+ 14:34:44 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from EmadPC (unknown [192.168.1.196])	(using TLSv1 with cipher
+ AES128-SHA (128/128 bits))	(No client certificate requested)	by
+ domain.com (Postfix) with ESMTPSA id 53366BE2024;	Wed,  1 Oct 2015 
+ 14:34:44 +0200 (CEST)
+From: Emad Shehata <e.shehata@hackingteam.com>
+To: 'Emad Shehata' <user@domain.com>, <user@domain.com>
+CC: 'rsales' <user@domain.com>
+References: <D03F4D59.1211A%user@domain.com> <user@domain.com> <005501cfdbbd$306d11f0$914735d0$@user@domain.com>
+In-Reply-To: <005501cfdbbd$306d11f0$914735d0$@user@domain.com>
+Subject: R: Re: Advanced Training- Italy- Milan
+Date: Wed, 1 Oct 2015 14:34:43 +0200
+Message-ID: <003501cfdd74$14032910$3c097b30$@user@domain.com>
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: Ac/Nl8/Q5O5dFwJJTDis9bnJA9FZ7AE1FQ4AAAA8SCYCU/sNcABtpjWQ
+Content-Language: it
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EMAD SHEHATA450
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1345765865_-_-"
+
+Dear Mesfer, I’m here to ask you to confirm me which flight schedule is suitable for the customer: ( consider that only 1 option have to choose and all the option are NOT EDITABLE AND change with Penalty)  (Lufthansa)1 LH  623  L  02NOV  RUH FRA  0030  0515    
+2 LH  270  L  02NOV  FRA LIN  0845  0955    
+3 LH  271  L  15NOV  LIN FRA  1040  1205    
+4 LH  622  L  15NOV  FRA RUH  1410  2200      (Turkish)
+1 TK  145  L  02NOV  RUH IST  0700  1030    
+2 TK 1895  L  02NOV  IST MXP  1205  1400    
+3 TK 1876  L  15NOV  MXP IST  1855  2245    
+4 TK  144  L  16NOV  IST RUH  0055  0555      (Qatar)
+1 QR 1165  N  02NOV  RUH DOH  1845  2005    
+2 QR  123  N  03NOV  DOH MXP  0215  0655    
+3 QR  120  N  15NOV  MXP DOH  1520  2315    
+4 QR 1166  N  16NOV  DOH RUH  0045  0215   Looking for your confirmation and please send me the full name of the customer. Best regards    Da: Emad Shehata [mailto:user@domain.com] 
+Inviato: lunedì 29 settembre 2015 10:13
+A: user@domain.com
+Cc: 'rsales'
+Oggetto: R: Re: Advanced Training- Italy- Milan Dear Mesfer, trust this e-mail find you well.As you confirmed the training, would you like to send me the full name of the gentlemen that join us?I need to prepare the agenda and book the Hotel and flight. Also let me know if they need an invitation letter for apply to the VISA. Looking for your kindly response.Best regards  Da: Emad Shehata [mailto:user@domain.com] 
+Inviato: mercoledì 17 settembre 2015 13:47
+A: 'user@domain.com'
+Cc: rsales
+Oggetto: R: Re: Advanced Training- Italy- Milan Dear Mesfer
+Thanks for your cooperation.
+Best regards 
+-- 
+Emad Shehata 
+Key Account Manager 
+
+Sent from my mobile.
+ Da: Mesfer S. Al Mesfer [mailto:user@domain.com] 
+Inviato: Wednesday, September 17, 2015 02:40 PM
+A: Emad Shehata 
+Cc: rsales 
+Oggetto: Re: Advanced Training- Italy- Milan 
+ Thanks Emad. I already told the client who will feed me back shortly. Best Regards,
+
+Mesfer S. Al Mesfer
+Sr. Project Manager
+T:+966920014888 Ext.171
+F:+96614168989
+M:+966558281100
+E: user@domain.com From: Emad Shehata <e.shehata@hackingteam.com>
+Date: Thursday, September 11, 2015 at 11:10 AM
+To: Mesfer Al Mesfer <user@domain.com>
+Cc: 'rsales' <user@domain.com>
+Subject: Advanced Training- Italy- Milan Dear Mesfer, trust this e-mail find you well. About the Advanced Training for 5 attendances and 10 working days will be schedule as following:   Starting on Monday 03 November 2015 (except Saturday 08 November 2015 and Sunday 09 November 2014) until Friday 14 November 2014.Please confirm me the customer availability as well to organize the training. Best regards   Emad Shehata
+Key Account Manager
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email:user@domain.com
+mobile: +39 3357939078
+phone: +39 0229060603   This email and any files transmitted with it may be confidential and intended solely for the use of the addressed individual or entity. If you have received this email in error kindly notify the sender immediately and do not disclose the contents to any other person, or store or copy the information in any medium. Statements of intent shall only become binding when confirmed in hard copy by an authorized signatory. TCC accepts no liability for any damage caused by any virus transmitted by this email. Any views or opinions presented in this email are solely those of the author and do not necessarily represent those of TCC. 

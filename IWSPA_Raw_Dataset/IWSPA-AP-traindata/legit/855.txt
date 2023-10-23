@@ -1,0 +1,76 @@
+Dear Ben and All,
+After returning to the office earlier in the week after a couple of weeks
+off during the holidays, I had the best of intentions of responding to
+some of the earlier emails. Unfortunately it has taken the better part of
+the week for me to shovel out my avalanche of email. [This has a lot to
+do with the remarkable progress that has been made -- kudos to Ben and others
+who have made this possible]. At this point I'd like to add my 2 cents worth
+(although with the declining dollar I'm not sure it's worth that much any more)
+on several issues, some from earlier email and some from the last day or two.
+I had given some thought as to where this article might be submitted.
+Although that issue has been settled (IJC) I'd like to add a few related
+thoughts regarding the focus of the paper. I think Ben has brokered the
+best possible deal, an expedited paper in IJC, that is not treated as a
+comment. But I'm a little confused as to whether our paper will be titled
+"Comments on ... by Douglass et al." or whether we have a bit more latitude.
+While I'm not suggesting anything beyond a short paper, it might be possible
+to "spin" this in more general terms as a brief update, while at the same
+time addressing Douglass et al. as part of this. We could begin in the
+introduction by saying that this general topic has been much studied and
+debated in the recent past [e.g. NRC (2000), the Science (2005) papers, and
+CCSP (2006)] but that new developments since these works warrant revisiting
+the issue. We could consider Douglass et al. as one of several new
+developments. We could perhaps title the paper something like "Revisiting
+temperature trends in the atmosphere". The main conclusion will be that, in
+stark contrast to Douglass et al., the new evidence from the last couple of
+years has strengthened the conclusion of CCSP (2006) that there is no
+meaningful discrepancy between models and observations.
+In an earlier email Ben suggested an outline for the paper:
+1) Point out flaws in the statistical approach used by Douglass et al.
+2) Show results from significance testing done properly.
+3) Show a figure with different estimates of radiosonde temperature trends
+illustrating the structural uncertainty.
+4) Discuss complementary evidence supporting the finding that the tropical
+lower troposphere has warmed over the satellite era.
+I think this is fine but I'd like to suggest a couple of other items. First,
+some mention could be made regarding the structural uncertainty in satellite
+datasets. We could have 3a) for sondes and 3b) for satellite data. The
+satellite issue could be handled in as briefly as a paragraph, or with a
+bit more work and discussion a figure or table (with some trends). The main
+point to get across is that it's not just UAH vs. RSS (with an implied edge
+to UAH because its trends agree better with sondes) it's actually UAH vs
+all others (RSS, UMD and Zou et al.). There are complications in adding UMD
+and Zou et al. to the discussion, but these can be handled either
+qualitatively or quantitatively. The complication with UMD is that it only
+exists for T2, which has stratospheric influences (and UMD does not have a
+corresponding  measure for T4 which could be used to remove the stratospheric
+effects). The complication with Zou et al. is that the data begin in 1987,
+rather than 1979 (as for the other satellite products).
+It would be possible to use the Fu method to remove the stratospheric
+influences from UMD using T4 measures from either or both UAH and RSS. It
+would be possible to directly compare trends from Zou et al. with UAH, RSS
+& UMD for a time period starting in 1987. So, in theory we could include
+some trend estimates from all 4 satellite datasets in apples vs. apples
+comparisons. But perhaps this is more work than is warranted for this project.
+Then at very least we can mention that in apples vs. apples comparisons made
+in CCSP (2006) UMD showed more tropospheric warming than both UAH and RSS,
+and in comparisons made by Zou et al. their dataset showed more warming than
+both UAH and RSS. Taken together this evidence leaves UAH as the "outlier"
+compared to the other 3 datasets. Furthermore, better trend agreement between
+UAH and some sonde data is not necessarily "good" since the sonde data in
+question are likely to be afflicted with considerable spurious cooling biases.
+The second item that I'd suggest be added to Ben's earlier outline (perhaps
+as item 5) is a discussion of the issues that Susan raised in earlier emails.
+The main point is that there is now some evidence that inadequacies in the
+AR4 model formulations pertaining to the treatment of stratospheric ozone may
+contribute to spurious cooling trends in the troposphere.
+Regarding Ben's Fig. 1 -- this is a very nice graphical presentation of the
+differences in methodology between the current work and Douglass et al. 
+However, I would suggest a cautionary statement to the effect that while error
+bars are useful for illustrative purposes, the use of overlapping error bars
+is not advocated for testing statistical significance between two variables
+following Lanzante (2005).
+Lanzante, J. R., 2005: A cautionary note on the use of error bars.
+Journal of Climate,  18(17), 3699-3703.
+This is also motivation for application of the two-sample test that Ben has
+implemented.

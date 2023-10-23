@@ -1,0 +1,231 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 18 May
+ 2015 13:52:27 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 18 May 2015 
+ 13:52:25 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 922284351
+ for user@domain.com; Wed, 18 May 2015 12:52:35 -0500
+X-Note-AR-ScanTimeLocal: 5/18/2016 12:52:35 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @egencia.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: United States->
+X-Note-Sending-IP: 216.251.112.210
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from domain.com ([216.251.112.210] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 139570489
+ for user@domain.com; Wed, 18 May 2015 12:52:35 -0500
+Message-ID: <9b1e43$1user@domain.com>
+From: Egencia TripController <no-reply@egencia.com>
+To: <user@domain.com>
+Reply-To: <user@domain.com>
+Date: Wed, 18 May 2015 10:52:25 -0700
+Subject: =?iso-8859-15?Q?TripController=A0-=A0Scott=A0Comer=A0-=A0Miami,=A0FL=A0-=A0Jun=A03,=A02016=A0-=A0Approval=A0Request?=
+Content-Type: text/html; charset="iso-8859-15"
+Content-Transfer-Encoding: quoted-printable
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+=09
+=09
+=09
+=09
+=09
+
+
+
+=09
+	Scott Comer is requesting trip approval from Jordan Kaplan
+=09
+
+
+
+	=09
+=09
+	=09
+=09
+=09
+=09
+=09
+=09
+=09
+
+
+
+=09
+	Quick links
+
+Approve all
+
+Deny all
+
+View trip online
+
+=09
+=09
+=09
+
+
+
+Traveler Scott Comer (user@domain.com)
+
+Itinerary Miami, FL 237=
+79621283
+
+=09
+=09
+	=
+
+=09
+	Flight: Knoxville (TYS) to Miami (MIA)
+=09
+
+
+
+=09
+
+=09
+=09
+	Policy   In policy
+
+=09
+=09
+=09
+=09
+=09
+	Department   Finance (01)
+
+=09
+=09
+=09
+	Booking status  =20
+=09
+
+
+
+=09
+	=09
+=09
+=09
+
+=09
+=09
+=09
+
+Not booked
+
+
+
+Approval status  =20
+=20
+	Awaiting approval
+=09
+
+=09
+=09
+
+
+
+=09
+=09
+
+=09
+
+
+
+Selected flight
+
+=09
+=09
+	Price at submission   $627.20 
+
+Lowest logical fare   $542.70
+
+=09
+=09
+	Airline  
+=09
+=09
+	Delta 3875
+
+=09
+=09
+=09
+=09
+=09
+	Depart   Jun-3-2016  5:45 AM
+
+Arrive   Jun-3-2016  9:18 AM
+
+Number of connections  
+=09
+=09
+=09
+	1 stop
+=09
+
+
+
+=09
+=09
+=09
+	Airline  
+=09
+=09
+	Delta 1776
+
+=09
+=09
+=09
+=09
+=09
+	Depart   Jun-4-2016  3:14 PM
+
+Arrive   Jun-4-2016  6:52 PM
+
+Number of connections  
+=09
+=09
+=09
+	1 stop
+=09
+
+
+
+=09
+=09
+
+=09
+
+=20
+=09
+=09
+
+
+
+=09
+=09
+
+
+
+=09
+
+=20
+

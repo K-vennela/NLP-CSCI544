@@ -1,0 +1,105 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id 636B9468AA
+	for <user@domain.com>; Wed, 13 May 2015 13:24:46 -0400 (EDT)
+X-Greylist: delayed 1339 seconds by postgrey-1.27 at domain.com; Wed, 13 May 2015 13:24:44 EDT
+Received: from domain.com (unknown [211.155.224.115])
+	by domain.com (Postfix) with ESMTP id 4D8D1131F767
+	for <user@domain.com>; Wed, 13 May 2015 13:24:43 -0400 (EDT)
+Received: (qmail 7967 invoked by uid 8021); 13 May 2015 16:59:14 -0000
+Received: from 80.68.33.59 by mail (envelope-from <user@domain.com>, uid 0) with qmail-scanner-1.24 
+ (f-prot: 4.4.2/3.14.11.  
+ Clear:RC:0(80.68.33.59):. 
+ Processed in 8.218107 secs); 13 May 2015 16:59:14 -0000
+Received: from 33-59.domain.com.uk (HELO User) (test@[80.68.33.59])
+          (envelope-sender <user@domain.com>)
+          by 0 (magicmail) with SMTP
+          for <user@domain.com>; 13 May 2015 16:59:06 -0000
+Reply-To: <user@domain.com>
+From: "Arthuro Lucero"<arthurolucero@gmail.com>
+Subject: Question from eBay member - Respond now
+Date: Wed, 13 May 2015 17:59:34 +0100
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-Qmail-Scanner-Message-ID: <124223394611877880@mail>
+Message-Id: <20090513172444.4user@domain.com>
+To: undisclosed-recipients:;
+Content-Length: 15308
+Lines: 208
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1059
+
+e.Bay sent this 
+                  message from Arthuro Lucero (art.lucero). 
+Your registered 
+                  name is included to show this message originated from e.Bay. Learn More. 
+
+
+
+Bu.yer has 
+                  responded to your question about this item.
+
+Do 
+                  not respond to the sender if this message requests that you 
+                  complete the transaction outside of e.Bay. This type 
+                  of offer is against e.Bay policy, may 
+                  be fraudulent, and is not covered by buyer protection 
+                  programs. Learn 
+                  More
+
+Question from 
+                              art.lucero
+
+art.lucero 
+                                (772)
+
+Positive 
+                                feedback:
+100.0%
+
+Member 
+                                since:
+Apr-12-01
+
+Location:
+New York, 
+                                United States of America
+
+Registered 
+                                on:
+domain.com
+
+Hi, I am 
+                                interested on your item you sell. Can you please 
+                                tell me more about it? Please contact me 
+                                asap!
+
+Item URL:
+
+htps://domain.com/ws/eBayISAPI.dll?ViewItem&item=6831805721&sspagename=ADME:B:AAQ:UK:1
+
+Answer 
+                                the question
+
+Regards,
+e.Bay
+
+Marketplace Safety 
+                              Tip 
+
+Never pay for your e.Bay 
+                              item using instant case wire transfer services 
+                              through Western Union or MoneyGram. These payment 
+                              methods are unsafe when paying someone you don't 
+                              know. Learn more about sending 
+                              payments. 

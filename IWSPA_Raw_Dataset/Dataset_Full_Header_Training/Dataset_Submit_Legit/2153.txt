@@ -1,0 +1,82 @@
+Received: from domain.com (146.215.230.104) by
+ domain.com (43.130.141.77) with Microsoft SMTP Server id
+ 8.3.342.0; Tue, 6 May 2015 03:07:05 -0700
+Received: from domain.com ([160.33.194.228])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s46A74Wi003862	for <user@domain.com>; Tue, 6 May 2015 
+ 10:07:04 GMT
+Received: from mail194-ch1-domain.com (mail-domain.com
+ [216.32.181.175])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s46A87pT028391
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Tue, 6 May 2015 10:08:09 GMT
+Received: from mail194-ch1 (localhost [127.0.0.1])	by
+ mail194-ch1-domain.com (Postfix) with ESMTP id E3E634802D6	for
+ <user@domain.com>; Tue,  6 May 2015 10:07:01 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:66.216.179.17;KIP:(null);UIP:(null);SRV:BULK;H:vmta-b-17.domain.com;RD:vmta-b-17.domain.com;EFVD:NLI
+X-SpamScore: 6
+X-BigFish: vps6(zzc89bh1936Ie0eahc857h1a9amdc28izz1f42h2148h1ee6h1de0h1fdah21bdh2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6h208chzz1de098h1def03h17326ah1def87h8275bh1bc7b9h8275dh1def86h18c673h1de097h186068h172c6ch111c62iz2fheh5fh2a8h839h8aahd25h107ah1288h12a5h137ah13eah1441h1504h1537h153bh158dh162dh1631h1758h18e1h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1fe8h1ff5h20f0h2216h22d0h2336h2438h2461h2487h24d7h2516h2545h25f6h2605h268bh26d3h27e2h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail194-ch1: domain of domain.com designates 66.216.179.17 as permitted sender) client-ip=66.216.179.17; user@domain.com; helo=vmta-b-17.domain.com ;.domain.com ;
+Received: from mail194-ch1 (localhost.localdomain [127.0.0.1]) by mail194-ch1
+ (MessageSwitch) id 1399370819101513_11800; Tue,  6 May 2015 10:06:59 +0000
+ (UTC)
+Received: from domain.com (domain.com
+ [10.43.68.225])	by mail194-domain.com (Postfix) with ESMTP id 149D2400B6
+	for <user@domain.com>; Tue,  6 May 2015 10:06:59 +0000 (UTC)
+Received: from vmta-b-17.domain.com (66.216.179.17) by
+ domain.com (10.43.70.2) with Microsoft SMTP Server (TLS) id
+ 14.16.227.3; Tue, 6 May 2015 10:06:58 +0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key1; d=moviefanfare.com;
+ h=List-Unsubscribe:MIME-Version:From: MovieFanFare <fanfare@moviefanfare.com>
+ bh=QzyqFn82nb+eUQu9+Yr6ITo7nbY=;
+ b=ARHb+jFDghjuLc895lgpXNDhVFVcJQQNviWDZZ7K7ZKClqV9hfaVIBClITxG603m8wHZP7S5iJRx
+   As4mSYp92juRvmimel6RLFB4sLEZ44SlLamE7AHFAV7tPTvdvsYLYxZYX4EORCvkjUL4X0PXONwB
+   eE7TWFHEYNuiVvuWDDQ=
+Received: by vmta-b-17.domain.com id hd2q441n6tc5 for
+ <user@domain.com>; Tue, 6 May 2015 06:06:58 -0400 (envelope-from
+ <5user@domain.com>)
+X-Mailer-Reference: 5V854MALHBLIHKGFUUP2CG15I4925F0IOIO6UGPC8DUOTIQQHIIPR2T5TVC80F4
+X-Message-Reference: VUNGE7FDP65KD951K18890KNIK
+X-RPCampaign: esp8685787169557068805453756857534975495656574875787375
+List-Unsubscribe: <mailto:user@domain.com>
+Errors-To: 5user@domain.com
+From: MovieFanFare <fanfare@moviefanfare.com>
+To: <user@domain.com>
+Date: Tue, 6 May 2015 06:06:58 -0400
+Subject: A look at controversial films
+Message-ID: <0.0.17user@domain.com>
+Return-Path: 
+ 5user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+
+
+
+Want your classic movie article on MovieFanFare? Click Here      Get Our 800-page 2015 Catalog   
+
+user@domain.com, thank you for being our customer.
+
+Don't want the Eflash? Click here        <<link>>  Send this to a Friend       
+
+
+
+<<link>>       <<link>>      
+ <<link>>      <<link>>       <<link>>      <<link>>      <<link>>     <<link>>       
+<<link>>       
+
+Francis the Talking Mule         
+
+
+
+
+"Francis the Talking Mule—
+
+Complete Collection"
+
+now on DVD 
+
+
+

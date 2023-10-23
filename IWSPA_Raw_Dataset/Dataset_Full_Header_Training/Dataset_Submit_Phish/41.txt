@@ -1,0 +1,74 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 2571523CAED
+	for <user@domain.com>; Thu, 27 Oct 2015 04:24:52 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at domain.com
+X-Spam-Score: 4.137
+X-Spam-Level: ****
+X-Spam-Status: No, score=4.137 tagged_above=2 required=5
+	tests=[BAYES_00=-2.599, FORGED_MUA_OUTLOOK=4.056,
+	SUBJECT_NOVOWEL=0.155, SUBJ_HAS_SPACES=0.87, SUBJ_HAS_UNIQ_ID=0.19,
+	TRACKER_ID=1.032, X_PRIORITY_HIGH=0.433]
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id tPwwKs-HTJmt for <user@domain.com>;
+	Thu, 27 Oct 2015 04:24:51 -0500 (CDT)
+Received: from domain.com (domain.com [129.7.234.210])
+	by domain.com (Postfix) with ESMTP id 7626823CAE6
+	for <user@domain.com>; Thu, 27 Oct 2015 04:24:51 -0500 (CDT)
+Received: from domain.com (domain.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 1DA6355E0268;
+	Thu, 27 Oct 2015 04:24:50 -0500 (CDT)
+Received: from toroondcbmts05-domain.com (toroondcbmts05-domain.com [207.236.237.39])
+	by domain.com (Postfix) with ESMTP id 7980F55E0261;
+	Thu, 27 Oct 2015 04:24:48 -0500 (CDT)
+Received: from toip55-bus.srvr.bell.ca ([67.69.240.141])
+          by toroondcbmts05-domain.com
+          (InterMail vM.8.00.01.00 201-2244-105-20090324) with ESMTP
+          id <20111027092313.user@domain.com>;
+          Thu, 27 Oct 2015 05:23:13 -0400
+Received: from toip41-bus.srvr.bell.ca ([67.69.240.42])
+  by toip55-bus.srvr.bell.ca with ESMTP; 27 Oct 2015 05:23:06 -0400
+Received: from bas5-london14-1128762561.dsl.bell.ca (HELO voewkbwe) ([67.71.140.193])
+  by toip41-bus.srvr.bell.ca with SMTP; 27 Oct 2015 05:23:05 -0400
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AuBXALsYqU5DR4zB/2dsb2JhbAAmAhoRggeHIKAXgQAGgW0BDwMBAQEDOw8BLAIIAgEkDC0BBBpHAQICAYU4gS8LdhAiAZRajhODU4UXjlKCFCpeBIgRnXQs
+Reply-To: user@domain.com
+From: WF Online<uwdkwu@duke.edu>
+To: user@domain.com
+Subject: *****SPAM***** *** Important Notificaton - Code ID :                                               RRZPSBJFWV
+Date: Thu, 27 Oct 2015 05:23:06 -0400
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="koi8-u"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <28689_1319707490_4user@domain.com>
+X-PMX-Version: 5.5.9.395186, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2011.10.27.91519
+X-PerlMx-Spam: Gauge=XXXII, Probability=32%, Report='
+ PHISH_SPEAR1_X3 3, X_MSMAIL_PRIORITY_HIGH 0.343, PHISH_SPEAR_CONTENT_X3 0.1, CHARSET_CYRILLIC_NO_CYRILLIC 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1000_LESS 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_300_399 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, CHARSET_KOI8_NOT_CYRILLIC 0, DATE_TZ_NA 0, ECARD_WORD 0, FORGED_MUA_OUTLOOK 0, FROM_EDU_TLD 0, INFO_TLD 0, PRIORITY_HIGH 0, TO_MALFORMED 0, USER_AGENT_OE 0, __ANY_URI 0, __CHARSET_IS_KOI8U 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_SUBJ_A 0, __HAS_MSGID 0, __HAS_MSMAIL_PRI 0, __HAS_X_MAILER 0, __HAS_X_PRIORITY 0, __MIME_CHARSET_FARAWAY 0, __MIME_TEXT_ONLY 0, __MIME_VERSION 0, __OUTLOOK_MUA 0, __OUTLOOK_MUA_1 0, __PHISH_PHRASE10 0, __PHISH_PHRASE1_B 0, __PHISH_PHRASE7 0, __PHISH_SPEAR_DETAILS 0, __PHISH_SPEAR_GREETING 0, __PHISH_SPEAR_LINK 0, __PHISH_SPEAR_STRUCTURE_1 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0,
+ __URI_NO_MAILTO 0, __URI_NO_WWW 0, __URI_NS , __USER_AGENT_MS_GENERIC 0, __X_MSPRI_HI 0'
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 25
+
+Dear Customer,
+
+Notification ID: KD9D2H
+
+- Please update your Check Card information.
+- Click on the link below to update your account .
+
+<<link>>
+
+Please do not reply to this e-mail as this is only a notification. Mail sent to this address cannot be answered.
+
+
+
+QBWPFGVBLDLWTFQJUZFSFUOEKTFGEOEHZERVEW

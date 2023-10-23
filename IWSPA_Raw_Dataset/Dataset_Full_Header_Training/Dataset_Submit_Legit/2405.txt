@@ -1,0 +1,2264 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Thu, 12 May
+ 2015 14:30:01 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Thu, 12 May 2015 
+ 14:29:57 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 912036574;
+ Thu, 12 May 2015 13:30:05 -0500
+X-Note-AR-ScanTimeLocal: 5/12/2016 1:29:59 PM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @customercare.expedia.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: United States->
+X-Note-Sending-IP: 216.251.112.210
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from domain.com ([216.251.112.210] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 138105302;
+ Thu, 12 May 2015 13:29:58 -0500
+Message-ID: <078edd$1user@domain.com>
+From: <teamagents@customercare.expedia.com>
+To: <user@domain.com>
+Reply-To: <user@domain.com>
+Date: Thu, 12 May 2015 11:29:58 -0700
+Subject: =?iso-8859-15?Q?Egencia=A0=A0booking=A0confirmation=A0for=A0User=A0Alberto=A0User=A0-=A0Anchorage,=A0AK=A0-=A0May=A013,=A02016=A0-=A0(Itin#=A023766536381)?=
+Content-Type: text/html; charset="iso-8859-15"
+Content-Transfer-Encoding: quoted-printable
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+=20
+=09
+
+/* Begin Header */
+a:link, a:visited=20
+{
+	color: #336699;
+}
+
+a:hover
+{
+	color: #6699cc;
+}
+
+.header-corp {
+	clear:both;
+	float:left;
+	width: 100%;
+}
+.new-logo {
+	float:left;
+	margin:24px 0 24px 12px;
+}
+.new-logo img {
+	width:234px;
+	height:38px;
+	border:none;
+}
+.company-title {
+	float:right;
+	font-family:arial;
+	font-size:14px;
+	font-weight:bold;
+	margin-top:12px;
+	text-align:right;
+}
+
+.tabs {
+	clear:both;
+	float:left;
+	width:100%;
+	font-size:14px;
+	background-color:#576267;
+	height:36px;
+	line-height:36px;
+}
+.tab-first {
+	position:relative;
+	left:12px;
+	margin-right:12px;
+}
+
+.tabs a:link, .tabs a:visited {
+	position:relative;
+	display:block;
+	float:left;
+	color:#fff;
+	text-decoration:none !important;
+	cursor: pointer;
+}
+.tabs a:hover {
+	color:#2e444e;
+	background-color:#f9fafa;
+	cursor:pointer;
+}
+.tabs a b {
+	float:left;
+	padding:0px 12px;
+	font-weight:normal;
+}
+
+a.tab-selected:link, a.tab-selected:visited, a.tab-selected-shadow:link, a.=
+tab-selected-shadow:visited {
+	float:left;
+	background:#f9fafa;
+	overflow:hidden;
+}
+
+a.tab-selected:link b, a.tab-selected:visited b, a.tab-selected-shadow:link=
+ b, a.tab-selected-shadow:visited b {
+	color:#2e444e;
+}
+
+/* Begin Wiz Tabs */
+.wiz-tabs a:link, .wiz-tabs a:visited {
+	display:block;
+	float:left;
+	color:#433;
+	text-decoration:none;
+}
+.wiz-tabs a:hover {
+	color:#433;
+	text-decoration:underline;
+}
+.wiz-tabs a b {
+	float:left;
+	padding:7px 0 0 6px;
+	margin-right:16px;
+}
+.wiz-tabs {
+	clear:both;
+	float:left;
+	width:100%;
+	font-size:11px;
+}
+a.wiz-tab-selected:link, a.wiz-tab-selected:visited {
+	float:left;
+	/*background:url("/eta/tab_back.gif") top left no-repeat;*?*/
+	padding-right:6px;
+	overflow:hidden;
+	text-decoration:none;
+	margin:0 16px 0 0;
+}
+a.wiz-tab-selected:link, a.wiz-tab-selected:visited {
+	/*background:url("/eta/wiz_tab_back.gif") top left no-repeat;*/
+	position:relative;
+	top:1px;
+}
+a.wiz-tab-selected:hover {
+	text-decoration:none !important;
+}
+
+a.wiz-tab-selected:link b, a.wiz-tab-selected:visited b {
+	float:left;
+	/*background:url("/eta/tab_back.gif") top right no-repeat;*/
+	position:relative;
+	right:-6px;
+	padding:7px 8px 6px 0px;
+	margin:0;
+}
+a.wiz-tab-selected:link b, a.wiz-tab-selected:visited b {
+	/*background:url("/eta/wiz_tab_back.gif") top right no-repeat;*/
+	color:#433;
+}
+
+.user {
+	clear:both;
+	float:left;
+	width:100%;
+	font-size:11px;
+	color:#2e444e;
+	background-color:#f9fafa;
+	border-bottom:1px solid #e2e3e4;
+	padding:5px 0;
+}
+.user a:link, .user a:visited {
+	color: #576267;
+	text-decoration:none;
+	margin-left:12px;
+}
+.user a:hover {
+	color: #2e444e;
+	text-decoration:underline;
+}
+.user div {
+	float:left;
+	margin:0 0 0 12px;
+}
+.user div a {
+}
+.user span {
+	float:right;
+	display:block;
+	padding:0 12px 0 0;
+}
+
+.user.arranger {
+	background:#f9fafa;
+	border-bottom:1px solid #e2e3e4;
+	position:relative;
+}
+.user.arranger div img {
+	float:left;
+	margin:0 6px 0 0;
+	height:16px;
+	width:20px;
+}
+.user div.flag {
+	margin: 5px 0 0;
+}
+
+.user p {
+	margin:0;
+}
+.pageHeading
+{
+	color: #eeb211;
+}
+
+.secHeading
+{
+	color: #6699cc;
+}
+
+.secHeadingNoBox, .secHiLiteText
+{
+	color: #6699cc;
+}
+
+.secHeadingBack, .secP2TitleBG
+{
+	background-color: #6699cc;
+}
+
+.secBoxBorderHeadingImg
+{
+	display: none;
+}
+.secBoxBorderHeading, .secBoxBorderHeadingSub
+{
+	font-size:12px;
+	font-weight:bold;
+	color:#000;
+	background: #aac6e1 url("/eta/blue_bar_corp.gif") center left repeat-x;
+	padding:4px 0px 3px 4px;
+}
+
+.secBoxBorderHeadingSub {
+	display:none;
+}
+
+.secBoxBorder, table.secBoxBorder
+{
+	border:1px solid #aac6e1;
+}
+
+.nav2SelText
+{
+	color: #000000;
+
+}
+.nav2SelLink
+{
+	text-decoration: none;
+}
+
+.nav2Link
+{
+	text-decoration: underline;
+}
+
+.aColLinks a {
+	text-decoration: none;
+}
+
+.corpPrice, .CWPrice
+{
+	color: #cc5511;
+}
+
+.header
+{
+	color: #eeb211;
+	font-size:20px;
+	font-weight:bold;
+}
+
+.errorTextStd
+{
+	color: #cc0000
+}
+
+.GoButton=20
+{
+	border-bottom:thin solid #336699;
+	border-right:thin solid #336699;
+	border-top:thin solid #AAC6E1;
+	border-left:thin solid #AAC6E1;
+	background-color:#6699CC;
+	color:#FFFFFF;
+}
+
+.add-flight, .add-hotel, .add-car, .add-srq {
+	display:block;
+	float:left;
+	height:21px;
+	font-size:11px;
+	margin-right:10px;
+}
+
+.add-flight {
+	background: url(/eta/seqshopflightcorp.gif) left top no-repeat;
+	padding:3px 0 0 37px;
+}
+.add-hotel {
+	background: url(/eta/seqshophotelcorp.gif) left top no-repeat;
+	padding:3px 0 0 43px;
+}
+.add-car {
+	background: url(/eta/seqshopcarcorp.gif) left top no-repeat;
+	padding:3px 0 0 38px;
+}
+
+.add-srq {
+	background: url(/eta/seqshopsrqcorp.gif) left top no-repeat;
+	padding:3px 0 0 12px;
+}
+
+/*
+.roundedbox2 .content=20
+{=20
+	border:1px solid #6699cc;=20
+	padding: 4px;
+}
+.roundedbox2 .contentnopadding {=20
+	border: 1px solid #6699cc;=20
+	padding: 0px;
+}
+.roundedbox2 .title2 {
+	display:block;
+	clear:both;
+	float:left;
+	font-size:12px;
+	color:#000;
+	font-weight:bold;
+	background: #aac6e1 url("/eta/blue_bar_corp.gif") center left repeat-x;
+	border-left:1px solid #aac6e1;
+	border-right:1px solid #aac6e1;
+	padding-left:4px;
+=09
+}
+.roundedbox2 .title2 a { }
+
+*/
+
+.roundedbox2 .content=20
+{
+	border:1px solid #69c;
+	padding: 4px 4px 8px 4px;
+	/*background: #fff url("/eta/level_3_back.gif") bottom left repeat-x;*/=20
+}
+=09
+.roundedbox2 .contentnopadding=20
+{=20
+	border:1px solid #69c;
+	padding: 0px;
+}
+.roundedbox2 .title2 {
+	display:block;
+	clear:both;
+	float:left;
+	font-size:12px;
+	color:#000;
+	font-weight:bold;
+	background: #aac6e1 url("/eta/blue_bar_corp.gif") center left repeat-x;
+	/*border-left:1px solid #aac6e1;
+	border-right:1px solid #aac6e1;
+	padding-left:4px;*/
+	width:100%;
+}
+.roundedbox2 .title2 div {
+ padding:4px 0 3px 2px;
+}
+html>body .roundedbox2 .title2 div {
+/* no longer needed */
+}
+.roundedbox2 .title2 div img {=20
+	display:none;
+}
+/* added for alert red module */
+.roundedbox2.alert-bar .title2 {
+	background: #c00 url("/eta/red_bar.gif") center left repeat-x;
+	color:#fff;
+}
+.roundedbox2.alert-bar .content, .roundedbox2.alert-bar .contentnopadding {
+	border-color:#c00;
+}
+
+.rb2Head
+{
+	font-size:12px;
+	font-weight:bold;
+	color:#000;
+	background: #aac6e1 url("/eta/blue_bar_corp.gif") center left repeat-x;
+	padding:4px 0px 3px 0px;
+}
+
+.rb2HeadLeft
+{
+	padding-left:2px;
+	border-left:1px solid #aac6e1;
+}
+
+.rb2HeadRight
+{
+	border-right:1px solid #aac6e1;
+}
+
+.rb2HeadTop
+{
+
+}
+
+.rb2HeadBottom
+{
+
+}
+
+.rb2Body
+{
+	border:1px solid #6699cc;=20
+	color: #000 !important;
+	background-color: #FFF;
+}
+
+.rb2BodyNoBGColor
+{=09
+	border:1px solid #6699cc;=20
+	color: #000 !important;
+}
+
+.rb2BodyLeft
+{
+	border-left:1px solid #6699cc;=20
+}
+
+.rb2BodyRight
+{
+	border-right:1px solid #6699cc;=20
+}
+
+.rb2BodyTop
+{
+	border-top:1px solid #6699cc;=20
+}
+
+.rb2BodyBottom
+{
+	border-bottom:1px solid #6699cc;=20
+}
+
+body {
+	font-family:Arial, Helvetica, Sans Serif;
+	color: #000;
+	padding:0;
+}
+
+/* End Header */
+
+=09
+
+=09
+=09
+
+=09
+=09
+
+
+
+
+=20
+
+
+
+=09
+=09
+=09
+=09
+
+
+
+=09
+
+
+
+
+=09
+=09
+=09
+=09
+	Travel Confirmation
+=09
+=09
+=09
+=09
+
+
+
+=09
+
+
+
+=09
+	Thank you for booking your trip with Egencia.
+=09
+=09
+=09
+=09
+=09
+	View this itinerary online for t=
+he most up-to-date information.
+=09
+=09
+=09
+=09
+
+
+
+=09
+
+
+
+=09
+=09
+=09
+
+
+
+=09
+
+
+
+
+=09
+=09
+
+
+
+=09
+
+
+
+	Anchorage, AK
+=09
+
+
+
+=09
+
+
+
+=09
+
+
+
+
+=09
+
+	=20
+
+
+
+
+=09
+=09
+
+=09
+=09
+
+=09
+
+
+
+
+=09
+=09
+
+=09
+
+=09
+
+=09
+
+=09
+
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+
+=09
+=09
+
+=09
+
+=09
+
+=09
+=09
+=09
+=09
+
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+
+
+
+=09
+=09
+=09
+=09
+=09
+=09
+
+
+
+=09
+	Add a hotel
+=09
+=09
+=09
+=09
+
+=09
+
+=09
+=09
+=09
+=09
+=09
+
+=09
+=09
+=09
+=09
+
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+
+=09
+=09
+=09
+=09
+
+=09
+=09
+=09
+=09
+
+
+
+	,=20
+	Add a car
+=09
+=09
+=09
+=09
+=09
+
+=20
+
+=09
+=09
+=09
+=09
+=09
+
+=09
+=09
+
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=20
+=09
+=09
+=09
+
+=09
+=09
+=09
+=09
+=09
+
+
+
+
+=09
+
+=09
+
+=09
+
+table.tripsummary
+{
+ padding-left: 9px;
+ padding-right: 7px;
+}
+
+td.date
+{
+	background-color:#e9e3db;
+	font-size:16px;
+	padding:2px 10px;
+}
+
+td.tripitem
+{
+ margin: 0;
+	border-top: 1px #E9E3DB solid;
+	padding-top: 4px;
+ padding-left: 9px;
+ padding-right: 7px;
+}
+td.outsideborder
+{
+	border-top: 2px #E9E3DB solid;
+	border-bottom: 2px #E9E3DB solid;
+	border-right: 2px #E9E3DB solid;
+	border-left: 2px #E9E3DB solid;
+}
+
+=20
+
+
+
+=09
+
+
+
+=20
+
+
+
+=20
+
+
+
+=20
+
+
+
+Account holder: User Alberto M=
+iranda   Itinerary number: 23766536381
+
+=09
+
+
+
+=09
+=09
+=09
+
+=09
+
+=09
+=09
+
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+
+=09
+=09
+=09
+=09
+=09
+
+=09
+=09
+=09
+=09
+=09
+=09
+
+=09
+=09
+=09
+=09
+=09
+=09
+
+=09
+=09
+=09
+=09
+=09
+=09
+
+=09
+=09
+
+=09
+=09
+=09
+
+=09
+=09
+
+=09
+=09
+=09
+
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+
+=09
+
+<!--
+
+.itinMsgTripSum {
+	list-style-type:none;
+	padding:0px 6px 0px 2px;
+	margin-left:0px;
+	margin-bottom:4px;
+	font-size:11px;
+}
+
+.itinMsgTripSum li {
+	margin-top:6px;
+	padding-left:9px;
+	padding-right:7px;
+}
+
+.itinMsgTripSum div {
+	padding-bottom:6px;
+	margin-bottom:6px;
+	border-bottom:1px solid #e6e6e6;
+}
+
+.itinMsgTripSum .last {
+	padding-bottom:0px;
+	margin-bottom:0px;
+	border-bottom:0px;
+}
+
+.itinMsgTripSum .bullet {
+	margin-left:9px;
+	padding-left:0px;
+ background: url('/eta/essentta.gif') left top no-repeat;
+}
+
+.itinMsgTripSum .bullet div {
+	margin-left:0px;
+	padding-left:20px;
+ border-bottom:1px solid #e6e6e6;
+}
+
+.itinMsgTripSum .bullet .last{
+	margin-left:0px;
+	padding-left:20px;
+	padding-bottom:0px;
+	margin-bottom:0px;
+	border-bottom:0px;
+}
+
+.itinMsg {
+	list-style-type:none;
+	padding:0px 6px 0px 2px;
+	margin-left:0px;
+	margin-bottom:4px;
+	font-size:12px;
+}
+
+.itinMsg li {
+	padding-left:20px;
+	margin-top:6px;
+}
+
+.itinMsg div {
+	padding-bottom:6px;
+	margin-bottom:6px;
+	border-bottom:1px solid #e6e6e6;
+}
+
+.itinMsg .highlight {
+	font-weight:bold;
+	background-color:#FFFF66;
+}
+
+.itinMsg .last {
+	padding-bottom:0px;
+	margin-bottom:0px;
+	border-bottom:0px;
+}
+
+.itinMsg .bullet {
+ background: url('/eta/essentta.gif') left top no-repeat;
+}
+
+.itinMsg .bullet .last{
+	padding-bottom:0px;
+	margin-bottom:0px;
+	border-bottom:0px;
+}
+
+.itinMsg .agentBullet {
+ background: url('/eta/a_16.gif') left top no-repeat;
+	border-bottom:1px solid #7694bf;
+	padding-bottom:6px;
+}
+
+.itinMsg .agentBulletLast {
+ background: url('/eta/a_16.gif') left top no-repeat;
+}
+
+//-->
+
+=09
+
+
+
+Important Messages
+
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+
+
+
+=09
+=09
+	Ticketing for your flight is now complete - Ticket number(s) are
+				displayed in the Flight section of this itinerary.
+=09
+
+
+
+
+=09
+
+=09
+=09
+
+=09
+=09
+
+=09
+=09
+
+=09
+=09
+
+=09
+=09
+
+=09
+=09
+
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+
+
+
+
+=09
+=09
+	! Rental Car Billing !  - OrganizationServices Cor=
+poration 
+
+	Rental cars are currently not set up for payment through Egencia. Once you=
+ have made your reservation, please contact Mally Smith at user@domain.com=
+. Provide your reservation number, car rental company name and travel dates=
+ for payment.
+Thank you.
+=09
+
+
+
+=09
+=09
+=09
+=09
+
+=09
+
+
+
+=09
+
+=09
+
+table.tripsummary
+{
+ padding-left: 9px;
+ padding-right: 7px;
+}
+
+td.date
+{
+	background-color:#e9e3db;
+	font-size:16px;
+	padding:2px 10px;
+}
+
+td.tripitem
+{
+ margin: 0;
+	border-top: 1px #E9E3DB solid;
+	padding-top: 4px;
+ padding-left: 9px;
+ padding-right: 7px;
+}
+td.outsideborder
+{
+	border-top: 2px #E9E3DB solid;
+	border-bottom: 2px #E9E3DB solid;
+	border-right: 2px #E9E3DB solid;
+	border-left: 2px #E9E3DB solid;
+}
+
+Friday 13-Ma=
+y-2016
+
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+
+=09
+=09
+
+=20
+
+=09
+
+
+
+	function ShowTangoInfo()
+	{
+	var text =3D "Restrictions may include seat selection fees, higher airport=
+ change fees, and limited Aeroplan (R) miles";
+	TT("Tango fare", text, 0, 250);
+	}
+
+
+
+=09
+
+=20
+=20
+
+=09
+
+ Flight (E-Ticket Confirmed)
+Total price: $1,518.50
+
+=09
+=09
+
+
+
+=09
+=09
+
+
+
+=09
+	User
+=09
+=09
+
+
+
+=09
+
+
+
+=09
+=09
+=09
+=09
+	United confirmation code: NJ9ZP7
+=09
+=09
+=09
+
+
+
+	Delta confirmation code: GES4EN
+=09
+=09
+=09
+=09
+
+
+
+	Airline ticket number(s): 
+=09
+	0167777461901
+=09
+=09
+
+
+
+Airline ticketing date: 12-May-16
+=09
+=09
+
+
+
+=09
+=09
+=09
+
+
+
+=09
+
+
+
+=09
+=09
+=09
+
+=09
+=09
+=09
+=09
+	Department: Communications (20)
+=09
+=09
+
+=09
+
+
+
+=09
+
+
+
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+
+
+
+Depart
+
+	 1:44 pm
+
+
+
+	Washington (DCA)
+
+
+
+Terminal B
+
+	United
+
+
+
+=09
+
+
+
+Arrive
+
+	 2:54 pm
+	=20
+
+
+
+	Chicago (ORD)
+
+
+
+	Terminal 2
+
+
+
+	Flight 5236 - Status, Operated by: /SKYWEST DBA =
+UNITED EXPRESS
+=09
+	=09
+
+
+
+=09
+
+
+
+=09
+	Seat 02D, Business Class (Z), Meal, 2hr 10mn, E7W
+
+
+
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+	Web check-in 24 hours prior to de=
+parture
+
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+	Baggage fees
+
+=09
+
+
+
+=09
+
+
+
+=09
+
+
+
+=09
+
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+
+
+
+Depart
+
+	 3:50 pm
+
+
+
+	Chicago (ORD)
+
+
+
+Terminal 1
+
+	United
+
+
+
+=09
+
+
+
+Arrive
+
+	 7:29 pm
+	=20
+
+
+
+	Anchorage (ANC)
+
+
+
+	Terminal SOUTH - DOMESTIC
+
+
+
+	Flight 1280 - Status
+=09
+	=09
+
+
+
+=09
+
+
+
+=09
+	Seat 03F, Business Class (Z), Lunch, 6hr 39mn, Boeing 737-800
+
+
+
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+	Web check-in 24 hours prior to de=
+parture
+
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+	Baggage fees
+
+=09
+
+
+
+=09
+
+=09
+=09
+
+
+
+
+=09
+
+=09
+
+ Car (Reserved)
+
+Estimated total price: $131.88
+
+	Enterprise  Telephone 907-248-5526
+
+
+
+	Confirmation number: 2005105730COUNT
+
+
+
+	Midsize Car: $34.94/Day, Unlimited mileage, Extra hour: $6.99, Extra day: =
+$53.94
+
+
+
+=09
+=09
+=09
+=09
+
+
+
+
+	Requests:
+=09
+	non-smoking
+
+
+
+=09
+
+=09
+
+
+
+=09
+=09
+
+=09
+=09
+=09
+=09
+	Department: Communications (20)
+=09
+=09
+
+
+
+
+=09
+
+
+
+Pick up
+
+	Fri 13-May-16< 7:30 PM
+
+
+
+	In the Airport Terminal, Anchorage, AK (ANC)
+
+
+
+Drop off
+
+	Sun 15-May-16  9:00 PM
+	=20
+
+
+
+=09
+
+
+
+=09
+
+
+
+
+	Hours of operation: 5/13/2016:  7:00 am - 12:30 am, 5/15/2016:  7:00 am - =
+12:30 am
+
+
+
+=09
+
+
+
+=20
+
+=09
+=09
+=09
+
+=09
+	 Hotel
+	(Not Reserved)
+
+=09
+
+
+
+=09
+=09
+	Total price:
+=09
+
+
+
+=09
+	$425.88
+=09
+
+
+
+=09
+
+
+
+Hotel Captain Cook
+
+=09
+
+
+
+=09
+=09
+
+
+
+=09
+=09
+=09
+	Deluxe Room, 1 King Bed. Requests: 1 KING BED, Non-Smoking
+=09
+
+
+
+=09
+=09
+=09
+
+
+
+=09
+	Expedia Special Rate
+=09
+
+
+
+=09
+=09
+=09
+=09
+
+
+
+	Includes: Food/Beverage domain.com, Free Parking, Free Wireless domain.com
+
+
+
+=09
+=09
+=09
+=09
+
+
+
+=09
+=09
+
+=09
+=09
+=09
+=09
+	Department: Communications (20)
+=09
+=09
+
+
+
+
+=09
+
+
+
+=09
+
+
+
+Check in
+Check out
+
+	Fri 13-May-16
+Sun 15-May-16
+
+
+
+=09
+
+
+
+	939 West 5th Avenue 
+ Anchorage, AK 99501 United States of America
+
+
+
+=09
+
+
+
+=09
+
+
+
+Payment:
+=09
+=09
+=09
+	Your domain.com card will be charged  the day of check-in for the entire cost =
+of stay.
+	Prices and room availability are guaranteed at the time of booking.
+=09
+=09
+
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+
+
+
+=09
+
+
+
+Receipt:
+=09
+=09
+	Egencia will send an e-mail receipt detailing the room cost when your card=
+ is charged
+					 the day of check-in.
+					The hotel will provide a receipt for any additional fees and incidenta=
+ls charged during your stay. Egencia is the merchant of record for the room=
+ cost only.
+=09
+=09
+
+
+
+=09
+=09
+
+
+
+Cancellation and Changes:
+	We understand that sometimes plans fall through. We do not charge a cancel=
+ or change fee. However, Hotel Captain Cook has cancellation and change fee=
+s that we are required to pass on.
+	 There is no charge for changes made before  3:00 PM local hotel time on 5=
+/12/2016. Cancellations or changes made after  3:00 PM local hotel time on =
+5/12/2016 are subject to a hotel fee equal to a 1 Night Room & Tax. Can=
+cellations or changes made after check-in on 5/13/2016 are subject to a 100=
+% penalty.
+=09
+	No refunds for early check-out.
+=09
+	Cancellations can be made online. From your itinerary, click the How to ca=
+ncel this hotel reservation link and follow the instructions.
+	To make changes after booking, please call +1 (800) 997-6494 or +1=
+ (702) 939-2532.
+=09
+=09
+=09
+=09
+
+
+
+=09
+=09
+
+
+
+=09
+
+
+
+=09
+=09
+
+=09
+=09
+=09
+=09
+	You're guaranteed for late arrival.  Payment for the entire stay will be a=
+utomatically charged on the day of check-in.
+=09
+=09
+=09
+=09
+=09
+=09
+	See
+=09
+
+
+
+	online itinerary
+
+
+
+=09
+	for applicable change, cancellation and no-show penalties.
+=09
+=09
+
+=09
+
+
+
+=09
+
+=09
+
+table.tripsummary
+{
+ padding-left: 9px;
+ padding-right: 7px;
+}
+
+td.date
+{
+	background-color:#e9e3db;
+	font-size:16px;
+	padding:2px 10px;
+}
+
+td.tripitem
+{
+ margin: 0;
+	border-top: 1px #E9E3DB solid;
+	padding-top: 4px;
+ padding-left: 9px;
+ padding-right: 7px;
+}
+td.outsideborder
+{
+	border-top: 2px #E9E3DB solid;
+	border-bottom: 2px #E9E3DB solid;
+	border-right: 2px #E9E3DB solid;
+	border-left: 2px #E9E3DB solid;
+}
+
+Sunday 15-Ma=
+y-2016
+
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+
+=20
+
+=09
+
+
+
+	function ShowTangoInfo()
+	{
+	var text =3D "Restrictions may include seat selection fees, higher airport=
+ change fees, and limited Aeroplan (R) miles";
+	TT("Tango fare", text, 0, 250);
+	}
+
+
+
+=09
+
+=20
+=20
+
+=09
+
+ Flight (E-Ticket Confirmed)
+
+
+
+=09
+
+
+
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+
+
+
+Depart
+
+	 9:28 pm
+
+
+
+	Anchorage (ANC)
+
+
+
+Terminal SOUTH - DOMESTIC
+
+	Delta
+
+
+
+=09
+
+
+
+Arrive
+
+	 5:53 am
++1 day
+	=20
+
+
+
+	Minneapolis (MSP)
+
+
+
+	Terminal 1 - LINDBERGH
+
+
+
+	Flight 1081 - Status
+=09
+	=09
+
+
+
+=09
+
+
+
+=09
+	Seat 41C, Economy/Coach Class (L), Breakfast, 5hr 25mn, Boeing 757
+
+
+
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+	Web c=
+heck-in 24 hours prior to departure
+
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+	Baggage fees
+
+=09
+
+
+
+=09
+
+
+
+=09
+
+
+
+=09
+
+=09
+=09
+=09
+=09
+=09
+=09
+
+
+
+	Monday 16-May-2016
+
+
+
+=09
+=09
+=09
+
+
+
+Depart
+
+	 7:07 am
+
+
+
+	Minneapolis (MSP)
+
+
+
+Terminal 1 - LINDBERGH
+
+	Delta
+
+
+
+=09
+
+
+
+Arrive
+
+	10:30 am
+	=20
+
+
+
+	Washington (DCA)
+
+
+
+	Terminal B
+
+
+
+	Flight 1464 - Status
+=09
+	=09
+
+
+
+=09
+
+
+
+=09
+	Seat 19D, Economy/Coach Class (L), Breakfast, 2hr 23mn, MDC MD90
+
+
+
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+	Web c=
+heck-in 24 hours prior to departure
+
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+	Baggage fees
+
+=09
+
+
+
+=09
+
+=09
+=09
+
+
+
+
+=09
+
+=09
+
+table.tripsummary
+{
+ padding-left: 9px;
+ padding-right: 7px;
+}
+
+td.date
+{
+	background-color:#e9e3db;
+	font-size:16px;
+	padding:2px 10px;
+}
+
+td.tripitem
+{
+ margin: 0;
+	border-top: 1px #E9E3DB solid;
+	padding-top: 4px;
+ padding-left: 9px;
+ padding-right: 7px;
+}
+td.outsideborder
+{
+	border-top: 2px #E9E3DB solid;
+	border-bottom: 2px #E9E3DB solid;
+	border-right: 2px #E9E3DB solid;
+	border-left: 2px #E9E3DB solid;
+}
+
+=20
+
+
+
+=09
+=09
+
+=20
+
+=09
+
+=20
+
+
+
+Plan the rest of your trip
+	Explore additional resources and domain.com your travel plans to update or ch=
+ange details in your current itinerary.
+	Plan your trip
+
+=09
+
+
+
+=20
+
+
+
+Traveler tools
+
+=09
+=09
+	domain.com the Traveler Cente=
+r website for business travel tools, answers to frequently asked questi=
+ons and training videos
+
+	Learn more about the Egen=
+cia Flight Price Guarantee
+
+	Follow Egencia on Twitter=
+ for business travel tips, tricks and trivia
+
+=09
+
+
+
+=09
+
+=09
+
+
+
+=09
+	This is a travel summary only. =
+For all applicable rules, restrictions, fees and penalties please refer to =
+your 
+			online itinerary.
+
+=09
+	For assistance call +1 (800=
+) 997-6494 or +1 (702) 939-2532 or email user@domain.com=
+=20
+
+
+
+=09
+=09
+=09
+=09
+
+=09
+
+=09
+
+
+
+=09
+
+=09
+=09
+
+=09
+=09
+
+=09
+
+
+
+=20
+=20
+=09
+
+=09
+=09
+
+

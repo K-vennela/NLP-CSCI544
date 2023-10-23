@@ -1,0 +1,80 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.4.9])
+	by domain.com (Postfix) with ESMTP id 5C72C468D9
+	for <user@domain.com>; Sat, 21 Jul 2015 02:03:46 -0400 (EDT)
+Received: from domain.com (domain.com [192.168.6.4])
+	by domain.com (Postfix) with ESMTP id 65A02131FBFC
+	for <user@domain.com>; Sat, 21 Jul 2015 02:03:46 -0400 (EDT)
+Received: from fagor.hu (mail.fagor.hu [86.101.188.121])
+	by domain.com (Postfix) with ESMTP id 3CDEC6FA1C5
+	for <user@domain.com>; Sat, 21 Jul 2015 02:03:46 -0400 (EDT)
+Received: from User ([217.37.162.57]) by fagor.hu with Microsoft SMTPSVC(6.0.3790.3959);
+	 Fri, 20 Jul 2015 20:51:06 +0200
+Reply-To: <user@domain.com>
+From: "Paypal"<service@paypal.com>
+Subject: Unauthorized access to your PayPal account !
+Date: Fri, 20 Jul 2015 19:51:07 +0100
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <user@domain.com>
+X-OriginalArrivalTime: 20 Jul 2015 18:51:06.0689 (UTC) FILETIME=[EE00EB10:01C7CAFE]
+X-TM-AS-Product-Ver: SMEX-7.2.0.1122-5.0.1021-15310.000
+X-TM-AS-Result: Yes-19.364700-4.000000-31
+To: undisclosed-recipients:;
+X-Keywords: 
+Status: O
+Content-Length: 2015 
+Lines: 34
+
+As part of our security 
+measures, we regularly screen activity in the
+PayPal system. We recently 
+noticed the following issue on your account:
+We would like to ensure that your account was not 
+accessed by an
+unauthorized third party. Because protecting the security of 
+your 
+account is our primary concern, we have limited access to sensitive 
+PayPal 
+account features. We understand that this may be an inconvenience but 
+please
+understand that this temporary limitation is for your 
+protection.
+Case ID Number: PP-072-838-482 
+<<link>>
+
+
+
+For your protection, we have limited access to 
+your account until
+additional security measures can be completed. We 
+apologize for any
+inconvenience this may cause.
+
+To review your account and some or all of the 
+information that PayPal 
+usedto make its decision to domain.com your account 
+access, please domain.com the
+Resolution Center <<link>> . If, after reviewing your account information, you 
+
+seekfurther clarification regarding your account access, please contact 
+
+PayPal by visiting the Help Center and clicking "Contact Us".We thank you 
+for 
+your prompt attention to this matter. Please understand that this is a 
+
+security measure intended to help protect you and your account. We apologize 
+for 
+any inconvenience.
+Sincerely,
+PayPal Account Review 
+Department
+PayPal Email ID PP645495

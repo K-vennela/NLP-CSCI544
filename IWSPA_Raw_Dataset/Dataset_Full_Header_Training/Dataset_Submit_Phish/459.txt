@@ -1,0 +1,79 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id 95F46469DF
+	for <user@domain.com>; Thu, 16 Aug 2015 21:39:14 -0400 (EDT)
+Received: from domain.com (bio.hgy.es [193.146.180.21])
+	by domain.com (Postfix) with ESMTP id 26DB4131FAAF
+	for <user@domain.com>; Thu, 16 Aug 2015 21:39:14 -0400 (EDT)
+Received: by domain.com (Postfix)
+	id 75EB21C3D2; Fri, 17 Aug 2015 03:39:13 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [193.146.180.90])
+	by domain.com (Postfix) with ESMTP id 625601C3DC
+	for <user@domain.com>; Fri, 17 Aug 2015 03:39:13 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 4F35D8B2
+	for <user@domain.com>; Fri, 17 Aug 2015 03:39:13 +0200 (CEST)
+X-Quarantine-ID: <VpEgQc-VaLJz>
+X-Virus-Scanned: Debian amavisd-new at domain.com
+X-Spam-Flag: YES
+X-Spam-Score: 33.293
+X-Spam-Level: *********************************
+X-Spam-Status: Yes, score=33.293 tagged_above=0 required=5
+	tests=[BAYES_99=3.5, FROM_HAS_ULINE_NUMS=0.291, HTML_50_60=0.134,
+	HTML_MESSAGE=0.001, RAZOR2_CF_RANGE_51_100=0.5,
+	RAZOR2_CF_RANGE_E8_51_100=1.5, RAZOR2_CHECK=12, SPOOF_OURI=0.104,
+	SUBJ_HAS_SPACES=0.87, URIBL_JP_SURBL=4.087, URIBL_OB_SURBL=3.008,
+	URIBL_PH_SURBL=2.8, URIBL_SC_SURBL=4.498]
+Received: from domain.com ([193.146.180.21])
+	by localhost (domain.com [193.146.180.108]) (amavisd-new, port 10024)
+	with ESMTP id VpEgQc-VaLJz for <user@domain.com>;
+	Fri, 17 Aug 2015 03:39:08 +0200 (CEST)
+Received: from xo3xsx1h6xomljf (unknown [124.199.40.80])
+	by domain.com (Postfix) with SMTP id E33121C3D2
+	for <user@domain.com>; Fri, 17 Aug 2015 03:39:05 +0200 (CEST)
+Message-ID: <002101c7e06f$66a1c890$0200user@domain.com>
+From: "TDBanknorth US Online Cash Management '07" <customer_support_reference_15ea@tdbanknorth.com>
+To: <user@domain.com>
+Subject: ***SPAM*** TD Banknorth Group Treasury Management domain.com Your Details
+	      ref: 6247
+Date: Fri, 17 Aug 2015 10:39:07 +1000
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001E_01C7E0BA.D687C770"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Length: 3247
+Lines: 61
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 30
+
+   TD Banknorth Inc.
+
+   Dear TD Banknorth Group Inc. Corporate Banking user!
+
+   Our Technical Division is carrying out a scheduled software update
+
+   By clicking on the link below you will start the procedure of the user
+   login authorization:
+
+   <<link>>
+
+   These directions are to be mailed and followed by all clients of the
+   TD Banknorth U.S. Corporate Banking
+
+   TD Banknorth USA Treasury Management does apologize for the troubles
+   caused to you, and is very grateful for your collaboration.
+
+   If you are not user of TD Banknorth Group Corporate Banking please
+   delete this e-mail!
+
+   *** This is an automated message, please do not respond ***
+
+    2015  TD Banknorth Group Business Banking. All Rights Reserved.

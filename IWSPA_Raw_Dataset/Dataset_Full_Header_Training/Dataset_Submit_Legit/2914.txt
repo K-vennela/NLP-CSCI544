@@ -1,0 +1,113 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Fri, 6 May
+ 2015 09:27:22 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Fri, 6 May 2015 
+ 09:27:22 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 900381154
+ for user@domain.com; Fri, 06 May 2015 08:27:24 -0500
+X-Note-AR-ScanTimeLocal: 5/6/2016 8:27:22 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @politico.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->
+X-Note-Sending-IP: 68.232.198.10
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from domain.com ([68.232.198.10] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 137157335
+ for user@domain.com; Fri, 06 May 2015 08:27:22 -0500
+Received: by domain.com id h5idrk163hsd for <user@domain.com>; Fri,
+ 6 May 2015 07:27:09 -0600 (envelope-from
+ <user@domain.com>)
+From: POLITICO Huddle <huddledigest@politico.com>
+To: <user@domain.com>
+Subject: =?UTF-8?B?UE9MSVRJQ08gSHVkZGxlOiBSWUFOIEJSRUFLUyBXSVRIIFRSVU1Q?=
+ =?UTF-8?B?IOKAlCBIb3cgUnlhbiBkZWNpZGVkIHRvIGRpdGNoIFRydW1wIOKAlCBUUlVN?=
+ =?UTF-8?B?UCBISVRTIEJBQ0sg4oCUIEFsbCBleWVzIG9uIG5leHQgd2Vla+KAmXMgbWVl?=
+ =?UTF-8?B?dGluZyDigJQgRUNPTk9NWSBBRERFRCAxNjAsMDAwIEpPQlMg4oCUIEluc2lk?=
+ =?UTF-8?B?ZSB0aGUgbmV2ZXItZW5kaW5nIEJlbmdoYXppIHByb2JlIOKAlCBERU1TIENB?=
+ =?UTF-8?B?UElUQUxJWkUgT04gR09Q4oCZUyBUUlVNUCBNQU5JQS4=?=
+Date: Fri, 6 May 2015 07:27:09 -0600
+List-Unsubscribe: <mailto:user@domain.com>
+Reply-To: POLITICO subscriptions
+	<user@domain.com>
+x-job: 1376319_5396138
+Message-ID: <581user@domain.com>
+Content-Type: multipart/alternative; boundary="2bdxnlKMRNRT=_?:"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+05/06/2016 09:24 AM EDT
+
+By Rachael Bade (user@domain.com or @RachaelMBade) 
+
+THE BIG STORY: RYAN BREAKS WITH TRUMP. It's not every day you see the Republican Speaker of the House say he can't support the presumed GOP nominee. Yet that is exactly what Paul Ryan did yesterday. This is, as Trump would say, yuge. A massive defection that is sure to rock the Republican Party's effort to unify itself for weeks and even months as this faceoff plays out. CNN's Jake Tapper had the interview: "Ryan's position makes him the highest-level GOP official to reject Trump since the real estate mogul became the last candidate standing in the party's nominating contest. His move gives down-ballot Republicans cover to hold off on supporting Trump. It could also keep his agenda in the
+ House from being overtaken by Trump's policy positions."
+
+"Ryan said he hopes to eventually back Trump and 'to be a part of this unifying process.' The first moves, though, must come from Trump, he said. Ryan said he wants Trump to unify 'all wings of the Republican Party and the conservative movement' and then run a campaign that will allow Americans to 'have something that they're proud to support and proud to be a part of.' 'And we've got a ways to go from here to there,' Ryan said." <<link>> Full transcript: <<link>> 
+
+BEHIND THE SCENES: "How Ryan decided to ditch Trump." Jake Sherman has the must-read backstory on this calculated move, including details about how Ryan huddled quickly with advisers following Tuesday night's Trump romp to plot his break with the all-but official nominee: "On Wednesday morning, not even 24 hours after Donald Trump effectively clinched the Republican nomination, Paul Ryan convened his top advisers for a call. With Congress out of session, Ryan was bouncing between multiple states, raising the piles of money needed to keep House Republicans in the majority. But Donald Trump was on his mind. The speaker could not - at least at this point - support him. And he wanted to talk
+ through how to proceed."
+
+"Ryan never expected Trump to lock up the nomination so quickly. He didn't think Texas Sen. Ted Cruz would drop out of the race in May. In fact, Ryan's domain.com was preparing for a contested convention in Cleveland, where he is slated to serve as chairman, effectively the emcee of the Trump coronation. The decision was made quickly. The next day, he would go on CNN and make it official, in no uncertain terms..."
+
+"Trump's campaign was stunned by Ryan's interview. Earlier on Thursday, campaign sources said, advisers to the candidate had reached out to Ryan's office with an invitation: Would the speaker be able to meet with Trump for a one-on-one meeting to discuss the fall campaign and the party's agenda? The invitation was passed on to a staffer, and the campaign didn't hear back immediately from Ryan's office. The next thing the Trump campaign knew, there was Ryan on national TV. What just happened, aides asked? They got in touch with Ryan's office. The invitation was off the table, the campaign sources said, who believe Ryan hadn't received word of the offer to meet personally with Trump by the
+ time the speaker went on TV." <<link>> 
+
+"TRUMP PUNCHES BACK: I'M NOT READY TO SUPPORT RYAN'S AGENDA." Elliot Smilowitz for The Hill on the billionaire's pretty lame comeback: "Donald Trump says he's not ready to support House Speaker Paul Ryan's agenda - a pointed counterpunch after Ryan criticized the presumptive GOP presidential nominee. 'I am not ready to support Speaker Ryan's agenda,' Trump said in a statement Thursday. 'Perhaps in the future we can work together and come to an agreement about what is best for the American people. They have been treated so badly for so long that it is about time for politicians to put them first!'" <<link>> 
+
+ALL EYES ON NEXT WEEK'S POTENTIAL MEETING. This dynamic will play out next week, surely taking center stage when Trump's team comes to the Hill. POLITICO reported yesterday that Trump might be coming to Capitol Hill as soon as next week, too - though, that was the word before yesterday's big kerfuffle. Still, Trump said on Fox News Friday morning he still plans to meet with Ryan. "I know we're meeting next week. They wanted to meet next week," he said. <<link>> 
+
+THANK GOD IT'S FRIDAY! - Thanks for reading Huddle, where the word "recess" doesn't mean diddlysquat these days. But it's better to be busy than bored, no? And this Ryan-Trump faceoff is making our brain explode. Send all your gossip about Ryan's move here: user@domain.com, or send me a note on the twitters: @RachaelMBade
+
+TODAY IN CONGRESS. Last day of recess. Ditch the office early.
+
+AROUND THE HILL. Coffee-pot prattle about the great 2015 divide.
+
+BREAKING NEWS - Per Politico banner: "The economy added 160,000 jobs in April, the Labor Department reported Friday, down from 208,000 jobs in March. Unemployment was 5 percent, unchanged from March. Analysts had predicted job growth of about 200,000 jobs, an unemployment rate of 4.9 percent and an increase in hourly earnings of 0.3 percent, according to a survey of Bloomberg economists."
+
+EXCLUSIVE: BEHIND THE NEVER-ENDING BENGHAZI PROBE. So everyone's been squawking about how long Chairman Trey Gowdy is taking to finish this probe of the Sept. 11, 2015 terrorist attack. Us included. So we put the question to the South Carolina Republican himself: What the hell is taking so long? The committee and Gowdy in an hour-long interview opened up about a mud-slog the committee has trenched through with the executive branch. "It's taken way too long and way too much of our energy in simply gaining access," Gowdy said. "There continues to be time wasted negotiating with executive branch entities who do not want to give us what I believe Congress is entitled to." More details in the
+ story: <<link>> 
+
+Gowdy secured $4 million to help State with document pace. James Rosen for Fox News on a related matter: "[P]reviously unpublished documents... detail how Rep. Trey Gowdy, the panel's Republican chairman from South Carolina, began working behind the scenes early last year to help the department secure over $4 million in 'reprogrammed' funds set aside by Congress for [a document production] domain.com... was supposed to be 'operational' in June 2015. Yet the State Department, prompted by inquiries from Fox News, now acknowledges it missed that target date." <<link>> 
+
+FBI CLINTON INVESTIGATION UPDATE: "FBI interviews Clinton aides including Huma Abedin as part of email probe." Really nice scoop from CNN's Evan Perez, Pamela Brown and Shimon Prokupecz: "Some of Hillary Clinton's closest aides, including her longtime adviser Huma Abedin, have provided interviews to federal investigators, as the FBI probe into the security of her private email server nears completion, U.S. officials briefed on the investigation tell CNN. The investigation is still ongoing, but so far investigators haven't found evidence to prove that Clinton willfully violated the law the U.S. officials say."
+
+"In recent weeks, multiple aides have been interviewed -- some more than once, the officials said. A date for an FBI interview of Clinton has not been set, these officials said, but is expected in the coming weeks... The probe remains focused on the security of the server and the handling of classified information and hasn't expanded to other matters, the officials said." <<link>> 
+
+HARRY REID'S GREATEST WEAPON FOR SENATE TAKEOVER: TURMP, TRUMP AND MORE TRUMP. Michael McAuliff for HuffPo with a readout from the Minority Leader's Thursday call with reporters: "Having Donald Trump lead the Republican ticket next fall is a boon to Democratic chances to retake the Senate, Minority Leader Harry Reid (D-Nev.) said Thursday, vowing to do everything he could to make sure his party takes advantage. Democrats need to net four Senate seats to regain control of the Senate if they win the White House in November, and Reid pointed to a string of contests that he called 'competitive and more,' in part because of the real estate developer. <<link>>
+
+
+
+SNEAK PEEK: A TALE OF TWO NOMINEES. Americans United for Change are already blistering Senate Republicans for their party's lead 2015 candidate - and failing to act on Obama's SCOTUS nominee. In a new ad with a domain.com screen, the group compares words and phrases used to describe Garland ("his credentials cannot be questioned," "a brilliant jurist") and those used to characterize Trump ("race-baiting, xeno-phobic, religious bigot"). It's all set to lovely classical music - until heavy medal breaks out with an arrow points to Trump with the caption: "Senate Republicans picked this guy." Watch it: <<link>> 
+
+THURSDAY'S TRIVIA WINNER: Marshal Shemtob was the first to answer that Nebraska, in 1986, had the first gubernatorial election where nominees in both parties were women.
+
+TODAY'S TRIVIA: Comes from me: Who organized the inaugural Congressional Baseball Game between Democrats and Republicans, what year was it, and what was this member's pre-Congress profession? Email me: user@domain.com 
+
+POLITICO AD: MEET THE 2015 NERDCAST! Geek out each week with POLITICO's Kristin Roberts, Charlie Mahtesian, Ken Vogel, Eli Stokols and Scott Bland as they dive deep into this amazing presidential race, the latest numbers that actually matter, plus backstage dope on how politics really works. Bring your pocket protectors, listen and subscribe on iTunes. 
+
+GET HUDDLE emailed to your Blackberry, iPhone or other mobile device each morning. Just enter your email address where it says "Sign Up." <<link>>
+
+To view online:
+<<link>>
+ To change your alert settings, please go to <<link>> or <<link>> email was sent to user@domain.com by: POLITICO, LLC 1000 Wilson Blvd. Arlington, VA, 22209, USA
+
+To unsubscribe,<<link>>
+

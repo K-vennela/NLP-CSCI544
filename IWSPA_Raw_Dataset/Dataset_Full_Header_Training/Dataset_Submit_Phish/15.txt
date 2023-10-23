@@ -1,0 +1,45 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 56AB123CDCB
+	for <user@domain.com>; Sat,  3 Mar 2015 09:32:40 -0600 (CST)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id jzXhZyRw0Xne for <user@domain.com>;
+	Sat,  3 Mar 2015 09:32:38 -0600 (CST)
+Received: from mercury.DLS.COM.SG (domain.com.sg [203.126.249.196])
+	by domain.com (Postfix) with ESMTP id 9E4A523CDCA
+	for <user@domain.com>; Sat,  3 Mar 2015 09:32:36 -0600 (CST)
+X-MimeOLE: Produced By Microsoft Exchange V6.5
+Content-class: urn:content-classes:message
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Subject: KEEPING TRACK OF YOUR USAGE.
+Date: Sat, 3 Mar 2015 22:15:17 +0800
+Message-ID: <9988user@domain.com>
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+Thread-Topic: KEEPING TRACK OF YOUR USAGE.
+Thread-Index: Acz5SA5kikWAPLM/Tc2PGBd/J/OmjA==
+From: "Simon John Rubias Dela Cruz" <SimonJohn@dls.com.sg>
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 61
+
+Your web mail quota has exceeded the set quota which is 3GB. you are =
+currently running on 3.9 GB. To re-activate and increase your web mail =
+quota please click the link below.
+
+<<link>>
+FTZk5zSkdQUHc6MQ
+
+ Failure to do so may result in the cancellation of your web mail =
+account.
+ Thanks, and sorry for the inconvenience
+ Local-host.

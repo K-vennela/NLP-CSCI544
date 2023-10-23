@@ -1,0 +1,60 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Wed, 2 Oct 2015 14:30:52 +0200
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id 26F92621A8	for
+ <user@domain.com>; Wed,  2 Oct 2015 13:27:35 +0100 (BST)
+Received: by domain.com (Postfix)	id 4A0F42BC1EF; Wed,  2 Oct 2015 
+ 14:30:52 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from support.hackingteam.com (support.hackingteam.com
+ [192.168.100.70])	by domain.com (Postfix) with ESMTP id 24BF52BC1EB
+	for <user@domain.com>; Wed,  2 Oct 2015 14:30:52 +0200 (CEST)
+Message-ID: <1380717052.524user@domain.com>
+Date: Wed, 2 Oct 2015 14:30:52 +0200
+Subject: [!PEX-793-73158]: Assignment - Problem with a event agent.
+From: Bruno Muschitiello <support@hackingteam.com>
+Reply-To: <user@domain.com>
+To: <user@domain.com>
+X-Priority: 3 (Normal)
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=SUPPORTFE0
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-615933390_-_-"
+
+Bruno Muschitiello updated #PEX-793-73158
+
+-----------------------------------------
+
+Staff (Owner): Bruno Muschitiello (was: -- Unassigned --)
+Status: In Progress (was: Open)
+
+Problem with a event agent.
+
+---------------------------
+
+Ticket ID: PEX-793-73158
+URL: <<link>>
+Name: netsec
+Email address: user@domain.com
+Creator: User
+Department: General
+Staff (Owner): Bruno Muschitiello
+Type: Issue
+Status: In Progress
+Priority: Medium
+Template group: Default
+Created: 02 October 2015 11:48 AM
+Updated: 02 October 2015 02:30 PM
+
+We are investigating internally, we'll keep you informed.
+
+Kind regards
+
+Staff CP:  <<link>>
+

@@ -1,0 +1,56 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 5595E23CB0B
+	for <user@domain.com>; Thu, 22 Sep 2015 08:44:45 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at domain.com
+X-Spam-Score: 2.041
+X-Spam-Level: **
+X-Spam-Status: No, score=2.041 tagged_above=2 required=5
+	tests=[BAYES_00=-2.599, DNS_FROM_RFC_ABUSE=0.2,
+	DNS_FROM_RFC_DSN=2.597, DNS_FROM_RFC_POST=1.708,
+	FORGED_RCVD_HELO=0.135]
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id vqHfLE0eDpu5 for <user@domain.com>;
+	Thu, 22 Sep 2015 08:44:43 -0500 (CDT)
+Received: from domain.com (domain.com [129.7.234.210])
+	by domain.com (Postfix) with ESMTP id D40C323CB07
+	for <user@domain.com>; Thu, 22 Sep 2015 08:44:43 -0500 (CDT)
+Received: from domain.com (domain.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 7FCB255F089C
+	for <user@domain.com>; Thu, 22 Sep 2015 08:44:42 -0500 (CDT)
+Received: from domain.com (unknown [60.28.43.202])
+	by domain.com (Postfix) with ESMTP id DA34F55F08EB
+	for <user@domain.com>; Thu, 22 Sep 2015 08:44:41 -0500 (CDT)
+Received: from aaa.com ([88.49.40.106]) by domain.com with Microsoft SMTPSVC(6.0.3790.4675);
+	 Thu, 22 Sep 2015 21:32:04 +0800
+From: SKAT - TAX  <aaa@aaa.com>
+To: user@domain.com
+Subject: Fiscal Activity - Tax Refund !
+Date: 22 Sep 2015 15:26:25 +0200
+Message-ID: <20110922152624.08user@domain.com>
+MIME-Version: 1.0
+Content-Type: text/plain
+Content-Transfer-Encoding: 8bit
+X-OriginalArrivalTime: 22 Sep 2015 13:32:07.0171 (UTC) FILETIME=[05EAFD30:01CC792C]
+X-PMX-Version: 5.5.9.395186, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2011.9.22.133314
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 7
+
+After the last annual calculation of your fiscal activity we have 
+determined that you are eligible to receive a tax refund of 
+647.21 kr.
+
+Please fill out and domain.com this form in order to process :
+
+Click the link below to complete:
+
+<<link>>
+
+The tax refund and allow us 3-9 business days.
+
+ Tax and Customs Administration - SKAT

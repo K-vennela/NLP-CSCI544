@@ -1,0 +1,24 @@
+David, Peter, Ian,
+Let's go for the week with Feb 25/26 in it. I could come down
+for late on the 25th then spend most of the 26th discussing
+Ian's work and also the Antarctic ideas. Presumably John Prior
+and others will be available at some point on the 26th.
+The Antarctic surface T data that are in CRUTEM3 have come
+from my searches over the years and also from READER. Much of the
+early stuff in READER has come from the archives here, except
+where BAS have got the original digitized data from the Antarctic
+Institutes in all the countries.
+I also have some files of when some of the manned stations on the
+ice have moved. These are forced moves, as the station moves, but they
+have never been accounted for. Halley and Casey are affected.
+There are issues to discuss about the AWSs and also, as David knows
+from AOPC, work that Wisconsin are doing in putting together all
+the historic US series. I've talked to them about this - mainly to try and
+stop them calculating mean T a different way. If they do this it will
+screw their series up. It all relates to them saying that the mean of
+min and max is not a great way in the Antarctic to calculate mean T.
+They say they can now do the mean of every 3 hours, but it needs the
+historic series and the routine updating to change at the same
+time - which is unlikely to happen.
+Cheers
+Phil

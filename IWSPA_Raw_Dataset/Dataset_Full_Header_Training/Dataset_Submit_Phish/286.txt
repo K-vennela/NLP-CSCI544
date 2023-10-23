@@ -1,0 +1,96 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [10.3.4.5])
+	by domain.com (Postfix) with ESMTP id 7F9CB46A3C
+	for <user@domain.com>; Sat,  1 Jul 2015 09:38:35 -0400 (EDT)
+Received: from smtp.nildram.co.uk (smtp.nildram.co.uk [195.112.4.54])
+	by domain.com (Postfix) with ESMTP id 2E8746FA356
+	for <user@domain.com>; Sat,  1 Jul 2015 09:38:36 -0400 (EDT)
+Received: from i-domain.com (pkirkham.gotadsl.co.uk [213.208.101.165])
+	by smtp.nildram.co.uk (Postfix) with ESMTP
+	id 46B462389E8; Sat,  1 Jul 2015 14:38:31 +0100 (BST)
+Received: from User ([69.128.89.26]) by i-domain.com with Microsoft SMTPSVC(6.0.3790.211);
+	 Sat, 1 Jul 2015 14:37:05 +0100
+Reply-To: <user@domain.com>
+From: "Amazon.com" <service@amazon.com>
+Subject: ***Urgent Fraud Prevention Group Notice***
+Date: Sat, 1 Jul 2015 09:38:27 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <user@domain.com>
+X-OriginalArrivalTime: 01 Jul 2015 13:37:06.0078 (UTC) FILETIME=[717FD3E0:01C69D13]
+To: undisclosed-recipients:;
+Status: 
+X-Status: 
+X-Keywords: 
+
+***Urgent Fraud Prevention Group
+ Notice***
+
+
+
+
+You have received this email because we have
+ strong reason to believe that your Amazon account had been recently
+ compromised. In order to prevent any fraudulent activity from occurring we
+ are required to open an investigation into this matter. To speed up this
+ process, you are required to verify your Amazon account by following
+ the link below.
+
+
+
+
+<<link>>
+(To complete the verification process you must fill in all the
+ required fields)
+
+
+
+
+Please Note:
+ If your account informations are not updated within the next 72 hours,
+ then we will assume this account is fraudulent and will be suspended. We
+ apologize for this inconvenience, but the purpose of this verification is
+ to ensure that your Amazon account has not been fraudulently used and
+ to combat fraud.
+
+
+
+
+We appreciate your support and understanding,
+ as we work together to keep Amazon a safe place to
+trade.
+
+Thank you for your attention on this serious
+ matter. We apologize for any delay in resolving this
+ situation.
+
+
+
+
+Regards,
+
+
+
+
+domain.com
+Investigations Team
+
+
+
+
+Please do not reply to this e-mail as this is only a notification.
+ Mail sent to this address cannot be answered. 
+domain.com treats
+ your personal information with the utmost care, and our Privacy Policy is
+ designed to protect you and your information.
+Copyright 
+ 2006 domain.com All Rights
+Reserved.

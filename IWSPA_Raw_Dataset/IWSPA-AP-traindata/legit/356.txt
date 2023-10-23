@@ -1,0 +1,8 @@
+The leads and lags are analyzed in detail in this paper
+Trenberth, K. E., J. M. Caron, D. P. Stepaniak, and S. Worley 2002: [1]The evolution of
+ENSO and global atmospheric surface temperatures J. Geophys. Res., 107, D8,
+10.1029/2000JD000298.
+and we were not able to reproduce Tom Wigley's result (we tried).  It may depend in indices
+used.  In this paper we also document the extent to which ENSO contributes to warming
+overall.
+Kevin

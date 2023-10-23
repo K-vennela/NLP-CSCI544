@@ -1,0 +1,79 @@
+<x-flowed>
+Dear Tom,
+Thanks for your email regarding Steven McIntyre's twin requests under 
+the Freedom of Information (FOI) Act. Regarding McIntyre's request (1), 
+no "monthly time series of output from any of the 47 climate models" was 
+"sent by Santer and/or other coauthors of Santer et al 2008 to NOAA 
+employees between 2006 and October 2008".
+As I pointed out to Mr. McIntyre in the email I transmitted to him 
+yesterday, all of the raw (gridded) model and observational data used in 
+the 2008 Santer et al. International Journal of Climatology (IJoC) paper 
+are freely available to Mr. McIntyre. If Mr. McIntyre wishes to audit 
+us, and determine whether the conclusions reached in our paper are 
+sound, he has all the information necessary to conduct such an audit. 
+Providing Mr. McIntyre with the quantities that I derived from the raw 
+model data (spatially-averaged time series of surface temperatures and 
+synthetic Microwave Sounding Unit [MSU] temperatures) would defeat the 
+very purpose of an audit.
+I note that David Douglass and colleagues have already audited our 
+calculation of synthetic MSU temperatures from climate model data. 
+Douglass et al. obtained "model average" trends in synthetic MSU 
+temperatures (published in their 2007 IJoC paper) that are virtually 
+identical to our own.
+McIntyre's request (2) demands "any correspondence concerning these 
+monthly time series between Santer and/or other coauthors of Santer et 
+al 2008 and NOAA employees between 2006 and October 2008". I do not know 
+how you intend to respond this second request. You and three other NOAA 
+co-authors on our paper (Susan Solomon, Melissa Free, and John Lanzante) 
+probably received hundreds of emails that I sent to you in the course of 
+our work on the IJoC paper. I note that this work began in December 
+2007, following online publication of Douglass et al. in the IJoC. I 
+have no idea why McIntyre's request for email correspondence has a 
+"start date" of 2006, and thus predates publication of Douglass et al.
+My personal opinion is that both FOI requests (1) and (2) are intrusive 
+and unreasonable. Steven McIntyre provides absolutely no scientific 
+justification or explanation for such requests. I believe that McIntyre 
+is pursuing a calculated strategy to divert my attention and focus away 
+from research. As the recent experiences of Mike Mann and Phil Jones 
+have shown, this request is the thin edge of wedge. It will be followed 
+by further requests for computer programs, additional material and 
+explanations, etc., etc.
+Quite frankly, Tom, having spent nearly 10 months of my life addressing 
+the serious scientific flaws in the Douglass et al. IJoC paper, I am 
+unwilling to waste more of my time fulfilling the intrusive and 
+frivolous requests of Steven McIntyre. The supreme irony is that Mr. 
+McIntyre has focused his attention on our IJoC paper rather than the 
+Douglass et al. IJoC paper which we criticized. As you know, Douglass et 
+al. relied on a seriously flawed statistical test, and reached incorrect 
+conclusions on the basis of that flawed test.
+I believe that our community should no longer tolerate the behavior of 
+Mr. McIntyre and his cronies. McIntyre has no interest in improving our 
+scientific understanding of the nature and causes of climate change. He 
+has no interest in rational scientific discourse. He deals in the 
+currency of threats and intimidation. We should be able to conduct our 
+scientific research without constant fear of an "audit" by Steven 
+McIntyre; without having to weigh every word we write in every email we 
+send to our scientific colleagues.
+In my opinion, Steven McIntyre is the self-appointed Joe McCarthy of 
+climate science. I am unwilling to submit to this McCarthy-style 
+investigation of my scientific research. As you know, I have refused to 
+send McIntyre the "derived" model data he requests, since all of the 
+primary model data necessary to replicate our results are freely 
+available to him. I will continue to refuse such data requests in the 
+future. Nor will I provide McIntyre with computer programs, email 
+correspondence, etc. I feel very strongly about these issues. We should 
+not be coerced by the scientific equivalent of a playground bully.
+I will be consulting LLNL's Legal Affairs Office in order to determine 
+how the DOE and LLNL should respond to any FOI requests that we receive 
+from McIntyre. I assume that such requests will be forthcoming.
+I am copying this email to all co-authors of our 2008 IJoC paper, to my 
+immediate superior at PCMDI (Dave Bader), to Anjuli Bamzai at DOE 
+headquarters, and to Professor Glenn McGregor (the editor who was in 
+charge of our paper at IJoC).
+I'd be very happy to discuss these issues with you tomorrow. I'm sorry 
+that the tone of this letter is so formal, Tom. Unfortunately, after 
+today's events, I must assume that any email I write to you may be 
+subject to FOI requests, and could ultimately appear on McIntyre's 
+"ClimateAudit" website.
+With best personal wishes,
+Ben

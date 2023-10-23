@@ -1,0 +1,36 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Fri, 20 Mar 2015 13:13:36 +0100
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id 40CCE6007F	for
+ <user@domain.com>; Fri, 20 Mar 2015 11:51:34 +0000 (GMT)
+Received: by domain.com (Postfix)	id BC12CB6603E; Fri, 20 Mar 2015 
+ 13:13:36 +0100 (CET)
+Delivered-To: user@domain.com
+Received: from [192.168.0.92] (host-92-27-3-254.domain.com
+ [92.27.3.254])	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)	by domain.com (Postfix) with
+ ESMTPSA id 45B1DB6600B;	Fri, 20 Mar 2015 13:13:36 +0100 (CET)
+Subject: Re: On interrupting with the E. client
+From: Eric Rabe <e.rabe@hackingteam.com>
+In-Reply-To: <2user@domain.com>
+Date: Fri, 20 Mar 2015 12:13:34 +0000
+CC: Philippe Vinci <user@domain.com>, Giancarlo Russo
+	<user@domain.com>, David Vincenzetti <user@domain.com>
+Message-ID: <user@domain.com>
+References: <2user@domain.com>
+To: Daniele Milan <user@domain.com>
+X-Mailer: Apple Mail (2.2087)
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=ERIC RABEC30
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-603028132_-_-"
+
+Giancarlo and I discussed this in Dubai.  He can relay my view more completely, but I believe that essentially Daniele is on the right track here.  In addition to any view of the allegations and claims of the C.L. report, this use of our software poses a danger to the business.  
+Eric
+

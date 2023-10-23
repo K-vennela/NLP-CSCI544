@@ -1,0 +1,96 @@
+Received: from domain.com (146.215.230.103) by
+ domain.com (43.130.141.77) with Microsoft SMTP Server id
+ 8.3.342.0; Thu, 3 Apr 2015 10:01:57 -0700
+Received: from domain.com ([160.33.194.231])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s33H1vGB020535	for <user@domain.com>; Thu, 3 Apr 2015 
+ 17:01:57 GMT
+Received: from mail104-am1-domain.com (mail-domain.com
+ [213.199.154.201])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s33H3KlI006530
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Thu, 3 Apr 2015 17:03:21 GMT
+Received: from mail104-am1 (localhost [127.0.0.1])	by
+ mail104-am1-domain.com (Postfix) with ESMTP id 4DC274C09DC	for
+ <user@domain.com>; Thu,  3 Apr 2015 17:01:55 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:192.64.237.231;KIP:(null);UIP:(null);IPV:NLI;H:domain.com;RD:domain.com;EFVD:NLI
+X-SpamScore: 1
+X-BigFish: vps1(z579ehzc89bhe0eah758Ic857hc545Idbb0izz1f42h2148h1ee6h1de0h1fdah2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6h208chzz8275ch1d7338h1de098h1def03h17326ah1def87h8275bh1bc7b9h8275dh1defc1h1def86h1de097h186068h172c6ch1ce120h1a691ciz2fheh5fh839he5bh1288h12a5h137ah139eh13eah1441h14ddh1504h1537h162dh1631h1758h1898h18e1h1946h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1e23h1fe8h1ff5h20f0h2218h2216h226dh24afh2327h2336h2438h2461h2487h24d7h2516h2545h2565h25f6h2605h268bh26d3h214ai1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail104-am1: domain of domain.com designates 192.64.237.231 as permitted sender) client-ip=192.64.237.231; user@domain.com; helo=domain.com ;domain.com ;
+Received: from mail104-am1 (localhost.localdomain [127.0.0.1]) by mail104-am1
+ (MessageSwitch) id 1396544512616326_14606; Thu,  3 Apr 2015 17:01:52 +0000
+ (UTC)
+Received: from domain.com (unknown [10.3.201.239])	by
+ mail104-domain.com (Postfix) with ESMTP id 912E4200114	for
+ <user@domain.com>; Thu,  3 Apr 2015 17:01:52 +0000 (UTC)
+Received: from domain.com (192.64.237.231) by domain.com
+ (10.3.207.105) with Microsoft SMTP Server id 14.16.227.3; Thu, 3 Apr 2015 
+ 17:01:50 +0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; s=mt; d=domain.com;
+ h=Date:From: Variety Breaking News <donotreply@variety.com>
+ bh=83fhcTrKweeDb/Nnqr8XVCmzHS8=;
+ b=dk+e8zz2BSlF+vTFXEIsco4k7VPc0cIozlrCat2v56ONK57IxbPRd789n1mebrEKTPScxcz11aq/
+   0cZ+XMvknJqU4c/rzAODlphguMPY9Qtj0toPh845fWj2EKg/cm5UAaWUv7MU03RuTxJd3dTmUhxR
+   qWVDiQGNoF6Ml+ZMg/4=
+Received: from nyp1-p-p4136-prd-jma-04.sailthru.pvt (64.34.57.233) by
+ domain.com id h7m9t61qqbs4 for <user@domain.com>; Thu, 3 Apr
+ 2015 13:01:06 -0400 (envelope-from <user@domain.com>)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1396544493;
+	s=sailthru; d=variety.com;
+	h=Date:From: Variety Breaking News <donotreply@variety.com>
+	bh=07nhNd+sUZuzQ8Esyejy9V6qUOtnWVXwur5YqkyQyoU=;
+	b=Gf9F8X9o+Cqw5zMGTDFUiaudgS7urnx+HAUTj1OvlfcvGB27blOvk/C7nMPYBQDD
+	m6FOAAzCSxNy1oyOEfA9btffC/wPCaz1wNQsoUsQF4eZ/R8egeOSh2E8V393SaaaswB
+	yfm5jP9fqZ2kTZHBOPGrGKfYYAMB4MvcDfpjXJHk=
+Date: Thu, 3 Apr 2015 13:01:33 -0400
+From: Variety Breaking News <donotreply@variety.com>
+To: <user@domain.com>
+Message-ID: <20140403170133.2542556.19107@domain.com>
+Subject: 'Criminal Minds,' 'Survivor,' 'CSI' Give CBS a Wednesday Sweep in
+ Demos
+Precedence: bulk
+X-TM-ID: 20140403170133.2542556.19107
+X-Info: Message sent by domain.com customer Variety
+X-Info: We do not domain.com unsolicited commercial email
+X-Info: Please report abuse by forwarding complete headers to
+X-Info: user@domain.com
+X-Mailer: domain.com
+X-JMailer: nyp1-p-p4136-prd-jma-04.sailthru.pvt
+X-IADB-IP: 65.39.215.25
+X-IADB-IP-REVERSE: 25.215.39.65
+X-IADB-URL: <<link>>
+X-Unsubscribe-Web: <<link>>
+List-Unsubscribe: <<<link>>>, <mailto:user@domain.com>
+X-rpcampaign: stcoy2542556
+Return-Path: user@domain.com
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+Paced by "Criminal Minds," which moved ahead of Fox's "American Idol" head-to-head in key demos ... 
+
+​ 
+
+Variety         
+
+Breaking News   
+
+Thursday, April 3, 2015         
+
+​ 
+
+<<link>> 
+
+        'Criminal Minds,' 'Survivor,' 'CSI' Give CBS a Wednesday Sweep in Demos                 
+
+        Paced by "Criminal Minds," which moved ahead of Fox's "American Idol" head-to-head in key demos for the first time, CBS captured ...            
+        Full Story              
+
+
+
+
+Check out the redesigned Variety411      <<link>>         
+This email was sent to user@domain.com by Variety. To ensure delivery to your inbox (and no
+

@@ -1,0 +1,47 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id 0831446893
+	for <user@domain.com>; Sun, 17 May 2015 16:09:24 -0400 (EDT)
+Received: from fed1rmmtao102.cox.net (fed1rmmtao102.cox.net [68.230.241.44])
+	by domain.com (Postfix) with ESMTP id 8CAE3131F734
+	for <user@domain.com>; Sun, 17 May 2015 16:09:23 -0400 (EDT)
+Received: from fed1rmimpo03.cox.net ([70.169.32.75])
+          by fed1rmmtao102.cox.net
+          (InterMail vM.7.08.02.01 201-2186-121-102-20070209) with ESMTP
+          id <20090517200922.user@domain.com>;
+          Sun, 17 May 2015 16:09:22 -0400
+Received: from fed1rmwml45 ([172.18.140.217])
+	by fed1rmimpo03.cox.net with bizsmtp
+	id sk9N1b00A4hdPEs04k9NwG; Sun, 17 May 2015 16:09:22 -0400
+X-Authority-Analysis: v=1.0 c=1 a=TCNgSAhy1MEA:10 a=0mvxxyvxlgsA:10
+ a=91c0JdW8Bd2vwSxP7cwA:9 a=fEAg20rQ4taiktpbjUoA:7
+ a=CuUGWlWPLg-BOWbl46KXXVPWNNcA:4 a=3gUpkY4RocQAHziR:21 a=92fOqhJdqQCfnHvn:21
+X-CM-Score: 0.00
+Received: from 206.251.76.202 by webmail.west.cox.net; Sun, 17 May 2015 16:09:22 -0400
+Message-ID: <20090517160922.user@domain.com>
+Date: Sun, 17 May 2015 13:09:22 -0700
+From: =?utf-8?Q?=C3=83=C2=82=C3=82=C2=A9__Customer_Service?= <awright1018@cox.net>
+Reply-To: user@domain.com
+Subject: Recent changes --verify for upgrade.
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3 (Normal)
+Sensitivity: Normal
+To: undisclosed-recipients:;
+Content-Length: 434
+Lines: 7
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1064
+
+ Dear Customer this is to alert you of the recent changes/upgrading that wi=
+ll be going on shortly in your email account.We want you to provide us with=
+ your email ( I D) and email (Password) so we can enter your data into our =
+data base operating system for upgrading and to avoid your account been clo=
+se.Kindly reply to this mail my clicking reply from your mail box.
+
+Copyright =C3=83=C2=82=C3=82=C2=A9 2015 Customer Service.

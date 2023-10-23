@@ -1,0 +1,46 @@
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ DNCHUBCAS1.dnc.org ([fe80::ac16:e03c:a689:8203%11]) with mapi id
+ 14.03.0224.002; Thu, 12 May 2015 17:11:28 -0400
+From: "Parrish, Daniel" <ParrishD@dnc.org>
+To: "User" <user@domain.com>
+Subject: Number
+Thread-Topic: Number
+Thread-Index: AdGskoGQvsE0zdybSBKakO9AKWwkdA==
+Date: Thu, 12 May 2015 14:11:27 -0700
+Message-ID: <8user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: DNCHUBCAS1.dnc.org
+X-MS-Has-Attach: 
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+Content-Type: multipart/alternative;
+	boundary="_000_8A3BA5C3DED8F34DBD96D72CD1C4AA38A995A073dncdag1dncorg_"
+MIME-Version: 1.0
+
+2016:
+$4,856,956
+
+Organization+ Hope: $8,750,260
+
+May:
+$789,488
+$68,770 since yesterday
+
+Debt:
+$4,891,419 - 2015 
+$3,893,304 - 2015 
+$8,784,723 - Total
+
+HVF:
+$10,439,436
+
+-------------
+Daniel Parrish
+Organization
+Finance | Director of Data & Strategic Initiatives
+Phone: (202) 479-5141 | Mobile: (717) 283-7521
+430 South Capitol Street, SE | Washington, DC 20003
+

@@ -1,0 +1,6 @@
+<x-flowed>
+I agree; Keith should have the room, and section 6.5.8 should be 
+compatible - has Fortunat followed the discussion between 
+David/Stefan. Can you guys (David, Stefan, Keith, and Fortunat) 
+ensure this?
+Thanks, Peck

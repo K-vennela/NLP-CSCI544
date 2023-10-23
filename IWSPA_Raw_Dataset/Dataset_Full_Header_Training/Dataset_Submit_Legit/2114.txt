@@ -1,0 +1,67 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 3 May
+ 2015 20:27:59 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 3 May 2015 
+ 20:27:54 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 894947701
+ for user@domain.com; Tue, 03 May 2015 19:28:00 -0500
+X-Note-AR-ScanTimeLocal: 5/3/2016 7:27:58 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: user@domain.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->
+X-Note-Sending-IP: 68.232.198.10
+X-Note-Reverse-DNS: mta.politicoemail.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mta.politicoemail.com ([68.232.198.10] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 136431548
+ for user@domain.com; Tue, 03 May 2015 19:27:58 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=200608; d=politicoemail.com;
+ h=From: POLITICO <email@politicoemail.com>
+ bh=RJUK0R2UsyRzb2GyURDAs7CWPjc=;
+ b=EKVRh4Su6U1WXC6Rj6r4q3v+WwbMUxXhl8j6UbXOPbqbURQ+mlJpgV2h3BZAc02TXQ9fgoK3YEqo
+   380xgGfPULSwKPr3IL5zVxejEurj6P8mclQ+KWPepeujktwVtmTmZswUh9BtEOg5tL0I7BG9nGiR
+   k/wqcOTK/mm3Kg2ohyo=
+Received: by mta.politicoemail.com id h5510s163hs5 for <user@domain.com>; Tue,
+ 3 May 2015 18:27:58 -0600 (envelope-from
+ <user@domain.com>)
+From: POLITICO <email@politicoemail.com>
+To: <user@domain.com>
+Subject: BREAKING NEWS: Ted Cruz drops out of presidential race
+Date: Tue, 3 May 2015 18:27:57 -0600
+List-Unsubscribe: <mailto:user@domain.com>
+Reply-To: POLITICO subscriptions
+	<user@domain.com>
+x-job: 1376319_5386330
+Message-ID: <user@domain.com>
+Content-Type: multipart/alternative; boundary="xRX4AiXburOS=_?:"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Ted Cruz is quitting the presidential race, according to campaign manager Jeff Roe, ending one of the best-organized campaigns of 2015 after a series of stinging defeats left Donald Trump as the only candidate capable of clinching the nomination outright.
+
+Cruz had appeared likely to go all the way to the Republican convention, but a string of massive losses in the Northeast, and his subsequent defeat in Indiana, appear to have convinced him there's no way forward.
+
+John Kasich, however, pledged on Tuesday night to stay in the race until a candidate reaches 1,237 bound delegates.
+
+Read more: <<link>>
+ To change your alert settings, please go to <<link>> or <<link>> email was sent to user@domain.com by: POLITICO, LLC 1000 Wilson Blvd. Arlington, VA, 22209, USA
+
+To unsubscribe,<<link>>
+

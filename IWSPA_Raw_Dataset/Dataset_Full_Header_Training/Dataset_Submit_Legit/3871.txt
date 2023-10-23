@@ -1,0 +1,52 @@
+Return-Path: <user@domain.com>
+Reply-To: <user@domain.com>
+From: "Bruno Muschitiello" <support@hackingteam.com>
+To: <user@domain.com>
+Subject: [!AGP-597-19060]: Assignment - Setting up the system behind a NAT
+Date: Tue, 18 Mar 2015 12:08:07 +0100
+Message-ID: <1395140887.53282917user@domain.com>
+X-Mailer: Microsoft Outlook 15.0
+Thread-Index: AQGS3qcPVxmP/086YzbOUIDVCHcOAw==
+X-OlkEid: 000000009E3562B50B449340A4CEBC803ADCCF2E070034AD76187591974DBF6C4F76951C873A010030000000000020041CFD0E93BC4F8CEC14FC6767F494000000001290000043D50902D46D7345A5D65B23D0C6DEC2
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-615933390_-_-"
+
+Bruno Muschitiello updated #AGP-597-19060
+
+-----------------------------------------
+
+Staff (Owner): Bruno Muschitiello (was: -- Unassigned --)
+Status: In Progress (was: Open)
+
+Setting up the system behind a NAT
+
+----------------------------------
+
+Ticket ID: AGP-597-19060
+URL: <<link>>
+Name: KD
+Email address: user@domain.com
+Creator: User
+Department: General
+Staff (Owner): Bruno Muschitiello
+Type: Feedback
+Status: In Progress
+Priority: High
+Template group: Default
+Created: 17 March 2015 09:17 PM
+Updated: 18 March 2015 12:08 PM
+
+Unfortunately RCS doesn't support this solution.
+
+Please describe us which result do you expect with this kind of infrastructure,
+
+because with the release ver. 9.2 we have already improved the security of the entire infrastructure.
+
+Thank you.
+
+Kind regards
+
+Staff CP:  <<link>>
+

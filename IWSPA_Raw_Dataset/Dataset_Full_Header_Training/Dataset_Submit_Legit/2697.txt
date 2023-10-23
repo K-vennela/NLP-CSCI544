@@ -1,0 +1,76 @@
+Received: from domain.com (146.215.230.104) by
+ domain.com (43.130.141.76) with Microsoft SMTP Server id
+ 8.3.342.0; Wed, 9 Jul 2015 03:38:11 -0700
+Received: from domain.com ([160.33.194.228])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s69AcArW024441	for <user@domain.com>; Wed, 9 Jul 2015 
+ 10:38:10 GMT
+Received: from mail191-co9-domain.com (mail-domain.com
+ [207.46.163.16])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s69AaYHE010752
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Wed, 9 Jul 2015 10:36:35 GMT
+Received: from mail191-co9 (localhost [127.0.0.1])	by
+ mail191-co9-domain.com (Postfix) with ESMTP id 1AE54300376	for
+ <user@domain.com>; Wed,  9 Jul 2015 10:38:09 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:199.7.204.138;KIP:(null);UIP:(null);IPV:NLI;H:omp.email.jetblue.com;RD:omp.email.jetblue.com;EFVD:NLI
+X-SpamScore: 2
+X-BigFish: vps2(z588dh59c9h2cb3rzbb2dI9371Ic89bh8d0I19b8MaceId799hzz1f42h1ee6h1de0h2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6h208ch1fdahzebhz8275ch1de098h1def03h17326ah8275bh1ce122h1bc7b9h1de097h186068h172c6ch1ce121iz2fheh5eh5fh839h93fh950hd25h107ah10d2h1288h12a5h137ah13b6h13eah1441h1537h153bh162dh1631h1758h18e1h1946h19b5h1b0ah224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1fe8h1ff5h2216h2336h2438h2461h2487h24d7h2516h2545h255dh25f6h2605h268bh26d3h27e2h282bh2847h28a1h29d0h2a20h2a24h2b05h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail191-co9: domain of domain.com designates 199.7.204.138 as permitted sender) client-ip=199.7.204.138; user@domain.com; helo=omp.email.jetblue.com ;.domain.com ;
+Received: from mail191-co9 (localhost.localdomain [127.0.0.1]) by mail191-co9
+ (MessageSwitch) id 1404902285908986_26761; Wed,  9 Jul 2015 10:38:05 +0000
+ (UTC)
+Received: from domain.com (unknown [10.236.132.249])	by
+ mail191-domain.com (Postfix) with ESMTP id D9F1F84004E	for
+ <user@domain.com>; Wed,  9 Jul 2015 10:38:05 +0000 (UTC)
+Received: from omp.email.jetblue.com (199.7.204.138) by
+ domain.com (10.236.130.36) with Microsoft SMTP Server id
+ 14.16.227.3; Wed, 9 Jul 2015 10:38:05 +0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=jetblue; d=email.jetblue.com;
+ h=MIME-Version:Content-Type:Content-Transfer-Encoding:Date:To:From: JetBlue Airways <jetblueairways@email.jetblue.com>
+ bh=phS3zhl1Wi6S82kMFtszocK7UHs=;
+ b=Zoppc4B0LcQwEhiGfzXFMPmuvI8JX7vwH9tq+XibxVRlgAIYxwnEUTqtsLqNv5jv5sicrOwAjovt
+   q4wp9sE2OYmke8Kt4NOdm1iMW8GW9al7k394C6xOSbTUvsOOGeuhyT+B1tR/o3cY4gQHERF3u8A7
+   m15jKUDqwHPfnQqQE0o=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=jetblue; d=email.jetblue.com;
+ b=SfS3Z3BnCEb4OJKOVxblxreJ7y4AdqlZkB09jTT/ATQUxU5zSw36heEcbTQAG9LDRKjntt/jRIm0
+   CMqyxzd4vf1i5dodFH2uxBCuTee1bcnyBFyZS5hTI2E82ELt3gyRT2FQxjrm51gdfvVXCyLrmXlN
+   kwhuvTB6L1EmhU5KODA=;
+Received: by omp.email.jetblue.com id hnkdoq1607gd for
+ <user@domain.com>; Wed, 9 Jul 2015 03:38:05 -0700 (envelope-from
+ <user@domain.com>)
+Date: Wed, 9 Jul 2015 03:38:05 -0700
+To: <user@domain.com>
+From: JetBlue Airways <jetblueairways@email.jetblue.com>
+Reply-To: JetBlue Airways <user@domain.com>
+Subject: Fares from $49 one-way - Make a date with us!
+List-Unsubscribe: <<<link>>>, <mailto:user@domain.com?subject=List-Unsubscribe>
+X-sgxh1: HuPXiHkJHtxkiLQkhgPQJhu
+X-rext: 4.interact5.EnwQ31J2pkRjAtblAb05_n1Te0kz2REaL2I
+X-cid: jetblue.491125
+Message-ID: <0.1.57.65user@domain.com>
+Return-Path: user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+View this Email as a stand-alone webpage. 
+
+ <<link>>     <<link>>    
+One day summer sale! 
+
+ <<link>>    
+For consistent delivery, add user@domain.com to your address book. 
+
+ <<link>>    
+ <<link>>    
+jetBlue®         Share:   
+
+Facebook         Twitter         
+
+ <<link>>     
+ <<link>>     <<link>>     <<link>>     <<link>>    Flights 
+ <<link>>        <<link>>     <<link>>     <<link>>     <<link>>     <<link>>     <<link>>     <<link>>     <<link>>    Vacations 
+ <<link>>        <<link>>     <<link>>     <<link>>     <<link>>     <<link>>     <<link>>     <<link>>     <<link>>    Cars 
+ <<link>>       <<link>>     <<link>>     <<link>>     <<link>>     <<link>>

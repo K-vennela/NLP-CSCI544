@@ -1,0 +1,6 @@
+<x-flowed>
+Dear Phil,
+A quick question: Do you happen to have a "percentage land coverage 
+mask" for the HadCRUT3v data? And if so, does this exist as a netCDF file?
+With best regards,
+Ben

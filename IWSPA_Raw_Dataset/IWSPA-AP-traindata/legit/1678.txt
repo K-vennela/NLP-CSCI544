@@ -1,0 +1,61 @@
+.no-desktop{display:none;}
+.no-mobile{display:block;}
+.hero-user-img{box-shadow:0px 2px 8px rgba(0,0,0,0.5);}
+@media only screen and (max-width: 600px) {
+.no-desktop{display:block;}
+.no-mobile{display:none;}
+table[class=responsive-table], table.responsive-table, .responsive-table{ 
+width:310px !important;
+}
+table[class=responsive-100], table.responsive-100, .responsive-100, table[class=responsive-full], table.responsive-full, .responsive-full{ 
+width:100% !important;
+/*outline:1px solid red;*/
+}
+table[class=border-and-width], table.border-and-width, .border-and-width{
+width:100% !important;
+padding-bottom:20px; border-bottom: 1px solid #e9e9e9;
+/*outline:1px solid red;*/
+}
+table[class=border-and-width] + table[class=border-and-width], table.border-and-width + table.border-and-width, .border-and-width + .border-and-width{
+padding-top:20px;
+}
+table[class=border-and-width]:last-child, table.border-and-width:last-child, .border-and-width:last-child{
+border-bottom:none; padding-bottom:0;
+}
+table[class=responsive-50], table.responsive-50, .responsive-50, table[class=responsive-half], table.responsive-half, .responsive-half{ 
+width:50% !important;
+}
+table[class=responsive-icon-cols-icon], table.responsive-icon-cols-icon, .responsive-icon-cols-icon{ 
+width:92px !important;
+}
+table[class=responsive-icon-cols-text], table.responsive-icon-cols-text, .responsive-icon-cols-text{ 
+width:135px !important;
+}
+table[class=gray-area-mobile-height], table.gray-area-mobile-height, .gray-area-mobile-height{ 
+text-align: center;
+height:auto !important;
+}
+.padding-top-20{padding-top:20px;}
+.padding-top-15{padding-top:15px;}
+.padding-top-10{padding-top:10px;}
+.padding-top-5{padding-top:5px;}
+.padding-top-btm-20{padding-top:20px; padding-bottom:20px;}
+/*.lt-grey-w-btn-table{text-align: center !important;}*/
+.benefits-container .responsive-table{border-bottom: 1px solid #eeeeee;}
+.benefits-container .responsive-table:last-child{border-bottom: none;}
+/*td[class=make-40], td.make-40, .make-40{width:40px !important;}*/
+.topbar-60{height:60px !important;}
+.mobile-center{text-align: center;}
+.mobile-left{text-align: left;}
+.mobile-no-border{border:none !important}
+.mobile-font-40{font-size:40px !important;}
+.hero-who .hero-image-50-50{width:50px !important; height:50px !important;}
+.icon-column{min-height: 110px !important;}
+.table-footer{margin:0; padding-left:40px; padding-right:40px;}
+}
+::selection{background-color:#0077b5; color:#ffffff;}
+Searching doesn't have to feel like a full-time job
+Searching doesn't have to feel like a full-time job
+Search now
+Now that you're Premium, you've got access to tools that help you find the perfect expert, client or candidate for your needs. 
+If you need assistance or have questions, please contact LinkedIn Customer Service.

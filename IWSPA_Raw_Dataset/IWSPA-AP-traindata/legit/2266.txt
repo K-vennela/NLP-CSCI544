@@ -1,0 +1,38 @@
+Jim et al,
+Having now read the paper in a moment of peace and quiet, there are a few things
+to bear in mind. The authors of the original will have a right of reply, so need to
+ensure that they don't have anything to come back on. From doing the attached a
+year or so ago, there is a word limit and also it is important to concentrate only
+on a few key points. As we all know there is so much wrong with the paper, it
+won't be difficult to come up with a few, but it does need to be just two or three.
+The three aspects I would emphasize are
+1. The first difference type filtering. Para 14 implies that they smooth the series
+with a 12 month running mean, then subtract the value in Jan 1980 from that in
+Jan 1979, then Feb 1980 from Feb 1979 and so on.  As we know this removes
+any long-term trend.
+The running mean also probably distorts the phase, so this is possibly why
+they get different lags from others. Using running means also enhances the
+explained variance. Perhaps we should repeat the exercise without the smoothing.
+2. Figure 4 and Figure 1 show the unsmoothed GTTA series. These clearly have a
+trend. Perhaps show the residual after extracting the ENSO part.
+3. They do the same first difference on the smoothed SOI. The SOI doesn't explain
+the climate jump in the 1976/77 period. Their arguments in para 30 are all wrong.
+A few minor points
+- there are some negative R*R values just after equation 3.
+- I'm sure Tom Wigley wouldn't have proposed El Nino events occurring after volcanoes!
+Attached this paper as well. From a quick read it doesn't say what is purported - in
+fact
+it seems to show clearly how the analysis should have been done.
+- there is a paper by Ben Santer (more recent) where he applies the same type
+of extraction procedure to models. I'll send this separately as it is large. In case it
+is too large here is the reference.
+Santer, B.D., Wigley, T.M.L., Doutriaux, C., Boyle, J.S., Hansen, J.E., Jones, P.D.,
+Meehl, G.A., Roeckner, E., Sengupta, S. and Taylor K.E., 2001:  Accounting for the effects
+of volcanoes and ENSO in comparisons of modeled and observed temperature trends.  Journal
+of Geophysical Research 106, 2803328059.
+Finally I've attached a paper I wrote in 1990, where I did something similar to
+what they did. I looked at residuals from a Gaussian filter, and I added
+the smoothed data back afterwards. I was working at the annual timescale
+and I did have many more years.
+Cheers
+Phil

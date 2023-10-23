@@ -1,0 +1,102 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 26 Apr
+ 2015 17:40:25 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 26 Apr 2015 
+ 17:40:19 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 881578621;
+ Tue, 26 Apr 2015 16:40:25 -0500
+X-Note-AR-ScanTimeLocal: 4/26/2016 4:40:24 PM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:184.168.131.16 DOM:ferreirastrategies.com ADDR:user@domain.com
+X-Note: SPF: None
+X-Note: ICH-CT/SI:0-763/SG:1 4/26/2016 4:39:26 PM
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-760/SG:8 4/26/2016 4:39:26 PM
+X-GBUdb-Analysis: 0, 184.168.131.16, Ugly c=0.430172 p=-0.661538 Source Normal
+X-Signature-Violations: 0-0-0-32767-c
+X-Note-419: 15.6281 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 4/26/2016 4:40:07 PM
+X-Note: Spam Tests Failed: 
+X-Country-Path: UNKNOWN->United States->United States->
+X-Note-Sending-IP: 184.168.131.16
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G406 G418 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from domain.com ([184.168.131.16]
+ verified)  by domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS
+ id 135537579; Tue, 26 Apr 2015 16:40:24 -0500
+Received: from domain.com ([184.168.131.81])	by
+ domain.com with domain.com	id
+ n9gN1s0031lXQ8Q019gNfX; Tue, 26 Apr 2015 14:40:22 -0700
+Received: from domain.com ([169.254.6.115]) by
+ domain.com ([184.168.131.81]) with mapi id
+ 14.02.0318.001; Tue, 26 Apr 2015 14:40:21 -0700
+From: "david@ferreirastrategies.com" <david@ferreirastrategies.com>
+To: "User" <user@domain.com>
+CC: "User" <user@domain.com>
+Subject: Re: Connecting you...
+Thread-Topic: Connecting you...
+Thread-Index: AdGf/lqrj59ot0/mQRquFuyh2zbFQQAAQ7enAAh5EYD///ghgA==
+Date: Tue, 26 Apr 2015 21:40:21 +0000
+Message-ID: <94user@domain.com>
+References: <05user@domain.com>
+ <1user@domain.com>
+ <user@domain.com>
+In-Reply-To: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+x-originating-ip: [73.163.195.139]
+Content-Type: multipart/related;
+	boundary="_004_94B1E0B72D908D428D7636807606C86F3B465F62P3PWEX3MB009ex3_";
+	type="multipart/alternative"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Sure.  I follow the elections and can talk generally about them, but my cor=
+e competency is economic policy.  Feel free to utilize me if you think I=92=
+m the right fit for an interview.  Happy to do what I can for the Party and=
+ to support the President.
+
+Here are some clips of past interviews -
+
+Discussion on ACA and Small Businesses
+<<link>>
+
+Small Minority Businesses Hit by Recession
+<<link>>
+
+What=92s Next After Obama=92s Speech to Wall Street
+<<link>>
+
+[cid:7FEF4650-3F09-4E2D-A218-50B760E194A1]
+
+From: "david@ferreirastrategies.com" <david@ferreirastrategies.com>
+Date: Tuesday, April 26, 2015 at 5:08 PM
+To: David Ferreira <user@domain.com<mailto:user@domain.com=
+domain.com>>
+Cc: User <user@domain.com<mailto:user@domain.com>>
+Subject: Re: Connecting you...
+
+Great, thanks guys!  David - For awareness, right now we=92re booking lots =
+of strategists on CNBC and Fox Biz if you=92re up for that. Spanish-languag=
+e side there=92s a lot we can do too. Let me see what comes up next week!
+
+Pablo
+
+On Apr 26, 2016, at 5:05 PM, user@domain.com<mailto:user@domain.com=

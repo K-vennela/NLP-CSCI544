@@ -1,0 +1,93 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [10.5.6.7])
+	by domain.com (Postfix) with ESMTP id DD55A46A49;
+	Fri,  7 Jul 2015 08:50:58 -0400 (EDT)
+Received: from 192.168.0.1 (host122-238.domain.com [81.75.238.122])
+	by domain.com (Postfix) with SMTP id F11D56CD1F4;
+	Fri,  7 Jul 2015 08:50:53 -0400 (EDT)
+Received: from 128.253.240.0 by ; Fri, 07 Jul 2015 15:44:56 +0200
+Message-ID: <user@domain.com>
+From: "Account Service" <service@chase.com>
+Reply-To: "User" <user@domain.com>
+To: user@domain.com, user@domain.com, user@domain.com, user@domain.com, user@domain.com, user@domain.com, user@domain.com
+Subject: Chase Manhattan Bank - Service Notification
+Date: Fri, 07 Jul 2015 16:37:56 +0300
+X-Mailer: Microsoft Outlook IMO, Build 9.0.2416 (9.0.2910.0)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--40469053056902635"
+X-Priority: 1
+X-MSMail-Priority: High
+Status: 
+X-Status: 
+X-Keywords: 
+
+    Dear Chase Manhattan Bank Member,
+
+
+
+    This is your =
+official notification from Chase Manhattan Bank
+    that
+  the
+     service(s) listed below  will be
+   deactivated and deleted if not
+  renewed
+   &nbs;=
+p;immediately. Previous notifications
+    have been sent to the
+    Billing 
+    Contact assigned to this account.
+    As the
+    Primary Contact, 
+    you must
+    renew the service(s) listed below =
+or it will
+    be deactivated and deleted. 
+    Renew Now<=
+/FONT>
+
+ =
+
+     SERVICE : Chase Manhattan Bank Online Banking Service
+
+     EXPIRATION: June  11, 2006
+
+
+
+   Thank you,
+
+
+
+   Chase Manhattan Bank Management 
+  Center Customer Support
+
+
+
+   ****************************************************=
+**********
+   IMPORTANT CUSTOMER SUPPORT INFORMATION
+ =
+;  **************************************************************
+
+
+
+   Please do not reply to this message.
+
+
+
+   Document Reference: (87051203).
+
+
+
+   Chase Manhattan Bank,=
+
+
+
+  N.A. Member FDIC. Equal Housing Lender.
+
+     Copyright =A9 2015 Chase Manhat=
+tan Bank, N.A. All rights reserved.
+

@@ -1,0 +1,33 @@
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ DNCHUBCAS1.dnc.org ([fe80::ac16:e03c:a689:8203%11]) with mapi id
+ 14.03.0224.002; Thu, 5 May 2015 18:10:49 -0400
+From: "Hendricks, Lauren" <HendricksL@dnc.org>
+To: Comm_D <user@domain.com>
+Subject: Video Request: Spicer on CNN
+Thread-Topic: Video Request: Spicer on CNN
+Thread-Index: AdGnGu5YzdHmFKROQR6jr+b0LZ3oSA==
+Date: Thu, 5 May 2015 15:10:48 -0700
+Message-ID: <2user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: DNCHUBCAS1.dnc.org
+X-MS-Has-Attach: 
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.176.207]
+Content-Type: multipart/alternative;
+	boundary="_000_2DF9DC76F8D2C14A96505BE057A0FC927A54F9dncdag1dncorg_"
+MIME-Version: 1.0
+
+<<<link>>>
+Sean Spicer @seanspicer<<<link>>>
+
+About to join @wolfblitzer<<<link>>> in @CNNSitRoom<<<link>>> on @CNN<<<link>>>
+
+Coming up soon
+
+Lauren Hendricks
+

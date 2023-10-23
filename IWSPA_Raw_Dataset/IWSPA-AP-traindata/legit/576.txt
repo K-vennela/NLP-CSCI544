@@ -1,0 +1,365 @@
+@media only screen and=
+(max-width: 730px) {                 .leaderboard {                     di=
+splay: none !important;                 }                 * {              =
+-webkit-text-size-adjust: none;                 }                 bo=
+dy {                     min-width: 100% !important;                 }     =
+table[id=3Dwrapper], table[class=3Dad_group], table[id=3Dwrappe=
+r] .intro, table[id=3Dwrapper] .divide {                     width: 100% !i=
+mportant;                 }                 #brief {                     fl=
+oat: none !important;                     width: 100% !important;          =
+}                 .ad_group {                     display: block !im=
+portant;                     padding-left: 10px;                 }         =
+div[class=3Dad] {                     margin: auto !important;     =
+padding-top: 0 !important;                     padding-left=
+: 0 !important;                     display: block !important;             =
+width: 100% !important;                 }                 table td[=
+class=3Dnumber] {                   display: none !important;              =
+}             }                  Bloomberg Politics Daily               =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+SIGN UP                              =
+=
+=
+=
+=
+=
+=
+=
+The Brief                           =
+=
+=
+=C2=A0                            =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+Bernie Sanders, =
+defiant on the stump, quietly reassures Democrats on unity                 =
+=
+=
+=
+Some in the party worry the underd=
+og=E2=80=99s aggressive campaign risks playing into Donald Trump=E2=80=99s =
+hands.                                                                     =
+=
+=
+=
+=
+=
+=
+=
+=C2=A0           =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+Trump, who once backed gun restric=
+tions, to address NRA conference                                           =
+=
+=
+=
+As the presumptive Republican presidential nominee prepares =
+to speak Friday to tens of thousands of gun enthusiasts, some still questio=
+n his record.                                                              =
+=
+=
+=
+=
+=
+=
+=
+=C2=A0    =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+Hillary Clinton calls Democ=
+ratic race =E2=80=98done=E2=80=99                                          =
+=
+=
+=
+Sanders=E2=80=99 campaign responded by saying voters have =
+=E2=80=9Cgrowing doubts=E2=80=9D about the front-runner.                   =
+=
+=
+=
+=
+=
+=
+=
+=
+=C2=A0                                    =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=E2=80=9CShame!=E2=80=9D=
+=
+=
+=
+=
+=
+=E2=80=94 House =
+Democrats as Republicans defeated a gay-rights measure                     =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=C2=A0                                           =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=E2=80=98Culture Caucus=E2=
+=80=99 podcast: Weiner is the most compelling political documentary ever   =
+=
+=
+=
+Perhaps no political=
+campaign exploded with such tabloid force as Anthony Weiner=E2=80=99s 2013=
+New York City mayoral run. And it turns out cameras were rolling the whole=
+time.                                                                     =
+=
+=
+=
+=
+=
+=
+=
+=C2=A0           =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+Trump promotes Paul Manafort to ca=
+mpaign chairman                                                            =
+=
+=
+Th=
+e veteran strategist will now be in=C2=A0charge of nearly every facet of th=
+e mogul=E2=80=99s run.                                                     =
+=
+=
+=
+=
+=
+=
+=
+=
+=C2=A0                                                                     =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+Clinton says Trum=
+p is not qualified to be president (VIDEO)                                 =
+=
+=
+=
+John Heilemann and Nicolle Wallace discuss Clinton=
+=E2=80=99s comments on =E2=80=9CWith All Due Respect.=E2=80=9D             =
+=
+=
+=
+=
+=
+=
+=
+=
+=C2=A0                              =
+=
+=
+=
+=
+=
+=
+=
+=C2=A0                    =
+=
+Catch =E2=80=9CWith All Due Respect=E2=80=9D on Bloombe=
+rg TV and BloombergPolitics.com weekdays at 5 p.m. ET.                     =
+=
+=C2=A0                                                 =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=C2=
+=A0                                                                        =
+=
+=
+=
+=
+=
+=
+Follow us:        =
+=
+=
+=
+=
+=
+=C2=A0              =
+=
+=
+For press inquiries, please contact Em=
+ma Angerer user@domain.com, 202-654-4332                            =
+=
+=
+=C2=A0                                                  =
+You recei=
+ved this message because you are subscribed to the Bloomberg Politics Daily=
+newsletter.                                                               =
+=C2=A0                 =
+=
+=C2=A0                                              =
+Unsubs=
+cribe | BloombergPolitics.com | Contact Us                                 =
+=
+Bloomberg L.P. 731 Lexington, New York, NY, 10022                  =
+=
+<a href=3D"<<link>>
+k.mail.bloombergpolitics.com/click/6763367.3100/aHR0cDovL3d3dy5tYWlsLmJsb29=
+tYmVyZ3BvbGl0aWNzLmNvbSI/5620642517893f007f8b4d8aB3bfbd93a><img src=3D"http=
+://link.mail.bloombergpolitics.com/img/5620642517893f007f8b4d8a40ynb.2e4/75=
+f1a1ad.gif" alt=3D"" border=3D"0" /></a>                                   =
+=20
+If you believe this has been sent to you in error, please click <<<link>>
+k.mail.bloombergpolitics.com/oc/5620642517893f007f8b4d8a40ynb.2e4/c1a022f0>=
+to safely unsubscribe.

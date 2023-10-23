@@ -1,0 +1,8 @@
+<x-flowed>
+Hi Gabi,
+Here is the section from the FOD draft that includes the new PMIP-2
+results.  The radiative forcings have been modified based on new
+calculations.  Note the PMIP-2 LGM model results included in the FOD
+do not include vegetation or atmospheric aerosol changes so for 
+these results the radiative forcing estimate is 5.7 +/- 1.3 W/m2.
+Bette

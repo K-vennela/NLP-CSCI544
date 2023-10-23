@@ -1,0 +1,423 @@
+Received: from domain.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Wed, 25 Jun 2015 18:35:09 +0200
+Received: from mail.hackingteam.it (unknown [192.168.100.50])	by
+ domain.com (Postfix) with ESMTP id 8272C621E2	for
+ <user@domain.com>; Wed, 25 Jun 2015 17:22:34 +0100 (BST)
+Received: by mail.hackingteam.it (Postfix)	id ECCC4B6603E; Wed, 25 Jun 2015 
+ 18:35:09 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from domain.com (exchange.hackingteam.it
+ [192.168.100.51])	(using TLSv1 with cipher AES128-SHA (128/128 bits))	(No
+ client certificate requested)	by mail.hackingteam.it (Postfix) with ESMTPS id
+ E1F73B6600D;	Wed, 25 Jun 2015 18:35:09 +0200 (CEST)
+Received: from domain.com ([fe80::755c:1705:6a98:dcff]) by
+ domain.com ([fe80::755c:1705:6a98:dcff%11]) with mapi id
+ 14.03.0123.003; Wed, 25 Jun 2015 18:35:09 +0200
+From: Emad Shehata <e.shehata@hackingteam.it>
+To: Daniele Milan <user@domain.com>, "'user@domain.com'"
+	<user@domain.com>, "'user@domain.com'"
+	<user@domain.com>
+CC: "'user@domain.com'" <user@domain.com>
+Subject: R: Re: R: Re: R: Re: I: EA - HT Milano Training
+Thread-Topic: Re: R: Re: R: Re: I: EA - HT Milano Training
+Thread-Index: AQHPkJAKT6bjesFsGkKghrpL25LYqZuCAZJq///e+YCAACIlzP//38AAgAAjSSY=
+Date: Wed, 25 Jun 2015 16:35:08 +0000
+Message-ID: <user@domain.com>
+In-Reply-To: <2808user@domain.com>
+Accept-Language: it-IT, en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-originating-ip: [fe80::755c:1705:6a98:dcff]
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-603028132_-_-"
+
+Caro Daniele, ok perfetto.
+
+Se hai fatto uscire delle mail ti prego di inoltrarle al fine di essere allineati.
+
+Domani vedremo sul contract che tipo di training e' stato venduto, speriamo sia l'advanced std cosi che possiamo proporre il solito su 5 giorni, 8 ore al giorno.
+
+Ti prego di darmi 2 settimane di disponibilita': 1 per Settembre e 1 per Ottobre
+
+Grazie 
+
+-- 
+
+Emad Shehata 
+
+Key Account Manager 
+
+Sent from my mobile.
+
+
+
+
+Da: Daniele Milan
+
+Inviato: Wednesday, June 25, 2015 06:28 PM W. Europe Standard Time
+
+A: Emad Shehata; 'user@domain.com' <user@domain.com>; 'user@domain.com' <user@domain.com>
+
+Cc: 'user@domain.com' <user@domain.com> 
+
+Oggetto: Re: R: Re: R: Re: I: EA - HT Milano Training 
+
+
+
+
+Ne avevo discusso col partner dopo l'uscita di Mostapha: eravamo rimasti che si sarebbero fatti sentire per organizzare.
+
+Daniele 
+
+-- 
+
+Daniele Milan 
+
+Operations Manager 
+
+Sent from my mobile.
+
+
+
+
+From: Emad Shehata <e.shehata@hackingteam.it>
+
+Sent: Wednesday, June 25, 2015 06:24 PM
+
+To: Daniele Milan; 'user@domain.com' <user@domain.com>; 'user@domain.com' <user@domain.com>
+
+Cc: 'user@domain.com' <user@domain.com> 
+
+Subject: R: Re: R: Re: I: EA - HT Milano Training 
+
+
+
+
+Nel senso che avevi gia' affrontato con Mos tale questione, dandoli suppongo anche le date
+
+-- 
+
+Emad Shehata 
+
+Key Account Manager 
+
+Sent from my mobile.
+
+
+
+
+Da: Daniele Milan
+
+Inviato: Wednesday, June 25, 2015 06:22 PM W. Europe Standard Time
+
+A: Emad Shehata; 'user@domain.com' <user@domain.com>; 'user@domain.com' <user@domain.com>
+
+Cc: 'user@domain.com' <user@domain.com> 
+
+Oggetto: Re: R: Re: I: EA - HT Milano Training 
+
+
+
+
+Sono a conoscenza della questione nel senso che
+
+-- 
+
+Daniele Milan 
+
+Operations Manager 
+
+Sent from my mobile.
+
+
+
+
+From: Emad Shehata <e.shehata@hackingteam.it>
+
+Sent: Wednesday, June 25, 2015 06:20 PM
+
+To: 'user@domain.com' <user@domain.com>; 'user@domain.com' <user@domain.com>; Daniele Milan
+
+Cc: 'user@domain.com' <user@domain.com> 
+
+Subject: R: Re: I: EA - HT Milano Training 
+
+
+
+
+Caro Gian
+
+e' quello che mi ha detto il partner al telefono, informandomi che Daniele era a conoscenza della questione. Per adesso ho chiesto la disponibilita' in quanto con MarcoB verificheremo i termini contrattuali. Qui di seguito Mos parlava di tale training che doveva
+ svolgersi alla fine di Aprile, inizi di Maggio, ma non si parlava di orari cosi ridotti, nell'ultima visita di Mos ( a detto del partner) avrebbero previsto 2 sessioni differenti, in quanto l'ufficio e' composto da 4 persone e non possono essere contemporanemente
+ assenti. 
+
+Rimane cmq il fatto che le ore sono poche, minimo dovremo portarle a 6 ore giornaliere e su 5 giorni lavorativi ( quest'ultimo aspetto lo dovremo vedere sul contratto domani).
+
+A disposizione. 
+
+-- 
+
+Emad Shehata 
+
+Key Account Manager 
+
+Sent from my mobile.
+
+
+
+
+Da: Giancarlo Russo [mailto:user@domain.com]
+
+Inviato: Wednesday, June 25, 2015 06:10 PM W. Europe Standard Time
+
+A: Emad Shehata <user@domain.com>; Daniele Milan 
+
+Cc: 'Marco Bettini' <user@domain.com> 
+
+Oggetto: Re: I: EA - HT Milano Training 
+
+
+
+
+Scusate, per capire:
+
+- è un training pagato? 3-4 ore al gionrno mi sembrano davvero poche...  
+
+Il 25/06/2014 16:31, Emad Shehata ha scritto:
+
+<!--
+/* Font Definitions */
+@font-face
+	{font-family:Helvetica;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-priority:99;
+	mso-style-link:"Testo fumetto Carattere";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";}
+span.apple-style-span
+	{mso-style-name:apple-style-span;}
+span.StileMessaggioDiPostaElettronica18
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.TestofumettoCarattere
+	{mso-style-name:"Testo fumetto Carattere";
+	mso-style-priority:99;
+	mso-style-link:"Testo fumetto";
+	font-family:"Tahoma","sans-serif";}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 2.0cm 2.0cm 2.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+
+Caro Daniele,
+come di seguito, ti confermo che il nostro Partner GNSE, mi ha confermato che vorrebbe fare il training al cliente come di seguito delineato:
+
+
+
+2 ufficiali verrebbero a Settembre 2015 per 10 giorni lavorativi ( lezioni di circa 3-4 ore al giorno)                             Fammi sapere le
+ date disponibili
+2 ufficiali verrebbero a Ottobre 2015 per 10 giorni lavorativi ( lezioni di circa 3-4 ore al giorno)                   Fammi sapere le date disponibili
+
+
+
+In gentile attesa
+Saluti
+
+
+
+Emad Shehata
+
+Key Account Manager
+
+Hacking Team
+
+Milan Singapore Washington DC
+
+domain.com
+
+email:
+user@domain.com
+
+mobile: +39 3357939078
+
+phone: +39 0229060603
+
+
+
+Da: Moniem GNSE [mailto:user@domain.com]
+
+Inviato: mercoledì 25 giugno 2015 17:25
+
+A: Emad Shehata
+
+Oggetto: Fwd: EA - HT Milano Training
+
+
+
+
+Dear Emad,
+
+
+
+
+I hope you are doing well, regarding our yesterday phone call and below email, kindly we did agree to reschedule the training by next Sept.
+
+
+
+
+The customer asked yesterday to send two officers by Sept and another two by October.
+
+
+
+
+Please advise,
+
+
+
+
+Best Regards,
+
+
+
+
+Mohamed Adbel Moniem
+
+General Manager
+
+Information Security Division
+
+32 Lebnan Street, Mohandseen, Postal Code: 12411.
+
+Cairo, Egypt,
+
++20 2 3345 1656-8 (Office), ext.: 203
+
++20 2 3305 (Fax).
+
++20 100 547 40 70 (Mobile).
+
+23A667675 - bbm
+
+mmoniem – Skype
+
+
+
+
+Begin forwarded message:
+
+From: Emad Shehata <e.shehata@hackingteam.it>
+Mostapha Maanna <user@domain.com>
+
+Subject: Re: EA - HT Milano Training
+
+Date:
+February 13, 2015 10:53:20 AM GMT+02:00
+
+To:
+Moniem GNSE <user@domain.com>
+
+Cc:
+Manal Shams <user@domain.com>
+
+
+
+
+Dear Mohamed,
+
+We would be very happy to host the enduser at our premises from 28-04-14 till 07-05-14. Please note that 01-05-2014 is a national holiday in Italy, so we will not be able to perform the training in that day.
+
+
+
+
+Can you please confirm as soon as possible and let me know if you need invitation letters?
+
+Thank you,
+
+Mostapha
+
+
+
+
+Il giorno 12/feb/2014, alle ore 15:01, Moniem GNSE <user@domain.com> ha scritto:
+
+Dear Mostafa;
+
+
+
+
+Kindly the customer agreed to have the training by next April, would you please confirm that date as per our phone call, the training will be for four persons/10 working days.
+
+
+
+
+Thank you, Mohmd.
+
+
+
+
+-- 
+
+Giancarlo Russo 
+
+COO 
+
+Hacking Team 
+
+Milan Singapore Washington DC 
+
+domain.com
+
+email:user@domain.com
+
+mobile: +39 3288139385 
+
+phone: +39 02 29060603 
+
+. 
+

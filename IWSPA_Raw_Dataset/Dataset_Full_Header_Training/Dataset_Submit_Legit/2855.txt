@@ -1,0 +1,62 @@
+Received: from domain.com (146.215.230.103) by
+ domain.com (43.130.141.77) with Microsoft SMTP Server id
+ 8.3.342.0; Fri, 16 May 2015 21:08:50 -0700
+Received: from domain.com ([160.33.194.231])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s4H48nvk007204	for <user@domain.com>; Sat, 17 May 2015 
+ 04:08:49 GMT
+Received: from mail215-va3-domain.com (mail-domain.com
+ [216.32.180.118])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s4H4AREj013928
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Sat, 17 May 2015 04:10:27 GMT
+Received: from mail215-va3 (localhost [127.0.0.1])	by
+ mail215-va3-domain.com (Postfix) with ESMTP id 7C2634C053B	for
+ <user@domain.com>; Sat, 17 May 2015 04:08:48 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:199.59.150.82;KIP:(null);UIP:(null);IPV:NLI;H:spruce-goose-am.twitter.com;RD:spruce-goose-am.twitter.com;EFVD:NLI
+X-SpamScore: 8
+X-BigFish: vps8(zzbb2dIdb82hc89bhc616hd772he0eahc857hc0c9izz1f42h2148h208ch1ee6h1de0h1fdah2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6h2233kzz1730fah177df4h17326ah8275bh1bc7b9h8275dh1de097h186068h1b778fh1ce120hb64e9k1ce121iz2fh5fh2a8h839ha12hd25h1288h12a5h12bdh137ah13eah1441h14ddh1504h1537h153bh162dh1631h1758h18e1h1901h1946h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1fe8h1ff5h20f0h2216h22d0h2336h2438h2461h2487h24d7h2516h2545h255eh25f6h2605h268bh26d3h27e2h282bh214ai)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail215-va3: domain of bounce.twitter.com designates 199.59.150.82 as permitted sender) client-ip=199.59.150.82; user@domain.com; helo=spruce-goose-am.twitter.com ;.twitter.com ;
+Received: from mail215-va3 (localhost.localdomain [127.0.0.1]) by mail215-va3
+ (MessageSwitch) id 1400299725853876_11236; Sat, 17 May 2015 04:08:45 +0000
+ (UTC)
+Received: from domain.com (unknown [10.7.14.239])	by
+ mail215-domain.com (Postfix) with ESMTP id CB6F960020D	for
+ <user@domain.com>; Sat, 17 May 2015 04:08:45 +0000 (UTC)
+Received: from spruce-goose-am.twitter.com (199.59.150.82) by
+ domain.com (10.7.99.23) with Microsoft SMTP Server (TLS) id
+ 14.16.227.3; Sat, 17 May 2015 04:08:43 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=twitter.com;
+	s=dkim-201303; t=1400299721;
+	bh=unk4Mx3SL7hXeI2Hars7RJoDpVc4sKWmZccLwvBMiPo=;
+	h=Date:From: Twitter <info@twitter.com>
+	b=FKqGmF+aIxYQN21PvHrjg4BO0J5yonfPRY1wjn7YgYYZL+Lrnd7BUY4bbJxqZFmOl
+	 PS0i3ewU68bncYFUrJ48sgijkPcf9QVK9rx1vdNDJs9h67Tw8FuUiLyEJTpOgSSJYo
+	 7FgePXjyS59q+nEsfE7Ev9deAIor7iXhzTmqo6gY=
+X-MSFBL: c3RldmVuX29kZWxsQHNwZS5zb255LmNvbUBzbWYxLWJmcS0wOC1zcjEtRXZlcnl0
+	aGluZy4xODJARXZlcnl0aGluZ0BzdGV2ZW5fb2RlbGxcQHNwZS5zb255LmNvbVxA
+	MjY0XEAyMzI3NzYxMFxAMFxAMWE2MjNlM2ZhYTc0NzJjNTlkYWFhM2VjNjIwNzUz
+	ZGI3NDBkMjcxNA==
+Date: Sat, 17 May 2015 04:08:41 +0000
+From: Twitter <info@twitter.com>
+To: Steven O'Dell <user@domain.com>
+Subject: Meet L.A.'s Best Bread Baker You've Never Heard Of
+Precedence: Bulk
+Message-ID: <8user@domain.com>
+Return-Path: user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2006348903_-_-"
+
+<<link>>+21+20140515
+        <<link>>+21+20140515                    Steven O'Dell,  
+Here's what's trending on Twitter this week.    
+
+        Steven O'Dell           
+
+                  <<link>>+20+20140515&t;=1              
+
+
+
+<<link>>

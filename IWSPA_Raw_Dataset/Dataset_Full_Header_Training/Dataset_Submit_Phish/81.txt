@@ -1,0 +1,84 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [10.5.6.7])
+	by domain.com (Postfix) with ESMTP id 5191A4697F
+	for <user@domain.com>; Fri, 21 Jul 2015 18:28:29 -0400 (EDT)
+Received: from a15179722.alturo-server.de (a15179722.alturo-server.de [217.160.107.173])
+	by domain.com (Postfix) with ESMTP id 751496CCFFA
+	for <user@domain.com>; Fri, 21 Jul 2015 18:28:29 -0400 (EDT)
+Received: from User (unknown [210.48.74.138])
+	by a15179722.alturo-server.de (Postfix) with ESMTP id 38E608116D9;
+	Sat, 22 Jul 2015 00:28:08 +0200 (CEST)
+Reply-To: <user@domain.com>
+From: "PAYPAL.COM" <ulimit@paypal.com>
+Subject: Your PayPal account has been temporarily limited due to Unauthorized Access.
+Date: Sat, 22 Jul 2015 10:25:15 +1200
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20060721222808.38user@domain.com>
+To: undisclosed-recipients:;
+Status: R
+X-Status: 
+X-Keywords: 
+
+
+
+
+            Dear valued PayPal® member,
+
+            We recently reviewed your account, and suspect that your PayPal account 
+            may have been accessed by an unauthorized third party. Protecting 
+            the security of your account and of the PayPal network is our primary 
+            concern.
+
+Therefore, 
+            as prevention measure, we have temporarely limited access to sensitive 
+            PayPal account features.We encourage customers to get their information 
+            up-to-date and change password often.
+
+PayPal 
+            has assigned you an unique tracking number.
+
+Unique 
+            tracking number :
+
+8233105134
+
+            Please review your information after loging in. Use only your 
+            assigned unique URL.
+
+            Click this button to access your unique URL (! please read below 
+            for security tips) and gain full access: 
+
+( 
+                or click here )
+
+For more information 
+            about how to protect your account, please domain.com PayPal's 
+            Security Center.
+
+            We apologize for any inconvenience this may cause, and appreciate 
+            your assistance in helping us maintain the integrity of the entire 
+            PayPal system. Thank you for your prompt attention to this matter.
+
+        PayPal 
+        has assigned you an unique tracking number. URL in your browser's address 
+        bar should begin with " http:// " following your tracking 
+        number.
+
+Unique 
+        tracking number :
+
+8233105134
+
+Copyright 
+      © 2015 PayPal Inc. All rights reserved. Designated trademarks and brands 
+      are the property of their respective owners.
+

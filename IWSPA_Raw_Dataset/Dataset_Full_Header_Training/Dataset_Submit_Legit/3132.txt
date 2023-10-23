@@ -1,0 +1,20 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (confluence.hackingteam.com [192.168.200.205])
+	by domain.com (Postfix) with ESMTP id 76A8CB6600D
+	for <user@domain.com>; Tue,  3 Dec 2015 13:12:01 +0100 (CET)
+Date: Tue, 3 Dec 2015 13:12:01 +0100
+From: "Mostapha Maanna (Confluence)" <confluence@hackingteam.com>
+To: user@domain.com
+Message-ID: <2005178446.888.1386072721490.JavaMail.CONFLUENCE$@confluence>
+Subject: [confluence] Mostapha Maanna updated a "Events" event in the
+ "Deliveries" calendar
+Precedence: bulk
+Auto-Submitted: auto-generated
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2135562172_-_-"
+
+  Mostapha Maanna updated a "Events" event in the Deliveries calendar Dec 07, 2013 Until Dec 13, 2013   Saudi/MODYou are receiving this notification because you are watching the following:   Deliveries   Sent by Atlassian Confluence 5.3, the Enterprise Wiki 

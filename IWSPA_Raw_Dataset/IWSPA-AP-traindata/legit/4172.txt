@@ -1,0 +1,11 @@
+@media only screen and (max-device-width: 480px) {
+body {
+padding: 2px 0 !important;
+}
+table[id="wide"] {width:98% !important;height:auto !important;}
+table[id="tall"] {width:51% !important;height:auto !important;margin-left:5px;}
+table[id="wide"] img,  table[id="tall"] img {width:100% !important;height:auto !important;}
+}
+Dear Amy,
+Paid for by Montanans for Tester
+This e-mail was sent to user@domain.com

@@ -1,0 +1,154 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 10 May
+ 2015 17:42:10 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 10 May 2015 
+ 17:42:05 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 907846627;
+ Tue, 10 May 2015 16:42:01 -0500
+X-Note-AR-ScanTimeLocal: 5/10/2016 4:41:56 PM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: Too many policies to list
+X-Note-AR-Scan: None - PIPE
+Received: by domain.com (CommuniGate Pro PIPE 6.1.7)  with PIPE id
+ 137847263; Tue, 10 May 2015 16:41:56 -0500
+Received: from s-domain.com ([143.228.181.86] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 137847257;
+ Tue, 10 May 2015 16:41:54 -0500
+Received: from FHOB-domain.com (fhob-domain.com
+ [143.228.233.118])	by s-domain.com  with ESMTP id u4ALc8qK021122	(using
+ TLSv1 with cipher ECDHE-RSA-AES256-SHA (256 bits) verified FAIL);	Tue, 10 May
+ 2015 17:38:10 -0400
+X-DKIM: OpenDKIM Filter v2.4.3 s-domain.com u4ALc8qK021122
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mail.house.gov;
+	s=November2012-msg-mhg; t=1462916356;
+	bh=X6nSajDLS+DgikWqowSWJVREYlSGjmhYjN6BUbi4/Gw=;
+	h=From: Democratic Leader <Democratic.Leader@mail.house.gov>
+	b=l8W13w4WVjMmhYRZxjFOXBoF92Mew6vQfvQ6cenbNpW33EqvDd3xEOaDq31tBASQ2
+	 017++p2uHbXzXkakedt/NGOv0zUN8xX+7cYiFpMi2POWQSebOgqdgEzoat04m1wGyx
+	 7qGQBuINqlH8gGWVtm/10VUFf+vDKpE+YGtwrZtY=
+Received: from HEOC-domain.com ([fe80::48f5:8d7c:52b4:c22d]) by
+ FHOB-domain.com ([::1]) with mapi id 14.03.0279.002; Tue, 10 May 2015 
+ 17:38:07 -0400
+From: Democratic Leader <Democratic.Leader@mail.house.gov>
+Subject: =?Windows-1252?Q?House_Democrats_to_Hold_Steering_&_Policy_Committee_Hear?=
+ =?Windows-1252?Q?ing:_'The_Zika_Public_Health_Crisis:_the_Urgent_Need_for?=
+ =?Windows-1252?Q?_the_President=92s_Emergency_Funding_Request'?=
+Thread-Topic: =?Windows-1252?Q?House_Democrats_to_Hold_Steering_&_Policy_Committee_Hear?=
+ =?Windows-1252?Q?ing:_'The_Zika_Public_Health_Crisis:_the_Urgent_Need_for?=
+ =?Windows-1252?Q?_the_President=92s_Emergency_Funding_Request'?=
+Thread-Index: AdGrA5fIQLuLoklsTRe74fHIfbRQOg==
+Date: Tue, 10 May 2015 21:38:06 +0000
+Message-ID: <0324user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+x-originating-ip: [143.231.232.80]
+Content-Type: multipart/mixed;
+	boundary="_006_0324D544C39D274A863367EBA5B0644E4E418642HEOCHRM02USHous_"
+X-Note-AR-ScanTimeLocal: 5/10/2016 4:41:54 PM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: Too many policies to list
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @mail.house.gov ALLOWED
+X-Note: VCH-CT/SI:0-7806/SG:2 5/10/2016 4:41:07 PM
+X-Virus-Scan: V-X0H0M0
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->United States->
+X-Note-Sending-IP: 143.228.181.86
+X-Note-Reverse-DNS: s-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+To: Undisclosed recipients:;
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+[cid:image001.jpg@01D1AAE1.48472280]
+
+May 10, 2015 
+
+Contact: Drew Hammill/Evangeline George
+202-226-7616
+
+*** Media Advisory ***
+
+House Democrats to Hold Steering & Policy Committee Hearing:
+
+'The Zika Public Health Crisis: the Urgent Need for the President=92s Emerg=
+ency Funding Request'
+
+Washington, D.C. =96 The House Democratic Steering and Policy Committee wil=
+l hold a hearing on Thursday, May 12 at 1:00 p.m. entitled =93The Zika Publ=
+ic Health Crisis: the Urgent Need for the President=92s Emergency Funding R=
+equest.=94  Democratic Leader Nancy Pelosi and House Democrats will hear te=
+stimony from public health experts and community leaders about the urgent n=
+eed for Republicans in Congress to take action on a Zika emergency suppleme=
+ntal to fully meet the President=92s funding request.  A list of witnesses =
+and their biographies is attached.
+
+WHO:
+
+Democratic Leader Nancy Pelosi
+Congresswoman Rosa DeLauro (D-CT), Co-Chair, Democratic Steering & Policy C=
+ommittee
+Congresswoman Donna Edwards (D-MD), Co-Chair, Democratic Steering & Policy =
+Committee
+Congresswoman Nita Lowey (D-NY), Ranking Member, House Appropriations Commi=
+ttee
+
+WITNESSES:
+
+The Honorable Mitch Landrieu, Mayor, City of New Orleans, Louisiana
+Dr. Anthony Fauci, Director, National Institute of Allergy and Infectious D=
+iseases
+Dr. Anne Schuchat, Principal Deputy Director, Centers for Disease Control
+
+WHAT:
+
+Steering & Policy Committee Hearing: 'The Zika Public Health Crisis: the Ur=
+gent Need for the President=92s Emergency Funding Request'
+
+WHEN:
+
+Thursday, May 12 at 1:00 p.m.
+
+WHERE:
+
+NOTE:
+
+NOTE:
+
+HVC-210
+Capitol Visitor Center
+The Capitol
+Washington, D.C
+
+Camera crews must RSVP to Taylor Griffin at user@domain.com<m=
+ailto:user@domain.com>.
+
+The hearing will be live-streamed here<<<link>>
+LjCbDKyjk>.
+
+###
+
+________________________________
+

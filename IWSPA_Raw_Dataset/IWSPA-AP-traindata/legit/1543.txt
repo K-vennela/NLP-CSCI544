@@ -1,0 +1,85 @@
+Dear All,
+I've attached a draft (attached word document), incorporating many of the suggestions,
+wording, etc. I've already recieved from various of you.  Some specific
+comments/inquiries/requests for help indicated in yellow highlighting.  Waiting to hear
+back from Peck and Tom C (guys: if you're out there, can you give a holler, to let me know
+your disposition? thanks). Otherwise everyone else has indicated they're on board.
+I've been in touch w/ Judy Jacobs at AGU to clarify the ground rules. Apparently we *can*
+refer, where necessary, to press releases, parenthetically in the piece. I think this is
+important in our case because there is a subtle, but important, distinction between what
+the papers actual purport to show, and what the authors (and their promoters) have
+*claimed* they show (e.g. in the Harvard-Smithsonian press release). We need to draw out
+this distinction-I sent Judy my paragraph on that, and she said it looks fine--so
+apparently its kosher.
+I've avoided any reference to unpublished work however (e.g. Mann and Jones), because this
+opens up a can of worms. We can nicely make use of work that Keith has already done to
+provide a suggestion of the longer-term (past 2K) changes, for greater context...
+Re, references--we necessarily have to go well over the normal 10 or so, because part of
+the strength of our piece is the wealth of recent studies supporting our basic conclusions.
+Judy said that's ok too--especially since our text is short (by about 100 words) relative
+to the official (1200 word) limit. So we should try to keep it that way..ie, we need to
+play a zero-sum game, as much as possible, with any suggested revisions.
+Re figures, Scott Rutherford has generously offered to help prepare a draft of figure 1
+which I'll send on to everyone once its available.
+I've also described, in the figure caption, my concept of Figure 2--clearly it would be
+helpful if Phil and Ray could collaborate on the preparation of this one (guys?).
+Looking forward to comments, and suggested revisions. I'll just accumulate these from
+everyone in whatever form you prefer to provide them (emailed comments, word file w/ track
+changes or highlighting of changes used, etc) and try to prepare a revised draft once I've
+heard back from everyone.
+Thanks again to everyone for their willingness to help with this and to be involved with
+this,
+mike
+Date: Wed, 04 Jun 2003 10:17:57 -0400
+To: Phil Jones <p.jones@uea.ac.uk>, user@domain.com, Tom Wigley
+<user@domain.com>, Tom Crowley <user@domain.com>, Keith Briffa <k.briffa@uea.ac.uk>,
+user@domain.com, Michael Oppenheimer <user@domain.com>, Jonathan Overpeck
+<user@domain.com>
+From: "Michael E. Mann" <user@domain.com>
+Subject: Re: Prospective Eos piece?
+Cc: user@domain.com, Scott Rutherford <user@domain.com>
+Thanks Phil, and Thanks Tom W and Keith for your willingness to help/sign on. This
+certainly gives us a "quorum" pending even a few possible additional signatories I'm
+waiting to hear back from.
+In response to the queries, I will work on a draft today w/ references and  two
+suggested figures, and will try  to send on by this evening (east coast USA). Tom W
+indicated that he wouldn't be able look at a draft until Thursday anyway, so why doesn't
+everyone just take  a day then to digest what I've provided and then get back to me with
+comments/changes (using word "track changes" if you like).
+I'd like to tentatively propose to pass this along to Phil as the "official keeper" of
+the draft to finalize and submit IF it isn't in satisfactory shape by the time I have to
+leave (July 11--If I hadn't mentioned, I'm getting married, and then honeymoon, prior to
+IUGG in Sapporo--gone for about 1 month total). Phil, does that sound ok to you?
+Re Figures, what I had in mind were the following two figures:
+1) A plot of various of the most reliable (in terms of strength of temperature signal
+and reliability of millennial-scale variability) regional proxy temperature
+reconstructions around the Northern Hemisphere that are available over the past 1-2
+thousand years to convey the important point that warm and cold periods where highly
+regionally variable. Phil and Ray are probably in the best position to prepare this (?).
+Phil and I have recently submitted a paper using about a dozen NH records that fit this
+category, and many of which are available nearly 2K back--I think that trying to adopt a
+timeframe of 2K, rather than the usual 1K, addresses a good earlier point that Peck made
+w/ regard to the memo, that it would be nice to try to "contain" the putative "MWP",
+even if we don't yet have a hemispheric mean reconstruction available that far back
+[Phil and I have one in review--not sure it is kosher to show that yet though--I've put
+in an inquiry to Judy Jacobs at AGU about this]. If we wanted to be fancy, we could do
+this the way certain plots were presented in one of the past IPCC reports (was it 1990?)
+in which a spatial map was provided in the center (this would show the locations of the
+proxies), with "rays" radiating out to the top, sides, and bottom attached to rectanges
+showing the different timeseries. Its a bit of work, but would be a great way to convey
+both the spatial and temporal information at the same time.
+2) A version of the now-familiar "spaghetti plot" showing the various reconstructions as
+well as model simulations for the NH over the past 1 (or maybe 2K). To give you an idea
+of what I have in mind, I'm attaching a Science piece I wrote last year that contains
+the same sort of plot.
+However, what I'd like to do different here is:
+In addition to the "multiproxy" reconstructions,  I'd like to Add Keith's maximum
+latewood density-based series, since it is entirely independent of the multiproxy
+series, but conveys the same basic message. I would also like to try to extend the scope
+of the plot back to nearly 2K. This would be either w/ the Mann and Jones extension (in
+review in GRL) or, if that is deemed not kosher, the Briffa et al  Eurasian tree-ring
+composite that extends back about 2K, and, based on Phil and my results, appears alone
+to give a reasonably accurate picture of the full hemispheric trend.
+Thoughts, comments on any of this?
+thanks all for the help,
+mike

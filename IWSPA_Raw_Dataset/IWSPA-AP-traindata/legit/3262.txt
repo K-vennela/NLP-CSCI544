@@ -1,0 +1,31 @@
+Phil,
+there may be some money this FY, substantial sums. Management here are
+casting around for ideas. As its to be spent this FY its largely going
+to be consultant work as we never have a cats chance in hell of
+recruiting on that timescale. What resource do you think we could
+contract from CRU (you, Harry, others?) for doing a CRUTEM4 which I
+would maintain had two aims ...
+1. Rescue and incorporation of recent data (I'm pinging NCDC too to see
+what they could do vis-a-vis collating and sending the non-wmo US
+stations and other data you may not have ... their bi-lats may have sig.
+extra stations for Iran, Aus, Canada etc.)
+2. A more robust error model that led to production of a set of equi-
+probable potential gridded products (HadSST3 will do simnilarly so we
+could combine to form HadCRUT4 equi-probable). This error model
+determination would ideally be modular so that we could assess how wrong
+our assumptions about the error would have to be to "matter" and what
+error sources are important for our ability to characterise the long-
+term trend (trivially these will be the red noise I know but then most
+people seem blind to the trivial sadly ...). The HadCRUT3 paper clearly
+started well down that path but a recent paper I had the displeasure of
+reviewing on my way back from WMO shows its poorly understood
+(deliberately so in this particular case ...).
+We have a meeting Thursday. If it passes muster there we'll put it to
+DECC and see what happens. No promises. 
+This would mean we'd have HadCRUT4 which would be HadSST3 + CRUTEM4 each
+with more data and better error models well before AR5 which seems
+sensible ...
+Mr. Fraudit never goes away does he? How often has he been told that we
+don't have permission? Ho hum. Oh, I heard that fraudit's Santer et al
+comment got rejected. That'll brighten your day at least a teensy bit?
+Peter

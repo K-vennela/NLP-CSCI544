@@ -1,0 +1,20 @@
+Dear Mike,
+Yes, I am aware of the confusion surrounding what the Hadley Centre did
+and why.  It is even messier than you realize.  I have forcing data sets
+(more than one!) from Jonathon Gregory that differ from the numbers you
+gave in your email!!  The Hadley people have clearly screwed things up,
+but their "errors" don't really matter given all of the uncertainties.  I
+didn't mention this because I thought that opening up that can of worms
+would confuse people even more.
+In my view (trying to keep things as simple as possible), the key points
+are these: 
+(1)  The HadCM2 run purports to be IS92a, and it is a good approximation
+to this.
+(2)  Their use of 1% compounded for CO2 *is* a reasonable approximation to
+the IS92a GHG forcing (which, itself, is uncertain).
+(3)  The climate model output is also uncertain.
+(4)  The pure CO2 input to IS92a is what I have distributed from the Bern
+model.
+(5)  Hence, the best and simplest combination is to use HadCM2 climate
+output with these (point (4)) *a priori* defined "pure" CO2 concentrations
+for IS92a.

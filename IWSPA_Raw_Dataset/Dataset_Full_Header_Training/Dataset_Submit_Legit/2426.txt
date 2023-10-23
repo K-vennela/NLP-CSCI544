@@ -1,0 +1,27 @@
+From: Alberto Ornaghi <a.ornaghi@hackingteam.com>
+X-Smtp-Server: domain.com:alor
+Subject: =?iso-8859-1?Q?Ma_perch=E9_il_tiramis=F9_deve_essere_maltrattato?=
+ =?iso-8859-1?Q?=3F?=
+Message-ID: <1user@domain.com>
+X-Universally-Unique-Identifier: 8ac792a8-2462-49b6-ab4f-10d6cfc5a6eb
+Date: Thu, 1 Aug 2015 16:15:42 +0200
+To: Alberto Q Pelliccione <user@domain.com>,
+ Fabio Busatto <user@domain.com>,
+ Antonella Capaldo <user@domain.com>
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1561796924_-_-"
+
+<<link>>
+
+--
+Alberto Ornaghi
+Software Architect
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+email: user@domain.com
+mobile: +39 3480115642office: +39 02 29060603 
+

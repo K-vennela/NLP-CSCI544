@@ -1,0 +1,21 @@
+Iain (and Geoff),
+Definitive explanations are always dangerous!  The reasoning behind this is as follows:
+- the report only analysed and pictured seasonal and annual data (DJF,MAM, etc.) [in fact,
+nearly all published maps of climate model outputs show changes in seasonal - 3-month -
+averages].  This applying a uniform filter over 90 or 360 days.
+- the requested datasets are at monthly time-steps.  The default option for this is in
+effect applying a uniform 30-day filter.  [one might also conceive of weekly or daily
+time-step files - e.g. changes in Week 13 for the 2050s for precip. for Medium-High or
+changes for Julian day number 256 for the 2080s for Tmin for Low].
+- these are all arbitrary choices of course, dictated by convention.  But the important
+point it seems to me is again a signal to noise issue - the shorter the time-averaging
+period, the weaker the S/N ratio [i.e., we have more confidence that averaged over a year,
+Tmin in the UK will increase by, say, 2.7degC for certain scenario, than that for the same
+scenarios Tmin on 13 June will increase - on average - by 2.6degC and on 14 June only by
+2.3degC - is this difference between 2.6 on 13 June and 2.3 on 14 June really meaningful?
+No - it is most likely due to noise - natural variability].
+- this reasoning suggests that as the time-averaging period decreases, one should pay less
+attention to small differences between adjacent time-averaged periods, e.g. if June precip.
+goes down by 10%, is the fact that July precip. goes down by 20% and August by 5% really
+meaningful?
+-

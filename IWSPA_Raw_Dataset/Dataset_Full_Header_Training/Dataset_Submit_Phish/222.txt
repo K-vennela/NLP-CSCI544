@@ -1,0 +1,49 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [10.23.1.4])
+	by domain.com (Postfix) with ESMTP id 3C1CC536E32
+	for <user@domain.com>; Sun, 26 Dec 2015 11:05:38 -0500 (EST)
+Received: from domain.com (domain.com [64.94.171.112])
+	by domain.com (Postfix) with ESMTP id 3352685AE02
+	for <user@domain.com>; Sun, 26 Dec 2015 11:03:41 -0500 (EST)
+Received: by domain.com (Postfix)
+	id 924D8C0AD; Sun, 26 Dec 2015 11:05:37 -0500 (EST)
+Delivered-To: user@domain.com
+Received: from pa-217-129-62-73.netvisao.pt (pa-217-129-62-73.netvisao.pt [217.129.62.73])
+	by domain.com (Postfix) with SMTP
+	id 93E11C0A8; Sun, 26 Dec 2015 11:05:35 -0500 (EST)
+Received: from relay.netvisao.pt by pa-217-129-62-73.netvisao.pt with Microsoft SMTPSVC; Sun, 26 Dec 2015 08:44:32 -0600
+Received: from 17.210.3.19 by relay.netvisao.pt with SMTP id 6994698; Sun, 26 Dec 2015 08:44:00 -0600
+To: "User" <user@domain.com>
+Content-Type: text/html;
+	charset="ISO-8859-9";
+From: "Rochelle Vincent" <bhqeomteplfpyza@netvisao.pt>
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+Message-ID: <586368044889.20369.user@domain.com>
+Date: Sun, 26 Dec 2015 11:40:32 -0300
+Subject: Congratulations
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 59
+
+Sun, 26 Dec 2015 08:44:32 -0600
+
+Good Day:
+
+After viewing your record we are unable to     a p prove    your
+
+mor tga g e/ r e financ e    at the    r at e    of 3.00.  However we
+
+can give you  4.0 deal.
+
+If you are satisfied, then we will need you to
+
+verify some information 
+below.
+
+Thank you
+
+Rochelle Vincent

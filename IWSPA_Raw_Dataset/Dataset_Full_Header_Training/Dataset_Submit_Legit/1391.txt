@@ -1,0 +1,139 @@
+Received: from domain.com (146.215.230.103) by
+ domain.com (43.130.141.76) with Microsoft SMTP Server id
+ 8.3.342.0; Mon, 28 Apr 2015 06:01:39 -0700
+Received: from domain.com ([160.33.194.228])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s3SD1c2t026291	for <user@domain.com>; Mon, 28 Apr 2015 
+ 13:01:39 GMT
+Received: from mail52-va3-domain.com (mail-domain.com
+ [216.32.180.116])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s3SD2jwE015770
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Mon, 28 Apr 2015 13:02:46 GMT
+Received: from mail52-va3 (localhost [127.0.0.1])	by mail52-va3-domain.com
+ (Postfix) with ESMTP id 2CE87400F1	for <user@domain.com>; Mon, 28 Apr
+ 2015 13:01:38 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:198.31.62.42;KIP:(null);UIP:(null);IPV:NLI;H:domain.com;RD:domain.com;EFVD:NLI
+X-SpamScore: -1
+X-BigFish: vps-1(z3c7lze0eah77f5h195emzz2148h1ee6h1fdah2073h2146h1202h122fh2189h1d2ah1fc6h208chzz1de098h17326ah8275bh1de097h186068hz2fh1a31R839h93fhe5bh10d2h1288h12a5h12a9h12bdh137ah13b6h13eah1441h1537h153bh162dh1631h1758h18e1h1946h19b5h1b0ah224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1fe8h1ff5h2216h2336h2438h2461h2487h24d7h2516h2545h255eh25f6h2605h268bh26d3h1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail52-va3: domain of domain.com designates 198.31.62.42 as permitted sender) client-ip=198.31.62.42; user@domain.com; helo=domain.com ;domain.com ;
+Received: from mail52-va3 (localhost.localdomain [127.0.0.1]) by mail52-va3
+ (MessageSwitch) id 1398690095700249_2559; Mon, 28 Apr 2015 13:01:35 +0000
+ (UTC)
+Received: from domain.com (unknown [10.7.14.230])	by
+ mail52-domain.com (Postfix) with ESMTP id 95E52160179	for
+ <user@domain.com>; Mon, 28 Apr 2015 13:01:35 +0000 (UTC)
+Received: from domain.com (198.31.62.42) by
+ domain.com (10.7.99.16) with Microsoft SMTP Server id
+ 14.16.227.3; Mon, 28 Apr 2015 13:01:35 +0000
+Received: from [10.21.250.213] ([10.21.250.213:2703] helo=CORE17PUMPER1)	by
+ pc1udsmta1n22 (envelope-from
+ <user@domain.com>)
+	(ecelerity 2.2.2.45 r(34222M)) with ESMTP	id A7/6E-12320-E215E535; Mon, 28
+ Apr 2015 09:01:34 -0400
+Date: Mon, 28 Apr 2015 09:01:34 -0400
+Message-ID: <user@domain.com>
+X-DMHA-ID-Packet: Z4gvK5o622szTB0HWzQ53jhVN60QZD1jYlkOogSxWaJ4DQplKXYtClGQP7QEXW9es2khkV6Z9QI=
+From: =?utf-8?B?RWF0aW5nV2VsbCBTcGVjaWFsIE9mZmVycyAtIEVhdGluZ1dlbGwuY29t?=
+	<user@domain.com>
+Reply-To: =?utf-8?B?RWF0aW5nV2VsbCBTcGVjaWFsIE9mZmVycyAtIEVhdGluZ1dlbGwuY29tIA==?=
+	<user@domain.com>
+To: <user@domain.com>
+Subject: =?utf-8?B?Vm90ZSBOb3cgRm9yIGEgQ2hhbmNlIHRvIFdpbiAkMjUwIGluIEdyb2Nlcmll?=
+ =?utf-8?B?cw==?=
+Return-Path: 
+ user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+Can't see this email? Click Here
+
+<<link>>
+
+Dear domain.com Member:
+
+We're always searching for special offers to domain.com domain.com
+
+members. Here are some offers from our partners that we thought might
+
+interest you.
+
+LivingWell- Your Guide to Products, Promotions & Special Events
+
+Just BARE(R) Chicken +5 Ingredient Challenge
+
+10 NEW Chicken +5 Ingredient Recipes.
+
+Help Choose the Grand Champions.
+
+You Could Win $250 in Groceries.
+
+The final phase of the 2015 Chicken +5 Ingredient Challenge is up to
+
+you.  Ten great recipes are now online, and you can vote once a day
+
+for your favorite.  The five recipes with the highest culinary scores
+
+and popular votes will be named grand prize champions.  Each champion
+
+wins $1,500 in prizes, and you could be one of five people to win $250
+
+in groceries just for voting.  Vote now through May 5, 2014.
+
+Vote Now:
+
+<<link>>
+
+<<link>>
+
+<<link>>
+
+<<link>>
+
+<<link>>
+
+domain.com
+
+<<link>>
+
+for information on events and offers.
+
+Facebook:
+
+<<link>>
+
+Twitter:
+
+<<link>>
+
+Pinterest:
+
+<<link>>
+
+Your Privacy Guarantee
+
+Because we respect your online time and domain.com privacy, please be
+
+assured we will never share your e-mail address with third parties.
+
+For more information, see our Privacy Policy.
+
+Privacy Policy
+
+<<link>>
+
+Your Email:[user@domain.com] is in our mailing list. If you'd rather not
+
+receive special news and offers from us by e-mail, please go to
+
+<<link>>
+Please allow up to 10 days for your request to be processed.
+
+Meredith Corporation, 1716 Locust, Des Moines, IA 50309
+
+Meredith Corporation
+
+<<link>>
+

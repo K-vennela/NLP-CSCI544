@@ -1,0 +1,25 @@
+see inserts
+jfbmitchell@meto.gov.uk
+Hadley Centre for Climate Prediction and Research
+The Met. Office, Bracknell
+RG12 2SZ UK
+Tel +44 1344 856613/6656
+Fax+44 1344 856912
+[Mitchell, John FB]  3.471 in longwave, 3.26 when shortwave also
+taken into account. Unfortunately modellers do not always make clear how
+they have estimated their CO2 forcing.
+[Mitchell, John FB]  HadCM2 is 1%/year increase in CO2 which is only
+approximately equivalent to IS92a. Hadcm 3 is "95a" - in fact "95a" I think
+differs only from in the conversion of the 92a emissions to concentrations,
+so strictly speaking is not an emissions scenario. As far as I know, Tom
+never did explain why his concentrations in 1995 were different form the
+ones Jonathan and I derived using his 1992 model- I think CH4 liffetimes and
+the CO2 sink were the main factors. 
+[Mitchell, John FB]  See above - HadCM2 uses 1%/year increase in
+CO2, which gives a greater forcing than HadCM3, even after the effect of
+explicit trace gases is added in.
+(about 0.5Wm-2 by 2100). The greater climate sensitivity does not
+make as big a difference as one would expect. The difference in CO2 forcing
+per doubling is not the issue- the net forcing is, and that has ben
+calculated taking the difference in CO2 response into account
+M aybe I have misinterpreted something here. 

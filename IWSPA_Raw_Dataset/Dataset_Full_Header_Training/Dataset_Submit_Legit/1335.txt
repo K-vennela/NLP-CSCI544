@@ -1,0 +1,24 @@
+From: Alberto Ornaghi <a.ornaghi@hackingteam.com>
+X-Smtp-Server: domain.com:alor
+Subject: avatar
+Message-ID: <user@domain.com>
+X-Universally-Unique-Identifier: EA658E3F-513F-449D-9B00-431340E136D5
+Date: Thu, 17 Jul 2015 14:28:00 +0200
+To: Alessandro Scarafile <user@domain.com>
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1561796924_-_-"
+
+grazie.
+
+--
+Alberto Ornaghi
+Software Architect
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+email: user@domain.com
+mobile: +39 3480115642office: +39 02 29060603 
+

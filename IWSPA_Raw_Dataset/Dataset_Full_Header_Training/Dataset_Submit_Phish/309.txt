@@ -1,0 +1,83 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.4.9])
+	by domain.com (Postfix) with ESMTP id 4E791468D8
+	for <user@domain.com>; Thu, 12 Apr 2015 23:12:14 -0400 (EDT)
+Received: from domain.com (domain.com [152.160.49.201])
+	by domain.com (Postfix) with ESMTP id 4AE82131FB40
+	for <user@domain.com>; Thu, 12 Apr 2015 23:12:14 -0400 (EDT)
+Received: by domain.com (Postfix, from userid 1026)
+	id 44EB4468DB; Thu, 12 Apr 2015 23:12:14 -0400 (EDT)
+Received: from localhost (localhost [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 41BB4468D8
+	for <user@domain.com>; Thu, 12 Apr 2015 23:12:14 -0400 (EDT)
+X-Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+X-Delivered-To: user@domain.com
+X-Received: from domain.com (domain.com [192.168.4.9])
+	by domain.com (Postfix) with ESMTP id 31873468D6
+	for <user@domain.com>; Wed, 11 Apr 2015 15:18:34 -0400 (EDT)
+X-Received: from domain.com.tw (unknown [203.70.207.59])
+	by domain.com (Postfix) with ESMTP id E2C8F131FC28
+	for <user@domain.com>; Wed, 11 Apr 2015 15:18:33 -0400 (EDT)
+X-Received: by domain.com.tw (Postfix, from userid 511)
+	id B87BCF3A4; Thu, 12 Apr 2015 00:20:36 +0800 (CST)
+X-Received: from User (unknown [12.38.252.212])
+	by domain.com.tw (Postfix) with ESMTP
+	id 55111F3A0; Thu, 12 Apr 2015 00:19:50 +0800 (CST)
+From: "aw-confirm@ebay.com" <aw-confirm@ebay.com>
+Subject: eBay New Unpaid Item Message from selectiveseating:
+Date: Wed, 11 Apr 2015 13:21:36 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20070411161950.55111user@domain.com>
+To: undisclosed-recipients: ;
+ReSent-Date: Thu, 12 Apr 2015 23:12:10 -0400 (EDT)
+ReSent-From: "aw-confirm@ebay.com" <aw-confirm@ebay.com>
+ReSent-To: user <user@domain.com>
+ReSent-Subject: eBay New Unpaid Item Message from selectiveseating:
+ReSent-Message-ID: <user@domain.com>
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1116
+
+Dear Amazon® member, 
+
+We are contacting you to inform you that our Account Review Team identified 
+  some unusual activity in your account. In accordance with Amazon's User Agreement 
+  and to ensure that your account has not been compromised, access to your account 
+  was limited. Your account access will remain limited until this issue has been 
+  resolved. To secure your account and quickly restore full access, we may require 
+  some additional information from you for the following reason: We have been 
+  notified that a card associated with your account has been reported as lost 
+  or stolen, or that there were additional problems with your card. 
+
+  This process is mandatory, and if not completed within the nearest time your 
+  account or domain.com card may be subject for temporary suspension.
+
+  To securely confirm your Amazon information please click on the link bellow: 
+
+ <<link>> 
+We encourage you to log in and perform the steps necessary to restore your 
+  account access as soon as possible. Allowing your account access to remain limited 
+  for an extended period of time may result in further limitations on the use 
+  of your account and possible account closure. 
+For more information about how to protect your account please domain.com Amazon 
+  Security Center. We apologize for any incovenience this may cause, and we apriciate 
+  your assistance in helping us to maintain the integrity of the entire Amazon 
+  system. 
+Thank you for using Amazon! 
+
+  The Amazon Team
+
+
+
+         Privacy Notice © 1995-2007, domain.com,    Inc. or its affiliates. 

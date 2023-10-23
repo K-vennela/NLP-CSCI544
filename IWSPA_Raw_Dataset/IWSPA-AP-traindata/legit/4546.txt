@@ -1,0 +1,100 @@
+Dear Friends,
+A few remarks before the meeting of tonight and tomorrow,
+I am sure that our meeting  will make clearer the different objectives of
+ECF, in particular regarding the articulation between the scientific agenda
+and activities in direction to stakeholders and policy-makers.
+I would like to stress that I will attend the ECF meeting not only in the
+name of the Cired, but also in view of preparing the involvment of the
+Institut Laplace in ECF, namely the community of climate modellers, with
+which we develop a long term research program. I would like to explain
+hereafter in a few words what should be, in my view the priorities of ECF,
+in terms of scientific agenda:
+Given recent Ipcc experience, the first priority would be to progress in
+direction to integrated models. Indeed the lessons of the Ipcc are twofold: 
+- first the Sress scenarios confirm the possibility of generating very
+different emissions growth scenarios over the long run, but the consistency
+between the Storylines and the numerical scenarios remain uncertain; this
+uncertainty and vagueness reveals a more fundamental limitation of the
+state of the art of economic modelling over the long run, in particular to
+provide an explicit picture of linkages between structural changes
+(infrastructure transportation, urban forms that govern the energy content
+of final consumption, industrial structure and the so-called
+dematerialisation), innovation and both macro and micro economic drivers
+(productivity, growth and price-signals). This makes very difficult to
+detect where are the real bifurcations, the real policy-parameters and to
+make much progress in the understanding of the timing of policy responses, 
+- second the sections on 'damages ' have make some progress but remain
+weak in terms of the social and economic implications. More precisely they
+deal mostly with impacts on physical parameters (sea-level rise), in a few
+cases adress impacts on humans (tropical diseases),   but all this does not
+give a comprehensive picture of social and economic damages (once
+discounted the effect of adapatation),
+One of the scientific objective of ECF should be to be prepared to provide
+in a few years for a convincing contribution in future exercises like the
+SRES and in the future Ipcc rounds. This passes first through two parallel
+efforts:
+- on long term economic modelling where the limitations of existing tools
+are obvious depiste real progress; this relates basically to three
+challenges: 
+- a macroeconomic framework insuring the consistency between prices and
+quantities at any point in time without necessarily resorting to the
+modelling tricks relying on the conventional neo-classical growth theory;
+these 'tricks' assume indeed perfect foresight, efficient markets and the
+absence of strategic or routine behaviours; New conceptual frameworks about
+endogenous growth theory allow for such a move, but there is a gap between
+advances in pure theory and empirical modelling,
+- the endogeneisation of technical change and more precisely to develop
+this endogeneisation in such a way that the information coming from
+sectoral models in energy, transportation or agriculture is not lost (this
+comes back to the bottom-up/top-down controversy); note that one key
+challenge here is to progress in direction to transportation and agriculture
+-  an explicit treatment of expectations and uncertainty; one key issue
+indeed is that the stabilisation of expectations over the long run is the
+main driver of technical change, consumption patterns and structural
+adaptation.
+- on 'coupling' economic and climate models: here there are two routes,
+either to develop coupling methods between large-scale models or to develop
+interface compact modules, reduced forms of large scale models. Both routes
+are valid, however, in the following years, to develop integrated models
+made up with reduced forms of larger models seems more promising; thanks to
+tractable and numerically controlable models, in will be easier to reveal
+the key mechanisms at work and to introduce uncertainties. This will pass
+through progress in the representation of carbon cycle (including
+sequestration) in such models and, more importantly in the representation
+of damages and adaptation, which rises rather fundamental conceptual issues
+that explain what seems to be the second priority in my view.
+The second prority relates to the joint question of damages and
+precautionary principle:
+- part of the agenda is covered by Mike Hulme's paper and I will not
+elaborate here on other dimensions I would link to include and how to
+assess a cost. I will simply insist of the fact that we need to set up a
+taxonomy of damages in economic terms, this means as resulting not of the
+climate transformation per se but from the joint effect of inertia and
+uncertainty (to pass to Riviera to the beaches of Normandy in not a cost in
+itself in a world restabilized around a new climate equilibrium; what
+matter are the transition costs and the generated variability of climate).
+Moreover I would insist for adopting deliberately a worldview because,
+fundamentally, climate change will generate a new human geography, and not
+to be restricted to the European subcontinent,
+- this should lead to develop in parallel stochastic decision modelling
+tools to disentangle the many dimensions and views about the precautionary
+principle and, I take some risks in saying that, in a symmetric treatment
+of climate damages and nuclear risks (we cannot avoid to try and put some
+rationale in this discussion which is one of the reason for the failure of
+the EU tax in 1992 and of COP6, and which will be an 'hidden' division line
+within the EU)
+The third priority should be the topic 1 made by Klaus. For me the two
+first modelling efforts I described briefly are outmostly important to
+bring new insights for responding the question of the instruments. However,
+we have, before waiting for the acheivement of a new generation of models
+(which will respond to point 2 and 3 of Klaus's paper), it matters to
+develop in parallel a specific programm on international coordination
+architecture given the failure of COP6 and the lack of understanding of
+economic and social implications of the selection of this architecture
+(coordination through prices or quantities, full agreement or partial
+expanding coalition, issue linkages, perceived equity etc ....). This
+workprogramm should build on advances on the role of economic and non
+economic instruments in fostering innovation, and on the distributive
+static and dynamic implications of such instruments.
+These are very brief remarks, simply to give you some ideas about my
+current perspectives.

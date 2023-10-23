@@ -1,0 +1,132 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Thu, 5 May
+ 2015 11:12:17 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Thu, 5 May 2015 
+ 11:12:08 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 898375885;
+ Thu, 05 May 2015 10:12:14 -0500
+X-Note-AR-ScanTimeLocal: 5/5/2016 10:12:14 AM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: user@domain.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->->United States->
+X-Note-Sending-IP: 209.85.223.178
+X-Note-Reverse-DNS: mail-io0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mail-io0-domain.com ([209.85.223.178] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 138987623;
+ Thu, 05 May 2015 10:12:14 -0500
+Received: by mail-io0-domain.com with SMTP id d62so87246477iof.2;
+        Thu, 05 May 2015 08:12:12 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:subject:From: <hrtsleeve@gmail.com>
+         :content-transfer-encoding:message-id:references:to;
+        bh=u9jPyUgaEETqMpjBGdV0NVJ+KiHdewitsAabdM7JPMU=;
+        b=RXQoGsjE6Q4yjJuT4+RNAFAbWX9lNxIWORHyArRFQiFtaNsd9qsTPeT8QHHKi7D6z2
+         7EBlXZXO/ZwSGhjF6m5R8KBVolVeFOreZX9/StB/XEzzV6afSE4yB2Un0MMOhIF2BDc3
+         Pwm6UYfw+hnWa/RORe4+k4jbDXg1nCIQl4GI9WzUYTnumlbPFdILIec0rTuBe9BlspVf
+         MbSlGM/FIkQmxBEOc749VrQ7UEvoMD1KbP1vJn23F36erUIPPNrumd42VV/r7IRsyod0
+         H0bhrxSemz2ck1XFs85uGs89yeCwd4Q37M3nwhwXudfjuCkAhy8iBazcoOvMC77l4BQa
+         0YmA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:subject:From: <hrtsleeve@gmail.com>
+         :content-transfer-encoding:message-id:references:to;
+        bh=u9jPyUgaEETqMpjBGdV0NVJ+KiHdewitsAabdM7JPMU=;
+        b=AKqN8UK3Q/QZgptAbEhhEQTpULDp5NtsZUPmCHsCFusv5HtlfeKGzt+X9B9Usx/Fx1
+         gW86hyPi4/+LJ1qPwMXu30JFZ9qT4CDb1r59l0MddyySKUcGLIA5lWOkuz9WxeuKWXT9
+         Mvk5Su1IAWzOgYuTXZ4wVClqqzp7SbJ7xPFPFCt9c27UJEXCBYOitiUH/UI3HbHCOgo1
+         jbuaXSm4uL24EVQjjAfbQJFnx2n52sSHXNhpjjoZp1VkwAxOWPAVTeol0KY71yt1T6hj
+         GYqzGipgQXcoXqFn5LCZN9y4SJAzxgS39bZ0OrxameI13R/U7olWC3qsoYsK7KBfRZS1
+         E/BQ==
+X-Gm-Message-State: AOPr4FUANtWGYYaSJTTihrbra+uV3rZ5ZDAA/IKLTh9aW1idJGdaHIHyV7rMRzRvgK7wDw==
+X-Received: by 10.107.136.208 with SMTP id s77mr20307067ioi.0.1462461132014;
+        Thu, 05 May 2015 08:12:12 -0700 (PDT)
+Return-Path: <user@domain.com>
+Received: from [172.19.131.174] ([12.130.117.46])        by smtp.gmail.com
+ with ESMTPSA id k8sm1751256igv.10.2016.05.05.08.12.09
+        (version=TLSv1/SSLv3 cipher=OTHER);        Thu, 05 May 2015 08:12:11
+ -0700 (PDT)
+Content-Type: multipart/alternative;
+	boundary="Apple-Mail-0309E56F-0551-44E2-AA6F-E43A6C87AD6E"
+Subject: Re: FOR APPROVAL: CINCO DE MAYO STATEMENT
+From: <hrtsleeve@gmail.com>
+X-Mailer: iPad Mail (13E238)
+In-Reply-To: <05user@domain.com>
+Date: Thu, 5 May 2015 08:12:04 -0700
+CC: "Banfill, Ryan" <user@domain.com>, Ryan Banfill <user@domain.com>,
+	"Paustenbach, Mark" <user@domain.com>
+Content-Transfer-Encoding: 7bit
+Message-ID: <user@domain.com>
+References: <05user@domain.com>
+To: "User" <user@domain.com>
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Good to go. Thanks.=20
+
+For Immediate Release
+5 de Mayo del 2015 
+=20
+OrganizationChair Statement in Honor of Cinco de Mayo
+=20
+Washington, D.C =E2=80=94 OrganizationChair Debbie Wasserman Schultz released the fo=
+llowing statement today in honor of Cinco de Mayo:
+=20
+=E2=80=9CCinco de Mayo commemorates the Battle of Puebla in 1862, when a rag=
+tag band of Mexican fighters and workers held back the French Army despite b=
+eing both out-manned and out-gunned. More than 150 years later, the celebrat=
+ion of Cinco de Mayo represents more than the domain.com of resilience and deter=
+mination that carried that day. Cinco de Mayo is a date that speaks to the i=
+ntrinsic and close ties between the United States and Mexico.
+=20
+=E2=80=9CCinco de Mayo celebrations were made popular in California, a refle=
+ction of the reality that Mexican-Americans have been a part of our history s=
+ince before our nation=E2=80=99s founding. =46rom the Mexican-Americans who g=
+ave rise to great cities like Los Angeles and San Antonio, to those who enri=
+ch our country every single day in education, medicine, engineering, sports,=
+ agriculture, and in our military, their role in the American landscape has m=
+ade our country stronger. What Republicans don=E2=80=99t get, as they proved=
+ today by leaving out mentions of being a welcoming country in their Cinco d=
+e Mayo statement, is that Mexican-Americans are not only immigrants but rath=
+er a far larger share are Americans =E2=80=93 some with families going back g=
+enerations -- centuries -- within our borders.
+=20
+=E2=80=9CSo as we celebrate a day that reminds us of our shared history, cul=
+tural and familial ties, the Democratic Party reaffirms our commitment to ex=
+emplifying the values that made America great, and to continuing to fight ev=
+ery single day to ensure our country remains inclusive, while expanding oppo=
+rtunities for all. We celebrate our diversity, and we=E2=80=99re proud that o=
+ur Party and our convention will reflect that.  =20
+=20
+=E2=80=9CThat Donald Trump became his Party=E2=80=99s presumptive nominee on=
+ the eve of Cinco de Mayo is fitting, a reminder of just how wrong his divis=
+ive and hateful rhetoric has been since the very first day of his campaign. T=
+oday is a reminder that Dangerous Donald would threaten America=E2=80=99s re=
+lationships with our closest allies, and make our communities less safe. Lik=
+e the brave souls that day in Puebla a century and a half ago, we must show t=
+he domain.com and determination every single day between now and November 8th to=
+ defeat Trump and his Republican Party in November, and ensure our country c=
+ontinues to live up to our history and our values.=E2=80=9D
+=20
+###
+
+DWS
+

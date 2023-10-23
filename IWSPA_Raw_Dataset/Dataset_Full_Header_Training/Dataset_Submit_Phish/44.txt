@@ -1,0 +1,126 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id 2C72846B15
+	for <user@domain.com>; Tue, 21 Aug 2015 22:05:42 -0400 (EDT)
+Received: from domain.com (bio.hgy.es [193.146.180.21])
+	by domain.com (Postfix) with ESMTP id 0C3D0131FB1A
+	for <user@domain.com>; Tue, 21 Aug 2015 22:05:40 -0400 (EDT)
+Received: by domain.com (Postfix)
+	id 8788C1C463; Wed, 22 Aug 2015 04:05:33 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [193.146.180.90])
+	by domain.com (Postfix) with ESMTP id 21F081C025
+	for <user@domain.com>; Wed, 22 Aug 2015 04:05:33 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 037BA8F3
+	for <user@domain.com>; Wed, 22 Aug 2015 04:05:33 +0200 (CEST)
+X-Quarantine-ID: <T4vfc0VPwgV1>
+X-Virus-Scanned: Debian amavisd-new at domain.com
+X-Spam-Flag: YES
+X-Spam-Score: 20.091
+X-Spam-Level: ********************
+X-Spam-Status: Yes, score=20.091 tagged_above=0 required=5 tests=[AWL=4.597,
+	BAYES_99=3.5, DNS_FROM_RFC_ABUSE=0.2, FORGED_MUA_OUTLOOK=4.056,
+	FORGED_OUTLOOK_HTML=2.713, FORGED_OUTLOOK_TAGS=2.492,
+	HTML_MESSAGE=0.001, HTML_MIME_NO_HTML_TAG=1.082, MIME_HTML_ONLY=0.001,
+	NORMAL_HTTP_TO_IP=0.175, UNDISC_RECIPS=0.841, X_PRIORITY_HIGH=0.433]
+Received: from domain.com ([193.146.180.21])
+	by localhost (domain.com [193.146.180.108]) (amavisd-new, port 10024)
+	with ESMTP id T4vfc0VPwgV1 for <user@domain.com>;
+	Wed, 22 Aug 2015 04:05:32 +0200 (CEST)
+Received: from lon-domain.com (lon-domain.com [217.154.246.189])
+	by domain.com (Postfix) with ESMTP id 2BCB51C025
+	for <user@domain.com>; Wed, 22 Aug 2015 04:05:29 +0200 (CEST)
+Received: from [217.154.72.124] (helo=premier-electrical-ltd.co.uk)
+	by lon-domain.com with esmtp (Exim 4.51)
+	id 1INfTk-0002tg-UK; Wed, 22 Aug 2015 02:57:53 +0100
+Received: from User ([217.34.235.57]) by premier-electrical-ltd.co.uk with Microsoft SMTPSVC(6.0.3790.1830);
+	 Wed, 22 Aug 2015 03:01:38 +0100
+From: "eBay Member" <messages@ebay.com>
+Subject: ***SPAM*** Question from eBay Member -- Respond Now
+Date: Wed, 22 Aug 2015 02:54:35 +0100
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <user@domain.com>
+X-OriginalArrivalTime: 22 Aug 2015 02:01:38.0781 (UTC) FILETIME=[605958D0:01C7E460]
+To: undisclosed-recipients: ;
+Content-Length: 11622
+Lines: 202
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 56
+
+Question from eBay Member -- Respond Now
+
+eBay sent this message on behalf of an eBay member via My Messages. Responses sent using email will go to the eBay member directly and will include your email address. Click the 
+Respond Now button below to send your response via My Messages (your email address will not be included). 
+
+ Question from whatdadealiz 
+
+Item: (7713864284)
+
+whatdadealiz is a potential buyer.
+
+Hi there, when did you send me a message and what is it about? BTW, I don't like your tone. Please don't do that to me. I can report you as well, remember? Respond to my question AS SOON AS POSSIBLE 
+
+Original message: 
+Why don't you answer to my emails!!! If you don't Respond Now I will contact eBay safe harbor and report you ! Let me know, I am not a fool ! Thank you ! ! 
+
+Respond to this question in My Messages. 
+
+Item Details 
+
+
+
+
+Item number: 
+7713864284 
+
+End date: 
+03-Aug-07 13:17:42 BST 
+
+View item description:
+
+<<link>>:B:AAQ:UK:1
+
+Thank you for using eBay
+
+www.ebay.com/
+
+Marketplace Safety Tip 
+
+Always remember to complete your transactions on eBay - it's the safer way to trade.
+
+Is this message an offer to buy your item directly through email without winning the item on eBay? If so, please help make the eBay marketplace safer by reporting it to us. These external transactions may be unsafe and are against eBay policy. 
+Learn more about trading safely. 
+
+Is this email inappropriate? Does it breach 
+eBay policy? Help protect the community by 
+reporting it. 
+
+Learn how you can protect yourself from spoof (fake) emails at:
+
+<<link>> 
+
+Policy. If you would like to receive this email in text format, change your notification preferences. 
+
+See our Privacy Policy and User Agreement if you have questions about eBay's communication policies.
+Privacy Policy: 
+<<link>>
+User Agreement: 
+<<link>> 
+
+Copyright  2007 eBay, Inc. All Rights Reserved.
+Designated trademarks and brands are the property of their respective owners.
+eBay and the eBay logo are registered trademarks or trademarks of 
+eBay, Inc.
+

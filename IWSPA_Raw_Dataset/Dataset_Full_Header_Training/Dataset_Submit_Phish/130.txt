@@ -1,0 +1,86 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id E1E5A468CF
+	for <user@domain.com>; Fri, 10 Aug 2015 03:22:05 -0400 (EDT)
+Received: from domain.com (bio.hgy.es [193.146.180.21])
+	by domain.com (Postfix) with ESMTP id 3FBFD131FB98
+	for <user@domain.com>; Fri, 10 Aug 2015 03:22:05 -0400 (EDT)
+Received: by domain.com (Postfix)
+	id 10FE91C3DB; Fri, 10 Aug 2015 09:21:59 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [193.146.180.90])
+	by domain.com (Postfix) with ESMTP id 923DE1C38E
+	for <user@domain.com>; Fri, 10 Aug 2015 09:21:58 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 805D38C8
+	for <user@domain.com>; Fri, 10 Aug 2015 09:21:58 +0200 (CEST)
+X-Quarantine-ID: <MYysKGvCTE-D>
+X-Virus-Scanned: Debian amavisd-new at domain.com
+X-Spam-Flag: YES
+X-Spam-Score: 36.179
+X-Spam-Level: ************************************
+X-Spam-Status: Yes, score=36.179 tagged_above=0 required=5 tests=[AWL=-0.925,
+	BAYES_99=3.5, DATE_IN_PAST_06_12=0.827, DNS_FROM_RFC_ABUSE=0.2,
+	FORGED_MUA_OUTLOOK=4.056, FORGED_OUTLOOK_HTML=2.713,
+	FORGED_OUTLOOK_TAGS=2.492, HTML_MESSAGE=0.001,
+	HTML_MIME_NO_HTML_TAG=1.082, MIME_HTML_ONLY=0.001,
+	MSGID_FROM_MTA_ID=1.393, RAZOR2_CF_RANGE_51_100=0.5,
+	RAZOR2_CF_RANGE_E4_51_100=1.5, RAZOR2_CF_RANGE_E8_51_100=1.5,
+	RAZOR2_CHECK=12, UNDISC_RECIPS=0.841, URIBL_SC_SURBL=4.498]
+Received: from domain.com ([193.146.180.21])
+	by localhost (domain.com [193.146.180.108]) (amavisd-new, port 10024)
+	with ESMTP id MYysKGvCTE-D for <user@domain.com>;
+	Fri, 10 Aug 2015 09:21:53 +0200 (CEST)
+Received: from 246810.com (246810.com [82.165.239.140])
+	by domain.com (Postfix) with ESMTP id ED9511BEEE
+	for <user@domain.com>; Fri, 10 Aug 2015 09:21:52 +0200 (CEST)
+Received: (qmail 28984 invoked from network); 8 Aug 2015 20:54:30 -0700
+Received: from adsl-75-48-109-85.domain.com (HELO User) (75.48.109.85)
+  by u15185395.onlinehome-domain.com with SMTP; 8 Aug 2015 20:54:30 -0700
+Reply-To: <user@domain.com>
+From: "eBay Member" <aw-confirm@ebay.com>
+Subject: ***SPAM*** eBay Email Confirmation - Response Required
+Date: Thu, 9 Aug 2015 17:04:13 -0700
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20070810072152.user@domain.com>
+To: undisclosed-recipients: ;
+Content-Length: 6219
+Lines: 13
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 9
+
+            eBay sent this message   to eBay Member.
+
+For security reasons your registered name and email is not included. Learn more. 
+      eBay  Email Confirmation - Response Required             
+           Dear eBay member,      To confirm your email address on file at eBay, just click the button to the right:  You can also copy and paste the following link into your web browser: 
+<<link>>
+
+  If you need additional help, contact eBay's Customer Support by typing in or copying and pasting this link into your web browser: 
+<<link>> 
+Thank you,
+eBay       Complete this process    
+    This will confirm to eBay that your email is working.             Learn how you can protect yourself from spoof (fake) emails at: 
+<<link>>
+
+If you would like to receive this email in text format, change your notification preferences. 
+
+See our Privacy Policy and User Agreement if you have questions about eBay's communication policies. 
+Privacy Policy: <<link>>
+User Agreement: <<link>>
+
+Copyright  2006-2007 eBay, Inc. All Rights Reserved.
+Designated trademarks and brands are the property of their respective owners.
+eBay and the eBay logo are registered trademarks or trademarks of eBay, Inc.
+

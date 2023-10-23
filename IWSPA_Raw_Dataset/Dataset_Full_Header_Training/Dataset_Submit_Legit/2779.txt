@@ -1,0 +1,59 @@
+Received: from domain.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Sat, 11 Jan 2015 19:10:51 +0100
+Received: from domain.com (unknown [192.168.100.50])	by
+ domain.com (Postfix) with ESMTP id DB49E6002C	for
+ <user@domain.com>; Sat, 11 Jan 2015 18:04:04 +0000 (GMT)
+Received: by domain.com (Postfix)	id BE3EB2BC1F0; Sat, 11 Jan 2015 
+ 19:10:51 +0100 (CET)
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.100.25])
+	by domain.com (Postfix) with ESMTP id B31202BC1EE	for
+ <user@domain.com>; Sat, 11 Jan 2015 19:10:51 +0100 (CET)
+X-ASG-Debug-ID: 1389463848-066a753dba213f0001-wzf8oX
+Received: from [2.178.77.205] ([2.178.77.205]) by domain.com with
+ ESMTP id yER51F2ZhSXnGagM for <user@domain.com>; Sat, 11 Jan 2015 
+ 19:10:49 +0100 (CET)
+X-Barracuda-Envelope-From: "Indeed, the whole process of immigration is something the Republican
+X-Barracuda-Apparent-Source-IP: 2.178.77.205
+Received: from AL-F6D301D4F803 ([2.178.77.205:32072] helo=[2.178.77.205])	by
+ zHmDfJsC.AL-F6D301D4F803 (envelope-from <user@domain.com>)
+	(ecelerity 3.3.2.44647 r(44647)) with ESMTP	id 40/50-27641-4ECCC626; Sat, 11
+ Jan 2015 22:40:35 +0430
+From: "Indeed, the whole process of immigration is something the Republican
+ Party should embrace." <user@domain.com>
+To: <user@domain.com>
+Subject: Slavic is easily reconstructible with important proofs in historic prosody.
+Date: Sat, 11 Jan 2015 22:40:34 +0430
+X-ASG-Orig-Subj: Slavic is easily reconstructible with important proofs in historic prosody.
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Windows Mail 6.0.6002.18005
+X-Barracuda-Connect: UNKNOWN[2.178.77.205]
+X-Barracuda-Start-Time: 1389463848
+X-Barracuda-URL: <<link>>:8000/cgi-mod/mark.cgi
+X-Virus-Scanned: by bsmtpd at domain.com
+X-Barracuda-BRTS-Status: 1
+X-Barracuda-Spam-Score: 0.74
+X-Barracuda-Spam-Status: No, SCORE=0.74 using global scores of TAG_LEVEL=3.5 QUARANTINE_LEVEL=1000.0 KILL_LEVEL=8.0 tests=BSF_SC0_TG035a, BSF_SC5_MJ1963, HTML_MESSAGE, MISSING_MID, RDNS_NONE
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.2.143977
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.14 MISSING_MID            Missing Message-Id: header
+	0.00 HTML_MESSAGE           BODY: HTML included in message
+	0.00 BSF_SC0_TG035a         Message contains invalid style definition
+	0.10 RDNS_NONE              Delivered to trusted network by a host with no rDNS
+	0.50 BSF_SC5_MJ1963         Custom Rule MJ1963
+Message-ID: <20140111181051.user@domain.com>
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1142841993_-_-"
+
+New Mexico in 1678.
+Residents of the Oregon Territory saw the coming of the steamboats as a mark of progress.
+In the epilogue, Andi is living in France with her mother, who has gotten over her own depression with help. Declared in 1970 by law.

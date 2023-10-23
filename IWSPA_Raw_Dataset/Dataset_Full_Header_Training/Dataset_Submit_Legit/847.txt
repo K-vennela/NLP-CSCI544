@@ -1,0 +1,91 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Fri, 6 May
+ 2015 14:52:58 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Fri, 6 May 2015 
+ 14:52:57 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 901248294
+ for user@domain.com; Fri, 06 May 2015 13:53:01 -0500
+X-Note-AR-ScanTimeLocal: 5/6/2016 1:53:00 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:209.85.161.182 DOM:gmail.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-275/SG:5 5/6/2016 1:52:36 PM
+X-GBUdb-Analysis: Unknown
+X-Signature-Violations: 0-0-0-22917-c
+X-Note-419: 15.6376 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/6/2016 1:52:57 PM
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 209.85.161.182
+X-Note-Reverse-DNS: mail-yw0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G407 G675 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from mail-yw0-domain.com ([209.85.161.182] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 137519450
+ for user@domain.com; Fri, 06 May 2015 13:53:00 -0500
+Received: by mail-yw0-domain.com with SMTP id t10so228180216ywa.0
+        for <user@domain.com>; Fri, 06 May 2015 11:52:57 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=From: Anastasia dellaccio <anastasiadellaccio@gmail.com>
+         :references:in-reply-to:to;
+        bh=ztmdAfdHHieT6EVpn8Sd7qxAd7R0YkxLRnKh4qhH0Sc=;
+        b=enPVhOEKI7AAfnqmqqXHZwLQPVht1JncGDp8ENlInDInOuR0c7LQxSErnTvx4sjgez
+         nLiDtjWGjwGMzINjrGGt32IwoubmWfkmMSSx19b9K2r3ISgM24gMKBfxDAa5ImQ0J7HM
+         +Kjb2dnXgXgqCGwafTlKYczhlWiqdCrboAJb8+scNTo89/rSu6NFdICpGju37y2IFFA9
+         ONmRHycEeGcVea5JIm4dPhknzcBcZc5WMyE/mZihpxgCUtvKInEbjZopLpPuHMQS1iyW
+         dAd+3KLxym4COvVWj/W5kL76m42DRAxGnJKz+FlqWXvVvv2xrUao8Jm2hIiz5XUIJrI/
+         RD+w==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:From: Anastasia dellaccio <anastasiadellaccio@gmail.com>
+         :subject:message-id:date:references:in-reply-to:to;
+        bh=ztmdAfdHHieT6EVpn8Sd7qxAd7R0YkxLRnKh4qhH0Sc=;
+        b=K4INFMQQzPXWTdk/J5RXpgQ2ADouML6HL+PRPcVRbPYaRdNttKPfb/r3EoDR8OiXru
+         DJnKAzptY0wY/bKf9UAAQsoNZ/uqMxjp1Uxo9FZfcJaALoFASYSgJbakuFBEN957IdWe
+         0Sjys+tZ4aAG9WwKu7NqYLLtism0ji1rJLLXw26icX9I+H5ZZZffRWCId7LYhf3836Yh
+         VS/UyialW+rdCs8f4b1WcdbPzPNFp9fZA7zfdXsBkFJKjwE4IPjaicTSR659ahleaRCN
+         +e6XbMZFFK2TwofnJ50UZCyZza03Jl5tsgOECqzyG27whkJW9RwEWUWc0iOgnzxUN3N4
+         gaDQ==
+X-Gm-Message-State: AOPr4FVtVrr3DLvsFpwxHVLVQEy8yIJuIqhVwr6B7LZHp+b7M9ZR1R4zPCTuaf17OdE+/g==
+X-Received: by 10.13.200.1 with SMTP id k1mr15109155ywd.141.1462560776764;
+        Fri, 06 May 2015 11:52:56 -0700 (PDT)
+Return-Path: <user@domain.com>
+Received: from ?IPv6:2600:1003:b02c:a04f:71ac:b42a:2d30:811c?
+ ([2600:1003:b02c:a04f:71ac:b42a:2d30:811c])        by smtp.gmail.com with
+ ESMTPSA id i67sm9553067ywf.34.2016.05.06.11.52.55        for
+ <user@domain.com>        (version=TLSv1/SSLv3 cipher=OTHER);        Fri, 06
+ May 2015 11:52:56 -0700 (PDT)
+From: Anastasia dellaccio <anastasiadellaccio@gmail.com>
+Content-Type: multipart/alternative;
+	boundary="Apple-Mail-92F5EDC8-BF2C-4D87-A6F7-264611A14065"
+Content-Transfer-Encoding: 7bit
+Subject: Re: Talkers Call tomorrow @ 2:00 PM ET - State of the Race and the GOP's Presumptive Nominee
+Message-ID: <38user@domain.com>
+Date: Fri, 6 May 2015 14:52:55 -0400
+References: <user@domain.com> <user@domain.com> <05user@domain.com> <user@domain.com> <05user@domain.com>
+In-Reply-To: <05user@domain.com>
+To: "User" <user@domain.com>
+X-Mailer: iPhone Mail (13E238)
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Ok! I may just send the national secure points.
+
+Thanks it was great I am glad I joined as well
+
+Sent from my iPhone
+

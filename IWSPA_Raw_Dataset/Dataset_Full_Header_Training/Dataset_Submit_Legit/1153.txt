@@ -1,0 +1,83 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 27 Apr
+ 2015 18:03:21 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 27 Apr 2015 
+ 18:03:14 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 884005937
+ for user@domain.com; Wed, 27 Apr 2015 17:03:22 -0500
+X-Note-AR-ScanTimeLocal: 4/27/2016 5:03:22 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:163.231.6.26 DOM:thomsonreuters.com ADDR:user@domain.com
+X-Note: SPF: None
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-235/SG:5 4/27/2016 5:02:33 PM
+X-GBUdb-Analysis: 0, 163.231.6.26, Ugly c=0.572234 p=-0.930233 Source Normal
+X-Signature-Violations: 0-0-0-5932-c
+X-Note-419: 0 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 4/27/2016 5:03:13 PM
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->United States->United States->
+X-Note-Sending-IP: 163.231.6.26
+X-Note-Reverse-DNS: mailout2-trp.thomsonreuters.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from mailout2-trp.thomsonreuters.com ([163.231.6.26] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 135789831
+ for user@domain.com; Wed, 27 Apr 2015 17:03:22 -0500
+Received: from domain.com (relay2 [163.231.22.113])	by
+ mailout2-trp.thomsonreuters.com (Sentrion-MTA-4.3.1/Sentrion-MTA-4.3.1) with
+ ESMTP id u3RM3Jw3010080	(version=TLSv1.2 cipher=ECDHE-RSA-AES256-GCM-SHA384
+ bits=256 verify=FAIL)	for <user@domain.com>; Wed, 27 Apr 2015 22:03:19 GMT
+Received: from EAGF-domain.com (xch2 [163.231.23.9])	by
+ domain.com (Sentrion-MTA-4.3.1/Sentrion-MTA-4.3.1)
+ with ESMTP id u3RM3GUJ012329	(version=TLSv1 cipher=AES128-SHA bits=128
+ verify=FAIL)	for <user@domain.com>; Wed, 27 Apr 2015 22:03:19 GMT
+Received: from domain.com ([fe80::7c56:4634:bc1a:dbdd]) by
+ EAGF-domain.com ([fe80::c833:49ed:82c8:5c0b%16]) with mapi id
+ 14.03.0235.001; Wed, 27 Apr 2015 17:03:07 -0500
+From: <Luciana.lopez@thomsonreuters.com>
+To: <user@domain.com>
+Subject: Are you guys...
+Thread-Topic: Are you guys...
+Thread-Index: AdGg0JOdKb+n94R7TiOU0eLZ2YYKSQ==
+Date: Wed, 27 Apr 2015 22:03:06 +0000
+Message-ID: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-originating-ip: [10.206.30.4]
+x-tm-as-product-ver: SMEX-11.0.0.4255-8.000.1202-22288.002
+x-tm-as-result: No--39.063100-0.000000-31
+x-tm-as-user-approved-sender: Yes
+x-tm-as-user-blocked-sender: No
+Content-Type: multipart/alternative;
+	boundary="_000_DF290B61EB4E26409FC540E642DFDC571DD8EF9BC111TQKHMBX76ER_"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+...totally cackling over that bit with Fiorina singing today? I can imagine=
+ that segment got snipped and tagged for your digital library almost immedi=
+ately!
+
+Luciana Lopez
+Correspondent, Reuters 2015 Campaign Team
+646 223 6319 (o)
+646 937 1750 (m)
+user@domain.com<mailto:user@domain.com=
+m>
+<<link>>
+

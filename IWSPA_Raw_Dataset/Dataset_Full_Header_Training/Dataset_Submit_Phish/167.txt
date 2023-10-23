@@ -1,0 +1,30 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id F12C823CAA6;
+	Mon, 12 Sep 2015 11:23:49 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id Xg6wgOmR3Wn5; Mon, 12 Sep 2015 11:23:47 -0500 (CDT)
+Received: from mail.pitt.k12.nc.us (mail.pitt.k12.nc.us [152.26.20.124])
+	by domain.com (Postfix) with ESMTP id 0D65423CA9A;
+	Mon, 12 Sep 2015 11:23:46 -0500 (CDT)
+Received: from GWIADOM-MTA by mail.pitt.k12.nc.us
+	with Novell_GroupWise; Mon, 12 Sep 2015 12:23:42 -0400
+Message-Id: <4user@domain.com>
+X-Mailer: Novell GroupWise domain.com Agent 8.0.2 
+Date: Mon, 12 Sep 2015 12:21:57 -0400
+From: "Casandra Tripp" <ctripp@pitt.k12.nc.us>
+Subject: ACCOUNT UPGRADE
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="=__PartCCE3E1B5.43__="
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 19
+
+Your Mailbox Has Exceeded The Storage domain.com As Set By the Administrator. =
+Click Here: To Re-Validate Your Mailbox.=20

@@ -1,0 +1,117 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.4.9])
+	by domain.com (Postfix) with ESMTP id C3D6D468CA
+	for <user@domain.com>; Thu, 29 Mar 2015 09:15:55 -0400 (EDT)
+Received: from domain.com (domain.com [192.168.6.4])
+	by domain.com (Postfix) with ESMTP id CA092131FA93
+	for <user@domain.com>; Thu, 29 Mar 2015 09:15:55 -0400 (EDT)
+Received: from domain.com (unknown [200.90.135.17])
+	by domain.com (Postfix) with ESMTP id 799D16FA1C5
+	for <user@domain.com>; Thu, 29 Mar 2015 09:15:55 -0400 (EDT)
+Received: from User ([203.155.220.153])
+	(authenticated bits=0)
+	by domain.com (8.12.9/8.12.9) with ESMTP id l2T9d1VJ002022;
+	Thu, 29 Mar 2015 04:40:12 -0500
+Message-Id: <200703290940.user@domain.com>
+From: "service@paypal.com"<service@paypal.com>
+Subject: Your account has been flagged !
+Date: Thu, 29 Mar 2015 20:15:13 +0700
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1043
+
+PayPal Security Measures.
+
+It's easy to track your expenses and stay organized when you use PayPal. All your incoming and 
+outgoing payments are tracked on your Account History page. 
+See sample.
+
+
+
+
+Dear PayPal Member,
+
+Your account has been randomly flagged in our system as a part of our routine security measures. This is a must to ensure that only you have access and use of your Paypal account and to ensure a safe PayPal experience.
+We require all flagged accounts to verify their information on file with us. To verify your information at this time, please domain.com our secure server webform by clicking the hyperlink below:
+
+ Click here to verify your Information
+
+If you choose to ignore our request, you leave us no choice but to temporarily suspend 
+your account.
+
+Thank you for your patience as we work together to protect your account.
+
+ Your PayPal Account in Action
+
+Use PayPal to purchase with cash.
+
+When you link your bank account to your PayPal account, you can fund your purchases with 
+the money from your bank account. So get Verifiedit's just like spending cash. 
+Learn more.
+
+Make FREE calls around 
+	the world.
+ Reduce your phone billswith Skype software you can talk 
+	to other Skype users all over the world for free. Or make low-cost calls to any landline 
+	or cell phone with SkypeOutTM services you purchase with PayPal. 
+	Learn 
+	more.
+
+
+
+Pay or get paid back 
+	with PayPal.
+
+	Start off the year with a clean slate. Easily pay your family and friends what you owe them, 
+	or request money that they owe you. 
+	See 
+	how easy it is to send or request money with PayPal.
+
+ Special 
+	Offers for PayPal Customers
+
+
+
+
+Save 
+	20% on Dell Inspiron Notebooks when you use PayPal. Enter code at checkout: SFW86WKM?16WSL
+
+ Special 
+	Offer
+Use PayPal and get 
+	free Super Saver Shipping on ship-
+ments of $49 or more.
+
+Save 10% 
+	on over 300,000 products. Enter promo code: paysave. 
+	Plus Free Shipping, 
+	Free Returns, and No Sales Tax.
+
+ Helpful 
+Links: ID 
+Theft Resources | 
+Help Center |
+PayPal Shops |
+Password Help
+
+Please do not replay to this e-mail. To modify your notification preferences, log in to 
+your PayPal account, click the Profile sub-tab, then click the Notifications link under Account 
+Information. Changes may take up to 10 days to be reflected in our mailings. PayPal will not sell 
+or rent any of your personally identifiable information to third parties. For more information 
+about the security of your information, read our Privacy Policy at <<link>> 
+
+Copyright © 2015 PayPal Inc. All rights reserved. Designated trademarks and brands are the 
+property of their respective owners. PayPal is located at 2015 N. First St., San Jose, CA 95131.           
+

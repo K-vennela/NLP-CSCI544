@@ -1,0 +1,21 @@
+Tim,
+Attached are the calibration residual series for experiments based on available networks
+back to:
+AD 1000
+AD 1400
+AD 1600
+I can't find the one for the network back to 1820! But basically, you'll see that the
+residuals are pretty red for the first 2 cases, and then not significantly red for the 3rd
+case--its even a bit better for the AD 1700 and 1820 cases, but I can't seem to dig them
+up. In any case, the incremental changes are modest after 1600--its pretty clear that key
+predictors drop out before AD 1600, hence the redness of the residuals, and the notably
+larger uncertainties farther back...
+You only want to look at the first column (year) and second column (residual) of the files.
+I can't even remember what the other columns are!
+Let me know if that helps. Thanks,
+mike
+p.s. I know I probably don't need to mention this, but just to insure absolutely clarify on
+this, I'm providing these for your own personal use, since you're a trusted colleague. So
+please don't pass this along to others without checking w/ me first. This is the sort of
+"dirty laundry" one doesn't want to fall into the hands of those who might potentially try
+to distort things...

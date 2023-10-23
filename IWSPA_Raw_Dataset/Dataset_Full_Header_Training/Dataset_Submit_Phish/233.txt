@@ -1,0 +1,47 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id E0E5D23CA8A
+	for <user@domain.com>; Tue,  3 Apr 2015 17:55:52 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 9SnlDtw6bPbw for <user@domain.com>;
+	Tue,  3 Apr 2015 17:55:52 -0500 (CDT)
+Received: from ETSUEDGE1.ETSU.EDU (domain.com [151.141.9.23])
+	by domain.com (Postfix) with ESMTP id A9AEE23CA89
+	for <user@domain.com>; Tue,  3 Apr 2015 17:55:52 -0500 (CDT)
+Received: from domain.com (151.141.8.34) by ETSUEDGE1.ETSU.EDU
+ (151.141.9.23) with Microsoft SMTP Server (TLS) id 8.2.255.0; Tue, 3 Apr 2015 
+ 18:56:18 -0400
+Received: from domain.com ([151.141.10.100]) by domain.com
+ ([151.141.8.34]) with mapi id 14.01.0218.012; Tue, 3 Apr 2015 18:55:50 -0400
+From: "Glasner, Nichelle G." <GLASNER@mail.etsu.edu>
+Subject: 
+Thread-Index: Ac0R7Hwk8AGjUskrQk+wIzR3Yy+sUg==
+Date: Tue, 3 Apr 2015 22:55:45 +0000
+Message-ID: <8user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-originating-ip: [41.151.138.68]
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+To: Undisclosed recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 73
+
+Attention;
+We have recently upgraded our server to the fastest and best webmail servic=
+e, please click the link Below or Copy and Paste on your browser to upgrade=
+ to our new server;
+ Click here to upgrade <<<link>>>
+Failure To Validate Your Webmail May Result In Loss Of Important Informatio=
+n In Your Mailbox Or Cause Limited Access To It.
+Thank you for using our mail system
+System Administrator.

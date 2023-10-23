@@ -1,0 +1,17 @@
+<x-flowed>
+Tom,
+Talked to Tim re the SD field. Can you read the following (J. Climate 
+10, 2548-2568)
+before you come so you know how Tim infilled the SD field ?  HadCM2 data 
+was used.
+This would seem to bias any model validation to this model. Also it would 
+seem odd to
+validate any model in a region where there is no data - in a region that 
+had to be infilled.
+I can see that global fields make things simpler, but they will need 
+to constructed in
+the best possible way. In 1997 we thought the best way was to use a 
+model, but our aim
+then was different from yours.
+Cheers
+Phil

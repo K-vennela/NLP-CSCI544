@@ -1,0 +1,41 @@
+From: "Microsoft Store" <microsoftstore@microsoftstoreemail.com>
+To: "User"
+Subject: Better than a Chromebook
+Date: Fri, 8 Aug 2015 16:50:44 -0400
+Message-ID: <user@domain.com>
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQG+7u6LSXDFows7PBsD3TjSqkAqZw==
+Content-Language: en-us
+x-ms-exchange-organization-authas: Internal
+x-ms-exchange-organization-authsource: domain.com
+x-ms-exchange-organization-authmechanism: 10
+x-forefront-antispam-report: CIP:64.132.89.196;CTRY:US;IPV:NLI;EFV:NLI;SFV:NSPM;SFS:(438002)(3905001)(189002)(199002)(22564002)(2351001)(36036004)(31696002)(42186005)(20776003)(106466001)(79102001)(106796001)(77982001)(54356999)(575784001)(46102001)(92726001)(92566001)(512874002)(229853001)(64706001)(19627405001)(33646002)(76482001)(110456001)(18206015026)(107886001)(110136001)(107046002)(50986999)(19617315012)(946001)(104016003)(85306004)(47976999)(956001)(146001)(99396002)(77096002)(80022001)(19580395003)(83322001)(55176004)(44976005)(31686004)(15187005004)(31966008)(4396001)(15395725005)(83072002)(81542001)(15202345003)(87836001)(21056001)(71186001)(98436002)(15975445006)(81342001)(74662001)(19618635001)(567944001)(84326002)(102836001)(74502001)(85852003)(101616002)(82556003)(18926415006);DIR:INB;SFP:;SCL:1;SRVR:BY2FFO11HUB053;H:mta22.microsoftstoreemail.com;FPR:;MLV:sfv;PTR:mta22.microsoftstoreemail.com;MX:1;A:0;LANG:en;
+dkim-signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=102420140131; d=domain.com; h=From: "Microsoft Store" <microsoftstore@microsoftstoreemail.com>
+received-spf: Pass (: domain of domain.com designates 64.132.89.196 as permitted sender) receiver=; client-ip=64.132.89.196; helo=mta22.microsoftstoreemail.com;
+authentication-results: spf=pass (sender IP is 64.132.89.196) user@domain.com; 
+x-microsoft-antispam: BCL:3;PCL:0;RULEID:(50001)
+x-eopattributedmessage: 0
+List-Unsubscribe: <mailto:user@domain.com>
+domainkey-signature: a=rsa-sha1; c=nofws; q=dns; s=200608; d=microsoftstoreemail.com; b=Ug/N5ZpwURPAqo+W/jBEaBf2egtDEt3c1e/c1wzY0h5bFjKFnKIh09sEiWbk1NIFyUZil5K7CiDa   6IK8uGrZZgNflzncbwwe6LiUVPdXSGdSetvuvknTdBzqXp/uxbGYdfvyTC7iVnO1l0oZgsScq1BW   rytDCOXSB9edl5dyI/k=;
+x-job: 10359607_3011149
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+Same price, more power
+
+ View in a browser
+
+Your Microsoft Retail Store Westfield Century City
+Hours, events, and more
+
+By subscribing, you voluntarily authorize Microsoft to send you advertisements or telemarketing messages using an automated telephone dialing system to the mobile phone number you have provided to Microsoft. You are not required to agree to this in order to buy products from Microsoft. You'll get up to 10 messages per month. Message and data rates may apply. Reply STOP to 29502 to end all messages. Reply HELP to any message or text HELP to 29502 to receive help. View the full terms and conditions. 
+
+Microsoft respects your privacy. Please view our online Privacy Statement.
+
+If you would prefer not to receive future promotional emails from Microsoft and its family of companies please click here to unsubscribe. These settings will not affect any newsletters you've requested or any mandatory service communications that are considered part of certain Microsoft services.
+
+To set your contact preferences domain.com the Promotional Communications Manager.
+
+Microsoft Corporation, One Microsoft Way, Redmond, WA, 98052, USA
+

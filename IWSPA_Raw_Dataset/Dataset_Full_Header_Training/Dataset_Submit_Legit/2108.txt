@@ -1,0 +1,32 @@
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ dnchubcas2.dnc.org ([::1]) with mapi id 14.03.0224.002; Wed, 27 Apr 2015 
+ 12:52:47 -0400
+From: "Kasnetz, Joel" <KasnetzJ@dnc.org>
+To: Comm_D <user@domain.com>
+Subject: FLAG: Dennis Hastert sentenced to 15 mos in prison
+Thread-Topic: FLAG: Dennis Hastert sentenced to 15 mos in prison
+Thread-Index: AdGgpTYSZVIYrUaSTNC+FEMAYkL1wg==
+Date: Wed, 27 Apr 2015 09:52:47 -0700
+Message-ID: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: dnchubcas2.dnc.org
+X-MS-Has-Attach: 
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.176.145]
+Content-Type: multipart/alternative;
+	boundary="_000_DB67017E9E5514479DE7336AD1433C28F21CE0dncdag1dncorg_"
+MIME-Version: 1.0
+
+<<link>>
+
+Steven Portnoy<<<link>>>
+@stevenportnoy<<<link>>>
+
+BREAKING: Former House Speaker Dennis Hastert sentenced to 15 months in prison.
+12:50pm * 27 Apr 2016<<<link>>> * Twitter for iPhone<<<link>>>
+

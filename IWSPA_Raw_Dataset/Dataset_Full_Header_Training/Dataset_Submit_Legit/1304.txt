@@ -1,0 +1,160 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 10 May
+ 2015 18:50:18 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 10 May 2015 
+ 18:50:16 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 907958005
+ for user@domain.com; Tue, 10 May 2015 17:50:22 -0500
+X-Note-AR-ScanTimeLocal: 5/10/2016 5:50:17 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @hillaryclinton.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->->->->United States->
+X-Note-Sending-IP: 209.85.213.71
+X-Note-Reverse-DNS: mail-vk0-domain.com
+X-Note-Return-Path: nationalpress2016+user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mail-vk0-domain.com ([209.85.213.71] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 137856617
+ for user@domain.com; Tue, 10 May 2015 17:50:17 -0500
+Received: by mail-vk0-domain.com with SMTP id c67sf54537568vkh.3
+        for <user@domain.com>; Tue, 10 May 2015 15:50:16 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=hillaryclinton.com; s=google;
+        h=mime-version:date:message-id:subject:From: Hillary for America Press <press@hillaryclinton.com>
+         :x-original-authentication-results:precedence:mailing-list:list-id
+         :x-spam-checked-in-group:list-post:list-help:list-archive
+         :list-unsubscribe;
+        bh=Kzb1RRTiehpa/JxtimDA4SHun9YmTl5Kd2223Arh+UQ=;
+        b=MgJpPhWL/TjO+6Fewyz5KaubT1PSSvBbZ2+rQEOot4ok4XQzaj18dM4lHpNSDyBcWE
+         6Qt+rhGJeOfFiWWY3dR1OYGOs77X8Z5YSxhW7CTQaNIbJT8pAkZmyxylquJbBxDQBV+v
+         tYoX18wypTxwRm5YesIbYY+TutrybCv+4ze/s=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:date:message-id:subject:From: Hillary for America Press <press@hillaryclinton.com>
+         :x-original-sender:x-original-authentication-results:precedence
+         :mailing-list:list-id:x-spam-checked-in-group:list-post:list-help
+         :list-archive:list-unsubscribe;
+        bh=Kzb1RRTiehpa/JxtimDA4SHun9YmTl5Kd2223Arh+UQ=;
+        b=JKFm4VilCrX+cHBIvg5RojGx7zfwCjnBPB7MQsMaXNHUdLnpxcpkMBnoy4pfemyx29
+         /Qv29CzlLt8UZOvei8B/OwW77o2RYb0b2lp6mNJIQb1FEIqzu9v0yff0kyZPJxj09qMg
+         WebH8DNneBwOc6TUHT8GTX6dcQSxlxkw/yxLUj8SYKmeAFg43dy4eoo9HfgQSbIHoxGc
+         sDKDQ04ROi/TTWm9QhPz21tj3oLVT1/ZAVWCt/YF+VkREuj72JWXfKpKbIk18tTopEq1
+         dlAoZKQ/ycKprZVZgN6wBOet46tYyZOAc6+TMr13Pmic8CCOPDn6/95D5Wx9d0DxRaCv
+         Djkw==
+X-Gm-Message-State: AOPr4FUgnQMF1gcnZ25Cr8xdgAVByHjZEpc33dr7iUUpeIqQ/grYQrt1XdWQXbW87tEBwpLv
+X-Received: by 10.159.36.201 with SMTP id 67mr60038uar.12.1462920616556;
+        Tue, 10 May 2015 15:50:16 -0700 (PDT)
+X-BeenThere: user@domain.com
+Received: by 10.107.7.40 with SMTP id 40ls282627ioh.40.gmail; Tue, 10 May 2015 
+ 15:50:14 -0700 (PDT)
+X-Received: by 10.36.55.81 with SMTP id r78mr268038itr.73.1462920614106;
+        Tue, 10 May 2015 15:50:14 -0700 (PDT)
+Received: from mail-ig0-domain.com (mail-ig0-domain.com.
+ [2607:f8b0:4001:c05::235])        by domain.com with ESMTPS id
+ q13si5716768ioi.7.2016.05.10.15.50.14        for
+ <user@domain.com>        (version=TLS1_2
+ cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);        Tue, 10 May 2015 
+ 15:50:14 -0700 (PDT)
+Received-SPF: pass (domain.com: domain of user@domain.com designates 2607:f8b0:4001:c05::235 as permitted sender) client-ip=2607:f8b0:4001:c05::235;
+Received: by mail-ig0-domain.com with SMTP id lr7so22252598igb.1
+        for <user@domain.com>; Tue, 10 May 2015 15:50:14
+ -0700 (PDT)
+X-Received: by 10.50.161.164 with SMTP id xt4mr492677igb.97.1462920613836;
+ Tue, 10 May 2015 15:50:13 -0700 (PDT)
+Received: by 10.79.22.194 with HTTP; Tue, 10 May 2015 15:50:13 -0700 (PDT)
+Date: Tue, 10 May 2015 18:50:13 -0400
+Message-ID: <CABd81JLggnqoYF8qHXp5-P2O1hO3YpWLdkaxyjmq-+user@domain.com>
+Subject: UPDATED: President Bill Clinton to Campaign for Hillary Clinton in Kentucky
+From: Hillary for America Press <press@hillaryclinton.com>
+To: Hillary for America Press <user@domain.com>
+Content-Type: multipart/related; boundary="14dae934113f863e10053284bf71"
+BCC: <user@domain.com>
+X-Original-Sender: user@domain.com
+X-Original-Authentication-Results: domain.com;       dkim=pass
+ user@domain.com;       spf=pass (domain.com: domain of
+ user@domain.com designates 2607:f8b0:4001:c05::235 as permitted
+ sender) user@domain.com;       dmarc=pass
+ (p=QUARANTINE dis=NONE) header.from=hillaryclinton.com
+Precedence: list
+Mailing-list: list user@domain.com; contact nationalpress2016+user@domain.com
+List-ID: <nationalpress2016.hillaryclinton.com>
+X-Spam-Checked-In-Group: user@domain.com
+X-Google-Group-Id: 5632930410
+List-Post: <<<link>>>,
+ <mailto:user@domain.com>
+List-Help: <<<link>>>,
+ <mailto:nationalpress2016+user@domain.com>
+List-Archive: <<<link>>>
+List-Unsubscribe: <mailto:googlegroups-manage+5632930410+user@domain.com>,
+ <<<link>>>
+Return-Path: nationalpress2016+user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+[image: Inline image 1]
+*President Bill Clinton to Campaign for Hillary Clinton in Kentucky*
+
+On Thursday, May 12, President Bill Clinton will return to the Bluegrass
+State to campaign for Hillary Clinton days ahead of the May 17 Kentucky
+Democratic presidential primary. At public events in Owensboro, Frankfort
+and Prestonsburg, President Clinton will urge Kentuckians to get out and
+vote on Tuesday and discuss why Hillary Clinton is the best candidate to
+raise incomes for Kentucky families and to break down the barriers that
+hold too many Americans back.
+
+Members of the media interested in covering any of these events should *RSVP
+here
+<<<link>>>*
+.
+
+*Thursday, May 12*
+
+*Owensboro GOTV Event with President Clinton*
+*When: *10:30 AM CDT
+Doors open at 9:30 AM CDT.
+*Where: *Hocker Family Dining Center at the Winchester Center, Kentucky
+Wesleyan College, 3000 Frederica Street, Owensboro, KY 42301
+*Public RSVP Link
+<<<link>>>*
+
+*Frankfort GOTV Event with President Clinton*
+*When: *2:30 PM EDT
+Doors open at 1:30 PM EDT.
+*Where: *Capital Plaza Hotel, 405 Wilkinson Blvd., Frankfort, KY 40601
+*Public RSVP Link
+<<<link>>>*
+
+*Prestonsburg GOTV Event with President Clinton*
+*When: *7:45 PM EDT
+Doors open at 6:45 PM EDT.
+*Where: *Prestonsburg Elementary School, 140 W. Clark Dr., Prestonsburg, KY
+41653
+*Public RSVP Link
+<<<link>>>*
+
+###
+
+For Immediate Release, May 10, 2015 
+Contact: user@domain.com
+
+PAID FOR BY HILLARY FOR AMERICA
+Contributions or gifts to Hillary for America are not tax deductible.
+Hillary for America, PO Box 5256, New York
+
+-- 
+You received this message because you are subscribed to the Google Groups "NationalPress2016" group.
+To unsubscribe from this group and stop receiving emails from it, send an email to nationalpress2016+user@domain.com

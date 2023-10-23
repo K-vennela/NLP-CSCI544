@@ -1,0 +1,34 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Mon, 26 Jan 2015 16:31:23 +0100
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id 4C25F621AD;	Mon, 26 Jan 2015 
+ 15:11:03 +0000 (GMT)
+Received: by domain.com (Postfix)	id 1B2BD2BC0F3; Mon, 26 Jan 2015 
+ 16:31:22 +0100 (CET)
+Delivered-To: user@domain.com
+Received: from EduardoPC (unknown [186.116.44.66])	(using TLSv1 with cipher
+ AES256-SHA (256/256 bits))	(No client certificate requested)	by
+ domain.com (Postfix) with ESMTPSA id 75D1F2BC0F1;	Mon, 26 Jan 2015 
+ 16:29:58 +0100 (CET)
+From: Eduardo Pardo <e.pardo@hackingteam.com>
+To: 'Simonetta Gallucci' <user@domain.com>
+CC: 'amministrazione' <user@domain.com>, 'Giancarlo Russo'
+	<user@domain.com>, 'Daniele Milan' <user@domain.com>
+Subject: Expenses December 2015 - Eduardo
+Date: Mon, 26 Jan 2015 10:30:07 -0500
+Message-ID: <003201d0397c$f95aa6a0$ec0ff3e0$@hackingteam.com>
+X-Mailer: Microsoft Outlook 15.0
+Thread-Index: AdA5fPJBLECviWKZT4Stg5sq1YTEZg==
+Content-Language: en-us
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EDUARDO PARDO CARVAJALDB9
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2135542561_-_-"
+
+Hola Simo, I am sending you my expense report for January 2015 and all the receipts.  Please let me know your confirmation. Gracias, --Eduardo PardoField Application Engineer Hacking TeamMilan Singapore Washington DCwww.hackingteam.com email: user@domain.com phone: +39 3666285429 mobile: +57 3003671760 

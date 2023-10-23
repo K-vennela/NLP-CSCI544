@@ -1,0 +1,60 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [75.102.5.22])
+	by domain.com (Postfix) with ESMTP id 1B8233144054
+	for <user@domain.com>; Wed,  8 Jul 2015 00:19:45 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 4A33B232039;
+	Wed,  8 Jul 2015 00:22:52 +0000 (UTC)
+X-Virus-Scanned: amavisd-new at domain.com
+X-Spam-Flag: NO
+X-Spam-Score: -0.738
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.738 tagged_above=-10 required=6.6
+	tests=[BAYES_00=-2.599, HTML_MESSAGE=0.001, URIBL_AB_SURBL=1.86]
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 1X5dIfszyztG; Wed,  8 Jul 2015 00:22:44 +0000 (UTC)
+Received: from svccfe.svcc.southside.edu (em.southside.edu [164.106.181.111])
+	by domain.com (Postfix) with ESMTP id 0AFCF232005
+	for <user@domain.com>; Wed,  8 Jul 2015 00:22:43 +0000 (UTC)
+Received: from SVCCBE.svcc.southside.edu ([164.106.181.112]) by
+ svccfe.svcc.southside.edu ([164.106.181.111]) with mapi; Tue, 7 Jul 2015 
+ 20:19:31 -0400
+From: Rosa Townsend <Rosa.Townsend@southside.edu>
+Date: Tue, 7 Jul 2015 20:19:30 -0400
+Subject: Important: Email Account Verification Update ! ! !
+Thread-Topic: Important: Email Account Verification Update ! ! !
+Thread-Index: AQHJ/2HCzNSx6P5ghk2lKNeM+jluyA==
+Message-ID: <38user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+acceptlanguage: en-US
+Content-Type: multipart/alternative;
+	boundary="_000_38B4B5372B212B4AA3BA0D8B17ACB454345AEB3C0CSVCCBEsvccsou_"
+MIME-Version: 1.0
+To: undisclosed-recipients:;
+Content-Length: 1906
+Lines: 58
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1099
+
+Your mailbox quota has been exceeded the storage domain.com which is 20GB
+as set by your administrator,You are currently running on 20.9GB.
+
+You may not be able to send or receive new mails until you re-validate
+your mailbox.
+
+To re-activate your account please click the link below
+
+<<link>>
+7070b
+
+Thanks and we are sorry for the inconviniences
+
+Localhost

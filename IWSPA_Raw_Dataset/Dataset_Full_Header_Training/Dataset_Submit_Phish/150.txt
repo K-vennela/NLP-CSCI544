@@ -1,0 +1,68 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 2058523CA7D;
+	Mon, 28 Nov 2015 13:52:57 -0600 (CST)
+X-Virus-Scanned: amavisd-new at domain.com
+X-Spam-Score: 2.833
+X-Spam-Level: **
+X-Spam-Status: No, score=2.833 tagged_above=2 required=5
+	tests=[BAYES_00=-2.599, FORGED_RCVD_HELO=0.135,
+	RCVD_IN_SORBS_WEB=1.456, UNDISC_RECIPS=0.841, URIBL_BLACK=3]
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id R6Z1ALIqrfVK; Mon, 28 Nov 2015 13:52:56 -0600 (CST)
+Received: from relay1.usal.es (relay1.usal.es [212.128.129.62])
+	by domain.com (Postfix) with ESMTP id 82C1E23CA74;
+	Mon, 28 Nov 2015 13:52:42 -0600 (CST)
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by relay1.usal.es (Postfix) with ESMTP id 1847D19C5D9;
+	Mon, 28 Nov 2015 20:52:40 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at usal.es
+Received: from relay1.usal.es ([127.0.0.1])
+	by localhost (relay1.usal.es [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id F6yFbNA5Sxmo; Mon, 28 Nov 2015 20:52:39 +0100 (CET)
+Received: from correo1.usal.es (correo1.usal.es [212.128.130.81])
+	by relay1.usal.es (Postfix) with ESMTP id CA26519C61F;
+	Mon, 28 Nov 2015 20:52:39 +0100 (CET)
+Received: from correo.usal.es (webmail2.usal.es [212.128.129.126])
+	by correo1.usal.es (Postfix) with ESMTP id 089BD7F488;
+	Mon, 28 Nov 2015 20:52:39 +0100 (CET)
+Received: from 203.82.92.103
+        by correo.usal.es with HTTP;
+        Mon, 28 Nov 2015 20:52:39 +0100
+Message-ID: <user@domain.com>
+Date: Mon, 28 Nov 2015 20:52:39 +0100
+Subject: Email Account User Alert
+From: "Report of the server system." <lugargon@usal.es>
+User-Agent: SquirrelMail/1.4.20
+MIME-Version: 1.0
+Content-Type: text/plain;charset=utf-8
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 35
+
+User accounts Warning
+
+  Your mailbox has exceeded one or more size limits set by the administrator.
+
+  Mailbox size is 78,944 KB.
+  the domain.com of box size: 70000 KB
+
+          This is a warning that your mailbox reaches 70000 KB.
+ It may not be able to send or receive new messages until
+ reduce the size of your mailbox. To make more space available,
+ you need to click and fill out the form below and domain.com in this regard
+ to help increase the size of the mailbox.
+
+ <<link>>
+
+ Fill out the link below and click
+
+ Report of the server system.

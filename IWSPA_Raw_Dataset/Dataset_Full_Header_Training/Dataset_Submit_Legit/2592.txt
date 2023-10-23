@@ -1,0 +1,338 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 27 Apr
+ 2015 08:00:24 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 27 Apr 2015 
+ 08:00:18 -0400
+Received: from [10.87.0.110] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 882241476
+ for user@domain.com; Wed, 27 Apr 2015 07:00:25 -0500
+X-Note-AR-ScanTimeLocal: 4/27/2016 7:00:23 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:167.89.47.62 DOM:email.medium.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 100
+X-GBUdb-Analysis: 0, 167.89.47.62, Ugly c=0 p=1 Source Caution
+X-Signature-Violations: 100-5946619-16272-16286-m
+	100-5946619-0-32767-f
+X-Note-419: 31.2494 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 4/27/2016 7:00:14 AM
+X-Warn: BOUNCETRACKER Bounce User Tracking Found
+X-Warn: BULKMAILER
+X-Note: Spam Tests Failed: BOUNCETRACKER, BULKMAILER
+X-Country-Path: United States->->United States->
+X-Note-Sending-IP: 167.89.47.62
+X-Note-Reverse-DNS: o2.email.medium.com
+X-Note-Return-Path: bounces+1823144-5user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G280 G285 G339 G373 G572 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from [167.89.47.62] (HELO o2.email.medium.com)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 138508729
+ for user@domain.com; Wed, 27 Apr 2015 07:00:23 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=medium.com; 
+	h=content-type:From: Medium Daily Digest <noreply@medium.com>
+	s=m1; bh=Zxkp9eETcAqfSYu4FBL3CHtYK2U=; b=J4GcOZnYGJ7S3SEVMJhf9Iw
+	m0vzYpAqKvfPrbrnrMv/5yw/vmqL9hHUf19cJCkzFzxZCYuzHz0tGrq8bnbHFPk2
+	kWqjZIdX8jEbUkXOJU+GOBbWrMJj9VO+m7jS94gXWphJr1Tx8Qai+rSLtN9CRRra
+	TVBCtwqoMUqhEmqF/3cY=
+Received: by domain.com with SMTP id
+ filter0847p1mdw1.3315.5720A9C75B        2016-04-27 12:00:07.996443609 +0000
+ UTC
+Received: from MTgyMzE0NA (ec2-54-175-48-214.compute-1.domain.com
+ [54.175.48.214])	by domain.com (SG) with HTTP id
+ E4OJYZoVRa-X8QWB6_OwmA	for <user@domain.com>; Wed, 27 Apr 2015 12:00:07.885
+ +0000 (UTC)
+Content-Type: multipart/alternative;
+	boundary="9f76e062e3b2680d3d78e833eb9662df270e284bdb2b0925e4f3f8896769"
+Date: Wed, 27 Apr 2015 12:00:07 +0000
+From: Medium Daily Digest <noreply@medium.com>
+List-Unsubscribe: <<<link>>>
+Reply-To: <user@domain.com>
+Subject: =?UTF-8?Q?=E2=80=9CThe_first_rule_of_pricing_is:_you_do_not_talk_about_pr?=
+ =?UTF-8?Q?icing=E2=80=9D_published_in_Fluxx_Studio_Notes_by_Tom_Whitwell?=
+To: <user@domain.com>
+Message-ID: <user@domain.com>
+X-SG-EID: /qskMPcwxb1VaCv1PswYfL3cIKK16+tE+dB/q/CjBM1pe6I9OXT9vP/lPMVfwDNZk0l/HSH4PRT/2J
+ ePWfpqm4EoBrPCW7xAqPsBAhnUAzqwaEL1G6cxhtqdfJEoldzNs0pS9N0VdqwciGyS7PNh+RxzWJPN
+ CUIQxHPqrUp2Vku1gFcaCR572jwBMYxbNr7m1Xj4NHYmdzmY8CKsRCyJkxv6RGMzD5gP1rZykfGTup
+ s=
+X-SG-ID: D6Z+UOEZAHNtlrjTKHUMD70ZvV8qDK9CWlYSygZ/0WNseKOv/obtNjOvqg31pPchf/QMSYJrQ+9dEv
+ RzUliY0Q==
+Return-Path: bounces+1823144-5user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Medium Daily Digest (<<link>>
+8119306-daily_digest) Most recommended by
+
+People you follow
+
+Jordan Quigley-Jones (<<link>>
+0f59-1461758119306-daily_digest)
+
+The first rule of pricing is: you do not talk about pricing (<<link>>
+.com/@tomwhitwell/the-first-rule-of-pricing-is-you-do-not-talk-about-pricin=
+g-1875caa39b89?source=3Demail-7ccd17ba0f59-1461758119306-daily_digest&secti=
+onName=3Drecommended) I=E2=80=99ve been slightly obsessed about pricing sin=
+ce 2010. Before joining Fluxx, I was part of the team that changed the pric=
+e of The Times=E2=80=A6 (<<link>>
+pricing-is-you-do-not-talk-about-pricing-1875caa39b89?source=3Demail-7ccd17=
+ba0f59-1461758119306-daily_digest&sectionName=3Drecommended) digital editio=
+n from this: =C2=B6
+
+To this: =C2=B6
+
+Introducing what inevitably became know as =E2=80=9CThe Times Paywall=E2=80=
+=9D or =E2=80=9CRupert=E2=80=99s Pathetic Paywall=E2=80=9D inspired a power=
+ful reaction, with plenty of headlines like=E2=80=A6
+
+in Fluxx Studio Notes (<<link>>
+-7ccd17ba0f59-1461758119306-daily_digest), by Tom Whitwell (<<link>>
+com/@tomwhitwell?source=3Demail-7ccd17ba0f59-1461758119306-daily_digest)9 m=
+in read
+
+Tracy Russo (<<link>>
+1758119306-daily_digest)
+
+The Advocacy Digital Divide (<<link>>
+tal-divide-3e2d407a0cb2?source=3Demail-7ccd17ba0f59-1461758119306-daily_dig=
+est&sectionName=3Drecommended) I spend most of my professional life working=
+ with digitally native advocacy organizations. These groups like 38 Degrees=
+, domain.com and=E2=80=A6 (<<link>>
+tal-divide-3e2d407a0cb2?source=3Demail-7ccd17ba0f59-1461758119306-daily_dig=
+est&sectionName=3Drecommended) Nathan Woodhull (<<link>>
+l?source=3Demail-7ccd17ba0f59-1461758119306-daily_digest)3 min read
+
+Hillary Clinton (<<link>>
+0f59-1461758119306-daily_digest)
+
+The day before casting a ballot for a woman president, Chelsea Clinton went=
+ to Seneca Falls (<<link>>
+llot-for-a-woman-president-chelsea-clinton-went-to-seneca-falls-8f950cccc7b=
+4?source=3Demail-7ccd17ba0f59-1461758119306-daily_digest&sectionName=3Dreco=
+mmended) Paying homage to the people who fought for a woman=E2=80=99s right=
+ to vote (<<link>>
+-a-woman-president-chelsea-clinton-went-to-seneca-falls-8f950cccc7b4?source=
+=3Demail-7ccd17ba0f59-1461758119306-daily_digest&sectionName=3Drecommended)=
+ in Hillary for America (<<link>>
+ail-7ccd17ba0f59-1461758119306-daily_digest), by Elizabeth Chan (<<link>>
+domain.com/@lizzychan?source=3Demail-7ccd17ba0f59-1461758119306-daily_digest)=
+2 min read
+
+Hillary Clinton (<<link>>
+0f59-1461758119306-daily_digest)
+
+What an ice cream shop in New York City shows about the need for criminal j=
+ustice reform (<<link>>
+n-new-york-city-shows-about-the-need-for-criminal-justice-reform-8ad56a879a=
+20?source=3Demail-7ccd17ba0f59-1461758119306-daily_digest&sectionName=3Drec=
+ommended) More than 650,000 people are released from prison every year. Man=
+y of these people have an incredibly difficult time getting back on their=
+=E2=80=A6 (<<link>>
+w-york-city-shows-about-the-need-for-criminal-justice-reform-8ad56a879a20?s=
+ource=3Demail-7ccd17ba0f59-1461758119306-daily_digest&sectionName=3Drecomme=
+nded) in Hillary for America (<<link>>
+=3Demail-7ccd17ba0f59-1461758119306-daily_digest), by Logan Anderson (https=
+://medium.com/@LoganD_Anderson?source=3Demail-7ccd17ba0f59-1461758119306-da=
+ily_digest)6 min read
+
+Kyle DeBeer (<<link>>
+1758119306-daily_digest)
+
+A Bold Move Against Injustice (<<link>>
+ainst-injustice-ffbd8dab0cf?source=3Demail-7ccd17ba0f59-1461758119306-daily=
+_digest&sectionName=3Drecommended) Gov. McAuliffe=E2=80=99s sweeping rights=
+ restoration is both courageous and bold. While it should be noted that thi=
+s is the culmination of years of=E2=80=A6 (<<link>>
+bold-move-against-injustice-ffbd8dab0cf?source=3Demail-7ccd17ba0f59-1461758=
+119306-daily_digest&sectionName=3Drecommended) Jamaa (<<link>>
+amaaHill?source=3Demail-7ccd17ba0f59-1461758119306-daily_digest)5 min read
+
+Published by
+
+Authors and publications you follow
+
+Cities Aren=E2=80=99t Designed For Women. Here=E2=80=99s Why They Should Be=
+. (<<link>>
+s-why-they-should-be-53233fdf3951?source=3Demail-7ccd17ba0f59-1461758119306=
+-daily_digest&sectionName=3Dpublished) By Kate Abbey-Lambertz (<<link>>
+domain.com/@HuffingtonPost/cities-arent-designed-for-women-here-s-why-they-shou=
+ld-be-53233fdf3951?source=3Demail-7ccd17ba0f59-1461758119306-daily_digest&s=
+ectionName=3Dpublished) At first glance, a gathering of 60 or so women in D=
+domain.com earlier this month looked like a typical networking event =E2=80=94 =
+a few speeches, lots of mingling, plenty of wine. But instead of making con=
+tacts=E2=80=A6 (<<link>>
+r-women-here-s-why-they-should-be-53233fdf3951?source=3Demail-7ccd17ba0f59-=
+1461758119306-daily_digest&sectionName=3Dpublished)
+
+The Huffington Post (<<link>>
+17ba0f59-1461758119306-daily_digest)5 min read
+
+Hillary has the answers on gun violence (<<link>>
+ry-has-the-answers-on-gun-violence-16ae995d712?source=3Demail-7ccd17ba0f59-=
+1461758119306-daily_digest&sectionName=3Dpublished) By Marguerite Ruff (htt=
+ps://medium.com/@AFTunion/hillary-has-the-answers-on-gun-violence-16ae995d7=
+12?source=3Demail-7ccd17ba0f59-1461758119306-daily_digest&sectionName=3Dpub=
+lished) AFT (<<link>>
+58119306-daily_digest)2 min read
+
+POLITICO Playbook: 83 days to Cleveland, 90 days to Philly, 196 days to ele=
+ction =E2=80=94 THE PAIN OF=E2=80=A6 (<<link>>
+o-playbook-83-days-to-cleveland-90-days-to-philly-196-days-to-election-the-=
+pain-of-f08c12492614?source=3Demail-7ccd17ba0f59-1461758119306-daily_digest=
+&sectionName=3Dpublished) Good Tuesday morning. It=E2=80=99s the Acela prim=
+ary: Connecticut, Delaware, Maryland, Pennsylvania, Rhode Island. Mark Halp=
+erin says on =E2=80=9CMorning=E2=80=A6 (<<link>>
+ico-playbook-83-days-to-cleveland-90-days-to-philly-196-days-to-election-th=
+e-pain-of-f08c12492614?source=3Demail-7ccd17ba0f59-1461758119306-daily_dige=
+st&sectionName=3Dpublished) Mike Allen (<<link>>
+e=3Demail-7ccd17ba0f59-1461758119306-daily_digest)16 min read
+
+Paris Agreement sees largest number of countries to sign on during any sing=
+le day (<<link>>
+of-countries-to-sign-on-during-any-single-day-f92191892a9?source=3Demail-7c=
+cd17ba0f59-1461758119306-daily_digest&sectionName=3Dpublished) By Liepa Zel=
+niene, PolitiFact Global News Service (<<link>>
+-agreement-sees-largest-number-of-countries-to-sign-on-during-any-single-da=
+y-f92191892a9?source=3Demail-7ccd17ba0f59-1461758119306-daily_digest&sectio=
+nName=3Dpublished) PolitiFact (<<link>>
+l-7ccd17ba0f59-1461758119306-daily_digest)4 min read
+
+7 Reasons Parents Should Opt-In to State Tests This Spring (<<link>>
+com/@amprog/7-reasons-parents-should-opt-in-to-state-tests-this-spring-4004=
+637ada56?source=3Demail-7ccd17ba0f59-1461758119306-daily_digest&sectionName=
+=3Dpublished) By Will Ragland (<<link>>
+-should-opt-in-to-state-tests-this-spring-4004637ada56?source=3Demail-7ccd1=
+7ba0f59-1461758119306-daily_digest&sectionName=3Dpublished) American Progre=
+ss (CAP) (<<link>>
+306-daily_digest)4 min read
+
+POLITICO Playbook: Trump likely to clinch =E2=80=94 =E2=80=98IT=E2=80=99S O=
+VER=E2=80=99 =E2=80=94 MIKE MURPHY: =E2=80=98The lights are going out=E2=80=
+=A6 (<<link>>
+-its-over-mike-murphy-the-lights-are-going-out-7910a9dd7fc3?source=3Demail-=
+7ccd17ba0f59-1461758119306-daily_digest&sectionName=3Dpublished) Good Wedne=
+sday morning. Donald Trump said last night after winning each of the five A=
+cela Primary states by 29 or more points: =E2=80=9CAs far as I=E2=80=A6 (ht=
+tps://medium.com/@mikeallen/politico-playbook-trump-likely-to-clinch-its-ov=
+er-mike-murphy-the-lights-are-going-out-7910a9dd7fc3?source=3Demail-7ccd17b=
+a0f59-1461758119306-daily_digest&sectionName=3Dpublished) Mike Allen (https=
+://medium.com/@mikeallen?source=3Demail-7ccd17ba0f59-1461758119306-daily_di=
+gest)13 min read
+
+=E2=80=9CYes=E2=80=9D is the new =E2=80=9Cno=E2=80=9D (<<link>>
+AFTunion/yes-is-the-new-no-c16c9594f50a?source=3Demail-7ccd17ba0f59-1461758=
+119306-daily_digest&sectionName=3Dpublished) A health teacher on California=
+=E2=80=99s consent law (<<link>>
+9594f50a?source=3Demail-7ccd17ba0f59-1461758119306-daily_digest&sectionName=
+=3Dpublished) in Schoolhouse Voices (<<link>>
+?source=3Demail-7ccd17ba0f59-1461758119306-daily_digest), by AFT (<<link>>
+domain.com/@AFTunion?source=3Demail-7ccd17ba0f59-1461758119306-daily_digest)=
+3 min read
+
+Recommended by
+
+Medium Staff
+
+Things Dudes Have Said to Me After Sex (<<link>>
+s-dudes-have-said-to-me-after-sex-c65258a83f9a?source=3Demail-7ccd17ba0f59-=
+1461758119306-daily_digest&sectionName=3Dsuggested) is my apple watch under=
+ the bed? (<<link>>
+-sex-c65258a83f9a?source=3Demail-7ccd17ba0f59-1461758119306-daily_digest&se=
+ctionName=3Dsuggested) you=E2=80=99re like Amy Schumer hot =C2=B6
+
+you were like really into it =C2=B6
+
+do you know Bon Iver? =C2=B6
+
+do you know what Bon Iver means though? =C2=B6
+
+I=E2=80=99m considering an MFA =C2=B6
+
+your butt looks like an old painting =C2=B6=E2=80=A6
+
+Catherine Cohen (<<link>>
+1461758119306-daily_digest)1 min read
+
+Why Lemonade Is For Black Women (<<link>>
+onade-is-for-black-women-2d45f2eb1b9?source=3Demail-7ccd17ba0f59-1461758119=
+306-daily_digest&sectionName=3Dsuggested) Despite Centering a Man=E2=80=99s=
+ Misdeeds (<<link>>
+en-2d45f2eb1b9?source=3Demail-7ccd17ba0f59-1461758119306-daily_digest&secti=
+onName=3Dsuggested) Dominique Matti (<<link>>
+rce=3Demail-7ccd17ba0f59-1461758119306-daily_digest)9 min read
+
+Your fat friend doesn=E2=80=99t feel fat. (<<link>>
+/your-fat-friend-doesnt-feel-fat-8ca312f5db2b?source=3Demail-7ccd17ba0f59-1=
+461758119306-daily_digest&sectionName=3Dsuggested) =E2=80=9CI feel fat.=E2=
+=80=9D (<<link>>
+a312f5db2b?source=3Demail-7ccd17ba0f59-1461758119306-daily_digest&sectionNa=
+me=3Dsuggested) Your Fat Friend (<<link>>
+email-7ccd17ba0f59-1461758119306-daily_digest)6 min read
+
+When Does COMING OUT End? (<<link>>
+ng-out-end-47ae8b00ae0c?source=3Demail-7ccd17ba0f59-1461758119306-daily_dig=
+est&sectionName=3Dsuggested) Becoming more and more open about what has alw=
+ays been hidden or obscured about me is becoming easier, but I=E2=80=99ve f=
+ound myself wondering=E2=80=A6 (<<link>>
+-coming-out-end-47ae8b00ae0c?source=3Demail-7ccd17ba0f59-1461758119306-dail=
+y_digest&sectionName=3Dsuggested) S Lynn Knight (<<link>>
+ography?source=3Demail-7ccd17ba0f59-1461758119306-daily_digest)4 min read
+
+The Problem Is Not The Problem (<<link>>
+-problem-is-not-the-problem-7a1a1262e249?source=3Demail-7ccd17ba0f59-146175=
+8119306-daily_digest&sectionName=3Dsuggested) An Open Letter to Biola Unive=
+rsity (<<link>>
+em-7a1a1262e249?source=3Demail-7ccd17ba0f59-1461758119306-daily_digest&sect=
+ionName=3Dsuggested) Justin Campbell (<<link>>
+15?source=3Demail-7ccd17ba0f59-1461758119306-daily_digest)6 min read
+
+Top stories in
+
+news
+
+Why Are Americans Killing Themselves? (<<link>>
+-are-americans-killing-themselves-d535dc4366e7?source=3Demail-7ccd17ba0f59-=
+1461758119306-daily_digest&sectionName=3Dtag) The national suicide rate is =
+at its highest in nearly 30 years. Why? (<<link>>
+hy-are-americans-killing-themselves-d535dc4366e7?source=3Demail-7ccd17ba0f5=
+9-1461758119306-daily_digest&sectionName=3Dtag) By Jared Keller =C2=B6
+
+So much for a country built on boundless optimism. More Americans are commi=
+tting suicide now than at any other time in the last 30 years, according to=
+ a new analysis by the=E2=80=A6
+
+in Pacific Standard (<<link>>
+d17ba0f59-1461758119306-daily_digest), by Jared Keller (<<link>>
+@jaredbkeller?source=3Demail-7ccd17ba0f59-1461758119306-daily_digest)5 min =
+read
+
+Why did it take 27 years for =E2=80=98the truth=E2=80=99 to come out about =
+the Hillsborough soccer stampede? (<<link>>
+id-it-take-27-years-for-the-truth-to-come-out-about-the-hillsborough-soccer=
+-stampede-7d4a3e29d22c?source=3Demail-7ccd17ba0f59-1461758119306-daily_dige=
+st&sectionName=3Dtag) One newspaper=E2=80=99s complicity in the official de=
+domain.com (<<link>>
+ruth-to-come-out-about-the-hillsborough-soccer-stampede-7d4a3e29d22c?source=
+=3Demail-7ccd17ba0f59-1461758119306-daily_digest&sectionName=3Dtag) in Time=
+line News (<<link>>
+19306-daily_digest), by Nina Renata Aron (<<link>>
+c?source=3Demail-7ccd17ba0f59-1461758119306-daily_digest)4 min read
+
+Read more on Medium: <<link>>
+8119306-daily_digest
+Connect with us on:
+---
+Sent by Medium, 760 Market Street, 9th floor, San Francisco, CA 94102
+To unsubscribe, domain.com <<link>>
+61f598a6cd0390b9d2c771d8624e7?source=3Demail-7ccd17ba0f59-1461758119306-dai=
+ly_digest&type=3Dsocial

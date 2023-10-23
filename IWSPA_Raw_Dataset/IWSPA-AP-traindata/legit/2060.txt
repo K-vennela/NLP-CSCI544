@@ -1,0 +1,13 @@
+Dear Tim,
+attach the data (erikII.dat): NH averages with standard latitude weighting.
+Yes, the forced simulations are identical in forcing, just different initial conditions.
+Just for complementary info on the data file a rough plot of  the data in the file
+erikII.dat in comparison with NH avgs in ErikI: ErikI-II.ps
+Also for commplementary info, I attach nhavg.jpg and nhano.jpg...plots of anomalies and
+absolute values in the NH for all the forced runs:
+columbus erikI,II and control.
+Let me know if there are any queries or problems.
+Best regards
+Fidel
+ps.- I will be glad to have a pdf of the magicc paper when you consider it appropriate.
+Congratulations for this.

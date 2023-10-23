@@ -1,0 +1,13 @@
+<x-flowed>
+Tim, thanks a bunch. This all sounds very good. We're finalizing a 
+pseudoproxy paper for JGR based on the various tests w/ the CSM 
+simulation I showed in Wengen, and will send you a guys a copy once its 
+finalized. A natural followup would be a similar analysis applying to 
+the ECHO-G simulation, and we would enjoy collaborating w/ you and Keith 
+on this. We were also thinking of doing some "mixed signal" analyses, 
+where the pseudoproxies represent a combinatiiion of temp and precip 
+(including limiting cases of pure temp and pure precip). This might be a 
+natural way to incorporate the ECHO-G results. We'll let you know if we 
+have any trouble w/ format, etc.
+thanks again,
+mike

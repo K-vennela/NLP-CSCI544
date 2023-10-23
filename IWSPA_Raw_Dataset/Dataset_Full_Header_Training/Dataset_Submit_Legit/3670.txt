@@ -1,0 +1,177 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Sun, 22 May
+ 2015 15:05:50 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Sun, 22 May 2015 
+ 15:05:40 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 928645801
+ for user@domain.com; Sun, 22 May 2015 14:05:49 -0500
+X-Note-AR-ScanTimeLocal: 5/22/2016 2:06:00 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @hillaryclinton.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 209.85.218.54
+X-Note-Reverse-DNS: mail-oi0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mail-oi0-domain.com ([209.85.218.54] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 142087100
+ for user@domain.com; Sun, 22 May 2015 14:06:00 -0500
+Received: by mail-oi0-domain.com with SMTP id j1so11417770oih.3        for
+ <user@domain.com>; Sun, 22 May 2015 12:05:49 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=hillaryclinton.com; s=google;
+        h=mime-version:date:message-id:subject:From: TV Clips <tvclips@hillaryclinton.com>
+        bh=60NRygMiYSqCwU3U3kX/GnsRolNA/iHOIIcskWGxoLc=;
+        b=ZTtuivPMXP945uoAttIf/0qUb+tyxO7ZWkycef0vsvLVBp7c/PgzqecStYP3guaGh7
+         YuXsBCCRQK7Z5/uHdXqOa16RiLPOEmfJ1ukcnlx/p9+4jbyCHIVh3wRAAoxlTcr3Jo98
+         H7cUe4rHBjJ5Dg96uYpmPIy4loTiTlP4nF4vo=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:date:message-id:subject:From: TV Clips <tvclips@hillaryclinton.com>
+        bh=60NRygMiYSqCwU3U3kX/GnsRolNA/iHOIIcskWGxoLc=;
+        b=cB4xQ/41T1nVUEyN68sB6qWb6Gx4V8t1o9oY70QboTcBrNefAHH6Obx/PUDZK90B3y
+         gvi6It5w1swAjL3I3ZuvCF2YQth/JdZgoV1q/Pc2/il/rqDrefWQVpDwxl/GgL41UYdO
+         pDULdNI1zWeWRBWTAEhdQIXpOwkjKQkH6l21gNpGBQOouLqPDnTa2rGuybjrlG/2ZDsq
+         JnzuOjMlSClkvMD/s07xPbptcYCJpxZCgumxBrIKtmXO7QFvGperRY4Yt7GMC6iXy5bY
+         5QgeSVUVzOi6dTPGWh2AGd+x5HJtBqlCkfhoki+y9wvotFU3iUMVVu20JWY7pgbk46+U
+         U5ng==
+X-Gm-Message-State: ALyK8tJOE03tpVqcirnAfbjIc1w0bChvhtlVmd1JKWjL7S8VRU+EsxaAIvMf08AkVFXzVclPWI+MQlCnw4rt5d5C
+X-Received: by 10.157.43.169 with SMTP id u38mr2808198ota.112.1463943948954;
+ Sun, 22 May 2015 12:05:48 -0700 (PDT)
+Received: by 10.157.16.43 with HTTP; Sun, 22 May 2015 12:05:48 -0700 (PDT)
+Date: Sun, 22 May 2015 15:05:48 -0400
+Message-ID: <CAGTda=BjSASUfcXYdOqrhPRqsnY6+RorX47+user@domain.com>
+Subject: TV CLIP | MSNBC's Live, Antonio Sabato Jr on supporting Donald Trump
+From: TV Clips <tvclips@hillaryclinton.com>
+To: <user@domain.com>
+Content-Type: multipart/alternative; boundary="001a113ec8f60c8a0005337303e0"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+MIME-Version: 1.0
+
+*MSNBC=E2=80=99s Live, 5.22.16.*
+
+Link:
+
+<<link>>
+ad90-ed9da9b2f6cf
+
+Transcript:
+
+*FRANCES RIVERA: *that was hillary clinton speaking to the
+national hispanic christian leadership conference. and lobbing some not so
+thinly veiled criticism at donald trump. i want to bring in antonio sabato
+jr. how early did you know that donald trump was your guy and what drew you
+to him?
+
+*ANTONIO SABATO JR:* well, i knew from day one -- and i've been supporting
+him for a very long time. i have this coin watch company out of
+switzerland. trump, i have your next watch. i will bring it to you. it's a
+gold coin watch that you as the next president of the united states should
+wear.
+
+*FRANCES RIVERA:* why should he wear it as the next president of the
+united states?
+
+*ANTONIO SABATO JR: *one, he doesn't like watches at the moment. i never
+see him wearing a watch. but this guy is going to the leader of this
+country. he's got to make this country great again. he's been saying the
+right things. he's been saying a lot of things that people want to say but
+they can't say. and he makes a lot of sense. so i support him.
+
+*FRANCES RIVERA:* you say he's been saying the right things. but he's also
+offended a whole lot of people. when you hear that -- and you said you
+started supporting him from day one.
+
+*ANTONIO SABATO JR:* i want to know who has he offended.
+
+*FRANCES RIVERA:* we only have 30 minutes lest on this show. -- left on
+this show.
+
+*ANTONIO SABATO JR: *who has he offended?
+
+*FRANCES RIVERA:* i cannot even begin to tell you. immigration.
+
+*ANTONIO SABATO JR:* let's talk about immigration.
+
+*FRANCES RIVERA: *it could go on and on and on.
+
+*ANTONIO SABATO JR:* he's got a point in everything. we're talking about
+illegal aliens coming in that are illegal. i came here legally from
+the united states from italy. i'm legal right now. i'm an american
+citizens. everyone's walking over the borders and coming
+here illegally. it's an illegal issue.
+
+*FRANCES RIVERA:* you're for the wall?
+
+*ANTONIO SABATO JR: *we need a wall. do you have a wall at your house? i
+do. i personally wouldn't want to open it for everyone to come in. there's
+nothing there at all. everyone's just walking in. he's talking about
+illegal aliens. he's not talking about all of the latinos. he's talking
+about people who are coming here and committing a lot of crimes.
+
+*FRANCES RIVERA:* you were in a position. you immigrated too. you may have
+famtily outside. some of these families fleeing violence. out of fear, they
+want to come here. you're also talking about families who may have to
+be broken up who have to be sent back. for somebody who's been here and can
+understand the better life this country offers, is there any part of you
+that has sympathy for that and their families?
+
+*ANTONIO SABATO JR:* of course there is sympathy. but if you've done
+something illegally, you have to go back. we have laws in this country
+and we have the best laws this country could possibly have, in the world
+actually. there's a lot of people in line waiting so many years trying
+to come here legally, what do you do about them?
+
+*FRANCES RIVERA:* you're in nevada right now. a heavilyy lyily hispanic
+state. donald trump has major business interests there. when you talk to
+people, is there that some of your fans find out you're a trump supporter
+and kind of turn on you because of that at all? what are you hearing from
+them?
+
+*ANTONIO SABATO JR:* i actually have a lot of support. i have a lot of
+spoertupport for people that want donald trump to be the next president. at
+the end of the day, i'm goingdoing this because i believe he will be the
+next president of the united states and he will be a really good one. i
+can't domain.com to see him in this january at the white house.
+
+*FRANCES RIVERA:* the scenario that his nomination is contested and there's
+another candidate, would you accept another candidate?
+
+*ANTONIO SABATO JR:* who's there?
+
+*FRANCES RIVERA:* whoever that may be.
+
+*ANTONIO SABATO JR:* i don't think it's going to be contested. i think
+donald trump will be the next runner up and he will go against hillary
+clinton and the best is yet to come. he's the only guy.
+
+*FRANCES RIVERA:* if your only guy loses in the general election =E2=80=93
+
+*ANTONIO SABATO JR:* he won't lose. he's our next president. he will be
+there in january.
+
+*FRANCES RIVERA:* tell me the number one reason why you are convinced?
+
+*ANTONIO SABATO JR:* i just know it, man. we've been through a lot of crazy
+stuff in the last seven years and we need the opposite. donald trump is the
+opposite of that. the people want donald trump to be the next president of
+the united states. you go to the rallies of hillary and bernie and you see
+two people -- no, no, no. bernie sanders, there are thousands and
+thousands, people wrapping around blocks. i've seen 30,000 people. hillary
+clinton cannot even get half of 30,000 people. that's a lot.

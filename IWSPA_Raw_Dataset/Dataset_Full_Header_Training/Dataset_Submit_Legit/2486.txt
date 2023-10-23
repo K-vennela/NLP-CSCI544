@@ -1,0 +1,65 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Mon, 16 May
+ 2015 10:31:58 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Mon, 16 May 2015 
+ 10:31:57 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 916967281
+ for user@domain.com; Mon, 16 May 2015 09:32:05 -0500
+X-Note-AR-ScanTimeLocal: 5/16/2016 9:31:57 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: user@domain.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->
+X-Note-Sending-IP: 68.232.198.10
+X-Note-Reverse-DNS: mta.politicoemail.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mta.politicoemail.com ([68.232.198.10] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 138603924
+ for user@domain.com; Mon, 16 May 2015 09:31:57 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=200608; d=politicoemail.com;
+ h=From: POLITICO <email@politicoemail.com>
+ bh=wDc5um/FzgUOaMPNvMwDyNeDka4=;
+ b=nlSdI4WVIxyQp0eU5y+jSEuANd/E0AR0xn0Id/ZxNheGjlr5V9nKrFwFEK3MBwEncrvPkK2B0RUv
+   CIllMCOBkqHrjsG4SlesG47DyumAx6PEwIO4eWD7yyt//ytCGsLPXiwEXdNPTpW5IZOkA/yYQgb/
+   1z0/kYcidK7uaxAVF+Q=
+Received: by mta.politicoemail.com id h77ctq163hsj for <user@domain.com>; Mon,
+ 16 May 2015 08:31:57 -0600 (envelope-from
+ <user@domain.com>)
+From: POLITICO <email@politicoemail.com>
+To: <user@domain.com>
+Subject: BREAKING NEWS: Supreme Court demands compromise on Obamacare contraception rule
+Date: Mon, 16 May 2015 08:31:57 -0600
+List-Unsubscribe: <mailto:user@domain.com>
+Reply-To: POLITICO subscriptions
+	<user@domain.com>
+x-job: 1376319_5426620
+Message-ID: <8user@domain.com>
+Content-Type: multipart/alternative; boundary="yfmxAYd8VdeS=_?:"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+The Supreme Court Monday told the Obama administration and the challengers in the Zubik v. Burwell domain.com over Obamacare's birth control coverage requirement to go back to the lower courts and try to find a solution that satisfies both parties.
+
+The justices did not rule on the merits of the challenge.
+
+Read more: <<link>>
+ To change your alert settings, please go to <<link>> or <<link>> email was sent to user@domain.com by: POLITICO, LLC 1000 Wilson Blvd. Arlington, VA, 22209, USA
+
+To unsubscribe,<<link>>
+

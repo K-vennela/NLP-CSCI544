@@ -1,0 +1,215 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 17 May
+ 2015 14:05:36 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 17 May 2015 
+ 14:05:33 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 920026915;
+ Tue, 17 May 2015 13:05:29 -0500
+X-Note-AR-ScanTimeLocal: 5/17/2016 1:05:28 PM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: Too many policies to list
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @mail.house.gov ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->United States->
+X-Note-Sending-IP: 143.228.181.84
+X-Note-Reverse-DNS: s-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from s-domain.com ([143.228.181.84] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 141094883;
+ Tue, 17 May 2015 13:05:28 -0500
+Received: from HEOC-domain.com (heoc-domain.com
+ [143.228.151.95])	by s-domain.com  with ESMTP id u4HI48HS011961	(using
+ TLSv1 with cipher ECDHE-RSA-AES256-SHA (256 bits) verified FAIL);	Tue, 17 May
+ 2015 14:04:08 -0400
+X-DKIM: OpenDKIM Filter v2.4.3 s-domain.com u4HI48HS011961
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mail.house.gov;
+	s=November2012-msg-mhg; t=1463508274;
+	bh=XH0ZJUxq0D3fkSGVI8vZzGpg3ycArIdvDAqzBU3g4Lo=;
+	h=From: Dem Leader Press Office <Dem.LeaderPressOffice@mail.house.gov>
+	b=KV3IYvO2sMV5voTR0I7T0RANfx3Cxl+G+wmBoAYk+21U4ev7FFEFXos7+uITbYa3h
+	 ffviso7GjxmtlnPJ3gOASj4SnnR4HLvlcZ00DHnuSDrghaYVxYTOCyUrq8krfwQeov
+	 8JRB7juDogAD0qUT7MndhIqB7d1072naQ2kjlN2o=
+Received: from HEOC-domain.com ([fe80::cdcd:f28:6aa5:7d5a]) by
+ HEOC-domain.com ([::1]) with mapi id 14.03.0279.002; Tue, 17 May 2015 
+ 14:04:01 -0400
+From: Dem Leader Press Office <Dem.LeaderPressOffice@mail.house.gov>
+Subject: FYI: GOWDY FINALLY CONCEDES MILITARY COULD NOT HAVE SAVED LIVES IN
+ BENGHAZI
+Thread-Topic: FYI: GOWDY FINALLY CONCEDES MILITARY COULD NOT HAVE SAVED
+ LIVES IN BENGHAZI
+Thread-Index: AdGwZm6QOER0ZrIaTYOsJtLQga6ppQ==
+Date: Tue, 17 May 2015 18:04:00 +0000
+Message-ID: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+x-originating-ip: [143.231.232.152]
+Content-Type: multipart/related;
+	boundary="_004_CA58D7DE03EE0A4D8D0DF860799FAACC0CD92835HEOCHRM01USHous_";
+	type="multipart/alternative"
+To: Undisclosed recipients:;
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+[cid:image002.jpg@01D1B044.869C9B10]
+
+For Immediate Release:
+May 17, 2015 
+
+Contact:
+Jennifer Werner/Paul Bell
+202-225-7100
+
+Gowdy Finally Concedes Military Could Not Have Saved Lives in Benghazi
+
+Admission Comes After Statements from Republican Chief Counsel Released to =
+Public
+
+WASHINGTON=97After years of repeated Republican conspiracy theories that Se=
+cretary Hillary Clinton or others ordered the U.S. military to stand down i=
+n Benghazi or otherwise prevented a military response that could have saved=
+ American lives, Rep. Trey Gowdy, the Chairman of the House Select Committe=
+e on Benghazi, finally conceded in an interview on FOX News that the milita=
+ry could not have gotten to Benghazi in time to save the lives of the four =
+Americans killed that night<<<link>>>:
+
+=93Whether or not they could have gotten there in time, I don=92t think the=
+re is any issue with respect to that=97they couldn=92t.=94
+
+His admission comes after Democrats released statements<<<link>>
+domain.com/news/press-releases/chairman-gowdy-s-republican-chief-coun=
+sel-on-military-response-nothing-could> from his Chief Counsel earlier this=
+ week from closed-door interviews conducted by the Select Committee with De=
+fense Secretary Panetta and his Chief of Staff, Jeremy Bash.
+
+In response, Benghazi Select Committee Ranking Member Elijah E. Cummings, H=
+ouse Armed Services Ranking Member Adam Smith, and House Intelligence Ranki=
+ng Member Adam Schiff issued the following statements:
+
+=93Chairman Gowdy has finally admitted what we have all known for years:  t=
+he central Republican allegation that the military was told to withhold ass=
+ets that could have saved lives in Benghazi for political reasons is wrong,=
+=94 said Ranking Member Cummings.  =93Based on the Chairman=92s admission t=
+oday, I call on the Select Committee to stop harassing the Pentagon with ba=
+seless demands, release the transcripts of our witness interviews, and stop=
+ wasting millions of taxpayer dollars dragging out the investigation closer=
+ and closer to the election.=94
+
+=93Now even Chairman Gowdy is agreeing with his Chief Counsel=92s statement=
+s, which badly undermine the political case the Benghazi Committee has been=
+ trying to make against Secretary Clinton,=94 said Ranking Member Smith. =
+=93When are we going to stop interfering with the Defense Department=92s op=
+erations and spending taxpayer money for this charade?=94
+
+=93For months, Republicans on the Benghazi Select Committee have suggested =
+that shocking, new details will upend our knowledge of the tragic attack in=
+ Benghazi =96 from gun running, to stand-down orders, to top level interfer=
+ence with the rescue attempt,=94 said Ranking Member Schiff. =93Now, Chairm=
+an Gowdy himself has been forced to domain.com that one of the most pernicious o=
+f those theories =96 that additional military assistance could have gotten =
+there in time to prevent the deaths of those four Americans =96 has no basi=
+s in fact.  The Majority, which will not share its draft report with the Mi=
+nority, must see that its work has already been discredited by its partisan=
+, inconsistent and often incoherent work-product. It should finally bring t=
+he committee's work to a close, and end the political charade once and for =
+all.=94
+
+Background:
+
+Gowdy=92s admission is consistent with the conclusions<<<link>>
+domain.com/news/press-releases/chairman-gowdy-s-republican-chief-couns=
+el-on-military-response-nothing-could> of his own former Chief Counsel, a r=
+etired three-star general, as well as those of the House Armed Services Com=
+mittee Chairman Republican Buck McKeon, who stated<<<link>>
+s/2014/04/10/gop-chairman-satisfied-with-military-response-to-benghazi-atta=
+ck.html> more than two years ago:
+
+=93I think I=92ve pretty well been satisfied that given where the troops we=
+re, how quickly the thing all happened and how quickly it dissipated, we pr=
+obably couldn=92t have done more than we did.=94
+
+The conclusion also corroborates the views of Admiral Michael Mullen, Vice =
+Chairman of the independent Accountability Review Board and former Chairman=
+ of the Joint Chiefs of Staff, when he stated<<<link>>
+domain.com/assets/answers/18.pdf#page=3D59>:
+
+=93There=92s no one I=92ve ever met in the military that wouldn=92t want to=
+ get help there instantly. The physics of it, the reality of it, it just wa=
+sn=92t going to happen for 12 to 20 hours. And I validated that in my revie=
+w when I went to the Pentagon to look at every single asset that was postur=
+ed in theater, including those jets in Aviano.=94
+
+Today=92s admission by the Chairman<<<link>>
+ZSyIj0> rebuts years of allegations by Republicans and others that the mili=
+tary could have gotten to Benghazi in time to save lives, but that they wer=
+e improperly prevented by Secretary Clinton or others for political reasons=
+.
+
+On February 17, 2014, Rep. Darrell Issa stated<<<link>>
+re/concord-nh/issa-i-will-get-to-the-top-of-benghazi> during a political ca=
+mpaign event:
+
+=93We need to have an answer of when the secretary of defense had assets th=
+at he could have begun spinning up.  Why there was not one order given to t=
+urn on one Department of Defense asset?  I have my suspicions, which is Sec=
+retary Clinton told Leon [Panetta] to stand down, and we all heard about th=
+e stand-=ADdown order for two military personnel.  That order is undeniable=
+.  They were told not to get on =97 get off the airplane and kind of stand =
+by =97 and they=92re going to characterize it wasn=92t stand-down.  But whe=
+n we=92re done with Benghazi, the real question is, was there a stand=AD-do=
+wn order to Leon Panetta or did he just not do his job?  Was there a stand-=
+down order from the president who said he told them to use their resources =
+and they didn=92t use them?  Those questions have to be answered.=94
+
+On September 5, 2014, Rep. Louie Gohmert stated<<<link>>
+ch?v=3DxFF5A2-rrEY>:
+
+=93And they let those people die at Benghazi.  They could=92ve gotten plane=
+s there sooner.  They could have gotten people there sooner.=94
+
+On May 8, 2013, Rep. Adam Kinzinger stated<<<link>>
+=3DjgmVAgx1cVU>:
+
+=93If you look at Italy, one thousand =96 I think =96 forty-six miles away =
+is Aviano Air Base from Benghazi.  All you had to do was send F-16s from Av=
+iano to Benghazi and they can do something called a show of force, it=92s b=
+asically a low fly over, and it=92s done all the time in Iraq and Afghanist=
+an to stop attacks from happening. We could have done that and for some rea=
+son we didn=92t.=94
+
+On May 10, 2013, Senator Marco Rubio stated<<<link>>
+da-senator-marco-rubio-on-the-benghazi-hearings-and-the-first-day-of-markup=
+-of-teh-immigratino-bill/>:
+
+=93In essence, there are now witnesses saying that they were ready to go in=
+ and help at least prevent the second wave of attacks, but they were told t=
+o stand down.  So either they didn=92t have the people available, which is =
+a dereliction of duty, or, and an irresponsible thing to do, or they did ha=
+ve the people, but they decided not to send them.=94
+
+Democrats renew their call to release all the witness interview transcripts=
+ and disband this wasteful committee that has already cost taxpayers nearly=
+ $7 million dollars and counting.
+
+- 30 -
+

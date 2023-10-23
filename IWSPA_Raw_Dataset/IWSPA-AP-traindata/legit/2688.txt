@@ -1,0 +1,23 @@
+<x-flowed>
+Tim, we are getting close but there are a few items to discuss:
+1) seven of the eight time series are from the Hegerl et al paper, now 
+out for review in Nature
+2) the eighth time series is from Brian Luckmans recent extension of the 
+Alberta record to the 10th century - we used his original time series in 
+the H et al paper because the comparisons between model and observations 
+had been going on for a while, in fact before the new Luckman paper came 
+out, and we did not want to switch horses in midstream by changing the 
+composite - as you know the Luckman paper is either accepted or 
+published in CD, so there is no problem changing that
+3) although technically the time series are not the same they are very 
+close, if you want me to do some comparisons I can, but I could not get 
+to it until probably tuesday of next week - I don't particularly see any 
+problem in makng such an addition
+4) we cannot extend the time series back to 800 without dropping out 
+something - the reason we start at 945 is that is the first year when 
+all the records are available - if we go back to 800 we do so at the 
+cost of dropping 2 or possibly even 3 records.  as our Dark Ages 
+reconstruction starting at 560 indicates (att.), the biggest warming 
+between 800-1900 is in the late 10the century (960-995), we did not 
+think we missing out on anything by starting at 945 rather than 800.
+I await your feedback on this increasingly intricate issue, tom

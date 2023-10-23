@@ -1,0 +1,48 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Thu, 8 Jan 2015 08:51:00 +0100
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id AF97B621CE;	Thu,  8 Jan 2015 
+ 07:31:20 +0000 (GMT)
+Received: by domain.com (Postfix)	id 54D752BC0F1; Thu,  8 Jan 2015 
+ 08:51:00 +0100 (CET)
+Delivered-To: user@domain.com
+Received: from EmadPC (unknown [192.168.1.196])	(using TLSv1 with cipher
+ AES256-SHA (256/256 bits))	(No client certificate requested)	by
+ domain.com (Postfix) with ESMTPSA id 46FEB2BC047;	Thu,  8 Jan 2015 
+ 08:51:00 +0100 (CET)
+From: Emad Shehata <e.shehata@hackingteam.com>
+To: 'Emad Shehata' <user@domain.com>, 'Astana Team'
+	<user@domain.com>
+CC: 'rsales' <user@domain.com>, 'amministrazione'
+	<user@domain.com>
+References: <CADsNJ7q-eVf7-D8kXX_X3tu2jt3jRNWt+_bE_81Kk+4Jr+user@domain.com> <005801d01aad$6dd95b50$498c11f0$@user@domain.com> <004501d02382$800c1320$80243960$@user@domain.com>
+In-Reply-To: <004501d02382$800c1320$80243960$@user@domain.com>
+Subject: R: Answers to questions
+Date: Thu, 8 Jan 2015 08:50:59 +0100
+Message-ID: <002301d02b17$d781e200$8685a600$@user@domain.com>
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdAarPRajqB/nlc1SSW4hy24UQgiHgAADK4wAjUOGUAB5Zf3UA==
+Content-Language: it
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EMAD SHEHATA450
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2120218636_-_-"
+
+Dear Marat, Trust this e-mail find you well. Can you please update on the contract for the 2015 Renewal? Best regards  Da: Emad Shehata [mailto:user@domain.com] 
+Inviato: lunedì 29 dicembre 2015 17:14
+A: 'Astana Team'
+Cc: 'rsales'; 'amministrazione'
+Oggetto: R: Answers to questions Dear MaratI’m here to wish you Merry Christmas and Happy New Year to all of you. I would like to confirm me that the extension of the Maintenance will be sent to you by our support portal in a shortly time with a new expiration date of 15 January 2015. About the Contract Renewal 2015, can you please send us the contract before the 15 January 2015? This is allow us to be on the safe site and not face any “temporary” lock of the maintenance.Due the fact the contract will match the ones signed last year, I’ pretty sure that it will be easy to have it on beginning of January 2015. Hope that you can help me. Best regards  Da: Emad Shehata [mailto:user@domain.com] 
+Inviato: giovedì 18 dicembre 2015 11:29
+A: 'Astana Team'
+Cc: 'rsales'; 'amministrazione'
+Oggetto: R: Answers to questions Dear Marat, thanks for your detailed e-mail and information. We take note about the payment of last invoice on 22 December 2014. We will take note as well for the Renewal for the 2015. Thanks so much  Da: Astana Team [mailto:user@domain.com] 
+Inviato: giovedì 18 dicembre 2015 11:26
+A: Emad Shehata; Emad Shehata
+Oggetto: Answers to questions Dear Emad!Inform you that the payment has taken place and the last tranche of the money will go to your bank account about 22 of December. With regards to the sum for 2015, it is 180 000 euros (45 000 - domain.com 2015 135 000 Technical Support).On the draft treaty, now our manager is being agreed with the Legal Departament the points of the arbitral tribunal and the bank guarantee, so electronic version I will send you after all approval procedures.Special thanks to you for help in license renewal until 17 January 2015.I apologize for my English.From the words of my leadership, the contract will be concluded in February 2015, as the funding offer in late January. kind regards Marat!

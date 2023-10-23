@@ -1,0 +1,10 @@
+From: cornell.edu <villa-remember@gmx.de>
+From: cornell.edu <ib-schaebs@gmx.de>
+Subject: MailBox Quota
+Date: December 2, 2016
+Dear <netid>@cornell.edu,
+This is a courtesy notice from the Admin Team, and it is to inform you that your email account has exceeded it's mail quota on the database server, which has caused some incoming mails to be placed on pending.
+Kindly update your Mailbox in order to be able to receive new mails.
+We apologies for any inconvience this might cause.
+Best Regards,
+Admin Team

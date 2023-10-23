@@ -1,0 +1,84 @@
+Received: from domain.com (146.215.230.102) by
+ domain.com (43.130.141.76) with Microsoft SMTP Server id
+ 8.3.342.0; Thu, 22 May 2015 00:11:37 -0700
+Received: from domain.com ([160.33.194.231])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s4M7Ba0f024459	for <user@domain.com>; Thu, 22 May 2015 
+ 07:11:36 GMT
+Received: from mail46-ch1-domain.com (mail-domain.com
+ [216.32.181.171])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s4M7DFik006932
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Thu, 22 May 2015 07:13:16 GMT
+Received: from mail46-ch1 (localhost [127.0.0.1])	by mail46-ch1-domain.com
+ (Postfix) with ESMTP id 00F5D300716	for <user@domain.com>; Thu, 22
+ May 2015 07:11:34 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:54.240.15.225;KIP:(null);UIP:(null);IPV:NLI;H:a15-225.smtp-domain.com;RD:a15-225.smtp-domain.com;EFVD:NLI
+X-SpamScore: -7
+X-BigFish: vps-7(zzc89bhe0eahc857hc545Izz1f42h1aa0R1cfdh2148h208ch1ee6h1de0h1fdah2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6hzz1de098h172cfch1def03h29e4I17326ah1def87h8275bh1bc7b9h8275dh1def86h1de097h186068h1b778fh1ce120hz2fh5fh2a8h839ha12hd24h1288h12a5h12bdh137ah13eah1441h1504h1537h153bh162dh1631h1758h18e1h1946h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1fe8h1ff5h20f0h2216h22d0h2336h2363h2438h2461h2487h24d7h2516h2545h255eh25f6h2605h268bh26d3h27e2h282bh214ai251ci2505k)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail46-ch1: domain of bounces.amazon.com designates 54.240.15.225 as permitted sender) client-ip=54.240.15.225; user@domain.com; helo=a15-225.smtp-domain.com ;domain.com ;
+Received: from mail46-ch1 (localhost.localdomain [127.0.0.1]) by mail46-ch1
+ (MessageSwitch) id 1400742690766155_17921; Thu, 22 May 2015 07:11:30 +0000
+ (UTC)
+Received: from domain.com (domain.com
+ [10.43.68.231])	by mail46-domain.com (Postfix) with ESMTP id AB5224E024C
+	for <user@domain.com>; Thu, 22 May 2015 07:11:30 +0000 (UTC)
+Received: from a15-225.smtp-domain.com (54.240.15.225) by
+ domain.com (10.43.70.20) with Microsoft SMTP Server (TLS) id
+ 14.16.227.3; Thu, 22 May 2015 07:11:30 +0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=taugkdi5ljtmsua4uibbmo5mda3r2q3v; d=amazon.com; t=1400742689;
+	h=Date:From: Amazon Local <LocalDeals@amazon.com>
+	bh=VKSrqtHP+lAfwwFhDP2edUjr6ijdvmf9/QZiixWjGqM=;
+	b=PR6qKyop/n/SlVWxNSN7Wy0xH1nj4H/XNp9LiTXONj1kv1vqS10xrEE5HAgQYqMI
+	/WfoQjJSRPU22X+kgE6KQqB4z2C6pYcd1iwrVzlv4096TRGSxb8ru+CXTUNVjAAV51j
+	LoQ5ZBfGoZC7FZL1I/FjV2a9EEHOOCU9VPG/LzPA=
+Date: Thu, 22 May 2015 07:11:29 +0000
+From: Amazon Local <LocalDeals@amazon.com>
+To: "User" <user@domain.com>
+Message-ID: <0000014622user@domain.com>
+Subject: Find a getaway that's close to home
+Bounces-to: 20140522071129user@domain.com
+X-AMAZON-MAIL-RELAY-TYPE: merchandizing
+X-AMAZON-RTE-VERSION: 2.0
+X-Original-MessageID: <urn.correios.msg.20140522071129d4f5c460a84246e4b92ec9fbf471eae9@1400742689320.massmail-sender-na-1e-i-bbcb5fc1.us-east-1.amazon.com>
+X-SES-Outgoing: 2014.05.22-54.240.15.225
+Return-Path: 
+ 20140522071129user@domain.com
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+ <<link>>
+Deals on desert, mountain, and seaside destinations near you. | Unsubscribe     
+
+domain.com         
+
+ <<link>> Special Travel Offer    domain.com         
+Enjoy a convenient escape to the mountains, the desert, or the sea and shore. Check out our travel deals and find incredible places to domain.com in and around your corner of the world. 
+One or Two Nights at Anaheim Hotel Near DISNEYLAND® Resort      
+
+Anabella Hotel  
+
+1030 W Katella Ave, Anaheim, CA         
+
+ <<link>> miles away (from your Amazon address)    
+
+
+
+From
+
+
+
+
+$       
+
+119     
+
+Savings 47% 
+
+ <<link>>    <<link>>    <<link>>    <<link>>     <<link>>   
+Savings 47%      
+

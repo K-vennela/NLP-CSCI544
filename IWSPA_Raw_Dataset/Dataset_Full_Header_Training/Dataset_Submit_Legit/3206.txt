@@ -1,0 +1,64 @@
+Received: from domain.com (146.215.230.102) by
+ domain.com (43.130.141.76) with Microsoft SMTP Server id
+ 8.3.342.0; Sun, 15 Jun 2015 05:02:28 -0700
+Received: from domain.com ([160.33.194.230])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s5FC2Rg5012138	for <user@domain.com>; Sun, 15 Jun 2015 
+ 12:02:27 GMT
+Received: from mail60-va3-domain.com (mail-domain.com
+ [216.32.180.118])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s5FC2Lvq015301
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Sun, 15 Jun 2015 12:02:21 GMT
+Received: from mail60-va3 (localhost [127.0.0.1])	by mail60-va3-domain.com
+ (Postfix) with ESMTP id 18D3960151	for <user@domain.com>; Sun, 15 Jun
+ 2015 12:02:27 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:199.7.206.163;KIP:(null);UIP:(null);IPV:NLI;H:omp.connect.moma.org;RD:omp.connect.moma.org;EFVD:NLI
+X-SpamScore: 2
+X-BigFish: vps2(zz9371I77f5hzz1f42h2148h1ee6h1de0h1fdah2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6h208ch1082kzz8275ch1de098h1def03h1ce122h1bc7b9h8275dh1de097h186068h1b778fh1ce120hz2fheh5eh5fh839h947h950hd25h107ah10d2h1288h12a5h137ah13b6h13eah1441h1537h153bh162dh1631h1758h18e1h1946h19b5h1b0ah224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1fe8h1ff5h2216h2336h2438h2461h2487h24d7h2516h2545h255dh25f6h2605h268bh26d3h27e2h282bh2847h28a1h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail60-va3: domain of domain.com designates 199.7.206.163 as permitted sender) client-ip=199.7.206.163; user@domain.com; helo=omp.connect.moma.org ;domain.com ;
+Received: from mail60-va3 (localhost.localdomain [127.0.0.1]) by mail60-va3
+ (MessageSwitch) id 1402833744892521_27128; Sun, 15 Jun 2015 12:02:24 +0000
+ (UTC)
+Received: from domain.com (unknown [10.7.14.254])	by
+ mail60-domain.com (Postfix) with ESMTP id CB8D54200A8	for
+ <user@domain.com>; Sun, 15 Jun 2015 12:02:24 +0000 (UTC)
+Received: from omp.connect.moma.org (199.7.206.163) by
+ domain.com (10.7.99.43) with Microsoft SMTP Server id
+ 14.16.227.3; Sun, 15 Jun 2015 12:02:24 +0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=moma; d=connect.moma.org;
+ h=MIME-Version:Content-Type:Content-Transfer-Encoding:Date:To:From: MoMA Store <email@connect.moma.org>
+ bh=0sEtZGhx613h64B5IOZMRVsoIUE=;
+ b=xaejW6TFFvNDi7cSLiGiVFX2MsOgUyDmasqgmNVvJyo5vX7fYu5e6PvhGHfuTt9ea4+rpvidb4qs
+   cyY1s3mNprqI4SK+REYvGPWVlYzyLMtwIrgC6px+N2atqOlEKDWcIb2KZWrHUX4IiCYE0+aRpN4+
+   sYV/5j65rwQ5WE+eMLo=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=moma; d=connect.moma.org;
+ b=fkVj6wD+R3AyALjLEauG3XYzn/4AOm6wlTL3MV3KhWDYiWZis9TvFR3PPdCjcB0T6IKUuRTA+vcy
+   BfvCpJFBI0WiCm6zn+QGxH2kz+K0RH3zDFoB9Ssa/qqrvl2f2gyF53pYjkwFFaXedPQI892TIHc/
+   ZvZ1omdUXXG2O1M0ceA=;
+Received: by omp.connect.moma.org id hjm5l01607gk for
+ <user@domain.com>; Sun, 15 Jun 2015 05:02:24 -0700 (envelope-from
+ <user@domain.com>)
+Date: Sun, 15 Jun 2015 05:02:24 -0700
+To: <user@domain.com>
+From: MoMA Store <email@connect.moma.org>
+Reply-To: MoMA Store <user@domain.com>
+Subject: Today Only: Members Enjoy a 20% BONUS Savings
+List-Unsubscribe: <<<link>>>, <mailto:user@domain.com?subject=List-Unsubscribe>
+X-sgxh1: HuPXiHkJHtxkiLQkhgPQJhu
+X-rext: 4.interact5.Egc3scxF5PMpUt9PIro7ns_nspbbRJ33j7U
+X-cid: themoma.93885
+Message-ID: <0.1.27.user@domain.com>
+Return-Path: user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+ <<link>>   In honor of Father's Day, members enjoy a 20% savings throughout the site and in stores today only!
+
+Having trouble viewing the e-mail below? Improve your view Browser.
+
+ <<link>>     
+MoMA STORE       
+

@@ -1,0 +1,81 @@
+Received: from domain.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Thu, 15 May 2015 12:27:06 +0200
+Received: from mail.hackingteam.it (unknown [192.168.100.50])	by
+ domain.com (Postfix) with ESMTP id A54FF621AB;	Thu, 15 May 2015 
+ 11:15:58 +0100 (BST)
+Received: by mail.hackingteam.it (Postfix)	id 3ED8AB6603C; Thu, 15 May 2015 
+ 12:27:06 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from EmadPC (unknown [192.168.1.192])	(using TLSv1 with cipher
+ AES128-SHA (128/128 bits))	(No client certificate requested)	by
+ mail.hackingteam.it (Postfix) with ESMTPSA id 2ED3EB6600D;	Thu, 15 May 2015 
+ 12:27:06 +0200 (CEST)
+From: Emad Shehata <e.shehata@hackingteam.it>
+To: 'Simonetta Gallucci' <user@domain.com>, 'amministrazione'
+	<user@domain.com>
+CC: 'Emad Shehata' <user@domain.com>, 'Marco Bettini'
+	<user@domain.com>
+References: <011b01cf7028$2656cfe0$73046fa0$@user@domain.com>
+In-Reply-To: <011b01cf7028$2656cfe0$73046fa0$@user@domain.com>
+Subject: R: BONIFICO FAVORE HT  SRL di eur 33.783,75
+Date: Thu, 15 May 2015 12:27:06 +0200
+Message-ID: <003f01cf7028$387b6f50$a9724df0$@user@domain.com>
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: Ac9wJcnfKM+8S5IJR4C2NekvZ2YG2AAAi8oQAAAONiA=
+Content-Language: it
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1853779_-_-"
+
+Grazie mille, ci siamo pensati a vicenda J  Da: Simonetta Gallucci [mailto:user@domain.com] 
+Inviato: giovedì 15 maggio 2015 12:27
+A: 'amministrazione'
+Cc: 'Emad Shehata'; 'Marco Bettini'
+Oggetto: FW: BONIFICO FAVORE HT SRL di eur 33.783,75 Ciao,  vi informo che in data odierna abbiamo ricevuto bonifico per € 33.783,75 (anziché 33.750,00) da SIS of KNB, a saldo fattura n. 017/2014. Grazie,  Simonetta Gallucci 
+Administrative Support 
+
+Hacking Team
+Milan Singapore Washington DC
+domain.com
+
+email: user@domain.com 
+mobile: +39 3939310619
+phone: +39 0229060603 From: Emad Shehata <e.shehata@hackingteam.it>
+Sent: giovedì 15 maggio 2015 12:10
+To: user@domain.com
+Cc: Luca Olmi
+Subject: BONIFICO FAVORE HT SRL di eur 33.783,75 Classification: Public
+
+Buongiorno Simonetta, 
+
+con il presente La informo che in data odierna Vi abbiamo accreditato il bonifico in oggetto: 
+
+Ordine :   SPECIAL INFORMATION SERVICE OF TH                                       
+       COMMITTEE FOR THE NATIONAL SECUR      
+
+Causale: CNTR 48 DD 31.03.14 PAYMENT FOR==                                       
+       EDUCATIONAL SERVICES==                
+
+Cordiali saluti. 
+
+Kind regards,
+Alberto Conalba
+
+____________________________________________________
+
+Alberto Conalba
+
+Deutsche Bank Società per Azioni
+MILAN
+Via Dei Martinitt, 3, 20146 Milano, Italy
+Tel. ++39 0240243355
+Fax +39(02)4024-3329
+Email user@domain.com 
+
+-- Informationen (einschließlich Pflichtangaben) zu einzelnen, innerhalb der EU tätigen Gesellschaften und Zweigniederlassungen des Konzerns Deutsche Bank finden Sie unter <<link>> Diese E-Mail enthält vertrauliche und/ oder rechtlich geschützte Informationen. Wenn Sie nicht der richtige Adressat sind oder diese E-Mail irrtümlich erhalten haben, informieren Sie bitte sofort den Absender und vernichten Sie diese E-Mail. Das unerlaubte Kopieren sowie die unbefugte Weitergabe dieser E-Mail ist nicht gestattet.Please refer to <<link>> for information (including mandatory corporate particulars) on selected Deutsche Bank branches and group companies registered or incorporated in the European Union. This e-mail may contain confidential and/or privileged information. If you are not the intended recipient (or have received this e-mail in error) please notify the sender immediately and delete this e-mail. Any unauthorized copying, disclosure or distribution of the material in this e-mail is strictly forbidden.

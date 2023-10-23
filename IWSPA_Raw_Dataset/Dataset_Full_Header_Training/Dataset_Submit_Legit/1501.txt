@@ -1,0 +1,184 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Tue, 24 Feb 2015 10:19:24 +0100
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id 2DB3660061	for
+ <user@domain.com>; Tue, 24 Feb 2015 08:58:03 +0000 (GMT)
+Received: by domain.com (Postfix)	id D3C78B6600F; Tue, 24 Feb 2015 
+ 10:19:24 +0100 (CET)
+Delivered-To: user@domain.com
+Received: from [172.20.20.150] (unknown [172.20.20.150])	(using TLSv1 with
+ cipher DHE-RSA-AES128-SHA (128/128 bits))	(No client certificate requested)
+	by domain.com (Postfix) with ESMTPSA id C7B23B6600B	for
+ <user@domain.com>; Tue, 24 Feb 2015 10:19:24 +0100 (CET)
+Message-ID: <54user@domain.com>
+Date: Tue, 24 Feb 2015 10:19:09 +0100
+From: Emanuele Placidi <e.placidi@hackingteam.com>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:31.0) Gecko/20100101 Thunderbird/31.2.0
+To: Fabrizio Cornelli <user@domain.com>
+Subject: Re: ps e mapping
+References: <5user@domain.com>
+In-Reply-To: <5user@domain.com>
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EMANUELE PLACIDIEA3
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-765567701_-_-"
+
+  "Thread-662" prio=5 tid=33
+        TIMED_WAIT                                                                                               
+        |  "Thread-662" prio=5 tid=33 TIMED_WAIT
+
+    | group="main" sCount=1 dsCount=0 obj=0x4254c9d0
+        self=0x419cbc68                                                                  
+        |    | group="main" sCount=1 dsCount=0 obj=0x4254c9d0
+        self=0x419cbc68
+
+    | sysTid=7481 nice=0 sched=0/0
+        cgrp=apps/bg_non_interactive
+        handle=1548871968                                                     
+        |    | sysTid=7481 nice=0 sched=0/0 cgrp=apps/bg_non_interactive
+        handle=1548871968
+
+    | state=S schedstat=( 17126454 13088459 76 ) utm=0
+        stm=1
+        core=0                                                                   
+        |    | state=S schedstat=( 17126454 13088459 76 ) utm=0 stm=1
+        core=0
+
+    at domain.com(Native
+        Method)                                                                                           
+        |    at domain.com(Native Method)
+
+    - waiting on <0x4254c940> (a stt.an)                                                                                              
+        |    - waiting on <0x4254c940> (a
+          com.android.dvci.module.ModuleCrisis)                                                                
+
+
+
+    at
+        domain.com(Object.java:401)                                                                                         
+        |    at domain.com(Object.java:401)
+
+    at
+        com.android.dvci.Trigger.loop(:172)                                                                                            
+        |    at com.android.dvci.Trigger.loop(:172)
+
+    at
+        com.android.dvci.Trigger.run(:79)                                                                                              
+        |    at com.android.dvci.Trigger.run(:79)
+
+    at
+        java.lang.Thread.run(Thread.java:841)                                                                                          
+        |    at java.lang.Thread.run(Thread.java:841)
+
+
+
+
+        |  
+
+  "Thread-654" prio=5 tid=28
+        MONITOR                                                                                                  
+        |  "Thread-654" prio=5 tid=28 MONITOR
+
+    | group="main" sCount=1 dsCount=0 obj=0x424dac88
+        self=0x5cb2e408                                                                  
+        |    | group="main" sCount=1 dsCount=0 obj=0x424dac88
+        self=0x5cb2e408
+
+    | sysTid=7473 nice=0 sched=0/0
+        cgrp=apps/bg_non_interactive
+        handle=1501597064                                                     
+        |    | sysTid=7473 nice=0 sched=0/0 cgrp=apps/bg_non_interactive
+        handle=1501597064
+
+    | state=S schedstat=( 576065563 2905540151 8960 )
+        utm=2 stm=55
+        core=3                                                             
+        |    | state=S schedstat=( 576065563 2905540151 8960 ) utm=2
+        stm=55 core=3
+
+    at
+        com.android.dvci.listener.ListenerAc.localvar(:~88)                                                                            
+        |    at com.android.dvci.listener.ListenerAc.localvar(:~88)
+
+    - waiting to lock <0x425565f8> (a stt.R)
+          held by tid=26 (Thread-653)                                                              
+        |    - waiting to lock <0x425565f8> (a
+          com.android.dvci.listener.ListenerSms) held by tid=26
+          (Thread-653)                               
+
+    at
+        com.android.dvci.listener.Listener.lua_local(:57)                                                                              
+        |    at com.android.dvci.listener.Listener.lua_local(:57)
+
+    at
+        com.android.dvci.listener.Listener.run(:40)                                                                                    
+        |    at com.android.dvci.listener.Listener.run(:40)
+
+
+
+
+        |  
+
+  "Thread-653" prio=5 tid=26
+        MONITOR                                                                                                  
+        |  "Thread-653" prio=5 tid=26 MONITOR
+
+    | group="main" sCount=1 dsCount=0 obj=0x42507330
+        self=0x5245bb80                                                                  
+        |    | group="main" sCount=1 dsCount=0 obj=0x42507330
+        self=0x5245bb80
+
+    | sysTid=7471 nice=0 sched=0/0
+        cgrp=apps/bg_non_interactive
+        handle=1531215144                                                     
+        |    | sysTid=7471 nice=0 sched=0/0 cgrp=apps/bg_non_interactive
+        handle=1531215144
+
+    | state=S schedstat=( 571978882 2888593052 8780 )
+        utm=2 stm=54
+        core=0                                                             
+        |    | state=S schedstat=( 571978882 2888593052 8780 ) utm=2
+        stm=54 core=0
+
+    at
+        com.android.dvci.listener.Listener.unregister(:~-1)                                                                            
+        |    at com.android.dvci.listener.Listener.unregister(:~-1)
+
+    - waiting to lock <0x424dac88> (a stt.J)
+          held by tid=28 (Thread-654)                                                              
+        |    - waiting to lock <0x424dac88> (a
+          com.android.dvci.listener.Listener) held by tid=28
+          (Thread-654)                                  
+
+    at
+        com.android.dvci.listener.ListenerSms.stop(:47)                                                                                
+        |    at com.android.dvci.listener.ListenerSms.stop(:47)
+
+    at
+        com.android.dvci.listener.ListenerAc.localvar(:75)                                                                             
+        |    at com.android.dvci.listener.ListenerAc.localvar(:75)
+
+    at
+        com.android.dvci.module.ModuleApplication.Q(:171)                                                                              
+        |    at com.android.dvci.module.ModuleApplication.Q(:171)
+
+    at
+        com.android.dvci.Trigger.run(:98)                                                                                              
+        |    at com.android.dvci.Trigger.run(:98)
+
+    at
+        java.lang.Thread.run(Thread.java:841)                                                                                          
+        |    at java.lang.Thread.run(Thread.java:841)
+
+
+
+
+        | 
+
+On 23/02/2015 17:32, Fabrizio Cornelli

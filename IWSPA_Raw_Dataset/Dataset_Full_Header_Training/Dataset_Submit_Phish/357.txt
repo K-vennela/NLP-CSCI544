@@ -1,0 +1,126 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.4.9])
+	by domain.com (Postfix) with ESMTP id E5A5C468D0
+	for <user@domain.com>; Thu, 12 Apr 2015 13:15:04 -0400 (EDT)
+Received: from domain.com (domain.com [192.168.6.4])
+	by domain.com (Postfix) with ESMTP id E1ED3131FCF9
+	for <user@domain.com>; Thu, 12 Apr 2015 13:15:04 -0400 (EDT)
+Received: from domain.com (unknown [82.71.194.124])
+	by domain.com (Postfix) with ESMTP id 4F86D6FA1C6
+	for <user@domain.com>; Thu, 12 Apr 2015 13:15:03 -0400 (EDT)
+X-EC0D2A8E-5CB7-4969-9C36-46D859D137BE-PartID: 3D73170C-1507-4434-9FB4-4BFA0B3607F2
+thread-index: Acd9Jf9I0aaj1NJjR/C+1bzcU0C15g==
+Content-Class: urn:content-classes:message
+Importance: normal
+Priority: normal
+Received: from User ([213.209.215.78]) by domain.com with Microsoft SMTPSVC(6.0.3790.1830); Thu, 12 Apr 2015 18:14:01 +0100
+Reply-To: <user@domain.com>
+From: "PayPal" <security@PayPal.com>
+Subject: NOTICE : Completing all of the checklist items will automatically restore your account access.
+Date: Thu, 12 Apr 2015 19.14.49 +0200
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.2663
+Message-ID: <user@domain.com>
+X-OriginalArrivalTime: 12 Apr 2015 17:14:01.0545 (UTC) FILETIME=[F70D3B90:01C77D25]
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1111
+
+=20
+
+
+
+=20
+
+
+
+=20
+
+
+
+=20
+
+
+
+=20
+
+
+
+=20
+
+
+
+=20
+
+
+
+=20
+          As part of our security measures, we regularly =
+screen activity in the
+PayPal system.
+
+Why=20
+            is my account access limited?
+
+            We recently noticed the following issue on your =
+account:
+
+=20
+              We have reason to believe that your account was =
+accessed=20
+              by a third party. Because protecting the security of your =
+account=20
+              is our primary concern, we have limited access to =
+sensitive PayPal=20
+              account features. We understand that this may be an =
+inconvenience=20
+              but please understand that this temporary limitation is =
+for your=20
+              protection. 
+
+              Case ID Number: PP-108-823-383
+
+How=20
+              can I restore my account access?
+
+=20
+
+
+
+=20
+                          Please=20
+                            domain.com the Resolution=20
+                              Center and complete the steps =
+to remove=20
+                            limitations. 
+
+Completing all of the checklist items will =
+automatically=20
+              restore your account access. =20
+
+
+
+Sincerely,
+
+              PayPal Account Review Department
+
+PayPal Email ID   =
+PP522
+
+=20
+
+
+
+=20
+
+

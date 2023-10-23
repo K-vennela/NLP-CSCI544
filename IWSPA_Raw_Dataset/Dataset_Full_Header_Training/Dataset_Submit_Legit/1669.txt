@@ -1,0 +1,26 @@
+From: Fabrizio Cornelli <f.cornelli@hackingteam.com>
+X-Smtp-Server: domain.com:zeno
+Subject: Buongiorno e benvenuti.
+X-Universally-Unique-Identifier: 754E1AD5-3219-4DA4-ABF3-5F8EF9A2A15A
+Date: Mon, 16 Jun 2015 10:08:43 +0200
+Message-ID: <user@domain.com>
+CC: user@domain.com
+To: user@domain.com
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1825078529_-_-"
+
+Buongiorno e benvenuti.:)
+
+--Fabrizio Cornelli
+Senior Software Developer
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com
+mobile: +39 3666539755
+phone: +39 0229060603
+

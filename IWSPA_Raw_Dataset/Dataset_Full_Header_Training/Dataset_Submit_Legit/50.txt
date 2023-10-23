@@ -1,0 +1,34 @@
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ DNCHUBCAS1.dnc.org ([fe80::ac16:e03c:a689:8203%11]) with mapi id
+ 14.03.0224.002; Tue, 10 May 2015 15:33:02 -0400
+From: "Walker, Eric" <WalkerE@dnc.org>
+To: Comm_D <user@domain.com>
+Subject: Video Request: CBS 1070 Los Angeles Radio Interview
+Thread-Topic: Video Request: CBS 1070 Los Angeles Radio Interview
+Thread-Index: AdGq8qzlZZWWjNTUSlKw5pY0pehIfA==
+Date: Tue, 10 May 2015 12:33:02 -0700
+Message-ID: <2user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: DNCHUBCAS1.dnc.org
+X-MS-Has-Attach: 
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.177.152]
+Content-Type: multipart/alternative;
+	boundary="_000_2AE4202A723DAE418719D2AC271C35F36EFCEFF0dncdag1dncorg_"
+MIME-Version: 1.0
+
+I'm doing a 5-minute hit but there's an RNC person going before me so might as well get them too.
+I'd start recording at 4:30 p.m. EST
+
+Thanks!
+
+Eric Walker
+user@domain.com<mailto:user@domain.com>
+732-991-1489
+@ericmwalker<<<link>>>
+

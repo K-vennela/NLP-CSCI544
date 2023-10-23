@@ -1,0 +1,69 @@
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ dnchubcas2.dnc.org ([::1]) with mapi id 14.03.0224.002; Mon, 9 May 2015 
+ 13:08:12 -0400
+From: "Palermo, Rachel" <PalermoR@dnc.org>
+To: "User" <user@domain.com>
+Subject: Draft: Expectations for Weekend Rotation
+Thread-Topic: Draft: Expectations for Weekend Rotation
+Thread-Index: AdGqFRJ4j6L+0EdzTEq44aBhmw1A5g==
+Date: Mon, 9 May 2015 10:08:11 -0700
+Message-ID: <6user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: dnchubcas2.dnc.org
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.176.154]
+Content-Type: multipart/related;
+	boundary="_004_6E20703C3B98FC4D97E277223738C7A74DAB19ABdncdag1dncorg_";
+	type="multipart/alternative"
+MIME-Version: 1.0
+
+Please make changes as you'd like. I think this is important to go out to our team.
+
+Hi team,  we'd like to clarify responsibilities for our weekend rotation. We need to make sure we are pushing hits along and getting our releases out in a timely fashion. Please see me with questions.
+
+LEAD
+
+*         Be within an hour of a computer for the entire weekend.
+
+*         Set aside Sunday morning to coordinate with research and immediately send notes around after Sunday shows.
+
+*         Take the lead on writing releases and pitching in a timely fashion.
+
+*         Take the lead on moving all hits along, bumping for approval if need be.
+
+*         Blast all releases and post them to Factivists.
+
+*         If for some reason you have an emergency (for example: you are hit by a bus or your computer is fried) and you cannot be point to write and blast a release, you are in charge of communicating with your backup to ensure they can take your place. Don't just ignore your email-it's your responsibility to communicate with your backup.
+
+*         Plan all social and personal activity accordingly. If you will be away from a computer for more than an hour, make sure your back up is available during that time.
+
+*         Send articles around the slack group and comm_d throughout the weekend.
+
+BACKUP
+
+*         Be within an hour of a computer for the entire weekend.
+
+*         If the lead has an emergency and is unable to fulfil their role, you must take point for writing releases, pitching, and blasting.
+
+*         Stay in communication with your lead throughout the weekend to see how you can be helpful.
+
+*         Send articles around the slack group and comm_d throughout the weekend.
+
+BACKUP #2
+
+*         If both the lead and the backup have an emergency, you are next in line to take point. This role will usually not be needed, but it is an extra precaution in the rare circumstance that the lead and backup are unable to fulfill their duties.
+
+*         Only used a last resort and for legitimate excuses.
+
+--
+[DNC]<<<link>>>
+Rachel Palermo
+Organization
+user@domain.com<mailto:user@domain.com>
+202-863-8041
+

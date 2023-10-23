@@ -1,0 +1,53 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id 0BA9446956
+	for <user@domain.com>; Sun, 26 Aug 2015 12:19:17 -0400 (EDT)
+Received: from domain.com (domain.com [204.181.64.8])
+	by domain.com (Postfix) with ESMTP id 1C2C6131FA3D
+	for <user@domain.com>; Sun, 26 Aug 2015 12:19:17 -0400 (EDT)
+Received: from domain.com (domain.com [204.73.200.49])
+	by domain.com (Postfix) with ESMTP id 242A76FA1C5
+	for <user@domain.com>; Sun, 26 Aug 2015 12:19:17 -0400 (EDT)
+Received: from domain.com (domain.com [204.73.200.34])
+	by domain.com (Postfix) with ESMTP id 94ECF642F
+	for <user@domain.com>; Sun, 26 Aug 2015 16:19:16 +0000 (GMT)
+Received: (from user@domain.com)
+	by domain.com (8.9.3/8.9.3) id QAA66136;
+	Sun, 26 Aug 2015 16:19:16 GMT
+	(envelope-from user@domain.com)
+Date: Sun, 26 Aug 2015 16:19:16 GMT
+To: user@domain.com
+Subject: New Security Feature - Sign-In Protection
+From: Natwest Online Banking <service@em-natwest.com>
+Message-Id: <1307461110.923@em-domain.com>
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Content-Length: 1654
+Lines: 46
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 68
+
+New Security Feature - Sign-In Protection
+
+We recommend that 
+    you sign up for Lloyds TSB  new Online Banking security feature, which helps
+
+
+
+    protect your account from unauthorized users.
+
+How does this new security feature work?
+
+    Sign-In Protection adds an extra level of verification to the sign-in 
+    process -- it's like putting a second
+ lock on your door. Any attempts to 
+    access your Online Banking accounts from a computer we don't 
+recognize will 
+    be prevented unless the correct answer to one of your personal verification questions is
+ given.
+

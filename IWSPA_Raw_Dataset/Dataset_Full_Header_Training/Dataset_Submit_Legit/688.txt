@@ -1,0 +1,43 @@
+Return-Path: <user@domain.com>
+Reply-To: <user@domain.com>
+From: "HT Srl" <support@hackingteam.com>
+To: <user@domain.com>
+Subject: [!SHV-330-90641]: Assignment - Advice on setting up a decoy page
+Date: Thu, 31 Jan 2015 10:36:45 +0200
+Message-ID: <1359621405.510user@domain.com>
+X-Mailer: Microsoft Outlook 15.0
+Thread-Index: AQCALdZoZ1xcCtdPAajSkoUOPRCjCA==
+X-OlkEid: 000000007D2091DA92D3914ABB4C05769578F4790700A96A85A9D2A04643865EB2097E3CF3A30000000002080000A96A85A9D2A04643865EB2097E3CF3A3000000006F190000E2C9B2D1E35536468139E93F645AAF98
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-615933390_-_-"
+
+Bruno Muschitiello updated #SHV-330-90641
+
+-----------------------------------------
+
+Staff (Owner): Bruno Muschitiello (was: Alberto Ornaghi)
+
+Advice on setting up a decoy page
+
+---------------------------------
+
+Ticket ID: SHV-330-90641
+URL: <<link>>
+Full Name: Angsk
+Email: user@domain.com
+Creator: User
+Department: General
+Staff (Owner): Bruno Muschitiello
+Type: Issue
+Status: In Progress
+Priority: Normal
+Template Group: Default
+Created: 28 January 2015 11:02 AM
+Updated: 31 January 2015 08:26 AM
+
+Attached is our decoy.rb file. The rtf with the words in red reflect the changes that we made in decoy.rb.
+
+Staff CP:  <<link>>
+

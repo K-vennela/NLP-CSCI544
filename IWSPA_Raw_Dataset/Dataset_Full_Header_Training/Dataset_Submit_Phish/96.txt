@@ -1,0 +1,60 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id BC870469AF
+	for <user@domain.com>; Sat, 18 Aug 2015 19:36:16 -0400 (EDT)
+X-Greylist: delayed 797 seconds by postgrey-1.27 at domain.com; Sat, 18 Aug 2015 19:36:16 EDT
+Received: from domain.com (unknown [67.55.91.244])
+	by domain.com (Postfix) with ESMTP id BF2B5131F9BB
+	for <user@domain.com>; Sat, 18 Aug 2015 19:36:16 -0400 (EDT)
+Received: from User ([64.32.196.178])
+        by domain.com (Merak 7.5.2) with ASMTP id ECE74596;
+        Sun, 19 Aug 2015 09:22:52 +1000
+From: "PayPal"<service@paypal.com>
+Subject: Unauthorized access to your PayPal account!
+Date: Sat, 18 Aug 2015 19:22:04 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20070818233616.user@domain.com>
+To: undisclosed-recipients:;
+Content-Length: 3159
+Lines: 31
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 45
+
+BODY, TD {font-family: verdana,arial,helvetica,sans-serif;font-size: 12px;color: #000000;}
+HR.dotted {width: 100%; margin-top: 0px; margin-bottom: 0px; border-left: #fff; border-right: #fff; border-top: #fff; border-bottom: 2px dotted #ccc;}
+.sansSerif{font-family: verdana,arial,helvetica,sans-serif; font-size: 14px;color: #000000;}
+.heading {font-family: verdana,arial,helvetica,sans-serif;font-size: 18px;font-weight: bold;color: #003366;}
+.xptFooter {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;color: #aaaaaa;}
+
+Unauthorized access to your PayPal account!
+
+We recently noticed more attempts to log in to your PayPal account from a foreign IP address.
+If you accessed your account while traveling, the unusual log in attempts may have been initiated by you.
+However, if you are the rightfull holder of the account, please domain.com Paypal as soon as possible to verify your identity:
+
+Click here to verify your account
+
+We ask that you allow at least 72 hours for the case to be investigated and we strongly recommend to verify your account in that time.
+
+Thank you for using PayPal!
+
+The PayPal Team
+
+Please do not reply to this email. This mailbox is not monitored and you will not receive a response. For assistance, 
+log in to your PayPal account and choose the Help link located in the top right corner of any PayPal page.
+
+To receive email notifications in plain text instead of HTML, update your preferences 
+
+PayPal Email ID PP468
+

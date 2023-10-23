@@ -1,0 +1,145 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 18 May
+ 2015 19:47:16 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 18 May 2015 
+ 19:47:13 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 923079740
+ for user@domain.com; Wed, 18 May 2015 18:47:23 -0500
+X-Note-AR-ScanTimeLocal: 5/18/2016 6:47:23 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @hillaryclinton.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->->->United States->
+X-Note-Sending-IP: 209.85.192.72
+X-Note-Reverse-DNS: mail-qg0-domain.com
+X-Note-Return-Path: nationalpress2016+user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mail-qg0-domain.com ([209.85.192.72] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 139646673
+ for user@domain.com; Wed, 18 May 2015 18:47:23 -0500
+Received: by mail-qg0-domain.com with SMTP id b14sf96605172qge.2
+        for <user@domain.com>; Wed, 18 May 2015 16:47:14 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=hillaryclinton.com; s=google;
+        h=From: Hillary for America Press <press@hillaryclinton.com>
+         :x-original-sender:x-original-authentication-results:precedence
+         :mailing-list:list-id:x-spam-checked-in-group:list-post:list-help
+         :list-archive:list-unsubscribe;
+        bh=aXNY/aNjIM/cOkEN+/EtmHMuigftOPQM/ffkXkPEQqw=;
+        b=VqOpUKxLZsLebLCspmArsc5+dJMG5hA4gqoNaV55QHxT+YuNrQ9asCwVp5hr7j+sld
+         GLyLJ2G3lT59El7TmiiJqsTB4yVhT/TR+Gzj9l/voEQ3NH9Fm1YWLEXKN2F+gI21kcqE
+         yntrkg0srmgpteHXS/p7rqhbRFjxlppsObWWo=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:From: Hillary for America Press <press@hillaryclinton.com>
+         :subject:to:x-original-sender:x-original-authentication-results
+         :precedence:mailing-list:list-id:x-spam-checked-in-group:list-post
+         :list-help:list-archive:list-unsubscribe;
+        bh=aXNY/aNjIM/cOkEN+/EtmHMuigftOPQM/ffkXkPEQqw=;
+        b=SZmOAG2Zigp0dX/xSQNahoQyuzBGjXtHVQmO/vSnK8DJ+iHUbEMvk5pE4DRzIRHTIO
+         fYSXvp27AZ3SSgo9nnlAbxBCYYViyDaHIe+kVVLL0KYsHdOPRlXR+BHX7f2al3XYThoF
+         y+Y64HbfERfpchOfFPRlG4Czs1f91H/c/XaNw0Q5A0e7J2NTrKQM1E5S+Efl5/0804Am
+         IZexwEXFQxWDs8QOURcxE9j7la2SyvKvcK8lQXmG53VzOCnw/6OsfS1xUlbUkd1KS0jQ
+         5R4j3raNcwSMCSm4UNPnE3cg7FpnJO+DcMwSXfUL7Wx87l/a6R7amzRIPm/JGMFmEh/z
+         jJow==
+X-Gm-Message-State: AOPr4FWLpxHDtHF+7usKas2lEXxgXLTmPFPsQOZHHyLoH4HYhaIJTMXFoVdQNgl+83by9Tl8
+X-Received: by 10.159.38.40 with SMTP id 37mr15193069uag.7.1463615234213;
+        Wed, 18 May 2015 16:47:14 -0700 (PDT)
+X-BeenThere: user@domain.com
+Received: by 10.157.5.135 with SMTP id 7ls462524otd.44.gmail; Wed, 18 May 2015 
+ 16:47:12 -0700 (PDT)
+X-Received: by 10.157.13.167 with SMTP id 36mr6305421ots.134.1463615231895;
+        Wed, 18 May 2015 16:47:11 -0700 (PDT)
+Received: from mail-oi0-domain.com (mail-oi0-domain.com.
+ [2607:f8b0:4003:c06::236])        by domain.com with ESMTPS id
+ v1si4523041obl.101.2016.05.18.16.47.11        for
+ <user@domain.com>        (version=TLS1_2
+ cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);        Wed, 18 May 2015 
+ 16:47:11 -0700 (PDT)
+Received-SPF: pass (domain.com: domain of user@domain.com designates 2607:f8b0:4003:c06::236 as permitted sender) client-ip=2607:f8b0:4003:c06::236;
+Received: by mail-oi0-domain.com with SMTP id x19so102895217oix.2
+        for <user@domain.com>; Wed, 18 May 2015 16:47:11
+ -0700 (PDT)
+X-Received: by 10.202.239.132 with SMTP id n126mr5974731oih.98.1463615231586;
+ Wed, 18 May 2015 16:47:11 -0700 (PDT)
+From: Hillary for America Press <press@hillaryclinton.com>
+X-Mailer: Microsoft Outlook 16.0
+Thread-Index: AdGxXzTwDZbqjxCFST+v9HiD8bpFwQ==
+Date: Wed, 18 May 2015 19:47:10 -0400
+Message-ID: <user@domain.com>
+Subject: President Clinton to Campaign for Hillary Clinton in Montana
+To: <user@domain.com>
+Content-Type: multipart/related; boundary="94eb2c092f6cf7eb4805332679f5"
+BCC: <user@domain.com>
+X-Original-Sender: user@domain.com
+X-Original-Authentication-Results: domain.com;       dkim=pass
+ user@domain.com;       spf=pass (domain.com: domain of
+ user@domain.com designates 2607:f8b0:4003:c06::236 as permitted
+ sender) user@domain.com;       dmarc=pass
+ (p=QUARANTINE dis=NONE) header.from=hillaryclinton.com
+Precedence: list
+Mailing-list: list user@domain.com; contact nationalpress2016+user@domain.com
+List-ID: <nationalpress2016.hillaryclinton.com>
+X-Spam-Checked-In-Group: user@domain.com
+X-Google-Group-Id: 5632930410
+List-Post: <<<link>>>,
+ <mailto:user@domain.com>
+List-Help: <<<link>>>,
+ <mailto:nationalpress2016+user@domain.com>
+List-Archive: <<<link>>>
+List-Unsubscribe: <mailto:googlegroups-manage+5632930410+user@domain.com>,
+ <<<link>>>
+Return-Path: nationalpress2016+user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+*President Clinton to Campaign for Hillary Clinton in Montana*
+
+On Friday, May 20, President Bill Clinton will campaign for Hillary Clinton
+in Montana ahead of the June 7 primary. Clinton will hold a public event
+in Billings where he will discuss why Hillary Clinton is the best candidate
+to raise wages and break down all the barriers holding Montana families
+back.
+
+Media interested in covering this event should *RSVP here
+<<<link>>>*by
+Thursday,
+May 19 at 10:00 PM. Media who RSVP to the event will receive a credential
+confirmation and logistical information after the RSVP deadline.
+
+*Hillary for Montana - Billings Organizing Event*
+
+WHEN: Friday, May 20 at 7:30 PM
+
+WHERE: Will James Middle School - 1200 30th St. W., Billings, Montana 59102
+
+DOORS OPEN: 6:30 PM
+
+*PUBLIC RSVP HERE
+<<<link>>>*
+
+###
+
+For Immediate Release, May 18, 2015 
+Contact: user@domain.com
+
+PAID FOR BY HILLARY FOR AMERICA
+Contributions or gifts to Hillary for America are not tax deductible.
+Hillary for America, PO Box 5256, New York
+
+-- 
+You received this message because you are subscribed to the Google Groups "NationalPress2016" group.
+To unsubscribe from this group and stop receiving emails from it, send an email to nationalpress2016+user@domain.com

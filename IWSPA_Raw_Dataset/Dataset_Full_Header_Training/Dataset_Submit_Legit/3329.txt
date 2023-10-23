@@ -1,0 +1,151 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 17 May
+ 2015 10:02:21 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 17 May 2015 
+ 10:02:18 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 919168823
+ for user@domain.com; Tue, 17 May 2015 09:02:27 -0500
+X-Note-AR-ScanTimeLocal: 5/17/2016 9:02:27 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @politico.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->
+X-Note-Sending-IP: 68.232.198.10
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from domain.com ([68.232.198.10] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 141016789
+ for user@domain.com; Tue, 17 May 2015 09:02:25 -0500
+Received: by domain.com id h7ci6i163hsl for <user@domain.com>; Tue,
+ 17 May 2015 08:02:17 -0600 (envelope-from
+ <user@domain.com>)
+From: POLITICO Pulse <pulse@politico.com>
+To: <user@domain.com>
+Subject: =?UTF-8?B?UE9MSVRJQ08gUHVsc2UsIHByZXNlbnRlZCBieSBQaFJNQTogU2Vu?=
+ =?UTF-8?B?YXRlIG9uIHZlcmdlIG9mIGFwcHJvdmluZyBaaWthIHJlcXVlc3Qg4oCUwqBQ?=
+ =?UTF-8?B?cmV2aWV3aW5nIHRvZGF5J3MgY29udGVudGlvdXMgUGFydCBCIGhlYXJpbmcg?=
+ =?UTF-8?B?4oCUIEp1c3QgOS4xIHBlcmNlbnQgb2YgQW1lcmljYW5zIGFyZSB1bmluc3Vy?=
+ =?UTF-8?B?ZWQ=?=
+Date: Tue, 17 May 2015 08:02:16 -0600
+List-Unsubscribe: <mailto:user@domain.com>
+Reply-To: POLITICO subscriptions
+	<user@domain.com>
+x-job: 1376319_5430260
+Message-ID: <4user@domain.com>
+Content-Type: multipart/alternative; boundary="quXlpXsKaB49=_?:"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+By Dan Diamond | 05/17/2016 10:00 AM EDT
+
+A House subcommittee debates whether CMS should kill a controversial demo, and researchers find that the nation's uninsured level just hit a historic new low. But first: A major development in the Zika funding fight looms today.
+
+SENATE ON VERGE OF APPROVING ZIKA REQUEST - The Senate is likely to approve a $1.1 billion Zika funding package today as part of a transportation funding bill. But that's not the whole story. 
+
+- Where they stand: Democratic Sen. Patty Murray, one of the amendment's crafters, told PULSE she is "hopeful" of passage. Republican Sen. Richard Burr told us that he's a "yes," too, and he expects enough Republican support. However, several Republicans told us yesterday evening that they were still reviewing the language and not ready to domain.com to approval.
+
+- What else is on tap: The Senate will also vote on an amendment to fully fund the $1.9 billion White House request and not pay for it (which is expected to get Democratic support) and a $1.1 billion package that is funded with ACA cuts, among other pay-fors (which will get GOP support, but Democratic backing is unlikely).
+
+HOUSE TARGETING LOWER LEVEL OF ZIKA FUNDING - House appropriators on Monday introduced a $622.1 million emergency funding bill responding to the Zika virus outbreak, about a third of what the White House has sought to combat the mosquito-borne virus.
+
+House Appropriations Committee Chairman Hal Rogers said the bill - which draws on $352 million in unspent Ebola funds and another $270 million in HHS's administrative budget, and does not include new money - will be taken up by his committee this week.
+
+The White House has failed to justify its budget request, Rogers said
+
+- Democrats say GOP is playing Zika politics with Clean Water Act. A House GOP bill called the Zika Vector Control Act contains the same language as the Reducing Regulatory Burdens Act, which creates exemptions to the Clean Water Act's restrictions on pesticide use. 
+
+The legislation, which is on the suspension calendar for Tuesday, "has nothing to do with Zika and everything to do with Republicans' relentless special interest attacks on the Clean Water Act," said Drew Hammill, spokesman for House Democratic Leader Nancy Pelosi. "It is shameful that House Republicans have decided the Zika crisis is nothing more than an opportunity to eliminate protections for the water our children drink."
+
+- The Mosquito Control Association disagrees with Democrats. In a letter, the not-for-domain.com group offers its "enthusiastic support" for Republicans' measure.
+
+"This amendment addresses a situation that has placed mosquito control activities under substantial legal jeopardy," the association wrote on Monday. "Mosquito control programs are vulnerable to lawsuits for simple paperwork violations of the Clean Water Act ... where fines may be up to $35,000 per day for activities that do not involve harm to the environment." 
+
+Read the letter: <<link>> 
+
+THIS IS TUESDAY PULSE - Where we're truly wondering if Sen. Marco Rubio is going to do chest or legs at the gym today. Tips to user@domain.com or @ddiamond on Twitter, especially if you're a source close to the senator. 
+
+With help from Brianna Ehley (@briannaehley), Jen Haberkorn (@jenhab) and Sarah Karlin-Smith (@SarahKarlin).
+
+PREVIEW: TODAY'S HEARING ON THE FUTURE OF THE PART B DEMO - The 10 a.m. House Energy and Commerce health subcommittee hearing isn't likely to go CMS's way. Nearly all House Republicans have signed on to a letter seeking to kill the demonstration to test new ways to pay for physician-administered drugs, and the committee plans to discuss Rep. Larry Bucshon's bill to end the project.
+
+- What you'll hear: "Misguided," "ill-conceived," and "harmful," will be some of the negative refrains from witnesses - along with the verb "withdraw." 
+
+But the hearing may be more balanced than some might have thought. Two of the five witnesses offered strong support for the Part B demo in prepared testimony, Pro's Sarah Karlin notes. 
+
+"My personal Catch-22 is that while drugs are keeping me alive, I am going through my savings at an alarming rate," said Heather Block, a stage four cancer patient, in prepared testimony. "In all the uproar over this proposal, I have yet to hear anyone say that the current system is working." Joe Baker, president of the Medicare Rights Center, said the demonstration must move forward if the government wants to achieve its overall goal of transitioning Medicare to a system that reimburses for health care based on value - a concept supported by many of the Part B demo's detractors, including physicians and hospitals.
+
+- Even critics of the demo want changes to drug prices. Michael Schweitz, the national advocacy chair for the coalition of state rheumatology organizations, and an opponent of the proposal, wrote that the increases in drug prices "are unsustainable for Medicare and beneficiaries." But Medicare's proposal doesn't directly address drug prices, he said. 
+
+Hearing information and links to all testimony: <<link>>
+
+** A message from PhRMA: PhRMA member companies invested $58.8 billion in research and development in 2015, up 10.3 percent from 2014, new data show. For more than 30 years, the U.S. biopharmaceutical industry has led the world in the development of medicines, and PhRMA member companies continue to be at the forefront. Learn more. **
+
+SENATE DEMS AGAIN BACK DEMO - "We believe that with refinements, the Demonstration can be an integral part of the administration's commitment to lowering health care costs and improving quality for our nation's Medicare beneficiaries," Sen. Elizabeth Warren and 10 colleagues wrote on Monday night to HHS and CMS leaders. <<link>>
+
+OBAMA: FULL COURT WOULDN'T HAVE PUNTED ON ZUBIK - The president said on Monday that he suspects the Zubik v. Burwell outcome would have been different had the court had a full bench.
+
+"I won't speculate as to why [the court] punted but my suspicion is that if we had nine Supreme Court justices instead of eight, there might have been a different outcome," President Barack Obama said in an interview with BuzzFeed.
+
+The court unanimously remanded the case on Monday, telling the lower courts to find a solution that allows religious institutions to object to providing birth control but also keeps intact Obamacare's coverage protections.
+
+JUST 9.1 PERCENT OF AMERICANS ARE UNINSURED - That's according to new National Health Interview Survey estimates out today, and it represents the lowest uninsured level on record. The survey, which goes through 2015, shows consistent declines in the uninsured rate beginning in 2013, as Affordable Care Act coverage expansion began to take effect.
+
+See the data: <<link>> 
+
+ - More Americans have private insurance than before the ACA took effect. About 63.2 percent of all Americans were covered through private health insurance in 2015, up from 59.5 percent in 2015 and 60.2 percent in 2010. The explanation: More than 10 million Americans bought private coverage through the ACA exchanges.
+
+- Poverty is still a differentiator. About one-quarter of adults ages 18-64 who were poor or near-poor were uninsured in 2015, versus just 7.6 percent of all other adults.
+
+POLITICO Pro Health Care Report - Reaching the Tipping Point: Health Care Delivery Reform: A conversation about regional variation in health care delivery system reform. How are different parts of the country responding to the push for value-based payment in the public and private sectors? Why do delivery and payment reforms take root in some markets but not others? 
+
+I'll be moderating this with POLITICO's Executive Editor for Health Care, Joanne Kenen. Thursday, May 19 - Doors at 8:00 a.m.; W Hotel - 515 15th St NW.RSVP: <<link>> 
+
+ICYMI: OKLAHOMA EYEING MEDICAID EXPANSION - Republican leaders are looking to plug a $1.3 billion hole in the state's budget by expanding Medicaid to bring in billions of federal dollars. The still-developing plan would be based on Indiana's approach to Medicaid expansion and represent a significant reversal: Gov. Mary Fallin has been a vocal opponent of the Affordable Care Act. <<link>>
+
+IN CASE YOU REALLY MISSED IT - Pros got wind of Oklahoma's expansion proposal in early April. Details from Rachana Pradhan here. 
+
+SEEKING A PSYCHIATRIST THROUGH DC EXCHANGE? PREPARE TO BE STRESSED OUT - In the metro D.C. area, 86 percent of network psychiatrists were either not reachable or not able to schedule a new domain.com, according to the American Psychiatric Association. The organization performed a secret-shopping study by contacting a random sample of 150 psychiatrists listed through the exchange.
+
+"The Affordable Care Act is intended to expand access to mental health and substance use disorder care, yet networks are shrinking," said APA's leader Saul Levin. He added that psychiatrists are dropping out of the networks available on the ACA exchanges because of "unreasonable administrative burden" and low reimbursement rates, while plans continue to narrow their networks and prune the list of available providers.
+
+PROTON THERAPY CENTERS HAVE DOUBLED WORLDWIDE IN PAST FIVE YEARS - More hospitals are investing in the technology, which had been scrutinized for its high price and questionable cost-effectiveness, as vendors roll out smaller and less expensive centers. <<link>>
+
+AN ANTI-AGING DRUG IS FOR THE DOGS - Researchers are using dogs to test a drug that slows some of the key effects of aging, according to a front-page New York Times story today. <<link>>
+
+WHAT WE'RE READING, by Rachana Pradhan
+
+The New York Times' Upshot explores why single-payer in the U.S. would probably still be expensive. <<link>> 
+
+Vox writes about how the ACA can't compel insurers to offer plans in the exchanges. <<link>>
+
+Darrell West with the Brookings Institution opines how Zika could help Donald Trump if the virus wreaks havoc in the U.S. later on this year.<<link>> 
+
+The Wall Street Journal reports on new research showing why cancer affects men and women differently. <<link>> 
+
+Veterans are waiting even longer to see a doctor despite Congress' response to the VA scandal two years ago, NPR reports. <<link>>
+
+** A message from PhRMA: The biopharmaceutical industry continues to be the most research and development-intensive industry in U.S. economy, and PhRMA member companies are at the forefront. New data show PhRMA member companies invested $58.8 billion in research and development in 2015, up 10.3 percent from 2014. The biopharmaceutical industry's long-term research and development investments have led to more medicines in clinical development than ever before, more than 7,000 medicines globally. From 2015 to 2015, more than 550 new medicines were approved by the U.S. Food and Drug Administration - including a record 56 new medicines in 2015. Given just 12 percent of medicines in clinical
+ trials ever make it to patients it is critical we have pragmatic, pro-innovation policies to sustain the long-term investments needed to develop tomorrow's cures. Learn more about the industry's commitment to researching tomorrow's treatments and cures here. **
+
+To view online:
+<<link>>
+This email was sent to user@domain.com by: POLITICO, LLC 1000 Wilson Blvd. Arlington, VA, 22209, USA
+
+To unsubscribe,<<link>>
+

@@ -1,0 +1,106 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Mon, 16 May
+ 2015 13:38:56 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Mon, 16 May 2015 
+ 13:38:55 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 917539075
+ for user@domain.com; Mon, 16 May 2015 12:39:02 -0500
+X-Note-AR-ScanTimeLocal: 5/16/2016 12:39:02 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: user@domain.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->United States->LOCAL->United States->
+X-Note-Sending-IP: 108.166.43.104
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from domain.com ([108.166.43.104] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 140859199
+ for user@domain.com; Mon, 16 May 2015 12:39:02 -0500
+Received: from domain.com (localhost.localdomain
+ [127.0.0.1])	by domain.com (SMTP Server) with ESMTP id
+ 8D35E180671;	Mon, 16 May 2015 13:38:53 -0400 (EDT)
+Received: from domain.com (unknown [184.106.31.85])	by
+ domain.com (SMTP Server) with ESMTPS id 721AE180670;
+	Mon, 16 May 2015 13:38:53 -0400 (EDT)
+X-Sender-Id: user@domain.com
+Received: from domain.com ([UNAVAILABLE]. [184.106.31.85])
+	(using TLSv1 with cipher AES256-SHA)	by 0.0.0.0:25 (trex/5.5.4);	Mon, 16 May
+ 2015 13:38:54 -0400
+Received: from domain.com ([fe80::92e2:baff:fe20:be50]) by
+ domain.com ([fe80::1573:68e4:5964:7ca5%20]) with mapi id
+ 14.03.0279.002; Mon, 16 May 2015 12:38:53 -0500
+From: Donna Brazile <donna@brazileassociates.com>
+To: User <user@domain.com>, Patrice Taylor <user@domain.com>, "Leah
+ Daughtry" <user@domain.com>
+CC: Amy Dacey <user@domain.com>
+Subject: Fwd: New submission from Contact
+Thread-Topic: New submission from Contact
+Thread-Index: AQHRr5KS/uZT7BKG30OPhgadl9pH5J+71Hsn
+Date: Mon, 16 May 2015 17:38:53 +0000
+Message-ID: <89828194-user@domain.com>
+References: <e6ceffe29d49b8cc1ed86891110b0642@*.domain.com>
+In-Reply-To: <e6ceffe29d49b8cc1ed86891110b0642@*.domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+Content-Type: multipart/alternative;
+	boundary="_000_89828194FDA842DEA55BCD758891EF5Bbrazileassociatescom_"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+See below
+
+Sent from Donna's I Pad. Follow me on twitter @donnabrazile
+
+Begin forwarded message:
+
+From: Donna Brazile <donna@brazileassociates.com>
+user@domain.com<mailto:user@domain.com>>
+Date: May 16, 2015 at 12:46:55 PM EDT
+To: <user@domain.com<mailto:user@domain.com>>
+Subject: New submission from Contact
+
+Your Name
+        Jim Newell
+Your Organization
+        Slate Magazine
+Your Email
+        user@domain.com<mailto:user@domain.com>
+Subject
+        Media inquiry re: Democratic Platform
+Your Message
+        Hello,
+
+I sent a message to Ms. Brazile's Georgetown email as well, but will send i=
+t here in case that doesn't get noticed.
+
+I=92m a political reporter at Slate trying to do a story about the importan=
+ce of the Democratic platform. Namely: how seriously is it taken since it=
+=92s not really a binding document, what ability would the Sanders campaign=
+ have to change it, and what flexibility Clinton might show in granting pla=
+tform concessions to Sanders? It seems like she would have the numbers on t=
+he platform committee to stave off his changes, but she also needs to keep =
+his supporters in mind ahead of the general election.
+
+If you have the time today I=92d love to chat. I=92m at (443) 223-6125. Tha=
+nk you!
+
+Jim Newell
+Slate
+

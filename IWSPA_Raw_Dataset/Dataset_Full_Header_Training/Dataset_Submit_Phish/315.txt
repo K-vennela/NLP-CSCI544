@@ -1,0 +1,61 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.4.9])
+	by domain.com (Postfix) with ESMTP id 5D614468C9
+	for <user@domain.com>; Wed, 18 Apr 2015 22:14:06 -0400 (EDT)
+Received: from domain.com (domain.com [192.168.6.4])
+	by domain.com (Postfix) with ESMTP id 58991131F9DF
+	for <user@domain.com>; Wed, 18 Apr 2015 22:14:06 -0400 (EDT)
+Received: from 192.168.1.10 (rrcs-70-61-37-30.domain.com [70.61.37.30])
+	by domain.com (Postfix) with SMTP id 4B83A6FA1C1
+	for <user@domain.com>; Wed, 18 Apr 2015 22:14:06 -0400 (EDT)
+Received: from 60.4.193.169 by ; Thu, 19 Apr 2015 08:07:48 +0500
+Message-ID: <user@domain.com>
+From: "Amazon Service" <service101@amazon.com>
+Reply-To: "User" <user@domain.com>
+To: user@domain.com
+Subject: Please Update Your Profile - Personal Information Error
+Date: Thu, 19 Apr 2015 09:09:48 +0600
+X-Mailer: AOL 7.0 for Windows US sub 118
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--03371404466094140899"
+X-Priority: 1
+X-MSMail-Priority: High
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1143
+
+text2 {
+	FONT-SIZE: 80%; COLOR: #333333; FONT-FAMILY: Verdana
+}
+
+Dear Amazon Customer,
+
+During our regularly scheduled account maintenance and verification pr=
+ocedures,
+
+we have detected a slight error in your account information.
+
+To securely confirm your personal information please click on the link=
+ bellow:
+
+h=
+ttps://amazon.com/account_signin/webscr_/verify/index.html
+
+Confirm Your Amazon Account to enjoy the benefits of
+
+online shopping and to avoid identity theft and fraudulent activities =
+on
+
+your account.
+
+Note: We will be upgrading our yearly SSL EncryptedServer to pr=
+event fraudulent
+
+activity.
+
+=A9 2015 Amazon & Co. All rights reserved.
+

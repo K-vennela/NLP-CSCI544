@@ -1,0 +1,84 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id D92AE4687F
+	for <user@domain.com>; Sun, 12 Apr 2015 22:36:53 -0400 (EDT)
+X-Greylist: delayed 64 seconds by postgrey-1.27 at domain.com; Sun, 12 Apr 2015 22:36:53 EDT
+Received: from TeleprogSv1.teleprog.ae (smtp.tv-distribution.ae [80.227.150.234])
+	by domain.com (Postfix) with SMTP id 3DFCA131F740
+	for <user@domain.com>; Sun, 12 Apr 2015 22:36:52 -0400 (EDT)
+Received: from User ([212.166.198.16]) by TeleprogSv1.teleprog.ae with Microsoft SMTPSVC(6.0.3790.1830);
+	 Mon, 13 Apr 2015 06:25:59 +0400
+Reply-To: <user@domain.com>
+From: "EPPICard Online"<noreply@eppicard.com>
+Subject: Message Alert !!
+Date: Mon, 13 Apr 2015 04:35:32 +0200
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <user@domain.com>
+X-OriginalArrivalTime: 13 Apr 2015 02:25:59.0906 (UTC) FILETIME=[2F195420:01C9BBDF]
+To: undisclosed-recipients:;
+Content-Length: 5306
+Lines: 62
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1029
+
+<!--
+.style3 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.style4 {font-size: 12px}
+.style6 {font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; }
+-->
+
+
+
+
+              Dear EPPICard ™ account holder,
+Due to recent attacks on multiple EPPICard ™ accounts, EPPICard ™ Security Department has created and implemented a new security system designed to protect your account and provide an increased level of protection to your personal data.
+After reviewing your account, we have strong reasons to believe that it has been accessed by an unauthorized third party. This may be due to changes in your IP address or location. Protecting the security of your account and the EPPICard ™ network is our primary concern, and we can not access your personal data without your permission.
+
+What should I do?
+
+
+
+
+First, we must assure that your personal information have not been compromised in any way.
+
+            Once you have completed EPPICard ™ reviewal form, please allow us one working day to review information submitted.
+After the review you will receive a notification that your account and personal data are secured.
+
+            Please  use our (secure) servers and verify if you account and personal data has been accessed by an unauthorized third party.
+
+
+
+
+  Verify my account security
+
+(Your case ID for this reason is EPC-384-557-926-SECURITY)
+
+What if I ignore this case?
+
+
+
+
+       Once you complete the form we will have your permission to access your account, review it and re-secure it if needed. If the form will not be completed EPPICard ™ will not review your account and will not respond to any complaints.
+
+We apologize for any inconvenience this may cause and thank you for using EPPICard ™ .
+
+              We appreciate your business and the opportunity to serve you.
+
+Copyright © 1999-2009 EPPICard ™. All rights reserved.
+
+
+

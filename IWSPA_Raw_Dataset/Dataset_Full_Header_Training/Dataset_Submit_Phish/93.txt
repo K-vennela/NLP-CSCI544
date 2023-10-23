@@ -1,0 +1,48 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id 84402468BE
+	for <user@domain.com>; Fri, 24 Aug 2015 18:33:07 -0400 (EDT)
+Received: from domain.com (domain.com [204.181.64.8])
+	by domain.com (Postfix) with ESMTP id 38062131FF92
+	for <user@domain.com>; Fri, 24 Aug 2015 18:33:07 -0400 (EDT)
+Received: from jmphillipslaw.ca (LONDON14-1177993235.sdsl.bell.ca [70.54.192.19])
+	by domain.com (Postfix) with ESMTP id 414016FA1C5
+	for <user@domain.com>; Fri, 24 Aug 2015 18:33:07 -0400 (EDT)
+Received: from User ([76.237.246.243]) by jmphillipslaw.ca with Microsoft SMTPSVC(6.0.3790.1830);
+	 Fri, 24 Aug 2015 08:33:31 -0400
+Reply-To: <user@domain.com>
+From: "eBay"<message@eBay.com>
+Subject: eBay Unpaid Item Dispute #200122150768 - response required
+Date: Fri, 24 Aug 2015 07:33:31 -0500
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <user@domain.com>
+X-OriginalArrivalTime: 24 Aug 2015 12:33:31.0085 (UTC) FILETIME=[FAAB57D0:01C7E64A]
+To: undisclosed-recipients:;
+Content-Length: 2015 
+Lines: 26
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 61
+
+eBay Unpaid Item Dispute #200122150768 - response required 
+
+
+
+Dear member,
+
+eBay member skaeserbackgrounds (14122)  has that they already paid for item #200122150768
+
+Review the submitted details regarding the payment.
+
+Regards,
+eBay International AG

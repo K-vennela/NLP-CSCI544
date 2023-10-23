@@ -1,0 +1,48 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id 37AD246905
+	for <user@domain.com>; Tue,  7 Aug 2015 16:32:39 -0400 (EDT)
+Received: from domain.com (domain.com [204.181.64.8])
+	by domain.com (Postfix) with ESMTP id 1B132131FD63
+	for <user@domain.com>; Tue,  7 Aug 2015 16:32:39 -0400 (EDT)
+Received: from 204.181.64.8 (unknown [85.138.230.48])
+	by domain.com (Postfix) with SMTP id 400C06FA1C4
+	for <user@domain.com>; Tue,  7 Aug 2015 16:32:37 -0400 (EDT)
+Received: from domain.com (domain.com [18.132.237.206])
+           by norika-domain.com with SMTP id DMEEFH9F7R
+           for <user@domain.com>; Tue, 07 Aug 2015 13:32:38 -0800
+X-MSMail-Priority: 3 (Normal)
+From: "Citizens Bank and Charter One Bank" <corporateclients.refT83683696516.gps@citizensbank.com>
+To: "User" <user@domain.com>
+Subject: Citizens Bank and Charter One Bank reminder: please complete online form! (message id: z5890513032)
+X-MSMail-Priority: 3 (Normal)
+User-Agent: domain.com Mail Service (5.5.2650.21)
+X-Mailer: domain.com Mail Service (5.5.2650.21)
+X-Priority: 3 (Normal)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--ECO3TQ89BB664I0R8"
+Message-Id: <20070807203237.400user@domain.com>
+Date: Tue,  7 Aug 2015 16:32:37 -0400 (EDT)
+Content-Length: 3688
+Lines: 27
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 2
+
+Dear      Citizens     Bank    and       Charter    One      Bank      customer,
+Citizens      Bank    &   Charter      One  Bank       Customer    Service       requests  you     to     complete   Money     Manager GPS     Client  Online       Form.
+This      procedure    is obligatory   for     all  business  and       corporate       clients    of    Citizens  Bank       and  Charter  One   Bank.
+Please  click   hyperlink       below  to     access Money Manager  GPS   Client       Online   Form.
+
+<<link>>
+Please      do       not      respond       to       this     email.
+©  Copyright   2015 Citizens   Financial      Group.  All  rights  reserved.
+
+*******************************************************************************************
+end: 0x8528, 0x59867143, 0x99327524, 0x9181, 0x89, 0x406  rcs J77N PVB7 cvs 4IMI source update      0x962, 0x932, 0x61680629, 0x5, 0x46, 0x388, 0x56, 0x313, 0x33, 0x92065890, 0x1007     hex: 0x9   8X1V: 0x575, 0x36, 0x702, 0x3964, 0x329, 0x8073 cvs: 0x5, 0x6, 0x94, 0x248, 0x5054, 0x75, 0x58, 0x57 N6L: 0x08730923    0x1709, 0x0562, 0x9, 0x96063647, 0x3, 0x0, 0x3515, 0x005, 0x467, 0x3, 0x95749419  0x732, 0x59379265, 0x54, 0x74895385, 0x06, 0x10876818, 0x01, 0x5, 0x53, 0x959, 0x3, 0x65, 0x2718, 0x9, 0x8435U: 0x10, 0x48, 0x360, 0x331, 0x70, 0x168, 0x78316255  0x58637651, 0x09714215 revision: 0x26822563, 0x84, 0x06, 0x4, 0x482, 0x7808, 0x786, 0x20, 0x944, 0x1823, 0x225, 0x1964, 0x11744221      close  0x23522310, 0x48, 0x70618624, 0x09294645, 0x175, 0x954, 0x79, 0x88783650, 0x587     0x69769318, 0x6, 0x7, 0x907, 0x4
+      dec source update media 8P90 Q75 hex rcs     tmp: 0x7342, 0x448, 0x5      0x33, 0x5374, 0x44408931    P6E5: 0x1, 0x70003394, 0x9079, 0x49479869, 0x646, 0x47, 0x05442591, 0x458, 0x941
+KLT1: 0x880    0x98, 0x9503, 0x83405108, 0x108, 0x18654303, 0x54754421, 0x0808, 0x0333       0x01, 0x32, 0x92964880, 0x1, 0x93, 0x6180, 0x09, 0x95558466, 0x90, 0x3   0x19236382  TB4U, B1XQ, start, revision, 43WJ, A6Q.cvs: 0x1, 0x75675295, 0x1849, 0x134, 0x566, 0x10, 0x2637, 0x1875, 0x3012, 0x15546400, 0x749, 0x599, 0x654, 0x7, 0x692    engine: 0x26242245, 0x4638, 0x909, 0x81, 0x05, 0x13058778, 0x98, 0x75597816, 0x447, 0x2, 0x408     0x0690, 0x15603181, 0x3297, 0x6, 0x84856117, 0x5636, 0x30016636, 0x771, 0x1485, 0x45, 0x54082428, 0x7663, 0x3750, 0x2417, 0x008    T32C, media 1N7, GZW7     CCE7: 0x195, 0x9787, 0x4298, 0x4, 0x456, 0x83, 0x45408975, 0x0439, 0x7, 0x611, 0x6, 0x68, 0x67628488

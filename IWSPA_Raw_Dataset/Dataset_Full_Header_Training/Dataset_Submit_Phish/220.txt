@@ -1,0 +1,70 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id D2F9F4687B
+	for <user@domain.com>; Wed, 29 Apr 2015 16:30:09 -0400 (EDT)
+Received: from smtp21.orange.fr (unknown [80.12.242.46])
+	by domain.com (Postfix) with ESMTP id A3B93131F78A
+	for <user@domain.com>; Wed, 29 Apr 2015 16:30:09 -0400 (EDT)
+Received: from me-domain.com (localhost [127.0.0.1])
+	by mwinf2106.orange.fr (SMTP Server) with ESMTP id 5FA751C000B0;
+	Wed, 29 Apr 2015 22:30:08 +0200 (CEST)
+Received: from User (AReims-256-1-5-54.w90-58.abo.wanadoo.fr [90.58.136.54])
+	by mwinf2106.orange.fr (SMTP Server) with SMTP id 83B7B1C000A6;
+	Wed, 29 Apr 2015 22:30:00 +0200 (CEST)
+X-ME-UUID: 20090429203000539.83user@domain.com
+From: "eBay Inc~"<AccountsAppleyUp042009@bay.com>
+Subject: IMPORTANT :Account Verification
+Date: Wed, 29 Apr 2015 22:26:31 +0200
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2800.1081
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1081
+Message-Id: <20090429203000.83user@domain.com>
+To: undisclosed-recipients:;
+Content-Length: 1341
+Lines: 51
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1043
+
+Dear Customer,
+
+
+
+You have one new message at eBay.
+
+INBOX
+
+
+
+From: "eBay Inc~"<AccountsAppleyUp042009@bay.com>
+
+
+
+Date:
+	29/04/2009
+
+Subject: Official service renewal notification.
+
+
+
+In order to read the message
+click here to login at
+
+  eBay and access your MAIL section.
+
+This site provides information about and access to financial services offered by the eBay family of 
+companies, including eBay , N.A., members FDIC.
+
+2009 eBay Services, Inc.
+
+eBay is a federally registered service mark. All rights reserved.
+
+eBay Check is a registered trademark of eBay Services, Inc.

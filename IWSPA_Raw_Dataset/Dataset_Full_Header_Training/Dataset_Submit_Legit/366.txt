@@ -1,0 +1,73 @@
+Received: from domain.com (146.215.230.105) by
+ domain.com (43.130.141.78) with Microsoft SMTP Server id
+ 8.3.264.0; Fri, 14 Feb 2015 13:33:24 -0800
+Received: from domain.com ([160.33.194.231])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s1ELXaZf003557	for <user@domain.com>; Fri, 14 Feb 2015 
+ 21:33:36 GMT
+Received: from mail58-tx2-domain.com (mail-domain.com [65.55.88.116])
+	by domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s1ELYib0001444	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128
+ verify=FAIL)	for <user@domain.com>; Fri, 14 Feb 2015 21:34:45 GMT
+Received: from mail58-tx2 (localhost [127.0.0.1])	by mail58-tx2-domain.com
+ (Postfix) with ESMTP id C6F7B602B5	for <user@domain.com>; Fri, 14 Feb
+ 2015 21:33:34 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:66.231.92.53;KIP:(null);UIP:(null);IPV:NLI;H:domain.com;RD:domain.com;EFVD:NLI
+X-SpamScore: 13
+X-BigFish: vps13(z579eh5109h5105h5461ozc89bhc85fhe0eahzz1f42h2148h208ch1ee6h1de0h1fdah2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6h2150izz1de098h1def03h17326ah1def87h8275bh1bc7b9h8275dh1def86h1de097h186068h1b778fh1ce120h2ba1l1ce121iz2fheh5eh5fh839hc60hc61hd24h107ah10d2h1288h12a5h137ah13eah1441h1537h153bh158dh162dh1631h1758h18e1h1946h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1fe8h1ff5h20f0h2216h2336h2438h2461h2487h24d7h2516h2545h1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail58-tx2: domain of bounce.BBCShopEmail.com designates 66.231.92.53 as permitted sender) client-ip=66.231.92.53; user@domain.com; helo=domain.com ;domain.com ;
+Received: from mail58-tx2 (localhost.localdomain [127.0.0.1]) by mail58-tx2
+ (MessageSwitch) id 1392413611651559_26805; Fri, 14 Feb 2015 21:33:31 +0000
+ (UTC)
+Received: from domain.com (unknown [10.9.14.239])	by
+ mail58-domain.com (Postfix) with ESMTP id 8DFF434011B	for
+ <user@domain.com>; Fri, 14 Feb 2015 21:33:31 +0000 (UTC)
+Received: from domain.com (66.231.92.53) by domain.com
+ (10.9.99.115) with Microsoft SMTP Server id 14.16.227.3; Fri, 14 Feb 2015 
+ 21:33:30 +0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=200608; d=domain.com;
+ h=From: BBC Shop <Email@BBCShopEmail.com>
+ bh=QyyXpAJDrvQQbq6inbpXgGA0cac=;
+ b=XhHe5PEbO29bd85IhNDfjINA+tNSpPXfqzgyXoPTRBY6JrHCbE13utthxNxIcfKeSfLO8xHSe2xJ
+   hdr9VOqlsa278x1HLEiJ0Fj4DlkuEcRM7CqWZB1wb4NXLvC5cumyz9Bc0Jc4kJzwtOM9vrN3Aksw
+   sDRD9eHavIwQirjWFjI=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=200608; d=domain.com;
+ b=lu6DAxsuG2CHH7MCQFoEiDL06l9seEnNRWL8yT9r+cnmWLIXxFimKFOG59FPKe+Zj70amj49Fq4I
+   bJ8Ip67FBn7EMyV9rGTja4YMx/kLOGaKw7WpuGUdykJw5jcGXtBMKcl02V4rp9I9Ea3TQrLgRCNA
+   9CDTAs41UVoOXhcOSv0=;
+Received: by domain.com id hvq5mo163hsm for
+ <user@domain.com>; Fri, 14 Feb 2015 15:32:21 -0600 (envelope-from
+ <user@domain.com>)
+From: BBC Shop <Email@BBCShopEmail.com>
+To: <user@domain.com>
+Subject: =?UTF-8?B?4pmlSGFwcHkgVmFsZW50aW5lJ3MgRGF5OiBBIFNwZWNpYWwgT2Zm?=
+ =?UTF-8?B?ZXIgZm9yIFlvdSHimaU=?=
+Date: Fri, 14 Feb 2015 15:33:22 -0600
+List-Unsubscribe: <mailto:user@domain.com>
+Reply-To: BBC Shop
+	<user@domain.com>
+x-job: 170000_31918984
+Message-ID: <user@domain.com>
+Return-Path: 
+ user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+♥Happy Valentine's Day: A Special Offer for You!♥
+
+
+
+
+        Happy Valentine's Day! Shop Now! >>     
+
+View Email with Images   |   Share this Email           
+
+
+
+
+BBC America Shop         
+
+|        Video   |       
+

@@ -1,0 +1,139 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Fri, 29 Apr
+ 2015 10:18:11 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Fri, 29 Apr 2015 
+ 10:18:00 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 887444181;
+ Fri, 29 Apr 2015 09:18:00 -0500
+X-Note-AR-ScanTimeLocal: 4/29/2016 9:17:59 AM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: Too many policies to list
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @mail.house.gov ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->United States->
+X-Note-Sending-IP: 143.228.181.83
+X-Note-Reverse-DNS: s-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from s-domain.com ([143.228.181.83] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 137887612;
+ Fri, 29 Apr 2015 09:17:58 -0500
+Received: from FHOB-domain.com (fhob-domain.com
+ [143.228.233.118])	by s-domain.com  with ESMTP id u3TEFqVd026384	(using
+ TLSv1 with cipher ECDHE-RSA-AES256-SHA (256 bits) verified FAIL);	Fri, 29 Apr
+ 2015 10:15:55 -0400
+X-DKIM: OpenDKIM Filter v2.4.3 s-domain.com u3TEFqVd026384
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mail.house.gov;
+	s=November2012-msg-mhg; t=1461939398;
+	bh=wVT+p7mi1d8LxkMwoewumsW2zFm6SXfl9fzXLnOe9Nw=;
+	h=From: Dem Leader Press Office <Dem.LeaderPressOffice@mail.house.gov>
+	b=ODUKbLv66FYZ2thpamdLntqn16jd6/8hhSbWp8YrGdvShcPCI2dXQ0cA5epNZZ94z
+	 cJvFEOrkIB7xgPG5tHuaG5pgZ63ULBNgj5Cf481+ILljfCUgZa5t4yhnV37Ekts+21
+	 I51th6cu1xREYdPCmOvGlppCcuVF/YYrKFkCK5tA=
+Received: from HEOC-domain.com ([fe80::cdcd:f28:6aa5:7d5a]) by
+ FHOB-domain.com ([::1]) with mapi id 14.03.0279.002; Fri, 29 Apr 2015 
+ 10:15:43 -0400
+From: Dem Leader Press Office <Dem.LeaderPressOffice@mail.house.gov>
+Subject: 'An Old Idea That Doesn't Work'
+Thread-Topic: 'An Old Idea That Doesn't Work'
+Thread-Index: AdGiIYIvBPXc6RA+Te6cYFweiQXDQg==
+Date: Fri, 29 Apr 2015 14:15:42 +0000
+Message-ID: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-originating-ip: [143.231.232.152]
+Content-Type: multipart/alternative;
+	boundary="_000_CA58D7DE03EE0A4D8D0DF860799FAACC0CD6CFDEHEOCHRM01USHous_"
+To: Undisclosed recipients:;
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+That=92s it?
+
+The American people have waited<<<link>>
+57009346920456> more than 2,200 days =96 and endured 63 House GOP votes to =
+repeal or undermine the Affordable Care Act =96 to see the Republican fanta=
+sy plan to replace the ACA.  And even though Republicans have admitted<http=
+://domain.com/policy/healthcare/276547-gop-group-promises-obamacare-replac=
+ement-plan-soon> that they=92re never going to actually produce a replaceme=
+nt bill, Speaker Ryan finally teased out the big idea that the GOP spent si=
+x years thinking up: =93An Old Idea That Doesn=92t Work,=94 according to Th=
+e Huffington Post<<<link>>
+eplacement_us_57222c59e4b01a5ebde4b236>.
+
+Paul Ryan=92s Big Plan To Replace Obamacare Is An Old Idea That Doesn=92t W=
+ork<<<link>>
+57222c59e4b01a5ebde4b236>
+It took him six years to come up with a policy invented in the 1970s.
+
+If you were hoping Republicans had fresh new solutions for health care refo=
+rm up their sleeves, you might find the recent hints from House Speaker Pau=
+l Ryan (R-Wis.) a bit disappointing.
+
+After six years of the GOP failing to come up with a comprehensive alternat=
+ive to the Affordable Care Act, what Ryan outlined during an appearance at =
+Georgetown University on Wednesday was essentially another stab at a decade=
+s-old idea that=92s never really worked =97 an idea that would involve allo=
+wing health insurance companies to resume charging sick people higher rates=
+ than healthy people.
+
+The cornerstone of Ryan=92s approach is so-called high-risk pools, a form o=
+f health insurance designed for people with the most serious health conditi=
+ons and highest costs, who were mostly locked out of the regular private ma=
+rket before the Affordable Care Act required insurers to accept all applica=
+nts.
+
+If the concept sounds familiar, it=92s because high-risk pools have existed=
+ since 1976, and are a go-to policy proposal for Republicans who don=92t wa=
+nt to be accused of not caring about people with pre-existing conditions=85=
+The problem is, high-risk pools =97 which existed in 35 states before the A=
+ffordable Care Act made them virtually obsolete =97 always failed to achiev=
+e their goal of providing a true insurer of last resort to those who needed=
+ it=85
+
+=85This was part of Ryan=92s argument to the college-aged audience that let=
+ting insurance companies once again discriminate against the sick, and movi=
+ng the most ailing into a separate program, would be good for them. Young p=
+eople would pay lower health insurance premiums if older, sicker people wer=
+e in a separate program, he said.
+
+But that doesn=92t account for the cost to taxpayers of whatever government=
+ subsidies would be provided to people in the high-risk pools=85
+
+Earlier in his appearance at Georgetown, Ryan repeated his promise that Rep=
+ublicans would finally tell Americans how they would do health care reform =
+differently=85Ryan didn=92t offer a lot of fine detail in his four-minute r=
+eply to the student=92s question. Republicans will supposedly unveil a heal=
+th care plan this summer, and maybe it will address the shortcomings appare=
+nt in what Ryan did say this week. For now, though, his plan sounds like it=
+ won=92t be as good for people with pre-existing conditions as what they al=
+ready have under Obamacare.
+
+Old ideas that don=92t work: That=92s all we=92ve seen from Speaker Ryan du=
+ring his =93Year of Ideas.=94
+
+Thanks to the Affordable Care Act, a milestone 20 million previously uninsu=
+red Americans now have quality, affordable health insurance.  Here=92s a ne=
+w idea for Speaker Ryan and House Republicans: wake up to the truth of the =
+ACA=92s success, and join with Democrats to build on the monumental progres=
+s we=92ve made toward a healthier, stronger America.

@@ -1,0 +1,59 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Fri, 6 Feb 2015 17:00:02 +0100
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id 72CE560063	for
+ <user@domain.com>; Fri,  6 Feb 2015 15:39:18 +0000 (GMT)
+Received: by domain.com (Postfix)	id 99F57B6603E; Fri,  6 Feb 2015 
+ 17:00:01 +0100 (CET)
+Delivered-To: user@domain.com
+Received: from EmadPC (unknown [192.168.1.196])	(using TLSv1 with cipher
+ AES256-SHA (256/256 bits))	(No client certificate requested)	by
+ domain.com (Postfix) with ESMTPSA id E0912B6600B;	Fri,  6 Feb 2015 
+ 17:00:00 +0100 (CET)
+From: Emad Shehata <e.shehata@hackingteam.com>
+To: 'Marco Bettini' <user@domain.com>
+CC: 'Giancarlo Russo' <user@domain.com>, 'Emad Shehata'
+	<user@domain.com>
+Subject: I: NDA-HACKING TEAM
+Date: Fri, 6 Feb 2015 17:00:01 +0100
+Message-ID: <00a801d04225$f6b49f80$e41dde80$@user@domain.com>
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdA7sjmUJ+uWfM3eSACBNCOHPFcf5gAFbRmwAZdQRVA=
+Content-Language: it
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EMAD SHEHATA450
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1376413519_-_-"
+
+Caro Marco, come verbalmente informatoti, sono a confermarti che il partner Qatarino ha già inoltrato offerta la cliente. Thomas mi conferma che la situazione di FF nel paese è molto delicata e che il cliente non stà usando il sistema da svariati mesi.Il ns partner locale, Abdulwahed, era il direttore tecnico di SSB, attualmente in “pensione”. A detta di Thomas, è una persona affidabile, in quanto Thomas è ancora in contatto con il vecchio capo di SSB, ossia il capo a cui riportava Abdulwahed, il quale è stato allontanato dal paese ed attualmente è ambasciatore del Qatar in UK.  Questo mi torna, in quanto fummo contattati dal primo segretario dell’ambasciatore del Qatar in USA, quando siamo stati li con Fulvio e tu. A disposizioneSaluti    Emad Shehata
+Key Account Manager
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com
+mobile: +39 3357939078
+phone: +39 0229060603   Da: Emad Shehata [mailto:user@domain.com] 
+Inviato: giovedì 29 gennaio 2015 14:43
+A: user@domain.com
+Cc: 'rsales'
+Oggetto: R: NDA-HACKING TEAM Dear Abdulwahed,thanks for your e-mail. Please find attached the PROPOSAL+ DOCS  and NDA+ HT_Dealer Authorization Letter,  where you can find the following documentations:  PROPOSAL+ DOCS   1)      HT_Galileo_Commercial Proposal N° 20150202.02-01.ES                                             Our offer based on the customer configuration/need.2)      HT_Galileo_SolutionDescription_2.3.pdf                                                                           Our Solution Description.3)      HT_Galileo_Technical Requirements_v2.3.pdf                                                                Hardware Equipment required before the installation.4)      HT_Galileo_Product Training_v1.2.pdf                                                                               Installation and Training once we Delivery the Software.5)      HT_ITTraining_0.4                                                                                                                        Other Training that we can provide to the customer and quoted separately.6)      HT_Galileo_Delivery Certificate_v1.2.pdf                                                                          Signed once we install the Software as confirmation of Delivery.7)      HT_Sale_with_partner_EULA                                                                                                Has to be signed from the End User once they confirm the Purchase Order.8)      E.U. Statement_1.0                                                                                                                     Has to be apply from the END USER before the Purchase Order. It’s urgent to have it before the PO.9)      HT_General Terms&Conditions_v2.0                                                                                  Has to be signed from YOU as partner once you confirm the Purchase Order.   NDA+ HT_Dealer Authorization Letter a)      HT_Dealer Authorization Letter_1.0 (1)                                                                              We agree to work togheter with the mentioned customer in the docs.Please re-send it signed and stamp from your part to allow us to re-send it to you.b)      NDA-HT-ZONE                                                                                                                               The NDA signed from our part as well.  I remain at your disposal and please note that I already sent to you the password to open the both file.  Looking forward to hear from you. Best regards  Emad Shehata
+Key Account Manager
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com
+mobile: +39 3357939078
+phone: +39 0229060603   Da: abdulwahed fakhroo [mailto:user@domain.com] 
+Inviato: giovedì 29 gennaio 2015 11:56
+A: user@domain.com
+Oggetto: Fw: NDA-HACKING TEAM   Dear Emad please find attached the NDA signed by us , you are requested to sign it and return a copyto us , also I would like to remind you to send us the reseller agreement as discussedover telephone regards.Many ThanksWith Best Regards,  Abdulwahed Fakhroo Zone Technology WLLMobile             : +974 55501423Tel                   : +974 44129215Fax                  : +974 44215908Email               : user@domain.com                 : domain.com 

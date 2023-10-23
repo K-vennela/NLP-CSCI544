@@ -1,0 +1,119 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 27 Apr
+ 2015 13:05:36 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 27 Apr 2015 
+ 13:05:28 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 883189595
+ for user@domain.com; Wed, 27 Apr 2015 12:05:35 -0500
+X-Note-AR-ScanTimeLocal: 4/27/2016 12:05:35 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @nvdems.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 74.125.82.47
+X-Note-Reverse-DNS: mail-wm0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mail-wm0-domain.com ([74.125.82.47] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 135265467
+ for user@domain.com; Wed, 27 Apr 2015 12:05:34 -0500
+Received: by mail-wm0-domain.com with SMTP id a17so24753433wme.0
+        for <user@domain.com>; Wed, 27 Apr 2015 10:05:32 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=nvdems-domain.com; s=20150623;
+        h=mime-version:From: Stewart Boss <sboss@nvdems.com>
+        bh=Dp92EYBd1zexpph2uU/3oZPKSkpcCYEkNx2Oqugrhnc=;
+        b=Wfl/bwdbl8YqNkrnPofPrlOEU8BjkikEMfyzN6Shdpxeo1n9ibjAplqtRRTY09YO7B
+         l0UVl/4WL9Wy2fyzOHRf6JzKTOu54p1xgeaZAK+HIPTC4P2giJNfnjYNOYUaXr0vWCB0
+         YmGv2prpos/D4pNRdPDPcN1ngFm9wjyvVytIgqAm6aqN/sWGc7eucJhEzg7bTcP0yn4+
+         2owy5P8nhAJt0zC5zj3SLmf4+OjVLw4N34FcZjyOrAbDYFh2+ktAANBroX33V5+HifHg
+         KC+fIynRInEeU97l8M8pAweFErX5K2CIEabnaxyhsp2f7R8pbxvA2Rwp2L39Olztdh+r
+         ZRHg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:From: Stewart Boss <sboss@nvdems.com>
+        bh=Dp92EYBd1zexpph2uU/3oZPKSkpcCYEkNx2Oqugrhnc=;
+        b=T8VmWQmbh9Acq8beiTHjvM1ywU3uN53MiJg/CCafbC48n798SsCI1RXw9eaEF1Xa3g
+         R6u3yy5JAyVARzGmD6JS8DIJ1qc0FZAUgseYmLZ5oYxIRXRMUNK/NVFhUo7bXJMCeIQv
+         6+OC2ueogojgL2QVHpC9F1hJoMjHc6FD3izsP43K6Wavn21d5j2kHxLcA5xwSUJwaV+8
+         +jzHRQ1QBJ0M64I5bvWwcjArpkDYyG2s2tCIYjWPdDzPcIOs4vzHOMYhv0ogkytgmDlQ
+         dCrUkLEblVWDQeFIDXZoodAYZRY1Y/ZbYyt5zZaa6HJ8HkDukfAjCHWsp1S3gqiN9jhO
+         TxlA==
+X-Gm-Message-State: AOPr4FW64RFBGEligsZhFZqaHri78sgbuWac5ueC0E3U5gLSRfrDlWAto+5DWWuFRJ2MPdLNAGRx6DybFu6rtQ==
+X-Received: by 10.194.69.106 with SMTP id d10mr10518636wju.165.1461776730736;
+ Wed, 27 Apr 2015 10:05:30 -0700 (PDT)
+Received: by 10.28.182.131 with HTTP; Wed, 27 Apr 2015 10:05:00 -0700 (PDT)
+From: Stewart Boss <sboss@nvdems.com>
+Date: Wed, 27 Apr 2015 10:05:00 -0700
+Message-ID: <CA+user@domain.com>
+Subject: Roberson Breaks Silence, Embraces Trump
+To: Stewart Boss <user@domain.com>
+Content-Type: multipart/related; boundary="047d7bfcf5a0c76f7b05317a6a39"
+BCC: <user@domain.com>
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+*For Immediate Release*
+
+April 27, 2015 
+
+*Contact: *Stewart Boss, user@domain.com
+
+*Roberson Breaks Silence, Embraces Trump*
+
+*Las Vegas, NV* =E2=80=93 Republican Senate boss Michael Roberson finally e=
+merged
+from hiding to confirm that he will support his party=E2=80=99s presidentia=
+l
+nominee in 2015 =E2=80=93 even if that means backing reality TV star and
+bigot-in-chief Donald Trump. After smiling and walking away
+<<<link>>> from the same
+exact question last month, Roberson came clean yesterday at a CD3 town hall
+moderated by conservative talk radio host Alan Stock. Hours later, Trump sw=
+ept
+all five primaries
+<<<link>>
+stern-primaries-calls-himself-presumptive-nominee?src=3Dusn_run2016>
+by double-domain.com margins and declared himself the Republican Party=E2=80=99s
+=E2=80=9Cpresumptive nominee.=E2=80=9D
+
+From the Associated Press:
+<<<link>>
+opefuls-talk-taxes-trump-forum>
+
+Candidates were also asked whether they would support whoever the
+Republican Party nominates for president, even if that person is the
+polarizing Trump.
+
+*=E2=80=9CI do intend to support the Republican nominee,=E2=80=9D Roberson =
+said.* =E2=80=9CI hope
+as a party we nominate someone who can actually win in November.=E2=80=9D
+
+=E2=80=9CInstead of denouncing Donald Trump and disavowing his reckless and
+xenophobic agenda, GOP Senate boss Michael Roberson has made it official
+that he will embrace and support him if/when he becomes the GOP=E2=80=99s
+presidential nominee,=E2=80=9D *said Nevada State Democratic Party Press Se=
+cretary
+Stewart Boss. *=E2=80=9CTime and time again, Trump has proven himself to be=
+ a
+racist demagogue, a misogynistic bully, and a birther who is grossly domain.com
+to be our next Commander-in-Chief. It=E2=80=99s no surprise that in his thi=
+rst for
+power, career politician Michael Roberson would pledge loyalty to his party
+above what=E2=80=99s best for Nevada.=E2=80=9D
+
+###

@@ -1,0 +1,97 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from mail.hackingteam.it (localhost [127.0.0.1])
+	by localhost (Postfix) with SMTP id B7A117341;
+	Wed, 24 Jun 2015 15:25:39 +0200 (CEST)
+Received: from [217.56.23.214] (host214-23-static.56-217-domain.com [217.56.23.214])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mail.hackingteam.it (Postfix) with ESMTP id 5A13D7350;
+	Wed, 24 Jun 2015 15:25:38 +0200 (CEST)
+Subject: Re: R: R: Card e policlinico di Pavia
+From: Luca Filippi <luca.filippi@hackingteam.it>
+Reply-To: user@domain.com
+To: Bruno Milani <user@domain.com>
+CC: Francesco Schifilliti <user@domain.com>, Ivan Roattino <user@domain.com>, Enrico Luzzani <user@domain.com>,  "antonio.mazzeo" <user@domain.com>, Roberto Banfi <user@domain.com>
+In-Reply-To: <1245768164.15850.11.user@domain.com>
+References: <1245144150.6673.17.user@domain.com>
+	 <633user@domain.com>
+	 <1245156289.3540.100.user@domain.com>
+	 <633user@domain.com>
+	 <1245768164.15850.11.user@domain.com>
+Organization: Hacking Team
+Date: Wed, 24 Jun 2015 15:28:59 +0200
+Message-ID: <1245850139.8485.97.user@domain.com>
+X-Mailer: Evolution 2.26.1.1 
+X-PMX-Version: 5.5.4.371499, Antispam-Engine: 2.7.1.369594, Antispam-Data: 2009.6.24.131219
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1456060746_-_-"
+
+Ciao,
+
+ti confermo che i referti ora sembrano funzionare correttamente.
+
+Riesci a farci avere l'elenco delle network da configurare per la VPN e di cui avevamo parlato un po' di giorni fa, per favore?
+
+Grazie,
+
+                Luca
+
+-----Original Message-----
+
+From: Luca Filippi <luca.filippi@hackingteam.it>
+
+To: Francesco Schifilliti <user@domain.com>
+
+Cc: Ivan Roattino <user@domain.com>, Enrico Luzzani <user@domain.com>, antonio.mazzeo <user@domain.com>, Roberto Banfi <user@domain.com>, user@domain.com
+
+Subject: Re: R: R: Card e policlinico di Pavia
+
+Date: Tue, 23 Jun 2015 16:42:44 +0200
+
+Dovrebbe essere nuovamente possibile visualizzare il referto del San
+Matteo.
+Fatemi sapere se ci sono ancora problemi così verifico.
+
+Grazie e buon lavoro
+
+Bruno
+
+-  
+Milani Bruno
+GSS - domain.com S.p.A.
+Via Vida 10,
+Milano 
+Tel. +39 02 26 888 300
+E-Mail user@domain.com
+------------------------------------------
+Privacy statement D.Lgs 196/2003.
+This message is confidential and is intended only for the use of the
+addressee. If you are not the right addressee you may not copy, forward
+or print this message. Please delete it and immediately notify us the
+mistake. Thank you. 
+
+Il giorno mar, 16/06/2009 alle 18.54 +0200, Francesco Schifilliti ha
+scritto:
+
+-- 
+        Luca Filippi
+Senior Security Engineer
+
+
+
+HT srl 
+Via Moscova, 13 I-20121 Milan, Italy 
+WWW.HACKINGTEAM.IT 
+Phone +39 02 29060603 
+Fax. +39 02 63118946 
+
+
+
+This message is a PRIVATE communication. This message contains privileged and confidential information intended only for the use of the addressee(s).
+If you are not the intended recipient, you are hereby notified that any dissemination, disclosure, copying, distribution or use of the information contained in this message is strictly prohibited. If you received this email in error or without authorization, please notify the sender of the delivery error by replying to this message, and then delete it from your system.
+<<<<<<
+

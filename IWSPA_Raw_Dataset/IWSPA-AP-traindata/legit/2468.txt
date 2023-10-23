@@ -1,0 +1,21 @@
+Myles and Curt,
+Attached are the NH and SH averages from the new variance corrected
+analyses (HadCRUTv). When the paper comes out in JGR (probably early next
+year) you'll see that variance correction is only possible from 1870.
+So in these files I've patched on the 1856-1869 data on the front so they
+are the same length. This early data is the same as the original
+version (HadCRUT). For the global series I still think the best way
+of producing this is by averaging the two hemispheres. HadCRUT is what
+you all probably have - it is on the CRU web page. Again I would
+produce the globe by averaging the hemispheres so what Chris Folland has
+for the globe may differ slightly as the HadC produce this as one domain.
+The way the variance correction is achieved is by reducing the high-freq
+variance of each grid-box series. This means that when I update the series
+for 2000 some values for the last few years (1995-9) will be altered
+slightly.
+I don't know much about Chapter 2, but I don't recollect there being
+any power spectrum diagrams. Probably left for the detection chapter.
+Do make sure the axes and units are well explained. Don't leave anything
+for the skeptics to cling to !
+Cheers
+Phil

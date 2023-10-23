@@ -1,0 +1,63 @@
+Received: from domain.com (146.215.230.105) by
+ domain.com (43.130.141.78) with Microsoft SMTP Server id
+ 8.3.264.0; Sat, 22 Mar 2015 01:16:40 -0700
+Received: from domain.com ([160.33.194.228])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s2M8Gegv013455	for <user@domain.com>; Sat, 22 Mar 2015 
+ 08:16:40 GMT
+Received: from mail33-ch1-domain.com (mail-domain.com
+ [216.32.181.175])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s2M8HnNm009331
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Sat, 22 Mar 2015 08:17:50 GMT
+Received: from mail33-ch1 (localhost [127.0.0.1])	by mail33-ch1-domain.com
+ (Postfix) with ESMTP id 65F7940531	for <user@domain.com>; Sat, 22 Mar
+ 2015 08:16:39 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:12.130.139.221;KIP:(null);UIP:(null);SRV:BULK;H:omp.em.hawaiianairlines.com;RD:omp.em.hawaiianairlines.com;EFVD:NLI
+X-SpamScore: 11
+X-BigFish: vps11(zzc89bh1936I77f5hzz1f42h2148h208ch1ee6h1de0h1fdah2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6hzz8275ch1de098h17326ah8275bh1bc7b9h8275dh1de097h186068h172c6ch1ce121i1deb3aiz2fheh5eh5fh839h8aah93fh950hd25h107ah10d2h1288h12a5h137ah13b6h13eah1441h1537h153bh1587h162dh1631h1758h18e1h19b5h1b0ah224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1fe8h1ff5h2216h2336h2438h2461h2487h24d7h2516h2545h255dh25f6h2605h268bh2064k1588o1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail33-ch1: domain of domain.com designates 12.130.139.221 as permitted sender) client-ip=12.130.139.221; user@domain.com; helo=omp.em.hawaiianairlines.com ;domain.com ;
+Received: from mail33-ch1 (localhost.localdomain [127.0.0.1]) by mail33-ch1
+ (MessageSwitch) id 1395476197508521_30765; Sat, 22 Mar 2015 08:16:37 +0000
+ (UTC)
+Received: from domain.com (domain.com
+ [10.43.68.252])	by mail33-domain.com (Postfix) with ESMTP id 698382A005D
+	for <user@domain.com>; Sat, 22 Mar 2015 08:16:37 +0000 (UTC)
+Received: from omp.em.hawaiianairlines.com (12.130.139.221) by
+ domain.com (10.43.70.27) with Microsoft SMTP Server id
+ 14.16.227.3; Sat, 22 Mar 2015 08:16:36 +0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=hawaiianairlines; d=em.hawaiianairlines.com;
+ h=MIME-Version:Content-Type:Content-Transfer-Encoding:Date:To:From: Hawaiian Airlines <HawaiianAirlines@em.hawaiianairlines.com>
+ bh=H3SEBk+P+DlNElo/YmxyNrqj9p0=;
+ b=qB8HDBI2MHuf55hGqBIB55oCkLW30WayE0LaqLP+LN0RzXhJu57ULWorAg1PsLUD6ysdWTXBH5aY
+   CIRBIqiin1cPFXb+ski2ARUu2p2IGcJHcmkJxtk/j0CbsGY1126OgirV/xeRZj6IKXuQbDKjoPhn
+   GKyRSDP18T9PUk2TEaw=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=hawaiianairlines; d=em.hawaiianairlines.com;
+ b=s/r7GikFMlmZXePUrkUzMQJn52vaLI3RQBVodhyhqgFBp0UQKAVB15iVctC2FEeB9Vsz3K1rBFZ7
+   VN3j9R+65Ssv6ZLSPiM5eo/QRWDDw5Rmjm1XyQ7o7nv1w7hPeUfyv+oMAsFjuCnJie0nL36cHS3N
+   bo0UZdv7RfZh8BzcWAE=;
+Received: by omp.em.hawaiianairlines.com id h5l3e8160kof for
+ <user@domain.com>; Sat, 22 Mar 2015 01:16:36 -0700 (envelope-from
+ <user@domain.com>)
+Date: Sat, 22 Mar 2015 01:16:36 -0700
+To: <user@domain.com>
+From: Hawaiian Airlines <HawaiianAirlines@em.hawaiianairlines.com>
+Reply-To: Hawaiian Airlines <user@domain.com>
+Subject: Story Time: Enter for a Chance to Win 240,000 HawaiianMiles
+List-Unsubscribe: <<<link>>>, <mailto:user@domain.com?subject=List-Unsubscribe>
+X-sgxh1: HuPXiHkJHtxkiLQkhgPQJhu
+X-rext: 4.interact2.EjKPCNNDZICxm2hUw0VfV639kuMfXdM6sw
+X-cid: hwair.79641
+Message-ID: <0.0.2.user@domain.com>
+Return-Path: user@domain.com
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+ <<link>>       Enter for a chance to win!* Enter now
+HAWAIIAN AIRLINES®       View this email in your browser | Add us to your address book   
+
+ <<link>>        
+BOOK TRAVEL       <<link>>    

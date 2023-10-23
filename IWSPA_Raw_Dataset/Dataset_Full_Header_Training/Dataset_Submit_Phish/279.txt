@@ -1,0 +1,44 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id 9DD0346922
+	for <user@domain.com>; Mon, 20 Aug 2015 12:17:59 -0400 (EDT)
+Received: from domain.com (domain.com [209.34.241.162])
+	by domain.com (Postfix) with ESMTP id 839C0131FC35
+	for <user@domain.com>; Mon, 20 Aug 2015 12:17:59 -0400 (EDT)
+Received: from UnknownHost [89.118.45.193] by domain.com with SMTP;
+   Mon, 20 Aug 2015 12:07:09 -0400
+From: "eBay Customer Support"<unpaid@ebaypayment.com>
+Subject: eBay Unpaid item Dispute for Item #320141749828
+Date: Mon, 20 Aug 2015 18.08.22 +0200
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20070820161759.839user@domain.com>
+To: undisclosed-recipients:;
+Content-Length: 4064
+Lines: 11
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 52
+
+           eBay Unpaid Item Dispute for Item #320141749828 -- Response Required                          Dear member,         eBay member, telsolution, has indicated that they already paid for Apple iPhone 8GB New in Box Unopened AT&T; (#320141749828). 
+
+Review payment details.
+
+  Regards, 
+
+Safeharbor Department 
+eBay Inc.        Copyright  2015 eBay Inc. All Rights Reserve
+ d. 
+Designated trademarks and 
+ property of their respective owners. 
+eBay and the eBay logo are trademarks of eBay Inc.  Safe Trading Tips - Buy with Confidence       Copyright  1999-2007 eBay Inc. All Rights Reserved. 
+Designated trademarks and brands are the property of their respective owners. Use of this Web site constitutes acceptance of the eBay User Agreement and Privacy Policy 

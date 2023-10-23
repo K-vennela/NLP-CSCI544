@@ -1,0 +1,23 @@
+Dear Sarah,
+Ben and I have had some long discussions about this paper, and I have
+made quite a few changes as a consequence. Most of these are minor --
+but I realized that my statement that the peak cooling depended
+logarithmically on the sensitivity was potentially confusing. For this to be
+the case one has to have a relationship like
+Tmax = A + B ln(S)
+which implies odd results for very low sensitivity. Instead, I have fitted
+a relationship of the form
+Tmax = A [S**n]
+which gives Tmax = 0 when S = 0.
+I have fitted a similar relationship to the decay time results, and I have
+done the same for the LG98 results. All this information has been added
+to the manuscript. It helps in understanding the differences between us and
+LG98.
+I had hoped to send this off earlier this week, i.e., before I go to Buenos
+Aires (tomorrow), but I never received the copyright form from you. Then
+I remembered that you were at that IPCC meeting in Ireland. So I have
+asked Liz Rothney to send the ms off next week as soon as she gets the
+copyright form from you. So please fax this back (303 497 1333) as soon
+as possible.
+Best wishes,
+Tom.

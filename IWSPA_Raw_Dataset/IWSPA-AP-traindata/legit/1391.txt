@@ -1,0 +1,68 @@
+Malcolm
+sorry , I should have cc'd this message sent to my coauthors some time ago(it pre-dates the
+message to you) , but I was sort of hoping this issue would recede . It would be useful to
+chat about this and other stuff if you are able to phone (afternoon my time preferably).
+Cheers
+Keith
+Date: Thu, 16 Nov 2006 11:57:09 +0000
+To: Martin Juckes <m.n.juckes@rl.ac.uk>, "Myles Allen" <allen@atm.ox.ac.uk>
+From: Keith Briffa <k.briffa@uea.ac.uk>
+Subject: Re: Mitrie: Bristlecones
+Cc: anders@misu.su.se, Eduardo.Zorita@gkss.de, user@domain.com, esper@wsl.ch,
+weber@knmi.nl, t.osborn@uea.ac.uk
+Martin and all,
+I know Franco very well - but he has not worked extensively with the Bristlecones. I
+still believe that it  would be wise to involve Malcolm Hughes in this discussion -
+though I recognise the point of view that says we might like to appear (and be)
+independent of the original Mann, Bradley and Hughes team to avoid the appearance of
+collusion. In my opinion (as someone how has worked with the Bristlecone data hardly at
+all!) there are undoubtedly problems in their use that go beyond the strip bark problem
+(that I will come back to later).
+The main one is an ambiguity in the nature and consistency of their sensitivity to
+temperature variations. It was widely believed some 2-3 decades ago, that high-elevation
+trees were PREDOMINANTLY responding to temperature and low elevation ones  to available
+water supply (not always related in a simple way to measured precipitation) . However,
+response functions ( ie sets of regression coefficients on monthly mean temperature and
+precipitation data derived using principal components regression applied to the
+tree-ring data) have always shown quite weak and temporally unstable associations
+between chronology and climate variations (for the high-elevations trees at least). The
+trouble is that these results are dominated by inter-annual (ie high-frequency)
+variations and apparent instability in the relationships is exacerbated by the shortness
+of the instrumental records that restrict analyses to short periods, and the large
+separation of the climate station records from the sites of the trees. Limited
+comparisons between tree-ring density data (which seem to display less ambiguos
+responses) imply that there is a reasonable decadal time scale association and so
+indicate a real temperature signal , on this time scale .The bottom line though is that
+these trees likely represent a mixed temperature and moisture-supply response that might
+vary on longer timescales.
+The discussion is further complicated by the fact that the first PC of "Western US"
+trees used in the Mann et al. analyses is derived from a mixture of species (not just
+Bristlecones ) and they are quite varied in their characteristics , time span, and
+effective variance spectra . Many show low interannual variance and a long-term
+declining trend , up until about 1850 , when the Bristlecones (and others) show the
+remarkable increasing trend up until the end of the record. The earlier negative trend
+could be (partly or more significantly) a consequence of the LACK of detrending to allow
+for age effects in the measurements (ie standardisation) - the very early sections of
+relative high growth were removed in their analysis, but no explicit standardistion of
+the data was made to account for remaining slow width changes resulting from tree
+aging.  This is also related to the "strip bark" problem , as these types of trees will
+have unpredictable trends as a consequence of aging  and depending on the precise nature
+of each tree's structure .
+Another serious issue to be considered relates to the fact that the PC1 time series in
+the Mann et al. analysis was  adjusted to reduce the positive slope in the last 150
+years (on the assumption - following an earlier paper by Lamarche et al. - that this
+incressing growth was evidence of carbon dioxide fertilization) , by differencing the
+data from another record produced by other workers in  northern Alaska and Canada
+(which  incidentally was standardised in a totally different way). This last adjustment
+obviously will have a large influence on the quantification of the link between these
+Western US trees and N.Hemisphere temperatures. At this point , it is fair to say that
+this adjustment was arbitrary and the link between Bristlecone pine growth and CO2 is ,
+at the very least, arguable. Note that at least one author (Lisa Gaumlich) has stated
+that the recent growth of these trees could be temperature driven and not evidence of
+CO2 fertilisation.
+The point of this message is to show that that this issue is complex , and I still
+believe the "Western US" series and its interpretation in terms of Hemispheric mean
+temperature is perhaps a "Pandora's box" that we might open at our peril!
+What does Jan say about this - he is very acquainted with these issues?
+cheers
+Keith

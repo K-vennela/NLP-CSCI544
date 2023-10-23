@@ -1,0 +1,10 @@
+From: FB.Team 
+Sent: Wednesday, December 19, 2012 8:24 AM
+Subject: Re-activate account
+Hi {netid},
+Your account has been blocked due to suspicious activity.
+To activate account, please follow this link:
+http:www.facebook.com.127.0.0.1/confirmemail.php?e={netid}@cornell.edu&c=9046006 
+You may be asked to enter this confirmation code: 9046006
+The Facebook Team
+Didn't sign up for Facebook? Please let us know.

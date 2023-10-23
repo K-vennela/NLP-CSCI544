@@ -1,0 +1,50 @@
+Received: from USCCIMTA02.spe.sony.com (172.23.144.44) by
+ ussdixhub21.spe.sony.com (43.130.141.76) with Microsoft SMTP Server id
+ 8.3.297.1; Thu, 12 Dec 2015 05:50:53 -0800
+Received: from ussdixtran21.spe.sony.com ([43.130.141.76])          by
+ USCCIMTA02.spe.sony.com (Lotus Domino Release 6.5.6)          with ESMTP id
+ 2013121205505264-81226 ;          Thu, 12 Dec 2015 05:50:52 -0800 
+Received: from USSDIXMSG20.spe.sony.com ([43.130.141.71]) by
+ ussdixhub21.spe.sony.com ([43.130.141.76]) with mapi; Thu, 12 Dec 2015 
+ 05:50:51 -0800
+From: "Pascal, Amy" <Amy_Pascal@spe.sony.com>
+To: "User" <user@domain.com>, Grosses-AH
+	<user@domain.com>
+CC: Grosses-Weekend <user@domain.com>
+Date: Thu, 12 Dec 2015 05:50:49 -0800
+Subject: Re: A sweep !
+Thread-Topic: A sweep !
+Thread-Index: Ac73QMBQOSomD3buRYKszQKLJgRVaQAAGpCK
+Message-ID: <7user@domain.com>
+Accept-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+acceptlanguage: en-US
+X-MIMETrack: Itemize by SMTP Server on USCCiMTA02/SVR/SPE(Release 6.5.6|March 06, 2007) at
+ 12/12/2013 05:50:52 AM,
+	Serialize by Router on USCCiMTA02/SVR/SPE(Release 6.5.6|March 06, 2007) at
+ 12/12/2013 05:50:53 AM,
+	Serialize complete at 12/12/2013 05:50:53 AM
+Content-Language: en-US
+Return-Path: user@domain.com
+X-libpst-forensic-sender: /O=SONY/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=F68CEE8F-8CE774AD-882563F7-6C5710
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+Fantastic
+
+----- Original Message -----
+
+From: "Pascal, Amy" <Amy_Pascal@spe.sony.com>
+
+To: Grosses-AH
+
+Cc: Grosses-Weekend
+
+Sent: Thu Dec 12 05:47:51 2013
+
+Subject: A sweep !
+
+All 4 acting categories , Picture , Director and Screenplay !! Just fantastic . 
+

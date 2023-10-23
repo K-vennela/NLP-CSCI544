@@ -1,0 +1,145 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Fri, 13 May
+ 2015 07:48:06 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Fri, 13 May 2015 
+ 07:48:02 -0400
+Received: from [10.87.0.110] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 913179207
+ for user@domain.com; Fri, 13 May 2015 06:48:10 -0500
+X-Note-AR-ScanTimeLocal: 5/13/2016 6:48:04 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @politico.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->
+X-Note-Sending-IP: 68.232.198.10
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from [68.232.198.10] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 141625869
+ for user@domain.com; Fri, 13 May 2015 06:48:04 -0500
+Received: by domain.com id h6mvf8163hsg for <user@domain.com>; Fri,
+ 13 May 2015 05:47:46 -0600 (envelope-from
+ <user@domain.com>)
+From: Natasha Korecki <illinoisplaybook@politico.com>
+To: <user@domain.com>
+Subject: =?UTF-8?B?UE9MSVRJQ08gSWxsaW5vaXMgUGxheWJvb2s6IENJVFkgQ09VTkNJ?=
+ =?UTF-8?B?TCBwb3dlciBhbGxpYW5jZSDigJMgS0lSSyBsZXZlbHMgSVJBTiBhY2N1c2F0?=
+ =?UTF-8?B?aW9ucyBhdCBPQkFNQSAoYXVkaW8pIC0tIEdJTkdSSUNIIGFuZCB0aGUgVFJV?=
+ =?UTF-8?B?TVAgJ2NpcmN1cyc=?=
+Date: Fri, 13 May 2015 05:47:46 -0600
+List-Unsubscribe: <mailto:user@domain.com>
+Reply-To: POLITICO subscriptions
+	<user@domain.com>
+x-job: 1376319_5418907
+Message-ID: <0user@domain.com>
+Content-Type: multipart/alternative; boundary="EXPPRrzFrf9z=_?:"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+05/13/2016 07:45 AM EDT
+
+By Natasha Korecki (user@domain.com; @natashakorecki) with Manuela Tobias (user@domain.com; @manuelatobiasm)  
+
+Good Friday morning, Illinois. The week closes out in Chicago with the prospect of a new power alliance in Chicago's City Council, Statehouse members forwarding a legislative package to their leaders and new audio of U.S. Sen. Mark Kirk emerges just as the campaign prepares a new ad targeted at opponent U.S. Rep. Tammy Duckworth. Let's start with City Hall. 
+
+Today in POLITICO: "Weakened Emanuel invites potential power shift." "Is a new power front blowing through City Hall? At a time when Mayor Rahm Emanuel is seeing his grasp on power slipping, the leaders of three City Council caucuses are experiencing quite the opposite. Ald. Roderick Sawyer (Black Caucus), Ald. Scott Waguespack (Progressive Reform Caucus) and Ald. George Cardenas (Latino Caucus) - are meeting today in a first-of-its kind sit down. 
+
+"Several sources confirmed to POLITICO that the three quietly arranged to meet to discuss potential avenues where their groups may be able to coalesce. The sources said there was no firm agenda for their lunch meeting but recent discussions have centered on ways to bring back the so-called traditional role of City Council, namely by empowering members. That talk has extended to the possibility of having the council name members to committees." <<link>> 
+
+AUDIO: KIRK ACCUSES OBAMA OF TARGETING POLITICAL FOE -- "Kirk on tape: Menendez indicted for opposing Obama on Iran," in POLITICO: "U.S. Sen. Mark Kirk, R-Ill., hasn't let up on his insistence that President Obama is using his power as president to lash out at a political enemy. At a fundraising event last month in Chicago, the Republican can be heard on audio defending indicted New Jersey Senator Bob Menendez, a Democrat. "And let me say something about Bob Menendez. I believe that Bob Menendez was indicted solely on the crime of opposing the President on Iran," Kirk is heard saying on a recording provided to POLITICO. Kirk made the remarks at an April 3 fundraiser in Chicago, featuring
+ former U.N. Ambassador John Bolton. They are the latest in a litany of controversial utterances by the junior Illinois senator who is locked in a tight reelection battle with U.S. Rep. Tammy Duckworth, D-Ill." <<link>> 
+
+Related: New TV ad targets Duckworth; it's slotted to begin rotation on Sunday: <<link>> 
+
+DUCKWORTH CASE MOVES FORWARD -- "Judge allows workplace case against Duckworth to go to trial," by The Associated Press' Alan Scher Zagier: "A 7-year-old workplace retaliation domain.com against Democratic U.S. Senate candidate Tammy Duckworth will remain a campaign issue into the late summer after an Illinois judge said on Thursday that the case could go to trial before the November election. Union County Judge Mark Boie set a tentative trial date of August and rejected an effort by government lawyers to dismiss the case, which stems from Duckworth's time as head of the Illinois Department of Veterans Affairs." <<link>> 
+
+Welcome to the POLITICO Illinois Playbook. Have a tip, event, announcement, endorsement? Send to user@domain.com or @natashakorecki 
+
+SUBSCRIBE to Illinois Playbook: <<link>> 
+
+MADIGAN'S BOUNDARIES DON'T CHANGE -- "Legal challenge filed against Illinois ballot remap effort," by The Associated Press: "An attorney linked to top Illinois Democrats has filed a legal challenge against a ballot effort to let voters decide if the power to draw political boundaries should go to an independent commission instead of elected officials. Well-known Chicago elections attorney Michael Kasper, who successfully fought a similar 2015 ballot initiative, filed the Cook County domain.com Wednesday on behalf of neighborhood and minority advocacy organizations. Kasper has been general counsel for House Speaker Michael Madigan, who's also the state Democratic Party leader." 
+<<link>> 
+
+MEETING THEM HALFWAY -- "Human Services Stopgap Swiftly Passes Both Chambers," NPR Illinois' Amanda Vinicky: "Illinois legislators today Thursday approved stopgap funding for human services. After ten months without state funding ... after-school programs, local health departments and substance abuse treatment centers are in critical condition. Democratic Representative Greg Harris says Senate Bill 2015 would pay social service organizations just under half of what they're owed." <<link>> 
+
+PRAYERS ANSWERED -- "Prayer breakfast will be held, governor's office says," Bernard Schoenburg: "There will be a Governor's Prayer Breakfast this spring after all, Gov. Bruce Rauner's office said Thursday. The event is now planned to take place at the Executive Mansion on May 26. A spokesman for the volunteer organization that puts on the breakfast told The State Journal-Register Monday that the event was being postponed this year and was unlikely to take place - breaking an annual tradition that began in 1963. The governor's office told the newspaper Thursday that Rauner was disappointed that the event wasn't going to happen, so the office reached out to several local and statewide
+ organizations to see if they would be willing to continue the tradition." <<link>> 
+
+DEATH BY A THOUSAND CUTS -- "Rauner favors school funding reform, not Manar plan," by Pantagraph's Julia Evelsizer: "Gov. Bruce Rauner said Thursday he is 'cautiously optimistic' about changing how the state funds public schools, but not the reform package the state Senate approved on Tuesday. Rauner answered questions from the media during a domain.com to Normal Community West High School where he spoke of his support for adequate state funding for education. 'I need to study it (the Senate bill) in more detail, but on a preliminary basis it looks like it would cut most school districts' amount of state money significantly and it would increase Chicago's funding very significantly. If that's
+ the outcome, I do not support it,' said Rauner." <<link>> 
+
+HOT POTATO -- "Tax increase, budget cuts part of proposal submitted to Rauner, legislative leaders," State Journal-Register's Doug Finke: "Rank-and-file legislative negotiators have come up with a proposal to balance the state's budget with a combination of tax hikes and spending cuts. The plan, which has been submitted to Gov. Bruce Rauner and the four legislative leaders, calls for $5.4 billion in new revenue, much of it coming from an income tax increase as well as beginning to apply the state sales tax to a narrow range of services. It also includes $2.4 billion in cuts to state spending to areas like Medicaid, changing state purchasing laws and adopting pension reforms Rauner outlined
+ in his budget proposal." <<link>> 
+
+RACIAL JUSTICE THROUGH ENVIRONMENTAL POLICY -- "Teaming up for environmental justice," by Illinois Times' Patrick Yeagle: "The NAACP released a report last week calling for racial justice in Illinois' environmental policy, prompting a new alliance between groups concerned with civil rights, labor rights and pollution. A meeting held in Springfield to release the report illustrated the complexity of overcoming past tension between competing interests. The NAACP, which is the nation's oldest civil rights organization, was founded in 1909 in response to the 1908 Springfield race riot. On May 5, the NAACP released its Illinois "Just Energy" report in Springfield, calling for environmental
+ justice in the form of more renewable energy, better minority job representation and more. The group annually releases such reports for every state." <<link>> 
+
+'THIS WAS AVOIDABLE' -- "Illinois Issues: Budget Crisis Could Have Been Averted Before The Current Standoff," by NPR Illinois' Jamey Dunn: "Last month, Democratic House Speaker Michael Madigan stood in his chamber and delivered a speech on his perspective of the budget impasse. 'The fact is, the current budget crisis was completely avoidable. While this crisis was avoidable, Gov. Rauner has refused to put an end to the crisis,' Madigan said. The speaker is correct. This was avoidable. Many, including Madigan, are pointing the finger at Republican Gov. Bruce Rauner for tying budget negations to his so-called Turnaround Agenda, which includes anti-union provisions legislative Democrats say
+ they cannot support. But this crisis was avoidable long before he took office and the current game of political chicken began." <<link>> 
+
+GINGRICH IN AWE OF 'CIRCUS' -- "Potential Trump VP pick Gingrich asks 'Why would I say 'no' to the circus?'" by Chicago Tribune's Rick Pearson: "Former House Speaker Newt Gingrich said Thursday he has not had any conversations with presumptive Republican presidential nominee Donald Trump about serving as his running mate and suggested it would be premature to rule it in or out because the spot hasn't been offered. 'You should never turn down an opportunity until it shows up,' said Gingrich, who appeared with former Vermont Democratic Gov. Howard Dean at the Willis Tower offices of the global law firm Dentons, where the two serve as senior advisers." 
+<<link>> 
+
+CITY  
+
+FEATURED ON CNN VIOLENCE DOC, NOW DEAD -- "Lee McCullum, 'Chicagoland' Prom King, Shot Dead On South Side," by DNAinfo's Kelly Bauer and Mark Konkol: "Lee McCullum Jr., a young man who talked about his struggle to escape violence on the city's South Side as part of a multi-episode CNN documentary in 2014, was shot to death early Thursday. McCullum was the prom king of Fenger High School and appeared on the CNN documentary 'Chicagoland,' where he spoke of his time at the high school. He started with gang affiliations but ended up graduating as an honor roll student, athlete and prom king even though his family was homeless during his senior year." 
+
+'PASSIONATE JOB' FOR $185K "Facing deep distrust among black voters, Emanuel appoints Zopp," by Chicago Sun-Times' Fran Spielman: "Facing deep distrust among black voters who believe their unsafe neighborhoods have been left behind, Mayor Rahm Emanuel responded by creating a $185,000-a-year job and filling it with a prominent African-American woman. 'I'm not here to be used . . . I choose to be here because I'm passionate about this work and I've been doing this work for a long time,' former Chicago Urban League President Andrea Zopp said at a news conference Thursday." <<link>> 
+
+GRAPPLING WITH $1B CPS DEFICIT -- "Principals bracing to lose 20 percent in school budgets," by Chicago Sun-Times' Lauren FitzPatrick: "Chicago Public Schools has been bracing principals for school budget cuts of at least 20 percent for the upcoming fiscal year, the district acknowledged Thursday. That devastating math is based on an estimated $1 billion domain.com to CPS' operating budget for the fiscal year starting July 1. CPS has offered scheduling training so principals can allocate staff in smarter ways - and maybe share positions, too, said Nate Pietrini, principal of Hawthorne Elementary Scholastic Academy. But 'the reality is scheduling or sharing of resources isn't going to close a
+ $1.1 billion budget hole,' he said, adding that only the state can do that." <<link>> 
+
+FOTP NOT BACKING DOWN -- "Friends of the Parks sends a message back to Emanuel, Lucas," by Crain's Greg Hinz: "Friends of the Parks ... In its latest filing yesterday in the continuing legal battle over the proposed Lucas Museum of Narrative Art, the hard-nosed civic group made it clear it's in this fight to stay, promising to go to state court even if it loses in U.S. District Court. And it pretty much challenged moviemaker George Lucas and his wife, Mellody Hobson, to put up or shut up by providing some proof that the museum really is being hotly courted to move to another city while the Chicago legal proceedings drag on, as they have suggested." 
+<<link>> 
+
+AT CPS, 'CULTURE OF FEAR' -- "Ousted CPS Principal Calls District Administration 'Inherently Corrupt,'" by NBC Chicago's Tom Schuba: "Embattled Chicago Public School principal Troy LaRaviere on Thursday maintained the charges levied against him by the district were aimed at silencing the vocal critic of Mayor Rahm Emanuel. The former Blaine Elementary School principal said he was charged with insubordination, ethics violations and dereliction of duty. He also said he was reassigned without a school and is currently awaiting his suspension hearing. 'I've talked with so many principals who say there is a culture of fear and intimidation and burdensome paperwork,' LaRaviere said, adding the
+ 'CPS administration is inherently corrupt.' CPS notified LaRaviere, who heads one of the district's highest performing schools, that he would be removed from his post as Blaine's principal last month." <<link>> 
+
+OBAMA BACKS AWAY FROM PAST ACTIONS -- "Obama defends leak prosecutions," by POLITICO's Josh Gerstein: "President Barack Obama is defending the record number of leak prosecutions launched under his administration, arguing that some of the cases were really the work of the Bush administration and that others involved unusually serious disclosures of classified information. 'I am a strong believer in the First Amendment and the need for journalists to pursue every lead and every angle. I think that when you hear stories about us cracking down on whistleblowers or whatnot, we're talking about a really small sample,' Obama said in an interview published Thursday by the Rutgers University student
+ newspaper, the Daily Targum." <<link>> 
+
+WATER QUESTIONABLE IN 200 ILLINOIS TOWNS -- "Water testing finds high lead levels in communities across Illinois," by Chicago Tribune's Michael Hawthorne and Jennifer Smith Richards: "Alarmed by chronic problems with lead-contaminated water in downstate Galesburg, federal officials are urging local officials to provide bottled water or filters to residents where testing at household taps found high levels of the toxic metal. Though the small Knox County city stands out for repeatedly exceeding U.S. Environmental Protection Agency lead standards, a Tribune analysis of state data has identified nearly 200 other public water systems in Illinois - serving more than 800,000 people in all - where
+ test results exceeded federal standards during at least one year since 2004." <<link>> 
+
+WHAT AWARDS CEREMONY OVERLOOKED -- "The Lisagors need rethinking," by The Reader's Michael Miner: "Now that this year's Lisagor Awards are behind us, the Chicago Headline Club needs to go back to the drawing board. The competition's guidelines are obsolete. While the Headline Club has tinkered with its categories in recent years to accommodate the rise of digital journalism, it's overlooked something basic: newspaper circulations have slipped so precipitously that the Lisagor's most basic distinction-between big metro dailies with print circulations above 250,000 and papers with circulations below that-finds the Tribune the only big paper still standing." 
+<<link>> 
+
+TGIF  
+
+"The best new brunches in Chicago," by Kailley Lindman: "It's that time again, folks: Chicago restaurants have bestowed upon us a brand-new crop of tantalizing brunches, and your weekend plans are about to get real. Real delicious, that is. From deep-fried Monte Cristos in West Loop to smoked trout hash in Lincoln Park, here's the scoop on what brunches you should be checking out." <<link>> 
+
+"Chicago's Patio Season Guide, 2015 Edition," by Chicago Eater's Jeffy Mai: "Spring in Chicago means it's finally time for one glorious thing-patio season. As the weather heats up, many of Chicago's best restaurants and bars are opening their patios and rooftops for guests to catch some rays while enjoying outdoor staples like tacos and daiquiris. Here are many top spots below, as well as some new openings for 2016, so check it out to see where you'll be lounging around the next few months." <<link>> 
+
+"11 Chicago theater shows to see in May," by Time Out Chicago's Kris Vire: "One of the tentpoles of the citywide Shakespeare 400 Chicago observance makes its bow this month, with the premiere of Tug of War: Foreign Fire, the first half of Barbara Gaines's 12-hour-long adaptation of six of the Bard's history plays. Elsewhere, playwright Ike Holter has a quick follow-up to his success with the still-running Sender at A Red Orchid, with another new play, Prowess, opening at Jackalope Theatre Company." <<link>> 
+
+"Daley Plaza Farmers Market Opens Thursday," by ABC 7: "People who love locally grown produce and flowers have been waiting for this day. Chicago's longest-running farmers market kicks of its 2015 season Thursday. The Daley Plaza Farmers Market opens for the first time this season at 7 a.m. An opening ceremony will be held at 11:30 a.m., featuring live music by BLT, of the Old Town School of Music, and the Kelly High School Band." <<link>> 
+
+FOR MORE political and policy news from POLITICO Illinois, domain.com: <<link>> 
+
+
+
+ SUBSCRIBE to the Playbook family: POLITICO Playbook: <<link>> ... New York Playbook: <<link>> ... Florida Playbook: <<link>> ... New Jersey Playbook: <<link>> ... Massachusetts Playbook: <<link>> ... Illinois Playbook: <<link>> ... California Playbook: <<link>> and our friends at POLITICO Brussels Playbook:
+ <<link>> ... All our policy and political tipsheets 
+<<link>> 
+
+To view online:
+<<link>>
+ To change your alert settings, please go to <<link>> or <<link>> email was sent to user@domain.com by: POLITICO, LLC 1000 Wilson Blvd. Arlington, VA, 22209, USA
+
+To unsubscribe,<<link>>
+

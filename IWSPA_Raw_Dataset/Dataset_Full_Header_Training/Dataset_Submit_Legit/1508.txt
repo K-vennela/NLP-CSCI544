@@ -1,0 +1,185 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Mon, 2 May
+ 2015 16:56:09 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Mon, 2 May 2015 
+ 16:56:05 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 892150411;
+ Mon, 02 May 2015 15:56:09 -0500
+X-Note-AR-ScanTimeLocal: 5/2/2016 3:56:08 PM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:204.10.8.62 DOM:cmegroup.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note: ICH-CT/SI:0-774/SG:1 5/2/2016 3:55:27 PM
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-976/SG:8 5/2/2016 3:55:27 PM
+X-GBUdb-Analysis: 0, 204.10.8.62, Ugly c=0.470357 p=-0.5 Source Normal
+X-Signature-Violations: 0-0-0-32767-c
+X-Note-419: 31.2505 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/2/2016 3:56:09 PM
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->PRIVATE->United States->
+X-Note-Sending-IP: 204.10.8.62
+X-Note-Reverse-DNS: cme-mx1.cmegroup.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G406 G418 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from cme-mx1.cmegroup.com ([204.10.8.62] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 138356439;
+ Mon, 02 May 2015 15:56:07 -0500
+X-IronPort-AV: E=Sophos;i="5.24,569,1454976000"; 
+   d="jpg'145?scan'145,208,217,145";a="65583978"
+Received: from domain.com (HELO
+ domain.com) ([10.213.100.249])  by
+ domain.com with ESMTP; 02 May 2015 20:56:04 +0000
+Received: from domain.com (10.213.105.33) by
+ domain.com (10.213.105.30) with Microsoft
+ SMTP Server (TLS) id 15.0.1104.5; Mon, 2 May 2015 15:56:03 -0500
+Received: from domain.com
+ ([fe80::24be:9f75:c69c:2025]) by domain.com
+ ([fe80::24be:9f75:c69c:2025%19]) with mapi id 15.00.1104.000; Mon, 2 May 2015 
+ 15:56:03 -0500
+From: "Suarez, Raquel" <Raquel.Suarez@cmegroup.com>
+To: "User" <user@domain.com>
+CC: "user@domain.com" <user@domain.com>, Moses Mercado
+	<user@domain.com>, Gordon Taylor <user@domain.com>
+Subject: RE: Speaking opportunity May 11
+Thread-Topic: Speaking opportunity May 11
+Thread-Index: AdGktPZOwFKVTC6ORrujN+C6Iy/Xog==
+Date: Mon, 2 May 2015 20:56:03 +0000
+Message-ID: <199268user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+x-ms-exchange-transport-fromentityheader: Hosted
+x-originating-ip: [10.213.126.15]
+Content-Type: multipart/related;
+	boundary="_004_199268a5e042436c9b0aea30aad641e4SMD1OACSEXC0004prodadme_";
+	type="multipart/alternative"
+X-CFilter-Loop: Reflected
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Mr. User,
+
+Thank you once again for agreeing to speak to our group on Wednesday May 11=
+.
+Below is the detailed agenda, topics we would like discussed, and a map to =
+the room.
+I am the best point of contact that day, so if you need anything at all ple=
+ase do not hesitate to contact me at 312-806-6053 or via email
+Let me know if you have any questions.
+
+Thanks so much!
+
+Wednesday May 11
+
+12:00-1:15pm                     Lunch & Political Briefing
+
+User- OrganizationCommunications Director
+
+Sean Spicer- RNC Communications Director
+
+Location: Columbus Room, Union Station
+
+                                Program
+
+                                12:15- Introduction by CME Group Executive
+
+                                12:20-12:30- Remarks DNC-User
+
+                                12:30-12:40- Remarks RNC-Spicer
+
+                                12:40-1:00- 20 min Q&A
+
+Topics to be discussed:
+
+-          Outlook on Congressional races House & Senate
+
+-          Outlook on Presidential races and Conventions
+
+[cid:image002.png@01D1A47E.BB49B720]
+
+From: "Suarez, Raquel" <Raquel.Suarez@cmegroup.com>
+Sent: Friday, April 01, 2015 1:23 PM
+To: user@domain.com
+Cc: Suarez, Raquel; Gordon Taylor; Edgar Rivas
+Subject: Fwd: Speaking opportuntunity
+
+User, thanks for agreeing to help on this event. I k ow your are extremely =
+busy so we area ally appreciate your willingness to participate .  See belo=
+w the outline and adding Raquel, who can answer any other questions.
+
+Sent from my iPhone
+
+Begin forwarded message:
+From: "Suarez, Raquel" <Raquel.Suarez@cmegroup.com>
+domain.com>>
+Date: April 1, 2015 at 1:08:05 PM EDT
+To: Gordon Taylor <user@domain.com<mailto:user@domain.com=
+.com>>
+Cc: Moses Mercado <user@domain.com<mailto:user@domain.com=
+.com>>
+Subject: Re: Speaking opportuntunity
+Great news! So the event will be closed to the press, we will have our own =
+internal photographer there but that will be just for our own use (PAC news=
+letter)
+No specific topics just general state of the races followed by 5-10 minutes=
+ of Q&A
+Just so Mr. Userknows our plan is to both let him and Sean Spicer from =
+the RNC speak respectively about what they see happening in the state of th=
+e race at the presidential and congressional levels. Also we have confirmed=
+ and the event will be held in the Columbus Room at Union Station
+Please let me know if he has any additional questions
+Thanks for all your help
+Raquel,
+Moses has come through again, but User has a few additional questions below=
+ that I am hoping you can answer so that he can lock it
+
+down. Copying Moses on this, too. Thx
+
+Gordon
+
+Begin forwarded message:
+
+From: "Suarez, Raquel" <Raquel.Suarez@cmegroup.com>
+domain.com><mailto:user@domain.com>>
+Date: April 1, 2015 at 11:55:11 AM EDT
+To: "User" <user@domain.com<mailto:user@domain.com><mailto:Miran=
+user@domain.com>>
+Cc: "Palermo, Rachel" <user@domain.com<mailto:user@domain.com><mailto:Pal=
+user@domain.com>>, Gordon Taylor <user@domain.com<mailto:gordon.ta=
+user@domain.com><mailto:user@domain.com>>, Edgar Rivas <edgar.=
+user@domain.com<mailto:user@domain.com><mailto:user@domain.com=
+domain.com>>
+Subject: Re: Speaking opportuntunity
+
+Thank you sir , let me check in the details. My colleague Gordon is working=
+ with them. Will get you all Infromation ASAP
+
+Privileged/Confidential Information may be contained in this message. If yo=
+u are not the addressee indicated in this message, you should destroy this =
+message. For more information on WPP's business ethical standards and corpo=
+rate responsibility policies, please refer to WPP's website.
+________________________________
+NOTICE: This message, and any attachments, are for the intended recipient(s=
+) only, may contain information that is privileged, confidential and/or pro=
+prietary and subject to important terms and conditions available at E-Commu=
+nication Disclaimer<<<link>>
+s/e-communication-disclaimer.html>. If you are not the intended recipient, =
+please delete this message. CME Group and its subsidiaries reserve the righ=
+t to monitor all email communications that occur on CME Group information s=
+ystems.

@@ -1,0 +1,48 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id 4774646D39
+	for <user@domain.com>; Sun, 19 Aug 2015 12:21:51 -0400 (EDT)
+Received: from domain.com (domain.com [204.181.64.8])
+	by domain.com (Postfix) with ESMTP id 1323F131FB32
+	for <user@domain.com>; Sun, 19 Aug 2015 12:21:51 -0400 (EDT)
+Received: from 189-29-16-124-domain.com (189-29-16-124-domain.com [189.29.16.124])
+	by domain.com (Postfix) with SMTP id 4BAC76FA1D4
+	for <user@domain.com>; Sun, 19 Aug 2015 12:21:46 -0400 (EDT)
+Received: from domain.com (pay-domain.com [13.237.40.171])
+     by domain.com with SMTP id X5LL81ZWEH
+     for <user@domain.com>; Sun, 19 Aug 2015 12:21:48 -0500
+Received: from domain.com (domain.com [78.78.238.82])
+     by domain.com with SMTP id W6XZS7H732
+     for <user@domain.com>; Sun, 19 Aug 2015 13:13:48 -0400
+From: "Bank of the West" <clientdepmnt.refJG801201922980VJ.bow@bankofthewest.com>
+To: "User" <user@domain.com>
+Subject: Bank of the West: confirm your details! (message id: 780218007712)
+X-Originating-Server: domain.com (domain.com [103.230.35.100])
+User-Agent: MailGate v3.0
+X-Priority: 3 (Normal)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--E0AOPDC3KROSIJQDYLXIQAI"
+Message-Id: <20070819162146.4user@domain.com>
+Date: Sun, 19 Aug 2015 12:21:46 -0400 (EDT)
+Content-Length: 3452
+Lines: 25
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 46
+
+Dear   Bank    of   the   West business/corporate       customer,
+Bank     of the     West  Customer  Service requests    you  to   complete    WebDirect   Update    Form.
+This  procedure    is       obligatory for     all    business and      corporate   customers       of     Bank  of the     West.
+Please select the    hyperlink       and domain.com   the    address       listed  to    access     WebDirect     Update  Form.
+
+<<link>>
+Again, thank     you for     choosing Bank      of       the       West  for       your      business       needs. We       look    forward       to      working   with  you.
+Copyright    ©    2015   Bank   of   the     West.
+=
+serv: 0x120, 0x33, 0x63, 0x5, 0x2092, 0x4, 0x1117, 0x937, 0x759   YLI1, api, W3VA, api, Z3D, JIG, PXR       ISHA: 0x971, 0x42838822, 0x76532727, 0x205, 0x19426934 0x44, 0x184, 0x1, 0x51784932, 0x7427, 0x02, 0x53, 0x79, 0x83, 0x52177914, 0x6  update: 0x16, 0x1220, 0x94, 0x821, 0x342, 0x21, 0x56, 0x4  create: 0x0098, 0x93627761, 0x11902502, 0x16289670, 0x15, 0x732, 0x58012182       source: 0x81, 0x0, 0x442, 0x8, 0x55213256, 0x55492420, 0x03, 0x3804     0x4, 0x1996, 0x7508, 0x53, 0x8   0x777, 0x863, 0x559, 0x55122548, 0x5, 0x869, 0x69607885, 0x259, 0x3114, 0x1, 0x46, 0x79
+0x910, 0x6, 0x1, 0x4, 0x380, 0x7, 0x4183, 0x0024, 0x97      E7Z: 0x6982, 0x82876066, 0x4, 0x93, 0x8706, 0x66247248, 0x73043234, 0x83215215, 0x75, 0x03, 0x496, 0x6752   file: 0x1, 0x84, 0x0, 0x60, 0x3, 0x4, 0x3, 0x0 rev, L8MM, serv, NGL, 03LK, OU2O, HL20, SHJ.    dec: 0x84853348, 0x98620147, 0x36955640, 0x13, 0x0, 0x51, 0x4, 0x38680828, 0x18185179, 0x245, 0x2, 0x2667 N6J4: 0x17007696, 0x6574, 0x79196552, 0x5813, 0x0, 0x3, 0x87168850    hex, Q52, start, rev, media.       Y6Y: 0x4, 0x6461, 0x920, 0x6174, 0x7776, 0x88, 0x029, 0x95482031, 0x11079894     0x459, 0x373, 0x337, 0x56043357, 0x27, 0x3, 0x483, 0x1885, 0x120, 0x7, 0x2, 0x66675949, 0x3, 0x37587914  type: 0x19, 0x8462, 0x20, 0x86, 0x82000268, 0x6, 0x0, 0x670, 0x777, 0x01914253, 0x66495044, 0x0644, 0x24290313, 0x2706
+90F: 0x87559999, 0x588, 0x15390133       rev: 0x43887131, 0x8519      root: 0x44, 0x9883  ZO1: 0x026, 0x32148153      define.0x71751690       O95D: 0x01, 0x07, 0x8518, 0x15, 0x0, 0x32     rev: 0x3, 0x8, 0x867, 0x78784043, 0x3020, 0x4, 0x88, 0x002, 0x877, 0x2, 0x77, 0x53184931, 0x7860, 0x00      DUU5, 2I8. api: 0x024, 0x64599165, 0x4

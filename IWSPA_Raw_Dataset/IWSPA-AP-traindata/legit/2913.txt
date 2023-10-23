@@ -1,0 +1,60 @@
+Scott, Tim,
+Here's the abstract.
+If the results pan out, then several us us may want to be discussing this
+work on the talk circuit.
+This is the first stab! Notice how safe (a very results-insensitive abstract!)
+mike
+XXVI General Assembly, Spring EGS Meeting
+Comparison of Large-Scale Proxy-Based Temperature Reconstructions Over the
+Past Few Centuries
+MANN, M.E.; RUTHERFORD, S; OSBORN, T.J.
+OA28.0  Study of past climates: Climate of the past millennium
+JOUZEL, J.; (co-conveners: JONES, P.D.; MANN, M.E.)
+Comparison of Large-Scale Proxy-Based Temperature Reconstructions Over the
+Past Few Centuries
+M.E. Mann(1), S. Rutherford(1), and T.J. Osborn(2)
+(1) Univ. of Virginia, USA, (2) Climate Research Unit, Univ. East Anglia, UK 
+A  promising approach to the problem of reconstructing patterns of past
+climate variability
+involves the application of spatial climate field reconstruction (CFR)
+techniques to networks of proxy
+climate indicators (e.g., Mann et al 1998;2000--see
+<<link>>).  
+This approach seeks to exploit the complimentary information in a diverse
+network of proxy indicators by determining the most consistent
+relationships between these
+networks of data and  the leading spatial patterns of climate variability
+during a recent "calibration" period of overlap with the modern
+instrumental record. 
+The calibrated relationship is then used to estimate large-scale patterns
+of climate variability
+in the past from the proxy data. This method makes no  assumptions regarding
+the relationship between a given proxy indicator and specific local
+annual/seasonal climate variable, but
+does assume that the proxy indicator is tied to some combination of
+large-scale patterns of climate variability.
+Alternatively,  it is possible to  estimate large-scale temperature
+patterns from a relatively homogenous network
+of proxy climate indicators (e.g., tree-ring density data--see Briffa et
+al, 1998) by invoking
+a local calibration between each climate indicator and the climate variable
+(e.g., summer temperature)
+of interest. This approach is more conservative in the amount of
+information it seeks to
+extract from the proxy data network, but it is free from assumptions
+regarding the large-scale 
+patterns of past climate variability. Recent reconstructions of Northern
+Hemisphere annual-mean and 
+warm-season temperature patterns using these respective approaches and data
+show some similarities, 
+but also some important differences. Here we investigate these differences
+more closely, examining 
+the sensitivity of Northern Hemisphere temperature pattern reconstructions
+to (a) the underlying 
+proxy data used, (b) the particular method used to estimate large-scale
+patterns from these data, 
+and (c) the target  seasonality of the reconstruction. By controlling
+independently for each of these 
+three factors, we gain insight into the reasons for differences between
+various proxy-based estimates
+of past large-scale temperature variability.  

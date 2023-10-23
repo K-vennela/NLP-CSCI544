@@ -1,0 +1,32 @@
+Dear All,
+So now it seems that we're separating 'providing the code' from 'running the code'. I
+can't
+see the purpose of one without the other. Even if Mike complies I suspect there will need
+to be several sessions of interaction, which neither side will be very keen on. As I said
+before
+I know the code will involve lots of combinations (for different periods with different
+proxies).
+Also I would expect, knowing the nature of the PC-type regression approach, that there
+will
+be library routines. If the code is sent, there needs to be conditions. We don't want
+McIntyre
+(MM) to come out and say he can't get it to work after a few days.
+So, it is far some simple. I'm still against the code being given out.  Mike has made
+the
+data available. That is all they should need.  The method is detailed in the original
+paper -
+in the online (methods) and also in several other papers Mike has written.
+As an aside, Mike is now using a different method from MBH98.  Also, as an aside,
+whilst we've been deliberating, MM have submitted another comment on MBH98 to another
+journal. In this they say they have a program that replicates MBH98 (although it isn't
+very convincing that they have it exactly right, as they never show a like for like
+comparison) , but
+most of the comment goes on about the results being different due to different
+combinations of
+proxies. The latter isn't surprising.
+It might appear they want the code to check whether their version works properly. If
+this
+is the case, then there are issues of IPR.  So, if they get the code, how do we stop them
+using it for anything other than this review.
+Cheers
+Phil

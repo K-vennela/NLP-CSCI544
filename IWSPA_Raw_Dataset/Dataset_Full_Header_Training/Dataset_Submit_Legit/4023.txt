@@ -1,0 +1,109 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 18 May
+ 2015 17:42:49 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 18 May 2015 
+ 17:42:46 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 922909817
+ for user@domain.com; Wed, 18 May 2015 16:42:56 -0500
+X-Note-AR-ScanTimeLocal: 5/18/2016 4:42:56 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @mail.house.gov ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->United States->
+X-Note-Sending-IP: 143.228.181.81
+X-Note-Reverse-DNS: s-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from s-domain.com ([143.228.181.81] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 139630566
+ for user@domain.com; Wed, 18 May 2015 16:42:55 -0500
+Received: from HEOC-domain.com (heoc-domain.com
+ [143.228.151.95])	by s-domain.com  with ESMTP id u4ILfMUO009480	(using
+ TLSv1 with cipher ECDHE-RSA-AES256-SHA (256 bits) verified FAIL);	Wed, 18 May
+ 2015 17:41:22 -0400
+X-DKIM: OpenDKIM Filter v2.4.3 s-domain.com u4ILfMUO009480
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mail.house.gov;
+	s=November2012-msg-mhg; t=1463607696;
+	bh=qkY+uv4g2bg80pxxazGFi9Blrpy1l7UP9Py2imnxhWU=;
+	h=From: "Youngsmith, Barron" <Barron.Youngsmith@mail.house.gov>
+	b=BN2XUB+IQe3GRHcvkRXDMmAnQ3ArX/+crAOWM7xUbfQaCFeIejNTCENPi/0LWMe3j
+	 C2b3M8W0xH59eR5i7MUqUJ3BXhzba49WsM6jZwHq9Z2AfBXEzV3ymARHRn7eR3rJva
+	 LCQ5qFu/Xl7/+cW1RxjQhTTRZnYAPUgDvJVpnCvs=
+Received: from HEOC-domain.com ([fe80::3064:f549:eec9:db5d]) by
+ HEOC-domain.com ([::1]) with mapi id 14.03.0279.002; Wed, 18 May 2015 
+ 17:41:21 -0400
+From: "Youngsmith, Barron" <Barron.Youngsmith@mail.house.gov>
+To: "User" <user@domain.com>
+Subject: Smith Announces Opposition to FY2017 NDAA
+Thread-Topic: Smith Announces Opposition to FY2017 NDAA
+Thread-Index: AdGxTgPZQtP7C2P4SoGinFfMqtPfGw==
+Date: Wed, 18 May 2015 21:41:20 +0000
+Message-ID: <45user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+x-originating-ip: [143.231.227.14]
+Content-Type: multipart/related;
+	boundary="_004_45F2209180DA784587B144B6AFAAD1B319023270HEOCHRM03USHous_";
+	type="multipart/alternative"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+[cid:image001.png@01D1B129.51BFB9F0]
+For Immediate Release: Wednesday, May 18, 2015 
+Contact: Barron YoungSmith: 202.226.5662
+
+Smith Announces Opposition to FY2017 NDAA
+
+Washington, DC - Today, House Armed Services Committee Ranking Member Adam =
+Smith made the following statement indicating his opposition to the FY 2017=
+ NDAA:
+
+"I have been extremely concerned about this bill's attempt to take $18 bill=
+ion from Overseas Contingency Operations, setting up a funding cliff that p=
+uts our men and women in the field at risk next year. This scheme degrades =
+military readiness by taking funds out of OCO. It also sets the stage to br=
+eak the budget agreement reached just last October, which will make it more=
+ difficult to reach similar deals in the future that we will need in order =
+to make necessary investments in our military, infrastructure, public healt=
+h, and other critical priorities.
+
+"Now, Republicans have used a procedural trick to overturn a decision by Me=
+mbers of the House regarding women's equality in the Selective Service. The=
+y have misused the rules process to avoid votes on women's equality, labor =
+laws, and taxpayer-funded discrimination against LGBT individuals, while ad=
+ding further restrictions on transfers from the Guantanamo Detention Facili=
+ty, cutting funds for nuclear nonproliferation, and adopting a range of oth=
+er highly problematic provisions. These have tipped the balance of the bill=
+ considerably. I greatly appreciate the efforts of the majority to work wit=
+h us on this bill, but unfortunately, without proper debate and vote by the=
+ whole House on these national issues, it is no longer a product I can supp=
+ort."
+
+##
+
+Barron YoungSmith
+Director of Communications / Counsel
+House Armed Services Committee Democrats
+Office: 202.226.5662 | Cell: 202.225.2083
+2216 Rayburn House Office Building
+user@domain.com<mailto:user@domain.com>
+Twitter: @HASCDemocrats<<<link>>>
+Facebook: House Armed Services Committee Democrats<<<link>>
+/House-Armed-Services-Committee-Democrats-135848076965/>
+

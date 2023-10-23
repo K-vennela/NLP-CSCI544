@@ -1,0 +1,438 @@
+Received: from domain.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Tue, 20 May 2015 13:02:54 +0200
+Received: from mail.hackingteam.it (unknown [192.168.100.50])	by
+ domain.com (Postfix) with ESMTP id AD96760061	for
+ <user@domain.com>; Tue, 20 May 2015 11:51:36 +0100 (BST)
+Received: by mail.hackingteam.it (Postfix)	id EA52BB6603D; Tue, 20 May 2015 
+ 13:02:54 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from domain.com (exchange.hackingteam.it
+ [192.168.100.51])	(using TLSv1 with cipher AES128-SHA (128/128 bits))	(No
+ client certificate requested)	by mail.hackingteam.it (Postfix) with ESMTPS id
+ DFAD9B6600D;	Tue, 20 May 2015 13:02:54 +0200 (CEST)
+Received: from domain.com ([fe80::755c:1705:6a98:dcff]) by
+ domain.com ([fe80::755c:1705:6a98:dcff%11]) with mapi id
+ 14.03.0123.003; Tue, 20 May 2015 13:02:54 +0200
+From: Emad Shehata <e.shehata@hackingteam.it>
+To: "User" <user@domain.com>,
+	"'user@domain.com'" <user@domain.com>,
+	"'user@domain.com'" <user@domain.com>
+Subject: R: Re: Your domain.com to Saudi
+Thread-Topic: Re: Your domain.com to Saudi
+Thread-Index: AQHPcIPFHXU59VQRfEe/OY8meFaJMJtCqtCAgAAR1ICABnU6gIAAIzI4
+Date: Tue, 20 May 2015 11:02:53 +0000
+Message-ID: <user@domain.com>
+In-Reply-To: <user@domain.com>
+Accept-Language: it-IT, en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-originating-ip: [fe80::755c:1705:6a98:dcff]
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1596064420_-_-"
+
+Negativo da parte mia
+
+-- 
+
+Emad Shehata 
+
+Key Account Manager 
+
+Sent from my mobile.
+
+
+
+
+Da: Marco Bettini [mailto:user@domain.com]
+
+Inviato: Tuesday, May 20, 2015 01:56 PM
+
+A: Emad Shehata <user@domain.com>; Giancarlo Russo <user@domain.com>
+
+Cc: Marco Bettini <user@domain.com> 
+
+Oggetto: Re: Your domain.com to Saudi 
+
+
+
+
+Non ho trovato il dealer agreement firmato, voi ne avete una copia?
+
+Marco
+
+Il giorno 16/mag/2014, alle ore 10:19, Emad Shehata <user@domain.com> ha scritto:
+
+<!--
+/* Font Definitions */
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:Webdings;
+	panose-1:5 3 1 2 1 5 9 6 7 3;}
+@font-face
+	{font-family:"Wingdings 2 \;color\:navy";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	color:black;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-priority:99;
+	mso-style-link:"Testo fumetto Carattere";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";
+	color:black;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	color:black;}
+span.StileMessaggioDiPostaElettronica18
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+span.hps
+	{mso-style-name:hps;}
+span.StileMessaggioDiPostaElettronica20
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.TestofumettoCarattere
+	{mso-style-name:"Testo fumetto Carattere";
+	mso-style-priority:99;
+	mso-style-link:"Testo fumetto";
+	font-family:"Tahoma","sans-serif";
+	color:black;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:924073856;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-903680624 67698691 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:32.2pt;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l0:level2
+	{mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level3
+	{mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level4
+	{mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level5
+	{mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level6
+	{mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level7
+	{mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level8
+	{mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level9
+	{mso-level-tab-stop:324.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1
+	{mso-list-id:936252831;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1387157076 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l1:level2
+	{mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1:level3
+	{mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1:level4
+	{mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1:level5
+	{mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1:level6
+	{mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1:level7
+	{mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1:level8
+	{mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1:level9
+	{mso-level-tab-stop:324.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+
+Marco
+Just finish to update the CRM with the Delear Reference, Projects, Accounts.
+
+Remain at your disposal
+Best regards
+
+
+
+Da: Giancarlo Russo [mailto:user@domain.com]
+
+Inviato: venerdì 16 maggio 2015 09:16
+
+A: Marco Bettini; HT
+
+Oggetto: Re: Your domain.com to Saudi
+
+
+
+
+MArco,
+
+please note we signed a dealer agreement with this company
+
+Il 15/05/2014 23:22, Marco Bettini ha scritto:
+
+Dear Mr. Bander, 
+
+
+
+
+nice to meet you, I'm Marco Bettini, Sales Manager at HT.
+
+I would like to join Alessandro to thank you for the support and help during our last domain.com..
+
+
+
+
+We would be more than happy to organize another domain.com to Riyadh for a POC, please let us know which is the best period.
+
+
+
+
+As you already know Mostapha left the company; I personally will contact you next week, when I come back from my trip, and we will discuss about the proposal requested by the General Directorate.
+
+
+
+
+Best Regards,
+
+Marco Bettini
+
+
+
+
+----
+
+Marco Bettini
+
+Sales Manager
+
+
+
+
+Hacking Team
+
+Milan Singapore Washington DC
+
+domain.com
+
+email: user@domain.com
+
+mobile: +39 3488291450
+
+phone: +39 02 29060603
+
+
+
+
+Il giorno 15/mag/2014, alle ore 20:48, Alessandro Scarafile <user@domain.com> ha scritto:
+
+Good evening Bander,
+
+thank you for your words and for your precious support on both prospects.
+
+In CC you cand find the e-mail address of Marco Bettini, our Sales Manager.
+
+You'll be contacted very soon by our Sales Team to continue the commercial part for the Public Security Directorate and arrange a POC for the Anti-Drug Department.
+
+Best regards,
+
+Alessandro
+
+-- 
+
+Alessandro Scarafile 
+
+Field Application Engineer 
+
+Sent from my mobile.
+
+
+
+
+From: Emad Shehata <e.shehata@hackingteam.it>
+
+Sent: Thursday, May 15, 2015 08:32 PM
+
+To: 'Mostapha Maanna' <user@domain.com>;
+user@domain.com <user@domain.com>
+
+Subject: Your domain.com to Saudi 
+
+
+
+
+Dear Gents,
+
+
+
+First of I would like to express my sincere thanks for your domain.com to Saudi and the big effort you’ve done with both clients . Second , Allow me to summarize what both clients are expecting from us :
+
+
+
+o  
+Anti-drug Department : The client has show a big interest on your system and he has request another domain.com for POC (proof of concept).
+
+o  
+General directorate of public security: Are ready to move to the next step . The client has request to domain.com a proposal that include a basic  introduction of the system , functions and the  capability of
+ the system.  Beside your best price for the basic system (four operating systems, blackberry, android, windows, iphone for
+10 agents) . Please not that the client has insist a lot on discounted price in order to close this deal .
+
+
+
+Mostapha , I will appreciated if you can send me the agreement letter for the below departments .
+
+
+
+·        
+General directorate of public security
+
+·        
+General
+Intelligence - Project
+  Department .
+·        
+Anti-drug Department
+
+
+
+looking forward to hearing from you
+
+
+
+With Regards,
+
+Bander Al-Hussein|
+ General Manager |
+ Hyoon |
+(
++966 92000 4441| Ê
++966 92000 0780
+|
+(+966 (5) 05 444 882|
+*  user@domain.com
+|
+" www.hyoon-domain.com
+|
++ 
+P.O.Box 53878, Riyadh 11593, KSA
+
+
+
+--
+
+Giancarlo Russo 
+
+COO 
+
+Hacking Team 
+
+Milan Singapore Washington DC 
+
+domain.com 
+
+email:user@domain.com 
+
+mobile: +39 3288139385 
+
+phone: +39 02 29060603 
+
+. 
+

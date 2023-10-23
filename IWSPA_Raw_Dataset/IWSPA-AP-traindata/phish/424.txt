@@ -1,0 +1,7 @@
+Dear Regions customer,
+Regions is constantly working to increase security for all Online Banking users. To ensure the integrity of our online payment system, we periodically review accounts.
+Your online account was placed on Inactivity Verification Status. Accounts are placed on Inactivity Verification Status when a certain time has elapsed since online banking customers didn't logged into their online accounts. Accounts that are verified for inactivity continue to receive payments, but they are limited in their ability to send or withdraw funds. If a Inactivity Verification Status lasts for more than 7 working days, the inactive online accound will be locked.
+To lift up this restriction, you need to login into your online account just one time successfully.
+To initiate a safe confirmation process, please use your personal login form that is attached to this email.
+Thank you,
+Regions - Strength, Integrity, Service

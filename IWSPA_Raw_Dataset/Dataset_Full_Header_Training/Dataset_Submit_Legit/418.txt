@@ -1,0 +1,73 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Thu, 19 May
+ 2015 20:45:58 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Thu, 19 May 2015 
+ 20:45:54 -0400
+Received: from [10.87.0.110] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 925440412
+ for user@domain.com; Thu, 19 May 2015 19:46:07 -0500
+X-Note-AR-ScanTimeLocal: 5/19/2016 7:45:58 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @perkinscoie.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->United States->LOCAL->United States->
+X-Note-Sending-IP: 67.231.156.136
+X-Note-Reverse-DNS: mx0b-0016domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from [67.231.156.136] (HELO mx0b-0016domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 142933471
+ for user@domain.com; Thu, 19 May 2015 19:45:57 -0500
+Received: from pps.filterd (domain.com [127.0.0.1])	by
+ mx0b-0016domain.com (8.16.0.11/8.16.0.11) with SMTP id u4K0gKWm012452
+	for <user@domain.com>; Thu, 19 May 2015 17:45:57 -0700
+Received: from dc2sppmail22a.perkinscoie.root.loc ([66.77.102.70])	by
+ mx0b-0016domain.com with ESMTP id 23151u4gy1-1	(version=TLSv1
+ cipher=ECDHE-RSA-AES256-SHA bits=256 verify=FAIL)	for <user@domain.com>;
+ Thu, 19 May 2015 17:45:57 -0700
+Received: from DC2SPPMAIL24A.perkinscoie.root.loc ([10.170.0.24]) by
+ dc2sppmail22a ([10.170.0.89]) with mapi id 14.03.0266.001; Thu, 19 May 2015 
+ 19:45:56 -0500
+From: "Wilson, Graham M.  (Perkins Coie)" <GWilson@perkinscoie.com>
+To: "User" <user@domain.com>
+Subject: Re: Heads up...
+Thread-Topic: Heads up...
+Thread-Index: AdGyATOOa+YIqjOQTlmAwZcCfBHMHgAAWfGgAAA4MYAAAi9uMAAAslVwAACSkPAAAAyioAAH3gGU
+Date: Fri, 20 May 2015 00:45:55 +0000
+Message-ID: <user@domain.com>
+References: <05user@domain.com>
+ <user@domain.com>
+ <05user@domain.com>
+ <user@domain.com>
+ <05user@domain.com>
+ <user@domain.com>,<05user@domain.com>
+In-Reply-To: <05user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Sorry - I got caught up but am free now. Want to talk this evening or in th=
+e morning?
+
+Graham M. Wilson
+(202) 679-3482
+

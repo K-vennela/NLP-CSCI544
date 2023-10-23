@@ -1,0 +1,104 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 4 May
+ 2015 16:43:28 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 4 May 2015 
+ 16:43:21 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 896984723
+ for user@domain.com; Wed, 04 May 2015 15:43:29 -0500
+X-Note-AR-ScanTimeLocal: 5/4/2016 3:43:27 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @mail.house.gov ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->United States->
+X-Note-Sending-IP: 143.228.181.86
+X-Note-Reverse-DNS: s-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from s-domain.com ([143.228.181.86] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 136644629
+ for user@domain.com; Wed, 04 May 2015 15:43:26 -0500
+Received: from HEOC-domain.com (heoc-domain.com
+ [143.228.151.96])	by s-domain.com  with ESMTP id u44KfsIk003181	(using
+ TLSv1 with cipher ECDHE-RSA-AES256-SHA (256 bits) verified FAIL);	Wed, 4 May
+ 2015 16:41:55 -0400
+X-DKIM: OpenDKIM Filter v2.4.3 s-domain.com u44KfsIk003181
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mail.house.gov;
+	s=November2012-msg-mhg; t=1462394532;
+	bh=/aWpM895i6gIg/EF8DsuR446wvdphqBEiShregpeEls=;
+	h=From: "Bryant, Rebecca" <Rebecca.Bryant@mail.house.gov>
+	b=bJaI9Ysk33Q9ZqX3gwi/v+RuFIou1LteSwDreZWGBxVRkuF2ykahpMArS9bpQAeQQ
+	 TjDejaE1mj2Tg0wWmgpUGj+WmDiRhcuGOR6r36K2dLGMTxdDIcA2yS7b6KfmqMAdor
+	 Rh/fN9IS0iuR7hZTg516v6Povnc4N4KAv+PxAyak=
+Received: from HEOC-domain.com ([fe80::3064:f549:eec9:db5d]) by
+ HEOC-domain.com ([::1]) with mapi id 14.03.0279.002; Wed, 4 May 2015 
+ 16:41:54 -0400
+From: "Bryant, Rebecca" <Rebecca.Bryant@mail.house.gov>
+To: "User" <user@domain.com>
+Subject: Smith Statement on Republican NDAA Provision Attacking LGBT Rights
+Thread-Topic: Smith Statement on Republican NDAA Provision Attacking LGBT
+ Rights
+Thread-Index: AdGmRWIPOrb5vtaQRyqOVjnt/hWdOQ==
+Date: Wed, 4 May 2015 20:41:53 +0000
+Message-ID: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+x-originating-ip: [143.231.127.151]
+Content-Type: multipart/related;
+	boundary="_004_F4C7061D5FE8DA4DB871CC551E78C19A1903615EHEOCHRM03USHous_";
+	type="multipart/alternative"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+[cid:image001.gif@01D1A623.DC3B8750]
+
+FOR IMMEDIATE RELEASE
+Wednesday, May 4, 2015 
+
+Contact: Rebecca Bryant, 202-225-8901<tel:202-570-2771>
+
+Smith Statement on Republican NDAA Provision Attacking LGBT Rights
+
+Washington D.C. - Congressman Adam Smith released the following statement a=
+bout the Russell amendment attacking LGBT rights that was included in the F=
+Y 2015 National Defense Authorization Act. During mark-up of the NDAA in co=
+mmittee, Democrats fought against efforts to expand religious organizations=
+' ability to conduct 'taxpayer funded discrimination' against LGBT individu=
+als, women, and other groups.
+
+"The language in the Russell amendment is a direct attack on LGBT rights. T=
+he president issued an executive order prohibiting discrimination based on =
+sexual orientation or identity by government contractors. The Russell amend=
+ment tries to override this executive order by artfully claiming to protect=
+ 'religious freedom,' but just like similar efforts in numerous state legis=
+latures, this is actually an effort to promote discrimination. The language=
+ tries to protect the so-called 'right' to get government contracts and gra=
+nts and still discriminate against people whose lifestyle you don't approve=
+ of. Government-funded discrimination is wrong under any circumstances, and=
+ we certainly shouldn't be trying to expand it in a defense policy bill."
+
+###
+
+Rebecca Bryant
+Communications Director
+Congressman Adam Smith (WA-09)
+Office: 202.225.8901 | Cell: 202.308.2181
+2264 Rayburn House Office Building
+Twitter: @RepAdamSmith<<<link>>>
+Facebook: Rep. Adam Smith<<<link>>>
+

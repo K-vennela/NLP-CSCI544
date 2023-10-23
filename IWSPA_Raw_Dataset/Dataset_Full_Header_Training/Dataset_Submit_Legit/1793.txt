@@ -1,0 +1,46 @@
+Received: from USSDIXMSG20.spe.sony.com ([43.130.141.72]) by
+ ussdixhub21.spe.sony.com ([43.130.141.76]) with mapi; Thu, 9 Jan 2015 
+ 19:42:15 -0800
+From: "Bossert, Alison" <Alison_Bossert@spe.sony.com>
+To: "User" <user@domain.com>
+CC: "Golfo, Sabrina" <user@domain.com>, "Watty, Ariya"
+	<user@domain.com>
+Date: Thu, 9 Jan 2015 19:42:06 -0800
+Subject: Guest list a.o 1.9 
+Thread-Topic: Guest list a.o 1.9 
+Thread-Index: Ac8NtaZi1XJp5FPcT4K5XR9XZAqAeQAAAcHQ
+Message-ID: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <user@domain.com>
+Status: RO
+X-libpst-forensic-sender: /O=SONY/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=160DB992-9E1A477D-88256466-AECEE
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+Revised Guest List attached
+
+Notables for today:
+
+Channing Tatum 
+
+Jimmy Fallon
+
+Michael Sheen 
+
+Brie Larson 
+
+Olivia Wilde 
+
+Seth MacFarlane 
+
+
+
+
+Attachments:
+
+        GuestList a.o 1.9.xls (75834 Bytes)
+

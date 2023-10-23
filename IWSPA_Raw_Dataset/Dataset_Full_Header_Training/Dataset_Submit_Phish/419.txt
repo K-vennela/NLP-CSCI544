@@ -1,0 +1,108 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.4.9])
+	by domain.com (Postfix) with ESMTP id 7DBE046919
+	for <user@domain.com>; Fri,  1 Jun 2015 21:56:04 -0400 (EDT)
+Received: from domain.com (domain.com [192.168.6.4])
+	by domain.com (Postfix) with ESMTP id C11AF131F9FA
+	for <user@domain.com>; Fri,  1 Jun 2015 21:56:04 -0400 (EDT)
+Received: from domain.com (domain.com [74.1.174.151])
+	by domain.com (Postfix) with ESMTP id A30506FA1A8
+	for <user@domain.com>; Fri,  1 Jun 2015 21:56:04 -0400 (EDT)
+Received: from User ([65.172.156.197]) by domain.com with Microsoft SMTPSVC(6.0.3790.3959);
+	 Fri, 1 Jun 2015 21:25:15 -0400
+Reply-To: <user@domain.com>
+From: "eBay"<messages@ebay.com>
+Subject: Question about Item -- Respond Now 
+Date: Fri, 1 Jun 2015 20:21:57 -0500
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <user@domain.com>
+X-OriginalArrivalTime: 02 Jun 2015 01:25:15.0154 (UTC) FILETIME=[DF588F20:01C7A4B4]
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1344
+
+ eBay
+                sent this message to you. 
+
+Question about Item -- Respond Now
+
+eBay sent this message on behalf of an eBay member through My Messages. Responses sent using email will go to the eBay member directly and will include your email address.
+
+Question from mlaccessories
+
+mlaccessories( 2584)
+Positive feedback:
+97.5%
+
+Member since:
+Sep-17-05
+Location:
+Hong Kong
+Registered on:
+www.ebay.com
+
+ Item:
+                                                          (2070651641)
+
+This message was sent while the listing was active.
+mlaccessories is a potential buyer.
+
+What is the buy it now price ?
+
+
+
+
+Respond to this question
+
+Responses in My Messages will not include your email address.
+
+Thank you,
+eBay
+
+
+
+
+ Details
+                                  for item number:2070651641
+
+Item
+                                  URL:
+<<link>>:B:AAQ:US:1
+
+Marketplace Safety Tip
+
+Always remember to complete your transactions on eBay - it's the safer way to trade.
+
+Is this message an offer to buy your item directly through email without winning the item on eBay? If so, please help make the eBay marketplace safer by reporting it to us. These "outside of eBay" transactions may be unsafe and are against eBay policy. Learn more about trading safely.
+
+Is this email inappropriate? Does it violate eBay policy? Help protect the Community by reporting it.
+
+Learn how you can protect yourself from spoof (fake) emails at: 
+<<link>>
+
+                            This eBay notice was sent to you on behalf of another
+                            eBay member through the eBay platform and in accordance
+                            with our Privacy Policy. If you would like to receive
+                            this email in text format, change your notification
+                            preferences. 
+
+See our Privacy Policy and User Agreement if you have questions about eBay's communication policies. 
+Privacy Policy: <<link>>
+User Agreement: <<link>>
+
+Copyright  2015 eBay, Inc. All Rights Reserved.
+Designated trademarks and brands are the property of their respective owners.
+eBay and the eBay logo are registered trademarks or trademarks of eBay, Inc.
+eBay is located at 2015 Hamilton Avenue, San Jose, CA 95125.
+

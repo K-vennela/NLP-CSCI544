@@ -1,0 +1,98 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Thu, 12 May
+ 2015 16:58:33 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Thu, 12 May 2015 
+ 16:58:30 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 912493929
+ for user@domain.com; Thu, 12 May 2015 15:58:39 -0500
+X-Note-AR-ScanTimeLocal: 5/12/2016 3:58:32 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:209.85.223.177 DOM:gmail.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-525/SG:5 5/12/2016 3:57:35 PM
+X-GBUdb-Analysis: Unknown
+X-Signature-Violations: 0-0-0-8447-c
+X-Note-419: 15.6192 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/12/2016 3:58:15 PM
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 209.85.223.177
+X-Note-Reverse-DNS: mail-io0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G407 G675 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from mail-io0-domain.com ([209.85.223.177] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 138141817
+ for user@domain.com; Thu, 12 May 2015 15:58:32 -0500
+Received: by mail-io0-domain.com with SMTP id i75so104954742ioa.3
+        for <user@domain.com>; Thu, 12 May 2015 13:58:33 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:From: Patrick Hallahan <patrick.w.hallahan@gmail.com>
+         :cc;
+        bh=/w+WsP0li4SCx86dp3RXfBn9m3ODa9EoQProp+1rG/4=;
+        b=NDVoY3SPA2Z51lSWtnhGUqTpEa660nZfJTU0vFMKhfeyypT18BKLxys61aQ9L0+iUw
+         tyn+hOgSskcsxVZ2ih1ppUhEyOZ/Ez9/z/O17v4FMyhwJuBfpaELmyT7n4jJVN6hELNT
+         0hMtyeVBTs9WaQa5xHNEkXDASXdYi13yyvprFr7jCnFKc176LfhifgAIuObpQ89sjaQF
+         zUk12LWhCDRtd079RsI3qI46Jp5+E8jJiAra/rHm25XVBe+HhM4gcoKbusAjYDfqgV7R
+         711HkBTXu3Pw5rmz5Y4gnvPLkxBkXnLqcII1OfHKFT+tKSMjgg3c75OdvlHi40tgjZJO
+         vUEQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:date
+         :message-id:subject:From: Patrick Hallahan <patrick.w.hallahan@gmail.com>
+        bh=/w+WsP0li4SCx86dp3RXfBn9m3ODa9EoQProp+1rG/4=;
+        b=AHC/dXcIW43DPGZzmnqtFhBKjCieWsEDyvJmsCjLPgRw+Q2KEAMFrcKCdppyAu5/IQ
+         Z0fLpPwQaoA2b75ibXK9moJDSObuLOvea4gPVN7fOQ3eidfy3OLY1uyBTKVmhXYWeGOu
+         exzRvmxtPoPbyglJo/1NapwTNs9R2nw+7QNUzR0vD3ZrNfE8D2IzKvFnC70Ow1D7Nimu
+         PnegAJEJc08L3CF5g/hB6BhFJYCBTsKcs+U3w+oYW4zRFVSjnoHB4HPvVyruVNvXLizh
+         SObhc5kyE0HUiPJSpxDtObUg+VUrfccJSWB4Pxbso6OtmkCE09j1D5hFi9OOoQQLlmPa
+         gN9Q==
+X-Gm-Message-State: AOPr4FXoMDWWT5OSSuRB6IXd0aqQJip7uHS1kw1NCxRKIvbTApcRVnEmoQmvTl6dWbqcxmYlJgGfAMoaCh+/fQ==
+X-Received: by 10.107.152.85 with SMTP id a82mr8887291ioe.46.1463086712693;
+ Thu, 12 May 2015 13:58:32 -0700 (PDT)
+Received: by 10.107.15.209 with HTTP; Thu, 12 May 2015 13:58:32 -0700 (PDT)
+In-Reply-To: <CA+user@domain.com>
+References: <CAMAfvhFYD4H+user@domain.com>
+	<CA+user@domain.com>
+Date: Thu, 12 May 2015 16:58:32 -0400
+Message-ID: <user@domain.com>
+Subject: Re: Lunch
+From: Patrick Hallahan <patrick.w.hallahan@gmail.com>
+To: Tyler Anderson <user@domain.com>
+CC: Patrick Hallahan <user@domain.com>, domain.com Desai
+	<user@domain.com>, Justin Brennan <user@domain.com>, "Dunn,
+ Jackson" <user@domain.com>, "user@domain.com"
+	<user@domain.com>, Michael Halle <user@domain.com>,
+	Noam Lee <user@domain.com>, Roshan Patel <rpatel@50-domain.com>, Adam Goers
+	<user@domain.com>, Brian Zuzenak <user@domain.com>, "Balderston, Kris"
+	<user@domain.com>, "Mantz, Jonathan" <user@domain.com>,
+	"David W. Jones" <user@domain.com>, "Smith, Andrew M."
+	<user@domain.com>, Michael Monroe <user@domain.com>, "Brown, Sam"
+	<user@domain.com>, Dennis O'Brien <user@domain.com>, "Ian
+ Alberg Forward" <user@domain.com>, Dan Kalik
+	<user@domain.com>, Timothy Del Monico <user@domain.com>, Andrew
+ Bleeker <user@domain.com>, Bradley Beychok <user@domain.com>,
+	"Kaplan, Jordan" <user@domain.com>, Ami Copeland <user@domain.com>,
+	Jeff Stoltz <user@domain.com>
+Content-Type: multipart/alternative; boundary="001a114079aec92b700532ab6b17"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Pittsburgh is America's team and city - I am sure President Trump would
+agree - down with Washington.  See you tomorrow.
+
+On Thu, May 12, 2015 at 3:37 PM, Tyler Anderson <user@domain.com>

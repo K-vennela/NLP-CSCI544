@@ -1,0 +1,82 @@
+Received: from domain.com (146.215.230.105) by
+ domain.com (43.130.141.77) with Microsoft SMTP Server id
+ 8.3.297.1; Tue, 10 Dec 2015 15:47:45 -0800
+Received: from domain.com ([160.33.194.229])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id rBANljNF031425	for <user@domain.com>; Tue, 10 Dec 2015 
+ 23:47:45 GMT
+Received: from mail45-am1-domain.com (mail-domain.com
+ [213.199.154.202])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id rBANlios014346
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Tue, 10 Dec 2015 23:47:44 GMT
+Received: from mail45-am1 (localhost [127.0.0.1])	by mail45-am1-domain.com
+ (Postfix) with ESMTP id BB0CAA0116	for <user@domain.com>; Tue, 10 Dec
+ 2015 23:47:43 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:72.30.239.25;KIP:(null);UIP:(null);IPV:NLI;H:nm38-vm9.bullet.mail.bf1.yahoo.com;RD:nm38-vm9.bullet.mail.bf1.yahoo.com;EFVD:NLI
+X-SpamScore: -1
+X-BigFish: vps-1(zz13dbMc85fh14ffIzz2148h208ch1ee6h1de0h1ce5h201ch2073h2146h1202h1e76h208dh2189h1d1ah1d2ah1fc6h1890kzzz2dh5eh5fh454h839h89ehd93hd94h1030h10d2h1288h12a5h12bdh137ah139eh13eah1441h1537h15beh162dh1631h1758h1898h18bch18e1h1946h19b5h1b0ah1bceh2222h224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1e23h1fe8h1ff5h20f0h2218h2216h226dh2327he8fj1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received: from mail45-am1 (localhost.localdomain [127.0.0.1]) by mail45-am1
+ (MessageSwitch) id 138671926294779_2935; Tue, 10 Dec 2015 23:47:42 +0000
+ (UTC)
+Received: from domain.com (unknown [10.3.201.238])	by
+ mail45-domain.com (Postfix) with ESMTP id 135E53C0049	for
+ <user@domain.com>; Tue, 10 Dec 2015 23:47:42 +0000 (UTC)
+Received: from nm38-vm9.bullet.mail.bf1.yahoo.com (72.30.239.25) by
+ domain.com (10.3.207.152) with Microsoft SMTP Server id
+ 14.16.227.3; Tue, 10 Dec 2015 23:47:41 +0000
+Received: from [98.139.212.150] by nm38.bullet.mail.bf1.yahoo.com with NNFMP;
+ 10 Dec 2015 23:47:41 -0000
+Received: from [98.139.212.247] by tm7.bullet.mail.bf1.yahoo.com with NNFMP;
+ 10 Dec 2015 23:47:41 -0000
+Received: from [127.0.0.1] by omp1056.mail.bf1.yahoo.com with NNFMP; 10 Dec
+ 2015 23:47:41 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 147572.50336.user@domain.com
+Received: (qmail 82548 invoked by uid 60001); 10 Dec 2015 23:47:41 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s1024; t=1386719261; bh=CSSRZflkC307zLandyI4m78227ZlHsePAaEBUmwelpo=; h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:Message-ID:Date:From: Cooper Senior Care Consulting <cscconsulting@yahoo.com>
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com;
+  h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:Message-ID:Date:From: Cooper Senior Care Consulting <cscconsulting@yahoo.com>
+  b=HW8ORvQODrZkqKjtgqsr0b+irD5X3Ri75iJOxVIxoJrKGdEVzggYr+49y61UtGLjaMuo/3QwUieB8hpMX7sAOehwGOcChDQhlv1CMqN7CoYMMgb/nDVOrZH0k+5HE5Kul/CYK0nzgG4RrSaRzPCn9qtgOCjF/8AYnvtJZV1bhuM=;
+X-YMail-OSG: SNj6YuoVM1mqw74UsjjJRVbdxocARA6U7c2ckLRtcBYKvg0
+ 6o2LhNikWY7X7tOBa6i8Rk6huoaR4PxKsVsysuaTSxQbvkpo8IDEqCX3etM4
+ n3ItIxA_4UHM2AvTsMgtHYxS7.v9LjDUtsKfQmXpbOAjsZl_lOq6ifGihIUc
+ IpHNQS7kZFI5mGMQ1JxhXsd4INk_jL6mHwwr4S.NArCpArPH73HWWmnRoX3J
+ 2hVxvBw5iLlD0j3wm82gVbD0djDtTPp7Z.9k.p7HF594ISO.GyWMuLu7z.hM
+ u5lZOWj1gHlhKkMR9jh0O6JXJoull6TsVerGZIi7DONkbGhqogjncnHePgxP
+ UQwqmqrxmZ15SHU1VrTIA59Kj.G2GnB8shV1_T3EV5q1Y9ECxferN6RXWMqc
+ HKOG21w.uoDnA79U4xsGyAeMRAR_q4rxOwUF2Ck5n9o54n6X6sc3hpB1ORnQ
+ uAVlUepAdh0aM6UDuuFqPterCA45.BpDOqmM92CDZhmvmZXbM6C6yJdIHlbU
+ d.PaEw88VbtvJZHaH4_OGlQdQYDK9OtJEvabX_Ai7wXzPaZj0GFPZxLkl98G
+ Q8v2ou.ZiK1i1RrgT
+Received: from [74.0.205.90] by web160605.mail.bf1.yahoo.com via HTTP; Tue, 10
+ Dec 2015 15:47:41 PST
+X-Rocket-MIMEInfo: 002.001,SGkgQWxsLAoKR29vZCBuZXdzLS10aGUgZG9jdG9yIHRoYXQgSmlsbCByZWZlcnJlZCBUb255IHRvIGZvciBoaXMgcHVsbW9uYXJ5IGlzc3VlcyB3YXMgYSBISVQuIERyLiBTb2ZmZXIgd2FzIHdlbGwgcHJlcHBlZCBieSBKaWxsIGJlZm9yZSBUb255IHNhdyBoaW0gYW5kIERyLiBTb2ZmZXIgZm9jdXNlZCBvbiB0aGUgZmFjdCB0aGF0IFRvbnkgbmVlZHMgdG8gbG9zZSB3ZWlnaHQgYW5kIHNob3dlZCBoaW0gaG93IHRvIG1vZHVsYXRlIGhpcyBveHlnZW4gdGFuayB3aGVuIGhlIGlzIGFtYnVsYXRpbmcgaW4gb3IBMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.169.609
+Message-ID: <1386719261.25689.user@domain.com>
+Date: Tue, 10 Dec 2015 15:47:41 -0800
+From: Cooper Senior Care Consulting <cscconsulting@yahoo.com>
+Reply-To: Cooper Senior Care Consulting <user@domain.com>
+Subject: There Won't Be a Trip to San Diego ;)
+To: "User" <user@domain.com>,
+        "user@domain.com" <user@domain.com>
+Return-Path: user@domain.com
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+Hi All,
+
+Good news--the doctor that Jill referred Tony to for his pulmonary issues was a HIT. Dr. Soffer was well prepped by Jill before Tony saw him and Dr. Soffer focused on the fact that Tony needs to lose weight and showed him how to modulate his oxygen tank when he is ambulating in order to give him more oxygen. Jill saw Tony and Barbara last night and Tony said he feels much more confident to get out more after seeing Dr. Soffer. Jill and Tony will be focusing on weight loss and will be tag teaming with Dr. Soffer on this issue.
+
+Dr. Soffer asked for some medical records to be sent to him and Jill will facilitate this. Dr. Soffer feels that there is no reason why Tony should have to travel down to San Diego for another opinion.
+
+We will keep you posted on any further updates.
+
+I hope everyone is well!
+
+Kasey
+

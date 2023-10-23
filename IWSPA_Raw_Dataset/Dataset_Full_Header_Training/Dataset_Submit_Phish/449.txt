@@ -1,0 +1,101 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id 9B3CB46867
+	for <user@domain.com>; Wed,  1 Apr 2015 18:36:37 -0400 (EDT)
+Received: from domain.com (domain.com [193.85.2.13])
+	by domain.com (Postfix) with ESMTP id 30BBC131F72A
+	for <user@domain.com>; Wed,  1 Apr 2015 18:36:37 -0400 (EDT)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from mail.CHRYSO.CZ (unknown [213.29.248.90])
+	by domain.com (Postfix) with ESMTP id BA5E3187B92;
+	Thu,  2 Apr 2015 00:36:35 +0200 (CEST)
+Received: from User ([75.44.25.76]) by mail.CHRYSO.CZ with Microsoft SMTPSVC(6.0.3790.3959);
+	 Thu, 2 Apr 2015 00:36:34 +0200
+Reply-To: <user@domain.com>
+From: "Jessica Garner"<jessgaj@yahoo.com>
+Subject: Question from eBay member
+Date: Wed, 1 Apr 2015 18:31:59 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <user@domain.com>
+X-OriginalArrivalTime: 01 Apr 2015 22:36:35.0044 (UTC) FILETIME=[500ED240:01C9B31A]
+To: undisclosed-recipients:;
+Content-Length: 15242
+Lines: 208
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1023
+
+e.Bay sent this 
+                  message from Jessica Garner (jessgaj). 
+Your registered 
+                  name is included to show this message originated from e.Bay. Learn More. 
+
+
+
+Bu.yer has 
+                  responded to your question about this item.
+
+Do 
+                  not respond to the sender if this message requests that you 
+                  complete the transaction outside of e.Bay. This type 
+                  of offer is against e.Bay policy, may 
+                  be fraudulent, and is not covered by buyer protection 
+                  programs. Learn 
+                  More
+
+Question from 
+                              jessgaj
+
+jessgaj 
+                                (20)
+
+Positive 
+                                feedback:
+100.0%
+
+Member 
+                                since:
+Aug-16-03
+
+Location:
+Florida, 
+                                United States of America
+
+Registered 
+                                on:
+domain.com
+
+Hi, I am 
+                                interested on your item you sell. Can you please 
+                                tell me more about it? Please contact me 
+                                asap!
+
+Item URL:
+
+htps://domain.com/ws/eBayISAPI.dll?ViewItem&item=6831805721&sspagename=ADME:B:AAQ:UK:1
+
+Answer 
+                                the question
+
+Regards,
+e.Bay
+
+Marketplace Safety 
+                              Tip 
+
+Never pay for your e.Bay 
+                              item using instant case wire transfer services 
+                              through Western Union or MoneyGram. These payment 
+                              methods are unsafe when paying someone you don't 
+                              know. Learn more about sending 
+                              payments. 

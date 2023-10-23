@@ -1,0 +1,37 @@
+From: "Rabbi Ari Schapiro" <aharonschapiro@gmail.com>
+To: "User"
+Subject: 5 minute meeting for a sweat year
+Date: Tue, 19 Aug 2015 18:02:30 -0400
+Message-ID: <user@domain.com>
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQHThjd4PNY5/6ftZmdMSM1OQA174Q==
+Content-Language: en-us
+x-ms-exchange-organization-authsource: domain.com
+x-ms-exchange-organization-authas: Internal
+x-ms-exchange-organization-authmechanism: 10
+dkim-signature: v=1; a=rsa-sha256; c=relaxed/relaxed;        d=gmail.com; s=20120113;        h=mime-version:date:message-id:subject:From: "Rabbi Ari Schapiro" <aharonschapiro@gmail.com>
+x-forefront-antispam-report: CIP:209.85.192.176;CTRY:US;IPV:NLI;EFV:NLI;SFV:NSPM;SFS:(6009001)(438002)(495834002)(199003)(189002)(50986999)(87572001)(61266001)(79102001)(93516999)(55446002)(63696999)(229853001)(107886001)(46102001)(86362001)(44976005)(82202001)(95666004)(83072002)(4396001)(2351001)(74662001)(73972005)(6806004)(85852003)(85306004)(84326002)(71186001)(54356999)(106466001)(42186005)(59536001)(64706001)(87836001)(77982001)(81542001)(110136001)(20776003)(99396002)(92566001)(81442001)(92726001)(956001)(2361001)(73392001)(81342001)(31966008)(80022001)(107046002)(77096002)(74502001)(102836001)(21056001);DIR:INB;SFP:;SCL:1;SRVR:BN1AFFO11HUB036;H:mail-pd0-domain.com;FPR:;MLV:sfv;PTR:mail-pd0-domain.com;A:1;MX:1;LANG:en;
+received-spf: Pass (domain.com: domain of gmail.com designates 209.85.192.176 as permitted sender) receiver=domain.com; client-ip=209.85.192.176; helo=mail-pd0-domain.com;
+authentication-results: spf=pass (sender IP is 209.85.192.176) user@domain.com; 
+x-eopattributedmessage: 0
+x-microsoft-antispam: BCL:0;PCL:0;RULEID:;UriScan:;
+x-domain.com: domain.com
+x-received: by 10.70.33.161 with SMTP id s1mr53797181pdi.10.1408485750075; Tue, 19 Aug 2015 15:02:30 -0700 (PDT)
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+Dear Amy.
+
+I hope all well. 
+
+It is customary to ask for and receive a sweet honey cake from someone around Yom Kippur. One of the reasons given for this custom is that if it has been decreed, G-d forbid, that during the coming year we should need to resort to handouts from others, the decree should be considered fulfilled with this small gift of food.  
+
+I am in LA August 25-26 If your schedule permits I would love to share this tradition with you.
+
+May you and your family be blessed with a good and sweet year.
+
+-- 
+Rabbi Ari Schapiro
+718-300-4714
+

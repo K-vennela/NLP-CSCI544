@@ -1,0 +1,69 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [75.102.5.22])
+	by domain.com (Postfix) with ESMTP id C9B5A3144001
+	for <user@domain.com>; Tue,  7 Jul 2015 16:45:55 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 861C023203D;
+	Tue,  7 Jul 2015 16:49:02 +0000 (UTC)
+X-Virus-Scanned: amavisd-new at domain.com
+X-Spam-Flag: NO
+X-Spam-Score: -4.738
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.738 tagged_above=-10 required=6.6
+	tests=[BAYES_00=-2.599, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_MED=-4,
+	URIBL_AB_SURBL=1.86]
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id po74hRamMp3A; Tue,  7 Jul 2015 16:48:58 +0000 (UTC)
+Received: from smtp1.syr.edu (smtp1.syr.edu [128.230.18.82])
+	by domain.com (Postfix) with ESMTP id 295BD23203B
+	for <user@domain.com>; Tue,  7 Jul 2015 16:48:57 +0000 (UTC)
+Received: from suex07-hub-02.ad.syr.edu (suex07-hub-02.ad.syr.edu [128.230.108.196])
+	by smtp1.syr.edu (8.14.3/8.14.3) with ESMTP id n67GeDWR011639
+	(version=TLSv1/SSLv3 cipher=AES128-SHA bits=128 verify=FAIL);
+	Tue, 7 Jul 2015 12:40:18 -0400
+Received: from SUEX07-MBX-04.ad.syr.edu ([128.230.108.134]) by
+ suex07-hub-02.ad.syr.edu ([fe80::813b:49a2:a4d5:6367%10]) with mapi; Tue, 7
+ Jul 2015 12:39:15 -0400
+From: Amy S Lang <aslang@syr.edu>
+Date: Tue, 7 Jul 2015 12:39:14 -0400
+Subject: Important: Email Account Verification Update!! !
+Thread-Topic: Important: Email Account Verification Update!! !
+Thread-Index: AQHJ/yF2jHo+DhWAv0CbTIPifkoYRg==
+Message-ID: <0user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+acceptlanguage: en-US
+Content-Type: multipart/alternative;
+	boundary="_000_0A379DE7D6A76E41ACAC5E3E01017A3561FA30A5SUEX07MBX04adsy_"
+MIME-Version: 1.0
+X-Proofpoint-Virus-Version: vendor=fsecure engine=1.12.8161:2.4.5,1.2.40,4.0.166 definitions=2009-07-07_13:2009-07-03,2009-07-07,2009-07-07 signatures=0
+X-Proofpoint-Spam-Reason: safe
+To: undisclosed-recipients:;
+Content-Length: 1925
+Lines: 56
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1098
+
+Your mailbox quota has been exceeded the storage domain.com which is 20GB
+as set by your administrator,You are currently running on 20.9GB.
+
+You may not be able to send or receive new mails until you re-validate
+your mailbox.
+
+To re-activate your account please click the link below
+
+<<link>>
+7070b
+
+<mhtml:{B9B56A0D-F4A7-47B3-9EBE-D52D3CEA5E00}mid://00000010/!x-usc:<<link>>
+domain.com/verify/secure/mailhelp/update/>
+Thanks and we are sorry for the inconviniences
+
+Localhost

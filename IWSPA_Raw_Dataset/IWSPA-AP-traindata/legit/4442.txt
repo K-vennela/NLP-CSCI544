@@ -1,0 +1,100 @@
+Advanced Persistent Threats (APTs). Yes, very persistent, very STICKY.
+Please find a few VERY interesting CASE HISTORIES  by the WSJ on the  difficulty of eradicating sophisticated malware infections.
+"The episode illustrates the two-way nature of high-technology sleuthing. For all of the U.S. government’s prowess at getting into people’s computers through the NSA and the military’s Cyber Command, the government faces challenges keeping hackers out of its own networks. The discrepancy points to a commonly cited problem with defending computers: Playing offense almost is always easier than playing defense."[…]
+"No official determination has been made about who is behind the breach. But five people familiar with the original intrusion said they had seen or been told of links suggesting involvement by the Russian government.""The malware, or intrusion software, is similar to other tools linked to Moscow in the past. Two of the people said the intruders had taken State emails related to the crisis in Ukraine, among other things. In addition, the attack appears very similar to a fall breach of the White House’s unclassified email system, which some U.S. officials linked to Russia."[…]"Investigators believe that hackers first snuck into State Department computers last fall after an employee clicked on a bogus link in an email referring to administrative matters, a type of attack known as a “phish.” That loaded malicious software onto the computer—a common hacker trick that has worked in countless corporate and government breaches."
+[…]
+"The size of agency’s network and its key function—making sure Washington knows what is happening in the rest of the world—has made the cleanup difficult, the people familiar with the investigation said."[…]"Investigators also see signs that hackers are trying to get back into scrubbed-clean systems with slightly altered versions of their malicious code. It couldn’t be learned if those new intrusion attempts were successful.""Cleaning out any large network takes time. When the Defense Department discovered hackers had penetrated the U.S. Central Command’s classified network in 2008, the cleanup, called Operation Buckshot Yankee, took about a month, two former U.S. officials said. That project likely was easier than the State Department’s effort, because that network was much smaller and access was more restricted.""In 2013, the U.S. Navy discovered that Iranian attackers had breached their unclassified network. Iranian officials never commented on the Navy breach. It took the Navy four months to purge the hackers from their system, The Wall Street Journal reported last year. Then-Vice Adm. Rogers led that operation.
+Also available at <<link>> (+), FYI,David
+Three Months Later, State Department Hasn’t Rooted Out Hackers
+Amount of data lost in unclassified email network is unclear; Investigators point finger at Russia
+The U.S. has still not been able 
+to evict hackers from the State Department's network three months after 
+its unclassified email system was breached. Former Homeland Security 
+Department official Stewart Baker explains. Photo: AP
+By Danny Yadron
+Feb. 19, 2015 7:17 p.m. ET
+Three months after the State Department confirmed hackers 
+breached its unclassified email system, the government still hasn’t been
+able to evict them from the department’s network, according to three 
+people familiar with the investigation.Government officials, 
+assisted by outside contractors and the National Security Agency, have 
+repeatedly scanned the network and taken some systems offline. But 
+investigators still see signs of the hackers on State Department 
+computers, the people familiar with the matter said. Each time 
+investigators find a hacker tool and block it, these people said, the 
+intruders tweak it slightly to attempt to sneak past defenses.It
+isn’t clear how much data the hackers have taken, the people said. They
+reaffirmed what the State Department said in November: that the hackers
+appear to have access only to unclassified email. Still, unclassified 
+material can contain sensitive intelligence.National Security 
+Agency Director Michael Rogers, center, listens during an interview in 
+New York last month. The NSA is investigating a hacking attack on the 
+State Department
+Photo: 
+Bloomberg News
+The episode illustrates the two-way nature of high-technology 
+sleuthing. For all of the U.S. government’s prowess at getting into 
+people’s computers through the NSA and the military’s Cyber Command, the
+government faces challenges keeping hackers out of its own networks. 
+The discrepancy points to a commonly cited problem with defending 
+computers: Playing offense almost is always easier than playing defense.
+The revelation that hackers are still in the State Department’s network comes less than a week after President 
+Barack Obama
+led a cybersecurity summit at Stanford University and signed an 
+executive order prodding companies to share more information on hacking 
+threats.The White House and NSA referred questions to the State Department. The NSA’s director, Adm. Michael Rogers, led a similar hacking investigation for the U.S. Navy. The Federal Bureau of Investigation, which also is involved in the investigation, declined to comment.“We
+deal successfully with thousands of attacks every day,” State 
+Department spokeswoman Marie Harf said in a written statement. “We take 
+any possible cyber intrusion very serious—as we did with the one we 
+discussed several months ago—and we deal with them in conjunction with 
+other relevant government agencies.”No official determination 
+has been made about who is behind the breach. But five people familiar 
+with the original intrusion said they had seen or been told of links 
+suggesting involvement by the Russian government. 
+The malware, or intrusion software, is similar to other tools 
+linked to Moscow in the past. Two of the people said the intruders had 
+taken State emails related to the crisis in Ukraine, among other things.
+In addition, the attack appears very similar to a fall breach of the 
+White House’s unclassified email system, which some U.S. officials 
+linked to Russia.The Russian embassy in Washington didn’t 
+respond to a request for comment on Thursday. The embassy traditionally 
+hasn’t responded to accusations about digital espionage.Both the
+U.S. and Russia use hacker tricks to spy on each other. This week, the 
+Russian cybersecurity firm Kaspersky Lab ZAO released a report that 
+documented U.S. computer spying on Russia and other countries. The NSA 
+declined to comment on that report. Assuming that Russia was involved, U.S. investigators are puzzling over why were they able to detect the breach. American
+national-security officials view Russia’s computer warriors as on par 
+with their own and capable of avoiding detection. One person familiar 
+with the incident said that either Moscow wanted to send Washington a 
+message, or it had deployed the “B-Team.”Investigators believe 
+that hackers first snuck into State Department computers last fall after
+an employee clicked on a bogus link in an email referring to 
+administrative matters, a type of attack known as a “phish.” That loaded
+malicious software onto the computer—a common hacker trick that has 
+worked in countless corporate and government breaches.From 
+there, the hackers spread through the State Department’s sprawling 
+network that includes machines in thousands of offices across the U.S., 
+embassies and other outposts. It isn’t clear why the hackers were able 
+to gain such wide access and whether the State Department routinely 
+cordons off portions of its network to limit such maneuvers.The 
+size of agency’s network and its key function—making sure Washington 
+knows what is happening in the rest of the world—has made the cleanup 
+difficult, the people familiar with the investigation said.For 
+example, they said it is hard to take even a portion of the State 
+Department network offline over a weekend, as is sometimes done 
+following corporate breaches. It isn’t clear how much, if any, of the 
+network is now hacker-free, they said. Portions of the State Department 
+system, such as remote email access, still occasionally are taken 
+offline, one person familiar with the matter said.Investigators 
+also see signs that hackers are trying to get back into scrubbed-clean 
+systems with slightly altered versions of their malicious code. It 
+couldn’t be learned if those new intrusion attempts were successful.Cleaning
+out any large network takes time. When the Defense Department 
+discovered hackers had penetrated the U.S. Central Command’s classified 
+network in 2008, the cleanup, called Operation Buckshot Yankee, took 
+about a month, two former U.S. officials said. That project likely was 
+easier than the State Department’s effort, because that network was much
+smaller and access was more restricted.In 2013, the U.S. Navy discovered that Iranian attackers had breached their unclassified network. Iranian officials never commented on the Navy breach.It
+took the Navy four months to purge the hackers from their system, The 
+Wall Street Journal reported last year. Then-Vice Adm. Rogers led that 
+operation. Write to Danny Yadron at user@domain.com 

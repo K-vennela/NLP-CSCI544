@@ -1,0 +1,64 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [10.5.6.7])
+	by domain.com (Postfix) with ESMTP id 007D44699F
+	for <user@domain.com>; Thu,  8 Jun 2015 22:49:55 -0400 (EDT)
+Received: from 192.168.0.2 (207-172-196-196.c3-0.upd-ubr14.trpr-domain.com [207.172.196.196])
+	by domain.com (Postfix) with SMTP id B47F26CCFE2
+	for <user@domain.com>; Thu,  8 Jun 2015 22:49:54 -0400 (EDT)
+Received: from 3.2.140.196 by ; Fri, 09 Jun 2015 09:44:54 +0600
+Message-ID: <user@domain.com>
+From: "PayPal" <service@intl.paypal.com>
+Reply-To: "User" <user@domain.com>
+To: user@domain.com
+Subject: Notification of Security Measures
+Date: Fri, 09 Jun 2015 04:47:54 +0100
+X-Mailer: MIME-tools 5.503 (Entity 5.501)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--9232495032987078269"
+X-Priority: 1
+X-MSMail-Priority: High
+Status: 
+X-Status: 
+X-Keywords: 
+
+Dear PayPal Member,
+
+During our regularly schedule account maintenance and verification we =
+have detected a slight error in your billing information on file with PayP=
+al.
+ This might be due to either following reasons:
+
+- A recent change in your personal information (i.e. change of address=
+)
+
+- Submitting invalid information during the initial sign up process.
+
+- An inability to accurately verify your selected option of payment du=
+e an internal error within
+our processors.
+
+Therefore your account has been temporarily suspended. We need you to =
+
+confirm your identity in
+order to regain full privileges of your account.
+
+If this is not completed by June 15, 2006, we reserve 
+the right to terminate all privileges of your account
+indefinitly, as it may have been used for fraudulent purposes. We thank 
+you for your cooperation in this manner.
+
+To confirm your identity please follow the link below:
+
+<<link>>
+=3D_login-run
+
+Thank you for your patience in this matter.
+
+PayPal - Customer Service
+
+Please do not reply to this e-mail as this is only a notification. Mail 
+sent to this address cannot be answered.
+

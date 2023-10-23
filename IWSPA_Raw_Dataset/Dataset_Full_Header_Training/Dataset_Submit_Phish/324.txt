@@ -1,0 +1,64 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [75.102.5.22])
+	by domain.com (Postfix) with ESMTP id 249E43144055
+	for <user@domain.com>; Mon, 22 Jun 2015 14:11:24 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 16F2A232028;
+	Mon, 22 Jun 2015 14:14:08 +0000 (UTC)
+X-Virus-Scanned: amavisd-new at domain.com
+X-Spam-Flag: YES
+X-Spam-Score: 13.105
+X-Spam-Level: *************
+X-Spam-Status: Yes, score=13.105 tagged_above=-10 required=6.6
+	tests=[BAYES_50=0.001, DATE_IN_FUTURE_12_24=2.189,
+	FORGED_MUA_OUTLOOK=3.116, FORGED_OUTLOOK_HTML=0.001,
+	FORGED_OUTLOOK_TAGS=0.001, HTML_IMAGE_ONLY_12=2.46,
+	HTML_IMAGE_RATIO_02=0.383, HTML_MESSAGE=0.001,
+	HTML_MIME_NO_HTML_TAG=0.097, MIME_HTML_ONLY=1.457,
+	MSOE_MID_WRONG_CASE=0.82, RCVD_IN_BL_SPAMCOP_NET=1.96,
+	RCVD_IN_SORBS_WEB=0.619]
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id ydgDj1hR8STd; Mon, 22 Jun 2015 14:14:03 +0000 (UTC)
+Received: from mail.tago.jp (mail.tago.jp [164.46.145.214])
+	by domain.com (Postfix) with ESMTP id 653D5232015
+	for <user@domain.com>; Mon, 22 Jun 2015 14:14:02 +0000 (UTC)
+Received: from User ([80.87.92.48])
+	(authenticated (0 bits))
+	by mail.tago.jp (8.12.11.20060829/8.11.3) with ESMTP id n5ME4Ww0004110;
+	Mon, 22 Jun 2015 23:04:57 +0900
+Message-Id: <200906221404.user@domain.com>
+From: "Bank of America"<services@bankofamerica.ssl.com>
+Subject: Your Online Session Is Locked
+Date: Tue, 23 Jun 2015 07:06:44 -0700
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+To: undisclosed-recipients:;
+Content-Length: 998
+Lines: 11
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1084
+
+Your account is temporarily unavailable/locked 
+
+
+
+You've tried to sign in too many times to this account. A temporary locked helps prevent people from trying to guess your password.
+
+
+
+Click restore your account to retrieve your banking data.
+
+
+
+Restore your Account

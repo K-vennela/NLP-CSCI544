@@ -1,0 +1,130 @@
+Received: from dncedge1.dnc.org (192.168.185.10) by dnchubcas2.dnc.org
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Thu, 28 Apr
+ 2015 18:31:08 -0400
+Received: from domain.com (8.19.118.102) by dncwebmail.dnc.org
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Thu, 28 Apr 2015 
+ 18:30:57 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 886545274;
+ Thu, 28 Apr 2015 17:30:31 -0500
+X-Note-AR-ScanTimeLocal: 4/28/2016 5:30:29 PM
+X-Policy: dnc.org
+X-Policy: dnc.org
+X-Policy: dnc.org
+X-Policy: dnc.org
+X-Policy: dnc.org
+X-Policy: Too many policies to list
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @domain.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->United States->
+X-Note-Sending-IP: 143.228.181.83
+X-Note-Reverse-DNS: s-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from s-domain.com ([143.228.181.83] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 135747334;
+ Thu, 28 Apr 2015 17:30:28 -0500
+Received: from HEOC-domain.com (heoc-domain.com
+ [143.228.151.97])	by s-domain.com  with ESMTP id u3SMLf8q006663	(using
+ TLSv1 with cipher ECDHE-RSA-AES256-SHA (256 bits) verified FAIL);	Thu, 28 Apr
+ 2015 18:21:42 -0400
+X-DKIM: OpenDKIM Filter v2.4.3 s-domain.com u3SMLf8q006663
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=domain.com;
+	s=November2012-msg-mhg; t=1461882158;
+	bh=I9OfvMGDIV4TfPOUi3Q4Or9/qLKxm+UY31PJ8TkJtvc=;
+	h=From: Democratic Leader Nancy Pelosi
+	b=JliY1HYNR51wybG4hKYPWow9STk8JQBKrM755mTXLr/GaFZFDE0qM79hMA0s+BVfD
+	 mYRX7UipR4Ob1YwGkLiKwxooiQtxSWlx6JZHzMx9ZyDfs/l19hx4z2Sh/czaMGCLhf
+	 ypYK0TYYvG4UWIRTAahZfcy34KlZehsqOqicYInQ=
+Received: from HEOC-domain.com ([fe80::48f5:8d7c:52b4:c22d]) by
+ HEOC-domain.com ([::1]) with mapi id 14.03.0279.002; Thu, 28 Apr 2015 
+ 18:21:37 -0400
+From: Democratic Leader Nancy Pelosi
+	<user@domain.com>
+Subject: Leader Pelosi Hosts #TakeYourKidToWorkDay
+Thread-Topic: Leader Pelosi Hosts #TakeYourKidToWorkDay
+Thread-Index: AdGhmzoZe8IL9Pk/R2i+hgKC/p+Mow==
+Date: Thu, 28 Apr 2015 22:21:36 +0000
+Message-ID: <0324user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+x-originating-ip: [143.231.232.80]
+Content-Type: multipart/related;
+	boundary="_006_0324D544C39D274A863367EBA5B0644E4E405D80HEOCHRM02USHous_";
+	type="multipart/alternative"
+To: Undisclosed recipients:;
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: dncedge1.dnc.org
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+[cid:image001.jpg@01D1850C.A93C0600]<<<link>>>
+
+                                                                          A=
+pril 28, 2015 
+
+Dear Friend:
+
+As Members of Congress, we often have the privilege of welcoming some very =
+important people to the Capitol.
+
+But today, I hosted the most special guests of all.  It was such a pleasure=
+ to be visited by children in my Capitol office on one of my favorite days =
+of the year: #TakeYourKidToWorkDay.  You can get a peek behind the scenes b=
+elow:
+
+[cid:image002.jpg@01D1A179.3BF4F8C0]<<<link>>
+qeWetzo>
+
+If it weren=92t for school, I=92d make every day #TakeYourKidToWorkDay.
+
+best regards,
+[<<link>>
+y9Y9ZHhbLtMA2PQ1CLsx6BfLY9LMH_vpY-1Gm-K-RUOm2RyFOhYBONJEaVY3nD84UucpgjB3lq5=
+7QQok1KNt4ALiyJ=3Ds0-d-e1-ft#<<link>>
+1712_pelosi_signature.jpg]
+
+NANCY PELOSI
+
+# # #
+
+________________________________
+domain.com<<<link>>
+=3DLink&ssid=3D27184&id=3Dgapfbsw9c9trotj2ymz3ijo1pgete&id2=3Dhczbbpa7u3q1x=
+9do1fzhn8wsfs08y&subscriber_id=3Danalhqexjehwlzqahildzcogfnaabno&delivery_i=
+d=3Davhlvjoajbzbhvecnhhuvvkvkkjsbkk&tid=3D3.ajA.CI79fA.CsLn.hiDU..AWktSQ.b.=
+.l.A3-W.a.Ucs4og.Ucs4og.CmfDdw> =96 Twitter<<<link>>
+ov/public/?q=3Dulink&fn=3DLink&ssid=3D27184&id=3Dgapfbsw9c9trotj2ymz3ijo1pg=
+ete&id2=3D1fsjgturq5gi73vnbg6fw3q5ybvpq&subscriber_id=3Danalhqexjehwlzqahil=
+dzcogfnaabno&delivery_id=3Davhlvjoajbzbhvecnhhuvvkvkkjsbkk&tid=3D3.ajA.CI79=
+fA.CsLn.hiDU..AWktSQ.b..l.A3-W.a.Ucs4og.Ucs4og.CmfDdw> =96 YouTube<<<link>>
+domain.com/public/?q=3Dulink&fn=3DLink&ssid=3D27184&id=3Dgap=
+fbsw9c9trotj2ymz3ijo1pgete&id2=3Dj9qp9j4kk1m4b77lzm4lnt3zzg13n&subscriber_i=
+d=3Danalhqexjehwlzqahildzcogfnaabno&delivery_id=3Davhlvjoajbzbhvecnhhuvvkvk=
+kjsbkk&tid=3D3.ajA.CI79fA.CsLn.hiDU..AWktSQ.b..l.A3-W.a.Ucs4og.Ucs4og.CmfDd=
+w> =96 Flickr<<<link>>
+&ssid=3D27184&id=3Dgapfbsw9c9trotj2ymz3ijo1pgete&id2=3Dddx1n1pns61n626szxyw=
+c9p3dzu12&subscriber_id=3Danalhqexjehwlzqahildzcogfnaabno&delivery_id=3Davh=
+lvjoajbzbhvecnhhuvvkvkkjsbkk&tid=3D3.ajA.CI79fA.CsLn.hiDU..AWktSQ.b..l.A3-W=
+.a.Ucs4og.Ucs4og.CmfDdw> =96 Facebook<<<link>>
+lic/?q=3Dulink&fn=3DLink&ssid=3D27184&id=3Dgapfbsw9c9trotj2ymz3ijo1pgete&id=
+2=3Di49rcs2x6k1bibi9ohd90zsx98ri5&subscriber_id=3Danalhqexjehwlzqahildzcogf=
+naabno&delivery_id=3Davhlvjoajbzbhvecnhhuvvkvkkjsbkk&tid=3D3.ajA.CI79fA.CsL=
+n.hiDU..AWktSQ.b..l.A3-W.a.Ucs4og.Ucs4og.CmfDdw> =96 The Gavel<<<link>>
+.domain.com/public/?q=3Dulink&fn=3DLink&ssid=3D27184&id=3Dgapfbsw=
+9c9trotj2ymz3ijo1pgete&id2=3Dii27ty7ae0uzuxsrg9eu22v9ct8hi&subscriber_id=3D=
+analhqexjehwlzqahildzcogfnaabno&delivery_id=3Davhlvjoajbzbhvecnhhuvvkvkkjsb=
+kk&tid=3D3.ajA.CI79fA.CsLn.hiDU..AWktSQ.b..l.A3-W.a.Ucs4og.Ucs4og.CmfDdw>
+

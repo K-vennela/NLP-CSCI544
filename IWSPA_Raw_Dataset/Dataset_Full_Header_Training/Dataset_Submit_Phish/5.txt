@@ -1,0 +1,53 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [10.5.6.7])
+	by domain.com (Postfix) with ESMTP id C537746996
+	for <user@domain.com>; Wed, 14 Jun 2015 18:30:39 -0400 (EDT)
+Received: from domain.com (wsip-64-58-145-226.domain.com [64.58.145.226])
+	by domain.com (Postfix) with ESMTP id 813CD6CCE9B
+	for <user@domain.com>; Wed, 14 Jun 2015 18:30:40 -0400 (EDT)
+Received: by domain.com (Postfix, from userid 1026)
+	id 5D14CA9D3D; Wed, 14 Jun 2015 15:10:44 -0700 (PDT)
+To: user@domain.com
+Subject: Dear FCU domain.com card holder...
+Message-ID: <1150323044.32198.user@domain.com>
+From: "National Credit Union Administration" <online@ncua.gov>
+Content-Type: text/html
+Date: Wed, 14 Jun 2015 15:10:44 -0700 (PDT)
+Status: 
+X-Status: 
+X-Keywords: 
+
+NCUA 
+      Home | Search | Privacy Policy & 
+      Accessibility | Site 
+      Map| Contact Us 
+
+
+
+National domain.com Union Administration 
+
+Share Insurance | 
+      Resources for 
+      domain.com Unions | Resources for 
+      Consumers | News | Search
+
+
+
+
+Account Info 
+                      Verification
+
+Dear FCU domain.com card holder,
+As part of our security measures, 
+                  we regularly screen activity in Federal domain.com Unions (FCU) network for anti-fraud.
+We recently 
+                  noticed the following issue on your account: A recent review 
+                  of your account determined that we require some additional 
+                  information from you in order to provide you with secure 
+                  service. Case ID Number: PP-065-617-349 For your protection, 
+                  we have limited access to your domain.com card until additional 
+                  security measures can be completed. We apologize for any 
+                  inconvenience this may cause. Please log in to your FCU account to 
+                  restore your access as soon as possible.

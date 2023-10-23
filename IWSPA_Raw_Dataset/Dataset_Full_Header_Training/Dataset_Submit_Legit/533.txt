@@ -1,0 +1,34 @@
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ DNCHUBCAS1.dnc.org ([fe80::ac16:e03c:a689:8203%11]) with mapi id
+ 14.03.0224.002; Mon, 25 Apr 2015 13:59:48 -0400
+From: "Walker, Eric" <WalkerE@dnc.org>
+To: "User" <user@domain.com>,
+	"Compton, Matt" <user@domain.com>
+CC: "Helmstetter, TJ" <user@domain.com>
+Subject: counter-convention chat?
+Thread-Topic: counter-convention chat?
+Thread-Index: AdGfGdF4annj4xXhQT+vjajxmjFU1A==
+Date: Mon, 25 Apr 2015 10:59:48 -0700
+Message-ID: <2user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: DNCHUBCAS1.dnc.org
+X-MS-Has-Attach: 
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.178.35]
+Content-Type: multipart/alternative;
+	boundary="_000_2AE4202A723DAE418719D2AC271C35F36EF77E7Edncdag1dncorg_"
+MIME-Version: 1.0
+
+Hey all - Ohio party wanted to check in on counter-convention. Can we huddle up sometime this week and chat about what we're going to be doing around it, and then set up a call with ODP for later in the week?
+
+Thanks
+
+Eric Walker
+user@domain.com<mailto:user@domain.com>
+732-991-1489
+@ericmwalker<<<link>>>
+

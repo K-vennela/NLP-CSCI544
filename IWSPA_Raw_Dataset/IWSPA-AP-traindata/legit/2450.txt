@@ -1,0 +1,150 @@
+<x-flowed>
+Dear folks,
+I've been doing some calculations to address one of the statistical 
+issues raised by the Douglass et al. paper in the International Journal 
+of Climatology. Here are some of my results.
+Recall that Douglass et al. calculated synthetic T2LT and T2 
+temperatures from the CMIP-3 archive of 20th century simulations 
+("20c3m" runs). They used a total of 67 20c3m realizations, performed 
+with 22 different models. In calculating the statistical uncertainty of 
+the model trends, they introduced sigma{SE}, an "estimate of the 
+uncertainty of the mean of the predictions of the trends". They defined
+sigma{SE} as follows:
+sigma{SE} = sigma / sqrt(N - 1), where
+"N = 22 is the number of independent models".
+As we've discussed in our previous correspondence, this definition has 
+serious problems (see comments from Carl and Steve below), and allows 
+Douglass et al. to reach the erroneous conclusion that modeled T2LT and 
+T2 trends are significantly different from the observed T2LT and T2 
+trends in both the RSS and UAH datasets. This comparison of simulated 
+and observed T2LT and T2 trends is given in Table III of Douglass et al.
+[As an amusing aside, I note that the RSS datasets are referred to as 
+"RSS" in this table, while UAH results are designated as "MSU". I guess 
+there's only one true "MSU" dataset...]
+I decided to take a quick look at the issue of the statistical 
+significance of differences between simulated and observed tropospheric 
+temperature trends. My first cut at this "quick look" involves only UAH 
+and RSS observational data - I have not yet done any tests with 
+radiosonde datas, UMD T2 data, or satellite results from Zou et al.
+I operated on the same 49 realizations of the 20c3m experiment that we 
+used in Chapter 5 of CCSP 1.1. As in our previous work, all model 
+results are synthetic T2LT and T2 temperatures that I calculated using a 
+static weighting function approach. I have not yet implemented Carl's 
+more sophisticated method of estimating synthetic MSU temperatures from 
+model data (which accounts for effects of topography and land/ocean 
+differences). However, for the current application, the simple static 
+weighting function approach is more than adequate, since we are focusing 
+on T2LT and T2 changes over tropical oceans only - so topographic and 
+land-ocean differences are unimportant. Note that I still need to 
+calculate synthetic MSU temperatures from about 18-20 20c3m realizations 
+which were not in the CMIP-3 database at the time we were working on the 
+CCSP report. For the full response to Douglass et al., we should use the 
+same 67 20c3m realizations that they employed.
+For each of the 49 realizations that I processed, I first masked out all 
+tropical land areas, and then calculated the spatial averages of 
+monthly-mean, gridded T2LT and T2 data over tropical oceans (20N-20S). 
+All model and observational results are for the common 252-month period 
+from January 1979 to December 1999 - the longest period of overlap 
+between the RSS and UAH MSU data and the bulk of the 20c3m runs. The 
+simulated trends given by Douglass et al. are calculated over the same 
+1979 to 1999 period; however, they use a longer period (1979 to 2004) 
+for calculating observational trends - so there is an inconsistency 
+between their model and observational analysis periods, which they do 
+not explain. This difference in analysis periods is a little puzzling 
+given that we are dealing with relatively short observational record 
+lengths, resulting in some sensitivity to end-point effects.
+I then calculated anomalies of the spatially-averaged T2LT and T2 data 
+(w.r.t. climatological monthly-means over 1979-1999), and fit 
+least-squares linear trends to model and observational time series. The 
+standard errors of the trends were adjusted for temporal autocorrelation 
+of the regression residuals, as described in Santer et al. (2000) 
+["Statistical significance of trends and trend differences in 
+layer-average atmospheric temperature time series"; JGR 105, 7337-7356.]
+Consider first panel A of the attached plot. This shows the simulated 
+and observed T2LT trends over 1979 to 1999 (again, over 20N-20S, oceans 
+only) with their adjusted 1-sigma confidence intervals). For the UAH and 
+RSS data, it was possible to check against the adjusted confidence 
+intervals independently calculated by Dian during the course of work on 
+the CCSP report. Our adjusted confidence intervals are in good 
+agreement. The grey shaded envelope in panel A denotes the 1-sigma 
+standard error for the RSS T2LT trend.
+There are 49 pairs of UAH-minus-model trend differences and 49 pairs of 
+RSS-minus-model trend differences. We can therefore test - for each 
+model and each 20c3m realization - whether there is a statistically 
+significant difference between the observed and simulated trends.
+Let bx and by represent any single pair of modeled and observed trends, 
+with adjusted standard errors s{bx} and s{by}. As in our previous work 
+(and as in related work by John Lanzante), we define the normalized 
+trend difference d as:
+d = (bx - by) / sqrt[ (s{bx})**2 + (s{by})**2 ]
+Under the assumption that d is normally distributed, values of d > +1.96 
+or < -1.96 indicate observed-minus-model trend differences that are 
+significant at the 5% level. We are performing a two-tailed test here, 
+since we have no information a priori about the "direction" of the model 
+trend (i.e., whether we expect the simulated trend to be significantly 
+larger or smaller than observed).
+Panel c shows values of the normalized trend difference for T2LT trends.
+the grey shaded area spans the range +1.96 to -1.96, and identifies the 
+region where we fail to reject the null hypothesis (H0) of no 
+significant difference between observed and simulated trends.
+Consider the solid symbols first, which give results for tests involving 
+RSS data. We would reject H0 in only one out of 49 cases (for the 
+CCCma-CGCM3.1(T47) model). The open symbols indicate results for tests 
+involving UAH data. Somewhat surprisingly, we get the same qualitative 
+outcome that we obtained for tests involving RSS data: only one of the 
+UAH-model trend pairs yields a difference that is statistically 
+significant at the 5% level.
+Panels b and d provide results for T2 trends. Results are very similar 
+to those achieved with T2LT trends. Irrespective of whether RSS or UAH 
+T2 data are used, significant trend differences occur in only one of 49 
+cases.
+Bottom line: Douglass et al. claim that "In all cases UAH and RSS 
+satellite trends are inconsistent with model trends." (page 6, lines 
+61-62). This claim is categorically wrong. In fact, based on our 
+results, one could justifiably claim that THERE IS ONLY ONE CASE in 
+which model T2LT and T2 trends are inconsistent with UAH and RSS 
+results! These guys screwed up big time.
+SENSITIVITY TESTS
+QUESTION 1: Some of the model-data trend comparisons made by Douglass et 
+al. used temperatures averaged over 30N-30S rather than 20N-20S. What 
+happens if we repeat our simple trend significance analysis using T2LT 
+and T2 data averaged over ocean areas between 30N-30S?
+ANSWER 1: Very little. The results described above for oceans areas 
+between 20N-20S are virtually unchanged.
+QUESTION 2: Even though it's clearly inappropriate to estimate the 
+standard errors of the linear trends WITHOUT accounting for temporal 
+autocorrelation effects (the 252 time sample are clearly not 
+independent; effective sample sizes typically range from 6 to 56), 
+someone is bound to ask what the outcome is when one repeats the paired 
+trend tests with non-adjusted standard errors. So here are the results:
+T2LT tests, RSS observational data: 19 out of 49 trend differences are 
+significant at the 5% level.
+T2LT tests, UAH observational data: 34 out of 49 trend differences are 
+significant at the 5% level.
+T2 tests, RSS observational data: 16 out of 49 trend differences are 
+significant at the 5% level.
+T2 tests, UAH observational data: 35 out of 49 trend differences are 
+significant at the 5% level.
+So even under the naive (and incorrect) assumption that each model and 
+observational time series contains 252 independent time samples, we 
+STILL find no support for Douglass et al.'s assertion that: "In all 
+cases UAH and RSS satellite trends are inconsistent with model trends."
+Q.E.D.
+If Leo is agreeable, I'm hopeful that we'll be able to perform a similar 
+trend comparison using synthetic MSU T2LT and T2 temperatures calculated 
+from the RAOBCORE radiosonde data - all versions, not just v1.2!
+As you can see from the email list, I've expanded our "focus group" a 
+little bit, since a number of you have written to me about this issue.
+I am leaving for Miami on Monday, Dec. 17th. My Mom is having cataract 
+surgery, and I'd like to be around to provide her with moral and 
+practical support. I'm not exactly sure when I'll be returning to PCMDI 
+- although I hope I won't be gone longer than a week. As soon as I get 
+back, I'll try to make some more progress with this stuff. Any 
+suggestions or comments on what I've done so far would be greatly 
+appreciated. And for the time being, I think we should not alert 
+Douglass et al. to our results.
+With best regards, and happy holidays! May all your "Singers" be carol 
+singers, and not of the S. Fred variety...
+Ben
+(P.S.: I noticed one unfortunate typo in Table II of Douglass et al. The 
+MIROC3.2 (medres) model is referred to as "MIROC3.2_Merdes"....)

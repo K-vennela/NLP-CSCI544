@@ -1,0 +1,50 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from htdba0c9969511 (unknown [192.168.1.162])
+	(using TLSv1 with cipher RC4-MD5 (128/128 bits))
+	(No client certificate requested)
+	by mail.hackingteam.it (Postfix) with ESMTPSA id 52D972BC0F1;
+	Thu, 25 Nov 2015 11:59:56 +0100 (CET)
+Return-Receipt-To: "User" <user@domain.com>
+From: "Alessandro Lomonaco" <a.lomonaco@hackingteam.it>
+To: <user@domain.com>
+CC: "'Antonio Mazzeo'" <user@domain.com>
+Subject: HT Space
+Date: Thu, 25 Nov 2015 12:00:01 +0100
+Message-ID: <!&!AAAAAAAAAAAYAAAAAAAAACKGUieaONFMmtgwOIfNaDli6wUAEAAAALrl/4qy8/JAn2i/user@domain.com>
+X-Mailer: Microsoft Office Outlook 12.0
+thread-index: AcuMj+erp1wV3bthQ9mgeAejfIHuhw==
+Content-Language: it
+Disposition-Notification-To: "User" <user@domain.com>
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2128586608_-_-"
+
+Buongiorno,
+In allegato la versione aggiornata di SPACE.
+E' cambiato il codice del CLASSID col nuovo
+1C34C73A-77AD-4060-950A-0F7F2B8817FB.
+Attendiamo un vostro feed back.
+La ringrazio
+Saluti
+
+Alessandro Lomonaco
+Key Account Manager
+
+HT srl
+Via Moscova, 13 I-20121 Milan, Italy
+<<link>>
+Phone +39 02 29060603
+Fax. +39 02 63118946
+Mobile: +39 3480115641
+
+This message is a PRIVATE communication. This message contains privileged
+and confidential information intended only for the use of the addressee(s).
+If you are not the intended recipient, you are hereby notified that any
+dissemination, disclosure, copying, distribution or use of the information
+contained in this message is strictly prohibited. If you received this email
+in error or without authorization, please notify the sender of the delivery
+error by replying to this message, and then delete it from your system
+

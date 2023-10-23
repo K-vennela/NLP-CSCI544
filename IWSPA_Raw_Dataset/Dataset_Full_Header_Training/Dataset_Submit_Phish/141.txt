@@ -1,0 +1,83 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 4DAEB23CA84;
+	Thu, 29 Mar 2015 17:36:50 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at domain.com
+X-Spam-Score: 4.664
+X-Spam-Level: ****
+X-Spam-Status: No, score=4.664 tagged_above=2 required=5
+	tests=[BAYES_00=-2.599, DNS_FROM_RFC_ABUSE=0.2,
+	DNS_FROM_RFC_POST=1.708, RCVD_IN_BL_SPAMCOP_NET=1.558,
+	RCVD_IN_SORBS_WEB=1.456, RCVD_NUMERIC_HELO=1.5, UNDISC_RECIPS=0.841]
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id QZOcD56MHIjI; Thu, 29 Mar 2015 17:36:50 -0500 (CDT)
+Received: from domain.com.id (domain.com.id [210.210.145.66])
+	by domain.com (Postfix) with ESMTP id 6A16B23CA83;
+	Thu, 29 Mar 2015 17:36:44 -0500 (CDT)
+X-SBRS-Score: -0.8
+X-HAT: Sender Group SMTP_Blok_210, Policy $SMTP_Outbound_All applied.
+X-CBN-ID: 829025196
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Av//AKHidE/S0pErXGdsb2JhbAAoCw0KAQEJBoMAn0+GZwEBAYhRhnUaHAYmJgGBHQEBCEgBAQElOAlJCyUBAgECCSYDJCABH4ZRFoEOATSqETQaVwEYgRUBAQEEC44EinwOglMIBgcIAoQnhXaBToRTiDePTn8EglE9bgMcBgEBAQEBAQEBAQEBHgFZChUU
+X-IP5-AS-OUT: True
+X-IronPort-AV: E=Sophos;i="4.75,339,1330880400"; 
+   d="scan'208";a="829025196"
+Received: from domain.com.id (HELO localhost) ([210.210.145.33])
+  by ip5-domain.com.id with ESMTP; 30 Mar 2015 05:36:40 +0700
+Received: from 41.203.64.131 (41.203.64.131 [41.203.64.131]) by
+ domain.com.id (Horde Framework) with HTTP; Fri, 30 Mar 2015 05:36:41
+ +0700
+Message-ID: <20120330053641.99201user@domain.com>
+Date: Fri, 30 Mar 2015 05:36:41 +0700
+From: "WEB.SERVICE.ACCOUNT.UPDATE" <prosafe_binatama@cbn.net.id>
+Reply-to: user@domain.com
+To: undisclosed-recipients:;
+Subject: Dear Webmail Account User
+MIME-Version: 1.0
+Content-Type: text/plain;
+ charset=ISO-8859-1;
+ DelSp="Yes";
+ format="flowed"
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+User-Agent: domain.com Messaging Program (IMP) 4.3.3
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 68
+
+Dear Webmail Account User
+
+This Email is from Webmail Customer Care and we are sending it to =20
+every Webmail Email User Accounts Owner for safety. We are having =20
+congestion's due to the anonymous registration of webmail accounts so =20
+we are shutting down some email accounts and your account was among =20
+those to be deleted. We are sending you this email so that you can =20
+verify and let us know if you still want to use this account. If you =20
+are still interested please confirm your account by filling the space =20
+below:
+
+Email User name :
+Email Password :
+Confirm Password :
+Date of Birth :
+Country or Territory:
+Future Password:
+
+Send your contact details to Upgrade Dept E-mail: =20
+user@domain.com
+
+After following the instructions in the sheet, your account will not be
+interrupted and will continue as normal.
+
+We thank you for your prompt attention to this matter. Please =20
+understand that this is a security measure intended to help protect =20
+you and your web Account. We apologize for any inconvenience.
+
+Warning!!! Account owner that refuses to update his/her account after 48
+Hours of receiving this warning will lose his or her account permanently.
+
+The Webmail Program Technical Team =A92012 All Right Reserved.

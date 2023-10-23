@@ -1,0 +1,824 @@
+Received: from domain.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Tue, 7 Apr 2015 04:46:35 +0200
+Received: from domain.com (unknown [192.168.100.50])	by
+ domain.com (Postfix) with ESMTP id CA15060033	for
+ <user@domain.com>; Tue,  7 Apr 2015 03:24:02 +0100 (BST)
+Received: by domain.com (Postfix)	id C59CD2BC228; Tue,  7 Apr 2015 
+ 04:46:34 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.100.25])
+	by domain.com (Postfix) with ESMTP id A7E2D2BC032	for
+ <user@domain.com>; Tue,  7 Apr 2015 04:46:34 +0200 (CEST)
+X-ASG-Debug-ID: 1428374644-066a757fe4a7e60001-EXR1j1
+Received: from mail1.UOBgroup.com (domain.com [203.126.11.50]) by
+ domain.com with ESMTP id mAl3Xu2ApjDWp6c5 for
+ <user@domain.com>; Tue, 07 Apr 2015 04:44:05 +0200 (CEST)
+X-Barracuda-Envelope-From: Esmee LAU Jiayan <Esmee.LauJY@UOBgroup.com>
+X-Barracuda-Apparent-Source-IP: 203.126.11.50
+X-TM-IMSS-Message-ID: <user@domain.com>
+Received: from domain.com ([172.28.4.78]) by UOBgroup.com
+ ([172.28.16.129]) with ESMTP (TREND IMSS SMTP Service 7.1) id
+ a0b3783b0089d549 ; Tue, 7 Apr 2015 10:44:59 +0800
+Received: from ntxedpsg02.SG.UOBNET.COM (unknown [172.28.4.74])	by Websense
+ Email Security Gateway with ESMTPS id F325943818DE3;	Tue,  7 Apr 2015 
+ 10:43:59 +0800 (MYT)
+Received: from ntxmbpsg02.SG.UOBNET.COM (172.28.4.28) by
+ ntxedpsg02.SG.UOBNET.COM (172.28.4.74) with Microsoft SMTP Server id
+ 14.3.181.6; Tue, 7 Apr 2015 10:44:00 +0800
+Received: from NTXMBPSG01.SG.UOBNET.COM ([fe80::dd55:637e:bf9a:979a]) by
+ ntxmbpsg02.SG.UOBNET.COM ([fe80::bd17:8b25:504c:3b53%26]) with mapi id
+ 14.03.0181.006; Tue, 7 Apr 2015 10:43:59 +0800
+From: Esmee LAU Jiayan <Esmee.LauJY@UOBgroup.com>
+To: 'Simonetta Gallucci' <user@domain.com>
+CC: "'user@domain.com'" <user@domain.com>, Elisabetta Ciceri
+	<user@domain.com>
+Subject: RE: RE: RE: RE: HT SRL - domain.com
+Thread-Topic: RE: RE: RE: HT SRL - domain.com
+X-ASG-Orig-Subj: RE: RE: RE: RE: HT SRL - domain.com
+Thread-Index: AQHQZweZue24p/6qpEq6jtBYHQ6nXJ0t8wtQgABslACAAC4isIAB9GsAgAkLjiCAAAQV8IAAISaAgAWMXcD///AVgIAAjNgQ//99agCAAZdvIP//k2OAABDQpZA=
+Date: Tue, 7 Apr 2015 02:43:59 +0000
+Message-ID: <94user@domain.com>
+References: <94user@domain.com>
+ <user@domain.com>
+In-Reply-To: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+x-mcafeedlp-tag-0: {FA72A21E-C170-11DF-A33B-6C52F6C5737A},{54486954-7EAF-11DF-ABDB-1819599CDDE5},{7C6F43EE-18A2-11E4-9C3B-6F28117F03B2}
+x-mcafeedlp-tagged: True
+x-originating-ip: [172.22.174.149]
+X-Barracuda-Connect: domain.com[203.126.11.50]
+X-Barracuda-Start-Time: 1428374645
+X-Barracuda-URL: <<link>>:8000/cgi-mod/mark.cgi
+X-Barracuda-BRTS-Status: 1
+X-Virus-Scanned: by bsmtpd at domain.com
+X-Barracuda-Spam-Score: -1001.00
+X-Barracuda-Spam-Status: No, SCORE=-1001.00 using global scores of TAG_LEVEL=3.5 QUARANTINE_LEVEL=1000.0 KILL_LEVEL=8.0 
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-16493315_-_-"
+
+Dear Simonetta,
+
+
+
+Please use both the documents attached to remove
+Mr. Bedeschi as authorized signatory and approved person.
+
+
+
+
+Thank you.
+
+
+
+Warmest regards,
+Esmee Lau
+
+Corporate Wealth Management
+Commercial Banking
+
+
+
+
+Corporate Service Line: 1800-2266 121
+
+DID: (65) 6539 2246  Fax:(65) 6534 4619
+
+Email:
+user@domain.com
+80 Raffles Place
+ UOB Plaza 1 
+#11-00
+Singapore
+ 048624
+||||
+UNITED OVERSEAS BANK GROUP
+
+Singapore Company Reg No 193500026Z
+
+
+
+
+From: Esmee LAU Jiayan <Esmee.LauJY@UOBgroup.com>
+
+Sent: Tuesday, April 07, 2015 10:41 AM
+
+To: Esmee LAU Jiayan
+
+Cc: 'user@domain.com'; Elisabetta Ciceri
+
+Subject: R: RE: RE: RE: HT SRL - domain.com
+
+
+
+
+Dear Esmee,
+
+I'll send you a formal request in a while. Is there a template to fulfill or is it sufficient a letter signed by Mr. Vincenzetti?
+
+Thanks again for your support.
+
+Regards. 
+
+-- 
+
+Simonetta Gallucci 
+
+Financial Controller 
+
+Sent from my mobile.
+
+
+
+
+Da: Esmee LAU Jiayan
+[mailto:user@domain.com]
+
+Inviato: Tuesday, April 07, 2015 03:11 AM
+
+A: Simonetta Gallucci 
+
+Cc: 'user@domain.com' <user@domain.com>; Elisabetta Ciceri
+
+Oggetto: RE: RE: RE: HT SRL - domain.com 
+
+
+
+
+Dear Simonetta,
+
+
+
+Sorry for the confusion, I meant Mr. Bedeschi instead.
+
+
+
+
+We will not be able to remove him via your email instructions, an approved signatory form has to be filled up and sent to the bank for further action.
+
+
+
+Hope this clarifies, once I receive the domain.com confirmation, I will fax to your auditors.
+
+
+
+
+Thank you.
+
+
+
+Warmest regards,
+Esmee Lau
+
+Corporate Wealth Management
+Commercial Banking
+
+
+
+
+Corporate Service Line: 1800-2266 121
+
+DID: (65) 6539 2246  Fax:(65) 6534 4619
+
+Email:
+user@domain.com
+80 Raffles Place
+ UOB Plaza 1 
+#11-00
+Singapore
+ 048624
+||||
+UNITED OVERSEAS BANK GROUP
+
+Singapore Company Reg No 193500026Z
+
+
+
+
+From: Esmee LAU Jiayan <Esmee.LauJY@UOBgroup.com>
+[mailto:user@domain.com]
+
+Sent: Monday, April 06, 2015 4:52 PM
+
+To: Esmee LAU Jiayan
+
+Cc: 'user@domain.com'; Elisabetta Ciceri
+
+Subject: R: RE: RE: HT SRL - domain.com
+
+
+
+
+Dear Esmee,
+
+Maybe there is a misunderstanding.
+
+Mr. Vincenzetti is and remains the only signatory for our account.
+
+About the formal letter, it's is clearly a mistake and the request is valid until 31st March 2015; is it sufficient my e-mail or you need another formal letter?
+
+Please let me know.
+
+Thanks, 
+
+-- 
+
+Simonetta Gallucci 
+
+Financial Controller 
+
+Sent from my mobile.
+
+
+
+
+Da: Esmee LAU Jiayan
+[mailto:user@domain.com]
+
+Inviato: Monday, April 06, 2015 10:41 AM
+
+A: Simonetta Gallucci 
+
+Cc: 'user@domain.com' <user@domain.com>; Elisabetta Ciceri
+
+Oggetto: RE: RE: HT SRL - domain.com 
+
+
+
+
+Dear Simonetta,
+
+
+
+Noted on your information however, we will still require your end to remove Mr. Vincenzetti as currently our system still reflects him as a signatory. You
+ can do so by completing the forms that was sent via the previous email.
+
+
+
+Also, my domain.com confirmation team wants to clarify, your letter of authorization is valid till 31st Mar 2015 or 2014? It is written as 2015 in the
+ letter. The domain.com confirmation can only confirm the signatories as at the date of issuance of request letter.
+
+
+
+Please let me know if this is fine.
+
+
+
+
+Thank you.
+
+
+
+Warmest regards,
+Esmee Lau
+
+Corporate Wealth Management
+Commercial Banking
+
+
+
+
+Corporate Service Line: 1800-2266 121
+
+DID: (65) 6539 2246  Fax:(65) 6534 4619
+
+Email:
+user@domain.com
+80 Raffles Place
+ UOB Plaza 1 
+#11-00
+Singapore
+ 048624
+||||
+UNITED OVERSEAS BANK GROUP
+
+Singapore Company Reg No 193500026Z
+
+
+
+
+From: Esmee LAU Jiayan <Esmee.LauJY@UOBgroup.com>
+[mailto:user@domain.com]
+
+Sent: Monday, April 06, 2015 4:15 PM
+
+To: Esmee LAU Jiayan
+
+Cc: 'user@domain.com'; Elisabetta Ciceri
+
+Subject: R: RE: HT SRL - domain.com
+
+
+
+
+Dear Esmee,
+
+It's correct: the only authorized signatory for current account is Mr. Vincenzetti; no modify is required.
+
+Thanks for your support.
+
+Kind regards, 
+
+-- 
+
+Simonetta Gallucci 
+
+Financial Controller 
+
+Sent from my mobile.
+
+
+
+
+Da: Esmee LAU Jiayan
+[mailto:user@domain.com]
+
+Inviato: Monday, April 06, 2015 03:17 AM
+
+A: Simonetta Gallucci 
+
+Cc: Giancarlo Russo <user@domain.com>; Elisabetta Ciceri
+
+Oggetto: RE: HT SRL - domain.com 
+
+
+
+
+Dear Simonetta,
+
+
+
+Yes, Mr Vincenzetti is a signatory for current account.
+
+
+
+
+He is currently a signatory and an approved person (able to remove and appoint signatories), if you wish to remove him as a signatory and an approved person,
+ please use both :
+
+
+
+1.    
+Approved signatory form – removal of signatory.
+2.    
+Change in approved person
+
+
+
+
+Kindly send me us the original for our action.
+
+
+
+
+Thank you.
+
+
+
+Warmest regards,
+Esmee Lau
+
+Corporate Wealth Management
+Commercial Banking
+
+
+
+
+Corporate Service Line: 1800-2266 121
+
+DID: (65) 6539 2246  Fax:(65) 6534 4619
+
+Email:
+user@domain.com
+80 Raffles Place
+ UOB Plaza 1 
+#11-00
+Singapore
+ 048624
+||||
+UNITED OVERSEAS BANK GROUP
+
+Singapore Company Reg No 193500026Z
+
+
+
+
+From: Esmee LAU Jiayan <Esmee.LauJY@UOBgroup.com>
+[mailto:user@domain.com]
+
+Sent: Friday, April 03, 2015 4:28 AM
+
+To: Esmee LAU Jiayan
+
+Cc: Giancarlo Russo; Elisabetta Ciceri
+
+Subject: Re: HT SRL - domain.com
+
+
+
+
+Dear Esmee, 
+
+
+
+
+I need an additional information. 
+
+
+
+
+Before replying to our auditors, can you please tell me if only Mr. Vincenzetti has signatory power or also Mr. Bedeschi? 
+
+
+
+
+If Mr. Bedeschi is included, I kindly request you to delete his name, since he isn't legal ripresentative, starting from Jan. 31st 2014.
+
+
+
+
+Looking forward to your answer.
+
+Best regards, 
+
+
+
+
+Simonetta 
+
+Inviato da iPad
+
+Il giorno 02/apr/2015, alle ore 12:30, Esmee LAU Jiayan <user@domain.com> ha scritto:
+
+Dear Simonetta,
+
+
+
+I have received your request yesterday and have submitted for processing.
+
+
+
+Will fax to your auditors once I have the information.
+
+
+
+
+Thank you.
+
+
+
+Warmest regards,
+Esmee Lau
+
+Corporate Wealth Management
+Commercial Banking
+
+
+
+
+Corporate Service Line: 1800-2266 121
+
+DID: (65) 6539 2246  Fax:(65) 6534 4619
+
+Email:
+user@domain.com
+80 Raffles Place UOB Plaza 1
+
+#11-00 Singapore 048624
+||||
+UNITED OVERSEAS BANK GROUP
+
+Singapore Company Reg No 193500026Z
+
+
+
+
+From: Esmee LAU Jiayan <Esmee.LauJY@UOBgroup.com>
+
+Sent: Thursday, April 02, 2015 6:17 PM
+
+To: Esmee LAU Jiayan
+
+Cc: 'Giancarlo Russo'; user@domain.com;
+user@domain.com; 'Elisabetta Ciceri'
+
+Subject: RE: HT SRL - domain.com
+
+
+
+
+Dear Esmee, 
+
+
+
+can you update me regarding my request?
+Did you already send all information to our auditors?
+
+
+
+Look forward to hearing news from you.
+
+Kind regards, 
+
+
+
+Simonetta Gallucci 
+
+Financial Controller 
+
+Hacking Team
+
+Milan Singapore Washington DC
+
+domain.com
+
+email: user@domain.com 
+
+mobile: +39 3939310619
+
+phone: +39 0229060603
+
+
+
+
+From: Esmee LAU Jiayan <Esmee.LauJY@UOBgroup.com>
+[mailto:user@domain.com]
+
+Sent: venerdì 27 marzo 2015 17:11
+
+To: 'Esmee LAU Jiayan'
+
+Cc: 'Giancarlo Russo'; 'user@domain.com'; 'user@domain.com'; 'Elisabetta Ciceri'
+
+Subject: RE: HT SRL - domain.com
+
+
+
+
+Dear Esmee, 
+
+
+
+as you told me here attached our formal request; I’ll send you hard copy by courier.
+
+I kindly ask you to anticipate information requested by e-mail and fax, and then to send hard copy by mail.
+
+
+
+
+Thanks for your support. 
+
+Regards, 
+
+
+
+Simonetta Gallucci 
+
+Financial Controller 
+
+Hacking Team
+
+Milan Singapore Washington DC
+
+domain.com
+
+email: user@domain.com 
+
+mobile: +39 3939310619
+
+phone: +39 0229060603
+
+
+
+
+From: Esmee LAU Jiayan <Esmee.LauJY@UOBgroup.com>
+
+Sent: giovedì 26 marzo 2015 11:17
+
+To: 'Simonetta Gallucci'
+
+Cc: 'Giancarlo Russo'; user@domain.com;
+user@domain.com; 'Elisabetta Ciceri'
+
+Subject: RE: HT SRL - domain.com
+
+
+
+
+Dear Simonetta,
+
+
+
+Can you please send in a formal request?
+
+The confirmation charges is currently $50 since May last year.
+
+
+
+
+Thank you.
+
+
+
+Warmest regards,
+Esmee Lau
+
+Corporate Wealth Management
+Commercial Banking
+
+
+
+
+Corporate Service Line: 1800-2266 121
+
+DID: (65) 6539 2246  Fax:(65) 6534 4619
+
+Email:
+user@domain.com
+80 Raffles Place UOB Plaza 1
+
+#11-00 Singapore 048624
+||||
+UNITED OVERSEAS BANK GROUP
+
+Singapore Company Reg No 193500026Z
+
+
+
+
+From: Esmee LAU Jiayan <Esmee.LauJY@UOBgroup.com>
+
+Sent: Thursday, March 26, 2015 3:33 PM
+
+To: Esmee LAU Jiayan
+
+Cc: 'Giancarlo Russo'; user@domain.com;
+user@domain.com; 'Elisabetta Ciceri'
+
+Subject: RE: HT SRL - domain.com
+
+
+
+
+Dear Esmee, 
+
+
+
+this request implies the charge of S$ 30.00, as last year?
+Please let me know in order to send you a formal request.
+
+
+
+
+Thanks a lot for your support. 
+
+Kind regards, 
+
+
+
+Simonetta Gallucci 
+
+Financial Controller 
+
+Hacking Team
+
+Milan Singapore Washington DC
+
+domain.com
+
+email: user@domain.com 
+
+mobile: +39 3939310619
+
+phone: +39 0229060603
+
+
+
+
+From: Esmee LAU Jiayan <Esmee.LauJY@UOBgroup.com>
+[mailto:user@domain.com]
+
+Sent: giovedì 26 marzo 2015 02:05
+
+To: 'Simonetta Gallucci'
+
+Cc: 'Giancarlo Russo'; user@domain.com;
+user@domain.com; 'Elisabetta Ciceri'
+
+Subject: RE: HT SRL - domain.com
+
+
+
+
+Dear Simonetta,
+
+
+
+Our domain.com confirmation does not include the signatory powers, is the request included in your domain.com request?
+
+
+
+If not, you will have to send in your request for my domain.com confirmation team’s action.
+
+
+
+Thank you.
+
+
+
+Warmest regards,
+Esmee Lau
+
+Corporate Wealth Management
+Commercial Banking
+
+
+
+
+Corporate Service Line: 1800-2266 121
+
+DID: (65) 6539 2246  Fax:(65) 6534 4619
+
+Email:
+user@domain.com
+80 Raffles Place UOB Plaza 1
+
+#11-00 Singapore 048624
+||||
+UNITED OVERSEAS BANK GROUP
+
+Singapore Company Reg No 193500026Z
+
+
+
+
+From: Esmee LAU Jiayan <Esmee.LauJY@UOBgroup.com>
+
+Sent: Wednesday, March 25, 2015 10:26 PM
+
+To: Esmee LAU Jiayan
+
+Cc: 'Giancarlo Russo'; user@domain.com;
+user@domain.com; 'Elisabetta Ciceri'
+
+Subject: HT SRL - domain.com
+
+
+
+
+Dear Esmee, 
+
+
+
+Our auditors told us that they received all documents concerning their domain.com review, but it misses detail about signatory powers.
+
+Can you anticipate this information by mail and then send hard copy by courier?
+
+
+
+I look forward to hearing news from you and I thank you in advance for your help.
+
+Kind regards, 
+
+
+
+Simonetta Gallucci 
+
+Financial Controller 
+
+Hacking Team
+
+Milan Singapore Washington DC
+
+domain.com
+
+email: user@domain.com 
+
+mobile: +39 3939310619
+
+phone: +39 0229060603
+
+
+
+
+UOB EMAIL DISCLAIMER
+Any person receiving this email and any attachment(s) contained,
+shall treat the information as confidential and not misuse, copy,
+disclose, distribute or retain the information in any way that
+amounts to a breach of confidentiality. If you are not the intended
+recipient, please delete all copies of this email from your computer
+system. As the integrity of this message cannot be guaranteed,
+neither UOB nor any entity in the UOB Group shall be responsible for
+the contents. Any opinion in this email may not necessarily represent
+the opinion of UOB or any entity in the UOB Group.
+
+
+

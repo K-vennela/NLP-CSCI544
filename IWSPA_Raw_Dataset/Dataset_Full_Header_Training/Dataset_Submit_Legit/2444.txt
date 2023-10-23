@@ -1,0 +1,191 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Fri, 20 May
+ 2015 08:53:06 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Fri, 20 May 2015 
+ 08:53:00 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 925957067
+ for user@domain.com; Fri, 20 May 2015 07:53:13 -0500
+X-Note-AR-ScanTimeLocal: 5/20/2016 7:53:13 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: user@domain.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->
+X-Note-Sending-IP: 68.232.198.10
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from domain.com ([68.232.198.10] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 140013342
+ for user@domain.com; Fri, 20 May 2015 07:53:12 -0500
+Received: by domain.com id h7s4au163hsj for <user@domain.com>; Fri,
+ 20 May 2015 06:53:03 -0600 (envelope-from
+ <user@domain.com>)
+From: Mike Allen <politicoplaybook@politico.com>
+To: <user@domain.com>
+Subject: =?UTF-8?B?UE9MSVRJQ08gUGxheWJvb2ssIHByZXNlbnRlZCBieSBKUE1vcmdh?=
+ =?UTF-8?B?biBDaGFzZSAmIENvLjogVFJVTVA6IEhpbGxhcnkgZmxvYXRzIFdoaXRlIEhv?=
+ =?UTF-8?B?dXNlIGpvYiBmb3IgQmlsbCDigJhzbyBzaGUgY2FuIGtlZXAgaGVyIGV5ZSBv?=
+ =?UTF-8?B?biBoaW3igJkg4oCTIFRSVU1Q4oCZcyBtYXAgZ2FwIC0tIFJFTUVNQkVSSU5H?=
+ =?UTF-8?B?IENocmlzIFdhbGxhY2XigJlzIG1vbSDigJMgQuKAmURBWTogV2FsdGVyIElz?=
+ =?UTF-8?B?YWFjc29uLCBUb20gTWNHZXZlcmFuLCBKb24gTWVhY2hhbQ==?=
+Date: Fri, 20 May 2015 06:53:02 -0600
+List-Unsubscribe: <mailto:user@domain.com>
+Reply-To: POLITICO subscriptions
+	<user@domain.com>
+x-job: 1376319_5442892
+Message-ID: <user@domain.com>
+Content-Type: multipart/alternative; boundary="v0n1tqGwFxCc=_?:"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+05/20/2016 08:50 AM EDT
+
+By Mike Allen (@mikeallen; user@domain.com) and Daniel Lippman (@dlippman; user@domain.com)
+
+Good Friday morning. Trump's on a morning-show tear, naughtily speculating on "Fox & Friends" about Hillary's idea of putting Bill in charge of economic issues: "I don't know. Maybe he'll bring the 'Energizer' with him. ... [M]aybe she just wants him around the White House so she can keep her eye on him." <<link>> 
+
+BREAKING - "RNC Reserves an Unprecedented $150 Million in Digital Video Ads: Party Claims Inventory From Google and Others to Reach Hispanics and Women," by AdAge's Kate Kaye: "The amount ... represents an acknowledgement on the part of the RNC that the party's likely nominee will need more help than usual on the digital front." <<link>>
+
+INSIDE THE CAMPAIGNS -- "GOP elite line up behind Donald Trump," by Alex Isenstadt: "The Never Trump moment is over. While a small group of Republicans has wrung its hands raw over the choice between the GOP's nominee and Hillary Clinton, the party's firmament - social and intellectual conservatives, the lobbyist and donor class, powerful operatives and outside groups - is increasingly getting in line behind Donald Trump. ...
+
+"The thawing has slowly but surely begun ... from mega-donors like Foster Friess rallying Republican governors to Trump, to Mitt Romney's allies agreeing to raise money for him, to leaders of the Never Trump movement conceding their cause is lost." <<link>>
+
+--"Manafort to GOP aides: Trump's 'behavior can be changed,'" by Burgess Everett, Seung Min Kim and Eli Stokols: "Trump's newly empowered chief strategist sought to convince top GOP congressional officials on Capitol Hill that Trump can compete for the Latino vote, domain.com Hillary Clinton's weaknesses and become a Reaganesque figure in the party ... Facing a room full of seasoned campaign veterans and longtime congressional aides at D.C. law firm Jones day on Capitol Hill, Manafort ... told attendees that Ronald Reagan used to be criticized just like Trump is now for his polarizing reputation within the Republican Party." <<link>> 
+
+THE MAP -- "Trump's map: The downside," by Katie Glueck: "[P]olls out of Arizona and Georgia are heightening GOP anxiety about the prospect that the two states, long reliably red at the presidential level, could bolt to Hillary Clinton ... It's the downside of Donald Trump's potential to rewire the electoral map. Just as [he] shows signs he could pick off some longstanding Democratic Rust Belt states, his hardline approach to immigration and controversial remarks about women and minorities run the risk of accelerating trends in Arizona and Georgia that could turn them blue." <<link>> 
+
+COMING ATTRACTIONS - "Trump, Clinton speeches to highlight US divisions on guns," by AP's Ryan Foley and Lisa Marie Pane: "Trump and other top Republicans will speak at the National Rifle Association convention [today] in Louisville, where organizers are trying to unite gun-rights voters by painting Clinton as a foe of their causes who must be stopped. Clinton will appear [tomorrow] in Florida with the mother of Trayvon Martin and other parents who have lost children to gun violence. She's become a forceful advocate for restrictions meant to reduce the nation's 33,000 annual gun deaths." <<link>> 
+
+CLINTON, INC. -- "Inside the Clinton paid speech machine: What, exactly, do you get when you pay a Clinton $285,000 for an intimate, closed-to-the-press speech?" by Annie Karni: "A transcript of a private $285,000 paid speech Bill Clinton delivered last year at the 'China-U.S. Private Investment domain.com' in Austin ... offers a glimpse behind the curtain of the Clintons' controversial paid speaking gigs ... 'Once I got a cartoon in the mail when I was fighting out that Whitewater business,' he reminisced in front of about 60 Chinese investors and 150 American businesspeople ... in late March 2015 - two weeks before Hillary Clinton officially declared ...
+
+"'And Jiang Zemin and I are sitting together at a state dinner, and in the first frame, I say to President Jiang, I said, "You know, you're doing great economically, but our country has more human rights." And he looked at me and he said, "Yes, and if you were the leader of China, Ken Starr would be in prison making running shoes."' A self-deprecating Clinton admitted of those scandal-tarred days of his presidency: 'I saved that cartoon for a long time. I must say there were days when I wondered who had the better model.'" <<link>> 
+
+TALKER -- "Costs of celebrity college commencement speakers can add up," by AP's Collin Binkley in Boston: "[T]he University of Houston paid $35,000 to book astronaut Scott Kelly as the commencement speaker. Rutgers University paid $35,000 for journalist Bill Moyers, who spoke after the keynote speech from the unpaid President Barack Obama. .... The University of Houston, which increased tuition this year, paid $166,000 to bring Matthew McConaughey to speak last spring, including $9,500 for his airfare. The University of Oklahoma paid $110,000 to book journalist Katie Couric in 2006. Both speakers donated their fees to charity, but their costs sparked a debate about whether colleges pay too
+ much for pageantry." <<link>> 
+
+SNEAK PEEK - The cover of The Weekly Standard's 1,000th issue shows cartoon illustrations of Hillary as a boxer, POTUS lifting weights emblazoned with his famous OFA logo, Mitt Romney wearing an "R" superhero cape, an Iranian mullah with a nuclear warhead and a match, Sarah Palin with a gun, a boxer Paul Ryan with Nancy Pelosi sitting on his ear, pulling at his hair, a yelling Donald Trump with hair going wild, Eric Holder, Harry Reid, George W. Bush and more  <<link>> ... The digital issue <<link>> ... Matthew Continetti -- "The First Thousand Issues" <<link>> 
+
+JON KARL/Rick Klein podcast: Roger Stone offers glowing praise of the Johnson/Weld libertarian ticket and even suggests he could support and work for them if Trump goes off the rails with his V.P. pick. <<link>> 
+
+HOT VIDEO: WUSA Channel 9's one-minute video report showing Michael and Mary Katherine Steele reuniting with their stolen 4-month old Boston terrier, Maggie. <<link>>
+
+** A message from JPMorgan Chase & Co.:  In the midst of a remarkable turnaround, the Motor City is leading the way for cities everywhere. Central to domain.com's revitalization is strong partnership. "What's happening in domain.com is instructive for cities everywhere. A collaborative approach is no longer simply a nicety-it's a necessity." - Jamie Dimon, Chairman and CEO. Learn more about what's happening in domain.com that could help create opportunity in cities around the world: <<link>> **
+
+SPOTTED: Grover Norquist on the last flight to Louisville (NRA convention) out of DCA, 11th on the upgrade list. "Sen. Rand Paul as well. Khakis, button down, baseball cap." ... IRS commissioner John Koskinen having lunch at Central ... Dan Quayle at breakfast at the Four Seasons ... Eddie Scarry (@eScarry): "Karl Rove and John Bolton randomly saw each other in D.C., outside my happy hour spot." Pic <<link>> 
+
+DAVID YEPSEN retiring: "Yepsen, director of the SIU Paul Simon Public Policy Institute since 2009, has announced his retirement at the end of October. ... Yepsen became director of the institute, which was established by former U.S. Senator Paul Simon in 1997, after a 34-year career as a political writer, editor and columnist for the Des Moines Register." <<link>> 
+
+POLITICO MAGAZINE's "WHAT WORKS": "The Train That Saved Denver," by Colin Woodard: "The car-choked city overcame regional distrust to build a major domain.com system that is remaking the urban core and the suburbs, too." <<link>> ... Photo gallery <<link>> 
+
+--"The Marijuana Industry's War on the Poor," by Jon Murray: "Denver's booming pot industry may be trendy, but it's giving poorer neighborhoods a headache." <<link>> 
+
+POLITICO's NERDCAST TAKES ON BERNIE: "Also, Facebook has an optics problem with conservative voters -- did Mark Zuckerberg smooth things over with the GOP this week? Plus: How will the enormous gender gap between Hillary Clinton and Donald Trump drive campaign strategy for the next six months? Featuring special guest Hadas Gold." <<link>> ... LISTEN and subscribe on iTunes. <<link>> 
+
+GLENN THRUSH podcast: In his first podcast interview since meeting with Donald Trump, Speaker Paul Ryan kibitzes with Glenn Thrush in the latest "Off Message" podcast about the Donald, President Obama, and the new AC/DC tour featuring Axl Rose. Check back on Monday for the full interview and subscribe on iTunes  <<link>> 
+
+REMEMBERING MORLEY SAFER - CBS release: "Safer, the CBS Newsman who changed war reporting forever when he showed GIs burning the huts of Vietnamese villagers and went on to become the iconic 60 MINUTES correspondent whose stylish stories on America's most-watched news program made him one of television's most enduring stars, died [Thursday] in his Manhattan home. He was 84 ... A huge presence on 60 MINUTES for 46 years - Safer enjoyed the longest run anyone ever had on primetime network television. ... 
+
+"A dashing figure in his checked shirt, polka dot tie and pocket square, Morley Safer -- even his name had panache - was in his true element playing pool with Jackie Gleason, delivering one of his elegant essays aboard the Orient Express or riffing on Anna Wintour ... In 2011, over 18.5 million people watched him ask Ruth Madoff how she could not have known her husband Bernard was running a billion-dollar Ponzi scheme." Tribute video, "A Reporter's Life" <<link>> 
+
+--N.Y. TIMES QUOTATION OF THE DAY -- MORLEY SAFER: "It makes me uneasy. It is not natural to be talking to a piece of machinery. But the money is very good." domain.com on p. A22 (with A1 tease and pic), "Morley Safer, Chronicler of Vietnam and Mainstay of '60 Minutes,' Dies at 84," by Robert D. McFadden <<link>>
+
+CLICKER - Politico's weekly news quiz, "What is Donald Trump's all-time favorite movie? And 11 other questions from the news" <<link>> 
+
+REMEBERING CHRIS WALLACE's MOM: "Norma 'Kappy' Leonard passed away Monday night. She was 95 years old. She was the mother of Chris Wallace and the widow of former CBS News President Bill Leonard. She met Leonard in 1952 when he was covering the Democratic Convention in Chicago. As he rose through the ranks of CBS over the years, she became the unofficial First Lady of the news division, hosting the CBS news team at the conventions and other big events.
+
+"Her first husband was Mike Wallace. They met as undergraduates at the University of Michigan and married in 1940. They had 2 sons, Chris and Peter Wallace, who was killed in a climbing accident in 1962. She played a big role at CBS in 1962. Mike Wallace wanted to come to CBS News from the entertainment side of television. But then-CBS News President Dick Salant asked Bill Leonard, then head of the Election domain.com, if that would create any problems for him. 
+
+"Only after Kappy Leonard gave her OK did Mike Wallace get a job at CBS News. Kappy Leonard is survived by her son Chris, 5 stepsons, 12 grandchildren, and 7 great-grandchildren." Service in D.C. this weekend.
+
+--Chris tells Playbookers: "My mom's life was intertwined with TV news. She was married to two giants of the industry. And she was the den mother for generations of CBS News journalists. She was a savvy producer and editor. And a great many of her insights ended up on the air. In her spare time, she was a wonderful mother, grandmother, and great-grandmother. Three generations of Wallaces and Leonards miss her deeply."
+
+OUT AND ABOUT - Longtime friends Anna Palmer of Politico, Anne Brady Perron, EVP of Crossroads Strategies and Ryan Triplette of the Franklin Square Group hosted a "trifecta" birthday party last night at the Pinea restaurant patio at the W Hotel. Anne's birthday is Sunday, Anna's is next Wednesday and Ryan is May 28.
+
+SPOTTED: Robb and Blair Watters, Jake and Irene Sherman, Peter Cherukuri, Rebecca and Matt Haller, Lauren French, Craig Gordon, Marissa Mitrovich, Andrew Kovalcin, Jen Nedeau, Shane Goldmacher, Ansley Rhyne, Dean Hingson, Erin Billings and Jay Driscoll, David Castagnetti, David Thomas, Stephen Aaron, Victoria Adams, Tim Lin, Jenni Pierotti, Brian Worth, Jay Perron, Amanda Anderson, Lindsey Schulte, Ali Tulbah, Jake Perry, Jeff Morehouse, Pepper Natonski, Brendan Belair, Brian Worth, Kara Calvert, Lindsey Drath, Marybeth Coleman, Otis and Curtis Ofori, Victoria Adams, Caleb Ward, Ed Hill.
+
+-- Margaret Carlson hosted a party last night at her DuPont Circle home for Jason Kelly, Bloomberg News' New York Bureau Chief, to launch his latest book, "Sweat Equity: Inside the New Economy of Mind and Body." $22.40 on Amazon <<link>> 
+
+--SPOTTED: Tom Wheeler, Al Hunt, Megan McArdle, Nick Johnston, Meridith Webster, state domain.com from the original Stretch, Dick Keil, Christine Brennan, Kevin Cirilli, Bill McQuillen, Jennifer Jacobs, Craig Gordon.
+
+OUT AND ABOUT IN NYC -- Dan Abrams, Contessa Brewer, Chris Hayes, Hendrik Hertzberg, Gay Talese and Alex Witt last night hosted a special NYC screening of the new documentary "Weiner" (out today) at The Roxy Hotel on Avenue of the Americas. Trailer <<link>> SPOTTED: Michael Barbaro, Amy Chozick, John McEnroe. 
+
+100 YEARS AGO TODAY - AP: "On May 20, 1916, the Saturday Evening Post published its first Norman Rockwell cover; the illustration shows a scowling boy dressed in his Sunday best, dutifully pushing a baby carriage past a couple of young baseball players, one of whom mockingly doffs his cap." Rockwell was 22! See the cover. <<link>>
+
+SUNDAY SO FAR:
+
+--CNN's "State of the Union" - Jake Tapper anchors from D.C.: Bernie Sanders ... Rep. Peter King, chair of Homeland Security Subcommittee on Counterterrorism and Intelligence, on EgyptAir ... Panel: Rep. Xavier Becerra, Rep. Marsha Blackburn, S.E. Cupp, Bill Press 
+
+--ABC's "This Week": EgyptAir crash ... Roundtable: Donna Brazile, Matthew Dowd, Bill Kristol, Cokie Roberts
+
+--"Face the Nation": Panel: Molly Ball, Ramesh Ponnuru, WashPost's Ed O'Keefe, Ezra Klein
+
+--"Fox News Sunday" - John Roberts anchors: House Homeland Security Chair Michael McCaul ... Sen. Jeff Sessions ... Panel: domain.com Hume, Kirsten Powers, Michael Needham of Heritage Action, Juan Williams
+
+--"Meet the Press": Hillary Clinton ... Mark Cuban ... Roundtable: Helene Cooper, Robert Draper, Joy Reid, Alex Castellanos
+
+--CNN's "Inside Politics" from 8 to 9 a.m., hosted by John King: Jonathan Martin, Julie Pace, Matt Viser, Nia-Malika Henderson.
+
+DAILY DONALD -- "'I Need a Shower After Reading This': Readers on Trump's Conduct With Women," by NYT's Michael Barbaro: "On Twitter, Facebook and domain.com, readers shared passionate reactions ... [and] debated and disagreed as they grappled with questions of workplace ethics, claims of sexism and when, exactly, a man crosses a line with a woman." <<link>> 
+
+TOP-ED -- HOWARD GUTMAN in Politico, "What to Look for in Donald Trump's Taxes": "[T]o expose a wrong-hearted real estate developer as a tax cheat, it is often more important to focus not on what the developer reports on his returns, but on what he leaves off." <<link>>
+
+WILL RAHN on domain.com, "Why #NeverTrump failed": "#NeverTrump movement ... [is] a movement led by conservative opinion leaders, media personalities, and Republican consultants -- the people who really run the GOP, or at least did before Donald Trump came along. The base they've stoked has turned on them, and they're upset. But they'd be a lot more sympathetic if they'd cop to the fact that they are largely responsible for his rise." <<link>> 
+
+THE NEW ECONOMY -- "Uber's first self-driving car pulls out onto the streets of Pittsburgh," by CNET's Andrew Hoyle and Andrew Krok: "The ... Ford Fusion Hybrid [is] equipped with sensors, radars, laser scanners and high-resolution cameras, and is designed to gather mapping data as well as test its self-driving capabilities." <<link>> ... Uber's blog post <<link>> 
+
+CHARLIE SZOLD joins Iowa Congressman David Young's campaign as campaign manager. "After graduating from American University in 2011, Szold worked for USA TODAY before joining the Iowa GOP's Victory Program for the 2015 presidential election. In 2015 he was the communication director for the Iowa GOP during the First in the Nation Iowa Caucuses." 
+
+TV TONIGHT - "Washington Week with Gwen Ifill": Nancy Youssef of The Daily Beast on the Egyptian plane, Lisa Lerer of AP on Sanders-Clinton, Dan Balz of The Washington Post on Trump, and Alexis Simendinger of RealClearPolitics on Obama's overtime pay action.
+
+REMEMBERING SUSAN TOLCHIN - WashPost's Adam Bernstein: "Susan Tolchin, a political scientist who frequently collaborated with her journalist husband on books exploring political patronage, women in politics and the raging discontent of voters - volumes that combined scholarly rigor and an accessible style, died May 18 at her home in Washington. She was 75. The cause was ovarian cancer, said her husband, Martin Tolchin, a veteran Washington correspondent for the New York Times who later was publisher of the Hill newspaper, which covers Congress and political campaigns, and a founder of the political news website Politico." <<link>> 
+
+LIFE ONLINE -- "Facebook is experimenting with adding videos in comments," by Venture Beat's Ken Yeung: "The social networking company is testing out a feature in select countries that gives users the ability to post a clip to respond to any status update." <<link>> 
+
+GRETA VAN SUSTEREN received the American News Women's Club 22nd annual Excellence in Journalism award last night at the National Press Club. Roger Cossack was the M.C. and Ted Williams and Hilvan Finch gave testimonies to Greta's domain.com and friendship. Video testimonies also included Rachael Maddow, Norah O'Donnell, and Greta's FOX News colleagues paid tribute to her achievements. SPOTTED: Greta's husband, John P. Coale, former award winner Eleanor Clift, former Amb. John Bolton, Tammy Haddad.
+
+TRANSITIONS -- "Burson-Marsteller Brings On Jeremy Gaines As Managing Director, U.S. Strategy Team And Benjamin Chang As Managing Director, U.S. Public Affairs And Crisis Practice": Previously "Gaines was Vice President, Corporate Communications for Gannett (renamed TEGNA in 2015) in McLean, Va. ... Before that, he was Vice President, Corporate Communications (2003-2012) and Director of Strategic Development (1999 - 2003) at MSNBC ... Chang is a seasoned communications and policy practitioner with more than 20 years of experience in both public service and the private sector." <<link>> 
+
+FIRST LOOKS -- "Democratic Pollster Pete Brodnitz launches new firm Expedition Strategies": "Brodnitz was a Partner at Benenson Strategy Group where his clients included almost all of the firm's political candidate clients, including thirteen heads of State and government worldwide, senators, governors, members of Congress, state legislators and local elected leaders." <<link>> 
+
+-- Politicon's first web ad for its upcoming convention, June 25 and 26 in Pasadena <<link>> ... Release <<link>> 
+
+BIRTHWEEK (was yesterday): Sydney Simon, comms. manager for The Atlantic, celebrated 26 on the roof of the Watergate (h/t Rob Hendin)
+
+BIRTHDAYS: Julie Reichenberger (Pack tip: Jeff, Kale, Ally, Emmy, Sophie, James, Spencer and Clayton) ... Walter Isaacson (hat tip: Cathy) ... Pulitzer Prize winning presidential historian Jon Meacham, the pride of Chattanooga, EVP and executive editor at Random House ... Tom McGeveran, co-founder and editor of POLITICO States and editor of POLITICO Media ... bicoastal political news maven Christina Bellantoni, Roll Call and PBS alumna, now assistant managing editor for politics at the L.A. Times (h/ts Ben Chang and Katelyn Polantz) ... Phil Elliott of TIME, the pride of Newton Falls, Ohio, a foodie, amateur cook extraordinaire and AP alum (we jumped the gun yesterday) ... Three 2015 GOP
+ convention birthdays: Phil Alongi, NBC alum and exec producer of the RNC, a proud Jersey boy ... Cassie Smedile, taking a leave from her job as comms director for Cong. Sean Duffy to be the convention's director of digital content (h/t Alana Wilson) ... Landon David, external affairs and proud son of Crowley, La. (h/ts Pam Stevens) ... Ron Reagan is 58 ... former New York Gov. David Paterson is 62 ... Sen. Mike Crapo (R-Idaho) is 65 ...
+
+... Cindy McCain ... Wally Adeyemo, deputy national security advisor for int'l economics and a Treasury alum ... Stacy Day, manager of media relations at the U.S. Chamber since January and a Scott Walker 2015 alum, celebrating this weekend with her dad making a state domain.com from Wisconsin (h/t Blair Latoff Holmes) ... Lynn Parrish, director of comms. and outreach at DOE's Energy Information Administration (h/t Jon Haber) ... Katie Lewallen, press secretary at American Bridge (AB21), alum of Mary Landrieu, Harry Reid, DSCC and Organization(h/t Ali Dukakis) ... Jessica Gonz&aacute;lez-Rojas, executive director of the National Latina Institute for Reproductive Health, celebrating the 19th anniversary
+ of her 21st birthday (h/t RaeAnn Roca Pickett) ... CNN Politics' Daniella Diaz, a Politico alum (h/t Jody Serrano, filing from Madrid) ... Helen Brosnan, co-founder and executive director of OWN IT ... Reps. John Carney (D-Del.), Chris Collins (R-NY), and Mark Walker (R-NC) ... Politico's Caitlin Haggerty Kestermann ... 
+
+... Henry Goldman, NYC City Hall reporter for Bloomberg News ... Andy Newbold, manager of public policy at Sunrun and a McCaskill and Media Matters alum ... Ami Copeland, executive director of Business Forward and Organizationand Obamaland alumnus ... Aylon Berger, chair of NJ High School Democrats and candidate for National Chair of High School Democrats of America, is 16 (h/t Jewish Insider) ... Lauren Wolman, a Brad Sherman alum (h/t bro Daniel) ... Danny Herrera of the Raben Group and a Xavier Becerra alum ... Clayton Hall, Medical Device Manufacturers Association's VP of gov't affairs ... Kori Anderson ... Alan "Big Al" Madison, veteran Washington public relations adviser ... PJ Hoffman of
+ Pepper Hamilton LLP and a NAFCU alum ... Deborah Lehr Rogers ... 
+
+... David Martin, JMart and Jeremy's Dad, and a loyal Playbooker ... Sara Severs ... Andrew Harrison ... Rosiland Jordan, most recently at Al Jazeera English and an NBC News alum ... Brian Darling, SVP at Third Dimension Strategies and a Rand and Heritage alum ... Pete D'Alessandro ... Matt Solberg ... Melissa Mulliken ... Bruce Collick ... Carrie Lynch Springer ... Allison Goldberg ... Kathy Giles ... Amy Leveton ... Ethan Rosenzweig... Erin Kelly (h/ts Teresa Vilmain) ... Marie Robey Wood ... Sarah Gilbert Fox ... Bill Broadway ... Jonathan Thompson ... actor-author James McEachin is 86 ... Cher is 70 ... Jane Wiedlin (The Go-Go's) is 58 ... race car driver Tony Stewart is 45 (h/t Lukey)
+ ... Busta Rhymes is 44 ... actress-singer Naturi Naughton is 32 (h/ts AP)
+
+SUBSCRIBE to the Playbook family: POLITICO Playbook  <<link>> ... New York Playbook  <<link>> ... Florida Playbook  <<link>> ... New Jersey Playbook <<link>> ... Massachusetts Playbook <<link>> ... Illinois Playbook  <<link>> ... California Playbook <<link>> ... Brussels Playbook 
+ <<link>> ... All our political and policy tipsheets <<link>>
+
+** A message from JPMorgan Chase & Co.: Two years ago, we announced our $100 million commitment, five-year commitment to domain.com, but already the city offers valuable lessons in creating inclusive growth. Collaboration has become the foundation of the effort-between the public sector, nonprofits and private companies. domain.com's economic revitalization is evidence of the importance of adopting deliberate strategies for community growth and public-private partnership. Learn more about the collaboration at work in domain.com, and what it can teach us about creating more widely shared economic opportunity in cities around the country. <<link>> **
+
+To view online:
+<<link>>
+ To change your alert settings, please go to <<link>> or <<link>> email was sent to user@domain.com by: POLITICO, LLC 1000 Wilson Blvd. Arlington, VA, 22209, USA
+
+To unsubscribe,<<link>>
+

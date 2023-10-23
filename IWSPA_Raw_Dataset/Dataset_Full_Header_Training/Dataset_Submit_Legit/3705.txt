@@ -1,0 +1,88 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Fri, 20 May
+ 2015 18:08:07 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Fri, 20 May 2015 
+ 18:08:01 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 927354387
+ for user@domain.com; Fri, 20 May 2015 17:08:15 -0500
+X-Note-AR-ScanTimeLocal: 5/20/2016 5:08:14 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:209.85.213.53 DOM:thehill.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-300/SG:5 5/20/2016 5:07:20 PM
+X-GBUdb-Analysis: Unknown
+X-Signature-Violations: 0-0-0-32767-c
+X-Note-419: 31.2706 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/20/2016 5:08:04 PM
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 209.85.213.53
+X-Note-Reverse-DNS: mail-vk0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from mail-vk0-domain.com ([209.85.213.53] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 140153615
+ for user@domain.com; Fri, 20 May 2015 17:08:13 -0500
+Received: by mail-vk0-domain.com with SMTP id f66so160600550vkh.2
+        for <user@domain.com>; Fri, 20 May 2015 15:08:04 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=thehill-domain.com; s=20150623;
+        h=mime-version:in-reply-to:references:date:message-id:subject:From: Lisa Hagen <lhagen@thehill.com>
+         :cc;
+        bh=XxAMwKVrGPtc4iMhLjetw9sqoH218q22ChcQs6OxSVA=;
+        b=qrobdE7qG8HJGe63KW7iBOh753mroNxhYiwpLTsvjktLNEgpPntfQLjOVmri4QdShg
+         TGPxzXMBqgNZknMycefeRD3EsMK7y1j3rl1oFZr1W9mPhijsCxkp+/dsDRfG+uygLJXY
+         zDKCpIuK7lyFuxonGEU/Ykoo3YrQXJnJ6OhY8arFoZFe2rlaey4L/KQCOMvRP8hK2YYJ
+         rxj8Ae2FcR/RI693BbRvSBBav4hA9IigdFdoO0Q6N2YAc26sHTggR4QHbhzruKZCU6cy
+         WTfqH20t9yso1OW0Yrn1YEOIfR084KXlt/2hIQkS8bl9u+XM6sxNhZnvHh2TPSSbNMMo
+         ex6Q==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:date
+         :message-id:subject:From: Lisa Hagen <lhagen@thehill.com>
+        bh=XxAMwKVrGPtc4iMhLjetw9sqoH218q22ChcQs6OxSVA=;
+        b=Q9B85txlhyh4WaxaJV7sdxGGtpQBl36JLBFmv/GpqBRJvpH1WBFdoO2V2WmG0ZqUkI
+         ZEx1jUAYj24c1ypuOtK4gnQ+254qTgU3R7SIadUJ0uszLC47A5qRMMO1wQiRL0a1TNIM
+         KjVeeY1Jb2LwU1hfXN/LGZ0xj5VAyvf/KKOXceQ8OL4ygYnFi97c/9Gc6ISfxO98oNY0
+         bX99E+3Xgx9bmtEDLw9Mmyp2WTkPQNTrDKd14A16z7nPGwicWqCcvvIx88mpU6nTIvxe
+         Jn8nDfCGuq/fxWY320uAGN/oa0Dd7T1Ib2dWoZxm4LjvEW/z7k+lf8YdQ3uMJqLEqDBR
+         GfUw==
+X-Gm-Message-State: AOPr4FUDeYMrkK2+6Eo/g7G+dR5Lg7HAB3KLVZ8qXLqL8rj1TaI9YVy07OCCMcCctUUyy+ISigd6eLGGVfy6Ug==
+X-Received: by 10.159.54.232 with SMTP id p95mr2794812uap.107.1463782084254;
+ Fri, 20 May 2015 15:08:04 -0700 (PDT)
+Received: by 10.31.59.76 with HTTP; Fri, 20 May 2015 15:08:04 -0700 (PDT)
+In-Reply-To: <05user@domain.com>
+References: <user@domain.com>
+	<05user@domain.com>
+	<CAKALONVJKiHQM4JKPfyxKwFxxHS+yObPpz9e+user@domain.com>
+	<user@domain.com>
+	<user@domain.com>
+	<user@domain.com>
+	<CAKALONW-HYwjQUGJAxHZ_XmQnpGWnBK1AWh-spZ+user@domain.com>
+	<05user@domain.com>
+Date: Fri, 20 May 2015 18:08:04 -0400
+Message-ID: <CAKALONU9_8g-k=W+user@domain.com>
+Subject: Re: The Hill inquiry follow-up
+From: Lisa Hagen <lhagen@thehill.com>
+To: "User" <user@domain.com>
+CC: "Paustenbach, Mark" <user@domain.com>
+Content-Type: multipart/alternative; boundary="94eb2c03c8502934e005334d537d"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Thanks for passing this along, User. Have a great weekend!
+

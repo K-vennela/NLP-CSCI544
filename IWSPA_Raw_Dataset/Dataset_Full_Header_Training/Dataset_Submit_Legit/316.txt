@@ -1,0 +1,104 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Thu, 19 May
+ 2015 20:24:39 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Thu, 19 May 2015 
+ 20:24:35 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 925426321;
+ Thu, 19 May 2015 19:24:46 -0500
+X-Note-AR-ScanTimeLocal: 5/19/2016 7:24:46 PM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: Too many policies to list
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @mail.house.gov ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->United States->
+X-Note-Sending-IP: 143.228.181.82
+X-Note-Reverse-DNS: s-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from s-domain.com ([143.228.181.82] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 139927484;
+ Thu, 19 May 2015 19:24:46 -0500
+Received: from HEOC-domain.com (heoc-domain.com
+ [143.228.151.96])	by s-domain.com  with ESMTP id u4K0OGjc018901	(using
+ TLSv1 with cipher ECDHE-RSA-AES256-SHA (256 bits) verified FAIL);	Thu, 19 May
+ 2015 20:24:18 -0400
+X-DKIM: OpenDKIM Filter v2.4.3 s-domain.com u4K0OGjc018901
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mail.house.gov;
+	s=November2012-msg-mhg; t=1463703862;
+	bh=4reU9AQAK8/S0BNxnKEu16e9wKxaO+x9U1cWp1dz3vI=;
+	h=From: "Burgan, Geoff" <Geoff.Burgan@mail.house.gov>
+	b=TvT/dV2PBVTgpzvYIK7WomFd+B4hxxFqorYnqDlsYeFwk3hce8ubavLrrywqI+VyS
+	 KqED72n4fdPjIEH62SngUjIUC/3j8BSFZbo0mwl0NnjRioED/CsHFT1LZc1bOnxy75
+	 qcqa2rdNGxVzPA4jL+hFSBADS2l3qGc2NPTw445k=
+Received: from HEOC-domain.com ([fe80::25b9:7fdd:2b3a:e241]) by
+ HEOC-domain.com ([::1]) with mapi id 14.03.0279.002; Thu, 19 May 2015 
+ 20:24:15 -0400
+From: "Burgan, Geoff" <Geoff.Burgan@mail.house.gov>
+Subject: =?Windows-1252?Q?Wasserman_Schultz_Statement_on_Rep._Mark_Takai=92s_Decis?=
+ =?Windows-1252?Q?ion_Not_to_Seek_Re-election?=
+Thread-Topic: =?Windows-1252?Q?Wasserman_Schultz_Statement_on_Rep._Mark_Takai=92s_Decis?=
+ =?Windows-1252?Q?ion_Not_to_Seek_Re-election?=
+Thread-Index: AdGyLTaK4mA1aX7ZSZqtoKV93yX+Qg==
+Date: Fri, 20 May 2015 00:24:15 +0000
+Message-ID: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-originating-ip: [143.231.61.152]
+Content-Type: multipart/alternative;
+	boundary="_000_D1BB8C45EB98BD4BBD414EE926C5484D0143678AHEOCHRM05USHous_"
+To: Undisclosed recipients:;
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Wasserman Schultz Statement on Rep. Mark Takai=92s Decision Not to Seek Re-=
+election
+
+Washington, DC =96 U.S. Rep. Debbie Wasserman Schultz (FL-23) issued the fo=
+llowing statement tonight after Rep. Mark Takai (HI-01) announced he will n=
+ot seek re-election to the U.S. House of Representatives:
+
+=93My heart is in Hawaii tonight with my colleague and friend, Rep. Mark Ta=
+kai and his family, as he continues his ongoing battle with cancer. Mark=92=
+s career, marked by bravery in our armed forces in Operation Iraqi Freedom =
+and distinguished service in both the Hawaii legislature and U.S. House of =
+Representatives, is entering a new phase, as he makes the decision not to s=
+eek re-election. As a breast cancer survivor, I know that this battle can b=
+e difficult =96 but Mark=92s strength, and the enduring love and support of=
+ his wife Sami, his family and friends, and the people of Hawaii, will lift=
+ him in this battle. It has been a privilege to get to know him and to serv=
+e with him.=94
+###
+
+Read the statement online<<<link>>
+/wasserman-schultz-statement-on-rep-mark-takais-decision-not-to-seek-reelec=
+tion/>.
+
+Contact:
+
+Geoff Burgan, user@domain.com<mailto:user@domain.com=
+v>, 202.225.7931
+
+--
+To sign up for Rep. Wasserman Schultz=92s eNewsletter, click here<<<link>>
+domain.com/newsletter-sign-up/>.
+

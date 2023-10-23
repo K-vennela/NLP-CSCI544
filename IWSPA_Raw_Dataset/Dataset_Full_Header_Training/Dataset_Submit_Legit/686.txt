@@ -1,0 +1,107 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Fri, 20 May
+ 2015 12:48:03 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Fri, 20 May 2015 
+ 12:47:56 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 926647460;
+ Fri, 20 May 2015 11:48:06 -0500
+X-Note-AR-ScanTimeLocal: 5/20/2016 11:48:05 AM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: Too many policies to list
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: user@domain.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: LOCAL->->United States->
+X-Note-Sending-IP: 209.85.192.45
+X-Note-Reverse-DNS: mail-qg0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mail-qg0-domain.com ([209.85.192.45] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 141847573;
+ Fri, 20 May 2015 11:48:05 -0500
+Received: by mail-qg0-domain.com with SMTP id 90so63294866qgz.1;
+        Fri, 20 May 2015 09:47:56 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:content-transfer-encoding:message-id:date:subject:from
+         :in-reply-to:references:to:cc;
+        bh=czLLmvXoR/l0AAgoEQNRO6ONet11W3S6txMyQXsxBjE=;
+        b=dF6a3wmh25SZkzNpP57g5upL/cPsbgaM2Y8w+S6IazY37XCjAsPJrYwDM0s63dHdD+
+         kW/xH4Z7+pqcoM2BmCxCfbjet1DAZoIKc9ZsJ/6oobgrUa3byD0v+74aEnXggHh0xJ88
+         MA5A7v+E/6yUL5b5/qBiUgxL6sNp/k1EVUg0WaU5s2HNOnw/Fan72QoEi1qwAJ8oUXDd
+         /iQGz+8aPtzBHJmlaaQUPRb1h2lD+mEdoesmawo56i/aHjeWBCfnKyygY/zRPi1MP4a6
+         nC1lHAzD8cEI7OP8Z9TkhPYtCoS7brvPvLiqMzljLqHii9pD1LOTcReUTBVw3r+2er1w
+         RIrA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:content-transfer-encoding
+         :message-id:date:subject:From: Debbie Wasserman Schultz <hrtsleeve@gmail.com>
+        bh=czLLmvXoR/l0AAgoEQNRO6ONet11W3S6txMyQXsxBjE=;
+        b=dymU3R9qtz7F/u0N+9OWe4yfYYNlLbzEWMmhTDF0bJwMDDkmAkWfiDw7Z+4OdfIEGu
+         QGWlclP4eEd94CI2nBdIEmTXEyehz9LOiraildPfEkGOBH3VVUrm6D3pT1d4JOUOCcPK
+         rBBpdIaKGjvnFwRUQ4GLhF6NBysb4Q67p6v5PIO7NmAvZ9KTSYJvMZZJ78iR6w32DCmB
+         P78p3jfXnBvN/7k3bHbbqxKTRtLaLP0Gxwb88o6KhqIkGsfqEESrXz+2g5GgyepaE2/X
+         FStk2YIRRF23xRe2w1XJN1yPshC9cka5AGmkSVEvjqI8v8IfZRDS3jmECysq8oem84t5
+         jNDg==
+X-Gm-Message-State: AOPr4FWMMLa29A54A6yqnMKYuEole/TNfsblcxZFhSSlPTjOYY49U7ZQDBOkmQ3oWmDLrg==
+X-Received: by 10.141.45.135 with SMTP id w129mr4367179qhe.104.1463762875805;
+        Fri, 20 May 2015 09:47:55 -0700 (PDT)
+Return-Path: <user@domain.com>
+Received: from [127.0.0.1] ([166.170.29.233])        by smtp.gmail.com with
+ ESMTPSA id y12sm1809766qhy.32.2016.05.20.09.47.53        (version=TLSv1/SSLv3
+ cipher=OTHER);        Fri, 20 May 2015 09:47:54 -0700 (PDT)
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+X-Mailer: BlackBerry Email (10.3.2.858)
+Message-ID: <20160520164753.5083222.77241.60258@gmail.com>
+Date: Fri, 20 May 2015 12:47:53 -0400
+Subject: Re: Notes for 5.20.16 DWS ASDC Speech tp edits - 1-Annotated
+From: Debbie Wasserman Schultz <hrtsleeve@gmail.com>
+In-Reply-To: <05user@domain.com>
+References: <164user@domain.com>
+ <2user@domain.com>
+ <3487user@domain.com>,<58user@domain.com>,<user@domain.com>
+ <05user@domain.com>
+To: "User" <user@domain.com>,
+	"Walsh, Tom" <user@domain.com>
+CC: "Guerra, Liana" <user@domain.com>, Tracie Pough <user@domain.com>,
+	"Banfill, Ryan" <user@domain.com>, Kate Houghton <user@domain.com>, Anita
+ Dunn <user@domain.com>, Hilary Rosen <user@domain.com>
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+                =
+                                                                      Yes, we are.                     =
+                                                                           =
+
+
+
+                                   =
+                                                                           =
+                                                                           =
+          Sent from my BlackBerr=
+y 10 smartphone.                                           =
+                                                                           =
+                                                               From: Debbie Wasserman Schultz <hrtsleeve@gmail.com>
+Sent: Friday, May 20, 2015 12:38 PMTo: Bonosky, Garre=
+t; Walsh, TomCc: Guerra, Liana; Debbie Wasserman Schultz;=
+ Tracie Pough; Banfill, Ryan; Kate Houghton; Anita Dunn; Hilary Rosen=
+Subject: RE: Notes for 5.20.16 DWS ASDC Speech tp edits - 1-Ann=
+otated

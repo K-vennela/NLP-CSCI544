@@ -1,0 +1,67 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Tue, 14 Apr 2015 10:26:35 +0200
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id 9A77560059	for
+ <user@domain.com>; Tue, 14 Apr 2015 09:03:50 +0100 (BST)
+Received: by domain.com (Postfix)	id DE7562BC229; Tue, 14 Apr 2015 
+ 10:26:34 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from EmadPC (unknown [192.168.1.198])	(using TLSv1 with cipher
+ AES256-SHA (256/256 bits))	(No client certificate requested)	by
+ domain.com (Postfix) with ESMTPSA id CEFE22BC031;	Tue, 14 Apr 2015 
+ 10:26:34 +0200 (CEST)
+From: Emad Shehata <e.shehata@hackingteam.com>
+To: 'Emad Shehata' <user@domain.com>, 'Giancarlo Russo'
+	<user@domain.com>
+References: <552user@domain.com> <user@domain.com>
+In-Reply-To: <user@domain.com>
+Subject: R: Fwd: Replying email
+Date: Tue, 14 Apr 2015 10:26:34 +0200
+Message-ID: <000101d0768c$b7c27d60$27477820$@user@domain.com>
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AQHQdoJgzQ5JxFpEGEivkgtpopKrPJ1MLEvw
+Content-Language: it
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EMAD SHEHATA450
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1252371169_-_-"
+
+Cmq possiamo procedere con la maintenance sino al 01 Giugno?  Emad Shehata
+Key Account Manager
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com
+mobile: +39 3357939078
+phone: +39 0229060603   Da: Emad Shehata [mailto:user@domain.com] 
+Inviato: martedì 14 aprile 2015 09:13
+A: Giancarlo Russo
+Oggetto: R: Fwd: Replying email Ciao Giancarlo,
+Nessuna mail ricevuta 
+-- 
+Emad Shehata 
+Key Account Manager 
+
+Sent from my mobile.
+ Da: Giancarlo Russo 
+Inviato: Tuesday, April 14, 2015 12:58 AM
+A: Emad Shehata 
+Oggetto: Fwd: Replying email 
+ Emad,
+ieri ho risposta a Salem ma per alcuni problemi sul client di posta non so se mail è partita correttamete. tu hai ricevuta? nel caso provvedo a riscrivere la mail
+
+thanks
+
+-------- Forwarded Message -------- Subject: Replying emailDate: Mon, 13 Apr 2015 11:12:05 +0000From: Emad Shehata <e.shehata@hackingteam.com>
+
+Mr. Giancarlo,  Referring to your email dated April 7, 2015, please be informed that the deduction that took place by TCC on some of your payments came to cover the withholding tax for the Income and Zakat Department – KSA according to section (E) payments terms paragraph (4) within our purchase order no. TCC-LPO-0026-09-12-V5 dated 26.09.2012 approved by your company.Furthermore, and as for the obtained tax exemption received from your company, please be informed that we submitted the exemption on behalf of your company to recover the paid withholding tax and the recovery is still under process. (please refer to the attached)Despite of the above, and despite the fact that it won’t be fair for TCC to pay withholding tax on your company’s behalf, but in order to maintain our unique business relation, we have concluded a wire transfer for the domain.com of your company for the amount of (17,175.00) Seventeen thousand one hundred seventy five Euro which represents (50%) of the deducted amounts against the withholding tax.  We will transfer the remaining (50%) as wire transfer within (5) working days, accordingly your company is required for immediate return back for Services to our customer without any further delays.Hoping to succeed in recovering the paid withholding tax.Best Regards,   SALEM H. GHABBOUN      LEGAL ADVISORTECHNOLOGY CONTROL CO.  (TCC)P.O Box 14944 Riyadh 11434Kingdom of Saudi ArabiaT +966 920014888 Ext. 181M +966 535559132 
+
+--  Giancarlo RussoCOO Hacking TeamMilan Singapore Washington DCwww.hackingteam.com email: user@domain.com: +39 3288139385phone: +39 02 29060603  

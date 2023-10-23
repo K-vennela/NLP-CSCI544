@@ -1,0 +1,89 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 10 May
+ 2015 11:19:34 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 10 May 2015 
+ 11:19:32 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 906698587
+ for user@domain.com; Tue, 10 May 2015 10:19:38 -0500
+X-Note-AR-ScanTimeLocal: 5/10/2016 10:19:32 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:209.85.213.54 DOM:mjpratt.org ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 100
+X-GBUdb-Analysis: Unknown
+X-Signature-Violations: 100-5953485-6597-6611-m
+	100-5953485-25240-25254-m
+	100-5953485-30016-30030-m
+	100-5953485-31505-31519-m
+	100-5953485-0-31686-f
+X-Note-419: 31.2503 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/10/2016 10:19:25 AM
+X-Warn: WEBBUG
+X-Warn: OPTOUT
+X-Warn: BULKMAILER
+X-Note: Spam Tests Failed: WEBBUG, OPTOUT, BULKMAILER
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 209.85.213.54
+X-Note-Reverse-DNS: mail-vk0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G281 G286 G374 G376 G398 G580 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from mail-vk0-domain.com ([209.85.213.54] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 137567376
+ for user@domain.com; Tue, 10 May 2015 10:19:32 -0500
+Received: by mail-vk0-domain.com with SMTP id m188so20297901vka.1
+        for <user@domain.com>; Tue, 10 May 2015 08:19:32 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=mjpratt-domain.com; s=20150623;
+        h=mime-version:in-reply-to:references:date:message-id:subject:From: Michael Pratt <michael@mjpratt.org>
+         :cc;
+        bh=5vdgnh0I0z+5kDL9WRksV66GlSDiDROYccE0Z62iNTg=;
+        b=zctOz+cy43t522hAj0+rJI2svMtstN8gcXOEJTXYwqc0m9VhT+DvI6Oy7E0w4XEObH
+         1kwluFHFhpWR/ODMdQX2rcMp+Snqcn9f7pxxr2hQS43FPH4aNZ7n7Vt2vB++inGmzif9
+         s3apwBzyD7gZqqWBIOGAN+1nFisJFX60E5a04tFgoYZDQ6+mcSitI2zo+otGyMmlBSeO
+         0h6ibYDaw/1ypq7Kdj1w57P+b2xB3ZgizR1aFPrkGQaQ3CVCCNhoK8eyBorBKcApg9DR
+         U5B8IonKMyuRI7tSmuKVbiSKsKk5NpBGH9pw5cDi5Ot3GumfJtW03ovIiJ3qlz/4YgtE
+         uOdg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:date
+         :message-id:subject:From: Michael Pratt <michael@mjpratt.org>
+        bh=5vdgnh0I0z+5kDL9WRksV66GlSDiDROYccE0Z62iNTg=;
+        b=GB/3wo6o+JWuYmmoHdZg+/7d9JQ1DPG/fTq2ATfdAYwan2y41GZqfc+YDDxahde+Lk
+         F9HqLtMCP515acMdb1V2mKQ8KmLaoJgFTDDb1kH4mzsAx0CASbt0+cbH3fMHaYvstllG
+         CjdwRfSofKXzyrZpUF7FBGdLfyXBg5ZFYK8iUsMOhX72pNjKyGdpOvKFBRMK98gPSZoa
+         UUpLhs4/Rj6Wk+Qq7J3XQG0qQfi/G7rSxjwz+p4BnHyUSVs+A+620ZPRueght8IMn9wx
+         Bf7i99q+xS2e116XDBiEDZ09TN0WJkdWAu2n8OhGvxKv3Er6H8j9RfTgjFPaFUf6lyZe
+         LSIg==
+X-Gm-Message-State: AOPr4FW9p4NthkDId2n2upnLrLMZWShk6wF3ySnIhObtoC/OH+jYHLpacyrf4z7Oojxz8ecPRXX/9IIbIDrg1g==
+X-Received: by 10.159.40.99 with SMTP id c90mr23603594uac.85.1462893572005;
+ Tue, 10 May 2015 08:19:32 -0700 (PDT)
+Received: by 10.176.1.54 with HTTP; Tue, 10 May 2015 08:19:31 -0700 (PDT)
+In-Reply-To: <801474user@domain.com>
+References: <1124668696115.1109617158274.2101382380.0.231002user@domain.com>
+	<801474user@domain.com>
+Date: Tue, 10 May 2015 11:19:31 -0400
+Message-ID: <user@domain.com>
+Subject: Re: Fundraisers' Night Out!
+From: Michael Pratt <michael@mjpratt.org>
+To: "User" <user@domain.com>
+CC: Finance_D <user@domain.com>
+Content-Type: multipart/alternative; boundary="94eb2c048618b4378605327e73af"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+MIME-Version: 1.0
+
+I am dying to know what's in the "VIP swag bag."
+

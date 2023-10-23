@@ -1,0 +1,51 @@
+PLEASE find a GOOD WRITTEN, NONTECHNICAL description of HOW most MODERN, common CYBER ATTACKS WORK.
+IF you are not a computer security expert, this is a MUST-READ.
+From MIT Technology Review, also available at <<link>> , FYI,David
+Ken Westin
+February 10, 2015
+Encryption Wouldn’t Have Stopped Anthem’s Data Breach
+To prevent breaches companies must strictly control which employees can access sensitive data.  
+The recent data breach at 
+health insurer Anthem saw criminals access the personal details and 
+Social Security numbers of more than 80 million people—the biggest 
+health-care data theft to date. Medical and payment data was not 
+compromised, but the names, addresses, birthdays, and Social Security 
+numbers accessed can be used by criminals to commit various types of 
+fraud.Many people have been surprised to hear that this sensitive data was 
+not encrypted and that the federal mandate for securing health-related 
+data, HIPAA, does not require it to be. In fact, HIPAA only “strongly 
+encourages” encryption. Organizations that choose not to use encryption 
+are supposed to document the reasons why not and implement an 
+“equivalent alternative measure if reasonable and appropriate.” The 
+vagueness of this requirement is the crux of class action and other 
+lawsuits being filed against Anthem.But even if Anthem had used encryption, the data could have still 
+have been compromised. Encryption is just one part of the arsenal that 
+organizations need to deploy to secure sensitive data. Encryption is 
+great for securing data in transit and at rest, but if the credentials 
+and keys are compromised it does little to protect the data.The bigger issue in many breaches is that organizations haven’t 
+properly implemented data access security controls. They need to have 
+safeguards in place in case attackers can bypass perimeter defenses and 
+compromise administrator level credentials.This is precisely what happened to Anthem, which says its attackers gained access to at least five sets of employee credentials.It’s ridiculously easy for cybercriminals to find the information 
+they need to compromise almost any organization. A quick look at Anthem 
+job postings and LinkedIn profiles was enough for me to identify the 
+software Anthem uses for its data warehouse.From there, I could easily identify more than 100 people, such as 
+system architects and database administrators, who would have privileged
+access to the data warehouse storing tens of millions of sensitive 
+personal records. This was probably the first thing Anthem’s attackers 
+researched before conducting a phishing campaign to distribute the 
+malware used to harvest employee credentials.An attacker who can compromise a system via the credentials of a user
+with administrator-level access to the data warehouse can easily steal 
+more credentials, find monetizable information, and exfiltrate 
+unencrypted data.So what should organizations do to secure sensitive customer data? 
+Sophisticated attackers with enough time and resources can get into any
+organization eventually. Cybercriminals are fully aware of the constant
+trade-offs that organizations make to balance security with operational
+efficiency, and they’ve repeatedly demonstrated that they’re fully 
+capable of exploiting even tiny security weaknesses.Anthem won’t be the last health-care organization to suffer a massive
+breach. Just as with retail, many organization will be targeted, since 
+security weaknesses are often shared across an entire industry. 
+Health-care organizations need to reëvaluate their security practices in
+light of the Anthem breach to ensure that they have appropriate 
+security controls in place to protect their networks.Ken Westin is a senior security analyst specializing in cybercrime and threat intelligence for computer security company Tripwire Inc.
+Tagged:
+Computing,           Mobile,           cybersecurity,           personal data,           Encryption

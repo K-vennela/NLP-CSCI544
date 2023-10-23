@@ -1,0 +1,53 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id 548E746878
+	for <user@domain.com>; Wed, 22 Apr 2015 14:11:15 -0400 (EDT)
+X-Greylist: delayed 60 seconds by postgrey-1.27 at domain.com; Wed, 22 Apr 2015 14:11:15 EDT
+Received: from domain.com (domain.com [67.100.168.60])
+	by domain.com (Postfix) with ESMTP id 4A217131F77E
+	for <user@domain.com>; Wed, 22 Apr 2015 14:11:15 -0400 (EDT)
+Received: from User ([213.132.36.211]) by domain.com with Microsoft SMTPSVC(6.0.3790.1830);
+	 Wed, 22 Apr 2015 14:10:06 -0400
+From: "PayPal"<info@paypal.com>
+Subject: Your account access is limited. Remove this limitation.
+Date: Wed, 22 Apr 2015 22:11:32 +0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <user@domain.com>
+X-OriginalArrivalTime: 22 Apr 2015 18:10:07.0141 (UTC) FILETIME=[91332D50:01C9C375]
+To: undisclosed-recipients:;
+Content-Length: 857
+Lines: 20
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1039
+
+Dear Customer,
+
+Please login to your PayPal account
+
+and remove the limitation from your account
+ In accordance with PayPal's User Agreement and
+
+to ensure that your account has not been compromised 
+
+access to your account was limited. Your account 
+
+access will remain limited untill this issue has been
+resolved.
+
+To Login, please click the link below:
+
+<<link>>
+
+Copyright  1999-2009 PayPal. All rights reserved.
+

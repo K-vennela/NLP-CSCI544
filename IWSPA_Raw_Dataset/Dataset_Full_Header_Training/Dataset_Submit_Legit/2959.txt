@@ -1,0 +1,98 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Thu, 5 May
+ 2015 11:04:50 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Thu, 5 May 2015 
+ 11:04:42 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 898344263
+ for user@domain.com; Thu, 05 May 2015 10:04:52 -0500
+X-Note-AR-ScanTimeLocal: 5/5/2016 10:04:48 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:50.31.32.206 DOM:em1.miamidadedems.org ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-365/SG:5 5/5/2016 10:04:25 AM
+X-GBUdb-Analysis: 0, 50.31.32.206, Ugly c=0.536839 p=-0.814208 Source Normal
+X-Signature-Violations: 0-0-0-13998-c
+X-Note-419: 31.2443 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/5/2016 10:04:47 AM
+X-Warn: BOUNCETRACKER Bounce User Tracking Found
+X-Warn: WEBBUG
+X-Warn: OPTOUT
+X-Warn: WEIGHT10
+X-Note: Spam Tests Failed: BOUNCETRACKER, WEBBUG, OPTOUT, WEIGHT10
+X-Country-Path: United States->->United States->
+X-Note-Sending-IP: 50.31.32.206
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: bounces+2260232-user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G339 G375 G397 G398 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from domain.com ([50.31.32.206] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 136779183
+ for user@domain.com; Thu, 05 May 2015 10:04:48 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=miamidadedems.org; 
+	h=From: Miami-Dade Dems <info@miamidadedems.org>
+	s=s1; bh=H7Ru2r/UyjpRgEN5Uq7j+NmkQQM=; b=Up02xcOEJ0re7oK/JDEGJNP
+	2LiVws2Ma7t9p6nxgLDjoFaYHI3FxbwpJT0Crr1D+hKQYc5WBzRbTbf9giZfujj0
+	H0nOfHrz5e1TwcMs7BV3lbzUAe/k+n4UqQlczzCRlD+0hULAIoNzvZQfrhs5sY8g
+	QlWMsnRziLmlj3i8sI9U=
+Received: by domain.com with SMTP id
+ filter0663p1mdw1.20007.572B608326        2016-05-05 15:02:27.361160212 +0000
+ UTC
+Received: from domain.com (ip-162-219-220-2.rdns.3dna.io
+ [162.219.220.2])	by domain.com (SG) with ESMTP id
+ WG_uB3SwQtaS_OapPkJnmQ	for <user@domain.com>; Thu, 05 May
+ 2015 15:02:27.037 +0000 (UTC)
+Date: Thu, 5 May 2015 15:02:25 +0000
+From: Miami-Dade Dems <info@miamidadedems.org>
+To: User <user@domain.com>
+Message-ID: <572user@domain.com>
+Subject: Voting for Delegates has begun!
+Content-Type: multipart/alternative;
+	boundary="--==_mimepart_572b607ec6fc4_2d262b30849980"; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+List-Unsubscribe: <<<link>>>
+X-SG-EID: /qskMPcwxb1VaCv1PswYfL3cIKK16+tE+dB/q/CjBM0dZYwrLD+PSwfNHG2c8WvXVGHJDvEZxmNxaJ
+ tMk7dcIN0BPZwwjfUIif7de7lY0Kl9BUVDBP2mavrvN6Ct3BIDZof/5Xf3HsU4LdkA4fWX3I7K7GRs
+ LnMX0sBajldrni94x9kzlxRUtyWXRBH891W/t0gJT8PoQYvL+ZvGzJ+Vjz6Aba9eN7ziAsdDKz/mGb
+ 4=
+X-SG-ID: SolyLoj4M+6t0KZQOavh+J5MQzzGOq7y0URVjRr9NRMQbJFi3SGgX20G3QkpVXuAp25A04p+OQapWq
+ 8rZZp1mjbawnw3j2u4LMR4iwVc/ia4v+Yt2cKaomUdKrUR8w7tdWuG2VniDpsOLkmHT2DHqKMNAccw
+ P/McpDSE3A8JDDE=
+Return-Path: bounces+2260232-user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+User -- 
+
+Even though the Florida primary was a month ago, YOU still need to select the DELEGATES that will go to Philadelphia and cast their vote for the Democratic Party's nominee for President of the United States. The number of delegates Sanders and Clinton receive has already been decided, but the people who will be those delegates has not been decided.
+
+Only registered Democrats can vote for delegate. The complete rules for delegate voting is here. <<<link>>>
+
+Early Voting for Delegate Selection started today. If you live in Miami-Dade county, you can vote at the Party headquarters today from 10-2pm and 5-7pm. We are located at 2015 W Flagler St #102, Miami, FL 33134.
+
+Election Day for Delegate Selection is this Saturday, May 7th from 10am-2pm. Election Day voting locations are as follows:
+  - If you live in Congressional District 23 (Debbie Wasserman Schultz) you will vote at Broward College South Campus (Building 69, Rm 133), 7200 Pines Blvd, Pembroke Pines, 33024.
+  - CD 24 (Frederica Wilson) will vote at Miami Dade College North Campus in Building 3000, Room 3238 (2nd floor). The campus is located at 11380 NW 27 Ave, Miami, FL 33167.
+  - CD 25 (Mario Diaz-Balart) will vote at the Firefighters Memorial Building, 8000 NW 21st St, Miami, FL 33122.
+  - CD 26 (Carlos Curbelo) and 27 (Ileana Ros-Lehtinen) will vote at Pinecrest Gardens located at 11000 Red Rd, Pinecrest, FL 33156.
+
+Miami-Dade Dems
+<<link>>
+
+-=-=-
+Miami-Dade Democratic Party - PO Box 15607, Miami, FL 33101, United States 
+This email was sent to user@domain.com  To stop receiving emails: <<link>>
+-=-=-
+
+Created with NationBuilder - <<link>>

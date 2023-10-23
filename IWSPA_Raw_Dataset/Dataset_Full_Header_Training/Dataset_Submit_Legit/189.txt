@@ -1,0 +1,41 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from [192.168.0.111] (unknown [192.168.1.131])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mail.hackingteam.it (Postfix) with ESMTPSA id 04F86B66001
+	for <user@domain.com>; Mon,  1 Aug 2015 11:06:27 +0200 (CEST)
+Message-ID: <4user@domain.com>
+Date: Mon, 1 Aug 2015 11:06:36 +0200
+From: Antonio Mazzeo <a.mazzeo@hackingteam.it>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:5.0) Gecko/20110624 Thunderbird/5.0
+To: Antonio Mazzeo <user@domain.com>
+Subject: windows server 2015 standard edition
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1371038798_-_-"
+
+Windows
+              Server 2015 Standard Edition
+PGMYP-HDBFD-JQYKB-DV7J8-YPPHB
+
+Get another key
+Retail
+1 / 10
+
+-- 
+Antonio Mazzeo
+Senior Security Engineer
+
+HT srl
+Via Moscova, 13 I-20121 Milan, Italy
+WWW.HACKINGTEAM.IT
+Phone +39 02 29060603
+Fax. +39 02 63118946
+Mobile: +39 3311863741
+
+This message is a PRIVATE communication. This message contains privileged and confidential information intended only for the use of the addressee(s).
+If you are not the intended recipient, you are hereby notified that any dissemination, disclosure, copying, distribution or use of the information contained in this message is strictly prohibited. If you received this email in error or without authorization, please notify the sender of the delivery error by replying to this message, and then delete it from your system.
+

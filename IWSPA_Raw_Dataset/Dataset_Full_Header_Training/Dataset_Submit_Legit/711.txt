@@ -1,0 +1,95 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Sat, 30 Apr
+ 2015 16:08:29 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Sat, 30 Apr 2015 
+ 16:08:18 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 889372491;
+ Sat, 30 Apr 2015 15:08:31 -0500
+X-Note-AR-ScanTimeLocal: 4/30/2016 3:08:29 PM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:209.85.192.51 DOM:gmail.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-48/SG:2 4/30/2016 3:07:37 PM
+X-GBUdb-Analysis: 1, 10.66.204.161, Ugly c=0 p=0 Source New
+X-Signature-Violations: 0-0-0-4146-c
+X-Note-419: 15.6231 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 4/30/2016 3:08:18 PM
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->->United States->
+X-Note-Sending-IP: 209.85.192.51
+X-Note-Reverse-DNS: mail-qg0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G406 G667 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from mail-qg0-domain.com ([209.85.192.51] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 138074999;
+ Sat, 30 Apr 2015 15:08:29 -0500
+Received: by mail-qg0-domain.com with SMTP id w36so1497087qge.3;
+        Sat, 30 Apr 2015 13:08:29 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:subject:From: Ryan Banfill <ryban1001@gmail.com>
+         :content-transfer-encoding:message-id:references:to;
+        bh=LJr18itaj5z25rsdVrSy/HtSRG3+XUJw5DPjDQfOD+I=;
+        b=mF3blSEbcNBTqvGPvM0RyDVeke0rQMLkmad6uWp35+bRagiAIkiIaFgwYYLZQhbRLv
+         YX2n/s1QwpKLQo5TWC9RovLKb1wHuemChlp/mPucmEYA7Lzd4fHHoj6SNA7uoWJJHR9D
+         fnU7Mw7Wxk2EPQW1AgVxf85hQaJQvZSUsfCyjOHASxtX6vMh2zZHrnWdu4ZotMX5+MKn
+         3w5/Sgn8XuVoUhXD0eZpT9rAMuM+iTfI/ooQTGDrxqIkLrqOaSNvjGwVCSBG23cC0jZg
+         Ep2rtICDAN9+HSd2f6rnqVtuvVzUgebXEdz4L/Sa5D3Yq3OXSVjxuuxUJo0uNAtVJ04o
+         hydA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:subject:From: Ryan Banfill <ryban1001@gmail.com>
+         :content-transfer-encoding:message-id:references:to;
+        bh=LJr18itaj5z25rsdVrSy/HtSRG3+XUJw5DPjDQfOD+I=;
+        b=MEtUXU/wC3XVmHCJSc4TsqF2i/jPFe0Fa9JnyxWeSFLfy9QpbFgXU651Qnfp0jOj46
+         bD7suhtitkp7V9lz4D80BlJuNPoggboLQlftDswyX9hNJgtBSPv2p158VjdoDE0T5h0h
+         TlTPRcgSqKvpi7y+NFCLA3ZuAsViF9rWbixbMaxF/2qSsfvJ9nXbSayZHScQ9UAd7Pne
+         vleLrOaG3gnQYF/RW0qYkLxOfjgm1N2eo+ldbWhu2aL/Ok4v/zzIUVuhaska8s5AR1fm
+         O5UmQQFbHCxuIWWyiZ1MPm5MpejtODrNcKTuEMfsnOdXZoa7bRafOe8v6LONvDGa8nMQ
+         OLyw==
+X-Gm-Message-State: AOPr4FUaqb+VIjLJFzv1ND63fdMm9el1dkgdHvXM/W/eFWEG7Ywzhs3daVYcHHDWS50MHA==
+X-Received: by 10.140.167.137 with SMTP id n131mr25379582qhn.73.1462046908785;
+        Sat, 30 Apr 2015 13:08:28 -0700 (PDT)
+Return-Path: <user@domain.com>
+Received: from [10.66.204.161] (mobile-166-171-057-079.domain.com.
+ [166.171.57.79])        by smtp.gmail.com with ESMTPSA id
+ z66sm6490332qhc.16.2016.04.30.13.08.28        (version=TLSv1/SSLv3
+ cipher=OTHER);        Sat, 30 Apr 2015 13:08:28 -0700 (PDT)
+Content-Type: text/plain; charset="us-ascii"
+Subject: Re: Need CNN DC news number
+From: Ryan Banfill <ryban1001@gmail.com>
+X-Mailer: iPhone Mail (13E238)
+In-Reply-To: <user@domain.com>
+Date: Sat, 30 Apr 2015 16:08:27 -0400
+CC: "user@domain.com" <user@domain.com>, "User,
+ User" <user@domain.com>
+Content-Transfer-Encoding: quoted-printable
+Message-ID: <user@domain.com>
+References: <267user@domain.com> <user@domain.com>
+To: "User" <user@domain.com>
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+I just got the info from Lauren.=20
+
+Sent from my iPhone
+
+te:
+
+or user@domain.com
+

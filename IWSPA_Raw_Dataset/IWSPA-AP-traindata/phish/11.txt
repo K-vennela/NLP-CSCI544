@@ -1,0 +1,8 @@
+This is a payment confirmation e-mail for the ticket you ordered on Delta.com website.
+Your credit card has been charged.
+You can download and print your ticket from our website :
+<<link>> 788&flight=WA772441
+For more information regarding your order, contact our technical support by visiting :
+<<link>> a.com/content/www/en_US/support.html
+Thank you for flying with Delta Airlines
+©2017 Delta Air Lines, Inc.

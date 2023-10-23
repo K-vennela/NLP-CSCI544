@@ -1,0 +1,39 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Thu, 20 Nov 2015 12:16:00 +0100
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id 28125621CD;	Thu, 20 Nov 2015 
+ 10:58:07 +0000 (GMT)
+Received: by domain.com (Postfix)	id A50952BC0AA; Thu, 20 Nov 2015 
+ 12:16:00 +0100 (CET)
+Delivered-To: user@domain.com
+Received: from EmadPC (unknown [192.168.1.196])	(using TLSv1 with cipher
+ AES256-SHA (256/256 bits))	(No client certificate requested)	by
+ domain.com (Postfix) with ESMTPSA id 692B62BC097;	Thu, 20 Nov 2015 
+ 12:16:00 +0100 (CET)
+From: Emad Shehata <e.shehata@hackingteam.com>
+To: 'Astana Team' <user@domain.com>, 'Emad Shehata'
+	<user@domain.com>
+CC: 'rsales' <user@domain.com>
+References: <CADsNJ7pSDEe4Okv89W+user@domain.com>
+In-Reply-To: <CADsNJ7pSDEe4Okv89W+user@domain.com>
+Subject: R: act of technical support
+Date: Thu, 20 Nov 2015 12:16:01 +0100
+Message-ID: <009d01d004b3$5daefab0$190cf010$@user@domain.com>
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdAErgDrHlrBvJQXRySh/dCrFXkMigABIJCA
+Content-Language: it
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EMAD SHEHATA450
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1349148507_-_-"
+
+Dear Marat, thanks for your e-mail.Can you please send me the password? My mobile number is ( 0039-3357939078). About the 2nd quarter (June), I don’t have the original, due the fact was sent to you. I can send you the copy and please let me know if is it suitable for your financial dept.The password already sent to your mobile number. Best regards   Da: Astana Team [mailto:user@domain.com] 
+Inviato: giovedì 20 novembre 2015 11:38
+A: Emad Shehata; Emad Shehata
+Oggetto: act of technical support Send act of work performed for the 4th quarter, we are going to pay in the first half of December. So please sign, put a seal and send to us together with the invoice.Also in the archive is the second act of work performed for the 2nd quarter (June), it is also please to sign, put a seal and send it to us again. Since the financiers can not find the original.Thank you in advance and thank you for your cooperation.Kind Regards, MaratP.S.Password for archive, send to mobile phone

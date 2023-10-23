@@ -1,0 +1,121 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.4.9])
+	by domain.com (Postfix) with ESMTP id 94E0A468ED
+	for <user@domain.com>; Fri, 27 Apr 2015 05:23:32 -0400 (EDT)
+Received: from domain.com (domain.com [192.168.6.4])
+	by domain.com (Postfix) with ESMTP id 882B7131F895
+	for <user@domain.com>; Fri, 27 Apr 2015 05:23:32 -0400 (EDT)
+Received: from domain.com (domain.com [62.149.36.26])
+	by domain.com (Postfix) with ESMTP id 476E76FA1A8
+	for <user@domain.com>; Fri, 27 Apr 2015 05:23:32 -0400 (EDT)
+Received: from [69.41.170.157] (helo=User)
+	by domain.com with esmtpa (Exim 4.63)
+	(envelope-from <user@domain.com>)
+	id 1HhMaG-0003Qu-DI; Fri, 27 Apr 2015 10:17:44 +0100
+Reply-To: <user@domain.com>
+From: "eBay Inc."<member@eBay.com>
+Subject: FPA NOTICE: eBay Registration Suspension - User Agreement - Abusing eBay 
+Date: Fri, 27 Apr 2015 04:16:06 -0500
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - domain.com
+X-AntiAbuse: Original Domain - domain.com
+X-AntiAbuse: Originator/Caller UID/GID - [0 0] / [47 12]
+X-AntiAbuse: Sender Address Domain - eBay.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+Message-Id: <20070427092332.476user@domain.com>
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1177
+
+eBay sent this message to your registered email 
+      address.
+Your registered name is included to show this message 
+      originated from eBay. Learn more. 
+
+FPA NOTICE: eBay Registration Suspension - 
+      User Agreement - Abusing eBay 
+
+Dear eBay Community Member, 
+
+
+
+We regret to inform you that your eBay account 
+                        has been suspended due to concerns we have for the 
+                        safety and integrity of the eBay community. 
+
+
+
+"Abusing eBay" 
+                        of the eBay User Agreement states, in part: 
+
+
+
+"...we may domain.com, suspend, or terminate our 
+                        service and user accounts, domain.com access to our 
+                        website, remove hosted content, and take technical and 
+                        legal steps to keep users off the Site if we think that 
+                        they are creating problems, possible legal liabilities, 
+                        or acting inconsistently with the letter or domain.com of 
+                        our policies." 
+
+Due to the suspension of this 
+                        account, please be advised you are prohibited from using 
+                        eBay in 
+                        any way. This includes the registering of a new account. 
+                        To confirm that you are the righfull owner of the 
+                        account please confirm your identity by signing in and 
+                        resolving this dispute at:
+
+<<link>>#1562
+
+Please note that any seller fees due to eBay 
+                        will immediately become due and payable. eBay 
+                        will charge any amounts you have not previously disputed 
+                        to the billing method currently on file. Confirm your 
+                        identity at the following link we provided signing in 
+                        and resolving this dispute: 
+
+Regards, 
+
+
+
+Safeharbor Department 
+eBay, 
+                        Inc. 
+
+Learn how 
+                  you can protect yourself from spoof (fake) emails at: 
+<<link>>
+
+This 
+                  administrative email was sent to you from eBay. Your 
+                  account is registered on domain.com. As outlined in 
+                  our User Agreement, eBay will 
+                  periodically send you information about site changes and 
+                  enhancements. If you would like to receive this email in text 
+                  format, change your notification preferences. 
+
+
+
+See our Privacy Policy and User Agreement if you have 
+                  questions about eBay's 
+                  communication policies. 
+Privacy Policy: <<link>>
+User 
+                  Agreement: <<link>> 
+
+

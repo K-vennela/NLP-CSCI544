@@ -1,0 +1,51 @@
+Hi David,
+thanks for the detailed response. I'll try to be brief.
+On the orbital forcing you write:
+The point here is that climate can be forced by other factors than simply a global,
+annual average radiation change, which is the metric now being used.
+I think we all agree on this point. My concern is only about how to present it in the
+section. I think that giving a climate sensitivity wrt. global mean orbital forcing is
+confusing to the uninitiated, e.g. your statement in the section:
+This high climate sensitivity (2C/ Wm^-2) is occurring in an atmospheric model
+(ECHAM-1) whose sensitivity to doubled CO[2] is about 0.6C/Wm^-2.
+I really think we should not give a number like 2C/ Wm^-2 as "climate sensitivity" to
+global-mean orbital forcing and contrast it to that to doubled CO2. It gives out the
+message to people that climate sensitivity is all over the place and ill defined. That's
+not the case. Climate sensitivity is a well-defined concept for a globally uniform forcing
+like CO2 forcing, but nobody expects any clear relation between the global mean part of
+orbital forcing and the climate response.
+On uncoupled models:
+I agree that for 2xCO2 runs, you will get very similar climate sensitivity with uncoupled
+and coupled models, because there is no large change in ocean heat transport between
+equilibrium 1x and 2x CO2 states (as confirmed by doing this in coupled models). The mixed
+layer boundary condition used in the uncoupled models simply assumes a fixed, prescribed
+ocean heat transport, which turns out to be a valid approximation in this case.
+My concern was and is specific to the discussion for LGM climate, where this is not a valid
+approximation, as we know both from proxy data and from model results that ocean
+circulation and heat transport was very likely quite different in the LGM compared to
+today. In our Nature 98 LGM simulation, we get 50% difference in the response of the
+Northern Hemisphere mean temperature, between the uncoupled "mixed layer" experiment and
+the one that includes the ocean model. 50% is a first-order difference, and hence I think
+that all the evidence we have today, points to the "constant heat transport" approximation
+breaking down when applied to the LGM. The IPCC report should not draw conclusions about
+climate sensitivity from LGM experiments that have made this approximation, as I think
+those would be hard to defend. I must say I'm starting to get a little concerned about the
+chapter discussing 1980s papers for no other apparent reason then them being authored by
+Rind, while leaving out important more recent, widely recognised advances in the field.
+I attach the Schneider et al. paper I announced earlier, submitted to Science today and
+arguable the most comprehense study on deriving climate sensitivity from LGM data
+constraints that has been done so far.
+On the directionality of the cimate sensitivity:
+of course I understand the reasons, the ice feedback and water vapor feedback etc., I've
+written about those myself in the past - again this is only a difference in how best to
+present the same, undisputed facts. You make the argument that when going to a colder
+climate, sensitivity is different from when going to a warmer climate. That is undisputed.
+But that in my view has nothing to do with the "direction" of the experiment, but with the
+fact that sensitivity in a colder climate is different from sensitivity in a warmer
+climate. I explained with the ppm example because I thought that's simple. A
+"directionality" would be, if going from 280 to 300 ppm would give a different equilibrium
+response compared to going from 300 to 280. But that's not what you're talking about. Your
+talking about going from 280 to 260 (say), as compared to going from 280 to 300. That of
+course gives different results, because the difference 280-260 applies to a colder climate
+than the difference 300-280 (no matter in which "direction" you derive this).
+Stefan

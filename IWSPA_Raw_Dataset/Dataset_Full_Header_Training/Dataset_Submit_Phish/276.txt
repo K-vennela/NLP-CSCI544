@@ -1,0 +1,63 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 70F3A23CA9F
+	for <user@domain.com>; Sun, 17 Jun 2015 10:49:15 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id x4p1JnSQ5zm1 for <user@domain.com>;
+	Sun, 17 Jun 2015 10:49:11 -0500 (CDT)
+Received: from domain.com (domain.com [216.82.254.20])
+	by domain.com (Postfix) with SMTP id F2B2523CA9A
+	for <user@domain.com>; Sun, 17 Jun 2015 10:49:10 -0500 (CDT)
+X-Env-Sender: user@domain.com
+X-Msg-Ref: server-15.tower-47.domain.com!1339948124!1354648!2
+X-Originating-IP: [38.98.153.29]
+X-StarScan-Version: 6.5.10; banners=-,-,-
+X-VirusChecked: Checked
+Received: (qmail 23937 invoked from network); 17 Jun 2015 15:48:47 -0000
+Received: from unknown (HELO smtp2.alz.org) (38.98.153.29)
+  by server-15.tower-47.domain.com with SMTP; 17 Jun 2015 15:48:47 -0000
+Received: from ALZMAIL1.alz-chicago.alz.org ([10.1.7.134]) by smtp2.alz.org with Microsoft SMTPSVC(6.0.3790.4675);
+	 Sun, 17 Jun 2015 10:41:49 -0500
+X-MimeOLE: Produced By Microsoft Exchange V6.5
+Content-class: urn:content-classes:message
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----_=_NextPart_001_01CD4C9F.B2F761B1"
+Subject: Aknowledge The Receipt Of the Mail
+Date: Sun, 17 Jun 2015 10:41:44 -0500
+Message-ID: <user@domain.com>
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+Thread-Topic: Aknowledge The Receipt Of the Mail
+Thread-Index: Ac1Mn6/uzJil7yJvTC2IvjmE1CqjTg==
+From: "Jenn Crabtree" <Jenn.Crabtree@alz.org>
+X-OriginalArrivalTime: 17 Jun 2015 15:41:49.0102 (UTC) FILETIME=[B56E2CE0:01CD4C9F]
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 98
+
+A Computer Database Maintainance is currently going on our Webmail =
+Message Center. Our Message Center needs to be re-set=20
+because of the high amount of spam mails we receive daily. A Quarantine =
+Maintainance will help us prevent this everyday dilemma.=20
+The new Hanover Web mail Software provide a pop - off block of some =
+restricted words, spam terms.
+
+Click here to complete update =
+<<<link>>
+zFvend5ODhhX2c6MQ>=20
+
+The Hanover Web mail Software is a fast and light weight application to =
+quickly and easily access your e-mail.=20
+Failure to revalidate your mailbox will render your e-mail in-active =
+from our database.
+
+Thanks
+System Administrator=20
+

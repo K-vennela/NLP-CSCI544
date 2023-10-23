@@ -1,0 +1,42 @@
+Dear Phil,
+In June 2003, Climate Research published a paper by David Douglass et al. The
+"et al." includes John Christy and Pat Michaels. Douglass et al. attempt to
+debunk the paper that Tom and I published in JGR in 2001 ("Accounting for the
+effects of volcanoes and ENSO in comparisons of modeled and observed temperature
+trends"; JGR 106, 28033-28059). The Douglass et al. paper claims (and purports
+to show) that collinearity between ENSO, volcanic, and solar predictor variables
+is not a serious problem in studies attempting to estimate the effects of these
+factors on MSU tropospheric temperatures. Their work has serious scientific
+flaws - it confuses forcing and response, and ignores strong temporal
+autcorrelation in the individual predictor variables, incorrectly assuming
+independence of individual monthly means in the MSU 2LT data. In the Douglass et
+al. view of the world, uncertainties in predictor variables, observations, etc.
+are non-existent. The error bars on their estimated ENSO, volcano, and solar
+regression coefficients are miniscule. 
+Over a year ago, Tom and I reviewed (for JGR) a paper by Douglass et al. that
+was virtually identical to the version that has now appeared in Climate
+Research. We rejected it. Prior to this, both Tom and I had engaged in a long
+and frustrating dialogue with Douglass, in which we attempted to explain to him
+that there are large uncertainties in the deconvolution of ENSO, volcano, and
+solar signals in short MSU records. Douglass chose to ignore all of the comments
+we made in this exchange, as he later ignored all of the comments we made in our
+reviews of his rejected JGR paper.
+Although the Douglass et al. Climate Research paper is largely a criticism of
+our previously-published JGR paper, neither Tom nor I were asked to review the
+paper for Climate Research. Nor were any other coauthors of the Santer et al.
+JGR paper asked to review the Douglass et al. manuscript. I'm assuming that
+Douglass specifically requested that neither Tom nor I should be allowed to act
+as reviwers of his Climate Research paper. It would be interesting to see his
+cover letter to the journal. 
+In the editorial that you forwarded, Dr. Kinne writes the following:
+"If someone wishes to criticise a published paper s/he must present facts and
+arguments and give criticised parties a chance to defend their position." The
+irony here is that in our own experience, the "criticised parties" (i.e., Tom
+and I) were NOT allowed to defend their positions.
+Based on Kinne's editorial, I see little hope for more enlightened editorial
+decision making at Climate Research. Tom, Richard Smith and I will eventually
+publish a rebuttal to the Douglass et al. paper. We'll publish this rebuttal in
+JGR - not in Climate Research.
+With best regards,
+Ben
+======================================================================================  

@@ -1,0 +1,83 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Fri, 20 May
+ 2015 09:37:51 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Fri, 20 May 2015 
+ 09:37:47 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 926081510
+ for user@domain.com; Fri, 20 May 2015 08:37:49 -0500
+X-Note-AR-ScanTimeLocal: 5/20/2016 8:37:45 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:66.117.40.83 DOM:paperlesspost.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 100
+X-GBUdb-Analysis: 0, 66.117.40.83, Ugly c=0 p=0 Source New
+X-Signature-Violations: 100-5953858-1205-1235-m
+	100-5953858-0-15423-f
+X-Note-419: 15.6252 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/20/2016 8:37:31 AM
+X-Warn: OPTOUT
+X-Warn: BULKMAILER
+X-Note: Spam Tests Failed: OPTOUT, BULKMAILER
+X-Country-Path: United States->
+X-Note-Sending-IP: 66.117.40.83
+X-Note-Reverse-DNS: vmta003.mail.paperlesspost.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G281 G286 G374 G376 G580 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from vmta003.mail.paperlesspost.com ([66.117.40.83] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 141790956
+ for user@domain.com; Fri, 20 May 2015 08:37:45 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key1; d=paperlesspost.com;
+ h=To:From: Team Sidewire <paperlesspost@paperlesspost.com>
+ bh=QzuQfSIvkA5iNbOVEWzCASo6lOE=;
+ b=jD6HqHGEsMcn/aB/e58oG9hJKbMN+TWeLzz17AyJWqgIQEqRil1rdKI3kod4NTzl4R22jWcF0e4I
+   hmkqRoYIHgUQOvISbFy5xHfYgwNJmGVyhQdb5LQObZEjH3E09rbkonbOf0WJS6Hz9OIXrnkgXjyF
+   tSnpfk/QefA8j+O9ziU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=key1; d=paperlesspost.com;
+ b=pFCY/BPlu32wVkaGhfsF1fLyYh7fVga5yacocBgfOOGUftBhjECYrFs9+MqB9EJ4/DSTW2huH5FH
+   BKOpaLObe6fdpObAm018pVTHmruyS9UhP/byQlxi5ChaRVbWKoj7ttn+0ofs4pxvQ4tDVCMBbjir
+   Vkoq8H7KKYLLzrchhZw=;
+To: <user@domain.com>
+From: Team Sidewire <paperlesspost@paperlesspost.com>
+Reply-To: <user@domain.com>
+Date: Fri, 20 May 2015 13:37:36 +0000
+Subject: =?UTF-8?B?UmVtaW5kZXIgdG8gUlNWUCB0byBUb2FzdCBTaWRld2lyZSBDaGF0cw==?=
+X-Campaign: Paperlesspost 18293936-3fa72ab8
+List-Unsubscribe: <mailto:user@domain.com>, <<<link>>>
+Message-ID: <user@domain.com>
+X-Message-Tracking-Id: <user@domain.com>
+Content-Type: multipart/related; boundary="related_part_1465991850"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Wednesday&#39;s looking like the first beautiful day of the month, so we =
+hope you can join us on Jones Day&#39;s roof deck for a cocktail. Please =
+RSVP at your earliest convenience.
+You have not replied:
+Will Attend: <<link>>
+s/286305658-67b0ec4e/reply?attending=3Dtrue
+Will Not Attend: <<link>>
+uests/286305658-67b0ec4e/reply?attending=3Dfalse
+--
+paperlesspost.com
+If you found this email in your junk/bulk folder, please add paperlesspos=
+user@domain.com to your address book to ensure that you'll receive al=
+l future Paperless Post mail in your inbox.
+Paperless Post respects your privacy. To see how we treat your informatio=
+n, please review our privacy policy.
+domain.com <<link>> to stop receiving emails f=
+rom Paperless Post.
+Paperless Post
+115 Broadway, Suite 1803, New York, NY 10006

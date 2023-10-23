@@ -1,0 +1,19 @@
+Dear Tim,
+Thanks for your rapid replies and your help. This is all very useful.
+Well, lets see what this gives...
+There are some notable differences just between our relative comparisons of the different
+series which  must have something to do with the relative scaling and aligning of the
+series. The position of Crowley and Lowery, in particular, is quite inconsistent between
+our respective comparisons.  When we scale the various series to the full N. Hem
+instrumental annual mean  CRU record 1856-1980, we get a a very different relative ordering
+of the different series, as shown in the attached figure from my Science perspective piece
+from last year
+This should not, however,  influence the EOF decomposition if all series are zero-mean and
+standardized prior to the EOF analysis, but the scaling and alignment of the result, in the
+end, will be sensitive to all of these various issues.
+So, in short, lets see what we get, and then discuss any similarities/differences w/ your
+result, then make a decision as to what to show in the Eos piece. I'm sure we can come up
+w/ something we're all happy with...
+Please do send us your & Keith's preferred version of the MXD reconstruction--we'll collect
+the others from the individual sources (most we already have, I think)...,
+mike

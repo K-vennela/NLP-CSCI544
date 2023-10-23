@@ -1,0 +1,83 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 26 Apr
+ 2015 09:56:44 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 26 Apr 2015 
+ 09:56:40 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 880151686;
+ Tue, 26 Apr 2015 08:56:45 -0500
+X-Note-AR-ScanTimeLocal: 4/26/2016 8:56:43 AM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:67.231.148.137 DOM:perkinscoie.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-420/SG:5 4/26/2016 8:56:25 AM
+X-GBUdb-Analysis: 0, 67.231.148.137, Ugly c=0.624875 p=-0.911628 Source Normal
+X-Signature-Violations: 0-0-0-32767-c
+X-Note-419: 31.2565 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 4/26/2016 8:56:29 AM
+X-Warn: OPTOUT
+X-Note: Spam Tests Failed: OPTOUT
+X-Country-Path: PRIVATE->United States->LOCAL->United States->
+X-Note-Sending-IP: 67.231.148.137
+X-Note-Reverse-DNS: mx0a-0016domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G375 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from mx0a-0016domain.com ([67.231.148.137] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 134943369;
+ Tue, 26 Apr 2015 08:56:38 -0500
+Received: from pps.filterd (domain.com [127.0.0.1])	by
+ mx0a-0016domain.com (8.16.0.11/8.16.0.11) with SMTP id u3QDsuLn025042;
+	Tue, 26 Apr 2015 06:56:35 -0700
+Received: from dc2sppmail23a.perkinscoie.root.loc ([66.77.102.70])	by
+ mx0a-0016domain.com with ESMTP id 22g6psyegk-1	(version=TLSv1
+ cipher=ECDHE-RSA-AES256-SHA bits=256 verify=FAIL);	Tue, 26 Apr 2015 06:56:34
+ -0700
+Received: from DC2SPPMAIL24A.perkinscoie.root.loc ([10.170.0.24]) by
+ DC2SPPMAIL23A.perkinscoie.root.loc ([fe80::7509:aa8c:1739:c2b5%27]) with mapi
+ id 14.03.0266.001; Tue, 26 Apr 2015 08:56:34 -0500
+From: "Elias, Marc  (Perkins Coie)" <MElias@perkinscoie.com>
+To: Donna Brazile <user@domain.com>
+CC: Pratt Wiley <user@domain.com>, "User" <user@domain.com>,
+	"Jefferson, Deshundra" <user@domain.com>, "Paustenbach, Mark"
+	<user@domain.com>, "Dacey, Amy" <user@domain.com>
+Subject: =?Windows-1252?Q?Re:_Court_Declines_to_Overturn_North_Carolina=92s_Monste?=
+ =?Windows-1252?Q?r_Voter_Suppression_Law:_Groups_to_Appeal_Decision?=
+Thread-Topic: =?Windows-1252?Q?Court_Declines_to_Overturn_North_Carolina=92s_Monster_Vo?=
+ =?Windows-1252?Q?ter_Suppression_Law:_Groups_to_Appeal_Decision?=
+Thread-Index: AQHRn1+phAGETFVcgkKGafevvS4D6p+bgeWPgAAAyV+AAAGd/4AAAVlYgAAHYI6AAI9zMIAABeFGgAAlyuE=
+Date: Tue, 26 Apr 2015 13:56:33 +0000
+Message-ID: <user@domain.com>
+References: <412500030.793803.1461636136849.user@domain.com>,<7user@domain.com>,<082user@domain.com>,<07user@domain.com>,<user@domain.com>
+ <user@domain.com>,<user@domain.com>,<99user@domain.com>
+In-Reply-To: <99user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+Content-Type: multipart/alternative;
+	boundary="_000_E065FCFF33FA4120868C4F04866991CCperkinscoiecom_"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Notices of appeal are being filed today.
+
+Sent from my iPhone
+
+On Apr 26, 2016, at 7:41 AM, Donna Brazile <user@domain.com<mai=

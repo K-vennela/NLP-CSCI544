@@ -1,0 +1,22 @@
+ornell University
+===================
+Dear User ("your real netid will go here"@cornell.edu),
+We detected irregular action on your e-mail system on September 10, 2010.
+As the Primary owner, you must verify your account activity before you
+can continue using your account, and upon verification, we will remove any
+restrictions placed on your account.
+click on the link below:
+hxxps://web1.login.cornell.edu/?SID=56DB2CF7C2FCFA6C&WAK0Service
+====================================================================
+You can also forward your mail from any other e-mail accounts such as
+Yahoo, Hotmail, etc. to your Webmail account so that your contacts won't
+have to memorize a new e-mail address and you can access all of your mail
+in one place.  You can find forwarding instructions for your other e-mail
+accounts in their online documentation.
+Webmail service has reserved a system maintenance window of Saturdays from 4:00 a.m.
+to 8:00 a.m. that will be used only if Webmail service needs to perform any work that
+will take the system off-line. Otherwise, the e-mail system will
+be available around the clock.
+Thank You,
+Webmail Service
+Cornell University

@@ -1,0 +1,31 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Thu, 2 Oct 2015 10:24:00 +0200
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id 5CAA6628D1	for
+ <user@domain.com>; Thu,  2 Oct 2015 09:07:53 +0100 (BST)
+Received: by domain.com (Postfix)	id DD284BE2024; Thu,  2 Oct 2015 
+ 10:24:00 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from domain.com (confluence.hackingteam.com
+ [192.168.200.205])	by domain.com (Postfix) with ESMTP id CEF402BC152
+	for <user@domain.com>; Thu,  2 Oct 2015 10:24:00 +0200 (CEST)
+Date: Thu, 2 Oct 2015 10:24:00 +0200
+From: =?UTF-8?Q?Sergio_Rodriguez-Sol=C3=ADs_y_Guerrero_=28Confluence=29?=
+	<user@domain.com>
+To: <user@domain.com>
+Message-ID: <975574372.4271.1412238240833.JavaMail.CONFLUENCE$@confluence>
+Subject: =?UTF-8?Q?[confluence]_Sergio_Rodriguez-Sol=C3=ADs_y_Guerrero_?=
+ =?UTF-8?Q?updated_a_event_in_the_"01._PRE-SALES"_calendar?=
+Precedence: bulk
+Auto-Submitted: auto-generated
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2135562172_-_-"
+
+  Sergio Rodriguez-Solís y Guerrero updated a event in the 01. PRE-SALES calendar Sep 23, 2014 6:00 AM Until Sep 23, 2014 8:00 AM   Demo Durango     Start watching this calendar  Sent by Atlassian Confluence 5.4.4, the Enterprise Wiki 

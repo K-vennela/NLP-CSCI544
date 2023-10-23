@@ -1,0 +1,52 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.4.9])
+	by domain.com (Postfix) with ESMTP id B6D2A4691C
+	for <user@domain.com>; Sun, 17 Jun 2015 07:11:52 -0400 (EDT)
+Received: from domain.com (domain.com [192.168.6.4])
+	by domain.com (Postfix) with ESMTP id B2DD4131FB9A
+	for <user@domain.com>; Sun, 17 Jun 2015 07:11:52 -0400 (EDT)
+Received: from blogrevo (domain.com [202.142.212.8])
+	by domain.com (Postfix) with ESMTP id 22FE06FA1C4
+	for <user@domain.com>; Sun, 17 Jun 2015 07:11:52 -0400 (EDT)
+Received: by blogrevo (Postfix, from userid 0)
+	id 2B7841717382; Sun, 17 Jun 2015 16:50:12 +0700 (ICT)
+To: user@domain.com
+Subject: Your Wells Fargo account information needs to be updated
+From: Wells Fargo <alertig@email-wellsfargo.com>
+Content-Type: text/html
+Message-Id: <20070617102401.2user@domain.com>
+Date: Sun, 17 Jun 2015 16:50:12 +0700 (ICT)
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1407
+
+Dear
+valued Wells Fargo member:
+Due to concerns, for the
+safety and integrity of the Wells Fargo
+
+account we have issued this warning message.
+It has come to our attention that your
+Wells Fargo account information needs to be
+
+updated as part of our continuing commitment to protect your account and 
+to
+
+reduce the instance of fraud on our website. If you could please take
+5-10 minutes
+
+out of your online experience and update your personal records you will
+not run into
+
+any future problems with the online service.
+Once you have updated your account
+records your wells Fargo account
+
+service will not be interrupted and will continue as normal.
+To update your Wells Fargo records click
+on the following link:
+
+<<link>>

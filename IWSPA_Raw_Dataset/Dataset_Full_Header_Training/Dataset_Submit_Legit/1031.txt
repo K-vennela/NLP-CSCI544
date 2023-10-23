@@ -1,0 +1,108 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Thu, 12 May
+ 2015 09:09:10 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Thu, 12 May 2015 
+ 09:09:07 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 911028105
+ for user@domain.com; Thu, 12 May 2015 08:09:15 -0500
+X-Note-AR-ScanTimeLocal: 5/12/2016 8:09:13 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:40.107.72.66 DOM:blueenginemedia.com ADDR:user@domain.com
+X-Note: SPF: PermError
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-505/SG:5 5/12/2016 8:08:50 AM
+X-GBUdb-Analysis: 0, 40.107.72.66, Ugly c=0 p=0 Source New
+X-Signature-Violations: 0-0-0-24798-c
+X-Note-419: 46.8745 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/12/2016 8:09:11 AM
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->->United States->
+X-Note-Sending-IP: 40.107.72.66
+X-Note-Reverse-DNS: mail-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from [40.107.72.66] (HELO
+ na01-bl2-domain.com)  by domain.com
+ (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 138452404 for user@domain.com;
+ Thu, 12 May 2015 08:09:11 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=domain.com; s=selector1-blueenginemedia-com;
+ h=From: Erik Smith <erik@blueenginemedia.com>
+ bh=EpNmMnorfxlzhXcuIFkTut64kF+2vLv5xGxM++bxGOU=;
+ b=RjpFHsObnn/JwUOXNFtTrUv6DICA934A5qb5MK45ZPYpNG1GI6m6vKnCk8oEvatrVIMJxfpOekvzPzIDt3DdZYMdIgp13poq5S5AWI6iWY4Zm1I/hxtrl+RUzgLiHLfEjw9LjjZCwkjSFsuW4524Z8q9s/IMf5yHkI7OJTqlyg8=
+Received: from domain.com (10.162.218.25) by
+ domain.com (10.160.204.151) with Microsoft
+ SMTP Server (TLS) id 15.1.497.3; Thu, 12 May 2015 13:09:04 +0000
+Received: from domain.com ([10.162.218.25]) by
+ domain.com ([10.162.218.25]) with mapi id
+ 15.01.0497.013; Thu, 12 May 2015 13:09:03 +0000
+From: Erik Smith <erik@blueenginemedia.com>
+To: "User" <user@domain.com>
+CC: "User" <user@domain.com>, Jessica Borchert
+	<user@domain.com>
+Subject: RE: Connecting you...
+Thread-Topic: Connecting you...
+Thread-Index: AdGf+spC/mMAFIh5Sm+H9uk2wppG+gACEuGwAACTdJkBaN5wgwAU7QH/AXvRds4AGN1oEA==
+Date: Thu, 12 May 2015 13:09:03 +0000
+Message-ID: <user@domain.com>
+References: <05user@domain.com>,<user@domain.com>,<user@domain.com>,<9user@domain.com>,<user@domain.com>
+ <user@domain.com>
+In-Reply-To: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+authentication-results: FOXNEWS.COM; dkim=none (message not signed)
+ header.d=none;FOXNEWS.COM; dmarc=none action=none
+ header.from=blueenginemedia.com;
+x-originating-ip: [38.104.236.238]
+x-ms-office365-filtering-correlation-id: 0bf12cdc-c8c0-4ee2-2de0-08d37a669781
+x-microsoft-exchange-diagnostics: 1;BY1PR0801MB1110;5:WhxAcjElijRaWHL4sP6BcQbGYCS2bftqBohAWWFP3P4A2XSZdGvVsEigQIAm8KT4xjWdHUrZ7MxmXmvVXWJNdc63GBL0JkNURu96QH8i/M8il6j0QH3dRW93TM83sWss9c7Q0TMr3lbcb5nNA7G0qw==;24:nneRfWYsRlM9791ADvwa2BuROdd34Kt64wF3GNTL5KND4efn/hTZeBOlF5mBSAY27DSjY2eDdkbEJ7syq6BSU64B8t6zTtpjS8QFPBf55Vs=;7:sQzFVCQ7c162/xgstkB9Zo6A5O//udEVQ4S0n/hRn6reBd16CKwMY+BbhDcQKmEtYRD5y6tMiwZlbTyChZOFXWt9PjVbDnSDA5B2jHcnXwMSRV/YATcLw3SZH29NQ/4/guQvvXsu02PUFZUhQvfyUtLFfS6CqFFnD3dveEoS6R8aW0DcIRHNmbS8VHkgkOC3
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:;SRVR:BY1PR0801MB1110;
+x-microsoft-antispam-prvs: <user@domain.com>
+x-exchange-antispam-report-test: UriScan:;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(601004)(2401047)(8121501046)(5005006)(3002001)(10201501046);SRVR:BY1PR0801MB1110;BCL:0;PCL:0;RULEID:;SRVR:BY1PR0801MB1110;
+x-forefront-prvs: 0940A19703
+x-forefront-antispam-report: SFV:NSPM;SFS:(10009020)(24454002)(377454003)(76576001)(5002640100001)(76176999)(50986999)(54356999)(189998001)(5890100001)(74316001)(107886002)(16236675004)(110136002)(3660700001)(66066001)(81166006)(3280700002)(19580405001)(19580395003)(86362001)(9686002)(19609705001)(2906002)(8936002)(93886004)(4001430100002)(122556002)(99286002)(87936001)(561944003)(33656002)(92566002)(5004730100002)(5003600100002)(19617315012)(5008740100001)(1220700001)(2900100001)(2950100001)(77096005)(19625215002)(15975445007)(3846002)(102836003)(3480700004)(19300405004)(790700001)(586003)(6116002);DIR:OUT;SFP:1101;SCL:1;SRVR:BY1PR0801MB1110;H:domain.com;FPR:;SPF:None;MLV:sfv;LANG:en;
+spamdiagnosticoutput: 1:23
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_CY1PR08MB1803559C3266EAF0F93D6B33D4730CY1PR08MB1803namp_"
+X-MS-Exchange-CrossTenant-originalarrivaltime: 12 May 2015 13:09:03.3627
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 2138a939-c6be-49b9-a268-ded25fd39341
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BY1PR0801MB1110
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Bill, the guidance I've gotten is that it would be best for Fox to secure a=
+ Organizationsanction and then approach the other campaigns with that.  There is no=
+t a formal process, so I would recommend you send a letter to OrganizationChair for=
+mally outlining your proposal and suggesting a partnership.  User and I can=
+ help you navigate the process from there.
+
+From: Erik Smith <erik@blueenginemedia.com>
+Sent: Wednesday, May 11, 2015 9:16 PM
+To: Erik Smith
+Cc: User; Jessica Borchert
+Subject: Re: Connecting you...
+
+If Fox were to send letters of invitation to the two candidates for a final=
+ debate in California, can we say that the Organizationis amenable to Fox hosting i=
+t? Thank you.
+
+On May 4, 2016, at 8:00 AM, Erik Smith <user@domain.com<mailto:eri=

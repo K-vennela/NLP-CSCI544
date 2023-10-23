@@ -1,0 +1,19 @@
+<x-flowed>
+Hello Ben and Colleagues,
+I've been following these exchanges with interest.  One particular point 
+in your message below is a little puzzling to me.  That's the issue of 
+trying to avoid circularity in the culling of models for any given D&A 
+study. 
+Two potential problems occur to me.  One is that choosing models on the 
+basis of their fidelity to observed regional and short term variability 
+may not be completely orthogonal to choosing based on long-term trend.  
+That's because those smaller scale changes may contribute to the trends 
+and their patterns.  Second, choosing a different set of models for one 
+variable (temperature) than for another (humidity) seems highly 
+problematic.  If we are interested in projections of other variables, 
+e.g. storm tracks or cloud cover, for which D&A has not been done, which 
+group of models would we then deem to be most credible?  I don't have a 
+good alternative to propose, but, in light of these considerations, 
+maybe one-model-one-vote doesn't appear so unreasonable after all.
+With regards,
+Dian

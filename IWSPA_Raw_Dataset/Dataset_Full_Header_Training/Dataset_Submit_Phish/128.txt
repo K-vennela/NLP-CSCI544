@@ -1,0 +1,49 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 61E6D23CAD7
+	for <user@domain.com>; Tue,  3 Jul 2015 11:25:14 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id KjBw1rVgvZoE for <user@domain.com>;
+	Tue,  3 Jul 2015 11:25:12 -0500 (CDT)
+Received: from odin.bowvalleycollege.ca (odin.bowvalleycollege.ca [199.185.132.175])
+	by domain.com (Postfix) with ESMTP id 8C00023CAAD
+	for <user@domain.com>; Tue,  3 Jul 2015 11:25:12 -0500 (CDT)
+Received: from domain.com ([172.24.132.33]) by odin.bowvalleycollege.ca with Microsoft SMTPSVC(6.0.3790.4675);
+	 Tue, 3 Jul 2015 10:25:12 -0600
+X-PureMessage: [Scanned]
+X-PMWin-Version: 3.0.2.0, Antivirus-Engine: 3.32.0, Antivirus-Data: 4.78G
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.4913
+Content-Class: urn:content-classes:message
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----_=_NextPart_001_01CD5938.65FF17C9"
+Subject: Re-Validate Your Mailbox
+Date: Tue, 3 Jul 2015 10:25:02 -0600
+Message-ID: <7user@domain.com>
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+Thread-Topic: Re-Validate Your Mailbox
+thread-index: Ac1ZOGPOa1cD55m2TdG025ZP8vM5cg==
+From: "Teri McKinnon" <tmckinnon@bowvalleycollege.ca>
+To: <user@domain.com>
+X-OriginalArrivalTime: 03 Jul 2015 16:25:12.0166 (UTC) FILETIME=[6B963860:01CD5938]
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 106
+
+Your Mailbox Has Exceeded It Storage domain.com As Set By Your Administrator, =
+And You Will Not Be Able To Receive New Mails Until You Re-Validate It. =
+To Re-Validate - > Click Here: =
+<<<link>>
+ormkey=3DdGtjZ1hTSmpnSlVzU1JrZXhJZkJFdVE6MQ>=20
+Thanks,
+System Administrator.
+
+This message has been scanned by Sophos PureMessage for Microsoft =
+Exchange.
+For more information, connect to <<link>>

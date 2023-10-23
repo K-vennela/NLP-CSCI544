@@ -1,0 +1,77 @@
+Received: from domain.com (172.23.144.44) by
+ domain.com (43.130.141.76) with Microsoft SMTP Server id
+ 8.3.297.1; Thu, 12 Dec 2015 05:49:14 -0800
+Received: from domain.com ([43.130.141.76])          by
+ domain.com (Lotus Domino Release 6.5.6)          with ESMTP id
+ 2013121205491344-81222 ;          Thu, 12 Dec 2015 05:49:13 -0800 
+Received: from domain.com (146.215.230.105) by
+ domain.com (43.130.141.76) with Microsoft SMTP Server id
+ 8.3.297.1; Thu, 12 Dec 2015 05:49:13 -0800
+Received: from domain.com ([160.33.194.231])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id rBCDnBQW023257;	Thu, 12 Dec 2015 13:49:12 GMT
+Received: from mail99-co1-domain.com
+ (mail-domain.com [216.32.180.179])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id rBCDnAm2006728	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128
+ verify=FAIL);	Thu, 12 Dec 2015 13:49:11 GMT
+Received: from mail99-co1 (localhost [127.0.0.1])	by mail99-co1-domain.com
+ (Postfix) with ESMTP id 80195880CD8;	Thu, 12 Dec 2015 13:49:10 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:64.18.3.40;KIP:(null);UIP:(null);IPV:NLI;H:domain.com;RD:domain.com;EFVD:NLI
+X-SpamScore: -2
+X-BigFish: vps-2(zz98dI9371I1432Izz2148h208ch1ee6h1fdah2073h2146h1202h1e76h2189h1d2ah1fc6h1f8fizz1de098h8275bh1de097hz2dh109h2a8h839h8e3h944hd25he5bh1220h1288h12a5h12a9h12bdh137ah13b6h13eah1441h1504h1537h153bh162dh1631h1758h18e1h1946h19b5h1b0ah2222h224fh1d0ch1d2eh1d3fh1dfeh1dffh1e1dh1fe8h1ff5h2052h20b3h2216h22d0h2336h1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received: from mail99-co1 (localhost.localdomain [127.0.0.1]) by mail99-co1
+ (MessageSwitch) id 1386856147460385_23154; Thu, 12 Dec 2015 13:49:07 +0000
+ (UTC)
+Received: from domain.com (unknown [10.243.78.225])	by
+ mail99-domain.com (Postfix) with ESMTP id 629F344004A;	Thu, 12 Dec 2015 
+ 13:49:07 +0000 (UTC)
+Received: from domain.com (64.18.3.40) by
+ domain.com (10.243.66.34) with Microsoft SMTP Server (TLS) id
+ 14.16.227.3; Thu, 12 Dec 2015 13:49:07 +0000
+Received: from IDEX2010.mail.id-domain.com ([208.179.229.131]) (using TLSv1) by
+ domain.com ([64.18.7.12]) with SMTP	ID
+ DSNKUqm+0user@domain.com; Thu, 12 Dec 2015 05:49:07
+ PST
+Received: from IDEX2010.mail.id-domain.com ([::1]) by IDEX2010.mail.id-domain.com
+ ([::1]) with mapi id 14.03.0158.001; Thu, 12 Dec 2015 05:49:06 -0800
+From: Mara Buxbaum <MBuxbaum@id-pr.com>
+To: "User" <user@domain.com>
+CC: Grosses-AH <user@domain.com>, Grosses-Weekend
+	<user@domain.com>
+Subject: Re: A sweep !
+Thread-Topic: A sweep !
+Thread-Index: Ac73QMBQOSomD3buRYKszQKLJgRVaQAACw/9
+Date: Thu, 12 Dec 2015 13:49:06 +0000
+Message-ID: <4user@domain.com>
+References: <8user@domain.com>
+In-Reply-To: <8user@domain.com>
+Accept-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+Return-Path: user@domain.com
+X-MIMETrack: Itemize by SMTP Server on USCCiMTA02/SVR/SPE(Release 6.5.6|March 06, 2007) at
+ 12/12/2013 05:49:13 AM,
+	Serialize by Router on USCCiMTA02/SVR/SPE(Release 6.5.6|March 06, 2007) at
+ 12/12/2013 05:49:14 AM,
+	Serialize complete at 12/12/2013 05:49:14 AM
+Content-Language: en-US
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-406539735_-_-"
+
+Amazing! Congratulations....
+
+Mara Buxbaum
+
+ID
+
+7060 Hollywood Blvd. 8th Floor Los Angeles, CA 90028
+
+p: 323.822.4878 | f: 323.822.4880
+
+user@domain.com
+
+
+

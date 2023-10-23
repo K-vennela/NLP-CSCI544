@@ -1,0 +1,90 @@
+Received: from domain.com (146.215.230.105) by
+ domain.com (43.130.141.77) with Microsoft SMTP Server id
+ 8.3.342.0; Mon, 26 May 2015 13:34:53 -0700
+Received: from domain.com ([160.33.194.231])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s4QKYqsq031480;	Mon, 26 May 2015 20:34:52 GMT
+Received: from mail186-ch1-domain.com (mail-domain.com
+ [216.32.181.170])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s4QKaU2e014628
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL);	Mon, 26 May 2015 
+ 20:36:31 GMT
+Received: from mail186-ch1 (localhost [127.0.0.1])	by
+ mail186-ch1-domain.com (Postfix) with ESMTP id 12A5B300417;	Mon, 26 May
+ 2015 20:34:52 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:209.86.89.61;KIP:(null);UIP:(null);IPV:NLI;H:elasmtp-galgo.atl.sa.earthlink.net;RD:elasmtp-galgo.atl.sa.earthlink.net;EFVD:NLI
+X-SpamScore: 3
+X-BigFish: vps3(zz9371Ic857hzz1f42h2148h208ch1ee6h1de0h1ce5h1fdah201ch2073h2146h1202h1e76h2189h1d1ah1d2ah21bch1fc6h1082kz8dhz1dec0ah8275ch1d7338h1de098h1df219h17326ah8275bh8275dh18c673h1de097h186068hz2dh5eh109h839hd24he5bh11d4h1249h1288h12a5h12bdh137ah139eh13eah1441h1504h1537h162dh1631h1758h17f1h1898h18b6h18e1h1946h19b5h19ceh1b0ah1bceh1bfbh2222h224fh1d0ch1d2eh1d3fh1d61h1dfeh1dffh1e1dh1e23h1fe8h1ff5h20dbh20f0h2218h2216h226dh24afh2327h2336h2438h2461h2462h2487h24ach24d7h2516h2545h255eh25f6h2605h268bh26d3h27e2h28a1h2463i)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received: from mail186-ch1 (localhost.localdomain [127.0.0.1]) by mail186-ch1
+ (MessageSwitch) id 1401136489263297_14777; Mon, 26 May 2015 20:34:49 +0000
+ (UTC)
+Received: from domain.com (domain.com
+ [10.43.68.244])	by mail186-domain.com (Postfix) with ESMTP id
+ 31F21A0073;	Mon, 26 May 2015 20:34:49 +0000 (UTC)
+Received: from elasmtp-galgo.atl.sa.earthlink.net (209.86.89.61) by
+ domain.com (10.43.69.246) with Microsoft SMTP Server id
+ 14.16.227.3; Mon, 26 May 2015 20:34:48 +0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=dk20050327; d=earthlink.net;
+  b=edHrbWrIv6EBPNHhpWXtCEcJ6SY4YOkDv60tGzfsdM1hdUC/P+N87Ac1cSzANd2a;
+  h=Received:From: Michele Cook <travelnow01@earthlink.net>
+Received: from [72.244.204.153] (helo=MicheleCookPC)	by
+ elasmtp-galgo.atl.sa.earthlink.net with esmtpa (Exim 4.67)	(envelope-from
+ <user@domain.com>)	id 1Wp1ba-0006WX-66; Mon, 26 May 2015 16:34:46
+ -0400
+From: Michele Cook <travelnow01@earthlink.net>
+To: 'Anthony W' <user@domain.com>
+CC: "'Pascal, Amy'" <user@domain.com>, 'Bernie Weinraub'
+	<user@domain.com>, "'Golfo, Sabrina'" <user@domain.com>,
+	'Melissa Kelly' <user@domain.com>
+References: <006201cf791c$fd473060$f7d59120$@earthlink.net>	<user@domain.com>	<006e01cf791d$9da89f80$d8f9de80$@earthlink.net> <user@domain.com>
+In-Reply-To: <user@domain.com>
+Subject: RE: S.E. Asia Travel
+Date: Mon, 26 May 2015 13:34:42 -0700
+Message-ID: <007201cf7921$ee818120$cb848360$@earthlink.net>
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQF1K+V3En3a9nO6YzOGejipQRxCVgGtEAH1AqgdySsBeXugjJvZdr3Q
+Content-Language: en-us
+X-ELNK-Trace: c8bdac808cd3c107bba5908a4787d0969ef193a6bfc3dd488e540184374e70cd5bdf10bd83ad6cc0189477d7828d6397350badd9bab72f9c350badd9bab72f9c
+X-Originating-IP: 72.244.204.153
+Return-Path: user@domain.com
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+Ok team player = thanks
+
+M
+
+
+
+
+Michele Cook
+
+Account Manager
+
+Mansour Travel Company
+
+tel: 206-270-8881
+
+fax: 206-270-8883
+
+user@domain.com
+
+From: Michele Cook <travelnow01@earthlink.net>
+
+Sent: Monday, May 26, 2015 1:30 PM
+
+To: Michele Cook
+
+Cc: Pascal, Amy; Bernie Weinraub; Golfo, Sabrina; Melissa Kelly
+
+Subject: Re: S.E. Asia Travel
+
+
+
+
+I go back to school on the 2nd of September. I can look for mileage tickets later today.
+

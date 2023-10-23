@@ -1,0 +1,9 @@
+Dear user@domain.com,
+We acknowledge your email to lock down your account
+You are required to verify your password to continue sending and receiving messages
+<badlink>Verify to continue receiving messages<badlink>
+If this wasn't you, please follow the links below to keep your account safe
+<badlink>Activate second sign-in<badlink>
+Sincerely,
+The Email Account™
+© 2015. All Rights Reserved.

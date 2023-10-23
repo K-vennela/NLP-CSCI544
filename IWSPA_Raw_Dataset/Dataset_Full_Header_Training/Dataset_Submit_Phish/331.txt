@@ -1,0 +1,100 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.4.9])
+	by domain.com (Postfix) with ESMTP id 48713468CF
+	for <user@domain.com>; Sun, 20 May 2015 00:46:33 -0400 (EDT)
+X-Greylist: delayed 13280 seconds by postgrey-1.27 at domain.com; Sun, 20 May 2015 00:46:33 EDT
+Received: from domain.com.ch (aurelius.ch-domain.com [80.74.136.2])
+	by domain.com (Postfix) with ESMTP id 0EDBE131F93B
+	for <user@domain.com>; Sun, 20 May 2015 00:46:32 -0400 (EDT)
+Received: (qmail 13577 invoked from network); 20 May 2015 01:42:13 +0200
+Received: from unknown (HELO User) (210.96.34.253)
+  by aur80-74-136-47.ch-domain.com with SMTP; 20 May 2015 01:42:13 +0200
+Reply-To: <user@domain.com>
+From: "service@paypal.com"<service@paypal.com>
+Subject: Limited Account Access Appeal Denied
+Date: Sun, 20 May 2015 08:42:11 +0900
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20070520044633.0user@domain.com>
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1287
+
+Message:
+
+Dear Virginia domain.com Union Online Customer,
+
+We regret to inform you, that we had to lock your Virginia domain.com Union Online Access
+
+because we have reasons to believe that your account may have been compromised by outside
+
+parties. In order to protect your sensitive information, we temporaly suspended  your account.
+
+To reactivate your account, click on the link below and confirm your identity by completing the
+ secure form what will appear.
+
+<<link>>
+
+We have seen unusual attempts for logging in regarding your personal account, therefore this
+
+confirmation regarding your account its only for security reasons.
+
+From user@domain.com  Sun May 20 12:51:16 2015 
+Return-Path: 
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.4.9])
+	by domain.com (Postfix) with ESMTP id C7723468C5
+	for ; Sun, 20 May 2015 12:51:16 -0400 (EDT)
+X-Greylist: delayed 122393 seconds by postgrey-1.27 at domain.com; Sun, 20 May 2015 12:51:15 EDT
+Received: from 192.168.1.120 (unknown [222.133.11.150])
+	by domain.com (Postfix) with SMTP id 3E21E131FB1A
+	for ; Sun, 20 May 2015 12:51:14 -0400 (EDT)
+Received: from 83.87.72.98 by ; Sun, 20 May 2015 19:41:49 +0300
+Message-ID: 
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.4.9])
+	by domain.com (Postfix) with ESMTP id E2F10468BC
+	for ; Sun, 20 May 2015 13:57:45 -0400 (EDT)
+Received: from domain.com (domain.com [192.168.6.4])
+	by domain.com (Postfix) with ESMTP id 1061C131FB6E
+	for ; Sun, 20 May 2015 13:57:46 -0400 (EDT)
+Received: from host109.host109-domain.com (host109.host109-domain.com [66.49.203.215])
+	by domain.com (Postfix) with ESMTP id 167136FA1C1
+	for ; Sun, 20 May 2015 13:57:46 -0400 (EDT)
+Received: from User (UNUSED-66-33-235-201.domain.com [66.33.235.201])
+	(authenticated bits=0)
+	by host109.host109-domain.com (8.12.10/8.12.10) with ESMTP id l4KHhLd5021835;
+	Sun, 20 May 2015 13:43:22 -0400
+Message-Id: <200705201743.user@domain.com>
+Reply-To: 
+From: "service@paypal.com"<service@paypal.com>
+Subject: Notification from Billing Department
+Date: Sun, 20 May 2015 13:43:49 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 1290
+
+
+

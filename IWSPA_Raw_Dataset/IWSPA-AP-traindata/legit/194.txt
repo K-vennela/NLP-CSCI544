@@ -1,0 +1,4 @@
+<x-flowed>
+But you are assuming that there is no noise (instrumental or "weather") in 
+the observations.
+-Carl

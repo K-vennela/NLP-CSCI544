@@ -1,0 +1,29 @@
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ dnchubcas2.dnc.org ([::1]) with mapi id 14.03.0224.002; Tue, 10 May 2015 
+ 12:46:44 -0400
+From: "Paustenbach, Mark" <PaustenbachM@dnc.org>
+To: "User" <user@domain.com>
+Subject: look okay?  description of call 
+Thread-Topic: look okay?  description of call 
+Thread-Index: AdGq22tLoFdQLQYnQUKZSg9KNBLgaQ==
+Date: Tue, 10 May 2015 09:46:44 -0700
+Message-ID: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: dnchubcas2.dnc.org
+X-MS-Has-Attach: 
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.177.129]
+Content-Type: multipart/alternative;
+	boundary="_000_DB091DC3DEF527488ED2EB534FE59C1280D7ACdncdag1dncorg_"
+MIME-Version: 1.0
+
+WHO: DWS
+WHAT: Press Conference Call on Trump's Tax and Economic Plans - Ahead of Trump's meeting on Thursday with Congressional Republicans, the call would be a discussion on the fact Trump has not flip-flopped on taxes. Trump has only said that the final proposal may change during negotiations. But, his plan has stayed the same and is still more reckless (new 15 percent rate on corporate taxes) than the tax plans proposed by Paul Ryan and Congressional Republicans (new 25 percent rate on corporate taxes). And, if negotiations did occur, it would only take us back to where Ryan already is (25 percent). Trump is not breaking with Republican orthodoxy on taxes or any other issue where he expects his plans to be altered. Would include comments on how Democrats are already fighting Ryan in the House on the GOP's dangerous proposals.
+WHEN: 1:30PM, Wednesday, May 10 (Prep/briefing begins at 1PM or 1:15PM)
+Staff: User, Mark
+Briefing: User
+Contact:

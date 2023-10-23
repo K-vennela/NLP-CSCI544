@@ -1,0 +1,134 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [10.5.6.7])
+	by domain.com (Postfix) with ESMTP id CBFEA46A19
+	for <user@domain.com>; Sun,  2 Jul 2015 07:56:02 -0400 (EDT)
+Received: from intn.co.kr (unknown [221.139.3.148])
+	by domain.com (Postfix) with ESMTP id 91A146CD01B
+	for <user@domain.com>; Sun,  2 Jul 2015 07:56:02 -0400 (EDT)
+Received: from User ([211.197.11.231])
+	(authenticated bits=0)
+	by intn.co.kr (8.13.1/8.13.1) with ESMTP id k62BopgI028932;
+	Sun, 2 Jul 2015 20:50:55 +0900
+Message-Id: <200607021150.user@domain.com>
+Reply-To: <user@domain.com>
+From: "aw-confirm@ebay.com"<aw-confirm@ebay.com>
+Subject: eBay New Unpaid Item Message from kobogear_mobiles: #110002195739 
+Date: Sun, 2 Jul 2015 14:50:02 +0300
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+To: undisclosed-recipients:;
+Status: 
+X-Status: 
+X-Keywords: 
+
+.AOLPlainTextBody {
+	margin: 0px;
+	font-family: Tahoma, Verdana, Arial, Sans-Serif;
+	font-size: 12px; 
+	color: #000; 
+	background-color: #fff; 
+}
+
+.AOLPlainTextBody pre {
+	font-size: 9pt;
+}
+
+.AOLInlineAttachment {
+	margin: 10px;
+}
+
+.AOLAttachmentHeader {
+	border-bottom: 2px solid #E9EAEB;
+	background: #F9F9F9;
+}
+
+.AOLAttachmentHeader .Title {
+	font: 11px Tahoma;
+	font-weight: bold;
+	color: #666666;
+	background: #E9EAEB; 
+	padding: 3px 0px 1px 10px;
+}
+
+.AOLAttachmentHeader .FieldLabel {
+	font: 11px Tahoma; 
+	font-weight: bold;
+	color: #666666;
+	padding: 1px 10px 1px 9px;
+}
+
+.AOLAttachmentHeader .FieldValue {
+	font: 11px Tahoma; 
+	color: #333333;
+}
+
+Re: Question for item #8812386909 - DELL PRECISION M20 LAPTOP BRAND NEW BOXED!!! NO RESERVE
+
+            #AOLMsgPart_2_ec65f778-ad55-4be3-99eb-d3ecbb78d765 .SectionTitle {font-size: small; font-family: arial, sans-serif; font-weight:bold }
+#AOLMsgPart_2_ec65f778-ad55-4be3-99eb-d3ecbb78d765 .SmallTitle {font-size: x-small; font-family: arial, sans-serif; font-weight:bold }
+#AOLMsgPart_2_ec65f778-ad55-4be3-99eb-d3ecbb78d765 .SectionBody {font-size: x-small; font-family: arial, sans-serif}
+#AOLMsgPart_2_ec65f778-ad55-4be3-99eb-d3ecbb78d765 .DetailTable, .DetailTable th {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal }
+#AOLMsgPart_2_ec65f778-ad55-4be3-99eb-d3ecbb78d765 .Title {font-size: medium; font-family: verdana, arial, sans-serif}
+#AOLMsgPart_2_ec65f778-ad55-4be3-99eb-d3ecbb78d765 .BodyFont {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal}
+#AOLMsgPart_2_ec65f778-ad55-4be3-99eb-d3ecbb78d765 .BodyFontStrong {font-size: 10 pt; font-family: arial, sans-serif; font-weight:bold}
+#AOLMsgPart_2_ec65f778-ad55-4be3-99eb-d3ecbb78d765 .SmallBody {font-size: xx-small; font-family: arial, sans-serif; font-weight:normal; margin-top: 8 px;  margin-bottom: 6 px}
+#AOLMsgPart_2_ec65f778-ad55-4be3-99eb-d3ecbb78d765 .Separator { COLOR: #CCCCCC; height: 1px}
+#AOLMsgPart_2_ec65f778-ad55-4be3-99eb-d3ecbb78d765 .HighlightedSeparator { COLOR: #9999cc; height: 1px}
+#AOLMsgPart_2_ec65f778-ad55-4be3-99eb-d3ecbb78d765 .FooterSeparator { COLOR: #CCCCCC; height: 1px}
+#AOLMsgPart_2_ec65f778-ad55-4be3-99eb-d3ecbb78d765 .Footer, .Footer p {font-size: xx-small; font-family:arial, sans-serif; color:#666666; margin-top: 2 px;  margin-bottom: 8 px}
+#AOLMsgPart_2_ec65f778-ad55-4be3-99eb-d3ecbb78d765 .SmallPara, .SmallParap {margin-top: 8 px;  margin-bottom: 6 px}
+
+#AOLMsgPart_2_ec65f778-ad55-4be3-99eb-d3ecbb78d765 .ItemTitle {font-size: 10pt; font-family: arial, sans-serif; font-weight:bold }
+#AOLMsgPart_2_ec65f778-ad55-4be3-99eb-d3ecbb78d765 .sectiontitle{font-size:small;font-weight:bold;}
+#AOLMsgPart_2_ec65f778-ad55-4be3-99eb-d3ecbb78d765 .pagetitle {font-size:medium;font-weight:bold;}
+
+eBay sent this message to Tricia Bishop (tbishopjgk).
+
+Your registered name is included to show this message originated from eBay. Learn more.
+
+Response to Question about Item -- Respond Now
+
+eBay sent this message on behalf of an eBay member via My Messages. Responses sent using email will go to the eBay member directly and will include your email address. Click the Respond Now button below to send your response via My Messages.
+
+ Response from amritpal2004
+
+amritpal2004( 29)
+Positive Feedback:100%
+Member Since:Nov-09-04
+Location:West Midlands, United Kingdom
+Registered On:www.ebay.co.uk
+
+Item: DELL PRECISION M20 LAPTOP BRAND NEW BOXED!!! NO RESERVE (8812386909)
+
+This message was sent while the listing was active.
+amritpal2004 is the seller.
+
+Hello, 
+Money was sent today.Please e-mail me as soon as possible because I want to know when I receive my package.
+Thank you,
+pleighty
+
+Regards 
+
+Respond to this question in My Messages.
+
+Item Details
+
+Item name:
+DELL PRECISION M20 LAPTOP BRAND NEW BOXED!!! NO RESERVE
+
+Item number:
+8812386909
+
+End date:
+
+May-22-06 14:08:13 PDT
+

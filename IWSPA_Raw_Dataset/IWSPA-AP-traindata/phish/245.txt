@@ -1,0 +1,4 @@
+User [user@domain.com]
+Mail is holding the message you sent because your email address is not verified. Please be advised that your account will be deactivated shortly. Please click the link below, this will take you to a verification page. verification is a one-time process which takes only a few seconds.
+Please be aware that if you do not complete verification within 4 days, Mail will automatically deactivated this ID [user@domain.com].
+5:55:29 AM

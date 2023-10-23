@@ -1,0 +1,56 @@
+Gavin,
+First the figures are just for you - don't pass on!!!  I don't normally see
+these. I just asked my MOHC contact - and he's seen the furore on the blogs.
+Why did the Daily Telegraph run with the story - it's all back to their readers
+thinking the UK is run by another country!
+These 3 paras (below) are from the GHCN web site. They appear to be the only mention
+I can see of the WMO CLIMAT network on a web site.  The rigorous QC that is being talked
+about is
+done in retrospect. They don't do much in real time - except an outlier check.
+Anyway - the CLIMAT network is part of the GTS. The members (NMSs) send
+their monthly averages/total around the other NMSs on the 4th and the 18-20th
+of the month afterwards. Few seem to adhere to these dates much these days, but
+the aim is to send the data around twice in the following month. Data comes in
+code like everything else on the GTS, so a few centres (probably a handful, NOAA/CPC,
+MOHC, MeteoFrance, DWD, Roshydromet, CMA, JMA and the Australians)
+that are doing analyses for weather forecasts have the software to pick out
+the CLIMAT data and put it somewhere.
+At the same time these same centres are taking the synop data off the system
+and summing it to months - producing flags of how much was missing. At the
+MOHC they compare the CLIMAT message with the monthly calculated average/total.
+If they are close they accept the CLIMAT.  Some countries don't use the mean of
+max and min (which the synops provide) to calculate the mean, so it is important
+to use the CLIMAT as this is likely to ensure continuity. If they don't agree they
+check the flags and there needs to be a bit of human intervention. The figures
+are examples for this October.
+What often happens is that countries send out the same data for the following month.
+This happens mostly in developing countries, as a few haven't yet got software to
+produce the CLIMAT data in the correct format. There is WMO software to
+produce these from a wide variety of possible formats the countries might be using.
+Some seem to do this by overwriting the files from the previous month. They
+add in the correct data, but then forget to save the revised file. Canada did
+this a few years ago - but they sent the correct data around a day later and again
+the second time, after they got told by someone at MOHC.
+My guess here is that NOAA didn't screw up, but that Russia did. For all countries
+except Russia, all data for that country comes out together. For Russia it comes
+out in regions - well it is a big place! Trying to prove this would need some Russian
+help - Pasha Groisman? - but there isn't much point. The fact that all the affected
+data were from one Russian region suggests to me it was that region.
+Probably not of much use to an FAQ!
+Cheers
+Phil
+The Global Historical Climatology Network (GHCN-Monthly) data base contains historical
+temperature, precipitation, and pressure data for thousands of land stations worldwide. The
+period of record varies from station to station, with several thousand extending back to
+1950 and several hundred being updated monthly via CLIMAT reports. The data are available
+without charge through NCDCs anonymous FTP service.
+Both historical and near-real-time GHCN data undergo rigorous quality assurance reviews.
+These reviews include preprocessing checks on source data, time series checks that identify
+spurious changes in the mean and variance, spatial comparisons that verify the accuracy of
+the climatological mean and the seasonal cycle, and neighbor checks that identify outliers
+from both a serial and a spatial perspective.
+GHCN-Monthly is used operationally by NCDC to monitor long-term trends in temperature and
+precipitation. It has also been employed in several international climate assessments,
+including the Intergovernmental Panel on Climate Change 4th Assessment Report, the Arctic
+Climate Impact Assessment, and the "State of the Climate" report published annually by the
+Bulletin of the American Meteorological Society.

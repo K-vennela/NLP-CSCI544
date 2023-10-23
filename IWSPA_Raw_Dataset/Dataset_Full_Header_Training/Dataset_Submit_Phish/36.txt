@@ -1,0 +1,56 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (dijkstra.cs.uh.edu [127.0.0.1])
+	by dijkstra.cs.uh.edu (Postfix) with ESMTP id 830A423CA84
+	for <user@domain.com>; Sat, 16 Jun 2015 09:20:11 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at cs.uh.edu
+Received: from dijkstra.cs.uh.edu ([127.0.0.1])
+	by localhost (dijkstra.cs.uh.edu [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id cjo6ZI59N6aT for <user@domain.com>;
+	Sat, 16 Jun 2015 09:20:11 -0500 (CDT)
+Received: from domain.com (domain.com [38.111.141.31])
+	by dijkstra.cs.uh.edu (Postfix) with ESMTP id 2D0AE23CA91
+	for <user@domain.com>; Sat, 16 Jun 2015 09:20:10 -0500 (CDT)
+Received: from [10.0.7.1] (HELO MX01.MAIL.ECHOLABS.NET)
+  by domain.com (CommuniGate Pro SMTP 5.4.1)
+  with ESMTP id 58996598 for user@domain.com; Sat, 16 Jun 2015 10:19:59 -0400
+Received: from domain.com ([10.10.10.63])
+	by MX01.MAIL.ECHOLABS.NET with Echo Labs
+	id P2Ky1j0081McQ2J012KyXG; Sat, 16 Jun 2015 10:19:58 -0400
+X-CNFS-Analysis: v=1.1 cv=cX3D2vKtcrU/AOTy+80Irj7tcAr4DvalUTblLRHJr0Q= c=1
+ sm=1 a=IkcTkHD0fZMA:10 a=B1VVWiW9dG4A:10 a=nH+Lz82GrAmBjpXqDwXjsA==:17
+ a=GGX1-4aEAAAA:20 a=q6uRRwQ0ZsZMVVvALEsA:9 a=QEXdDO2ut3YA:10
+ a=hD2xjzxb8moA:10 a=WTgN7d_vU3UA:10 a=KuJ3cczg2i4ubbkcGgNgn7Ng1hU=:19
+ a=CNdGXKXIoWuCyGqNaO/M7w==:117
+X-CMAE-Score: 0.00
+X-Scanned-by: CMAE
+Received: from [177.0.62.84] (account user@domain.com)
+  by domain.com (CommuniGate Pro WEBUSER 5.4.1)
+  with HTTP id 6883877; Sat, 16 Jun 2015 10:19:58 -0400
+From: "The University of Houston" <Info@uh.edu>
+Subject: Great news!
+X-Mailer: CommuniGate Pro WebUser v5.4.1
+Date: Sat, 16 Jun 2015 10:19:58 -0400
+Message-ID: <user@domain.com>
+MIME-Version: 1.0
+Content-Type: text/plain;charset=utf-8; format="flowed"
+Content-Transfer-Encoding: 8bit
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 96
+
+Great news!
+You can now login to your University of Houston webmail 
+for weekly news forum and get the latest exciting 
+information and news/update. Please use the database link 
+<<link>> to login for more information 
+about this service.
+
+©2009 The University of Houston, 4800 Calhoun Road, 
+Houston,
+Texas 77004 Get Driving Directions 713.743.2255
+Jobs at UH UH System State of Texas Policies Copyright 
+Emergency Site Feedback

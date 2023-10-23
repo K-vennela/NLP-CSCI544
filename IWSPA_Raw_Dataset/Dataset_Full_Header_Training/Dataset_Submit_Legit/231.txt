@@ -1,0 +1,64 @@
+Received: from domain.com (146.215.230.103) by
+ domain.com (43.130.141.77) with Microsoft SMTP Server id
+ 8.3.342.0; Mon, 28 Apr 2015 14:27:37 -0700
+Received: from domain.com ([160.33.194.229])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s3SLRaP7027134	for <user@domain.com>; Mon, 28 Apr 2015 
+ 21:27:37 GMT
+Received: from mail222-ch1-domain.com (mail-domain.com
+ [216.32.181.170])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s3SLQmQL005677
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Mon, 28 Apr 2015 21:26:48 GMT
+Received: from mail222-ch1 (localhost [127.0.0.1])	by
+ mail222-ch1-domain.com (Postfix) with ESMTP id 2F8D34051E	for
+ <user@domain.com>; Mon, 28 Apr 2015 21:27:36 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:199.59.150.91;KIP:(null);UIP:(null);IPV:NLI;H:spruce-goose-av.twitter.com;RD:spruce-goose-av.twitter.com;EFVD:NLI
+X-SpamScore: 7
+X-BigFish: vps7(z588dhz9371Ic616hd772hc857hzz1f42h2148h1ee6h1de0h1fdah2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6h208ch2233kzz1730fah177df4h17326ah8275bh1bc7b9h8275dh1de097h186068h172c6chb64e9k1ce121iz2fh5fh2a8h839ha12hd25h1288h12a5h12bdh137ah13eah1441h14ddh1504h1537h153bh162dh1631h1758h18e1h1901h1946h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1fe8h1ff5h20f0h2216h22d0h2336h2438h2461h2487h24d7h2516h2545h255eh25f6h2605h268bh26d3h214ai1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail222-ch1: domain of bounce.twitter.com designates 199.59.150.91 as permitted sender) client-ip=199.59.150.91; user@domain.com; helo=spruce-goose-av.twitter.com ;.twitter.com ;
+Received: from mail222-ch1 (localhost.localdomain [127.0.0.1]) by mail222-ch1
+ (MessageSwitch) id 1398720453830816_10746; Mon, 28 Apr 2015 21:27:33 +0000
+ (UTC)
+Received: from domain.com (domain.com
+ [10.43.68.237])	by mail222-domain.com (Postfix) with ESMTP id
+ C6C8516004D	for <user@domain.com>; Mon, 28 Apr 2015 21:27:33 +0000
+ (UTC)
+Received: from spruce-goose-av.twitter.com (199.59.150.91) by
+ domain.com (10.43.70.27) with Microsoft SMTP Server (TLS) id
+ 14.16.227.3; Mon, 28 Apr 2015 21:27:33 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=twitter.com;
+	s=dkim-201303; t=1398720452;
+	bh=UN9j0qaFldkXAundvoHUwfGF3ZDOVh4zGVbah27alyc=;
+	h=Date:From: Twitter <info@twitter.com>
+	b=OyVAGRFh0yAo5k4bjsP4Zdzef5KJX1wm4+ApCNbTFIZygWvRj2fSGmc/83Ob3qGqT
+	 iCEissGKhQ9HpTCWI6+szJGC5ACjA0xZr4Byt2fEJk0yYjJJyPZwr/GnTKSYHurXb8
+	 oIF3M1iSqgBw5hm8z+AUtMZYLRu4OTvhMW6hBAOo=
+X-MSFBL: YW15X3Bhc2NhbEBzcGUuc29ueS5jb21Ac21mMS1iZmctMzgtc3IxLUV2ZXJ5dGhp
+	bmcuMTkxQEV2ZXJ5dGhpbmdAYW15X3Bhc2NhbFxAc3BlLnNvbnkuY29tXEA4OVxA
+	ODMwMzExODNcQDBcQGUzZDA2OGM3YjZjZGZiNTlkMzIyMzQ4YTdhMzdiNmU0N2Fj
+	YzA3ZmE=
+Date: Mon, 28 Apr 2015 21:27:32 +0000
+From: Twitter <info@twitter.com>
+To: Amy Pascal <user@domain.com>
+Subject: Spider-Man retweeted a photo from Jamie Foxx on Twitter!
+Precedence: Bulk
+Message-ID: <user@domain.com>
+Return-Path: user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+<<link>>+21+20140427
+        <<link>>+21+20140427                     Amy Pascal,     
+Here's a photo that was just shared on Twitter.         
+
+                 Go to Twitter           
+
+
+
+
+                  <<link>>+20+20140427&t;=1               
+
+

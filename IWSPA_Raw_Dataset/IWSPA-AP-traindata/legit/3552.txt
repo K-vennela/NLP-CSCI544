@@ -1,0 +1,76 @@
+Susan et al.,
+I had also seen the Forster et al paper and was glad to see he had
+followed up on work and ideas we had discussed some years ago when he
+was at Reading and from the Exeter workshop. At the time I had done some
+simple research on whether the stratosphere could affect the tropical
+troposphere - possibly through convection modification or radiative
+cooling. I'd done a simple timeseries regression of T2LT=a*Tsurf+b*T4+c
+and got some regression coefficients out that suggested an influence.
+Now, this was with old and now discredited data and the Fu et al.
+technique has since superseded it to some extent (or at least cast
+considerable doubt upon its efficacy) ... it would certainly be hard to
+prove in a regression what was cause and effect with such broad
+weighting functions even using T2LT which still isn't *really*
+independent from T4.  
+But one thing I did do to try to "prove" the regression result was real
+is take the composite differences between QBO phases on 45 years of
+detrended (can't remember exactly how but I think I took differences
+from decadally filtered data) data from radiosondes (HadAT1 at the
+time). This showed a really very interesting result and suggested that
+this communication if it was real went quite far down in to the
+troposphere and was statistically significant, particularly in those
+seasons when the ITCZ and QBO were geographically coincident. I attach
+the slide for interest. I think this is the only scientifically valid
+part of the analysis that I would stand by today given the rather
+massive developments since. I doubt that raobs inhomogeneities could
+explain the plot result as they project much more onto the trend than
+they would onto this type of analysis.
+The cooling stratosphere may really have an influence even quite low
+down if this QBO composite technique is a good analogue for a cooling
+startosphere's impact, and timeseries regression analysis supports it in
+some obs (it would be interesting to repeat such an analysis with the
+newer obs but I don't have time). A counter, however, is that surely the
+models do radiation so those with ozone loss should do a good job of
+this effect. This could be checked in Ben's ensemble in a poor man's
+sense at least because some have ozone depletion and some don't.
+The only way this could be a real factor not picked by the models, I
+concluded at the time, is if models are far too keen to trigger
+convection and that any real-world increased radiative cooling
+efficiency effect is masked in the models because they convect far too
+often and regain CAPE closure as a condition.
+On another matter, we seem to be concentrating entirely on layer-average
+temperatures. This is fine, but we know from CCSP these show little in
+the way of differences. The key, and much harder test is to capture the
+differences in behaviour between layers / levels - the "amplification"
+behaviour. This was the focus of Santer et al. and I still believe is
+the key scientific question given that each model realisation is
+inherently so different but that we believe the physics determining the
+temperature profile to be the key test that has to be answered. Maybe we
+need to step back and rephrase the question in terms of the physics
+rather than aiming solely to rebutt Douglass et al? In this case the key
+physical questions in my view would be:
+1. Why is there such strong evidence from sondes for a minima at c. 500?
+Is this because it is near the triple point of water in the tropics? Or
+at the top of the shallow convection? Or simply an artefact? [I don't
+have any good ideas how we would answer the first two of these
+questions]
+2. Is there really a stratospheric radiative influence? If so, how low
+does it go? What is the cause? Are the numbers consistent with the
+underlying governing physics or simply an artefact of residual obs
+errors?
+3. Can any models show trend behaviour that deviates from a SALR on
+multi-decadal timescales? If so, what is it about the model that causes
+this effect? Physics? Forcings? Phasing of natural variability? Is it
+also true on shorter timescales in this model?
+It seems to me that trying to do an analysis based upon such physical
+understanding / questions will clarify things far better than simply
+doing another set of statistical analysis. I'm still particularly
+interested if #2 is really true in the raobs (its not possible to do
+with satellites I suspect, but if it is true it means we need to
+massively rethink Fu et al. type analysis at least in the tropics) and
+would be interested in helping someone follow up on that ... I think in
+the future the Forster et al paper may be seen as the more
+scientifically significant result when Douglass et al is no longer cared
+about ...
+Happy new year to you all.
+Peter

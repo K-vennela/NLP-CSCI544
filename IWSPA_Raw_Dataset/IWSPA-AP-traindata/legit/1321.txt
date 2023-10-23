@@ -1,0 +1,97 @@
+A very remarkable attack — And CHINA.
+"Anthem Inc., the country’s second-biggest health insurer, said hackers broke into a database containing personal information for about 80 million of its customers and employees in what is likely to be the largest data breach disclosed by a health-care company.""Investigators are still determining the extent of the incursion, which was discovered last week, and Anthem said it is likely that “tens of millions” of records were stolen. The health insurer said the breach exposed names, birthdays, addresses and Social Security numbers but doesn’t appear to involve medical information or financial details such as credit-card or bank-account numbers, nor are there signs the data are being sold on the black market.” [ WELL, it “appears” so, aka, they hope so ][…]
+"He said the Anthem attack was “sophisticated” and used techniques that appeared to have been customized, rather than broadly available tools, and were “very advanced.” Investigators haven’t yet concluded who was behind the Anthem breach. Community Health Systems, for one, said it believed its incursion originated in China. “
+“On Thursday, investigators began to focus on links to a group in China. Although the investigation remains in its early stages, the Anthem hack relied on malware and tools that have been used almost exclusively by Chinese cyberspies, investigators said."
+From the WSJ, also available at <<link>>  (+), FYI,David
+Health Insurer Anthem Didn’t Encrypt Data in Theft
+Companies Aren’t Required by Law to Scramble Records, and Often Don’t 
+The database of Indianapolis-based
+health insurer Anthem, which containing personal information for about 
+80 million customers and employees, has been hacked. WSJ's Stefanie 
+Ilgenfritz reports. Photo: AP
+By Danny Yadron and Melinda Beck
+Updated Feb. 5, 2015 7:26 p.m. ET
+Anthem
+Inc.
+stored the Social Security numbers of 80 million customers 
+without encrypting them, the result of what a person familiar with the 
+matter described as a difficult balancing act between protecting the 
+information and making it useful. Scrambling the data, which 
+included addresses and phone numbers, could have made it less valuable 
+to hackers or harder to access in bulk. It also would have made it 
+harder for Anthem employees to track health care trends or share data 
+with states and health providers, that person said.The risks 
+became clear last week, when Anthem discovered that hackers had broken 
+into the database and made off with information on tens of millions of 
+consumers, likely making it the largest computer breach disclosed by a 
+health-care company. Because the data wasn’t encrypted, it would
+be easily readable by hackers. The company believes a hacker group used
+a stolen employee password to access the database. That storage
+decision has made the country’s second-largest health insurer the 
+latest poster child for a continuing debate in executive suites: Is 
+turning a corporate network into an electronic Fort Knox worth the 
+potential cost? 
+Companies can employ random pass codes, limit access from 
+outside the office or use complex math to scramble data. But those 
+things slow companies down, sometimes to a degree they find 
+unacceptable. There is no evidence yet that identity thieves are
+using the data stolen from Anthem, it said. On Thursday, investigators 
+began to focus on links to a group in China. Although the investigation 
+remains in its early stages, the Anthem hack relied on malware and tools
+that have been used almost exclusively by Chinese cyberspies, 
+investigators said. “Chinese laws prohibit cyber crimes of all 
+forms,” Chinese Embassy spokesman Zhu Haiquan said. “Unfounded 
+hypothesis and jumping to conclusions is irresponsible and will be 
+counterproductive to address these issues.”Employers and 
+government agencies “require us to maintain a member’s Social Security 
+number in our systems so that their systems can uniquely identify their 
+members,” Anthem spokeswoman 
+Kristin Binns
+said. Ms. Binns said Anthem encrypts personal data when it moves 
+in or out of its database but not when it is stored, which is common in 
+the industry.“We use other measures, including elevated user 
+credentials, to limit access to the data when it is residing in a 
+database,” she said.Anthem said it is likely that ‘tens of millions’ of records were stolen. 
+Photo: 
+Darron Cummings/Associated Press“We join you in your concern and frustration,” Anthem Chief 
+Executive 
+Joseph Swedish
+said in a letter posted on the company’s website. “I assure you 
+that we are working around the clock to do everything we can to further 
+secure your data.” He didn’t provide details. 
+Adam Greene,
+a privacy attorney with the law firm Davis Wright Tremaine LLP 
+and former official in the U.S. Department of Health and Human Services,
+said encryption isn’t a cure-all for data breaches. “At some 
+point, that information is going to be used in an unencrypted state and 
+if a hacker has access to it at that point, the information could be 
+exposed,” Mr. Greene said. Last month, New Jersey Gov. 
+Chris Christie
+signed a law requiring health insurers operating in the state to 
+encrypt client information, including Social Security numbers, driver’s 
+license numbers, addresses and identifiable health information. The law 
+was prompted in part by a breach of 840,000 individuals’ information 
+from Horizon Blue Cross Blue Shield of New Jersey in 2013, following the
+theft of two laptops containing unencrypted data.Anthem doesn’t sell plans in New Jersey. Health
+insurers don’t always encrypt members’ data, and aren’t required by the
+federal Health Insurance Portability and Accountability Act to encrypt 
+data. Under HIPAA, doctors, hospitals, health plans and others 
+must “address” encryption in their operations, but don’t have to 
+scramble data if they determine doing so would impose an unreasonable 
+burden, the likelihood of disclosure is low and they have implemented 
+alternative security measures.Mr. Greene, the privacy attorney, said repeated breaches show that the risk of disclosure isn’t low. Health
+and Human Services’ Office for Civil Rights, which enforces HIPAA, is 
+urging providers and insurers to encrypt as much data as possible. The 
+office didn’t respond to a request for comment on Thursday. The 
+office has imposed penalties or reached settlements in 24 data-breach 
+cases in recent years, including two in April 2014 involving lack of 
+encryption. Concentra Health Services unit of 
+Humana
+Inc.
+agreed to pay $1.7 million after an unencrypted laptop was stolen
+from one of its facilities. The same month, QCA Health Plan Inc. of 
+Arkansas agreed to pay $250,000 to settle potential HIPAA violations 
+after an unencrypted laptop containing information on 148 individuals 
+was stolen.HHS’s Office for Civil Rights said at the time: “Our 
+message to these organizations is simple: encryption is your best 
+defense against these incidents.” Write to Danny Yadron at user@domain.com and Melinda Beck at user@domain.com 

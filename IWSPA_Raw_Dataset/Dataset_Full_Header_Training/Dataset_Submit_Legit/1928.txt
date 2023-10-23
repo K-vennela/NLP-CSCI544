@@ -1,0 +1,76 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Thu, 28 Apr
+ 2015 11:42:37 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Thu, 28 Apr 2015 
+ 11:42:29 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 885446111
+ for user@domain.com; Thu, 28 Apr 2015 10:42:37 -0500
+X-Note-AR-ScanTimeLocal: 4/28/2016 10:42:37 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @hillaryclinton.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 209.85.213.176
+X-Note-Reverse-DNS: mail-ig0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mail-ig0-domain.com ([209.85.213.176] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 135477466
+ for user@domain.com; Thu, 28 Apr 2015 10:42:37 -0500
+Received: by mail-ig0-domain.com with SMTP id bi2so162635837igb.0
+        for <user@domain.com>; Thu, 28 Apr 2015 08:42:35 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=hillaryclinton.com; s=google;
+        h=mime-version:in-reply-to:references:date:message-id:subject:From: Zac Petkanas <zpetkanas@hillaryclinton.com>
+         :cc;
+        bh=/ucRvniHOS47m7W6rwTQxRhlg3ZCik0hsCPRbEa/c8E=;
+        b=GKp2q26PyQ5cI1yZECkiuqfespcbjmgn16Ep2W6tykCJzmNoM0deFap7VKAwhjXdHf
+         KsiLexCUiYpFapkOUkIeJh/qziumbysVI6+CVq+rT8AtDSUpz4Xo7CntHFpwNBTvqZ9/
+         PgbAUY/B6w2R7Oa+mkM+Num8OG416u8Lc9dpU=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:date
+         :message-id:subject:From: Zac Petkanas <zpetkanas@hillaryclinton.com>
+        bh=/ucRvniHOS47m7W6rwTQxRhlg3ZCik0hsCPRbEa/c8E=;
+        b=Xo+q0MTnLviy7bCYFukWlkOKhDHylxVTrflRrO190lYx589PESZfkFWccvQvGdr6jb
+         KokAom0BTXECNNjzKPR9iYFewrKSnGglssQ+NhtK12rOEtTySYRal6nS1ERX1VWmDK1F
+         lmzko2ie4XSA880i/axMyRTUHlAB9VxCogmNOznd0ge7LI27eKoa4e+izrVLg55laelr
+         5y/A3xzupfEVXaQrlrV2LzPM+IrlSL/HSn14tTht+jkAyNe7yjAA8Z+EOieFyMMjW3+N
+         lo8xVB6GH3pmM//4BYrTG/ji4+D7MX0NIbAXZXT3yBMiCWP3tq3/XdPKHjHsWzVDkxBf
+         pgzg==
+X-Gm-Message-State: AOPr4FUtFAauEQ9r1zLWCTny7WSD/MJuDuE5r6pihI1q/31wJizc803lF+XakSMZX2vvDFOFyfSNTGt4HZzCH/rA
+X-Received: by 10.50.22.65 with SMTP id b1mr19085176igf.39.1461858155123; Thu,
+ 28 Apr 2015 08:42:35 -0700 (PDT)
+Received: by 10.36.196.5 with HTTP; Thu, 28 Apr 2015 08:42:34 -0700 (PDT)
+In-Reply-To: <-6536438334712775418@unknownmsgid>
+References: <CAGitY4SFGBqnHP8rQALbORzvv9KGzitDACpiBC8FT7v7G+5user@domain.com>
+	<05user@domain.com>
+	<-6536438334712775418@unknownmsgid>
+Date: Thu, 28 Apr 2015 11:42:34 -0400
+Message-ID: <user@domain.com>
+Subject: Re: Trump Foreign Policy Speech Messaging
+From: Zac Petkanas <zpetkanas@hillaryclinton.com>
+To: "User" <user@domain.com>
+CC: "Paustenbach, Mark" <user@domain.com>
+Content-Type: multipart/alternative; boundary="047d7b10d16b0ca5b405318d60a9"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Are you guys able to do a round up of the reviews of his speech?
+
+On Thu, Apr 28, 2015 at 10:43 AM, Zac Petkanas <user@domain.com=
+m

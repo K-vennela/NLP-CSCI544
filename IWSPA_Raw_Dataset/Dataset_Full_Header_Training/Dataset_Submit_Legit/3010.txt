@@ -1,0 +1,71 @@
+Received: from domain.com (146.215.230.104) by
+ domain.com (43.130.141.78) with Microsoft SMTP Server id
+ 8.3.264.0; Sun, 19 Jan 2015 21:57:04 -0800
+Received: from domain.com ([160.33.194.229])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s0K5v38x012063	for <user@domain.com>; Mon, 20 Jan 2015 
+ 05:57:04 GMT
+Received: from mail106-co9-domain.com (mail-domain.com
+ [207.46.163.21])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s0K5v28E001842
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Mon, 20 Jan 2015 05:57:03 GMT
+Received: from mail106-co9 (localhost [127.0.0.1])	by
+ mail106-co9-domain.com (Postfix) with ESMTP id 888712000B7	for
+ <user@domain.com>; Mon, 20 Jan 2015 05:57:02 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:65.39.215.55;KIP:(null);UIP:(null);SRV:BULK;H:mx-pmc-domain.com;RD:mx-pmc-domain.com;EFVD:NLI
+X-SpamScore: 2
+X-BigFish: vps2(z579ehz758Ic857hdbb0izz1f42h2148h208ch1ee6h1de0h1fdah2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6hzz8275ch1d7338h1de098h1def03h17326ah1def87h8275bh1bc7b9h8275dh1defc1h1def86h1de097h1de096h186068h172c6ch1ce120h1a691ciz2fheh5fh839h8aaha12he5bh1288h12a5h137ah139eh13eah1441h14ddh1504h1537h162dh1631h1758h1898h18e1h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1e23h1fe8h1ff5h20f0h2218h2216h226dh24afh2327h2336h2438h2461h2487h214ai1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail106-co9: domain of domain.com designates 65.39.215.55 as permitted sender) client-ip=65.39.215.55; user@domain.com; helo=mx-pmc-domain.com ;domain.com ;
+Received: from mail106-co9 (localhost.localdomain [127.0.0.1]) by mail106-co9
+ (MessageSwitch) id 1390197419413215_3086; Mon, 20 Jan 2015 05:56:59 +0000
+ (UTC)
+Received: from domain.com (unknown [10.236.132.235])	by
+ mail106-domain.com (Postfix) with ESMTP id 5620346004D	for
+ <user@domain.com>; Mon, 20 Jan 2015 05:56:59 +0000 (UTC)
+Received: from mx-pmc-domain.com (65.39.215.55) by
+ domain.com (10.236.130.40) with Microsoft SMTP Server id
+ 14.16.227.3; Mon, 20 Jan 2015 05:56:59 +0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1390197418;
+	s=sailthru; d=deadline.com;
+	h=Date:From: Deadline.com <alerts@deadline.com>
+	bh=tDlw0pdCnMrcekT+WJXH0NlWM9aM9ZxXWLKfJp70dkU=;
+	b=laTRglUY6EC5EZm2hpH7pDRrGwm20cMq0lmzKQfxsmZcbhgCMKGdGaPvJxWrfXbx
+	4X6jubaVQl5IVtFpHUBh21y8iSLyTQn3Guq5lTM3TLzC+hfwrGPsj7osl3LONHPeZL9
+	JQujnGwtuLQGOCqzweAfI7aWGHW/Zzny8QbQ2XSo=
+Date: Mon, 20 Jan 2015 00:56:58 -0500
+From: Deadline.com <alerts@deadline.com>
+To: <user@domain.com>
+Message-ID: <20140120055658.2363968.6518@domain.com>
+Subject: [domain.com] 25th Annual PGA Awards: First-Ever Tie For Best
+ Motion Picture -- 'Gravity' And '12 Years A Slave' '
+Precedence: bulk
+X-TM-ID: 20140120055658.2363968.6518
+X-Info: Message sent by domain.com customer Deadline
+X-Info: We do not domain.com unsolicited commercial email
+X-Info: Please report abuse by forwarding complete headers to
+X-Info: user@domain.com
+X-Mailer: domain.com
+X-IADB-IP: 65.39.215.55
+X-IADB-IP-REVERSE: 55.215.39.65
+X-IADB-URL: <<link>>
+X-Unsubscribe-Web: <<link>>
+List-Unsubscribe: <<<link>>>, <mailto:user@domain.com>
+X-rpcampaign: stdgp2363968
+Return-Path: user@domain.com
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+<<link>> 
+
+<<link>> 
+
+        Deadline Hollywood has posted urgent news:              
+
+        25th Annual PGA Awards: First-Ever Tie For Best Motion Picture -- 'Gravity' And '12 Years A Slave' '            
+        For all of Deadline's headlines, follow us @Deadline on Twitter.                
+
+This email was sent to user@domain.com by Deadline. To ensure delivery to your inbox (and not your spam folder), please add user@domain.com to your address book. If 

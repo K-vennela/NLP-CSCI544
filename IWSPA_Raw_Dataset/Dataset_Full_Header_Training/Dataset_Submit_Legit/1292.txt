@@ -1,0 +1,54 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from [192.168.69.228] (host138-246-static.50-88-domain.com [88.50.246.138])
+	(using TLSv1 with cipher AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mail.hackingteam.it (Postfix) with ESMTPSA id 727242BC039;
+	Fri, 28 Oct 2015 11:35:11 +0200 (CEST)
+Message-ID: <1319794509.5230.2.user@domain.com>
+Subject: VA/PT x Cobo a Leno (BS) nella settimana del 7/11
+From: Luca Filippi <l.filippi@hackingteam.it>
+Reply-To: user@domain.com
+To: 'Antonio Mazzeo' <user@domain.com>, Enrico Luzzani
+	 <user@domain.com>, 'Danilo Cordoni' <user@domain.com>, 
+	"s.rumore" <user@domain.com>
+Date: Fri, 28 Oct 2015 11:35:09 +0200
+Organization: Hacking Team
+X-Mailer: Evolution 3.0.3-2 
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1014333865_-_-"
+
+Ciao,
+
+qualcuno e' interessato e disponibile?
+
+Se si', mi date le vostre disponibilita' pls?
+
+Danke,
+
+            l
+
+ps: ma non doveva farle il pianificatore queste cose? hmm...
+
+-- 
+
+Luca Filippi
+Senior Security Engineer
+
+
+
+HT srl 
+Via Moscova, 13 I-20121 Milan, Italy 
+WWW.HACKINGTEAM.IT 
+Phone +39 02 29060603 
+Mobile +39 340 5488603
+Fax. +39 02 63118946 
+
+
+
+This message is a PRIVATE communication. This message contains privileged and confidential information intended only for the use of the addressee(s).
+If you are not the intended recipient, you are hereby notified that any dissemination, disclosure, copying, distribution or use of the information contained in this message is strictly prohibited. If you received this email in error or without authorization, please notify the sender of the delivery error by replying to this message, and then delete it from your system.
+

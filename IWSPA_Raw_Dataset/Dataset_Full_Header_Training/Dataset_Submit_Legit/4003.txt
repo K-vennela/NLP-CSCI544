@@ -1,0 +1,95 @@
+Received: from domain.com (146.215.230.104) by
+ domain.com (43.130.141.78) with Microsoft SMTP Server id
+ 8.3.264.0; Sat, 9 Nov 2015 21:58:25 -0800
+Received: from domain.com ([160.33.194.229])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id rAA5wOaX003193	for <user@domain.com>; Sun, 10 Nov 2015 
+ 05:58:24 GMT
+Received: from mail51-co1-domain.com
+ (mail-domain.com [216.32.180.179])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id rAA5wNeE031648	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128
+ verify=FAIL)	for <user@domain.com>; Sun, 10 Nov 2015 05:58:24 GMT
+Received: from mail51-co1 (localhost [127.0.0.1])	by mail51-co1-domain.com
+ (Postfix) with ESMTP id 513C41C061E	for <user@domain.com>; Sun, 10
+ Nov 2015 05:58:23 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:67.192.241.180;KIP:(null);UIP:(null);IPV:NLI;H:domain.com;RD:domain.com;EFVD:NLI
+X-SpamScore: -5
+X-BigFish: vps-5(zzc85fh103eMzz1f42h2148h208ch1ee6h1de0h1fdah2073h2146h1202h1e76h1d1ah1d2ah1fc6hzz1de098h8275bh1de097hz2dh2a8h839hd25he5bh107ah1288h12a5h12bdh137ah139eh13eah1441h1504h1537h162dh1631h1662h1758h1898h18e1h1946h19b5h1b0ah1b2bh1bceh2222h224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1e23h1fe8h1ff5h2052h20b3h20f0h2218h2216h1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received: from mail51-co1 (localhost.localdomain [127.0.0.1]) by mail51-co1
+ (MessageSwitch) id 1384063100792565_23214; Sun, 10 Nov 2015 05:58:20 +0000
+ (UTC)
+Received: from domain.com (unknown [10.243.78.239])	by
+ mail51-domain.com (Postfix) with ESMTP id BD383C004F	for
+ <user@domain.com>; Sun, 10 Nov 2015 05:58:20 +0000 (UTC)
+Received: from domain.com (67.192.241.180) by
+ domain.com (10.243.66.23) with Microsoft SMTP Server (TLS) id
+ 14.16.227.3; Sun, 10 Nov 2015 05:58:20 +0000
+Received: from localhost (localhost.localdomain [127.0.0.1])	by
+ domain.com (SMTP Server) with ESMTP id A254A268461;
+	Sun, 10 Nov 2015 00:58:19 -0500 (EST)
+X-Virus-Scanned: OK
+Received: by domain.com (Authenticated sender:
+ jeff-AT-pollackmedia.com) with ESMTPSA id C14DE268460;	Sun, 10 Nov 2015 
+ 00:58:18 -0500 (EST)
+From: Jeff Pollack <jeff@pollackmedia.com>
+Subject: What a memorable night!
+Date: Sat, 9 Nov 2015 21:58:16 -0800
+Message-ID: <user@domain.com>
+CC: Darcy Pollack <user@domain.com>
+To: Bernie Weinraub <user@domain.com>,
+        Amy Pascal
+	<user@domain.com>,
+        Anthony W <user@domain.com>
+X-Mailer: Apple Mail (2.1822)
+Return-Path: user@domain.com
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+Anthony:
+
+We were thrilled to witness the results of your hard work the past few years. You did so well, your speech was thought provoking and funny and the ceremony was very moving. I also thought the rabbi was amazing and extremely articulate.
+Bernie and Amy:
+
+Your heartfelt and beautiful speeches are something Anthony will cherish forever. 
+
+You are a wonderful family and we are indeed lucky to know you.
+
+xx Jeff, Darcy and Chris
+
+Jeff Pollack
+
+Chairman/CEO, Global Media & Entertainment
+
+Pollack Media Group
+
+
+
+
+860 Via De La Paz
+
+Suite D2
+
+Pacific Palisades, CA 90272
+
+Phone: (310) 459-8556
+
+Fax: (310) 454-5046
+
+user@domain.com
+
+
+
+
+CONFIDENTIALITY NOTICE
+
+
+
+
+The contents of this e-mail are confidential to the ordinary user of the e-mail address to which it was addressed, and may also be privileged. If you are not the addressee of this e-mail you may not copy, forward, disclose or otherwise use it or any part of it in any form whatsoever. If you have received this e-mail in error, please e-mail the sender by replying to this message.
+
+
+

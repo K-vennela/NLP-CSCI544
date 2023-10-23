@@ -1,0 +1,84 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 4766A23CAD3
+	for <user@domain.com>; Wed, 26 Oct 2015 06:49:31 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at domain.com
+X-Spam-Score: 4.137
+X-Spam-Level: ****
+X-Spam-Status: No, score=4.137 tagged_above=2 required=5
+	tests=[BAYES_00=-2.599, FORGED_MUA_OUTLOOK=4.056,
+	SUBJECT_NOVOWEL=0.155, SUBJ_HAS_SPACES=0.87, SUBJ_HAS_UNIQ_ID=0.19,
+	TRACKER_ID=1.032, X_PRIORITY_HIGH=0.433]
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id VFiaph4V7cqa for <user@domain.com>;
+	Wed, 26 Oct 2015 06:49:30 -0500 (CDT)
+Received: from domain.com (domain.com [129.7.234.210])
+	by domain.com (Postfix) with ESMTP id D2AD723CABB
+	for <user@domain.com>; Wed, 26 Oct 2015 06:49:30 -0500 (CDT)
+Received: from domain.com (domain.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 7F70255E1092;
+	Wed, 26 Oct 2015 06:49:29 -0500 (CDT)
+Received: from domain.com (domain.com [68.230.241.216])
+	by domain.com (Postfix) with ESMTP id 0238B55E1045;
+	Wed, 26 Oct 2015 06:49:27 -0500 (CDT)
+Received: from domain.com ([68.230.241.225])
+          by domain.com
+          (InterMail vM.8.01.04.00 201-2260-137-20101110) with ESMTP
+          id <20111026114906.user@domain.com>;
+          Wed, 26 Oct 2015 07:49:06 -0400
+Received: from vowkboewk ([174.65.27.163])
+	by domain.com with bizsmtp
+	id pPok1h0023X8rEu02Pp1Vo; Wed, 26 Oct 2015 07:49:05 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A02020A.4EA7F3B1.0243,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=1.1 cv=JNCtwntptMiyo25fG9f4JMJ4e7YP6+V1gQ04g6QTQkw=
+ c=1 sm=1 a=h5Ehg992wSYA:10 a=nDOwLv4DKMQA:10 a=GsyzsrH3UK36MXtDAglnrQ==:17
+ a=VLrad4aUAAAA:8 a=LbjZXJfqLmstQcl47XAA:9 a=8mHK3-ti6Z0fYutChzwA:7
+ a=sOKxrc_Uve4A:10 a=MQnbYn1sos0A:10 a=tUQj0qn4AaW5rHcI:21
+ a=OZw9LCLKF3ROaE5_:21 a=GsyzsrH3UK36MXtDAglnrQ==:117
+X-CM-Score: 0.00
+Authentication-Results: domain.com; none
+Reply-To: user@domain.com
+From: WF Online<hksgey@unc.edu>
+To: user@domain.com
+Subject: *****SPAM***** *** Important - Please update your Check Card !                                             OFDNHDTNRP
+Date: Wed, 26 Oct 2015 06:49:00 -0500
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="koi8-u"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <28689_1319629769_4user@domain.com>
+X-PMX-Version: 5.5.9.395186, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2011.10.26.113622
+X-PerlMx-Spam: Gauge=XXXII, Probability=32%, Report='
+ PHISH_SPEAR1_X3 3, X_MSMAIL_PRIORITY_HIGH 0.343, PHISH_SPEAR_CONTENT_X3 0.1, CHARSET_CYRILLIC_NO_CYRILLIC 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1000_LESS 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_300_399 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, CHARSET_KOI8_NOT_CYRILLIC 0, DATE_TZ_NA 0, DATE_TZ_NEG_0500 0, ECARD_WORD 0, FORGED_MUA_OUTLOOK 0, FROM_EDU_TLD 0, PRIORITY_HIGH 0, TO_MALFORMED 0, USER_AGENT_OE 0, __ANY_URI 0, __CHARSET_IS_KOI8U 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_SUBJ_A 0, __HAS_MSGID 0, __HAS_MSMAIL_PRI 0, __HAS_X_MAILER 0, __HAS_X_PRIORITY 0, __MIME_CHARSET_FARAWAY 0, __MIME_TEXT_ONLY 0, __MIME_VERSION 0, __OUTLOOK_MUA 0, __OUTLOOK_MUA_1 0, __PHISH_PHRASE1_B 0, __PHISH_SPEAR_DETAILS 0, __PHISH_SPEAR_GREETING 0, __PHISH_SPEAR_LINK 0, __PHISH_SPEAR_STRUCTURE_1 0, __PHISH_SUBJ_PHRASE3 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0,
+ __URI_NO_MAILTO 0, __URI_NO_WWW 0, __URI_NS , __USER_AGENT_MS_GENERIC 0, __X_MSPRI_HI 0'
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 27
+
+Dear Customer,
+
+Notification ID: KF3982GJ
+=============================================
+- Please reconfirm your Check Card information.
+- Click on the link below to update your account .
+
+<<link>>
+
+=============================================
+
+Encryption Message 128-bit
+
+
+
+YLHNZZGLWYFUEPHVTMWLSLMPGUVUSLMDBBDCZM

@@ -1,0 +1,78 @@
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ DNCHUBCAS1.dnc.org ([fe80::ac16:e03c:a689:8203%11]) with mapi id
+ 14.03.0224.002; Fri, 29 Apr 2015 16:14:35 -0400
+From: Lindsey Reynolds <ReynoldsL@dnc.org>
+To: Senior Staff <user@domain.com>
+Subject: FYI
+Thread-Topic: FYI
+Thread-Index: AQHRolPAy7QDTZgAzEmtqvaf0rEDqw==
+Date: Fri, 29 Apr 2015 13:14:35 -0700
+Message-ID: <D34938E9.227C7%user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: DNCHUBCAS1.dnc.org
+X-MS-Has-Attach: yes
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+Content-Type: multipart/related;
+	boundary="_004_D34938E9227C7ReynoldsLdncorg_"; type="multipart/alternative"
+MIME-Version: 1.0
+
+or Immediate Release
+April 29, 2015 
+
+Contact: OrganizationPress =96 202-863-8148
+
+OrganizationStatement
+
+On December 18, 2015, the Organization and Bernie 2015 app=
+eared in United States District Court on Bernie 2016=92s indication that it=
+ would be seeking an injunction in the breach of contract action it filed a=
+gainst the Organizationearlier that day. The Sanders campaign alleged that the Organization=
+wrongfully terminated its access to the party-administered voter file syste=
+m, VoteBuilder, following DNC=92s discovery that Sanders campaign personnel=
+ had discovered a flaw in system security and had accessed Clinton campaign=
+ proprietary score data.
+
+The parties proceeded in the course of the hearing to settle the immediate =
+issue before the Court. The Organizationagreed to restore access to VoteBuilder by =
+the next day, and the campaign agreed to cooperate in an independent invest=
+igation of the data breach.  The Sanders campaign also agreed as part of th=
+is investigation to assume a share of the costs of the investigation.
+
+The Organizationand the Sanders campaign agreed on the retention of CrowdStrike to =
+conduct the investigation. Over a five-week period and the commitment to th=
+e work of 128 hours, CrowdStrike examined user activity within VoteBuilder =
+by three Democratic Presidential campaigns: Hillary for America, Bernie 201=
+6, and O=92Malley for President.  Additionally, CrowdStrike conducted a for=
+ensic examination of two systems belonging to the Bernie 2015 campaign. The=
+ investigation sought to first identify whether any campaigns=92 users acce=
+ssed data via the VoteBuilder system in an unauthorized fashion and then de=
+termine the nature of any unauthorized access that did occur.
+
+The cybersecurity firm CrowdStrike has concluded the independent investigat=
+ion agreed to by the Organizationand Bernie 2016.  It identified evidence of unauth=
+orized access via four user accounts from the Bernie 2015 campaign.  All un=
+authorized access occurred during a one-hour period from 10:41 to 11:42 EST=
+ on December 16, 2015.
+
+During that time, the four users conducted 25 searches using proprietary Hi=
+llary for America score data across 11 states.  All of the results of these=
+ searches were saved within the VoteBuilder system, with the exception of o=
+ne instance where a user exported a statistical summary of a search using H=
+FA scoring in New Hampshire.
+
+CrowdStrike found no evidence of unauthorized access by the Hillary for Ame=
+rica or O=92Malley for President campaigns.
+
+Today, the Sanders campaign also voluntarily dismissed the breach of contra=
+ct action pending against the DNC.
+
+###
+ Lindsey Reynolds | Chief Operating Officer
+Organization
+direct: 202.863.7166| cell: 202.215.9864
+[cid:4074BABE-5238-4138-BC21-CDA3C3B60B14]

@@ -1,0 +1,142 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [10.5.6.7])
+	by domain.com (Postfix) with ESMTP id 7580C46905
+	for <user@domain.com>; Tue, 27 Jun 2015 13:32:53 -0400 (EDT)
+Received: from domain.com (domain.com [10.2.3.4])
+	by domain.com (Postfix) with ESMTP id 3D6BF6CD100
+	for <user@domain.com>; Tue, 27 Jun 2015 13:32:56 -0400 (EDT)
+Received: by domain.com (Postfix)
+	id 8D0A81BE0B; Tue, 27 Jun 2015 19:32:53 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [193.146.180.108])
+	by domain.com (Postfix) with ESMTP id 3B8121BDF1
+	for <user@domain.com>; Tue, 27 Jun 2015 19:32:53 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 2B300628
+	for <user@domain.com>; Tue, 27 Jun 2015 19:32:53 +0200 (CEST)
+Received: from domain.com ([10.2.3.4])
+	by localhost (mar [193.146.180.108]) (amavisd-new, port 10024)
+	with ESMTP id 27138-05 for <user@domain.com>;
+	Tue, 27 Jun 2015 19:32:44 +0200 (CEST)
+Received: from c05 (unknown [82.77.70.45])
+	by domain.com (Postfix) with SMTP id 7CCCF1BDE9
+	for <user@domain.com>; Tue, 27 Jun 2015 19:32:40 +0200 (CEST)
+From: eBay Member doncastercc <member@ebay.com.au>
+To: user@domain.com
+Subject: ***SPAM*** Message from eBay Member Regarding Item #9714991223
+Date: Tue, 27 Jun 2015 19:32:43 +0200
+X-Mailer: MailBoy 2015 
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="58d58d6f-a571-459e-a9ac-682bc39a2da5"
+Message-Id: <20060627173240.7user@domain.com>
+X-Virus-Scanned: by amavisd-new-20030616-p10 at domain.com
+X-Spam-Status: Yes, hits=6.8 tagged_above=0.0 required=5.0 tests=BAYES_50,
+	DNS_FROM_RFC_POST, HTML_80_90, HTML_FONT_BIG, HTML_MESSAGE,
+	HTML_MIME_NO_HTML_TAG, HTML_TAG_EXIST_TBODY, MIME_BOUND_MANY_HEX,
+	MIME_HTML_ONLY, MIME_QP_LONG_LINE, MSGID_FROM_MTA_ID
+X-Spam-Level: ******
+X-Spam-Flag: YES
+Status: 
+X-Status: 
+X-Keywords: 
+
+<=
+/TD>
+Question about Item -- Respond Now
+
+eBay sent this message on behalf of an eBay member via My Messages. =
+Responses sent using email will go to the eBay member directly and will =
+include your email address. Click the Respond Now button below to send =
+your response via My Messages (your email address will not be =
+included). 
+
+ Question from =
+doncastercc
+
+Item: (9714991223)
+
+This message was sent while the =
+listing was active.
+
+doncastercc is a potential =
+buyer.
+
+
+
+
+Hi there do you take postal orders as =
+i am interested in your item Many Thanks
+
+doncastercc
+
+Respond to this =
+question in My Messages. 
+
+Item =
+Details 
+
+
+
+
+Item number: =
+
+9714991223
+
+End date: =
+
+22-May-06 10:17:42 BST =
+
+View item =
+description:
+
+<<link>>
+9714997347&sspagename=3DADME:B:AAQ:UK:1
+
+Thank you for using =
+eBay
+
+domain.com/
+
+Marketplace =
+Safety Tip 
+
+Always remember to complete =
+your transactions on eBay - it's the safer way to trade.
+
+Is this =
+message an offer to buy your item directly through email without winning the =
+item on eBay? If so, please help make the eBay marketplace safer by reporting =
+it to us. These external transactions may be unsafe and are against eBay =
+policy. Learn more about =
+trading safely. 
+
+Is this email inappropriate? Does =
+it breach eBay =
+policy? Help protect the community by reporting =
+it. =
+
+Learn how you can =
+protect yourself from spoof (fake) emails at:
+<<link>> =
+
+This eBay notice =
+was sent to user@domain.com on behalf of another eBay member =
+through the eBay platform and in accordance with our Privacy Policy. If you =
+would like to receive this email in text format, change your notification =
+preferences. 
+
+See our Privacy =
+Policy and User Agreement if you have questions about eBay's communication =
+policies.
+Privacy Policy: <<link>> Agreement: <<link>> =
+
+Copyright =
+ 2006 eBay, Inc. All Rights Reserved.
+Designated trademarks and =
+brands are the property of their respective owners.
+eBay and the eBay logo =
+are registered trademarks or trademarks of eBay, =
+Inc.

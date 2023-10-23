@@ -1,0 +1,83 @@
+Received: from domain.com (146.215.230.102) by
+ domain.com (43.130.141.77) with Microsoft SMTP Server id
+ 8.3.297.1; Mon, 25 Nov 2015 19:26:33 -0800
+Received: from domain.com ([160.33.194.230])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id rAQ3QWRI022364	for <user@domain.com>; Tue, 26 Nov 2015 
+ 03:26:32 GMT
+Received: from mail80-am1-domain.com (mail-domain.com
+ [213.199.154.203])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id rAQ3QVol006190
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Tue, 26 Nov 2015 03:26:31 GMT
+Received: from mail80-am1 (localhost [127.0.0.1])	by mail80-am1-domain.com
+ (Postfix) with ESMTP id C58082000E5	for <user@domain.com>; Tue, 26
+ Nov 2015 03:26:30 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:192.64.236.105;KIP:(null);UIP:(null);IPV:NLI;H:mx-domain.com;RD:mx-domain.com;EFVD:NLI
+X-SpamScore: 1
+X-BigFish: vps1(z579ehzc545Ic89bhc857hdbb0izz1f42h2148h208ch1ee6h1de0h1fdah2073h2146h1202h1e76h1d1ah1d2ah1fc6hzz1d7338h1de098h17326ah1def87h8275bh1bc7b9h8275dh1def86h1de097h1de096h186068h1def03h172c6ch1ce120hz2fheh5fh839ha12he5bh1288h12a5h137ah139eh13eah1441h14ddh1504h1537h162dh1631h1758h1898h18e1h1946h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1e23h1fe8h1ff5h20f0h2218h2216h226dh214ai1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail80-am1: domain of domain.com designates 192.64.236.105 as permitted sender) client-ip=192.64.236.105; user@domain.com; helo=mx-domain.com ;domain.com ;
+Received: from mail80-am1 (localhost.localdomain [127.0.0.1]) by mail80-am1
+ (MessageSwitch) id 1385436389186994_9195; Tue, 26 Nov 2015 03:26:29 +0000
+ (UTC)
+Received: from domain.com (unknown [10.3.201.251])	by
+ mail80-domain.com (Postfix) with ESMTP id 260A93E0109	for
+ <user@domain.com>; Tue, 26 Nov 2015 03:26:29 +0000 (UTC)
+Received: from mx-domain.com (192.64.236.105) by domain.com
+ (10.3.207.111) with Microsoft SMTP Server id 14.16.227.3; Tue, 26 Nov 2015 
+ 03:26:28 +0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1385436388;
+	s=sailthru; d=variety.com;
+	h=Date:From: Variety Breaking News <donotreply@variety.com>
+	bh=nkL4qQUA9ukugnST5WEFQhS1LY3bApNFZ45zbFufPn0=;
+	b=h3FeqWzOw/2jOwgwlGNqEMNCBMuIehCElv3y4XoJDNhIWiD9Velk8/p+wWp6EdUs
+	MhrjRktZSAe3u8lowbeHS8eR3yg/B5Rpoiu3rUjtwN4swGP8SFfYYPeT3R65QdoujC/
+	WwrkIhNbaY3DIkd7P7ftw6ZRoaFV85Dy/rgw5+FA=
+Date: Mon, 25 Nov 2015 22:26:28 -0500
+From: Variety Breaking News <donotreply@variety.com>
+To: <user@domain.com>
+Message-ID: <20131126032628.2066803.20651@domain.com>
+Subject: Variety Screening Series Q&A: 'Despicable Me 2' Filmmakers,
+ Composer Pharrell Williams Talk Minions and Music
+Precedence: bulk
+X-TM-ID: 20131126032628.2066803.20651
+X-Info: Message sent by domain.com customer Variety
+X-Info: We do not domain.com unsolicited commercial email
+X-Info: Please report abuse by forwarding complete headers to
+X-Info: user@domain.com
+X-Mailer: domain.com
+X-IADB-IP: 192.64.236.105
+X-IADB-IP-REVERSE: 105.236.64.192
+X-IADB-URL: <<link>>
+X-Unsubscribe-Web: <<link>>
+List-Unsubscribe: <<<link>>>, <mailto:user@domain.com>
+X-rpcampaign: stcoy2066803
+Return-Path: user@domain.com
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+Composer Pharrell talks about how excited he was to work on "Despicable Me 2": "There's an inner... 
+
+​ 
+
+Variety         
+
+Breaking News   
+
+Monday, November 25, 2015       
+
+​ 
+
+        Variety Screening Series Q&A: 'Despicable Me 2' Filmmakers, Composer Pharrell Williams Talk Minions and Music           
+        Composer Pharrell talks about how excited he was to work on "Despicable Me 2": "There's an inner child in me that just wouldn't l...            
+        Full Story              
+
+
+
+
+Subscribe to Other Variety Newsletters   <<link>>         
+This e
+

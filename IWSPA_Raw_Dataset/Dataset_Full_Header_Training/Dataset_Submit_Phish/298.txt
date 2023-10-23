@@ -1,0 +1,77 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id 3E65A4688F
+	for <user@domain.com>; Thu,  2 Apr 2015 14:23:18 -0400 (EDT)
+Received: from domain.com (bio.hgy.es [193.146.180.21])
+	by domain.com (Postfix) with ESMTP id A8F41131F722
+	for <user@domain.com>; Thu,  2 Apr 2015 14:23:04 -0400 (EDT)
+Received: by domain.com (Postfix)
+	id A5C731B665; Thu,  2 Apr 2015 20:23:01 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [193.146.180.108])
+	by domain.com (Postfix) with ESMTP id 872BF1B68F;
+	Thu,  2 Apr 2015 20:23:01 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 089301867;
+	Thu,  2 Apr 2015 20:23:01 +0200 (CEST)
+X-Quarantine-ID: <M75Z-2bzo4r8>
+X-Virus-Scanned: Debian amavisd-new at domain.com
+X-Spam-Flag: YES
+X-Spam-Score: 21.961
+X-Spam-Level: *********************
+X-Spam-Status: Yes, score=21.961 tagged_above=0 required=5
+	tests=[BAYES_99=3.5, HTML_MESSAGE=0.001, RAZOR2_CF_RANGE_51_100=0.5,
+	RAZOR2_CF_RANGE_E4_51_100=1.5, RAZOR2_CF_RANGE_E8_51_100=1.5,
+	RAZOR2_CHECK=12, RCVD_IN_PBL=0.905, RDNS_NONE=0.1, URIBL_BLACK=1.955]
+Received: from domain.com ([193.146.180.21])
+	by localhost (domain.com [193.146.180.108]) (amavisd-new, port 10024)
+	with ESMTP id M75Z-2bzo4r8; Thu,  2 Apr 2015 20:22:17 +0200 (CEST)
+Received: from [190.234.10.57] (unknown [190.234.10.57])
+	by domain.com (Postfix) with ESMTP id 941721B665;
+	Thu,  2 Apr 2015 20:21:45 +0200 (CEST)
+Received: from [190.234.10.57] by domain.com; Thu, 2 Apr 2015 13:22:16 -0500
+Message-ID: <01c9b396$0a893400$390user@domain.com>
+From: "USAA" <USAA.Web.Services@customermail.usaa.com>
+To: <user@domain.com>
+Subject: ***SPAM*** Message from customer service (message id: 1863357992)
+Date: Thu, 2 Apr 2015 13:22:16 -0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0007_01C9B396.0A893400"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.2663
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.2663
+Content-Length: 8049
+Lines: 198
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1025
+
+To ensure delivery to your inbox, please add user@domain.com=
+domain.com to your address book.
+
+Confirmation Form  Online Security Guarantee   Dear USAA Customer,We woul=
+d like to inform you that we have released a new version of USAA Confirma=
+tion Form. This form is required to be completed by all USAA customers. P=
+lease use the button below in order to access the form:
+Access USAA Confrmation Formhank you,
+USAA
+
+
+
+ Please do not reply to this e-mail. To send a secure message to USAA, pl=
+ease contact us.
+
+Privacy Promise
+USAA, 9800 Fredericksburg Road, San Antonio, Texas 78288
+USAA means United Services Automobile Association and its insurance, bank=
+ing, investment and other
+ companies. Banks Member FDIC. Investments provided by USAA Investment Ma=
+nagement Company
+ and USAA Financial Advisors Inc., both registered broker dealers.
+66661-1208   
+

@@ -1,0 +1,77 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (unknown [75.102.5.22])
+	by domain.com (Postfix) with ESMTP id 0C9C6468C8
+	for <user@domain.com>; Mon, 15 Jun 2015 09:47:03 -0400 (EDT)
+Received: from localhost (localhost [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id A3340232015;
+	Mon, 15 Jun 2015 13:49:36 +0000 (UTC)
+X-Virus-Scanned: amavisd-new at domain.com
+X-Spam-Flag: YES
+X-Spam-Score: 8.785
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.785 tagged_above=-10 required=6.6
+	tests=[AV:HTML.Phishing.Bank-573=0.1,  BAYES_50=0.001,
+	FORGED_MUA_OUTLOOK=3.116, FORGED_OUTLOOK_HTML=0.001,
+	FORGED_OUTLOOK_TAGS=0.001, FORGED_YAHOO_RCVD=2.297,
+	HTML_IMAGE_ONLY_28=1.561, HTML_MESSAGE=0.001, MIME_HTML_ONLY=1.457,
+	URIBL_GREY=0.25]
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id yNYh9vtUr0Tu; Mon, 15 Jun 2015 13:49:32 +0000 (UTC)
+Received: from smtp27.orange.fr (smtp27.orange.fr [80.12.242.96])
+	by domain.com (Postfix) with ESMTP id ACF78232004
+	for <user@domain.com>; Mon, 15 Jun 2015 13:49:32 +0000 (UTC)
+Received: from me-domain.com (localhost [127.0.0.1])
+	by mwinf2721.orange.fr (SMTP Server) with ESMTP id D0A091C00091;
+	Mon, 15 Jun 2015 15:46:52 +0200 (CEST)
+Received: from domain.com.fr (LMontsouris-152-62-23-112.w80-13.abo.wanadoo.fr [80.13.22.112])
+	by mwinf2721.orange.fr (SMTP Server) with ESMTP id 510D01C00081;
+	Mon, 15 Jun 2015 15:46:52 +0200 (CEST)
+X-ME-UUID: 20090615134652332.510user@domain.com
+Received: from User ([72.253.223.76]) by domain.com.fr with Microsoft SMTPSVC(6.0.3790.1830);
+	 Mon, 15 Jun 2015 15:40:47 +0200
+Reply-To: user@domain.com
+From: Citi<mdkhqw@yahoo.com>
+Subject: Account Data Confirmation
+Date: Mon, 15 Jun 2015 03:46:52 -1000
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <user@domain.com>
+X-OriginalArrivalTime: 15 Jun 2015 13:40:47.0500 (UTC) FILETIME=[E39C24C0:01C9EDBE]
+To: undisclosed-recipients:;
+Content-Length: 2015 
+Lines: 41
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1078
+
+Citibank is constantly working to ensure security by regularly screening the accounts in our system. We recently reviewed your account, and we need more information to help us provide you with a secure service. Until we can collect this information, your access to your account features will be restricted. We would like to restore your access as soon as possible, and we apologize for the inconvenience. 
+
+Why is my account access restricted?
+
+Your account access has been restricted for the following reason(s):
+
+15 June 2009: We have reason to believe that your account was accessed by a third party as different computers have logged into your Online Banking account and multiple password failures where presented before the logons. We now need you to re-confirm your account information to us. We understand that having restricted access can be an inconvenience, but protecting your account is our primary concern.
+
+How can I restore my account access?
+
+Please domain.com the link below, log into your account and complete the secure verification form:
+
+<<link>>
+
+In accordance with our Online Banking User Agreement, your account access will remain restricted until the issue has been resolved. Unfortunately, if access to your account remains restricted for an extended period of time, we will be forced to close your account as it may have been used for fraudulent purposes. We encourage you to log in to your Online Banking account as soon as possible to help avoid this. 
+
+
+
+Thank you for your patience,
+
+Citibank Customer Service

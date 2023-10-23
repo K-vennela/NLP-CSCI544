@@ -1,0 +1,276 @@
+@media only screen and (max-device-width: 480px) {
+body {
+font-family: Arial, Sans-Serif;
+}
+.desktop {display:none; display:none !important}
+.mobile {
+display:block !important; 
+overflow:visible !important;
+float: none !important;
+width: auto !important;
+height: auto !important;
+}
+table.root {
+width: 100%;
+}
+a {
+text-decoration: none;
+color: #00357E;
+}
+}
+TECHNOLOGY
+Thursday, Oct. 9, 2014
+TOP NEWS
+AT&T; Pays $105M To FTC, FCC, AGs Over Mobile Cramming
+AT&T; Inc. will pay $105 million to settle claims from the Federal Trade Commission, Federal Communications Commission and state attorneys general that it hit consumers with unauthorized, third-party charges on their mobile phone bills, a practice known as mobile cramming, officials announced on Wednesday.
+Google Takes Java Copyright Fight To Supreme Court
+Google Inc. has asked the U.S. Supreme Court to hear its dispute with Oracle Corp. over copyrights on Java language, arguing that if the appellate ruling in its case is allowed to stand, the software industry would be severely hampered, according to a certiorari petition docketed Wednesday.
+Minn. Supreme Court OKs $630M Seagate Trade Secret Win
+Minnesota’s Supreme Court upheld a $630 million trade secrets arbitration award Wednesday for hard drive maker Seagate Technology LLC against Western Digital Corp. and a former employee who jumped to the rival company.
+Nokia Says Leak Docs May Justify More Samsung Sanctions
+Nokia Corp. urged a California federal judge on Wednesday to force Samsung Electronics Co. Ltd. to cough up documents related to Samsung’s leak of Nokia patent-license terms in an ongoing patent war with Apple Inc., arguing that those documents may support more sanctions than the $2 million Samsung already must pay.
+Apple Fights For Samsung Patent Injunction At Fed. Circ.
+Apple Inc. has asked the Federal Circuit to bar Samsung Electronics Co. Ltd. from including features its smartphones that a jury found to infringe Apple's patents, saying a lower court judge used the wrong standard when she refused to issue an injunction.
+New Patent Suits Drop Off Sharply From Last Year
+The number of new patent cases filed in federal court dropped by 40 percent this September in comparison with last year, the legal analytics firm Lex Machina reported Wednesday, perhaps demonstrating the impact of the U.S. Supreme Court’s recent ruling in Alice Corp.
+POLICY & REGULATION
+Google, Facebook Vow To Bolster Efforts To Block NSA Spying
+Executives from Google Inc., Microsoft Corp. and Facebook Inc. pledged Wednesday to step up encryption efforts and fortify barriers to government surveillance in response to what they described as Congress' inability to put in place robust privacy laws.
+Commerce Docks Intel Unit For Illegal Encryption Exports
+The U.S. Department of Commerce on Wednesday slapped an Intel Corp. subsidiary with a $750,000 civil penalty as part of a deal to settle charges that it sold data encryption software to various foreign governments and sanctioned organizations without proper government licensing.
+Brazil Eyes Fines for Mitsubishi, Others In Electrodes Cartel
+Brazil’s antitrust watchdog on Tuesday accused eight manufacturers of organizing a cartel in the international graphite electrodes market, following other nations that have hit some of the same companies with fines for anti-competitive agreements during the 1990s.
+IBM, Oracle Prod Congress To Clarify FDA's Health IT Powers
+Fifty-eight groups and companies, including IBM Corp. and Oracle Corp., on Monday urged Congress to enact legislation by year’s end that eliminates uncertainty over which health information technology is and is not subject to U.S. Food and Drug Administration oversight.
+LITIGATION
+Brocade Fights Claim It Stole Tech Trade Secrets For Patent
+Brocade Communication Systems Inc. urged a California federal judge on Wednesday to axe Next Generation Systems Inc.’s claim that Brocade stole NGS’ proprietary information and used it to file a similar networking patent, arguing that NGS’ trade secret claim fails because NGS disclosed the supposed secret in its own patent.
+Google Says Wallet User's Latest Privacy Suit Still Fails
+Google Inc. asked a California federal judge to throw out an amended putative class action alleging the tech giant breached user contracts by giving consumer data from Google Wallet users to third-party app developers, saying Tuesday that there is no significant difference from the dismissed, original complaint.
+DEALS
+Activist Elliott Urges EMC To Split Units, Pursue Deals
+Activist hedge fund Elliott Management Corp. on Wednesday took a firmer stance on its biggest tech buy-in to date, pressing $57 billion tech giant EMC Corp. to split apart its operations and consider selling off assets as a gateway to new value.
+EXPERT ANALYSIS
+Wearable Health Industry Has To Be Proactive On Privacy
+The vast bulk of medical information collected by wearable technology is not subject to Health Insurance Portability and Accountability Act protections. Accordingly, consumers, developers, businesses and manufacturers are in uncharted waters, says Karen Bromberg of Cohen & Gresser LLP.
+Methodologies For Calculating FRAND Damages: Part 1
+Several federal courts have ruled on the appropriate methodology for calculating a royalty rate or damages on a standard-essential patent licensed on fair, reasonable and nondiscriminatory terms. While some common principles have emerged, these decisions are far from providing a consensus on FRAND licensing, say Anne Layne-Farrar of Charles River Associates and Koren Wong-Ervin, counsel at the Federal Trade Commission.
+LEGAL INDUSTRY
+7 Habits Of Highly Effective Associates
+When partners need an associate on a high-profile deal or case, they look for attorneys that have consistently proven their snuff on routine matters. From honing impeccable organizational skills to researching the technical capabilities of courtrooms, here are seven habits associates should form to become in-demand members of the team.
+BigLaw Putting More Cash In Piggy Bank After Firm Failures
+An increasing number of BigLaw firms this year socked away cash and relied less on bank debt to pay their bills in an effort to not repeat the mistakes of firms sunk by debt, according to a recent bank survey and firm finance experts.
+Firms Can't Bill For Transitioning Work In A Sale, ABA Says
+The American Bar Association on Wednesday issued a formal opinion clarifying guidelines on the sale of a law practice and explicitly barred lawyers on both sides of a sale from billing for time spent transitioning client work.
+Veteran Judge Confirmed To Del. Supreme Court
+Long-serving jurist James T. Vaughn Jr., head of the Delaware Superior Court for the past decade, is set to join the First State's top judicial body after the state Senate unanimously confirmed his nomination to the Delaware Supreme Court on Wednesday.
+Pro Bono Firm Of 2014: Hughes Hubbard
+A pair of historic immigration victories for gay couples highlighted a banner year of service for Hughes Hubbard & Reed LLP, earning the firm a spot on Law360's list of top pro bono firms.
+Titan Of The Plaintiffs Bar: Ben Barnow
+Thirty years ago, the firm now known as Barnow and Associates PC defended corporations. Today, it’s a plaintiffs class action outfit known for winning big-time antitrust and data breach settlements from Microsoft Corp., Bank of America Corp. and other companies, thanks in large part to one man: Ben Barnow.
+JOBS
+IP Licensing Attorney (eBay, Inc.)
+eBay, Inc
+San Jose, California
+Intellectual Property Litigation Attorney
+Greenberg Traurig
+East Palo Alto, California
+Patent Attorney
+Apple, Inc.
+Cupertino, California
+Patent Attorney
+Apple, Inc.
+Cupertino, California
+Organizations In The News
+COMPANIES
+AT&T Inc.
+Alcatel-Lucent
+Altman Weil Inc.
+American Bar Association
+Apple Inc.
+Bank of America Corporation
+Brocade Communications Systems, Inc.
+Burson-Marsteller Inc.
+Cisco Systems Inc.
+Citigroup Inc.
+Commonwealth Scientific Industrial Research Org.
+D-Link Corporation
+EMC Corporation
+Facebook
+Fujifilm
+Google Inc.
+Graftech International, Ltd.
+Hewlett Packard Co.
+Home Depot, Inc.
+Intel Corporation
+International Business Machines Corporation
+LM Ericsson Telephone Company
+LSI Corporation
+McKesson Corporation
+Microsoft Corporation
+Mitsubishi Corp.
+Motorola Mobility LLC
+Nokia Corporation
+Oracle Corporation
+PayPal Inc.
+Riverbed Technology, Inc.
+Samsung Electronics
+Seagate Technology
+T-Mobile USA Inc.
+Target Corporation
+U.S. Chamber of Commerce
+Wells Fargo & Co.
+Western Digital Corporation
+Wi-LAN Inc.
+Wind River Systems Inc.
+Xerox Corporation
+eBay Inc.
+LAW FIRMS
+Alston & Bird
+Arnold & Porter
+Bassford Remele
+Beirne Maynard
+Bowman and Brooke
+Cohen & Gresser
+Dentons
+Dewey & LeBoeuf
+Diemer Whitman
+Durie Tangri
+Epstein Becker Green
+Gardere Wynne
+Goulston & Storrs
+Greene Espel
+Hogan Lovells
+Hughes Hubbard
+K&L Gates
+Keker & Van Nest
+Kirkland & Ellis
+LeClairRyan
+Morrison & Foerster
+Orrick Herrington
+Perkins Coie
+Pillsbury Winthrop
+Quinn Emanuel
+Reed Smith
+Robbins Geller
+Schmittinger & Rodriguez
+Sidley Austin
+Skadden
+Weil Gotshal
+WilmerHale
+Windels Marx
+GOVERNMENT AGENCIES
+Bureau of Industry and Security
+Department of Commerce
+Federal Communications Commission
+Federal Trade Commission
+Food and Drug Administration
+International Trade Commission
+National Security Agency
+Peace Corps
+Securities and Exchange Commission
+U.S. Department of Justice
+U.S. Supreme Court
+ORGANIZATIONS IN THE NEWS
+COMPANIES
+Apple Inc.
+Google Inc.
+Microsoft Corporation
+Oracle Corporation
+Samsung Electronics
+AT&T Inc.
+Alcatel-Lucent
+Altman Weil Inc.
+American Bar Association
+Bank of America Corporation
+Brocade Communications Systems, Inc.
+Burson-Marsteller Inc.
+Cisco Systems Inc.
+Citigroup Inc.
+Commonwealth Scientific Industrial Research Org.
+D-Link Corporation
+EMC Corporation
+Facebook
+Fujifilm
+Graftech International, Ltd.
+Hewlett Packard Co.
+Home Depot, Inc.
+Intel Corporation
+International Business Machines Corporation
+LM Ericsson Telephone Company
+LSI Corporation
+McKesson Corporation
+Mitsubishi Corp.
+Motorola Mobility LLC
+Nokia Corporation
+PayPal Inc.
+Riverbed Technology, Inc.
+Seagate Technology
+T-Mobile USA Inc.
+Target Corporation
+U.S. Chamber of Commerce
+Wells Fargo & Co.
+Western Digital Corporation
+Wi-LAN Inc.
+Wind River Systems Inc.
+Xerox Corporation
+eBay Inc.
+LAW FIRMS
+Morrison & Foerster
+Orrick Herrington
+Quinn Emanuel
+WilmerHale
+Alston & Bird
+Arnold & Porter
+Bassford Remele
+Beirne Maynard
+Bowman and Brooke
+Cohen & Gresser
+Dentons
+Dewey & LeBoeuf
+Diemer Whitman
+Durie Tangri
+Epstein Becker Green
+Gardere Wynne
+Goulston & Storrs
+Greene Espel
+Hogan Lovells
+Hughes Hubbard
+K&L Gates
+Keker & Van Nest
+Kirkland & Ellis
+LeClairRyan
+Perkins Coie
+Pillsbury Winthrop
+Reed Smith
+Robbins Geller
+Schmittinger & Rodriguez
+Sidley Austin
+Skadden
+Weil Gotshal
+Windels Marx
+GOVERNMENT AGENCIES
+U.S. Supreme Court
+Federal Trade Commission
+Bureau of Industry and Security
+Department of Commerce
+Federal Communications Commission
+Food and Drug Administration
+International Trade Commission
+National Security Agency
+Peace Corps
+Securities and Exchange Commission
+U.S. Department of Justice
+JOBS
+IP Licensing Attorney (eBay, Inc.)
+eBay, Inc
+San Jose, California
+Intellectual Property Litigation Attorney
+Greenberg Traurig
+East Palo Alto, California
+Patent Attorney
+Apple, Inc.
+Cupertino, California
+Patent Attorney
+Apple, Inc.
+Cupertino, California

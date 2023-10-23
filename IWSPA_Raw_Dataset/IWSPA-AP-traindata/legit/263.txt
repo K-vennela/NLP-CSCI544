@@ -1,0 +1,11 @@
+Ciao Alberto e Fabrizio,
+da oggi iniziero' a lavorare sull'attacco Youtube per Android per il
+Network Injector.
+Purtroppo, su Android non posso mandare un apk con Flash in quanto e'
+abbastanza risaputo dall'utente finale medio che Flash non e' supportato
+su Android.
+Potete consigliarmi un eventuale apk abbastanza plausibile da inviare
+durante l'attacco da Youtube?
+Grazie,
+ciao!
+Andrea

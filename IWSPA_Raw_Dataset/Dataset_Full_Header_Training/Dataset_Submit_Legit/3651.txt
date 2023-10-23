@@ -1,0 +1,95 @@
+Received: from domain.com (146.215.230.104) by
+ domain.com (43.130.141.78) with Microsoft SMTP Server id
+ 8.3.342.0; Tue, 1 Apr 2015 10:01:41 -0700
+Received: from domain.com ([160.33.194.231])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s31H1etu021638	for <user@domain.com>; Tue, 1 Apr 2015 
+ 17:01:41 GMT
+Received: from mail81-am1-domain.com (mail-domain.com
+ [213.199.154.199] (may be forged))	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s31H349R001207
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Tue, 1 Apr 2015 17:03:05 GMT
+Received: from mail81-am1 (localhost [127.0.0.1])	by mail81-am1-domain.com
+ (Postfix) with ESMTP id 7182432013F	for <user@domain.com>; Tue,  1
+ Apr 2015 17:01:39 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:192.64.237.125;KIP:(null);UIP:(null);IPV:NLI;H:mx-directbrands-domain.com;RD:mx-directbrands-domain.com;EFVD:NLI
+X-SpamScore: 1
+X-BigFish: vps1(zzc89bh758Ic857hc545Idbb0izz1f42h2148h208ch1ee6h1de0h1fdah2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6hzz8275ch1d7338h1de098h1def03h17326ah1def87h8275bh1bc7b9h8275dh1defc1h1def86h1de097h186068h172c6ch1ce120h1a691ciz2fheh5fh839he5bh1288h12a5h137ah139eh13eah1441h14ddh1504h1537h162dh1631h1758h1898h18e1h1946h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1e23h1fe8h1ff5h20f0h2218h2216h226dh24afh2327h2336h2438h2461h2487h24d7h2516h2545h2565h25f6h2605h268bh26d3h214ai1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail81-am1: domain of domain.com designates 192.64.237.125 as permitted sender) client-ip=192.64.237.125; user@domain.com; helo=mx-directbrands-domain.com ;domain.com ;
+Received: from mail81-am1 (localhost.localdomain [127.0.0.1]) by mail81-am1
+ (MessageSwitch) id 1396371696901148_13792; Tue,  1 Apr 2015 17:01:36 +0000
+ (UTC)
+Received: from domain.com (unknown [10.3.201.234])	by
+ mail81-domain.com (Postfix) with ESMTP id D60F52E0101	for
+ <user@domain.com>; Tue,  1 Apr 2015 17:01:36 +0000 (UTC)
+Received: from mx-directbrands-domain.com (192.64.237.125) by
+ domain.com (10.3.207.112) with Microsoft SMTP Server id
+ 14.16.227.3; Tue, 1 Apr 2015 17:01:36 +0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; s=mt; d=domain.com;
+ h=Date:From: Variety Breaking News <donotreply@variety.com>
+ bh=K/LNQUuc7h6bC0dzyDs7uWryj0o=;
+ b=JrVMKTGIW69zDMft+yLIX6ybtrfSLRvjiO6BjGZlLcAG37NqHFVAQZ6HkUO5vdh4OcZ8S76u227K
+   yWs41UubGqQeyjY7qY63iqs2UaqF+rkVQb/QW6GvUJYEVPd/39tb/ChRGjWw+Cq9unYKK3gq/DK9
+   4qUqzFShzgnXwVdWd6o=
+Received: from nyp1-p-p4120-prd-jma-25.sailthru.pvt (65.39.215.177) by
+ mx-directbrands-domain.com id h7bocg1qqbsf for <user@domain.com>;
+ Tue, 1 Apr 2015 13:00:56 -0400 (envelope-from <user@domain.com>)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1396371696;
+	s=sailthru; d=variety.com;
+	h=Date:From: Variety Breaking News <donotreply@variety.com>
+	bh=HmSTdj4kc6kGbQ9YwrpMpCSWqktdNdz+l1+CNpiJTTY=;
+	b=AYe79DvVVHM8+WysIvdYnd83G8zldrhBamyyt9vMk9Kt4l5T/H3sOhrtE/hpczcE
+	428nl/2SmNwFXHwn/54/s36CJgIjvTVeIpnrKhtqZ28lcuKYv4VHRGgnUSqt/V9HdbG
+	AwSqLMTAekiu/cDCfjD1je2nQl2M1wTp7KckcHKo=
+Date: Tue, 1 Apr 2015 13:01:36 -0400
+From: Variety Breaking News <donotreply@variety.com>
+To: <user@domain.com>
+Message-ID: <20140401170136.2536078.19185@domain.com>
+Subject: Universal to Move Head of Int'l Theatrical Operations Post to L.A.
+Precedence: bulk
+X-TM-ID: 20140401170136.2536078.19185
+X-Info: Message sent by domain.com customer Variety
+X-Info: We do not domain.com unsolicited commercial email
+X-Info: Please report abuse by forwarding complete headers to
+X-Info: user@domain.com
+X-Mailer: domain.com
+X-JMailer: nyp1-p-p4120-prd-jma-25.sailthru.pvt
+X-IADB-IP: 65.39.215.25
+X-IADB-IP-REVERSE: 25.215.39.65
+X-IADB-URL: <<link>>
+X-Unsubscribe-Web: <<link>>
+List-Unsubscribe: <<<link>>>, <mailto:user@domain.com>
+X-rpcampaign: stcoy2536078
+Return-Path: user@domain.com
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+LONDON -- Universal Pictures is changing its international structure and relocating the head of ... 
+
+​ 
+
+Variety         
+
+Breaking News   
+
+Tuesday, April 1, 2014  
+
+​ 
+
+<<link>> 
+
+        Universal to Move Head of Int'l Theatrical Operations Post to L.A.              
+
+        LONDON -- Universal Pictures is changing its international structure and relocating the head of the international theatrical oper...            
+        Full Story              
+
+
+
+
+Check out the redesigned Variety411      <<link>>         
+This email was sent to user@domain.com by Variety. To ensure delivery to your inbox (and no
+

@@ -1,0 +1,132 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Thu, 12 May
+ 2015 20:05:58 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Thu, 12 May 2015 
+ 20:05:54 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 912754457
+ for user@domain.com; Thu, 12 May 2015 19:06:02 -0500
+X-Note-AR-ScanTimeLocal: 5/12/2016 7:06:03 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @hillaryclinton.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->->->United States->
+X-Note-Sending-IP: 209.85.192.199
+X-Note-Reverse-DNS: mail-pf0-domain.com
+X-Note-Return-Path: nationalpress2016+user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mail-pf0-domain.com ([209.85.192.199] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 140369316
+ for user@domain.com; Thu, 12 May 2015 19:06:02 -0500
+Received: by mail-pf0-domain.com with SMTP id 4sf175312152pfw.0
+        for <user@domain.com>; Thu, 12 May 2015 17:05:56 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=hillaryclinton.com; s=google;
+        h=From: Hillary for America Press <press@hillaryclinton.com>
+         :message-id:subject:to:x-original-sender
+         :x-original-authentication-results:precedence:mailing-list:list-id
+         :x-spam-checked-in-group:list-post:list-help:list-archive
+         :list-unsubscribe;
+        bh=TILjtW894fPdT5NT47YggE+uLvl0oJj6mRuEi8FYQLg=;
+        b=TsqKq0FX+oiO2LOoWNvLz2Xnp1sLHpJI+0SrCNl/3Q/d++YuTBelMYe4c118uFbWVR
+         mtqvt/v4Xuip2NxC0EvFZDr/Nhc+NwUy/1runL1CP36paigkxyjo3S9gg+ElP5oISLrh
+         ijY/0Joz9BbdizHu3TBtGK4IYb6wHaafWhDH0=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:From: Hillary for America Press <press@hillaryclinton.com>
+         :thread-index:date:message-id:subject:to:x-original-sender
+         :x-original-authentication-results:precedence:mailing-list:list-id
+         :x-spam-checked-in-group:list-post:list-help:list-archive
+         :list-unsubscribe;
+        bh=TILjtW894fPdT5NT47YggE+uLvl0oJj6mRuEi8FYQLg=;
+        b=iFztw+1YF/MPeM2VEM9bJ/gBmx72LipviO/HqIFuF7tdyXHeVC7cDPcnzjyl7gGe6h
+         b0+2I7MfAtukvfTMEd4bjZ5l4dPY7JFWjUefsCwvkv4e0ipmksJMt9r0w8t95rJNQQZR
+         19GrysuFNzp+clyEtEQVizsyRoTyxBr8Vzo0/nAhhVWyTjAgNHhsurTK+2JF5FMyhBuO
+         G+6RLyZz0FWx9N9PeLnu+DcbOD16faan6SpwkJZJ4rifw5yqhujyGBav59PVNPYpI8+2
+         LrWYeyhFUUMQzKH4l3rCqFHIfKV9KVQljxRRcCmNg3QT+mTgXkDiIvaJ14VWdb1C0xoP
+         it7g==
+X-Gm-Message-State: AOPr4FX/R4yP11CGQoou98yA4hZch1eQ9u1IhNNUYMLa+2J/zz6AOxOvENH4fJPgngecaJ7h
+X-Received: by 10.98.100.149 with SMTP id y143mr8355091pfb.3.1463097956389;
+        Thu, 12 May 2015 17:05:56 -0700 (PDT)
+X-BeenThere: user@domain.com
+Received: by 10.157.12.250 with SMTP id o55ls838719otd.75.gmail; Thu, 12 May
+ 2015 17:05:53 -0700 (PDT)
+X-Received: by 10.202.175.81 with SMTP id y78mr6218270oie.162.1463097953769;
+        Thu, 12 May 2015 17:05:53 -0700 (PDT)
+Received: from mail-oi0-domain.com (mail-oi0-domain.com.
+ [2607:f8b0:4003:c06::22e])        by domain.com with ESMTPS id
+ n6si2895224obk.76.2016.05.12.17.05.53        for
+ <user@domain.com>        (version=TLS1_2
+ cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);        Thu, 12 May 2015 
+ 17:05:53 -0700 (PDT)
+Received-SPF: pass (domain.com: domain of user@domain.com designates 2607:f8b0:4003:c06::22e as permitted sender) client-ip=2607:f8b0:4003:c06::22e;
+Received: by mail-oi0-domain.com with SMTP id v145so145995247oie.0
+        for <user@domain.com>; Thu, 12 May 2015 17:05:53
+ -0700 (PDT)
+X-Received: by 10.157.46.196 with SMTP id w62mr7622122ota.7.1463097953446;
+ Thu, 12 May 2015 17:05:53 -0700 (PDT)
+From: Hillary for America Press <press@hillaryclinton.com>
+References: user@domain.com
+In-Reply-To: user@domain.com
+X-Mailer: Microsoft Outlook 16.0
+Thread-Index: AdGspDRz9vMrrPQiS6yMtAuUdpsUzQABu0ag
+Date: Thu, 12 May 2015 20:05:52 -0400
+Message-ID: <6user@domain.com>
+Subject: President Bill Clinton to Campaign for Hillary Clinton in Puerto Rico
+To: <user@domain.com>
+Content-Type: multipart/related; boundary="001a113d0842c9bb5d0532ae09b4"
+BCC: <user@domain.com>
+X-Original-Sender: user@domain.com
+X-Original-Authentication-Results: domain.com;       dkim=pass
+ user@domain.com;       spf=pass (domain.com: domain of
+ user@domain.com designates 2607:f8b0:4003:c06::22e as permitted
+ sender) user@domain.com;       dmarc=pass
+ (p=QUARANTINE dis=NONE) header.from=hillaryclinton.com
+Precedence: list
+Mailing-list: list user@domain.com; contact nationalpress2016+user@domain.com
+List-ID: <nationalpress2016.hillaryclinton.com>
+X-Spam-Checked-In-Group: user@domain.com
+X-Google-Group-Id: 5632930410
+List-Post: <<<link>>>,
+ <mailto:user@domain.com>
+List-Help: <<<link>>>,
+ <mailto:nationalpress2016+user@domain.com>
+List-Archive: <<<link>>>
+List-Unsubscribe: <mailto:googlegroups-manage+5632930410+user@domain.com>,
+ <<<link>>>
+Return-Path: nationalpress2016+user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+*President Bill Clinton to Campaign for Hillary Clinton in Puerto Rico*
+
+On Monday, May 16, President Bill Clinton will campaign for Hillary Clinton
+in Puerto Rico ahead of the June 5 primary. President Clinton will attend a
+public event.
+
+Additional details about this trip will be released soon.
+
+###
+
+For Immediate Release, May 12, 2015 
+Contact: user@domain.com
+
+PAID FOR BY HILLARY FOR AMERICA
+Contributions or gifts to Hillary for America are not tax deductible.
+Hillary for America, PO Box 5256, New York
+
+-- 
+You received this message because you are subscribed to the Google Groups "NationalPress2016" group.
+To unsubscribe from this group and stop receiving emails from it, send an email to nationalpress2016+user@domain.com

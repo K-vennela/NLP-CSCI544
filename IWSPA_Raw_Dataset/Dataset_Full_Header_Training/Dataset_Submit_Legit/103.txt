@@ -1,0 +1,62 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Wed, 1 Apr 2015 09:01:57 +0200
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id 7BBD4621AA;	Wed,  1 Apr 2015 
+ 07:39:35 +0100 (BST)
+Received: by domain.com (Postfix)	id C0446B6600F; Wed,  1 Apr 2015 
+ 09:01:57 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from EmadPC (unknown [192.168.1.198])	(using TLSv1 with cipher
+ AES256-SHA (256/256 bits))	(No client certificate requested)	by
+ domain.com (Postfix) with ESMTPSA id B3968B6600B;	Wed,  1 Apr 2015 
+ 09:01:57 +0200 (CEST)
+From: Emad Shehata <e.shehata@hackingteam.com>
+To: 'Emad Shehata' <user@domain.com>, <user@domain.com>
+CC: 'rsales' <user@domain.com>
+References: <CADsNJ7qoGWHwYXGo0UarKGp2VQxuPjd+Z2rO3+_user@domain.com> <user@domain.com>
+In-Reply-To: <user@domain.com>
+Subject: R: urgent license
+Date: Wed, 1 Apr 2015 09:01:56 +0200
+Message-ID: <003301d06c49$bdcaeeb0$3960cc10$@user@domain.com>
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AQHQbDlI/JQLXyYf4kmgNBh+dtUb5Z03tNSNgAAGHmA=
+Content-Language: it
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EMAD SHEHATA450
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1252371169_-_-"
+
+Good Morning Aman, License already sent to you on Monday, please check  Emad Shehata
+Key Account Manager
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com
+mobile: +39 3357939078
+phone: +39 0229060603   Da: Emad Shehata [mailto:user@domain.com] 
+Inviato: mercoledì 1 aprile 2015 08:40
+A: 'user@domain.com'
+Cc: rsales
+Oggetto: R: urgent license Good Morning Aman,
+
+You will recevied the license within today.
+
+Best regards 
+-- 
+Emad Shehata 
+Key Account Manager 
+
+Sent from my mobile.
+ Da: Astana Team [mailto:user@domain.com] 
+Inviato: Wednesday, April 01, 2015 07:04 AM
+A: Emad Shehata 
+Oggetto: urgent license 
+ Good afternoon! Please urgently send us a new license with a period of 9.6 supports up to July 1, 2015. We can not create new agents.Previously, we had a license version 9.5.2 before July 1, 2015. kind regards! Aman

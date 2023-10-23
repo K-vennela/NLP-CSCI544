@@ -1,0 +1,90 @@
+Received: from domain.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Mon, 12 May 2015 19:31:05 +0200
+Received: from mail.hackingteam.it (unknown [192.168.100.50])	by
+ domain.com (Postfix) with ESMTP id E0CCD628CC	for
+ <user@domain.com>; Mon, 12 May 2015 18:20:03 +0100 (BST)
+Received: by mail.hackingteam.it (Postfix)	id B70CFB6603E; Mon, 12 May 2015 
+ 19:31:05 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from domain.com (exchange.hackingteam.it
+ [192.168.100.51])	(using TLSv1 with cipher AES128-SHA (128/128 bits))	(No
+ client certificate requested)	by mail.hackingteam.it (Postfix) with ESMTPS id
+ AE5A2B6600D;	Mon, 12 May 2015 19:31:05 +0200 (CEST)
+Received: from domain.com ([fe80::755c:1705:6a98:dcff]) by
+ domain.com ([fe80::755c:1705:6a98:dcff%11]) with mapi id
+ 14.03.0123.003; Mon, 12 May 2015 19:31:04 +0200
+From: Emad Shehata <e.shehata@hackingteam.it>
+To: "User" <user@domain.com>,
+	"'user@domain.com'" <user@domain.com>
+CC: "'user@domain.com'" <user@domain.com>,
+	"'user@domain.com'" <user@domain.com>, Daniele Milan
+	<user@domain.com>
+Subject: R: Re: Demo in Lebanon
+Thread-Topic: Re: Demo in Lebanon
+Thread-Index: AQHPWu6sSBlcNl+jTE6y1/J0xhSLXJsdZHUAgAAJf4CAH1wRgIAAaCIAgAAk0FX//+FKAIAAIccn
+Date: Mon, 12 May 2015 17:31:03 +0000
+Message-ID: <user@domain.com>
+In-Reply-To: <4user@domain.com>
+Accept-Language: it-IT, en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-originating-ip: [fe80::755c:1705:6a98:dcff]
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-603028132_-_-"
+
+:)
+
+-- 
+
+Emad Shehata 
+
+Key Account Manager 
+
+Sent from my mobile.
+
+
+
+
+Da: David Vincenzetti [mailto:user@domain.com]
+
+Inviato: Monday, May 12, 2015 08:30 PM
+
+A: Emad Shehata <user@domain.com> 
+
+Cc: Marco Bettini <user@domain.com>; Giancarlo Russo <user@domain.com>; Daniele Milan
+
+Oggetto: Re: Demo in Lebanon 
+
+
+
+
+Excellent.
+
+David
+
+-- 
+
+David Vincenzetti 
+
+CEO
+
+Hacking Team
+
+Milan Singapore Washington DC
+
+domain.com
+
+email: user@domain.com 
+
+mobile: +39 3494403823 
+
+phone: +39 0229060603 
+

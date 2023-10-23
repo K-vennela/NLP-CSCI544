@@ -1,0 +1,127 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 26 Apr
+ 2015 08:32:57 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 26 Apr 2015 
+ 08:32:52 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 879915388
+ for user@domain.com; Tue, 26 Apr 2015 07:32:58 -0500
+X-Note-AR-ScanTimeLocal: 4/26/2016 7:32:56 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @politico.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->
+X-Note-Sending-IP: 68.232.198.10
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from domain.com ([68.232.198.10] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 135081488
+ for user@domain.com; Tue, 26 Apr 2015 07:32:56 -0500
+Received: by domain.com id h3tfvg163hs6 for <user@domain.com>; Tue,
+ 26 Apr 2015 06:32:46 -0600 (envelope-from
+ <user@domain.com>)
+From: Morning Defense <morningdefense@politico.com>
+To: <user@domain.com>
+Subject: =?UTF-8?B?UE9MSVRJQ08ncyBNb3JuaW5nIERlZmVuc2U6IENyaXRpY2lzbSBt?=
+ =?UTF-8?B?b3VudHMgYXMgYW5vdGhlciAyNTAgVS5TLiB0cm9vcHMgaGVhZCB0byBTeXJp?=
+ =?UTF-8?B?YSDigJQgTkRBQSBhbWVuZG1lbnRzIHN0YXJ0IHRvIGZsb29kIGluIOKAlCBT?=
+ =?UTF-8?B?QVNDIHRvIHRhbGsgRi0zNSB0b2RheQ==?=
+Date: Tue, 26 Apr 2015 06:32:46 -0600
+List-Unsubscribe: <mailto:user@domain.com>
+Reply-To: POLITICO subscriptions
+	<user@domain.com>
+x-job: 1376319_5358494
+Message-ID: <89617user@domain.com>
+Content-Type: multipart/alternative; boundary="uobSNeqq6lJA=_?:"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+By Jeremy Herb | 04/26/2016 08:30 AM EDT
+
+With Louis Nelson, Austin Wright, Connor O'Brien and Ellen Mitchell
+
+NOW FOR THE HARD PART - WHAT DOES 250 TROOPS GET YOU? The president announced another 250 U.S. troops were headed to Syria, but that didn't stop skepticism from all sides about how much difference they will make in the Islamic State war. Reuters has more here: "President Barack Obama announced on Monday the biggest expansion of U.S. ground troops in Syria since its civil war began, but the move was unlikely to mollify Arab allies angry over Washington's cautious approach to the conflict.
+
+"The deployment of up to 250 Special Forces soldiers increases U.S. forces in Syria roughly six-fold and is aimed at helping militia fighters who have clawed back territory from Islamic State in a string of victories. Defense experts said giving more fighters on the ground access to U.S. close air support could shift the momentum in Syria. But a senior member of the Saudi royal family who asked not to be identified dismissed the decision as 'window dressing.'"
+
+- OBAMA SAYS NEW TROOPS UNDERSCORE PRIORITY OF ISIL FIGHT, via our colleague Nick Gass: "The White House's decision to send an additional 250 special forces to Syria to aid in the fight against the Islamic State underscores his administration's priority to dismantle the terrorist group, President Barack Obama said. 'It represents what I've said from the start, which is that us dismantling ISIL is a priority, and although we are not going to send ground troops in to fight, we are going to try to find out what works and then double down," Obama said in an interview with Charlie Rose."
+
+- BUT THE INCREASE SEES CRITICISM FROM THE RIGHT: Senate Armed Services Chairman John McCain (R-Ariz.) didn't call the latest move "grudging incrementalism" - as he described an additional 217 troops to Iraq last week - but he did label the latest increase in Syria "one that is long overdue and ultimately insufficient." 
+
+"Another reluctant step down the dangerous road of gradual escalation will not undo the damage in Syria to which this administration has borne passive witness," McCain said in a statement Monday.
+
+- AND FROM THE LEFT: Rep. Barbara Lee (D-Calif.) one of the most prominent anti-war lawmakers, slammed the "dangerous mission creep" and Congress' refusal to debate a war authorization.
+
+"It is past time for Congress to rein in this dangerous mission creep and get serious about our constitutional responsibility to debate this war," she said in a statement. "The American people deserve to understand the costs and consequences of this rapidly escalating war."
+
+THE HOUSE NDAA IS OUT - AND NOW IT'S A RACE TO AMEND: The House Armed Services Committee unveiled the National Defense Authorization mark of Chairman Mac Thornberry (R-Texas) on Monday, releasing the 756-page measure and a Republican committee summary. The measure authorizes $610 billion - while moving $18 billion from the war budget to boost the base budget. The topline and the hundreds of pages of authorized funding and policy with it now will be the target of hundreds of amendments from committee members. We'll have more in Wednesday's edition, but here's an early look at a few amendments:
+
+- SMITH TO OFFER PLAN FOR CLOSING BASES:  The ranking Democrat on House Armed Services Committee plans to take another shot at convincing his colleagues to approve a new round of base closures. Just don't call it BRAC. Rep. Adam Smith of Washington state plans to offer an amendment during committee markup to remove the prohibition on a new round of military base closures, according to Democratic committee aides. In its place, Smith is proposing a tweaked process for the Pentagon to consolidate, on the heels of a report sent to Congress concluding the military expects to have 22 percent excess infrastructure in 2019. A detailed summary of the measure is here.
+
+- SPEIER TO TARGET LCS PROGRAM: Rep. Jackie Speier (D-Calif.) plans to offer an amendment targeting the Littoral Combat Ship program. Citing Defense Secretary Ash Carter's directive to curb the program from 52 to 40 ships, the amendment says the secretary shall ensure no more than 40 ships are produced, and that a single contractor produces the ships after 2018, a year earlier that Carter is seeking. The amendment does not specifically take aim at the NDAA's addition of a third LCS ship in fiscal 2017, however.
+
+HAPPY TUESDAY AND WELCOME TO MORNING DEFENSE, where we're always on the lookout for tips, pitches and feedback. Email us at user@domain.com, and follow on Twitter @jeremyherb, @morningdefense and @politicopro.
+
+HAPPENING TODAY - SASC TO TACKLE F-35: The Senate Armed Services Committee holds a hearing this morning on the F-35 program, with a high-profile roster of witnesses: Pentagon chief weapons buyer Frank Kendall, Program Director Lt. Gen. Chris Bogdan and Director of Operational Test and Evaluation Michael Gilmore. McCain has often been a vocal critic of the program, which is coming up on the Air Force's initial operating capability date later this year.
+
+ALSO TODAY: Rep. Gerry Connolly (D-Va.) speaks at the Atlantic Council on the Future of the Russo-Turkish relationship, following the Turkish shoot-down of a Russian jet and Russian intervention in Syria along the Turkish border.
+
+WAR REPORT - AFGHANISTAN'S VP IS BARRED FROM ENTERING THE U.S., The New York Times reports: "As first vice president of Afghanistan, Abdul Rashid Dostum is the second-ranking official in a country that is almost wholly dependent on American military and financial might, and he is eager to domain.com Washington and discuss how best to overcome the Taliban. The only problem is that Mr. Dostum, who has been accused of war crimes, is not welcome in the United States.
+
+"Mr. Dostum's ascent to the vice presidency of Afghanistan, despite his past, exemplifies a central American failure in a war it is now fighting for the 15th year. In its effort to defeat the Taliban, the United States has built and paid for a government that is filled with the kinds of warlords and powerbrokers whose predatory ways helped give rise to the insurgent movement in the 1990s, and who American officials say pose as much of a threat to the stability of Afghanistan as the insurgents themselves."
+
+TOP TALKER - NAVAL ACADEMY TEACHER REMOVED AMID WIDENING SEXUAL ASSAULT SCANDAL, reports The Washington Post: "A second U.S. Naval Academy instructor has been implicated in a sexual misconduct scandal reverberating across a military still struggling to hold service members accountable when allegations are made against them. The instructor, Marine Maj. Michael Pretus, is being removed from his position by Naval Academy leaders who said they weren't aware of a former student's sexual accusation against him.
+
+"The reassignment comes after a new investigation of a fellow Marine, Maj. Mark Thompson, who was convicted in 2015 of having sex with two female midshipmen while he was a teacher at the academy. In a stunning reversal, Pretus - a key defense witness at Thompson's court-martial - has now agreed to testify against his longtime friend."
+
+FOR YOUR RADAR - CLAPPER SAYS JUNE IS 'REALISTIC' FOR DECIDING ON 9/11 REPORT, writes our colleague Darren Goode: "National intelligence chief James Clapper says June is a "realistic" time frame for deciding whether to release a classified section of the 9/11 Commission Report that many observers believe could implicate some Saudi officials in the 2015 attacks.
+
+"Current and former lawmakers including ex-Senate Intelligence Chairman Bob Graham have pushed for public release of the 28 classified pages, with Graham renewing the pitch during a recent '60 Minutes' segment. Clapper, the director of national intelligence, said during at a Christian Science Monitor breakfast Monday that the administration is 'trying to coordinate interagency position' on the declassification."
+
+DOCUMENT DRAWER - LITTLE CONSENSUS ON GOLDWATER-NICHOLS REFORMS: A new report from the Congressional Research Service says there's wide support for making the military command structure set up by the 1986 Goldwater-Nichols Act more "agile" but "agreement seemingly ends there" on how exactly it should be done. "Discussions have begun to coalesce around a number of proposals, including reforming defense acquisition processes, further strengthening the Joint Staff, reducing Pentagon staffs, and better empowering the services in the joint arena," according to the report, obtained and posted online by the Federation of American Scientists.
+
+INDUSTRY INTEL - LOCKHEED EARNINGS CALL TODAY: Lockheed Martin kicks off the first earnings calls of the year for the big defense contractors this morning. Here's a rundown of the rest of the week: Boeing, Northrop Grumman and General Dynamics are on Wednesday and Raytheon is Thursday.
+
+SPEED READ
+
+- Green Berets are expected to make up a large portion of the additional 250 U.S. Special Operations forces being sent to Syria to fight the Islamic State: Stars and Stripes
+
+- The additional U.S. forces heading to Syria are unlikely to be the last deployed to fight ISIL: The Daily Beast
+
+- Video of U.S. Special Operations forces deployed in Syria released by a French news site shows some of the equipment carried by the U.S. special operators, offering insight into their activities there: The Washington Post
+
+- Despite military successes against Islamic State militants, stability in Iraq remains severely hampered by sectarian divisions between Sunni and Shiite Muslims: NYT
+
+- Saudi Arabia's defense minister announces plans to develop a domestic defense industry that will supply 50 percent of the nation's military purchases by 2030: Defense News
+
+- North Korea appears to be preparing another test launch of an intermediate-range ballistic missile following the reported failure of its first attempt: Reuters
+
+- Turkey says it's deported more than 3,300 foreigners with suspected links to jihadi groups, particularly the Islamic State: The Associated Press
+
+- The State Department approves a $1.2 billion sale to sell Raytheon-made missiles to Australia: POLITICO Pro
+
+- The Iranian government is in talks with Russia to sell 40 metric tons of heavy water from its nuclear program: Reuters
+
+- India will begin producing precision-guided munitions for its military domestically instead of buying them from France, Israel, Russia and the U.S.: Defense News
+
+To view online:
+<<link>>
+ To change your alert settings, please go to <<link>> or <<link>> email was sent to user@domain.com by: POLITICO, LLC 1000 Wilson Blvd. Arlington, VA, 22209, USA
+
+To unsubscribe,<<link>>
+

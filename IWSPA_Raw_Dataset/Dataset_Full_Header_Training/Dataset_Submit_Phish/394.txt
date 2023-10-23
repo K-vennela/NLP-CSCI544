@@ -1,0 +1,73 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id F01B34689F
+	for <user@domain.com>; Thu, 26 Mar 2015 14:14:14 -0400 (EDT)
+X-Greylist: delayed 8206 seconds by postgrey-1.27 at domain.com; Thu, 26 Mar 2015 14:14:14 EDT
+Received: from domain.com (unknown [200.180.29.130])
+	by domain.com (Postfix) with ESMTP id A34AA131F750
+	for <user@domain.com>; Thu, 26 Mar 2015 14:14:14 -0400 (EDT)
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id BD31E1D61C2
+	for <user@domain.com>; Thu, 26 Mar 2015 12:28:59 -0300 (BRT)
+Received: from domain.com ([127.0.0.1])
+ by localhost (general [127.0.0.1]) (amavisd-new, port 10024) with ESMTP
+ id 27081-02 for <user@domain.com>; Thu, 26 Mar 2015 12:28:59 -0300 (BRT)
+Received: by domain.com (Postfix, from userid 108)
+	id E1F4517B1B; Thu, 26 Mar 2015 07:59:31 -0300 (BRT)
+content-type: text/html
+Subject: Abbey Online Banking Security
+From: security@abbey.com
+To: user@domain.com
+Message-Id: <20090326105931.user@domain.com>
+Date: Thu, 26 Mar 2015 07:59:31 -0300 (BRT)
+X-Virus-Scanned: by amavisd-new at domain.com
+Content-Length: 1200
+Lines: 45
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1019
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<HTML><HEAD><TITLE></TITLE>
+
+<META http-equiv=Content-Type content="text/html; charset=windows-1252">
+
+<META content="MSHTML 6.00.6000.16386" name=GENERATOR></HEAD>
+
+<BODY>
+
+<P><FONT face=Verdana size=2><IMG 
+
+src="<<link>>"><BR><BR>Security 
+
+Update V1.12.1</FONT></P>
+
+<P><FONT face=Verdana size=2>Your Abbey Online banking needs to be 
+
+updated.</FONT></P>
+
+<P><FONT face=Verdana size=2>The upgrade is necessary for your 
+
+safety.</FONT></P>
+
+<P><FONT face=Verdana size=2>The update is a critical and if you do not upgrade, 
+
+you can not access your Abbey Online Banking.</FONT></P>
+
+<P><FONT face=Verdana size=2>To perform the upgrade click on the path below and 
+
+follow the steps.</FONT></P>
+
+<P><FONT face=Verdana color=#000000 size=2><A 
+
+href="<<link>>"><<link>></A></FONT></P>
+
+<P><FONT face=Verdana size=2></FONT>&nbsp;</P>
+
+<P><FONT face=Verdana size=2>Abbey National plc.</FONT></P>
+
+</BODY></HTML>

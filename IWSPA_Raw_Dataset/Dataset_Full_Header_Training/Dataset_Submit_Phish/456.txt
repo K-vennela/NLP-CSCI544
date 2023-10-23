@@ -1,0 +1,69 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [75.102.5.22])
+	by domain.com (Postfix) with ESMTP id 80C429AC004
+	for <user@domain.com>; Wed,  8 Jul 2015 13:02:02 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 7C343232055;
+	Wed,  8 Jul 2015 13:05:10 +0000 (UTC)
+X-Virus-Scanned: amavisd-new at domain.com
+X-Spam-Flag: NO
+X-Spam-Score: -0.532
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.532 tagged_above=-10 required=6.6
+	tests=[BAYES_00=-2.599, RCVD_NUMERIC_HELO=2.067]
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id sZOZKN6OLPW3; Wed,  8 Jul 2015 13:05:06 +0000 (UTC)
+Received: from domain.com (domain.com [202.168.255.254])
+	by domain.com (Postfix) with ESMTP id BC18E23204C
+	for <user@domain.com>; Wed,  8 Jul 2015 13:05:05 +0000 (UTC)
+Received: from 202.168.255.27 (domain.com [202.168.255.27])
+	by domain.com (Postfix) with ESMTP id C392B210740;
+	Wed,  8 Jul 2015 19:01:37 +0600 (BDT)
+MIME-Version: 1.0
+Date: Wed, 08 Jul 2015 20:01:24 +0700
+From: UPGRADE TEAM <info@upgrade.org>
+To: undisclosed-recipients: ;
+Subject: Dear Account User
+Reply-To: user@domain.com
+Message-ID: <084user@domain.com>
+X-Sender: user@domain.com
+User-Agent: RoundCube Webmail/0.2
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+X-bdmail-MailScanner-OpenProtect-Information: Please contact the ISP for more information
+X-bdmail-MailScanner-OpenProtect: Found to be clean
+X-bdmail-MailScanner-OpenProtect-MCPCheck: 
+X-bdmail-MailScanner-OpenProtect-SpamCheck: 
+X-bdmail-MailScanner-OpenProtect-SpamScore: sss
+X-bdmail-MailScanner-OpenProtect-From: UPGRADE TEAM <info@upgrade.org>
+Content-Length: 776
+Lines: 24
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1100
+
+-- 
+Because of the congestion account webmail users,there will be closure of
+all routes Accounts You must verify your
+email account by completing your Login Information below after clicking
+the reply button, or your will be suspended within 48 hours for security
+reasons.
+
+* Username: .................................
+
+* Password: ...................................
+
+* Date of Birth: ................................
+
+* Country or Territory:................................
+
+After following the instructions above, your account will
+not be interrupted and will continue as usual. Thank you for your
+attention to this request.We apologies for any inconvenience.
+
+Warning! Anyone who refuses to update his account after 7 days receiving
+this warning will lose his account.

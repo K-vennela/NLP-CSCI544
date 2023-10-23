@@ -1,0 +1,71 @@
+Received: from domain.com (146.215.230.105) by
+ domain.com (43.130.141.78) with Microsoft SMTP Server id
+ 8.3.342.0; Thu, 15 May 2015 11:01:01 -0700
+Received: from domain.com ([160.33.194.231])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s4FI10rM023131	for <user@domain.com>; Thu, 15 May 2015 
+ 18:01:00 GMT
+Received: from mail112-co9-domain.com (mail-domain.com
+ [207.46.163.16])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s4FI2cut012409
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Thu, 15 May 2015 18:02:39 GMT
+Received: from mail112-co9 (localhost [127.0.0.1])	by
+ mail112-co9-domain.com (Postfix) with ESMTP id 41C8AC80404	for
+ <user@domain.com>; Thu, 15 May 2015 18:00:59 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:64.135.26.207;KIP:(null);UIP:(null);IPV:NLI;H:137Campaigns.contact-domain.com;RD:137campaigns.contact-domain.com;EFVD:NLI
+X-SpamScore: 3
+X-BigFish: vps3(z35c8kzc89bh8d0IaceIzz2148h1ee6h1fdah2073h2146h1202h1e76h2189h1d2ah1fc6h208chzz1d7338h1de098h1def03h17326ah1def87h8275bh1bc7b9h1def86h18c673h1de097h186068h1d68deh1ce121iz2fheh5eh5fh839h93fh950he5bh1288h12a5h137ah13b6h13eah1441h1504h1537h153bh158dh162dh1631h1758h18e1h1946h1b0ah224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1fe8h1ff5h2216h2336h2438h2461h2487h24d7h2516h2545h255eh25f6h2605h268bh26d3h27e2h282bh1889i)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail112-co9: domain of b.crm.contact-domain.com designates 64.135.26.207 as permitted sender) client-ip=64.135.26.207; user@domain.com; helo=137Campaigns.contact-domain.com ;t-domain.com ;
+Received: from mail112-co9 (localhost.localdomain [127.0.0.1]) by mail112-co9
+ (MessageSwitch) id 1400176856432942_6593; Thu, 15 May 2015 18:00:56 +0000
+ (UTC)
+Received: from domain.com (unknown [10.236.132.244])	by
+ mail112-domain.com (Postfix) with ESMTP id 6417D240086	for
+ <user@domain.com>; Thu, 15 May 2015 18:00:56 +0000 (UTC)
+Received: from 137Campaigns.contact-domain.com (64.135.26.207) by
+ domain.com (10.236.130.25) with Microsoft SMTP Server id
+ 14.16.227.3; Thu, 15 May 2015 18:00:55 +0000
+Received: from contact-domain.com ([172.26.13.128])	by
+ 137Campaigns.contact-domain.com (-); Thu, 15 May 2015 13:59:45 -0400
+X-VirtualServer: rosewood.marketing.contact-domain.com, 137Campaigns.contact-domain.com, 172.26.36.207
+X-VirtualServerGroup: rosewood.marketing.contact-domain.com
+X-MailingID: 16971467::197363::6543::7037899::1_47585::47585_0
+X-SMHeaderMap: mid="X-MailingID"
+X-Destination-ID: user@domain.com
+X-SMFBL: QU1ZX1BBU0NBTEBTUEUuU09OWS5DT00=
+DomainKey-Signature: a=rsa-sha1;
+ c=nofws;
+ s=key3;
+ d=contact-domain.com;
+ q=dns;
+ b=InKjgmKWR2R3MbP+lWR9hSRa/3d4pvOfsltrprykmiGAj2jvJJe1FiEFI7gmzeQotyHIM7Mlprgn6CSxgBuKqLYyA9TlF5QoMwp3m15c46ieNvH9Lui8Ai77X4rqZfFmil3eoXlZPd0B4nfPADA8sd/ttR9EZ7KrGFN6p18yFPk=
+DKIM-Signature: v=1; a=rsa-sha1; c=simple; d=contact-domain.com;
+	s=key3; l=15088; t=1400176785; user@domain.com; h=Content-Transfer-Encoding:
+	Content-Disposition:Content-Type:List-Unsubscribe:MIME-Version:
+	Message-ID:X-ReportingKey:Subject:Date:To:From; bh=OFUu0+YTo7mfO
+	YarmmKMziA5OzA=; b=lCqFFShl4xsQ5qXhs3teg2m06h8V1HkQu0IGF8vvoQ7pe
+	sYD13J3il6Vfih3WtqL7n2KSYXKms4E904l3BeE8iVEsADt6aYZBPYf9Hm9zvehi
+	rtcZmr7hNzeDqunPFdo+SWOu0xFRsLhlBxYrteNAfchGmJ2eAhHVEAHvYbBdOQ=
+Content-Disposition: inline
+List-Unsubscribe: <mailto:user@domain.com>
+Message-ID: <16971467.47585@contact-domain.com>
+X-ReportingKey: LJ19EDT2G01AXI2QJK1961XJJ6HFSJJ::user@domain.com::1_47585
+Subject: Enjoy a Complimentary Night with Rosewood Hotels & Resorts
+Date: Thu, 15 May 2015 13:59:41 -0400
+To: <user@domain.com>
+From: Rosewood Hotels and Resorts
+	<user@domain.com>
+Return-Path: user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+View this email with images.
+
+
+
+
+Rosewood A Sense of Place        
+

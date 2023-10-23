@@ -1,0 +1,87 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Fri, 6 May
+ 2015 17:58:39 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Fri, 6 May 2015 
+ 17:58:38 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 901631627
+ for user@domain.com; Fri, 06 May 2015 16:58:41 -0500
+X-Note-AR-ScanTimeLocal: 5/6/2016 4:58:38 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:209.85.220.46 DOM:gmail.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-110/SG:5 5/6/2016 4:58:03 PM
+X-GBUdb-Analysis: Unknown
+X-Signature-Violations: 0-0-0-12045-c
+X-Note-419: 0 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/6/2016 4:58:23 PM
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 209.85.220.46
+X-Note-Reverse-DNS: mail-pa0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G407 G675 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from mail-pa0-domain.com ([209.85.220.46] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 137104660
+ for user@domain.com; Fri, 06 May 2015 16:58:37 -0500
+Received: by mail-pa0-domain.com with SMTP id bt5so51060160pac.3
+        for <user@domain.com>; Fri, 06 May 2015 14:58:38 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=From: Charlie Johnson <charlie.r.johnson1@gmail.com>
+         :references:in-reply-to:to;
+        bh=B1AmRKlogXr1PJcgGAs9wATf02O3PGqs8QyQcmBD/qY=;
+        b=FCMX1KrikvxeQqAzgNKeyz52i1+YU/y7HShS4CpQ19WVuY0bW4QPdancPuNxhnrUjN
+         v+d2P57F81XlpNdzfk6OLzlRZ29KqHmgSIM5Qw/7fCE7Fzl7gzh02bjPu7MRYNWD+nTQ
+         Ff0DX1M/qJBDDg1oK4tx4z7AYGQh0eOLc3axaDTs2X47punuiwziHztiBaV0SYThY0n1
+         FZCvrQaTfMtqY2PAnmswNZffIuI9+Xone7CARU1igMSNCMBITiDldPybIFaicH6FoRHl
+         vsyPUNcS3uZREv0vsa/eJ98JtEpNtpkWt6zARn+wDsfJVLUxMRCfJ3JYsoSjpf/+K8w3
+         Lkgw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:From: Charlie Johnson <charlie.r.johnson1@gmail.com>
+         :subject:message-id:date:references:in-reply-to:to;
+        bh=B1AmRKlogXr1PJcgGAs9wATf02O3PGqs8QyQcmBD/qY=;
+        b=hnBDAgHVhQZj73ZA5VQsD89E+PIy4/QAK94h0p2tCe0I9fQqGq44sg5Luw/pegxEYw
+         deGplaG2dt5fdnqM2fseZ6TY4fujbw1pAUwtNqgIStVmse+0H/4oP/9Tr9//bbaNo67e
+         FZ3WntNbgmPNRonphqesQ2W2Tb8WVvhqe3M0scx07VG6DLz0GjnLWdPSXOFjSh69X+rL
+         IdTxRgZbgzKvg02GyVGGK2F4pySxl1SYTOepDcGIBmjujB/hVtsUu21PVRXr2A4SUcS7
+         gXrmrfY84x5Vnpc8tazcWl5OsTO2iqqlPCOqLKn8Lw1UyAkQE8dtB7ZBCelDXNhF4WG3
+         tNlA==
+X-Gm-Message-State: AOPr4FX88San44X/tV8N3JcM/6vYIaVAMa+wqgoiCjBq75euIe+JK8r8Mhi8P8kelwuIUA==
+X-Received: by 10.67.22.129 with SMTP id hs1mr31996447pad.105.1462571917457;
+        Fri, 06 May 2015 14:58:37 -0700 (PDT)
+Return-Path: <user@domain.com>
+Received: from ?IPv6:2600:1012:b019:7e44:ccb4:a259:fb29:c896?
+ ([2600:1012:b019:7e44:ccb4:a259:fb29:c896])        by smtp.gmail.com with
+ ESMTPSA id s124sm23196477pfb.63.2016.05.06.14.58.32        for
+ <user@domain.com>        (version=TLSv1/SSLv3 cipher=OTHER);        Fri, 06
+ May 2015 14:58:36 -0700 (PDT)
+From: Charlie Johnson <charlie.r.johnson1@gmail.com>
+Content-Type: multipart/alternative;
+	boundary="Apple-Mail-58FA3D84-A6A3-45DA-B32C-7E932DFF372C"
+Content-Transfer-Encoding: 7bit
+Subject: Re: West coast Clinton
+Message-ID: <user@domain.com>
+Date: Fri, 6 May 2015 14:58:30 -0700
+References: <55user@domain.com> <user@domain.com> <user@domain.com> <99user@domain.com>
+In-Reply-To: <99user@domain.com>
+To: "User" <user@domain.com>
+X-Mailer: iPhone Mail (13E238)
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Sorry on day 2 of this swing. Will reach out now.
+

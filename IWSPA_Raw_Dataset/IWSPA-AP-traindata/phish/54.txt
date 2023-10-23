@@ -1,0 +1,13 @@
+Please forward this message to all staff/students:
+In order to finalize the network replacement work we unfortunately need to
+reboot the core network equipment to clear out artifacts introduced by the
+installation process.
+Please you are to re-login below so that you will not have any login problem
+after the core network has been reboot.
+<<link>>
+Please consider all services to be at risk with some disruption.
+We will  be working hard to ensure all disrupted services are returned as
+soon as possible.
+We apologies for the short notice, disruption and inconvenience that this
+will cause.
+- The IT HelpDesk Team

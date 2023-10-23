@@ -1,0 +1,65 @@
+Received: from domain.com (146.215.230.105) by
+ domain.com (43.130.141.77) with Microsoft SMTP Server id
+ 8.3.342.0; Mon, 7 Jul 2015 17:55:29 -0700
+Received: from domain.com ([160.33.194.228])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s680tSkG007050	for <user@domain.com>; Tue, 8 Jul 2015 
+ 00:55:28 GMT
+Received: from mail97-va3-domain.com (mail-domain.com
+ [216.32.180.117])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s680rsgt016576
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Tue, 8 Jul 2015 00:53:54 GMT
+Received: from mail97-va3 (localhost [127.0.0.1])	by mail97-va3-domain.com
+ (Postfix) with ESMTP id 40AFD1C05CB	for <user@domain.com>; Tue,  8
+ Jul 2015 00:55:28 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:66.220.155.141;KIP:(null);UIP:(null);IPV:NLI;H:mx-domain.com;RD:domain.com;EFVD:NLI
+X-SpamScore: 6
+X-BigFish: vps6(z59c9hzc89bhe0eahc857h4015Izz1f42h1ee6h1de0h2073h2146h1202h1e76h2189h1d2ah21bch1fc6h208ch1fdahzz8275ch1de098h1def03h174790h17326ah1df2f4h8275bh1bc7b9h19a27bh1de097h186068h1b778fh1ce120hz2fh5fh13eh2a8h55eh839hd24h10d2h1288h12bdh137ah139eh13eah1441h1537h162dh1631h1758h1898h18e1h1901h1946h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1e23h1ff5h20f0h2218h2216h226dh22d0h24afh2327h2336h2461h2487h24d7h2516h2545h255eh25f6h2605h268bh26d3h27e2h282bh28a1h28b0h29d0h2a24h2b05h9a9j2a6dm)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail97-va3: domain of facebookmail.com designates 66.220.155.141 as permitted sender) client-ip=66.220.155.141; envelope-from=notification+user@domain.com; helo=mx-domain.com ;domain.com ;
+Received: from mail97-va3 (localhost.localdomain [127.0.0.1]) by mail97-va3
+ (MessageSwitch) id 1404780925977750_29104; Tue,  8 Jul 2015 00:55:25 +0000
+ (UTC)
+Received: from domain.com (unknown [10.7.14.227])	by
+ mail97-domain.com (Postfix) with ESMTP id E2720300066	for
+ <user@domain.com>; Tue,  8 Jul 2015 00:55:25 +0000 (UTC)
+Received: from mx-domain.com (66.220.155.141) by
+ domain.com (10.7.99.26) with Microsoft SMTP Server (TLS) id
+ 14.16.227.3; Tue, 8 Jul 2015 00:55:21 +0000
+Received: from domain.com
+ (DoGlXqcI4/IR1cta7CUEZ9C1m6OIQLpyUj8/ym+MAf7oNl2mo0WQRGeLWjfeVP8D
+ 10.223.77.83) by domain.com with Thrift id
+ 89927a98063a11e49c3d24be05953b80-521f1430; Mon, 07 Jul 2015 17:55:21 -0700
+X-Facebook: from 10.156.70.33 ([MTI3LjAuMC4x]) 
+	by domain.com with HTTP (ZuckMail);
+Date: Mon, 7 Jul 2015 17:55:21 -0700
+To: Aunt Amy <user@domain.com>
+From: Facebook <notification+zrdoccze61ff@facebookmail.com>
+Reply-To: noreply <user@domain.com>
+Subject: David Diamond updated his status: "You know you need a vacation when you..."
+Message-ID: <user@domain.com>
+X-Priority: 3
+X-Mailer: ZuckMail [version 1.00]
+Errors-To: notification+user@domain.com
+X-Facebook-Notify: friend_activity; mailid=a253ea7G5af31b8291b9G0G109G4d0cc242
+X-FACEBOOK-PRIORITY: 0
+X-Auto-Response-Suppress: All
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=facebookmail.com;
+	s=s1024-2013-q3; t=1404780921;
+	bh=f4tHpQsKg/RgI2TSQgmXYYCHL39D07J3yYAo7gKFr08=;
+	h=Date:To:From: Facebook <notification+zrdoccze61ff@facebookmail.com>
+	b=WNZ0emGyk/m8TvXF6wJaH4glcxNDiFG2lKMAUs5uk09Y7keGaL7/pz2SbFZjhRiyK
+	 EsbQ9qJXXfYrSzKZdBo8djVAlByUWlYzXdzGWBVd/37h+fPLeze2U3Txv9iEs6xrog
+	 /hnifoyJ4FBJF2TnvfxnYgYISXDN6cVkALe/f5IA=
+Return-Path: notification+user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+David Diamond updated his status. David Diamond You know you need a vacation when you are disappointed that you don't have to report in for jury duty. Like · Comment · Share Lori Goldklang Furie and 22 others like this. 2 comments
+facebook        
+
+David Diamond updated his status.       
+
+<<link>>   

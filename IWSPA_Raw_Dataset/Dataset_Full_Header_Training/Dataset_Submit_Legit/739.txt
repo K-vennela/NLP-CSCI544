@@ -1,0 +1,44 @@
+Return-Path: <user@domain.com>
+Reply-To: <user@domain.com>
+From: "HT Srl" <support@hackingteam.com>
+To: <user@domain.com>
+Subject: [!JMX-241-63627]: Assignment - Infecting a target two times
+Date: Fri, 16 Nov 2015 11:06:49 +0200
+Message-ID: <1353056809.50user@domain.com>
+X-Mailer: Microsoft Outlook 15.0
+Thread-Index: AQHAW4LoUycqFexX0ZlYH+cPJE2ziw==
+X-OlkEid: 000000007D2091DA92D3914ABB4C05769578F4790700A96A85A9D2A04643865EB2097E3CF3A30000000002080000A96A85A9D2A04643865EB2097E3CF3A30000000076F300005C0AF2949A3E774E9EE2C46CDC26C6B9
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-615933390_-_-"
+
+Bruno Muschitiello updated #JMX-241-63627
+
+-----------------------------------------
+
+Staff (Owner): Bruno Muschitiello (was: -- Unassigned --)
+Status: In Progress (was: Open)
+
+Infecting a target two times
+
+----------------------------
+
+Ticket ID: JMX-241-63627
+URL: <<link>>
+Full Name: Seblewoin Tsegaye
+Email: user@domain.com
+Creator: User
+Department: General
+Staff (Owner): Bruno Muschitiello
+Type: Issue
+Status: In Progress
+Priority: Normal
+Template Group: Default
+Created: 16 November 2015 08:54 AM
+Updated: 16 November 2015 08:54 AM
+
+When we infect diffeerent targets with the same infection vector, the infected computer replaces the old infected computer, which means we are losing the previously infected target.
+
+Staff CP:  <<link>>
+

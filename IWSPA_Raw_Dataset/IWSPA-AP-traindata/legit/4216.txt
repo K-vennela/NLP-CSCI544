@@ -1,0 +1,366 @@
+@media only screen and=
+(max-width: 730px) {                 .leaderboard {                     di=
+splay: none !important;                 }                 * {              =
+-webkit-text-size-adjust: none;                 }                 bo=
+dy {                     min-width: 100% !important;                 }     =
+table[id=3Dwrapper], table[class=3Dad_group], table[id=3Dwrappe=
+r] .intro, table[id=3Dwrapper] .divide {                     width: 100% !i=
+mportant;                 }                 #brief {                     fl=
+oat: none !important;                     width: 100% !important;          =
+}                 .ad_group {                     display: block !im=
+portant;                     padding-left: 10px;                 }         =
+div[class=3Dad] {                     margin: auto !important;     =
+padding-top: 0 !important;                     padding-left=
+: 0 !important;                     display: block !important;             =
+width: 100% !important;                 }                 table td[=
+class=3Dnumber] {                   display: none !important;              =
+}             }                  Bloomberg Politics Daily               =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+SIGN UP                              =
+=
+=
+=
+=
+=
+=
+=
+The Brief                           =
+=
+=
+=C2=A0                            =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+Donald Trump hea=
+ds into Paul Ryan meeting with little reason to compromise                 =
+=
+=
+=
+Advisers to the presumptive Republ=
+ican presidential nominee say he has a message for the establishment: Get o=
+n board or get out of the way.                                             =
+=
+=
+=
+=
+=
+=
+=
+=
+=C2=A0                                                              =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+Sanders=E2=
+=80=99 dilemma: Go for broke or go for influence?                          =
+=
+=
+=
+Having all but lost the Democratic race, ho=
+w hard does he go after=C2=A0Hillary Clinton, and at what cost to the party=
+and to himself?                                                           =
+=
+=
+=
+=
+=
+=
+=
+=C2=A0 =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+Trump is considering New=
+t Gingrich for vice president                                              =
+=
+=
+=
+The likely standard-bearer has sought advice from confidants ab=
+out selecting the former House speaker as a running mate.                  =
+=
+=
+=
+=
+=
+=
+=
+=
+=C2=A0                                   =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=E2=80=9CThere is only =
+one logical explanation for Mr. Trump=E2=80=99s refusal to release his retu=
+rns: there is a bombshell in them.=E2=80=9D                                =
+=
+=
+=
+=
+=
+=E2=80=94 Mitt Romney                           =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=C2=A0                                                 =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+Bud=E2=80=99s =E2=80=98America=
+=E2=80=99 cans mark Trump-fueled surge in USA marketing                    =
+=
+=
+=
+The real-estate developer has taken c=
+redit for some of the intensifying patriotic branding.                     =
+=
+=
+=
+=
+=
+=
+=
+=
+=C2=A0                                      =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+Democrats counting on =E2=80=98Trump effect=E2=80=99 to help =
+retake statehouses                                                         =
+=
+=
+=
+The billionaire=E2=80=99s presence atop the Republican ticket will help st=
+em a tide of electoral defeats, Democrats say.                             =
+=
+=
+=
+=
+=
+=
+=
+=
+=C2=A0                                              =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+Lindsey Graham says =E2=80=98crazy=E2=80=99 loses to =E2=80=98crooked=
+=E2=80=99 in 2016 (VIDEO)                                                  =
+=
+=
+=
+The South Carolina senator and former GOP presidential candidate to=
+ld Bloomberg Politics=E2=80=99 Mark Halperin and John Heilemann that Clinto=
+n will beat Trump.                                                         =
+=
+=
+=
+=
+=
+=
+=
+=C2=
+=A0                                                                        =
+=
+=
+=
+=
+=
+=
+=
+=C2=A0                                                              =
+Catch =E2=80=9CWith Al=
+l Due Respect=E2=80=9D on Bloomberg TV and BloombergPolitics.com weekdays a=
+t 5 p.m. ET.                                                               =
+=C2=A0                =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=C2=A0                                        =
+=
+=
+=
+=
+=
+=
+=
+Follow us:                                                   =
+=
+=
+=
+=
+=
+=C2=A0                                                         =
+=
+For pr=
+ess inquiries, please contact Emma Angerer user@domain.com, 202-654-=
+4332                                                                       =
+=
+=C2=A0                  =
+=
+You received this message because you are subscribed=
+to the Bloomberg Politics Daily newsletter.                               =
+=
+=C2=A0                                                            =
+=C2=A0              =
+=
+Unsubscribe | BloombergPolitics.com | Contact Us =
+=
+Bloomberg L.P. 731 Lexington, New Y=
+ork, NY, 10022                                                             =
+=
+<a href=3D"<<link>>
+3644/aHR0cDovL3d3dy5tYWlsLmJsb29tYmVyZ3BvbGl0aWNzLmNvbSI/5620642517893f007f=
+8b4d8aB70f2d3cc><img src=3D"<<link>>
+642517893f007f8b4d8a3zqrx.2t8/6aafe010.gif" alt=3D"" border=3D"0" /></a>   =
+=20
+If you believe this has been sent to you in error, please click <<<link>>
+k.mail.bloombergpolitics.com/oc/5620642517893f007f8b4d8a3zqrx.2t8/a972e5dd>=
+to safely unsubscribe.

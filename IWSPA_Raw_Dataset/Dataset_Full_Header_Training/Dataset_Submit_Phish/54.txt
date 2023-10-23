@@ -1,0 +1,48 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id 53BD1496CD
+	for <user@domain.com>; Fri, 17 Aug 2015 22:23:27 -0400 (EDT)
+Received: from domain.com (domain.com [204.181.64.8])
+	by domain.com (Postfix) with ESMTP id 7E4161320F65
+	for <user@domain.com>; Fri, 17 Aug 2015 09:11:58 -0400 (EDT)
+Received: from domain.com (rrcs-70-61-144-194.domain.com [70.61.144.194])
+	by domain.com (Postfix) with ESMTP id 690576FA1C7
+	for <user@domain.com>; Fri, 17 Aug 2015 09:11:58 -0400 (EDT)
+Received: from User ([75.43.172.73]) by domain.com with Microsoft SMTPSVC(5.0.2195.6713);
+	 Fri, 17 Aug 2015 09:11:52 -0400
+Reply-To: <user@domain.com>
+From: "eBay"<message@eBay.com>
+Subject: eBay Unpaid Item Dispute #200122150768 - response required 
+Date: Fri, 17 Aug 2015 06:13:58 -0700
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <user@domain.com>
+X-OriginalArrivalTime: 17 Aug 2015 13:11:52.0229 (UTC) FILETIME=[2D5DCD50:01C7E0D0]
+To: undisclosed-recipients:;
+Content-Length: 2015 
+Lines: 26
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 38
+
+eBay Unpaid Item Dispute #200122150768 - response required 
+
+
+
+Dear member,
+
+eBay member skaeserbackgrounds (14122)  has that they already paid for item #200122150768
+
+Review the submitted details regarding the payment.
+
+Regards,
+eBay International AG

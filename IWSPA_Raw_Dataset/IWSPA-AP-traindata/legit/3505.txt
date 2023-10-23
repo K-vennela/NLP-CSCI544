@@ -1,0 +1,50 @@
+Ciao Antonella,
+potresti inserire questo nuovo ordine?
+Grazie mille,
+Alessandra
+t_Ordini
+ID
+Order #
+Vendor Code
+Vendor Name
+Order type
+Order date
+Cost type
+Detailed cost type
+Cost Centre
+Invoices to be received
+WIP
+Currency
+Net Amount (Euro)
+Total Amount (Euro)
+Net Amount (Other currency)
+Total Amount (Other currency)
+Currency rate date
+Currency rate
+Euro Similar value
+Requested by
+Authorized by
+Payment terms
+Notes / Comments
+156
+999095
+Notaio Fabio Gaspare Pantè
+Chiuso
+Personnel Costs
+Other personnel costs
+ITA
+1
+Uso Interno
+Euro
+€ 100,00
+€ 123,00
+0,00
+0,00
+€ 0,00
+Russo Giancarlo
+Russo Giancarlo
+BB Anticipato
+Oneri per procura Bettini PCM
+Alessandra
+Mino 
+www.hackingteam.com

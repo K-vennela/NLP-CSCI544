@@ -1,0 +1,1350 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 27 Apr
+ 2015 09:09:52 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 27 Apr 2015 
+ 09:09:44 -0400
+Received: from [10.87.0.110] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 882408615
+ for user@domain.com; Wed, 27 Apr 2015 08:09:51 -0500
+X-Note-AR-ScanTimeLocal: 4/27/2016 8:09:51 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: user@domain.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 192.64.237.166
+X-Note-Reverse-DNS: mx-washpost-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from [192.64.237.166] (HELO mx-washpost-domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 138528426
+ for user@domain.com; Wed, 27 Apr 2015 08:09:50 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; s=mt; d=domain.com;
+ h=Date:From: The Washington Post <email@e.washingtonpost.com>
+ bh=z6o6/D2yIS8CXTmTW3bW8z4HnN0=;
+ b=RLPZ7ScajvWEwAe5CWOXijYqrUOSY3d8WZvGuif4TU9HLS8eU/a8YnV7yP4y1f4dc4z+RahBjeXf
+   8CsOBFmcQJ0rPszXXzEdUOdsmviFKlD8Fo0cQyMYA3n4rjmnMILVWZw1seGzuMFXtCTKThw9KeTG
+   MS3L5SSUzy6mL1Be9us=
+Received: from njmta-20.domain.com (173.228.155.20) by
+ mx-washpost-domain.com id h42t1o1qqbs5 for <user@domain.com>; Wed, 27 Apr
+ 2015 09:09:48 -0400 (envelope-from <user@domain.com>)
+Received: from nj1-badmanatee.flt (172.18.20.11) by njmta-20.domain.com id
+ h42t1o1qqbs5 for <user@domain.com>; Wed, 27 Apr 2015 09:07:21 -0400
+ (envelope-from <user@domain.com>)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1461762441;
+	s=sailthru; d=e.washingtonpost.com;
+	h=Date:From: The Washington Post <email@e.washingtonpost.com>
+	bh=72W/lfN8WjPkpo6SeXO7OseTcG5Qc8F17yFrKnpcUFU=;
+	b=bUDIWZVX1zXiynV9HKynh4kSP7vRqdSZ5c7UMu8rnh6RrHwMug5c6PkCbsE+2RDs
+	ZVf4jdE03uqabSPp1zfVtsiN6aLZ63kMML7PKEc6FfTyITyLmasuuMCA/OiW+P/k6Py
+	F1yI2LMMRA2TiOz0eAnZANG8Q53HkAtkysGkvE58=
+Date: Wed, 27 Apr 2015 09:07:21 -0400
+From: The Washington Post <email@e.washingtonpost.com>
+To: <user@domain.com>
+Message-ID: <20160427090721.6598243.61430@domain.com>
+Subject: The Daily 202: The Democratic Establishment strikes back in the
+ Acela Primary
+Content-Type: multipart/alternative;
+	boundary="----=_Part_7523568_1472406023.1461762441854"
+Precedence: bulk
+X-TM-ID: 20160427090721.6598243.61430
+X-Info: Message sent by domain.com customer The Washington Post
+X-Info: We do not domain.com unsolicited commercial email
+X-Info: Please report abuse by forwarding complete headers to
+X-Info: user@domain.com
+X-Mailer: domain.com
+X-Unsubscribe-Web: <<link>>
+List-Unsubscribe: <<<link>>>, <mailto:user@domain.com>
+X-rpcampaign: sthiq6598243
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+The Daily 202 from PowerPost
+Hillary is now the presumptive Democratic nominee. After a five-state sweep=
+, Donald Trump will be almost impossible to beat if he wins Indiana.
+
+=C2=A0   =C2=A0
+
+If you're having trouble reading this,=C2=A0click here. <{{view_url}}>
+
+<<<link>>
+uZ3RvbnBvc3QuY29tL25ld3MvcG93ZXJwb3N0L3dwL2NhdGVnb3J5L3RoZS1kYWlseS0yMDIvP3=
+dwbW09MSZ3cGlzcmM9bmxfZGFpbHkyMDI/55c8886a6e4adc304b9cf8c1D6e864369>
+
+=C2=A0=C2=A0Share on Twitter <<<link>>
+61430/aHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlbnQvdHdlZXQ_dGV4dD1DaGVjayUyMG91dCUyM=
+FRoZSUyMERhaWx5JTIwMjAyJTIwZnJvbSUyMCU0MFBvd2VyUG9zdCUyMGh0dHBzOi8vd3d3Lndh=
+c2hpbmd0b25wb3N0LmNvbS9uZXdzL3Bvd2VycG9zdC9wYWxvbWEvZGFpbHktMjAyLzIwMTYvMDQ=
+vMjcvZGFpbHktMjAyLXRoZS1kZW1vY3JhdGljLWVzdGFibGlzaG1lbnQtc3RyaWtlcy1iYWNrLW=
+luLXRoZS1hY2VsYS1wcmltYXJ5LzU3MWY5ZDQ2OTgxYjkyYTIyZDJmNTg5NC8mc291cmNlPXdlY=
+mNsaWVudCZ3cG1tPTEmd3Bpc3JjPW5sX2RhaWx5MjAy/55c8886a6e4adc304b9cf8c1C0bef34=
+9e>   =C2=A0=C2=A0Share on Facebook <<<link>>
+598243.61430/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3NoYXJlci9zaGFyZXIucGhwP3U9aH=
+R0cHM6Ly93d3cud2FzaGluZ3RvbnBvc3QuY29tL25ld3MvcG93ZXJwb3N0L3BhbG9tYS9kYWlse=
+S0yMDIvMjAxNi8wNC8yNy9kYWlseS0yMDItdGhlLWRlbW9jcmF0aWMtZXN0YWJsaXNobWVudC1z=
+dHJpa2VzLWJhY2staW4tdGhlLWFjZWxhLXByaW1hcnkvNTcxZjlkNDY5ODFiOTJhMjJkMmY1ODk=
+0LyZ3cG1tPTEmd3Bpc3JjPW5sX2RhaWx5MjAy/55c8886a6e4adc304b9cf8c1C2c7229f1>
+
+<<<link>>
+0b25wb3N0LmNvbS9jbGljaz9zPTEzNzM3MyZsYXlvdXQ9bWFycXVlZSZsaT0lN0IlN0JhZGhhc2=
+glN0QlN0Qmd3BtbT0xJndwaXNyYz1ubF9kYWlseTIwMg/55c8886a6e4adc304b9cf8c1Bab2df=
+6b6>
+
+<<<link>>
+0b25wb3N0LmNvbS9jbGljaz9zPTEzNzM3NiZzej0xMTZ4MTUmbGk9JTdCJTdCYWRoYXNoJTdEJT=
+dEJndwbW09MSZ3cGlzcmM9bmxfZGFpbHkyMDI/55c8886a6e4adc304b9cf8c1Ce858eb4c>   =
+<<<link>>
+0b25wb3N0LmNvbS9jbGljaz9zPTEzNzM3NyZzej02OXgxNSZsaT0lN0IlN0JhZGhhc2glN0QlN0=
+Qmd3BtbT0xJndwaXNyYz1ubF9kYWlseTIwMg/55c8886a6e4adc304b9cf8c1D37a1bf38>
+
+The Democratic Establishment strikes back in the Acela Primary <<<link>>
+.domain.com/click/6598243.61430/aHR0cHM6Ly93d3cud2FzaGluZ3RvbnBvc3Q=
+uY29tL25ld3MvcG93ZXJwb3N0L3BhbG9tYS9kYWlseS0yMDIvMjAxNi8wNC8yNy9kYWlseS0yMD=
+ItdGhlLWRlbW9jcmF0aWMtZXN0YWJsaXNobWVudC1zdHJpa2VzLWJhY2staW4tdGhlLWFjZWxhL=
+XByaW1hcnkvNTcxZjlkNDY5ODFiOTJhMjJkMmY1ODk0Lz93cG1tPTEmd3Bpc3JjPW5sX2RhaWx5=
+MjAy/55c8886a6e4adc304b9cf8c1Cfe525112>
+
+Hillary Clinton celebrates her big wins with supporters at the Philadelphia=
+ Convention Center last night. (Photo by Melina Mara/The Washington Post)
+
+THE BIG IDEA:=C2=A0Democratic insiders in D.C. got everything they were roo=
+ting for along the I-95 corridor last night.
+
+Hillary Clinton essentially clinched <<<link>>
+6598243.61430/aHR0cHM6Ly93d3cud2FzaGluZ3RvbnBvc3QuY29tL3BvbGl0aWNzL2NsaW50b=
+24tcHJvamVjdGVkLXRvLXdpbi1hdC1sZWFzdC10aHJlZS1kZW1vY3JhdGljLXByaW1hcmllcy8y=
+MDE2LzA0LzI2LzczYjIwNzZjLTBiMmQtMTFlNi04YWI4LTlhZDA1MGY3NmQ3ZF9zdG9yeS5odG1=
+sP3dwbW09MSZ3cGlzcmM9bmxfZGFpbHkyMDI/55c8886a6e4adc304b9cf8c1D03379069> the=
+ nomination by dominating in four of the five states that voted Tuesday. On=
+ the last big day of multiple contests before June, the front-runner handil=
+y won Pennsylvania, Maryland, Connecticut and Delaware. Bernie Sanders won =
+only Rhode Island, the tiniest of the contests in the so-called Acela Prima=
+ry.
+
+In Pennsylvania, Katie McGinty won  <<<link>>
+598243.61430/aHR0cHM6Ly93d3cud2FzaGluZ3RvbnBvc3QuY29tL25ld3MvcG93ZXJwb3N0L3=
+dwLzIwMTYvMDQvMjYvZXN0YWJsaXNobWVudC1mYXZvcml0ZS1tY2dpbnR5LWhvbGRzLWJpZy1sZ=
+WFkLWluLXBlbm5zeWx2YW5pYS1zZW5hdGUtcHJpbWFyeS8_d3BtbT0xJndwaXNyYz1ubF9kYWls=
+eTIwMg/55c8886a6e4adc304b9cf8c1C9e82ecc3>the Democratic Senate primary. Bar=
+ack Obama recorded a commercial for her, Joe Biden stumped with her and the=
+ official party apparatus spent $2.2 million on ads to get her across the f=
+inish line. Her rival, retired Admiral Joe Sestak, led in some polls just l=
+ast week. But party leaders worried that he would lose to Republican Sen. P=
+at Toomey in the fall, just as he did in 2010. Last night, McGinty won by 1=
+0 points.
+
+In Maryland, Rep. Chris Van Hollen defeated Rep. Donna Edwards in the Democ=
+ratic primary to succeed retiring Sen. Barbara Mikulski. He had the support=
+ of the state=E2=80=99s political establishment, including Martin O=E2=80=
+=99Malley, and the donor class.
+In the costly primary to succeed Van Hollen, the candidate who actually had=
+ legislative experience beat  <<<link>>
+.61430/aHR0cHM6Ly93d3cud2FzaGluZ3RvbnBvc3QuY29tL2xvY2FsL21kLXBvbGl0aWNzL3Jh=
+c2tpbi10cm9uZS1jbG9zZS1pbi1tZC04dGgtY29uZ3Jlc3Npb25hbC1kaXN0cmljdC1wcmltYXJ=
+5LzIwMTYvMDQvMjYvMDU1ZTRkMDgtMGJiZC0xMWU2LWJmYTEtNGVmYTg1NmNhZjJhX3N0b3J5Lm=
+h0bWw_d3BtbT0xJndwaXNyYz1ubF9kYWlseTIwMg/55c8886a6e4adc304b9cf8c1C1dd75532>=
+the self-funder and the wife of a TV star. State Sen. Jamie Raskin=E2=80=94=
+who led the fights in Annapolis to repeal the death penalty, legalize gay m=
+arriage and ban assault weapons=E2=80=94beat wine store owner David Trone, =
+who outspent him 6-to-1, and Kathleen Matthews, a former TV anchor who is m=
+arried to MSNBC=E2=80=99S Chris Matthews.   In the race to replace Edwards,=
+ former Lt. Gov. Anthony Brown =E2=80=93 who lost the 2015 governor=E2=80=
+=99s race =E2=80=93 got the Democratic nod <<<link>>
+click/6598243.61430/aHR0cHM6Ly93d3cud2FzaGluZ3RvbnBvc3QuY29tL2xvY2FsL21kLXB=
+vbGl0aWNzL2V4LWxpZXV0ZW5hbnQtZ292ZXJub3ItYW5kLWZvcm1lci1zdGF0ZXMtYXR0b3JuZX=
+ktbG9ja2VkLWluLW1kLWRlbW9jcmF0aWMtcHJpbWFyeS8yMDE2LzA0LzI2L2Y4ZjAxNzg2LTA4Y=
+mEtMTFlNi1iZGNiLTAxMzNkYTE4NDE4ZF9zdG9yeS5odG1sP3dwbW09MSZ3cGlzcmM9bmxfZGFp=
+bHkyMDI/55c8886a6e4adc304b9cf8c1C74547b8c>.
+Obama demonstrated his clout down the ballot, as well. The president=E2=80=
+=99s pick for Pennsylvania Attorney General, a county commissioner named Jo=
+sh Shapiro, narrowly prevailed <<<link>>
+3.61430/aHR0cDovL3d3dy5wZW5ubGl2ZS5jb20vcG9saXRpY3MvaW5kZXguc3NmLzIwMTYvMDQ=
+vam9zaF9zaGFwaXJvX3dpbnNfdGhyZWUtd2F5X2NvLmh0bWw_d3BtbT0xJndwaXNyYz1ubF9kYW=
+lseTIwMg/55c8886a6e4adc304b9cf8c1Cea86e6d9> in=C2=A0a three-way race.
+
+Donald Trump speaks last night at Trump Tower.=C2=A0(Ricky Carioti/The Wash=
+ington Post)
+
+-- Most of all, though, national Democrats took heart in Trump=E2=80=99s cl=
+ean sweep. They badly want to face the billionaire in the fall, confident t=
+hat his unpopularity would allow them to win the Senate and hold the White =
+House.
+
+Trump, as expected, won all five states. But his huge margins of victory ex=
+ceeded expectations. =E2=80=9CHeading into Tuesday=E2=80=99s contests, Trum=
+p had 845 pledged delegates =E2=80=94 a lead of nearly 300 over Cruz =E2=80=
+=94 and was poised to pull further ahead by about 100 delegates or more,=E2=
+=80=9D Philip Rucker and Jose A. DelReal report <<<link>>
+.com/click/6598243.61430/aHR0cHM6Ly93d3cud2FzaGluZ3RvbnBvc3QuY29tL3BvbGl0aW=
+NzL3ZvdGVycy1pbi1lYXN0ZXJuLXNlYWJvYXJkLXByaW1hcmllcy1lbWJyYWNlLXRydW1wLzIwM=
+TYvMDQvMjYvYWUxYzdkMTAtMGIyZC0xMWU2LThhYjgtOWFkMDUwZjc2ZDdkX3N0b3J5Lmh0bWw_=
+d3BtbT0xJndwaXNyYz1ubF9kYWlseTIwMg/55c8886a6e4adc304b9cf8c1C9ac2aab9>. =E2=
+=80=9CBasking in what he called his =E2=80=98biggest night=E2=80=99 of the =
+race so far, Trump declared himself the =E2=80=98presumptive nominee.=E2=80=
+=99=E2=80=9D
+
+=E2=80=9CHe still isn't a numeric lock to get to the 1,237 delegates he nee=
+ds. But man oh man is he sitting pretty right now,=E2=80=9D adds The Fix=E2=
+=80=99s Chris Cillizza <<<link>>
+aHR0cHM6Ly93d3cud2FzaGluZ3RvbnBvc3QuY29tL25ld3MvdGhlLWZpeC93cC8yMDE2LzA0LzI=
+2L3dpbm5lcnMtYW5kLWxvc2Vycy1mcm9tLXRoZS1pLTk1LXByaW1hcmllcy8_d3BtbT0xJndwaX=
+NyYz1ubF9kYWlseTIwMg/55c8886a6e4adc304b9cf8c1C29af4980>.
+
+-- Tuesday can only be described as another debacle for the Stop Trump move=
+ment.
+
+<<<link>>
+vbS9SZWRpc3RyaWN0L3N0YXR1cy83MjUxODcwODA5NTE4ODE3Mjg_d3BtbT0xJndwaXNyYz1ubF=
+9kYWlseTIwMg/55c8886a6e4adc304b9cf8c1Cd2bbdf92>
+
+<<<link>>
+vbS9Gb3JlY2FzdGVyRW50ZW4vc3RhdHVzLzcyNTEyOTM5MDQwMTY2Mjk3Nj93cG1tPTEmd3Bpc3=
+JjPW5sX2RhaWx5MjAy/55c8886a6e4adc304b9cf8c1C1f29593c>
+
+<<<link>>
+vbS9tYXR0aGV3amRvd2Qvc3RhdHVzLzcyNTA3ODc0MzA3Nzc2MTAyND93cG1tPTEmd3Bpc3JjPW=
+5sX2RhaWx5MjAy/55c8886a6e4adc304b9cf8c1C015ae006>
+
+=E2=80=9CTrump is essentially two key states from the nomination,=E2=80=9D =
+Nate Cohn <<<link>>
+y5ueXRpbWVzLmNvbS8yMDE2LzA0LzI3L3Vwc2hvdC93aHktZG9uYWxkLXRydW1wLWlzLXByb2Jh=
+Ymx5LXR3by1zdGF0ZXMtZnJvbS12aWN0b3J5Lmh0bWw_c21pZD1mYi1ueXR1cHNob3Qmc210eXA=
+9Y3VyJl9yPTAmd3BtbT0xJndwaXNyYz1ubF9kYWlseTIwMg/55c8886a6e4adc304b9cf8c1C78=
+985a46> writes in the New York Times. =E2=80=9CHe has long been favored in =
+the polls in two of the remaining primary states, New Jersey and West Virgi=
+nia. =E2=80=A6 If Trump wins Indiana, a merely modest win in California cou=
+ld be enough to give him 1,237.=E2=80=9D
+
+<<<link>>
+vbS9UYW5pZWwvc3RhdHVzLzcyNTE2MDY4NjQxMDY4NjQ2NT93cG1tPTEmd3Bpc3JjPW5sX2RhaW=
+x5MjAy/55c8886a6e4adc304b9cf8c1Cd017af13>
+
+<<<link>>
+vbS9UYW5pZWwvc3RhdHVzLzcyNTE2MjExMTI5NTQzNDc1Mz93cG1tPTEmd3Bpc3JjPW5sX2RhaW=
+x5MjAy/55c8886a6e4adc304b9cf8c1Cd349e4e7>
+
+<<<link>>
+vbS9tZWd5bmtlbGx5L3N0YXR1cy83MjUxMzA5MDY0Mjg2NjE3NjE_d3BtbT0xJndwaXNyYz1ubF=
+9kYWlseTIwMg/55c8886a6e4adc304b9cf8c1C7b06c173>
+
+-- On the Democratic side,=C2=A0Sanders no longer has a path to victory.=C2=
+=A0=E2=80=9CClinton=E2=80=99s lead among pledged delegates was above 200 be=
+fore Tuesday=E2=80=99s voting and could be roughly 300 after her lopsided v=
+ictories in delegate-rich Pennsylvania and Maryland,=E2=80=9D Abby Phillip,=
+ John Wagner and Anne Gearan tabulate <<<link>>
+/6598243.61430/aHR0cHM6Ly93d3cud2FzaGluZ3RvbnBvc3QuY29tL3BvbGl0aWNzL2NsaW50=
+b24tcHJvamVjdGVkLXRvLXdpbi1hdC1sZWFzdC10aHJlZS1kZW1vY3JhdGljLXByaW1hcmllcy8=
+yMDE2LzA0LzI2LzczYjIwNzZjLTBiMmQtMTFlNi04YWI4LTlhZDA1MGY3NmQ3ZF9zdG9yeS5odG=
+1sP3dwbW09MSZ3cGlzcmM9bmxfZGFpbHkyMDI/55c8886a6e4adc304b9cf8c1E03379069>. O=
+nly 24 delegates were at stake in Rhodes Island, where Sanders won. =E2=80=
+=9CEven if Sanders were to score a blowout in California, which offers more=
+ than 500 delegates on June 7, Clinton appears certain to have locked up th=
+e nomination."
+
+CNN's tally:
+
+<<<link>>
+vbS9kYW5tZXJpY2FDTk4vc3RhdHVzLzcyNTE1NDU1NzQ1MDQyMDIyND93cG1tPTEmd3Bpc3JjPW=
+5sX2RhaWx5MjAy/55c8886a6e4adc304b9cf8c1Cb5f87955>
+
+-- The coverage this morning makes clear that Bernie=E2=80=99s hopes are da=
+shed.
+=E2=80=9CShe has effectively put this out of reach,=E2=80=9D said MSNBC's R=
+achel Maddow.   =E2=80=9CHis loss in Pennsylvania is particularly devastati=
+ng,=E2=80=9D writes the Boston Globe=E2=80=99s Annie Linskey <<<link>>
+domain.com/click/6598243.61430/aHR0cDovL3d3dy5ib3N0b25nbG9iZS5jb20vb=
+mV3cy9wb2xpdGljcy8yMDE2LzA0LzI2L2RlbW9jcmF0aWNwcmltYXJ5L1Jac2dHSlJ0OXoxMWpQ=
+cnJTUmJUS04vc3RvcnkuaHRtbD93cG1tPTEmd3Bpc3JjPW5sX2RhaWx5MjAy/55c8886a6e4adc=
+304b9cf8c1C9d1a8951>. =E2=80=9CSanders=E2=80=99 team had =E2=80=94 even jus=
+t a week ago =E2=80=94 predicted that the Vermont senator would prevail in =
+the state.=E2=80=9D   =E2=80=9CSanders can=E2=80=99t win,=E2=80=9D writes S=
+late=E2=80=99s Jamelle Bouie <<<link>>
+61430/aHR0cDovL3d3dy5zbGF0ZS5jb20vYXJ0aWNsZXMvbmV3c19hbmRfcG9saXRpY3MvcG9sa=
+XRpY3MvMjAxNi8wNC93aHlfYmVybmllX3NhbmRlcnNfc2hvdWxkX3N0YXlfaW5fdGhlX3JhY2Uu=
+aHRtbD93cG1tPTEmd3Bpc3JjPW5sX2RhaWx5MjAy/55c8886a6e4adc304b9cf8c1C1c32f59f>=
+. =E2=80=9CIf it=E2=80=99s not a fact just yet, it=E2=80=99s at least quick=
+ly hardening into one.=E2=80=9D
+Bernie Sanders speaks yesterday=C2=A0at the Big Sandy Superstore Arena=C2=
+=A0in Huntington, West Virginia. (Photo by John Sommers II/Getty Images)
+
+-- What=E2=80=99s next? =E2=80=9CSanders has pledged to remain in the race,=
+ but in a statement Tuesday night, he suggested motives besides winning the=
+ nomination, such as shaping the Democratic party=E2=80=99s platform, would=
+ keep him in the campaign,=E2=80=9D Bernie beat reporter John Wagner report=
+s. In West Virginia earlier in the day, Bernie listed several issues he wou=
+ld like to see addressed in Philadelphia, including a $15 minimum wage and =
+support for a single-payer health-care system.
+=E2=80=9CTad Devine, Sanders=E2=80=99s senior strategist, said the candidat=
+e and his top aides plan to talk Wednesday about how his path to the nomina=
+tion has been affected by Tuesday=E2=80=99s results, but he said he sees no=
+ scenario in which Sanders drops out,=E2=80=9D Wagner reports.   =E2=80=9CS=
+anders is poised to perform well in Indiana and has said he expects to outr=
+ight win other states voting soon, including West Virginia, Kentucky and Or=
+egon,=E2=80=9D he adds. =E2=80=9CBut there are no big prizes on the Democra=
+tic calendar in May that would allow him to capture a large number of deleg=
+ates.=E2=80=9D   =E2=80=9CDemocracy for America, one of the main groups bac=
+king Sanders, suggested the goal is no longer winning, but respect,=E2=80=
+=9D NBC News reports. <<<link>>
+HR0cDovL3d3dy5uYmNuZXdzLmNvbS9wb2xpdGljcy8yMDE2LWVsZWN0aW9uL2NsaW50b24tdmlj=
+dG9yaWVzLXNwZWxsLWJlZ2lubmluZy1lbmQtc2FuZGVycy1uNTYzMjYxP3dwbW09MSZ3cGlzcmM=
+9bmxfZGFpbHkyMDI/55c8886a6e4adc304b9cf8c1Cb506a72d> =E2=80=9CThe question r=
+ight now isn't whether the movement behind Bernie Sanders is going to conti=
+nue winning delegates and states in the weeks ahead, it's whether the Democ=
+ratic establishment is going to bring our party together by embracing our f=
+ight,=E2=80=9D said executive director Charles Chamberlain.
+Cruz speaks to supporters in Knightstown, Indiana.=C2=A0(Reuters/Aaron P. B=
+ernstein)
+
+-- The night=E2=80=99s biggest loser in the presidential race, though, migh=
+t have been Ted Cruz. He finished a humiliating third place in four of the =
+five states that voted. In the fifth, Pennsylvania, he campaigned hard to f=
+inish second=E2=80=94and would up pulling just 22 percent to Trump=E2=80=99=
+s 57 percent. That=E2=80=99s a 35 point loss in his best state. Preliminary=
+ network domain.com polls, in fact, showed that 55 percent of evangelicals voted =
+for Trump in Pennsylvania. This is Cruz=E2=80=99s base. =E2=80=9CIn past co=
+ntests (many with more candidates), Trump has averaged 36 percent,=E2=80=9D=
+ Philip Bump notes <<<link>>
+cHM6Ly93d3cud2FzaGluZ3RvbnBvc3QuY29tL25ld3MvdGhlLWZpeC93cC8yMDE2LzA0LzI2L2h=
+vdy1kb25hbGQtdHJ1bXAtaXMtZG9taW5hdGluZy10aGUtaS05NS1wcmltYXJ5Lz93cG1tPTEmd3=
+Bpc3JjPW5sX2RhaWx5MjAy/55c8886a6e4adc304b9cf8c1Cef1fd58d>.
+
+The Texas senator=E2=80=99s very real problem is that anti-Trump voters are=
+ not rallying behind him as the best alternative. Not that Maryland will be=
+ competitive in the fall, but 57 percent of Maryland Republicans said they =
+would definitely vote for Trump if he became the party=E2=80=99s nominee, c=
+ompared to only 37 percent who said they=E2=80=99d definitely back Cruz.
+
+<<<link>>
+vbS9aZWtlSk1pbGxlci9zdGF0dXMvNzI1MTU0NTg2MTU2MjI4NjA4P3dwbW09MSZ3cGlzcmM9bm=
+xfZGFpbHkyMDI/55c8886a6e4adc304b9cf8c1Ce5624bd1>
+
+<<<link>>
+vbS9UaW1BbGJlcnRhL3N0YXR1cy83MjUxMjU5MTA4MjgwNzI5NjA_d3BtbT0xJndwaXNyYz1ubF=
+9kYWlseTIwMg/55c8886a6e4adc304b9cf8c1Ceb300c03>
+
+<<<link>>
+vbS9hbXlld2FsdGVyL3N0YXR1cy83MjUxMTE5NDI4MTg0Njc4NDA_d3BtbT0xJndwaXNyYz1ubF=
+9kYWlseTIwMg/55c8886a6e4adc304b9cf8c1C07c4a0d6>
+
+-- To be clear, Kasich=E2=80=99s numbers are not impressive. He just out-pe=
+rformed Cruz. =E2=80=9CTuesday=E2=80=99s primaries seemed to put limits on =
+the pragmatic Republican vote,=E2=80=9D writes David Weigel <<<link>>
+domain.com/click/6598243.61430/aHR0cHM6Ly93d3cud2FzaGluZ3RvbnBvc3QuY2=
+9tL3BvbGl0aWNzL2thc2ljaC1mYWxscy1mYXItc2hvcnQtaW4tbm9ydGhlYXN0LXByaW1hcmllc=
+y8yMDE2LzA0LzI2LzY5MWUwNzcyLTBiZmMtMTFlNi04YWI4LTlhZDA1MGY3NmQ3ZF9zdG9yeS5o=
+dG1sP3dwbW09MSZ3cGlzcmM9bmxfZGFpbHkyMDI/55c8886a6e4adc304b9cf8c1C3fa01dc9>.=
+ =E2=80=9CIn Pennsylvania, Kasich lost to Cruz by 14 points with voters who=
+ wanted a candidate who shared their values. He lost by 4 points among vote=
+rs seeking =E2=80=98electability,=E2=80=99 despite polls that showed him wi=
+nning the state in November while Cruz and Trump would lose it.=E2=80=9D=C2=
+=A0The Ohio governor got whipped in places he needed=C2=A0to win, like Mont=
+gomery County, Maryland, or Greenwich, Connecticut.
+
+<<<link>>
+vbS96Ynlyb253b2xmL3N0YXR1cy83MjUxNTYxMjQyOTk4MTI4NjQ_d3BtbT0xJndwaXNyYz1ubF=
+9kYWlseTIwMg/55c8886a6e4adc304b9cf8c1C06892595>
+
+Even Missouri Sen. Claire McCaskill (D) mocked his chances:
+
+< <<link>>
+NvbS9jbGFpcmVjbWMvc3RhdHVzLzcyNDk1MDA0OTI2NDkwNjI0MD93cG1tPTEmd3Bpc3JjPW5sX=
+2RhaWx5MjAy/55c8886a6e4adc304b9cf8c1C024f1c46>
+
+-- Trump=E2=80=99s victories raise the stakes for next week=E2=80=99s India=
+na primary. Dan Balz calls it =E2=80=9Ca make-or-break event=E2=80=9D for C=
+ruz <<<link>>
+zaGluZ3RvbnBvc3QuY29tL3BvbGl0aWNzL2luZGlhbmEtbG9vbXMtbGFyZ2UtZm9yLWNydXpzLX=
+NsZW5kZXItaG9wZXMtYWZ0ZXItdHJ1bXAtc3dlZXBzLW5vcnRoZWFzdC8yMDE2LzA0LzI2L2UwY=
+zExMWY0LTBiMmQtMTFlNi04YWI4LTlhZDA1MGY3NmQ3ZF9zdG9yeS5odG1sP3dwbW09MSZ3cGlz=
+cmM9bmxfZGFpbHkyMDI/55c8886a6e4adc304b9cf8c1Ccef9d376>: =E2=80=9CA defeat i=
+n Indiana, though not a mathematical ending to the nomination battle, would=
+ nonetheless be a crippling blow to what is left of his strategy for winnin=
+g.=E2=80=9D
+
+<<<link>>
+ndG9ucG9zdC5jb20vdmlkZW8vcG9saXRpY3MvdHJ1bXAtb24tY2xpbnRvbi10aGUtb25seS1jYX=
+JkLXNoZS1oYXMtaXMtdGhlLXdvbWFucy1jYXJkLzIwMTYvMDQvMjYvZTlhZTYzYTgtMGMyNi0xM=
+WU2LWJjNTMtZGI2MzRjYTk0YTJhX3ZpZGVvLmh0bWw_d3BtbT0xJndwaXNyYz1ubF9kYWlseTIw=
+Mg/55c8886a6e4adc304b9cf8c1C2651e7fb>
+
+Trump on Clinton: 'The only card she has is the woman's card'
+
+-- So much for that =E2=80=9Cpivot=E2=80=9D to being =E2=80=9Cpresidential=
+=E2=80=9D: Last night, during his victory speech, Trump declared: =E2=80=9C=
+Frankly, if Hillary=C2=A0Clinton were a man, I don't think she=E2=80=99d ge=
+t 5 percent of the vote. <<<link>>
+0/aHR0cHM6Ly93d3cud2FzaGluZ3RvbnBvc3QuY29tL25ld3MvcG9zdC1wb2xpdGljcy93cC8yM=
+DE2LzA0LzI3L3RydW1wLWlmLWNsaW50b24td2VyZS1hLW1hbi1pLWRvbnQtdGhpbmstc2hlZC1n=
+ZXQtNS1wZXJjZW50LW9mLXRoZS12b3RlLz93cG1tPTEmd3Bpc3JjPW5sX2RhaWx5MjAy/55c888=
+6a6e4adc304b9cf8c1Cde2446d6>"=C2=A0
+
+=E2=80=9CI think the only card she has is the woman=E2=80=99s card. She=E2=
+=80=99s got nothing else going on,=E2=80=9D he said at Trump Tower. =E2=80=
+=9CThe only thing she=E2=80=99s got going on is the women=E2=80=99s vote. A=
+nd the beautiful thing is women don=E2=80=99t like her, ok?=E2=80=9D
+
+Earlier in the day, he boasted about actress Lena Dunham saying she=E2=80=
+=99ll move to Canada if he=E2=80=99s elected. =E2=80=9CShe=E2=80=99s a B ac=
+tor and has no, you know, mojo,=E2=80=9D he said.
+
+Still don't think Trump is toxic for Republicans in a general election? If =
+he=E2=80=99s the nominee, every single GOP candidate in a top-tier race wil=
+l be attacked over the aforementioned comments. Do you agree Hillary would =
+only get 5 percent of the vote if she was a man? They might be able to duck=
+ that question right now, but their opponents won=E2=80=99t allow that come=
+ fall. They will either distance themselves=E2=80=94and risk alienating Tru=
+mp supporters=E2=80=94or stay silent and then get forced to own it. Remembe=
+r, Trump also brags about never changing diapers. He said Megyn Kelly had "=
+blood coming out of her wherever" when she questioned him about his history=
+ of calling women "disgusting animals" and "dogs." Bottom line: It will jus=
+t be so, so, so easy for Democrats to portray Trump as unconcerned with the=
+ daily struggles of women.=C2=A0As Trump put it last night, =E2=80=9CI don=
+=E2=80=99t want to change my personality. It got me here!=E2=80=9D
+
+Other gems from his victory lap:
+
+<<<link>>
+vbS9tdmlzZXIvc3RhdHVzLzcyNTE0Njc0NTk0MDkwNTk4NT93cG1tPTEmd3Bpc3JjPW5sX2RhaW=
+x5MjAy/55c8886a6e4adc304b9cf8c1Cf672823d>
+
+<<<link>>
+vbS9tdmlzZXIvc3RhdHVzLzcyNTE0NjMyMDU4Mzk2NjcyMD93cG1tPTEmd3Bpc3JjPW5sX2RhaW=
+x5MjAy/55c8886a6e4adc304b9cf8c1Cc18048d6>
+
+<<<link>>
+0b25wb3N0LmNvbS9jbGljaz9zPTE0Mjk1MSZsYXlvdXQ9bWFycXVlZSZsaT0lN0IlN0JhZGhhc2=
+glN0QlN0Qmd3BtbT0xJndwaXNyYz1ubF9kYWlseTIwMg/55c8886a6e4adc304b9cf8c1E9f8a9=
+693>
+
+<<<link>>
+0b25wb3N0LmNvbS9jbGljaz9zPTE0Mjk1NCZzej0xMTZ4MTUmbGk9JTdCJTdCYWRoYXNoJTdEJT=
+dEJndwbW09MSZ3cGlzcmM9bmxfZGFpbHkyMDI/55c8886a6e4adc304b9cf8c1F45aca4ca>   =
+<<<link>>
+0b25wb3N0LmNvbS9jbGljaz9zPTE0Mjk1NSZzej02OXgxNSZsaT0lN0IlN0JhZGhhc2glN0QlN0=
+Qmd3BtbT0xJndwaXNyYz1ubF9kYWlseTIwMg/55c8886a6e4adc304b9cf8c1G8982fa04>
+
+Secondary storylines out of last night=E2=80=94
+
+Chaka Fattah, with his wife Renee, concedes last night at the headquarters =
+of the National Union of Hospital and Health Care Employees.=C2=A0(Steven M=
+. Falk/The Philadelphia Inquirer via AP)
+
+-- Rep. Chaka Fattah (D-Pa.) became the first incumbent to go down in 2016.=
+ The Philadelphia congressman faces 29 criminal charges for bribery, money =
+laundering and bank fraud. His trial is supposed to start in the next few w=
+eeks. But this, again, is what the establishment wanted. =E2=80=9CPennsylva=
+nia's current governor, former governor (Ed Rendell) and Philadelphia's may=
+or all endorsed his opponent -- longtime state Rep. Dwight Evans,=E2=80=9D =
+Amber Phillips notes. <<<link>>
+HR0cHM6Ly93d3cud2FzaGluZ3RvbnBvc3QuY29tL25ld3MvdGhlLWZpeC93cC8yMDE2LzA0LzI2=
+L3RoZS0yMDE2LWVsZWN0aW9uLWhhcy1jbGFpbWVkLWl0cy1maXJzdC1pbmN1bWJlbnQtbG9zZXI=
+tcmVwLWNoYWthLWZhdHRhaC8_d3BtbT0xJndwaXNyYz1ubF9kYWlseTIwMg/55c8886a6e4adc3=
+04b9cf8c1C432bdc9b>
+
+Bill Shuster=C2=A0(AP Photo/Keith Srakocic)
+
+-- Despite his romantic relationship with an airline lobbyist, the House Tr=
+ansportation Committee chairman narrowly beat back <<<link>>
+domain.com/click/6598243.61430/aHR0cDovL3d3dy5wb2xpdGljby5jb20vc3RvcnkvMjAxNi8=
+wNC9yZXAtYmlsbC1zaHVzdGVyLXN1cnZpdmVzLXByaW1hcnktY2hhbGxlbmdlLTIyMjUwOD93cG=
+1tPTEmd3Bpc3JjPW5sX2RhaWx5MjAy/55c8886a6e4adc304b9cf8c1C71966425> a tea par=
+ty primary challenge. He trailed for much of the night before winning by 4 =
+points (52-48).
+
+Chris Van Hollen celebrates his win at the Bethesda Marriott last night. (P=
+hoto by Katherine Frey/The Washington Post)
+
+-- What our domain.com polling tells us about how Van Hollen won: =E2=80=9CAlthou=
+gh Edwards polled stronger with women leading into the election, she lost w=
+omen voters 52-41 percent to Van Hollen,=E2=80=9D explains Post pollster Sc=
+ott Clement. =E2=80=9CPerhaps surprisingly, Edwards received a narrow 56 pe=
+rcent majority support among black women compared with 65 percent support a=
+mong black men.=E2=80=9D
+It was the highest black turnout in over two decades: African Americans acc=
+ounted for 46 percent of the Democratic electorate, compared to 37 percent =
+when Obama was running in 2008. Edwards pulled almost 60 percent of African=
+ Americans, but Van Hollen won an even larger 70 percent of the whites.   T=
+here was a generational divide: Whites over 45 supported Van Hollen by an 8=
+1 to 16 margin, compared with 50-30 among whites under 45. (Check out a coo=
+l interactive graphic with our domain.com poll numbers. <<<link>>
+domain.com/click/6598243.61430/aHR0cHM6Ly93d3cud2FzaGluZ3RvbnBvc3QuY29tL2dyYXBo=
+aWNzL3BvbGl0aWNzLzIwMTYtZWxlY3Rpb24vcHJpbWFyaWVzL21hcnlsYW5kLWV4aXQtcG9sbHM=
+vP3dwbW09MSZ3cGlzcmM9bmxfZGFpbHkyMDI/55c8886a6e4adc304b9cf8c1C15cd1b9f>)   =
+You cannot overlook money:=C2=A0Van Hollen outspent Edwards, $6.3 million t=
+o $2.7 million, though outside groups spent=C2=A0$5 million foer he and $1.=
+6 million for him.
+Donna Edwards concedes at the International Brotherhood of Electrical Worke=
+rs Local Union 26 in Lanham last night.=C2=A0(Photo by Marvin Joseph/The Wa=
+shington Post)
+
+=E2=80=9CMoments after conceding at a union hall in Prince George=E2=80=99s=
+ County, Edwards gave a pointed speech, criticizing her =E2=80=98friends in=
+ the state Democratic Party,=E2=80=99 which she said is on the verge of =E2=
+=80=98an all-male delegation in a so-called progressive state,=E2=80=99=E2=
+=80=9D Rachel Weiner reports <<<link>>
+61430/aHR0cHM6Ly93d3cud2FzaGluZ3RvbnBvc3QuY29tL2xvY2FsL21kLXBvbGl0aWNzLzIwM=
+TYvMDQvMjYvYWQwM2NkZjQtMGJiYy0xMWU2LWJmYTEtNGVmYTg1NmNhZjJhX3N0b3J5Lmh0bWw_=
+d3BtbT0xJndwaXNyYz1ubF9kYWlseTIwMg/55c8886a6e4adc304b9cf8c1C9c26701b>. =E2=
+=80=9CShe said Democrats cannot continue to ignore women and people of colo=
+r.=E2=80=9D (Van Hollen is the heavy favorite to beat Republican nominee Ka=
+thy Szeliga, a state delegate who represents parts of Baltimore and Harford=
+ counties, in November.)
+
+Catherine Pugh=C2=A0talks to a television reporter after having lunch at Be=
+lvedere Square. (Photo by Barbara Haddock Taylor/Baltimore Sun)
+
+-- A new mayor for Baltimore: =E2=80=9CCatherine E. Pugh, a state senator f=
+rom the West Baltimore neighborhoods that were rocked by riots a year ago, =
+claimed victory =E2=80=A6 in the crucial Democratic mayoral primary over fo=
+rmer mayor Sheila Dixon,=E2=80=9D Steve Hendrix and domain.com Nirappil report. =
+<<<link>>
+uZ3RvbnBvc3QuY29tL2xvY2FsL2luLWJhdHRlcmVkLWJhbHRpbW9yZS12b3RlcnMtZmxvY2tlZC=
+10by10aGUtcG9sbHMtZm9yLWEtY3J1Y2lhbC1tYXlvcmFsLXByaW1hcnkvMjAxNi8wNC8yNi9hN=
+mFmNTVjNi0wYmY5LTExZTYtYTZiNi0yZTZkZTM2OTViMGVfc3RvcnkuaHRtbD93cG1tPTEmd3Bp=
+c3JjPW5sX2RhaWx5MjAy/55c8886a6e4adc304b9cf8c1C3d0f9d0e> =E2=80=9CIn heavily=
+ Democratic Baltimore, Pugh is virtually assured of becoming the city=E2=80=
+=99s third consecutive African American female mayor at a time of continuin=
+g racial tension, spiking crime and economic malaise. She made an appeal to=
+ the disenfranchised central to her campaign. Pugh, 66, led the crowded fie=
+ld of 13 contenders with 37 percent of the vote to Dixon=E2=80=99s 34 perce=
+nt. A record turnout during early voting proved crucial to Pugh=E2=80=99s s=
+uccess.=E2=80=9D
+
+Corrections: Yesterday=E2=80=99s 202 said Barbara Mikulski was the first De=
+mocratic woman elected to the Senate in her own right. While Hattie Caraway=
+ was appointed to fill her deceased husband=E2=80=99s Senate seat, the Arka=
+nsan won a full term in 1932. (Short bio here. <<<link>>
+com/click/6598243.61430/aHR0cDovL2hpc3RvcnkuaG91c2UuZ292L1Blb3BsZS9MaXN0aW5=
+nL0MvQ0FSQVdBWSwtSGF0dGllLVd5YXR0LShDMDAwMTM4KS8_d3BtbT0xJndwaXNyYz1ubF9kYW=
+lseTIwMg/55c8886a6e4adc304b9cf8c1Cdfc9a86c>) Also, in the Maryland Senate r=
+ace, Nancy Pelosi never formally endorsed Van Hollen, who has been a loyal =
+lieutenant and close ally.
+
+Welcome to the Daily 202, PowerPost's morning newsletter.
+With contributions from Breanne Deppisch (@b_deppy <<<link>>
+domain.com/click/6598243.61430/aHR0cHM6Ly90d2l0dGVyLmNvbS9iX2RlcHB5P3dwbW09MSZ=
+3cGlzcmM9bmxfZGFpbHkyMDI/55c8886a6e4adc304b9cf8c1C0b1c18ec>) and Elise Vieb=
+eck (@eliseviebeck <<<link>>
+cHM6Ly90d2l0dGVyLmNvbS9lbGlzZXZpZWJlY2s_d3BtbT0xJndwaXNyYz1ubF9kYWlseTIwMg/=
+55c8886a6e4adc304b9cf8c1C79ae20d4>) Sign up to receive the newsletter. <htt=
+p://domain.com/click/6598243.61430/aHR0cHM6Ly93d3cud2FzaGluZ3R=
+vbnBvc3QuY29tL25ld3MvcG93ZXJwb3N0L3dwL2NhdGVnb3J5L3RoZS1kYWlseS0yMDIvP3dwbW=
+09MSZ3cGlzcmM9bmxfZGFpbHkyMDI/55c8886a6e4adc304b9cf8c1E6e864369>
+
+WHILE YOU WERE SLEEPING:
+
+-- The Anaheim, California, City Council voted against formally denouncing =
+Trump and his =E2=80=9Cdivisive rhetoric=E2=80=9D after a heated, four-hour=
+ debate. Outside city hall last night, clashes between Trump supporters and=
+ opponents turned violent =E2=80=93 with demonstrators on both sides hurlin=
+g obscenities, firing pepper spray -- and in one case, lunging at an oppone=
+nt with a Taser. (Los Angeles Times <<<link>>
+598243.61430/aHR0cDovL3d3dy5sYXRpbWVzLmNvbS9sb2NhbC9sYW5vdy9sYS1tZS1sbi10cn=
+VtcC1iYWNrZXJzLWNyaXRpY2lzbS1jbGFzaC1maXJlLXBlcHBlci1zdHJheS1vdXRzaWRlLWFuY=
+WhlaW0tY2l0eS1oYWxsLTIwMTYwNDI2LXN0b3J5Lmh0bWw_d3BtbT0xJndwaXNyYz1ubF9kYWls=
+eTIwMg/55c8886a6e4adc304b9cf8c1C6f518fd2>)
+
+-- Belgian prosecutors handed over a key suspect in the Paris attacks to Fr=
+ance:=C2=A0"The French prosecutor=E2=80=99s office confirmed that Salah=C2=
+=A0Abdeslam, 26, arrived in Paris and that he will face investigative judge=
+s for eventual charges,"=C2=A0James McAuley reports <<<link>>
+domain.com/click/6598243.61430/aHR0cHM6Ly93d3cud2FzaGluZ3RvbnBvc3QuY29tL3dvcm=
+xkL2tleS1zdXNwZWN0LWluLXBhcmlzLXRlcnJvcmlzdC1hdHRhY2tzLWhhbmRlZC1vdmVyLXRvL=
+WZyYW5jZS8yMDE2LzA0LzI3L2RiMWQ4MzkyLTBjNTctMTFlNi1iZmExLTRlZmE4NTZjYWYyYV9z=
+dG9yeS5odG1sP3dwbW09MSZ3cGlzcmM9bmxfZGFpbHkyMDI/55c8886a6e4adc304b9cf8c1C6e=
+f52158>. Abdeslam=C2=A0was arrested in Brussels=C2=A0on March 18 after four=
+ months of eluding authorities.=C2=A0His capture was a watershed moment in =
+the ongoing investigation into the cell of largely European-born jihadists.=
+=C2=A0Inspired by the Islamic State, his group initially planned a second a=
+ttack in France, but because of encroaching arrests opted for a quicker and=
+ easier=C2=A0option instead.
+
+GET SMART FAST:=E2=80=8B=E2=80=8B
+Despite rising graduation rates, high school seniors have slipped in math p=
+erformance and have shown no improvement in reading.=C2=A0The data, release=
+d at=C2=A0midnight,=C2=A0raises=C2=A0fresh questions=C2=A0about whether a d=
+iploma is a meaningful measure of achievement. (Emma Brown <<<link>>
+domain.com/click/6598243.61430/aHR0cHM6Ly93d3cud2FzaGluZ3RvbnBvc3QuY29=
+tL2xvY2FsL2VkdWNhdGlvbi91cy1oaWdoLXNjaG9vbC1zZW5pb3JzLXNsaXAtaW4tbWF0aC1hbm=
+Qtc2hvdy1uby1pbXByb3ZlbWVudC1pbi1yZWFkaW5nLzIwMTYvMDQvMjYvOWI4ZjAzM2UtMGJjO=
+C0xMWU2LThhYjgtOWFkMDUwZjc2ZDdkX3N0b3J5Lmh0bWw_d3BtbT0xJndwaXNyYz1ubF9kYWls=
+eTIwMg/55c8886a6e4adc304b9cf8c1Cc44754ae>)   The man who hopped a fence at =
+the White House complex last night, triggering a lockdown, was apparently a=
+ purse snatcher=C2=A0trying to flee the scene of his crime, the Secret Serv=
+ice said. (Peter Hermann and Victoria St. Martin <<<link>>
+t.com/click/6598243.61430/aHR0cHM6Ly93d3cud2FzaGluZ3RvbnBvc3QuY29tL2xvY2FsL=
+3B1YmxpYy1zYWZldHkvbWFuLXRha2VuLXRvLWhvc3BpdGFsLWFmdGVyLXJlcG9ydHMtaGUtanVt=
+cGVkLXdoaXRlLWhvdXNlLWZlbmNlLzIwMTYvMDQvMjYvOWE4ZjVhNWEtMGJmMS0xMWU2LThhYjg=
+tOWFkMDUwZjc2ZDdkX3N0b3J5Lmh0bWw_d3BtbT0xJndwaXNyYz1ubF9kYWlseTIwMg/55c8886=
+a6e4adc304b9cf8c1C8ec7d908>; We got a video of him being hauled away on a s=
+tretcher. <<<link>>
+3cud2FzaGluZ3RvbnBvc3QuY29tL3ZpZGVvL25hdGlvbmFsL21hbi1hcnJlc3RlZC1hZnRlci1q=
+dW1waW5nLWZlbmNlLW9uLXdoaXRlLWhvdXNlLWNhbXB1cy8yMDE2LzA0LzI2LzhmZDkxN2E0LTB=
+iZmItMTFlNi1iYzUzLWRiNjM0Y2E5NGEyYV92aWRlby5odG1sP3dwbW09MSZ3cGlzcmM9bmxfZG=
+FpbHkyMDI/55c8886a6e4adc304b9cf8c1C95cdaced>)   Congress=C2=A0will miss the=
+ first deadline to help Puerto Rico restructure $72 billion in public debt.=
+=C2=A0Lawmakers=C2=A0remain uncertain about whether they can meet a=C2=A0mo=
+re critical July 1 payment deadline. (Mike DeBonis <<<link>>
+domain.com/click/6598243.61430/aHR0cHM6Ly93d3cud2FzaGluZ3RvbnBvc3QuY29tL25ld3M=
+vcG93ZXJwb3N0L3dwLzIwMTYvMDQvMjYvcHVlcnRvLXJpY28td2lsbC1jb250aW51ZS10by13YW=
+l0LWZvci1maXNjYWwtcmVzY3VlLW1jY2FydGh5LXNheXMvP3dwbW09MSZ3cGlzcmM9bmxfZGFpb=
+HkyMDI/55c8886a6e4adc304b9cf8c1C6e5c0ba2>)   Apple reported its first quart=
+erly decline in=C2=A0revenue since 2003, citing reduced iPhone sales and sp=
+arking industry worry of a=C2=A0saturated smartphone market. (Hayley Tsukay=
+ama <<<link>>
+zaGluZ3RvbnBvc3QuY29tL25ld3MvdGhlLXN3aXRjaC93cC8yMDE2LzA0LzI2L2FwcGxlLXJlcG=
+9ydHMtaXRzLWZpcnN0LXJldmVudWUtZHJvcC1pbi1tb3JlLXRoYW4tYS1kZWNhZGUvP3dwbW09M=
+SZ3cGlzcmM9bmxfZGFpbHkyMDI/55c8886a6e4adc304b9cf8c1C6c6b1767>)   Comcast, w=
+hich owns Universal, is in talks to buy DreamWorks Animation for more than =
+$3 billion. (Wall Street Journal <<<link>>
+243.61430/aHR0cDovL3d3dy53c2ouY29tL2FydGljbGVzL2NvbWNhc3QtaW4tdGFsa3MtdG8tY=
+nV5LWRyZWFtd29ya3MtZm9yLW1vcmUtdGhhbi0zLWJpbGxpb24tMTQ2MTcyMDM4MD93cG1tPTEm=
+d3Bpc3JjPW5sX2RhaWx5MjAy/55c8886a6e4adc304b9cf8c1C6f3d7fed>)   Las Vegas Re=
+view-Journal columnist John L. Smith resigned from the paper after being ba=
+nned from writing about Sheldon Adelson, the new owner. (Politico <<<link>>
+domain.com/click/6598243.61430/aHR0cDovL3d3dy5jYXBpdGFsbmV3eW9y=
+ay5jb20vYXJ0aWNsZS9tZWRpYS8yMDE2LzA0Lzg1OTc2MTIvbGFzLXZlZ2FzLXJldmlldy1qb3V=
+ybmFsLWNvbHVtbmlzdC1yZXNpZ25zP3dwbW09MSZ3cGlzcmM9bmxfZGFpbHkyMDI/55c8886a6e=
+4adc304b9cf8c1C839e8a62> )   To combat an epidemic of=C2=A0rape,=C2=A0mobil=
+e phones in India will now be required to have a physical =E2=80=9Cpanic bu=
+tton."=C2=A0(Annie Gowen <<<link>>
+0/aHR0cHM6Ly93d3cud2FzaGluZ3RvbnBvc3QuY29tL25ld3Mvd29ybGR2aWV3cy93cC8yMDE2L=
+zA0LzI2L2luZGlhLW9yZGVycy1wYW5pYy1idXR0b24tZm9yLW1vYmlsZS1waG9uZXMtaW4tYmlk=
+LXRvLXByb3RlY3Qtd29tZW4vP3dwbW09MSZ3cGlzcmM9bmxfZGFpbHkyMDI/55c8886a6e4adc3=
+04b9cf8c1Cf7040474>)   Iraqi lawmakers approved several of the prime minist=
+er=E2=80=99s candidates for a new domain.com, attempting to steer the country =
+out of political turmoil as thousands protested. (Loveday Morris and Mustaf=
+a Salim <<<link>>
+ud2FzaGluZ3RvbnBvc3QuY29tL3dvcmxkL21pZGRsZV9lYXN0L2FzLXByb3Rlc3RlcnMtc3RlcC=
+11cC1wcmVzc3VyZS1pcmFxaS1wYXJsaWFtZW50LWVuZG9yc2VzLXBhcnRpYWwtY2FiaW5ldC1yZ=
+XNodWZmbGUvMjAxNi8wNC8yNi9iZTAxZmI4Yy0wYmJmLTExZTYtYmM1My1kYjYzNGNhOTRhMmFf=
+c3RvcnkuaHRtbD93cG1tPTEmd3Bpc3JjPW5sX2RhaWx5MjAy/55c8886a6e4adc304b9cf8c1Ce=
+ece70ee>)   Federal authorities located the missing data recorder belonging=
+ to El Faro, the cargo ship that sank mysteriously last fall with 33 crew m=
+embers on board.=C2=A0(Mark Berman <<<link>>
+98243.61430/aHR0cHM6Ly93d3cud2FzaGluZ3RvbnBvc3QuY29tL25ld3MvcG9zdC1uYXRpb24=
+vd3AvMjAxNi8wNC8yNi9hdXRob3JpdGllcy1maW5kLW1pc3NpbmctZGF0YS1yZWNvcmRlci1mb3=
+Itc3Vua2VuLWNhcmdvLXNoaXAtZWwtZmFyby8_d3BtbT0xJndwaXNyYz1ubF9kYWlseTIwMg/55=
+c8886a6e4adc304b9cf8c1C722cf7b8>)   Six cases of measles were confirmed in =
+Tennessee.=C2=A0(New York Times <<<link>>
+43.61430/aHR0cDovL3d3dy5ueXRpbWVzLmNvbS8yMDE2LzA0LzI3L2hlYWx0aC82LW1lYXNsZX=
+MtY2FzZXMtcmVwb3J0ZWQtaW4tbWVtcGhpcy1hcmVhLWV4Y2VlZGluZy1yZXN0LW9mLXVzLmh0b=
+Ww_d3BtbT0xJndwaXNyYz1ubF9kYWlseTIwMg/55c8886a6e4adc304b9cf8c1Ce0428168>)  =
+ One of the victims in last week's Ohio massacre was shot nine times, accor=
+ding to an autopsy.=C2=A0(USA Today <<<link>>
+598243.61430/aHR0cDovL3d3dy51c2F0b2RheS5jb20vc3RvcnkvbmV3cy9uYXRpb24tbm93Lz=
+IwMTYvMDQvMjYvb2hpby1zaG9vdGluZ3MtcHJlbGltaW5hcnktYXV0b3BzeS84MzU0NzE3Ni8_d=
+3BtbT0xJndwaXNyYz1ubF9kYWlseTIwMg/55c8886a6e4adc304b9cf8c1C191342b8>)   Sna=
+pchat joined a legal battle over whether voters have the right to take =E2=
+=80=9Cselfies=E2=80=9D inside the voting booth.=C2=A0To protect the domain.com=
+y of the secret ballot, many states ban the practice.=C2=A0(New York Times =
+<<<link>>
+zLmNvbS8yMDE2LzA0LzI3L3VzL3BvbGl0aWNzL3ZvdGluZy1ib290aC1zbmFwY2hhdC1zZWxmaW=
+VzLmh0bWw_X3I9MCZ3cG1tPTEmd3Bpc3JjPW5sX2RhaWx5MjAy/55c8886a6e4adc304b9cf8c1=
+C29e98962>)   London authorities believe a =E2=80=9Cserial cat killer=E2=80=
+=9D is responsible for up to 150 brutal and ritualistic animal killings acr=
+oss the city.(Peter Holley <<<link>>
+430/aHR0cHM6Ly93d3cud2FzaGluZ3RvbnBvc3QuY29tL25ld3MvYW5pbWFsaWEvd3AvMjAxNi8=
+wNC8yNi90aGlzLWlzLXRoZS1zdHVmZi1vZi1uaWdodG1hcmVzLXNhZGlzdGljLWNhdC1raWxsZX=
+ItdGVycm9yaXplcy1sb25kb24tcGV0LW93bmVycy8_d3BtbT0xJndwaXNyYz1ubF9kYWlseTIwM=
+g/55c8886a6e4adc304b9cf8c1C82952266>)
+THE DAILY DONALD:=C2=A0
+
+Trump=C2=A0senior adviser Paul Manafort (L) arrives with Ben Carson for a r=
+eception at the Republican National Committee Spring Meeting in Florida las=
+t week. (Reuters/Joe Skipper)
+
+--=C2=A0The profile of Paul Manafort=C2=A0you've been waiting for:=C2=A0Tru=
+mp hired him=C2=A0to add the wisdom of a veteran Washington operative to a =
+campaign of political novices. But beneath the surface is a more complex pi=
+cture, Steven Mufson and Tom Hamburger report <<<link>>
+om/click/6598243.61430/aHR0cHM6Ly93d3cud2FzaGluZ3RvbnBvc3QuY29tL3BvbGl0aWNz=
+L2luLWJ1c2luZXNzLWFzLWluLXBvbGl0aWNzLXRydW1wLWFkdmlzZXItbm8tc3RyYW5nZXItdG8=
+tY29udHJvdmVyc2lhbC1maWd1cmVzLzIwMTYvMDQvMjYvOTcwZGIyMzItMDhjNy0xMWU2LWIyOD=
+MtZTc5ZDgxYzYzYzFiX3N0b3J5Lmh0bWw_aHBpZD1ocF9yaHAtdG9wLXRhYmxlLW1haW5fbWFuY=
+WZvcnQtNzQ1cG06aG9tZXBhZ2Uvc3Rvcnkmd3BtbT0xJndwaXNyYz1ubF9kYWlseTIwMg/55c88=
+86a6e4adc304b9cf8c1Ccc01466a>.=C2=A0Manafort has parlayed political relatio=
+nships around the world into an array of intricate financial transactions w=
+ith oligarchs and other controversial investors that have occasionally spur=
+red legal disputes:
+In one deal, records show Manafort borrowed and later repaid a $250,000 loa=
+n from a Middle Eastern arms dealer at the center of a French inquiry into =
+whether kickbacks were paid to politicians in a 1995 presidential campaign.=
+   In another, a Russian businessman accused Manafort of taking nearly $19 =
+million intended for investments, then failing to account for funds or resp=
+ond to inquiries about how they were used. Attorneys for the businessman cl=
+aimed at one point they could not locate Manafort or his partner, and hired=
+ a private investigator to track them down.   =E2=80=9CPrior to joining Tru=
+mp=E2=80=99s campaign, Manafort had operated largely out of the limelight. =
+But he once explained his approach to business during public testimony to C=
+ongress. =E2=80=98The technical term for what we do ... is =E2=80=98lobbyin=
+g,'=C2=A0Manafort said. =E2=80=98For [the]=C2=A0purposes of today, I will a=
+domain.com that, in a narrow sense, some people might term it =E2=80=98influence =
+peddling.=E2=80=99=E2=80=9D
+-- A New York judge ruled that a fraud case over the now-defunct =E2=80=9CT=
+rump University=E2=80=9D will go to trial =E2=80=93 raising the possibility=
+ that the billionaire businessman could be forced to testify during campaig=
+n season. (Fox News <<<link>>
+0cDovL3d3dy5mb3huZXdzLmNvbS9wb2xpdGljcy8yMDE2LzA0LzI2L255LWp1ZGdlLWRlY2lkZX=
+MtdHJ1bXAtdW5pdmVyc2l0eS1jYXNlLWdvaW5nLXRvLXRyaWFsLmh0bWw_d3BtbT0xJndwaXNyY=
+z1ubF9kYWlseTIwMg/55c8886a6e4adc304b9cf8c1Cc7c16d39>)
+
+-- California voter=C2=A0registration has DOUBLED among Latinos, TRIPLED am=
+ong Democrats, and increased by more than 150 percent among some young vote=
+rs. Capitol Weekly <<<link>>
+cDovL2NhcGl0b2x3ZWVrbHkubmV0L2NhMTIwLXZvdGVyLXN1cmdlLW5vdy1jYWxpZm9ybmlhLz9=
+3cG1tPTEmd3Bpc3JjPW5sX2RhaWx5MjAy/55c8886a6e4adc304b9cf8c1C4453e31a>=C2=A0s=
+tudied the numbers and=C2=A0found that Trump=E2=80=99s Super Tuesday romp c=
+orresponded with a huge spike in Democratic voter registration among Latino=
+s.
+
+-- The billionaire sold his jet to himself in order to circumvent an=C2=A0F=
+AA registration issue that recently grounded his plane. The legal maneuver =
+allows him=C2=A0to avoid what could potentially be a lengthy domain.com time to r=
+e-register his aircraft. (New York Times <<<link>>
+ick/6598243.61430/aHR0cDovL3d3dy5ueXRpbWVzLmNvbS8yMDE2LzA0LzI3L255cmVnaW9uL=
+2FmdGVyLWEtbGVnYWwtbWFuZXV2ZXItZG9uYWxkLXRydW1wcy1qZXQtaXMtY2xlYXJlZC10by1m=
+bHkuaHRtbD9fcj0xJndwbW09MSZ3cGlzcmM9bmxfZGFpbHkyMDI/55c8886a6e4adc304b9cf8c=
+1Cd8c6cd1a>)
+
+-- Trump may be well positioned to clinch the nomination, but the evidence =
+is mounting that he=C2=A0must win on the first ballot at the convention in =
+Cleveland. Politico=E2=80=99s Kyle Cheney and Katie Glueck <<<link>>
+domain.com/click/6598243.61430/aHR0cDovL3d3dy5wb2xpdGljby5jb20vc3Rvcnk=
+vMjAxNi8wNC90ZWQtY3J1ei1kb25hbGQtdHJ1bXAtZGVsZWdhdGVzLTIyMjQ3NT9sbz1hcF9hMi=
+Z3cG1tPTEmd3Bpc3JjPW5sX2RhaWx5MjAy/55c8886a6e4adc304b9cf8c1C3ac3e2c3> repor=
+t on some new developments in the delegate hunt:
+In Texas, Cruz is positioned to sweep the state=E2=80=99s enormous delegate=
+ haul. =E2=80=9CI=E2=80=99d be very surprised if 155 out of the 155 weren=
+=E2=80=99t for Cruz,=E2=80=9D said Steve Munisteri, a former state party ch=
+airman who is unaligned.   =E2=80=9CIn Missouri =E2=80=94 a state Trump nar=
+rowly won =E2=80=94 Cruz is poised to dominate local and state-level contes=
+ts for 49 delegates.=E2=80=9D   In Iowa, a slate of 15 statewide delegates =
+will include at least 11 Cruz backers, including Rep. Steve King, Bob Vande=
+r Plaats and Cruz staffer Bryan English. And the others =E2=80=9Caren=E2=80=
+=99t exactly Trump loyalists.=E2=80=9D   In Illinois, Kasich supporters are=
+ most likely to dominate the 12 statewide delegate slots, even though they=
+=E2=80=99ll be pledged to Trump on a first ballot.   =E2=80=9CIn Virginia, =
+which holds its state convention this weekend =E2=80=A6 at least one state =
+GOP central committee member noted that Cruz supporters are expected to dom=
+inate =E2=80=A6 and will be able to have their way with the delegate slate.=
+ Candidates for delegate slots include Ken Cuccinelli, the former Virginia =
+attorney general who is one of Cruz=E2=80=99s top delegate organizers.=E2=
+=80=9D
+
+<<<link>>
+0b25wb3N0LmNvbS9jbGljaz9zPTE0Mjk1NiZsYXlvdXQ9bWFycXVlZSZsaT0lN0IlN0JhZGhhc2=
+glN0QlN0Qmd3BtbT0xJndwaXNyYz1ubF9kYWlseTIwMg/55c8886a6e4adc304b9cf8c1H977b9=
+6d1>
+
+<<<link>>
+0b25wb3N0LmNvbS9jbGljaz9zPTE0Mjk1OSZzej0xMTZ4MTUmbGk9JTdCJTdCYWRoYXNoJTdEJT=
+dEJndwbW09MSZ3cGlzcmM9bmxfZGFpbHkyMDI/55c8886a6e4adc304b9cf8c1I1fd804ee>   =
+<<<link>>
+0b25wb3N0LmNvbS9jbGljaz9zPTE0Mjk2MCZzej02OXgxNSZsaT0lN0IlN0JhZGhhc2glN0QlN0=
+Qmd3BtbT0xJndwaXNyYz1ubF9kYWlseTIwMg/55c8886a6e4adc304b9cf8c1J34c16619>
+
+MORE ON THE REPUBLICAN RACE:
+(AP Photo/AJ Mast)
+">
+Indiana Governor Mike Pence reacts last month to news that=C2=A0Carrier was=
+ closing a 1,400-worker plant in Indy and a 700-worker factory in Huntingto=
+n.=C2=A0(AP Photo/AJ Mast)
+
+-- With less than a week until Indiana=E2=80=99s primary, Gov. Mike Pence h=
+as not decided whether he will endorse: =E2=80=9CI=E2=80=99ve made no decis=
+ion yet on whether or not I=E2=80=99ll weigh in,=E2=80=9D said Pence, who f=
+aces a competitive reelection campaign of his own. (Indianapolis Star <http=
+://domain.com/click/6598243.61430/aHR0cDovL3d3dy5pbmR5c3Rhci5j=
+b20vc3RvcnkvbmV3cy9wb2xpdGljcy9iZWhpbmQtY2xvc2VkLWRvb3JzLzIwMTYvMDQvMjYvcGV=
+uY2UtZW5kb3JzZS1iZWZvcmUtZ29wLXByaW1hcnktbm8tZGVjaXNpb24teWV0LzgzNTU1Mzk4Lz=
+93cG1tPTEmd3Bpc3JjPW5sX2RhaWx5MjAy/55c8886a6e4adc304b9cf8c1C139cede3>)
+
+Why staying neutral might actually be a=C2=A0short-sighted move=C2=A0for th=
+e hyper-ambitious=C2=A0Pence:=C2=A0If Trump narrowly=C2=A0wins his state an=
+d then the nomination, "the recriminations will be ferocious," Jonah Goldbe=
+rg <<<link>>
+bWVzLmNvbS9vcGluaW9uL29wLWVkL2xhLW9lLWdvbGRiZXJnLW1pa2UtcGVuY2UtaW5kaWFuYS0=
+yMDE2MDQyNi0xNS1jb2x1bW4uaHRtbD93cG1tPTEmd3Bpc3JjPW5sX2RhaWx5MjAy/55c8886a6=
+e4adc304b9cf8c1C46a6d43c>=C2=A0writes in his column today.=C2=A0"The postmo=
+rtems will undoubtedly focus on who had a chance to stop Trump when it was =
+possible. Among the first in the dock: the Hamlet of the Hoosiers.=E2=80=9D
+
+National Review=E2=80=99s editorial board today=C2=A0urges=C2=A0Pence to ba=
+ck Cruz <<<link>>
+uYXRpb25hbHJldmlldy5jb20vYXJ0aWNsZS80MzQ1ODEvbWlrZS1wZW5jZS10ZWQtY3J1ej93cG=
+1tPTEmd3Bpc3JjPW5sX2RhaWx5MjAy/55c8886a6e4adc304b9cf8c1C8cdc6e6e>, saying t=
+hat the governor staying on the sidelines=C2=A0=E2=80=9Cis unlikely to redo=
+und to Pence=E2=80=99s domain.com=E2=80=9D: =E2=80=9CHe will not be remembered=
+ fondly for, by dint of inaction, helping to cede his state ...=C2=A0to a p=
+opulist who shares few of Pence=E2=80=99s principles and who, if current po=
+lls are any indication, would likely lose the White House, perhaps badly."
+
+-- Kasich is not featured in Oregon=E2=80=99s official voter pamphlet for t=
+he state=E2=80=99s May primary election.=C2=A0His campaign failed to domain.com=
+ required information before a deadline,=C2=A0The Register-Guard reports. <=
+<<link>>
+cmQuY29tL3JnL25ld3MvbG9jYWwvMzQzMDYwMjctNzUvbm8tam9obi1rYXNpY2gtaW4tb3JlZ29=
+ucy12b3RlcnMtcGFtcGhsZXQuaHRtbC5jc3A_d3BtbT0xJndwaXNyYz1ubF9kYWlseTIwMg/55c=
+8886a6e4adc304b9cf8c1C7dc3e771>=C2=A0
+
+Mitch McConnell listens as John Cornyn=C2=A0speaks to reporters at the Capi=
+tol.=C2=A0(AP Photo/Manuel Balce Ceneta)
+
+-- John Cornyn burns Cruz. In an interview with KERA News <<<link>>
+domain.com/click/6598243.61430/aHR0cDovL2tlcmFuZXdzLm9yZy9wb3N0L3RlZC1j=
+cnV6LXdlbnQtd2FzaGluZ3Rvbi1ydW4tcHJlc2lkZW50LWpvaG4tY29ybnluLXNheXM_d3BtbT0=
+xJndwaXNyYz1ubF9kYWlseTIwMg/55c8886a6e4adc304b9cf8c1C1fd6daac>, the Senate =
+Majority Whip said, though he regularly works with his fellow Texas senator=
+, the two have =E2=80=9Cdifferences on tactics.=E2=80=9D There is no love l=
+ost after Cruz stayed on the sidelines during Cornyn's=C2=A0own 2015 reelec=
+tion campaign. =E2=80=9CPart of it is from the fact that I=E2=80=99ve been =
+here a while and I=E2=80=99m part of the elected Republican leadership,=E2=
+=80=9D Cornyn said. =E2=80=9CMy goal has always been to figure out how we c=
+an advance the conservative cause. I think he=E2=80=99s taken the more imme=
+diate, shorter-term view of things. He came here to run for president. I th=
+ink that perhaps explains the difference in tactics.=E2=80=9D Cornyn contin=
+ues to say he will not endorse Cruz during the primaries.
+
+MORE ON THE DEMOCRATIC RACE:
+
+Flanked by steelworkers, Hillary speaks on her plans for the economy in Ham=
+mond, Indiana.=C2=A0(EPA/Tannen Maury)
+
+-- Hillary=C2=A0is looking ahead to Indiana's primary next week, where she =
+is locked in a tight race.=C2=A0=E2=80=9CThe state has always been a tough =
+nut to crack for Clinton," writes Abby Phillip <<<link>>
+com/click/6598243.61430/aHR0cHM6Ly93d3cud2FzaGluZ3RvbnBvc3QuY29tL25ld3MvcG9=
+zdC1wb2xpdGljcy93cC8yMDE2LzA0LzI2L2NsaW50b24tcHJlcGFyZXMtZm9yLXRvdWdoLWZpZ2=
+h0LWluLWluZGlhbmEtcGl2b3RzLXRvLXRyYWRlLz93cG1tPTEmd3Bpc3JjPW5sX2RhaWx5MjAy/=
+55c8886a6e4adc304b9cf8c1C89d5b6f2>. =E2=80=9CIn 2008, she defeated Obama he=
+re by less than one percentage point. This year, her challenges could be si=
+milar to the ones she faced in states like Michigan (where she lost, unexpe=
+ctedly) and Ohio (where she won narrowly)."=C2=A0Clinton was ahead 46=C2=A0=
+percent to 42=C2=A0percent in the latest Fox News poll from the Hoosier Sta=
+te, where=C2=A092 delegates are at stake.=C2=A0
+
+-- The Clinton campaign is=C2=A0retooling=C2=A0its messaging=C2=A0on trade:=
+=C2=A0Speaking to an audience of steel employees and their families in Hamm=
+ond yesterday, Clinton promised to make =E2=80=9Csurvival=E2=80=9D of the i=
+ndustry one of her top priorities. =E2=80=9CI=E2=80=99m saying to CEOs who =
+think they can make a quick buck by turning their back on our country ... w=
+e are not going to let you take advantage of us anymore,=E2=80=9D Clinton s=
+aid. =E2=80=9CI=E2=80=99m going to stand up to both CEOs at home and China =
+abroad.=E2=80=9D
+
+The=C2=A0Democratic front-runner also=C2=A0delivered some thinly-veiled dig=
+s at Sanders: =E2=80=9CIt=E2=80=99s not enough just to diagnose the problem=
+,=E2=80=9D Clinton said. =E2=80=9CWe all know that we are losing jobs. We a=
+ll know that we are facing unfair competition =E2=80=A6 Give me the specifi=
+cs, don=E2=80=99t just give me the rhetoric and the demagoguery.=E2=80=9D
+
+-- Clinton said at least half her domain.com would be women: The former secret=
+ary of state told Rachel Maddow during=C2=A0MSNBC=E2=80=99s town hall that =
+she plans on having a domain.com =E2=80=9Cthat looks like America. And 50 perc=
+ent of America is women, right?=E2=80=9D (Yahoo <<<link>>
+.com/click/6598243.61430/aHR0cHM6Ly93d3cueWFob28uY29tL25ld3MvY2xpbnRvbi1oYW=
+xmLWNhYmluZXQtd29tZW4tMTQyNDU4MTc2Lmh0bWw_cmVmPWdzJndwbW09MSZ3cGlzcmM9bmxfZ=
+GFpbHkyMDI/55c8886a6e4adc304b9cf8c1Cc4f004b7>)
+
+-- Jane Sanders said her husband will not release their back tax returns un=
+til Clinton releases the transcripts of all her Wall Street speeches. (CNN =
+<<<link>>
+tLzIwMTYvMDQvMjYvcG9saXRpY3MvamFuZS1zYW5kZXJzLXRheC1yZXR1cm5zL2luZGV4Lmh0bW=
+w_d3BtbT0xJndwaXNyYz1ubF9kYWlseTIwMg/55c8886a6e4adc304b9cf8c1C1b688333>)
+
+WAPO HIGHLIGHT:
+
+Hamdullah Mohib in his office at the Embassy of Afghanistan=C2=A0(Photo by =
+Bill O'Leary/The Washington Post)
+
+-- =E2=80=9CWhat does Afghanistan need? Some major rebranding, says its 32-=
+year-old ambassador <<<link>>
+0cHM6Ly93d3cud2FzaGluZ3RvbnBvc3QuY29tL2xpZmVzdHlsZS9zdHlsZS93aGF0LWRvZXMtYW=
+ZnaGFuaXN0YW4tbmVlZC1zb21lLW1ham9yLXJlYnJhbmRpbmctc2F5cy1pdHMtMzIteWVhci1vb=
+GQtYW1iYXNzYWRvci8yMDE2LzA0LzIxLzJhZGIzYTY2LTA2ZTMtMTFlNi1hMTJmLWVhNWFlZDc5=
+NThkY19zdG9yeS5odG1sP3dwbW09MSZ3cGlzcmM9bmxfZGFpbHkyMDI/55c8886a6e4adc304b9=
+cf8c1Cc2000f5c>,=E2=80=9D by Roxanne Roberts: "As a young boy, [Hamdullah]=
+=C2=A0Mohib lived in refugee camps. As a teenager, he was sent to England t=
+o escape the Taliban. Now, at the tender age of 32, he is Afghanistan=E2=80=
+=99s new ambassador to the U.S., representing a country where 75 percent of=
+ the population is younger than 35 =E2=80=94 and has never known a day of p=
+eace. Now the first-time ambassador and his 29-year-old American wife have =
+come to Washington to make the case that real change is not only possible, =
+but happening. It=E2=80=99s not something you can see, he admits. Violence =
+and tragedy still dominate the headlines about Afghanistan. But it=E2=80=99=
+s there, he insists, in every conversation, in the plans and dreams of mill=
+ions of young Afghans. He likes to quote Ghani=E2=80=99s address to Congres=
+s =E2=80=A6 =E2=80=98Ordinary has escaped us, but it=E2=80=99s what we desp=
+erately want.=E2=80=99 ... 'We just want to be ordinary,' says Mohib, altho=
+ugh he acknowledges that this is a distant dream. =E2=80=98It=E2=80=99s not=
+ an ordinary country. And I=E2=80=99m not an ordinary ambassador.'"
+
+SOCIAL MEDIA SPEED READ:
+
+=E2=80=94 ZIGNAL VISUAL: Trump calling for Sanders to run as a third-party =
+candidate has about 11,000 retweets.
+
+<<<link>>
+vbS9yZWFsRG9uYWxkVHJ1bXAvc3RhdHVzLzcyNDk5MzMzNjAwMDUzMjQ4MD93cG1tPTEmd3Bpc3=
+JjPW5sX2RhaWx5MjAy/55c8886a6e4adc304b9cf8c1C8e7e00b2>
+
+Our analytics partners at Zignal Labs are amazed at Trump=E2=80=99s ability=
+ to control his own social media message. Very consistently, the most popul=
+ar tweets about Trump come from the candidate himself:
+
+Clinton also drove her own social media message yesterday (the top five twe=
+ets about her were from the official @HillaryClinton account), but they got=
+ just a fraction of the retweets and favorites that Trump=E2=80=99s did.
+
+-- Chris Christie and his wife, Mary Pat, were standing behind Trump as he =
+spoke. Many on the domain.com believed they could see New Jersey's first lady=
+=C2=A0rolling her eyes as Trump talked about how Hillary would only be gett=
+ing=C2=A05 percent of the vote if she was a man.=C2=A0Others thought she wa=
+s remarkably stoic.=C2=A0(Either way, it would have been fun to be a fly on=
+ the wall during their drive back to Jersey=E2=80=A6)
+
+<<<link>>
+vaVBCSnUwN1ZyMGU_d3BtbT0xJndwaXNyYz1ubF9kYWlseTIwMg/55c8886a6e4adc304b9cf8c=
+1Ca19622b9>
+
+Mary Pat Christie as Trump talks "woman's card."
+
+Here's a sampling of the Twitter reaction:
+
+<<<link>>
+vbS9QYXR0aVNvbGlzRG95bGUvc3RhdHVzLzcyNTE1MjcxMzYyNTk4NTAyND93cG1tPTEmd3Bpc3=
+JjPW5sX2RhaWx5MjAy/55c8886a6e4adc304b9cf8c1C0ac9619b>
+
+<<<link>>
+vbS9kYW5wZmVpZmZlci9zdGF0dXMvNzI1MTUzMzg5MjMxOTE1MDA5P3dwbW09MSZ3cGlzcmM9bm=
+xfZGFpbHkyMDI/55c8886a6e4adc304b9cf8c1C517da284>
+
+<<<link>>
+vbS9tb3JuaW5nbW9uZXliZW4vc3RhdHVzLzcyNTE1MTgxOTM0MTY0Nzg3Mj93cG1tPTEmd3Bpc3=
+JjPW5sX2RhaWx5MjAy/55c8886a6e4adc304b9cf8c1C9722378c>
+
+<<<link>>
+vbS9qb3NodHBtL3N0YXR1cy83MjUxNTI3MTgxMjY0NjkxMjI_d3BtbT0xJndwaXNyYz1ubF9kYW=
+lseTIwMg/55c8886a6e4adc304b9cf8c1Ca5536d97>
+
+<<<link>>
+vbS9qb3NodHBtL3N0YXR1cy83MjUxNTMxMDY0MzkzNDQxMjg_d3BtbT0xJndwaXNyYz1ubF9kYW=
+lseTIwMg/55c8886a6e4adc304b9cf8c1C8b7b81fd>
+
+<<<link>>
+vbS9QYXVsQmVnYWxhL3N0YXR1cy83MjUxNTMxMTA2MTI2NzY2MDg_d3BtbT0xJndwaXNyYz1ubF=
+9kYWlseTIwMg/55c8886a6e4adc304b9cf8c1C79fdf312>
+
+<<<link>>
+vbS9hbXlld2FsdGVyL3N0YXR1cy83MjUxNTI3MjI1MDk1NDk1Njk_d3BtbT0xJndwaXNyYz1ubF=
+9kYWlseTIwMg/55c8886a6e4adc304b9cf8c1C03453307>
+
+<<<link>>
+vbS9UVmlldG9yMDgvc3RhdHVzLzcyNTE1MzUzMjM4MzM1ODk3Nj93cG1tPTEmd3Bpc3JjPW5sX2=
+RhaWx5MjAy/55c8886a6e4adc304b9cf8c1C21453cef>
+
+<<<link>>
+vbS9PbGl2aWFudXp6aS9zdGF0dXMvNzI1MTQzNzMxNzY3MjUwOTQ1P3dwbW09MSZ3cGlzcmM9bm=
+xfZGFpbHkyMDI/55c8886a6e4adc304b9cf8c1Cc0b1df09>
+
+-- Cruz awkwardly=C2=A0tried to recreate a scene from "Hoosiers"=C2=A0at an=
+ Indiana rally:
+
+<<<link>>
+ndG9ucG9zdC5jb20vdmlkZW8vcG9saXRpY3MvY3J1ei10cmllcy10by1yZWNyZWF0ZS1zY2VuZS=
+1mcm9tLWhvb3NpZXJzLzIwMTYvMDQvMjYvNjYzYmQ0ZjQtMGMwZi0xMWU2LWJjNTMtZGI2MzRjY=
+Tk0YTJhX3ZpZGVvLmh0bWw_d3BtbT0xJndwaXNyYz1ubF9kYWlseTIwMg/55c8886a6e4adc304=
+b9cf8c1C85551067>
+
+Cruz tries to recreate scene from 'Hoosiers'
+
+In the process, he called a basketball hoop a "basketball ring":
+
+<<<link>>
+vbS9HYXdrZXIvc3RhdHVzLzcyNTEyODM2NTk4NDg2MjIxMT93cG1tPTEmd3Bpc3JjPW5sX2RhaW=
+x5MjAy/55c8886a6e4adc304b9cf8c1C0ec58bfd>
+
+The dean could not handle it:
+
+<<<link>>
+vbS9Kb2huRGluZ2VsbC9zdGF0dXMvNzI1MTM1ODg5MzU0MDg0MzUyP3dwbW09MSZ3cGlzcmM9bm=
+xfZGFpbHkyMDI/55c8886a6e4adc304b9cf8c1Cf31f721c>
+
+<<<link>>
+vbS9Kb2huRGluZ2VsbC9zdGF0dXMvNzI1MTM4OTEyMzUyNTcxMzk0P3dwbW09MSZ3cGlzcmM9bm=
+xfZGFpbHkyMDI/55c8886a6e4adc304b9cf8c1C2d5b5f60>
+
+<<<link>>
+vbS9Kb2huRGluZ2VsbC9zdGF0dXMvNzI1MTQ3MTM2NjUyOTE4Nzg3P3dwbW09MSZ3cGlzcmM9bm=
+xfZGFpbHkyMDI/55c8886a6e4adc304b9cf8c1C001a985d>
+
+Sanders brought up the Clinton-Trump relationship in a fundraising email:
+
+<<<link>>
+vbS9zaW5kZXJicmFuZC9zdGF0dXMvNzI1MDI3OTY4NDY1MTI5NDcyP3dwbW09MSZ3cGlzcmM9bm=
+xfZGFpbHkyMDI/55c8886a6e4adc304b9cf8c1C11ebf8d5>
+
+Speaking of Trump, check out this sign from outside his forthcoming D.C. ho=
+tel:
+
+<<<link>>
+vbS9wcmF0aGVla3JlYmFsYS9zdGF0dXMvNzI0NzYzMjI5MDM4MjM5NzQ0P3dwbW09MSZ3cGlzcm=
+M9bmxfZGFpbHkyMDI/55c8886a6e4adc304b9cf8c1Cafe3bc3c>
+
+--=C2=A0Lots of pundits have been wrong over the past year, but many decide=
+d to make=C2=A0fun of this Bill Kristol=C2=A0tweet from last summer:
+
+<<<link>>
+vbS9CaWxsS3Jpc3RvbC9zdGF0dXMvNjMwMzM2NDIyODUyMDk2MDAwP3dwbW09MSZ3cGlzcmM9bm=
+xfZGFpbHkyMDI/55c8886a6e4adc304b9cf8c1Cd5990a79>
+
+-- D.C. celebrated College Signing Day:
+
+<<<link>>
+vbS92cC9zdGF0dXMvNzI1MDQ2Nzc3MzY4NDIwMzUyP3dwbW09MSZ3cGlzcmM9bmxfZGFpbHkyMD=
+I/55c8886a6e4adc304b9cf8c1C6a120fbf>
+
+<<<link>>
+vbS9Ccm9kZXJpY2s0NC9zdGF0dXMvNzI1MDQ1NjMyMjM5NTgzMjM1P3dwbW09MSZ3cGlzcmM9bm=
+xfZGFpbHkyMDI/55c8886a6e4adc304b9cf8c1Cdbb5c518>
+
+<<<link>>
+ncmFtLmNvbS9wL0JFclVxcE96Z0lWLz93cG1tPTEmd3Bpc3JjPW5sX2RhaWx5MjAy/55c8886a6=
+e4adc304b9cf8c1Ca1642330>
+
+<<<link>>
+vbS9SZXBTY290dFBldGVycy9zdGF0dXMvNzI1MTEzNjY5ODgxODQzNzEyP3dwbW09MSZ3cGlzcm=
+M9bmxfZGFpbHkyMDI/55c8886a6e4adc304b9cf8c1Cfa0b603b>
+
+Scott Brown, with a small dig at his wife, joked about their dog:
+
+<<<link>>
+vbS9TZW5TY290dEJyb3duL3N0YXR1cy83MjQ5OTQ3NTY0ODEyNzc5NTI_d3BtbT0xJndwaXNyYz=
+1ubF9kYWlseTIwMg/55c8886a6e4adc304b9cf8c1C97a6c08c>
+
+Intense weather hit the midwest:
+
+<<<link>>
+ncmFtLmNvbS9wL0JFcXJtNUp2dnFSLz93cG1tPTEmd3Bpc3JjPW5sX2RhaWx5MjAy/55c8886a6=
+e4adc304b9cf8c1C415fb0e4>
+
+House Republicans got a domain.com from a bald eagle:
+
+<<<link>>
+ncmFtLmNvbS9wL0JFcm0tTnRyYUFLLz93cG1tPTEmd3Bpc3JjPW5sX2RhaWx5MjAy/55c8886a6=
+e4adc304b9cf8c1C959746ff>
+
+Rep. Joe Pitts (R-Pa.) wishes you a happy National Pretzel Day (watch him e=
+xplain the holiday on the House floor here <<<link>>
+click/6598243.61430/aHR0cDovL3d3dy5jLXNwYW4ub3JnL3ZpZGVvLz9jNDU5MDgzMC9yZXA=
+tam9lLXBpdHRzLW5hdGlvbmFsLXByZXR6ZWwtZGF5JndwbW09MSZ3cGlzcmM9bmxfZGFpbHkyMD=
+I/55c8886a6e4adc304b9cf8c1Ca183f28c>):
+
+<<<link>>
+vbS9SZXBKb2VQaXR0cy9zdGF0dXMvNzI0OTgxNTMyNjQ2MTA1MDg5P3dwbW09MSZ3cGlzcmM9bm=
+xfZGFpbHkyMDI/55c8886a6e4adc304b9cf8c1C5c262465>
+
+John McCain said he supports mixed martial artist Phil Davis for president:
+
+<<<link>>
+ncmFtLmNvbS9wL0JFckVpZDFLakpnLz93cG1tPTEmd3Bpc3JjPW5sX2RhaWx5MjAy/55c8886a6=
+e4adc304b9cf8c1C949dce85>
+
+HOT ON THE LEFT
+
+=E2=80=9CFlorida Senate candidate says it's not safe to allow 'anybody from=
+ the Middle East' into U.S.,=E2=80=9D from the Sun-Sentinel <<<link>>
+domain.com/click/6598243.61430/aHR0cDovL3d3dy5zdW4tc2VudGluZWwuY29tL2=
+5ld3MvcG9saXRpY3MvZmwtc2VuYXRlLWNhbmRpZGF0ZS1iYW4tbWlkZGxlLWVhc3Rlcm5lcnMtM=
+jAxNjA0MjYtc3RvcnkuaHRtbD93cG1tPTEmd3Bpc3JjPW5sX2RhaWx5MjAy/55c8886a6e4adc3=
+04b9cf8c1Cb16552d3> : =E2=80=9CTrump suggested banning all Muslims from ent=
+ering the U.S. Now, a [Florida Senate candidate] wants to ban anyone from a=
+ Middle Eastern country, except Israel, from entering the U.S =E2=80=A6 On =
+Monday night, Carlos Beruff was asked by someone in the audience about his =
+=E2=80=98position on Muslim immigration.=E2=80=99 =E2=80=98I think our immi=
+gration department is broken,=E2=80=9D he said. =E2=80=98And I don't think =
+it's safe to allow anybody from the Middle East into this country.=E2=80=99=
+ Most of the audience of Republicans =E2=80=A6 erupted in applause and some=
+ cheers.=E2=80=9D
+=C2=A0
+HOT ON THE RIGHT
+
+Denver Christian School changing its name, from Colorado 9 News <<<link>>
+domain.com/click/6598243.61430/aHR0cDovL3d3dy45bmV3cy5jb20vbmV3cy=
+9lZHVjYXRpb24vZGVudmVyLWNocmlzdGlhbi1zY2hvb2wtY2hhbmdpbmctbWFzY290LWZyb20tY=
+3J1c2FkZXJzLzE1MzMwNjc4OD93cG1tPTEmd3Bpc3JjPW5sX2RhaWx5MjAy/55c8886a6e4adc3=
+04b9cf8c1C55c3acd7> : =E2=80=9CFor 65 years of their 100 year history, Denv=
+er Christian Schools has been known as the Crusaders. Later this year, that=
+ will change. School leaders say many in the community have expressed conce=
+rns about the mascot and its ties to the Crusades, a series of wars between=
+ Christians and Muslims. Critics say the long tradition of the name should =
+be enough to keep it around. They claim the school did not give them a voic=
+e in the name change. They also say there is nothing wrong with the name Cr=
+usader, as it has been part of the school=E2=80=99s history for 65 years.=
+=E2=80=9D
+
+DAYBOOK:
+
+On the campaign trail: Everyone's headed to Indiana. Here's the rundown:
+Sanders: Cordova, Bloomington, Ind.   Trump: Foreign policy speech at the M=
+ayflower in the lunch hour, then=C2=A0Indianapolis, Ind. and then a town ha=
+ll with Greta Van Susteren on Fox News (to air at 7 p.m. ET)   Cruz: Indian=
+apolis, Ind.
+At the White House: President Obama presents the Commander-in-Chief trophy =
+to the U.S. Naval Academy football team.
+
+On Capitol Hill: The Senate meets at 10 a.m. to work on the energy bill. Th=
+e House meets at noon for legislative business, with votes on HALOS Act and=
+ four suspension bills later in the day.
+
+QUOTE OF THE DAY:=C2=A0
+
+The Republican nominee for Attorney General in North Carolina, state Sen. B=
+uck Newton, said he voted for the controversial H.B. 2 law=C2=A0to =E2=80=
+=9Ckeep our state straight."=C2=A0Speaking of the transgender community, he=
+ said: =E2=80=9CWhether folks are struggling with drugs or struggling with =
+their marriages, figuring out what it is that they=E2=80=99re supposed to b=
+e doing in life, we can all have sympathy for that. But that does not mean =
+that we should expose our wives and our sisters and our children to the sex=
+ual predators in the bathrooms. We must say no. =E2=80=A6 Go home, tell you=
+r friends and family who had to work today what this is all about and how h=
+ard we had to fight to keep our state straight.=E2=80=9D (Niraj  <<<link>>
+domain.com/click/6598243.61430/aHR0cHM6Ly93d3cud2FzaGluZ3RvbnBvc=
+3QuY29tL25ld3MvcG9zdC1uYXRpb24vd3AvMjAxNi8wNC8yNi9ub3J0aC1jYXJvbGluYS1nb3At=
+Y2FuZGlkYXRlLWZvci1hdHRvcm5leS1nZW5lcmFsLWtlZXAtb3VyLXN0YXRlLXN0cmFpZ2h0Lz9=
+3cG1tPTEmd3Bpc3JjPW5sX2RhaWx5MjAy/55c8886a6e4adc304b9cf8c1C23063fb6> Choksh=
+i)
+
+GOOD READS FROM ELSEWHERE:
+
+-- Bloomberg Politics, =E2=80=9CRaising Cash in Trump=E2=80=99s Name, Wheth=
+er He Likes It or Not <<<link>>
+HR0cDovL3d3dy5ibG9vbWJlcmcuY29tL3BvbGl0aWNzL2FydGljbGVzLzIwMTYtMDQtMjYvcmFp=
+c2luZy1jYXNoLWluLXRydW1wLXMtbmFtZS13aGV0aGVyLWhlLWxpa2VzLWl0LW9yLW5vdD93cG1=
+tPTEmd3Bpc3JjPW5sX2RhaWx5MjAy/55c8886a6e4adc304b9cf8c1Cb03474cf> ,=E2=80=9D=
+ by Zachary Mider: =E2=80=9CWhen the fundraising e-mail hit his inbox in Fe=
+bruary, Terry Crouthamel sent $250 to Trump's presidential campaign. Or rat=
+her, he thought he did. It wasn't until almost two months later that Crouth=
+amel =E2=80=A6 learned the truth.=E2=80=9D =E2=80=9CI was under the impress=
+ion it was going to Trump,=E2=80=9D he said. The money actually went to Gre=
+at America PAC, an unrelated group that Trump has accused of confusing dono=
+rs by using his name, image, and slogan=E2=80=94=E2=80=98Make America Great=
+ Again=E2=80=99=E2=80=94in mass fundraising e-mails and TV ads =E2=80=A6 Th=
+e Trump campaign says it's concerned the group's donors may think they're f=
+unding Trump, =E2=80=98when in fact they are supporting an unauthorized eff=
+ort, one which is subject to no oversight.'=C2=A0Unauthorized groups that i=
+nvoke the name of a popular candidate or cause to raise money aren't uncomm=
+on, or illegal, in the world of political fundraising. =E2=80=98Anyone can =
+set one of these up,=E2=80=99 said Brett Kappel ... =E2=80=98It's buyer bew=
+are=E2=80=94you have to exercise due diligence before giving money over the=
+ domain.com.=E2=80=99=E2=80=9D
+
+-- Variety Magazine cover story, =E2=80=9CPresidential Race Takes Over Pop =
+Culture as Hopefuls Embrace Celebrity Status <<<link>>
+m/click/6598243.61430/aHR0cDovL3ZhcmlldHkuY29tLzIwMTYvYml6L25ld3MvcG9saXRpY=
+3MtaG9sbHl3b29kLTIwMTYtcHJlc2lkZW50aWFsLXJhY2UtMTIwMTc2MDE3MC8_d3BtbT0xJndw=
+aXNyYz1ubF9kYWlseTIwMg/55c8886a6e4adc304b9cf8c1C42f167ac> ,=E2=80=9D by Ted=
+ Johnson: =E2=80=9CA carnival atmosphere has always surrounded presidential=
+ campaigns, but the mix of pop with politics has become serious business th=
+at translates to awareness, attention and adulation =E2=80=A6 =E2=80=98One =
+of the things I have gotten marginally famous for years ago was saying, =E2=
+=80=98Politics is show business for ugly people,=E2=80=99=E2=80=99 says pol=
+itical consultant Paul Begala =E2=80=A6 =E2=80=98And so much more today tha=
+n ever,=E2=80=99 he adds. =E2=80=98It is becoming both more showbiz-y and m=
+ore ugly.=E2=80=99=E2=80=9D
+
+NEWS YOU CAN USE IF YOU LIVE IN D.C.:
+
+-- Today=E2=80=99s weather brings in some cooler, cloudier temps. The domain.com=
+al Weather Gang <<<link>>
+6Ly93d3cud2FzaGluZ3RvbnBvc3QuY29tL25ld3MvY2FwaXRhbC13ZWF0aGVyLWdhbmcvd3AvMj=
+AxNi8wNC8yNy9kLWMtYXJlYS1mb3JlY2FzdC1jb29sZXItY2xvdWRpZXItYW5kLXNob3dlcnktY=
+XQtdGltZXMtdGhyb3VnaC10aGUtd2Vla2VuZC8_d3BtbT0xJndwaXNyYz1ubF9kYWlseTIwMg/5=
+5c8886a6e4adc304b9cf8c1C804ff1bd> forecasts: =E2=80=9CA few light showers a=
+re possible through the course of the day, thanks to a cold front draped ju=
+st to our south. Otherwise we=E2=80=99re overcast and much cooler, with hig=
+hs only in the upper 50s to mid-60s.=E2=80=9D
+
+-- The Nationals lost to the Philadelphia Phillies <<<link>>
+domain.com/click/6598243.61430/aHR0cHM6Ly93d3cud2FzaGluZ3RvbnBvc3QuY29tL3Nwb3J=
+0cy9uYXRpb25hbHMvYWZ0ZXItbWF4LXNjaGVyemVyLXN0cnVnZ2xlcy1lYXJseS1uYXRpb25hbH=
+MtcmFsbHktZmFsbHMtc2hvcnQvMjAxNi8wNC8yNi80MTI3ZGNmMi0wYmRlLTExZTYtOGFiOC05Y=
+WQwNTBmNzZkN2Rfc3RvcnkuaHRtbD93cG1tPTEmd3Bpc3JjPW5sX2RhaWx5MjAy/55c8886a6e4=
+adc304b9cf8c1C1bc483dd> 4-3.
+
+-- Virginia has suspended the license of a Fairfax abortion clinic after au=
+thorities found 26 deficiencies during an inspection this month. =E2=80=9CI=
+nspectors observed dirty equipment, expired medication in unlocked cabinets=
+, lax storage of medical records and a failure of staff to sterilize and ma=
+intain medical equipment and follow hand-washing protocols, according to a =
+52-page report.=E2=80=9D (Jenna Portnoy <<<link>>
+ck/6598243.61430/aHR0cHM6Ly93d3cud2FzaGluZ3RvbnBvc3QuY29tL2xvY2FsL3Zpcmdpbm=
+lhLXBvbGl0aWNzL2ZhaXJmYXgtYWJvcnRpb24tY2xpbmljcy1saWNlbnNlLXN1c3BlbmRlZC1ie=
+S12aXJnaW5pYS1oZWFsdGgtZGVwYXJ0bWVudC8yMDE2LzA0LzI2LzVjYjY5ZWE0LTBiZDQtMTFl=
+Ni04YWI4LTlhZDA1MGY3NmQ3ZF9zdG9yeS5odG1sP3dwbW09MSZ3cGlzcmM9bmxfZGFpbHkyMDI=
+/55c8886a6e4adc304b9cf8c1C87724ea2>)
+
+-- Despite having no voting representation in Congress, District residents =
+paid more in federal taxes=C2=A0than 22 states.=C2=A0(DCist <<<link>>
+domain.com/click/6598243.61430/aHR0cDovL2RjaXN0LmNvbS8yMDE2LzA0L2luZn=
+VyaWF0aW5nX3RheF9maWd1cmVfdGltZS5waHA_d3BtbT0xJndwaXNyYz1ubF9kYWlseTIwMg/55=
+c8886a6e4adc304b9cf8c1C589431f1>)
+
+-- A D.C. domain.com for at-risk youths is bankrupt following mismanagement =
+and exorbitant spending. The program, which keeps afloat more than 70 after=
+-school programs and receives millions of taxpayer dollars each year, will =
+be dissolved to cover outstanding debts. (Aaron C. Davis <<<link>>
+domain.com/click/6598243.61430/aHR0cHM6Ly93d3cud2FzaGluZ3RvbnBvc3QuY29tL=
+2xvY2FsL2RjLXBvbGl0aWNzL21pc21hbmFnZW1lbnQtaGFzLWJhbmtydXB0ZWQtYS1kYy1ub25w=
+cm9maXQtZW5kYW5nZXJpbmctcHJvZ3JhbXMtZm9yLWF0LXJpc2steW91dGgtYm9hcmQtbWVtYmV=
+ycy1zYXkvMjAxNi8wNC8yNi81MWY0YTUxYy0wYmI0LTExZTYtYmZhMS00ZWZhODU2Y2FmMmFfc3=
+RvcnkuaHRtbD93cG1tPTEmd3Bpc3JjPW5sX2RhaWx5MjAy/55c8886a6e4adc304b9cf8c1C8e0=
+9b5ce>)
+
+-- A Rockville daycare operator was charged with killing a 6-month-old girl=
+ who suffered injuries =E2=80=9Ctoo numerous to count=E2=80=9D in the basem=
+ent of his home.=C2=A0And he allegedly tried to cover his tracks by cleanin=
+g up her blood before authorities could see it.=C2=A0(Dan Morse <<<link>>
+domain.com/click/6598243.61430/aHR0cHM6Ly93d3cud2FzaGluZ3RvbnBvc3=
+QuY29tL2xvY2FsL3B1YmxpYy1zYWZldHkvZGF5Y2FyZS13b3JrZXItY2hhcmdlZC1pbi1kZWF0a=
+C1vZi1pbmZhbnQtd2hvLXN1ZmZlcmVkLTExLWNyYWNrZWQtcmlicy1icm9rZW4tbGltYnMvMjAx=
+Ni8wNC8yNi9iNTllZTk4OC0wYjQ2LTExZTYtOGFiOC05YWQwNTBmNzZkN2Rfc3RvcnkuaHRtbD9=
+3cG1tPTEmd3Bpc3JjPW5sX2RhaWx5MjAy/55c8886a6e4adc304b9cf8c1Cd0cb27d0>)
+
+-- D.C. police arrested two 19-year-olds=C2=A0and charged them with stabbin=
+g a juvenile as he got off a bus near the campus of Roosevelt High School i=
+n Northwest (near Georgia and Webster avenues). "The stabbing comes a day a=
+fter a teenage student at Wilson High School was stabbed in an attempted ro=
+bbery," Justin Wm. Moyer and Peter Hermann report <<<link>>
+domain.com/click/6598243.61430/aHR0cHM6Ly93d3cud2FzaGluZ3RvbnBvc3QuY29tL2xvY2Fs=
+L3B1YmxpYy1zYWZldHkvanV2ZW5pbGUtbWFsZS1zdGFiYmVkLW5lYXItaGlnaC1zY2hvb2wtaW4=
+tbm9ydGh3ZXN0LzIwMTYvMDQvMjYvOWY2NWQ4YjgtMGJiNy0xMWU2LWE2YjYtMmU2ZGUzNjk1Yj=
+BlX3N0b3J5Lmh0bWw_d3BtbT0xJndwaXNyYz1ubF9kYWlseTIwMg/55c8886a6e4adc304b9cf8=
+c1Cdf236e94>.
+
+-- Two men who offered a child candy in an attempt to lure her into a car i=
+n Northwest last night are being sought by D.C. police <<<link>>
+domain.com/click/6598243.61430/aHR0cHM6Ly93d3cud2FzaGluZ3RvbnBvc3QuY29tL2x=
+vY2FsL3B1YmxpYy1zYWZldHkvbWVuLXdoby10cmllZC10by1sdXJlLWdpcmwtaW50by1jYXItd2=
+l0aC1jYW5keS1zb3VnaHQtYnktcG9saWNlLzIwMTYvMDQvMjYvMzliMmEzMzAtMGJjNS0xMWU2L=
+WE2YjYtMmU2ZGUzNjk1YjBlX3N0b3J5Lmh0bWw_d3BtbT0xJndwaXNyYz1ubF9kYWlseTIwMg/5=
+5c8886a6e4adc304b9cf8c1C9e40c141>.=C2=A0They=C2=A0approached her in the 390=
+0 block of Argyle Terrace NW about 7 p.m.
+
+-- What a waste of money:
+
+<<<link>>
+vbS9iZW5wZXJzaGluZy9zdGF0dXMvNzI1MTYwNzU4MTUwMDU3OTg2P3dwbW09MSZ3cGlzcmM9bm=
+xfZGFpbHkyMDI/55c8886a6e4adc304b9cf8c1C8b3e8e88>
+
+VIDEOS OF THE DAY:
+
+Watch local newscasters mispronouncing "Acela" (click for video):
+
+<<<link>>
+vbS9pcmluL3N0YXR1cy83MjUwNzA4NDg1NzEzOTYwOTg_d3BtbT0xJndwaXNyYz1ubF9kYWlseT=
+IwMg/55c8886a6e4adc304b9cf8c1Cb661ed97>
+
+This new super PAC web ad -- widely mocked on Twitter -- envisions Kasich w=
+inning at the GOP convention:
+
+<<<link>>
+ndG9ucG9zdC5jb20vdmlkZW8vcG9saXRpY3MvbmV3LWRheS1mb3ItYW1lcmljYS1jb252ZW50aW=
+9uLS1jYW1wYWlnbi0yMDE2LzIwMTYvMDQvMjYvZGVmODhjNzYtMGJmMC0xMWU2LWJjNTMtZGI2M=
+zRjYTk0YTJhX3ZpZGVvLmh0bWw_d3BtbT0xJndwaXNyYz1ubF9kYWlseTIwMg/55c8886a6e4ad=
+c304b9cf8c1C25b030e4>
+
+New Day for America: 'Convention' | Campaign 2015 
+
+Thirty years after the Chernobyl disaster, take a look inside the abandoned=
+ city of Pripyat, Ukraine:
+
+<<<link>>
+ndG9ucG9zdC5jb20vdmlkZW8vd29ybGQvdHJhdmVsLXRocm91Z2gtdGhlLWdob3N0LXRvd24tb2=
+YtcHJpcHlhdC0zMC15ZWFycy1hZnRlci1jaGVybm9ieWwvMjAxNi8wNC8yNi8xNWE3ZWQ4ZS0wY=
+mJmLTExZTYtYmM1My1kYjYzNGNhOTRhMmFfdmlkZW8uaHRtbD93cG1tPTEmd3Bpc3JjPW5sX2Rh=
+aWx5MjAy/55c8886a6e4adc304b9cf8c1Ca3f0270c>
+
+Travel through the ghost town of Pripyat 30 years after Chernobyl
+
+An agile bear scaled a fence to outrun police in Los Angeles:
+
+<<<link>>
+ndG9ucG9zdC5jb20vdmlkZW8vbmF0aW9uYWwvYWdpbGUtYmVhci1zY2FsZXMtZmVuY2UtdG8tb3=
+V0cnVuLWNhbGlmLXBvbGljZS8yMDE2LzA0LzI2LzdhNTJmOGUwLTBiN2YtMTFlNi1iYzUzLWRiN=
+jM0Y2E5NGEyYV92aWRlby5odG1sP3dwbW09MSZ3cGlzcmM9bmxfZGFpbHkyMDI/55c8886a6e4a=
+dc304b9cf8c1Ce848aa48>
+
+Agile bear scales fence to outrun Calif. police
+
+As the weekend draws near,=C2=A0here's a look back at Obama's best White Ho=
+use Correspondents' dinner moments:
+
+<<<link>>
+ndG9ucG9zdC5jb20vdmlkZW8vZW50ZXJ0YWlubWVudC9hLWxvb2stYmFjay1hdC1vYmFtYXMtYm=
+VzdC1jb3JyZXNwb25kZW50cy1kaW5uZXItbW9tZW50cy8yMDE2LzA0LzI1L2JkZWFjNmQwLTA4Z=
+TgtMTFlNi1iZmVkLWVmNjVkZmY1OTcwZF92aWRlby5odG1sP3dwbW09MSZ3cGlzcmM9bmxfZGFp=
+bHkyMDI/55c8886a6e4adc304b9cf8c1C581b4e62>
+
+A look back at Obama's best correspondents' dinner moments
+
+The documentary about Anthony Weiner=E2=80=99s failed campaign for NYC mayo=
+r hits theaters=C2=A0on May 20. Here's the 2-minute trailer:
+
+< <<link>>
+ViZS5jb20vd2F0Y2g_dj1uSjRGSUduSmtuayZ3cG1tPTEmd3Bpc3JjPW5sX2RhaWx5MjAy/55c8=
+886a6e4adc304b9cf8c1C761c7cfe>
+
+Weiner - Official Trailer I HD I Sundance Selects
+
+Watch male fans read the kinds of=C2=A0abusive and disgusting=C2=A0tweets t=
+hat female sports reporters are often subjected to (warning: bad language):
+
+<<<link>>
+ndG9ucG9zdC5jb20vdmlkZW8vbG9jYWwvbWFsZS1mYW5zLXJlYWQtYWJ1c2l2ZS10d2VldHMtdG=
+8tZmVtYWxlLXNwb3J0cy1yZXBvcnRlcnMvMjAxNi8wNC8yNi9kYmJmMzU4Ni0wYmY2LTExZTYtY=
+mM1My1kYjYzNGNhOTRhMmFfdmlkZW8uaHRtbD93cG1tPTEmd3Bpc3JjPW5sX2RhaWx5MjAy/55c=
+8886a6e4adc304b9cf8c1Cc23d2003>
+
+Male fans read abusive tweets to female sports reporters
+
+You are receiving this email because you signed up for the The Daily 202 ne=
+wsletter or were registered on=C2=domain.com <<<link>>
+domain.com/click/6598243.61430/aHR0cHM6Ly93d3cud2FzaGluZ3RvbnBvc3QuY29tL3J=
+lZ2lvbmFsLz93cG1tPTEmd3Bpc3JjPW5sX2RhaWx5MjAy/55c8886a6e4adc304b9cf8c1C5733=
+4172>. For additional free=C2=A0newsletters or to=C2=A0manage your=C2=A0new=
+sletters, click=C2=A0here <<<link>>
+30/aHR0cHM6Ly9zdWJzY3JpYmUud2FzaGluZ3RvbnBvc3QuY29tL25ld3NsZXR0ZXJzLz93cG1t=
+PTEmd3Bpc3JjPW5sX2RhaWx5MjAy/55c8886a6e4adc304b9cf8c1Cb77c2d13>.
+
+We respect your=C2=A0privacy <<<link>>
+61430/aHR0cHM6Ly93d3cud2FzaGluZ3RvbnBvc3QuY29tL3ByaXZhY3ktcG9saWN5LzIwMTEvM=
+TEvMTgvZ0lRQVNJaWFpTl9zdG9yeS5odG1sP3dwbW09MSZ3cGlzcmM9bmxfZGFpbHkyMDI/55c8=
+886a6e4adc304b9cf8c1Cbd8cfc9f>. If you believe that this email has been sen=
+t to you in error, or you no longer wish to receive email from The=C2=A0Was=
+hington=C2=A0Post,=C2=A0click here <{{optout_confirm_url}}>.=C2=A0Contact u=
+s=C2=A0 <<<link>>
+ud2FzaGluZ3RvbnBvc3QuY29tL2ljcy9zdXBwb3J0L0tCU3BsYXNoLmFzcD9kZXB0SUQ9MTUwOD=
+Amd3BtbT0xJndwaXNyYz1ubF9kYWlseTIwMg/55c8886a6e4adc304b9cf8c1C369edca5> for=
+ help.
+
+=C2=A92016 The Washington Post =C2=A0|=C2=A0 1301 K St NW, Washington DC 20=
+071
+=C2=A0   =C2=A0
+
+If you believe this has been sent to you in error, please click <<<link>>
+domain.com/oc/55c8886a6e4adc304b9cf8c13xf8j.1bee/12a04ff1> to saf=
+ely unsubscribe.

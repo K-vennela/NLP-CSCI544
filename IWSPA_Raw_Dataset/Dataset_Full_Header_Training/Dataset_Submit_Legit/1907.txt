@@ -1,0 +1,55 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Tue, 28 Apr 2015 05:18:07 +0200
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id 99165621BC	for
+ <user@domain.com>; Tue, 28 Apr 2015 03:54:59 +0100 (BST)
+Received: by domain.com (Postfix)	id 46562B6603E; Tue, 28 Apr 2015 
+ 05:18:07 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from EduardoPC (unknown [201.149.2.6])	(using TLSv1 with cipher
+ AES256-SHA (256/256 bits))	(No client certificate requested)	by
+ domain.com (Postfix) with ESMTPSA id AF82D2BC006;	Tue, 28 Apr 2015 
+ 05:17:18 +0200 (CEST)
+From: Eduardo Pardo <e.pardo@hackingteam.com>
+To: 'Simonetta Gallucci' <user@domain.com>
+CC: 'amministrazione' <user@domain.com>, 'Giancarlo Russo'
+	<user@domain.com>, 'Daniele Milan' <user@domain.com>
+References: <004001d07f71$3d8717c0$b8954740$@hackingteam.com> <034001d080f3$a1a46c20$e4ed4460$@user@domain.com>
+In-Reply-To: <034001d080f3$a1a46c20$e4ed4460$@user@domain.com>
+Subject: RE: Expenses April 2015 - Eduardo
+Date: Mon, 27 Apr 2015 22:17:15 -0500
+Message-ID: <007601d08161$d734d8c0$859e8a40$@hackingteam.com>
+X-Mailer: Microsoft Outlook 15.0
+Thread-Index: AQKKPXcg/cagNMBKRxrXkyliy4Iy4wIP0aqSm93J7PA=
+Content-Language: en-us
+X-Antivirus: avast! (VPS 150427-1, 04/27/2015), Outbound message
+X-Antivirus-Status: Clean
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EDUARDO PARDO CARVAJALDB9
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-277732364_-_-"
+
+Gracias Simo, Attached my April invoice.  --Eduardo PardoField Application Engineer email: user@domain.com phone: +39 3666285429 mobile: +57 3003671760 Hacking Teamwww.hackingteam.com  From: Eduardo Pardo <e.pardo@hackingteam.com>
+Sent: Monday, April 27, 2015 9:08 AM
+To: 'Eduardo Pardo'
+Cc: 'amministrazione'; 'Giancarlo Russo'; 'Daniele Milan'
+Subject: RE: Expenses April 2015 - Eduardo Hi Eduardo,  your Apr. refund is $ 948.03. here attached final expenses sheet.  Thanks,  Simonetta Gallucci 
+Financial Controller 
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com 
+mobile: +39 3939310619
+phone: +39 0229060603 From: Eduardo Pardo <e.pardo@hackingteam.com>
+Sent: sabato 25 aprile 2015 18:02
+To: 'Simonetta Gallucci'
+Cc: 'amministrazione'; 'Giancarlo Russo'; 'Daniele Milan'
+Subject: Expenses April 2015 - Eduardo Ciao Simo, I am sending you my expense report for April 2015 and the receipts  (COP, BRL, CLP). Thanks, --Eduardo PardoField Application Engineer Hacking TeamMilan Singapore Washington DCwww.hackingteam.com email: user@domain.com phone: +39 3666285429 mobile: +57 3003671760 

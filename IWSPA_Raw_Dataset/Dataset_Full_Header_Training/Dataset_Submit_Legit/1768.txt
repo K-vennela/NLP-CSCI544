@@ -1,0 +1,79 @@
+Received: from domain.com (146.215.230.102) by
+ domain.com (43.130.141.76) with Microsoft SMTP Server id
+ 8.3.342.0; Thu, 14 Aug 2015 11:13:54 -0700
+Received: from domain.com ([160.33.194.231])	by
+ domain.com (Sentrion-MTA-4.3.1/Sentrion-MTA-4.2.2) with
+ ESMTP id s7EIDrki020300	for <steven_o'user@domain.com>; Thu, 14 Aug 2015 
+ 18:13:53 GMT
+Received: from na01-bn1-domain.com
+ (mail-domain.com [207.46.163.187])	by
+ domain.com (Sentrion-MTA-4.3.1/Sentrion-MTA-4.2.2) with
+ ESMTP id s7EIDk2i019695	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128
+ verify=FAIL)	for <steven_o'user@domain.com>; Thu, 14 Aug 2015 18:13:48 GMT
+Received: from BN1AFFO11FD010.protection.gbl (10.58.52.34) by
+ BN1AFFO11HUB025.protection.gbl (10.58.52.135) with Microsoft SMTP Server
+ (TLS) id 15.0.1010.11; Thu, 14 Aug 2015 18:13:45 +0000
+Received: from domain.com (98.137.12.180) by
+ domain.com (10.58.52.70) with Microsoft SMTP
+ Server (TLS) id 15.0.1010.11 via Frontend Transport; Thu, 14 Aug 2015 
+ 18:13:45 +0000
+Received: (qmail 98877 invoked from network); 14 Aug 2015 18:13:43 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=domain.com; s=s1024; t=1408040023; bh=73xxMANoJCN1PKMLS0qCpINBLwZfD+A/DHm3L+wo1Ww=; h=From: Barrett Stuart <barrett_stuart@bsproductions.org>
+X-Yahoo-Newman-Property: ymail-3
+X-YMail-OSG: 1_Upv9IVM1low8Igm_stlVB_i2lDfNgWoDE5RWn9xZ8q0Ed
+ lJjM3JZpaRu2yodPc.lUzVeeV9TG9EttUtXn6MzyBJY2bVZOIOFTNn5LlZY6
+ fox3N2kY59OKxtJHdIIktgs3GNTwTs2MfZ_LndsgnCu5lJTVZHzeyzI4EZ8O
+ Lyq.uxW4hlj.CPmqgXcrVPS5y1PmS89W84lLk4TXHx6XQquVp2xDVihwT4hR
+ sb2U.M.av3YVMZsBIamiea1IDnpy3Fr_B7Q7GH5AmgoFqbeF51149JpOR.c1
+ J.yXheMdaRkavt9hEyQSq8vjrho7e6NT2.kq_F5ue.RI40AOXnAqU3uB6usi
+ nGO8nllvtXhKwot8paNMc78WC9XB0PHkOqKlRi8zVFwyzGEMhAB6zZ8YtnIW
+ 3uKbjIA5EXml6McJfdjHl9W8OBRvV3_r7vPlKoFpsJCmZCMLxX1R2w.KgPI_
+ auXA8w0JIiAaw2JZLi7Ko3V9wwZ7LZcWDQ67Af.REOU2KYDs6Da3Ss_ngir_
+ LpjVCgLd3Yr2LuzAfDvooOS_Y.zsiMnjkLj6prg--
+X-Yahoo-SMTP: E3YXbjOswBBNMSmHcT61oWI_0V_H
+From: Barrett Stuart <barrett_stuart@bsproductions.org>
+To: Steven O'Dell <steven_o'user@domain.com>
+Subject: Have a good trip buddy....
+Date: Thu, 14 Aug 2015 11:13:29 -0700
+Message-ID: <709891131user@domain.com>
+X-Mailer: Microsoft Office Outlook 11
+Thread-Index: Ac+363LnILMqZIsATby48eKvFgsWTQ==
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: =?us-ascii?Q?CIP:98.137.12.180;CTRY:US;IPV:NLI;EFV:NLI;SFV:NSPM;SFS:(6009?=
+ =?us-ascii?Q?001)(428002)(199003)(51694002)(189002)(46034005)(81342001)(7?=
+ =?us-ascii?Q?1186001)(16236675004)(80022001)(62236002)(31966008)(99396002?=
+ =?us-ascii?Q?)(86362001)(55666002)(71666007)(76482001)(15202345003)(79102?=
+ =?us-ascii?Q?001)(92566001)(71636004)(48536002)(63326003)(83072002)(92726?=
+ =?us-ascii?Q?001)(85852003)(77982001)(84326002)(93916002)(19625215002)(21?=
+ =?us-ascii?Q?056001)(104166001)(15975445006)(81816999)(45826003)(62966002?=
+ =?us-ascii?Q?)(89996001)(2656002)(101416001)(64706001)(33656002)(87836001?=
+ =?us-ascii?Q?)(88136002)(50986999)(77156001)(20776003)(81542001)(87286001?=
+ =?us-ascii?Q?)(104016003)(512954002)(46102001)(14726001)(77096002)(195803?=
+ =?us-ascii?Q?95003)(6806004)(33716001)(61296003)(42186005)(34766002)(1078?=
+ =?us-ascii?Q?86001)(72386002)(34756002)(110136001)(74662001)(44706002)(90?=
+ =?us-ascii?Q?146999)(74502001)(4396001)(44976005)(229853001)(95666004)(50?=
+ =?us-ascii?Q?226001)(22746005)(956001)(107046002)(22756005)(83322001)(106?=
+ =?us-ascii?Q?466001)(85306004)(105586002)(17816001)(72506005)(37276004)(2?=
+ =?us-ascii?Q?2776002);DIR:INB;SFP:;SCL:1;SRVR:BN1AFFO11HUB025;H:smtp105.b?=
+ =?us-ascii?Q?domain.com;FPR:;MLV:sfv;PTR:smtp105.biz.mail.gq1.?=
+ =?us-ascii?Q?domain.com;A:1;MX:1;LANG:en;?=
+X-Microsoft-Antispam: BCL:0;PCL:0;RULEID:;UriScan:;
+Received-SPF: None (domain.com: bsproductions.org does not
+ designate permitted sender hosts)
+Authentication-Results: spf=none (sender IP is 98.137.12.180)
+ user@domain.com; 
+X-OriginatorOrg: domain.com
+Return-Path: user@domain.com
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-406539735_-_-"
+
+Just wanted to wish you a Happy B-Day before you head out of
+town tonight....let's catch up when you're back, hopefully you'll get some time
+to relax this weekend!!!
+
+
+
+B :-)
+

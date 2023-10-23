@@ -1,0 +1,44 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id B8CE623CA8E;
+	Mon,  4 Jun 2015 03:30:43 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id S6f9RaHCOA90; Mon,  4 Jun 2015 03:30:41 -0500 (CDT)
+Received: from mail.lawsonstate.edu (mail.lawsonstate.edu [207.157.21.251])
+	by domain.com (Postfix) with ESMTP id 260D023CA86;
+	Mon,  4 Jun 2015 03:30:41 -0500 (CDT)
+Received: from LSXCHG07-2.LSCC.int ([fe80::7029:e99d:5e3:5fa0]) by
+ Mailbox.LSCC.int ([fe80::f4e3:2258:62c4:ac25%10]) with mapi; Mon, 4 Jun 2015 
+ 03:27:33 -0500
+From: Weymon Holloway <wholloway@lawsonstate.edu>
+Date: Mon, 4 Jun 2015 03:27:32 -0500
+Subject: Attention;
+Thread-Topic: Attention;
+Thread-Index: AQHNQivjBFJCncGzn0CmxHb16mNViw==
+Message-ID: <484061user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+acceptlanguage: en-US
+x-kse-antivirus-interceptor-info: scan successful
+x-kse-antivirus-info: Clean
+Content-Type: multipart/alternative;
+	boundary="_000_484061DA8444744C97F9A2F440BB186629F3DA78BELSXCHG072LSCC_"
+MIME-Version: 1.0
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 93
+
+Attention;
+There've been an automatic security update on your email address. Click her=
+e to complete update<<<link>>
+=3DdC1RRmxqM0UzUnZRdlJKcVJpZ3VRV0E6MQ>
+Please note that you have withing 24 hours to complete this update. because=
+ you might lose acess to your Email Box.

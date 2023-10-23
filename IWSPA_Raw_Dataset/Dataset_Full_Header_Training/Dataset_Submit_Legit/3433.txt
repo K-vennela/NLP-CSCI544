@@ -1,0 +1,116 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 18 May
+ 2015 21:16:24 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 18 May 2015 
+ 21:16:22 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 923152591
+ for user@domain.com; Wed, 18 May 2015 20:16:31 -0500
+X-Note-AR-ScanTimeLocal: 5/18/2016 8:16:30 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:205.201.128.42 DOM:domain.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 100
+X-GBUdb-Analysis: 0, 205.201.128.42, Ugly c=0.318533 p=0.181818 Source Normal
+X-Signature-Violations: 100-5953858-1800-1830-m
+	100-5946975-1913-1932-m
+	100-5953858-0-31919-f
+X-Note-419: 15.624 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/18/2016 8:16:16 PM
+X-Warn: BOUNCETRACKER Bounce User Tracking Found
+X-Warn: OPTOUT
+X-Warn: BULKMAILER
+X-Note: Spam Tests Failed: BOUNCETRACKER, OPTOUT, BULKMAILER
+X-Country-Path: LOCAL->United States->
+X-Note-Sending-IP: 205.201.128.42
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G281 G286 G340 G374 G376 G580 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from domain.com ([205.201.128.42] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 139653229
+ for user@domain.com; Wed, 18 May 2015 20:16:30 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=domain.com;
+ h=Subject:From: =?utf-8?Q?Britney=20Whaley?= <info@votemichaelblake.com>
+ bh=ag/W7wmr8HHzzm8lnIar1LlHH2I=;
+ b=0lx/zIgyzsj7It3s0hEf9WFvGnwCkHh3cA0SSUY1mqerRoKSS3qqsW1l+0e/SOHOt2O2rpqYdEHp
+   82Uq1Jh7+uhbN1683kYCWfrYnKlB+vqz81ocoDtSyKyY+Ppgpq5/OF2Ff23ZGQcmKxBOXHuNr7Fo
+   xo4T/XFwtFRqeES/+OQ=
+Received: from (127.0.0.1) by domain.com id h7k9uc24b5g1 for
+ <user@domain.com>; Thu, 19 May 2015 01:16:21 +0000 (envelope-from
+ <user@domain.com>)
+Subject: =?utf-8?Q?Public=20Schedule=20for=20Assemblymember=20Michael=20A.=20Blake=20=28May=2019=2C=202016=29?=
+From: =?utf-8?Q?Britney=20Whaley?= <info@votemichaelblake.com>
+Reply-To: =?utf-8?Q?Britney=20Whaley?= <user@domain.com>
+To: <user@domain.com>
+Date: Thu, 19 May 2015 01:16:21 +0000
+Message-ID: <455user@domain.com>
+X-Mailer: MailChimp Mailer - **CID42f0fc61e5e8f323209a**
+X-Campaign: mailchimp455bc6c87b952f7efebdc076e.42f0fc61e5
+X-campaignid: mailchimp455bc6c87b952f7efebdc076e.42f0fc61e5
+X-Report-Abuse: Please report abuse for this campaign here: <<link>>
+X-MC-User: 455bc6c87b952f7efebdc076e
+X-Feedback-ID: 28646391:28646391.1002825:us8:mc
+List-ID: 455bc6c87b952f7efebdc076emc list <455bc6c87b952f7efebdc076e.462561.list-domain.com>
+X-Accounttype: pd
+List-Unsubscribe: <mailto:user@domain.com?subject=unsubscribe>, <<<link>>>
+Sender: Britney Whaley <user@domain.com>
+x-mcda: FALSE
+Content-Type: multipart/alternative;
+	boundary="_----------=_MCPart_1616562428"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Contact:
+Britney Whaley
+user@domain.com
+702-318-1490
+
+Public Schedule for Assemblymember Michael A. Blake
+
+Schedule for May 19th
+
+8:45AM
+
+Attend breakfast session with the Honorable Gilad Erdan=2C Minister of Pub=
+lic=2C Strategic Affairs=2C and Information=2C Member of Knesset
+255 West 34th Street=2C New York=2C NY
+
+6:00PM
+
+Attend the 5th Annual Latino Leadership Institute Gala
+SEIU 32BJ=2C 25 West 18th Street=2C New York=2C NY
+
+6:45PM
+
+Attend St Mary's Resident Association Meeting
+595 Trinity Avenue=2C Bronx=2C NY
+
+** Facebook (<<link>>)
+** Facebook (<<link>>)
+** Twitter (<<link>>)
+** Twitter (<<link>>)
+** Website (<<link>>)
+** Website (<<link>>)
+Copyright =C2=A9 2015 Assemblymember Michael Blake=2C All rights reserved.
+
+Our mailing address is:
+user@domain.com
+
+** unsubscribe from this list (<<link>>
+/unsubscribe?u=3D455bc6c87b952f7efebdc076e&id=3Dd1878491a9&e=3De8f323209a&c=
+=3D42f0fc61e5)
+** update subscription preferences (<<link>>
+e.com/profile?u=3D455bc6c87b952f7efebdc076e&id=3Dd1878491a9&e=3De8f323209a)

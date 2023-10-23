@@ -1,0 +1,57 @@
+From: "Variety Breaking News" <donotreply@variety.com>
+To: "User"
+Subject: Film Review: 'Sin City: A Dame to Kill For'
+Date: Wed, 20 Aug 2015 19:05:31 -0400
+Message-ID: <20140820230531.2965304.45706@domain.com>
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQGaxpdMaeuqDIhKLkI7f+V3u+Wyig==
+Content-Language: en-us
+x-ms-exchange-organization-authas: Internal
+x-ms-exchange-organization-authmechanism: 10
+x-ms-exchange-organization-authsource: domain.com
+x-forefront-antispam-report: CIP:64.34.57.227;CTRY:US;SRV:BULK;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BN1BFFO11HUB037;H:mx-domain.com;FPR:;LANG:en;
+x-microsoft-antispam: BCL:6;PCL:0;RULEID:(82001)(120001);UriScan:(133331);
+x-eopattributedmessage: 0
+List-Unsubscribe: <<<link>>>, <mailto:user@domain.com>
+x-domain.com: domain.com
+dkim-signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1408575931;	s=sailthru; d=variety.com;	h=Date:From: "Variety Breaking News" <donotreply@variety.com>
+x-rpcampaign: stcoy2965304
+x-info: user@domain.com
+x-iadb-ip-reverse: 25.215.39.65
+x-iadb-url: <<link>>
+x-tm-id: 20140820230531.2965304.45706
+x-iadb-ip: 65.39.215.25
+x-unsubscribe-web: <<link>>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+It may be in 3D this time around, but Robert Rodriguez and Frank Miller’s monotone, monochrome c...
+
+​
+
+Breaking News
+
+Wednesday, August 20, 2014
+
+​
+
+Film Review: 'Sin City: A Dame to Kill For'
+
+It may be in 3D this time around, but Robert Rodriguez and Frank Miller’s monotone, monochrome comicbook universe feels flatter t...
+
+Full Story
+
+Check out the redesigned Variety411
+
+This email was sent to user@domain.com by Variety. To ensure delivery to your inbox (and not your spam folder), please add user@domain.com to your address book. If you prefer not to continue receiving email communications, please unsubscribe here instead of replying to this email.
+
+To update your profile and customize what email alerts and newsletters you receive, please click here.
+
+Having trouble reading this email? View the web version here.
+
+Copyright © 2014 Variety Media, LLC, a subsidiary of Penske Business Media.
+1​1​1​7​5 Santa Monica Blvd. Los Angeles, CA 9​0​0​2​5
+
+Variety and the Flying V logos are trademarks of Variety Media, LLC., used under license.
+

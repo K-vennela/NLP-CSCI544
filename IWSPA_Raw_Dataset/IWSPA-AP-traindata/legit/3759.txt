@@ -1,0 +1,63 @@
+*FOR IMMEDIATE RELEASE*
+*The NSM Software Development Team Warns of Spyware in Illegally Downloaded
+Copies of Zogs Nightmare Games I & II*
+**
+22.OCTOBER.2007 - Minneapolis, MN
+Recently, the NSM's Software Development Team (NSMSDT) was alerted to a few
+sites offering downloads of the "Zogs' Nightmare" series, illegally.   The
+NSMSDT has analyzed both Zogs' Nightmare I & II and found the digital
+signature has been altered.
+First and foremost, the Zogs' Nightmare series is only available through the
+NSM Store, NSM88 Records and exclusive retailers.   Downloadable versions of
+Zogs' Nightmare will never be offered by the NSM or any of its retailers
+save the Zogs' Nightmare demo.
+Our software engineers are still analyzing the various versions of the
+illegal downloadable files found online and so far have found a possible
+computer and internet protocol address verifier, or CIPAV that has been
+injected & bundled with the original source files.  This is a very small
+little file that adheres to your computer at the kernel level hiding it
+effectively from anti-virus and anti-spyware defense.  When players start
+the illegally downloaded versions of Zogs' Nightmare 1 & 2,  the software on
+computers that have an Internet connection uses this connection to transmit
+the name of the computer being used and the name of the user signed in to
+the Windows session.  Most alarmingly, the software also transmits the IP
+address of the player's computer.
+The NSMSDT will be investigating this matter in an attempt to analyze where
+the information is being sent. Some of our sources have suggested that the
+culprit may be the ADL, but this has not been confirmed.  We are urging all
+people that want to play Zogs' Nightmare to ONLY purchase a copy from NSM88
+Records or one of our exclusive retailers. If you have illegally downloaded
+a copy of Zogs' Nightmare I or II, we urge you to delete it from you system
+immediately, save all personal files, re-format your hard drive and
+reinstall your operating system from scratch to guarantee that you computer
+has not been compromised.
+The NSMSDT will not be taking any further action in regards to a patch as
+none of the LEGAL versions of the games have been compromised.  The only
+compromised games have been from sites that are offering the software
+illegally for download.
+Every game disc has a digital signature that can be verified by our software
+team in which they can immediately tell if the program was tampered with.
+Furthermore, an electronic serial number is included with each game, an
+internal license key, and if this software is distributed illegally online
+the NSMSDT can track the the illegal content by license number.
+The NSMSDT had the digital signature and serial numbers compiled to the
+final source code before the games went to pressing in order to help fight
+pirated software.
+If you have any questions and are a LEGAL owner of Zogs' Nightmare series
+video games, you may contact the NSMSDT by phoning 651.659.6307.
+About the NSM:
+The NSM organization is the largest and most active National Socialist
+movement in America. The NSM's core beliefs include: defending the rights of
+white people everywhere, preservation of our white culture and heritage,
+strengthening family values, reform of illegal immigration policies, and
+immediate withdrawal of our national military from an illegal Middle Eastern
+occupation and promotion of white separation.
+To obtain a legal copy of Zogs' Nightmare I or II Visit:
+<<link>>
+National HQ Contact & Website:
+National Socialist Movement
+Public Relations Liaison
+P.O. Box 580669
+Minneapolis, MN. 55458
+Phone: 651.659.6307
+<<link>>

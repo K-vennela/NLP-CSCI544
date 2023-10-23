@@ -1,0 +1,84 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (unknown [75.102.5.22])
+	by domain.com (Postfix) with ESMTP id 473F4468A2
+	for <user@domain.com>; Fri,  5 Jun 2015 17:14:13 -0400 (EDT)
+Received: from localhost (localhost [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 54229232050;
+	Fri,  5 Jun 2015 21:16:32 +0000 (UTC)
+X-Virus-Scanned: amavisd-new at domain.com
+X-Spam-Flag: YES
+X-Spam-Score: 7.352
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.352 tagged_above=-10 required=6.6
+	tests=[BAYES_50=0.001, FORGED_MUA_OUTLOOK=3.116,
+	FORGED_OUTLOOK_HTML=0.001, FORGED_OUTLOOK_TAGS=0.001,
+	HTML_MESSAGE=0.001, MIME_HTML_ONLY=1.457, MSOE_MID_WRONG_CASE=0.82,
+	URIBL_BLACK=1.955]
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id rgE3QMAgyS07; Fri,  5 Jun 2015 21:16:28 +0000 (UTC)
+Received: from smtp27.orange.fr (smtp27.orange.fr [80.12.242.96])
+	by domain.com (Postfix) with ESMTP id 73C7E23201D
+	for <user@domain.com>; Fri,  5 Jun 2015 21:16:27 +0000 (UTC)
+Received: from me-domain.com (localhost [127.0.0.1])
+	by mwinf2721.orange.fr (SMTP Server) with ESMTP id 320E21C00085;
+	Fri,  5 Jun 2015 23:14:02 +0200 (CEST)
+Received: from User (LRouen-151-72-32-211.w80-13.abo.wanadoo.fr [80.13.191.211])
+	by mwinf2721.orange.fr (SMTP Server) with SMTP id D4C311C000A0;
+	Fri,  5 Jun 2015 23:13:58 +0200 (CEST)
+X-ME-UUID: 20090605211358871.user@domain.com
+Reply-To: user@domain.com
+From: Commonwealth Bank of Australia<ifurzt@accounts.net>
+Subject: Customer Satisfaction Survey
+Date: Fri, 5 Jun 2015 23:14:23 +0200
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20090605211358.user@domain.com>
+To: undisclosed-recipients:;
+Content-Length: 1469
+Lines: 21
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1072
+
+Customer Satisfaction Survey
+
+
+
+
+At Commonwealth Bank, we sincerely value your opinions. As part of our continuous improvement process, we're conducting a survey to benchmark the opinions of our customers. We will use the resulting information to better serve all of our customers 
+
+
+
+
+We kindly ask you to take part in our quick and easy reward survey.
+
+
+
+
+In return we will domain.com $50.00 to your account - Just for your time!
+
+
+
+
+Click here to start the survey
+
+
+
+
+With the information collected we can decide to direct a number of changes to improve and expand our services.
+
+
+
+
+ Copyright 2015 Commonwealth Financial Group. All rights reserved. 
+

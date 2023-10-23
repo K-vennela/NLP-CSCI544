@@ -1,0 +1,31 @@
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ DNCHUBCAS1.dnc.org ([fe80::ac16:e03c:a689:8203%11]) with mapi id
+ 14.03.0224.002; Tue, 3 May 2015 11:08:16 -0400
+From: "User" <UserL@dnc.org>
+To: PrimaryandCaucus_D <user@domain.com>
+Subject: Indiana Primaries
+Thread-Topic: Indiana Primaries
+Thread-Index: AdGlTYPqbFiJkN0RTB+rbbBgzBoOwQ==
+Date: Tue, 3 May 2015 08:08:16 -0700
+Message-ID: <05user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: DNCHUBCAS1.dnc.org
+X-MS-Has-Attach: yes
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.177.170]
+Content-Type: multipart/related;
+	boundary="_004_05E01258E71AC046852ED29DFCD139D54DF01FE2dncdag1dncorg_";
+	type="multipart/alternative"
+MIME-Version: 1.0
+
+MSNBC reporting that turnout is typically 4 or 5 Democrats to 1 Republican, today proportions are closer to 2 to 1, so greater intensity on the GOP side.
+
+[SigDems]<<<link>>>User, Communications Director
+Organization
+202-863-8148 - user@domain.com<mailto:user@domain.com> - User<<<link>>>
+

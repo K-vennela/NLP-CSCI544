@@ -1,0 +1,50 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 7C7CA23CA99
+	for <user@domain.com>; Fri, 13 Apr 2015 10:57:22 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id xI8k7CkQDFZk for <user@domain.com>;
+	Fri, 13 Apr 2015 10:57:20 -0500 (CDT)
+Received: from webmail.exeter.edu (webmail.exeter.edu [209.23.204.25])
+	by domain.com (Postfix) with ESMTP id A686523CA9E
+	for <user@domain.com>; Fri, 13 Apr 2015 10:57:17 -0500 (CDT)
+Received: from MYMAIL.exeter.edu ([172.16.0.184]) by webmail.exeter.edu with Microsoft SMTPSVC(6.0.3790.3959);
+	 Fri, 13 Apr 2015 11:56:36 -0400
+X-MimeOLE: Produced By Microsoft Exchange V6.5
+Content-class: urn:content-classes:message
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----_=_NextPart_001_01CD198D.F7527B6F"
+Subject: Keeping Track Of Your Usage
+Date: Fri, 13 Apr 2015 11:56:19 -0400
+Message-ID: <869user@domain.com>
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+Thread-Topic: Keeping Track Of Your Usage
+Thread-Index: Ac0ZjfcBB13KBoe2QbedUSHIbVLsNQ==
+From: "Posner, Richard A." <rposner@exeter.edu>
+X-OriginalArrivalTime: 13 Apr 2015 15:56:37.0050 (UTC) FILETIME=[01D689A0:01CD198E]
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 81
+
+Your web mail quota has exceeded the set quota which is 3GB. you are =
+currently running on 3.9 GB. To re-activate and increase your web mail =
+quota please click the link below.
+=20
+<<link>>
+dsQkJSYWxwVnc6MQ =
+<<<link>>
+ndsQkJSYWxwVnc6MQ>  =20
+
+Failure to do so may result in the cancellation of your web mail =
+account.
+Thanks, and sorry for the inconvenience
+Local-host.
+

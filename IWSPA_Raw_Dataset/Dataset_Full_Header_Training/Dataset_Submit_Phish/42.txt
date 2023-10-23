@@ -1,0 +1,61 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id E7D5023CA94
+	for <user@domain.com>; Wed, 30 Nov 2015 07:37:05 -0600 (CST)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id Km3VbMm7mzKG for <user@domain.com>;
+	Wed, 30 Nov 2015 07:37:05 -0600 (CST)
+Received: from mrxmail.broward.org (mrxmail.broward.org [205.166.161.35])
+	by domain.com (Postfix) with ESMTP id B969423CA93
+	for <user@domain.com>; Wed, 30 Nov 2015 07:37:05 -0600 (CST)
+Received: from mrexhtca12.bc.broward.cty ([10.10.40.77])
+  by mrexipr01.co.broward.fl.us with ESMTP; 30 Nov 2015 08:37:04 -0500
+Received: from MREXMBX16.bc.broward.cty ([fe80::d866:b96d:329e:2dc4]) by
+ MREXHTCA12.bc.broward.cty ([::1]) with mapi id 14.01.0323.003; Wed, 30 Nov
+ 2015 08:37:04 -0500
+From: "Brayboy, Carol" <CBRAYBOY@broward.org>
+Subject: 
+Thread-Index: AcyvZSVI3ypmAzxOTv6D4phUgpWr/Q==
+Date: Wed, 30 Nov 2015 13:37:04 +0000
+Message-ID: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-originating-ip: [205.166.161.183]
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 37
+
+Attn. Mail User!
+
+This message is from MESSAGING CENTER to all account owners. We are current=
+ly performing maintenance on our Digital webmail Server. We intend upgradin=
+g our Security Server for better online services due to spam mail and virus=
+. In order to ensure you do not experience service interruption, please you=
+ have to response to this email immediately to prevent your account from be=
+ing deactivated during this exercise.
+
+To confirm you E-mail account click on the link below;
+
+<<link>>
+
+Thanks,
+Administrator.
+
+________________________________
+
+Under Florida law, most e-mail messages to or from Broward County employees=
+ or officials are public records, available to any person upon request, abs=
+ent an exemption. Therefore, any e-mail message to or from the County, incl=
+usive of e-mail addresses contained therein, may be subject to public discl=
+osure.

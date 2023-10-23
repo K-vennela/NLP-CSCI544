@@ -1,0 +1,44 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from [192.168.1.131] (unknown [192.168.1.131])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mail.hackingteam.it (Postfix) with ESMTPSA id 790A62BC0FF
+	for <user@domain.com>; Fri, 31 Aug 2015 13:16:53 +0200 (CEST)
+Message-ID: <50409user@domain.com>
+Date: Fri, 31 Aug 2015 13:16:54 +0200
+From: Antonio Mazzeo <a.mazzeo@hackingteam.it>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:15.0) Gecko/20120824 Thunderbird/15.0
+To: Antonio Mazzeo <user@domain.com>
+Subject: BlackBerry Enterprise Server Express for Microsoft Exchange (SERVER
+ 3)
+X-Enigmail-Version: 1.4.4
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1107193699_-_-"
+
+BlackBerry Enterprise Server Express for Microsoft Exchange
+
+Quantity: 1
+Number 1 of 1
+SRP ID: S16715979
+SRP Authentication Key: 69bs-wau2-p5zc-bhqj-arik-gcmx-nmiw-d2g3-23f2-dfhh
+CAL ID: C0014899178
+CAL Authentication Key: besexp-nym9d0-nm838b-yc4fmv-6yz9rg
+
+-- 
+Antonio Mazzeo
+Senior Security Engineer
+
+HT srl
+Via Moscova, 13 I-20121 Milan, Italy
+WWW.HACKINGTEAM.IT
+Phone +39 02 29060603
+Fax. +39 02 63118946
+Mobile: +39 3311863741
+
+This message is a PRIVATE communication. This message contains privileged and confidential information intended only for the use of the addressee(s).
+If you are not the intended recipient, you are hereby notified that any dissemination, disclosure, copying, distribution or use of the information contained in this message is strictly prohibited. If you received this email in error or without authorization, please notify the sender of the delivery error by replying to this message, and then delete it from your system.
+

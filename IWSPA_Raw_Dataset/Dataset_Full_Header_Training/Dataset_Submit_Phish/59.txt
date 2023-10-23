@@ -1,0 +1,81 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [10.3.4.5])
+	by domain.com (Postfix) with ESMTP id 2547846952
+	for <user@domain.com>; Wed, 26 Jul 2015 14:30:35 -0400 (EDT)
+Received: from domain.com.uk (unknown [200.252.138.2])
+	by domain.com (Postfix) with SMTP id 6450A6FA40B
+	for <user@domain.com>; Wed, 26 Jul 2015 14:30:36 -0400 (EDT)
+Message-ID: <user@domain.com>
+Date: Thu, 27 Jul 2015 01:58:21 -0300
+From: PayPal <service@paypal.com>
+User-Agent: Mozilla Thunderbird 1.0.6 (X11/20050716)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: user@domain.com
+Subject: Receipt of payement to user@domain.com
+Content-Type: multipart/alternative;
+ boundary="------------000105070902030604060203"
+Status: 
+X-Status: 
+X-Keywords: 
+
+                             [1]PayPal Header 
+
+   Notice of Account Review Necessity
+
+      Read this notice thoroughly and follow the instructions.
+     _________________________________________________________________
+
+   Why did I get the notice?
+   You  have been sent this notice because the records of PayPal database
+   indicate  you are a current or former PayPal account holder. PayPal is
+   conducting  a  periodic  update of the database record. To ensure your
+   account's  security,  it  is  important  that  you provide us accurate
+   information. Please take a moment to verify the information we have on file.
+   This notice provides instructions on how to confirm your PayPal account.
+     _________________________________________________________________
+
+   What should I do now?
+
+   We sincerely ask you, as a PayPal account holder, to login to your account
+   and give us the necessary information. Complete the necessary verification
+   tasks  within 5 days, or your account might get temporarily suspended.
+   Proceed with the link below.
+
+                   [2]Click here to confirm your account
+     _________________________________________________________________
+
+   We apologize for your inconvenience.
+
+   Thank you for your support,
+   PayPal Accounts Department
+     _________________________________________________________________
+
+   Please do not reply to this email. Anything you send to this address cannot
+   be answered. For assistance, [3]login to your PayPal account and choose the
+   "Help" link in the footer of any page.
+   To receive email notifications in plain text instead of HTML, update your
+   preferences [4]here.
+   PayPal Email ID PP571
+
+   Protect Your Account Info
+   Make sure you never provide your password to fraudulent websites.
+   To safely and securely access the PayPal website or your account, open a new
+   web browser and type in the PayPal URL to be sure you are on the real PayPal
+   site.
+   For more information on protecting yourself from fraud, please review our
+      [5]Security Tips
+   Protect Your Password
+   You should never give your PayPal password to anyone, including PayPal
+      employees.
+
+References
+
+   1. <<link>>
+   2. <<link>>:85/paypal/index.php
+   3. <<link>>:85/paypal/index.php
+   4. <<link>>:85/paypal/index.php
+   5. <<link>>:85/paypal/index.php
+

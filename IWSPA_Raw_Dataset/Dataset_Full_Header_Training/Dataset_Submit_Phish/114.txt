@@ -1,0 +1,109 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 3955D23CAFC
+	for <user@domain.com>; Fri, 24 Feb 2015 23:52:28 -0600 (CST)
+X-Virus-Scanned: amavisd-new at domain.com
+X-Spam-Score: 4.103
+X-Spam-Level: ****
+X-Spam-Status: No, score=4.103 tagged_above=2 required=5
+	tests=[ADVANCE_FEE_1=0, BAYES_00=-2.599, DNS_FROM_RFC_ABUSE=0.2,
+	DNS_FROM_RFC_POST=1.708, RCVD_IN_SORBS_WEB=1.456,
+	RCVD_NUMERIC_HELO=1.5, SUBJ_ALL_CAPS=0.997, UNDISC_RECIPS=0.841]
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 8wiqeUf7Q6xX for <user@domain.com>;
+	Fri, 24 Feb 2015 23:52:26 -0600 (CST)
+Received: from domain.com.uy (domain.com.uy [164.73.80.2])
+	by domain.com (Postfix) with ESMTP id 6504823CAFB
+	for <user@domain.com>; Fri, 24 Feb 2015 23:52:26 -0600 (CST)
+Received: from localhost (domain.com.uy [127.0.0.1])
+	by domain.com.uy (Postfix) with ESMTP id 1053E1F6290;
+	Fri, 24 Feb 2015 22:28:47 -0200 (UYST)
+X-Virus-Scanned: Debian amavisd-new at domain.com.uy
+Received: from domain.com.uy ([127.0.0.1])
+	by localhost (domain.com.uy [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id V27EGaZj7tJc; Fri, 24 Feb 2015 22:28:46 -0200 (UYST)
+Received: from domain.com.uy (domain.com.uy [164.73.80.4])
+	by domain.com.uy (Postfix) with ESMTP id AAA201F6ECE;
+	Fri, 24 Feb 2015 22:23:59 -0200 (UYST)
+Received: from 41.220.69.6.domain.com (41.220.69.6.domain.com [41.220.69.6])
+ by domain.com.uy (Horde Framework) with HTTP; Fri, 24 Feb 2015 
+ 22:13:04 -0200
+Message-ID: <20120224221304.14172user@domain.com>
+Date: Fri, 24 Feb 2015 22:13:04 -0200
+From: "Mr. Thomas Bradley" <information@atm.com>
+Reply-to: user@domain.com
+To: undisclosed-recipients:;
+Subject: UNITED NATIONS OFFICE
+MIME-Version: 1.0
+Content-Type: text/plain;
+ charset=ISO-8859-1;
+ DelSp="Yes";
+ format="flowed"
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+User-Agent: domain.com Messaging Program (IMP) H3 (4.3.5)
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 57
+
+UNITED NATIONS OFFICE
+FOR THE COORDINATION OF
+HUMANITARIAN AFFAIR.
+
+Our Ref: FGN/SNT/RAL
+Your Ref: SNT/ATM/822
+
+Dear Esteemed Beneficiary,
+
+Inline with the United Nations millennium development goal to
+eradicate poverty and hunger by the year 2015 i am directed to
+inform you that your payment verification and confirmations is
+completed, Therefore we are happy to inform you that arrangements
+have been concluded to effect your payment as soon as possible in
+our bid for transparency.
+
+You have been granted the sum of $500,000.00 USD in the United
+Nation Development Program UNDP world Aid/support promo, for your
+Personal, community and education development and do note that at
+least 40% (Percent) of these total fund must be use for such purpose.
+
+The United Nations collects all the email addresses of persons that
+are active online among the millions that subscribed to the domain.com
+and only five persons every Year are selected as our Beneficiaries
+through electronic balloting System without the winner applying.
+
+On that note we congratulate you for being one of the beneficiaries.
+
+To file for your claim, you are requested to contact the events
+Manager/Claims Department,send your winning Identification Numbers
+and the following information.
+
+These are your identification numbers:
+
+Reff number: UNDP/HUM/003/2011
+Batch number: UNHM/UK/9768/789
+Full Name:
+Contact Address:
+Phone Number:
+Age:
+Sex:
+Occupation:
+Country:
+
+You are advised to send your details below via his e-mail address :
+
+EMAIL: user@domain.com
+
+Thank you and accept my hearty Congratulations once again!
+
+Yours faithfully,
+Mr. Thomas Bradley
+Under-Secretary-General:
+Humanitarian Affairs and Emergency Relief Coordinator
+
+Copyright =A9 1996-2012 United Nations Development program Inc.
+All rights reserved. Terms of Service - Guideline

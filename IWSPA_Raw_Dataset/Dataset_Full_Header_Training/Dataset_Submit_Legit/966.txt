@@ -1,0 +1,141 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 10 May
+ 2015 16:23:49 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 10 May 2015 
+ 16:23:47 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 907658632;
+ Tue, 10 May 2015 15:23:53 -0500
+X-Note-AR-ScanTimeLocal: 5/10/2016 3:23:48 PM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @who.eop.gov ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->->->PRIVATE->United States->
+X-Note-Sending-IP: 214.3.140.16
+X-Note-Reverse-DNS: eve.whmo.mil
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from [214.3.140.16] (HELO Gladiator.whca.mil)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 137657771;
+ Tue, 10 May 2015 15:23:48 -0500
+Received: from CN399Exch1.whca.mil (cn399exch1.whca.mil [10.75.26.101])	by
+ Gladiator.whca.mil with ESMTP id u4AKMqbe090006;	Tue, 10 May 2015 16:22:52
+ -0400 (EDT)
+Received: from CN399JRNL1.whca.mil (10.75.26.120) by CN399Exch1.whca.mil
+ (10.75.26.101) with Microsoft SMTP Server (TLS) id 15.0.1130.7; Tue, 10 May
+ 2015 16:22:56 -0400
+Received: from CN399Exch1.whca.mil (10.75.26.101) by CN399JRNL1.whca.mil
+ (10.75.26.120) with Microsoft SMTP Server (TLS) id 15.0.1130.7; Tue, 10 May
+ 2015 16:22:55 -0400
+Received: from CN399Exch1.whca.mil ([10.75.26.101]) by CN399Exch1.whca.mil
+ ([10.75.26.101]) with mapi id 15.00.1130.005; Tue, 10 May 2015 16:22:56 -0400
+From: "Gainedi, Sriramya N. EOP/WHO" <sriramya_gainedi@who.eop.gov>
+To: "User" <user@domain.com>
+CC: "Kaplan, Jordan" <user@domain.com>, Claire Olszewski <user@domain.com>
+Subject: RE: Female Empowerment Roundtables
+Thread-Topic: Female Empowerment Roundtables
+Thread-Index: AdGT9nP2LrjlNPtpRVWOyM5f/876DQFkrqfwAGl1QkAACGwd7AAaGl1mAEJEbqAAAXAkqwAI25IAAC+b9JQAABA0AAAAERkIAAAJYS4AwdLLcAA3FiRAAMVshAAAAmBecAAuePZhADNb44ABMUGM0A==
+Date: Tue, 10 May 2015 20:22:55 +0000
+Message-ID: <45user@domain.com>
+References: <9user@domain.com>
+ <4173user@domain.com>
+ <user@domain.com>
+ <9426583user@domain.com>
+ <9user@domain.com>
+ <4user@domain.com>
+ <722user@domain.com>
+ <5user@domain.com>
+ <0949391user@domain.com>
+ <8336user@domain.com>
+ <812090user@domain.com>
+ <9user@domain.com>
+ <user@domain.com>
+ <user@domain.com>,<654177690user@domain.com>
+ <3user@domain.com>
+ <9user@domain.com>
+In-Reply-To: <9user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-ms-exchange-transport-fromentityheader: Hosted
+x-originating-ip: [10.75.20.202]
+Content-Type: multipart/alternative;
+	boundary="_000_45f8d1da21524a4b945965a5af51fdc4CN399Exch1whcamil_"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Hi all- after reviewing these dates, it does not look like any will work. A=
+re there other dates we can explore? Apologies and thank you for your patie=
+nce, she is excited to do this.
+
+From: "Gainedi, Sriramya N. EOP/WHO" <sriramya_gainedi@who.eop.gov>
+Sent: Wednesday, May 4, 2015 2:52 PM
+To: Gainedi, Sriramya N. EOP/WHO <user@domain.com>
+Cc: Kaplan, Jordan <user@domain.com>; Claire Olszewski <user@domain.com>
+Subject: RE: Female Empowerment Roundtables
+
+Hey Sri,
+
+After deliberating with our hosts, we think it best to push back to June.  =
+We do not want to infringe on Tina (or Neera's) holiday weekend, so would l=
+ike to look at dates in June, if that works for Tina.
+
+In an effort to align both Neera and Tina's schedules, we requested Neera's=
+ June availability, which is below:
+
+Monday, June 6
+Tuesday, June 7
+Monday, June 27
+Tuesday, June 28
+Wednesday, June 29
+
+Please let us know if any of the above are options and we can move this for=
+ward.  Thanks again for your assistance on all of this.  We know it has bee=
+n a fete trying to get this scheduled!
+
+Jordan C. Vaughn
+National AALC Finance Director
+Organization
+(202) 488-5089 (o) | (407) 797-2215 (c)
+user@domain.com
+
+From: "Gainedi, Sriramya N. EOP/WHO" <sriramya_gainedi@who.eop.gov>
+Sent: Tuesday, May 03, 2015 2:11 PM
+To: Gainedi, Sriramya N. EOP/WHO
+Cc: Kaplan, Jordan; Claire Olszewski
+Subject: Re: Female Empowerment Roundtables
+
+Hey Sri, in an effort to be considerate of Neera Tanden's time, we are hopi=
+ng to receive confirmation from you by COB tomorrow if possible. We do unde=
+rstand that Tina has other obligations on the 27th, so if it does not work,=
+ no problem.
+
+Please let us know as soon as possible if Tina is available to fly in the m=
+orning of the 27th (or the evening before) and fly out early afternoon. Per=
+ your last message, we are happy to get her back to DC by that evening.
+
+Thank you for your consideration on this.
+Jordan C. Vaughn
+National AALC Finance Director
+Organization
+(202) 488-5089<tel:(202)%20488-5089> (o) | (407) 797-2215<tel:(407)%20797-2=
+215> (c)
+user@domain.com<mailto:user@domain.com>
+
+On May 2, 2016, at 1:46 PM, Gainedi, Sriramya N. EOP/WHO <sriramya_gainedi@=

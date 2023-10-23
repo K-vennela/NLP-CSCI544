@@ -1,0 +1,374 @@
+Dear Keith!
+I contacted Hakan Grudd last week. He is also positive about a Ph.D. for me
+in Stockholm.
+I have tried to make a formulation of a project. Please, read it and let me
+know what you think. Maybe the project is overlapping with that of Grudd or
+maybe you have better ideas. It could also be that I have misunderstood
+some points.
+I have sent the project formulation to Schweingruber, Grudd and Kalen. I
+send it to Schweingruber because I already contacted him last week (before
+I got the message from you). He is also interested in the project and
+anyway he will get involved if I am going to train in Birmensdorf.
+Best regards from:
+Gerner Thomsen
+Description of project
+1. Background
+Dendroclimatology can be defined as the use of tree rings to study and
+reconstruct past and present climate (Kaennel & Schweingruber, 1995). 
+Global average surface temperatures have risen by 0.3-0.6 C since the
+middle of the 19th century (Folland et al., 1990). Climatologists seek to
+establish the extent to which this rise may be attributable to an enhanced
+greenhouse effect and so need to distinguish anthropogenic from 'natural'
+climate fluctuations (those that would occur without anthropogenic
+influences) to help them make predictions of future climate changes (Briffa
+et al., 1996a). Clearly the century-long instrumental record is not long
+enough to accomplish this. Paleoclimatic fluctuations older than
+meteorological measurements can be inferred from a variety of data sources,
+including tree rings, records of vegetation processes (e.g. pollen in lake
+sediments), records of ice layer in ice cores, historical records, etc.
+(Eddy, 1992). However, within a time frame of the last two millennia
+dendroclimatology has shown to be the most powerful tool available to
+provide globally distributed, annually resolved paleoenvironmental records
+(Luckman, 1996). The growing influence of dendroclimatology in
+paleoenvironmental studies can be seen in the fact that almost a third of
+Bradley and Jones' volume Climate since AD 1500 (Bradley & Jones, 1992)
+deals with dendrochronology and dendroclimatic reconstruction.
+Near the polar and altitudinal tree lines, tree growth is mainly dependent
+on summer temperature. As northern latitudes are regarded as being strongly
+affected by global climate changes, a network of chronologies is
+established along the polar tree-line in Eurasia (Briffa et al., 1996b). At
+specific locations in these northern high-latitude regions it is possible
+to extend the tree-growth record back beyond the life span of living trees
+by amalgamating the measurements from overlapping, absolutely-dated series
+of measurements made on dead wood from historical or archeological
+provenances or naturally surviving above ground, in peat or alluvial
+sediments, or preserved in lakes. The first pair of (ring-width and
+density) chronologies, made up from samples of Scots pine (Pinus sylvestris
+L.) at several locations adjacent to Lake Tornetrsk, northern Sweden, have
+been used to reconstruct summer (April-August) temperatures representing a
+large region  of northern Fennoscandia from AD 500 to 1980 (Briffa et al.,
+1990, 1992). The Fennoscandian temperature records show that marked
+high-frequency (interannual-to-century) timescale variability together with
+marked long-timescale (multicentury) variations in summer temperatures have
+been a characteristic feature in this region during the last millennium.
+Similar data from samples of larch (Larix sibirica) on the eastern slopes
+of the northern Urals have been used to reconstruct regional summer
+(May-September) temperatures representing a region of north-western Siberia
+for the period 914 to 1990 (Briffa et al., 1995b). As a part of developing
+the north Eurasian chronology network, two projects currently underway aim
+to build continuous multimillennial pine ring-width chronologies in
+northern Sweden and Finland, spanning 7000-8000 years (Briffa et al.,
+1995a). In Russia a similar project underway aim to build larch ring-width
+chronologies in Yamal Peninsula, also spanning 7000-8000 years (Shiyatov,
+1997).
+The application of radiodensitometry in the analysis of conifer rings
+throughout Europe (Schweingruber, 1985) show the considerable amount of
+additional information lying in density, as compared with total ring width.
+Obviously, external factors have a more uniform influence on cell wall
+growth in latewood (density) than on cambial activity (ring-widths). In
+trees of the northern and subalpine timberlines, maximum latewood density
+is essentially a measure of mean summer temperature (ibid.). 
+2. Purpose of this study
+2.1. Main objective 
+The main objective of this study is to provide additional information for a
+more precise climate reconstruction based on the already existing
+Tornetrsk-chronology  in northern Sweden (AD 500 to 1980) and a future
+supra-long chronology (BC 7000 to 1996), based on ring-widths and maximum
+latewood density of Scots pine (Pinus sylvestris L.) from the same area.
+2.2. Elaboration of the main objective
+One of the most fundamental underlying principles in dendroclimatology is
+the assumption of uniformitarianism in the response of data to climate
+forcing. The uniformitarian principle implies that "the physical and
+biological processes which link today's climate with today's variations in
+tree growth must have been in operation in the past" (Fritts, 1976).
+However, it is a moot point whether the assumption of uniformitarianism
+holds when past climate variations are inferred from long chronologies. The
+problem arises because the extrapolation always is based on a regression
+model calibrated on very short meteorological records. Long chronologies,
+as those seen in northern Scandinavia and Siberia, are made up from trees
+of different ages growing under more or less uniform conditions. In such
+chronologies there must always be uncertainty regarding the long-term
+stability of (non-climate) environmental influences or differing climate
+sensivity due to the inhomogeneity in the sampled material (Briffa, 1995a,
+Briffa et al., 1996a). The climate signals in chronologies may, to some
+extent, be affected by:
+1.
+Inhomogeneity in the site characteristics of the samples (soil
+fertility, water holding capacity of the soil, altitude, exposure of slope,
+etc.)
+2.
+Inhomogeneity in series length of samples (tree age)
+3.
+Inhomogeneity in tree growth form and population density of samples
+4.
+Anthropogenic influence (nitrogen deposition, raise in CO2 level)
+producing enhanced tree growth in the recent part of the chronology
+5.
+Series replication in the chronology
+6.
+The technique used to remove the non-climatic, age-related bias in
+individual series (a technique known as standardization in
+dendroclimatology)
+This study will focus on the influence of point 1-3 on the climate signal
+seen in densities of Scots pine from the area of Tornetrsk in northern
+Sweden. It is well-known that the Tornetrsk-chronology is subject to the
+inhomogenity in samples described in point 1-3, but it is not clear to what
+extension these inhomogenities affect the climate signal in the chronology.
+Thus, a study of the influence of inhomogenity in the samples will provide
+valuable additional information for a more precise interpretation of the
+summer-temperature record inferred from the already existing
+Tornetrsk-chronology. In the same way it will highly increase the value
+and confidence of climate reconstructions from future supra-long
+pine-chronologies in this region. The growth parameter under investigation
+is maximum latewood density. In this way the study will complement an
+ongoing similar study on ring-widths of Scots pine from the same region
+(Grudd, 1998). 
+2.3. Partial objectives of the study and publications
+Methodologically, the project can be divided into three, but overlapping
+stages:
+1.
+Building of density pine-chronologies around Tornetrsk from different
+sites. Various site conditions (mainly soil fertility, water holding
+capacity of the soil, altitude, and tree population density) and different
+age classes must be taken into consideration. No less than 10-12
+chronologies must be estimated.
+2.
+Analysis of climate-growth relationships of the pine-chronologies,
+focusing on differences between high-frequency and low-frequency
+variability in the climate date. The results are compared and conclusions
+are drawn about the diversity of climate signal seen in
+density-chronologies from Scots pine growing under various conditions in
+the area around Tornetrsk.
+3.
+Re-interpretation of the already existing Tornetrsk-chronology on the
+basis of the new information provided by the study in case and the ongoing
+similar study of ring-widths from the same region (Grudd, 1998)
+The results are published in three articles with the following provisional
+titles:
+a)
+"Site-induced differences in climate-growth response of Pinus sylvestris
+L."  (The article focuses on differences in climate-growth response for
+trees growing on different soil types and for trees from stands with
+different population density)
+b)
+"Altitude and age as parameters of climate-growth response in Pinus
+sylvestris L." (The article focuses on differences in climate-growth
+response for trees growing at different altitudes and trees in different
+age-classes )
+c)
+"Possible site-induced changes in the climate-growth response of the
+1,400 year tree-ring chronology from northern Fennoscandia" (A
+re-interpretation of  the existing Tornetrsk-chronology is made on the
+basis of the new information)
+3. Methods
+3.1.  Sampling strategy
+3.1.1. Selection of sites and stands
+As already pointed out, various site conditions and different age classes
+must be taken into consideration. Site homogeneity largely determines the
+quality of the chronology. That is, the factor under investigation which is
+assumed to affect the climate-growth response must be constant all over the
+site, and other possible affecting factors are minimised. It is important
+that the stand have not been similarly damaged by fires, wind, or other
+catastrophic factors to extract reliable climatic information. Site
+characteristics will be noted (typography/geomorphology, soil conditions,
+vegetation description, signs of human impact, etc.).
+3.1.2. Selection of  trees
+Trees should be in a dominant position (with the possible exception of
+stand density studies), without irregular growth which probably disturb the
+climate signal in the tree-rings. Individual variability in the final
+chronology decreases with an increasing number of samples. Consequently,
+two cores from at least 12 living trees are necessary to obtain a
+site-chronology of sufficient quality. It is best to sample a few more
+trees than necessary so that anomalous cores may be discarded.  Trees of
+different age classes will be cored to allow for systematical studies on
+age-related bias in the climate-growth response.
+Samples are taken at breast height with an increment borer. The cores are
+stored in air-dry conditions after labelling with a pencil. Growth
+irregularities (compression wood, wound tissue, etc.) are excluded by
+avoiding sampling in the vicinity of wound and of upslope and downslope
+sides of trees growing on sloping ground. Cores are taken as nearly
+perpendicular to the fibre orientation as possible. This can greatly reduce
+the variability  owing to technical processing in densitometric studies
+(Schweingruber et al., 1990). Core characteristics will be noted (tree
+height, stem diameter at breast height, crown size and condition, injuries
+and irregular growth, coring direction and height, etc.). Sites and trees
+will be documented photographically.
+3.2.Sample preparation, measurement, and chronology building
+3.2.1. Preparation
+Resins and heartwood substances must be chemically removed as they will
+influence on the X-ray absorption (Schweingruber, 1990). This is done
+through distillation in Soxhlett device; resins are extracted with alcohol,
+heartwood substances with water.  After removal of resins and heartwood
+substances, laths of equal thickness have to be cut from the round cores.
+The Birmensdorf system may be used where the core is glued to a wooden
+support with the radial surface uppermost and a 1.25-mm-thick lath cut out
+with a small twin-bladed circular saw. To obtain comparable density values,
+the moisture content of the wood must be kept constant.
+3.2.2. Measurement of density
+The irradiation of film can be done with different methods. Two methods,
+which have proved to be useful are:
+1.
+Irradiation of a film (Kodak, Type R, single-coated industrial X-ray film)
+resting on the moving stage. The film is transported at five cm/min under
+the radiation source, which is 31 cm above, and irradiated at 20kVh and 2mA
+(Vancouver system)
+2.
+Irradiation of a film (Kodak, Type X-Omat TL, double coated medical X-ray
+film) resting on a stationary stage at 11 kVh and 20 mA for 90 min. The
+source is 250 cm above the film (Nancy system)
+The film is developed and the different gray levels produced on the
+radiograph by the wood samples are converted to wood density values. The
+basic instrument used is the densitometer (ibid). Analog or digital
+processing of the actual measurements produces a density profile from which
+the desired parameter (maximum density) is registered.
+3.2.3. Dating and chronology building
+For dating, chronology building and quality control, the program COFECHA
+(Holmes et al., 1986) may be used. In addition a manual dating control has
+to be done at the light table or monitor, comparing each curve with an
+existing master chronology. The procedure ensures precise dating of every
+tree ring.
+3.3.  Data processing
+3.3.1.  Standardization of tree-ring data
+Before averaging tree-ring curves to mean chronologies which shall be used
+for dendroclimatological purposes, the raw values must be standardized to
+index values. In the same process, one has to remove the natural age trend
+of trees and eventual density variations caused by stand dynamics, and not
+representing climate. Also in this process, it is crucial to control the
+effect of detrending at the light table or on the monitor, comparing the
+original with the detrended curve. Much depends from this process, as the
+dendrochronologist here decides which portion of low frequency variation
+that is removed from the series. This in turn affects climate information
+inferred from the chronology. Therefore, several detrending methods have to
+be tested in this study. 
+3.3.2. Computing climate-growth response
+Climate-growth models will be computed for all individual chronologies. The
+period selected for climate-growth modelling, is the period for which
+climate data are available (the earliest series start in AD ??). Different
+techniques are existing for estimation of the climate-growth response. For
+example, simple correlation analysis may be used or a regression-technique
+based on principal component analysis. It may be relevant to detect
+non-linear relationships between climate variables and ring growth, as well
+as to study single years with special tree-ring (pointer years) and climate
+events. To detect changes in climate-response over time the Kalman filter
+can be used. 
+4. Time schedule
+The project will be performed during three years (June 1998 to June 2001).
+The Ph.D. student will follow courses corresponding to 40 weeks of studies.
+field work and measuring can be made: It can take a number of days to
+become familiar with the localities and to find the most suitable pine
+stands. At each site, one to two days are needed for sampling and site
+description, provided that the pines do not stand too scattered, and long
+walking distances can be avoided. Time for measuring and chronology
+building should be estimated rather high (2-3 weeks per site).
+1998:
+Summer:
+Preparing of a detailed sampling strategy for the whole project (2 weeks)
+and field work (6 weeks). The field work will focus on sampling of trees
+from about six sites with varying conditions (soil fertility and water
+holding capacity).
+Autumn semester:
+Training in use of densitometry equipment at the institute of Forest, Snow
+and Landscape in Birmensdorf, Switzerland. Measurement of samples collected
+in the summer.
+1999:
+Spring semester:
+Continued measuring of samples at the university in Stockholm. Systematical
+analysis of standardization methods and construction of six site
+chronologies. Start of analysing climate-growth response in chronologies.
+Summer:
+Field work (6 weeks) which will put focus on sampling trees from about six
+sites in different altitudes and with different stand densities.
+Autumn semester:
+Measuring of the summer's material at the university in Stockholm.
+Systematical analysis of standardization methods and construction of six
+new site chronologies. Analysing climate-growth response in chronologies.
+2000:
+Spring semester:
+Analysing climate-growth response in all chronologies. Preparation of
+publication (a).
+Autumn semester:
+Analysing age-related climate-response. Preparation of publication (b).
+Comparison of results with similar study on ring-widths (Grudd, 1998).
+2001:
+Spring semester:
+Last statistics, preparation of publication (c), preparation of
+disputation. 
+Bibliography
+Bradley & Jones, (1992). Climate since A.D. 1500. London: Routledge, 678
+pp.
+Briffa, K.R., Bartholin, T.S., Eckstein, D., Jones, P.D., Karln, W.,
+Schweingruber, F.H. & Zetterberg, P. (1990). A 1,400-year tree-ring record
+of summer temperatures in Fennoscandia. Nature. 346: 434-439.
+Briffa, K.R., Jones, P.D., Bartholin, T.S., Eckstein, D., Schweingruber,
+F.H., Karln, W., Zetterberg, P. & Eronen, M. (1992). Fennoscandian summers
+from A.D. 500: Temperature changes on short and long timescales. Climate
+Dynamics. 7: 111-119.
+Briffa, K.R. (1995). Interpreting High-Resolution Proxy Climate Data - The
+Example of Dendroclimatology. In: Storch, H.v., Navarra, A. (Eds), Analysis
+of Climate Variability: Applications of Statistical Techniques:
+Proceedings, Elba, oct-nov, 1993. Springer-Verlag, Berlin: pp. 77-94.
+Briffa, K.R., Jones, P.D., Schweingruber, F.H., Karln, W., Bartholin,
+T.S., Shiyatov, S.G., Vaganov, E.A., Zetterberg, P. & Eronen, M. (1995a).
+Regional temperature patterns across Northern Eurasia: tree-ring
+reconstructions over centuries and millennia. In: Heikinheimo, P.
+(Ed).Proceedings, International Conference on Past, Present and Future
+Climate. Academy of Finland (Suomen akatemian julkaisuja) no. 6, pp.
+115-118.
+Briffa, K.R., Jones, P.D., Schweingruber, F.H., Shiyatov, S.G. & Cook, E.R.
+(1995b). Unusual twentieth-century summer warmth in a 1,000-year
+temperature record from Siberia. Nature. 376: 156-159.
+Briffa, K.R., Jones, P.D., Schweingruber, F.H., Karln, W. & Shiyatov, S.G.
+(1996a). Tree-ring variables as proxy-indicators: Problems with
+low-frequency signals. In: Jones, P.D., Bradley, R.S., Jouzel, J. (Eds),
+Climatic Variations and Forcing Mechanisms of the Last 2000 Years. NATO ASI
+Series. Series I: Global Environmental Change. Vol. 41. pp. 9-41.
+Briffa, K.R., Jones, P.D., Schweingruber, F.H., Shiyatov, S.G. & Vaganov,
+E.A. (1996b). Development of a North Eurasian chronology network: Rationale
+and preliminary results of comparative ring-width and densitometric
+analysis in northern Russia. In: Dean, J.S., Meko, D.M., Swetnam, T.W.
+(Eds), Tree Rings, Environment, and Humanity. Proceedings of the
+International Conference, Tucson, Arizona, 17-21 May 1994. RADIOCARBON.
+Department of Geosciences, The University of Arizona, Tucson, pp. 25-41.
+Eddy, J.A. (1992). Global IGBP Change. The Royal Swedish Academy of
+Sciences, Stockholm. Report no. 19. 110 pp.
+Folland, C.K., Karl, T.R. & Vinnikov, K.Y. (1990). Observed Climate
+Variations and Change. In: Houghton, J.T., Jenkins, G.J., Ephraums, J.J.
+(Eds), Climate Change. The IPCC Scientific Assessment. Cambridge University
+Press, Cambridge: pp. 194-238.
+Fritts, (1976). Tree Rings and Climate. First ed. London: Academic Press,
+567 pp.
+Grudd, H. (1998). Personal communication: Department of Physical Geography,
+Stockholm University, S-10691 Stockholm. 
+Holmes et al., (1986). Tree-Ring Chronologies of Western North America:
+California, Eastern Oregon and Northern Great Basin with Procedures used in
+Chronology Department Work Including Users Manuals for Computer Programs
+COFECHA and ARSTAN. Chronology Series VI. Tucson, Arizona: Laboratory of
+Tree-Ring Research, University of Arizona, 
+Kaennel & Schweingruber, (1995). Multilingual Glossary of Dendrochronology.
+Bern, Switzerland: Paul Haupt Publishers, 467 pp.
+Luckman, B.H. (1996). Dendrochronology and global change. In: Dean, J.S.,
+Meko, D.M., Swetnam, T.W. (Eds), Tree Rings, Environment, and Humanity.
+Proceedings of the International Conference, Tucson, Arizona, 17-21 May
+1994. RADIOCARBON. Department of Geosciences, The University of Arizona,
+Tucson, pp. 3-24.
+Schweingruber, F.H. (1985). Dendro-ecological zones in the coniferous
+forests of Europe. Dendrochronologia. 3: 67-75.
+Schweingruber, F.H. (1990). Radiodensitometry. In: Cook, E.R., Kairiukstis,
+L.A. (Eds), Methods of Dendrochronology: Applications in the Environmental
+Sciences. Kluwer Academic Publishers, Dordrecht: pp. 55-63.
+Schweingruber, F.H., Kairiukstis, L.A. & Shiyatov, S.G. (1990). Sample
+Selection. In: Cook, E.R., Kairiukstis, L.A. (Eds), Methods of
+Dendrochronology: Applications in the Environmental Sciences. Kluwer
+Academic Publishers, Dordrecht: pp. 23-35.
+Shiyatov, S.G. (1997). Personal communication: Institute of Plant and
+Animal Ecology, Laboratory of dendrochronology, 8 Marta 202, 620219
+Ekaterinburg, Russia. 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+Gerner Thomsen                              
+Marathonvej 21, 1. door 5                  
+2300 Copenhagen S                       
+Denmark                                         
+Tel: (+45) 3159 6095
+Fax: (+45) 3155 9409
+E-mail: user@domain.com.dk
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<

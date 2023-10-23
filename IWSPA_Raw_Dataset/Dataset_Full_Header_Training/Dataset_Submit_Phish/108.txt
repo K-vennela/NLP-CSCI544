@@ -1,0 +1,70 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id 6B6AF468A5
+	for <user@domain.com>; Mon, 16 Mar 2015 19:15:30 -0400 (EDT)
+X-Greylist: delayed 400 seconds by postgrey-1.27 at domain.com; Mon, 16 Mar 2015 19:15:30 EDT
+Received: from domain.com (domain.com [128.121.64.70])
+	by domain.com (Postfix) with SMTP id 4BAB0131F716
+	for <user@domain.com>; Mon, 16 Mar 2015 19:15:30 -0400 (EDT)
+Received: from ca1-domain.com (128.121.64.105)
+	by domain.com (RS ver 1.0.95vs) with SMTP id 4-0319574929
+	for <user@domain.com>; Mon, 16 Mar 2015 19:08:49 -0400 (EDT)
+Received: from unknown [128.121.143.103] (EHLO mmm1405.sanjose14-domain.com)
+	by ca1-domain.com (mxl_mta-3.1.0-05)
+	with ESMTP id 10cdeb94.2653191072.263288.00-011.ca1-domain.com (envelope-from <user@domain.com>);
+	Mon, 16 Mar 2015 19:08:49 -0400 (EDT)
+Received: (qmail 43711 invoked from network); 16 Mar 2015 23:08:48 -0000
+Received: from unknown (HELO User) (mike@78.32.161.162)
+  by  with ESMTPA; 16 Mar 2015 23:08:48 -0000
+From: "Click and Buy"<clickasndbuy@click.com>
+Subject: Dear ClickandBuy customer,
+Date: Mon, 16 Mar 2015 23:08:48 -0000
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-Spam: [F=0.4983050848; S=0.200(2009020301); MH=0.798(2009031640)]
+X-MAIL-From: "Click and Buy"<clickasndbuy@click.com>
+X-SOURCE-IP: [128.121.143.103]
+To: undisclosed-recipients:;
+Message-ID: <20090316190849.user@domain.com>
+X-SF-Loop: 1
+Content-Length: 2015 
+Lines: 43
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1012
+
+
+
+
+March 16	, 2015 
+            Click and Buy System Update: Information Request
+
+Dear Click and Buy customer,
+
+Due to the last changes apperead on Click and Buy platform we need your 
+            assistance one more time for your security. 
+It appears that your 
+            Click and Buy account was inactive in the last week.
+
+You will have to confirm your informations once again so we can 
+            update our databases.
+
+All these measures are made concerning your security. Also 
+            there are inactive users wich doesn't use their Click and Buy accounts 
+            anymore and we need an active marketplace. 
+
+You have 2 days, until 05.59 PM - March 18, 2015 to confirm 
+            your informations.
+
+Make the 
+            confirmation now
+

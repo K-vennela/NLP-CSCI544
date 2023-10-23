@@ -1,0 +1,54 @@
+Date: Sun, 1 Jan 2006 21:28:08 -0700
+To: joos <joos@climate.unibe.ch>, rahmstorf@ozean-klima.de
+From: Jonathan Overpeck <user@domain.com>
+Subject: new climate model runs
+Cc: Eystein Jansen <eystein.jansen@geo.uib.no>,
+Keith Briffa <k.briffa@uea.ac.uk>
+X-UEA-Spam-Score: 0.0
+X-UEA-Spam-Level: /
+X-UEA-Spam-Flag: NO
+Happy New Year Stefan and Fortunat - just wanted to check in to see where things stand
+with the EMIC runs you were going to do for the revised Fig 6.10 - that is, with the new
+Lean solar forcing, and (where the published runs don't already exist) with the old Lean
+forcing. Again, the purpose of all this is to assess what difference the new solar
+forcing makes.
+Eystein and I are hoping that you've figured out the best experimental framework - e.g.,
+what other forcing series to use. It would be great if you used the same volcanic and
+trace gas series, if that is possible. I'm cc'ing this to Keith in the hope that he can
+help us make sure we're making the right decisions.
+Also, since Keith is going to be making the new figure comparing the range of obs
+climate over the last 1000 years to the range of simulated climate over the last 1000
+years (i.e., like the fig we showed in our second/Thursday plenary talk), it would be
+worth thinking if there is any way to scale the solar forcing over the entire last 1000
+years to Judith's new reduced-amplitude solar forcing. I'm not sure this is
+straightforward or not, but if it was possible, we'd have your new runs for inclusion in
+the new obs vs. simulated climate fig too - this would be helpful.
+In any case, the purpose of this email is just to see where we stand, and help keep
+things moving.
+Thanks, Peck
+--
+Jonathan T. Overpeck
+Director, Institute for the Study of Planet Earth
+Professor, Department of Geosciences
+Professor, Department of Atmospheric Sciences
+Mail and Fedex Address:
+Institute for the Study of Planet Earth
+715 N. Park Ave. 2nd Floor
+University of Arizona
+Tucson, AZ 85721
+direct tel: +1 520 622-9065
+fax: +1 520 792-8795
+[1]<<link>>
+[2]<<link>>
+--
+Professor Keith Briffa,
+Climatic Research Unit
+University of East Anglia
+Norwich, NR4 7TJ, U.K.
+Phone: +44-1603-593909
+Fax: +44-1603-507784
+[3]<<link>>
+References
+1. <<link>>
+2. <<link>>
+3. <<link>>

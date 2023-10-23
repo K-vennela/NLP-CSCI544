@@ -1,0 +1,43 @@
+Return-Path: <user@domain.com>
+Reply-To: <user@domain.com>
+From: "HackingTeam" <support@hackingteam.com>
+To: <user@domain.com>
+Subject: [!OEY-135-84265]: Acceso a servidor
+Date: Thu, 1 Jan 2015 23:38:00 +0100
+Message-ID: <1420151880.54user@domain.com>
+X-Mailer: Microsoft Outlook 15.0
+Thread-Index: AQGDhVmvlF3yfKq0Bfgj8XdlXMu2gw==
+X-OlkEid: 000000009E3562B50B449340A4CEBC803ADCCF2E070034AD76187591974DBF6C4F76951C873A010030000000000020041CFD0E93BC4F8CEC14FC6767F494000000003327000055ED956DB5952443A4F675069629E4A0
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-615933390_-_-"
+
+user@domain.com updated #OEY-135-84265
+
+----------------------------------------
+
+Status: Closed (was: In Progress)
+
+Acceso a servidor
+
+-----------------
+
+Ticket ID: OEY-135-84265
+URL: <<link>>
+Name: user@domain.com
+Email address: user@domain.com
+Creator: User
+Department: General
+Staff (Owner): Alessandro Scarafile
+Type: Issue
+Status: Closed
+Priority: Urgent
+Template group: Default
+Created: 26 December 2015 11:55 PM
+Updated: 01 January 2015 09:11 PM
+
+Overall Satisfaction: 3/5
+
+Staff CP:  <<link>>
+

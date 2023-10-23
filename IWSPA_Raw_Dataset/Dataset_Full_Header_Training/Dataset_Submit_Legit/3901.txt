@@ -1,0 +1,284 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Thu, 19 May
+ 2015 13:10:11 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Thu, 19 May 2015 
+ 13:10:08 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 924497008
+ for user@domain.com; Thu, 19 May 2015 12:10:19 -0500
+X-Note-AR-ScanTimeLocal: 5/19/2016 12:10:19 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @hillaryclinton.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->->->->United States->
+X-Note-Sending-IP: 209.85.192.199
+X-Note-Reverse-DNS: mail-pf0-domain.com
+X-Note-Return-Path: nationalpress2016+user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mail-pf0-domain.com ([209.85.192.199] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 141589553
+ for user@domain.com; Thu, 19 May 2015 12:10:19 -0500
+Received: by mail-pf0-domain.com with SMTP id 4sf168675955pfw.0
+        for <user@domain.com>; Thu, 19 May 2015 10:10:10 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=hillaryclinton.com; s=google;
+        h=mime-version:From: Hillary for America Press <press@hillaryclinton.com>
+         :x-original-authentication-results:precedence:mailing-list:list-id
+         :x-spam-checked-in-group:list-post:list-help:list-archive
+         :list-unsubscribe;
+        bh=7INmm0gW75RF74OOVVI9iJK3asdCSToSZU8kIteBSsk=;
+        b=S0Xx1hyWcVvoRxTLGEZSyfiasiMsFCuDpl16ksca5gBzkN3X8SiMC0TR2TWyD6G4Ok
+         KOXfZro49lCAlqESy9kK8+aKTOG7Bj32q6+domain.com
+         JNHdvEBTTQ5ojeICsnYlK8coOGKiAsmHj4Y6I=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:From: Hillary for America Press <press@hillaryclinton.com>
+         :x-original-sender:x-original-authentication-results:precedence
+         :mailing-list:list-id:x-spam-checked-in-group:list-post:list-help
+         :list-archive:list-unsubscribe;
+        bh=7INmm0gW75RF74OOVVI9iJK3asdCSToSZU8kIteBSsk=;
+        b=XeEbJrYdlHZfOnTDYa/xhmidh6PXouhjPIDQ9Q7y24m88OIr67O7EeBgfyahgY4NZA
+         gUe7geoJxnAKYA19iHje3HCq5/lLegd8aS75C+HpDsq0Wb/KLsRBDWaUf2NNJG0XbBWc
+         w1BjJk/Dn3K9MX1UCOwgmP2jpg6f1l0ohSDOO7b9vb5owwBk9kUpDDZBPR9oK539YUgR
+         NkX4zuEkmLLXVJ8LR6mOi1Ar4itnIWOSfgJ7EVsvsoHCT+mbGqMjDkuL62alInYzJeiq
+         OAAM1dd+Wwim85UYzW7E42ftRLEifp5yFLrs65XHUpCHtN2o1g7e+9pd4kmm6aDeYU8n
+         2P6w==
+X-Gm-Message-State: AOPr4FWaDg5FHDc2wgld1yuCMoWqv+9x4UJGLmQ49KWwtV69JsBbplRqAnT9TVvckCaHw+6j
+X-Received: by 10.66.152.203 with SMTP id va11mr25896481pab.19.1463677810289;
+        Thu, 19 May 2015 10:10:10 -0700 (PDT)
+X-BeenThere: user@domain.com
+Received: by 10.157.59.138 with SMTP id k10ls676208otc.21.gmail; Thu, 19 May
+ 2015 10:10:07 -0700 (PDT)
+X-Received: by 10.157.63.70 with SMTP id m64mr8944239otc.170.1463677807406;
+        Thu, 19 May 2015 10:10:07 -0700 (PDT)
+Received: from mail-oi0-domain.com (mail-oi0-domain.com.
+ [2607:f8b0:4003:c06::22a])        by domain.com with ESMTPS id
+ ru6si2302813oec.55.2016.05.19.10.10.07        for
+ <user@domain.com>        (version=TLS1_2
+ cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);        Thu, 19 May 2015 
+ 10:10:07 -0700 (PDT)
+Received-SPF: pass (domain.com: domain of user@domain.com designates 2607:f8b0:4003:c06::22a as permitted sender) client-ip=2607:f8b0:4003:c06::22a;
+Received: by mail-oi0-domain.com with SMTP id k142so139660098oib.1
+        for <user@domain.com>; Thu, 19 May 2015 10:10:07
+ -0700 (PDT)
+X-Received: by 10.157.40.43 with SMTP id m40mr9420176otb.23.1463677806820;
+ Thu, 19 May 2015 10:10:06 -0700 (PDT)
+Received: by 10.182.136.41 with HTTP; Thu, 19 May 2015 10:09:27 -0700 (PDT)
+From: Hillary for America Press <press@hillaryclinton.com>
+Date: Thu, 19 May 2015 13:09:27 -0400
+Message-ID: <user@domain.com>
+Subject: Four New Insights Into Why Donald Trump Refuses To Release His Tax Returns
+To: Hillary for America Press <user@domain.com>
+Content-Type: multipart/related; boundary="001a113dd6f6be608d0533350b9c"
+BCC: <user@domain.com>
+X-Original-Sender: user@domain.com
+X-Original-Authentication-Results: domain.com;       dkim=pass
+ user@domain.com;       spf=pass (domain.com: domain of
+ user@domain.com designates 2607:f8b0:4003:c06::22a as permitted
+ sender) user@domain.com;       dmarc=pass
+ (p=QUARANTINE dis=NONE) header.from=hillaryclinton.com
+Precedence: list
+Mailing-list: list user@domain.com; contact nationalpress2016+user@domain.com
+List-ID: <nationalpress2016.hillaryclinton.com>
+X-Spam-Checked-In-Group: user@domain.com
+X-Google-Group-Id: 5632930410
+List-Post: <<<link>>>,
+ <mailto:user@domain.com>
+List-Help: <<<link>>>,
+ <mailto:nationalpress2016+user@domain.com>
+List-Archive: <<<link>>>
+List-Unsubscribe: <mailto:googlegroups-manage+5632930410+user@domain.com>,
+ <<<link>>>
+Return-Path: nationalpress2016+user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+*[image: Inline image 1]*
+
+*Four New Insights Into Why Donald Trump Refuses To Release His Tax Returns=
+*
+
+Serious questions continue to be raised about why Donald Trump continues to
+refuse to release his tax returns, a basic public disclosure made by every
+Democratic and Republican presidential nominee for the past forty years.
+Yesterday, the mandatory release of Trump=E2=80=99s personal financial disc=
+losure
+offered new insights into what Trump could be hiding
+=E2=80=8B.
+
+=E2=80=8B=E2=80=8B
+Trump took 9/11 recovery funds, intended to help small businesses, and
+spent them on his ritzy property at 40 Wall Street - just one example of
+Trump using public funds for private gains.
+
+=E2=80=9CDonald Trump made a pretty penny off a program to help small busin=
+esses
+hurt by 9/11, one of many times where The Donald took advantage of
+government programs to save or make money off the taxpayer.
+
+=E2=80=98Trump is a welfare king who owes much of his fortune to the larges=
+se of
+taxpayers,=E2=80=99 said Johnston.=E2=80=9D [NYDN, 5/18/2016
+<<<link>>
+et-150g-payday-article-1.2641951>
+=E2=80=8B]
+
+=E2=80=8B=E2=80=8B
+Trump will go to any length to avoid paying taxes =E2=80=93 at least 36 tim=
+es, his
+unpaid bills forced the state of New York to take him to court, and he
+vastly undervalues his golf courses to local tax men.
+
+=E2=80=9CAs recently as last week, Trump said he was =E2=80=9Cwilling to pa=
+y more=E2=80=9D taxes
+personally and that =E2=80=9Ctaxes for the rich will go up somewhat=E2=80=
+=9D if he becomes
+president. But the lawsuits and other tax-related disputes show a different
+reality for his businesses. They illustrate a pattern of systematically
+disputing tax bills, arguing for lower property assessments, and in some
+cases not paying taxes until the government takes additional action.
+
+=E2=80=9CAt least three dozen times, Trump companies=E2=80=99 unpaid tax bi=
+lls have forced
+the New York State Department of Taxation and Finance to go to local courts
+to get liens against his properties to try to collect overdue bills. New
+Jersey also had to go to court for a lien to collect a Trump company=E2=80=
+=99s
+unpaid tax bill.=E2=80=9D [USA Today, 5/19/2016
+<<<link>>
+/>
+]
+
+=E2=80=9CWhen local governments try to tax Trump on his golf properties, he
+incredulously turns out his pockets, often claiming that his courses are
+worth far less than the estimates on his nomination filings.
+
+=E2=80=9CTrump and his subsidiaries have employed this tactic with at least=
+ six of
+his U.S. courses, according to town and county officials in numerous
+states. In at least one instance, the discrepancy between what Trump said a
+course would sell for when claiming to the public he=E2=80=99s worth =E2=80=
+=9CTEN BILLION
+DOLLARS=E2=80=9D and what he told local officials come tax time was at leas=
+t $48.6
+million, or 97% less.=E2=80=9D [Fortune, 5/17/2016
+<<<link>>
+golf-day/>
+]
+
+=E2=80=8B
+Trump may not be worth the $10 billion that he claims.
+
+=E2=80=9CThe new disclosure comes amid swirling questions about Trump=E2=80=
+=99s income and
+net worth. This week, he reiterated his past claim that he was worth more
+than $10 billion, although he has not provided independent evidence to back
+up the claim.=E2=80=9D [Washington Post, 5/19/2016
+<<<link>>
+or-president-financial-disclosures-show/2016/05/18/60adedb6-1d11-11e6-b6e0-=
+c53b7ef63b45_story.html>
+]
+
+=E2=80=8B
+Trump is making a =E2=80=9Cflood of cash=E2=80=9D from running for presiden=
+t.
+
+=E2=80=9CThe flood of cash highlights one of the most unusual aspects of Tr=
+ump=E2=80=99s
+candidacy =E2=80=94 the potential that a private businessman can domain.com
+financially from a run for the White House=E2=80=A6. The filing adds anothe=
+r
+chapter to the shifting story of Trump=E2=80=99s wealth.=E2=80=9D [Washingt=
+on Post,
+5/19/2016
+<<<link>>
+or-president-financial-disclosures-show/2016/05/18/60adedb6-1d11-11e6-b6e0-=
+c53b7ef63b45_story.html>
+]
+
+Read more:
+
+NYDN: Donald Trump used 9/11 funds program to net $150G payday
+<<<link>>
+et-150g-payday-article-1.2641951>
+
+Washington Post: Trump=E2=80=99s business booms as he runs for president, f=
+inancial
+disclosures show
+<<<link>>
+or-president-financial-disclosures-show/2016/05/18/60adedb6-1d11-11e6-b6e0-=
+c53b7ef63b45_story.html>
+
+USA Today: Trump's tax trouble: More than 100 lawsuits, disputes, tied to
+companies
+<<<link>>
+or-president-financial-disclosures-show/2016/05/18/60adedb6-1d11-11e6-b6e0-=
+c53b7ef63b45_story.html>
+
+People Magazine: Clinton and Trump Disclose Finances, Revealing Huuuuge
+Disparity in Their Multi-Million-Dollar Incomes
+<<<link>>
+es>
+
+New York Times: Details on Donald Trump=E2=80=99s Finances Are Released, bu=
+t Net
+Worth Is Unclear
+<<<link>>
+=3Dtodayspaper>
+
+Politico: How Much is Donald Trump Really Worth?
+<<<link>>>
+
+CNN: Trump wants to see VP's tax returns, but won't share his
+<<<link>>
+dent/index.html>
+
+Fortune: This Could Be the Missing Piece in Solving Donald Trump's
+Financial Puzzle <<<link>>
+
+Yahoo: Donald Trump is becoming Wall Street=E2=80=99s best friend
+<<<link>>
+1&ved=3D0ahUKEwj6l6_Oy-bMAhXH2D4KHQBLC7AQqQIIHjAA&url=3Dhttp%3A%2F%2Ffinanc=
+domain.com%2Fnews%2Fdonald-trump-is-becoming-wall-street-s-best-friend-152=
+323629.html&usg=3DAFQjCNGaOLok4n77fZ7w6b6Lpb3jrqFC6w>
+
+USA Today: Trump releases financial statement; Clinton seeks his tax
+returns
+<<<link>>
+1&ved=3D0ahUKEwjTnuHoy-bMAhWMbD4KHXFvAOwQqQIIHjAA&url=3Dhttp%3A%2F%2Fwww.us=
+domain.com%2Fstory%2Fnews%2Fpolitics%2Fonpolitics%2F2016%2F05%2F18%2Fdonald=
+-trump-hillary-clinton-bernie-sanders-financial-statememts%2F84532858%2F&us=
+g=3DAFQjCNH30bwEVZWwB2Kyq8nT4LeEjbcepQ>
+
+<<<link>>
+1&ved=3D0ahUKEwjTnuHoy-bMAhWMbD4KHXFvAOwQqQIIHjAA&url=3Dhttp%3A%2F%2Fwww.us=
+domain.com%2Fstory%2Fnews%2Fpolitics%2Fonpolitics%2F2016%2F05%2F18%2Fdonald=
+-trump-hillary-clinton-bernie-sanders-financial-statememts%2F84532858%2F&us=
+g=3DAFQjCNH30bwEVZWwB2Kyq8nT4LeEjbcepQ>
+
+###
+
+For Immediate Release, May 19, 2015 
+Contact: user@domain.com
+
+PAID FOR BY HILLARY FOR AMERICA
+Contributions or gifts to Hillary for America are not tax deductible.
+Hillary for America, PO Box 5256, New York
+
+--=20
+You received this message because you are subscribed to the Google Groups "=
+NationalPress2016" group.
+To unsubscribe from this group and stop receiving emails from it, send an e=
+mail to nationalpress2016+user@domain.com

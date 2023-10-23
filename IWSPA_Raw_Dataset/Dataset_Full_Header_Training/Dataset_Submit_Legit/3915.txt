@@ -1,0 +1,76 @@
+Received: from domain.com (146.215.230.105) by
+ domain.com (43.130.141.78) with Microsoft SMTP Server id
+ 8.3.342.0; Thu, 24 Jul 2015 14:34:32 -0700
+Received: from domain.com ([160.33.194.228])	by
+ domain.com (Sentrion-MTA-4.3.1/Sentrion-MTA-4.2.2) with
+ ESMTP id s6OLYVbI028174	for <user@domain.com>; Thu, 24 Jul 2015 
+ 21:34:31 GMT
+Received: from na01-bn1-domain.com
+ (mail-domain.com [207.46.163.188])	by
+ domain.com (Sentrion-MTA-4.3.1/Sentrion-MTA-4.2.2) with
+ ESMTP id s6OLWnQq009109	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128
+ verify=FAIL)	for <user@domain.com>; Thu, 24 Jul 2015 21:32:49 GMT
+Received: from BN1BFFO11FD060.protection.gbl (10.58.144.32) by
+ BN1BFFO11HUB023.protection.gbl (10.58.144.170) with Microsoft SMTP Server
+ (TLS) id 15.0.980.11; Thu, 24 Jul 2015 21:34:25 +0000
+Received: from mx-justfab-domain.com (192.64.237.157) by
+ domain.com (10.58.145.15) with Microsoft SMTP
+ Server id 15.0.980.11 via Frontend Transport; Thu, 24 Jul 2015 21:34:25 +0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; s=mt; d=domain.com;
+ h=Date:From: Deadline.com <alerts@deadline.com>
+ bh=vEawal2B2y8gNsZ6BuMA9Si7Ju0=;
+ b=OZujf8SXSEnq8tCaj7qHdcoB6xlEfcHXrQbbnrFWMIPQn1hrQkSQCG+wYAmXGRE/c/pkaSl1yunL
+   jMVy1bje5is5dgqn802VXh7THpPCgDIbIukJRbL5EwOxIiXuAzey8hiXfBGj8MXdcRPX+OyDm02z
+   L8BYprQqfjGM/39T2T8=
+Received: from nyp1-p-p4128-prd-jma-03.sailthru.pvt (64.34.57.232) by
+ mx-justfab-domain.com id hq5tus1qqbs7 for <user@domain.com>; Thu,
+ 24 Jul 2015 17:31:30 -0400 (envelope-from <user@domain.com>)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1406237478;
+	s=sailthru; d=deadline.com;
+	h=Date:From: Deadline.com <alerts@deadline.com>
+	bh=1Yl7BdXF+KPpk7rVozbsuEBZGtfQ5wQvTIbLUNCbeOc=;
+	b=UW4cOXE1hCkWlwX4LNofRwjsCAtQFdzn50IbsYKyTHKorL0LNT4ar/M3iVWRnjVQ
+	XQLqH3MEUhTT4w3L7O2bpraVdFHfrEkMJAUfqkXNGUGSiN3afmmR5HRVnAGiYd+HfFr
+	qJVjiO7inxQYzqApJHpVGDmzB3XNhZNij4PtpOo4=
+Date: Thu, 24 Jul 2015 17:31:18 -0400
+From: Deadline.com <alerts@deadline.com>
+To: <user@domain.com>
+Message-ID: <20140724213118.2855576.2567@domain.com>
+Subject: [domain.com] Does Time Warner Need CBS To Thwart A Fox Takeover?
+Precedence: bulk
+X-TM-ID: 20140724213118.2855576.2567
+X-Info: Message sent by domain.com customer Deadline
+X-Info: We do not domain.com unsolicited commercial email
+X-Info: Please report abuse by forwarding complete headers to
+X-Info: user@domain.com
+X-Mailer: domain.com
+X-JMailer: nyp1-p-p4128-prd-jma-03.sailthru.pvt
+X-IADB-IP: 65.39.215.25
+X-IADB-IP-REVERSE: 25.215.39.65
+X-IADB-URL: <<link>>
+X-Unsubscribe-Web: <<link>>
+List-Unsubscribe: <<<link>>>,
+ <mailto:user@domain.com>
+X-rpcampaign: stdgp2855576
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: 
+ UriScan:(133331);SFV:NSPM;SFS:(199002)(189002)(18804003)(87836001)(87286001)(92566001)(104166001)(101416001)(47976999)(89996001)(19580395003)(69596002)(50986999)(110146005)(19619215002)(15975445006)(93916002)(46102001)(62966002)(99396002)(2009002)(15202345003)(102836001)(81342001)(85852003)(19618635001)(76482001)(19580405001)(83322001)(84326002)(92726001)(44976005)(31966008)(575784001)(18206015026)(77156001)(83072002)(19300405004)(77982001)(88136002)(74502001)(104016003)(959005)(106476002)(110136001)(85306003)(4396001)(21056001)(15187005004)(36756003)(50226001)(53416004)(71186001)(20776003)(81542001)(74662001)(18926405002)(79102001)(106996001)(95736001)(229853001)(77096002)(81156004)(107046002)(80022001)(105586002)(106466001)(2361001)(19617315012)(107886001)(106356001)(146001)(64706001)(2351001)(956001)(110126003)(105646008)(85226002)(17308445002)(562404015)(94166001);DIR:INB;SFP:;SCL:1;SRVR:BN1BFFO11HUB023;H:mx-justfab-domain.com;FPR:;MLV:ovr;PTR:InfoNoRecords;A:1;MX:1!
+ ;LANG:en;
+X-Microsoft-Antispam: BCL:0;PCL:0;RULEID:(120001)
+Return-Path: user@domain.com
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+<<link>> 
+
+<<link>> 
+
+        Deadline Hollywood has posted urgent news:              
+
+        Does Time Warner Need CBS To Thwart A Fox Takeover?             
+
+        For all of Deadline's headlines, follow us @Deadline on Twitter.                
+
+This email was sent to user@domain.com by Deadline. To ensure delivery to your inbox (and not your spam folder), please add user@domain.com to your address book. If you prefer not to continue receiving email communications, ple

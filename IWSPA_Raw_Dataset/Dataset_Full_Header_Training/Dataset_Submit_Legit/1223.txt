@@ -1,0 +1,211 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Mon, 2 May
+ 2015 17:49:29 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Mon, 2 May 2015 
+ 17:49:25 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 892261724
+ for user@domain.com; Mon, 02 May 2015 16:49:29 -0500
+X-Note-AR-ScanTimeLocal: 5/2/2016 4:49:27 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:69.25.174.189 DOM:toyota.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note: ICH-CT/SI:0-10062/SG:13 5/2/2016 4:47:51 PM
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-1984/SG:32 5/2/2016 4:47:53 PM
+X-GBUdb-Analysis: 0, 69.25.174.189, Ugly c=0.548034 p=-0.784314 Source Normal
+X-Signature-Violations: 0-0-0-32767-c
+X-Note-419: 31.2483 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/2/2016 4:49:14 PM
+X-Warn: SPANISH-CHR
+X-Note: Spam Tests Failed: SPANISH-CHR
+X-Country-Path: United States->->United States->PRIVATE->PRIVATE->PRIVATE->United States->
+X-Note-Sending-IP: 69.25.174.189
+X-Note-Reverse-DNS: 
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G349 G406 G418 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from pandora.toyota.com ([69.25.174.189] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 136605854
+ for user@domain.com; Mon, 02 May 2015 16:49:27 -0500
+Received: from vpadlpp05.tms.toyota.com (vpadlpp05.tms.toyota.com
+ [10.52.8.34])	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))	(No
+ client certificate requested)	by pandora.toyota.com (Postfix) with ESMTPS id
+ EA8E51118C7C	for <user@domain.com>; Mon,  2 May 2015 14:49:24 -0700 (PDT)
+X-DKIM: Sendmail DKIM Filter v2.7.2 pandora.toyota.com EA8E51118C7C
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=toyota.com; s=default;
+	t=1462225764; bh=kn8s1VMCYx9M0HbtIh7/OiKO9Nf9Z8PMRiiy+uQp+60=;
+	h=From: User Rosero <User.rosero@toyota.com>
+	 Content-Type:MIME-Version; b=YASsaYcoL3E+rbMsa/VYIz9FVdY3ai2CMPZjD
+	4VKg9pq7TFbnEDii62u0HAEr7iLn9EkoHGOCHXxl4TDN016KhkTTVExXxIZw/1/uf6P
+	sXP+fEK7vqCg7NCBBoe1U65yCu75JMyAr4iNekmez4NxwQUKumGHZF2YMsinAz2Z+GQ
+	=
+Received: from vpadlpp04.tms.toyota.com (vpadlpp04.tms.toyota.com
+ [10.52.8.33]) by vpadlpp05.tms.toyota.com (RSA Interceptor) for
+ <user@domain.com>; Mon, 2 May 2015 17:49:24 -0400
+Received: from vtlifsp16.tms.toyota.com (vtlifsp16.tms.toyota.com
+ [10.49.8.47]) by vpadlpp04.tms.toyota.com (RSA Interceptor) for
+ <user@domain.com>; Mon, 2 May 2015 14:49:09 -0700
+Received: from 059-smtp-out.toyota.com (unknown [141.251.79.213])	by
+ vtlifsp16.tms.toyota.com (Postfix) with ESMTP id A1ACB1EC0D20	for
+ <user@domain.com>; Mon,  2 May 2015 14:48:53 -0700 (PDT)
+Received: from domain.com (141.251.79.213) by
+ domain.com (141.251.79.213) with Microsoft SMTP Server
+ (TLS) id 15.1.485.9; Mon, 2 May 2015 21:48:40 +0000
+Received: from domain.com ([141.251.79.213]) by
+ domain.com ([141.251.79.213]) with mapi id
+ 15.01.0485.011; Mon, 2 May 2015 21:48:40 +0000
+From: User Rosero <User.rosero@toyota.com>
+To: "User" <user@domain.com>
+Subject: Hacr info 
+Thread-Topic: Hacr info 
+Thread-Index: AQHRpLxjcgnhNqMbLkOEczipItNLsg==
+Date: Mon, 2 May 2015 21:48:40 +0000
+Message-ID: <99user@domain.com>
+References: <0652724728748141user@domain.com>
+In-Reply-To: <0652724728748141user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+x-ms-office365-filtering-correlation-id: 725b939f-32e8-42af-4202-08d372d3861b
+Content-Type: multipart/related;
+	boundary="_016_99BA8E669F7C44248C1E9C64B95AA240toyotacom_";
+	type="multipart/alternative"
+X-RSA-Inspected: yes
+X-RSA-Classifications: Toyota Vehicle Ignition Key Codes ~ Regex, public
+X-RSA-Action: allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+@HACRORG<<<link>>>
+Why support HACR?<<<link>>>
+
+[2016 SYMP]<<<link>>
+r-of-hispanic-inclusion-/event-summary-aa7c7387e50f4a77ada66665efb8d46f.asp=
+x>
+
+[Facebook]<<<link>>> [Twitter] <<<link>>
+com/HACRORG>  [Linkedin] <<<link>>
+h&trkInfo=3Dtas:HACR%20-%20,idx:1-1-1>  [Youtube] <<<link>>
+ser/hacrchannel> [=93HACR30"] <<<link>>>
+
+Disclaimer
+
+All material included in this email is the property of HACR, its subsidiari=
+es, affiliated companies and/or third-party licensors and is protected by c=
+opyright laws. Modification or use of the Content except as expressly provi=
+ded by HACR violates HACR=92s intellectual property rights. Any use of the =
+Content shall attribute HACR as the source and copyright holder.
+
+From: User Rosero <User.rosero@toyota.com>
+Sent: Thursday, April 28, 2015 5:27 PM
+To: Elia Quintana <user@domain.com<mailto:user@domain.com>>
+Cc: Cid Wilson <user@domain.com<mailto:user@domain.com>>; Yariany Perez-N=
+ieto (user@domain.com<mailto:user@domain.com>) <user@domain.com=
+org<mailto:user@domain.com>>
+Subject: HACR 24th Annual Symposium Highlights
+
+Dear HACR Corporate Member:
+
+We are just days away from our HACR 24th Annual Symposium and 30th Annivers=
+ary Gala taking place at the Mandarin Oriental in Washington, DC. Below are=
+ just a few highlights of the major events taking place at this year=92s sy=
+mposium.
+
+HACR Corporate Members Breakfast =96 Monday, May 2nd at 8am in Room Orienta=
+l B/C:  We kick-off the HACR 24th Annual Symposium with a corporate member =
+breakfast where Cid Wilson, President & CEO of HACR, will give organization=
+ updates, a full-year recap and a summary of 2016-2017 initiatives.
+
+HACR Symposium Lunch =96 Monday, May 2nd at 12pm in Room Oriental B/C
+Be sure to catch a keynote speech by Lorna Donatone, CEO of Schools Worldwi=
+de and President of
+Sodexo North America.
+
+HACR Young Hispanic Corporate Achievers=99 Awards Reception =96 Monday, May=
+ 2nd at 6pm in Room Oriental B/C: This is the annual reception where awards=
+ are given to the Young Hispanic Corporate Achievers=99 (YHCA) Class of 201=
+6. This is a special year as we celebrate 10 years of the YHCA program. We =
+invite everyone to attend as we recognize the awardees, many of whom are br=
+inging their families to attend the ceremony.
+
+HACR Symposium Lunch =96 Tuesday, May 3rd at 12pm in Room Oriental B/C:  Th=
+is year we are excited to have U.S. Secretary of Labor Tom Perez deliver th=
+e keynote speech at Tuesday=92s luncheon.
+
+HACR 10th Annual CEO Roundtable =96 Tuesday, May 3rd at 3:15pm in Room Orie=
+ntal B/C:  The CEO Roundtable is the flagship event of HACR=92s Symposium. =
+We have a great line-up this year with Target Chairman and CEO Brian Cornel=
+l, MassMutual President and CEO Roger Crandall, The Home Depot Chairman, Pr=
+esident, and CEO Craig Menear, and Northern Trust Chairman and CEO Frederic=
+k Waddell. The event, hosted by Target will be moderated by Telemundo 39 Da=
+llas Anchor Norma Garc=EDa.
+
+HACR 30th Anniversary Gala Celebration =96 Tuesday, May 3rd at 6pm in the G=
+rand Ballroom:  We are planning for a special night in celebration of HACR=
+=92s 30th Anniversary. The 30th Anniversary Gala requires a separate ticket=
+ not included in your symposium registration. For ticket information please=
+ click here<<<link>>
+r-of-hispanic-inclusion-/event-summary-aa7c7387e50f4a77ada66665efb8d46f.asp=
+x>. The attire for this year=92s gala will be white tie. It is suggested th=
+at women wear white/light colored or black dresses, and men wear tuxedo=92s=
+ with a white or black tie.
+
+For more information on HACR=92s annual programs, including registration an=
+d gala tickets, click here<<<link>>
+posium-the-power-of-hispanic-inclusion-/event-summary-aa7c7387e50f4a77ada66=
+665efb8d46f.aspx>. For up-to-the-minute updates follow HACR on social media=
+ by liking us on Facebook<<<link>>>, connecting w=
+ith us on LinkedIn<<<link>>
+5hQGdtYWlsLmNvbQ/aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvMTAxNzIwMT90cm=
+s9dHlhaCMhIyE/167/0>, following us on Twitter<<<link>>
+A/MTE1Ng/0/0/ZWxpYXF1aW50YW5hQGdtYWlsLmNvbQ/aHR0cHM6Ly90d2l0dGVyLmNvbS9IQUN=
+ST1JHIyEjIQ/167/0>, and viewing videos on YouTube<<<link>>
+DQ0MA/MTE1Ng/0/0/ZWxpYXF1aW50YW5hQGdtYWlsLmNvbQ/aHR0cDovL3d3dy55b3V0dWJlLmN=
+vbS9IQUNSQ0hBTk5FTCMhIyE/167/0> and downloading the HACR mobile app. Share =
+and post your pictures using hashtags #HACR2016 and #HACR30.
+
+If you have any questions, please feel free to contact me directly. Thank y=
+ou for your support and we look forward to seeing you in a few days.
+
+All My Best,
+
+Elia Quintana
+Director Corporate Development
+Hispanic Association on Corporate Responsibility
+[<<link>>]
+1220 L Street NW Suite 701 / Washington, D.C. 20005
+Direct: (202) 682-4013 / domain.com<<<link>>> / @HACRORG<http=
+://domain.com/@HACRORG>
+
+Why support HACR?<<<link>>>
+
+[2016 SYMP]<<<link>>
+r-of-hispanic-inclusion-/event-summary-aa7c7387e50f4a77ada66665efb8d46f.asp=
+x>
+
+[Facebook]<<<link>>> [Twitter] <<<link>>
+com/HACRORG>  [Linkedin] <<<link>>
+h&trkInfo=3Dtas:HACR%20-%20,idx:1-1-1>  [Youtube] <<<link>>
+ser/hacrchannel> [=93HACR30"] <<<link>>>
+
+Disclaimer
+
+All material included in this email is the property of HACR, its subsidiari=
+es, affiliated companies and/or third-party licensors and is protected by c=
+opyright laws. Modification or use of the Content except as expressly provi=
+ded by HACR violates HACR=92s intellectual property rights. Any use of the =
+Content shall attribute HACR as the source and copyright holder.
+

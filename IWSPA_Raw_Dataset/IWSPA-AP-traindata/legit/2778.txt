@@ -1,0 +1,367 @@
+@media only screen and=
+(max-width: 730px) {                 .leaderboard {                     di=
+splay: none !important;                 }                 * {              =
+-webkit-text-size-adjust: none;                 }                 bo=
+dy {                     min-width: 100% !important;                 }     =
+table[id=3Dwrapper], table[class=3Dad_group], table[id=3Dwrappe=
+r] .intro, table[id=3Dwrapper] .divide {                     width: 100% !i=
+mportant;                 }                 #brief {                     fl=
+oat: none !important;                     width: 100% !important;          =
+}                 .ad_group {                     display: block !im=
+portant;                     padding-left: 10px;                 }         =
+div[class=3Dad] {                     margin: auto !important;     =
+padding-top: 0 !important;                     padding-left=
+: 0 !important;                     display: block !important;             =
+width: 100% !important;                 }                 table td[=
+class=3Dnumber] {                   display: none !important;              =
+}             }                  Bloomberg Politics Daily               =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+SIGN UP                              =
+=
+=
+=
+=
+=
+=
+=
+The Brief                           =
+=
+=
+=C2=A0                            =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+Donald Trump=E2=
+=80=99s Dodd-Frank plan will be early test of Republican unity             =
+=
+=
+=
+The presumptive GOP presidenti=
+al nominee says he=E2=80=99ll deliver a plan in the next two weeks to rewri=
+te the Dodd-Frank law. Around the same time, the House Financial Services c=
+hairman is promising to make his own.                                      =
+=
+=
+=
+=
+=
+=
+=
+=
+=C2=A0                                                       =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+Sha=
+dow banks Hillary Clinton flags as risky put millions into her run         =
+=
+=
+=
+The Democratic front-runne=
+r has vowed to be tougher on Wall Street than any other candidate, but that=
+hasn=E2=80=99t stopped the financial industry from sending her cash.      =
+=
+=
+=
+=
+=
+=
+=
+=
+=C2=A0                       =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+Senate candidates spending big on TV ads in th=
+e year of Trump                                                            =
+=
+=
+Wi=
+th many donors uncertain whether to donate to the billionaire, their focus =
+is turning to down-ballot races.                                           =
+=
+=
+=
+=
+=
+=
+=
+=
+=C2=A0                                                            =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=E2=80=9CKeeping him on the sidelines is not an =
+option. The hits are coming=E2=80=94they are just going to have to deal wit=
+h it.=E2=80=9D                                                             =
+=
+=
+=
+=
+=
+=E2=80=94 Democratic strategist Jim Manley on Bill Clinton                 =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=C2=A0                                       =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+Trump goes conventiona=
+l with conservative Supreme Court list                                     =
+=
+=
+=
+The unorthodox candidate turned out to be a pretty typ=
+ical Republican when it comes to the nation=E2=80=99s highest court.       =
+=
+=
+=
+=
+=
+=
+=
+=
+=C2=A0                        =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+Trump invested in outsourcing companies he deno=
+unced in campaign                                                          =
+=
+=
+=
+The mogul has been tough on American companies that have moved jobs to othe=
+r countries even as he invested in some he called out.                     =
+=
+=
+=
+=
+=
+=
+=
+=
+=C2=A0                                      =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+All the things that Donald Trump is not (VIDEO)              =
+=
+=
+=
+We=E2=80=99ve heard a lot about=
+everything that Donald Trump is. But he=E2=80=99s also NOT a lot of things=
+.                                                                          =
+=
+=
+=
+=
+=
+=
+=
+=C2=A0                =
+=
+=
+=
+=
+=
+=
+=
+=C2=A0      =
+=
+Catch =E2=80=9CWith All Due Respect=E2=80=
+=9D on Bloomberg TV and BloombergPolitics.com weekdays at 5 p.m. ET.       =
+=
+=C2=A0                                   =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=C2=A0                                                           =
+=
+=
+=
+=
+=
+=
+Follo=
+w us:                                                                      =
+=
+=
+=
+=
+=C2=A0 =
+=
+=
+For press inquiries, plea=
+se contact Emma Angerer user@domain.com, 202-654-4332               =
+=
+=
+=C2=A0                                     =
+=
+You received this message because you are subscribed to the Bloomberg P=
+olitics Daily newsletter.                                                  =
+=C2=A0    =
+=
+=C2=A0                                 =
+=
+Unsubscribe | BloombergPolitics.com | Contact Us                    =
+=
+Bloomberg L.P. 731 Lexington, New York, NY, 10022     =
+=
+<a href=
+=3D"<<link>>
+y5tYWlsLmJsb29tYmVyZ3BvbGl0aWNzLmNvbSI/5620642517893f007f8b4d8aBcf67ce4c><i=
+mg src=3D"<<link>>
+8a40s1a.2e4/283b2841.gif" alt=3D"" border=3D"0" /></a>                     =
+=20
+If you believe this has been sent to you in error, please click <<<link>>
+k.mail.bloombergpolitics.com/oc/5620642517893f007f8b4d8a40s1a.2e4/06d26b5c>=
+to safely unsubscribe.

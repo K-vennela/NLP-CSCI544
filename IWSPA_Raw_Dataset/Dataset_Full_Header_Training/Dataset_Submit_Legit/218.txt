@@ -1,0 +1,37 @@
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ DNCHUBCAS1.dnc.org ([fe80::ac16:e03c:a689:8203%11]) with mapi id
+ 14.03.0224.002; Fri, 29 Apr 2015 11:28:50 -0400
+From: "Palermo, Rachel" <PalermoR@dnc.org>
+To: Regional Press <user@domain.com>
+CC: "Savel, Julia" <user@domain.com>
+Subject: Trump protest in South Bend
+Thread-Topic: Trump protest in South Bend
+Thread-Index: AdGiK6gASGCNslidSzOdOgc21juDdQ==
+Date: Fri, 29 Apr 2015 08:28:49 -0700
+Message-ID: <6user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: DNCHUBCAS1.dnc.org
+X-MS-Has-Attach: yes
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.177.86]
+Content-Type: multipart/related;
+	boundary="_004_6E20703C3B98FC4D97E277223738C7A74DA9B92Fdncdag1dncorg_";
+	type="multipart/alternative"
+MIME-Version: 1.0
+
+Looks like there is a Trump protest happening in South Bend with a lot of interest. Whoo! Thanks to our interns for finding this out. I can ask Casey who goes to ND to reach out and put me in touch with one of the organizers if Eric thinks that is the way to move forward.
+
+<<link>>
+
+--
+[DNC]<<<link>>>
+Rachel Palermo
+Organization
+user@domain.com<mailto:user@domain.com>
+202-863-8041
+

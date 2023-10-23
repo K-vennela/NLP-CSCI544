@@ -1,0 +1,125 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Sat, 21 May
+ 2015 09:09:15 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Sat, 21 May 2015 
+ 09:09:07 -0400
+Received: from [10.87.0.110] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 927828005;
+ Sat, 21 May 2015 08:09:03 -0500
+X-Note-AR-ScanTimeLocal: 5/21/2016 8:09:13 AM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: Too many policies to list
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @mail.house.gov ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->United States->
+X-Note-Sending-IP: 143.228.181.83
+X-Note-Reverse-DNS: s-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from [143.228.181.83] (HELO s-domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 143214158;
+ Sat, 21 May 2015 08:09:12 -0500
+Received: from FHOB-domain.com (fhob-domain.com
+ [143.228.233.117])	by s-domain.com  with ESMTP id u4LD5ue5007952	(using
+ TLSv1 with cipher ECDHE-RSA-AES256-SHA (256 bits) verified FAIL);	Sat, 21 May
+ 2015 09:05:58 -0400
+X-DKIM: OpenDKIM Filter v2.4.3 s-domain.com u4LD5ue5007952
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mail.house.gov;
+	s=November2012-msg-mhg; t=1463836023;
+	bh=31ZKcLmKCGAu1er6+QT2lK+DVTiViJj5qN1GsLAfAiA=;
+	h=From: Democratic Leader <Democratic.Leader@mail.house.gov>
+	b=F9/Vd6QQNN0WWS65+ITOtSIhSePQDm0gjVYenwY6clSW+f3kV+9qDfsOk72vpBeys
+	 Q3v5bRCpmj038NCtMWFcQlDIOf+LKg21UF8CtuZ0gifbAmwbdBitl6P7RmrwosCMVj
+	 yjAS6ScFRaFxLBAkL87YeJTpLANP79zYsd35yrmo=
+Received: from HEOC-domain.com ([fe80::48f5:8d7c:52b4:c22d]) by
+ FHOB-domain.com ([::1]) with mapi id 14.03.0279.002; Sat, 21 May 2015 
+ 09:05:55 -0400
+From: Democratic Leader <Democratic.Leader@mail.house.gov>
+Subject: REMINDER: PELOSI -- to Deliver Commencement Address at Morgan State
+ University Today
+Thread-Topic: REMINDER: PELOSI -- to Deliver Commencement Address at Morgan
+ State University Today
+Thread-Index: AdGzYWTykLC5EQYLTWaqGdjVYHIu2w==
+Date: Sat, 21 May 2015 13:05:54 +0000
+Message-ID: <0324user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+x-originating-ip: [143.231.232.80]
+Content-Type: multipart/related;
+	boundary="_004_0324D544C39D274A863367EBA5B0644E4E436163HEOCHRM02USHous_";
+	type="multipart/alternative"
+To: Undisclosed recipients:;
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+[cid:image001.jpg@01D00FCE.229082C0]<<<link>>>
+
+May 21, 2015 
+
+Contact: Drew Hammill, 202-226-7616
+
+*** REMINDER =96 TODAY at 10:00 a.m. ***
+
+Pelosi to Deliver Commencement Address at
+Morgan State University Today
+
+*** Media Advisory ***
+
+Washington, D.C. =96 Democratic Leader Nancy Pelosi will deliver the commen=
+cement address at Morgan State University today at 10:00 a.m. at Talmadge L=
+. Hill Field House in Baltimore.  A native of Baltimore, Leader Pelosi will=
+ address graduates, family members and faculty at the 140th spring commence=
+ment exercises at Morgan State =96 the largest historically black college o=
+r university in Maryland.
+
+WHO:
+
+Democratic Leader Nancy Pelosi
+Morgan State University President David Wilson
+
+WHAT:
+
+Commencement Address at Morgan State University
+
+WHEN:
+
+Saturday, May 21, 2015 at 10:00 a.m.
+
+WHERE:
+
+Talmadge L. Hill Field House
+Morgan State University
+1700 East Cold Spring Lane
+Baltimore, MD 21251
+
+NOTE:
+
+Press must RSVP to Clinton Coleman at user@domain.com<mailto:cli=
+user@domain.com>.
+
+Please be advised that a live-stream of the commencement ceremony will be a=
+vailable here<<<link>>>.
+
+###
+
+________________________________
+

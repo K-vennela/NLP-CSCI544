@@ -1,0 +1,105 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [10.5.6.7])
+	by domain.com (Postfix) with ESMTP id 7A323469C4
+	for <user@domain.com>; Fri,  9 Jun 2015 00:32:27 -0400 (EDT)
+Received: from 80.208.146.131 (unknown [80.208.146.131])
+	by domain.com (Postfix) with SMTP id 4500C6CD0F0
+	for <user@domain.com>; Fri,  9 Jun 2015 00:32:25 -0400 (EDT)
+Received: from 188.103.248.27 by ; Fri, 09 Jun 2015 01:40:24 -0400
+Message-ID: <user@domain.com>
+From: "Paypal Security" <security@paypal.com>
+Reply-To: "User" <user@domain.com>
+To: user@domain.com
+Subject: Avoid Temporary Suspension
+Date: Fri, 09 Jun 2015 02:35:24 -0300
+X-Mailer: Microsoft Outlook Express 5.50.4522.1200
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--0635912334781735542"
+X-Priority: 3
+X-MSMail-Priority: Normal
+Status: R
+X-Status: 
+X-Keywords: 
+
+PayPal is committed to maintaining a safe env=
+ironment for 
+    its community of customers. To protect the security of your account, P=
+ayPal 
+    employs some of the most advanced security systems in the world and ou=
+r 
+    anti-fraud teams regularly screen the PayPal system for unusual activi=
+ty.
+
+
+
+    We are contacting you to remind you that on June 8 2015 our Account Re=
+view 
+    Team identified some unusual activity in your account. In accordance w=
+ith 
+    PayPal's User Agreement and to ensure that your account has not been 
+    compromised, access to your account was limited. Your account access w=
+ill 
+    remain limited until this issue has been resolved.
+
+
+
+    To secure your account and quickly restore full access, we may require=
+ some 
+    additional information from you for the following reason:
+
+
+
+    We have been notified that a card associated with your account has bee=
+n 
+    reported as lost or stolen, or that there were additional problems wit=
+h your 
+    card.
+
+
+
+    This process is mandatory, and if not completed within the nearest tim=
+e your 
+    account or domain.com card may be subject for temporary suspension. 
+  =
+
+
+
+    To securely confirm your PayPal information please click on the link b=
+ellow:
+
+
+
+<<link>>
+bscr?cmd=3D_login-run
+
+
+
+
+    We encourage you to log in and perform the steps necessary to restore =
+your 
+    account access as soon as possible. Allowing your account access to re=
+main 
+    limited for an extended period of time may result in further limitatio=
+ns on 
+    the use of your account and possible account closure.
+
+
+
+    For more information about how to protect your account please domain.com Pa=
+yPal 
+    Security Center. We apologize for any incovenience this may cause, and=
+ we 
+    apriciate your assistance in helping us to maintain the integrity of t=
+he 
+    entire PayPal system.
+
+
+
+    Thank you for using PayPal!
+
+    The PayPal Team
+
+

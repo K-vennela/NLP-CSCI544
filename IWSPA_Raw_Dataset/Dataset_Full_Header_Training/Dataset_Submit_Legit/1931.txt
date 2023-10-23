@@ -1,0 +1,187 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 26 Apr
+ 2015 14:40:51 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 26 Apr 2015 
+ 14:40:46 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 881089793
+ for user@domain.com; Tue, 26 Apr 2015 13:40:52 -0500
+X-Note-AR-ScanTimeLocal: 4/26/2016 1:40:51 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:207.46.100.114 DOM:mesirowfinancial.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note: ICH-CT/SI:0-763/SG:1 4/26/2016 1:40:11 PM
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-496/SG:8 4/26/2016 1:40:11 PM
+X-GBUdb-Analysis: 0, 207.46.100.114, Ugly c=0.757473 p=-0.944766 Source White
+X-Signature-Violations: 0-0-0-32767-c
+X-Note-419: 15.6238 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 4/26/2016 1:40:52 PM
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->PRIVATE->LOCAL->->->->United States->
+X-Note-Sending-IP: 207.46.100.114
+X-Note-Reverse-DNS: mail-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G406 G418 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from [207.46.100.114] (HELO
+ na01-by2-domain.com)  by domain.com
+ (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 135049312 for user@domain.com;
+ Tue, 26 Apr 2015 13:40:50 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=domain.com; s=selector1-mesirowfinancial-com;
+ h=From: "Seeman, Katie" <kseeman@mesirowfinancial.com>
+ bh=E48yf8QNoLd9zRyefUhrjWO1M33+hCI8PwZbZgXtzcI=;
+ b=QIYIgUo1PBi1N3o9TL0EPqk9xP5omBWP2DoXI847t3IsPts2jfzXx0fNtN1e0jAmcdlpvjecyKlrFnBNOxeR44r5uvXuL8ti6NcuAC9+XtzzdmNoNUieDfJ11JV8k72y0LhK3nj9uuq01yJThyLZwWIowUo5kiqMbcl4EAh4ExY=
+Received: from domain.com (10.255.247.35) by
+ domain.com (10.163.19.157) with Microsoft SMTP
+ Server (TLS) id 15.1.477.8; Tue, 26 Apr 2015 18:40:47 +0000
+Received: from BL2FFO11FD009.protection.gbl (2a01:111:f400:7c09::186) by
+ domain.com (2a01:111:e400:2c16::35) with Microsoft
+ SMTP Server (TLS) id 15.1.477.8 via Frontend Transport; Tue, 26 Apr 2015 
+ 18:40:47 +0000
+Authentication-Results: spf=pass (sender IP is 204.153.74.66)
+ smtp.mailfrom=mesirowfinancial.com; domain.com; dkim=none (message not signed)
+ header.d=none;domain.com; dmarc=bestguesspass action=none
+ header.from=mesirowfinancial.com;
+Received-SPF: Pass (domain.com: domain of mesirowfinancial.com
+ designates 204.153.74.66 as permitted sender)
+ receiver=domain.com; client-ip=204.153.74.66;
+ helo=zixgateway02.mesirowfinancial.com;
+Received: from zixgateway02.mesirowfinancial.com (204.153.74.66) by
+ domain.com (10.173.161.15) with Microsoft SMTP
+ Server (TLS) id 15.1.472.8 via Frontend Transport; Tue, 26 Apr 2015 18:40:46
+ +0000
+Received: from zixgateway02.mesirowfinancial.com (ZixVPM [127.0.0.1])	by
+ Outbound.mesirowfinancial.com (Proprietary) with ESMTP id 684FC3FE7B	for
+ <user@domain.com>; Tue, 26 Apr 2015 13:40:46 -0500 (CDT)
+Received: from domain.com (domain.com
+ [172.21.41.145])	(using TLSv1 with cipher AES256-SHA (256/256 bits))	(No
+ client certificate requested)	by zixgateway02.mesirowfinancial.com
+ (Proprietary) with ESMTP id 98EC13FE68	for <user@domain.com>; Tue, 26 Apr
+ 2015 13:40:45 -0500 (CDT)
+Received: from domain.com ([fe80::50d5:8cc9:5701:2fd3]) by
+ domain.com ([::1]) with mapi id 14.03.0174.001; Tue, 26 Apr 2015 
+ 13:40:45 -0500
+From: "Seeman, Katie" <kseeman@mesirowfinancial.com>
+To: "User" <user@domain.com>
+Subject: RE: This Thursday
+Thread-Topic: This Thursday
+Thread-Index: AQHRnxA6Gmh3DezUwka96JWLK1pOpZ+a5jaAgABy1QCAAT75wA==
+Date: Tue, 26 Apr 2015 18:40:45 +0000
+Message-ID: <user@domain.com>
+References: <76278432-42user@domain.com>
+ <user@domain.com>
+ <user@domain.com>
+In-Reply-To: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+x-originating-ip: [172.21.40.225]
+Content-Type: multipart/related;
+	boundary="_004_E4D0CDA0CF5CD3419322EC95FE12A4E18847B03BRDWNEXCHG1mesir_";
+	type="multipart/alternative"
+Return-Path: user@domain.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:204.153.74.66;IPV:NLI;CTRY:US;EFV:NLI;SFV:NSPM;SFS:(10019020)(2980300002)(438002)(24454002)(199003)(189002)(17383004)(377454003)(46034005)(50986999)(17760045003)(54356999)(76176999)(5003600100002)(66926002)(9686002)(106116001)(3480700003)(106466001)(99936001)(6806005)(16236675004)(575784001)(86362001)(15395725005)(5004730100002)(11100500001)(107886002)(110136002)(18206015028)(260700001)(19627595001)(19300405004)(5001970100001)(67866002)(19617315012)(2906002)(33656002)(102836003)(6116002)(15975445007)(189998001)(450100001)(19625215002)(84326002)(512954002)(3846002)(586003)(790700001)(19580395003)(19580405001)(5008740100001)(55846006)(2900100001)(221733001)(2950100001)(87936001)(5250100002)(2920100001)(53416004)(92566002)(1096002)(1220700001);DIR:OUT;SFP:1102;SCL:1;SRVR:CY1PR0401MB1551;H:zixgateway02.mesirowfinancial.com;FPR:;SPF:Pass;MLV:sfv;A:1;MX:1;LANG:en;
+X-Microsoft-Exchange-Diagnostics: 1;BL2FFO11FD009;1:uKeu/3MR71Gpy67FTPgEjx9B/RjD2ok8KJ3ePS02iyvGnxrQ8+YZtVjfcPN8lBieI6QYDZ/nC5B4c6nxXUZ9N4z/GYjYjkB0BUEDOLUgz3s/BmCRmYYHU060ISwAmoqr23AUfcN55UmWRHc0D8l8rypjmyyi4b7VgJJWGjxFhHMQ0nGUSMPY7+v0CFctGEvHGKnLy08U/4/lU2egXVZdHKo+kDCp5GQk+dIhndeznZ3J2cBqTgCKvU0xvAcEqbqYreY+XzPjR0Kt7ljqicvqAHDVpXLRlxr/r5KkDdx5AZGeNve2zdDbmLOF5wpHSUiw+gRVhYqu75OHPdBKZLAmXm7A354m7gsdAwuBoLfdLNmQYolNC/WJHbKIrPLxIJe+1eqBmNt/CD3L3rRs/rQ9og6tnntmwX3/kGZtotCSa6pByI+vRS8pf5lLhTk8ckKCdIUe5GU7nqo6QLlMSagO78J/RdmNEDgyi+z8VmEJHPWuVn8GDXfTO07mR9JJMiLM94Q54AHguouSqk8XTaArdQ==
+X-MS-Office365-Filtering-Correlation-Id: 3bcb3e30-a15e-424f-3321-08d36e02483f
+X-Microsoft-Exchange-Diagnostics: 1;CY1PR0401MB1551;2:baOHpzmmSQuADHUwcbTDBgDDSTiOJ1fbsTnHdvxgiMHEgUDpUsA8ju7FNw+4H1oNFtCnE4m+rM6WWW5F1ctOwfWsKWtZ9wqPJIYV5+aOifoO9aY1tYbvJdYzB6IVFx2ZdOF3bXOH+f6D+PA9++zTzZvzvv+ugz4/i8t5F3ej6VlOvntExOfGeKbIalI0Njbv;3:U4wA2fHUSUNj1OVuwNSI0Wi3TAgTw3mc1zrBCssGp+uXBVBZ9MHlXd6pLf1oIdf1XfGlrVSb5o3wyyQ/CAUKw7CYxwQiV9WLmGn1shmghV+K+EORGvTUn3JLJmT6k7w5HdelsHbUyYi4NM3if3Kk8TvDiYRa13NCAo+xFVqoJ1pDaKcwntQV0jr0MiNYi9r1sqJNZ1Hls2bfW7lPyfN+35lrFL3ZrHwsM4PiSJhKII7pEvQDkgHlP5f7knkIbhdpiEc2RRVqAt5qr30N9Wsvpg==
+X-Microsoft-Antispam: UriScan:;BCL:0;PCL:0;RULEID:(8251501002);SRVR:CY1PR0401MB1551;
+X-Microsoft-Exchange-Diagnostics: =?us-ascii?Q?1;CY1PR0401MB1551;25:GV5t2TbozE8TmoVlzFoJWX9Nqx/7r8/9O/J4gzc?=
+ =?us-ascii?Q?domain.com+7A9IoZTQkPmYVZPfkWVxh+OIyXlKYpyVGqtwWzpgKnFQx/No?=
+ =?us-ascii?Q?0TzRBT/yRi6/5YrxyWTCgkl7IRioRRrnlUgbQiPAx/xOrrsRQEVoeJgzYY2n?=
+ =?us-ascii?Q?Il9DfVQjd26XANZrIx4tydH90YiQxgs4ySFnFBYngiKRvJBqGlFJMFHvg3IE?=
+ =?us-ascii?Q?p4D6eCjBtLGXBKuhX8ip8L2luITNnX48uv/IhoTFEF0DdzjAfTA0Bnv+AMlJ?=
+ =?us-ascii?Q?ESB9iVhMGj2z41TQa8FLZG9NBNdjju07nyKoXxbDRfHZ/TUObmg73pIq+Xs4?=
+ =?us-ascii?Q?17/YQmiHSMXzTRanRNu/I5AB/rfwJlX9Bsc7yjrt0KIIyECmq0rwMC4oh+PJ?=
+ =?us-ascii?Q?UBwJFo3WiR1POzNc53zIT2PJn4/FWimsm9Vr0Iz1Y+bxCIN+DeLKGVB7XcSd?=
+ =?us-ascii?Q?quOi8mCuHvNPGo70Klq8yAe4DMAPjSfwUNmdOxoiUVpCM60nIyTdUOlo//1l?=
+ =?us-ascii?Q?396j+4KwXr353vyd+GGyzXopm/lQtYIBAXWdGlrxzU36Aug2YvGrdx2+DvT7?=
+ =?us-ascii?Q?rxhDiOTSuEut0oIHGF32Do6lNbi9aTH5vXp1DOJ0lKCCgDWlWl7gDdoxTstQ?=
+ =?us-ascii?Q?bfVeb4p1OoF8J+iRA+Qcb2wWk37M90h/Y+s+9fyy6CKC88z44kYMHzD8BCPL?=
+ =?us-ascii?Q?7GWG0v2YbcHXnZO87KClEV5GC9MD9+w8sIldyiQ/MA1E/DJ/0CHWEcvTHgqy?=
+ =?us-ascii?Q?GC8uV9kVi6kaM38bC1JxHVe4b/wjenYtTfloaQisKtSokWFD8oZBmfE1FlVH?=
+ =?us-ascii?Q?VQQP36MLO0Q+jRhoe9+ouXY5NALbUa8VvAcIpk6MxUYAacmmteHVq6Lqf6Gy?=
+ =?us-ascii?Q?L02Q06jUbXx2lsTSsUMkc/Ngq1HaeIi1sVvfxXeneXn7wMzttrIfxAbodfm6?=
+ =?us-ascii?Q?IaSEVHJPdo0sHRh5SV8hYbZCDv9zbQB6mISvfa2jCUMi6X4NHueve4pN43wq?=
+ =?us-ascii?Q?ZLdqyrAyzggcAHz8O9WPqTMKNBml0j6aB8Vu3O6X3zlurPfDAEu8Bp6ihqCH?=
+ =?us-ascii?Q?wgrCxxVY=3D?=
+X-Microsoft-Exchange-Diagnostics: 1;CY1PR0401MB1551;20:OkT2p56JYj7YKIArTwacJ4d7kO4v5m/5QWl1ro18nn5a+HFbqUwfkMcAXLaUCAj2CvD7Li8JHkUP9jNsWaBDf9qQi5ZZcVQc8GyuMwDIT48047KVva8tNKdwPNgH1ZZJhaD6+rjY2yWbK6Lh3IfIvckkm/Z7+domain.com+DK3+5Yn3i/Y9PsXIE7Y3lcgvr9RLgj2yCBnE+idUsl4q75vP0VBhgg6hmrsnFhbv1qPWZp5umMVGBfv0C4FPZIHK9hkVTmUT1ylzEk1+jY6b+ouW3zmu0lOEChr3XFUqm7st+cBDcKtCfOxOZXKhbGZ2nXvl6JkEKaV1wmjWg6zFH79OaeuLsmdI2OQte5O4yWN5+GoMP/1IHJQih8CK1eQDl42D7P8tcKkaGgWKErak0QA4YLChTjJYyrNrBQso7H/OStHxsFCSCSdE7q/vMHRakS1+OUjBcCN/FUdfGIEms4B5D4qfGSn504C29JWmIgDcqcupWrElDzD/MWIHt
+X-Microsoft-Antispam-PRVS: <user@domain.com>
+X-Exchange-Antispam-Report-Test: UriScan:;
+X-Exchange-Antispam-Report-CFA-Test: BCL:0;PCL:0;RULEID:(102415293)(102615271)(9101521072)(601004)(2401047)(13015025)(13017025)(13024025)(13018025)(8121501046)(5005006)(13023025)(10201501046)(3002001);SRVR:CY1PR0401MB1551;BCL:0;PCL:0;RULEID:;SRVR:CY1PR0401MB1551;
+X-Microsoft-Exchange-Diagnostics: 1;CY1PR0401MB1551;4:4ixuK7X6I5117qP9vE5MNdNIgGFzhVydpqIi9F0/FSVS6UWl9gygPHyrtvDmVWU6WJQ4x7SACJFFHWGqJAyQ17xnqoYf+hQkwkgG7DerU6ppCxqEW58ZOVRNc2yTzOItcYRbeRrEMuBZRAQy+tSL4uVo8z3KWh/IgHwgW2lYPcnrgfoC4F2jbcwS5u5601mTxjo2Za/io9JqHNcUqqJYnz+tObhptxps0QoKL93N9KPDhS3S1CaNoNOEgNqs1Ljl59KMsXPuho1sBNG2qFpOrWxoiugLYck0/jh4RKXw3n0FOQEeE7Oj6RXhaBpI8uMO7KezDFxfX/KOezrygak2+fvLxX8RcUaKafLKVBzLTEnT9uYG4VxWu8oFa15xEMnGvYeWJemHnXYK6mDRUbIdy4uBUP/WkHDADYId+ijwjCTWN3nTIRDv+uREJV7T7X/o0Eyb0+0ee0cEvHT1xVdakxPM4vr8MBfWz/me7yrEvW7d9i1x5K4oy5KXt+2kW6R2I/SSijZqqzhtoYUJuf9lvw==
+X-Forefront-PRVS: 0924C6A0D5
+X-Microsoft-Exchange-Diagnostics: =?us-ascii?Q?1;CY1PR0401MB1551;23:+23LlTWlo0EPNCAXfZVWM9mRnLXBa5M1GKSqOPD?=
+ =?us-ascii?Q?DYoIQ9aNCc8KEVatdidAOyzLaq1Z9uR1HzlCF+bW58eGKINw93ICgUf4gMCP?=
+ =?us-ascii?Q?3HudVb1JUvem/6DNiq53uWvsZiRdFWQA/QgPMeemffhQnldIzYgTLafIYiGK?=
+ =?us-ascii?Q?6MjsTQDuG9QWz+eSHql0/2vRKKgZSSS5nif3ErJzx8skhMnorctTuNHjXT4m?=
+ =?us-ascii?Q?beVWO0DcZWvC4jjAlX/x+fohjK9P9X2ZFJnAsRFy3xAoEA1rEvlZwJshXurm?=
+ =?us-ascii?Q?gSkxYZsMyVO7w1tV2oHY69e5EnnqlQ240Hwa3ucLvDLuuX1BzD8EtXORczLM?=
+ =?us-ascii?Q?lV3tFy0/mzGOP+fYXc4Li8sk/iGafByMhRdlIfRSGNZk8HBsmOeI/yZMFH0y?=
+ =?us-ascii?Q?Xe3Pylytp4nXRRCns0r3xutJ55fqSS4JFeRjug6Pvp7Rm40T+7yJIhT2S+Qj?=
+ =?us-ascii?Q?DAueFsdiWq9RTUcoyh36alaV9yggtAc5vqB9s3r0iuLQ62l3j/vRBCMVvpGx?=
+ =?us-ascii?Q?9U+Nx/2jcRveX048Yj4ei1+hcKl4fNuIZreyXYIqN1vApwcDBtCdy5zuJAyW?=
+ =?us-ascii?Q?kcJfLE+7WYeHOEOj3pOKdNjuTSOh68WjE/iFZcd8bG3Rot1C4zMjs4nOmfGf?=
+ =?us-ascii?Q?0yxQ/HpJgyYnNCBg/shaaV/8ZExWLMRzETzWQ2YY4DVTfhkQQl1JZHdTtGXH?=
+ =?us-ascii?Q?RHECUJ0n1djNdh0b1JA4lMhr5uFPSqThAuRWlgAANJHFZr/2ftlqaQc0U+fT?=
+ =?us-ascii?Q?3Gx302WvVRPjivPjJIbb/0GJwGGbBkdVNEwa1+gIOq9NRH6WV/0XOs0Pr5kD?=
+ =?us-ascii?Q?Ds9r4A45V52JsUaVupW8cSGSGcg4XI8yvbfdppl4gkagVdB/B1rGFEZie8Vn?=
+ =?us-ascii?Q?uYrULPwVo+h28AfKMlhRxQLdDlx81HnS7otYPiwH3yYDhPlanMqwXhdXndBQ?=
+ =?us-ascii?Q?OoUZr2KDOw69FmSrdbc8br0kApurY+KRDeS4LTnlWQ1k38gjO7cSk5/T3ILO?=
+ =?us-ascii?Q?sJanzAcuwobpmFyETkogyryx9tSLX5ChVEF/qDR0eUgKTYIHxmGHvau+9mKT?=
+ =?us-ascii?Q?/huenSq7gqo656ttqbFsj2CDQFiqdI5Vy/txEXE2XA6AjDJBSGTxcl/cxJyp?=
+ =?us-ascii?Q?PO+Cf3bmfBu3lVt4ivW1wN7E1QR/sp7nRX1Lp/i+P0bFKttSJivHyI3Rpqr1?=
+ =?us-ascii?Q?m3vHPn2FUdS1driFGpKfBZ2ybwypaw89kFcZdQxz6wOKCcyycaxBmiwlW/0W?=
+ =?us-ascii?Q?XGdYOUHzpewF+FQR+D+Yh8Arf+nj+JWfZehdAzMHCRUkg7QOOXfYiAMA+iEK?=
+ =?us-ascii?Q?UdTHJI7fGRLRt9iwoFyGradMgBI09QkA3vs/N3Yteil8OmKue+/jdBoUrlEo?=
+ =?us-ascii?Q?d/gjkCz2il5LK0IrnWlXRdakoYm/TnGkc4TVfWSm4yUj0VTWqvApQaPNAEHI?=
+ =?us-ascii?Q?1N+Js79iBJJCJYk/OTJisQEPvGWx3sn1Ge5aK7bt383PkROAJ+aHXjBxOUrV?=
+ =?us-ascii?Q?zMivJkcHqbXlv0f6Gl3KfTTF3uf5TOIIaTmXFBO74RWYA4ECIkgzVFuynxbT?=
+ =?us-ascii?Q?5JDPgTiirI4aoA2WKPglR6PmvN/XLMYTtfoezUY/UZnUZJKvwQnLxuE4Rbmq?=
+ =?us-ascii?Q?hb0vKnIHslU6UDx+BXVZV0w=3D=3D?=
+X-Microsoft-Exchange-Diagnostics: 1;CY1PR0401MB1551;5:I6fEJ4q/2ruz1iRqj58EzejIVyVJzdSj6CWpChFODPw7VAR2gnUpv9YZ+ZP0WAj4TQwPah2tcUmusSkXjtrRRotG0F3PlpUI6+SxJGBYtGzjoTlAl1TEo36VCmi9nUEz9ZKsmNOOnrWEFMTv6F0Oag==;24:0ohrDkMf1STEIlvw2bzyNt/mqIyrYgZ2nGvRTiBuYKJ/qjhM1VlCieKFO4nupxkOV1/Xwmwea97E6ad87H+J06GlLDl8lZrTCE2IQEz/Vcc=;7:EMMQP7LN25sZLGLmkN5FydtwWKk/CLxNUXPifNOmbwsrL60PZNbyTAjYJjeM3bA6IokYVVLiROxyD1Tvs9gdqcGrySpr7BqhFl8Ncv72XMpP4H+GNhx2I0jtQe+v2QMlhmGKttzpfz5QZbuU54Sfl0y3KUvyOHeNOIgCAwY7Eu2lGphFurFj8UUJDWnmpPyl;20:rZmY8YhkAPzzDJ0BPVEoS/IvVotXsijen5nJhsEfzQSp+HOT4PEEQBbpYjNdak9lrxSflukX46SsiNM3SjkVc5+ouvV0SWsxj+kNirsAYxOGEHLrucn8f4Z5OlIb0Mi0g647/L4au+55O/OsldvEXZZ73h+lXEHTvVNsl89iCSU=
+SpamDiagnosticOutput: 1:23
+SpamDiagnosticMetadata: NSPM
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 26 Apr 2015 18:40:46.9371
+ (UTC)
+X-MS-Exchange-CrossTenant-Id: 675d34f2-dff9-4286-9abb-78bebd16f146
+X-MS-Exchange-CrossTenant-OriginalAttributedTenantConnectingIp: TenantId=675d34f2-dff9-4286-9abb-78bebd16f146;Ip=[204.153.74.66];Helo=[zixgateway02.mesirowfinancial.com]
+X-MS-Exchange-CrossTenant-FromEntityHeader: HybridOnPrem
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: CY1PR0401MB1551
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Could you do 3:30pm instead of 3pm?
+Katie Seeman
+v 312.595.6249
+
+From: "Seeman, Katie" <kseeman@mesirowfinancial.com>
+Sent: Monday, April 25, 2015 1:39 PM
+To: Price, Richard
+Cc: Seeman, Katie
+Subject: Re: This Thursday
+
+I will see you at 3pm!
+
+Jordan Kaplan
+National Finance Director
+Organization
+(202) 488-5002 (o) | (312) 339-0224 (c)
+user@domain.com<mailto:user@domain.com>
+
+[cid:image001.png@01D19FC1.3B7A7280]
+
+On Apr 25, 2016, at 12:48 PM, Price, Richard <user@domain.com<m=

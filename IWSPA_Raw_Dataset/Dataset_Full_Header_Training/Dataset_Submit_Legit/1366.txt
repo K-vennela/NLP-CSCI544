@@ -1,0 +1,119 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 10 May
+ 2015 16:16:36 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 10 May 2015 
+ 16:16:33 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 907639490
+ for user@domain.com; Tue, 10 May 2015 15:16:40 -0500
+X-Note-AR-ScanTimeLocal: 5/10/2016 3:16:39 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:209.85.161.175 DOM:gmail.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-325/SG:5 5/10/2016 3:16:19 PM
+X-GBUdb-Analysis: Unknown
+X-Signature-Violations: 0-0-0-20118-c
+X-Note-419: 15.6202 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/10/2016 3:16:39 PM
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 209.85.161.175
+X-Note-Reverse-DNS: mail-yw0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G407 G675 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from mail-yw0-domain.com ([209.85.161.175] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 138103550
+ for user@domain.com; Tue, 10 May 2015 15:16:39 -0500
+Received: by mail-yw0-domain.com with SMTP id j74so23366229ywg.1
+        for <user@domain.com>; Tue, 10 May 2015 13:16:34 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:subject:From: Pablo Manriquez <pmnrqz@gmail.com>
+         :content-transfer-encoding:message-id:references:to;
+        bh=u3we1yi3PGNOZHBaBeUWiJyb1y7EJKqyzSoAEaYyOMw=;
+        b=PNzPZPfGwpbSlG3Ay/Tv2Y+iNDMmBTZAzJ2SmIdGwPGuqu77u43Ke+SRMQnqvXtGcn
+         /Sgv/M9e9FBmo1nbY/0VxEYsEkjonO6GG9ciHIRTKQUE1AZd3rqLiEFCWpR84a1do2X/
+         k/vc0U/IOqKDTlL3eA46syKz8gJppSZvhzR4o6sVjsDkqE3cFtcIyTP0BCoci6aXmqvf
+         I97CNjq+JfKKKygI14GcY/F7xkHC5d/br0urUrHtMuJZ2FQQgYY95DyDCALIXrTFaXL+
+         MVtGoNhOIGBtuy3jLEmEds+/Wl5yotfBwBblbQXNSDmxIAFjPahXv+bZNvS9WCGuF3/G
+         EX6A==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:subject:From: Pablo Manriquez <pmnrqz@gmail.com>
+         :content-transfer-encoding:message-id:references:to;
+        bh=u3we1yi3PGNOZHBaBeUWiJyb1y7EJKqyzSoAEaYyOMw=;
+        b=FbQ3tsWTCgc7fhOVB1fmn46kl+DTbH/lzC2BrEAAVxQAx0DtHMqIJVSakWvkz47uSj
+         fRYryOJUG1QVO3Zd0U/FJlUArfWEFF/9wuzP6Zxi+JiaV9UjyiYqHMLhOuUZZRYOMZKO
+         KkrMrLEoJZ999FRC7JA0YdzubXLvbQ1ur/TiWgRzGd+wuJYLl74q3kVNZiRDLF1IH+pl
+         Yj80a+I9LPoLdVJ1yelcOCNvK2RNLy6XlQkKcaZTMG8n3Q6KvXuv9a31AQ+8cSIITf0w
+         IFi5libHjEogv+ScduxYTkRaIO3xjaRk5LOGvABLoGahLti95Al31IbKca1qrk/W92SK
+         WB0Q==
+X-Gm-Message-State: AOPr4FWphbC+yxfijbQl3Nvb++TXNu6Tx8cOw6aSuDH0W6JFkC0H/UQnLIF20mNiJMEgkg==
+X-Received: by 10.37.13.197 with SMTP id 188mr18765679ybn.163.1462911394450;
+        Tue, 10 May 2015 13:16:34 -0700 (PDT)
+Return-Path: <user@domain.com>
+Received: from ?IPv6:2600:1003:b000:4518:68c1:17ba:9cb6:1f84?
+ ([2600:1003:b000:4518:68c1:17ba:9cb6:1f84])        by smtp.gmail.com with
+ ESMTPSA id n126sm2045284ywd.50.2016.05.10.13.16.33
+        (version=TLSv1/SSLv3 cipher=OTHER);        Tue, 10 May 2015 13:16:33
+ -0700 (PDT)
+Content-Type: multipart/alternative;
+	boundary="Apple-Mail-499E317C-4F0F-46D2-AD3B-DE999D72697E"
+Subject: Re: Fox News Request - BRL - Tonight - Election Special
+From: Pablo Manriquez <pmnrqz@gmail.com>
+X-Mailer: iPhone Mail (13E238)
+In-Reply-To: <user@domain.com>
+Date: Tue, 10 May 2015 16:16:31 -0400
+CC: Javier Gamboa <user@domain.com>, Meredith Kelly <user@domain.com>, "User
+ User" <user@domain.com>
+Content-Transfer-Encoding: 7bit
+Message-ID: <10722884-528user@domain.com>
+References: <6903user@domain.com> <user@domain.com> <CAM=Qh+user@domain.com> <user@domain.com> <CAM=Qh+M6z6_HVqSPBU+user@domain.com> <user@domain.com>
+To: Christie Stephenson <user@domain.com>
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Bawse. Thx! Replying now.=20
+
+Sent from my iPhone
+
+te:
+
+n The Blaze last week, so he=E2=80=99s done antagonistic interviews to say t=
+he least, but I didn=E2=80=99t see the clip.
+
+ Topic is primary night recap and look ahead to next week. Host right wing T=
+ea Party guy, but would be perfect opportunity to test Stallwell on message b=
+efore putting him on the big show with Bret/Megyn. Thoughts?
+
+rote:
+
+o toe with whoever else is on, and I think it would be great to share the TV=
+ love with some younger House members. The Snapchat Congressman!
+
+L.
+
+rote:
+
+r Boss now. I recommend him and he's a good, young member of the caucus to p=
+ut out there.
+
+t me to pass this along to a couple of other Members that could be good? Eri=
+c Swalwell, maybe?
+
+38 0059. Thanks!
+
+rimary and a look ahead to next week.
+

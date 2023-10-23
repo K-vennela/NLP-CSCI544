@@ -1,0 +1,74 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id 37152468CD
+	for <user@domain.com>; Wed,  5 Sep 2015 15:23:33 -0400 (EDT)
+Received: from domain.com (domain.com [204.181.64.8])
+	by domain.com (Postfix) with ESMTP id 19A6F131FCF5
+	for <user@domain.com>; Wed,  5 Sep 2015 15:23:33 -0400 (EDT)
+Received: from domain.com (domain.com [213.194.149.229])
+	by domain.com (Postfix) with ESMTP id EE5DA6FA1C4
+	for <user@domain.com>; Wed,  5 Sep 2015 15:23:32 -0400 (EDT)
+Received: from wvps212-241-207-16.vps.webfusion.co.uk ([212.241.207.16]:1442 helo=User)
+	by domain.com with esmtpa (Exim 4.66)
+	(envelope-from <user@domain.com>)
+	id 1IT0Sq-00060D-NT; Wed, 05 Sep 2015 21:23:00 +0200
+Reply-To: <user@domain.com>
+From: "Nationwide Bank"<servicesauthority@nationwide.co.uk>
+Subject: Security process must be performed
+Date: Wed, 5 Sep 2015 20:23:03 +0100
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - domain.com
+X-AntiAbuse: Original Domain - domain.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - nationwide.co.uk
+Message-Id: <20070905192332.user@domain.com>
+To: undisclosed-recipients:;
+Content-Length: 2015 
+Lines: 56
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 111
+
+<!--
+.Style2 {color: #000000}
+.style3 {font-family: Arial, Helvetica, sans-serif}
+.style4 {font-family: Arial, Helvetica, sans-serif; font-size: small; }
+-->
+
+proud to be different
+
+Nationwide's domain.com 
+Banking
+
+Dear Customer,
+
+   Nationwide Bank Plc announcing the New Security Upgrade.We've upgrade our new SSL servers to serve our Value Customers for better and secure banking 
+   services to protect your account against any fraudulent activities.
+With the new recent 
+   upgrade in our security measure, you are hereby requested to update your 
+   online banking account as quickly as possible by clicking the link below
+
+<<link>>
+*Important*
+
+   These additional information will be asked during your 
+   future login security so, please provide all these info completely and 
+   correctly otherwise due to security reasons we may have to suspend your 
+   account temporarily.
+J. S. Brown
+
+Security Advisor
+
+   Nationwide Bank 
+

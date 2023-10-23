@@ -1,0 +1,600 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Sat, 30 Apr
+ 2015 05:49:59 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Sat, 30 Apr 2015 
+ 05:49:47 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 888955532
+ for user@domain.com; Sat, 30 Apr 2015 04:49:59 -0500
+X-Note-AR-ScanTimeLocal: 4/30/2016 4:49:59 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:68.232.197.141 DOM:domain.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 100
+X-GBUdb-Analysis: 0, 68.232.197.141, Ugly c=0.327499 p=-0.0833333 Source Normal
+X-Signature-Violations: 100-5819748-1142-1164-m
+	100-5950968-1337-1369-m
+	100-5948747-1338-1369-m
+	100-5819748-0-22463-f
+X-Note-419: 31.2493 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 4/30/2016 4:49:55 AM
+X-Warn: COMMENTS HTML Comments found in Message Body
+X-Warn: BULKMAILER
+X-Note: Spam Tests Failed: COMMENTS, BULKMAILER
+X-Country-Path: ->United States->
+X-Note-Sending-IP: 68.232.197.141
+X-Note-Reverse-DNS: mta.email.bostonglobe.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G280 G285 G340 G373 G572 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from mta.email.bostonglobe.com ([68.232.197.141] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 135819597
+ for user@domain.com; Sat, 30 Apr 2015 04:49:59 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=200608; d=email.bostonglobe.com;
+ h=From: BostonGlobe.com <newsletters@email.bostonglobe.com>
+ bh=A28iVCqcOf7tl/1Srlm4yN/ZWNA=;
+ b=jJk/fd1CKSEHePlN2h5AQwQOLY9FEsL/4eLQ+a+k6K6AHA+G98kHOmYY1NxNa9By48miutRX+5K0
+   5vbGeaV8EaBzBFJ/rX6JB7XuErcOiB6JX77nLLc4kP+7NMcsWf+7jRUjsFxchDRIT33xqaN6NFoP
+   AxW1z6cOaWwE9tdS818=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=200608; d=email.bostonglobe.com;
+ b=TBQoCdSUd3Ns76biX7B/W/AeCkVdSJ3swsIbvkb4y7JYwppGQztW/5FtAQOrsMbqbYN9dIWrsO1D
+   a3I23Dvd4CE8OKQ4hKlC+eZjKEk67fzfwwtOlCYYfcJjlPkR+8wMAKzA+3K6zx5fKhQLJsurU6AN
+   2P9FnN/W/heHWsb8uFM=;
+Received: by mta.email.bostonglobe.com id h4hvsa163hs4 for <user@domain.com>;
+ Sat, 30 Apr 2015 03:49:57 -0600 (envelope-from
+ <user@domain.com>)
+From: BostonGlobe.com <newsletters@email.bostonglobe.com>
+To: <user@domain.com>
+Subject: Today's headlines from The Boston Globe
+Date: Sat, 30 Apr 2015 03:49:56 -0600
+List-Unsubscribe: <mailto:user@domain.com>
+Reply-To: Today's Headlines
+	<user@domain.com>
+x-job: 10839380_35387498
+Message-ID: <user@domain.com>
+Content-Type: multipart/alternative; boundary="3c4g5kKyaBbi=_?:"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+To view this email as a web page, go to the link below, or copy and paste it into your browser's address window.
+<<link>>'s Headlines
+
+Today's Headlines
+To ensure you receive your domain.com e-mails, please add 
+mailto:user@domain.com 
+user@domain.com  to your address book.
+
+If you have trouble reading this e-mail, go to 
+<<link>> 
+<<link>> .
+
+<<link>> 
+Today's headlines
+04/30/2016
+
+<<link>> 
+Today's Paper 
+<<link>> 
+Metro 
+<<link>> 
+Opinion 
+<<link>> 
+Sports 
+<<link>> 
+Comics 
+<<link>> 
+Crossword 
+
+/todayspaper?s_campaign=email_BG_TodaysHeadline 
+Page one
+
+
+
+<<link>> 
+Indycar race scratched for Seaport 
+
+<<link>> 
+
+<<link>> 
+Promoters of an Indycar race in the Seaport this fall are peeling out of Boston and will not race here. 
+
+
+
+
+<<link>> 
+Controversial transgender bill headed for vote in House, Senate
+
+<<link>> 
+
+<<link>> 
+The state Legislature is expected to pass the measure, but Governor Charlie Baker has not taken a position on the bill. 
+
+
+
+
+<<link>> 
+Taps for the last of a true band of brothers
+
+<<link>> 
+
+<<link>> 
+The last of six brothers from Marion who served in World War II was buried at the Massachusetts National Cemetery Friday. 
+
+
+
+
+<<link>> 
+Feds probe City Hall&#';s dealings with Boston Calling
+
+<<link>> 
+
+<<link>> 
+The investigation is part of a probe into union tactics in Greater Boston. 
+
+
+
+
+<<link>> 
+
+<<link>> 
+
+<<link>> 
+
+
+
+
+<<link>> 
+Globe Events 
+
+
+
+<<link>> 
+Second Life
+
+<<link>> 
+
+<<link>> 
+An architect turns his old barn in Newport, Rhode Island, into a light-filled multipurpose haven for family and guests.  
+
+
+
+
+<<link>> 
+More Globe Events &rarr;  
+
+/todayspaper?s_campaign=email_BG_TodaysHeadline 
+Today's Paper &rarr; 
+
+<<link>> 
+The Nation
+
+
+
+<<link>> 
+Texas schools spare no expense for huge football stadiums
+
+<<link>> 
+A suburban Dallas school district grabbed national attention in 2015 when it opened an eye-popping $60 million high school football stadium. 
+
+
+
+
+<<link>> 
+Supreme Court refuses to block Texas voter ID law
+
+<<link>> 
+The justices left open the possibility that they would intercede if the appeals court considering a challenge to the law did not act promptly. 
+
+
+
+
+<<link>> 
+LGBT groups decry bill amendment
+
+<<link>> 
+Advocates say the measure would strip away gay rights in federal contracting. 
+
+<<link>> 
+
+Jump to domain.com The Nation Section &rarr;
+
+
+
+<<link>> 
+The World
+
+
+
+<<link>> 
+Rising violence kills more than 200 in a week in Syria&#';s Aleppo
+
+<<link>> 
+
+<<link>> 
+UN decries a &ldquo;monstrous disregard for civilian lives by all parties.&rdquo; 
+
+
+
+
+<<link>> 
+Construction workers in Spain unearth trove of ancient Roman coins
+
+<<link>> 
+
+<<link>> 
+The coins appear to have never been in circulation, making them almost pristine by comparison with other discoveries. 
+
+
+
+
+<<link>> 
+Small-town politicians pivotal to migrant relief in France
+
+<<link>> 
+As Europe struggles with the migrant crisis, mayors have largely been left to their own devices. 
+
+
+
+
+<<link>> 
+
+<<link>> 
+
+<<link>> 
+
+<<link>> 
+
+Jump to domain.com The World Section &rarr;
+
+
+
+<<link>> 
+Editorial & Opinion
+
+
+
+editorial
+
+<<link>> 
+A little nothing extra from Uber
+
+<<link>> 
+
+<<link>> 
+Tipping is a terrible way to pay Uber drivers, but the least Uber can do is build it into the app.  
+
+
+
+
+<<link>> 
+The power of the lone health care consumer is a free-market fantasy
+
+<<link>> 
+&ldquo;When a person&rsquo;s health or life is at stake, he or she is not the so-called rational economic actor that free-market economic theory requires.&rdquo; &mdash; Paul L. Criswell 
+
+
+
+
+<<link>> 
+When it comes to preventive health, car maintenance analogy breaks down
+
+<<link>> 
+&ldquo;My car has myriad dashboard messages that tell me when something mechanical needs attention. Unfortunately, my body doesn&rsquo;t have similar warning systems.&rdquo; &mdash; Diane Jette 
+
+<<link>> 
+
+Jump to domain.com Editorial & Opinion Section &rarr;
+
+
+
+<<link>> 
+Metro
+
+
+
+<<link>> 
+Feds probe City Hall&#';s dealings with Boston Calling
+
+<<link>> 
+
+<<link>> 
+The investigation is part of a probe into union tactics in Greater Boston. 
+
+
+
+
+<<link>> 
+Controversial transgender bill headed for vote in House, Senate
+
+<<link>> 
+
+<<link>> 
+The state Legislature is expected to pass the measure, but Governor Charlie Baker has not taken a position on the bill. 
+
+
+
+
+<<link>> 
+Taps for the last of a true band of brothers
+
+<<link>> 
+
+<<link>> 
+The last of six brothers from Marion who served in World War II was buried at the Massachusetts National Cemetery Friday. 
+
+<<link>> 
+
+Jump to domain.com Metro Section &rarr;
+
+
+
+<<link>> 
+Business & Tech
+
+
+
+<<link>> 
+Mass. General to acquire N.H. hospital
+
+<<link>> 
+
+<<link>> 
+Massachusetts General Hospital is poised to acquire Wentworth-Douglass Hospital in Dover, N.H. 
+
+
+
+
+<<link>> 
+Vertex CEO pay package tops $28 million
+
+<<link>> 
+
+<<link>> 
+The pay of Jeffrey Leiden and other biopharma executives has drawn criticism from consumer activists as concerns about high drug prices have grown.  
+
+
+
+
+<<link>> 
+What happens when US Olympic athletes lose a medal?
+
+<<link>> 
+
+<<link>> 
+Olympic athlethes strive their whole lives to win a medal. But if they lose or damage their prize they&rsquo;re stuck just like the rest of us, filling out an insurance claim form.  
+
+<<link>> 
+
+Jump to domain.com Business & Tech Section &rarr;
+
+
+
+<<link>> 
+Obituaries
+
+
+
+<<link>> 
+Horace Ward, 88, US judge who overcame bias
+
+<<link>> 
+
+<<link>> 
+Before becoming Georgia&rsquo;s first black federal judge, Mr. Ward was rejected by the University of Georgia&rsquo;s law school in 1951 because of his race. 
+
+
+
+
+<<link>> 
+Ozzie Silna, 83, basketball team owner who made shrewd deal with NBA
+
+<<link>> 
+
+<<link>> 
+Mr. Silna turned a fading American Basketball Association franchise into a four-decade windfall. 
+
+
+
+
+<<link>> 
+Willie Williams, 72; led police forces in turmoil
+
+<<link>> 
+
+<<link>> 
+Mr. Williams was the first African-American to lead the police forces in Philadelphia and Los Angeles.  
+
+<<link>> 
+
+Jump to domain.com Obituaries Section &rarr;
+
+
+
+<<link>> 
+Sports
+
+
+
+NHL playoff roundup
+
+<<link>> 
+Radek Faksa powers Stars to Game 1 win 
+
+<<link>> 
+
+<<link>> 
+Radek Faksa scored the tiebreaking goal on a rebound with 4:44 to play and had an assist on the other Dallas goal  
+
+
+
+
+<<link>> 
+Celtics deal with their goodbyes 
+
+<<link>> 
+
+<<link>> 
+In addition to the treasure chest of draft picks, the Celtics have 11 players under contract and have said they will be active in free agency 
+
+
+
+
+<<link>> 
+Former US solicitor general added to Brady&#';s legal team
+
+<<link>> 
+
+<<link>> 
+Theodore Olson&rsquo;s experience is the surest sign yet that Brady will exhaust every legal avenue before accepting his suspension.  
+
+<<link>> 
+
+Jump to domain.com Sports Section &rarr;
+
+
+
+<<link>> 
+Good Life
+
+
+
+<<link>> 
+How minimalism teaches you to be happy with less
+
+<<link>> 
+
+<<link>> 
+Joshua Fields Millburn and Ryan Nicodemus simplified life, which led to them founding the Minimalists and the art of letting go. 
+
+
+
+
+<<link>> 
+Kelly Ripa, Michael Strahan, and our obsession with public splits 
+
+<<link>> 
+
+<<link>> 
+At a time when celebrity divorces come with numbing regularity, it&rsquo;s somehow the professional break-ups that really get to us. 
+
+
+
+
+<<link>> 
+This year, let mom go where she wants
+
+<<link>> 
+
+<<link>> 
+Flowers are good and cards are nice, and by all means, talk to her. But to really indulge mom this year, focus on her interests.  
+
+<<link>> 
+
+Jump to domain.com Good Life Section &rarr;
+
+
+
+<<link>> 
+Comics
+
+<<link>> 
+Crossword
+
+<<link>> 
+Circulars
+
+<<link>> 
+
+Jump to domain.com Circulars Section &rarr;
+
+
+
+<<link>> 
+
+<<link>> 
+domain.com 
+Today's headlines
+  |  
+04/30/2016
+
+
+
+
+About This Email
+
+You received this message because you signed up for the Today's headlines newsletter.
+To automatically unsubscribe, 
+<<link>> 
+please click here.  
+If you wish to unsubscribe from all domain.com newsletters, 
+<<link>> 
+please click here. 
+Please note: this will unsubscribe you from the newsletters only. If you wish to cancel your domain.com subscription, please call 1-888-MY-GLOBE (1-888-694-5623).
+
+<<link>> 
+Manage Your Account  | 
+<<link>> 
+Terms of Service  | 
+<<link>> 
+Privacy Policy  | 
+<<link>> 
+Help Center  | 
+mailto:user@domain.com?subject=Advertising in domain.com 
+Advertise 
+
+Address:
+
+The Boston Globe
+
+135 Morrissey Blvd.
+
+Boston, MA 02125
+
+(c)Copyright 2015 Boston Globe Media Partners, LLC
+
+----------------------------------------
+
+
+
+	This email was sent by:
+	The Boston Globe
+	135 Morrissey Blvd.
+	Boston, MA, 02125, United States
+
+
+
+	We respect your right to privacy - domain.com the following URL to view our policy.
+	( <<link>> )
+
+
+
+	----------------------------------------
+
+
+
+	domain.com the following URL to manage your subscriptions.
+	( <<link>> )
+
+
+
+	domain.com the following URL to update your profile.
+	( <<link>> )
+
+
+
+	domain.com the following URL to unsubscribe.
+	( <<link>> )
+
+

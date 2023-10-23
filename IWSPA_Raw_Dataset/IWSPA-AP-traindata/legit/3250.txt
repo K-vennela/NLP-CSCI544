@@ -1,0 +1,165 @@
+<x-flowed>
+Hi Phil, sorry for the long delay. But here is a first draft of the 
+forcings and models section I was supposed to take the lead on. Hopefully, 
+we can merge that with whatever Caspar has.
+Thanks
+Gavin
+================
+4 Forcing (GS/CA/EZ)  4-5pp
+Histories (CA)
+How models see the forcings, especially wrt aerosols/ozone and
+increasing model complexities (GS)
+An important reason for improving climate reconstructions of the past few
+millenia is that these reconstructions can help us both evaluate
+climate model responses and sharpen our understanding of important
+mechanisms and feedbacks. Therefore, a parallel task to improving
+climate reconstructions is to assess and independently constrain
+forcings on the climate system over that period.
+Forcings can generically be described as external effects on a
+specific system. Responses within that system that also themselves
+have an impact on its internal state are described as feeebacks. For
+the atmosphere, sea surface temperature changes could
+therefore be considered a forcing, but in a coupled ocean-atmosphere
+model they could be a feedback to another external factor or be
+intrinsic to the coupled system. Thus the distinction between forcings and
+feedbacks is not defined a priori, but is a function of the scope of
+the modelled system. This becomes especially important when dealing
+with the bio-geo-chemical processes in climate that effect the
+trace gas concentrations (CO2 and CH4) or aerosols.  For example, if a 
+model
+contains a carbon cycle, than the CO2 variations as a function of
+climate will be a feedback, but for a simpler physical model, CO2 is
+often imposed directly as a forcing from observations, regardless of
+whether in the real world it was a feedback to another change, or a
+result of human industrial activity.
+It is useful to consider the pre-industrial period (pre-1850 or so)
+seperately from the more recent past, since the human influence on
+many aspects of atmospheric composition has increased dramatically in
+the 20th Century. In particular, aerosol and land use changes are
+poorly constrained prior to the late 20th Century and have large
+uncertainties.  Note however, there may conceivably be a role for human
+activities even prior to the 19th Century due to early argiculatural
+activity (Ruddiman, 2003; Goosse et al, 2005).
+In pre-industrial periods, forcings can be usefully separated into
+purely external changes (variations of solar activity, volcanic
+eruptions, orbital variation), and those which are intrinsic to the
+Earth system (greenhouse gases, aerosols, vegetation etc.). Those
+changes in Earth system elements will occur predominantly as feedbacks
+to other changes (whether externally forced or simply as a function of
+internal climate 'noise'). In the more recent past, the human role in
+affecting atmospheric composition (trace gases and aerosols) and land
+use have dominated over natural processes and so these changes can, to
+large extent, be considered external forcings as well.
+Traditionally, the 'system' that is most usually implied when talking
+about forcings and feedbacks are the 'fast' components atmosphere-land
+surface-upper ocean system that, not coincidentally, corresponds to
+the physics contained within atmospheric general circulation models 
+(AGCMs)
+coupled to a slab ocean. What is not included (and therefore considered as 
+a
+forcing according to our previous definition) are 'slow' changes in
+vegetation, ice sheets or the carbon cycle. In the real world these
+features will change as a function of other climate changes, and in
+fact may do so on relatively 'fast' (i..e multi-decadal)
+timescales. Our choice then of the appropriate 'climate system' is
+thus slightly arbitrary and does not give a complete picture of the
+long term sensitivity of the real climate.
+These distinctions become important because the records available for
+atmospheric composition do not record the distinction between feedback
+or forcing, they simply give, for instance, the history of CO2 and
+CH4. Depending on the modelled system, those records will either be a
+modelling input, or a modelling target.
+While there are good records for some factors (particularly the well
+mixed greenhouse gases such as CO2 and CH4), records for others are
+either hopelessly incomplete (dust, vegetation) due to poor spatial or
+temporal resolution or non-existant (e.g. ozone). Thus estimates of
+the magnitude of these forcings can only be made using a model-based
+approach. This can be done using GCMs that include more Earth system
+components (interactive aerosols, chemistry, dynamic vegetation,
+carbon cycles etc.), but these models are still very much a work in
+progress and have not been used extensively for paleo-climatic
+purposes. Some initial attempts have been made for select feedbacks
+and forcings (Gerber et al, 2003; Goosse et al 2006) but a
+comprehensive assessment over the millennia prior to the
+pre-industrial does not yet exist.
+Even for those forcings for which good records exist, there is a
+question of they are represented within the models. This is not so
+much of an issue for the well-mixed greenhouse gases (CO2, N2O, CH4)
+since there is a sophisticated literature and history of including
+them within models (IPCC, 2001) though some aspects, such as minor
+short-wave absorption effects for CH4 and N2O are still not universally 
+included
+(Collins et al, 2006). However, solar effects have been treated in
+quite varied ways.
+The most straightforward way of including solar irradiance effects on
+climate is to change the solar 'constant' (preferably described as
+total solar irradiance - TSI). However, observations show that solar
+variability is highly dependent on wavelength with UV bands having
+about 10 times as much amplitude of change than TSI over a solar cycle
+(Lean, 2000). Thus including this spectral variation for all solar
+changes allows for a slightly different behaviour (larger
+solar-induced changes in the stratosphere where the UV is mostly
+absorbed for instance). Additionally, the changes in UV affect ozone
+production in both the stratosphere and troposphere, and this
+mechanism has been shown to affect both the total radiative forcing
+and dynamical responses (Haigh 1996, Shindell et al 2001;
+2006). Within a chemistry climate model this effect would potentially
+modify the radiative impact of the original solar forcing, but could also
+be included as an additional (parameterised) forcing in standard GCMs.
+There is also a potential effect from the indirect effect of solar
+magnetic variability on the sheilding of cosmic rays, which have been
+theorised to affect the production of cloud condensation nuclei
+(Dickinson, 1975). However, there have been no quantitative
+calculations of the magnitude of this effect (which would require a
+full study of the relevant aerosol and cloud microphysics), and so its
+impact on climate is not (yet) been included.
+Large volcanic eruptions produce significant amounts of sulpher
+dioxide (SO2). If this is injected into the tropical stratosphere
+during a particularly explosive eruption, the resulting sulphate can
+persist in the atmosphere for a number of years (e.g. Pinatubo in
+1991). Less explosive, but more persistent eruptions (e.g. Laki in
+1789??) can still affect climate though in a more regional way and for
+a shorter term (Oman et al, 2005). These aerosols have both a
+shortwave (reflective) and longwave (absorbing) impact on the
+radiation and their local impact on stratospheric heating can have
+important dynamical effects. It is therefore better to include the
+aerosol absorber directly in the radiative transfer code. However, in
+less sophisticated models, the impact of the aerosols has been
+parameterised as the equivalent decrease in TSI. For extreme eruptions
+it has been hypothesised that sulphate production might saturate the
+oxidative capacity of the stratosphere leaving significant amounts of
+residual SO2. This gas is a greenhouse gas and would have an opposite
+effect to the cooling aerosols. This effect however has not yet been
+quantified.
+Land cover changes have occured both due to deliberate modification by
+humans (deforestation, imposed fire regimes, arguculture) as well as a
+feedback to climate change (the desertification of the Sahara ca. 5500
+yrs ago). Changing vegetation in a standard model affects the seasonal
+cycle of albedo, the surface roughness, the impact of snow,
+evapotranspiration (through different rooting depths) etc. However,
+modelling of the yearly cycle of crops, or incorporating the effects
+of large scale irrigation are still very much a work in
+progress.
+Aerosol changes over the last few milllenia are very poorly constrained 
+(if at all). These might have arisen from climatically or human driven 
+changes in dust emissions, ocean biology feedbacks on circulation change, 
+or climate impacts on the emission volatile organics from plants (which 
+also have an impact on ozone chemistry).  Some work on modelling a subset 
+of those effects has been done for the last glacial maximum or the 8.2 kyr 
+event (LeGrande et al, 2006), but there have been no quantitative 
+estimates for the late Holocene (prior to the industrial period).
+Due to the relative expense of doing millennial simulations with 
+state-of-the-art GCMs, exisiting simulations have generally done the 
+minimum required to include relevant solar, GHG and volcanic forcings. 
+Progress can be expected relatively soon on more sophisticated treatments 
+of those forcings and the first quantitative estimates of additional 
+effects.
+=============
+*--------------------------------------------------------------------*
+| Gavin Schmidt             NASA/Goddard Institute for Space Studies |
+|                           2880 Broadway                            |
+| Tel: (212) 678 5627       New York, NY 10025                       |
+|                                                                    |
+| gschmidt@giss.nasa.gov    <<link>>~gavin          |
+*--------------------------------------------------------------------*
+</x-flowed>

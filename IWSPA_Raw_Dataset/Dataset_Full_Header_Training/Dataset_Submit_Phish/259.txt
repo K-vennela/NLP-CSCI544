@@ -1,0 +1,53 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [75.102.5.22])
+	by domain.com (Postfix) with ESMTP id B96A3314408A
+	for <user@domain.com>; Thu,  9 Jul 2015 15:06:54 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 457AF232077;
+	Thu,  9 Jul 2015 15:10:04 +0000 (UTC)
+X-Virus-Scanned: amavisd-new at domain.com
+X-Spam-Flag: NO
+X-Spam-Score: -1.109
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.109 tagged_above=-10 required=6.6
+	tests=[BAYES_05=-1.11, HTML_MESSAGE=0.001]
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id xKMTPCbBgu2Q; Thu,  9 Jul 2015 15:09:59 +0000 (UTC)
+Received: from smtp3.rz.tu-harburg.de (smtp3.rz.tu-harburg.de [134.28.202.138])
+	by domain.com (Postfix) with ESMTP id 5B707232076
+	for <user@domain.com>; Thu,  9 Jul 2015 15:09:58 +0000 (UTC)
+Received: from mail.tu-harburg.de (mail.tu-harburg.de [134.28.202.179])
+	by smtp3.rz.tu-harburg.de (8.13.8/8.13.8) with ESMTP id n69F30uc015712
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=OK);
+	Thu, 9 Jul 2015 17:03:10 +0200
+Received: from webmail.tu-harburg.de (webmail-neu.rz.tu-harburg.de [134.28.202.69])
+	(user=awwcb mech=PLAIN bits=0)
+	by mail.tu-harburg.de (8.13.8/8.13.8) with ESMTP id n69F2n3S017381
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NO);
+	Thu, 9 Jul 2015 17:02:50 +0200
+Received: from domain.com (domain.com
+ [82.128.15.33]) by webmail.tu-harburg.de (Horde Framework) with HTTP; Thu,
+ 09 Jul 2015 17:02:48 +0200
+Message-ID: <20090709170248.183272user@domain.com>
+Date: Thu, 09 Jul 2015 17:02:48 +0200
+From: Christopher Buzie <christopher.buzie-fru@tu-harburg.de>
+To: undisclosed-recipients:;
+Subject: Dear Webmail User
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="=_6zfcci9fl6cc"
+Content-Transfer-Encoding: 7bit
+User-Agent: domain.com Messaging Program (IMP) H3 (4.3.4)
+X-Scanned-By: TUHH Rechenzentrum content checker on 134.28.202.138
+X-Scanned-By: TUHH Rechenzentrum content checker on 134.28.202.179
+Content-Length: 1507
+Lines: 30
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1101
+
+Your mailbox quota has been exceeded the storage domain.com which is 20GB as set by your administrator,You are currently running on 20.9GB.You may not be able to send or receive new mails until you re-validate your mailbox.To re-activate your account please click the link below<<link>> c 2521807070bThanks and we are sorry for the inconviniences Localhost

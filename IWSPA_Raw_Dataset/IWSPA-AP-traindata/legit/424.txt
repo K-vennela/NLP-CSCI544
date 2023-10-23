@@ -1,0 +1,140 @@
+Kevin/Susan,
+I'll look over 3.9. A quick look at the back references to sections which contain
+the detail summarized here, suggests that you've got the right level of section. I guess
+we could add a sentence to say that this/these are the principal section(s), but the whole
+of the x.x section is likely also relevant.
+I've added Susan in to show what we're doing. It might be appropriate for other
+chapters. Part of my reason was traceability, but also we are referring to subsequent
+sections in Chapters 4 and 5.
+The figures seem to be coming along well. Pdfs are also. I'll send another
+reminder about these out later today, when I've had one last look for a few of them.
+I'll attach section numbers as there are so few now.
+Cheers
+Phil
+The bulletted points and back references are below.
+Global-mean surface temperatures show overall warming of 0.75C over the
+19012004 period although rates of temperature rise are much greater after 1979.   Both land
+surface air temperatures and SST show warming although land regions have warmed at a faster
+rate than the oceans for both hemispheres in the past few decades, consistent with the much
+greater mass and thermal inertia of the oceans.  Some areas have not warmed in recent
+decades, and a few have cooled although not significantly. [3.2.2]
+The warming of the climate is consistent with a widespread reduction in the
+number of frost days in mid-latitude regions. The latter is due to an earlier last day of
+frost in spring rather than a later start to the frost season in autumn. The increase in
+the number of daily warm extremes and reduction in cold extremes across over 70% of land
+regions studied have been most marked at night over the 1951-2003 period.  The greater
+increase in nighttime as opposed to daytime temperatures has continued. [3.8.2.1]
+Widespread (but not ubiquitous) decreases in continental DTR since the 1950s
+occur with increases in cloud amounts, as expected from the impact of cloud cover on solar
+heating of the surface. [3.2.2; 3.4.3]
+The temperature increases are consistent with the observed nearly worldwide
+reduction in mountain glacier mass and extent. A few regions of the world where mountain
+glacier termini are determined by winter precipitation totals, as opposed to summer
+temperatures, do show some advances, but these are consistent with changes in circulation
+and associated increases in winter precipitation (e.g., southwestern Norway, parts of
+coastal Alaska, southern Chile and Fjordland of the South Island of New Zealand). Tropical
+ice caps in South America, Africa and Tibet have all shown remarkable declines in recent
+decades. If continued, some may disappear within the next 30 years. Reduction in mass of
+such glaciers depends on local heat budgets, which is not necessarily reflected in local
+temperature changes. The temperature records all show a slight warming, but nowhere near
+the magnitude required to explain the rapid demise of the many of the ice caps. [4.5]
+Snow cover has decreased in many NH regions, particularly in the spring season,
+consistent with greater increases in spring as opposed to autumn temperatures in
+mid-latitude regions. The decrease is accompanied by increased active layer thickness above
+permafrost and decreased seasonally frozen ground depths. [3.3.2.3; 4.2.4, 4.8]
+Sea-ice extents have decreased in the Arctic, particularly in the spring and
+summer seasons, and patterns of the changes are consistent with regions showing a
+temperature increase, although changes in winds are also a major factor. Decreases are
+found in the length of the freeze season of river and lake ice. [3.2.2.3; 4.3, 4.4, 5.3.3]
+Surface temperature variability and trends since 1979 are consistent with those
+estimated by most analyses of satellite retrievals of lower-tropospheric temperatures,
+provided the latter are adequately adjusted for all issues of satellite drift, orbit decay,
+different satellites and stratospheric influence on the T2 records, and also with ERA-40
+estimates of lower-tropospheric temperatures. The range from different datasets of global
+surface warming since 1979 is 0.15 to 0.18 compared to 0.12 to 0.19 K decade^-1 for MSU
+estimates of lower tropospheric temperatures. [3.4.1]
+Stratospheric temperature estimates from radiosondes, satellites (T4) and
+reanalyses are in qualitative agreement recording a cooling of between 0.3 and 0.8C
+decade^-1 since 1979. Increasing evidence suggests increasing warming with altitude from
+1979 to 2004 from the surface through much of the troposphere in the tropics, cooling in
+the stratosphere, and a higher tropopause, consistent with expectations from observed
+increased greenhouse gases and changes in stratospheric ozone. Over extratropical land, the
+larger warming at night is associated with larger surface temperature changes. [3.4.1]
+Radiation changes at the top-of the atmosphere from the 1980s to 1990s, possibly
+ENSO related in part, appear to be associated with reductions in tropical cloud cover, and
+are linked to changes in the energy budget at the surface and in observed ocean heat
+content in a consistent way. [3.4.3; 3.4.4]
+Surface specific humidity has also generally increased after 1976 in close
+association with higher temperatures over both land and ocean.  Consistent with a warmer
+climate, total column water vapour has increased over the global oceans by 1.2  0.3% from
+1988 to 2004, consistent in patterns and amount with changes in SST and a fairly constant
+relative humidity.  Upper tropospheric water vapour has also increased in ways such that
+relative humidity remains about constant, providing a major positive feedback to radiative
+forcing. [3.4.2]
+Over land a strong negative correlation is observed between precipitation and
+surface temperature in summer and in low latitudes throughout the year, and areas that have
+become wetter, such as the eastern United States, have not warmed as much as other land
+areas.  Increased precipitation is associated with increases in cloud and surface wetness,
+and thus increased evaporation. Although records are sparse, continental-scale estimates of
+pan evaporation show decreases, due to decreases in surface radiation associated with
+increases in clouds, changes in cloud properties, and increases in air pollution in
+different regions from 1970 to 1990. There is tentative evidence to suggest that this has
+reversed in recent years.  The inferred enhanced evaporation and reduced temperature
+increase is physically consistent with enhanced latent versus sensible heat fluxes from the
+surface in wetter conditions. [3.3.5; 3.4.4.2]
+Surface observations of cloud cover changes over land exhibit coherent variations
+on interannual to decadal time scales which are positively correlated with gauge-based
+precipitation measurements. [3.4.3]
+Consistent with rising amounts of water vapour in the atmosphere, increases in
+the numbers of heavy precipitation events (e.g., 90/95^th percentile) have been reported
+from many land regions, even those where there has been a reduction in total precipitation.
+Increases have also been reported for rarer precipitation events (1 in 50 year return
+period), but only a few regions have sufficient data to assess such trends reliably.
+[3.4.2; 3.8.2.2]
+Patterns of precipitation change are much more spatially- and seasonally-variable
+than temperature change, but where significant changes do occur they are consistent with
+measured changes in streamflow. [3.3.4]
+Droughts have increased in various parts of the world.  The regions where they
+have occurred seem to be determined largely by changes in SSTs, especially in the tropics,
+through changes in the atmospheric circulation and precipitation. Inferred enhanced
+evaporation and drying associated with warming and decreased precipitation are important
+factors in increases in drought. In the western United States, diminishing snow pack and
+subsequent summer soil moisture reductions have also been a factor. In Australia and
+Europe, direct links to warming have been inferred through the extreme nature of high
+temperatures and heat waves accompanying drought. [3.3.4, QACCS 3.3, 3.8.3, 4.x.x]
+Changes in the freshwater balance of the Atlantic Ocean over the past four
+decades have been pronounced as freshening has occurred in the North Atlantic and also
+south of 25S, while salinity has increased in the tropics and subtropics, especially in
+the upper 500 m. The implication is that there have been increases in moisture transport by
+the atmosphere from the subtropics to higher latitudes, in association with changes in
+atmospheric circulation, including the NAO, thereby increasing precipitation over the
+northern ocean and in adjacent land areas (as observed). [3.3.2, 3.3.3, 5.3.2, 5.5.3]
+Changes in the large-scale atmospheric circulation are apparent. Increasing
+westerlies have been present in both hemispheres as enhanced annular modes. In the NH, the
+NAM and NAO change the flow from oceans to continents and are a major part of the
+wintertime observed change in storm tracks, precipitation and temperature patterns,
+especially over Europe and North Africa. In the SH, SAM changes, in association with the
+ozone hole, have been identified with recent contrasting trends of large warming in the
+Antarctic Peninsula, and cooling over interior Antarctica. [3.5, 3.6, 3.8.3]
+The 19761977 climate shift toward more El Nios has affected Pacific rim
+countries and monsoons throughout the tropics. Over North America, ENSO and PNA-related
+changes appear to have led to contrasting changes across the continent, as the west has
+warmed more than the east, while the latter has become cloudier and wetter. [3.6, 3.7]
+Variations in extratropical storminess are strongly associated mostly with
+changes in mean atmospheric circulation, such as changes and variations in ENSO, NAO, PDO,
+and SAM. Wind and significant wave height analysis support the reanalysis-based evidence
+for an increase in extratropical storm activity in the NH in recent decades. After the late
+1990s, however, some of these variations seemed to change sign. [3.5, 3.6, 3.8.3.2]
+Changes are observed to occur in the number, distribution and tracks of tropical
+storms that are clearly related to ENSO phases and to a slightly lesser extent to the AMO
+and QBO modulations.  Increases in intensity and lifetimes of tropical storms since the
+1970s are consistent with increases in SSTs and atmospheric water vapour. [3.8.3.1]
+Sea level likely rose about 183 cm during the 20^th century, but increased
+3.00.4 mm/year after 1992, when confidence increases from global altimetry measurements.
+During this period, glacier melt has increased ocean mass by order 1.0 mm/year, increases
+in ocean heat content and associated ocean expansion are estimated to contribute 1.6
+mm/year, while changes in land water storage are uncertain but may have taken water out of
+the ocean.  Isostatic rebound contributes about 0.3 mm/year. This near balance gives
+increased confidence that the observed sea level rise is a strong indicator of warming, and
+an integrator of the cumulative energy imbalance at the top of atmosphere.[4.5, 4.7, 4.9.8,
+5.2, 5.5]

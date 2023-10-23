@@ -1,0 +1,35 @@
+Dear all,
+attached is a plot of the monthly anomalies from the only box with non-missing data in the
+bottom row of Phil's grid (centred at 87.5 S).  This is from HadCRUT2v that I picked up
+from the CRU data store in June this year.
+Clearly the dates Tom listed are missing in my version too.  Furthermore, the values from
+1971-1975 are abnormal.  They are not all identical, but are all near zero.  Perhaps
+multiplied by 0.1?
+Similar problems are apparent in HadCRUT and CRUTEM2v too.
+But CRUTEM2 has no gaps and no abnormal periods at the South Pole, so perhaps CRUTEM2 is
+fine?  Tom - if it's urgent, you could extract the South Pole time series from CRUTEM2 and
+use it to overwrite the other 3 data sets until Phil corrects them.
+Regarding the weighting issue...
+Given that the grid doesn't have equal-area boxes, there are always going to be compromises
+with weighting.  Even if you do something to sort out the problem at the S. Pole, how about
+the isolated boxes around the coast of Antarctica, which will be given much less weight
+than an isolated box in the tropics which might also have only 1 station in.  This is
+partly reasonable because of differences in spatial correlation of temperatures between
+tropics and high latitudes, but I'm sure that they don't compensate exactly.
+Specifically for the poles...
+Putting the temperature data into a single box will clearly underweight its contribution in
+area averages (is it significant from a practical point of view once you get to hemispheric
+or global scales though?).
+Replicating it into all boxes in the bottom row will, on the other hand, gives it too much
+weight.  If the area weighting is calculated simply as cos(latitude) then the South Pole
+data will be given this weighting:
+72*cos(87.5) = 3.14
+whereas one box on the equator (or just off) will be given this weighting:
+1*cos(2.5) = 1.00
+so, if replicated around all boxes at 87.5 S, the South Pole would have three times the
+weight of a single tropical box (compared with 23 times less weight if South Pole data
+appears in only one box).
+Perhaps put it in every fourth box, giving a weighting of 0.79 (bit less than tropical,
+which is reasonable for spatial correlation reasons)?
+Cheers
+Tim

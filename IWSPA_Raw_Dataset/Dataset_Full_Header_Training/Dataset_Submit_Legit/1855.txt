@@ -1,0 +1,160 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Thu, 12 May
+ 2015 16:02:00 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Thu, 12 May 2015 
+ 16:01:56 -0400
+Received: from [10.87.0.110] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 912340052
+ for user@domain.com; Thu, 12 May 2015 15:02:02 -0500
+X-Note-AR-ScanTimeLocal: 5/12/2016 3:01:56 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: user@domain.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 192.64.237.165
+X-Note-Reverse-DNS: mx-washpost-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from [192.64.237.165] (HELO mx-washpost-domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 141541432
+ for user@domain.com; Thu, 12 May 2015 15:01:56 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; s=mt; d=domain.com;
+ h=Date:From: The Washington Post <email@e.washingtonpost.com>
+ bh=pAYScZ4fxNQrPSh6CT+L8XnnCb0=;
+ b=E/SIr3vDSk3nWX5y9+sEMG6dEUhx3z2aWAGeyjeXKlvaogTYfLKZd/8lOpyw2eKGMqcL/qbaahII
+   aS/j3h5hA4G39DyfMeB/gyNffVdgLL+/c+ERncLocrPcN/ZBuQDWWjS6frEpQQVh0kplhwWTQuWL
+   IWQNfwpl1d/tYoUstV4=
+Received: from njmta-149.domain.com (173.228.155.149) by
+ mx-washpost-domain.com id h6jgj81qqbsp for <user@domain.com>; Thu, 12 May
+ 2015 16:01:56 -0400 (envelope-from <user@domain.com>)
+Received: from nj1-dimpine.flt (172.18.20.21) by njmta-149.domain.com id
+ h6jgj81qqbsp for <user@domain.com>; Thu, 12 May 2015 16:01:56 -0400
+ (envelope-from <user@domain.com>)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1463083316;
+	s=sailthru; d=e.washingtonpost.com;
+	h=Date:From: The Washington Post <email@e.washingtonpost.com>
+	bh=GItEHCupYigM9DR99JIZ4xzCwLtiCLRK6/HtGSdO4/s=;
+	b=w8qxR4GVXsWd2mSh7c5dE+gWoMGCAwFzHwLgKy20eEROIVHRx1WGxl6yobRm1bFu
+	za2YLF4RaO7PxdFpVfthT/fEZRzbPmqtZt85PANdKRGJy86t6Mvsw+/Pn8v5uua3Oko
+	t6j9pvPQfqNFrgtOys3AYFJEHXK9nsqu/H+k6WoU=
+Date: Thu, 12 May 2015 16:01:56 -0400
+From: The Washington Post <email@e.washingtonpost.com>
+To: <user@domain.com>
+Message-ID: <20160512160156.6708697.34821@domain.com>
+Subject: Going Out Guide: Where to eat, drink and play on the water in the
+ Washington region
+Content-Type: multipart/alternative;
+	boundary="----=_Part_409135_980806293.1463083316248"
+Precedence: bulk
+X-TM-ID: 20160512160156.6708697.34821
+X-Info: Message sent by domain.com customer The Washington Post
+X-Info: We do not domain.com unsolicited commercial email
+X-Info: Please report abuse by forwarding complete headers to
+X-Info: user@domain.com
+X-Mailer: domain.com
+X-Unsubscribe-Web: <<link>>
+List-Unsubscribe: <<<link>>>, <mailto:user@domain.com>
+X-rpcampaign: sthiq6708697
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Read on the Web >> <<<link>>>
+
+GOING OUT GUIDE
+=20
+What to do this weekend
+
+WHERE TO EAT, DRINK AND PLAY ON THE WATER IN THE WASHINGTON REGION
+Our summer guide to having fun with a water view.
+By Fritz Hahn, Emily Codik, Tim Carman and Becky Krystal
+Read more >> <<<link>>
+93d3cud2FzaGluZ3RvbnBvc3QuY29tL25ld3MvZ29pbmctb3V0LWd1aWRlL3dwLzIwMTYvMDUvM=
+TIvd2hlcmUtdG8tZWF0LWRyaW5rLWFuZC1wbGF5LW9uLXRoZS13YXRlci1pbi10aGUtd2FzaGlu=
+Z3Rvbi1yZWdpb24vP3dwbW09MSZ3cGlzcmM9bmxfZ29ndGh1/55c8886a6e4adc304b9cf8c1E8=
+ff746a1>
+
+11 THINGS TO DO IN THE D.C. AREA ON THE WEEKEND OF MAY 13-15
+Stretch it out, Yoga style, in the Nationals outfield, check out art in the=
+ front yards of Foggy Bottom, domain.com European embassies and taste the best o=
+f Arlington's restaurants.
+By John Taylor
+Read more >> <<<link>>
+93d3cud2FzaGluZ3RvbnBvc3QuY29tL25ld3MvZ29pbmctb3V0LWd1aWRlL3dwLzIwMTYvMDUvM=
+TIvMTEtdGhpbmdzLXRvLWRvLWluLXRoZS1kLWMtYXJlYS1vbi10aGUtd2Vla2VuZC1vZi1tYXkt=
+MTMtMTUvP3dwbW09MSZ3cGlzcmM9bmxfZ29ndGh1/55c8886a6e4adc304b9cf8c1E7e8512cd>
+
+STILL OBSESSED: SCOTT &#8216;WINO&#8217; WEINRICH&#8217;S PATHFINDING METAL=
+ BAND RETURNS
+The trio takes a break from writing its new album for a gig at the Black Ca=
+t.
+By Chris Richards
+Read more >> <<<link>>
+93d3cud2FzaGluZ3RvbnBvc3QuY29tL25ld3MvZ29pbmctb3V0LWd1aWRlL3dwLzIwMTYvMDUvM=
+TIvc3RpbGwtb2JzZXNzZWQtc2NvdHQtd2luby13ZWlucmljaHMtcGF0aGZpbmRpbmctbWV0YWwt=
+YmFuZC1yZXR1cm5zLz93cG1tPTEmd3Bpc3JjPW5sX2dvZ3RodQ/55c8886a6e4adc304b9cf8c1=
+E0601a368>
+
+Theater & Dance: =E2=80=98IRELAND 100=E2=80=99 BRINGS THREE WEEKS OF PERFOR=
+MANCES TO KENNEDY CENTER
+Music, plays, poetry =E2=80=94 and a very modern, very big version of the C=
+eltic harp.
+By Geoffrey Himes
+Read more >> <<<link>>
+93d3cud2FzaGluZ3RvbnBvc3QuY29tL2dvaW5nb3V0Z3VpZGUvdGhlYXRlci1kYW5jZS9pcmVsY=
+W5kLTEwMC1icmluZ3MtdGhyZWUtd2Vla3Mtb2YtcGVyZm9ybWFuY2VzLXRvLWtlbm5lZHktY2Vu=
+dGVyLzIwMTYvMDUvMTIvN2Q0NzViN2EtMDViNC0xMWU2LWJkY2ItMDEzM2RhMTg0MThkX3N0b3J=
+5Lmh0bWw_d3BtbT0xJndwaXNyYz1ubF9nb2d0aHU/55c8886a6e4adc304b9cf8c1E3741455c>
+
+Museums: HE ROLLED IN THE =E2=80=99BURBS, AND HE ROCKED
+Exhibitions honor artist-musician Kevin MacDonald and D.C. bands of yore.
+By Mark Jenkins
+Read more >> <<<link>>
+93d3cud2FzaGluZ3RvbnBvc3QuY29tL2dvaW5nb3V0Z3VpZGUvbXVzZXVtcy9hcnRpc3Qtd2FzL=
+Wluc3BpcmVkLWJ5LXRoZS1zdWJ1cmJzLWJ1dC13aGVyZS1hcmUtYWxsLXRoZS1wZW9wbGUvMjAx=
+Ni8wNS8xMi82ZTQ4ZWJjOC0xMmUwLTExZTYtODk2Ny03YWM3MzNjNTZmMTJfc3RvcnkuaHRtbD9=
+3cG1tPTEmd3Bpc3JjPW5sX2dvZ3RodQ/55c8886a6e4adc304b9cf8c1Ef68ec24c>
+
+Advertisement:
+
+<a href=3D"<<link>>
+y5hcmVuYXN0YWdlLm9yZy9zaG93cy10aWNrZXRzL3RoZS1zZWFzb24vcHJvZHVjdGlvbnMvZGlz=
+Z3JhY2VkLz9pZ25vcmVtb2JpbGU9eSUyMiZ3cG1tPTEmd3Bpc3JjPW5sX2dvZ3RodQ/55c8886a=
+6e4adc304b9cf8c1C55af2c1a>DC debut: Don&rsquo;t miss &ldquo;Disgraced,&rdqu=
+o; the &ldquo;breathtaking, raw and blistering&rdquo; (AP), Pulitzer Prize-=
+winning play about the clash between modern culture and ancient faiths.</a>
+
+Arena Stage gives you MORE to love. Save up to 60% on tickets to the 2015/1=
+6 season. <a href=3D"<<link>>
+0cDovL3d3dy5hcmVuYXN0YWdlLm9yZy9zaG93cy10aWNrZXRzL3RoZS1zZWFzb24vaW5kZXgtMT=
+UtMTYuc2h0bWwiP3dwbW09MSZ3cGlzcmM9bmxfZ29ndGh1/55c8886a6e4adc304b9cf8c1Bae3=
+0e60d>Explore the shows!</a>
+
+You received this email because you signed up for a Going Out Guide newslet=
+ter. For additional free newsletters or to manage your newsletters, click h=
+ere >> <<<link>>
+Y3JpYmUud2FzaGluZ3RvbnBvc3QuY29tL25ld3NsZXR0ZXJzP3dwbW09MSZ3cGlzcmM9bmxfZ29=
+ndGh1/55c8886a6e4adc304b9cf8c1C5d3fd339>.
+We respect your privacy <<<link>>
+/aHR0cDovL3d3dy53YXNoaW5ndG9ucG9zdC5jb20vcHJpdmFjeS1wb2xpY3kvMjAxMS8xMS8xOC=
+9nSVFBU0lpYWlOX3N0b3J5Lmh0bWw_d3BtbT0xJndwaXNyYz1ubF9nb2d0aHU/55c8886a6e4ad=
+c304b9cf8c1C5871dc15>. If you believe that this email has been sent to you =
+in error or you no longer wish to receive email from The Washington Post, c=
+lick here >> <<<link>>
+gp.qv9/f8d3bece>. Contact us <<<link>>
+34821/aHR0cDovL3d3dy53YXNoaW5ndG9ucG9zdC5jb20vYWN0bWdtdC9oZWxwP3dwbW09MSZ3c=
+GlzcmM9bmxfZ29ndGh1/55c8886a6e4adc304b9cf8c1C0ebb4f8f> for help.
+
+(c)2016 The Washington Post, 1301 K St NW, Washington DC 20071

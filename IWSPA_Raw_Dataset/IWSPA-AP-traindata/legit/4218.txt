@@ -1,0 +1,55 @@
+David - sounds promising. So, the bottom line is that a little disagreement is ok - that's
+a reflection of the real uncertainty? But, the discrepancy is not all that big in the end?
+No need to take this to a higher level?
+Keith Briffa is back on line and finishing off Section 6.5, so you might want to send him
+an email w/ suggestions that help keep chap 6 compatible w/ 2 and 9 - for example, with
+respect to solar, we acknowledge the forcing could be less than 0.5 W/m**2, and the
+uncertaintly wrt to trop aerosols and land albedo is significant - we could easily be
+closer to chap 9's estimate. Would you say the key is that our analysis acknowledge the
+uncertainty so as to overlap well with the other chapters?
+Keith - please make sure you send your new 6.5 to David too - while you were out, he was
+working hard w/ chap 2 and 9 to make sure we (the IPCC) avoid saying things that confuse.
+The comparison of radiative forcings from 3 different angles is what assessment is all
+about, and it's great David has had the patience to help figure it all out.
+Thx, Peck
+Hi Gabi,
+The key to your proposed solution is the updated numbers from Chapter 2. If indeed the
+radiative forcing change to 1750 is -1.53, then presumably you have made this consistent
+with the earlier part of Chapter 9. The numbers previously looked like this (I haven't
+seen the latest version of 6.5, but I've included the previous estimates we had in the
+ZOD):
+W/m**2
+Chapter 6               Chapter 9
+MM              1750
+Greenhouse gases:               -2.4            -2.6
+TROP aerosols:          0.5             0.2
+Solar                   -0.5            -0.1
+Volcanic:                       ?               ?
+Land albedo:            +0.4            0.03
+Trop O3:                        -0.35           -0.4
+Strat O3:                       +0.15           0.10
+1'st indirect aerosol forcing                   1.2
+STRAT H2O                               -0.13
+AVIATION                                -0.02
+TOTAL                   -2.2            -1.7
+There is essentially no change in greenhouse gas forcing from 1750 to 1700 (see for
+example Crowley et al., GRL, 2003), so the difference in the estimated numbers is
+probably due to inclusion of more things or different choices in Chapter 2. A similar
+statement holds for trop aerosols. One can also use these two to presume that the same
+also holds true for land albedo. [The value listed for that in Chapter 9 is quite small
+compared to some other studies; e.g., Govindasamy et al., GRL, 28, 291-294,2001.] So, to
+the extent these numbers are still discussed in Chapter 6, they should be made
+consistent with those in chapters 2 and 9.
+With respect to your proposed paragraph below: I would drop the comments about trace gas
+differences but saying land albedo changes may have been greater, along with the
+additional solar change, could give us the -1.8 W/m**2 forcing.
+Concerning the temperature response: the Moberg et al paper itself claims 1C difference
+between 1500 and 2000, but the figure seems to show a larger number, perhaps 1.3C
+(again, just eye-balling it). However, the coldest time period is not in the MM but
+before it. I think therefore a better estimate from that paper for the MM would be 1C.
+So, with respect to the sensitivity: if 0.85 W/m**2 is unresolved, then we have a total
+forcing of ~0.95 W/m**2, and a climate response varying between 0.45C and 1C - or a
+climate sensitivity for 2xCO2 of 1.9C to 4.2C, or pretty similar to standard IPCC
+estimates.
+I think this will work!
+David

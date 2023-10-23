@@ -1,0 +1,48 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Wed, 11 Feb 2015 11:48:50 +0100
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id DCCA760063;	Wed, 11 Feb 2015 
+ 10:27:56 +0000 (GMT)
+Received: by domain.com (Postfix)	id A6AD12BC0F1; Wed, 11 Feb 2015 
+ 11:48:50 +0100 (CET)
+Delivered-To: user@domain.com
+Received: from LuciaLaptop (unknown [192.168.1.131])	(using TLSv1 with cipher
+ AES256-SHA (256/256 bits))	(No client certificate requested)	by
+ domain.com (Postfix) with ESMTPSA id 940572BC0DD;	Wed, 11 Feb 2015 
+ 11:48:50 +0100 (CET)
+From: Lucia Rana <l.rana@hackingteam.com>
+To: 'Eric Rabe' <user@domain.com>
+CC: <user@domain.com>
+References: <91user@domain.com> <006201d04124$43e40730$cbac1590$@user@domain.com> <0user@domain.com> <047201d04164$f8c2dec0$ea489c40$@user@domain.com> <602user@domain.com> <user@domain.com>
+In-Reply-To: <user@domain.com>
+Subject: R: E Rabe GOES
+Date: Wed, 11 Feb 2015 11:48:50 +0100
+Message-ID: <026201d045e8$520fa2b0$f62ee810$@user@domain.com>
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdBEd5Lkh4SShKnVSTmQbPo0ndE7KABcKqPQ
+Content-Language: it
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=LUCIA RANA9CB
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1252371169_-_-"
+
+Sorry Eric, may you let me know the missing info about your GEP card? Thanks a lot!Lucia Da: Lucia [mailto:user@domain.com] 
+Inviato: lunedì 9 febbraio 2015 15:49
+A: Eric Rabe
+Cc: user@domain.com
+Oggetto: Re: E Rabe GOES Hi Eric,Could a center- Town hotel be fine for all your stay in London?Regarding your Gep Card, the agency needs to know which air company it is associated to, may you give me this info?Thanks a lot!Lucia 
+Inviato da iPad
+Il giorno 05/feb/2015, alle ore 20:25, Eric Rabe <user@domain.com> ha scritto:Working on a couple of clubs that I might stay in through arrangements here in the US.  But I’d be interested in what you and the travel agent might recommend. Thanks for the offer of help, Eric   Eric Rabe_________________________________________________________tel: 215-839-6639mobile: 215-913-4761Skype: user@domain.com     On Feb 5, 2015, at 11:58 AM, Lucia Rana <user@domain.com> wrote: Hi Eric, did you decide something about your hotel in London, during your stop from Dubai?Should you need any help, feel free to ask. Lucia Da: Eric Rabe [mailto:user@domain.com] 
+Inviato: giovedì 5 febbraio 2015 15:00
+A: Lucia Rana
+Cc: user@domain.com
+Oggetto: Re: E Rabe GOES Thanks so much, and have a good rest of your day. Eric Rabe_________________________________________________________tel: 215-839-6639mobile: 215-913-4761Skype: user@domain.com     On Feb 5, 2015, at 4:15 AM, Lucia Rana <user@domain.com> wrote: Dear Eric, thanks for the info, I inform the travel agency asap.VISA is not required for entering UAE and Singapore, only passport it. Best regards,Lucia Da: Eric Rabe [mailto:user@domain.com] 
+Inviato: mercoledì 4 febbraio 2015 23:50
+A: Lucia Rana
+Oggetto: E Rabe GOES Hi, Lucia, I am now a member of the Global Entry Program, a US government program to allow me to more quickly enter and leave the USA.   Please advise our travel agent that when making reservations for me, they should use my membership number when buying tickets for flights:                    Rabe: Global Entry program Membership #985038824 I’m not quite sure how this works from Italy, but here, there is generally a place to enter that number when buying tickets online: Also — Do you know whether a visa is required for the UAE or for Singapore? Many thanks, Eric    

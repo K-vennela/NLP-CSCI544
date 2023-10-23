@@ -1,0 +1,125 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 10 May
+ 2015 14:35:37 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 10 May 2015 
+ 14:35:35 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 907344730
+ for user@domain.com; Tue, 10 May 2015 13:35:41 -0500
+X-Note-AR-ScanTimeLocal: 5/10/2016 1:35:41 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:69.25.202.73 DOM:domain.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 100
+X-GBUdb-Analysis: 0, 69.25.202.73, Ugly c=0.70892 p=-0.806584 Source Normal
+X-Signature-Violations: 100-6649115-14541-14588-m
+	100-5946650-17641-18909-m
+	100-6649115-19111-19158-m
+	100-6649115-0-19351-f
+X-Note-419: 15.6282 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/10/2016 1:35:39 PM
+X-Warn: OPTOUT
+X-Warn: BULKMAILER
+X-Warn: RETURNPATH Return Path not a valid Email
+X-Note: Spam Tests Failed: OPTOUT, BULKMAILER, RETURNPATH
+X-Country-Path: ->PRIVATE->United States->
+X-Note-Sending-IP: 69.25.202.73
+X-Note-Reverse-DNS: mta-dock-front-18.domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G281 G286 G374 G376 G384 G580 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from mta-dock-front-18.domain.com ([69.25.202.73]
+ verified)  by domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS
+ id 139835079 for user@domain.com; Tue, 10 May 2015 13:35:41 -0500
+Received: from domain.com (unknown [10.0.200.95])	by
+ mta-dock-front-18.domain.com (Postfix) with ESMTP id
+ 3r47GB4yM5z12LR4	for <user@domain.com>; Tue, 10 May 2015 18:34:58 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=domain.com; s=bsdkey; t=1462905298;
+	bh=bHe+/RWQmNWkCUll59Cc5fjUv/b53cHrld/NLY7Ac4M=;
+	h=Date:To:From: "RSVP@BusinessFWD.org" <info@businessfwd.org>
+	b=M6DGrADT9vve/22UMWk328A7E9ltJMtCJv2vxB07o4qBq1tMFATzL3+iYMquyQZ25
+	 SMzGxhvfMzpHwttQ/tGfRURMjJbE4omPT3b6cuy3wZSGMXmCFjmXhfzsFnoAlJ+egt
+	 VxfjUzt+yUAEtp4FYEFoZEaFHE8ov0Hit3OmZwt8=
+Received: from phpmailer 	by domain.com with local
+ (PHPMailer);	Tue, 10 May 2015 18:34:58 +0000
+Date: Tue, 10 May 2015 18:34:58 +0000
+To: Jordan Kaplan <user@domain.com>
+From: "RSVP@BusinessFWD.org" <info@businessfwd.org>
+Reply-To: <user@domain.com>
+Subject: INVITE: Join us for a conf. call with HHS Secretary Sylvia Burwell
+Message-ID: <16user@domain.com>
+X-Mailer: PHPMailer [version 1.71-blue_mailer]
+X-maillist-id: 738357db36af042a
+X-rpcampaign: rp_1094128
+X-maillist-guid: BxBFXA0BFUcDRFQ8BlYLUlYOVFAHAQRVUg0AAj9fVBQJBFhfIwAIV0tcQlI4VAdQUw
+List-Unsubscribe: <<<link>>>, <mailto:user@domain.com>
+Content-Type: multipart/alternative;
+	boundary="b1_16dc3d2295da6d49f848e3471e5068a4"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Jordan,
+
+Join us for a conference call with HHS Secretary Sylvia M. Burwell to =
+discuss the current state of health care.
+
+<<link>>
+
+In our annual survey of Business Forward Affiliate Members, a majority of =
+business leaders told us their top concern is health insurance costs. This =
+call will provide an opportunity for business leaders to share how health =
+care costs have affected their businesses. We will discuss insurance =
+costs, delivery system reform, and how the public and private sectors can =
+work together to improve the cost and quality of health care.
+
+Can you join our conference call with HHS Secretary Sylvia Burwell?
+
+YES > <<link>>
+NO > <<link>>
+
+Here are the details:
+
+WHAT:
+Conference call on health care and insurance costs
+
+WHO:
+Sylvia M. Burwell
+Secretary
+U.S. Department of Health and Human Services
+
+Dr. Meena Seshamani
+Director, Office of Health Reform
+U.S. Department of Health and Human Services
+
+WHEN:
+Wednesday, May 4
+1:00 p.m. ET / 10:00 a.m. PT
+
+Please note: this call is off the record and not for press purposes.
+
+Here's the link to register for this call: =
+<<link>>
+
+Thanks,
+
+Shumway Marshall
+Digital Director
+Business Forward
+
+PAID FOR BY BUSINESS FORWARD
+
+This email was sent to user@domain.com If you wish to unsubscribe, go to =
+<<link>>
+

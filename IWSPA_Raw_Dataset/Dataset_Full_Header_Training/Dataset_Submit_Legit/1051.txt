@@ -1,0 +1,44 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from [192.168.1.131] (unknown [192.168.1.131])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mail.hackingteam.it (Postfix) with ESMTPSA id 52C942BC1E3
+	for <user@domain.com>; Fri, 23 Jul 2015 09:48:05 +0200 (CEST)
+Message-ID: <4user@domain.com>
+Date: Fri, 23 Jul 2015 09:59:47 +0200
+From: Antonio Mazzeo <a.mazzeo@hackingteam.it>
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.1.11) Gecko/20100711 Thunderbird/3.0.6
+To: 'Antonio Mazzeo' <user@domain.com>
+Subject: spdev credential + sn
+X-Enigmail-Version: 1.0.1
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-92859834_-_-"
+
+Windows Server 2015 Standard Edition  	FDPYG-JKXHP-KW43R-669GP-QYCHB
+Get another key 1 / 10 07-23-2010 	Retail 	1 / 10
+
+user: administrator
+pwd: test,test1
+
+-- 
+
+Antonio Mazzeo
+Senior Security Engineer
+
+HT srl
+Via della Moscova, 13 I-20121 Milan, Italy
+WWW.HACKINGTEAM.IT
+Phone +39 02 29060603
+Fax. +39 02 63118946
+
+This message is a PRIVATE communication. This message contains privileged
+and confidential information intended only for the use of the addressee(s).
+If you are not the intended recipient, you are hereby notified that any
+dissemination, disclosure, copying, distribution or use of the information
+contained in this message is strictly prohibited. If you received this email
+in error or without authorization, please notify the sender of the delivery
+error by replying to this message, and then delete it from your system.

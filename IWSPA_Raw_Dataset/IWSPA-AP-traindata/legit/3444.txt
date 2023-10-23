@@ -1,0 +1,140 @@
+Mike,
+Presumably you've seen all this - the forwarded email from Tim. I got this email from
+McIntyre a few days ago. As far as I'm concerned he has the data - sent ages ago. I'll
+tell him this, but that's all - no code. If I can find it, it is likely to be hundreds of
+lines of
+uncommented fortran !  I recall the program did a lot more that just average the series.
+I know why he can't replicate the results early on - it is because there was a variance
+correction for fewer series.
+See you in Bern.
+Cheers
+Phil
+Dear Phil,
+In keeping with the spirit of your suggestions to look at some of the other multiproxy
+publications, I've been looking at Jones et al [1998]. The methodology here is obviously
+more straightforward than MBH98. However, while I have been able to substantially emulate
+your calculations, I have been unable to do so exactly. The differences are larger in the
+early periods.
+Since I have been unable to replicate the results exactly based on available materials, I
+would appreciate a copy of the actual data set used in Jones et al [1998] as well as the
+code used in these calculations.
+There is an interesting article on replication by Anderson et al., some distinguished
+economists, here   [1]<<link>> discussing the
+issue of replication in applied economics and referring favorably to our attempts in
+respect to MBH98.
+Regards, Steve McIntyre
+X-Mailer: QUALCOMM Windows Eudora Version 6.2.0.14
+Date: Tue, 26 Apr 2005 13:28:53 +0100
+To: Phil Jones <p.jones@uea.ac.uk>,"Keith Briffa" <k.briffa@uea.ac.uk>
+From: Tim Osborn <t.osborn@uea.ac.uk>
+Subject: Fwd: CCNet: DEBUNKING THE "DANGEROUS CLIMATE CHANGE" SCARE
+Keith and Phil,
+you both feature in the latest issue of CCNet:
+(4) GLOBAL WARMING AND DATA
+Steve Verdon, Outside the Beltway, 25 April 2005
+[2]<<link>>
+A new paper ([3]<<link>>) from the St. Luis
+Federal Reserve Bank has an interesting paer on how important it is to archive not only
+the data but the code for empirical papers. While the article looks mainly at economic
+research there is also a lesson to be drawn from this paper about the current state of
+research for global warming/climate change. One of the hallmarks of scientific research
+is that the results can be replicable. Without this, the results shouldn't be considered
+valid let alone used for making policy.
+Ideally, investigators should be willing to share their data and programs so as to
+encourage other investigators to replicate and/or expand on their results.3 Such
+behavior allows science to move forward in a Kuhn-style linear fashion, with each
+generation seeing further from the shoulders of the previous generation.4 At a minimum,
+the results of an endeavor-if it is to be labeled "scientific"-should be replicable,
+i.e., another researcher using the same methods should be able to reach the same result.
+In the case of applied economics using econometric software, this means that another
+researcher using the same data and the same computer software should achieve the same
+results.
+However, this is precisely the problem that Steven McIntyre and Ross McKitrick have run
+into since looking into the methodology used by Mann, Hughes and Bradely (1998) (MBH98),
+the paper that came up with the famous "hockey stick" for temperature reconstructions.
+For example, this post here shows that McIntyre was prevented from accessing Mann's FTP
+site. This is supposedly a public site where interested researchers can download not
+only the source code, but also the data. This kind of behavior by Mann et. al. is simply
+unscientific and also rather suspicious. Why lock out a researcher who is trying to
+verify your results...do you have something to hide professors Mann, Bradley and Huges?
+Not only has this been a problem has this been a problem for McIntyre with regards to
+MBH98, but other studies as well. This post at Climate Audit shows that this problem is
+actually quite serious.
+Crowley and Lowery (2000)
+After nearly a year and over 25 emails, Crowley said in mid-October that he has
+misplaced the original data and could only find transformed and smoothed versions. This
+makes proper data checking impossible, but I'm planning to do what I can with what he
+sent. Do I need to comment on my attitude to the original data being "misplaced"?
+Briffa et al. (2001)
+There is no listing of sites in the article or SI (despite JGR policies requiring
+citations be limited to publicly archived data). Briffa has refused to respond to any
+requests for data. None of these guys have the least interest in some one going through
+their data and seem to hoping that the demands wither away. I don't see how any policy
+reliance can be made on this paper with no available data.
+Esper et al. (2002)
+This paper is usually thought to show much more variation than the hockey stick. Esper
+has listed the sites used, but most of them are not archived. Esper has not responded to
+any requests for data. '
+Jones and Mann (2003); Mann and Jones (2004)
+Phil Jones sent me data for these studies in July 2004, but did not have the weights
+used in the calculations, which Mann had. Jones thought that the weights did not matter,
+but I have found differently. I've tried a few times to get the weights, but so far have
+been unsuccessful. My surmise is that the weighting in these papers is based on
+correlations to local temperature, as opposed to MBH98-MBH99 where the weightings are
+based on correlations to the temperature PC1 (but this is just speculation right now.)
+The papers do not describe the methods in sufficient detail to permit replication.
+Jacoby and d'Arrigo (northern treeline)
+I've got something quite interesting in progress here. If you look at the original 1989
+paper, you will see that Jacoby "cherry-picked" the 10 "most temperature-sensitive"
+sites from 36 studied. I've done simulations to emulate cherry-picking from persistent
+red noise and consistently get hockey stick shaped series, with the Jacoby northern
+treeline reconstruction being indistinguishable from simulated hockey sticks. The other
+26 sites have not been archived. I've written to Climatic Change to get them to
+intervene in getting the data. Jacoby has refused to provide the data. He says that his
+research is "mission-oriented" and, as an ex-marine, he is only interested in a "few
+good" series.
+Jacoby has also carried out updated studies on the Gasp series, so essential to MBH98.
+I've seen a chronology using the new data, which looks completely different from the old
+data (which is a hockey stick). I've asked for the new data, but Jacoby-d'Arrigo have
+refused it saying that the old data is "better" for showing temperature increases. Need
+I comment? I've repeatedly asked for the exact location of the Gasp site for nearly 9
+months now (I was going to privately fund a re-sampling program, but Jacoby, Cook and
+others have refused to disclose the location.) Need I comment?
+Jones et al (1998)
+Phil Jones stands alone among paleoclimate authors, as a diligent correspondent. I have
+data and methods from Jones et al 1998. I have a couple of concerns here, which I'm
+working on. I remain concerned about the basis of series selection - there is an obvious
+risk of "cherrypicking" data and I'm very unclear what steps, if any, were taken to
+avoid this. The results for the middle ages don't look robust to me. I have particular
+concerns with Briffa's Polar Urals series, which takes the 11th century results down
+(Briffa arguing that 1032 was the coldest year of the millennium). It looks to me like
+the 11th century data for this series does not meet quality control criteria and Briffa
+was over-reaching. Without this series, Jones et al. 1998 is high in the 11th century.
+Note that none of this actually "disproves" the global warming hypothesis. However, it
+does raise very, very serious questions in my opinion. We are talking about enacting
+policies to curb global warming that could cost not billions, but trillions of dollars.
+Shouldn't we at least be allowed to see the source code, the data and ask for
+replication at a minimum? I think the answer is simple: YES!!
+Dr Timothy J Osborn
+Climatic Research Unit
+School of Environmental Sciences, University of East Anglia
+Norwich  NR4 7TJ, UK
+e-mail:   t.osborn@uea.ac.uk
+phone:    +44 1603 592089
+fax:      +44 1603 507784
+web:      [4]<<link>>~timo/
+sunclock: [5]<<link>>~timo/sunclock.htm
+Prof. Phil Jones
+Climatic Research Unit        Telephone +44 (0) 1603 592090
+School of Environmental Sciences    Fax +44 (0) 1603 507784
+University of East Anglia
+Norwich                          Email    p.jones@uea.ac.uk
+NR4 7TJ
+UK
+----------------------------------------------------------------------------
+References
+1. <<link>>
+2. <<link>>
+3. <<link>>
+4. <<link>>~timo/
+5. <<link>>~timo/sunclock.htm

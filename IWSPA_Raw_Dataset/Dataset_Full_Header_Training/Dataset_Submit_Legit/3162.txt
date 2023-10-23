@@ -1,0 +1,86 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Thu, 19 May
+ 2015 10:06:42 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Thu, 19 May 2015 
+ 10:06:39 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 923895833
+ for user@domain.com; Thu, 19 May 2015 09:06:50 -0500
+X-Note-AR-ScanTimeLocal: 5/19/2016 9:06:50 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:209.85.192.169 DOM:gmail.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-285/SG:5 5/19/2016 9:06:23 AM
+X-GBUdb-Analysis: Unknown
+X-Signature-Violations: 0-0-0-12943-c
+X-Note-419: 15.6251 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/19/2016 9:06:43 AM
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 209.85.192.169
+X-Note-Reverse-DNS: mail-pf0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G407 G675 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from mail-pf0-domain.com ([209.85.192.169] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 141511259
+ for user@domain.com; Thu, 19 May 2015 09:06:50 -0500
+Received: by mail-pf0-domain.com with SMTP id y69so30533024pfb.1
+        for <user@domain.com>; Thu, 19 May 2015 07:06:41 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:From: Gustavo Arnavat <garnavat@gmail.com>
+         :cc;
+        bh=qrWwG5AWtyZ4qtdcexQhpQ4p7xrn7aI42RAWkfl0oGM=;
+        b=RFXsjUwoYZhraiBMyxS554hLBoH6mL5HZfzC6UsTkTnBFPvnedhSll3TZVTo4QMfRz
+         fk25Ku4yT7Mf5ZGrhcnc8AgWTO2+A7IzlB6rwWh2pu7LKBcOXqtVOqUZsk8nlNSmKe1E
+         dw8A1xu4lUMSUBS3R+JD5xedYLysH4ny8ZI45mwV86Hq33dIVf2petYHe3I8EMImc/57
+         4rgeNL740FzGwIE9muvdG1NDGQK5gecbyRINWPS5NRkvH3l9dC5aENVK1dAvv25MGpfP
+         SgNzZNYz+Aj3t0bPvRvYhJDq65C7zX+3g2Vp5D8veEZw0N9ska+pqR7DsVDOm6a+WW0g
+         nmrQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:date
+         :message-id:subject:From: Gustavo Arnavat <garnavat@gmail.com>
+        bh=qrWwG5AWtyZ4qtdcexQhpQ4p7xrn7aI42RAWkfl0oGM=;
+        b=RDUWjYDSnPfpYiEK7sWvRwOUCZxfoeU04XRdbGq6EsUTe9ENI8uikk/AtI6WQ2fwK6
+         tknAl06adhGvUjtKT7NsgrCca94eZRdJfivIPRyvCQ2tQNQanvODF+C94syCXzXR2No5
+         9HNcvM0vs8fCc7rMNMlmZvZTR9FL+7OpZgor8ywfE1c/iMTkR/BECEMNcJ/0pwsMJAgh
+         XXbQ89GbmGJx/Rl5dRMOe+2DL3eStIohey5L5JiDztpNGtgcIZ35AHJBJruHYWqA1rzA
+         P1EfxCid17Ruixfc1LfMOu6/ENoEL8oVTbSjz608B/qFBVNQbQhUAuidyEzJqvRomEG7
+         rbKg==
+X-Gm-Message-State: AOPr4FWVMsTpN7W6hs3gs0dgj9SfdavxTQzxY56W40WEZcYcEgYWl7zF6c1E8vUxhCkn17tVo6JFkLHTLN0Qug==
+X-Received: by 10.98.43.133 with SMTP id r127mr20123509pfr.38.1463666800630;
+ Thu, 19 May 2015 07:06:40 -0700 (PDT)
+Received: by 10.67.29.233 with HTTP; Thu, 19 May 2015 07:06:40 -0700 (PDT)
+In-Reply-To: <475user@domain.com>
+References: <05user@domain.com>
+	<5165user@domain.com>
+	<43552690-user@domain.com>
+	<475user@domain.com>
+Date: Thu, 19 May 2015 10:06:40 -0400
+Message-ID: <user@domain.com>
+Subject: Re: Connecting you...
+From: Gustavo Arnavat <garnavat@gmail.com>
+To: Cynthia Jasso-Rotunno <user@domain.com>
+CC: Brian Bond <user@domain.com>, Erin Weldon
+	<user@domain.com>, "User" <user@domain.com>
+Content-Type: multipart/alternative; boundary="001a11438f7cb8a4bb0533327b1c"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Sure, please let me know what works best.
+
+On Thu, May 19, 2015 at 8:23 AM, Cynthia Jasso-Rotunno <

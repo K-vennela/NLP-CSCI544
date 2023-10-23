@@ -1,0 +1,57 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 7794923CA7D;
+	Thu, 16 Aug 2015 09:40:42 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at domain.com
+X-Spam-Score: 2.8
+X-Spam-Level: **
+X-Spam-Status: No, score=2.8 tagged_above=2 required=5 tests=[BAYES_00=-2.599,
+	RCVD_IN_BL_SPAMCOP_NET=1.558, UNDISC_RECIPS=0.841, URIBL_BLACK=3]
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 5-vcYY4J-MgG; Thu, 16 Aug 2015 09:40:41 -0500 (CDT)
+Received: from mail.inp.gob.ec (mail.inp.gob.ec [190.110.215.78])
+	by domain.com (Postfix) with ESMTP id F266E23CA72;
+	Thu, 16 Aug 2015 09:40:39 -0500 (CDT)
+Received: from inp.gob.ec (localhost.localdomain [127.0.0.1])
+	by mail.inp.gob.ec (Postfix) with ESMTP id 0E47C231B66D;
+	Thu, 16 Aug 2015 09:27:57 -0500 (ECT)
+Received: from 41.203.65.220 ([41.203.65.220]) by mail.inp.gob.ec (Horde
+ Framework) with HTTP; Thu, 16 Aug 2015 09:27:57 -0500
+Message-ID: <20120816092757.20863user@domain.com>
+Date: Thu, 16 Aug 2015 09:27:57 -0500
+From: Webmaster Upgradeing  Department <info@admin.net>
+To: undisclosed-recipients:;
+Subject: Upgrade Your Account
+MIME-Version: 1.0
+Content-Type: text/plain;
+ charset=ISO-8859-1;
+ DelSp="Yes";
+ format="flowed"
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+User-Agent: domain.com Messaging Program (IMP) H3 (4.3.7)
+X-INP-MailScanner-Information: Please contact the ISP for more information
+X-INP-MailScanner-ID: 0E47C231B66D.ADE54
+X-INP-MailScanner: Found to be clean
+X-INP-MailScanner-From: Webmaster Upgradeing  Department <info@admin.net>
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 118
+
+All our webmail users have been advice to upgrade their email account  
+to Version 3.0 GB Unlimited for better email services. Please log in  
+correctly and click upgrade my account.click the below link and fill  
+the details to upgrade your account  
+===========><<link>>
+
+----------------------------------------------------------------
+This message was sent using IMP, the domain.com Messaging Program.
+
+-- 
+This message has been scanned for viruses and
+dangerous content by MailScanner, and is
+believed to be clean.

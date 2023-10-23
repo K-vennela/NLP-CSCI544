@@ -1,0 +1,142 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from [217.56.23.215] (host215-23-static.56-217-domain.com [217.56.23.215])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mail.hackingteam.it (Postfix) with ESMTPSA id 944992BC10B;
+	Thu, 29 Oct 2015 09:49:52 +0100 (CET)
+Subject: Re: Analisi =?ISO-8859-1?Q?domain.com=E0?= sito Web (scambio
+ nominativi e riferimenti)
+From: Luca Filippi <l.filippi@hackingteam.it>
+Reply-To: user@domain.com
+To: Davide Piazza <user@domain.com>
+CC: user@domain.com, user@domain.com,  user@domain.com, user@domain.com, Sibylle Pichler <user@domain.com>, Mirko Battisti <user@domain.com>
+In-Reply-To: <user@domain.com>
+References: <user@domain.com>
+	 <user@domain.com>
+Organization: Hacking Team
+Date: Thu, 29 Oct 2015 09:54:39 +0100
+Message-ID: <1256806479.4795.1.user@domain.com>
+X-Mailer: Evolution 2.26.3 
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-855732455_-_-"
+
+Buongiorno,
+
+abbiamo terminato questa mattina il test di caribz2.
+
+Se ci avvisate appena terminato il rilascio, procediamo con il test di sparkasse2 e di admin.
+
+Grazie,
+
+        Luca Filippi
+
+-----Original Message-----
+
+From: Luca Filippi <l.filippi@hackingteam.it>
+
+To: user@domain.com, user@domain.com, user@domain.com
+
+Cc: user@domain.com, user@domain.com, Sibylle Pichler <user@domain.com>, Mirko Battisti <user@domain.com>
+
+Subject: Re: Analisi vulnerabilità sito Web (scambio nominativi e riferimenti)
+
+Date: Thu, 29 Oct 2015 09:49:15 +0100
+
+Buon giorno, 
+
+abbiamo la necessità di fare un rilascio software del sito, ma non sono aggiornato sull'andamento delle vostre sessioni di attacco.
+
+Possiamo procedere con il rilascio? 
+
+Grazie
+
+Cordiali Saluti
+
+Davide Piazza
+
+2009/10/23 <user@domain.com>
+
+Buonasera,  
+
+come concordato, si riportano di seguito i rispettivi riferimenti tecnici per l'attività di Vulnerability Assessment (sul sito Web concordato - IP: 89.190.163.60) programmata per la prossima settimana (dal 26 al 30 ottobre).
+
+Argentea: 
+
+
+
+
+Davide Piazza        user@domain.com    T. +39 0461 431 635    mobile 348.4418105
+
+Hacking Team: 
+
+Luca Filippi                          user@domain.com               mobile 340.5488603
+
+Enrico Luzzani                   user@domain.com
+
+Antonio Mazzeo              user@domain.com
+
+
+
+
+    Hacking Team provvederà a comunicare quotidianamente inizio e fine attività.
+
+
+
+
+    Cordiali saluti,
+
+    Claudio Biasin 
+
+
+
+
+    -------------------------------------------------------
+
+    Ing. Claudio Biasin 
+
+    Südtiroler Sparkasse AG - Cassa di Risparmio di Bolzano SpA
+
+    Abt. Organisations- und Personalentwicklung - Servizio Sviluppo Organizzativo e del Personale
+
+    Horatzstr. 4 d - Via Orazio 4 d
+
+    I 39100 Bozen/Bolzano
+
+    Tel. +39 0471 231401 - Fax +39 0471 231665
+
+user@domain.com  - <<link>>
+
+    This message (including any attachments) contains confidential 
+
+    information intended for a specific individual and purpose, and is 
+
+    protected by law. If you are not the intended recipient, you should delete 
+
+    this message and are hereby notified that any disclosure, copying, or 
+
+    distribution of this message, or the taking of any action based on it, is 
+
+    strictly prohibited.
+
+-- 
+        Luca Filippi
+Senior Security Engineer
+
+
+
+HT srl 
+Via Moscova, 13 I-20121 Milan, Italy 
+WWW.HACKINGTEAM.IT 
+Phone +39 02 29060603 
+Fax. +39 02 63118946 
+
+
+
+This message is a PRIVATE communication. This message contains privileged and confidential information intended only for the use of the addressee(s).
+If you are not the intended recipient, you are hereby notified that any dissemination, disclosure, copying, distribution or use of the information contained in this message is strictly prohibited. If you received this email in error or without authorization, please notify the sender of the delivery error by replying to this message, and then delete it from your system.
+<<<<<<
+

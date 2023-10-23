@@ -1,0 +1,83 @@
+Received: from domain.com (146.215.230.102) by
+ domain.com (43.130.141.76) with Microsoft SMTP Server id
+ 8.3.342.0; Sat, 14 Jun 2015 05:55:20 -0700
+Received: from domain.com ([160.33.194.231])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s5ECtJCA004677;	Sat, 14 Jun 2015 12:55:19 GMT
+Received: from mail141-ch1-domain.com (mail-domain.com
+ [216.32.181.172])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s5ECv3Qr010833
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL);	Sat, 14 Jun 2015 
+ 12:57:03 GMT
+Received: from mail141-ch1 (localhost [127.0.0.1])	by
+ mail141-ch1-domain.com (Postfix) with ESMTP id 15FD11E02B2;	Sat, 14 Jun
+ 2015 12:55:18 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:74.116.242.20;KIP:(null);UIP:(null);IPV:NLI;H:domain.com;RD:mail.moritzfilm.com;EFVD:NLI
+X-SpamScore: 6
+X-BigFish: vps6(zf7Iz9371Ic89bhc857hddc2hde40hd7ddidbfaidbf9izz1f42h2148h1ee6h1de0h1fdah2073h2146h1202h1e76h2189h1d1ah1d2ah21bch1fc6h208chzz1de098h8275bh1de097hz2dh793h109h839hbe3hd25he5bh1288h12a5h12bdh137ah13eah1441h14ddh1504h1537h153bh162dh1631h1758h18e1h1946h19b5h1b0ah1b2fh1bceh2222h224fh1fb3h1d0ch1d2eh1d3fh1dfeh1dffh1fe8h1ff5h2052h20b3h20f0h2216h2336h2438h2461h2487h24d7h2516h2545h255eh25f6h2605h268bh26d3h2709h27e2h28a1h28c7m34h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received: from mail141-ch1 (localhost.localdomain [127.0.0.1]) by mail141-ch1
+ (MessageSwitch) id 1402750515857086_28133; Sat, 14 Jun 2015 12:55:15 +0000
+ (UTC)
+Received: from domain.com (domain.com
+ [10.43.68.247])	by mail141-domain.com (Postfix) with ESMTP id
+ C84A0240052;	Sat, 14 Jun 2015 12:55:15 +0000 (UTC)
+Received: from domain.com (74.116.242.20) by
+ domain.com (10.43.70.12) with Microsoft SMTP Server id
+ 14.16.227.3; Sat, 14 Jun 2015 12:55:14 +0000
+Received: from domain.com ([10.10.10.14]) by
+ domain.com ([10.10.10.4]) with mapi; Sat, 14 Jun 2015 
+ 05:55:14 -0700
+From: Neal Moritz <nmoritz@moritzfilm.com>
+To: Amy Pascal <user@domain.com>, Phil Lord <user@domain.com>,
+	Chris Miller <user@domain.com>, Hannah Minghella
+	<user@domain.com>, Jonah Hill <user@domain.com>, "Tatum
+ Channing" <user@domain.com>, REID CAROLIN <user@domain.com>
+Date: Sat, 14 Jun 2015 05:55:11 -0700
+Subject: Fwd: Saturday W/E Estimates
+Thread-Topic: Saturday W/E Estimates
+Thread-Index: Ac+Hz320vQlwjaSkSe68L+SBJcq+9Q==
+Message-ID: <6user@domain.com>
+References: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+acceptlanguage: en-US
+Return-Path: user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+Awesome.. Love waking up to a bigger number!!! Love u all
+
+Sent from my iPhone
+
+Begin forwarded message:
+
+From: Neal Moritz <nmoritz@moritzfilm.com>
+
+Date: June 14, 2015 at 5:52:15 AM PDT
+
+To: Neal Moritz <user@domain.com<mailto:user@domain.com>>
+
+Subject: FW: Saturday W/E Estimates
+
+I think DRAGON, today, may be a bit better than the sheet reflects, however it won’t come near JUMP STREET…
+
+Congratulations on this AMAZING opening….
+
+xo
+
+Nikki Rocco
+
+Attachments:
+
+        sat we estimates.pdf (134132 Bytes)
+
+        ATT00001.htm (280 Bytes)
+
+        sat we estimates.xlsx (64657 Bytes)
+
+        ATT00002.htm (232 Bytes)
+

@@ -1,0 +1,122 @@
+Received: from domain.com (146.215.230.102) by
+ domain.com (43.130.141.77) with Microsoft SMTP Server id
+ 8.3.342.0; Fri, 11 Apr 2015 07:03:08 -0700
+Received: from domain.com ([160.33.194.230])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s3BE38PO017309	for <user@domain.com>; Fri, 11 Apr 2015 
+ 14:03:08 GMT
+Received: from mail61-co9-domain.com (mail-domain.com [207.46.163.16])
+	by domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s3BE35md012206	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128
+ verify=FAIL)	for <user@domain.com>; Fri, 11 Apr 2015 14:03:06 GMT
+Received: from mail61-co9 (localhost [127.0.0.1])	by mail61-co9-domain.com
+ (Postfix) with ESMTP id 6A292D00268	for <user@domain.com>; Fri, 11
+ Apr 2015 14:02:40 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:199.15.214.47;KIP:(null);UIP:(null);IPV:NLI;H:em-sj-47.domain.com;RD:em-sj-47.domain.com;EFVD:NLI
+X-SpamScore: 1
+X-BigFish: vps1(z579ehz9371Ic89bhdc43he0eahc857hzz1f42h2148h1ee6h1de0h1fdah21bdh2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6h208chzz1d7338h1de098h1def03h172cfch17326ah1def87h8275bh1bc7b9h8275dh1def86h1de097h186068h1b778fh1ce120h1d68deh1ce121iz2fheh5fh839h8e2h8e3h10d2h1288h12a5h137ah13eah1441h1537h153bh158dh162dh1631h1758h18e1h1946h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1fe8h1ff5h20f0h21e9h2216h2336h2438h2461h2487h24d7h2516h2545h255eh25f6h2605h268bh26d3hbe9i1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail61-co9: domain of em-sj-77.domain.com designates 199.15.214.47 as permitted sender) client-ip=199.15.214.47; user@domain.com; helo=em-sj-47.domain.com ;domain.com ;
+Received: from mail61-co9 (localhost.localdomain [127.0.0.1]) by mail61-co9
+ (MessageSwitch) id 139722495281875_9315; Fri, 11 Apr 2015 14:02:32 +0000
+ (UTC)
+Received: from domain.com (unknown [10.236.132.232])	by
+ mail61-domain.com (Postfix) with ESMTP id EC658CE0222	for
+ <user@domain.com>; Fri, 11 Apr 2015 14:02:31 +0000 (UTC)
+Received: from em-sj-47.domain.com (199.15.214.47) by
+ domain.com (10.236.130.35) with Microsoft SMTP Server id
+ 14.16.227.3; Fri, 11 Apr 2015 14:02:31 +0000
+DKIM-Signature: v=1; a=rsa-sha256; d=pointit.com; s=m1; c=relaxed/relaxed;
+	q=dns/txt; user@domain.com; t=1397224977;
+	h=From: Point It Webinars <webinars@pointit.com>
+	bh=Y2Af7Cofmc6nm33HrBpx7YTcbbTeOFI6Pena5QhL2Ic=;
+	b=XOvuBVQTsBO+o9xCJLD7mQjIRKK3t0iZrGTMkA8gtT6jApWydwkoDMqfICWpwQhF
+	Pyh9dfslLY0qA5J2awG+n5I9CZckEZzU6SnN/sufCgMXzPYuaZ+DzGXAE6F0uT3R
+	gl6TXVdeVOERWIoFekAOGoRYETOzwamj6mF4j9UfpkI=;
+X-MSFBL: YW15X3Bhc2NhbEBzcGUuc29ueS5jb21AZHZwLTE5OS0xNS0yMTQtNDdAYmctc2ot
+	MDFAMDAyLVZLVi03MDc6MTk1OjEyMTE6OTE1OjA6MTMxMzo3OjEyOTc3
+Received: from [10.0.8.1] ([10.0.8.1:36467] helo=domain.com)	by
+ domain.com (envelope-from <user@domain.com>)	(ecelerity
+ 3.5.0.35861 r(Momo-dev:tip)) with ESMTP	id 6C/9B-04697-016F7435; Fri, 11 Apr
+ 2015 09:02:57 -0500
+Date: Fri, 11 Apr 2015 09:02:57 -0500
+From: Point It Webinars <webinars@pointit.com>
+Reply-To: <user@domain.com>
+To: <user@domain.com>
+Message-ID: <1821340609.-2140587465.1397224977001.user@domain.com>
+Subject: Still a few seats left Social advertising ch-ch-changes: What you
+ need to know! Part 2: Instagram, Pinterest, Tumblr & more
+X-Report-Abuse: Please report abuse here: <<link>>
+X-Binding: bg-sj-01
+X-MarketoID: 002-VKV-707:195:1211:915:0:1313:7:12977
+List-Unsubscribe: <mailto:user@domain.com>
+X-MailFrom: Point It Webinars <webinars@pointit.com>
+Return-Path: 002-user@domain.com
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+
+
+
+         logo_point-it.png
+
+  <<link>>      
+
+
+
+
+Social advertising ch-ch-changes: What you need to know!
+
+Part 2: Instagram, Pinterest, Tumblr & more
+
+Hello Amy,
+
+Following on to our recent Webinar focused on social advertising opportunities using Facebook, Twitter and LinkedIn; Part 2 of the series will cover newer advertising opportunities within Instagram, Pinterest, Tumblr, G+ and more.
+
+Visuals and snack-sized content are the new tools of choice in social. They represent a change in the way people consume and contribute information and ideas. Since ads and content are becoming intertwined, smart brands are learning how to harness the power of these platforms to engage with users in new ways that drive meaningful and measurable business results.
+Register Now
+
+
+
+
+In this webinar we'll cover:
+
+What are the advertising opportunities within Instagram, Pinterest, Tumblr, G+
+How/Why are they different from Facebook, Twitter & LinkedIn
+Who should be using them
+
+
+
+
+Missed  Part 1: Facebook, Twitter & LinkedIn? Watch the On Demand version here
+
+
+
+
+         Live Webinar            
+
+
+
+
+         Wednesday April 16, 2014
+
+2:00 PM EST
+
+11:00 AM PST
+
+Register Now
+
+Presented By:
+
+ <<link>>
+
+Ian Mackie
+
+DIRECTOR OF STRATEGY 
+
+Point It 
+
+
+

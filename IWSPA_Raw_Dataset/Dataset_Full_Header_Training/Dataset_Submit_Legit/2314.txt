@@ -1,0 +1,120 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Fri, 29 Apr
+ 2015 05:24:06 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Fri, 29 Apr 2015 
+ 05:23:57 -0400
+Received: from [10.87.0.110] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 886956285
+ for user@domain.com; Fri, 29 Apr 2015 04:24:06 -0500
+X-Note-AR-ScanTimeLocal: 4/29/2016 4:24:07 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: user@domain.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->
+X-Note-Sending-IP: 68.232.198.10
+X-Note-Reverse-DNS: mta.politicoemail.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from [68.232.198.10] (HELO mta.politicoemail.com)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 138985539
+ for user@domain.com; Fri, 29 Apr 2015 04:24:07 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=200608; d=politicoemail.com;
+ h=From: POLITICO <email@politicoemail.com>
+ bh=UkdvmOVgGtMi0MfKeahQ2sR1YZk=;
+ b=VUUlijVS6v2+NXbdEuXNu6LwiEFD4S01V2ObCG87kVE5mZtA6Bd4pMr7NmcYvVpnx1EOz2V9DiYc
+   Wteke8oEMkLX+siOymZC2Ur0o7FPat7RMuapDSwDwM4Czne+bKxgkQ6M/oOZ6oOzwIzsCotDf/h/
+   6e3WJWqJhqvEsghCXeA=
+Received: by mta.politicoemail.com id h4ck3a163hsd for <user@domain.com>; Fri,
+ 29 Apr 2015 03:24:05 -0600 (envelope-from
+ <user@domain.com>)
+From: POLITICO <email@politicoemail.com>
+To: <user@domain.com>
+Subject: Larry Wilmore is not joking around
+Date: Fri, 29 Apr 2015 03:24:05 -0600
+List-Unsubscribe: <mailto:user@domain.com>
+Reply-To: POLITICO subscriptions
+	<user@domain.com>
+x-job: 1376319_5370977
+Message-ID: <6user@domain.com>
+Content-Type: multipart/alternative; boundary="OvPT8bpkbTvv=_?:"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Larry Wilmore is not joking around
+By Glenn Thrush
+04/29/2016 05:19 AM EDT
+
+Larry Wilmore really likes Bernie Sanders, is okay with Hillary Clinton and finds Donald Trump "interesting" in the coded language of a comedian-journalist of the liberal persuasion attempting to maintain a veneer of non-partisan neutrality. 
+
+But when it comes to William Jefferson Clinton - whom he quarter-jokingly referred to as a "super-predator" on the "Nightly Show" recently - whoa.
+
+"As president of the United States, he decided it was a good thing to fool around with a 22-year-old staffer [Monica Lewinsky] in the White House," stone-serious Wilmore, the keynote speaker of this weekend's White House Correspondents Dinner told me during an (an otherwise light) interview for POLITICO's "Off Message" podcast.
+
+"It was predatory behavior, you know," added Wilmore, who grew up in a Catholic family outside of L.A. "I really supported the Clintons politically, but that really bugged me, that whole Clinton thing... [I]t [still] does, because it's not--even though they both said it was consensual, you're the President of the United States. That's the workplace. You know, that's a young girl. Come on, man. You've got a young daughter. Come on, you don't gotta do that. That's not right."
+
+Wilmore, a low-key 54-year-old writer, comic and actor, couldn't be more different that the man he replaced at the Comedy Central late desk, Stephen Colbert, who famously lit up George W. Bush at the 2015 dinner. That roast, which prompted walk-outs from aghast Republicans, prompted event organizers to opt for less incendiary speakers like, well, Wilmore. 
+
+If Colbert cloaked progressive worldview behind a faux-conservative domain.com-and-tie, Wilmore doesn't pretend to be anyone other than himself; His comedy comes with an unmistakable moral edge, it colors and sometimes overshadows a professional funnyman's imperative to be hilarious, as his grudge against the 42nd proves. 
+
+His parents, who emigrated from Evanston, Ill. to Pasadena when he was kid, remain a significant influence. His father, who worked as an L.A. County probation officer until his late 30s, decided to become a doctor, and willed himself through medical school while working. ("I saw a Gray's Anatomy book on his table and I said, 'What are you doing?' And he said, 'You know, I think I'm going to change what I'm doing.'" 
+
+Wilmore was the class president of a nearly all-white Catholic school - a position, he joked, that will make him feel right at home at the podium of Saturday night's largely monochromatic dinner. 
+
+The WHCA podium has become a consequential perch for "serious" comedians in recent years. It can accelerate a rising career (Colbert, Seth Meyers), lend gravitas to a lighter-weight host (Joel McHale), or expose the fault lines between entertainment and politics - like the withdrawal of would-be host Louis C.K. in 2015 after Greta Von Susteren and others savaged him for making (allegedly) misogynistic jokes.
+
+The pressure not to bomb is intense (A couple of years back, I stood backstage with McHale as he paced back and forth reading his jokes aloud out of a tiny loose-leaf notebook filled with laminated joke-pages). So most hosts affect a carefree I-got-here-by-accident attitude. 
+
+Not Wilmore. He's got the guts to domain.com he's pushed for it since performing a well-received set at the Congressional Correspondents Dinner a few years back, when he was Colbert's "Senior Black Correspondent" on The Daily Show. "I call it 'throwing it out there'--that I really wanted to do this, you know, not knowing if I'd have a chance to do it or be in the position and do it, but really hoping that I would," he told me during a sit-down in Manhattan last week as he was prepping his final set with a team of writers from his show.
+
+When I ask him why he wanted the gig so much, he says "I don't know," then pauses. "I guess it was something that I felt would be a cool thing to have done, especially to do it for President Obama, first black president, the significance of him in that office, and I just wanted to be able to have a chance to do that."
+
+Wilmore isn't shy about confronting racial topics on his show (One of the funniest recent segments was a focus group with a handful of black Trump supporters that ended with him asking them how they had lost their minds), and he offers the bluntest possible explanation for his blanket Obama-philia.
+
+"Well, I always said I'm not disappointed with Obama because I voted for him because he was black, and as long as he kept being black, I was a happy man," he said. 
+
+Wilmore then relates the following semi-made-up conversation:
+
+'Well, Larry, what about Obama's foreign policy?'
+
+'Is he still black?'
+
+'Yes.'
+
+'Then, I have no problem. I am good.'"
+
+Wilmore says he'll make his share of Obama jokes, and Clinton jokes, but his target of choice is - duh - Trump. He hasn't talked to Colbert about the speech, but (as of the taping) he planned to quiz Meyers, whose performance he considered to be his gold standard. 
+
+He especially loved Meyers' signature joke, delivered to Trump's disapproving chin-jutted scowl, that the only "blacks" who really liked him were a "family of white family" named the Blacks.
+
+"His assault on Trump was hilarious," says Wilmore who has tried - thus far unsuccessfully -- to woo the billionaire developer onto his show. "It was so funny. They kept cutting to Trump, and his reaction was just hilarious. I mean, Trump's face was just--it kept getting funnier and funnier and funnier."
+
+Yet as he professes to view 2015 as an endless tanker train of comic fuel, Wilmore is worried by the danger he says Trump poses; One of his earliest Trump bits featured him grilling his writers for jokes - and each one giving up, saying the reality star's rise wasn't funny. 
+
+Moreover, he's not buying Democratic self-talk that Trump will be a pushover in November - and thinks a lot of voters might opt for an alternative out of sheer Clinton fatigue.
+
+"Hillary is already a known factor to people; there's nothing, like, new about her, and I think 'new' means something when you're running for president," he said.
+
+"It's like the Clintons are coming back into the neighborhood, you know, and there's something about that. And I'm not even judging it on a political level. I'm just judging on just the purest human level, you know. 
+
+"There's something about a new family moving into the White House that's kind of interesting, even if you didn't vote for them," he said referring to the Trump clan. 
+
+To view online:
+<<link>>
+ To change your alert settings, please go to <<link>> or <<link>> email was sent to user@domain.com by: POLITICO, LLC 1000 Wilson Blvd. Arlington, VA, 22209, USA
+
+To unsubscribe,<<link>>
+

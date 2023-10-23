@@ -1,0 +1,92 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [10.5.6.7])
+	by domain.com (Postfix) with ESMTP id 45EBE46A13
+	for <user@domain.com>; Wed,  5 Jul 2015 17:28:04 -0400 (EDT)
+Received: from 192.168.0.1 (host122-238.domain.com [81.75.238.122])
+	by domain.com (Postfix) with SMTP id 531686CD064
+	for <user@domain.com>; Wed,  5 Jul 2015 17:28:04 -0400 (EDT)
+Received: from 248.49.130.128 by ; Wed, 05 Jul 2015 21:19:00 -0100
+Message-ID: <user@domain.com>
+From: "Account Service" <service@chase.com>
+Reply-To: "User" <user@domain.com>
+To: user@domain.com
+Subject: Chase Manhattan Bank - Service Notification
+Date: Wed, 05 Jul 2015 23:25:00 +0100
+X-Mailer: AOL 7.0 for Windows US sub 118
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--9530812142699956453"
+X-Priority: 1
+X-MSMail-Priority: High
+Status: 
+X-Status: 
+X-Keywords: 
+
+    Dear Chase Manhattan Bank Member,
+
+
+
+    This is your =
+official notification from Chase Manhattan Bank
+    that
+  the
+     service(s) listed below  will be
+   deactivated and deleted if not
+  renewed
+   &nbs;=
+p;immediately. Previous notifications
+    have been sent to the
+    Billing 
+    Contact assigned to this account.
+    As the
+    Primary Contact, 
+    you must
+    renew the service(s) listed below =
+or it will
+    be deactivated and deleted. 
+    Renew Now
+
+ =
+
+     SERVICE : Chase Manhattan Bank Online Banking Service
+
+     EXPIRATION: June  9, 2006
+
+
+
+   Thank you,
+
+
+
+   Chase Manhattan Bank Management 
+  Center Customer Support
+
+
+
+   ****************************************************=
+**********
+   IMPORTANT CUSTOMER SUPPORT INFORMATION
+ =
+;  **************************************************************
+
+
+
+   Please do not reply to this message.
+
+
+
+   Document Reference: (87051203).
+
+
+
+   Chase Manhattan Bank,=
+
+
+
+  N.A. Member FDIC. Equal Housing Lender.
+
+     Copyright =A9 2015 Chase Manhat=
+tan Bank, N.A. All rights reserved.
+

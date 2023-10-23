@@ -1,0 +1,29 @@
+<x-flowed>
+Hi Ed,
+On the road, but just had to chime into this debate briefly.
+What you say is of course true, but we have to start somewhere. Step #1 is 
+producing a reconstruction. Without some reasonable estimate of 
+uncertainty, a reconstruction isn't
+very useful in my opinion. Step #2 is producing some reasonable estimate of 
+uncertainty. In my mind, this is based on looking at the calibration 
+residuals, seeing if they pass some basic tests for whiteness, normality, 
+etc., looking at the verification statistics, and seeing if this continues 
+to hold up in an independent sample. It is important to use the longest 
+instrumental records we have for independent verification where possible. 
+Of course, there may be additional biases in the predictors that are 
+difficult to identify even in a relatively long verification interval 
+(e.g., ultra low-frequency problems w/ fidelity). Step #3 is trying to 
+evaluate this as best we can (looking at the frequency domain structure of 
+the predictors themselves, seeing if there is loss of variance at very long 
+timescales, looking at the robustness of long-term trends to 
+standardization issues, etc.), etc...I see this as a successive series of 
+diagnostics and self-consistency checks that iterate towards getting a 
+reasonable handle on the uncertainties. This is the approach
+that we have taken, and I think it is the most appropriate...
+I firmly believe that a reconstruction w/ out some reasonable estimate of 
+uncertainty is almost useless! If the community wants to use paleodata for 
+signal detection, model validation, etc. I believe that this is absolutely 
+essential to do, whether or not we can do a perfect job.
+I would be very surprised if Hans would disagree w/ my statement above!
+anyways, my two cents on the matter...
+mike

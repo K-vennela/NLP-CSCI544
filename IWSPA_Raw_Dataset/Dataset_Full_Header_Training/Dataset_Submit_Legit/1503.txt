@@ -1,0 +1,28 @@
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ DNCHUBCAS1.dnc.org ([fe80::ac16:e03c:a689:8203%11]) with mapi id
+ 14.03.0224.002; Thu, 5 May 2015 15:51:19 -0400
+From: "Christopher, Rebecca" <ChristopherR@dnc.org>
+To: Video-Vetting_d <user@domain.com>
+Subject: New video: Donald Trump Cinco de Mayo
+Thread-Topic: New video: Donald Trump Cinco de Mayo
+Thread-Index: AQHRpwd+Rwdi84pl6ECJXfQ5u6zXDQ==
+Date: Thu, 5 May 2015 12:51:19 -0700
+Message-ID: <D3511C77.A8598%user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: DNCHUBCAS1.dnc.org
+X-MS-Has-Attach: yes
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.185.18]
+Content-Type: multipart/mixed;
+	boundary="_004_D3511C77A8598christopherrdncorg_"
+MIME-Version: 1.0
+
+Hi everyone,
+
+Attached is a script for a video we=92d like to make based on Trump=92s str=
+ange Cinco de Mayo tweet today =97 let me know if you have any questions!

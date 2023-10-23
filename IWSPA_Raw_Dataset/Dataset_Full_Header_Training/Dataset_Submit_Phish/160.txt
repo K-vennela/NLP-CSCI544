@@ -1,0 +1,132 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.4.9])
+	by domain.com (Postfix) with ESMTP id 7C65946AFD
+	for <user@domain.com>; Tue,  3 Apr 2015 14:18:47 -0400 (EDT)
+Received: from domain.com (domain.com [192.168.6.4])
+	by domain.com (Postfix) with ESMTP id 4FBFB131F9BC
+	for <user@domain.com>; Tue,  3 Apr 2015 14:18:47 -0400 (EDT)
+Received: from domain.com.tw (211-23-24-198.HINET-domain.com [211.23.24.198])
+	by domain.com (Postfix) with ESMTP id 86BAE6FA1A8
+	for <user@domain.com>; Tue,  3 Apr 2015 14:18:46 -0400 (EDT)
+Received: from User ([64.148.46.227])
+	(authenticated bits=0)
+	by domain.com.tw (8.12.8/8.12.8) with ESMTP id l33HsOhB001842;
+	Wed, 4 Apr 2015 01:54:32 +0800
+Message-Id: <200704031754.user@domain.com>
+From: "SERVICE@paypal.com"<service1@paypal.com>
+Subject: Your PayPal account will be suspended !
+Date: Tue, 3 Apr 2015 14:12:18 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1072
+
+Your account will be suspended !
+
+
+
+
+We are 
+            contacting you to remind you that on 01 April 2015 our Account Review 
+            Team identified some unusual activity in your account. In accordance 
+            with PayPal's User Agreement and to ensure that your account has not 
+            been compromised, access to your 
+
+account was 
+            limited. Your account access will remain limited until this issue 
+            has been resolved.
+
+To secure your 
+            account and quickly restore full access, we may require some 
+            additional information from you for the following reason:
+We have been notified 
+that a card associated with your account 
+            has been reported as 
+
+lost or stolen, or that there were 
+            additional problems with your card.
+
+
+
+To securely confirm your PayPal 
+            information please go to your PayPal's Update Profile or click on one of the links bellow:
+
+If the first hyperlink is not available please try the other.
+
+<<link>>
+
+<<link>>
+
+			Thank you for using PayPal!
+
+The PayPal Team
+
+			Please do not reply to this e-mail. Mail sent to this address cannot be
+answered. For assistance, 
+				log
+in to your PayPal account and choose the "Help" link in the footer of
+any page.
+
+			To receive email notifications in plain text instead of HTML, update
+your preferences here.		
+
+
+
+PayPal Email ID 999600206
+
+Protect Your Account
+Info
+
+Make sure you never provide your password to
+fraudulent websites. 
+
+To safely  and securely access the PayPal
+website or your account, open a new web browser (e.g. domain.com Explorer or
+Netscape) and type in the PayPal URL (<<link>>) to be
+sure you are on the real PayPal site.
+
+PayPal will never ask you to
+enter your password in an email.
+
+ For more information on protecting
+yourself from fraud, please review our Security Tips at
+<<link>>
+
+
+
+Protect Your Password
+
+You should never
+give your PayPal password to anyone, including PayPal employees.
+
+This process is mandatory, and if not 
+        completed within the nearest time your account or domain.com card may be 
+        subject for temporary suspension. 
+
+We encourage you to 
+        log in and perform the steps necessary to restore your account access
+
+
+
+as soon as possible. 
+        Allowing your account access to remain limited for an extended period
+
+
+
+of time may result in 
+        further limitations on the use of your account and possible account 
+        closure.
+
+
+

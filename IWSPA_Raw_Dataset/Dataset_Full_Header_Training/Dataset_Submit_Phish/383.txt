@@ -1,0 +1,61 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (dijkstra.cs.uh.edu [127.0.0.1])
+	by dijkstra.cs.uh.edu (Postfix) with ESMTP id 5BB4A23CAA2
+	for <user@domain.com>; Fri, 13 Apr 2015 14:26:15 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at cs.uh.edu
+Received: from dijkstra.cs.uh.edu ([127.0.0.1])
+	by localhost (dijkstra.cs.uh.edu [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id rLqw7exJFN7k for <user@domain.com>;
+	Fri, 13 Apr 2015 14:26:15 -0500 (CDT)
+Received: from smtp3.cc.uh.edu (smtp3.cc.uh.edu [129.7.234.210])
+	by dijkstra.cs.uh.edu (Postfix) with ESMTP id 36AE023CA9E
+	for <user@domain.com>; Fri, 13 Apr 2015 14:26:15 -0500 (CDT)
+Received: from smtp3.cc.uh.edu (smtp3.cc.uh.edu [127.0.0.1])
+	by localhost (Postfix) with SMTP id E0245EE16FA;
+	Fri, 13 Apr 2015 14:26:13 -0500 (CDT)
+Received: from domain.com (domain.com [38.111.141.31])
+	by smtp3.cc.uh.edu (Postfix) with ESMTP id 28414EE16EA;
+	Fri, 13 Apr 2015 14:26:13 -0500 (CDT)
+Received: from [10.0.7.1] (HELO MX01.MAIL.ECHOLABS.NET)
+  by domain.com (CommuniGate Pro SMTP 5.4.1)
+  with ESMTP id 32325270; Fri, 13 Apr 2015 15:26:05 -0400
+Received: from domain.com ([10.10.10.65])
+	by MX01.MAIL.ECHOLABS.NET with Echo Labs
+	id xXRG1i00S1QBkiq01XS4Jl; Fri, 13 Apr 2015 15:26:04 -0400
+X-CNFS-Analysis: v=1.1 cv=/IzkHDyCYHVq5qjVyP6+oWvHaaqNH4XEOlnQk5eXrPE= c=1
+ sm=1 a=IkcTkHD0fZMA:10 a=g4c3WgGpe08A:10 a=NVas+J03WvwBkIMD4eshyQ==:17
+ a=KhesbcVSAAAA:20 a=7LiFecBHl6Eomdz_E1AA:9 a=QEXdDO2ut3YA:10
+ a=oInQH197mdMA:10 a=n-usplJ46FEA:10 a=x44agWnDTerBZ44B6kOejZ+Okj4=:19
+ a=+4ycb3rHkpFYnF9S9CQpvA==:117
+X-CMAE-Score: 0.00
+X-Scanned-by: CMAE
+Received: from [195.210.29.3] (account user@domain.com)
+  by domain.com (CommuniGate Pro WEBUSER 5.4.1)
+  with HTTP id 2478936; Fri, 13 Apr 2015 15:25:54 -0400
+From: "UNIVERSITY OF HOUSTON" <info@uh.edu>
+Subject: Good News!
+X-Mailer: CommuniGate Pro WebUser v5.4.1
+Date: Fri, 13 Apr 2015 15:25:54 -0400
+Message-ID: <user@domain.com>
+MIME-Version: 1.0
+Content-Type: text/plain;charset=utf-8; format="flowed"
+Content-Transfer-Encoding: 8bit
+To: undisclosed-recipients:;
+X-PMX-Version: 5.5.9.395186, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2012.4.13.191515
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 82
+
+You Can now login to Uh forum and get the latest Update 
+and information/service.Please use the below link 
+<<link>> to get more information about the 
+service.
+Sign.
+HELP DESK
+UNIVERSITY OF HOUSTON
+4800 Calhoun Road,
+Houston, Texas 77004
+©2012 The University of Houston

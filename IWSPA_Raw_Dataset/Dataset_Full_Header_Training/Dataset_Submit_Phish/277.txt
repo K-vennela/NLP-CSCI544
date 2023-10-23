@@ -1,0 +1,76 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [75.102.5.22])
+	by domain.com (Postfix) with ESMTP id 78C609AC00D
+	for <user@domain.com>; Sun, 21 Jun 2015 23:53:09 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 9844523208E;
+	Sun, 21 Jun 2015 23:55:52 +0000 (UTC)
+X-Virus-Scanned: amavisd-new at domain.com
+X-Spam-Flag: YES
+X-Spam-Score: 12.241
+X-Spam-Level: ************
+X-Spam-Status: Yes, score=12.241 tagged_above=-10 required=6.6
+	tests=[BAYES_99=3.5, HTML_IMAGE_ONLY_24=1.552, HTML_MESSAGE=0.001,
+	MIME_QP_LONG_LINE=1.396, SPAMMY_XMAILER=2.337, URIBL_BLACK=1.955,
+	URIBL_WS_SURBL=1.5]
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id ZOVIjmd23myc; Sun, 21 Jun 2015 23:55:47 +0000 (UTC)
+Received: from domain.com (bio.hgy.es [193.146.180.21])
+	by domain.com (Postfix) with ESMTP id 4DF53232001
+	for <user@domain.com>; Sun, 21 Jun 2015 23:55:42 +0000 (UTC)
+Received: by domain.com (Postfix)
+	id B984F1B682; Mon, 22 Jun 2015 01:52:56 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [193.146.180.108])
+	by domain.com (Postfix) with ESMTP id 94DF81B688
+	for <user@domain.com>; Mon, 22 Jun 2015 01:52:56 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 854C418ED
+	for <user@domain.com>; Mon, 22 Jun 2015 01:52:56 +0200 (CEST)
+X-Quarantine-ID: <nlzZwmbh1Sd0>
+X-Virus-Scanned: Debian amavisd-new at domain.com
+Received: from domain.com ([193.146.180.21])
+	by localhost (domain.com [193.146.180.108]) (amavisd-new, port 10024)
+	with ESMTP id nlzZwmbh1Sd0 for <user@domain.com>;
+	Mon, 22 Jun 2015 01:52:46 +0200 (CEST)
+Received: from 186-100-173-1.domain.com.ar (unknown [186.100.173.1])
+	by domain.com (Postfix) with ESMTP id 601D11B682
+	for <user@domain.com>; Mon, 22 Jun 2015 01:52:14 +0200 (CEST)
+Received: from 186.100.173.1 by domain.com; Mon, 22 Jun 2015 01:48:03 +0100
+Message-ID: <000d01c9f2ca$b7b3a890$6400user@domain.com>
+From: "JPMorgan Chase Bank" <Chase@reply.chase.com>
+To: <user@domain.com>
+Subject: ***SPAM*** official information for Chase Bank client.
+Date: Mon, 22 Jun 2015 01:48:03 +0100
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0007_01C9F2CA.B7B3A890"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 4.72.2106.4
+X-MimeOLE: Produced By Microsoft MimeOLE V4.72.2106.4
+Content-Length: 3281
+Lines: 124
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1082
+
+Note: This is a service message regarding the Chase Customer Form.
+Dear customer:
+As part of the new security measures, all Chase bank customers are required=
+ to complete Chase Customer Form. Please complete the form as soon as possi=
+ble.
+To access the form please click on the following link:
+<<link>>
+87262508900016482051634789395713556268649381435549
+Thank you for being a valued customer.
+
+Sincerely,
+Chase Customer Service
+
+Please don't reply to this Alert.
+

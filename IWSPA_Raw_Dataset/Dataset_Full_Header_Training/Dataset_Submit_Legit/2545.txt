@@ -1,0 +1,100 @@
+Received: from domain.com (146.215.230.104) by
+ domain.com (43.130.141.76) with Microsoft SMTP Server id
+ 8.3.342.0; Tue, 1 Jul 2015 23:53:55 -0700
+Received: from domain.com ([160.33.194.230])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s626rsCJ017377	for <user@domain.com>; Wed, 2 Jul 2015 
+ 06:53:54 GMT
+Received: from mail65-co9-domain.com (mail-domain.com [207.46.163.18])
+	by domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s626mQQB017070	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128
+ verify=FAIL)	for <user@domain.com>; Wed, 2 Jul 2015 06:48:27 GMT
+Received: from mail65-co9 (localhost [127.0.0.1])	by mail65-co9-domain.com
+ (Postfix) with ESMTP id 415B6120337	for <user@domain.com>; Wed,  2
+ Jul 2015 06:53:53 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:54.240.13.25;KIP:(null);UIP:(null);IPV:NLI;H:a13-25.smtp-domain.com;RD:a13-25.smtp-domain.com;EFVD:NLI
+X-SpamScore: 6
+X-BigFish: vps6(z59c9hz98aI98bIc89bhe0f1h70dI1936hc857hd799hzz1f42h1cfdh1ee6h1de0h2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6h208ch1fdah1402mzz172cfch1def03h29e4I17326ah1def87h8275bh1bc7b9h8275dh1de097h186068h18602ehz2fh5fh2a8h839ha12hd24h10d2h1288h12a5h12bdh137ah13eah1441h1537h153bh162dh1631h1758h18e1h1946h19b5h1b0ah1bceh224fh1d0ch1d1eh1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1fe8h1ff5h20f0h2216h22d0h2336h2363h2438h2461h2487h24d7h2516h2545h255eh25f6h2605h268bh26d3h27e2h282bh28a1h29d0h2a24h214ai251ci2505k)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail65-co9: domain of bounces.amazon.com designates 54.240.13.25 as permitted sender) client-ip=54.240.13.25; user@domain.com; helo=a13-25.smtp-domain.com ;mazonses
+Received: from mail65-co9 (localhost.localdomain [127.0.0.1]) by mail65-co9
+ (MessageSwitch) id 1404284030446586_8897; Wed,  2 Jul 2015 06:53:50 +0000
+ (UTC)
+Received: from domain.com (unknown [10.236.132.225])	by
+ mail65-domain.com (Postfix) with ESMTP id 675A66004F	for
+ <user@domain.com>; Wed,  2 Jul 2015 06:53:50 +0000 (UTC)
+Received: from a13-25.smtp-domain.com (54.240.13.25) by
+ domain.com (10.236.130.19) with Microsoft SMTP Server (TLS) id
+ 14.16.227.3; Wed, 2 Jul 2015 06:53:49 +0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=jvxsykglqiaiibkijmhy37vqxh4mzqr6; d=amazon.com; t=1404283997;
+	h=Date:From: "auto-confirm@amazon.com" <auto-confirm@amazon.com>
+	bh=kedBaiuPKGCqKQs81XjJeNxOavbbmm42kYFDF+fw320=;
+	b=beNvJPtLMm/gf6+0Dv8Jma1MR/mUzfKhxr3Y7I92DfA+w+2vFLQZCgtaWU5Uq6qV
+	b+z4Ci6b7uDyr7RvdVvfo1bBZRnRkX1QqrwkPW4NO3sZa3DKmCuFzv+8FoEo0SAVz+o
+	RdLm0D3vUqUKJX0AymfyOXG3MgPEj0sAhVFfjFy4=
+Date: Wed, 2 Jul 2015 06:53:17 +0000
+From: "auto-confirm@amazon.com" <auto-confirm@amazon.com>
+Reply-To: "User" <user@domain.com>
+To: Amy Pascal <user@domain.com>
+Message-ID: <00000146user@domain.com>
+Subject: Your domain.com order of "Vietnam - A Television History" and 2
+ more items.
+Bounces-to: 20140702065314user@domain.com
+X-AMAZON-MAIL-RELAY-TYPE: notification
+X-AMAZON-RTE-VERSION: 2.0
+X-Original-MessageID: <urn.correios.msg.20140702065314bd4ce9d9f1fd4655aa719f2b5279153d@1404283996870.rte-svc-1d2-i-c71948b7.us-east-1.amazon.com>
+X-SES-Outgoing: 2014.07.02-54.240.13.25
+Return-Path: 
+ 20140702065314user@domain.com
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+
+
+
+domain.com              Your Recommendations 
+
+ |  Your Account  |  domain.com         
+
+Order Confirmation
+
+Order #114-8961992-6925061
+
+Order #114-8769047-7541823
+
+Hello Amy Pascal,
+
+Thank you for shopping with us. We’ll send a confirmation once your items have shipped. Your order details are indicated below. If you would like to view the status of your order or make any changes to it, please domain.com Your Orders on domain.com. 
+Your purchase has been divided into 2 orders. 
+
+Order Details
+
+Order #114-8961992-6925061
+
+Placed on Tuesday, July 1, 2015         
+
+Your estimated delivery date is:
+
+Wednesday, July 9, 2015 -
+
+Thursday, July 24, 2014 
+
+Your shipping speed:
+
+Standard Shipping 
+
+Your Orders Your order will be sent to:
+
+Amy Pascal
+
+966 OAKMONT ST
+
+LOS ANGELES, CALIFORNIA 90049-2228
+
+United States 
+
+
+

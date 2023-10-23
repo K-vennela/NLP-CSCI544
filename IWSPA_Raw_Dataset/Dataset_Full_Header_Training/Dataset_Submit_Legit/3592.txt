@@ -1,0 +1,61 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Wed, 12 Nov 2015 09:37:07 +0100
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id 6B16D60030;	Wed, 12 Nov 2015 
+ 08:19:31 +0000 (GMT)
+Received: by domain.com (Postfix)	id A1185B66041; Wed, 12 Nov 2015 
+ 09:37:07 +0100 (CET)
+Delivered-To: user@domain.com
+Received: from EmadPC (unknown [192.168.1.196])	(using TLSv1 with cipher
+ AES128-SHA (128/128 bits))	(No client certificate requested)	by
+ domain.com (Postfix) with ESMTPSA id 8C4CAB6603E;	Wed, 12 Nov 2015 
+ 09:37:07 +0100 (CET)
+From: Emad Shehata <e.shehata@hackingteam.com>
+To: 'Emad Shehata' <user@domain.com>, <user@domain.com>
+CC: 'rsales' <user@domain.com>, 'Daniele Milan'
+	<user@domain.com>
+References: <00ae01cffe53$b8a2c750$29e855f0$@user@domain.com>
+In-Reply-To: <00ae01cffe53$b8a2c750$29e855f0$@user@domain.com>
+Subject: R: domain.com for Astana
+Date: Wed, 12 Nov 2015 09:37:07 +0100
+Message-ID: <00c501cffe53$d7e08530$87a18f90$@user@domain.com>
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AQHP7rmDkwAPKKu5/EGTeTogg1jFS5w9/dJvgBuysBCAAZU/IIABf7OggAAEmkA=
+Content-Language: it
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EMAD SHEHATA450
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-612749665_-_-"
+
+Dear Marat, sorry, I mean Thurday 11 DECEMBER Best regards  Da: Emad Shehata [mailto:user@domain.com] 
+Inviato: mercoledì 12 novembre 2015 09:36
+A: user@domain.com
+Cc: 'rsales'; 'Daniele Milan'
+Oggetto: I: domain.com for Astana Dear Marat, I would like to inform you that we need to postpone the meeting on Thursday 11 November 2014, instead of Tuesday 09 November 2014.Please let me know. Best regards     Da: Emad Shehata [mailto:user@domain.com] 
+Inviato: martedì 11 novembre 2015 10:30
+A: user@domain.com
+Cc: 'rsales'; 'Daniele Milan'
+Oggetto: R: domain.com for Astana Dear Marat, please find attached our passport. We can plan to meet you on Tuesday 09 December 2014.Let me know if it suitable to you. Best regards  Da: Emad Shehata [mailto:user@domain.com] 
+Inviato: lunedì 10 novembre 2015 10:20
+A: user@domain.com
+Cc: 'rsales'
+Oggetto: R: domain.com for Astana Dear Marat, trust this e-mail find you well.Can you kindly let me know if we can ask a “Visa on Arrival” instead of the procedure that you mentioned to you ( please refer to your e-mail in attached). Looking for your responseBest regards  Da: Emad Shehata [mailto:user@domain.com] 
+Inviato: giovedì 23 ottobre 2015 20:18
+A: 'user@domain.com'; 'user@domain.com'
+Oggetto: R: domain.com for Astana Ok thanks 
+-- 
+Emad Shehata 
+Key Account Manager 
+
+Sent from my mobile.
+ Da: Astana Team [mailto:user@domain.com] 
+Inviato: Thursday, October 23, 2015 03:04 PM
+A: Emad Shehata; Emad Shehata <user@domain.com> 
+Oggetto: domain.com for Astana 
+ Yes that's right, these issues will be discussed at the meeting it is possible that something else new. About the changes I'll let you further. Kind Regards

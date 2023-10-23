@@ -1,0 +1,29 @@
+<x-flowed>
+Hi Eystein, Keith and Tim - this seems odd to me, 
+given that the N hem data must completely 
+dominate his global recon. BUT, since the data 
+and recon are his, and our job is to assess what 
+is published, we don't have much choice. We have 
+three options (or more if you can think of them):
+option 1) forget about his recon. Although I 
+sense that there might be some interest in this, 
+we must include his study/data/fig
+option 2) we could make a separate fig to 
+highlight just his global recon, perhaps compared 
+to the global borehole recon. We are dying for 
+space, so I suspect this option isn't ideal 
+either. Expert review of the SOD might suggest 
+it, but in the meantime, I suggest we try to get 
+away with...
+option 3) we include it in the big recon plot, 
+and just make it clear in the caption (and table 
+that goes with the caption if you're going with 
+the table idea) that the Oerleman's curve, though 
+labeled global in the original paper, appears to 
+be representative of (or weighted mostly by, or 
+?) glaciers in the Northern Hemisphere (per his 
+Fig 3a). I think we should leave it to Keith and 
+Tim to figure out the best language, but I think 
+this will work. Could be done as a footnote to 
+the table instead of the caption.
+Make sense? thanks, Peck

@@ -1,0 +1,52 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 383AA23CAFE;
+	Mon, 18 Apr 2015 18:21:12 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id r25xd59GTaM9; Mon, 18 Apr 2015 18:21:10 -0500 (CDT)
+Received: from ns2.avellaneda-domain.com.ar (mail.avellaneda-domain.com.ar [200.71.230.2])
+	by domain.com (Postfix) with ESMTP id 7B90423CAED;
+	Mon, 18 Apr 2015 18:21:10 -0500 (CDT)
+Received: from mail.avellaneda-domain.com.ar (localhost [127.0.0.1])
+	by ns2.avellaneda-domain.com.ar (Postfix) with ESMTP id CB670FA0F;
+	Tue, 19 Apr 2015 04:57:56 -0200 (FNT)
+Received: from 64.20.0.20
+        (SquirrelMail authenticated user gacetillas);
+        by mail.avellaneda-domain.com.ar with HTTP;
+        Tue, 19 Apr 2015 04:57:57 -0200 (FNT)
+Message-ID: <53595.64.20.0.20.1303196277.squirrel@64.20.0.20>
+Date: Tue, 19 Apr 2015 04:57:57 -0200 (FNT)
+Subject: Mutual Aid (Stash of Fortune) 37.5 million USD
+From: "George" <george@info.com>
+Reply-To: user@domain.com
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/plain;charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 66
+
+Mutual Aid (Stash of Fortune) 37.5 million USD
+
+Hi
+I would hold back certain information for security reasons for now until
+you have found time to domain.com the BBC website stated below to enable you
+have an insight into what I intend sharing with you.
+
+<<link>>
+
+Get back to me having visited the above website with this email:
+user@domain.com
+
+Best Regards,
+A former member of the  3rd Infantry Division.

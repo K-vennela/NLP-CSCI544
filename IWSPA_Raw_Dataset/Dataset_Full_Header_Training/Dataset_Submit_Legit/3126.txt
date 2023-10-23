@@ -1,0 +1,109 @@
+Received: from domain.com (146.215.230.105) by
+ domain.com (43.130.141.78) with Microsoft SMTP Server id
+ 8.3.264.0; Thu, 21 Nov 2015 07:35:45 -0800
+Received: from domain.com ([160.33.194.230])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id rALFZiCU011338	for <user@domain.com>; Thu, 21 Nov 2015 
+ 15:35:44 GMT
+Received: from mail63-am1-domain.com (mail-domain.com
+ [213.199.154.201])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id rALFZhBu032199
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Thu, 21 Nov 2015 15:35:44 GMT
+Received: from mail63-am1 (localhost [127.0.0.1])	by mail63-am1-domain.com
+ (Postfix) with ESMTP id D140F3C00CB	for <user@domain.com>; Thu, 21
+ Nov 2015 15:35:37 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:66.179.102.27;KIP:(null);UIP:(null);IPV:NLI;H:domain.com;RD:domain.com;EFVD:NLI
+X-SpamScore: 4
+X-BigFish: vps4(zzc89bhc857hzz1f42h2148h208ch1ee6h1de0h1fdah2073h2146h1202h1e76h1d1ah1d2ah1fc6hzz8275ch1730fah1d7338h1de098h177df4h17326ah1def87h8275bh1ce122h1bc7b9h1def03h1def86h1de097h1de096h186068h1d68deh1def83h1ce121iz2fheh5fh2a8h839hd24he5bh107ah10d2h1288h12a5h137ah13eah1441h1537h153bh162dh1631h1758h18e1h1946h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1fe8h1ff5h20f0h2216h22d0h203fk1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail63-am1: domain of domain.com designates 66.179.102.27 as permitted sender) client-ip=66.179.102.27; user@domain.com; helo=domain.com ;027.domain.com ;
+Received: from mail63-am1 (localhost.localdomain [127.0.0.1]) by mail63-am1
+ (MessageSwitch) id 1385048128316679_21242; Thu, 21 Nov 2015 15:35:28 +0000
+ (UTC)
+Received: from domain.com (unknown [10.3.201.240])	by
+ mail63-domain.com (Postfix) with ESMTP id 49E2E3A00CE	for
+ <user@domain.com>; Thu, 21 Nov 2015 15:35:28 +0000 (UTC)
+Received: from domain.com (66.179.102.27) by domain.com
+ (10.3.207.153) with Microsoft SMTP Server (TLS) id 14.16.227.3; Thu, 21 Nov
+ 2015 15:35:22 +0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=e2ma; d=domain.com;
+ h=Content-Type:MIME-Version:Subject:From: Stockland Martel <talentinfo@stocklandmartel.com>
+ bh=QKNoNkBRGJ2kLPUqeE0smtrZFy8=;
+ b=LmX2zo2sbKrPgnHgzbYn+bVOw2PuY/P3xweKqmmCQ8BL+E6hmzX88zEsbQeCOqsM7rY/bLEDgGPU
+   aB0Li/obSRo45ZhGJpgMOzQMgxpXQvhYHlE+5QmKS9yQIFxABH1QW4v7rWsOOGbO3oLq+92jVymM
+   XzAifa4KQAP552vIEzQ=
+Received: by domain.com id hhok3k18e74v for <user@domain.com>;
+ Thu, 21 Nov 2015 09:33:58 -0600 (envelope-from <22614569.9769@domain.com>)
+Subject: New campaigns for NBC, Ford, DSW, Net-a-Porter, and more
+From: Stockland Martel <talentinfo@stocklandmartel.com>
+Reply-To: <user@domain.com>
+To: <user@domain.com>
+Date: Thu, 21 Nov 2015 15:33:58 +0000
+Precedence: bulk
+Message-ID: <user@domain.com>
+List-Unsubscribe: <<<link>>>
+X-Test-Mailing: no
+Return-Path: 22614569.9769@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+If you're having trouble viewing this email, you may see it online. 
+Share this: <<link>> <<link>> <<link>> <<link>>         
+
+
+
+ <<link>>
+
+November/December newsletter
+
+
+
+
+ <<link>>
+
+News, interviews, behind the scenes
+
+
+
+
+Jim Fiscus on making authentic handmade tintypes. 
+
+
+
+
+Lauren Greenfield on doing a social-media-themed ad campaign for the new Chevy Malibu. 
+
+
+
+
+Behind the scenes with Jorg Badura on the coast of France for Nikon. 
+
+
+
+
+Time magazine on Nadav Kander’s cover shoot with Prince Charles. 
+
+ <<link>>
+
+
+
+
+New work
+
+
+
+
+Jason “Giblin” HIndley for domain.com. 
+
+
+
+
+Uwe Duettmann for Hamburger Abendblatt. 
+
+
+
+
+Nigel Cox for Bergdorf 
+

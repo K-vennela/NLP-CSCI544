@@ -1,0 +1,31 @@
+Hi Keith and all, (please everyone have a look at point (4))
+I think section 6.5 is in remarkably good shape (certainly compared to my own..).
+There are some comments from me:
+(1) About the new proxy reconstructions, the section says: "Most of these are shown..." in
+the Figure. This immediately raises the question: why not all? Which one is not shown? This
+section will be scrutinised with great suspicion by some people, so we need to be careful.
+Can you clarify which one you left out, and why? Or can we just write: "These are shown..."
+That would be much nicer.
+(2) Several times you say "simply scaled" - would "scaled" do as well? The "simply" in this
+context sounds a bit like we criticise that.
+(3) Is "predictand" a word that everybody knows? I'd never seen it before.
+(4) Now here is my biggest question, that I think we need to discuss in the whole group.
+Figure 6.5.2-1 shows simulations of the past millennium, relative to 1500-1899 means. Is
+this really the best reference period?
+Contra: it differs from how we show the data reconstructions, i.e., relative to 1961-1990.
+Everyone knows what that climate actually was, since there are good instrumental data for
+1961-1990, so that it makes sense to look at changes relative to that period. Nobody knows
+what the real 1500-1899 mean was, so this is a fictitious baseline.
+Pro: it gets rid of "end effects", i.e. model initialisation problems at the beginning (as
+in Von Storch 04), and different anthropogenic forcings used at the end (e.g. some ignore
+aerosols); the simulations look closer together in this way (right?)
+I have not formed a clear opinion on what is best.
+(5) Also on the figures: I like the grey bands, but here's a suggestion for improvement:
+instead of leaving the core region between those two bands white, I think they should also
+be shaded - either the same grey, or a darker shade of grey. This makes it more clear that
+we are talking about one, wide uncertainty band here, not about two seperate things. It had
+me confused at first when I saw it, even though I was there when we discussed this in
+Beijing.
+Final point: we need to keep an eye on developments concerning the model tests of the proxy
+method, there seem to be several important things in the pipeline there.
+Cheers, Stefan

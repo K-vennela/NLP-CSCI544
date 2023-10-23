@@ -1,0 +1,191 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Fri, 6 May
+ 2015 12:09:02 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Fri, 6 May 2015 
+ 12:09:01 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 900834278;
+ Fri, 06 May 2015 11:09:04 -0500
+X-Note-AR-ScanTimeLocal: 5/6/2016 11:09:03 AM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:67.231.148.137 DOM:perkinscoie.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-185/SG:5 5/6/2016 11:08:42 AM
+X-GBUdb-Analysis: 0, 67.231.148.137, Ugly c=0.626539 p=-0.784897 Source Normal
+X-Signature-Violations: 0-0-0-32767-c
+X-Note-419: 31.2469 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/6/2016 11:09:03 AM
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->United States->LOCAL->United States->
+X-Note-Sending-IP: 67.231.148.137
+X-Note-Reverse-DNS: mx0a-0016domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from mx0a-0016domain.com ([67.231.148.137] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 139236592;
+ Fri, 06 May 2015 11:09:03 -0500
+Received: from pps.filterd (domain.com [127.0.0.1])	by
+ mx0a-0016domain.com (8.16.0.11/8.16.0.11) with SMTP id u46G4f7P007158;
+	Fri, 6 May 2015 09:08:59 -0700
+Received: from dc2sppmail22a.perkinscoie.root.loc ([66.77.102.70])	by
+ mx0a-0016domain.com with ESMTP id 22q1qr4470-1	(version=TLSv1
+ cipher=ECDHE-RSA-AES256-SHA bits=256 verify=FAIL);	Fri, 06 May 2015 09:08:59
+ -0700
+Received: from DC2SPPMAIL24A.perkinscoie.root.loc ([10.170.0.24]) by
+ dc2sppmail22a ([10.170.0.89]) with mapi id 14.03.0266.001; Fri, 6 May 2015 
+ 11:08:58 -0500
+From: "Lopez, Jacquelyn K.  (Perkins Coie)" <JacquelynLopez@perkinscoie.com>
+To: "User" <user@domain.com>,
+	"Lykins, Tyler" <user@domain.com>, EMail-Vetting_D <user@domain.com>
+Subject: RE: For approval: FLOTUS Mother's Day card from AKD
+Thread-Topic: For approval: FLOTUS Mother's Day card from AKD
+Thread-Index: AQHRp6g2sw9UBMsZmkqPYh/i8XNKRJ+sATFQgAASHgCAAAAocIAAAGCg
+Date: Fri, 6 May 2015 16:08:57 +0000
+Message-ID: <2user@domain.com>
+References: <D3522A1B.246CE%user@domain.com>
+ <43user@domain.com>
+ <D3523958.246DF%user@domain.com>
+ <2user@domain.com>
+In-Reply-To: <2user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-workshareprotect-dsp: acd7912408475ebd6598bfc9401f253c
+x-originating-ip: [10.170.34.1]
+Content-Type: multipart/alternative;
+	boundary="_000_2BF03B9E6FAD604E9A562F49648529CF12C07DD1dc2sppmail24a_"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+MIME-Version: 1.0
+
+Good
+
+Jacquelyn Lopez | Perkins Coie LLP
+ASSOCIATE*
+700 Thirteenth Street, N.W. Suite 600
+Washington, DC 20005-3960
+D. +1.202.654.6371
+F. +1.202.654.9949
+E. user@domain.com<mailto:%20user@domain.com>
+*Admitted in State of Florida; Admission to DC Bar pending.
+
+From: "Lopez, Jacquelyn K.  (Perkins Coie)" <JacquelynLopez@perkinscoie.com>
+Sent: Friday, May 06, 2015 12:08 PM
+To: Reid, Jessalyn; Lykins, Tyler; EMail-Vetting_D
+Subject: RE: For approval: FLOTUS Mother's Day card from AKD
+
+Great
+
+From: "Lopez, Jacquelyn K.  (Perkins Coie)" <JacquelynLopez@perkinscoie.com>
+Sent: Friday, May 06, 2015 12:07 PM
+To: Lykins, Tyler; EMail-Vetting_D
+Cc: Walker, Eric
+Subject: Re: For approval: FLOTUS Mother's Day card from AKD
+
++Eric Walker!
+
+--
+Jessalyn Reid
+Deputy Email Director
+Organization
+user@domain.com<mailto:user@domain.com>
+
+From: "Lopez, Jacquelyn K.  (Perkins Coie)" <JacquelynLopez@perkinscoie.com>
+Date: Friday, May 6, 2015 at 11:05 AM
+To: Jessalyn Reid <user@domain.com<mailto:user@domain.com>>, EMail-Vetting_D <E=
+user@domain.com<mailto:user@domain.com>>
+Subject: RE: For approval: FLOTUS Mother's Day card from AKD
+
+Awesome, thanks
+
+From: "Lopez, Jacquelyn K.  (Perkins Coie)" <JacquelynLopez@perkinscoie.com>
+Sent: Friday, May 06, 2015 11:02 AM
+To: EMail-Vetting_D
+Subject: For approval: FLOTUS Mother's Day card from AKD
+
+We'll send these this afternoon from Amy - let us know any flags. Thanks!
+
+-v1(EJB)-
+Sender: AKD
+Subject:
+
+Friend --
+
+How lucky are we to have had Michelle Obama in the White House for the last=
+ seven years? She's been an incredible influence for good in this country, =
+from her advocacy for veterans and their families, to helping our kids -- a=
+nd our country -- get healthier and more active. She's been an incredible r=
+ole model in everything she does, but especially as a mom to Sasha and Mali=
+a. So let's all make sure that her final White House Mother's Day is extra =
+special!  Add your name to her card:
+
+LINK
+
+Thanks so much, NAME!
+
+All the best,
+
+Amy
+
+Amy K. Dacey
+Chief Executive Officer
+Organization
+
+-v2(SK)-
+Sender: domain.com
+Subject:
+
+Friend --
+
+Michelle Obama is seriously the best.
+
+She fights every day to help keep America moving forward, she champions rig=
+hts for girls across the country, and she never stops working to expand opp=
+ortunity for every American family. Our First Lady wears a lot of hats but =
+none is more important than her role as a mother.  So let's all do a someth=
+ing special to wish her a Happy Mother's Day.
+
+Right now, take a moment to sign the card and wish Michelle Obama a happy M=
+other's Day!
+
+LINK
+
+Thanks, NAME. The First Lady's going to love this.
+
+All the best,
+
+Amy
+
+Amy K. Dacey
+Chief Executive Officer
+Organization
+
+--
+Jessalyn Reid
+Deputy Email Director
+Organization
+user@domain.com<mailto:user@domain.com>
+
+________________________________
+
+NOTICE: This communication may contain privileged or other confidential inf=
+ormation. If you have received it in error, please advise the sender by rep=
+ly email and immediately delete the message and any attachments without cop=
+ying or disclosing the contents. Thank you.

@@ -1,0 +1,57 @@
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ dnchubcas2.dnc.org ([::1]) with mapi id 14.03.0224.002; Fri, 29 Apr 2015 
+ 11:00:15 -0400
+From: "User" <UserL@dnc.org>
+To: "User" <user@domain.com>
+Subject: FW: Video Request: User on CNN
+Thread-Topic: Video Request: User on CNN
+Thread-Index: AdGiCpDBDY9qkGP4TbKUhfPDaxZybQAA7Z6AAAC7dnwAAJ8jkAAFCFRw
+Date: Fri, 29 Apr 2015 08:00:15 -0700
+Message-ID: <05user@domain.com>
+References: 
+ <68user@domain.com>,<user@domain.com>
+ <04user@domain.com>
+ <user@domain.com>
+In-Reply-To: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: dnchubcas2.dnc.org
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.176.228]
+Content-Type: multipart/related;
+	boundary="_004_05E01258E71AC046852ED29DFCD139D54DEFB534dncdag1dncorg_";
+	type="multipart/alternative"
+MIME-Version: 1.0
+
+[SigDems]<<<link>>>User, Communications Director
+Organization
+202-863-8148 - user@domain.com<mailto:user@domain.com> - User<<<link>>>
+
+From: "User" <UserL@dnc.org>
+Sent: Friday, April 29, 2015 8:43 AM
+To: Manriquez, Pablo
+Cc: Comm_D
+Subject: RE: Video Request: User on CNN
+
+Organizationclips here: <<link>>
+
+I added the tags: "DNC" "User" "RNC" and "Sean Spicer" and made the video public, which should help it be seen more than unlisted. Let me know if you'd like anything else changed.
+
+From: "User" <UserL@dnc.org>
+Sent: Friday, April 29, 2015 8:18 AM
+To: Polson, Jonathan
+Cc: Comm_D
+Subject: Re: Video Request: User on CNN
+
+Thank you sir! Pls upload to YouTube DNCclips Unlisted
+
+Title: DNC's User Debates RNC's Sean Spicer on New Day
+
+Questions: Forgive my ignorance but How can we optimize visibility to this? Can we add tags or maybe a transcript to the description?
+
+Sent from my iPhone
+

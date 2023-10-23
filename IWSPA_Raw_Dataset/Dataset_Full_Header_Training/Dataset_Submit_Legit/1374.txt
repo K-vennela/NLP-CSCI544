@@ -1,0 +1,26 @@
+Content-Type: multipart/alternative;
+	boundary="Apple-Mail=_1C455349-67CE-4A87-B570-93605A20E85A"
+Subject: Re: Meeting Up
+X-Universally-Unique-Identifier: A35F5053-3192-43C4-A10F-660BEB947477
+From: Jordan Kaplan <kaplanj@dnc.org>
+In-Reply-To: <295535user@domain.com>
+Date: Tue, 10 May 2015 13:02:51 -0400
+CC: "Hoffman, Alex" <user@domain.com>
+Message-ID: <3user@domain.com>
+X-Smtp-Server: C6C38CC7-AF1C-4C17-AB9E-879844FB845B
+References: <user@domain.com> <88429user@domain.com> <user@domain.com> <183user@domain.com> <295535user@domain.com>
+To: Allie Tallering <user@domain.com>
+MIME-Version: 1.0
+
+Sure, swing by around 10?
+
+We are at 430 South Capitol ST, SE
+
+Alex Hoffman will come get you.=20
+
+Jordan Kaplan
+National Finance Director
+Organization
+(202) 488-5002 (o) | (312) 339-0224 (c)
+user@domain.com
+

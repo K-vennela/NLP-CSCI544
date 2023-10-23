@@ -1,0 +1,58 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id CC53223CA85
+	for <user@domain.com>; Tue, 19 Jul 2015 10:46:09 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id mNsoY2k5-V-r for <user@domain.com>;
+	Tue, 19 Jul 2015 10:46:08 -0500 (CDT)
+Received: from email.ames.k12.ia.us (email.ames.k12.ia.us [205.221.128.200])
+	by domain.com (Postfix) with ESMTP id 2209023CA89
+	for <user@domain.com>; Tue, 19 Jul 2015 10:46:07 -0500 (CDT)
+Received: from [172.131.183.11] ([172.131.183.11])
+	by email.ames.k12.ia.us (Kerio MailServer 6.5.2);
+	Tue, 19 Jul 2015 09:44:42 -0500
+From: "Catherine Monroe" <c.monroe@uncc2.org>
+Reply-to: user@domain.com
+Organization: Catherine Monroe
+Subject: Your Cashier Check
+X-Mailer: Kerio MailServer 6.5.2 WebMail Mini
+To: undisclosed-recipients:;
+Message-ID: <20110719094442.8user@domain.com>
+Date: Tue, 19 Jul 2015 09:44:42 -0500
+X-User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2.0.50727;
+	OfficeLiveConnector.1.3; OfficeLivePatch.0.0; FDM; Crazy Browser 2.0.1)
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 3
+
+Haven received your Claim Application, I am writing to inform you that d=
+elay on my part has been due to the change of my duties.=20
+
+I have sucessfully deposited your Cashier Check of =E2=82=AC800,000.00 E=
+UR with the United Parcel Service. I am now in Dubai (UAE) for my new jo=
+b.
+
+I need you to contact the (UPS) for delivery of your check. Please take =
+note that you will pay a shipping/handling fee of =E2=82=AC95 EUR.
+
+Contact UPS with below details and pay the shipping/handling fee (=E2=82=
+=AC95 EUR) to receive your cashier check:=20
+
+Name: Collins Abah=20
+Tel: +2348181477003
+E-mail: user@domain.com
+
+Thank you for your patience.
+
+Catherine Monroe
+Programme Manager=20
+United Nations Human Settlements Programme

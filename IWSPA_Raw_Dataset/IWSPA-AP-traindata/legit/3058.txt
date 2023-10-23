@@ -1,0 +1,87 @@
+Thanks for your response Keith,
+For all:
+Walked into this hornet's nest this morning! Keith and Phil have both
+raised some very good points. And I should point out that Chris, through no
+fault of his own, but probably through ME not conveying my thoughts very
+clearly to the
+others, definitely overstates any singular confidence I have in  my own
+(Mann et al) series. I believe strongly that the strength in our discussion
+will be the fact that certain key features of past climate estimates are
+robust among a number of quasi-independent and truly independent estimates,
+each
+of which is not without its own limitations and potential biases. And I
+certainly don't want to abuse my lead authorship by advocating my own work.
+I am perfectly amenable to keeping Keith's series in the plot, and can ask
+Ian Macadam (Chris?) to add it to the plot he has been  preparing (nobody
+liked my own color/plotting conventions so I've given up doing this myself).
+The key thing is making sure the series are vertically aligned in a reasonable
+way. I had been using the entire 20th century, but in the case of Keith's,
+we need to align the first half of the 20th century w/ the corresponding mean
+values of the other series, due to the late 20th century decline.
+So if Chris and Tom (?) are ok with this, I would be happy to add Keith's
+series. That having been said, it does raise a conundrum: We demonstrate
+(through comparining an exatropical averaging of our nothern hemisphere
+patterns with Phil's more extratropical series) that the major
+discrepancies between Phil's and our series can be explained in terms of
+spatial sampling/latitudinal emphasis (seasonality seems to be secondary
+here, but probably explains much of the residual differences). But that
+explanation certainly can't rectify why Keith's series, which has similar
+seasonality
+*and* latitudinal emphasis to Phil's series, differs in large part in
+exactly the opposite direction that Phil's does from ours. This is the
+problem we
+all picked up on (everyone in the room at IPCC was in agreement that this
+was a problem and a potential distraction/detraction from the reasonably
+concensus viewpoint we'd like to show w/ the Jones et al and Mann et al
+series.  
+So, if we show Keith's series in this plot, we have to comment that
+"something else" is responsible for the discrepancies in this case. Perhaps
+Keith can
+help us out a bit by explaining the processing that went into the series
+and the potential factors that might lead to it being "warmer" than the Jones
+et al and Mann et al series?? We would need to put in a few words in this
+regard. Otherwise, the skeptics have an  field day casting
+doubt on our ability to understand the factors that influence these estimates 
+and, thus, can undermine faith in the paleoestimates. I don't think that
+doubt is scientifically justified, and I'd hate to be the one to have
+to give it fodder!
+The recent Crowley and Lowery multiproxy estimate is an important
+additional piece  of information which I have indeed incorporated into the
+revised draft.
+Tom actually estimates the same mean warming since the 17th century in his
+reconstruction, that we estimate in ours, so it is an added piece of
+information that Phil and I are probably in the ballpark (Tom has used
+a somewhat independent set of high and low-resolution proxy data and a very
+basic compositing methodology, similar to Bradley and Jones, so there is
+some independent new information in this estimate.
+One other key result with respect to our own work is from a paper in the
+press in "Earth Interactions". An unofficial version is available here:
+<<link>>
+THe key point  we emphasize in this paper is that the low-frequency
+variability in our hemispheric temperature reconstruction is basically the
+same if we don't use any dendroclimatic indicators at all (though we
+certainly resolve less variance, can't get a skillful reconstruction as far
+back, and there are notable discrepancies at the decadal and interannual
+timescales). A believe I need to add a sentence to the current discussion
+on this point,
+since there is an unsubstantiated knee-jerk belief that our low-frequency
+variability is suppressed by the use of tree ring data. 
+We have shown that this is not the case: (see here:
+<<link>>
+and specifically, the plot and discussion here:
+<<link>>
+Ironically, you'll note that there is more low-frequency variability when
+the tree ring data *are* used, then when only other proxy and
+historical/instrumental data are used!
+SO I think we're in the position to say/resolve somewhat more than, frankly,
+than Keith does, about the temperature history of the past millennium.
+And the issues I've spelled out all have to be dealt with in the chapter.
+One last point: We will (like it or not) have SUBSTANTIAL
+opportunity/requirement to revise much of this discussion after review, so
+we don't have to resolve everything now. Just the big picture and the
+important details...
+I'm sure we can can up with an arrangement that is amenable to all, and I'm
+looking forward to hearing back from Keith, Phil, and Chris in particular
+about the above, so we can quickly move towards finalizing a first draft.
+Looking forward to hearing back w/ comments,
+mike

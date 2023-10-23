@@ -1,0 +1,81 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [75.102.5.22])
+	by domain.com (Postfix) with ESMTP id 196F63144078
+	for <user@domain.com>; Fri, 17 Jul 2015 11:08:34 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 69DF2232014;
+	Fri, 17 Jul 2015 11:11:55 +0000 (UTC)
+X-Virus-Scanned: amavisd-new at domain.com
+X-Spam-Flag: NO
+X-Spam-Score: 2.348
+X-Spam-Level: **
+X-Spam-Status: No, score=2.348 tagged_above=-10 required=6.6 tests=[AWL=0.270,
+	BAYES_00=-2.599, FORGED_MUA_OUTLOOK=3.116, FORGED_OUTLOOK_HTML=0.001,
+	FORGED_OUTLOOK_TAGS=0.001, HTML_MESSAGE=0.001, MIME_HTML_ONLY=1.457,
+	RDNS_DYNAMIC=0.1]
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id r7wrJIkOhzBk; Fri, 17 Jul 2015 11:11:51 +0000 (UTC)
+Received: from domain.com (209-252-107-18.domain.com [209.252.107.18])
+	by domain.com (Postfix) with ESMTP id 8F57423200E
+	for <user@domain.com>; Fri, 17 Jul 2015 11:11:51 +0000 (UTC)
+Received: from User ([76.191.100.168]) by domain.com with MailEnable ESMTP; Fri, 17 Jul 2015 06:03:45 -0500
+Reply-To: <user@domain.com>
+From: "Vonage.com"<customer_service@vonage.com>
+Subject: You have 1 new ALERT message!
+Date: Fri, 17 Jul 2015 07:06:53 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <user@domain.com>
+X-ME-Bayesian: 0.000000
+To: undisclosed-recipients:;
+Content-Length: 2015 
+Lines: 32
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1106
+
+Dear Vonage Member,
+
+ We have reason to belive that your Vonage Account has been fraudulently accessed by a third party using other ISP(domain.com Service Provider).
+
+ This might have happened due to the following reasons:
+
+- You accessed your account from a different computer or you have changed your Operating System.
+
+- You have dynamic IP address and due to that our system might have interpretated it as a hacking attempt.
+
+- You entered a wrong password 3 times when you tried to connect to your Vonage Account.
+
+ Please understand that your account is safe but is currently suspended.
+
+ This suspension can be easily removed by logging in, by clicking here or the link below:
+
+<<link>>
+
+*We will check your IP address, time zone, and if all matches, your account was never fraudulently accessed.
+
+ We are very sorry if this affects you in any way but our clients'security is a top priority for Vonage.
+
+Regards,
+
+Vonage Security Team.
+
+FREE MONTH OFFER ONLY ON $24.99 UNLIMITED RESIDENTIAL PLAN and the $34.99 VONAGE PRO(sm) PLAN. NEW SUBSCRIBERS ONLY. PLAN FEE WAIVED BUT ALL
+ OTHER CHARGES APPLY. ?Free Calls To Europe Offer (available only with Unlimited Residential Plan and the Vonage Pro Plan) Does Not Apply To Certain Call Types, Such As
+ Calls To Cell Phones, and is limited to Italy, France, Spain, UK and Ireland. Vonage 911 service operates differently than traditional 911. See www.vonage.com/911 for details. 
+Rates exclude: broadband service, regulatory and activation fees and certain other charges, equipment, taxes, & shipping. Additional calling charges may apply on Basic Plans.
+ International calls billed per minute. High-speed domain.com required. Alarms and other systems may not be compatible. Offer valid in US only. Click for Terms of Service. $300 savings
+ claim based on 3/07 survey of competing land line service providers. For details, click www.vonage.com/compare1. *Where availa
+ ble. The number transfer process 
+
+ 2001-2008 Vonage Marketing, Inc., All Rights Reserved.

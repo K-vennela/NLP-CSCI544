@@ -1,0 +1,74 @@
+<x-flowed>
+Dear Tom,
+Thanks for forwarding the message from John Christy. Excuse me for being 
+so blunt, but John's message is just a load of utter garbage.
+I got a laugh out of John's claim that Santer et al. (2008) was "poorly 
+done". This was kind of ironic coming from a co-author of the Douglass 
+et al. (2007) paper, which used a fundamentally flawed statistical test 
+to compare modeled and observed tropospheric temperature trends. To my 
+knowledge, John has NEVER acknowledged that Douglass et al. used a 
+flawed statistical test to reach incorrect conclusions - despite 
+unequivocal evidence from the "synthetic data" experiments in Santer et 
+al. (2008) that the Douglass et al. "robust consistency" test was simply 
+wrong. Unbelievably, Christy continues to assert that the results of 
+Douglass et al. (2007) "still stand". I can only shake my head in 
+amazement at such intellectual dishonesty. I guess the best form of 
+defense is a "robust" attack.
+So how does John support his contention that Santer et al. (2008) was 
+"poorly done"? He begins by stating that:
+"Santer et al. 2008 used ERSST data which I understand has now been 
+changed in a way that discredits the conclusion there".
+Maybe you or Tom Peterson or Dick Reynolds can enlighten me on this one. 
+How exactly have NOAA ERSST surface data changed? Recall that Santer et 
+al. (2008) actually used two different versions of the ERSST data 
+(version 2 and version 3). We also used HadISST sea-surface temperature 
+data, and combined SSTs and land 2m temperature data from HadCRUT3v. In 
+other words, we used four different observational estimates of surface 
+temperature changes. Our bottom-line conclusion (no significant 
+discrepancy between modeled and observed lower-tropospheric lapse-rate 
+trends) was not sensitive to our choice of observed surface temperature 
+dataset.
+John next assets that:
+"Haimberger's v1.2-1.4 (of the radiosonde data) are clearly spurious due 
+to the error in ECMWF as published many places".
+I'll let Leo Haimberger respond to that one. And if v1.2 of Leo's data 
+is "clearly spurious", why did John Christy agree to be a co-author on 
+the Douglass et al. paper which uses upper-air data from v1.2?
+Santer et al. (2008) comprehensively examined structural uncertainties 
+in the observed upper-air datasets. They looked at two different 
+satellite and seven different radiosonde-based estimates of tropospheric 
+temperature change. As in the case of the surface temperature data, 
+getting the statistical test right was much more important (in terms of 
+the bottom-line conclusions) than the choice of observational upper-air 
+dataset.
+Christy's next criticism of our IJoC paper is even more absurd. He 
+states that:
+"Santer et al. 2008 asked a very different question...than we did. Our 
+question was "Does the IPCC BEST ESTIMATE agree with the Best Data 
+(including RSS)?" Answer - No.  Santer et al. asked, "Does ANY IPCC 
+model agree with ANY data set?" ... I think you can see the difference.
+Actually, we asked and answered BOTH of these questions. "Tests with 
+individual model realizations" are described in Section 4.1 of Santer et 
+al. (2008), while Section 4.2 covers "Tests with multi-model 
+ensemble-mean trend". As should be obvious - even to John Christy - we 
+did NOT just compare observations with results from individual models.
+For both types of test ("individual model" and "multi-model average"), 
+we found that, if one applied appropriate statistical tests (which 
+Douglass et al. failed to do), there was no longer a serious discrepancy 
+between modeled and observed trends in tropical lapse rates or in 
+tropical tropospheric temperatures.
+Again, I find myself shaking my head in amazement. How can John make 
+such patently false claims about our paper? The kindest interpretation 
+is that he is a complete idiot, and has not even bothered to read Santer 
+et al. (2008) before making erroneous criticisms of it. The less kind 
+interpretation is that he is deliberately lying.
+A good scientist is willing to acknowledge the errors he or she commits 
+(such as applying an inappropriate statistical test). John Christy is 
+not a good scientist. I'm not a religious man, but I'm sure willing to 
+thank some higher authority that Dr. John Christy is not the 
+"gatekeeper" of what constitutes sound science.
+I hope you don't mind, Tom, but I'm copying this email to some of the 
+other co-authors of the Santer et al. (2008) IJoC paper. They deserve to 
+know about the kind of disinformation Christy is spreading.
+With best regards,
+Ben

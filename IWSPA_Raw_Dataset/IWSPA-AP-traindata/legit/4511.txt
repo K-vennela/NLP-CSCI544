@@ -1,0 +1,52 @@
+Racism alarms Obama's backers  Candidate's foot soldiers encounter name-calling, vandalism, bomb threats        getCSS("3088867")  
+Video
+[input] 
+Keys to Obama winning the general
+May 12: A Race for the White House panel debates:  Where can Sen. Barack Obama turn a red state blue?
+Race for the White House
+getCSS("3053751")  
+Video: In his own words
+Sen. Barack Obama, D-Ill., speaks to the primary themes of his presidential campaign.
+Cartoons: Obama
+MSNBC.com's editorial cartoonists weigh in on Obama's candidacy.
+Reuters
+Slide show: A call to serve
+Sen. Barack Obama answers the call to public service.
+getCSS("3088874")  
+Interactive
+[input] 
+Rate Barack Obama's positions
+Visit msnbc.com's Candidates + Issues Matrix to rate Obama's ideas about the key issues.
+getCSS("3053751")                    The Washington Post
+Senate Talks Collapse On a Housing Bill
+Cheney Makes Appearance for House Hopeful
+For Obama, the General Election Is Calling
+McCain Breaks With Bush on Climate Policy
+Special House Committee to Begin Hearing on 'Stolen' Vote in 2007
+getCSS("3053751")  
+getCSS("3053751")                    Most popular
+\95 Most viewed    \95 Top rated    \95 Most e-mailed          Clinton is projected winner in W.Va., NBC says
+Father jailed after daughter fails to get diploma
+West Virginia
+Troops hike to quake-buried Chinese villages
+Bush calls new attack on U.S. his worst worry
+Most viewed on msnbc.com
+Woman who saved kids from Holocaust dies
+FirstPerson: Readers report on China quake
+Honda shows off improvements in fuel cell
+\91America's Most Wanted ' notches 1,000th arrest
+Instant skin cancer check
+Most viewed on msnbc.com
+Father jailed after daughter fails to get diploma
+Bush calls new attack on U.S. his worst worry
+Pastor to Catholics: 'Great whore' no more
+Einstein letter calls Bible \91pretty childish '
+Rebuilding unlikely in tornado-hit Okla. town
+Most viewed on msnbc.com
+if (pop_tabBoxes) pop_pushTabBox('boxB_3053751');             
+By Kevin Merida 
+updated 12:04 a.m. PT, Tues., May. 13, 2008     function UpdateTimeStamp(pdt) {    var n = document.getElementById("udtD");    if(pdt != '' & n & window.DateTime) {     var dt = new DateTime();     pdt = dt.T2D(pdt);     if(dt.GetTZ(pdt)) {n.innerHTML = dt.D2S(pdt,((''.toLowerCase()=='false')?false:true));}    }   }   UpdateTimeStamp('633462590623530000');   
+WASHINGTON - Danielle Ross was alone in an empty room at the Obama campaign headquarters in Kokomo, Ind., a cellphone in one hand, a voter call list in the other. She was stretched out on the carpeted floor wearing laceless sky-blue Converses, stories from the trail on her mind. It was the day before Indiana's primary, and she had just been chased by dogs while canvassing in a Kokomo suburb. But that was not the worst thing to occur since she postponed her sophomore year at Middle Tennessee State University, in part to hopscotch America stumping for Barack Obama.
+Here's the worst: In Muncie, a factory town in the east-central part of Indiana, Ross and her cohorts were soliciting support for Obama at malls, on street corners and in a Wal-Mart parking lot, and they ran into "a horrible response," as Ross put it, a level of anti-black sentiment that none of them had anticipated.
+"The first person I encountered was like, 'I'll never vote for a black person,' " recalled Ross, who is white and just turned 20. "People just weren't receptive."
+Story continues below &#8595;   

