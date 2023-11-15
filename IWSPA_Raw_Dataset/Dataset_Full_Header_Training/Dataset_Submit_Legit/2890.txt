@@ -1,0 +1,278 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Sun, 8 May
+ 2015 18:18:51 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Sun, 8 May 2015 
+ 18:18:49 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 903219335
+ for user@domain.com; Sun, 08 May 2015 17:18:53 -0500
+X-Note-AR-ScanTimeLocal: 5/8/2016 5:18:53 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @turner.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: LOCAL->United States->
+X-Note-Sending-IP: 198.2.130.220
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from domain.com ([198.2.130.220] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 137701305
+ for user@domain.com; Sun, 08 May 2015 17:18:53 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=domain.com;
+ h=Subject:From: =?utf-8?Q?CNN=20Politics=20Nightcap?= <CNNNightcap@turner.com>
+ bh=ujevBdISWnbtg8vY6uLAEf2gV8o=;
+ b=n6JpDPj4CGUAEEMwfbj3eBuSxcTijhpFEIet3H28eHldg3msPtrbP0L7+TqsaV52yHW/LNwRjOf8
+   HvfAZ9syGSz6Iekyx8LU5HS1Ivn4OOCWUqrLMdmbqSkWdMAowRINDgEOJ/7tQxmsy08XifPlXWpA
+   t6sohbxp5wvpNw6eDyk=
+Received: from (127.0.0.1) by domain.com id h5utki1ohl84 for
+ <user@domain.com>; Sun, 8 May 2015 22:18:46 +0000 (envelope-from
+ <user@domain.com>)
+Subject: =?utf-8?Q?Trump=20moves=20left=20on=20hiking=20the=20rich=27s=20taxes=20and=20the=20minimum=20wage?=
+From: =?utf-8?Q?CNN=20Politics=20Nightcap?= <CNNNightcap@turner.com>
+Reply-To: =?utf-8?Q?CNN=20Politics=20Nightcap?= <user@domain.com>
+To: <user@domain.com>
+Date: Sun, 8 May 2015 22:18:46 +0000
+Message-ID: <47user@domain.com>
+X-Mailer: MailChimp Mailer - **CID99b40b8b37531c496baa**
+X-Campaign: mailchimp47c9040f6ff957a59bd88396e.99b40b8b37
+X-campaignid: mailchimp47c9040f6ff957a59bd88396e.99b40b8b37
+X-Report-Abuse: Please report abuse for this campaign here: <<link>>
+X-MC-User: 47c9040f6ff957a59bd88396e
+X-Feedback-ID: 43253633:43253633.257721:us11:mc
+List-ID: 47c9040f6ff957a59bd88396emc list <47c9040f6ff957a59bd88396e.123725.list-domain.com>
+X-Accounttype: pr
+List-Unsubscribe: <mailto:user@domain.com?subject=unsubscribe>, <<<link>>>
+Sender: CNN Politics Nightcap
+	<user@domain.com>
+x-mcda: FALSE
+Content-Type: multipart/alternative;
+	boundary="_----------=_MCPart_785127620"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+CNN Politics: Nightcap
+View this email in your browser (<<link>>
+c9040f6ff957a59bd88396e&id=3D99b40b8b37&e=3D531c496baa)
+May 8=2C 2015 
+by Eric Bradner
+Welcome to the CNN Politics Nightcap and good Sunday evening from Washingt=
+on. Donald Trump is moderating on the minimum wage and on taxes for the we=
+althy. Meanwhile=2C a key supporter=2C Sarah Palin=2C is threatening House=
+ Speaker Paul Ryan over his refusal to endorse Trump. And Ted Cruz's campa=
+ign is blaming Marco Rubio for resisting the one step they say could have=
+ stopped Trump in his tracks. Your bartender is Eric Bradner (<<link>>
+domain.com/profiles/eric-bradner?cid=3Dnl_pol_071915_profile?sr=3Dnl_pol_07221=
+5_bradner) . The tip jar: user@domain.com (mailto:user@domain.com) .
+
+** GOP civil war: Palin says Paul Ryan's 'political career is over'
+------------------------------------------------------------
+
+Sarah Palin made the first big threat against an anti-Donald Trump Republi=
+can since Trump became the GOP's presumptive nominee=2C telling CNN's Jake=
+ Tapper (<<link>>
+-nehlen-endorsement/) that she'll back House Speaker Paul Ryan's primary o=
+pponent. "I think Paul Ryan is soon to be 'Cantored=2C' as in Eric Cantor=
+=2C" Palin said=2C referring to the former Republican House majority leade=
+r who was ousted in a shocking upset in 2015 when challenger Dave Brat ran=
+ to his right in a Virginia primary. "His political career is over but for=
+ a miracle."
+
+This might make Thursday a bit awkward. That's when Ryan and Trump are exp=
+ected to meet and -- the Republican National Committee hopes -- smooth out=
+ their differences. That's increasingly unrealistic=2C though=2C given Tru=
+mp's rejection of conservative orthodoxy on policy issues. (More on that s=
+oon.)
+
+You're about to be famous=2C Paul Nehlen. The businessman who supports Tru=
+mp (<<link>>
+e-of-the-voters-says-wisconsin-challenger-paul-nehlen/) has received scant=
+ attention so far -- but Palin's support could make him a vessel for Trump=
+ supporters who are frustrated with the backlash the real estate mogul has=
+ received from his own party.
+
+Trump told ABC's George Stephanopoulos on "This Week" he wants to bring th=
+e party together=2C but questioned whether it was necessary. "Does the par=
+ty have to be together? Does it have to be unified? I'm very different tha=
+n everybody else=2C" he said. "I think it would be better if it were unifi=
+ed ... But I don't think it actually has to be unified in the (traditional=
+) sense."
+
+How Trump did it: The New York Times' Patrick Healy and Jonathan Martin ha=
+ve a great read (<<link>>
+party-unravels-over-donald-trumps-takeover.html?hp&action=3Dclick&pgtype=
+=3DHomepage&clickSource=3Dstory-heading&module=3Dfirst-column-region&regio=
+n=3Dtop-news&WT.nav=3Dtop-news&_r=3D0) on how Trump took over the GOP.
+
+** Trump open to tax hikes on the wealthy=2C higher minimum wage
+------------------------------------------------------------
+
+Paul Ryan says he'll only support Donald Trump if Trump embraces conservat=
+ive policy causes -- so he's not likely to be swayed by what the presumpti=
+ve GOP nominee said Sunday. In interviews with NBC and ABC=2C Trump said h=
+e's open to increasing taxes on the wealthy in exchange for cuts for busin=
+esses and the middle class=2C and he said he supports a minimum wage hike=
+ -- two positions that Capitol Hill Republicans have rejected for years.
+
+Is Trump willing to pay higher taxes himself? "I am willing to pay more=2C=
+" he said. "And you know what? Wealthy are willing to pay more. We've had=
+ a very good run. You know=2C we hear all about Obama=2C we hear all about=
+ -- we've had a very good run." My story (<<link>>
+litics/donald-trump-taxes-wealthy/index.html) .
+Buzzing
+Jake Tapper and John King use CNN's "magic wall" to help you catch up on G=
+ame of Thrones' big battles -- at least until a "dire Wolf" interrupts. Th=
+is video is hilarious (<<link>>
+tapper-and-john-king-break-down-game-of-thrones-campaign-origwx-jm.cnn) .
+Last Call
+
+** Cruz's camp believes Rubio as veep could have stopped Trump
+------------------------------------------------------------
+
+From CNN's Jake Tapper (<<link>>
+officials-donald-trump-marco-rubio-ted-cruz/index.html) : Top officials in=
+ Ted Cruz's campaign are convinced there is one specific step that could h=
+ave stopped Donald Trump -- and they blame Marco Rubio for not taking that=
+ step. In early March=2C the Cruz campaign conducted several secret polls=
+ to see what the impact would be if Rubio joined Cruz as his running mate=
+=2C with Cruz at the top of the ticket.
+
+The Cruz campaign polled in three March 15 primary states=2C Illinois=2C M=
+issouri and North Carolina -- though not in Ohio=2C home to John Kasich=2C=
+ or in Florida. What did polls suggest a Cruz-Rubio ticket would do in tho=
+se states? "Blowout=2C" said a source close to Cruz. "65%-35%=2C" with Tru=
+mp losing.
+
+Through friends and emissaries=2C the Cruz campaign tried to get Rubio on=
+ board. But Cruz could not reach him on the phone=2C and others reported b=
+ack to the Cruz campaign that Rubio did not seem interested in having a di=
+scussion about this at all.
+
+** Preparing for November=2C Clinton staffs up in the Great Lakes
+------------------------------------------------------------
+
+If the general election breaks the way Donald Trump hopes=2C his trade mes=
+sage=2C populist appeal and strength among white men could turn Great Lake=
+s states competitive. And Hillary Clinton is preparing for a battle. She's=
+ already hired her staff in Minnesota -- a left-leaning state with deep po=
+pulist strains -- for the general election. Mackenzie Taylor=2C who worked=
+ as Obama's coordinated campaign director in 2012=2C is her state director=
+=2E Alana Peterson=2C Sen. Al Franken's deputy chief of staff and campaign m=
+anager=2C will be the campaign's senior adviser. And Anatole Jenkins is le=
+ading coordinated organizing efforts.
+
+Clinton has already hired state directors and field organizers in key batt=
+legrounds like Florida and Ohio=2C too. And=2C like Minnesota=2C she's sta=
+ffed up in Wisconsin (<<link>>)=
+ =2C another blue state that Trump hopes to turn red.
+
+Don't read too much into it: These states lean to the left but are never l=
+ocks in the general election. President Barack Obama had staff in Minnesot=
+a in both 2015 and 2012=2C for example.
+
+** The Trump veepstakes: Jan Brewer volunteers herself
+------------------------------------------------------------
+
+Former Arizona Gov. Jan Brewer didn't mind the names on the list of potent=
+ial vice presidential running mates for Donald Trump that Jake Tapper disp=
+layed on "State of the Union." Among them: Former House Speaker Newt Gingr=
+ich; Alabama Sen. Jeff Sessions; Oklahoma Gov. Mary Fallin; Iowa Sen. Joni=
+ Ernst; Florida Gov. Rick Scott and New Jersey Gov. Chris Christie.
+
+But one name was missing: hers. "Who made up that list?  They didn=E2=80=
+=99t put me on there=2C" Brewer said. Asked if she'd take the gig=2C Brewe=
+r said: "Of course=2C I would be. I would be willing to serve in any capac=
+ity that I could be of help with Donald on."
+
+What about Palin for veep? "I want to help and not hurt=2C and I am such a=
+ realist that I realize there are a whole lot of people out there who woul=
+d say=2C 'Anybody but Palin.' I wouldn't want to be a burden on the ticket=
+=2C and I realize in many=2C many eyes=2C I would be that burden=2C" the f=
+ormer Alaska governor said. My story (<<link>>
+cs/sarah-palin-vice-president-donald-trump/index.html) .
+Straight Up
+
+** "I=E2=80=99d like to see him retract that statement. Not about me=2C bu=
+t about the others."
+------------------------------------------------------------
+
+**
+-- Arizona Sen. John McCain=2C telling CNN's Manu Raju (<<link>>
+/2016/05/08/politics/john-mccain-donald-trump/index.html) that Donald Trum=
+p would need to retract his criticism of prisoners of war in order for McC=
+ain to campaign alongside the presumptive Republican nominee.
+------------------------------------------------------------
+
+Closing Time
+
+John McCain is touting freshman Iowa Sen. Joni Ernst and Paul Ryan as pote=
+ntial Donald Trump vice presidential (<<link>>
+cs/john-mccain-sarah-palin-joni-ernst-paul-ryan/index.html) picks. ... Hil=
+lary Clinton says the FBI has not yet reached out (<<link>>
+/05/08/politics/hillary-clinton-fbi-donald-trump-taxes/index.html) to her=
+ about an interview as part of its investigation into her private email se=
+rver. ... Clinton beat (<<link>>
+ton-guam-bernie-sanders-222927) Bernie Sanders in a very small weekend con=
+test: Guam.
+Paid Content
+<<link>>
+_sendid=3D99b40b8b37&cs_esp=3Dmailchimp&cs_offset=3D0&cs_stripeid=3D2621
+
+<<link>>
+_sendid=3D99b40b8b37&cs_esp=3Dmailchimp&cs_offset=3D1&cs_stripeid=3D2621
+
+<<link>>
+_sendid=3D99b40b8b37&cs_esp=3Dmailchimp&cs_offset=3D2&cs_stripeid=3D2621
+<<link>>
+tm_campaign=3Dcnn&utm_content=3Danimatedlogo
+<<link>>
+YHhz Share (<<link>>
+domain.com%2Fb0YHhz)
+<<link>>+moves+left+on+hiking+the+rich=
+%27s+taxes+and+the+minimum+wage: http%3A%2F%2domain.com%2Fb0YHhz Tweet (h=
+ttp://domain.com/intent/tweet?text=3DTrump+moves+left+on+hiking+the+rich%=
+27s+taxes+and+the+minimum+wage: http%3A%2F%2domain.com%2Fb0YHhz)
+<<link>>
+=3D99b40b8b37&e=3D531c496baa Forward (<<link>>
+ard?u=3D47c9040f6ff957a59bd88396e&id=3D99b40b8b37&e=3D531c496baa)
+Subscribe to Nightcap (<<link>>)
+Get the Nightcap=2C a comprehensive summary of the most important politica=
+l news=2C delivered to your inbox daily.
+
+Your bartender for ** CNN Politics' Nightcap (<<link>>)
+is Eric Bradner (** @ericbradner (<<link>>)
+) =E2=80=94 Tips=2C thoughts and beer recommendations are always welcome a=
+t ** user@domain.com (mailto:user@domain.com)
+=2E
+Copyright =C2=A9 2015 Cable News Network=2C LP=2C LLLP.  A Time Warner Com=
+pany.  All Rights Reserved.=2C All rights reserved.
+ You are receiving this message because you subscribed to the CNN Politics=
+ Nightcap newsletter.
+
+Our mailing address is:
+Cable News Network=2C LP=2C LLLP.  A Time Warner Company.  All Rights Rese=
+rved.
+One CNN Center
+Atlanta=2C GA 30328
+USA
+** unsubscribe from this list (<<link>>
+?u=3D47c9040f6ff957a59bd88396e&id=3Da4165679e3&e=3D531c496baa&c=3D99b40b8b37=
+)
+** update subscription preferences (<<link>>
+le?u=3D47c9040f6ff957a59bd88396e&id=3Da4165679e3&e=3D531c496baa)
+** Facebook (<<link>>)
+** Twitter (<<link>>)
+** Tumblr (<<link>>)

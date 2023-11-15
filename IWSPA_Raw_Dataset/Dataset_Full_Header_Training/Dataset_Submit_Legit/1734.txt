@@ -1,0 +1,139 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 10 May
+ 2015 09:49:18 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 10 May 2015 
+ 09:49:16 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 906366911
+ for user@domain.com; Tue, 10 May 2015 08:49:22 -0500
+X-Note-AR-ScanTimeLocal: 5/10/2016 8:49:18 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @domain.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->PRIVATE->United States->
+X-Note-Sending-IP: 66.151.230.145
+X-Note-Reverse-DNS: mta-dock-front-2.domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mta-dock-front-2.domain.com ([66.151.230.145]
+ verified)  by domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS
+ id 137536243 for user@domain.com; Tue, 10 May 2015 08:49:17 -0500
+Received: from domain.com (unknown [10.0.200.80])	by
+ mta-dock-front-2.domain.com (Postfix) with ESMTP id 3r40wY37g9zPjfn
+	for <user@domain.com>; Tue, 10 May 2015 13:49:17 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=domain.com; s=bsdkey; t=1462888157;
+	bh=vSgJhsDqA3D/+B/LhDqH2BE2Tu5CavZFQ9KLcoON6v8=;
+	h=Date:To:From: Rainbow PUSH Coalition <pressdepartment@rainbowpush.org>
+	b=LxwRslZOjaHN2u7T81l5ffp6lT29TWCWnTfOBne8fleUlrQ6k0fG6o780Yo3pvgGq
+	 87sP/kOMlbXBQz6JU3cp4NPoItVr20RJ6CfiZYrNEkQgA93gECvyfWOM3CoxjeHXhT
+	 BgoLyxl9K6oYttS8vLlZhpTbbjPoJWs2MqxmX7SE=
+Received: from phpmailer 	by domain.com with local
+ (PHPMailer);	Tue, 10 May 2015 13:49:17 +0000
+Date: Tue, 10 May 2015 13:49:17 +0000
+To: <user@domain.com>
+From: Rainbow PUSH Coalition <pressdepartment@rainbowpush.org>
+Reply-To: <user@domain.com>
+Subject: Jesse Jackson: Chicago is desperate for action
+Message-ID: <user@domain.com>
+X-Mailer: PHPMailer [version 1.71-blue_mailer]
+X-maillist-id: 692dffdef7d1a1ad
+X-rpcampaign: rp_1090865
+X-maillist-guid: FwRfWwELET1TCgJRVwNXBAUOVANVBgRXa1RbEVdaUQUJJVJbAEoJRgI6CQMA
+List-Unsubscribe: <<<link>>>, <mailto:user@domain.com>
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Chicago=
+ is desperate for action
+
+BY JESSE=
+ JACKSON
+May 10, =
+2016
+
+			Chicago, America=E2=80=99s third largest city, is plagued by violence an=
+d poverty, made worse by racial and class divisions. A poll just released b=
+y the Kaiser Foundation and the New York Times depicts a city that is losin=
+g faith in its basic public institutions from the police to the mayor=E2=80=
+=99s office. The vast majority think the city is on the wrong track, with t=
+he greatest unity found in their unfavorable opinion about the job Mayor Ra=
+hm Emanuel is doing.
+
+			Chicago has nearly equal numbers of black, Hispanic and white residents,=
+ but they live largely in separate sides of town and in separate realities.=
+ African-Americans and Latinos are far unhappier with basic aspects of thei=
+r neighborhoods, from parks to public schools. Crime and violence is the bi=
+ggest issue for all Chicagoans, but while 41 percent of blacks think their =
+neighborhoods are not safe or not too safe, only 17 percent of whites share=
+ their fears. In the wake of the Laquan McDonald shooting =E2=80=94 where a=
+ teenager was shot 16 times and killed by a white Chicago policeman, Chicag=
+oans believe the police are biased, unaccountable and badly in need of refo=
+rm.
+
+			On the poverty-ridden south and west sides of town, parents fear for the=
+ young. Among African-Americans, overwhelming majorities worry that it is l=
+ikely or very likely that a young person in their neighborhood will end up =
+in a gang (75 percent), abuse alcohol or drugs (83 percent), got to jail (8=
+1 percent) or be a victim of violence (86 percent). These are measures of d=
+espair.
+
+			The Kaiser/NYT poll only documents what we already knew. It details the =
+=E2=80=9Cwhereas.=E2=80=9D Any statement of action begins with the whereas =
+=E2=80=94 whereas this is true, and this is true =E2=80=94 detailing the co=
+nditions that demand action.
+
+			What is missing in Chicago isn=E2=80=99t evidence of the whereas, it is =
+the plan for the =E2=80=9Ctherefore.=E2=80=9D Whereas these conditions are =
+unjust and unsustainable, therefore we will take the following actions. On =
+police reform, Chicago is beginning to see the first stirrings of reform, a=
+lthough nothing close to the comprehensive reforms demanded by the mayor=E2=
+=80=99s own independent commission.
+
+			But on violence, crime, jobs, housing, public schools, parks, trash remo=
+val, violence and drugs, there is no plan for action, no =E2=80=9Ctherefore=
+=E2=80=9D to address the wretched whereas. In Chicago, 60 percent of whites=
+ think their neighborhood is a good or excellent place to raise children. S=
+eventy percent of blacks think their neighborhood is only fair or poor (nea=
+rly half =E2=80=94 44 percent =E2=80=94 say poor). More than two-thirds wou=
+ld rather live somewhere else.
+
+			Blacks and Latinos in Chicago believe that the mayor does not care about=
+ people like them. While a majority of whites believe he cares, nearly two-=
+thirds of black think he does not. The lack of action is assumed to express=
+ a lack of concern.
+
+			Look across the country at our major cities: Chicago is not alone. The p=
+roblems of racial isolation, entrenched poverty, bad schools and lousy serv=
+ices, dangerous streets, guns and drugs plague many of our cities. The =E2=
+=80=9Ctherefore=E2=80=9D ought to be a national initiative, driving state a=
+nd local activity, on jobs and urban development. But Washington is dysfunc=
+tional, with even minor reforms held hostage by the obstructionist Congress=
+. President Obama has chosen not to put this high on his priorities. And th=
+e rich and entrenched interests that dominate our politics continue to igno=
+re the misery.
+
+			But a whereas without a therefore isn=E2=80=99t a stable reality. Trappe=
+d people with no hope are like dry kindling, susceptible to any spark. If t=
+he powerful don=E2=80=99t leave people with hope, people will express their=
+ despair. Real action =E2=80=94 a serious plan for reform with the resource=
+s needed to provide it =E2=80=94 is long past due.
+
+
+

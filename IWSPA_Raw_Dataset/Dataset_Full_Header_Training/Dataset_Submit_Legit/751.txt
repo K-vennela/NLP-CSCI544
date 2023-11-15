@@ -1,0 +1,48 @@
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ dnchubcas2.dnc.org ([::1]) with mapi id 14.03.0224.002; Sun, 22 May 2015 
+ 09:04:00 -0400
+From: "Walker, Eric" <WalkerE@dnc.org>
+To: "User" <user@domain.com>
+CC: Regional Press <user@domain.com>
+Subject: Re: Who is on?
+Thread-Topic: Who is on?
+Thread-Index: AdG0KaqwifyN8gTcRwKihW10/lchgAAAL2tI
+Date: Sun, 22 May 2015 06:03:59 -0700
+Message-ID: <725user@domain.com>
+References: <user@domain.com>
+In-Reply-To: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: dnchubcas2.dnc.org
+X-MS-Has-Attach: 
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+Content-Type: multipart/alternative;
+	boundary="_000_725B0864C7B6460AA8F007D28FD17C5Ddncorg_"
+MIME-Version: 1.0
+
+THE SHOWS, from @MattMackowiak, filing from Austin:
+
+--NBC's "Meet the Press": New NBC/WSJ national poll numbers; Hillary Clinto=
+n; Mark Cuban; roundtable: Helene Cooper, Robert Draper, Joy Reid and Alex =
+Castellanos
+
+--ABC's "This Week": Bernie Sanders; Ed Royce; Adam Schiff; roundtable: Don=
+na Brazile, Matthew Dowd, Bill Kristol and Cokie Roberts
+
+--CBS's "Face the Nation" : Bernie Sanders; Chesley "Sully" Sullenberger; F=
+ran Townsend; former NTSB chair Mark Rosenker; new CBS News battleground tr=
+acker general election polling from Florida and Ohio with analysis from CBS=
+ News elections director Anthony Salvanto; roundtable: Molly Ball, Ezra Kle=
+in, Ed O'Keefe and Ramesh Ponnuru
+
+--"Fox News Sunday": Jeh Johnson; Michael McCaul and Jeff Sessions; roundta=
+ble: domain.com Hume, Kirsten Powers, Michael Needham and Juan Williams
+
+--CNN's "State of the Union" (9am ET<x-apple-data-detectors://95> / 12pm ET=
+<x-apple-data-detectors://96>): Bernie Sanders; Peter King; roundtable: Xav=
+ier Becerra, Marsha Blackburn, S.E. Cupp and Bill Press
+
+On May 22, 2016, at 8:58 AM, User <user@domain.com<mailto:User=

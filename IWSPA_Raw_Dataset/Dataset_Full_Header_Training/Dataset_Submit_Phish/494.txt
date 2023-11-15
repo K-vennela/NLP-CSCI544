@@ -1,0 +1,55 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id 9ECBB4698E
+	for <user@domain.com>; Fri, 31 Aug 2015 07:04:02 -0400 (EDT)
+Received: from domain.com (domain.com [204.181.64.8])
+	by domain.com (Postfix) with ESMTP id A893A131FAD0
+	for <user@domain.com>; Fri, 31 Aug 2015 07:04:02 -0400 (EDT)
+Received: from end-g9twgyuikr0 (cpe-74-77-38-195.domain.com [74.77.38.195])
+	by domain.com (Postfix) with ESMTP id 89BAE6FA1D0
+	for <user@domain.com>; Fri, 31 Aug 2015 07:04:02 -0400 (EDT)
+Received: from User ([89.39.237.83]) by end-g9twgyuikr0 with Microsoft SMTPSVC(5.0.2195.6713);
+	 Fri, 31 Aug 2015 07:07:22 -0400
+Reply-To: <user@domain.com>
+From: "Bank of America"<onlineid@email-bankofamerica.com>
+Subject: Account Locked: Unlock Your Account
+Date: Fri, 31 Aug 2015 14:03:58 +0300
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <user@domain.com>
+X-OriginalArrivalTime: 31 Aug 2015 11:07:23.0015 (UTC) FILETIME=[1B26B170:01C7EBBF]
+To: undisclosed-recipients:;
+Content-Length: 2015 
+Lines: 37
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 80
+
+
+
+
+Account Locked: Unlock Your Account
+
+ Dear Valued Customer :
+
+You reached the maximum number of attempts allowed to correctly answer your SiteKey challenge questions the last time you tried to sign in. For your protection, we have locked your account. Click " unlock account " to unlock your account. Your account will be unlocked after you fill in necessary information . You can also call customer support, 7 days a week, 7:00 am - 10:00 pm .
+
+unlock account
+ Thank you for your understanding and correspondence,
+we also apologize for any inconveniences caused .
+
+Online Banking Accounts Department -
+ Bank Of
+America .
+Bank of America, Member FDIC.
+
+ 2015 Bank of America Corporation. All Rights Reserved.

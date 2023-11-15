@@ -1,0 +1,39 @@
+Status: RO
+From: "Emanuele Placidi" <e.placidi@hackingteam.com>
+Subject: Record gsm call test
+To: fabrizio Cornelli
+Date: Thu, 26 Feb 2015 09:32:02 +0000
+Message-Id: <54user@domain.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-530282622_-_-"
+
+    /*
+
+     * Tested :
+
+     * - 4.0.4 Galaxy nexus maguro -> Doesn't
+      record gsm calls
+
+     * - 4.2.2 LG-D802 -> Successfully
+      recorded gsm calls
+
+     * - 4.4.2 (ART runtime )LG-D405 -> Record
+      microphone
+
+     * - 4.3 GT-i9300 Samsung S3 ->
+      Successfully recorded gsm calls
+
+     */
+
+-- 
+Emanuele Placidi
+Senior Software Developer
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com
+mobile: +39 3371115601
+phone: +39 0229060603

@@ -1,0 +1,62 @@
+3. Use of simple climate models
+3.1 Simple models used only as tools for extrapolationg/interpolationg GCM
+results to estimate the effect of different scenarios or sensitivities?
+1-D UD/EBMs (upwelling-diffusion energy balance models), such as the Wigley
+and Raper (1992) model updated in Raper et al. (1996), in my opinion, come
+into this category. I along with Jonathan Gregory and Tim Osborn have
+completed a very detailed comparison of this and several alternative 1-D
+models with HadCM2 results. With the addition of a sea ice parameter the
+Raper et al. model reproduces well the HadCM2 results for global mean
+surface temperature and thermal expansion out to 2100, for several scenarios. 
+However, the distinction between 3.1 and 3.2 below is not clearcut. By the
+end of the 900 year 2xCO2 experiment the thermal expansion for the HadCM2
+model is nearly 5 times larger than that simulated by the fitted (over
+1860-2100) UD/EBM, and unlike the UD/EBM shows no sign of coming to
+equilibrium. In our analysis we conclude that it is not immediately obvious
+which if either model is correct. The difference serves to highlight the
+uncertainty in the thermal expansion commitment. Incidently a fitted pure
+diffusion/EBM gives good simulation of the HadCM2 results in both the short
+and long term. 
+3.2 Simple models used to offer independent climate predictions?
+It would probably be difficult to use 2+D models for 3.1, so they may belong
+here.
+I think, 3.1 and 3.2 serve different purposes. Both may be desirable.
+3.3 Depending on the answers to 3.1 and 3.2......
+Whichever 3.1, 3.2 or both is adopted the results and the attendant simple
+model versus A/OGCM comparisons should be given in the projections chapter.
+A selection of the results should then carry over to the sea level chapter.
+This consistency is very important.
+It is a separate question as to whether the simple climate model results
+should subsequently be used as scaling factors for regional scenario
+development in the scenario chapter.
+3.4  How many simple climate models are needed...
+For 3.1 in order to fit the A/OGCM results extensive comparisons using
+alternative parameter values/models (for example, UD versus pure diffusion)
+will be necessary. As well as my HadCM2 comparison mentioned above a
+comparison with ECHAM3/LSG results is also well underway. In both cases the
+work shows that it is advisable to calculate the effective climate
+sensitivity of the A/OGCMs for use in the simple model. We found that the
+effective climate sensitivity is non-constant but apparantly varies with the
+surface temperature in these models. For this calculation and for
+comprehensive model comparisons a specific list of A/OGCM output is
+required. This includes decade ocean mean temperature profiles, a measure of
+the strength of the thermohaline circulation, the A/OGCM forcing change for
+2xCO2 etc. I am keen to continue these comparisons specifically as input to
+the new IPCC assessments. Unfortunately, and I think mistakenly, the US DOE
+have recently decided to discontinue this line of research. An endorsement
+of the need for this work by the IPCC would help my attempts to acquire
+funding elsewhere.
+For 3.2 there would be no need of tuning to A/OGCM results and many model
+results could be used to give a range. This would serve a different purpose
+to 3.1 where A/OGCM results are interpolated/extrapolated for different
+sensitivities and forcings.
+---------------------------
+| Dr S. C. B. Raper         |
+| Climatic Research Unit    |
+| University of East Anglia |
+| Norwich                   |
+| NR4 7TJ                   |
+|                           |
+| Tel. +44 1603 592089      |
+| Fax  +44 1603 507784      |
+---------------------------

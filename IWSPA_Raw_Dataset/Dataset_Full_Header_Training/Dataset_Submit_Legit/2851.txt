@@ -1,0 +1,69 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 27 Apr
+ 2015 12:56:46 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 27 Apr 2015 
+ 12:56:39 -0400
+Received: from [10.87.0.110] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 883158196
+ for user@domain.com; Wed, 27 Apr 2015 11:56:47 -0500
+X-Note-AR-ScanTimeLocal: 4/27/2016 11:56:47 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: user@domain.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->
+X-Note-Sending-IP: 68.232.198.10
+X-Note-Reverse-DNS: mta.politicoemail.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from [68.232.198.10] (HELO mta.politicoemail.com)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 138608568
+ for user@domain.com; Wed, 27 Apr 2015 11:56:47 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=200608; d=politicoemail.com;
+ h=From: POLITICO <email@politicoemail.com>
+ bh=Eb7ipcgpdYDI/eXSTU47gQux98k=;
+ b=ThZdCGFgW55AI53P32trrupbEkuTP8KTfgRXO+BwSJ+8+8GI3tUfxrVGn0+H34U6a7yX5+GjZhdv
+   25JCnLAQAWLpibADKkXqGbxDI/bVbgpDVDnIX6pE93D6QNNKeAAcXzKG1JL3RuXTz/1KWt8g73oM
+   8xi3+cVNCyaG1Ts/4lU=
+Received: by mta.politicoemail.com id h43nkq163hs6 for <user@domain.com>; Wed,
+ 27 Apr 2015 10:56:44 -0600 (envelope-from
+ <user@domain.com>)
+From: POLITICO <email@politicoemail.com>
+To: <user@domain.com>
+Subject: BREAKING NEWS: Hastert sentenced to 15 months in prison
+Date: Wed, 27 Apr 2015 10:56:44 -0600
+List-Unsubscribe: <mailto:user@domain.com>
+Reply-To: POLITICO subscriptions
+	<user@domain.com>
+x-job: 1376319_5364180
+Message-ID: <7713user@domain.com>
+Content-Type: multipart/alternative; boundary="dhH8fG7imGKQ=_?:"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Former House Speaker Dennis Hastert was sentenced to 15 months in prison on Wednesday in Chicago for violating banking laws in a hush-money case, allegedly to cover up past sexual misconduct as a high school wrestling coach. During his testimony, Hastert admitted to "mistreating" some boys on his team decades ago.
+
+The terms of the sentence also include two years of supervised release.
+
+Hastert pleaded guilty last October to federal charges that he had improperly structured $1.7 million in withdrawals to pay a former student as compensation for the alleged past abuse and that he had lied to FBI agents investigating the matter.
+
+The former Illinois Republican lawmaker had agreed to pay $3.5 million in total to that person, known as "Individual A" in court papers. That person sued Hastert on Monday for failing to pay the remaining $1.8 million.
+
+Read more: <<link>>
+ To change your alert settings, please go to <<link>> or <<link>> email was sent to user@domain.com by: POLITICO, LLC 1000 Wilson Blvd. Arlington, VA, 22209, USA
+
+To unsubscribe,<<link>>
+

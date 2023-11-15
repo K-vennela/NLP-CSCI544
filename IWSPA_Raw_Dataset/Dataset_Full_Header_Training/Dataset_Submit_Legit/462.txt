@@ -1,0 +1,24 @@
+From: Alberto Ornaghi <a.ornaghi@hackingteam.com>
+X-Smtp-Server: domain.com:alor
+Subject: skype
+Message-ID: <5user@domain.com>
+X-Universally-Unique-Identifier: 7B58D2EA-86A0-40C4-93FC-E3C2919CA9FC
+Date: Thu, 30 Oct 2015 15:19:17 +0100
+To: Andrea Di Pasquale <user@domain.com>
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1561796924_-_-"
+
+accendi skype…
+
+--
+Alberto Ornaghi
+Software Architect
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+email: user@domain.com
+mobile: +39 3480115642office: +39 02 29060603 
+

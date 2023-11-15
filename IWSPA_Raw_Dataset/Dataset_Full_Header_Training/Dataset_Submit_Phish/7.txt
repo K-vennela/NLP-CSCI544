@@ -1,0 +1,64 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [10.5.6.7])
+	by domain.com (Postfix) with ESMTP id 525F646955
+	for <user@domain.com>; Sun, 16 Jul 2015 04:11:01 -0400 (EDT)
+Received: from 192.168.1.15 (unknown [65.173.220.51])
+	by domain.com (Postfix) with SMTP id 973F26CCF70
+	for <user@domain.com>; Sun, 16 Jul 2015 04:11:05 -0400 (EDT)
+Received: from 97.16.83.120 by ; Sun, 16 Jul 2015 08:05:27 -0100
+Message-ID: <user@domain.com>
+From: "PayPal Service" <service@paypal.com>
+Reply-To: "User" <user@domain.com>
+To: user@domain.com
+Subject: Personal Account Update
+Date: Sun, 16 Jul 2015 04:04:27 -0500
+X-Mailer: MIME-tools 5.503 (Entity 5.501)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--40145657571058230225"
+X-Priority: 1
+X-MSMail-Priority: High
+Status: 
+X-Status: 
+X-Keywords: 
+
+ Dear Valued PayPal Member,
+=
+
+During our regularly schedule account maintenance and verification we =
+have detected a slight error in your billing information on file with PayP=
+al.
+ This might be due to either following reasons:
+
+- A recent change in your personal informati=
+on (i.e. change of address)
+
+- An inability to accurately verify your selected op=
+tion of payment due an internal error within
+our processors.
+
+Therefore your account has been temporarily suspended. We need you to =
+
+confirm your identity in
+order to regain full privileges of your account.
+
+However, failure to update your records will result in account suspens=
+ion.
+
+If this is not completed by July 17, 2006, we reserve 
+the right to terminate all privileges of your account
+indefinitly, as it may have been used for fraudulent purposes. We thank 
+you for your cooperation in this manner.
+
+To confirm your identity please follow the link below:
+
+<<link>>
+
+Thank you for your patience in this matter.
+
+PayPal - Customer Service
+
+Please do not reply to this e-mail as this is only a notification. Mail 
+sent to this address cannot be answered.

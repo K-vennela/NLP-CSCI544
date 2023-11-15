@@ -1,0 +1,97 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id E52AA4687E
+	for <user@domain.com>; Mon, 30 Mar 2015 03:31:18 -0400 (EDT)
+X-Greylist: delayed 57055 seconds by postgrey-1.27 at domain.com; Mon, 30 Mar 2015 03:31:17 EDT
+Received: from domain.com.cn (unknown [211.157.2.61])
+	by domain.com (Postfix) with ESMTP id CFA46131F6EE
+	for <user@domain.com>; Mon, 30 Mar 2015 03:31:17 -0400 (EDT)
+Received: from User [65.98.215.162] by domain.com.cn with ESMTP
+  (SMTPD32-8.00) id ADC226EF00A4; Sun, 29 Mar 2015 07:07:46 +0800
+Reply-To: <user@domain.com>
+From: "Rudolf White"<rudolfwhite@gmail.com>
+Subject: Question from eBay member
+Date: Sat, 28 Mar 2015 16:11:20 -0700
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <200903290707109.user@domain.com>
+To: undisclosed-recipients:;
+Content-Length: 15315
+Lines: 208
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1022
+
+e.Bay sent this 
+                  message from Richard Moss (hug170). 
+Your registered 
+                  name is included to show this message originated from e.Bay. Learn More. 
+
+
+
+Bu.yer has 
+                  responded to your question about this item.
+
+Do 
+                  not respond to the sender if this message requests that you 
+                  complete the transaction outside of e.Bay. This type 
+                  of offer is against e.Bay policy, may 
+                  be fraudulent, and is not covered by buyer protection 
+                  programs. Learn 
+                  More
+
+Question from 
+                              hug170
+
+hug170 
+                                (92)
+
+Positive 
+                                feedback:
+100.0%
+
+Member 
+                                since:
+Apr-12-01
+
+Location:
+New York, 
+                                United States of America
+
+Registered 
+                                on:
+domain.com
+
+Hi, I am 
+                                interested on your item you sell. Can you please 
+                                tell me more about it? Please contact me 
+                                asap!
+
+Item URL:
+
+htps://domain.com/ws/eBayISAPI.dll?ViewItem&item=6831805721&sspagename=ADME:B:AAQ:UK:1
+
+Answer 
+                                the question
+
+Regards,
+e.Bay
+
+Marketplace Safety 
+                              Tip 
+
+Never pay for your e.Bay 
+                              item using instant case wire transfer services 
+                              through Western Union or MoneyGram. These payment 
+                              methods are unsafe when paying someone you don't 
+                              know. Learn more about sending 
+                              payments. 

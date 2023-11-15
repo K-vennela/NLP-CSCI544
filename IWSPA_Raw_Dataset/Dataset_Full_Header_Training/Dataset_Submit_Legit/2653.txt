@@ -1,0 +1,439 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 18 May
+ 2015 08:06:30 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 18 May 2015 
+ 08:06:28 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 921257908
+ for user@domain.com; Wed, 18 May 2015 07:06:37 -0500
+X-Note-AR-ScanTimeLocal: 5/18/2016 7:06:36 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:192.64.236.13 DOM:domain.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 100
+X-GBUdb-Analysis: 0, 192.64.236.13, Ugly c=0.369283 p=0.333333 Source Normal
+X-Signature-Violations: 100-5951255-1594-1764-m
+	100-5951255-0-32663-f
+X-Note-419: 15.6287 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/18/2016 7:06:35 AM
+X-Warn: BULKMAILER
+X-Note: Spam Tests Failed: BULKMAILER
+X-Country-Path: ->United States->
+X-Note-Sending-IP: 192.64.236.13
+X-Note-Reverse-DNS: mx-mediaredefined-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G281 G286 G374 G580 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from mx-mediaredefined-domain.com ([192.64.236.13] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 139457253
+ for user@domain.com; Wed, 18 May 2015 07:06:36 -0500
+Received: from nj1-illcherry.flt (172.18.20.10) by
+ mx-mediaredefined-domain.com id h7hdc81qqbso for <user@domain.com>; Wed,
+ 18 May 2015 08:06:28 -0400 (envelope-from <user@domain.com>)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1463573188;
+	s=sailthru; d=mail.bloombergpolitics.com;
+	h=Date:From: Bloomberg Politics <noreply@mail.bloombergpolitics.com>
+	bh=NmP9gsi3No0nDqjwG+nfMTYTH2ullI3ZsGW3poPF1wE=;
+	b=Gq2Nr13uMCCA6zCsvd1YuQ5BSFGLbA4kr0Y6PCtukbA78IeUXIrPS2+7B2nMyAPh
+	OgBzbg7H+JhCdmFHYX2VemhPVqlxdH2xZfQuC+TqT9HXhELc8/KqU0VHfjpl1fghaBC
+	Lib9yizVKUcejyPAdOCSMwrRooV5U3cnbc5IN/cg=
+Date: Wed, 18 May 2015 08:06:28 -0400
+From: Bloomberg Politics <noreply@mail.bloombergpolitics.com>
+To: <user@domain.com>
+Message-ID: <20160518080628.6747300.3100@domain.com>
+Subject: Divisions
+Content-Type: multipart/alternative;
+	boundary="----=_Part_5500695_1560124492.1463573188109"
+Precedence: bulk
+X-TM-ID: 20160518080628.6747300.3100
+X-Info: Message sent by domain.com customer Bloomberg Politics
+X-Info: We do not domain.com unsolicited commercial email
+X-Info: Please report abuse by forwarding complete headers to
+X-Info: user@domain.com
+X-Mailer: domain.com
+X-Unsubscribe-Web: <<link>>
+List-Unsubscribe: <<<link>>>, <mailto:user@domain.com>
+X-rpcampaign: stjkq6747300
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+                                                     @media only screen and=
+ (max-width: 730px) {                 .leaderboard {                     di=
+splay: none !important;                 }                 * {              =
+       -domain.com-text-size-adjust: none;                 }                 bo=
+dy {                     min-width: 100% !important;                 }     =
+            table[id=3Dwrapper], table[class=3Dad_group], table[id=3Dwrappe=
+r] .intro, table[id=3Dwrapper] .divide {                     width: 100% !i=
+mportant;                 }                 #brief {                     fl=
+oat: none !important;                     width: 100% !important;          =
+       }                 .ad_group {                     display: block !im=
+portant;                     padding-left: 10px;                 }         =
+        div[class=3Dad] {                     margin: auto !important;     =
+                padding-top: 0 !important;                     padding-left=
+: 0 !important;                     display: block !important;             =
+        width: 100% !important;                 }                 table td[=
+class=3Dnumber] {                   display: none !important;              =
+   }             }                  Bloomberg Politics Daily               =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                      SIGN UP                              =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                       The Brief                           =
+                                                                           =
+                                                                           =
+                                         =C2=A0                            =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                           Hillary Clinton =
+and Democrats are confronting dangerous divisions within the party         =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                 A domain.com decision in Kentuc=
+ky and Oregon on Tuesday illustrates a deepening rift with the potential to=
+ hobble the party heading into the general election.                       =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                             =C2=A0                                        =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+            Donald Trump makes a play for Hispanic evangelicals            =
+                                                                           =
+                                                                           =
+                                                                           =
+                                              The presumptive Republican pr=
+esidential nominee will address the=C2=A0National Hispanic Christian Leader=
+ship Conference in a pre-recorded message.                                 =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                   =C2=A0                                                  =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+  Vice President Biden to announce new overtime rule in Ohio, an electoral =
+prize                                                                      =
+                                                                           =
+                                                                           =
+                                                               The Obama ad=
+ministration hopes will give about 4.2 million Americans a pay raise=E2=80=
+=94and a reason to vote for Democrats in November.                         =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                           =C2=A0                                          =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                             =E2=80=9CIt=E2=80=99s whatever=
+ the government definition is. I=E2=80=99m not going to get into semantics.=
+=E2=80=9D                                                                  =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                    =E2=80=
+=94 Trump campaign manager Corey Lewandowski on how the candidate defined i=
+ncome in his new financial disclosure                                      =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+         =C2=A0                                                            =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                Clintons=E2=80=99 speech fees plummet      =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                    Hillary Clinton=E2=80=
+=99s campaign has been dogged by questions about speaking fees she has disc=
+losed previously, particularly from Wall Street banks.                     =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                               =C2=A0                                      =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+              Huma Abedin among six set for quizzing in Clinton e-mail case=
+                                                                           =
+                                                                           =
+                                                                           =
+                                                          The vice chair of=
+ Clinton=E2=80=99s campaign and at least five others will be questioned by =
+a conservative watchdog group.                                             =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+       =C2=A0                                                              =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                 How well i=
+s Clinton making her economic case? (VIDEO)                                =
+                                                                           =
+                                                                           =
+                                                                           =
+                          On "With All Due Respect,=E2=80=9D Mark Halperin =
+and Al Hunt discuss the Democratic front-runner=E2=80=99s economic plan and=
+ the advisory role former President Bill Clinton might play if she reaches =
+the White House.                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                     =C2=A0=
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+    =C2=A0                                                                 =
+                                                  Catch =E2=80=9CWith All D=
+ue Respect=E2=80=9D on Bloomberg TV and domain.com weekdays at 5=
+ p.m. ET.                                                                  =
+                                                  =C2=A0                   =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                          =C2=A0                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+           Follow us:                                                      =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+         =C2=A0                                                            =
+                                                                           =
+                                                                  For press=
+ inquiries, please contact Emma Angerer user@domain.com, 202-654-433=
+2                                                                          =
+                                                                           =
+                                                =C2=A0                     =
+                                                                           =
+                    You received this message because you are subscribed to=
+ the Bloomberg Politics Daily newsletter.                                  =
+                                                                           =
+      =C2=A0                                                               =
+                                                    =C2=A0                 =
+                                                                           =
+                       Unsubscribe | domain.com | Contact Us    =
+                                                                           =
+                                     Bloomberg L.P. 731 Lexington, New York=
+, NY, 10022                                                                =
+                                                                           =
+        <a href=3D"<<link>>
+0/aHR0cDovL3d3dy5tYWlsLmJsb29tYmVyZ3BvbGl0aWNzLmNvbSI/5620642517893f007f8b4=
+d8aB12d463c6><img src=3D"<<link>>
+517893f007f8b4d8a40m90.2e4/dd0b687b.gif" alt=3D"" border=3D"0" /></a>      =
+                                                            =20
+
+If you believe this has been sent to you in error, please click <<<link>>
+k.mail.bloombergpolitics.com/oc/5620642517893f007f8b4d8a40m90.2e4/44f0b2ef>=
+ to safely unsubscribe.

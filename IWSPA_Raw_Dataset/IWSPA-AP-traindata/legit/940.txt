@@ -1,0 +1,48 @@
+This is a multi-part message in MIME format. --------------060109000609030501070308
+Content-Type: multipart/alternative; boundary="------------070901080902050505090308"
+--------------070901080902050505090308 Content-Type: text/plain; charset=us-ascii;
+format=flowed Content-Transfer-Encoding: 7bit Sarah, I realize that you have got a copy of
+this. What I am concerned about is the use of MAGICC in AR4. It is likely that the only way
+that MAGICC can be legitimately used is for it to be (again!) calibrated against the
+various AOGCMs being run for AR4. The AOGCM data that will be available this time will
+allow us to do this more comprehensively than your TAR analysis. I think this is something
+we should do together this time. I will talk to Jerry Meehl about this tomorrow or next
+week, and also discuss how best to do this statistically with Doug Nychka -- with a view to
+submitting a joint proposal. I would also like to involve Ben, since he is adept at getting
+appropriate data from PCMDI/CMIP data files, and he can add insights that we may otherwise
+miss. So the proposal would involve you, me, Doug and Ben. Tom. ================== --------
+Original Message -------- Subject: IPCC announcement of opportunity Date: Thu, 10 Jun 2004
+16:22:15 -0700 From: Curtis Covey To: George Boer , Ed Schneider , Wei-Chyung Wang , Tim
+Barnett , Scott Power , Jouni Raisanen , Yanli Jia , David Webb , Pierre Friedlingstein ,
+Sarah Raper , Jonathan Gregory , Marc Pontaud , Greg Flato , Tom Wigley , Phil Duffy , Dave
+Ritson , Valentina Pavan , Ken Caldeira , letreut , Ken Sperber , Brian Soden , Fred Singer
+, David Karoly , DUFRESNE Jean-Louis , Andrei Sokolov , Olivier de Viron , kattsov , Ping
+Liu , Tom Knutson , Youichi Tanimoto , Kwang-Yul Kim , "Siobhan O'Farrell" , Kristin
+Kuntz-Duriseti , Steve Marcus , "Francisco E. Werner" , Mingfang Ting , Cecilia Bitz ,
+"Cathrine.Myrmehl" , "Gregory M. Ostermeier" , Dave Stephenson , "Ola.Johannessen" ,
+Svetlana Kuzmina , Alpert Pinhas , Hirsch Tali , Evgeny Volodin , Dan Vimont , Ken Kunkel ,
+Huei-Ping Huang , Zeng-Zhen Hu , "I.-S. Kang" , "Vikram M. Mehta" , Bob Iacovazzi ,
+user@domain.com, Daithi Stone , Ray Bradley , Robert Kaufmann ,
+d.stainforth1@physics.ox.ac.uk, raghu@ncmrwf.gov.in, Rob Colman , user@domain.com, Chris
+Huntingford , Peter Webster , shj@atmos.yonsei.ac.kr, ysun@al.noaa.gov, Irina Gorodetskaya
+CC: Ron Stouffer , Mojib Latif , Jerry Meehl , Bryant McAvaney , Peter Gleckler Dear
+colleague, Attached (in PDF) is an announcement of opportunity to participate in analyses
+of global coupled model output for the Fourth Assessment Report of the Intergovernmental
+Panel on Climate Change. This is an open announcement, so please feel free to forward it to
+anyone who may be interested. Sincerely, The WGCM Climate Simulation Panel Gerald Meehl,
+Chair user@domain.com --------------070901080902050505090308 Content-Type:
+text/html; charset=us-ascii Content-Transfer-Encoding: 7bit Sarah,
+I realize that you have got a copy of this.
+What I am concerned about is the use of MAGICC in AR4. It is likely that
+the only way that MAGICC can be legitimately used is for it to be (again!)
+calibrated against the various AOGCMs being run for AR4. The AOGCM
+data that will be available this time will allow us to do this more comprehensively
+than your TAR analysis. I think this is something we should do together this time.
+I will talk to Jerry Meehl about this tomorrow or next week, and also discuss
+how best to do this statistically with Doug Nychka -- with a view to submitting
+a joint proposal. I would also like to involve Ben, since he is adept at getting
+appropriate data from PCMDI/CMIP data files, and he can add insights that
+we may otherwise miss. So the proposal would involve you, me, Doug and Ben.
+Tom.
+==================
+---

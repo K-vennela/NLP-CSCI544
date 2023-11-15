@@ -1,0 +1,36 @@
+From: <Hemgroup1@aol.com>
+To: "User"
+Subject: Re: A question
+Date: Wed, 12 Nov 2015 16:05:39 -0500
+Message-ID: <3589user@domain.com>
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQGpbrZU1yDHAcXLE76bra2M7XvhMQ==
+Content-Language: en-us
+x-ms-exchange-organization-authmechanism: 10
+x-ms-exchange-organization-authsource: domain.com
+x-ms-exchange-organization-authas: Internal
+x-originating-ip: [24.136.85.20]
+x-forefront-antispam-report: CIP:64.12.143.81;CTRY:US;IPV:NLI;EFV:NLI;SFV:NSPM;SFS:(6009001)(438002)(199003)(189002)(120916001)(106466001)(107046002)(221733001)(99396003)(2361001)(31966008)(81342999)(71186001)(77156002)(86362001)(95666004)(50986999)(46102003)(21056001)(512954002)(450100001)(110136001)(88526003)(2351001)(44976005)(64706001)(4396001)(84326002)(36756003)(102836001)(62966003)(107886001)(104166001)(87286001)(93916002)(6806004)(50226001)(87572001)(92726001)(73972006)(88136002)(956001)(92566001)(66066001)(85782001)(33646002)(20776003)(89996001)(87836001)(82202001)(57822003)(45916001)(7059030)(85772001);DIR:INB;SFP:;SCL:1;SRVR:BL2FFO11HUB018;H:omr-m07.mx.aol.com;FPR:;MLV:sfv;PTR:omr-m07.mx.aol.com;A:1;MX:1;LANG:en;
+x-microsoft-antispam: BCL:0;PCL:0;RULEID:;SRVR:BL2FFO11HUB018;
+x-eopattributedmessage: 0
+received-spf: Pass (domain.com: domain of aol.com designates 64.12.143.81 as permitted sender) receiver=domain.com; client-ip=64.12.143.81; helo=omr-m07.mx.aol.com;
+dkim-signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mx.aol.com;	s=20140625; t=1415826343;	bh=7XDevTxggsMTOUmIK3hqStWuY8PSPN4tcoOsKA7MlCk=;	h=From: <Hemgroup1@aol.com>
+authentication-results: spf=pass (sender IP is 64.12.143.81) user@domain.com; 
+x-exchange-antispam-report-test: UriScan:;
+x-aol-global-disposition: G
+x-aol-sid: 3039ac1add4f5463cba54d56
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+Hi. Amy...It's been a long time since we worked together, and I hope you 
+won't think this is an imposition.
+I have a nephew who is in town until the 20th of November who just 
+graduated from the Savannah College of Art and Design specializing in animation. 
+He has wanted to be an animator since he was five years old.
+I was wondering if you know anyone with whom he could meet while he was 
+here who can give him an idea of the lay of the land.
+Hope all is well.
+Thanks.
+Carole

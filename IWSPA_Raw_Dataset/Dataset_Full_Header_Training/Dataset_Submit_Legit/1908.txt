@@ -1,0 +1,93 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Fri, 29 Apr
+ 2015 22:04:27 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Fri, 29 Apr 2015 
+ 22:04:17 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 888790912
+ for user@domain.com; Fri, 29 Apr 2015 21:04:23 -0500
+X-Note-AR-ScanTimeLocal: 4/29/2016 9:04:23 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:74.125.82.53 DOM:nhdp.org ADDR:user@domain.com
+X-Note: SPF: None
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-35/SG:5 4/29/2016 9:04:17 PM
+X-GBUdb-Analysis: Unknown
+X-Signature-Violations: 0-0-0-9180-c
+X-Note-419: 15.6255 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 4/29/2016 9:04:23 PM
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 74.125.82.53
+X-Note-Reverse-DNS: mail-wm0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from mail-wm0-domain.com ([74.125.82.53] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 135801344
+ for user@domain.com; Fri, 29 Apr 2015 21:04:23 -0500
+Received: by mail-wm0-domain.com with SMTP id a17so61602399wme.0
+        for <user@domain.com>; Fri, 29 Apr 2015 19:04:21 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=nhdp-domain.com; s=20150623;
+        h=mime-version:date:message-id:subject:From: Thomas Nuccio <tnuccio@nhdp.org>
+        bh=NPU9zt77JZ2gz1eSdhjStRZkHSKyrejyJLK0gtn2Blg=;
+        b=KgoEZcn5KZA0Z2xSVnj+TnaRws572Jq6zve+tgtP2kGpxBiATInxJJ3OBOEtzcZEq2
+         2WDDkR3Bjrfn+tFWa1A+C1XR0+ZFCJGGeI9J96jANVvGEafVovRQdDc25ElmC2qiLlzQ
+         QrdlkvdDRJTFthFfckcjzVB62OCKKRDC9CZEgU8rmUzcvJ0SOOz2Oe/mNuW7mmezC4GZ
+         IVr6eeBuRNIcLpIRyVLTCwA3ckEaCiBxir8WyYvXpdLw6HjvfX4xt17woRlX6gaCEk7H
+         aFZhAhlgH0eRyIC6k9VgUBYVSNfOSQ0uXCvZJ8R935Ot+Bgwf1I79kU7vRdmtR7WssWk
+         P7Zg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:date:message-id:subject:From: Thomas Nuccio <tnuccio@nhdp.org>
+        bh=NPU9zt77JZ2gz1eSdhjStRZkHSKyrejyJLK0gtn2Blg=;
+        b=kaL+l3fEOAWMs4xZSxsc+C3ffxYVSdB7n9GZGlXz/8+JEAjLVAZ5as7dGXROVLVdau
+         Me6g6gt41H+PIWvrbZ46FRZwzr5xoUkNntRhmF4uC3gO2TYZjW/fItseKUNJTxpqGoV3
+         Z1KrZ+AOngL3f+0yXl+nMW6uudCU+Ou1VJfO3UwPu1YbPMAlB8vwe4sX3g2zZuN+cov9
+         dpg8bGaN/GLQLCu9RNjCF0e+ou7p1LIBrM51W5EU8EJ+pqudoNwF61JwZvApkQUO8wzW
+         LmhiF4z5TwcoWYYuzlIkIfXxHx4AzyuM1UVXdcTZHZGzQsWoF1axm7ZmoHdpxX/EByLG
+         5hGg==
+X-Gm-Message-State: AOPr4FX7BZWhKUROIJ3nc3NTQSPX5XQU94ot2x6/VHWXNevyvO5vTnfsPb3yE1gEh75Vo16mEGRmVtNkPeR/EQ==
+X-Received: by 10.28.147.8 with SMTP id v8mr6854598wmd.92.1461981860564; Fri,
+ 29 Apr 2015 19:04:20 -0700 (PDT)
+Received: by 10.194.240.193 with HTTP; Fri, 29 Apr 2015 19:04:20 -0700 (PDT)
+Date: Fri, 29 Apr 2015 22:04:20 -0400
+Message-ID: <CAC83D+hcy6_SjeFOMVzfHN3rLs1F_jB3dgGB-Qaz4MMg+7user@domain.com>
+Subject: EVENT: Fiorina at Oklahoma Republican Party 2015 Gala 5/13 at 6:00 PM
+From: Thomas Nuccio <tnuccio@nhdp.org>
+To: <user@domain.com>
+Content-Type: multipart/alternative; boundary="001a114733ac77a6a20531aa2d4e"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+MIME-Version: 1.0
+
+*Oklahoma Republican Party 2015 Gala*
+
+*May 13, 2015 Reception =E2=80=93 6:00PM Dinner =E2=80=93 7:00PM Skirvin Ho=
+tel, 1 Park
+Avenue, Downtown Oklahoma City, 73102 Individual: $150; Couple: $275 VIP
+Reception: $100 Sponsorships: $25,000 =E2=80=93 opportunity to introduce Ca=
+rly
+$5,000 =E2=80=93 per person for a seat at Carly table $5,000 =E2=80=93 10 d=
+inner tickets,
+10 reception tickets $2,500 =E2=80=93 8 diner tickets, 2 reception tickets =
+$1,000
+=E2=80=93 6 dinner tickets*
+
+<<link>>
+--=20
+Best,
+Thomas Nuccio
+203-501-0838

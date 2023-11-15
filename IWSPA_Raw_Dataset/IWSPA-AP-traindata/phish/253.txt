@@ -1,0 +1,18 @@
+************************************************************************
+This is an automatically generated message. Please DO NOT REPLY. 
+If you require assistance, please contact the Help Center.
+************************************************************************
+Oracle has released an update for Java that fixes 50 security holes, including a 
+critical hole currently being exploited in the wild.
+The IT Security Office strongly recommends that you update Java as soon as possible.
+For specific technical requirements, please see:<<link>>
+Please note that the Kronos vendor has not yet certified these Java versions for use with Kronos; 
+however, limited testing within Cornell suggests they are compatible.
+Older versions of Java are no longer supported by Oracle and have known security vulnerabilities. 
+Other OS versions are not supported for use with Kronos Full (Java).
+*************************
+E-mail ID: 73347391
+Online Session PID: 3194484683825352
+*************************
+Cornell IT Service Desk<<link>>
+255-5500

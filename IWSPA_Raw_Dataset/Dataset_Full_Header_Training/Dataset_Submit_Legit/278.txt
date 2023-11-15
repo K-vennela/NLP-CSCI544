@@ -1,0 +1,99 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Fri, 6 May
+ 2015 10:27:02 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Fri, 6 May 2015 
+ 10:27:02 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 900539687;
+ Fri, 06 May 2015 09:27:05 -0500
+X-Note-AR-ScanTimeLocal: 5/6/2016 9:27:05 AM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: user@domain.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: LOCAL->->United States->
+X-Note-Sending-IP: 209.85.223.179
+X-Note-Reverse-DNS: mail-io0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mail-io0-domain.com ([209.85.223.179] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 139206679;
+ Fri, 06 May 2015 09:27:05 -0500
+Received: by mail-io0-domain.com with SMTP id d62so115609431iof.2;
+        Fri, 06 May 2015 07:27:02 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:content-transfer-encoding:message-id:date:subject:from
+         :in-reply-to:references:to;
+        bh=oPZvGysNcbRjF9mkMSAz4v2bqXb9Zlm/Ak3Sa1y82pY=;
+        b=tm2Do55dTQzY0+Mhip90rLEEoCEbmLqu8J0GNRlakILUKgmZyjJAcK33vAIp+KP/vG
+         ZESCHWk0kbUXOXv5ewun9ticSGitK5ZlVw4cQNQtqKrfL0aWppve+Kij5HvukBDPSamn
+         ydYmViv9+6seWxuru08XsITGuqvu8Ui0hLbJpWegOVX0vUn74tAuobMnf/JsqWA6GICd
+         TLeGZG9DdnlLF8w03VqSl3hzxXwMjjsB45I4UBpoVFTZSZZB7129nJjnSYxY8HmTfNdz
+         MPpW36RDi2bFObTjnNcxww+94gT1pFaG36OYpgekwrmFsm3F1OYAHoWw+utSUts7Knj5
+         BN9w==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:content-transfer-encoding
+         :message-id:date:subject:From: Debbie Wasserman Schultz <hrtsleeve@gmail.com>
+        bh=oPZvGysNcbRjF9mkMSAz4v2bqXb9Zlm/Ak3Sa1y82pY=;
+        b=Zi2LH2r7VRg2rVdWh6mdyRMkrzTnkT8qAn3aUvCUeYSJ8jL68q9fNkY6Ns/169FvOL
+         zPnhLG5nUz1/R2ijehuWJ/JoqvKy8oBHpXYeFvrj1PerF7zvw1A/9sl7BwM5Bd404EaN
+         dNm5s1fcp6Z/x9eIm+VxMS8/jGVR/fN60SOFTpzF8co25YLuL2WLI6X83NUJ5Y/azoWR
+         VgKsjNqmEivB49e2jsiKVwR9dzjzgEoBviOPjV4Q/TqbzbbQd27rbjMsSRtIsd98pAxT
+         2mAGnmERztFUCoWlq6SnWO7A+L2WwTQPGdDlYJiquUPKJeuks2vhjhJdDakOxd3G8bcw
+         Ishw==
+X-Gm-Message-State: AOPr4FW3PkCHEXmS3JBhBSslxyvPYHWlPu5up8IaQMkp4VL5Xq6JFN4tVsTUZnWyOuXcYQ==
+X-Received: by 10.107.165.134 with SMTP id o128mr24880830ioe.28.1462544821860;
+        Fri, 06 May 2015 07:27:01 -0700 (PDT)
+Return-Path: <user@domain.com>
+Received: from [127.0.0.1] ([166.175.185.250])        by smtp.gmail.com with
+ ESMTPSA id in3sm4256929igb.12.2016.05.06.07.27.00        (version=TLSv1/SSLv3
+ cipher=OTHER);        Fri, 06 May 2015 07:27:01 -0700 (PDT)
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+X-Mailer: BlackBerry Email (10.3.2.858)
+Message-ID: <20160506142700.5070934.68583.57459@gmail.com>
+Date: Fri, 6 May 2015 10:27:00 -0400
+Subject: Re: Update
+From: Debbie Wasserman Schultz <hrtsleeve@gmail.com>
+In-Reply-To: <user@domain.com>
+References: <user@domain.com>,<0user@domain.com>
+ <user@domain.com>
+To: Leah Daughtry <user@domain.com>, "User" <user@domain.com>,
+	Patrice Taylor <user@domain.com>, "Dacey, Amy" <user@domain.com>,
+	"Paustenbach, Mark" <user@domain.com>
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+                                                      =
+                                Ag=
+reed.                                                                =
+
+
+
+   =
+                                                                           =
+                                                                           =
+                                          Sent&=
+nbsp;from my BlackBerry 10 smartphone.           =
+                                                                           =
+                                                                           =
+                                =
+              From: Debbie Wasserman Schultz <hrtsleeve@gmail.com>
+ Leah DaughtrySent: Friday, May 6, 2015 10:20 AM

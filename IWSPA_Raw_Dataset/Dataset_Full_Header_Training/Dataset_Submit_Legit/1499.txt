@@ -1,0 +1,30 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Thu, 30 Apr 2015 11:22:00 +0200
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id D1938628C5	for
+ <user@domain.com>; Thu, 30 Apr 2015 09:58:48 +0100 (BST)
+Received: by domain.com (Postfix)	id 5DC122BC006; Thu, 30 Apr 2015 
+ 11:22:00 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from domain.com (confluence.hackingteam.com
+ [192.168.200.205])	by domain.com (Postfix) with ESMTP id 511F72BC230
+	for <user@domain.com>; Thu, 30 Apr 2015 11:22:00 +0200 (CEST)
+Date: Thu, 30 Apr 2015 11:22:00 +0200
+From: "Lorenzo Invernizzi (Confluence)" <confluence@hackingteam.com>
+To: <user@domain.com>
+Message-ID: <947171816.4464.1430385720286.JavaMail.CONFLUENCE$@confluence>
+Subject: [confluence] Lorenzo Invernizzi updated a event in the "03.
+ POST-SALES" calendar
+Precedence: bulk
+Auto-Submitted: auto-generated
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-615933390_-_-"
+
+  Lorenzo Invernizzi updated a event in the 03. POST-SALES calendar May 06, 2015 9:00 AM Until May 06, 2015 12:00 PM   Remote Support MACC - Ticket WNC-817-96218 ipotesi: ultimo anon non raggiunge collector sulla 80; verificare la comunicazione (firewall?) You are receiving this notification because you are watching the following:   03. POST-SALES   Sent by Atlassian Confluence 5.6.3, the Enterprise Wiki 

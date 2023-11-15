@@ -1,0 +1,50 @@
+Received: from domain.com ([fe80::755c:1705:6a98:dcff]) by
+ domain.com ([fe80::755c:1705:6a98:dcff%11]) with mapi id
+ 14.03.0123.003; Fri, 27 Feb 2015 14:13:14 +0100
+From: Emad Shehata <e.shehata@hackingteam.com>
+To: "User"
+	<user@domain.com>
+CC: rsales <user@domain.com>
+Subject: R:
+Thread-Index: AQHQUoQj/wdgoNmJbES85WbWtrGgl50EeT8w
+Date: Fri, 27 Feb 2015 14:13:13 +0100
+Message-ID: <user@domain.com>
+In-Reply-To: <CADsNJ7p8w46eWK=hqYMBX9+user@domain.com>
+Accept-Language: it-IT, en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <user@domain.com>
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 03
+X-Originating-IP: [fe80::755c:1705:6a98:dcff]
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EMAD SHEHATA450
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1252371169_-_-"
+
+Dear Marat
+Yes recevied your e-mail and our management are working on it.
+
+Sorry for the enconvenients and delay my Dear
+--
+Emad Shehata
+Key Account Manager
+
+Sent from my mobile.
+
+
+
+Da: Astana Team [mailto:user@domain.com]
+Inviato: Friday, February 27, 2015 01:54 PM
+A: Emad Shehata; Emad Shehata <user@domain.com>
+Oggetto: 
+
+
+
+Dear Emad!You received an email? Any news on the contract? If not difficult can send license?
+
+best regards Aman!

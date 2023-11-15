@@ -1,0 +1,63 @@
+Received: from domain.com (146.215.230.102) by
+ domain.com (43.130.141.78) with Microsoft SMTP Server id
+ 8.3.342.0; Thu, 14 Aug 2015 13:04:25 -0700
+Received: from domain.com ([160.33.194.229])	by
+ domain.com (Sentrion-MTA-4.3.1/Sentrion-MTA-4.2.2) with
+ ESMTP id s7EK4Pio012101	for <user@domain.com>; Thu, 14 Aug 2015 
+ 20:04:25 GMT
+Received: from na01-by2-domain.com
+ (mail-domain.com [207.46.163.237])	by
+ domain.com (Sentrion-MTA-4.3.1/Sentrion-MTA-4.2.2) with
+ ESMTP id s7EK4NGo013488	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128
+ verify=FAIL)	for <user@domain.com>; Thu, 14 Aug 2015 20:04:24 GMT
+Received: from BN1AFFO11FD006.protection.gbl (10.58.52.34) by
+ BN1AFFO11HUB048.protection.gbl (10.58.52.107) with Microsoft SMTP Server
+ (TLS) id 15.0.1010.11; Thu, 14 Aug 2015 20:04:22 +0000
+Received: from domain.com (98.137.12.177) by
+ domain.com (10.58.52.66) with Microsoft SMTP
+ Server (TLS) id 15.0.1010.11 via Frontend Transport; Thu, 14 Aug 2015 
+ 20:04:22 +0000
+Received: (qmail 1228 invoked from network); 14 Aug 2015 20:04:21 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=domain.com; s=s1024; t=1408046661; bh=uvEjkNY7B/KOdHMMvCtxHfM9kf14XcJhHRfdgXaZgh0=; h=Date:Subject:Message-ID:From: Barrett <barrett_stuart@bsproductions.org>
+X-Yahoo-Newman-Property: ymail-3
+X-YMail-OSG: 0oBCGkMVM1lS36.9q5jNZ.8EZqLWQTNMvxQnFJrrkYspsj7
+ rln5ECygxyZsLHOfVY7ayp8H1HYWdempG3H.Nt.o6yUARSrEfuFJhe1h_eFw
+ JDjscAO2lq19UjWrr2TrW3np4o9D7CPhzH8ZdSuHEG8zYLKscjj8m7RspfOJ
+ hyPCEkYr_8C8KFG9vPxSg9CURVKG6nRYkYC441OR35vlXGBs0e6SQXnl4aPW
+ NMeh2WjgthZLNwpxnk1WlMqpXASYa0BaRFrEU7vxt9CsNbE3wofZn_tAmmGh
+ 57FX8erD8UoOY.yNUa_0D0xFTrhPggbQ1S2pq9KRJUxZJdZ5EVF1L7qqTHrQ
+ RMk8Wj0UEkwp7baAyN17kJUIlT7CCWQU6sF_b3ZKG.gje_xn.Y.xHZIayxNT
+ WsnQdyrG_TOH9opwJIiUaOWXopSYo9f2_iRtrTsvxgmVAX3DmPWv9XWyoOAi
+ 12FabnFmZ4QQ6q1UfqINFo8UWI3w9wjQ4mccealsW_wT0fUIjwZ6BRJ_UYBi
+ btFJ6mTda49S0dsxGPxp.G2cnjYm4V6pjl_..YJtQ3jYUGlFc4D8tt0yFaRg
+ 8M3Mb.OY-
+X-Yahoo-SMTP: E3YXbjOswBBNMSmHcT61oWI_0V_H
+Date: Thu, 14 Aug 2015 13:03:36 -0700
+Subject: Re: Have a good trip buddy....
+Message-ID: <user@domain.com>
+From: Barrett <barrett_stuart@bsproductions.org>
+To: "User" <user@domain.com>
+In-Reply-To: <0user@domain.com>
+References: <709891131user@domain.com>
+ <0user@domain.com>
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:98.137.12.177;CTRY:US;IPV:NLI;EFV:NLI;SFV:NSPM;SFS:(428002)(24454002)(51694002)(377454003)(199003)(189002)(46034005)(51704005)(38605003)(21056001)(74662001)(42186005)(102836001)(19580405001)(44976005)(34756002)(63666004)(19580395003)(83322001)(81342001)(80022001)(95666004)(16236675004)(105586002)(77096002)(106466001)(79102001)(107046002)(107886001)(64706001)(77982001)(20776003)(90146999)(33646002)(74502001)(101416001)(50986999)(85852003)(22746005)(104016003)(95246002)(19625215002)(76482001)(76176999)(6806004)(54356999)(85306004)(17816001)(99396002)(46102001)(4396001)(83072002)(81542001)(31966008)(34766002)(92726001)(86362001)(87836001)(22756005)(55666002)(63326003)(71186001)(92566001)(110136001)(84326002)(956001)(45826003)(72506005)(37276004);DIR:INB;SFP:;SCL:1;SRVR:BN1AFFO11HUB048;H:domain.com;FPR:;MLV:sfv;PTR:domain.com;A:1;MX:1;LANG:en;
+X-Microsoft-Antispam: BCL:0;PCL:0;RULEID:;UriScan:;
+Received-SPF: None (domain.com: bsproductions.org does not
+ designate permitted sender hosts)
+Authentication-Results: spf=none (sender IP is 98.137.12.177)
+ user@domain.com; 
+X-OriginatorOrg: domain.com
+Return-Path: user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-406539735_-_-"
+
+Sure, if it works for you...:-) 
+Sent from my Sony Xperia™ smartphone
+
+---- ODell, Steven wrote ----
+
+Thank you Buddy!   I crashed on the couch and blanked out last night.  Call you from wherever I go today and you can write down what you need?
+
+Steven

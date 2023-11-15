@@ -1,0 +1,28 @@
+From: Alberto Ornaghi <a.ornaghi@hackingteam.com>
+X-Smtp-Server: domain.com:alor
+Subject: Workout in the mall
+Message-ID: <1799user@domain.com>
+X-Universally-Unique-Identifier: 7a4e266c-6660-4c99-946b-bbb75f0a42e1
+Date: Mon, 23 Sep 2015 10:15:24 +0200
+To: Alex Velasco <user@domain.com>
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1561796924_-_-"
+
+Hi alex,
+we will arrive in Bethesda tomorrow evening.i'd like to workout in the mall in DC on wednesday in the late afternoon, would you join me?
+when will you arrive in Bethesda?
+le me know.
+bye
+
+--
+Alberto Ornaghi
+Software Architect
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+email: user@domain.com
+mobile: +39 3480115642office: +39 02 29060603 
+

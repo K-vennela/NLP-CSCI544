@@ -1,0 +1,101 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [10.3.4.5])
+	by domain.com (Postfix) with ESMTP id 73F0A4693B
+	for <user@domain.com>; Tue, 27 Jun 2015 10:15:03 -0400 (EDT)
+Received: from 193.111.125.149 (ce01380-domain.com [193.111.125.149])
+	by domain.com (Postfix) with SMTP id 8AC076FA483
+	for <user@domain.com>; Tue, 27 Jun 2015 10:14:52 -0400 (EDT)
+Received: from 74.176.123.192 by ; Tue, 27 Jun 2015 16:06:44 +0100
+Message-ID: <user@domain.com>
+From: "PayPal" <service@paypal.com>
+Reply-To: "User" <user@domain.com>
+To: user@domain.com
+Subject: Notification of Limited Account Access (Routing Code: C840-L001-Q190-T1812)
+Date: Tue, 27 Jun 2015 12:11:44 -0300
+X-Mailer: MIME-tools 5.503 (Entity 5.501)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--918302041544233753"
+X-Priority: 1
+X-MSMail-Priority: High
+Status: 
+X-Status: 
+X-Keywords: 
+
+Dear Sir,
+
+PayPal is committed to maintaining a safe environment=
+ for its community of
+buyers and sellers.
+To protect the security of your account, PayPal employs
+some of the mos=
+t advanced security systems in the world and
+our anti-fraud
+teams regularly screen the PayPal system for unusual act=
+ivity.
+
+Recently, our Account Review
+Team identified some unusual activity in your
+account. In accordance wi=
+th PayPal's User Agreement and to ensure that
+your
+account has not been compromised, access to your account was domain.com=
+ed. Your
+account access will remain
+limited until this issue has been resolved. This
+is a fraud prevention =
+measure meant to ensure that your account is
+ not
+compromised.
+
+In order to secure your account and quickly re=
+store full access, we may
+require some
+specific information from you for the following reason: 
+
+We would l=
+ike to ensure that your account was not
+accessed by an
+unauthorized third party. Because protecting the domain.com=
+y of your account
+is our primary concern,
+we have limited access to sensitive PayPal account
+features. We underst=
+and that this may be an inconvenience but
+please
+understand that this temporary limitation is for your protection=
+
+
+
+Case ID Number:
+PP-046-631-789
+We encourage you to log in and restore full access as so=
+on as possible.
+Should access to your
+account remain limited for an extended period of
+time, it may result in=
+ further limitations on the use of your
+account or
+may result in eventual account closure.
+
+Thank you for=
+ your prompt attention to this matter. Please
+understand that
+this is a security measure meant to help protect you an=
+d your
+ account. We
+apologize for any inconvenience.
+
+To keep your account active, click here:
+
+ <<link>>
+s-outside
+
+Sincerely,
+PayPal
+Account Review Department
+
+PayPal Email ID PP576
+

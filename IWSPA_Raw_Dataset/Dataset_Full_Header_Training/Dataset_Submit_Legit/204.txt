@@ -1,0 +1,54 @@
+Return-Path: <user@domain.com>
+Reply-To: <user@domain.com>
+From: "HT Srl" <support@hackingteam.com>
+To: <user@domain.com>
+Subject: [!GRV-422-31270]: Assignment - [ERROR]:  Cannot send mail: 550 A valid address is required.
+Date: Tue, 16 Jul 2015 13:35:26 +0200
+Message-ID: <1373974526.51user@domain.com>
+X-Mailer: Microsoft Outlook 15.0
+Thread-Index: AQIo5IqQw6QMUYjAtHg7sl5aRENpVg==
+X-OlkEid: 000000007D2091DA92D3914ABB4C05769578F4790700A96A85A9D2A04643865EB2097E3CF3A30000000002080000A96A85A9D2A04643865EB2097E3CF3A30000000014F400005D7178B12DDBE84FB5BF43AC04E9BD42
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-615933390_-_-"
+
+Alberto Ornaghi updated #GRV-422-31270
+
+--------------------------------------
+
+Staff (Owner): Alberto Ornaghi (was: -- Unassigned --)
+Status: In Progress (was: Open)
+
+[ERROR]:  Cannot send mail: 550 A valid address is required.
+
+------------------------------------------------------------
+
+Ticket ID: GRV-422-31270
+URL: <<link>>
+Full Name: Krystian Dobrzyński
+Email: user@domain.com
+Creator: User
+Department: General
+Staff (Owner): Alberto Ornaghi
+Type: Issue
+Status: In Progress
+Priority: Normal
+Template Group: Default
+Created: 16 July 2015 01:04 PM
+Updated: 16 July 2015 01:04 PM
+
+Hi,
+
+In the master node error log I have one error that is repeating many times per day. I noticed that when this error occurs in the same time I have email from the system that The component 'RCS::ANON::XXX' is now active.
+
+It looks like system can't get response from anon and generate error, and when anon response, system is sending email.
+
+Is this alright?
+
+log and email in attachment.
+
+best regards
+
+Staff CP:  <<link>>
+

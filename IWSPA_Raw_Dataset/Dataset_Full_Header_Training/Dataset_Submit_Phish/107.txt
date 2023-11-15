@@ -1,0 +1,80 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id 8F0BB4689E
+	for <user@domain.com>; Mon, 20 Apr 2015 03:29:21 -0400 (EDT)
+X-Greylist: delayed 1855 seconds by postgrey-1.27 at domain.com; Mon, 20 Apr 2015 03:29:21 EDT
+Received: from serv7.fresh-hosting.de (serv7.fresh-hosting.de [80.78.83.7])
+	by domain.com (Postfix) with ESMTP id 415AD131F6EF
+	for <user@domain.com>; Mon, 20 Apr 2015 03:29:21 -0400 (EDT)
+Received: by serv7.fresh-hosting.de (serv7.fresh-hosting.de, from userid 33)
+	id 39DE0CF18A6; Mon, 20 Apr 2015 08:55:59 +0200 (CEST)
+To: user@domain.com
+Subject: Security Measures
+From: PayPal Customer Support <support@paypal.com>
+Reply-To: 
+MIME-Version: 1.0
+X-Mailer: mailer :) 
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Message-Id: <20090420065559.39user@domain.com>
+Date: Mon, 20 Apr 2015 08:55:59 +0200 (CEST)
+Content-Length: 3764
+Lines: 85
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1037
+
+PayPal
+#obmessage .dummy {}
+#z BODY, #z  TD {font-family: verdana,arial,helvetica,sans-serif;
+font-size:12px;color: #000000;}
+
+Information about your account:
+Dear customer PayPal:
+
+Attention! Your PayPal account has been limited!
+
+As part of our security measures, we regularly check the activity of the screen PayPal.
+We requested information from you for the following reason:
+
+Our system has detected unusual charges to a domain.com card linked to your PayPal account.
+
+Reference Number: PP-318-321-835
+
+This is the last reminder to log into PayPal, as soon as possible. Once you connect. PayPal will provide measures to restore access to your account.
+
+
+
+
+Once connected, follow the steps to activate your account. We appreciate your understanding as we work to ensure the safety Account
+
+Thank you for your attention to this question. Please understand that this is a security measure intended to protect you and your account. We apologize for any inconvenience ..
+
+Department review PayPal accounts
+
+
+
+Copyright  1999-2009 PayPal. All rights reserved.
+
+
+
+ PayPal Register Number: 226056.
+
+PayPal Email ID PP059
+
+Protect your account
+
+Be sure to never give your password to fraudulent websites. 
+
+Any safe access to the site or your PayPal account, open a new web browser (domain.com Explorer or Netscape) and typing in the login page of PayPal (<<link>>) to make sure you are on the real PayPal site
+For more information on fraud protection, please consult our safety tips  
+Protect your password 
+You should never give your PayPal password to anyone
+
+Protect your password
+
+You should never give your password to anyone PayPal.
+

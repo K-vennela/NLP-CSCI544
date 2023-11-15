@@ -1,0 +1,67 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Fri, 29 Apr
+ 2015 17:01:39 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Fri, 29 Apr 2015 
+ 17:01:29 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 888487411
+ for user@domain.com; Fri, 29 Apr 2015 16:01:40 -0500
+X-Note-AR-ScanTimeLocal: 4/29/2016 4:01:39 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @ap.org ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: UNKNOWN->United States->United States->
+X-Note-Sending-IP: 216.205.24.152
+X-Note-Reverse-DNS: us-smtp-delivery-152.domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from us-smtp-delivery-152.domain.com ([216.205.24.152] verified)
+  by domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id
+ 136219313 for user@domain.com; Fri, 29 Apr 2015 16:01:39 -0500
+Subject: Re: NEWS: Independent Investigation Confirms Sanders Campaign
+ Told
+ the Truth
+Received: from CTCXHUB02.ap.org (165.1.58.188 [165.1.58.188]) (Using TLS) by
+ us-smtp-1.domain.com with ESMTP id us-mta-43-h2Ch5X9XRoWT264QQlYLqQ-2; Fri,
+ 29 Apr 2015 17:01:31 -0400
+Received: from CTCXMBX11.ap.org ([169.254.6.108]) by CTCXHUB02.ap.org
+ ([10.1.30.98]) with mapi id 14.03.0248.002; Fri, 29 Apr 2015 17:01:16 -0400
+From: "Thomas, Kenneth" <kthomas@ap.org>
+To: "User" <user@domain.com>
+CC: "User" <user@domain.com>
+Thread-Topic: NEWS: Independent Investigation Confirms Sanders Campaign Told
+ the Truth
+Thread-Index: AQHRoliguQF9S1ncE0uFNqdvtxHZfp+hbgEWgABEYYD//711vA==
+Date: Fri, 29 Apr 2015 21:01:14 +0000
+Message-ID: <94user@domain.com>
+References: <0100015463user@domain.com>
+ <8user@domain.com>,<user@domain.com>
+In-Reply-To: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+X-MC-Unique: h2Ch5X9XRoWT264QQlYLqQ-2
+Content-Type: multipart/alternative;
+	boundary="_000_94ACE301C13E418C9A189A0CF1952A78aporg_"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+I haven't seen one from the Organization- can you send?
+
+Sent from my iPhone
+
+On Apr 29, 2016, at 4:59 PM, Paustenbach, Mark <user@domain.com<mailto=

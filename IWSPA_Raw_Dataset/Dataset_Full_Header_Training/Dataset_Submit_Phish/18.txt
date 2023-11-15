@@ -1,0 +1,153 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [10.5.6.7])
+	by domain.com (Postfix) with ESMTP id 2EC28469B6;
+	Wed, 28 Jun 2015 07:32:17 -0400 (EDT)
+Received: from domain.com (toronto-HSE-ppp4116952.sympatico.ca [70.50.227.60])
+	by domain.com (Postfix) with SMTP id 1E5996CCFAD;
+	Wed, 28 Jun 2015 07:32:18 -0400 (EDT)
+Reply-To: <user@domain.com>
+From: "service@paypal.com" <service@paypal.com>
+Subject: Notification of Limited Account Access (case id: PP-423-823-a8)
+Date: Wed, 28 Jun 2015 07:32:19 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20060628113218.1user@domain.com>
+To: undisclosed-recipients:;
+Status: R
+X-Status: 
+X-Keywords: 
+
+BODY, TD
+{font-family:verdana,arial,helvetica,sans-serif;font-size:12px;color:#0000=
+00;}
+LI
+{line-height:120%;}
+UL.smallBorder
+{;}
+LI.smallBorderLi
+{;}
+UL.Narrow
+{;}
+HR.dotted
+{width:100%;border-left:#fff;border-right:#fff;border-top:#fff;border-bott=
+om:2px dotted #ccc;}
+smallEmphasis
+{font-family:verdana,arial,helvetica,sans-serif;font-size:10px;font-weight=
+:bold;color:#000000;}
+serifBig
+{font-family:serif;font-size:20px;font-weight:bold;color:#000000;}
+serif
+{font-family:serif;font-size:16px;color:#000000;}
+sansSerif
+{font-family:verdana,arial,helvetica,sans-serif;font-size:16px;color:#0000=
+00;}
+heading
+{font-family:verdana,arial,helvetica,sans-serif;font-size:18px;font-weight=
+:bold;color:#003366;}
+subHeadingEoa
+{font-family:verdana,arial,helvetica,sans-serif;font-size:15px;font-weight=
+:bold;color:#000000;}
+subHeading
+{font-family:verdana,arial,helvetica,sans-serif;font-size:16px;font-weight=
+:bold;color:#003366;}
+sidebarText
+{font-family:verdana,arial,helvetica,sans-serif;font-size:11px;color:#0033=
+66;}
+sidebarTextBold
+{font-family:verdana,arial,helvetica,sans-serif;font-size:11px;font-weight=
+:bold;color:#003366;}
+xptFooter
+{font-family:verdana,arial,helvetica,sans-serif;font-size:11px;color:#aaaa=
+aa;}
+button
+{font-size:13px;font-family:verdana,arial,helvetica,sans-serif;font-weight=
+:400;border-style:outset;color:#000000;background-color:#cccccc;}
+smaller
+{font-family:verdana,arial,helvetica,sans-serif;font-size:10px;color:#0000=
+00;}
+smallerSidebar
+{font-family:verdana,arial,helvetica,sans-serif;font-size:10px;color:#0033=
+66;}
+emphasis
+{font-weight:700;}
+table#invoice, table#invoice_controls, table#invoice_note
+{width:600px;}
+table#invoice_note
+{;}
+table#invoice_controls
+{text-align:right;}
+table#invoice
+{border-collapse:collapse;border:1px solid #aaa;}
+table#invoice td
+{font-size:11px;border:1px solid #ccc;padding:2px;}
+table#invoice td.field_label_right, table#invoice td.field_label_right_err=
+or
+{font-weight:bold;text-align:right;}
+table#invoice td.field_label_right_error, table#invoice td.field_label_err=
+or
+{color:red;}
+table#invoice tr.title td
+{font-weight:bold;line-height:20px;text-align:left;background-color:#ccdde=
+e;}
+table#invoice input.readonly
+{border:0;text-align:right;}
+table#invoice input.readonly_currency
+{border:0;width:10px;}
+field_error, .field_error input.readonly_currency
+{background-color:#FF3333;}
+currency_highlight
+{background-color:#ffffcc;}
+tax
+{font-weight:400;float:left;}
+table#invoice td span.curr
+{float:left;}
+table#invoice td.currency
+{border-right:1px solid #fff;}
+table#invoice td.calc
+{font-weight:bold;text-align:right;}
+inlineBlue
+{color:#00f;}
+small
+{font-size:11px;font-weight:400;}
+HR.solid
+{width:100%;border-left:#fff;border-right:#fff;border-top:#fff;border-bott=
+om:2px solid #999;}
+large
+{font-size:17px;}
+smallVerdanaGrey
+{font-family:verdana;font-size:10px;color:#999999;}
+smallVerdana
+{font-family:verdana;font-size:10px;color:#000000;}
+smallArial
+{font-family:arial;font-size:13px;}
+smallArialBlue
+{font-family:verdana;font-size:9px;color:#0000FF;}
+smallVerdanaGreen
+{font-family:verdana;font-size:10px;color:#666666;}
+smaller
+{font-size:10px;color:gray;}
+larger
+{font-size:18px;font-family:arial;font-weight:600;}
+longTableValue
+{word-break:break-all;}
+longSideBarText
+{width:190px;word-break:break-all;}
+
+Protect Your Account InfoMake sure you never provide your password =
+to fraudulent websites.
+
+PayPal will never ask you to enter your password in an email.
+
+For more information on protecting yourself from fraud, please review =
+our Security Tips  at  <<link>>
+m/us/securitytips
+<=
+/td>Protect Your Password

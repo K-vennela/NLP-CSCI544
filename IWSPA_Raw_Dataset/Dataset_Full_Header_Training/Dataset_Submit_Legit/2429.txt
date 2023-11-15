@@ -1,0 +1,37 @@
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ DNCHUBCAS1.dnc.org ([fe80::ac16:e03c:a689:8203%11]) with mapi id
+ 14.03.0224.002; Wed, 18 May 2015 17:51:16 -0400
+From: "Paustenbach, Mark" <PaustenbachM@dnc.org>
+To: "User" <user@domain.com>,
+	"Manriquez, Pablo" <user@domain.com>
+Subject: DWS Request / Face the Nation
+Thread-Topic: DWS Request / Face the Nation
+Thread-Index: AdGxTywAIl8n1b0wRAu6ZH243wSxJg==
+Date: Wed, 18 May 2015 14:51:15 -0700
+Message-ID: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: DNCHUBCAS1.dnc.org
+X-MS-Has-Attach: 
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.176.227]
+Content-Type: multipart/alternative;
+	boundary="_000_DB091DC3DEF527488ED2EB534FE59C12831C2Bdncdag1dncorg_"
+MIME-Version: 1.0
+
+Face the Nation/CBS is inquiring about her availability for this Sunday's show.
+
+Hit time would be approximately 10:40am for a live interview.
+
+RE location, in-studio in DC is preferred but it can be from anywhere.
+
+Mark Paustenbach
+National Press Secretary &
+Deputy Communications Director
+Organization
+W: 202.863.8148
+user@domain.com<mailto:user@domain.com>
+

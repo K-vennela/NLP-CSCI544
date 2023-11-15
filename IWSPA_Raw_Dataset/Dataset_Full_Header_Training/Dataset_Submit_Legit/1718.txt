@@ -1,0 +1,48 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Sun, 16 Nov 2015 12:52:45 +0100
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id DAC25621C6	for
+ <user@domain.com>; Sun, 16 Nov 2015 11:34:59 +0000 (GMT)
+Received: by domain.com (Postfix)	id 0CF142BC02E; Sun, 16 Nov 2015 
+ 12:52:45 +0100 (CET)
+Delivered-To: user@domain.com
+Received: from domain.com (exchange.hackingteam.com
+ [192.168.100.51])	(using TLSv1 with cipher AES256-SHA (256/256 bits))	(No
+ client certificate requested)	by domain.com (Postfix) with ESMTPS id
+ 0248D2BC006;	Sun, 16 Nov 2015 12:52:45 +0100 (CET)
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Sun, 16 Nov 2015 12:52:36 +0100
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id 7A7316005F	for
+ <user@domain.com>; Sun, 16 Nov 2015 11:34:51 +0000 (GMT)
+Received: by domain.com (Postfix)	id 9B99B2BC02E; Sun, 16 Nov 2015 
+ 12:52:36 +0100 (CET)
+Delivered-To: user@domain.com
+Received: from [10.206.201.106] (mobile-166-171-057-222.domain.com
+ [166.171.57.222])	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)	by domain.com (Postfix) with
+ ESMTPSA id 6B9342BC006	for <user@domain.com>; Sun, 16 Nov 2015 
+ 12:52:36 +0100 (CET)
+From: Alex Velasco <a.velasco@hackingteam.com>
+Subject: Happy birthday
+Message-ID: <user@domain.com>
+Date: Sun, 16 Nov 2015 06:52:33 -0500
+To: "User" <user@domain.com>
+X-Mailer: iPhone Mail (12B411)
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=ALEX VELASCO769
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2135562172_-_-"
+
+How are all you doing
+
+Alex VelascoKey Account Manager
+Hacking TeamMilan Singapore Washington DCwww.hackingteam.com
+email: user@domain.com: +1 301.332.5654phone: +1 443.949.7470

@@ -1,0 +1,232 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 18 May
+ 2015 08:12:32 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 18 May 2015 
+ 08:12:31 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 921273003
+ for user@domain.com; Wed, 18 May 2015 07:12:39 -0500
+X-Note-AR-ScanTimeLocal: 5/18/2016 7:12:30 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @hillaryclinton.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->->->->United States->
+X-Note-Sending-IP: 209.85.161.199
+X-Note-Reverse-DNS: mail-yw0-domain.com
+X-Note-Return-Path: nationalpress2016+user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mail-yw0-domain.com ([209.85.161.199] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 139181096
+ for user@domain.com; Wed, 18 May 2015 07:12:30 -0500
+Received: by mail-yw0-domain.com with SMTP id y6sf101622418ywe.0
+        for <user@domain.com>; Wed, 18 May 2015 05:12:30 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=hillaryclinton.com; s=google;
+        h=mime-version:From: Hillary For America Press <press@hillaryclinton.com>
+         :x-original-authentication-results:precedence:mailing-list:list-id
+         :x-spam-checked-in-group:list-post:list-help:list-archive
+         :list-unsubscribe;
+        bh=kEzgKP9NenMg+jpBck39+dX72JuhY+PMJ1H0jiq7wzY=;
+        b=GumL/TOQZ7zBybKEYEpZ4ZualnGk5moTZUHn6gnamjBMcBOgx98U/Hi/oLeMRQ8i1f
+         Vm1seSTrzyKdlcbl7NftQIceAop4Blr6+tzGP+/u4gBZj1+En3VEk3XFmZAsDkEuGTFi
+         wI3TX4pXoNKtVYQSy2tDaRTiK8SOB1zSUrRys=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:From: Hillary For America Press <press@hillaryclinton.com>
+         :x-original-sender:x-original-authentication-results:precedence
+         :mailing-list:list-id:x-spam-checked-in-group:list-post:list-help
+         :list-archive:list-unsubscribe;
+        bh=kEzgKP9NenMg+jpBck39+dX72JuhY+PMJ1H0jiq7wzY=;
+        b=DF2VPzoIYHrW/r8m1laMHUJK9pbgTVYZ2O/aDGJuA1FMt12F2zU2J0oLSbPWylR5YA
+         E89GBY2YSvBZeop1j/+4G6GWi149ZQhaB1SO5cEF0fGPW75EnFCNQIGNX1mcBSj2lGko
+         d4OcKh0U/4eFffduzdq+OMj0h2aMdjNn14A3/Kbln/BMlObIERCTs1YekY8Ge+VxOFnw
+         xYQcv5OcV+sUsAoWEsFS992WXVrKz6bZ2K/VLt51exiVc8bywpBKGx1Dn1IOqdwyZMhd
+         RXq/b7z5W+T56jN9+4vEIkY1ip8GZHh2/q1xtN4tQ6e1in2Ax4MAol+EukdaCZB+TNZI
+         9P6g==
+X-Gm-Message-State: AOPr4FUDGA7h0zbsh7KRZVeZdy77oQtxl00tewjDKiqosZSDY/c4VPvcZDmrzveS0gdywm1y
+X-Received: by 10.140.146.134 with SMTP id 128mr28914673qhs.14.1463573550320;
+        Wed, 18 May 2015 05:12:30 -0700 (PDT)
+X-BeenThere: user@domain.com
+Received: by 10.107.6.222 with SMTP id f91ls347957ioi.38.gmail; Wed, 18 May
+ 2015 05:12:27 -0700 (PDT)
+X-Received: by 10.107.24.6 with SMTP id 6mr5297586ioy.195.1463573547616;
+        Wed, 18 May 2015 05:12:27 -0700 (PDT)
+Received: from mail-io0-domain.com (mail-io0-domain.com.
+ [2607:f8b0:4001:c06::22e])        by domain.com with ESMTPS id
+ i9si19182367igh.31.2016.05.18.05.12.27        for
+ <user@domain.com>        (version=TLS1_2
+ cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);        Wed, 18 May 2015 
+ 05:12:27 -0700 (PDT)
+Received-SPF: pass (domain.com: domain of user@domain.com designates 2607:f8b0:4001:c06::22e as permitted sender) client-ip=2607:f8b0:4001:c06::22e;
+Received: by mail-io0-domain.com with SMTP id d62so61864111iof.2
+        for <user@domain.com>; Wed, 18 May 2015 05:12:27
+ -0700 (PDT)
+X-Received: by 10.107.128.159 with SMTP id k31mr5482107ioi.65.1463573547131;
+ Wed, 18 May 2015 05:12:27 -0700 (PDT)
+Received: by 10.107.55.85 with HTTP; Wed, 18 May 2015 05:12:07 -0700 (PDT)
+From: Hillary For America Press <press@hillaryclinton.com>
+Date: Wed, 18 May 2015 08:12:07 -0400
+Message-ID: <user@domain.com>
+Subject: A Look at Trump's Real Foreign Policy Agenda: Unpredictable and Dangerous
+To: Hillary for America Press <user@domain.com>
+Content-Type: multipart/related; boundary="001a113c81dc624b0c05331cc57f"
+BCC: <user@domain.com>
+X-Original-Sender: user@domain.com
+X-Original-Authentication-Results: domain.com;       dkim=pass
+ user@domain.com;       spf=pass (domain.com: domain of
+ user@domain.com designates 2607:f8b0:4001:c06::22e as permitted
+ sender) user@domain.com;       dmarc=pass
+ (p=QUARANTINE dis=NONE) header.from=hillaryclinton.com
+Precedence: list
+Mailing-list: list user@domain.com; contact nationalpress2016+user@domain.com
+List-ID: <nationalpress2016.hillaryclinton.com>
+X-Spam-Checked-In-Group: user@domain.com
+X-Google-Group-Id: 5632930410
+List-Post: <<<link>>>,
+ <mailto:user@domain.com>
+List-Help: <<<link>>>,
+ <mailto:nationalpress2016+user@domain.com>
+List-Archive: <<<link>>>
+List-Unsubscribe: <mailto:googlegroups-manage+5632930410+user@domain.com>,
+ <<<link>>>
+Return-Path: nationalpress2016+user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+=E2=80=8B
+
+*A Look at Trump's Real Foreign Policy Agenda: Unpredictable and Dangerous*
+
+Donald Trump is ramping up his efforts to appear serious about foreign
+policy and convince a very resistant Republican Party that he's a plausible
+commander-in-chief. Just last night, CNN reported that
+<<<link>>> he =E2=
+=80=9Cwants to
+come across as a man of substance.=E2=80=9D But every time he opens his mou=
+th, he
+seems to undermine that goal.
+
+On Monday, Donald Trump sent shockwaves through the UK
+<<<link>>
+op-ally-amid-ongoing-push-for-warmer-relations-with-putin-russia/>,
+one of our oldest and closest allies, as he insulted David Cameron and
+casually predicted our special relationship might turn sour under a Trump
+presidency. Apparently he doesn't have the same contempt for Kim Jong Un as
+he does for Cameron -- Tuesday he turned around and said he would have =E2=
+=80=9Cno
+problem=E2=80=9D
+<<<link>>
+l>
+speaking with the North Korean dictator, whom he previously praised
+<<<link>>
+
+for executing his uncle.
+
+He has drawn heavy criticism from leaders in the England
+<<<link>>
+hdraw-remarks-branding-donald-trump-divisive-and-stupid-a7013846.html>,
+Germany
+<<<link>>
+
+and France
+<<<link>>
+-trump-is-so-stupid>,
+while earning praise from the Russians
+<<<link>>
+day-rt-kremlin-media-vladimir-putin-213833>
+(Trump is, of course, a Russia expert -- he hosted Miss Universe contest
+there
+<<<link>>
+rump-russia-miss-universe/84024666/>)
+and generating excitement in Iran
+<<<link>>>. He seems
+dead-set on weakening our allies and emboldening our adversaries.
+
+With each new day seems to come new comments from Trump that underscore
+just how ill-prepared he is to be commander-in-chief. But let's not forget
+about the dangerous set of proposals he's already put forward on this
+campaign -- here are just a few of his many bad ideas:
+
+   -
+
+   Banning all Muslims
+   <<<link>>
+n-preventing-muslim-immigration>
+   from entering America.
+
+   -
+
+   Allowing more countries
+   <<<link>>
+n-south-korea-saudi-arabia>
+   to get nuclear weapons, including
+   <<<link>>
+d-trump-cnn-milwaukee-republican-presidential-town-hall/>
+   Japan, South Korea, and Saudi Arabia.
+
+   -
+
+   Intentionally killing
+   <<<link>>
+/index.html?sr=3DtwCNN120215donald-trump-terrorists-families/0141PMVODtopLi=
+nk&linkId=3D19235497>
+   innocent family members of terrorist fighters.
+
+   -
+
+   Bringing back torture
+   <<<link>>
+cruz_advocate_bringing_back_waterboarding.html>,
+   which doesn=E2=80=99t work
+   <<<link>>
+clinton/evidence-backs-hillary-clinton-claim-torture-count/>
+   and makes our troops less safe.
+
+   -
+
+   Walking away
+   <<<link>>
+own-hall-with-donald-trump-moderated-by-chris-matthews?lite>
+   from NATO unless we can extract more money from our allies.
+
+   -
+
+   Sending tens of thousands
+   <<<link>>
+ht-isis/article/2001505>
+   of troops back to the Middle East.
+
+   -
+
+   Demanding that <<<link>>> Israel pay
+   us back for our defense aid.
+
+###
+
+For Immediate Release, May 18, 2015 
+
+Contact: user@domain.com
+
+PAID FOR BY HILLARY FOR AMERICA
+
+Contributions or gifts to Hillary for America are not tax deductible.
+
+Hillary for America, PO Box 5256, New York
+
+--=20
+You received this message because you are subscribed to the Google Groups "=
+NationalPress2016" group.
+To unsubscribe from this group and stop receiving emails from it, send an e=
+mail to nationalpress2016+user@domain.com

@@ -1,0 +1,112 @@
+Received: from domain.com (146.215.230.103) by
+ domain.com (43.130.141.76) with Microsoft SMTP Server id
+ 8.3.342.0; Thu, 17 Jul 2015 18:31:28 -0700
+Received: from domain.com ([160.33.194.228])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s6I1VRjA015373	for <user@domain.com>; Fri, 18 Jul 2015 
+ 01:31:27 GMT
+Received: from mail91-va3-domain.com (mail-domain.com
+ [216.32.180.114])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s6I1Tnep024849
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Fri, 18 Jul 2015 01:29:49 GMT
+Received: from mail91-va3 (localhost [127.0.0.1])	by mail91-va3-domain.com
+ (Postfix) with ESMTP id 757E6602C6	for <user@domain.com>; Fri, 18 Jul
+ 2015 01:31:26 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:208.75.123.176;KIP:(null);UIP:(null);SRV:BULK;H:domain.com;RD:domain.com;EFVD:NLI
+X-SpamScore: 1
+X-BigFish: vps1(z59c9h6d0Ize0f1he0eahc857h77f5h2534Kzz1f42h1ee6h1de0h2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6h208ch1fdahzebhz8275ch1d7338h1de098h1d68deh17326ah1def87h8275bh1ce122h8275dh19f402h1def86h1bc7b9h1de097h1def03h186068h18602eh1deb3ai1ce121i1df123iz2fheh5fh839h8aaha19hd25h10d2h1288h12a5h137ah139eh13eah1441h1537h162dh1631h1758h1898h18e1h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e23h1fe8h1ff5h20f0h2218h2216h226dh24afh2327h2336h2438h2461h2487h24d7h2516h2545h255eh25f6h2605h268bh26d3h27e2h282bh2847h28a1h28b0h29d0h2a24h2b05h214ai27ebi)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail91-va3: domain of domain.com designates 208.75.123.176 as permitted sender) client-ip=208.75.123.176; envelope-from=AQkcUotHZTn+user@domain.com; helo=domain.com ;domain.com ;
+Received: from mail91-va3 (localhost.localdomain [127.0.0.1]) by mail91-va3
+ (MessageSwitch) id 1405647084735318_31141; Fri, 18 Jul 2015 01:31:24 +0000
+ (UTC)
+Received: from domain.com (unknown [10.7.14.236])	by
+ mail91-domain.com (Postfix) with ESMTP id AF0B524010D	for
+ <user@domain.com>; Fri, 18 Jul 2015 01:31:24 +0000 (UTC)
+Received: from domain.com (208.75.123.176) by
+ domain.com (10.7.99.37) with Microsoft SMTP Server id
+ 14.16.227.3; Fri, 18 Jul 2015 01:31:24 +0000
+Received: from p2-domain.com (p2-domain.com
+ [10.252.1.139])	by p2-domain.com (Postfix) with ESMTP
+ id 25AAD10011	for <user@domain.com>; Thu, 17 Jul 2015 21:31:24 -0400
+ (EDT)
+DKIM-Signature: v=1; q=dns/txt; a=rsa-sha256; c=relaxed/relaxed; s=1000073432; d=domain.com; h=to:X-Feedback-ID:subject:mime-version:message-id:From: "Ohr HaTorah @The HUB on Venice" <list@ohrhatorah.org>
+Message-ID: <1117963235092.1102448204061.917.0.212131user@domain.com>
+Date: Thu, 17 Jul 2015 21:31:24 -0400
+From: "Ohr HaTorah @The HUB on Venice" <list@ohrhatorah.org>
+Reply-To: <user@domain.com>
+To: <user@domain.com>
+Subject: Thank You for Your Support and Welcome to a New Year
+CC: 
+List-Unsubscribe: <<link>>
+X-Campaign-Activity-ID: 424714a2-d1d9-4e7f-a2f0-48e3f31ecc61
+X-Channel-ID: 3b5f6320-1f3d-11e3-989f-d4ae52733d3a
+X-Mailer: Roving Constant Contact 2015 (<<link>>)
+X-Return-Path-Hint: AQkcUotHZTn+user@domain.com
+X-Roving-Campaignid: 1117963235092
+X-Roving-Id: 1102448204061.917
+X-Feedback-ID: 3b5f6320-1f3d-11e3-989f-d4ae52733d3a:424714a2-d1d9-4e7f-a2f0-48e3f31ecc61:1102448204061:CTCT
+X-CTCT-ID: 3b1cb4d0-1f3d-11e3-9880-d4ae52733d3a
+Return-Path: 
+ AQkcUotHZTn+user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+Having trouble viewing this email? Click here   
+
+ <<link>>://domain.com/images/p1x1.gif&c;=3b1cb4d0-1f3d-11e3-9880-d4ae52733d3a&ch;=3b5f6320-1f3d-11e3-989f-d4ae52733d3a
+
+
+
+
+ <<link>>
+SET UP YOUR ONLINE 
+
+MEMBER ACCOUNT! 
+ <<link>>
+1. Click here.
+
+2. Fill out information and domain.com!
+
+3. OHT verifies your information. 
+
+(within 2 business days)
+
+4. View statements, update profile, pay online & more!
+
+CALL US!        
+
+ <<link>> 
+
+Inquire about your account balance. We can take your domain.com card over the phone!
+
+We're here to help
+
+M-F (9am-1pm, 2-4pm)    (310) 915-5200
+
+MAIL US YOUR RENEWAL!   
+
+ <<link>>  
+
+If you know your account balance (because you set up your online account or called us), pop your check in the mail:  
+
+Ohr HaTorah
+
+11827 Vencie Blvd. 
+
+Los Angeles, CA 90066
+
+ <<link>>       Dear Amy,
+
+We deeply appreciate your membership and support of Ohr HaTorah, and we welcome you to another year of study, community and celebration with us. Remember: As of last year, all memberships roll over. You don't need to do anything to "renew". 
+
+
+
+In order for you to remain an active member, we need your minimum tzedakah commitment (dues) so we can keep the synagogue operations going. 
+
+
+
+Please go 
+

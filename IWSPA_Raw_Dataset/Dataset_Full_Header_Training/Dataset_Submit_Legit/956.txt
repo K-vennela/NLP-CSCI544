@@ -1,0 +1,787 @@
+Received: from domain.com ([fe80::755c:1705:6a98:dcff]) by
+ domain.com ([fe80::755c:1705:6a98:dcff%11]) with mapi id
+ 14.03.0123.003; Tue, 17 Mar 2015 11:42:22 +0100
+From: Emad Shehata <e.shehata@hackingteam.com>
+To: Giancarlo Russo <user@domain.com>
+CC: Elisabetta Ciceri <user@domain.com>, "'user@domain.com'"
+	<user@domain.com>, Simonetta Gallucci <user@domain.com>
+Subject: R: Re: R: R: Re: R: Invoices Balance
+Thread-Topic: Re: R: R: Re: R: Invoices Balance
+Thread-Index: AQHQYIy1GHBQre63YEGAV13lxYg1SZ0gfP9/
+Date: Tue, 17 Mar 2015 11:42:21 +0100
+Message-ID: <user@domain.com>
+In-Reply-To: <D12DBFB4.1B899%user@domain.com>
+Accept-Language: it-IT, en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <user@domain.com>
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 03
+X-Originating-IP: [fe80::755c:1705:6a98:dcff]
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EMAD SHEHATA450
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-529668095_-_-"
+
+Ciao Gian,
+
+Qui di seguito per tua informazione.
+Attendo tue indicazioni.
+
+Grazie mille
+--
+Emad Shehata
+Key Account Manager
+
+Sent from my mobile.
+
+
+
+Da: Mesfer S. Al Mesfer [mailto:user@domain.com]
+Inviato: Tuesday, March 17, 2015 12:31 PM
+A: Emad Shehata
+Cc: Giancarlo Russo; Elisabetta Ciceri; user@domain.com <user@domain.com>; Simonetta Gallucci; Saeed Al-Ghamdi <user@domain.com>
+Oggetto: Re: R: R: Re: R: Invoices Balance
+
+
+
+Dear Emad,
+
+On behalf of TCC, I would like to thank you for your domain.com last week. Secondly, I’m writing here to confirm that you will receive your invoice balance
+not later than Monday 15 Jun 2015. I double checked our finance as well as the legal agency who is following with the Tax agency and we agreed on this date.
+
+Thanks again and have a good day.
+
+Best Regards,
+
+Mesfer Al Mesfer, PMP
+Program Manager
+TCC-Digital Security domain.com
+
+T:+966920014888 Ext.171
+
+F:+96614168989
+
+M:+966558281100
+
+E: user@domain.com
+
+From: Emad Shehata <e.shehata@hackingteam.com>
+
+Date: Wednesday, March 11, 2015 at 5:27 PM
+
+To: Mesfer Al Mesfer <user@domain.com>
+
+Cc: Giancarlo Russo <user@domain.com>, Elisabetta Ciceri <user@domain.com>, "'user@domain.com'"
+ <user@domain.com>, Simonetta Gallucci <user@domain.com>
+
+Subject: R: R: Re: R: Invoices Balance
+
+<!--
+/* Font Definitions */
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-priority:99;
+	mso-style-link:"Testo fumetto Carattere";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";}
+span.TestofumettoCarattere
+	{mso-style-name:"Testo fumetto Carattere";
+	mso-style-priority:99;
+	mso-style-link:"Testo fumetto";
+	font-family:"Tahoma","sans-serif";}
+p.BalloonText, li.BalloonText, div.BalloonText
+	{mso-style-name:"Balloon Text";
+	mso-style-link:"Balloon Text Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-priority:99;
+	mso-style-link:"Balloon Text";
+	font-family:"Tahoma","sans-serif";}
+span.StileMessaggioDiPostaElettronica21
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#002060;}
+span.StileMessaggioDiPostaElettronica22
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.StileMessaggioDiPostaElettronica23
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.StileMessaggioDiPostaElettronica24
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.StileMessaggioDiPostaElettronica25
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.StileMessaggioDiPostaElettronica26
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.StileMessaggioDiPostaElettronica27
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.StileMessaggioDiPostaElettronica28
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.StileMessaggioDiPostaElettronica29
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.StileMessaggioDiPostaElettronica30
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 2.0cm 2.0cm 2.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+
+Dear Mesfer, 
+trust this e-mail find you well.
+
+
+
+First of all really appreciate to meet you and really thanks for your support.
+As agreed, please kindly let us know within next Tuesday, before will be better
+J, when the Invoice Balance will be paid.
+However we understood that your account dept. already started with the paper work, we need to have a reasonable date of closing the issue since our financial dept. need to close it due an Italian
+ tax/account regulation by definitely date.
+
+
+
+Thanks again for your understand
+
+
+
+Best regards
+
+
+
+Emad Shehata
+
+Key Account Manager
+
+Hacking Team
+
+Milan Singapore Washington DC
+
+www.hackingteam.com
+
+email:user@domain.com
+
+mobile: +39 3357939078
+
+phone: +39 0229060603
+
+
+
+Da: Simonetta Gallucci [mailto:user@domain.com]
+
+Inviato: mercoledì 4 febbraio 2015 14:25
+
+A: 'Mesfer S. Al Mesfer'
+
+Cc: 'Emad Shehata'; 'Giancarlo Russo'; 'Elisabetta Ciceri'; 
+user@domain.com
+
+Oggetto: RE: R: Re: R: Invoices Balance
+
+
+
+
+Dear Mesfer, 
+
+
+
+about the exchange rate we will agree upon it once you’ll proceed with the payment.
+
+
+
+
+Feel free to contact me for any further question.
+Regards, 
+
+
+
+Simonetta Gallucci 
+
+Financial Controller 
+
+Hacking Team
+
+Milan Singapore Washington DC
+
+www.hackingteam.com
+
+email: user@domain.com 
+
+mobile: +39 3939310619
+
+phone: +39 0229060603
+
+
+
+
+From: Emad Shehata <e.shehata@hackingteam.com>
+
+Sent: mercoledì 4 febbraio 2015 13:35
+
+To: Simonetta Gallucci
+
+Cc: 'Emad Shehata'; 'Giancarlo Russo'; 'Elisabetta Ciceri'; 
+user@domain.com
+
+Subject: Re: R: Re: R: Invoices Balance
+
+
+
+
+Hi,
+
+
+
+
+Thanks for reply. However, the exchange rate is variable so we need to rely on the rate in the time of wire transfer. What do you think?
+
+
+
+
+Best Regards,
+
+Mesfer Al Mesfer, PMP
+
+Sr. Projects Manager
+
+TCC-Digital Security domain.com
+
+T:+966920014888 Ext.171
+
+F:+96614168989
+
+M:+966558281100
+
+E: user@domain.com
+
+
+
+
+From: Emad Shehata <e.shehata@hackingteam.com>
+
+Date: Wednesday, February 4, 2015 at 3:27 PM
+
+To: Mesfer Al Mesfer <user@domain.com>
+
+Cc: 'Emad Shehata' <user@domain.com>, 'Giancarlo Russo' <user@domain.com>, 'Elisabetta Ciceri' <user@domain.com>,
+ "user@domain.com" <user@domain.com>
+
+Subject: RE: R: Re: R: Invoices Balance
+
+
+
+
+Hi Mesfer, 
+
+
+
+I thought that in my previous mails was clear that HT gave TCC green light to pay legal fees for SAR 10.000, equivalent around to 2.300, if it means that
+we can receive back the remaining balance of eur 34.350, net deduction of legal fees.
+
+
+
+
+If my assumptions made above are correct, you can go ahead.
+
+
+
+Look forward to your reply.
+Kind regards, 
+
+
+
+
+Simonetta Gallucci 
+
+Financial Controller 
+
+Hacking Team
+
+Milan Singapore Washington DC
+
+www.hackingteam.com
+
+email: user@domain.com 
+
+mobile: +39 3939310619
+
+phone: +39 0229060603
+
+
+
+
+From: Emad Shehata <e.shehata@hackingteam.com>
+
+Sent: mercoledì 4 febbraio 2015 13:13
+
+To: Simonetta Gallucci
+
+Cc: 'Emad Shehata'; 'Giancarlo Russo'; 'Elisabetta Ciceri'; 
+user@domain.com
+
+Subject: Re: R: Re: R: Invoices Balance
+
+
+
+
+Hi Simonetta,
+
+
+
+
+As per our finance, once HT give TCC the green light to pay the legal entity’s fee they will domain.com the documents and inform us how long time it will take accordingly.
+
+
+
+
+Best Regards,
+
+Mesfer S. Al Mesfer, PMP
+
+Sr. Projects Manager
+
+T:+966920014888 Ext.171
+
+F:+96614168989
+
+M:+966558281100
+
+E: user@domain.com
+
+
+
+
+From: Emad Shehata <e.shehata@hackingteam.com>
+
+Date: Tuesday, February 3, 2015 at 1:35 PM
+
+To: Mesfer Al Mesfer <user@domain.com>
+
+Cc: 'Emad Shehata' <user@domain.com>, 'Giancarlo Russo' <user@domain.com>, 'Elisabetta Ciceri' <user@domain.com>,
+ "user@domain.com" <user@domain.com>
+
+Subject: RE: R: Re: R: Invoices Balance
+
+
+
+
+Dear Mesfer, 
+
+
+
+
+thanks for your feedback.
+
+
+
+
+Did you already domain.com the document to the Income Tax Dept for reimbursement of the whole amount?
+How long is the process?
+
+
+
+Please inform us before proceeding with the refund, in order to agree the currency exchange rate.
+
+Look forward to hearing news from you.
+
+
+
+
+Kind regards, 
+
+
+
+
+Simonetta Gallucci 
+
+Financial Controller 
+
+Hacking Team
+
+Milan Singapore Washington DC
+
+www.hackingteam.com
+
+email: user@domain.com 
+
+mobile: +39 3939310619
+
+phone: +39 0229060603
+
+
+
+
+From: Emad Shehata <e.shehata@hackingteam.com>
+
+Sent: domenica 25 gennaio 2015 12:55
+
+To: Simonetta Gallucci
+
+Cc: 'Emad Shehata'; 'Giancarlo Russo'; 'Elisabetta Ciceri'; 
+user@domain.com
+
+Subject: Re: R: Re: R: Invoices Balance
+
+
+
+
+Dear Simonetta,
+
+
+
+
+Here is finance’s feedback:
+
+
+
+
+We cannot accept the rate Hacking Team Company mentioned in their email because we don’t know the exact date of amount reimbursement from Zakat & Income Tax Department; and we don’t know  how
+ long  the document process will take in the Income Tax Dept after we domain.com it next week.
+
+
+
+
+Best Regards,
+
+Mesfer S. Al Mesfer, PMP
+
+Sr. Project Manager
+
+T:+966920014888 Ext.171
+
+F:+96614168989
+
+M:+966558281100
+
+E: user@domain.com
+
+
+
+
+From: Emad Shehata <e.shehata@hackingteam.com>
+
+Date: Friday, January 23, 2015 at 5:46 PM
+
+To: Mesfer Al Mesfer <user@domain.com>
+
+Cc: 'Emad Shehata' <user@domain.com>, 'Giancarlo Russo' <user@domain.com>, 'Elisabetta Ciceri' <user@domain.com>,
+ "user@domain.com" <user@domain.com>
+
+Subject: RE: R: Re: R: Invoices Balance
+
+
+
+
+Dear Mesfer, 
+
+
+
+have you any news from your financial department?
+Thanks for your support.
+
+
+
+
+Kind regards, 
+
+
+
+
+Simonetta Gallucci 
+
+Financial Controller 
+
+Hacking Team
+
+Milan Singapore Washington DC
+
+www.hackingteam.com
+
+email: user@domain.com 
+
+mobile: +39 3939310619
+
+phone: +39 0229060603
+
+
+
+
+From: Emad Shehata <e.shehata@hackingteam.com>
+
+Sent: giovedì 22 gennaio 2015 08:57
+
+To: 'Mesfer S. Al Mesfer'
+
+Cc: 'Emad Shehata'; 'Giancarlo Russo'; 'Elisabetta Ciceri'; 
+'user@domain.com'
+
+Subject: RE: R: Re: R: Invoices Balance
+
+
+
+
+Hi Mesfer, 
+
+
+
+in this case I think that the only practicable solution is that TCC pay straight the amount net deduction.
+
+We apply today currency change of 4.3547 from Bank of Italy (<<link>>),
+ so we consider a deduction of eur 2.296,37; it means that remaining amount TCC should pay is eur 32.053,63.
+
+
+
+
+Do you agree?
+Thanks again, 
+
+
+
+
+Simonetta Gallucci 
+
+Financial Controller 
+
+Hacking Team
+
+Milan Singapore Washington DC
+
+www.hackingteam.com
+
+email: user@domain.com 
+
+mobile: +39 3939310619
+
+phone: +39 0229060603
+
+
+
+
+From: Emad Shehata <e.shehata@hackingteam.com>
+
+Sent: giovedì 22 gennaio 2015 08:38
+
+To: Simonetta Gallucci
+
+Cc: Emad Shehata; Giancarlo Russo; Elisabetta Ciceri; 
+'user@domain.com'
+
+Subject: Re: R: Re: R: Invoices Balance
+
+
+
+
+Hi,
+
+
+
+
+As per finance, the deduction is needed first then TCC will do the wire transfer of the remaining amount.
+
+
+
+
+Best Regards,
+
+Mesfer S. Al Mesfer
+
+Sr. Project Manager
+
+T:+966920014888 Ext.171
+
+F:+96614168989
+
+M:+966558281100
+
+E: user@domain.com
+
+
+
+
+From: Emad Shehata <e.shehata@hackingteam.com>
+
+Date: Thursday, January 22, 2015 at 9:51 AM
+
+To: Mesfer Al Mesfer <user@domain.com>
+
+Cc: Emad Shehata <user@domain.com>, Giancarlo Russo <user@domain.com>, Elisabetta Ciceri <user@domain.com>,
+ "'user@domain.com'" <user@domain.com>
+
+Subject: R: Re: R: Invoices Balance
+
+
+
+
+Thanks Mesfer.
+
+Look forward to your update.
+
+Regards, 
+
+-- 
+
+Simonetta Gallucci 
+
+Financial Controller 
+
+Sent from my mobile.
+
+
+
+
+Da: Mesfer S. Al Mesfer [mailto:user@domain.com]
+
+Inviato: Thursday, January 22, 2015 07:11 AM
+
+A: Simonetta Gallucci 
+
+Cc: Emad Shehata; Giancarlo Russo; Elisabetta Ciceri; Marco Bettini <user@domain.com>
+
+Oggetto: Re: R: Invoices Balance 
+
+
+
+
+OK Simonetta. Let me consult our finance and get back to you.
+
+
+
+
+Best Regards,
+
+Mesfer S. Al Mesfer
+
+Sr. Project Manager
+
+T:+966920014888 Ext.171
+
+F:+96614168989
+
+M:+966558281100
+
+E: user@domain.com
+
+
+
+
+From: Emad Shehata <e.shehata@hackingteam.com>
+
+Date: Thursday, January 22, 2015 at 12:50 AM
+
+To: Mesfer Al Mesfer <user@domain.com>
+
+Cc: Emad Shehata <user@domain.com>, Giancarlo Russo <user@domain.com>, Elisabetta Ciceri <user@domain.com>,
+ Marco Bettini <user@domain.com>
+
+Subject: Re: R: Invoices Balance
+
+
+
+
+Dear Mesfer, 
+
+
+
+
+I think that the best practice to manage this matter is to proceed as follows:
+
+
+
+
+- you send us a wire transfer for the total amount of eur 34.350
+
+- your legal advisors send us an invoice, issued to HT (you should have all details) for the amount agreed (SAR 10.000)
+
+- once we receive your payment we will go ahead with the wire transfer for your legal advisors
+
+
+
+
+Does it work for you?
+
+Thanks again for your support.
+
+
+
+
+Kind regards, 
+
+
+
+
+Simonetta Gallucci
+
+Financial Controller
+
+Inviato da iPad
+
+Il giorno 21/gen/2015, alle ore 19:45, "Mesfer S. Al Mesfer" <user@domain.com> ha scritto:
+
+Hi,
+
+Yes you are right.
+
+
+
+
+Mesfer Al Mesfer 
+
+
+

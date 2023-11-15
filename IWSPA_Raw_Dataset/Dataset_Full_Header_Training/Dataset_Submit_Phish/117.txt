@@ -1,0 +1,74 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id 8FB99468DE
+	for <user@domain.com>; Thu,  9 Aug 2015 19:18:53 -0400 (EDT)
+X-Greylist: delayed 2015 seconds by postgrey-1.27 at domain.com; Thu, 09 Aug 2015 19:18:53 EDT
+Received: from domain.com (domain.com [72.3.224.38])
+	by domain.com (Postfix) with ESMTP id 7F348131FE4C
+	for <user@domain.com>; Thu,  9 Aug 2015 19:18:53 -0400 (EDT)
+Received: (qmail 11583 invoked from network); 9 Aug 2015 17:36:57 -0500
+Received: from adsl-63-198-0-82.domain.com (HELO User) (63.198.0.82)
+  by domain.com with SMTP; 9 Aug 2015 17:36:56 -0500
+From: "PayPal Security"<service@paypal.us>
+Subject: PayPal Account Posible Fraud - Notification
+Date: Thu, 9 Aug 2015 15:40:53 -0700
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20070809231853.7user@domain.com>
+To: undisclosed-recipients:;
+Content-Length: 2015 
+Lines: 44
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 8
+
+PayPal Account Posible Fraud - Notification
+Security check 
+!
+
+You have received this email because your account has been used from 
+different locations by you or someone else.
+For security purpose, we are 
+required to open an investigation into this matter.
+
+In order to safeguard your account, we require 
+that you confirm your banking details.
+To help speed up this process, please 
+access the following link so we cancomplete the verification of
+your PayPal 
+Account:
+
+Alert code: 1366968850 
+
+<<link>>
+
+Please Note:
+If we do no receive the appropriate 
+      account verification within 48 hours, then we will assume this PayPal Bank 
+      account is fraudulent and will be suspended. The purpose of this 
+      verification is to ensure that your bank account has not been fraudulently 
+      used and to combat the fraud from our community.
+We appreciate your support and understanding and thank you 
+for your prompt attention to this matter.
+
+Regards, 
+PayPal - Paypal Account Security Department
+
+ 2015 PayPal Account & 
+      Co.
+
+Please do not reply to 
+      this email as this is only a notification. Mail sent to this address 
+      cannot be answered.
+
+PayPal Account Banking 
+      Departament

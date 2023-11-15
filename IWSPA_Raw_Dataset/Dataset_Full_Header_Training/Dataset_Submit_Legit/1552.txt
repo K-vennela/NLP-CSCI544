@@ -1,0 +1,40 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Thu, 23 Jan 2015 08:39:32 +0100
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id 8B244600E9	for
+ <user@domain.com>; Thu, 23 Jan 2015 07:32:21 +0000 (GMT)
+Received: by domain.com (Postfix)	id 9B91A2BC1F4; Thu, 23 Jan 2015 
+ 08:39:32 +0100 (CET)
+Delivered-To: user@domain.com
+Received: from [192.168.169.35]
+ (host138-246-static.50-88-domain.com [88.50.246.138])	(using
+ TLSv1 with cipher AES128-SHA (128/128 bits))	(No client certificate
+ requested)	by domain.com (Postfix) with ESMTPSA id 77AB62BC1F2	for
+ <user@domain.com>; Thu, 23 Jan 2015 08:39:32 +0100 (CET)
+Subject: Re: Guasto
+References: <57723user@domain.com>
+From: Alberto Ornaghi <a.ornaghi@hackingteam.com>
+In-Reply-To: <57723user@domain.com>
+Message-ID: <3user@domain.com>
+Date: Thu, 23 Jan 2015 07:31:19 +0100
+To: Antonio Mazzeo <user@domain.com>
+X-Mailer: iPhone Mail (11B554a)
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=ALBERTO ORNAGHIDD4
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-120036179_-_-"
+
+Me ne sono accorto... 
+
+--
+Alberto Ornaghi
+Software Architect
+
+Sent from my mobile.
+

@@ -1,0 +1,396 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Mon, 26 Jan 2015 17:49:49 +0100
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id 32368621AC;	Mon, 26 Jan 2015 
+ 16:29:30 +0000 (GMT)
+Received: by domain.com (Postfix)	id AEC9DB6603F; Mon, 26 Jan 2015 
+ 17:49:49 +0100 (CET)
+Delivered-To: user@domain.com
+Received: from [192.168.1.2] (unknown [186.116.44.66])	(using TLSv1 with
+ cipher DHE-RSA-AES256-SHA (256/256 bits))	(No client certificate requested)
+	by domain.com (Postfix) with ESMTPSA id B43D02BC03F;	Mon, 26 Jan
+ 2015 17:49:36 +0100 (CET)
+Subject: Re: CWT Itinerary di PARDOCARVAJAL EDUARDO - Data partenza 27/01/2015 - PNR LTVN9G
+From: Eduardo Pardo <e.pardo@hackingteam.com>
+X-Mailer: iPhone Mail (12A405)
+In-Reply-To: <039401d03987$8c994ed0$a5cbec70$@user@domain.com>
+Date: Mon, 26 Jan 2015 11:49:36 -0500
+CC: travel <user@domain.com>
+Message-ID: <3user@domain.com>
+References: <039401d03987$8c994ed0$a5cbec70$@user@domain.com>
+To: Simonetta Gallucci <user@domain.com>
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EDUARDO PARDO CARVAJALDB9
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2135542561_-_-"
+
+Muchas gracias!
+
+Eduardo PardoField Application EngineerHacking Team
+email: user@domain.com: +39 3666285429Mobile: +57 3003671760
+El 26/01/2015, a las 11:45 a.m., Simonetta Gallucci <user@domain.com> escribió:
+
+<!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.content, li.content, div.content
+	{mso-style-name:content;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.generalinfo, li.generalinfo, div.generalinfo
+	{mso-style-name:generalinfo;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	border:none;
+	padding:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.centra, li.centra, div.centra
+	{mso-style-name:centra;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	text-align:center;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.enfatizza, li.enfatizza, div.enfatizza
+	{mso-style-name:enfatizza;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.bottomnero, li.bottomnero, div.bottomnero
+	{mso-style-name:bottomnero;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	border:none;
+	padding:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.testoverde, li.testoverde, div.testoverde
+	{mso-style-name:testoverde;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#2B817A;}
+p.testoverdechiaro, li.testoverdechiaro, div.testoverdechiaro
+	{mso-style-name:testoverdechiaro;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#1B817A;}
+p.testogrigio, li.testogrigio, div.testogrigio
+	{mso-style-name:testogrigio;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#8C8C8C;}
+p.testorosso, li.testorosso, div.testorosso
+	{mso-style-name:testorosso;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:red;}
+p.sfondoverde, li.sfondoverde, div.sfondoverde
+	{mso-style-name:sfondoverde;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	background:#1B817A;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.sfondogrigio, li.sfondogrigio, div.sfondogrigio
+	{mso-style-name:sfondogrigio;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	background:#E6E6E6;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.sfondoheaderservizio, li.sfondoheaderservizio, div.sfondoheaderservizio
+	{mso-style-name:sfondoheaderservizio;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	background:#E6E6E6;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.recap, li.recap, div.recap
+	{mso-style-name:recap;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:white;}
+p.bottomgrigio, li.bottomgrigio, div.bottomgrigio
+	{mso-style-name:bottomgrigio;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	border:none;
+	padding:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.servizio, li.servizio, div.servizio
+	{mso-style-name:servizio;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.vspacer, li.vspacer, div.vspacer
+	{mso-style-name:vspacer;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.hspacer, li.hspacer, div.hspacer
+	{mso-style-name:hspacer;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.testoarancione, li.testoarancione, div.testoarancione
+	{mso-style-name:testoarancione;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#F28E00;}
+p.bold, li.bold, div.bold
+	{mso-style-name:bold;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.infobottom, li.infobottom, div.infobottom
+	{mso-style-name:infobottom;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	border:none;
+	padding:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.marginbottom, li.marginbottom, div.marginbottom
+	{mso-style-name:marginbottom;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.lnkboldredcap, li.lnkboldredcap, div.lnkboldredcap
+	{mso-style-name:lnkboldredcap;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:red;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.topnero, li.topnero, div.topnero
+	{mso-style-name:topnero;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	border:none;
+	padding:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+span.enfatizza1
+	{mso-style-name:enfatizza1;
+	font-weight:bold;}
+span.testogrigio1
+	{mso-style-name:testogrigio1;
+	color:#8C8C8C;}
+span.bold1
+	{mso-style-name:bold1;
+	font-weight:bold;}
+span.testorosso1
+	{mso-style-name:testorosso1;
+	color:red;}
+span.sfondogrigio1
+	{mso-style-name:sfondogrigio1;
+	background:#E6E6E6;}
+span.servizio1
+	{mso-style-name:servizio1;
+	font-weight:bold;}
+span.EmailStyle46
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 2.0cm 2.0cm 2.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+-->Hi Eduardo,  here below your itinerary for the flight. Thanks, Simonetta Gallucci 
+Financial Controller 
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com 
+mobile: +39 3939310619
+phone: +39 0229060603 From: Eduardo Pardo <e.pardo@hackingteam.com>
+Sent: lunedì 26 gennaio 2015 17:44
+To: user@domain.com; user@domain.com
+Subject: CWT Itinerary di PARDOCARVAJAL EDUARDO - Data partenza 27/01/2015 - PNR LTVN9G Si prega di non rispondere a questa E-Mail, la casella non è abilitata alla ricezione. 
+
+Please don't reply to this e-mail, it is not enabled to receive messages. 
+Gentile Cliente, 
+
+siamo lieti di trasmetterLe il Suo CWT Itinerary & E-Ticket che le fornirà tutti i dettagli della trasferta. 
+
+Dear Customer, 
+
+we are pleased to send you your CWT Itinerary & E-Ticket that will provide you with all the details for your travel. 
+
+Viaggio il 27/01/2015Data 26/01/2015PasseggeroEduardo PARDOCARVAJAL
+RIEPILOGO PRENOTAZIONEService CenterCARLSON WAGONLIT TRAVEL BARIVolo 
+ConfermatoHotel
+NessunoTreno
+NessunoAuto
+NessunoDiretto39 02 58034570Servizio d'emergenza39 02 58034445
+*Servizio soggetto a service feeFax39 02 94753897user@domain.com d'apertura08.00 - 20.00
+INFORMAZIONI IMPORTANTI
+Questo documento rispecchia lo stato della Sua prenotazione. Solo le modifiche sostanziali sono evidenziate. 
+
+La preghiamo di verificare che il Suo itinerario corrisponda alle Sue richieste di viaggio. martedì 27/01/2015Codice prenotazione Vettore DWJJU5Volo Compania Panamana de Aviacion, S.A CM680Codice prenotazione LTVN9GPARTENZABogota El Dorado International (Terminal 1) 
+09:30 - 27/01/2015ARRIVOMexico City Mexico City Juarez Intl (Terminal 2) 
+13:31 - 27/01/2015La preghiamo di recarsi in aeroporto con sufficiente anticipo per espletare le procedure di accettazione e sicurezza Stato PrenotazioneConfermato
+E-Ticket emessoFrequent flyerClasseEconomy (Y)PastoMealPosto09DDurata05:01 (non-stop)AeromobileBoeing 737-700Operato daAERO REPUBLICA S.A (P5)Franchigia bagaglio consentita2PC1st Bag+:NO FEE UPTO50LB/23KG AND UPTO62LI/158LCM2nd Bag+:NO FEE UPTO50LB/23KG AND UPTO62LI/158LCMCarry-On 1st Bag+:NO FEE CARRYON HAND BAGGAGE ALLOWANCECarry-On 2st Bag+:Confirm Baggage FeeNote
+REGOLE TARIFFARIE ITINERARIO BOG.MEX MEX.DGO TIJ.MEX MEX.BOG
+IMPORTO COMPRENSIVO DI TASSE EUR 1836.01
+RIMBORSO NON PERMESSO
+REFUND NOT PERMITTED
+
+martedì 27/01/2015Codice prenotazione Vettore DWJJU5Volo Compania Panamana de Aviacion, S.A CM6600Codice prenotazione LTVN9GPARTENZAMexico City Mexico City Juarez Intl (Terminal 2) 
+17:05 - 27/01/2015ARRIVODurango Guadalupe Victoria Intl Arpt
+18:44 - 27/01/2015La preghiamo di recarsi in aeroporto con sufficiente anticipo per espletare le procedure di accettazione e sicurezza Stato PrenotazioneConfermato
+E-Ticket emessoFrequent flyerClasseEconomy (Y)PastoSnackPosto26BDurata01:39 (non-stop)AeromobileEmbraer RJ170Operato daAEROMEXICO CONNECT (5D)Franchigia bagaglio consentita2PC1st Bag+:NO FEE UPTO50LB/23KG AND UPTO62LI/158LCM2nd Bag+:NO FEE UPTO50LB/23KG AND UPTO62LI/158LCMCarry-On 1st Bag+:Carry-On 2st Bag+:Confirm Baggage FeeNote
+
+giovedì 29/01/2015Codice prenotazione Vettore BQTNIAVolo Aeromexico AM2429Codice prenotazione LTVN9GPARTENZADurango Guadalupe Victoria Intl Arpt
+10:45 - 29/01/2015ARRIVOMexico City Mexico City Juarez Intl (Terminal 2) 
+12:24 - 29/01/2015La preghiamo di recarsi in aeroporto con sufficiente anticipo per espletare le procedure di accettazione e sicurezza Stato PrenotazioneConfermato
+(il biglietto non è ancora stato emesso)Frequent flyerClasseBusiness (C)PastoRefreshmentsPosto01CDurata01:39 (non-stop)AeromobileEmbraer RJ170Operato daAEROLITORAL DBA AEROMEXICO CONNECT ()Franchigia bagaglio consentita1st Bag+:2nd Bag+:Carry-On 1st Bag+:Carry-On 2st Bag+:Confirm Baggage FeeNote
+REGOLE TARIFFARIE ITINERARIO DGO.MEX MEX.TIJ
+IMPORTO COMPRENSIVO DI TASSE EUR 301.6
+CAMBIO PRENOTAZIONE PERMESSO
+CHANGE RESERVATION PERMITTED
+
+giovedì 29/01/2015Codice prenotazione Vettore BQTNIAVolo Aeromexico AM188Codice prenotazione LTVN9GPARTENZAMexico City Mexico City Juarez Intl (Terminal 2) 
+15:05 - 29/01/2015ARRIVOTijuana A L Rodriguez International
+17:00 - 29/01/2015La preghiamo di recarsi in aeroporto con sufficiente anticipo per espletare le procedure di accettazione e sicurezza Stato PrenotazioneConfermato
+(il biglietto non è ancora stato emesso)Frequent flyerClasseBusiness (C)PastoCold meal + Alcohol no costPosto02ADurata03:55 (non-stop)AeromobileBoeing 737Operato daFranchigia bagaglio consentita1st Bag+:2nd Bag+:Carry-On 1st Bag+:Carry-On 2st Bag+:Confirm Baggage FeeNote
+
+sabato 31/01/2015Codice prenotazione Vettore YN4H52Volo Avianca AV2638Codice prenotazione LTVN9GPARTENZATijuana A L Rodriguez International
+09:12 - 31/01/2015ARRIVOMexico City Mexico City Juarez Intl (Terminal 2) 
+14:42 - 31/01/2015La preghiamo di recarsi in aeroporto con sufficiente anticipo per espletare le procedure di accettazione e sicurezza Stato PrenotazioneConfermato
+E-Ticket emessoFrequent flyerClasseEconomy (B)Pastonon specificatoPosto25DDurata03:30 (non-stop)AeromobileBoeing 737Operato daAEROMEXICO (AM)Franchigia bagaglio consentita1st Bag+:2nd Bag+:Carry-On 1st Bag+:Carry-On 2st Bag+:Confirm Baggage FeeNote
+
+sabato 31/01/2015Codice prenotazione Vettore YN4H52Volo Avianca AV6431Codice prenotazione LTVN9GPARTENZAMexico City Mexico City Juarez Intl (Terminal 2) 
+18:17 - 31/01/2015ARRIVOBogota El Dorado International (Terminal 1) 
+23:58 - 31/01/2015La preghiamo di recarsi in aeroporto con sufficiente anticipo per espletare le procedure di accettazione e sicurezza Stato PrenotazioneConfermato
+E-Ticket emessoFrequent flyerClasseEconomy (B)Pastonon specificatoPosto30CDurata04:41 (non-stop)AeromobileBoeing 737-800Operato daAEROMEXICO (AM)Franchigia bagaglio consentita1st Bag+:2nd Bag+:Carry-On 1st Bag+:Carry-On 2st Bag+:Confirm Baggage FeeNote
+
+ Le serve un'auto per questo viaggio?Non ci sono noleggi inclusi in questa prenotazione. CWT può aiutarLa ad ottenere le migliori tariffe disponibili per la Sua destinazione. Le serve un hotel per questo viaggio?Non ci sono prenotazioni hotel per questo viaggio. CWT può aiutarLa a trovare le migliori offerte tra 160.000 fornitori, compresi quelli vicini alla Sua sede o luogo di incontro.
+
+Please domain.com: domain.com/airlinebaggagefees for information on free baggage allowances and/or applicable fees for carry-on and checked baggage related to your flight. 
+Ricordiamo che le leggi sulla sicurezza di molti paesi (come USA e Canada) obbligano le compagnie aeree a fornire alle autorità competenti sulla sicurezza, dogana e immigrazione, accesso ai dati dei passeggeri. Ciò significa che, qualora viaggi verso uno di questi paesi, i Suoi dati personali potrebbero essere comunicati alle autorità pertinenti.
+Copyright © 2009-2015 CWT | Informazioni e servizi per il Viaggiatore | CWT Informativa sulla Privacy | Savvy Traveler Blog
+
+Le ricordiamo di controllare il visto o gli altri documenti necessari per il Suo viaggio. 
+
+In particolare, se si reca negli USA Le ricordiamo l'autorizzazione ESTA ( <<link>>) per viaggi senza visto. Per tutti i voli verso, da e al di sopra dello spazio aereo USA, è obbligatoria anche la procedura "Secure Flight". Per informazioni: 
+
+<<link>> In caso non abbia già comunicato i dati personali necessari, La preghiamo di contattare il Suo ufficio CWT di riferimento al fine di evitare il mancato accesso al web check-in e disagi in aeroporto. 
+
+Buon Viaggio! 
+
+Il Suo Team CWT 
+We remind you to check the visa and the other documents necessary for your travel. 
+Particularly, if you are going to USA, we remind you the ESTA authorization ( <<link>>) for travels without visa. For all the travels to, from and above US aereal space, the "Secure Flight" procedure is mandatory too. For further information: <<link>> In case you haven't provided the necessary personal data yet, please contact your CWT office to avoid no access to the web check-in and inconveniences at the airport. 
+
+Have a nice trip! 
+
+Your CWT Team [IAE.ID#(5326932.774305.1.20150126174347)]

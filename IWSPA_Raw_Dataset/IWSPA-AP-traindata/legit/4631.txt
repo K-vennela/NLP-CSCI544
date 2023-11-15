@@ -1,0 +1,15 @@
+Kevin,
+Homogeneity only done on mean T. Lots of sites just measure this.
+A lot will measure max and min, but I haven't got the data. I also
+didn't want to get into max/min as what is relevant to urban-related
+warming in the global land series (or China) is the effects on mean T.
+I can't then look at max or min against a rural series.
+I would expect max to have changed less than min, but I can't
+really look at that.
+Also I don't want to confuse readers by saying there is an urban-related
+temp influence, but it is to a lower DTR. I guess I could refer to Vose et al
+(our Fig 3.11) which does show a decrease in DTR for 79-04 over China
+(mostly blues).
+I'll work on the text.
+Cheers
+Phil

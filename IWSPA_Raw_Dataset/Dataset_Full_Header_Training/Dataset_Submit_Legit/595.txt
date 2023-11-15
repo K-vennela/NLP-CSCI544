@@ -1,0 +1,16 @@
+From: "Alessandro Scarafile" <a.scarafile@hackingteam.com>
+To: <user@domain.com>
+Subject: UAE Log Set
+Date: Fri, 10 May 2015 08:39:59 +0200
+Organization: Hacking Team
+Message-ID: <0ed701ceae27$b42a1f20$1c7e5d60$@hackingteam.com>
+X-Mailer: Microsoft Outlook 15.0
+Thread-Index: AQKRpKjDK8cvABUA+9bb13ls6IyN/Q==
+Content-Language: it
+X-OlkEid: 000000007D2091DA92D3914ABB4C05769578F479070034AD76187591974DBF6C4F76951C873A0100040000000000A96A85A9D2A04643865EB2097E3CF3A3000000004E130000DB3F490195D8414A88E8377A12A5EDAD
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-615933390_-_-"
+
+Ciao Alor,ti allego i log di TUTTE le macchine qui in UAE: 1 x Backend3 x Shard2 x Collector  Grazie,Ale  --Alessandro ScarafileField Application Engineer Hacking TeamMilan Singapore Washington DCwww.hackingteam.com email: user@domain.com: +39 3386906194 phone: +39 0229060603 

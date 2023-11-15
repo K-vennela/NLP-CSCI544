@@ -1,0 +1,352 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Mon, 16 May
+ 2015 23:41:25 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Mon, 16 May 2015 
+ 23:41:23 -0400
+Received: from [10.87.0.110] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 918498155
+ for user@domain.com; Mon, 16 May 2015 22:41:31 -0500
+X-Note-AR-ScanTimeLocal: 5/16/2016 10:41:23 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @turner.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: LOCAL->United States->
+X-Note-Sending-IP: 205.201.130.161
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from [205.201.130.161] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 142175386
+ for user@domain.com; Mon, 16 May 2015 22:41:22 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=domain.com;
+ h=Subject:From: =?utf-8?Q?CNN=27s=20Reliable=20Sources?= <reliablesources@turner.com>
+ bh=K599kqmRTZ8CoFdeym+ToO0X1Zs=;
+ b=N9kteZui17b4cEJp2+AeH5rgCTGgTV+A0UElu0VN5gAYe3hWRbROhyzMqlRPdIi44h3OfjJKi4fZ
+   +BvYikj11ffbiwaW5WfLvaZy0nBbAXdgbTRMX+yQvizhtBXh3yt0oBkdkB0+cIIXdTF8gyeIk3Cp
+   ooAGMWEzA4KTQ9+jtho=
+Received: from (127.0.0.1) by domain.com id h7a9e424b38p for
+ <user@domain.com>; Tue, 17 May 2015 03:41:19 +0000 (envelope-from
+ <user@domain.com>)
+Subject: =?utf-8?Q?Meet=20Lex=20Moonves=3B=20Trump=27s=20call=20to=20CNN=3B=20NYT=27s=20page=20view=20win=3B=20BuzzFeed=27s=20Facebook=20Live=20snafu=3B=20Gannett=27s=20new=20bid=20for=20Tribune=3B=20Kelly=20without=20Michael?=
+From: =?utf-8?Q?CNN=27s=20Reliable=20Sources?= <reliablesources@turner.com>
+Reply-To: =?utf-8?Q?CNN=27s=20Reliable=20Sources?=
+	<user@domain.com>
+To: <user@domain.com>
+Date: Tue, 17 May 2015 03:41:19 +0000
+Message-ID: <47user@domain.com>
+X-Mailer: MailChimp Mailer - **CID9c847bf8b980754425eb**
+X-Campaign: mailchimp47c9040f6ff957a59bd88396e.9c847bf8b9
+X-campaignid: mailchimp47c9040f6ff957a59bd88396e.9c847bf8b9
+X-Report-Abuse: Please report abuse for this campaign here: <<link>>
+X-MC-User: 47c9040f6ff957a59bd88396e
+X-Feedback-ID: 43253633:43253633.257953:us11:mc
+List-ID: 47c9040f6ff957a59bd88396emc list <47c9040f6ff957a59bd88396e.161353.list-domain.com>
+X-Accounttype: pr
+List-Unsubscribe: <mailto:user@domain.com?subject=unsubscribe>, <<<link>>>
+Sender: CNN's Reliable Sources
+	<user@domain.com>
+x-mcda: FALSE
+Content-Type: multipart/alternative;
+	boundary="_----------=_MCPart_1464990716"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+By Brian Stelter and the CNNMoney Media team - user@domain.com (ma=
+ilto:user@domain.com)
+Good evening from the Webby Awards=E2=80=A6 Scroll down for some of the be=
+st acceptance speeches=E2=80=A6
+
+** Trump challenges NYT
+------------------------------------------------------------
+Donald Trump says the "failing" NYT published a "false=2C malicious and li=
+belous story" about his behavior around women to attack him. It was "total=
+ly dishonest=2C" he says=2C and now the paper is "greatly embarrassed" bec=
+ause the story has been "proven false."
+
+Sunday's story (<<link>>
+-women.html?mc_cid=3D9c847bf8b9&mc_eid=3D[UNIQID]) by Michael Barbaro and=
+ Megan Twohey has not been proven false. The NYT is standing by it -- firm=
+ly. But Trump has been able to sow doubt because the very first woman ment=
+ioned in it=2C former girlfriend Rowanne Brewer Lane=2C went on Fox this m=
+orning and said the NYT "spun" her words. She isn't disputing any of the s=
+pecific quotes or asking for a correction=2C but her complaint -- repeated=
+ on CNN later in the morning -- was enough for Trump to turn the tables on=
+ the NYT. Dylan Byers and I wrote about his media strategy in detail here.=
+=2E.  (<<link>>
+?iid=3DLead&mc_cid=3D9c847bf8b9&mc_eid=3D[UNIQID])
+
+-- Erik Wemple says (<<link>>
+016/05/16/a-laughable-backlash-against-the-new-york-times-article-on-trump=
+s-treatment-of-women/?mc_cid=3D9c847bf8b9&mc_eid=3D[UNIQID]) the backlash=
+ to the NYT storyis "laughable..." (<<link>>
+rik-wemple/wp/2016/05/16/a-laughable-backlash-against-the-new-york-times-a=
+rticle-on-trumps-treatment-of-women/?mc_cid=3D9c847bf8b9&mc_eid=3D[UNIQID=
+])  and Chris Cillizza notes (<<link>>
+b9&mc_eid=3D[UNIQID]) that "the more Trump can turn this NYT story on his=
+ treatment of women into a debate over the Times=2C the better for him..."
+Trump's domain.com threat
+The phone rang in CNN's "New Day" control room around 7:20am. A producer p=
+icked up. It was Trump. Nope=2C not an aide=2C not an impersonator=2Cit wa=
+s the real Trump. (<<link>>
+cle/index.html?iid=3DLead&mc_cid=3D9c847bf8b9&mc_eid=3D[UNIQID]) He wante=
+d to make sure that the producers had seen Brewer Lane's interview on Fox.=
+ As it turned out=2C they had=2C and they'd already been talking about how=
+ to incorporate her comments onto the newscast. But for the producers=2C t=
+he call was surreal... (<<link>>
+ws-cycle/index.html?iid=3DLead&mc_cid=3D9c847bf8b9&mc_eid=3D[UNIQID]) Mor=
+e evidence that Trump acts like his own publicist and thinks like a TV pro=
+ducer...
+Trump's domain.com threat  (He's bluffing=2C right?)
+Trump's tweet calling the NYT story "libelous" was eyebrow raising. His bl=
+uster about lawsuits is legendary. So we note this with skepticism: On "Er=
+in Burnett OutFront=2C" Trump Organization assistant general counsel Jill=
+ Martin said a domain.com against the NYT is "a distinct possibility:" "I haven'=
+t talked to him about it personally=2C but=2C you know=2C when he's attack=
+ed like that and things are said falsely=2C he definitely fires back=2C" s=
+he said...
+NYT getting the clicks
+NYT's Theodore Kim tweets (<<link>>
+65207808?mc_cid=3D9c847bf8b9&mc_eid=3D[UNIQID]) tonight: "Metrics are in:=
+ The @nytimes article on Donald Trump's treatment of women is our most rea=
+d story of the year..."
+Up front with NBC and Fox
+Today NBC kicked off "upfronts week" at Radio City with an NBCU-wide prese=
+ntation=2C forgoing the usual night-by-night look at the network's fall sc=
+hedule for a cable-heavy focus on shows divvied up by fan base and genre.=
+ One such category: "Badasses."
+
+Fox followed up a few hours later at the Beacon Theater with a more domain.com=
+ional format. Frank Pallotta was at both=2C and he says one common theme (=
+which will continue all week) were the shots fired at streaming services a=
+nd other online rivals. Both NBC and Fox touted TV's reach over digital (N=
+BC's tagline was "Reach Redefined") and called out the definition of onlin=
+e "views." Fox's sales chief Toby Byrne even went as far to call digital v=
+ideo "subprime." And his NBC counterpart Linda Yaccarino said "I don't car=
+e what those Silicon Valley guys say. There is no algorithm for heart-pump=
+ing=2C blood-racing breath-holding premium content."
+
+I almost feel like the "Silicon Valley guys" should get a rebuttal at the=
+ end of this week=E2=80=A6
+"We cannot domain.com any longer"
+Yaccarino's shot at Nielsen was also noteworthy... She promoted NBC's own=
+ measurement and ad targeting tools and said this: "I don't run a measurem=
+ent company... but I'm happy to do their jobs for them. Because we just ca=
+nnot domain.com any longer... We cannot domain.com=2C and neither can all of you." THR=
+ has more... (<<link>>
+ont-presentation-2016-894471?mc_cid=3D9c847bf8b9&mc_eid=3D[UNIQID])
+Brian Lowry's assessment
+Fox is adapting "The Exorcist" and "Lethal Weapon=2C" reviving "Prison Bre=
+ak=2C" and bringing back "24" without Kiefer Sutherland. NBC's slate inclu=
+des a spin-off of "The Blacklist" and an extension of the "Taken" movies.
+
+"The conservative playbook represents a response to a crowded media enviro=
+nment. Programmers believe fewer new shows=2C with recognizable titles=2C=
+ give them a better chance of standing out=2C" Brian Lowry writes. Fox TV=
+ Group co-chair Dana Walden was honest about it today: These shows "don't=
+ require the same marketing muscle as trying to introduce a brand-new conc=
+ept=E2=80=A6"
+
+=E2=80=94 But there's also this: Fox's "Shots Fired=2C" a limited series "=
+devoted to a racially charged police shooting."
+
+=E2=80=94 Noted: "24: Legacy=2C" with Corey Hawkins as the new Kiefer=2C "=
+will get TV's best lead-in=2C premiering after the Super Bowl in February=
+=E2=80=A6"
+Lex Moonves!
+He made an appearance at Fox's upfront... Gary Newman boast (<<link>>
+domain.com/ditzkoff/status/732309733294678016?mc_cid=3D9c847bf8b9&mc_eid=3D[U=
+NIQID]) ed that (<<link>>
+_cid=3D9c847bf8b9&mc_eid=3D[UNIQID]) "this season=2C Gotham faced off aga=
+inst its toughest foe=2C 'Lex Moonves...'"
+NBC News gets a shoutout
+Last year=2C in the wake of the Brian Williams scandal=2C there was no men=
+tion of NBC News at the peacock's upfront. This year Steve Burke took time=
+ to celebrate his news division=2C saying it's "#1 in the mornings=2C #1 i=
+n the evenings=2C and #1 on the weekends." He cited Andy Lack's leadership=
+=2E..
+BuzzFeed's Facebook fail
+BuzzFeed had a big exclusive today: A sit-down with President Obama at the=
+ White House=2C billed as the president's "first interview on Facebook Liv=
+e." But it wasn't. Some sort of technical glitch (<<link>>
+6/05/16/media/buzzfeed-obama-facebook-live-glitch/index.html?mc_cid=3D9c84=
+7bf8b9&mc_eid=3D[UNIQID]) stopped BuzzFeed from live-streaming the interv=
+iew at 2:55 p.m. Monday. Thankfully BF was simultaneously live-streaming i=
+t on YouTube=2C so there was another way to watch. At deadline time=2C the=
+re's still no official word on what went wrong. Here's my story... (http:/=
+/domain.com/2016/05/16/media/buzzfeed-obama-facebook-live-glitch/index.=
+html?mc_cid=3D9c847bf8b9&mc_eid=3D[UNIQID])
+
+-- Hmmm... A source tells me that one of BuzzFeed Food's live streams ran=
+ into trouble today=2C too...
+First "Live" without Michael...
+Special correspondent Jamie Stelter=2C a/k/a my wife=2C a/k/a the biggest=
+ "Live with Kelly" fan I know=2C sends this along:
+
+"Where's Michael?" That was Jimmy Kimmel's opening line to Kelly Ripa this=
+ morning as he joined her as co-host for the newly named "Live with Kelly.=
+" Of course we know where Michael Strahan is; he's in the dog house. (He l=
+eft the show to join "GMA" full-time this fall.) Now the search for Kelly'=
+s new co-host is officially underway! And Jimmy brought ideas. He had a wh=
+eel she could spin featuring 7 possibilities=2C among them Kylie Jenner ("=
+Kelly and Kylie has a nice ring to it") and Becky with the Good Hair (of B=
+eyonce fame). Fun fact: Jimmy was also the first co-host the last time Kel=
+ly was in this position=2C after Regis left the show in 2011. [[Editor's=
+ note: Honey=2C how do you remember this?!]]
+
+So who will get the gig this time? My reliable source at today's show tell=
+s me that during a commercial break Kelly joked that executive producer Mi=
+chael Gelman should become the new co-host so they don't to re-do all the=
+ logos. Personally=2C I'm waiting for them to audition a woman...
+Gannett raises bid for Tribune
+Are we getting closer to a Gannett takeover of Tribune Publishing? Sure fe=
+els like it. This morning Gannett upped its bid=2C from $12.25 per share t=
+o $15.00 per share=2C and TribPub shares soared as a result. David Goldman=
+ has the full story here... (<<link>>
+-tribune/index.html?iid=3DSF_LN&mc_cid=3D9c847bf8b9&mc_eid=3D[UNIQID])
+Debra Lee joins Twitter board
+BET Networks CEO Debra Lee is joining Twitter's board of directors. Lee br=
+ings obvious media expertise at a time when Peter Chernin is leaving the b=
+oard. (<<link>>
+rrie-leaving-board-1201748983/?mc_cid=3D9c847bf8b9&mc_eid=3D[UNIQID])  Sh=
+e is the first African American to serve on the company's board. (And only=
+ the third woman.) Hope King has more here... (<<link>>
+5/16/technology/twitter-board-debra-lee/index.html?mc_cid=3D9c847bf8b9&mc_=
+eid=3D[UNIQID])
+Road to 2015 
+More names for Wednesday's Facebook meeting
+Ahead of Wednesday's meeting with conservative thought leaders at FB HQ=2C=
+ we learned the names of a couple more attendees today. Barry Bennett=2C o=
+ne of Trump's senior political advisers=2C will be there. So will Jim DeMi=
+nt=2C the president of the Heritage Foundation. Here's my latest story...=
+ More to come on Wednesday.. (<<link>>
+ok-mark-zuckerberg-barry-bennett/index.html?iid=3DSF_LN&mc_cid=3D9c847bf8b=
+9&mc_eid=3D[UNIQID]) .
+Lewandowski denies BuzzFeed story
+This afternoon BuzzFeed's McKay Coppins reported (<<link>>
+/mckaycoppins/trump-campaign-manager-working-on-a-book?utm_term=3D.xezWaXx=
+Dk&mc_cid=3D9c847bf8b9&mc_eid=3D[UNIQID]#.wd36kJNMn) that Corey Lewandows=
+ki is "working on a book;" the denial came via Twitter shortly thereafter.=
+ "Despite false reports to the contrary=2C I am not writing a book. I am u=
+nder a strict confidentiality agreement with Mr. Trump=2C" he wrote.
+
+Then came this... [[what word would you use for this?]]... followup tweet=
+: "McKay Coppins also bet a year of his salary saying Mr. Trump would not=
+ run for President. Mr. Trump is still waiting for the money." Coppins rep=
+lied: "LOL." (He also denied (<<link>>
+11855524790272?mc_cid=3D9c847bf8b9&mc_eid=3D[UNIQID]) making the bet.)
+Clinton looking ahead...
+What she said on the campaign trail today: "Just imagine I'm on a debate s=
+tage with Donald Trump. Now=2C personally=2C I am really looking forward t=
+o it." Not as much as TV network owners are...
+20th annual Webby Awards
+I'm here at the Webbys to present the BEST LIVE EVENT award to Chris Milk=
+ and Vrse.works. The domain.com of the Webbys is that winners can only use fi=
+ve words in their acceptance speeches. Here are a few of the best:
+
+=E2=80=94 Kim Kardashian West: "Nude selfies til I die."
+=E2=80=94 The Onion: "Wow. You guys... love... websites."
+=E2=80=94 YouTuber Tyler Oakley: "Monkey covering eyes emoji. Thanks!"
+=E2=80=94 Kanye West: "I can't stand short speeches."
+=E2=80=94 "Making a Murderer" makers Moira Demos & Laura Ricciardi: "The s=
+tory is not over."
+"Mr. Robot" preview!
+Frank thought that the best trailer at NBC's upfront was actually for a re=
+turning show =E2=80=94 USA's "Mr. Robot=2C" (<<link>>
+16/media/mr-robot-season-2-trailer-obama/index.html?iid=3DSF_LN&mc_cid=3D9=
+c847bf8b9&mc_eid=3D[UNIQID]) back for a second season on July 13. He wrot=
+e all about it here... (<<link>>
+son-2-trailer-obama/index.html?iid=3DSF_LN&mc_cid=3D9c847bf8b9&mc_eid=3D[=
+UNIQID])
+Today's kicker...
+William Pietri's caption for this NYT headline: "To my great disappointmen=
+t=2C this was three stories=2C not one"
+Listen to Sunday's show as a podcast...
+Click here to download yesterday's "Reliable Sources" as a podcast. (http:=
+//domain.com/reliable-sources-brian-stelter/episode/all/C5hH9qyTa59tV=
+A/24jk62.1-1.html?mc_cid=3D9c847bf8b9&mc_eid=3D[UNIQID]) You can also wat=
+ch the video clips here... (<<link>>
+id=3D9c847bf8b9&mc_eid=3D[UNIQID])
+
+** And send us your feedback!
+------------------------------------------------------------
+If you could change one thing about this newsletter=2C what would it be? E=
+mail your feedback to user@domain.com (mailto:user@domain.com=
+com) . We'll be back tomorrow with more media news...
+You Might Like
+<<link>>
+_sendid=3D9c847bf8b9&cs_esp=3Dmailchimp&cs_offset=3D0&cs_stripeid=3D2552&m=
+c_cid=3D9c847bf8b9&mc_eid=3D[UNIQID]
+
+<<link>>
+_sendid=3D9c847bf8b9&cs_esp=3Dmailchimp&cs_offset=3D1&cs_stripeid=3D2552&m=
+c_cid=3D9c847bf8b9&mc_eid=3D[UNIQID]
+
+<<link>>
+_sendid=3D9c847bf8b9&cs_esp=3Dmailchimp&cs_offset=3D2&cs_stripeid=3D2552&m=
+c_cid=3D9c847bf8b9&mc_eid=3D[UNIQID]
+<<link>>
+il&utm_campaign=3Dcnnmoney&utm_content=3Danimatedlogo&mc_cid=3D9c847bf8b9&=
+mc_eid=3D[UNIQID]
+<<link>>
+Yz1b&mc_cid=3D9c847bf8b9&mc_eid=3D[UNIQID] Share (<<link>>
+/sharer/sharer.php?u=3Dhttp%3A%2F%2domain.com%2Fb1Yz1b&mc_cid=3D9c847bf8b=
+9&mc_eid=3D[UNIQID])
+<<link>>+Lex+Moonves%3B+Trump%27s+call+=
+to+CNN%3B+NYT%27s+page+view+win%3B+BuzzFeed%27s+Facebook+Live+snafu%3B+Gan=
+nett%27s+new+bid+for+Tribune%3B+Kelly+without+Michael:&mc_cid=3D9c847bf8b9=
+&mc_eid=3D[UNIQID] http%3A%2F%2domain.com%2Fb1Yz1b Tweet (<<link>>
+=2Ecom/intent/tweet?text=3DMeet+Lex+Moonves%3B+Trump%27s+call+to+CNN%3B+NYT%=
+27s+page+view+win%3B+BuzzFeed%27s+Facebook+Live+snafu%3B+Gannett%27s+new+b=
+id+for+Tribune%3B+Kelly+without+Michael:&mc_cid=3D9c847bf8b9&mc_eid=3D[UN=
+IQID] http%3A%2F%2domain.com%2Fb1Yz1b)
+<<link>>
+=3D9c847bf8b9&e=3D80754425eb Forward (<<link>>
+ard?u=3D47c9040f6ff957a59bd88396e&id=3D9c847bf8b9&e=3D80754425eb)
+Subscribe to Reliable Sources (<<link>>
+u=3D47c9040f6ff957a59bd88396e&id=3De95cdc16a9&mc_cid=3D9c847bf8b9&mc_eid=
+=3D[UNIQID])
+Get Reliable Sources=2C a comprehensive summary of the most important medi=
+a news=2C delivered to your inbox every afternoon.
+
+Tips=2C thoughts or questions are always welcome at
+** user@domain.com (mailto:user@domain.com)
+=2E
+=C2=AE =C2=A9 2015 Cable News Network=2C Inc.
+A Time Warner Company.  All Rights Reserved.
+You are receiving this message because you subscribed to
+CNNMoney's "Reliable Sources" newsletter.
+
+Our mailing address is:
+Cable News Network=2C Inc.
+Attention: Privacy Policy Coordinator
+One CNN Center=2C 13 North
+Atlanta=2C GA 30303
+
+** unsubscribe from this list (<<link>>
+?u=3D47c9040f6ff957a59bd88396e&id=3De95cdc16a9&e=3D80754425eb&c=3D9c847bf8b9=
+)
+** update subscription preferences (<<link>>
+e?u=3D47c9040f6ff957a59bd88396e&id=3De95cdc16a9&e=3D80754425eb)
+
+** Facebook (<<link>>
+=3D[UNIQID])
+** Twitter (<<link>>[=
+UNIQID])
+Reliable Sources
+
+** View this email in your browser (<<link>>
+=3D47c9040f6ff957a59bd88396e&id=3D9c847bf8b9&e=3D80754425eb)

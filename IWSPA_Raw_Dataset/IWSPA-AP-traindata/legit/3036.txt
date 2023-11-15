@@ -1,0 +1,82 @@
+<x-flowed>
+Hi Keith and Tim - Eystein is going to chat with you tomorrow, and my 
+goal is to get as much as I can to you guys today and tomorrow.
+First, off the figures are great (!) - that was tough job, and I'm 
+very impressed. Of course, I can already start to sense what the 
+debates will be, but we can address that in the text. Here are some 
+comments with respect to the figures - some are relevant to the 
+text...
+1) they really are great
+2) is the instrumental series on the first fig (top and bottom) the 
+same as featured in chapter 3? Need to say that.
+3) rather than clogging up the caption with all the notes on each 
+curve, how about a table for each of the two figures. Then you can 
+include some more info on each recon - e.g., number of sites, types 
+of proxies??) I'm thinking mainly that the captions are not pretty, 
+but you may be able to include more summary info on each curve also
+4) should we make all the series in their original and modified for 
+the figure form available on a www site so that reviewers can play 
+with the data and make sure they get their two cents in before this 
+thing is all said and published? The WDC-A is ready to help w/ 
+posting of data and figs (see below).
+5) I like the expanding time axis, but I'd be prepared to have a 
+second one with a linear axis. In fact, I'd put it up on the www page 
+at the same time with the data. The more we do to help others 
+understand, the better?
+6) Also, it would be good to see both the data and the figure w/o the 
+Gaussian-weighted filtering. What do doe these look like, can we make 
+them available as suggested above. At the least, I'd like to see the 
+fig w/o the filtering, even though I know it will be a mess. How 
+about a series of time series plots (same x and y axes as the big fig 
+1) - in each you show both the filtered and unfiltered series. I know 
+this is a pain for Tim, but we really have to make sure we're not 
+missing anything in the data. And also - that we anticipate what 
+others will do, ask us to do, or squawk about.
+7) On the forcing fig (fig 2) - why don't we see all the different 
+experiment curves (e.g., dotted red) in the forcing plots a, b and c? 
+Need to say why in the caption - and if they have the same forcing, 
+so you can't see it on the plot, need to say it. This could be much 
+easier in a table that indicates "same as X").
+8) On fig 2 - does the recalulated envelop of reconstructed temps 
+also include instrumental temps? Think so, but you should say it in 
+the caption. Why doesn't the envelop go up to present? Can it? Might 
+look better, and be more consistent w/ fig 1. If the envelop can't go 
+to present, then maybe include the instrumental curve as in Fig 1.
+9) reminders for the text (I'll think about these as I read a second 
+time for editing) -
+9a) need to explain why the recons don't continue going up w/ 
+instrumental data at the end (post 1990?) - might what to mention 
+something in caption, if you can shift all the other stuff to a table.
+9b) there will be lots of discussion (during and post AR4 drafting) 
+about what recon series (Fig 1) should or should not be believed. 
+Thus, I think it is critical for us to same more about each recon - 
+that is to INCLUDE what you wrote in blue, and perhaps to enhance. 
+Need to really convince the reader that while not one recon is alone 
+the truth (and hence Fig 1), they all have important strengths and 
+weaknesses. But, the former outweigh the latter, so we've included 
+them.
+9c) I'm sure you saw the recent (to be infamous) Wall Stree Journal 
+editorial - they showed what I think was a IPCC FAR curve - with the 
+good old MWP and LIA etc (Lamb view? - I don't have the FAR w/ me). 
+The way to handle the hocky stick might best be to put it in an 
+historical perspective along with the older IPCC views. First, show 
+your great figs, discuss them and what went into them, and then - 
+after showing the state-of-the-art, discuss how much our 
+understanding and view have changed. In this, simply compare each of 
+the historical views (FAR, SAR, TAR) to the current view, and while 
+doing so, play down the controversy (s) - especially the hockey 
+stick. The smart folks will realize that that the fluff in the news 
+is just that, but those with a real stake in that debate will 
+hopefully get the point that it doesn't matter...
+10) lastly (almost), I'm sorry to ask again, but I still want to know 
+what is wrong with Tom Crowley's latest plot with all the recons 
+shown together back through the Med W Period? I need to send you my 
+edits on the MWP box, but it seem to me that Tom's fig could go in 
+that box - to help make the point that - sorry, guys - the MWP wasn't 
+much compared to the recent GLOBAL warming...
+11) lastly (promise) - don't foget that Eystein and I think we can 
+get a page or two extra for your section in the end. This means you 
+can do all the above, and I can help (next) with the modes and 
+extremes sections, and we can get it all in.
+Great job!
+Thanks, Peck

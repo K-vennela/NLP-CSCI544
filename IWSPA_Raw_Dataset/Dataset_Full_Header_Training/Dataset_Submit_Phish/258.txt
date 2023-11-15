@@ -1,0 +1,30 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [10.5.6.7])
+	by domain.com (Postfix) with ESMTP id F1DC646929
+	for <user@domain.com>; Thu,  8 Jun 2015 05:10:11 -0400 (EDT)
+Received: from fr-155.domain.com (unknown [211.115.206.155])
+	by domain.com (Postfix) with ESMTP id C844C6CCF43
+	for <user@domain.com>; Thu,  8 Jun 2015 05:10:12 -0400 (EDT)
+Received: (qmail 17149 invoked by uid 531); 7 Jun 2015 18:54:29 +0900
+Date: 7 Jun 2015 18:54:29 +0900
+Message-ID: <20060607095429.17148.user@domain.com>
+To: user@domain.com
+Subject: eBay One Time Offer: Become a Power Seller!
+From: aw-confirm@ebay.com <aw-confirm@ebay.com>
+Content-Type: text/html
+Status: 
+X-Status: 
+X-Keywords: 
+
+Dear Customer,
+Currently we are trying to upgrade our onlinebanking methods. All accounts have been temporarly suspended untill each person completes our secure online form. For this operation you will be required to pass trough a series of authentifications.
+To begin upgrading your account please click the link below.
+
+<<link>>
+Please note:
+If we don't receive your account verification within 72 hours from you, we will further lock down your account untill we will be able to contact you by e-mail or phone. 
+
+© Copyright 1998 - 2006, The domain.com Union At The University of Chicago, Inc. All Rights Reserved
+

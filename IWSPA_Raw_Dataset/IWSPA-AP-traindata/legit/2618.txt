@@ -1,0 +1,30 @@
+<x-flowed>
+Dear Ben,
+This is a good idea. However, will you give only tropical
+(20N-20S) results? I urge you to give data for other zones
+as well, viz, SH, NH, GL, 0-20N, 20-60N, 60-90N, 0-20S,
+20-60S, 60-90S (plus 20N-20S). To have these numbers on
+line would be of great benefit to the community. In other
+words, although prompted by McIntyre's request, you will
+actually be giving something to everyone.
+Also, if you can give N3.4 SSTs and SOI data, this would be
+an additional huge boon to the community.
+For the data, what period will you cover. Although for our
+paper we only use data from 1979 onwards, to give data for
+the full 20th century runs would be of great benefit to all.
+This, of course, raises the issue of drift. Even over 1979
+to 1999 some models show appreciable drift. From memory we
+did not account for this in our paper -- but it is an
+important issue.
+This is a lot of work -- but the benefits to the community
+would be truly immense.
+Finally, I think you need to formally get McIntyre to list
+the 47 models that he wants the data for. The current request
+is ambiguous -- or, at least, ill defined. I think it is
+crucial for McIntyre to state specifically what he wants.
+Even if we think we know what he wants, this is not good
+enough -- FOIA requests must be clear, complete and
+unambiguous. This, after all, is a legal issue, and no court
+of law would accept anything less.
+Tom.
+++++++++++++++++++++

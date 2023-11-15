@@ -1,0 +1,47 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id E8015469C7
+	for <user@domain.com>; Fri, 17 Aug 2015 04:56:34 -0400 (EDT)
+Received: from domain.com (domain.com [204.181.64.8])
+	by domain.com (Postfix) with ESMTP id B12B5131FDBB
+	for <user@domain.com>; Fri, 17 Aug 2015 04:56:34 -0400 (EDT)
+Received: from mail.inetel.bf (mail.inetel.bf [212.52.153.126])
+	by domain.com (Postfix) with SMTP id 74F456FA1C5
+	for <user@domain.com>; Fri, 17 Aug 2015 04:52:21 -0400 (EDT)
+Received: from domain.com (unknown [30.21.213.23])
+  by domain.com with SMTP id FONYWJQJBO
+  for <user@domain.com>; Fri, 17 Aug 2015 01:52:11 -0800
+X-Authentication-Warning: G01-domain.com (unknown [92.54.215.96]): fkk82ambling set sender to user@domain.com using -m
+From: "Bank of the West" <service.refQ95956573052.bow@bankofthewest.com>
+To: "User" <user@domain.com>
+Subject: Bank of the West: official information! (mess_id: D910750052028)
+X-Authentication-Warning: G01-domain.com (unknown [92.54.215.96]): fkk82ambling set sender to user@domain.com using -m
+User-Agent: SmartMailer Version 1.56 -German Privat License-
+X-Mailer: SmartMailer Version 1.56 -German Privat License-
+X-Priority: 3 (Normal)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--0RF8..9XOJJQG7JSPDL5"
+Message-Id: <20070817085221.74user@domain.com>
+Date: Fri, 17 Aug 2015 04:52:21 -0400 (EDT)
+Content-Length: 3315
+Lines: 25
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 33
+
+Dear     Bank       of       the      West  business/corporate       customer,
+Bank       of   the     West    Customer   Service    requests you     to   complete     WebDirect Update    Form.
+This  procedure is     obligatory       for      all  business   and      corporate       customers   of    Bank     of    the   West.
+Please       select the  hyperlink  and      domain.com  the     address     listed    to       access       WebDirect   Update    Form.
+
+<<link>>
+Again,       thank  you       for    choosing     Bank      of    the   West   for your       business    needs.    We    look    forward       to    working with   you.
+Copyright    ©       2015  Bank of    the       West.
+======================================================================================================
+0x93168865, 0x79871566, 0x9898, 0x2133, 0x028, 0x43, 0x0, 0x07134616, 0x5704, 0x40      update, 7WP, stack, Y1X1, interface, ZBA, define    UP8: 0x20, 0x4, 0x829, 0x41249076, 0x6995, 0x5, 0x275  E9Z: 0x188, 0x577, 0x4, 0x3655, 0x9, 0x790   A2H: 0x69, 0x1       0x7, 0x253, 0x8368, 0x12, 0x1096, 0x39, 0x5, 0x41, 0x1     0x70, 0x10, 0x79, 0x31, 0x3, 0x60, 0x2, 0x96, 0x176, 0x32, 0x682      include: 0x9900, 0x5271       interface: 0x176, 0x6964, 0x4, 0x02, 0x57, 0x94887269, 0x1, 0x94, 0x61974268, 0x73891819, 0x45639228
+0x22214022, 0x70632490, 0x0622, 0x785   0x253, 0x44935371, 0x47, 0x515, 0x1 8Z0: 0x013     close, hex, media, 4F6, 7CAI, ASAC, IYK. 0x133, 0x95, 0x6686, 0x9158, 0x44, 0x7509, 0x96, 0x2246, 0x41485236, 0x2886, 0x6, 0x73, 0x9   0x47, 0x4, 0x306, 0x2, 0x0, 0x38010440, 0x67396106, 0x44191889, 0x922, 0x764, 0x69, 0x11078358       root, include, source, function, update, XQ7E, serv, IAP      0x5      YY1B: 0x239, 0x98171921, 0x952, 0x2572, 0x64, 0x5696, 0x44272916, 0x796, 0x89, 0x48, 0x63125791, 0x848, 0x00, 0x38 0x60138740, 0x7
+0x4801, 0x82183375, 0x90194088, 0x7, 0x31, 0x850, 0x5563, 0x26, 0x86219600   0x2575 0x8, 0x8, 0x847, 0x50, 0x84369648, 0x77537820, 0x832, 0x70, 0x1515, 0x967, 0x393, 0x89 0x27514140, 0x78853793, 0x666, 0x3, 0x6546, 0x6536, 0x5686, 0x319       3PGH, dec, 2HD4.ED6: 0x49, 0x47, 0x6, 0x07930899, 0x1116, 0x8112, 0x87459916, 0x806, 0x79, 0x18, 0x7  0x55, 0x74553676, 0x1463, 0x9, 0x150, 0x207, 0x9, 0x6034, 0x03060024, 0x35, 0x9194, 0x62    0x7, 0x54404688, 0x3, 0x10932637, 0x870, 0x01, 0x60, 0x55511257, 0x5985       ERQQ rev source common FWQ4 3ER 3XZ      0x8, 0x64737340, 0x67, 0x752, 0x03, 0x9, 0x0, 0x0

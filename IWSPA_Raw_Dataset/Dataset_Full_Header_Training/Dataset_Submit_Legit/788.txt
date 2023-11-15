@@ -1,0 +1,73 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 18 May
+ 2015 14:35:36 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 18 May 2015 
+ 14:35:35 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 922417615
+ for user@domain.com; Wed, 18 May 2015 13:35:43 -0500
+X-Note-AR-ScanTimeLocal: 5/18/2016 1:35:43 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @hillaryclinton.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 209.85.213.41
+X-Note-Reverse-DNS: mail-vk0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mail-vk0-domain.com ([209.85.213.41] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 139582663
+ for user@domain.com; Wed, 18 May 2015 13:35:43 -0500
+Received: by mail-vk0-domain.com with SMTP id z184so73013200vkg.0
+        for <user@domain.com>; Wed, 18 May 2015 11:35:35 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=hillaryclinton.com; s=google;
+        h=mime-version:in-reply-to:references:date:message-id:subject:From: Kathy Gasperine <kgasperine@hillaryclinton.com>
+         :cc;
+        bh=UDmyc0TPmKVwC3AEoDJWjeagL75cjLxNZBoVHY5SjM4=;
+        b=C5jBGM1scqknEeNovbD9fkHr7hfq1VOx+V9UJYIc4U+iS8aUq9bGp/8cv3RFBepq8y
+         +ZO2dwmJAIXmPyC+EmCa+p0qRRls/zukRlOABZPK2ilZDxk8zNTp3sbf6AFMpmDQKkw8
+         VfYBpWUdC0o0ix8irxEaYmlGVm2r2Px16lTV8=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:date
+         :message-id:subject:From: Kathy Gasperine <kgasperine@hillaryclinton.com>
+        bh=UDmyc0TPmKVwC3AEoDJWjeagL75cjLxNZBoVHY5SjM4=;
+        b=GkmSROe9jwvFdW9eNkndtiaf0djs6OVvfjSTfbZiq7F3Sba0PsWt7DA9YMgzunJmyE
+         s6MTlWTkimuiCHWq5gKEZ05BOtO1gEnZzVyhqdL0g51WB8xOSsNJtJ6QHeLAYkRdP7JK
+         10UHXgVJwEjGV8VXUGy8OzoSmzqznpC5OVClhrPIaEgH3xe79bHfepkK8X0Ov65KxbWs
+         jx35XfNsdfV7jPB9y60ee+vI+jchxF85sq6jkE8tgHdHhgpkNCXrmjrlE2AsIIfcd2A1
+         gfYGnm9GeJ0vLap9LQWX96jaZD/u6NM7CowpbNz3cpyQfpdFgTc0IOD5/C1ZoCxOdphg
+         LcOA==
+X-Gm-Message-State: AOPr4FV3Yzb7J9ZQR9YVLsITMDO25hG0Jh5VjuBjMQh+/w3HDatfr6qeEn8yIC58NR9HRzX/HRMfwP4XwG+ovMdK
+X-Received: by 10.31.89.196 with SMTP id n187mr4152349vkb.83.1463596534655;
+ Wed, 18 May 2015 11:35:34 -0700 (PDT)
+Received: by 10.176.64.103 with HTTP; Wed, 18 May 2015 11:35:34 -0700 (PDT)
+In-Reply-To: <5user@domain.com>
+References: <5user@domain.com>
+Date: Wed, 18 May 2015 14:35:34 -0400
+Message-ID: <CABmBifq6FfV3skFd-FCFnQbBppQazB5+user@domain.com>
+Subject: Re: Michele Kessler
+From: Kathy Gasperine <kgasperine@hillaryclinton.com>
+To: "User" <user@domain.com>
+CC: "Kaplan, Jordan" <user@domain.com>
+Content-Type: multipart/related; boundary="001a114f60148b57690533221f2b"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Thank you!!!! I am terrified on this...she says it has been cashed!
+Should we take bets that its a Correct the Record ?
+

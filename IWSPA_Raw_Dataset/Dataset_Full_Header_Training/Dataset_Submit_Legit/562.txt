@@ -1,0 +1,296 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Sun, 1 May
+ 2015 12:20:57 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Sun, 1 May 2015 
+ 12:20:55 -0400
+Received: from [10.87.0.110] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 889959639
+ for user@domain.com; Sun, 01 May 2015 11:20:57 -0500
+X-Note-AR-ScanTimeLocal: 5/1/2016 11:20:56 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:198.2.138.148 DOM:domain.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 100
+X-GBUdb-Analysis: 0, 198.2.138.148, Ugly c=0 p=1 Source Caution
+X-Signature-Violations: 100-5953858-1836-1866-m
+	100-5946975-1950-1969-m
+	100-5953858-0-22295-f
+X-Note-419: 31.2521 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/1/2016 11:20:38 AM
+X-Warn: BOUNCETRACKER Bounce User Tracking Found
+X-Warn: OPTOUT
+X-Warn: SHORTURL Failed URIBINARY Code: Yml0Lmx5
+X-Warn: BULKMAILER
+X-Warn: WEIGHT10
+X-Warn: WEIGHT15
+X-Note: Spam Tests Failed: BOUNCETRACKER, OPTOUT, SHORTURL, BULKMAILER, WEIGHT10, WEIGHT15
+X-Country-Path: LOCAL->United States->
+X-Note-Sending-IP: 198.2.138.148
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G280 G285 G339 G373 G375 G386 G398 G399 G572 G578 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from [198.2.138.148] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 139296881
+ for user@domain.com; Sun, 01 May 2015 11:20:56 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=domain.com;
+ h=Subject:From: =?utf-8?Q?Jonathan=20Allen?= <jon@sidewire.com>
+ bh=Fvgto3HypBbQ0sLaiSbQ+IpSvEk=;
+ b=YXGA/dCgOdb3FClQiWMB5mfGSHNh4UdYtTnuHtDfRIqldguMEnhKKq48a8S2X80TGZglw0tezVv2
+   n0wQHWEwyfBSeyJ7kiLCraqgXSz2s4z5AmjHmbN2ceVQxJR3lLTh126ph3vjov40xV73InLh4Y0Q
+   71dZK40P/k27PYhTmRY=
+Received: from (127.0.0.1) by domain.com id h4omee1sb54c for
+ <user@domain.com>; Sun, 1 May 2015 16:20:54 +0000 (envelope-from
+ <user@domain.com>)
+Subject: =?utf-8?Q?Stitch=20=E2=80=94=20Hoosier=20Choice=2C=20Newsmaker=20of=20the=20Week=20Kevin=20Bleyer=20on=20Writing=20for=20the=20WHCD=2C=20Donors=20are=20Berned=20Out=20and=20More?=
+From: =?utf-8?Q?Jonathan=20Allen?= <jon@sidewire.com>
+Reply-To: =?utf-8?Q?Jonathan=20Allen?= <user@domain.com>
+To: <user@domain.com>
+Date: Sun, 1 May 2015 16:20:54 +0000
+Message-ID: <user@domain.com>
+X-Mailer: MailChimp Mailer - **CIDaf9fbf9f42584f90e12b**
+X-Campaign: mailchimpdff5dea186e38c29c57ca6f8f.af9fbf9f42
+X-campaignid: mailchimpdff5dea186e38c29c57ca6f8f.af9fbf9f42
+X-Report-Abuse: Please report abuse for this campaign here: <<link>>
+X-MC-User: dff5dea186e38c29c57ca6f8f
+X-Feedback-ID: 42560441:42560441.1610785:us11:mc
+List-ID: dff5dea186e38c29c57ca6f8fmc list <dff5dea186e38c29c57ca6f8f.326717.list-domain.com>
+X-Accounttype: pd
+List-Unsubscribe: <mailto:user@domain.com?subject=unsubscribe>, <<<link>>>
+Sender: Jonathan Allen <user@domain.com>
+x-mcda: FALSE
+Content-Type: multipart/alternative;
+	boundary="_----------=_MCPart_1544287014"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+** THE BIG QUESTION
+
+What was your favorite moment from last night's White House Correspondents=
+ Association dinner?
+
+TURNING TO INDIANA
+------------------------------------------------------------
+GREG GIROUX sends in a gem of a cheatsheet on Tuesday's Indiana presidenti=
+al primaries.
+Here's the basic rundown on its contents:
+* Demographic and political information by county (tab 1) and congressiona=
+l district (tab 2).
+* Maps
+* Summaries of each party's delegate-selection process.
+* For context=2C results by county for the 2015 GOP Senate primary won by=
+ Richard Mourdock over Dick Lugar=2C the 2015 Republican Senate primary wo=
+n by Dan Coats over Marlin Stutzman and the 2015 Democratic presidential a=
+nd gubernatorial primaries.
+* Indiana results for the Reagan-Ford contest in 1976=2C the last time the=
+re was a competitive Republican presidential primary in the Hoosier state.
+
+Click here (<<link>>)  for Greg's Indiana cheatsheet.
+
+JANET HOOK reports on a new Wall Street Journal/NBC News poll (<<link>>
+domain.com/articles/donald-trump-holds-15-point-lead-ahead-of-republican-riva=
+ls-in-indiana-poll-1462107603)  that shows Trump up 15 points=2C 49 percen=
+t to 34 percent=2C over Ted Cruz in Indiana. The same poll has Hillary Cli=
+nton leading Bernie Sanders=2C 50 percent to 46 percent=2C in the Hoosier=
+ state.
+
+It would take more than just an upset in Indiana to derail either Trump or=
+ Clinton. Lee Miringoff=2C director of the Marist College Institute for Pu=
+blic Opinion=2C said last Tuesday's primaries cemented the status of the t=
+wo parties' favorites.
+------------------------------------------------------------
+
+=E2=80=9CAfter the Acela primary=2C there is an aura of inevitability surr=
+ounding the Trump and Clinton candidacies.=E2=80=9D
+
+=E2=80=94Lee Miringoff/WSJ (<<link>>
+-15-point-lead-ahead-of-republican-rivals-in-indiana-poll-1462107603)
+
+------------------------------------------------------------
+
+** NEWSMAKER OF THE WEEK: KEVIN BLEYER
+------------------------------------------------------------
+KEVIN BLEYER=2C a veteran of "The Daily Show" who works on the team that w=
+rites the president's speech for the White House Correspondents Associatio=
+n dinner=2C is Sidewire's Newsmaker of the Week. He's also written for Bil=
+l Maher and Dennis Miller=2C authored books and even helped start a comedy=
+ program in Kyrgyzstan.
+
+This morning=2C as he came nearer to capping off his WHCD post-party exper=
+ience=2C Kevin answered a few questions about politics=2C comedy and what=
+ drew him to the funny side of a serious subject.
+
+Click Here (<<link>>
+56e0a7d8cacc2f54947)  for the full Newsmaker of the Week interview.
+
+HERE ARE SOME OF THE HIGHLIGHTS:
+
+On what made him a political junkie
+------------------------------------------------------------
+
+"Honestly=2C I'd have to say Bill Maher. Long before I joined Jon Stewart=
+=2C I wanted to be a real honest to goodness journalist. A war corresponde=
+nt in some far flung hotspot. Instead I got a job writing jokes for Bill o=
+n Politically Incorrect. ... Journalism with laughs. Seems a safer route.=
+ Sometimes."
+
+=E2=80=94Kevin Bleyer/Sidewire (<<link>>
+ticles/54088e6a43fa656e0a7d8cacc2f54947/commentary/df8c2872-24af-43d3-a887=
+-da31dcf13f4c)
+
+------------------------------------------------------------
+On whether there's a difference between writing for a liberal comedian and=
+ a conservative comedian
+------------------------------------------------------------
+
+"Oh=2C not as much as people might expect. But to borrow from some genius=
+ Colbert (and from his genius writers) I suppose it might be said that a j=
+oke=2C like reality=2C has a known liberal bias."
+
+=E2=80=94Bleyer/Sidewire (<<link>>
+/54088e6a43fa656e0a7d8cacc2f54947/commentary/7f7b9124-4d8a-4e67-886d-a3d04=
+917c1bf)
+
+------------------------------------------------------------
+On Obama's strength as a comedian
+------------------------------------------------------------
+
+"He does one thing effortlessly that's vital: his demeanor suggests he's h=
+aving a hell of a time up there too. He knows it's a great opportunity to=
+ settle a few of the more harmless scores under the cover of comedy."
+
+=E2=80=94Bleyer/Sidewire (<<link>>
+/54088e6a43fa656e0a7d8cacc2f54947/commentary/7c3409f0-9bae-4664-a4cd-66e42=
+14429c0)
+
+------------------------------------------------------------
+On the challenges of starting a comedy show in Kyrgyzstan
+------------------------------------------------------------
+
+"I helped launch a political satire show in Bishkek not too long ago. It w=
+as simple: fewer references to John Kasich=2C more references to former so=
+viet leaders=2C and about the same number [of] references to Kim Kardashi=
+an."
+
+=E2=80=94Bleyer/Sidewire (<<link>>
+/54088e6a43fa656e0a7d8cacc2f54947/commentary/bf9a0834-0023-4189-a37e-7922f=
+239316c)
+
+------------------------------------------------------------
+
+Click here (<<link>>
+/01/the-complete-transcript-of-president-obamas-2016-white-house-correspon=
+dents-dinner-speech/)  for the Washington Post's transcript of the dinner.
+
+------------------------------------------------------------
+
+**
+TRIVIAL PURSUITS
+------------------------------------------------------------
+ABOUT TODAY
+It's been five years since President Barack Obama told the American people=
+ Osama bin Laden had been killed in a raid in Pakistan.
+
+YESTERDAY'S TRIVIA
+GREG GIROUX was the first to correctly respond that it was Indiana that ga=
+ve Robert F. Kennedy his first primary victory in 1968.
+
+TODAY'S TRIVIA
+Courtesy of Greg: Who came in second=2C behind Kennedy=2C in the 1968 Demo=
+cratic primary in Indiana?
+Send answers to user@domain.com The first person to respond correctly=
+ wins a shower of accolades and the right to ask tomorrow's trivia questio=
+n.
+
+PLEASE SEND TIPS=2C suggestions=2C comments=2C complaints=2C corrections a=
+nd photos taken by celebrities at the White House Correspondents Associati=
+on dinner to user@domain.com
+
+------------------------------------------------------------
+
+**
+
+#BERNED-OUT DONORS
+------------------------------------------------------------
+WHAT BERNIE SANDERS DID THIS YEAR WITH GRASSROOTS FUNDRAISING is nothing s=
+hort of jaw-dropping. But=2C as JOHN WAGNER reports for the Washington Pos=
+t=2C April was the cruelest month in a while for Sanders' fundraising: He=
+ pulled in $25.8 million in April after stocking his treasury with $46 mil=
+lion in March.
+
+It's still a lot of money =E2=80=94 about what Hillary Clinton raised in M=
+arch =E2=80=94 but Wagner points out why the decline is a problem (https:/=
+/domain.com/news/post-politics/wp/2016/05/01/bernie-sanderss-f=
+undraising-drops-off-sharply-in-april/) .
+------------------------------------------------------------
+
+"But Sanders has emerged as the biggest-spending candidate in the race=2C=
+ and his April total is not enough to maintain his pace of spending on tel=
+evision ads and other facets of the race. Last week=2C the campaign announ=
+ced that it was shedding 225 staffers to 'right-size' its personnel headin=
+g into the final nominating contests=2C including Indiana on Tuesday."
+
+=E2=80=94John Wagner/WaPo (<<link>>
+cs/wp/2016/05/01/bernie-sanderss-fundraising-drops-off-sharply-in-april/)
+
+------------------------------------------------------------
+
+** REPUBLICANS JOCKEY TO AVOID BEING NAMED TRUMP'S VP
+------------------------------------------------------------
+That's the essence of a story (<<link>>
+cs/donald-trump-vice-president.html?hp&action=3Dclick&pgtype=3DHomepage&cl=
+ickSource=3Dstory-heading&module=3Dfirst-column-region&region=3Dtop-news&W=
+T.nav=3Dtop-news)  by PATRICK HEALY & ASHLEY PARKER in this morning's New=
+ York Times. John Kasich? No. Jeb Bush? No. Scott Walker? No. Nikki Haley?=
+ No. Susanna Martinez? No. And so on and so on=2C Patrick and Ashley write=
+=2E
+
+BUT they also use former House Speaker Newt Gingrich=2C who is considered=
+ to be a possible ticket-mate for the Donald=2C to make the point that it'=
+s one thing to say you'd turn down the No. 2 spot on the ticket and quite=
+ another to actually do that.
+------------------------------------------------------------
+
+"If a potential president says I need you=2C it would be very hard for a p=
+atriotic citizen to say no. ... People can criticize a nominee=2C but ulti=
+mately there are very few examples of people turning down the vice preside=
+ncy.=E2=80=9D
+
+=E2=80=94Newt Gingrich/NYT (<<link>>
+donald-trump-vice-president.html?hp&action=3Dclick&pgtype=3DHomepage&click=
+Source=3Dstory-heading&module=3Dfirst-column-region&region=3Dtop-news&WT.n=
+av=3Dtop-news)
+
+------------------------------------------------------------
+
+=E2=80=9430=E2=80=94
+
+Have feedback for us? Email ** user@domain.com (mailto:user@domain.com=
+)
+=2E
+
+Sidewire=2C Inc.
+633 Battery Street
+Suite 100
+San Francisco=2C CA 94111
+USA
+
+Want to change how you receive these emails? ** Update (<<link>>
+11.list-domain.com/profile?u=3Ddff5dea186e38c29c57ca6f8f&id=3D7eeab627b3&e=
+=3D584f90e12b)
+your preferences or ** unsubscribe (<<link>>
+nsubscribe?u=3Ddff5dea186e38c29c57ca6f8f&id=3D7eeab627b3&e=3D584f90e12b&c=3D=
+af9fbf9f42)
+=2E

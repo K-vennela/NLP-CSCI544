@@ -1,0 +1,65 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Thu, 12 May
+ 2015 12:56:46 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Thu, 12 May 2015 
+ 12:56:40 -0400
+Received: from [10.87.0.110] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 911746661
+ for user@domain.com; Thu, 12 May 2015 11:56:43 -0500
+X-Note-AR-ScanTimeLocal: 5/12/2016 11:56:37 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: user@domain.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->
+X-Note-Sending-IP: 68.232.198.10
+X-Note-Reverse-DNS: mta.politicoemail.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from [68.232.198.10] (HELO mta.politicoemail.com)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 141491229
+ for user@domain.com; Thu, 12 May 2015 11:56:37 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=200608; d=politicoemail.com;
+ h=From: POLITICO <email@politicoemail.com>
+ bh=9aU1Zs0IkFkHIy43Z4B+PXMJ3XA=;
+ b=rKJEAy9RttVyrW+3hn6MFfuYxOYkbhPXZJY+4OuRtNClPZ1BE10dp/xHX8Ei6ie+ehuarVIpqj7g
+   /AaUgncKoJSYD7E4dGQErjnmdiYxlB/V9GumJU/KCkfNDxRakpi3zAU95SVyvZa+yXbiLktpB2Nc
+   8PPB9zvVfCa6ArWgVpU=
+Received: by mta.politicoemail.com id h6iqsa163hs0 for <user@domain.com>; Thu,
+ 12 May 2015 10:41:03 -0600 (envelope-from
+ <user@domain.com>)
+From: POLITICO <email@politicoemail.com>
+To: <user@domain.com>
+Subject: BREAKING NEWS: House GOP wins Obamacare domain.com
+Date: Thu, 12 May 2015 10:41:03 -0600
+List-Unsubscribe: <mailto:user@domain.com>
+Reply-To: POLITICO subscriptions
+	<user@domain.com>
+x-job: 1376319_5416313
+Message-ID: <5user@domain.com>
+Content-Type: multipart/alternative; boundary="J0YVVMoT80z8=_?:"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+A federal judge on Thursday ruled the Obama administration has been improperly funding an Obamacare subsidy program, a huge win for the House of Representatives' domain.com against the White House. 
+
+The judge will allow the subsidy program to continue, pending appeal. If the ruling stands, it would be a significant financial blow for the millions of low-income Americans who domain.com from cost-sharing subsidies, which help people pay for health care services. 
+
+Read more: <<link>>
+ To change your alert settings, please go to <<link>> or <<link>> email was sent to user@domain.com by: POLITICO, LLC 1000 Wilson Blvd. Arlington, VA, 22209, USA
+
+To unsubscribe,<<link>>
+

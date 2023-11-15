@@ -1,0 +1,100 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Fri, 13 May
+ 2015 12:23:03 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Fri, 13 May 2015 
+ 12:22:54 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 913895975
+ for user@domain.com; Fri, 13 May 2015 11:23:01 -0500
+X-Note-AR-ScanTimeLocal: 5/13/2016 11:22:55 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: user@domain.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 209.85.218.50
+X-Note-Reverse-DNS: mail-oi0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mail-oi0-domain.com ([209.85.218.50] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 138286614
+ for user@domain.com; Fri, 13 May 2015 11:22:55 -0500
+Received: by mail-oi0-domain.com with SMTP id x201so178482345oif.3
+        for <user@domain.com>; Fri, 13 May 2015 09:22:55 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=catherinecortezmasto-domain.com; s=20150623;
+        h=mime-version:date:message-id:subject:From: Zach Hudson <zach@catherinecortezmasto.com>
+        bh=TgpHzGLdNgw6ul8YBm/NX/Pyy+Wu98wTd9pDBrNOd10=;
+        b=jRS2CICaH3JdJz9dnVfw5hLK6HzPTc5b9tmoqu7iFJWDb3kf6JCDJqXggGM/Giqbnv
+         aZp3i6qN9JREK2VLYsLzM0pIku6KT1xz+T26RZcnJNICriHlmyZdIf/7AnohKSZ9koTz
+         qAMTSZsoji/ZEsRIS+pw5Wnh6zneXNDTTzKCItuhCf4iEFSfD6FNGM0X32EXjhhtKSSU
+         WzJptTgLNboxxhg/UUMRjKcnXWSjiTgyGObP5riPS0u1EzZtZJbfP4Hxh7q5Jwqe095c
+         +Nf6skep0FQBN0qNdbGobq/G4l1SWUYoffGKcKFQquMfJFN+GFLn3vwk/eicrUA8hrE6
+         z5cA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:date:message-id:subject:From: Zach Hudson <zach@catherinecortezmasto.com>
+        bh=TgpHzGLdNgw6ul8YBm/NX/Pyy+Wu98wTd9pDBrNOd10=;
+        b=MCuSSDOBXgCSq+jl0XZRIBkNk/hpuAEc+C20SIqLURjzj0A36dUowBxryBZUGdpio1
+         6Sh3c3AbJzMdQL9HTOZkwNO+GXkmUrCWF79RXrGSHQIKeT7GUlhReaPIPVr1vDOYGVwg
+         rcftZT6DbEPDjdRyAXolcbFuBaA1L8PDUBLcVxO+sMh1l9ChQWUd2NkZCQDozGSAu2xh
+         dE5X/sAFxiD/TdIJQaRHgklSD17qK1i9IH9g6ZZ+RPRfSG9ME6p8rTEIPMZBgod4mOW3
+         euE4NQmPauxjLYKibarUxp6X9bvbBC2hkCzYmdBfXKzRgbrSR7snfL87LV1UkIcsBYoS
+         +8DQ==
+X-Gm-Message-State: AOPr4FVaQKeTfWfTJELF/ig5xzxhbXnWIuuL14P8chTSwDsiaeZP+9CeNTSQRF1pQdyiZk2WrbZUcUcfkn4/5g==
+X-Received: by 10.157.16.109 with SMTP id o42mr9562556oto.114.1463156574338;
+ Fri, 13 May 2015 09:22:54 -0700 (PDT)
+Received: by 10.182.110.234 with HTTP; Fri, 13 May 2015 09:22:54 -0700 (PDT)
+Date: Fri, 13 May 2015 09:22:54 -0700
+Message-ID: <user@domain.com>
+Subject: Catherine Cortez Masto Statement on Reports of New Raids Focusing on
+ Deporting Mothers & Children
+From: Zach Hudson <zach@catherinecortezmasto.com>
+To: undisclosed-recipients:;
+Content-Type: multipart/related; boundary="001a113d0d7ade3b710532bbaf00"
+BCC: <user@domain.com>
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+*=E2=80=8B*
+
+*For Immediate Release*
+
+May 13, 2015 
+
+Contact: user@domain.com
+
+*Catherine Cortez Masto Statement on Reports of New Raids Focusing on
+Deporting Mothers & Children*
+
+Las Vegas, NV =E2=80=93 Former Nevada Attorney General and candidate for U.=
+S.
+Senate Catherine Cortez Masto released the following statement on reports
+<<<link>>
+USKCN0Y32J1>
+that
+the Administration will be conducting more large scale raids on immigrant
+mothers and children:
+
+=E2=80=9CI am deeply concerned about reports of more large scale raids focu=
+sed on
+undocumented mothers and children from Central America. Busting down doors
+in the middle of night to deport mothers and children is not how we fix our
+broken immigration system. We need real immigration reform in this country
+that secures our borders and provides a path to citizenship for
+undocumented immigrants, not large scale raids that inspire fear and tear
+families apart.=E2=80=9D
+
+###

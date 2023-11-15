@@ -1,0 +1,540 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Mon, 26 Jan 2015 09:39:55 +0100
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id 7F810621AD;	Mon, 26 Jan 2015 
+ 08:19:36 +0000 (GMT)
+Received: by domain.com (Postfix)	id 496A22BC0F1; Mon, 26 Jan 2015 
+ 09:39:55 +0100 (CET)
+Delivered-To: user@domain.com
+Received: from EmadPC (unknown [192.168.1.196])	(using TLSv1 with cipher
+ AES256-SHA (256/256 bits))	(No client certificate requested)	by
+ domain.com (Postfix) with ESMTPSA id 324AD2BC03F;	Mon, 26 Jan 2015 
+ 09:39:55 +0100 (CET)
+From: Emad Shehata <e.shehata@hackingteam.com>
+To: 'Emad Shehata' <user@domain.com>, 'Simonetta Gallucci'
+	<user@domain.com>
+CC: 'amministrazione' <user@domain.com>
+References: <00ec01d03620$18cf8150$4a6e83f0$@user@domain.com> <user@domain.com>
+In-Reply-To: <user@domain.com>
+Subject: R: RE: RE: - Maintenance and domain.com Service 2015 
+Date: Mon, 26 Jan 2015 09:39:53 +0100
+Message-ID: <00b501d03943$a82e40e0$f88ac2a0$@user@domain.com>
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-index: AQHQNf8t47GBkKwqzUuxdA9K6CprVJzLls5AgAAEnFCAAAFSfYAADVDVgAApQXCAAADDMIAAAHnVgAZGW+A=
+Content-Language: it
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EMAD SHEHATA450
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1345765865_-_-"
+
+Ciao Simonetta, fammi poi sapere quando posso inoltrare la fattura al cliente per il pagamento. Inoltre come TERMS OF PAYMENT, ti chiedo la gentilezza di mettere:                   100% Advanced Payment  Grazie    Da: Emad Shehata [mailto:user@domain.com] 
+Inviato: giovedì 22 gennaio 2015 09:49
+A: Simonetta Gallucci
+Cc: amministrazione
+Oggetto: R: RE: RE: - Maintenance and domain.com Service 2015 Ok, pensavo di inoltrarla lunedi cosi ti porto anche i doc originali ed essere in linea con la policy 
+-- 
+Emad Shehata 
+Key Account Manager 
+
+Sent from my mobile.
+ Da: Simonetta Gallucci 
+Inviato: Thursday, January 22, 2015 12:47 PM
+A: Emad Shehata 
+Cc: amministrazione 
+Oggetto: RE: RE: - Maintenance and domain.com Service 2015 
+ Ciao Emad,  per favore tieni un attimo in stand-by la fattura prima di inviarla al cliente. Ti aggiorno prima possibile.  Grazie,  Simonetta Gallucci 
+Financial Controller 
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com 
+mobile: +39 3939310619
+phone: +39 0229060603 From: Emad Shehata <e.shehata@hackingteam.com>
+Sent: giovedì 22 gennaio 2015 09:45
+To: 'Emad Shehata'
+Cc: 'amministrazione'
+Subject: RE: RE: - Maintenance and domain.com Service 2015 Ciao Emad,  in allegato ns. invoice no. 003/2015. Attendo tua conferma per procedere con l’archiviazione.  Grazie,  Simonetta Gallucci 
+Financial Controller 
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com 
+mobile: +39 3939310619
+phone: +39 0229060603 From: Emad Shehata <e.shehata@hackingteam.com>
+Sent: giovedì 22 gennaio 2015 07:17
+To: Simonetta Gallucci
+Cc: amministrazione
+Subject: I: RE: - Maintenance and domain.com Service 2015 Bgiorno Simonetta,
+
+In allegato ordine e format per emissione fattura in merito alla manutenzione ed domain.com per cliente ORF.
+
+Potrai notare il periodo di riferimento della stessa nella ns proposal, ma ti informo che andremo a dare una manutenzione di 12 mesi dal giorno in cui upgradiamo il sistema ( primi di febbraio).
+
+In mio possesso ho Ns proposal ed EU statement timbrati e firmati.
+
+A disposizione
+
+Saluti
+
+-- 
+Emad Shehata 
+Key Account Manager 
+
+Sent from my mobile.
+ Da: Emad Shehata 
+Inviato: Thursday, January 22, 2015 09:29 AM
+A: 'user@domain.com' <user@domain.com> 
+Cc: Marco Bettini; Giancarlo Russo 
+Oggetto: R: RE: - Maintenance and domain.com Service 2015 
+ Dear Said,
+
+1) Got the papers a few second before.
+2) Ok well noted
+
+Once I will came back Italy I will e-mail you.
+
+Best regards 
+-- 
+Emad Shehata 
+Key Account Manager 
+
+Sent from my mobile.
+ Da: SAID AL WAHIBI [mailto:user@domain.com] 
+Inviato: Thursday, January 22, 2015 09:26 AM
+A: Emad Shehata 
+Oggetto: RE: - Maintenance and domain.com Service 2015 
+ Dear  1- Our Person is looking for you in the lobby 2- No remote update !! RegardsFrom: Emad Shehata <e.shehata@hackingteam.com>
+Sent: Thursday, January 22, 2015 9:08 AM
+To: SAID AL WAHIBI
+Cc: Giancarlo Russo; Marco Bettini
+Subject: R: - Maintenance and domain.com Service 2015Dear Said,
+Thanks for your e-mail.
+
+I'm right now in the lobby and not have the papers ( my room number is 538).
+
+About your concerns:
+
+Points:
+
+1) as a company and empoyee all the information between us is confidential
+
+2)In c.c. you will find our Sales Manage ( Marco Bettini) and Giancarlo Russo ( Our Coo).
+
+3) Ok agree. If you are agree we can manage an update of the system remotely ( as per the suggestion of your eng. in my last domain.com). 
+
+4) Well noted.
+
+Best regards
+
+-- 
+Emad Shehata 
+Key Account Manager 
+
+Sent from my mobile.
+ Da: SAID AL WAHIBI [mailto:user@domain.com] 
+Inviato: Thursday, January 22, 2015 08:53 AM
+A: Emad Shehata 
+Oggetto: - Maintenance and domain.com Service 2015 
+ Dear Emad 1. I wanted to remind you that the papers that have been delivered to you is confidential and any leaking of them to unauthorized persons may expose to legal issue. 2- A graciously if possible send me  Emile of responsible person in your company. 3- On the other hand, have lost a month (January) of the contract value in things complicated, is it possible to start from the contract from the beginning February 2015 to the end of January 2016. 4-at the end, there is a serious thought to evaluation our relationship. Best Regards and safe journey SaidFrom: Emad Shehata <e.shehata@hackingteam.com>
+Sent: Wednesday, January 21, 2015 2:32 PM
+To: SAID AL WAHIBI
+Cc: rsales
+Subject: R: Re: R: RE: RE: RE: Renewal- Maintenance and domain.com Service 2015Dear Said,
+
+Well Noted and thanks
+
+Best regards
+
+-- 
+Emad Shehata 
+Key Account Manager 
+
+Sent from my mobile.
+ Da: Said Alwahaibi [mailto:user@domain.com] 
+Inviato: Wednesday, January 21, 2015 11:28 AM
+A: Emad Shehata 
+Oggetto: Re: R: RE: RE: RE: Renewal- Maintenance and domain.com Service 2015 
+ Dear Emad Someone will deliver the papers to you morning at the lobby at 9 am Regards. Sent from my Samsung device
+
+-------- Original message --------
+From: Emad Shehata <e.shehata@hackingteam.com>
+Date: 21/01/2015 12:32 (GMT+04:00) 
+To: "User" <user@domain.com> 
+Cc: rsales <user@domain.com> 
+Subject: R: RE: RE: RE: Renewal- Maintenance and domain.com Service 2015 
+
+Dear Said,
+
+I would like to confirm you that the Hotel will be Park Inn:
+
+Sultan Qaboos Street Al
+Khuwair, Muscat PC 133, Oman.
+
+I will check inn late tonight and check out late night of Thursday.
+
+Best regards
+
+--
+Emad Shehata
+Key Account Manager
+
+Sent from my mobile.
+
+----- Messaggio originale -----
+Da: Emad Shehata
+Inviato: Tuesday, January 20, 2015 12:44 PM
+A: Emad Shehata; 'SAID AL WAHIBI' <user@domain.com>
+Cc: rsales
+Oggetto: R: RE: RE: RE: Renewal- Maintenance and domain.com Service 2015
+
+Dear Said, 
+
+I would like to confirm you that I will be in Muscat on Thursday ( 22
+January 2015).
+
+About the Hotel we don't find any availability for the Radisson Blu.
+
+We are planning to book at Park Inn Hotel, address: Sultan Qaboos Street Al
+Khuwair, Muscat PC 133, Oman.
+We will confirm you asap.
+
+Best regards
+
+-----Messaggio originale-----
+Da: Emad Shehata [mailto:user@domain.com] 
+Inviato: lunedì 19 gennaio 2015 10:54
+A: 'SAID AL WAHIBI'
+Cc: 'rsales'
+Oggetto: R: RE: RE: RE: Renewal- Maintenance and domain.com Service 2015
+
+Dear Said,
+thanks for your fast response.
+
+This is means that you already sign and stamp the Proposal and EU Statement.
+
+I will let you know about the hotel, I tried to manage to reserve the same
+one as last time.
+
+Best regards
+
+-----Messaggio originale-----
+Da: SAID AL WAHIBI [mailto:user@domain.com]
+Inviato: lunedì 19 gennaio 2015 10:44
+A: Emad Shehata
+Oggetto: RE: RE: RE: RE: Renewal- Maintenance and domain.com Service 2015
+
+Dear Emad 
+
+No meeting will be held on Thursday because we believe there is no use of
+the meeting, we will deliver the papers in your  hotel.
+
+Regards
+Said alwahaibi
+________________________________________
+From: Emad Shehata <e.shehata@hackingteam.com>
+Sent: Monday, January 19, 2015 11:38 AM
+To: SAID AL WAHIBI
+Cc: rsales
+Subject: R: RE: RE: RE: Renewal- Maintenance and domain.com Service 2015
+
+Dear Said,
+
+Would you be so kind and let me know if you can confirm the domain.com on
+Thursday to get the docs signed?
+
+Thanks for your cooperation.
+Best regards
+--
+Emad Shehata
+Key Account Manager
+
+Sent from my mobile.
+
+----- Messaggio originale -----
+Da: Emad Shehata
+Inviato: Thursday, January 15, 2015 09:31 AM
+A: user@domain.com <user@domain.com>
+Cc: rsales
+Oggetto: R: RE: RE: RE: Renewal- Maintenance and domain.com Service 2015
+
+Dear Said,
+please find attached the proposal and Eu Statement.
+
+Looking for your meeting confirmation for next week to collect the docs and
+confirmed our tech activity.
+Password is the same one as the old ones
+
+Best regards
+
+-----Messaggio originale-----
+Da: Emad Shehata [mailto:user@domain.com]
+Inviato: giovedì 15 gennaio 2015 07:06
+A: 'user@domain.com'
+Cc: rsales
+Oggetto: R: RE: RE: RE: Renewal- Maintenance and domain.com Service 2015
+
+Dear Said,
+Thanks for your e-mail
+
+About the point 1 and 2 I will revised it and revert to you within 7/8
+hours. I'm our of my station at the moment.
+
+Point 3 is your purchase order number, if it's available, otherwise don't
+consider it.
+
+I can imagine Said that became annoying and not fast as it has to be, but
+please kindly be patient a while.
+
+Warmest regards
+
+--
+Emad Shehata
+Key Account Manager
+
+Sent from my mobile.
+
+----- Messaggio originale -----
+Da: SAID AL WAHIBI [mailto:user@domain.com]
+Inviato: Thursday, January 15, 2015 05:11 AM
+A: Emad Shehata
+Oggetto: RE: RE: RE: Renewal- Maintenance and domain.com Service 2015
+
+Dear Emad
+
+We have some issues with the EU statements and your proposal
+
+1- The proposal in the term and condition said "we accepts to purchase the
+solution as above reported for a price of Euro 130.000,00."  the right is we
+accepts to purchase on Euro 100.000,00.
+2- EU STATEMENT also have amount of  130.000,00. and it should be 100.000,00
+3- and what is the order number??
+
+Actually the renewal become annoying.
+
+BR
+
+SAID
+
+________________________________________
+From: Emad Shehata <e.shehata@hackingteam.com>
+Sent: Wednesday, January 14, 2015 12:52 PM
+To: SAID AL WAHIBI
+Cc: rsales
+Subject: R: RE: RE: Renewal- Maintenance and domain.com Service 2015
+
+Dear Said,
+Thanks for your e-mail.
+
+Starting from the 1/1/2015, new regulations require to obtain the Export
+Authorization before delivery any product/service; that's why we are not
+allowed to send our engineer without the authorization. The EU Statement
+signed and stamp is the document needed to require the authorization..
+
+During my last domain.com, I promised to come and take it by hand since you
+showed me your fear that your identities can be discover based on the last
+leakage of FF, but unlikely I was not aware of the rules modifications.
+
+Keeping in consideration your concerns and in order to speed up the process,
+I'm available to come to Oman one day next week (Thursday 22nd), take the
+docs by hands and arrange the system upgrade.
+
+Please let me know if this date is suitable for you.
+
+Hoping you can appreciate my effort
+
+Best regards
+
+--
+Emad Shehata
+Key Account Manager
+
+Sent from my mobile.
+
+----- Messaggio originale -----
+Da: SAID AL WAHIBI [mailto:user@domain.com]
+Inviato: Wednesday, January 14, 2015 07:07 AM
+A: Emad Shehata
+Oggetto: RE: RE: Renewal- Maintenance and domain.com Service 2015
+
+Dear Emad
+
+Again this is not what you said last time, you promise us to come and update
+the system and take the EU statement with you. In all cases, I can not send
+you the document by fax or by any media. Must be delivered by hand.
+To be clear i believe we have the right to upgrade because it coverd by to
+the previous year contract, and you insist to have the EU statement (which
+is for the new contract) before any upgrade (Due from last year).
+
+finally, we are ready to sign the contract , and ready to upgrade. and ready
+to supply you with EU statement.
+
+Best Regards
+Said alwahaibi
+
+________________________________________
+From: Emad Shehata <e.shehata@hackingteam.com>
+Sent: Tuesday, January 13, 2015 9:00 PM
+To: SAID AL WAHIBI
+Cc: 'rsales'
+Subject: I: RE: Renewal- Maintenance and domain.com Service 2015
+
+Dear Said,
+thanks for your e-mail.
+
+As anticipate in our last meeting, due to the New European Export
+Regulations with effect from 01 January 2015, we need to have the EU
+Statement stamp and signed by the government agency that uses our solution
+before sending any software or perform any activity.
+
+For this reason we need to received the EU Statement and our Commercial
+Proposal duly sign and stamp, because without those documents we are not
+authorize to send any technician.
+In order to avoid any risk, we would suggest you to send those documents by
+Fax or through an encrypted channel ( i.e. skype).
+
+Looking forward to hear from you.
+
+Best regards
+
+Emad Shehata
+Key Account Manager
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com
+mobile: +39 3357939078
+phone: +39 0229060603
+
+-----Messaggio originale-----
+Da: SAID AL WAHIBI [mailto:user@domain.com]
+Inviato: martedì 13 gennaio 2015 10:57
+A: Emad Shehata
+Oggetto: RE: RE: Renewal- Maintenance and domain.com Service 2015
+
+Dear Emad
+
+I will not get into an argument ...
+
+and we agreed on previous  email for the domain.com of the Thch. on 27th - 28th
+and please don't link the upgrade domain.com with the renewal contract because
+the upgrade is our rights because of last year contract.
+
+Generally Please send us your invoice and payment procedures and we will
+sign the contract and deliver it to the Technical person hand by hand.
+
+Best Regards
+SAID alwahaibi
+
+________________________________________
+From: Emad Shehata <e.shehata@hackingteam.com>
+Sent: Monday, January 12, 2015 1:52 PM
+To: SAID AL WAHIBI
+Subject: I: RE: Renewal- Maintenance and domain.com Service 2015
+
+Dear Said,
+thanks for your e-mail.
+
+Please don't take our communication as a restricted agreement, it's not our
+way of working.
+Once we spoke about the extension of 3 months we were suppose to have the
+discount of 10%. Since we notice that for you it will be better to have a
+higher discount, around 25%, we are not in position to gave to you other
+extensions. We gave to you N°2 Option that allow you to decide which one it
+will be better works with you.
+We tried to have a look on your request to have as well the 3 moths
+extension, but regrettably it's not feasible.
+
+Hope that you can understand our position. My domain.com to you was to increase
+our relationship and gave to you the much support as we can. Also kindly
+note that we need to have the End User Statement stamp and signed from your
+part, and as per your request, it will be available and gave to us only by
+hand.
+
+Having said that if you decide to have only the Tech. person for the update
+and not speak about the NIA and not meet me as well, we accept it.
+Please kindly note that we can confirm the domain.com after having the Contract
+signed and payment from your part.
+
+We are confident that you can recognize our effort and we remain at your
+completely disposal.
+Best regards
+
+Emad Shehata
+Key Account Manager
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com
+mobile: +39 3357939078
+phone: +39 0229060603
+
+----- Messaggio originale -----
+Da: SAID AL WAHIBI [mailto:user@domain.com]
+Inviato: Monday, January 12, 2015 08:18 AM
+A: Emad Shehata
+Oggetto: RE: Renewal- Maintenance and domain.com Service 2015
+
+Dear Emad
+
+It is noticeable that you do not want to talk about your promise to extend
+the contract until the month of March 2015 at a price of 100,000.
+
+Here's  following:
+1. We agree on the price of 100,000 start from January 2015 to the end of
+December 2015.
+2. your domain.com have been canceled.
+3. kindly send the technician to update the system (only the technician) at
+the same agreed date.
+4. we will not discuss any further subject during the technician domain.com.
+
+Regards
+Said alwahaibi
+________________________________________
+From: Emad Shehata <e.shehata@hackingteam.com>
+Sent: Sunday, January 11, 2015 1:37 PM
+To: SAID AL WAHIBI
+Subject: R: Renewal- Maintenance and domain.com Service 2015
+
+Dear Said,
+Thanks for your response.
+
+For the period of Jan 2015-March 2015 can be allowed by a total price of
+euro 117.000. Otherwise Jan 2015-Jan 2015 with the total price of euro
+100.000.
+
+Best regards
+
+--
+Emad Shehata
+Key Account Manager
+
+Sent from my mobile.
+
+----- Messaggio originale -----
+Da: SAID AL WAHIBI [mailto:user@domain.com]
+Inviato: Sunday, January 11, 2015 10:07 AM
+A: Emad Shehata
+Oggetto: Renewal- Maintenance and domain.com Service 2015
+
+Dear Emad
+
+I waiting for your answer , because i already send the proposal to the
+committee as it is from Jan 2015 - March 2016
+
+Regards
+Said alwahaibi
+

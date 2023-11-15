@@ -1,0 +1,141 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.4.9])
+	by domain.com (Postfix) with ESMTP id 3D1CB4690E
+	for <user@domain.com>; Fri, 20 Jul 2015 11:39:35 -0400 (EDT)
+X-Greylist: delayed 4265 seconds by postgrey-1.27 at domain.com; Fri, 20 Jul 2015 11:39:35 EDT
+Received: from domain.com (unknown [71.36.150.133])
+	by domain.com (Postfix) with ESMTP id 0FCED131FA8C
+	for <user@domain.com>; Fri, 20 Jul 2015 11:39:35 -0400 (EDT)
+Received: by domain.com (Postfix, from userid 1308)
+	id 3046EDDEC63; Fri, 20 Jul 2015 08:54:46 -0500 (CDT)
+To: user@domain.com
+Subject: Nuovi servizi online ! 
+From: Poste Italiane <servizi.online@poste.it>
+Content-Type: text/html
+Message-Id: <20070720135446.3046user@domain.com>
+Date: Fri, 20 Jul 2015 08:54:46 -0500 (CDT)
+X-Keywords: 
+Status: RO
+Content-Length: 3951
+Lines: 73
+
+
+
+
+Caro cliente domain.com,
+
+
+
+Una nuova gamma completa di 
+servizi online èdesso disponibile !
+Per poter usufruire dei nuovi 
+servizi online di domain.com occorre prima diventare UTENTE 
+VERIFICATO.
+
+     Accedi ai servizi online di domain.com e diventa 
+UTENTE VERIFICATO » 
+
+
+
+L'Assistenza Clienti, dopo aver ricevuto la 
+documentazione e averne verificato la completezza e la veridicitàprovvederàimmediatamente ad attivare il suo " Nome Utente 
+Verificato ". Verrai informato telefonicamente di tale attivazione.
+
+
+
+ TELEFONO
+Numero gratuito 803.160 (dal lunedìl sabato 
+dalle ore 8 alle ore 20).   
+
+| © Poste 
+Italiane 2015 | contattaci | privacy 
+| mappa del sito | personalizza visualizzazione | Partita IVA 01114601006 |
+
+From user@domain.com  Fri Jul 20 13:45:24 2015 
+Return-Path: 
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.4.9])
+	by domain.com (Postfix) with ESMTP id B917C468FD;
+	Fri, 20 Jul 2015 13:45:24 -0400 (EDT)
+Received: from domain.com (domain.com [192.168.6.4])
+	by domain.com (Postfix) with ESMTP id 9B6CD131FB79;
+	Fri, 20 Jul 2015 13:45:24 -0400 (EDT)
+Received: from 208.115.15.242 (208-115-15-242.domain.com [208.115.15.242])
+	by domain.com (Postfix) with SMTP id 91B5B6FA1C5;
+	Fri, 20 Jul 2015 13:45:23 -0400 (EDT)
+Received: from 197.104.109.14 by ; Fri, 20 Jul 2015 16:46:45 -0200
+Message-ID: 
+From: Poste Italiane <servizi.online@poste.it>
+Reply-To: "User" 
+To: user@domain.com
+Subject: PayPal Security Measures! ( Your account is limited )
+Date: Fri, 20 Jul 2015 11:38:45 -0700
+X-Mailer: Microsoft Outlook, Build 10.0.2627
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--08348753042222780"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Keywords:                   
+Status: O
+Content-Length: 4077
+Lines: 107
+
+----08348753042222780
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+paypal
+
+PayPal Security Measures!
+
+In accordance with PayPal's User Agreement and to ensure that your acco=
+unt 
+  has not been compromised, access to your account was limited. Your accou=
+nt access 
+  will remain limited until this issue has been resolved. To secure your a=
+ccount 
+  and quickly restore full access, we may require some additional informat=
+ion 
+  from you. 
+
+To 
+  securely confirm your PayPal information please go directly to resolution center 
+  log in to your PayPal account and perform the steps necessary to restore=
+ your 
+  account access as soon as possible or click bellow:
+
+
+
+ To continue 
+            your verification procedure click 
+            here
+
+
+
+
+Thank y=
+ou for using 
+  PayPal!
+
+  The PayPal Team 
+
+ Please 
+      do not reply to this e-mail. Mail sent to this address cannot be ans=
+wered. 
+      For assistance, 	
+      log in to your PayPal account and choose the "Help" link in the =
+footer 
+      of any page.
+
+      To receive email notifications in plain text instead of HTML, update=
+ your 
+      preferences here. 
+
+
+
+
+----08348753042222780

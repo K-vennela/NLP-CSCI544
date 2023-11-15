@@ -1,0 +1,54 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id 3E4F3468DF
+	for <user@domain.com>; Mon,  3 Sep 2015 10:20:13 -0400 (EDT)
+Received: from domain.com (domain.com [204.181.64.8])
+	by domain.com (Postfix) with ESMTP id 6BA19131FD24
+	for <user@domain.com>; Mon,  3 Sep 2015 10:20:13 -0400 (EDT)
+Received: from domain.com (domain.com [67.153.207.82])
+	by domain.com (Postfix) with ESMTP id 61CB06FA1C4
+	for <user@domain.com>; Mon,  3 Sep 2015 10:20:13 -0400 (EDT)
+Received: from User ([89.39.237.83]) by domain.com with Microsoft SMTPSVC(6.0.3790.211);
+	 Mon, 3 Sep 2015 08:22:54 -0500
+Reply-To: <user@domain.com>
+From: "Downey Savings Bank"<online@email-downeysavings.com>
+Subject: Protect your personal information !
+Date: Mon, 3 Sep 2015 16:19:09 +0300
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <user@domain.com>
+X-OriginalArrivalTime: 03 Sep 2015 13:22:55.0156 (UTC) FILETIME=[89862F40:01C7EE2D]
+To: undisclosed-recipients:;
+Content-Length: 1654
+Lines: 28
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 94
+
+CONSUMER ALERT: 
+
+Recently, some Downey Savings customers have received fraudulent e-mails requesting confidential personal information. These e-mails may appear to be authentic but Downey Savings will never ask you for confidential information  passwords, Social Security numbers, account numbers, etc.  via e-mail. Please report any suspicious e-mail to user@domain.com and then, delete it.
+
+For more information on how to protect your personal information, click on the link below:
+
+<<link>>
+
+This
+instruction has been sent to all bank customers and is obligatory to
+fallow.
+
+Thank
+you,
+
+Customers
+Support Service.
+

@@ -1,0 +1,42 @@
+Hey Tom, thanks for checking w/ me on this. Re, Moberg: Yes, in fact we (me, Phil, Tim,
+Keith, Caspar, etc.) submitted a comment to Nature about the problem w/ the variance
+scaling used by Moberg. It can easily be shown to inflate the low- frequency variance in
+synthetic experiments. I've attached both the original comment (which they judged to be too
+technical to merit publication) and also a J. Climate paper where we discussed the same
+result (see Figure 5 and associated discussion). Re, Von Storch et al. Yes, the paper you
+have in mind is Osborn et al Climate Dynamics '06. I only seem to have the preprint though
+(attached), please let me know if I can be of any further help w/ an of this, mike p.s. you
+can delete the U.Va email address--haven't been there for 4 years! On Sep 22, 2009, at
+10:31 AM, Tom Wigley wrote: > Dear all, > > (Apologies Mike for email address confusion --
+one of them will > get you I hope.) > > I need some help to finish a report I've had to
+write for EPRI -- > which is due in a few days. Hence the questions below ... > > (1) The
+Moberg paper (2005 Nature) is used by the skeptics as evidence > that most of recent
+warming could still be natural. Has anyone > published a critique/criticism of this? It
+seems to me take this > work is fundamentally flawed. First, variance scaling is crap >
+statistics as it produces results with far less explained variance > than normal
+least-squares regression. Second, the paper seems to > have no independent validation.
+Third, what happens if one just takes > his low-frequency (numbered in his Fig. 1) points
+and calculates > the area average? Surely this will have much greater variability > than
+the full global mean? (If no-one has done this please let me > know -- I can do it very
+easily myself.) But perhaps his scaling > method circumvents this "problem"? > > (2) What
+is the paper of Caspar's (with Doug Nychka) that shows > that McIntyre is wrong? Are there
+other papers I should see/cite > in this regard? > > (3) What are the papers that explain
+what is wrong with the von > Storch ECHO simulation? I think Tim Osborn did something on
+this. > > Many thanks for your help, > Tom. > -- Michael E. Mann Professor Director, Earth
+System Science Center (ESSC) Department of Meteorology Phone: (814) 863-4075 503 Walker
+Building FAX: (814) 865-3663 The Pennsylvania State University email: user@domain.com
+University Park, PA 16802-5013 website: <<link>>~mann/Mann/index.html
+"Dire Predictions" book site:
+<<link>> Hey Tom,
+thanks for checking w/ me on this.
+Re, Moberg: Yes, in fact we (me, Phil, Tim, Keith, Caspar, etc.) submitted a comment to
+Nature about the problem w/ the variance scaling used by Moberg. It can easily be shown to
+inflate the low-frequency variance in synthetic experiments.
+I've attached both the original  comment (which they judged to be too technical to merit
+publication) and also a J. Climate paper where we discussed the same result (see Figure 5
+and associated discussion).
+Re, Von Storch et al. Yes, the paper you have in mind is Osborn et al Climate Dynamics '06.
+I only seem to have the preprint though (attached),
+please let me know if I can be of any further help w/ an of this,
+mike
+p.s. you can delete the U.Va email address--haven't been there for 4 years!

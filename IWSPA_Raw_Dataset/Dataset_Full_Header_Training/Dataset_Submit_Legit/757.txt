@@ -1,0 +1,123 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 3 May
+ 2015 11:15:26 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 3 May 2015 
+ 11:15:21 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 893555699;
+ Tue, 03 May 2015 10:15:15 -0500
+X-Note-AR-ScanTimeLocal: 5/3/2016 10:15:12 AM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: Too many policies to list
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @who.eop.gov ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->->PRIVATE->United States->
+X-Note-Sending-IP: 214.3.140.16
+X-Note-Reverse-DNS: eve.whmo.mil
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from [214.3.140.16] (HELO Gladiator.whca.mil)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 136296665;
+ Tue, 03 May 2015 10:15:11 -0500
+Received: from CN399Exch3.whca.mil (cn399exch3.whca.mil [10.75.26.103])	by
+ Gladiator.whca.mil with ESMTP id u43FDndX017581;	Tue, 3 May 2015 11:13:49
+ -0400 (EDT)
+Received: from CN399Exch3.whca.mil (10.75.26.103) by CN399Exch3.whca.mil
+ (10.75.26.103) with Microsoft SMTP Server (TLS) id 15.0.1130.7; Tue, 3 May
+ 2015 11:11:48 -0400
+Received: from CN399Exch3.whca.mil ([10.75.26.103]) by CN399Exch3.whca.mil
+ ([10.75.26.103]) with mapi id 15.00.1130.005; Tue, 3 May 2015 11:11:48 -0400
+From: "Cunnane, Pat EOP/WHO" <Patrick_Cunnane@who.eop.gov>
+To: "User" <user@domain.com>
+Subject: Daily Message Points -- May 3, 2015 
+Thread-Topic: Daily Message Points -- May 3, 2015 
+Thread-Index: AdGlTDu0VHinZ67OTKma/+Ss1A2iNA==
+Date: Tue, 3 May 2015 15:11:47 +0000
+Message-ID: <2user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-ms-exchange-transport-fromentityheader: Hosted
+x-originating-ip: [10.75.20.202]
+Content-Type: multipart/alternative;
+	boundary="_000_2a282f8dd5eb438f828c167d9f3d69e5CN399Exch3whcamil_"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Daily Message Points
+
+May 3, 2015 
+
+President Obama Celebrates Great Teachers and Our Nation's Educational Prog=
+ress
+
+*         Today, on National Teacher Appreciation Day and building on annou=
+ncements made over the past week, the President will honor the National Tea=
+cher of the Year and celebrate the remarkable educators across the country =
+who have helped us achieve extraordinary progress over the past seven and a=
+ half years.
+
+*         From day one, President Obama has recognized that America's futur=
+e is written in our classrooms, and that our teachers and educators deserve=
+ our support.
+
+*         That's why, throughout his Administration, the President has not =
+only supported our educators, but also promoted a bold vision for improving=
+ our education system to give all students the fair chance they deserve.
+
+*         And, as outlined in a new White House and Department of Education=
+ Report, we've made real progress:
+
+o   Reducing the number of dropouts.
+
+o   Raising the graduation rate to all-time highs.
+
+o   Raising academic standards to prepare students for college and career i=
+n nearly every state.
+
+o   Expanding the availability of high-quality preschool and digitally conn=
+ecting America's classrooms.
+
+*         Today, the White House will underscore the change underway in Ame=
+rica's schools, especially at the preschool, elementary and high-school lev=
+els, and announce progress toward reaching the President's goal of preparin=
+g an additional 100,000 science, technology, engineering and mathematics (S=
+TEM) teachers for America's classrooms by 2021.
+
+*         The White House is also highlighting new efforts to support great=
+ educators:
+
+o   TEACH - a public-private collaboration led by the U.S. Department of Ed=
+ucation and Microsoft, with support from organizations including Facebook, =
+College Football Playoff Foundation and MyCollege Options - will launch new=
+ commitments to attract a strong teacher workforce.
+
+o   The Department of Education will collaborate with the ASCD, the Nationa=
+l Board for Professional Teaching Standards, The Leona M. and Harry B. Helm=
+sley Foundation Charitable Trust, and Carnegie Corporation of New York in t=
+heir work to support teacher-led initiatives that strengthen teachers' prof=
+essional learning and improve student outcomes.
+
+o   And organizations like Spotify and the College Football Playoff Foundat=
+ion will launch new efforts to support and encourage great teaching.
+
+###
+

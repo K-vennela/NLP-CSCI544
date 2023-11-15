@@ -1,0 +1,118 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 18 May
+ 2015 12:31:18 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 18 May 2015 
+ 12:31:16 -0400
+Received: from [10.87.0.110] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 922056238
+ for user@domain.com; Wed, 18 May 2015 11:31:25 -0500
+X-Note-AR-ScanTimeLocal: 5/18/2016 11:31:14 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:193.109.254.114 DOM:mailonline.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note: ICH-CT/SI:0-1564/SG:2 5/18/2016 11:30:54 AM
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-610/SG:10 5/18/2016 11:30:56 AM
+X-GBUdb-Analysis: 0, 193.109.254.114, Ugly c=0.563919 p=-1 Source Normal
+X-Signature-Violations: 0-0-0-22914-c
+X-Note-419: 31.2528 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/18/2016 11:30:58 AM
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->->United Kingdom->United Kingdom->
+X-Note-Sending-IP: 193.109.254.114
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G407 G419 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from [193.109.254.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 142542792
+ for user@domain.com; Wed, 18 May 2015 11:31:12 -0500
+Return-Path: <user@domain.com>
+Received: from [194.106.220.35] by server-10.bemta-14.domain.com id
+ 9A/C9-02972-FC89C375; Wed, 18 May 2015 16:31:11 +0000
+X-Brightmail-Tracker: H4sIAAAAAAAAA+NgFrrLKsWRWlGSWpSXmKPExsVy+NXnAt3zM2z
+  CDT5M4LP4uonfgdFjx7+JrAGMUayZeUn5FQmsGSdOfmArOFxcsfJyA3MD46W8LkZODiGBy4wS
+  k3pVQWw2ARuJi7+OsYLYIgJqEm8+72MDsYUFFCQO/n4LFVeVOLPjLDuErSfx6+98ZhCbBSi+q
+  2MiWD2vQITEn3WrwOoZBWQlHq38BVbPLCAucevJfCYQW0JAROLhxdNsELaoxMvH/1ghbCWJd7
+  suAdVwAdV3Mkq8/L2THWKooMTJmU9YJjDyz0IyaxayullI6iCK8iS+PP3DCGHrSCzY/YkNwta
+  WWLbwNTOMfebAYyZMcR2J39+6oOoVJW5fncoKsWwxo8S3nc+AEhxgRe0NzDA1U7ofssP0ztx5
+  gwUmfvzoVaj5QL1Pv7jC1Bz7dZ4dWe8CRqFVjOrFqUVlqUW6FnpJRZnpGSW5iZk5uoaGJnq5q
+  cXFiempOYlJxXrJ+bmbGIHRzgAEOxg3TnI+xCjJwaQkyntxkk24EF9SfkplRmJxRnxRaU5q8S
+  FGGQ4OJQneu9OBcoJFqempFWmZOcC0A5OW4OBREuF9BpLmLS5IzC3OTIdInWJUlBLnlQEmKyE
+  BkERGaR5cGyzVXWKUlRLmZQQ6RIinILUoN7MEVf4VozgHo5Iw7xuQ8TyZeSVw018BLWYCWnxL
+  DGxxSSJCSqqBsTjBQurnq2YlxlnZmfe3tGzeGG3LXFqbfIz784IJctua758OC9wqGPYsuqvlk
+  9SeJW4uGxu7zwvaMk6dcWPVB2be4jU1p1fzsFV/+670W2Fv0ATBuukT211+BD1iOsqwSIq54Z
+  vkplXPjU/YP7ibosHXlpFmoa0fbjxx73vvM2ZKOqcM/yzVUWIpzkg01GIuKk4EALXqCU1wAwA
+  A
+X-Env-Sender: user@domain.com
+X-Msg-Ref: server-9.tower-91.domain.com!1463589071!27288300!1
+X-Originating-IP: [195.234.243.112]
+X-StarScan-Received: 
+X-StarScan-Version: 8.34; banners=mailonline.com,-,-
+X-VirusChecked: Checked
+Received: (qmail 10828 invoked from network); 18 May 2015 16:31:11 -0000
+Received: from s3.associated.co.uk (HELO HSK-EXN-W08P-domain.com)
+ (195.234.243.112)  by server-9.tower-91.domain.com with SMTP; 18 May
+ 2015 16:31:11 -0000
+Received: from HSK-EXN-W06P-domain.com ([fe80::14cb:3bdb:e9a1:6119])
+ by HSK-EXN-W08P-domain.com ([fe80::91ea:57c9:5934:1130%20]) with
+ mapi id 14.03.0266.001; Wed, 18 May 2015 17:31:10 +0100
+From: Francesca Chambers <Francesca.Chambers@mailonline.com>
+To: "User" <user@domain.com>
+Subject: Last Democratic debate?
+Thread-Topic: Last Democratic debate?
+Thread-Index: AdGxIn6wYSUCFiiGRFGsoY+I7WzTrg==
+Date: Wed, 18 May 2015 16:31:09 +0000
+Message-ID: <4301592user@domain.com>
+Accept-Language: en-US, en-GB
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+x-originating-ip: [10.151.101.248]
+Content-Type: multipart/related;
+	boundary="_005_4301592D1CE41C43985ABBCCC0232B42B411E04CHSKEXNW06PPcorp_";
+	type="multipart/alternative"
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Hi User,
+
+I'm doing a piece on the last Democratic debate, the one that is supposed =
+to be in CA, but nothing is on the books for.
+
+Where does that process stand? Will there be a final debate as the parties=
+ involved agreed to?
+
+Anything you can tell me on the record or on background would be helpful. =
+Thanks.
+
+Francesca Chambers
+White House Correspondent
+
+Daily Mail | 51 Astor Place, 9th Floor, New York, NY 10003
+
+[cid:C0FFDDA4-A7B5-4A83-82B0-6D14B1369EE4]
+[cid:1B9B73EA-D6E8-4333-8EAD-98E24A75B563]
+M: +1 913 755 8280
+E: user@domain.com<mailto:user@domain.com=
+com>
+
+______________________________________________________________________
+This e-mail and any attached files are intended for the named addressee on=
+ly. It contains information, which may be confidential and legally privile=
+ged and also protected by copyright. Unless you are the named addressee (o=
+r authorised to receive for the addressee) you may not copy or use it, or =
+disclose it to anyone else. If you received it in error please notify the =
+sender immediately and then delete it from your system.=20
+Associated Newspapers Ltd. Registered Office: Northcliffe House, 2 Derry S=
+t, Kensington, London, W8 5TT. Registered No 84121 England.

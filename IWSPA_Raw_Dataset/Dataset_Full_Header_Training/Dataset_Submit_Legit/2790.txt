@@ -1,0 +1,34 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Mon, 15 Sep 2015 08:52:15 +0200
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id 8644260033	for
+ <user@domain.com>; Mon, 15 Sep 2015 07:36:44 +0100 (BST)
+Received: by domain.com (Postfix)	id 3752FB6603E; Mon, 15 Sep 2015 
+ 08:52:15 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from [172.20.20.170] (unknown [172.20.20.170])	(using TLSv1 with
+ cipher DHE-RSA-AES128-SHA (128/128 bits))	(No client certificate requested)
+	by domain.com (Postfix) with ESMTPSA id 2F309B6603C	for
+ <user@domain.com>; Mon, 15 Sep 2015 08:52:15 +0200 (CEST)
+Message-ID: <54168user@domain.com>
+Date: Mon, 15 Sep 2015 08:52:15 +0200
+From: Antonio Mazzeo <a.mazzeo@hackingteam.com>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+To: Alberto Ornaghi <user@domain.com>
+Subject: Re: WikiLeaks - SpyFiles 4
+References: <user@domain.com>
+In-Reply-To: <user@domain.com>
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=ANTONIO MAZZEO195
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1267958284_-_-"
+
+    la mia backdoor finfisher non e' mai listata! hehehe
+
+On 15/09/2014 08:17, Alberto Ornaghi

@@ -1,0 +1,56 @@
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ DNCHUBCAS1.dnc.org ([fe80::ac16:e03c:a689:8203%11]) with mapi id
+ 14.03.0224.002; Tue, 3 May 2015 11:45:54 -0400
+From: "Walker, Eric" <WalkerE@dnc.org>
+To: "User" <user@domain.com>
+Subject: RE: New Comms template
+Thread-Topic: New Comms template
+Thread-Index: AQHRpJC0zgmNlIOHo06sAVac+VgXRJ+nWBuwgABHkYA=
+Date: Tue, 3 May 2015 08:45:53 -0700
+Message-ID: <2user@domain.com>
+References: <2user@domain.com>
+ <399user@domain.com>
+ <05user@domain.com>
+In-Reply-To: <05user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: DNCHUBCAS1.dnc.org
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.177.110]
+Content-Type: multipart/related;
+	boundary="_004_2AE4202A723DAE418719D2AC271C35F36EFA3983dncdag1dncorg_";
+	type="multipart/alternative"
+MIME-Version: 1.0
+
+Thanks Walter - need this by noon tomorrow so I have time to review and get to the chair's team. Thanks.
+
+From: "Walker, Eric" <WalkerE@dnc.org>
+Sent: Tuesday, May 03, 2015 11:31 AM
+To: Garcia, Walter
+Cc: Walker, Eric
+Subject: FW: New Comms template
+
+Walter, please prepare the briefing for the Chair for tomorrow's interviews in Los Angeles using the attached template.
+
+[SigDems]<<<link>>>User, Communications Director
+Organization
+202-863-8148 - user@domain.com<mailto:user@domain.com> - User<<<link>>>
+
+From: "Walker, Eric" <WalkerE@dnc.org>
+Sent: Monday, May 02, 2015 12:36 PM
+To: User; Paustenbach, Mark; Walker, Eric
+Subject: Fwd: New Comms template
+
+Sent from my iPhone
+
+Begin forwarded message:
+From: "Walker, Eric" <WalkerE@dnc.org>
+Date: May 2, 2015 at 9:42:35 AM EDT
+To: Geoff Burgan <user@domain.com<mailto:user@domain.com>>
+Cc: Ryan Banfill <user@domain.com<mailto:user@domain.com>>
+Subject: New Comms template
+Geoff - Can you use this one and make sure Mike does as well?  I want to make sure all the Comms briefs are consistent regardless of the office since DWS is only one person.

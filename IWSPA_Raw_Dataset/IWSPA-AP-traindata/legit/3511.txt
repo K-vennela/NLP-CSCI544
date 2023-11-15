@@ -1,0 +1,43 @@
+<x-flowed>
+Hi Tom,
+I believe NCEP has found that, generally speaking, the AMDAR/MDCRS and 
+radiosonde temperatures are treated in a similar fashion in 
+assimilation. Like radiosonde which has varying performance from vendor 
+to vendor, there are differences in performance between aircraft/series 
+and temperature probes. Brad Ballish just had a paper approved for 
+publication (in BAMS?) that identifies the performance differences 
+between air carriers, aircraft type, and aircraft series. Unfortunately, 
+we only know how the data compare with the model guess, but not 
+necessarily absolute "truth". Hopefully Brad can share his paper with 
+this distribution. Bill Moninger and Ralph Petersen may also have 
+published recent papers on this issue they can share. Ralph has 
+published papers that compare near simultaneously launched of Vaisala 
+RS-92 sondes with ascending/descending B-757 aircraft, showing good data 
+agreement.
+One should be mindful of the potential advantages of including AMDAR 
+data as a climate resource in addition to radiosonde.
+1. Data has been available in quantity since 1992
+2. Data does not have the radiation issue as the TAT probe is shielded
+3. Data are available at all local times, nearly 24*7*365, at hundreds 
+of major airports internationally, thereby supporting the climate 
+diurnal temperature problem
+4. All NMCs keep databases of individual aircraft bias, based on recent 
+performance of the each aircraft's data verses the model guess. These 
+information would be very useful in considering candidate aircraft for a 
+"climate quality" long term database for AMDAR temperature data
+I suspect that the reason why AMDAR data have not been used to track 
+atmospheric change is because no-one in the climate community has ever 
+made an effort to use these data. Availability of radiosonde data in the 
+tropics (e.g. South America and Africa) is problematic. In response, 
+EUCOS/E-AMDAR has been adding data collection over Africa using Air 
+France, British Airways, and Lufthansa aircraft. I have proposed 
+expanding the U.S. data collection to include the Caribbean and South 
+America regions from United, Delta, Continental, etc, aircraft, but have 
+not received support for this expansion. WMO AMDAR Panel is moving to 
+add additional regional AMDAR Programs in the developing countries, 
+similar to the successful expansion in eastern Asia.
+AMDAR data are not a replacement for radiosonde, but these data 
+certainly can add to the climate record if the data are properly 
+processed/QC'd.
+Regards,
+Dave Helms

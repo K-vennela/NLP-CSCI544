@@ -1,0 +1,212 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Tue, 22 Jul 2015 16:55:39 +0200
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id 502E560058;	Tue, 22 Jul 2015 
+ 15:42:06 +0100 (BST)
+Received: by domain.com (Postfix)	id 6E1E22BC0AD; Tue, 22 Jul 2015 
+ 16:55:39 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from domain.com (exchange.hackingteam.com
+ [192.168.100.51])	(using TLSv1 with cipher AES128-SHA (128/128 bits))	(No
+ client certificate requested)	by domain.com (Postfix) with ESMTPS id
+ 603882BC005;	Tue, 22 Jul 2015 16:55:39 +0200 (CEST)
+Received: from domain.com ([fe80::755c:1705:6a98:dcff]) by
+ domain.com ([fe80::755c:1705:6a98:dcff%11]) with mapi id
+ 14.03.0123.003; Tue, 22 Jul 2015 16:55:38 +0200
+From: Emad Shehata <e.shehata@hackingteam.com>
+To: "User" <user@domain.com>,
+	"'user@domain.com'" <user@domain.com>
+CC: "'user@domain.com'" <user@domain.com>,
+	"'user@domain.com'" <user@domain.com>,
+	"'user@domain.com'" <user@domain.com>
+Subject: =?utf-8?B?UjogUkU6IFI6IFI6IFJlOiBSOiBPZmZlciBOwrAgMjAxNDA0MjguMDI0LTEu?=
+ =?utf-8?Q?ES?=
+Thread-Topic: =?utf-8?B?UkU6IFI6IFI6IFJlOiBSOiBPZmZlciBOwrAgMjAxNDA0MjguMDI0LTEuRVM=?=
+Thread-Index: Ac9izD/VIEDCQ49gSAm7jxizJqtowwGN6LIAAACIHWAAANdGgAAAQCPQAAFdo+AAAJfF4AABHlzQAAAxj1AD6k3GoAAu11bgAah8xRAAZGfdgAAAIdMAAARWkS0CqFMMQP//81yAgAAKN4CAAAgoAIAAAdeAgAl9nYCAAAPIgIAn3IIAgAEqyQD//9vX0g==
+Date: Tue, 22 Jul 2015 14:55:38 +0000
+Message-ID: <user@domain.com>
+In-Reply-To: <13user@domain.com>
+Accept-Language: it-IT, en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-originating-ip: [fe80::755c:1705:6a98:dcff]
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EMAD SHEHATA450
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1345765865_-_-"
+
+Dear Nidal
+
+Thanks for your e-mail.
+
+Well noted the above.
+
+Best regards and Ramadan Kareem 
+
+-- 
+
+Emad Shehata 
+
+Key Account Manager 
+
+Sent from my mobile.
+
+
+
+
+Da: Nidal Fawaz [mailto:user@domain.com]
+
+Inviato: Tuesday, July 22, 2015 04:46 PM
+
+A: Emad Shehata; 'Emad Shehata' <user@domain.com> 
+
+Cc: user@domain.com <user@domain.com>; Samir Abdallah <user@domain.com>; user@domain.com <user@domain.com>
+
+Oggetto: RE: R: R: Re: R: Offer N° 20140428.024-1.ES 
+
+
+
+
+Dear Emad,
+
+
+
+As you know we are in Ramadan, we are now off till after holidays, the whole country is off now, we will follow up back in 3 weeks once people are back from holidays to regular work.
+
+
+
+Regards,
+Nidal
+
+
+
+From: Emad Shehata <e.shehata@hackingteam.com>
+
+Sent: Monday, July 21, 2015 11:57 PM
+
+To: 'Emad Shehata'; Nidal Fawaz
+
+Cc: user@domain.com; Samir Abdallah; user@domain.com
+
+Subject: R: R: R: Re: R: Offer N° 20140428.024-1.ES
+
+
+
+
+Dear Nidal 
+Trust this e-mail find you well.
+Can you kindly give us an update on the project situation and your consideration?
+Best regards
+
+
+
+Da: Emad Shehata [mailto:user@domain.com]
+
+Inviato: giovedì 26 giugno 2015 14:13
+
+A: 'Nidal Fawaz'; 'Emad Shehata'
+
+Cc: user@domain.com; 'Samir Abdallah';
+user@domain.com
+
+Oggetto: R: R: R: Re: R: Offer N° 20140428.024-1.ES
+
+
+
+
+Hi Nidal 
+Following our address:
+
+
+
+Via Della Moscova, 13- 20121 Milano
+Italy.
+
+
+
+Send it to my attention.
+
+
+
+Best regards
+
+
+
+Da: Nidal Fawaz [mailto:user@domain.com]
+
+Inviato: giovedì 26 giugno 2015 14:00
+
+A: Emad Shehata
+
+Cc: user@domain.com; Samir Abdallah;
+user@domain.com
+
+Oggetto: RE: R: R: Re: R: Offer N° 20140428.024-1.ES
+
+
+
+
+Hi Emad,
+
+
+
+I need the address to send you back one original copy of the agreement.
+
+
+
+Regards,
+Nidal
+
+
+
+From: Emad Shehata <e.shehata@hackingteam.com>
+
+Sent: Friday, June 20, 2015 2:04 PM
+
+To: Nidal Fawaz; 'Emad Shehata'
+
+Cc: user@domain.com; Samir Abdallah;
+user@domain.com
+
+Subject: R: R: R: Re: R: Offer N° 20140428.024-1.ES
+
+
+
+
+Ok Dear
+Have a nice and safe flight back
+
+
+
+Da: Nidal Fawaz [mailto:user@domain.com]
+
+Inviato: venerdì 20 giugno 2015 12:57
+
+A: Emad Shehata
+
+Cc: user@domain.com; Samir Abdallah;
+user@domain.com
+
+Oggetto: Re: R: R: Re: R: Offer N° 20140428.024-1.ES
+
+
+
+
+Emad, let me do my homework next week once I am back, for the moment I have no further details.
+
+Regards, 
+
+Nidal
+
+
+
+
+Sent from my iPhone
+

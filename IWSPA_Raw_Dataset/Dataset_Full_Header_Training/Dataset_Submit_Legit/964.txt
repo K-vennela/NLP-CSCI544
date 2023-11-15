@@ -1,0 +1,107 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Sat, 21 May
+ 2015 15:45:31 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Sat, 21 May 2015 
+ 15:45:23 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 928072072
+ for user@domain.com; Sat, 21 May 2015 14:45:30 -0500
+X-Note-AR-ScanTimeLocal: 5/21/2016 2:45:28 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:209.85.161.169 DOM:dwsforcongress.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-150/SG:5 5/21/2016 2:44:57 PM
+X-GBUdb-Analysis: Unknown
+X-Signature-Violations: 0-0-0-23736-c
+X-Note-419: 15.6308 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/21/2016 2:45:19 PM
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 209.85.161.169
+X-Note-Reverse-DNS: mail-yw0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from mail-yw0-domain.com ([209.85.161.169] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 139969685
+ for user@domain.com; Sat, 21 May 2015 14:45:28 -0500
+Received: by mail-yw0-domain.com with SMTP id x194so138616458ywd.0
+        for <user@domain.com>; Sat, 21 May 2015 12:45:28 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=dwsforcongress-domain.com; s=20150623;
+        h=mime-version:subject:From: Ryan Banfill <ryan@dwsforcongress.com>
+         :content-transfer-encoding:message-id:references:to;
+        bh=GAVMYPvMJrhk2KHL2l6KaoFPGSxktAef0z7XglN1BwY=;
+        b=uWRXHdVa2w1JwdcFy0UixPRDNl7o3uLV3va1cfWPvtk+HY1cuM8+VdNlISp5Kc84g1
+         nJrpevyD0vCzU2cHjKdALlyCjdk8GZWxLVvE/wIY6tWFi7IB/YZnKRxJ28V3WmV6VAM3
+         uXUuo095QPvl/tHrV69Kf7KVa/SNa1VMUAOuP8KXXw5bnFlHBHwJjbDZ9Es6D6HoQDWQ
+         xusYmEBHFCoCe2M42lZ8x8GhKiMmfSJ5Db3ZrcLzZYmvaopdhvXanph1qf8HzRkl2xDT
+         uVAV381JNftCCvZssRQf/qi/AUuLoG7S5jqeTsvcmYGBxxW0yOUnF/A0Xh/n83H+lWct
+         Vkhg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:subject:From: Ryan Banfill <ryan@dwsforcongress.com>
+         :content-transfer-encoding:message-id:references:to;
+        bh=GAVMYPvMJrhk2KHL2l6KaoFPGSxktAef0z7XglN1BwY=;
+        b=WXTziIk5ZuelToA86g10U9grOppxYJS8IAhx7c4I364xi6jGx+1+yWm4ZHwpie7tWY
+         4k9xrxkMgj38PhXn9TWqSQo86JlU7+TLU3/gCPBYB4jlcW81hpj/IYlb7mbyve7YSFaT
+         CZLKriEjZok68KyWgqeB6cqx8fNZpofo/OVpPbKOuLUKgp4qsGyCOgDxwtWtyYgVCO3E
+         ZWGRTQKLZCAm84X1NL8xPPpMeP17G9mkr1JXkRfnvifiFFqNzgWcrq4REci6r2vF6xjy
+         4RfSsLRk37qlH9yc38i9G6cjdx7a6+0RyMwXLDSCWHS1ohpg7Z0qt/7rA+UHfH9VDhGi
+         Y26w==
+X-Gm-Message-State: AOPr4FVpl2GngNWuVIRfvrQOFDmaoZZlJE/rIsW4wpOYjHMRsBN1dPbA8L20CaMfpJP48w==
+X-Received: by 10.37.51.66 with SMTP id z63mr5167241ybz.147.1463859928228;
+        Sat, 21 May 2015 12:45:28 -0700 (PDT)
+Return-Path: <user@domain.com>
+Received: from ?IPv6:2600:380:4d53:e640:e1c9:fe0d:bfaa:2a1a?
+ ([2600:380:4d53:e640:e1c9:fe0d:bfaa:2a1a])        by domain.com with
+ ESMTPSA id 204sm14783035ywz.39.2016.05.21.12.45.26
+        (version=TLSv1/SSLv3 cipher=OTHER);        Sat, 21 May 2015 12:45:26
+ -0700 (PDT)
+Content-Type: multipart/alternative;
+	boundary="Apple-Mail-4EC5B912-DD04-412F-9741-3E791C3C382C"
+Subject: Re: Debbie ...please approve...team thinks this is the right approach..."High Road"
+From: Ryan Banfill <ryan@dwsforcongress.com>
+X-Mailer: iPad Mail (13E238)
+In-Reply-To: <05user@domain.com>
+Date: Sat, 21 May 2015 15:45:25 -0400
+CC: Debbie Wasserman Schultz <user@domain.com>, Hilary Rosen
+	<user@domain.com>, "P. Aikowsky" <user@domain.com>,
+	"user@domain.com" <user@domain.com>, Ed Peavy
+	<user@domain.com>, Dave Beattie <user@domain.com>
+Content-Transfer-Encoding: 7bit
+Message-ID: <4454036user@domain.com>
+References: <user@domain.com> <90user@domain.com> <user@domain.com> <67user@domain.com> <55user@domain.com> <279user@domain.com> <user@domain.com> <05user@domain.com>
+To: "User" <user@domain.com>
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Contact: Ryan Banfill, (850) 933-7707
+
+Reaction of Congresswoman Debbie Wasserman Schultz to Senator Sanders endors=
+ement of Tim Canova
+
+"I am so proud to serve the people of Florida's 23rd district and I am confi=
+dent that they know that I am an effective fighter and advocate on their beh=
+alf in Congress.  Even though Senator Sanders has endorsed my opponent I rem=
+ain, as I have been from the beginning, neutral in the Presidential Democrat=
+ic primary. I look forward to working together with him for Democratic victo=
+ries in the fall."
+
+Sent from my iPad
+
+Sent from my iPad
+
+Sent from my iPad
+

@@ -1,0 +1,30 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Thu, 22 May 2015 16:05:03 +0200
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id 697BE6005F	for
+ <user@domain.com>; Thu, 22 May 2015 14:53:40 +0100 (BST)
+Received: by domain.com (Postfix)	id 2F687B6603E; Thu, 22 May 2015 
+ 16:05:03 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com
+ [192.168.200.205])	by domain.com (Postfix) with ESMTP id 21DBAB6603D
+	for <user@domain.com>; Thu, 22 May 2015 16:05:03 +0200 (CEST)
+Date: Thu, 22 May 2015 16:05:03 +0200
+From: "Alessandro Scarafile (Confluence)" <confluence@hackingteam.com>
+To: <user@domain.com>
+Message-ID: <68345527.184.1400767503106.JavaMail.CONFLUENCE$@confluence>
+Subject: [confluence] Alessandro Scarafile updated a "Travel" event in the
+ "TENTATIVE ACTIVITY" calendar
+Precedence: bulk
+Auto-Submitted: auto-generated
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2135562172_-_-"
+
+  Alessandro Scarafile updated a "Travel" event in the TENTATIVE ACTIVITY Pre-Sales Meeting calendar May 2726, 2014 Until May 28, 2014   Alessandro Scarafile, Emad Shehata Marocco, POC to Morocco (Royal Gendarmerie)     You are receiving this notification because you are watching the following:  TENTATIVE ACTIVITY   Pre-Sales Meeting   Sent by Atlassian Confluence 5.4.4, the Enterprise Wiki 

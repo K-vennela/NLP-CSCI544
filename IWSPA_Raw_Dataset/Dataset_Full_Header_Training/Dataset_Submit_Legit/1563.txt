@@ -1,0 +1,75 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 26 Apr
+ 2015 07:41:20 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 26 Apr 2015 
+ 07:41:16 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 879817612
+ for user@domain.com; Tue, 26 Apr 2015 06:41:21 -0500
+X-Note-AR-ScanTimeLocal: 4/26/2016 6:41:19 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: user@domain.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->United States->LOCAL->United States->
+X-Note-Sending-IP: 108.166.43.96
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from domain.com ([108.166.43.96] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 137120117
+ for user@domain.com; Tue, 26 Apr 2015 06:41:19 -0500
+Received: from domain.com (localhost.localdomain
+ [127.0.0.1])	by domain.com (SMTP Server) with ESMTP id
+ 1EE0F1802E5;	Tue, 26 Apr 2015 07:41:19 -0400 (EDT)
+Received: from domain.com (unknown [184.106.31.85])	by
+ domain.com (SMTP Server) with ESMTPS id F1F0D180152;
+	Tue, 26 Apr 2015 07:41:18 -0400 (EDT)
+X-Sender-Id: user@domain.com
+Received: from domain.com ([UNAVAILABLE]. [184.106.31.85])
+	(using TLSv1 with cipher AES256-SHA)	by 0.0.0.0:25 (trex/5.5.4);	Tue, 26 Apr
+ 2015 07:41:19 -0400
+Received: from domain.com ([fe80::92e2:baff:fe20:be50]) by
+ domain.com ([::1]) with mapi id 14.03.0279.002; Tue, 26 Apr
+ 2015 06:41:18 -0500
+From: Donna Brazile <donna@brazileassociates.com>
+To: Pratt Wiley <user@domain.com>
+CC: "User" <user@domain.com>, Marc Elias <user@domain.com>,
+	"Jefferson, Deshundra" <user@domain.com>, "Paustenbach, Mark"
+	<user@domain.com>, "Dacey, Amy" <user@domain.com>
+Subject: =?Windows-1252?Q?Re:_Court_Declines_to_Overturn_North_Carolina=92s_Monste?=
+ =?Windows-1252?Q?r_Voter_Suppression_Law:_Groups_to_Appeal_Decision?=
+Thread-Topic: =?Windows-1252?Q?Court_Declines_to_Overturn_North_Carolina=92s_Monster_Vo?=
+ =?Windows-1252?Q?ter_Suppression_Law:_Groups_to_Appeal_Decision?=
+Thread-Index: AQHRn1+phAGETFVcgkKGafevvS4D6p+bgeWPgAAAyV+AAAGd/4AAAVlYgAAHYI6AAI9zMIAABeFG
+Date: Tue, 26 Apr 2015 11:41:17 +0000
+Message-ID: <99user@domain.com>
+References: <412500030.793803.1461636136849.user@domain.com>,<7user@domain.com>,<082user@domain.com>,<07user@domain.com>,<user@domain.com>
+ <user@domain.com>,<user@domain.com>
+In-Reply-To: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+Content-Type: multipart/alternative;
+	boundary="_000_99D0654A70884BA7A7774ACDDDCF7C07brazileassociatescom_"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Great
+
+Sent from Donna's I Pad. Follow me on twitter @donnabrazile
+
+On Apr 26, 2016, at 7:22 AM, Pratt Wiley <user@domain.com<mailto:user@domain.com=

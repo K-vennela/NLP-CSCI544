@@ -1,0 +1,41 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [10.3.4.5])
+	by domain.com (Postfix) with ESMTP id DCB5E46A69
+	for <user@domain.com>; Wed, 28 Jun 2015 20:46:47 -0400 (EDT)
+Received: from digitalsoup.dip.jp (220-213-143-103.pool.fctv.ne.jp [220.213.143.103])
+	by domain.com (Postfix) with ESMTP id B38CC6FA310
+	for <user@domain.com>; Wed, 28 Jun 2015 20:46:49 -0400 (EDT)
+Received: by digitalsoup.dip.jp (Postfix, from userid 515)
+	id 9B4E83D171B; Wed, 28 Jun 2015 23:58:21 +0900 (JST)
+From: Hsbc Customer Service Online Banking <Serive@hsbc.co.uk>
+To: user@domain.com
+Subject: HSBC Online Services Team
+Content-Type: text/html
+Message-Id: <20060628145821.9user@domain.com>
+Date: Wed, 28 Jun 2015 23:58:21 +0900 (JST)
+Status: 
+X-Status: 
+X-Keywords: 
+
+Dear online banking customer, 
+Thank you for using the HSBC Bank Online Transfer® -  service. 
+
+
+
+
+    In order to provide final approval for your transaction, we need additional information.  Please access your online banking account  to verify the information is correct and complete your enrollment.
+
+If we do not hear from you  within the next 24 hours, we will cancel your Online Transfer® service.
+
+Click here for online banking 
+
+If you have questions, please domain.com our website at www.hsbc.co.uk/contact/.
+
+Thank you for using © HSBC Bank plc!
+
+------------------------------------------------------------------------------------------------------------------------------ 
+
+DO NOT REPLY TO THIS EMAIL. IF YOU HAVE QUESTIONS PLEASE CONTACT US.
+

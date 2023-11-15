@@ -1,0 +1,108 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Fri, 29 Apr
+ 2015 19:41:33 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Fri, 29 Apr 2015 
+ 19:41:22 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 888691775
+ for user@domain.com; Fri, 29 Apr 2015 18:41:34 -0500
+X-Note-AR-ScanTimeLocal: 4/29/2016 6:41:32 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @domain.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->PRIVATE->United States->
+X-Note-Sending-IP: 66.151.230.131
+X-Note-Reverse-DNS: mta-dock-front-22.domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mta-dock-front-22.domain.com ([66.151.230.131]
+ verified)  by domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS
+ id 138002907 for user@domain.com; Fri, 29 Apr 2015 18:41:32 -0500
+Received: from domain.com (unknown [10.0.200.164])	by
+ mta-dock-front-22.domain.com (Postfix) with ESMTP id
+ 3qxVZz4bddz1nrwy	for <user@domain.com>; Fri, 29 Apr 2015 23:41:31 +0000
+ (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=democrats.org;
+	s=democratsorgkey; t=1461973291;
+	bh=h70NkLQ/G9kIvUjyDniDLz4mi7RF0+PgVYHlQFoHqPw=;
+	h=Date:To:From: Official Democratic Record <democraticparty@democrats.org>
+	b=PyO+iMMHBwc8QVxanHJJap5Y7ComCQECC25pKgB7QaP8saFs+zFrXA6rqGdYBltNK
+	 t8HUYEX6/ynCiVW+DFfuwdyWSIXB4IP02gOUn5mpJBrYpkC9Te1YLjF8ULbBgmBjbP
+	 bmoub4279UY5N/+7DbKDZiaT3fFpnbbIsIqqBbXM=
+Received: from phpmailer 	by domain.com with local
+ (PHPMailer);	Fri, 29 Apr 2015 19:41:31 -0400
+Date: Fri, 29 Apr 2015 19:41:31 -0400
+To: User <user@domain.com>
+From: Official Democratic Record <democraticparty@democrats.org>
+Reply-To: <user@domain.com>
+Subject: Here's your supporter record (so far):
+Message-ID: <user@domain.com>
+X-Mailer: PHPMailer [version 1.71-blue_mailer]
+X-maillist-id: ab324945b4f1abc2
+X-rpcampaign: rp_182111
+X-maillist-guid: AQtVPAIGVQZRCgQAU1FVUAJbUwA9WgxBA1dWAlp0UQoGS1lHBG1UBlQHBA
+List-Unsubscribe: <<<link>>>, <mailto:user@domain.com>
+Content-Type: multipart/alternative;
+	boundary="b1_faba9f4e80861d86ccd814e7b20ed430"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+User, Democrats all over the country are standing up to
+beat whoever the GOP nominates and take back Congress=20
+in November -- and they need your support.
+
+According to our records for user@domain.com, you
+haven't chipped in yet this election cycle.
+
+We can elect Democrats in November who will protect the
+President's progress, but only with your help.
+
+So will you pitch in $3 or more before tomorrow's deadline?
+
+<<link>>
+
+--------
+If you've made a recent online contribution, contributed by check or=20
+by mail, or made a purchase at store.democrats.org, this may not be=20
+reflected in your online donor record -- but thank you for your support!
+=20
+=20
+
+**************************************************************
+Paid for by the Organization, <<link>>, =
+430 South Capitol Street SE, Washington DC 20003 and not authorized by any =
+candidate or candidate=E2=80=99s committee. Contributions or gifts to the =
+Organization are not tax deductible.
+**************************************************************
+
+This email was sent to user@domain.com
+If this isn't the best email address at which to reach you, update your =
+contact information at <<link>> Our =
+email list is the best way we have of staying in regular contact with =
+supporters like you across the country and letting you know about the work =
+President Obama and other Democrats are doing. domain.com =
+<<link>> to unsubscribe from our supporter =
+list. If you like staying in touch, but want to receive only the most =
+important messages, go here: =
+<<link>> Go here to unsubscribe =
+from our supporter list: <<link>>, but if you =
+leave, it will be harder for you to stay involved in the organization that =
+you've been such a critical part of. This organization is powered by you, =
+and we'd love to hear your ideas. Send us any comments, criticisms, or =
+feedback: <<link>>, or just =
+reply to this email! Thanks for supporting President Obama and other =
+Democrats.
+

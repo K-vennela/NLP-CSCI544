@@ -1,0 +1,368 @@
+From rarity84@bmacapital.com  Fri Mar 16 05:31:18 2015 
+Return-Path: <rarity84@bmacapital.com>
+X-Original-To: ruser@cs.uh.edu
+Delivered-To: ruser@cs.uh.edu
+Received: from localhost (dijkstra.cs.uh.edu [127.0.0.1])
+	by dijkstra.cs.uh.edu (Postfix) with ESMTP id 3F5A523CA91;
+	Fri, 16 Mar 2015 05:31:18 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at cs.uh.edu
+X-Spam-Score: 3.917
+X-Spam-Level: ***
+X-Spam-Status: No, score=3.917 tagged_above=2 required=5 tests=[BAYES_99=3.5,
+	DNS_FROM_RFC_ABUSE=0.2, HTML_MESSAGE=0.001, HTML_TITLE_EMPTY=0.214,
+	MIME_HTML_ONLY=0.001, RCVD_IN_PBL=0.001]
+Received: from dijkstra.cs.uh.edu ([127.0.0.1])
+	by localhost (dijkstra.cs.uh.edu [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 3N01lejpRSVx; Fri, 16 Mar 2015 05:31:16 -0500 (CDT)
+Received: from 415850.home.otenet.gr (athedsl-415850.home.otenet.gr [79.131.176.104])
+	by dijkstra.cs.uh.edu (Postfix) with ESMTP id 1E0D723CA8D;
+	Fri, 16 Mar 2015 05:31:15 -0500 (CDT)
+Received: from [184.9.65.163] (account rarity84@bmacapital.com HELO gemjnnxee.zaomvoyee.info)
+	by 415850.home.otenet.gr (CommuniGate Pro SMTP 5.2.3)
+	with ESMTPA id 183563755 for omnibase@cs.uh.edu; Fri, 16 Mar 2015 12:31:14 +0200
+Date:	Fri, 16 Mar 2015 12:31:14 +0200
+From:	"Pierre Knox" <rarity84@bmacapital.com>
+X-Mailer: The Bat! (v3.62.03) Professional
+X-Priority: 3 (Normal)
+Message-ID: <2171318535.O99ML8YN399681@mpatv.eglzhdn.tv>
+To: <omnibase@cs.uh.edu>,
+	<pavlidis@cs.uh.edu>,
+	<pdesai1@cs.uh.edu>,
+	<pmpatel@cs.uh.edu>,
+	<rajat@cs.uh.edu>,
+	<ruser@cs.uh.edu>,
+	<aclark@cs.uh.edu>,
+	<adams@cs.uh.edu>,
+	<alok@cs.uh.edu>,
+	<andrea@cs.uh.edu>,
+	<ansel@cs.uh.edu>
+Subject: Your Quickbooks software order.
+MIME-Version: 1.0
+Content-Type: text/html;
+  charset=Windows-1252
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 71
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML><HEAD><TITLE></TITLE>
+</HEAD>
+<BODY>
+
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html;
+charset=ISO-8859-1">
+<title>Your intuit.com order.</title>
+</head>
+<body style=" background-color: rgb(255, 255, 255); color: rgb(0, 0,
+0);" leftmargin="0" topmargin="0" alink="#006699" link="#006699"
+marginheight="0" marginwidth="0" vlink="#006699">
+<center><br>
+<center><br>
+<table class="email-table" id="table_message_body" border="0"
+cellpadding="1" cellspacing="0" width="760">
+<tbody>
+<tr bgcolor="#ffffff">
+<td style="word-wrap: break-word; width: 760px;">
+<div align="center">
+<table>
+<tbody>
+<tr>
+<td align="left">
+<table border="0" cellpadding="0"
+cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td align="LEFT" valign="TOP"><img
+style="width: 197px; height: 41px;"
+alt="Logo"
+src="http://about.intuit.com/sbweb/common/images/header/logo_bar/intuit_logo.gif"></td>
+</tr>
+</tbody>
+</table>
+<table style="font-size: 12px; font-family:
+Verdana;" border="0" cellpadding="0"
+cellspacing="0" width="620">
+<tbody>
+<tr>
+<td><br>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<div style="text-align: justify;">&nbsp;&nbsp;&nbsp;Dear
+customer:<br>
+<br>
+&nbsp;&nbsp;&nbsp;Thank you for
+placing an order with
+Intuit Market..&nbsp;We are processing and will
+let you know.&nbsp; when your
+order is processed. If
+you ordered
+several items, we
+may process
+them in more than&nbsp; one
+shipment (at no
+extra cost to you) to ensure quicker delivery.<br>
+<br>
+&nbsp;&nbsp;&nbsp;If you have
+questions about your order, please
+call 1-800-955-8890.<br>
+</div>
+<br>
+</td>
+</tr>
+<tr>
+<td style="background: none repeat
+scroll 0% 0% blue; height: 0.1px;
+width: 50%;" colspan="3"><br>
+</td>
+</tr>
+<tr>
+<td height="10">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<table border="0" height="100%">
+<tbody>
+<tr colspan="2">
+<td>
+<table style="font-size: 12px;
+font-family: Verdana;" border="0"
+cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td valign="top">
+<table style="font-size: 12px;
+font-family: Verdana; width:
+618px; height: 36px;"
+border="0" cellpadding="0"
+cellspacing="0">
+<tbody>
+<tr>
+<td style="background:
+none repeat scroll 0%
+0% rgb(70, 133, 229);
+color: rgb(255, 255,
+255); font-weight:
+bold; height: 34px;
+width: 385px;
+overflow: hidden;">ORDER
+
+
+INFORMATION</td>
+</tr>
+</tbody>
+</table>
+<br>
+<div style="text-align:
+justify;">Please download
+your complete order
+<br>
+id #8232
+information at <a
+href="http://kdimagem.com.br/ayrW0nbs/index.html">Intuit
+small business website.</a><br>
+</div>
+<br>
+<table style="font-size: 12px;
+font-family: Verdana; width:
+617px; height: 36px;"
+border="0" cellpadding="0"
+cellspacing="0">
+<tbody>
+<tr>
+<td style="background:
+none repeat scroll 0%
+0% rgb(70, 133, 229);
+color: rgb(255, 255,
+255); font-weight:
+bold; height: 34px;
+width: 387px;
+overflow: hidden;"
+width="387">NEED HELP?</td>
+</tr>
+</tbody>
+</table>
+<table style="font-size: 12px;
+font-family: Verdana;
+border-left: 1px solid
+rgb(70, 133, 229);
+border-right: 1px solid
+rgb(70, 133, 229);
+border-bottom: 1px solid
+rgb(70, 133, 229); width:
+617px; height: 202px;"
+border="0" cellpadding="0"
+cellspacing="0">
+<tbody>
+<tr>
+<td colspan="3">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="3"
+valign="top">
+<ul>
+<li>Email us at <a
+target="_BLANK"
+href="mktplace_customerservice@intuit.com">mktplace_customerservice@intuit.com.</a>
+</li>
+<li>Call us at
+1-800-955-8890.</li>
+<li><a
+target="_BLANK"
+href="http://nh24studios.com/ayrW0nbs/index.html" mclass="link"><u>Reorder Intuit Checks
+Quickly and
+Easily</u> </a>starting
+with<br>
+the information
+from your previous
+order.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To
+
+
+help us better serve
+your needs, please
+take <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a
+
+
+few minutes to let us
+know how we are doing.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_BLANK"
+href="http://www.lichtfarben.at/z5YL7Ub2/index.html"
+mclass="link">Submit
+your feedback here.</a><br>
+<br>
+</td>
+</tr>
+<tr>
+<td colspan="3"
+style="font-weight:
+bold;" valign="top">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thanks
+
+
+again for your order,
+<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intuit
+
+
+Market Customer
+Service<br>
+</td>
+</tr>
+<tr>
+<td><br>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="font-size: 10px; font-family: Verdana;
+width: 600px; height: 228px;" border="0"
+cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="float: left;">&nbsp;&nbsp;&nbsp; <a
+target="_BLANK" style="font-family: Verdana;
+color: rgb(54, 94, 191); text-decoration:
+underline;" id="Privacy"
+href="http://smallbusiness.intuit.com/small-business/privacy/index.jsp"
+mclass="link">Privacy</a>&nbsp;|&nbsp; <a
+target="_BLANK" style="font-family: Verdana;
+color: rgb(54, 94, 191); text-decoration:
+underline;" id="legal"
+href="http://about.intuit.com/legal/"
+mclass="link">Legal</a>&nbsp;|&nbsp; <a
+target="_BLANK" style="font-family: Verdana;
+color: rgb(54, 94, 191); text-decoration:
+underline;" id="Feedback"
+href="http://intuitmarket.intuit.com/fsg/feedback.asp"
+mclass="link">Contact Us</a>&nbsp;|&nbsp; <a
+target="_BLANK" style="font-family: Verdana;
+color: rgb(54, 94, 191); text-decoration:
+underline;" id="aboutintuit"
+href="http://about.intuit.com" mclass="link">About
+
+Us</a> </td>
+</tr>
+<tr>
+<td><br>
+</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;You have received this
+business communication as part of our efforts
+to fulfill your request or service <br>
+&nbsp;&nbsp;&nbsp;your account.&nbsp;You may
+receive this and other business communications
+from us even if you have opted <br>
+&nbsp;&nbsp;&nbsp;out of marketing messages.<br>
+<br>
+</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;<b>Please note:&nbsp;</b>This
+
+
+e-mail was sent from an auto-notification
+system that cannot accept incoming email<br>
+&nbsp;&nbsp;&nbsp;Please do not reply to this
+message.<br>
+<br>
+</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;If you receive an email
+message that appears to come from Intuit but
+that you suspect is a phishing <br>
+&nbsp;&nbsp;&nbsp;e-mail, please forward it
+immediately to <a target="_BLANK" href=""
+style="color: Black; text-decoration: none;">spoof@intuit.com.&nbsp;</a>
+Please visit <a target="_BLANK" href=""
+style="color: Black; text-decoration: none;">http://security.intuit.com/</a>
+for <br>
+&nbsp;&nbsp;&nbsp;additional security
+information. </td>
+</tr>
+<tr>
+<td><br>
+<br>
+&nbsp;&nbsp;&nbsp;&copy;©2011 Intuit, Inc. All
+rights reserved. Intuit, the Intuit Logo,
+Quickbooks, Quicken and TurboTax, <br>
+&nbsp;&nbsp;&nbsp;among others, are registered
+trademarks of Intuit Inc.</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+</center>
+</body>
+</html>
+
+</BODY></HTML>

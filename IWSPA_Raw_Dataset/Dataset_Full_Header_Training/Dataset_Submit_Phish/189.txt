@@ -1,0 +1,56 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id 86CFF4687E
+	for <user@domain.com>; Sat, 25 Apr 2015 10:15:00 -0400 (EDT)
+Received: from sni-golds.goldsgymut (domain.com [209.90.107.209])
+	by domain.com (Postfix) with ESMTP id 89A68131F7BF
+	for <user@domain.com>; Sat, 25 Apr 2015 10:15:00 -0400 (EDT)
+Received: from User ([72.253.223.76]) by sni-golds.goldsgymut with Microsoft SMTPSVC(6.0.3790.3959);
+	 Sat, 25 Apr 2015 08:15:36 -0600
+Reply-To: user@domain.com
+From: Citibank<ikqfts@yahoo.com>
+Subject: Security update
+Date: Sat, 25 Apr 2015 04:14:59 -1000
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-Antivirus: avast! (VPS 090425-0, 04/25/2009), Outbound message
+X-Antivirus-Status: Clean
+Message-ID: <user@domain.com>
+X-OriginalArrivalTime: 25 Apr 2015 14:15:36.0187 (UTC) FILETIME=[4D7F3CB0:01C9C5B0]
+To: undisclosed-recipients:;
+Content-Length: 1561
+Lines: 27
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1041
+
+Dear CitiBank Valued member,
+
+We are looking forward to your support and understanding and inform you about new CitiBusiness department system upgrade
+performed by security management team in order to protect our clients from increased online fraud activity, unauthorized account
+access, illegal funds withdrawal and also to simplify some processes.
+
+The new updated technologies of current upgrade you should login your account by using CitiBusiness Online application. For the purpose
+please follow the reference:
+
+<<link>>
+
+Please note that changes in security system will be effective immediately after relogin.
+
+Current message is created by our automatic dispatch system and coult not be replyed. For the purpose of assistance, please use
+the "User Guide" reference of an original CitiBusiness website.
+
+Sincerely yours,
+
+CitiBusiness Security Staff
+
+Copyright  2015 Citigroup Inc. | Terms & Conditions

@@ -1,0 +1,52 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Tue, 11 Nov 2015 18:39:56 +0100
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id 730CD621BF;	Tue, 11 Nov 2015 
+ 17:22:21 +0000 (GMT)
+Received: by domain.com (Postfix)	id 5369FB66040; Tue, 11 Nov 2015 
+ 18:39:56 +0100 (CET)
+Delivered-To: user@domain.com
+Received: from EmadPC (unknown [192.168.1.196])	(using TLSv1 with cipher
+ AES128-SHA (128/128 bits))	(No client certificate requested)	by
+ domain.com (Postfix) with ESMTPSA id 468ECB6603E;	Tue, 11 Nov 2015 
+ 18:39:56 +0100 (CET)
+From: Emad Shehata <e.shehata@hackingteam.com>
+To: 'Emad Shehata' <user@domain.com>, <user@domain.com>
+CC: 'travel' <user@domain.com>
+References: <94612842-user@domain.com> <user@domain.com>
+In-Reply-To: <user@domain.com>
+Subject: R: Travel
+Date: Tue, 11 Nov 2015 18:39:55 +0100
+Message-ID: <003701cffdd6$81dd33e0$85979ba0$@user@domain.com>
+X-Mailer: Microsoft Office Outlook 12.0
+thread-index: AQHP/dJuQhig8W/yjU+nfDT/5HEv6ZxbqnZYgAAGhQA=
+Content-Language: it
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EMAD SHEHATA450
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1505733112_-_-"
+
+Dear Mousa, I need the following information to allow us to arrange the service with our supplier. Otherwise they can easily took a Taxi from the Hotel. ( it’s easy and I can help them tomorrow).Please urgently let me know  Da: Emad Shehata [mailto:user@domain.com] 
+Inviato: martedì 11 novembre 2015 18:15
+A: 'user@domain.com'
+Cc: travel
+Oggetto: R: Travel Dear Mousa
+Thanks for your e-mail.
+Please let me know the number of people and the flight details.
+Best regards 
+-- 
+Emad Shehata 
+Key Account Manager 
+
+Sent from my mobile.
+ Da: MOI [mailto:user@domain.com] 
+Inviato: Tuesday, November 11, 2015 05:10 PM
+A: Emad Shehata 
+Oggetto: Travel 
+ Dear Emad, I appreciate if you could arrange a car to pick up Mr.AlHamdani and his family to the airport at 12:00 am (after 6 hours from now)    Regards,Mousa AlShehriGID-MOI

@@ -1,0 +1,54 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [10.3.4.5])
+	by domain.com (Postfix) with ESMTP id 0F3B2469DA
+	for <user@domain.com>; Wed,  2 Aug 2015 11:45:01 -0400 (EDT)
+Received: from domain.com (domain.com [205.206.231.27])
+	by domain.com (Postfix) with ESMTP id A72BB6FA3B1
+	for <user@domain.com>; Wed,  2 Aug 2015 11:45:01 -0400 (EDT)
+Received: from domain.com by domain.com
+          via smtpd (for domain.com [10.3.4.5]) with ESMTP; Wed, 2 Aug 2015 08:38:21 -0700
+Received: from domain.com (domain.com [205.206.231.19])
+	by domain.com (Postfix) with QMQP
+	id 96550236FB5; Wed,  2 Aug 2015 08:33:12 -0600 (MDT)
+Mailing-List: contact user@domain.com; run by ezmlm
+Precedence: bulk
+List-Id: <focus-ids.list-domain.com>
+List-Post: <mailto:user@domain.com>
+List-Help: <mailto:user@domain.com>
+List-Unsubscribe: <mailto:user@domain.com>
+List-Subscribe: <mailto:user@domain.com>
+Delivered-To: mailing list user@domain.com
+Delivered-To: moderator for user@domain.com
+Received: (qmail 6976 invoked from network); 1 Aug 2015 16:54:12 -0000
+X-Spam-Checker-Version: SpamAssassin 3.1.3 (2006-06-01) on 
+	domain.com
+X-Spam-Level: 
+X-Spam-Status: No, score=-3.4 required=5.0 tests=ALL_TRUSTED,BAYES_00,
+	NO_REAL_NAME autolearn=ham version=3.1.3
+Date: 1 Aug 2015 15:50:33 -0000
+Message-ID: <20060801155033.12724.user@domain.com>
+Content-Type: text/plain
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+MIME-Version: 1.0
+X-Mailer: MIME-tools 5.411 (Entity 5.404)
+From: jfk@jfk.com
+To: user@domain.com
+Subject: Re: IPS - Default blocking policy
+Status: R
+X-Status: 
+X-Keywords: 
+
+Most sites use whatever the vendor tells them, so default blocking is enabled in 99% of the sites.
+
+------------------------------------------------------------------------
+Test Your IDS
+
+Is your IDS deployed correctly?
+Find out quickly and easily by testing it 
+with real-world attacks from CORE IMPACT.
+Go to <<link>> 
+to learn more.
+----------------------------------------------------------------------

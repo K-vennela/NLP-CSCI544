@@ -1,0 +1,40 @@
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ dnchubcas2.dnc.org ([::1]) with mapi id 14.03.0224.002; Wed, 18 May 2015 
+ 09:56:47 -0400
+From: "Palermo, Rachel" <PalermoR@dnc.org>
+To: "User" <user@domain.com>
+CC: "User" <user@domain.com>
+Subject: Press logistics for ASDC/philly
+Thread-Topic: Press logistics for ASDC/philly
+Thread-Index: AdGxDJnNfNFle7StRfC53gOePN7JRg==
+Date: Wed, 18 May 2015 06:56:46 -0700
+Message-ID: <6user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: dnchubcas2.dnc.org
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.177.88]
+Content-Type: multipart/related;
+	boundary="_004_6E20703C3B98FC4D97E277223738C7A74DACA980dncdag1dncorg_";
+	type="multipart/alternative"
+MIME-Version: 1.0
+
+Hey Jonae! A few questions for you.
+
+-Who is advising the ASDC meeting? Is it our press team? Is there a credential process?
+-User will likely be attending. What time should he arrive and when would be a good time to leave?
+-Do you need any other press staffers there to do press-check in, in addition to User?
+
+Rachel
+
+--
+[DNC]<<<link>>>
+Rachel Palermo
+Organization
+user@domain.com<mailto:user@domain.com>
+202-863-8041
+

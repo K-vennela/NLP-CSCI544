@@ -1,0 +1,48 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id A840A23CA80
+	for <user@domain.com>; Sun, 18 Mar 2015 03:49:03 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id q0zZZ0+RYgLV for <user@domain.com>;
+	Sun, 18 Mar 2015 03:49:01 -0500 (CDT)
+Received: from 3domain.com (3domain.com [216.129.224.49])
+	by domain.com (Postfix) with ESMTP id 2551723CA7F
+	for <user@domain.com>; Sun, 18 Mar 2015 03:49:01 -0500 (CDT)
+Received: from domain.com (unknown [10.40.25.30])
+	by 3domain.com (Postfix) with ESMTP id 509EF45977;
+	Sun, 18 Mar 2015 02:48:58 -0600 (MDT)
+Received: from 68.171.109.144
+        (SquirrelMail authenticated user raisar@3domain.com)
+        by domain.com with HTTP;
+        Sun, 18 Mar 2015 02:47:40 -0600
+Message-ID: <7user@domain.com>
+Date: Sun, 18 Mar 2015 02:47:40 -0600
+Subject: Alert: Account Security!!!
+From: "Administrator" <no-reply@webmaster.org>
+Reply-To: user@domain.com
+User-Agent: SquirrelMail/1.4.22
+MIME-Version: 1.0
+Content-Type: text/plain;charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 72
+
+Attention;
+
+Their has being a recent upgrade on our server please click the link Below
+or copy paste on your browser to upgrade to our new server;
+
+<<link>>
+
+Thank you for using our mail system
+
+System Administrator.

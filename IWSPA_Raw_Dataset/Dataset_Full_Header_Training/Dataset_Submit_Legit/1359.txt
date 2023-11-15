@@ -1,0 +1,312 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Mon, 2 May
+ 2015 17:40:32 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Mon, 2 May 2015 
+ 17:40:28 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 892246241
+ for user@domain.com; Mon, 02 May 2015 16:40:32 -0500
+X-Note-AR-ScanTimeLocal: 5/2/2016 4:40:32 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @skdknick.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->->United States->
+X-Note-Sending-IP: 157.56.111.134
+X-Note-Reverse-DNS: mail-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from [157.56.111.134] (HELO
+ na01-bn1-domain.com)  by domain.com
+ (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 138364460 for user@domain.com;
+ Mon, 02 May 2015 16:40:32 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=domain.com; s=selector1-skdknick-com;
+ h=From: Natalie Raps <nraps@skdknick.com>
+ bh=oq0qJdu7xOUu+phvli0N3P4oXQMa492Clux2i6AngYU=;
+ b=Q52iBAzDjs514teUw0bFES62Drlv/pgl/qFGLvqm4wejMeuRPEP5FotpTImnlBSL3VnwEBkV8QBO5DiL5phzgMzIxI40cvmZVUWvvDTaZF/FbSYXU/CKqWhi0+jHtVH9BgAr6N+84oaiP+Z09MW/hIgMH7r3Vg2DQcq76fT0wOk=
+Received: from domain.com (10.163.155.157) by
+ domain.com (10.163.155.155) with Microsoft
+ SMTP Server (TLS) id 15.1.477.8; Mon, 2 May 2015 21:40:27 +0000
+Received: from domain.com ([10.163.155.157]) by
+ domain.com ([10.163.155.157]) with mapi id
+ 15.01.0485.011; Mon, 2 May 2015 21:40:27 +0000
+From: Natalie Raps <nraps@skdknick.com>
+To: Natalie Raps <user@domain.com>
+Subject: Today from the Constitutional Responsibility Project
+Thread-Topic: Today from the Constitutional Responsibility Project
+Thread-Index: AdGkujsLraV9l1nuTW6kWCP1yz6DpgAALgKg
+Date: Mon, 2 May 2015 21:40:25 +0000
+Message-ID: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+authentication-results: skdknick.com; dkim=none (message not signed)
+ header.d=none;skdknick.com; dmarc=none action=none header.from=skdknick.com;
+x-originating-ip: [50.193.144.129]
+x-ms-office365-filtering-correlation-id: eb1773ab-2722-4109-095f-08d372d26050
+x-microsoft-exchange-diagnostics: 1;BY2PR0701MB1942;5:aru8lXRYPza16Sl2MRflO7VinTXS+KkiamrOXDZ4xqEYkd8v61XpSBuUuRNdpirglhjlFQ5jV4pJHpO/BNQ9MdIZl1ISVEUFrOZPb3rMK13IlzIpqBr8BmPYE4gh86195kalR1LqzqSa4NKRJTnIRw==;24:HgZR5yxvQMccTimF4nwOw67JOBb+c6sLmo2hSQT/8wGpHK0vYnQJLcPNXG+tQaYue6z6Tph1TDxDIszJOKjKkcwyRqvTTOeg/uNO/WgXAe0=;7:BC6VYZ7Kc+8ihglhc7zRVezr2TRuPSTOUuzEYya+ews42/rfrELxBkY8rAxMBr85h0WXrwpfAh5Xf3llkMRcatmf7Z/myxP01Yj/gVt1PTGqSodG/jUzn7JmcunWVNk7oDJhousZo+GRqRGwXxOLgIfMgNxHlCIMuwt0xlTvLrDxQ2pLdJ+kP74miFEYB9/+
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:;SRVR:BY2PR0701MB1942;
+x-ld-processed: 51f4a8d4-10a8-4d6c-bc10-f2546164f7db,ExtAddr
+x-microsoft-antispam-prvs: <user@domain.com>
+x-exchange-antispam-report-test: UriScan:;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(9101521096)(601004)(2401047)(5005006)(8121501046)(10201501046)(3002001);SRVR:BY2PR0701MB1942;BCL:0;PCL:0;RULEID:;SRVR:BY2PR0701MB1942;
+x-forefront-prvs: 0930AAFAD9
+x-forefront-antispam-report: SFV:NSPM;SFS:(10019020)(11905935001)(37854004)(243025005)(33656002)(5004730100002)(122556002)(86362001)(11100500001)(81166005)(3660700001)(19580405001)(189998001)(110136002)(74316001)(54356999)(99286002)(3280700002)(19580395003)(107886002)(229853001)(5008740100001)(19617315012)(2906002)(15395725005)(9686002)(15188445003)(5002640100001)(19300405004)(76576001)(15975445007)(2900100001)(77096005)(10400500002)(92566002)(16236675004)(50986999)(5003600100002)(66066001)(6200100001)(19625215002)(6116002)(3846002)(102836003)(87936001)(1220700001)(790700001)(4001450100002)(586003)(7059030)(15398625002);DIR:OUT;SFP:1102;SCL:1;SRVR:BY2PR0701MB1942;H:domain.com;FPR:;SPF:None;MLV:sfv;LANG:en;
+spamdiagnosticoutput: 1:23
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_BY2PR0701MB19449E32F0ADD0FF93E1682BD3790BY2PR0701MB1944_"
+X-MS-Exchange-CrossTenant-originalarrivaltime: 02 May 2015 21:40:25.3927
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 51f4a8d4-10a8-4d6c-bc10-f2546164f7db
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BY2PR0701MB1942
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Today in the fight for a full and functioning Supreme Court: As Senators fl=
+y home for recess, a new poll shows Iowans growing increasingly frustrated =
+with Senator Grassley's Supreme Court obstruction, the New York Times calls=
+ on Senate Republicans to do their job and the media reports that due to Su=
+preme Court vacancy, the justices are accepting fewer cases.
+
+Iowa voters oppose Sen. Chuck Grassley's obstruction of Chief Judge Merrick=
+ Garland's Supreme Court nomination.
+Today, the Constitutional Responsibility Project, in conjunction with the L=
+eague of Conservation Voters, released a new survey of Iowa voters conducte=
+d by Hart Research Associates. Findings confirm that a majority of Iowa vot=
+ers support giving Chief Judge Garland a fair hearing and an up-or-down vot=
+e and believe that Sen. Grassley is playing partisan politics by refusing t=
+o allow the Senate Judiciary Committee to take action on Chief Judge Garlan=
+d's nomination. Both undecided voters and one in five voters who otherwise =
+might be inclined to support Grassley indicate that this issue could drive =
+them to not vote for Senator Grassley in the November general election.
+
+CLICK HERE<<<link>>
+77c6d20160502172400/562eec9c981709e6b29fd2a7cb3fa4d520160502172400/5d0613> =
+to download the audio from today's call. A full memo from Hart Research Ass=
+ociates outlining the survey's findings can be found HERE<<<link>>
+.org/wp-content/uploads/2016/05/Me-WN9-IA.pdf>.
+
+Key findings from the Constitutional Responsibility Project and the League =
+of Conservation Voters survey include:
+
+  *   By a margin of 57 percent to 35 percent, Iowa voters say the Senate s=
+hould hold hearings and give Chief Judge Garland an up-or-down-vote.
+  *   When told about Senator Grassley's position on not allowing a hearing=
+ for Chief Judge Garland, 55 percent of voters have a negative reaction. 59=
+ percent of independents view Senator Grassley's position negatively.
+  *   60 percent of voters, including 63 percent of independents, agree wit=
+h the conclusion that Senator Grassley is letting Senate Majority Leader Mi=
+tch McConnell dictate the Senate Republican position on Chief Judge Garland=
+'s nomination, rather than acting as a leader as chairman of the Judiciary =
+Committee.
+  *   44 percent of all Iowa voters said they are less likely to support Se=
+nator Grassley in his re-election bid this year as a result of his position=
+ to not grant Chief Judge Garland a fair hearing.
+  *   One in five voters who otherwise might be inclined to support Grassle=
+y indicates that this issue could drive them away from him, and half of und=
+ecided voters also say this issue would make them less likely to be with Gr=
+assley in November.
+
+Senate Republicans must rescue the Supreme Court from limbo.
+The New York Times<<<link>>
+the-supreme-court-from-limbo.html?partner=3Drssnyt&emc=3Drss> editorial boa=
+rd calls on Senate Republicans to do their job so the Supreme Court can do =
+its job:
+
+"The consequences of the impasse have been growing graver by the day... It =
+could get worse from here. So far, the justices' docket for the term beginn=
+ing in October is smaller than usual<<<link>>>=
+, and the eight-member court may hesitate before taking on high-profile cas=
+es on controversial topics that are more likely to result in domain.com votes...=
+ Mr. Grassley and his fellow Republicans gambled that anger over their inac=
+tion would fade as the news cycle rolled on and the public's attention turn=
+ed to the presidential campaign. Maybe Republicans are willing to take such=
+ gambles because they believe they don't have anything to lose. But the Ame=
+rican people do."
+
+We'll just kick the can down the road.
+A short-handed Supreme Court is accepting fewer cases for next term. The Wa=
+shington Post<<<link>>
+ath-affecting-next-term-too-pace-of-accepted-cases-at-supreme-court-slows/2=
+016/05/01/1d304d1c-0ecb-11e6-bfa1-4efa856caf2a_story.html> reports:
+
+"The number of cases the justices have accepted has fallen, meaning that a =
+docket that in recent years has been smaller than what is traditional is sh=
+rinking still. The court has accepted only six cases since Scalia died Feb.=
+ 13. The number is low compared with the average.... John P. Elwood, a Wash=
+ington lawyer and Supreme Court specialist, said "having an extra member ma=
+tters. He said there seem to be a number of "defensive denials," meaning ne=
+ither side of the ideologically domain.com court wants to take some cases becaus=
+e of uncertainty about how it will turn out, or whether the court will be a=
+ble to reach a decision."
+
+The facts don't line up with Sen. Grassley's claims.
+The Daily Gate City<<<link>>
+11e6-90bc-bf62cd26e406.html> fact-checks Sen. Chuck Grassley's claim that S=
+upreme Court nominees are not confirmed during election years:
+
+"President Roosevelt nominated Frank Murphy after Justice Butler died in 19=
+39. Justice Murphy was confirmed in 1940. In 1968 Lyndon B. Johnson nominat=
+ed Justice Abe Fortas to replace retiring Chief Justice Earl Warren. The Se=
+nate held confirmation hearings; however, Fortas asked his name to be withd=
+rawn after battling fierce Congressional opposition... By refusing to begin=
+ the process of confirming Merrick Garland, Chuck Grassley isn't following =
+tradition. He's making history. I guess his crystal ball is clearer than th=
+e history books he hasn't been reading."
+
+Sen. Lankford and his Republican colleagues need to stop playing politics w=
+ith the Supreme Court.
+Elizabeth B. Wydra, president of the Constitutional Accountability Center, =
+writes in The Oklahoman<<<link>>
+-supreme-court-nomination/article/5494978>:
+
+"If anyone is 'playing politics' with the Supreme Court, it is Sen. Lankfor=
+d and his Republican colleagues, who are blocking Garland from even getting=
+ a hearing and a yes-or-no vote. America needs a fully staffed, fully funct=
+ioning Supreme Court that can decide cases of profound importance to law en=
+forcement and prosecutors who keep our nation safe, while ensuring that the=
+ people's constitutional rights are protected. It is time for Lankford to d=
+o his job and call for hearings and a vote."
+
+If Justice Scalia were a Senator, he would support hearings and a vote on C=
+hief Judge Garland's nomination.
+Salt Lake County lawyer Lawrence J. Leigh imagines a world in which the lat=
+e Justice Scalia could weigh in on the Republican obstruction around the Su=
+preme Court for the Salt Lake Tribune<<<link>>
+-155/op-ed-sen-scalia-would-have-voted>:
+
+"Sen. Scalia saw instantly that the majority leader was not "the Senate." N=
+or was the Republican Caucus. The "Senate" meant 100 members, two senators =
+from each sovereign state. And the phrase "Advice and Consent" meant a vote=
+ by the Senate either to give or withhold its consent according to the prin=
+ciple of majority rule. The issue was not even a close call. He would speak=
+ in favor of voting up or down on the nomination."
+
+A look ahead at a sampling of activity by our grassroots allies:
+
+TUESDAY 5/03/16
+
+Event: DSCC Press Call on How Supreme Court Obstruction Has Emerged as Elec=
+tion Year Issue
+Time: 10:30AM ET
+Host: DSCC
+Key briefers/speakers: Fred Yang of Garin-Hart-Yang Polling
+RSVP information: Please email Lara Sisselman at user@domain.com<mailto:=
+user@domain.com> to receive a call-in number
+Press Contact: Sadie Weiner, Lauren Passalacqua, 202-545-3524
+
+Event: Don't Trump the Courts Allentown event
+Location: In front of Sen. Toomey's office, 1150 S Cedar Crest Blvd # 101, =
+Allentown, PA 18103
+Host: Americans United for Change
+Press Contact: Aletheia Henry, 614-668-5116, user@domain.com=
+g.com<mailto:user@domain.com>; Pat Millham, 570-854-137=
+8; user@domain.com<mailto:user@domain.com>
+
+Event: Cedar Rapids #DoYourJob Event
+Location: Cedar Rapids, IA
+Time: 12PM local time
+Host: Americans United for Change
+Press Contact: Derek Eadon, 515-954-8630, user@domain.com<mail=
+to:user@domain.com>
+
+Event: Kansas City #DoYourJob event
+Location: Sen. Blunt's office, 1000 Walnut Street, Suite # 1560
+Kansas City, MO 64106
+Host: Americans United for Change
+Press Contact: Martin Casas, user@domain.com<mailto:user@domain.com=
+
+Event: Springfield #DoYourJob event
+Location: Sen. Blunt's office, 260 Russell Senate Office Bldg, Washington, =
+DC 20510
+Host: Americans United for Change
+Press Contact: Martin Casas, user@domain.com<mailto:user@domain.com=
+
+WEDNESDAY 5/04/16
+
+Event: Tucson #DoYourJob Event
+Location: Tucson, AZ
+Host: Americans United for Change
+Press Contact: Rodd McCleod, 347-387-1010, user@domain.com<mailto:rod=
+user@domain.com>
+
+Event: Asheville #DoYourJob Event
+Location: Ashville, NC
+Time: 5PM local time
+Host: Americans United for Change
+Press Contact: Gerrick Brenner, 919-452-2248, user@domain.com=
+<mailto:user@domain.com>
+
+Event: Charlotte #DoYourJob Event
+Location: Charlotte, NC
+Time: 12PM local time
+Host: Americans United for Change
+Press Contact: Gerrick Brenner, 919-452-2248, user@domain.com=
+<mailto:user@domain.com>
+
+Event: St. Louis #DoYourJob Event
+Location: Outside of Senator Blunt's St. Louis Office, 7700 Bonhomme, Clayt=
+on, MO 63105
+Host: Americans United for Change
+Press Contact: Martin Casas, user@domain.com<mailto:user@domain.com=
+
+Event: Jefferson City #DoYourJob Event
+Location: Missouri State Capitol, 201 W Capitol Ave, Jefferson City, MO 651=
+01
+Host: Americans United for Change
+Press Contact: Martin Casas, user@domain.com<mailto:user@domain.com=
+
+Event: Portsmouth #DoYourJob event
+Location: Sen. Ayotte's Office, 14 Manchester Square, Ste 140
+Portsmouth, NH 03801
+Time: 12PM local time
+Host: Americans United for Change
+Press Contact: Liz Purdy, 603-731-2200, user@domain.com<mailto:user@domain.com=
+domain.com>
+
+Event: Des Moines #DoYourJob event
+Location: Sen. Grassley's Office, 210 Walnut St #721, Des Moines, IA 50309
+Time: 12PM local time
+Host: Americans United for Change
+Press Contact: Derek Eadon, 515-954-8630, user@domain.com<mail=
+to:user@domain.com>
+
+THURSDAY 5/05/16
+
+Event: Phoenix #DoYourJob event
+Location: Phoenix, AZ
+Host: Americans United for Change
+Press Contact: Rodd McCleod, 347-387-1010, user@domain.com<mailto:rod=
+user@domain.com>
+
+Event: #DoYourJob NH Coalition recess protest
+Location: Sen. Ayotte's Manchester Office, 1200 Elm Street, Suite 2
+Manchester, NH 03101-2503
+Time: 12PM local time
+Press Contact: Liz Purdy, 603-731-2200, user@domain.com<mailto:user@domain.com=
+domain.com>
+
+Event: Youngstown #DoYourJob event with Rep. Tim Ryan
+Location: Youngstown, OH
+Host: Americans United for Change
+Press Contact: Joanne Pickrell, 614-364-1442, user@domain.com<mai=
+lto:user@domain.com>
+
+###
+

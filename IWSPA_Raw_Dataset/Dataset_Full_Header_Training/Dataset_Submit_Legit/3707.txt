@@ -1,0 +1,106 @@
+Received: from domain.com (146.215.230.105) by
+ domain.com (43.130.141.76) with Microsoft SMTP Server id
+ 8.3.342.0; Thu, 29 May 2015 14:36:17 -0700
+Received: from domain.com ([160.33.194.231])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s4TLaFRl013867	for <user@domain.com>; Thu, 29 May 2015 
+ 21:36:15 GMT
+Received: from mail46-co9-domain.com (mail-domain.com [207.46.163.18])
+	by domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s4TLbn1a011264	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128
+ verify=FAIL)	for <user@domain.com>; Thu, 29 May 2015 21:37:50 GMT
+Received: from mail46-co9 (localhost [127.0.0.1])	by mail46-co9-domain.com
+ (Postfix) with ESMTP id 109824402E5	for <user@domain.com>; Thu, 29
+ May 2015 21:36:12 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:216.27.86.134;KIP:(null);UIP:(null);SRV:BULK;H:domain.com;RD:domain.com;EFVD:NLI
+X-SpamScore: 1
+X-BigFish: vps1(z588dhzc857hfd3Izz1f42h1ee6h1de0h1fdah2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6h208chzz1de098h1def03h17326ah172cdfh1def87h8275bh1bc7b9h1def86h19a27bh1de097h186068hc704dh18602eh1ce121iz2fheh5fh839h8aaha12hd25h10d2h1288h12a5h137ah13eah1441h1537h153bh162dh1631h1758h18e1h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1fe8h1ff5h20f0h2216h2336h2438h2461h2487h24d7h2516h2545h255dh255eh25f6h2605h268bh26d3h27e2h282bh2847h28a1h255fi)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail46-co9: domain of domain.com designates 216.27.86.134 as permitted sender) client-ip=216.27.86.134; envelope-from=bounces+348531.71075294.891186@domain.com; helo=domain.com ;domain.com ;
+Received: from mail46-co9 (localhost.localdomain [127.0.0.1]) by mail46-co9
+ (MessageSwitch) id 1401399369730388_19071; Thu, 29 May 2015 21:36:09 +0000
+ (UTC)
+Received: from domain.com (unknown [10.236.132.237])	by
+ mail46-domain.com (Postfix) with ESMTP id ADF523A01EC	for
+ <user@domain.com>; Thu, 29 May 2015 21:36:09 +0000 (UTC)
+Received: from domain.com (216.27.86.134) by
+ domain.com (10.236.130.32) with Microsoft SMTP Server id
+ 14.16.227.3; Thu, 29 May 2015 21:36:06 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=default; d=domain.com;
+ h=Mime-Version:From: "Justin J. Navin" <justin@raimanrocks.com>
+ bh=HZ9nBB79OTKLtNeuk5pOXsuqITRZtR38/SQyjvsxZ6M=;
+ b=krOD22KapRsCJbxO8SJ96wdBzfEnguiLq78mn405vmHkBOP1ocK4vTZl/5GtL64m1XJRrFy7tPuu
+   sRr/ZAGXmLdAlHeZJA7S2XxccwwUe+jEA09sjpvdcKO0/DgAPuBXfTSePv5JL9qzF7d38kDNC2YI
+   HymPIlDTr/CN/hVVVU4=
+From: "Justin J. Navin" <justin@raimanrocks.com>
+To: <user@domain.com>
+Date: Thu, 29 May 2015 17:36:05 -0400
+Reply-To: <user@domain.com>
+Subject: A Rare 17 Carat Canary Diamond Ring!
+Errors-To: bounces+348531.71075294.891186@domain.com
+List-Unsubscribe: <<<link>>>, <mailto:bounces+348531.71075294.891186@domain.com>
+X-List-Unsubscribe: <<<link>>>
+X-Unsubscribe-Web: <<<link>>>
+X-Feedback-ID: 01_348531_891186:01_348531:01:vocus
+X-ICPINFO: 
+X-Return-Path-Hint: bounces+348531.71075294.891186@domain.com
+Message-ID: <0.1.user@domain.com>
+Return-Path: bounces+348531.71075294.891186@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+<<link>>
+
+
+
+<<link>>
+
+
+
+Large and Natural Fancy Colored Diamonds
+
+
+
+domain.com
+
+
+
+310-774-6613
+
+
+
+Large, Rare and Naturally Impressive!
+
+
+
+
+<<link>>
+
+
+
+This monumental Natural Fancy Light Yellow Radiant Cut Diamond weighs an impressive 17.49 carats with I1 Clarity and is certified by the Gemological Institute of America (GIA).
+
+
+
+The diamond has been carefully mounted in a beautifully handmade platinum and 18k yellow gold ring and is flanked by two natural colorless tapered baguettes weighing approximately 1.03cttw. 
+
+
+
+$325,000 Total
+
+
+
+
+Click Here For The Video 
+
+
+
+
+EMAIL ME TODAY!
+
+
+
+
+<<link>>
+

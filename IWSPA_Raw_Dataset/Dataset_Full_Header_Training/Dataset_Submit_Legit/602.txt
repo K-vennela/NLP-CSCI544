@@ -1,0 +1,302 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 26 Apr
+ 2015 08:00:42 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 26 Apr 2015 
+ 08:00:38 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 879841615
+ for user@domain.com; Tue, 26 Apr 2015 07:00:43 -0500
+X-Note-AR-ScanTimeLocal: 4/26/2016 7:00:42 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:167.89.47.62 DOM:email.medium.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 100
+X-GBUdb-Analysis: 0, 167.89.47.62, Ugly c=0.323114 p=0.0434783 Source Normal
+X-Signature-Violations: 100-5946619-14543-14557-m
+	100-5946619-0-32767-f
+X-Note-419: 46.8793 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 4/26/2016 7:00:23 AM
+X-Warn: BOUNCETRACKER Bounce User Tracking Found
+X-Warn: BULKMAILER
+X-Note: Spam Tests Failed: BOUNCETRACKER, BULKMAILER
+X-Country-Path: United States->->United States->
+X-Note-Sending-IP: 167.89.47.62
+X-Note-Reverse-DNS: o2.email.medium.com
+X-Note-Return-Path: bounces+1823144-5user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G280 G285 G339 G373 G572 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from o2.email.medium.com ([167.89.47.62] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 135355571
+ for user@domain.com; Tue, 26 Apr 2015 07:00:41 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=medium.com; 
+	h=content-type:From: Medium Daily Digest <noreply@medium.com>
+	s=m1; bh=t5m4Ld8mvD4ePmO0sJGsrSTZfp4=; b=VM3bnc7w3aQnBa8o+uA/ohB
+	WOfSSzpJa5+D/1zCQcnhVcO3TfO9chcMit7T62U6YAGnavujANevzVx1XEhgt6h2
+	VSfCz1dnRKhEgaN6Y4CkMnoilHk/z4ZyOpvYg/8nY0Ws/OgBJ3CTMSMSQmA+dShV
+	nhJDwauuNohO7O4dJZH4=
+Received: by domain.com with SMTP id
+ filter0571p1mdw1.3325.571F585D6C        2016-04-26 12:00:29.620239237 +0000
+ UTC
+Received: from MTgyMzE0NA (ec2-54-175-48-214.compute-1.domain.com
+ [54.175.48.214])	by domain.com (SG) with HTTP id
+ UFFS7qJ-TQyTQbU46fqWAw	for <user@domain.com>; Tue, 26 Apr 2015 12:00:26.204
+ +0000 (UTC)
+Content-Type: multipart/alternative;
+	boundary="7e6fc37ca6cc5a3c3f54b2ac5b13a4b10de819985609c403baabdf006ba1"
+Date: Tue, 26 Apr 2015 12:00:26 +0000
+From: Medium Daily Digest <noreply@medium.com>
+List-Unsubscribe: <<<link>>>
+Reply-To: <user@domain.com>
+Subject: =?UTF-8?Q?=E2=80=9CYour_Media_Business_Will_Not_Be_Saved=E2=80=9D_publish?=
+ =?UTF-8?Q?ed_by_Joshua_Topolsky?=
+To: <user@domain.com>
+Message-ID: <user@domain.com>
+X-SG-EID: /qskMPcwxb1VaCv1PswYfL3cIKK16+tE+dB/q/CjBM3b5VNHmDiFHzZtz1FQPw55wPtw70eEf+MEvB
+ jkXiPfpKSXAIbKiRAdZ5T786TTUxwzpQh0El12stdqG4B3R57MH5lY5Ku2aVBBspzg5YXpnBAOlQKO
+ o++1Ws0wlz6wFRHHuWqEczt0YOYALjZ+D8ocXD2wFZu56ccCiJ/jDAiV5WMA8ZG5iVRiB31+Ud8y4Z
+ U=
+X-SG-ID: D6Z+UOEZAHNtlrjTKHUMD8gWmPfH8nl57kTj6DuuOVMj361yjHfm7LmUxJyoOqisQ4rNPVJM1Wz7y6
+ LFwXLvrQ==
+Return-Path: bounces+1823144-5user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Medium Daily Digest (<<link>>
+1772358-daily_digest) Most recommended by
+
+People you follow
+
+Your Media Business Will Not Be Saved (<<link>>
+our-media-business-will-not-be-saved-1b0716b5010c?source=3Demail-7ccd17ba0f=
+59-1461671772358-daily_digest&sectionName=3Drecommended) Video will not sav=
+e your media business. Nor will bots, newsletters, or Slack integration. (h=
+ttps://medium.com/@joshuatopolsky/your-media-business-will-not-be-saved-1b0=
+716b5010c?source=3Demail-7ccd17ba0f59-1461671772358-daily_digest&sectionNam=
+e=3Drecommended) Video will not save your media business. Nor will bots, ne=
+wsletters, a =E2=80=9Cmorning briefing=E2=80=9D app, a =E2=80=9Clean back=
+=E2=80=9D iPad experience, Slack integration, a Snapchat channel, or a grea=
+t partnership with=E2=80=A6 (<<link>>
+business-will-not-be-saved-1b0716b5010c?source=3Demail-7ccd17ba0f59-1461671=
+772358-daily_digest&sectionName=3Drecommended)
+
+Joshua Topolsky (<<link>>
+0f59-1461671772358-daily_digest)6 min read
+
+Jon Ward (<<link>>
+772358-daily_digest)
+
+Donald Trump is the Death Rattle of TV News (<<link>>
+donald-trump-is-the-death-rattle-of-tv-news-bf340268aea8?source=3Demail-7cc=
+d17ba0f59-1461671772358-daily_digest&sectionName=3Drecommended) Weak domain.com=
+s and Weaker Minds Sold us Out (<<link>>
+is-the-death-rattle-of-tv-news-bf340268aea8?source=3Demail-7ccd17ba0f59-146=
+1671772358-daily_digest&sectionName=3Drecommended) in Soapbox DC (<<link>>
+domain.com/soapbox-dc?source=3Demail-7ccd17ba0f59-1461671772358-daily_digest=
+), by Luke Thompson (<<link>>
+f59-1461671772358-daily_digest)4 min read
+
+craignewmark (<<link>>
+1461671772358-daily_digest)
+
+Why Am I Here? (<<link>>
+2c?source=3Demail-7ccd17ba0f59-1461671772358-daily_digest&sectionName=3Drec=
+ommended) 6 Months On Medium (<<link>>
+ere-35d85e091c2c?source=3Demail-7ccd17ba0f59-1461671772358-daily_digest&sec=
+tionName=3Drecommended) Alex Edwards (<<link>>
+urce=3Demail-7ccd17ba0f59-1461671772358-daily_digest)13 min read
+
+Published by
+
+Authors and publications you follow
+
+Why We=E2=80=99re Heading Back to Philadelphia Today: (<<link>>
+VPOTUS/why-we-re-heading-back-to-philadelphia-today-ccd7e3c7309a?source=3De=
+mail-7ccd17ba0f59-1461671772358-daily_digest&sectionName=3Dpublished) By Vi=
+ce President Joe Biden and Dr. Jill Biden (<<link>>
+e-re-heading-back-to-philadelphia-today-ccd7e3c7309a?source=3Demail-7ccd17b=
+a0f59-1461671772358-daily_digest&sectionName=3Dpublished) Whenever we have =
+the opportunity to travel to a community college together =E2=80=94 as we a=
+re today =E2=80=94 we feel truly at home. =C2=B6
+
+And that=E2=80=99s not just because one of us teaches full-time at one. =C2=
+=B6
+
+It=E2=80=99s=E2=80=A6
+
+Vice President Biden (<<link>>
+9-1461671772358-daily_digest)4 min read
+
+The Crisis in American Policing (<<link>>
+n-american-policing-26877fb63dd4?source=3Demail-7ccd17ba0f59-1461671772358-=
+daily_digest&sectionName=3Dpublished) By Malcolm Sparrow (<<link>>
+m/@Brookings/the-crisis-in-american-policing-26877fb63dd4?source=3Demail-7c=
+cd17ba0f59-1461671772358-daily_digest&sectionName=3Dpublished) The Brooking=
+s Institution (<<link>>
+61671772358-daily_digest)6 min read
+
+ESSA Provides the Potential for a Reset (<<link>>
+sa-provides-the-potential-for-a-reset-3f7607c2c349?source=3Demail-7ccd17ba0=
+f59-1461671772358-daily_digest&sectionName=3Dpublished) Imagine if =E2=80=
+=A6 (<<link>>
+t-3f7607c2c349?source=3Demail-7ccd17ba0f59-1461671772358-daily_digest&secti=
+onName=3Dpublished) Randi Weingarten (<<link>>
+e=3Demail-7ccd17ba0f59-1461671772358-daily_digest)4 min read
+
+What does Donald Trump think of voters in Tuesday=E2=80=99s primary states?=
+ (<<link>>
+-primary-states-97c8baf7505d?source=3Demail-7ccd17ba0f59-1461671772358-dail=
+y_digest&sectionName=3Dpublished) Bringing Free Trump Score to the individu=
+al level (<<link>>
+uesday-s-primary-states-97c8baf7505d?source=3Demail-7ccd17ba0f59-1461671772=
+358-daily_digest&sectionName=3Dpublished) Josh Hendler (<<link>>
+@joshhendler?source=3Demail-7ccd17ba0f59-1461671772358-daily_digest)3 min r=
+ead
+
+Education for Our Students=E2=80=99 Survival (<<link>>
+tED/education-for-our-students-survival-ffa5224cec2f?source=3Demail-7ccd17b=
+a0f59-1461671772358-daily_digest&sectionName=3Dpublished) When I think abou=
+t the impact teachers have on the lives of students, I=E2=80=99m reminded o=
+f the words of Children=E2=80=99s Defense Fund founder, Marian=E2=80=A6 (ht=
+tps://medium.com/@JohnKingAtED/education-for-our-students-survival-ffa5224c=
+ec2f?source=3Demail-7ccd17ba0f59-1461671772358-daily_digest&sectionName=3Dp=
+ublished) John King (<<link>>
+ba0f59-1461671772358-daily_digest)4 min read
+
+Restoring Americans=E2=80=99 Trust in Government by Modernizing Government =
+Technology (<<link>>
+rnment-by-modernizing-government-technology-864c27951d6d?source=3Demail-7cc=
+d17ba0f59-1461671772358-daily_digest&sectionName=3Dpublished) One of Americ=
+a=E2=80=99s greatest strengths is the constant innovation our people and bu=
+sinesses bring to the world through new technology=E2=80=A6 (<<link>>
+.com/@WhipHoyer/restoring-americans-trust-in-government-by-modernizing-gove=
+rnment-technology-864c27951d6d?source=3Demail-7ccd17ba0f59-1461671772358-da=
+ily_digest&sectionName=3Dpublished) Steny Hoyer (<<link>>
+yer?source=3Demail-7ccd17ba0f59-1461671772358-daily_digest)4 min read
+
+POLITICO Playbook: ROGER STONE on Donald Trump: =E2=80=98He=E2=80=99s not g=
+oing to read a 40-page white paper on=E2=80=A6 (<<link>>
+en/politico-playbook-roger-stone-on-donald-trump-he-s-not-going-to-read-a-4=
+0-page-white-paper-on-425cedb42ea0?source=3Demail-7ccd17ba0f59-146167177235=
+8-daily_digest&sectionName=3Dpublished) Good Monday morning. PLAYBOOK CRYST=
+AL BALL: Behind the scenes, most top Republicans =E2=80=94 in Congress, on =
+K Street and beyond =E2=80=94 assume a=E2=80=A6 (<<link>>
+len/politico-playbook-roger-stone-on-donald-trump-he-s-not-going-to-read-a-=
+40-page-white-paper-on-425cedb42ea0?source=3Demail-7ccd17ba0f59-14616717723=
+58-daily_digest&sectionName=3Dpublished) Mike Allen (<<link>>
+keallen?source=3Demail-7ccd17ba0f59-1461671772358-daily_digest)18 min read
+
+Malaria=E2=80=99s toll: Close to one African child killed every 2 minutes (=
+<<link>>
+led-every-2-minutes-341717cdd402?source=3Demail-7ccd17ba0f59-1461671772358-=
+daily_digest&sectionName=3Dpublished) By Jon Greenberg, PolitiFact staff wr=
+iter (<<link>>
+ld-killed-every-2-minutes-341717cdd402?source=3Demail-7ccd17ba0f59-14616717=
+72358-daily_digest&sectionName=3Dpublished) PolitiFact (<<link>>
+@PolitiFact?source=3Demail-7ccd17ba0f59-1461671772358-daily_digest)4 min re=
+ad
+
+POLITICO Playbook: DRY RUN FOR CLEVELAND: Delegates wooed in Fla. =E2=80=94=
+ CRUZ, KASICH begin V.P. vets (<<link>>
+ook-dry-run-for-cleveland-delegates-wooed-in-fla-cruz-kasich-begin-v-p-vets=
+-6647bb0416be?source=3Demail-7ccd17ba0f59-1461671772358-daily_digest&sectio=
+nName=3Dpublished) Happy Friday! 200 days to Election Day, Nov. 8. It=E2=80=
+=99s Earth Day. Passover begins at sunset. (<<link>>
+olitico-playbook-dry-run-for-cleveland-delegates-wooed-in-fla-cruz-kasich-b=
+egin-v-p-vets-6647bb0416be?source=3Demail-7ccd17ba0f59-1461671772358-daily_=
+digest&sectionName=3Dpublished) Mike Allen (<<link>>
+ource=3Demail-7ccd17ba0f59-1461671772358-daily_digest)17 min read
+
+Recommended by
+
+Medium Staff
+
+I Tried to Green My Apartment by Learning From the Weed-Growing Community (=
+<<link>>
+g-from-the-weed-growing-community-4b08e72aef86?source=3Demail-7ccd17ba0f59-=
+1461671772358-daily_digest&sectionName=3Dsuggested) Doesn=E2=80=99t every c=
+ity dweller deserve somewhere to grow their own food, even if it=E2=80=99s =
+just a bucket? (<<link>>
+tment-by-learning-from-the-weed-growing-community-4b08e72aef86?source=3Dema=
+il-7ccd17ba0f59-1461671772358-daily_digest&sectionName=3Dsuggested) There a=
+re two things I don=E2=80=99t know if I=E2=80=99ll ever have: a kid and a g=
+arden. My parents had both. My childhood was green and quiet, leafy and loa=
+my, and we grew things in the yard sometimes =E2=80=94 squash=E2=80=A6 (htt=
+ps://medium.com/@leighalexander/i-tried-to-green-my-apartment-by-learning-f=
+rom-the-weed-growing-community-4b08e72aef86?source=3Demail-7ccd17ba0f59-146=
+1671772358-daily_digest&sectionName=3Dsuggested)
+
+in How We Get To Next (<<link>>
+-7ccd17ba0f59-1461671772358-daily_digest), by Leigh Alexander (<<link>>
+domain.com/@leighalexander?source=3Demail-7ccd17ba0f59-1461671772358-daily_dige=
+st)14 min read
+
+Things I learned working on Serial (<<link>>
+arned-working-on-serial-3660c4392d5c?source=3Demail-7ccd17ba0f59-1461671772=
+358-daily_digest&sectionName=3Dsuggested) N.B.: The last day of my seasonal=
+ contract with Serial was Friday, April 15, 2016, and I=E2=80=99m posting o=
+n my personal account, so this is from=E2=80=A6 (<<link>>
+d/things-i-learned-working-on-serial-3660c4392d5c?source=3Demail-7ccd17ba0f=
+59-1461671772358-daily_digest&sectionName=3Dsuggested) Kristen Taylor (http=
+s://medium.com/@kthread?source=3Demail-7ccd17ba0f59-1461671772358-daily_dig=
+est)7 min read
+
+Nursery Rhymes I Now Sing to My Kids Thanks to This Stupid Election (https:=
+//medium.com/@honeystaysuper/nursery-rhymes-i-now-sing-to-my-kids-thanks-to=
+-this-stupid-election-e9a10470cfdf?source=3Demail-7ccd17ba0f59-146167177235=
+8-daily_digest&sectionName=3Dsuggested) Baa baa black sheep, Have you any w=
+ool? No sir, no sir, The millionaires and billionaires have it, sorry. (htt=
+ps://medium.com/@honeystaysuper/nursery-rhymes-i-now-sing-to-my-kids-thanks=
+-to-this-stupid-election-e9a10470cfdf?source=3Demail-7ccd17ba0f59-146167177=
+2358-daily_digest&sectionName=3Dsuggested) Kimberly Harrington (<<link>>
+domain.com/@honeystaysuper?source=3Demail-7ccd17ba0f59-1461671772358-daily_dig=
+est)3 min read
+
+Top stories in
+
+news
+
+Visual Studio Code reaches 1.0 (<<link>>
+-studio-code-reaches-1-0-509c6456eea7?source=3Demail-7ccd17ba0f59-146167177=
+2358-daily_digest&sectionName=3Dtag) Microsoft knows how to keep eager deve=
+lopers waiting and waiting. For approximately one year, the company has kep=
+t its cross-platform text=E2=80=A6 (<<link>>
+sual-studio-code-reaches-1-0-509c6456eea7?source=3Demail-7ccd17ba0f59-14616=
+71772358-daily_digest&sectionName=3Dtag) editor for developers in beta. =C2=
+=B6
+
+That all changed now that Microsoft has released version 1.0 of Visual Stud=
+io Code. In spite of the long delay, the text editor has already proven pop=
+ular with=E2=80=A6
+
+WebdesignerDepot (<<link>>
+7ba0f59-1461671772358-daily_digest)3 min read
+
+Coca Cola Globally Showcases Its New Design Language (<<link>>
+ebdesignerDepot/coca-cola-globally-showcases-its-new-design-language-a79e8e=
+eacf39?source=3Demail-7ccd17ba0f59-1461671772358-daily_digest&sectionName=
+=3Dtag) In a move that=E2=80=99s billed as worldwide brand unification, the=
+ Coca Cola Company announced a major redesign of its look this week. The ne=
+w=E2=80=A6 (<<link>>
+es-its-new-design-language-a79e8eeacf39?source=3Demail-7ccd17ba0f59-1461671=
+772358-daily_digest&sectionName=3Dtag) WebdesignerDepot (<<link>>
+/@WebdesignerDepot?source=3Demail-7ccd17ba0f59-1461671772358-daily_digest)2=
+ min read
+
+Read more on Medium: <<link>>
+1772358-daily_digest
+Connect with us on:
+---
+Sent by Medium, 760 Market Street, 9th floor, San Francisco, CA 94102
+To unsubscribe, domain.com <<link>>
+61f598a6cd0390b9d2c771d8624e7?source=3Demail-7ccd17ba0f59-1461671772358-dai=
+ly_digest&type=3Dsocial

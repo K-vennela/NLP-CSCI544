@@ -1,0 +1,62 @@
+Received: from domain.com (146.215.230.105) by
+ domain.com (43.130.141.77) with Microsoft SMTP Server id
+ 8.3.342.0; Tue, 8 Jul 2015 16:58:56 -0700
+Received: from domain.com ([160.33.194.228])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s68Nwttv027970	for <user@domain.com>; Tue, 8 Jul 2015 
+ 23:58:55 GMT
+Received: from mail119-ch1-domain.com (mail-domain.com
+ [216.32.181.174])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s68NvKZj000968
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Tue, 8 Jul 2015 23:57:21 GMT
+Received: from mail119-ch1 (localhost [127.0.0.1])	by
+ mail119-ch1-domain.com (Postfix) with ESMTP id E6EFB4E0135	for
+ <user@domain.com>; Tue,  8 Jul 2015 23:58:54 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:66.220.155.137;KIP:(null);UIP:(null);IPV:NLI;H:mx-domain.com;RD:domain.com;EFVD:NLI
+X-SpamScore: 6
+X-BigFish: vps6(z59c9h5574hzc89bhe0eahc857h4015Izz1f42h1ee6h1de0h2073h2146h1202h1e76h2189h1d2ah21bch1fc6h208ch1fdahzz8275ch1de098h1def03h174790h17326ah1df2f4h8275bh1bc7b9h19a27bh1de097h186068h1b778fh1ce120hz2fh5fh13eh2a8h55eh839hd24h10d2h1288h12bdh137ah139eh13eah1441h1537h162dh1631h1758h1898h18e1h1901h1946h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1e23h1ff5h20f0h2218h2216h226dh22d0h24afh2327h2336h2461h2487h24d7h2516h2545h255eh25f6h2605h268bh26d3h27e2h282bh28a1h28b0h29d0h2a24h2b05h9a9j2a6dm)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail119-ch1: domain of facebookmail.com designates 66.220.155.137 as permitted sender) client-ip=66.220.155.137; envelope-from=notification+user@domain.com; helo=mx-domain.com ;domain.com ;
+Received: from mail119-ch1 (localhost.localdomain [127.0.0.1]) by mail119-ch1
+ (MessageSwitch) id 1404863932961414_11346; Tue,  8 Jul 2015 23:58:52 +0000
+ (UTC)
+Received: from domain.com (domain.com
+ [10.43.68.253])	by mail119-domain.com (Postfix) with ESMTP id E748C6004C
+	for <user@domain.com>; Tue,  8 Jul 2015 23:58:52 +0000 (UTC)
+Received: from mx-domain.com (66.220.155.137) by
+ domain.com (10.43.69.245) with Microsoft SMTP Server (TLS) id
+ 14.16.227.3; Tue, 8 Jul 2015 23:58:52 +0000
+Received: from domain.com
+ (MxCBJ9wKCbw8kuiYbFTwQYFgbnnyr2jKUoQ/8poPkkd5xGuu5LM9WXjeD/waYmlP
+ 10.223.101.89) by domain.com with Thrift id
+ d0011f2c06fb11e4a4f224be0595e2e0-be2f6430; Tue, 08 Jul 2015 16:58:52 -0700
+X-Facebook: from 10.88.26.33 ([MTI3LjAuMC4x]) 
+	by domain.com with HTTP (ZuckMail);
+Date: Tue, 8 Jul 2015 16:58:52 -0700
+To: Aunt Amy <user@domain.com>
+From: Facebook <notification+zrdoccze61ff@facebookmail.com>
+Reply-To: noreply <user@domain.com>
+Subject: Hannah Minghella added a new photo to the album Mobile Uploads
+Message-ID: <user@domain.com>
+X-Priority: 3
+X-Mailer: ZuckMail [version 1.00]
+Errors-To: notification+user@domain.com
+X-Facebook-Notify: friend_activity; mailid=a2682eaG5af31b8291b9G0G109G24b8d9e
+X-FACEBOOK-PRIORITY: 0
+X-Auto-Response-Suppress: All
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=facebookmail.com;
+	s=s1024-2013-q3; t=1404863932;
+	bh=eeXSG0kO06LV66s6J28Xvobl5n6qoV2+pgAFFktSBn0=;
+	h=Date:To:From: Facebook <notification+zrdoccze61ff@facebookmail.com>
+	b=piylYqvAR+dNdMdIqlm6mJuYHLp9gj27Nh49YTKJ1fwl4sQpRyEelJh5+e0I5G/NP
+	 HWYZuTAdd+rjPP2uNf4jeRCMF56sZU4kaxMOVwUODlO01KXLOxQaD1tb+CZ/LlbmDA
+	 CQvFl6APPg2JXBdllodg3oafnqLvOk1X8gBu705c=
+Return-Path: notification+user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+Hannah Minghella added a new photo to the album Mobile Uploads . Hannah Minghella Like · Comment · Share 3 people like this.
+facebook        
+

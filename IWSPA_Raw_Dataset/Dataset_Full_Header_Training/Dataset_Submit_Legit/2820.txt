@@ -1,0 +1,71 @@
+Received: from domain.com (146.215.230.102) by
+ ussdixhub22.spe.sony.com (43.130.141.77) with Microsoft SMTP Server id
+ 8.3.297.1; Mon, 18 Nov 2015 18:11:22 -0800
+Received: from domain.com ([160.33.194.229])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id rAJ2BLGC027780	for <user@domain.com>; Tue, 19 Nov 2015 
+ 02:11:21 GMT
+Received: from mail99-am1-domain.com (mail-domain.com
+ [213.199.154.201])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id rAJ2BKc9005320
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Tue, 19 Nov 2015 02:11:21 GMT
+Received: from mail99-am1 (localhost [127.0.0.1])	by mail99-am1-domain.com
+ (Postfix) with ESMTP id D49714A01A4	for <user@domain.com>; Tue, 19
+ Nov 2015 02:11:19 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:64.70.28.4;KIP:(null);UIP:(null);IPV:NLI;H:domain.com;RD:hide-domain.com;EFVD:NLI
+X-SpamScore: -1
+X-BigFish: vps-1(z920Iz1b0bIzz1f42h208ch1ee6h1de0h1fdah2073h2146h1202h1e76h1d1ah1d2ah1fc6hzz8275ch1de098h17326ah1def87h8275bh1bc7b9h1def03h1def86h1de097h1de096h186068h1954cbh172c6ch1def83h1ce121iz2dh839h944h950hd25h107ah10d2h11b5h121eh1288h12a5h12bdh137ah13b6h13eah1441h14afh1537h153bh162dh1631h1758h18e1h1946h19b5h1b0ah1b88h2222h224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1fe8h1ff5h2216h1155h)
+X-FFO-Routing-Override: spe.sony.com%sentrionwest-1422.domain.com;
+Received: from mail99-am1 (localhost.localdomain [127.0.0.1]) by mail99-am1
+ (MessageSwitch) id 13848270775894_30184; Tue, 19 Nov 2015 02:11:17 +0000
+ (UTC)
+Received: from domain.com (unknown [10.3.201.245])	by
+ mail99-domain.com (Postfix) with ESMTP id F1DCE3000C8	for
+ <user@domain.com>; Tue, 19 Nov 2015 02:11:16 +0000 (UTC)
+Received: from domain.com (64.70.28.4) by domain.com
+ (10.3.207.101) with Microsoft SMTP Server id 14.16.227.3; Tue, 19 Nov 2015 
+ 02:11:16 +0000
+Received: from domain.com (unknown [64.70.28.66])	by
+ domain.com (Postfix) with ESMTP id B568D3D4010B	for
+ <user@domain.com>; Mon, 18 Nov 2015 21:11:15 -0500 (EST)
+Received: by domain.com (Postfix, from userid 30080)
+	id A865C3C04C69; Mon, 18 Nov 2015 21:11:15 -0500 (EST)
+To: <user@domain.com>
+Reply-To: <user@domain.com>
+Errors-to: user@domain.com
+From: <elizabeth_cantillon@spe.sony.com>
+Subject: A friend thought you might be interested in this article
+Message-ID: <20131119021115.user@domain.com>
+Date: Mon, 18 Nov 2015 21:11:15 -0500
+Return-Path: user@domain.com
+Status: RO
+X-libpst-forensic-sender: /O=SONY/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=1323A152-B1508E08-88256FE1-7F075C
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+<<link>>     <<link>>    
+
+ <<link>>   
+
+Hello,
+
+user@domain.com thought you would be interested in this article from domain.com:
+
+Vote Lands Albuquerque at Center of Abortion Battle
+
+<<link>>
+
+Please note that sender's email address has not been verified. This message was sent as an FYI by a user of domain.com.
+
+Comments: Grace's latest piece on domain.com.
+
+---------------------------------------------------------------------
+
+For more stories, domain.com domain.com: <<link>>
+
+Get TIME Magazine -- Try 4 Issues Free!
+
+Search all back-issues of TIME since 1923 for TIME's unique perspe
+

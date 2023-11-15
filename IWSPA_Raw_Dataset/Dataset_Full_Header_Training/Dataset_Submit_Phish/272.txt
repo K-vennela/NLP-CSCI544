@@ -1,0 +1,29 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [10.23.1.4])
+	by domain.com (Postfix) with ESMTP id C912D536E13
+	for <user@domain.com>; Thu,  6 Jan 2015 07:51:50 -0500 (EST)
+Received: from domain.com (domain.com [192.168.64.8])
+	by domain.com (Postfix) with ESMTP id A754785B124
+	for <user@domain.com>; Thu,  6 Jan 2015 07:48:11 -0500 (EST)
+Received: from ARennes-351-1-61-124.w82-126.abo.wanadoo.fr (ARennes-351-1-61-124.w82-126.abo.wanadoo.fr [82.126.97.124])
+	by domain.com (Postfix) with SMTP id 37D8E1836A7
+	for <user@domain.com>; Thu,  6 Jan 2015 07:51:47 -0500 (EST)
+Date: Thu, 06 Jan 2015 12:47:41 +0000
+From: vBankWorks <support@vbankworks.com>
+To: user@domain.com
+Subject: Valley Security Alert
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+Message-Id: <20050106125147.37user@domain.com>
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 67
+
+Dear vBankWorks user,
+Fraudulent activity has been registered on some of our accounts. Click here to prove your identity. Not proved accounts will be suspended.
+Once you have confirmed your account records you will be able to continue using your vBankWorks Online Banking services.
+Copyright © 2015 Valley National Bank, 1455 Valley Road, Wayne, New Jersey 07470.

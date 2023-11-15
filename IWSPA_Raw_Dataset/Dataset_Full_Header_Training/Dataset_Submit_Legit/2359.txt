@@ -1,0 +1,32 @@
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ dnchubcas2.dnc.org ([::1]) with mapi id 14.03.0224.002; Mon, 2 May 2015 
+ 16:31:19 -0400
+From: "Manriquez, Pablo" <ManriquezP@dnc.org>
+To: "User" <user@domain.com>
+Subject: Can we use John Zody for TV tomorrow?
+Thread-Topic: Can we use John Zody for TV tomorrow?
+Thread-Index: AQHRpLGVYvO5D8bqOka8zi2Roiec7A==
+Date: Mon, 2 May 2015 13:31:19 -0700
+Message-ID: <926user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: dnchubcas2.dnc.org
+X-MS-Has-Attach: 
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.177.83]
+Content-Type: multipart/alternative;
+	boundary="_000_926E98EE16004BFA8DE307DC16895300dncorg_"
+MIME-Version: 1.0
+
+Thinking specifically about Morning Joe
+
+Pablo Manriquez
+Organization
+Phone: 202.572.5488
+Email: user@domain.com<mailto:user@domain.com>
+web: domain.com<<<link>>>
+Twitter: @Pablo_DNC
+

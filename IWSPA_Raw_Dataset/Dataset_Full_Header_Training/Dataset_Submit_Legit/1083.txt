@@ -1,0 +1,450 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Mon, 25 Apr
+ 2015 23:23:49 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Mon, 25 Apr 2015 
+ 23:23:44 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 879511876
+ for user@domain.com; Mon, 25 Apr 2015 22:23:49 -0500
+X-Note-AR-ScanTimeLocal: 4/25/2016 10:23:45 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @turner.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: LOCAL->United States->
+X-Note-Sending-IP: 198.2.183.169
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from domain.com ([198.2.183.169] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 135042376
+ for user@domain.com; Mon, 25 Apr 2015 22:23:45 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=domain.com;
+ h=Subject:From: =?utf-8?Q?CNN=27s=20Reliable=20Sources?= <reliablesources@turner.com>
+ bh=DzSLxvUO4dJPY7dFF9dD1PDW5XE=;
+ b=wzdUEtOBBfjdTgt/cdHbuqFx6Wk9fBtzdcfnGXE+Ya/VplXEa7+nv9dHvRNViBvsA8X7kvlCnxo9
+   qbUg5OKkv/9bC5tc7EE6G9JXwEIFQVhht5p8g42tUQpRROEY7UtcDamGSSYtscnUGk/0gv3l4AFa
+   SEDCJWf8f4TuVYNBYBc=
+Received: from (127.0.0.1) by domain.com id h3rfk222s941 for
+ <user@domain.com>; Tue, 26 Apr 2015 03:23:43 +0000 (envelope-from
+ <user@domain.com>)
+Subject: =?utf-8?Q?ABC=20apologizes=20to=20Kelly=20Ripa=3B=20Gannett=20pressures=20Tribune=3B=20Megyn=20books=20The=20Donald=3B=C2=A0Tirico=20leaving=20ESPN=3B=20Charter=20nearing=20finish=20line=3B=20fewer=20ads=20on=20SNL?=
+From: =?utf-8?Q?CNN=27s=20Reliable=20Sources?= <reliablesources@turner.com>
+Reply-To: =?utf-8?Q?CNN=27s=20Reliable=20Sources?=
+	<user@domain.com>
+To: <user@domain.com>
+Date: Tue, 26 Apr 2015 03:23:43 +0000
+Message-ID: <47user@domain.com>
+X-Mailer: MailChimp Mailer - **CID35dcd3157780754425eb**
+X-Campaign: mailchimp47c9040f6ff957a59bd88396e.35dcd31577
+X-campaignid: mailchimp47c9040f6ff957a59bd88396e.35dcd31577
+X-Report-Abuse: Please report abuse for this campaign here: <<link>>
+X-MC-User: 47c9040f6ff957a59bd88396e
+X-Feedback-ID: 43253633:43253633.257409:us11:mc
+List-ID: 47c9040f6ff957a59bd88396emc list <47c9040f6ff957a59bd88396e.161353.list-domain.com>
+X-Accounttype: pr
+List-Unsubscribe: <mailto:user@domain.com?subject=unsubscribe>, <<<link>>>
+Sender: CNN's Reliable Sources
+	<user@domain.com>
+x-mcda: FALSE
+Content-Type: multipart/alternative;
+	boundary="_----------=_MCPart_1837648861"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+By Brian Stelter and the CNNMoney Media team - user@domain.com (ma=
+ilto:user@domain.com)
+
+** ABC says sorry
+------------------------------------------------------------
+Kelly Ripa might make jokes about her dispute with ABC when she's back on=
+ "Live" Tuesday morning. But make no mistake: She was seriously aggrieved=
+ by last week's bungled announcement that Michael Strahan is moving to "GM=
+A."
+
+ABC's top execs -- Ben Sherwood=2C Rebecca Campbell=2C James Goldston -- a=
+pologized to both co-hosts=2C I reported this evening. (<<link>>
+om/2016/04/25/media/kelly-ripa-abc-apology/index.html?mc_cid=3D35dcd31577&=
+mc_eid=3D[UNIQID])  The bosses recognize that their plan "misfired." But=
+ they've taken responsibility and believe the show is now back on track. C=
+ampbell=2C the head of ABC's stations group=2C flew in from Burbank to wor=
+k with the producers on Tuesday's show. Read the full behind-the-scenes st=
+ory here... (<<link>>
+index.html?mc_cid=3D35dcd31577&mc_eid=3D[UNIQID])
+
+** "It's all about respect"
+------------------------------------------------------------
+Deborah Norville=2C who knows a lot about how TV execs treat female talent=
+=2C told Brooke Baldwin today that Ripa's takeaway from last week was=2C "=
+I'm not as valuable as I thought I was." And that stings. "It's all about=
+ respect=2C" Norville said. "When you treat people with respect=2C it alwa=
+ys augurs back to you in a positive way."
+
+-- The Q with an unknowable answer: How much will ABC have to pay Ripa to=
+ make her feel valuable and respected? $25 million?
+
+-- CNN contrib Mary Katherine Ham writes: (<<link>>
+4/25/kelly-ripas-right-to-be-mad-in-this-feud-of-fluffy-morning-hosts/?mc_=
+cid=3D35dcd31577&mc_eid=3D[UNIQID]) "Ripa has a right to be angry..."
+
+-- I spoke with Time's Eliana Dockterman forthis story: "What Kelly Ripa=
+=E2=80=99s Situation Reveals About TV and Women Stars (<<link>>
+4417/kelly-ripa-ann-curry-women-tv-stars/?mc_cid=3D35dcd31577&mc_eid=3D[U=
+NIQID])
+At least 5 stories could be our lead story tonight. It's that kind of day.=
+ Keep scrolling...
+
+** Can Tribune resist Gannett?
+------------------------------------------------------------
+The answer is no=2C probably not. But tonight there's no new word from Tri=
+bune Publishing about Gannett's takeover bid.
+
+This morning Gannett CEO Robert Dickey went public with his bid to pay rou=
+ghly $815 million in cash=2C at $12.25 a share=2C a 63% premium based on T=
+ribune's closing price of $7.52 last Friday. The stock jumped up to $11.50=
+ on the news. TribPub chair Michael Ferro and CEO Justin Dearborn -- both=
+ brand new in their jobs -- say they need time to closely examine the prop=
+osal. Here's our story... (<<link>>
+ribune/index.html?iid=3DLead&mc_cid=3D35dcd31577&mc_eid=3D[UNIQID])
+
+** A few questions
+------------------------------------------------------------
+-- Is TribPub's resistance futile? Ken Doctor says you should expect a dea=
+l to get done: "Ferro doesn=E2=80=99t want to sell=2C but stalling a sit-d=
+own with Dickey also serves the tactical ability to increase the price=2C"=
+ he notes... (<<link>>
+815-million-tribune-bid-here-are-eight-things-to-look-out-for/?mc_cid=3D35=
+dcd31577&mc_eid=3D[UNIQID])
+
+=E2=80=94 Any other bidders out there? Maybe Apollo Global Management? As=
+ for News Corp=2C a sourcetells the WSJ (<<link>>
+tt-offers-to-buy-tribune-publishing-1461584759?mc_cid=3D35dcd31577&mc_eid=
+=3D[UNIQID]) says that its parent=2C "which previously has expressed inte=
+rest in the L.A. Times=2C wouldn=E2=80=99t be interested in pursuing Tribu=
+ne now..."
+
+-- What about the L.A. Times? Dylan Byers has an in-depth look at (<<link>>
+domain.com/2016/04/25/media/gannett-la-times/index.html?mc_cid=3D35dcd3=
+1577&mc_eid=3D[UNIQID]) some of the fears for the paper's future in Ganne=
+tt's hands...
+
+** Megyn Kelly=2C Donald Trump=2C May 17
+------------------------------------------------------------
+Mark down the date. The Megyn Kelly-Donald Trump rematch is set: Their int=
+erview will air during Kelly's May 17 prime time special on the Fox broadc=
+ast network. The special is on at 8pm (cc: Bill O'Reilly =F0=9F=98=89 ) "I=
+ look forward to a fascinating exchange -- our first sit-down interview to=
+gether in nearly a year=2C" Kelly says. Here's Dylan's full story... (http=
+://domain.com/2016/04/25/media/megyn-kelly-donald-trump/index.html?iid=
+=3Dhp-toplead-dom&mc_cid=3D35dcd31577&mc_eid=3D[UNIQID])
+
+-- Note: Big chunks of the interview will be saved for her Fox News show o=
+n May 18...
+
+-- Snark via (<<link>>[=
+UNIQID]) Dan Isett: "Thank goodness. I was starting to worry that I'd neve=
+r see a Trump interview on Fox."
+
+** Mike Tirico leaving ESPN after 25 years
+------------------------------------------------------------
+Mike Tirico=2C one of the pillars of ESPN since 1991=2C is moving to NBC=
+=2C Frank Pallotta reports. (<<link>>
+rico-espn-monday-night-football-nbc/index.html?iid=3DSF_LN&mc_cid=3D35dcd3=
+1577&mc_eid=3D[UNIQID])  John Ourand of Sports Business Daily broke the n=
+ews that Tirico will be the play-by-play commentator for NBC's five "Thurs=
+day Night Football" games. He will surely have other roles=2C too. Richard=
+ Deitsch tweets (<<link>>
+_eid=3D[UNIQID]) his guess that Tirico "is your next Olympic primetime ho=
+st after Costas...."
+
+-- Frank notes: (<<link>>
+nday-night-football-nbc/index.html?iid=3DSF_LN&mc_cid=3D35dcd31577&mc_eid=
+=3D[UNIQID]) You can add Tirico's name to a list of recent ESPN departees=
+ that also includes Keith Olbermann=2C Bill Simmons=2C and Colin Cowherd..=
+=2E
+
+** ONLY ONE MORE MONTH OF "TIME WARNER CABLE?"
+------------------------------------------------------------
+
+** Charter finally nearing the finish line
+------------------------------------------------------------
+Charter's purchase of Time Warner Cable and Bright House could take effect=
+ in mid-to-late May. That's the latest word=2C now that the Justice Depart=
+ment has approved the deal and FCC chairman Tom Wheeler has recommended ap=
+proval. There are conditions=2C as expected=2C to prevent Charter from put=
+ting data caps in place or charging customers based on usage for a seven-y=
+ear period.
+
+-- Next steps: A full FCC vote (a formality in this case) and a vote by CA=
+'s Public Utilities Commission on May 12. Here's my story with Hope King..=
+=2E (<<link>>
+r-cable/index.html?iid=3DSF_LN&mc_cid=3D35dcd31577&mc_eid=3D[UNIQID])
+
+-- New Yorkers=2C get used to "Spectrum:" That's the consumer-facing name=
+ Charter uses=2C and it'll be showing up in TWC's markets soon...
+For the record
+--"Decoding Beyonce's 'Lemonade:'" This (<<link>>
+ertainment/lemonade-beyonce-meaning/?mc_cid=3D35dcd31577&mc_eid=3D[UNIQID=
+]) Lisa France column helped me out... (CNN (<<link>>
+/entertainment/lemonade-beyonce-meaning/?mc_cid=3D35dcd31577&mc_eid=3D[UN=
+IQID]) )
+
+-- This year's Webby Award winners will be named Tuesday morning=2C bright=
+ and early...
+
+-- This morning Josh Elliott filled in for Norah O'Donnell on "CBS This Mo=
+rning..." His first time co-hosting the broadcast... He joined CBS just la=
+st month=2C initially as an anchor for CBSN...
+
+-- Hadas Gold reports: (<<link>>
+mission-on-presidential-debates-seeks-new-formats-222390?mc_cid=3D35dcd315=
+77&mc_eid=3D[UNIQID])  "The Commission on Presidential Debates will start=
+ discussions this week on the formats of the four general election debates=
+ this fall." Crowdsourced Q's are a possibility (<<link>>
+logs/on-media/2016/04/commission-on-presidential-debates-seeks-new-formats=
+-222390?mc_cid=3D35dcd31577&mc_eid=3D[UNIQID]) ... (Politico (<<link>>
+domain.com/blogs/on-media/2016/04/commission-on-presidential-debates-see=
+ks-new-formats-222390?mc_cid=3D35dcd31577&mc_eid=3D[UNIQID]) )
+
+-- James Poniewozik says (<<link>>
+n/forget-too-much-tv-its-too-big-tv-we-should-worry-about.html?smid=3Dtw-s=
+hare&mc_cid=3D35dcd31577&mc_eid=3D[UNIQID]) "your TV episode is too damn=
+ long..." (NYT (<<link>>
+oo-much-tv-its-too-big-tv-we-should-worry-about.html?smid=3Dtw-share&mc_ci=
+d=3D35dcd31577&mc_eid=3D[UNIQID]) )
+
+-- A second "Goosebumps" movie is in the works... (THR (<<link>>
+domain.com/heat-vision/goosebumps-sequel-works-887365?mc_cid=3D35dcd31=
+577&mc_eid=3D[UNIQID]) )
+Road to 2015 
+
+** #SuperTuesday: The view from Baltimore
+------------------------------------------------------------
+Fellow Marylander David Zurawik made some really interesting points on yes=
+terday's "Reliable Sources." (<<link>>
+l-perspectives-on-md-and-pa-primaries.cnn?mc_cid=3D35dcd31577&mc_eid=3D[U=
+NIQID]) He said local stations in MD were not expecting all the presidenti=
+al campaign ad $$$s that have arrived in recent days=2C ahead of Tuesday's=
+ Mid-Atlantic primaries. And in Baltimore=2C there's been a ton of spendin=
+g on the mayoral race as well=2C much of it on TV ads but some of it on pa=
+mphleteering:
+
+"For all the talk about digital democracy and social media=2C" Zurawik sai=
+d=2C printed flyers have been profoundly effective. "Attack flyers" are ch=
+eap and "you can say stuff you wouldn't say on television. You can sort of=
+ go under the wire." Election tactics right out of the 1800s=2C still work=
+ing in the 2010s...
+
+** Trump on the cover of Vanity Fair! Sorta
+------------------------------------------------------------
+Last November Donald Trump tweeted: "Vanity Fair Magazine is doing really=
+ poorly. It has gotten worse and worse over the year=2C and has lost almos=
+t all of it's former allure!"
+
+So Graydon Carter turned the insult into a reason to check out his magazin=
+e. Trump's tweet is on the cover of the May issue=2C right next to Amy Sch=
+umer's domain.com. Here's my story about it...  (<<link>>
+25/media/vanity-fair-donald-trump/index.html?iid=3DSF_LN&mc_cid=3D35dcd315=
+77&mc_eid=3D[UNIQID])
+
+** Zucker talks Trump (and Vice)
+------------------------------------------------------------
+CNN boss Jeff Zucker's recent interview with The Guardian (<<link>>
+domain.com/media/2016/apr/24/cnn-jeff-zucker-donald-trump-vice?dg&mc_cid=
+=3D35dcd31577&mc_eid=3D[UNIQID]) gained a lot of online attention today.=
+ This quote=2C disputing the idea that cable news coverage is to "blame" f=
+or Trump=2C stood out to me: "The critics of Donald Trump are looking for=
+ people to blame for his rise. There are many people who are either surpri=
+sed by his strength=2C or don=E2=80=99t like him=2C and want to blame some=
+one to explain why he has been this popular."
+
+-- WashPost's (<<link>>
+/25/cnn-boss-jeff-zucker-says-his-people-are-holding-trumps-feet-to-the-fi=
+re/?dg&mc_cid=3D35dcd31577&mc_eid=3D[UNIQID]) Erik Wemple responded (http=
+s://domain.com/blogs/erik-wemple/wp/2016/04/25/cnn-boss-jeff-z=
+ucker-says-his-people-are-holding-trumps-feet-to-the-fire/?dg&mc_cid=3D35d=
+cd31577&mc_eid=3D[UNIQID])  to Zucker's comments about CNN TV going "deep=
+er" on a couple big stories while covering the rest of the day's news onli=
+ne: Sometimes the treatment is not "deeper=2C" Wemple says=2C it's just "r=
+epetitive..." (<<link>>
+/25/cnn-boss-jeff-zucker-says-his-people-are-holding-trumps-feet-to-the-fi=
+re/?dg&mc_cid=3D35dcd31577&mc_eid=3D[UNIQID])
+
+-- What didn't get much web pickup were Zucker's jabs at Vice. "I think Vi=
+ce is vastly overrated... What Vice has done well is tell its story=2C but=
+ it hasn=E2=80=99t delivered on what it says it does." Here's the context.=
+=2E. (<<link>>
+ump-vice?dg&mc_cid=3D35dcd31577&mc_eid=3D[UNIQID])
+
+** "SNL" reducing commercial load...
+=2E..And adding sponsored content
+------------------------------------------------------------
+Frank reports: (<<link>>
+ads/index.html?iid=3DSF_LN&mc_cid=3D35dcd31577&mc_eid=3D[UNIQID])  Live f=
+rom New York=2C it's... fewer commercials? Yes=2C NBC announced this morni=
+ng that "SNL" will reduce its commercial load by 30% next season. This mea=
+ns two fewer commercial pods per episode. But at the same time=2C it'll ad=
+d new forms of sponsored content from advertising partners. More from Fran=
+k here... (<<link>>
+ndex.html?iid=3DSF_LN&mc_cid=3D35dcd31577&mc_eid=3D[UNIQID])
+
+-- Speaking of NBC: It is "rolling out its largest marketing campaign ever=
+" for the Olympics=2C the WSJ reports (<<link>>
+ympic-goals-are-high-despite-hurdles-in-rio-1461543592?tesla=3Dy&mc_cid=3D=
+35dcd31577&mc_eid=3D[UNIQID]) . The campaign is worth
+$100 million=2C "33% more than four years ago=2C" with ads spanning TV=2C=
+ social media and web video...
+
+** Erin Andrews settles stalker domain.com
+------------------------------------------------------------
+Dylan emails: Erin Andrews has settled her domain.com against the hotel owner=
+ and operator (<<link>>
+ttlement/index.html?iid=3DSF_LN&mc_cid=3D35dcd31577&mc_eid=3D[UNIQID]) th=
+at allowed a stalker to secretly film nude videos of her. The terms of the=
+ agreement are confidential=2C but West End Hotel Partners and Windsor Cap=
+ital Group had previously been ruled responsible for $27 million=2C nearly=
+ half of the $55 million awarded to Andrews in March. What caused the hote=
+l companies to settle? It may have had something to do with the fact that=
+ Andrews' lawyers were moving to make them responsible for the additional=
+ $28 million that her stalker Michael Barrett couldn't afford to pay. Read=
+ more...  (<<link>>
+ment/index.html?iid=3DSF_LN&mc_cid=3D35dcd31577&mc_eid=3D[UNIQID])
+Quote of the day
+"Video will not save your media business. Nor will bots=2C newsletters=2C=
+ a 'morning briefing' app=2C a 'lean back' iPad experience=2C Slack integr=
+ation=2C a Snapchat channel=2C or a great partnership with Twitter."
+
+--So... What will save it? Here's (<<link>>
+-media-business-will-not-be-saved-1b0716b5010c?mc_cid=3D35dcd31577&mc_eid=
+=3D[UNIQID]#.b9m5itnjq) Joshua Topolsky's latest essay... (<<link>>
+=2Ecom/@joshuatopolsky/your-media-business-will-not-be-saved-1b0716b5010c?mc=
+_cid=3D35dcd31577&mc_eid=3D[UNIQID]#.b9m5itnjq)
+"Game of Thrones"
+
+** Tell these people about HBO NOW
+------------------------------------------------------------
+"Pirated copies of the 'Game of Thrones' season premiere have been downloa=
+ded at least a million times=2C" according to TorrentFreak=2C David Goldma=
+n reports (<<link>>
+dex.html?iid=3DSF_LN&mc_cid=3D35dcd31577&mc_eid=3D[UNIQID]) . My reaction=
+ to that #? Seems low...
+
+** Frank's grueling assignment
+------------------------------------------------------------
+Poor Frank. Last night he had to watch the premiere at a giant viewing par=
+ty.The location: Professor Thom's sports bar in lower Manhattan. (<<link>>
+domain.com/2016/04/24/media/game-of-thrones-season-6-premiere-jon-snow/i=
+ndex.html?mc_cid=3D35dcd31577&mc_eid=3D[UNIQID] ) The experience: like wa=
+tching a championship game. "The horde of fans -- some of whom were dresse=
+d in the costumes and colors of their favorite 'Thrones' houses -- drank=
+=2C gasped and cheered at the events of the episode. The bar even served s=
+pecialty cocktails based on the show called 'The White Walker' and 'The We=
+sterosa.'" Read all about it here=E2=80=A6 (<<link>>
+4/media/game-of-thrones-season-6-premiere-jon-snow/index.html?mc_cid=3D35d=
+cd31577&mc_eid=3D[UNIQID] )
+
+** Listen to Sunday's show as a podcast...
+------------------------------------------------------------
+You can listen (<<link>>
+ode/all/UPufwFoXoAamJq/96m68f.1-1.html?mc_cid=3D35dcd31577&mc_eid=3D[UNIQ=
+ID])  to the TV version of "Reliable Sources" via iTunes=2C (<<link>>
+domain.com/us/podcast/id466789756?mc_cid=3D35dcd31577&mc_eid=3D[UNIQID])=
+ TuneIn=2C (<<link>>
+=3D35dcd31577&mc_eid=3D[UNIQID]) Stitcher=2C (<<link>>
+id=3D18702&refid=3Dstpr&mc_cid=3D35dcd31577&mc_eid=3D[UNIQID]) and other=
+ services. (<<link>>
+all/0SXSSSJreGt33E/cva7tt.1-1.html<<link>>
+brian-stelter/episode/all/UPufwFoXoAamJq/96m68f.1-1.html?mc_cid=3D35dcd315=
+77&mc_eid=3D[UNIQID]) CNN has a great page of podcasts here. (<<link>>
+domain.com/?mc_cid=3D35dcd31577&mc_eid=3D[UNIQID]) ..
+
+** ...Or watch the video clips
+------------------------------------------------------------
+"Reliable" is archived on domain.com each week (<<link>>
+able-sources?mc_cid=3D35dcd31577&mc_eid=3D[UNIQID]) for your viewing plea=
+sure. There's also a complete transcript (<<link>>
+CRIPTS/1604/24/rs.01.html?mc_cid=3D35dcd31577&mc_eid=3D[UNIQID]) =2C whic=
+h comes in handy sometimes.
+
+** And let us know what you like/dislike!
+------------------------------------------------------------
+If you could change one thing about this newsletter=2C what would it be? E=
+mail your feedback to user@domain.com (mailto:user@domain.com=
+com) . We'll be back tomorrow with more media news...
+You Might Like
+<<link>>
+_sendid=3D35dcd31577&cs_esp=3Dmailchimp&cs_offset=3D0&cs_stripeid=3D2552&m=
+c_cid=3D35dcd31577&mc_eid=3D[UNIQID]
+
+<<link>>
+_sendid=3D35dcd31577&cs_esp=3Dmailchimp&cs_offset=3D1&cs_stripeid=3D2552&m=
+c_cid=3D35dcd31577&mc_eid=3D[UNIQID]
+
+<<link>>
+_sendid=3D35dcd31577&cs_esp=3Dmailchimp&cs_offset=3D2&cs_stripeid=3D2552&m=
+c_cid=3D35dcd31577&mc_eid=3D[UNIQID]
+<<link>>
+il&utm_campaign=3Dcnnmoney&utm_content=3Danimatedlogo&mc_cid=3D35dcd31577&=
+mc_eid=3D[UNIQID]
+<<link>>
+ltD9&mc_cid=3D35dcd31577&mc_eid=3D[UNIQID] Share (<<link>>
+/sharer/sharer.php?u=3Dhttp%3A%2F%2domain.com%2FbZltD9&mc_cid=3D35dcd3157=
+7&mc_eid=3D[UNIQID])
+<<link>>+apologizes+to+Kelly+Ripa%3B+Gan=
+nett+pressures+Tribune%3B+Megyn+books+The+Donald%3B%C2%A0Tirico+leaving+ES=
+PN%3B+Charter+nearing+finish+line%3B+fewer+ads+on+SNL:&mc_cid=3D35dcd31577=
+&mc_eid=3D[UNIQID] http%3A%2F%2domain.com%2FbZltD9 Tweet (<<link>>
+=2Ecom/intent/tweet?text=3DABC+apologizes+to+Kelly+Ripa%3B+Gannett+pressures=
++Tribune%3B+Megyn+books+The+Donald%3B%C2%A0Tirico+leaving+ESPN%3B+Charter+=
+nearing+finish+line%3B+fewer+ads+on+SNL:&mc_cid=3D35dcd31577&mc_eid=3D[UN=
+IQID] http%3A%2F%2domain.com%2FbZltD9)
+<<link>>
+=3D35dcd31577&e=3D80754425eb Forward (<<link>>
+ard?u=3D47c9040f6ff957a59bd88396e&id=3D35dcd31577&e=3D80754425eb)
+Subscribe to Reliable Sources (<<link>>
+u=3D47c9040f6ff957a59bd88396e&id=3De95cdc16a9&mc_cid=3D35dcd31577&mc_eid=
+=3D[UNIQID])
+Get Reliable Sources=2C a comprehensive summary of the most important medi=
+a news=2C delivered to your inbox every afternoon.
+
+Tips=2C thoughts or questions are always welcome at
+** user@domain.com (mailto:user@domain.com)
+=2E
+=C2=AE =C2=A9 2015 Cable News Network=2C Inc.
+A Time Warner Company.  All Rights Reserved.
+You are receiving this message because you subscribed to
+CNNMoney's "Reliable Sources" newsletter.
+
+Our mailing address is:
+Cable News Network=2C Inc.
+Attention: Privacy Policy Coordinator
+One CNN Center=2C 13 North
+Atlanta=2C GA 30303
+
+** unsubscribe from this list (<<link>>
+?u=3D47c9040f6ff957a59bd88396e&id=3De95cdc16a9&e=3D80754425eb&c=3D35dcd31577=
+)
+** update subscription preferences (<<link>>
+le?u=3D47c9040f6ff957a59bd88396e&id=3De95cdc16a9&e=3D80754425eb)
+
+** Facebook (<<link>>
+=3D[UNIQID])
+** Twitter (<<link>>[=
+UNIQID])
+Reliable Sources
+
+** View this email in your browser (<<link>>
+=3D47c9040f6ff957a59bd88396e&id=3D35dcd31577&e=3D80754425eb)

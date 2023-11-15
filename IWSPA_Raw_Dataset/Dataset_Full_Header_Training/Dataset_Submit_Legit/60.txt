@@ -1,0 +1,91 @@
+Received: from domain.com (146.215.230.105) by
+ domain.com (43.130.141.78) with Microsoft SMTP Server id
+ 8.3.342.0; Mon, 12 May 2015 08:54:06 -0700
+Received: from domain.com ([160.33.194.228])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s4CFs5nx026691	for <user@domain.com>; Mon, 12 May 2015 
+ 15:54:05 GMT
+Received: from mail182-ch1-domain.com (mail-domain.com
+ [216.32.181.172])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s4CFt8bF005766
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Mon, 12 May 2015 15:55:08 GMT
+Received: from mail182-ch1 (localhost [127.0.0.1])	by
+ mail182-ch1-domain.com (Postfix) with ESMTP id 9492B2A044A	for
+ <user@domain.com>; Mon, 12 May 2015 15:54:04 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:205.201.129.29;KIP:(null);UIP:(null);IPV:NLI;H:domain.com;RD:domain.com;EFVD:NLI
+X-SpamScore: -4
+X-BigFish: vps-4(z3e12h1baIzc89bhc85fh11fbIzz1f42h1ee6h1de0h1fdah21bdh2073h1a8fI2146h1202h1eb9M1e76h2189h1d1ah1d2ah1fc6h208chzz8275ch1de098h1def03h17326ah1def87h8275bh1bc7b9h8275dh1def86h18c673h19a27bh1de097h186068h1b778fh1ce120h1ce121i1a691ci1b9c21iz2fheh839ha45hd24h10d2h1288h12a5h137ah139eh13eah1441h1537h162dh1631h1758h1898h18e1h1946h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e00h1e1dh1e23h1fe8h1ff5h20f0h2218h2216h226dh24afh2327h2336h2438h2461h2487h24d7h2516h2534h2545h25f6h2605h268bh26d3h27e2h1d9ci)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail182-ch1: domain of domain.com designates 205.201.129.29 as permitted sender) client-ip=205.201.129.29; user@domain.com; helo=domain.com ;01.domain.com ;
+Received: from mail182-ch1 (localhost.localdomain [127.0.0.1]) by mail182-ch1
+ (MessageSwitch) id 1399910041878969_4638; Mon, 12 May 2015 15:54:01 +0000
+ (UTC)
+Received: from domain.com (domain.com
+ [10.43.68.234])	by mail182-domain.com (Postfix) with ESMTP id
+ C868E4A00A5	for <user@domain.com>; Mon, 12 May 2015 15:54:01 +0000
+ (UTC)
+Received: from domain.com (205.201.129.29) by
+ domain.com (10.43.69.248) with Microsoft SMTP Server id
+ 14.16.227.3; Mon, 12 May 2015 15:54:00 +0000
+Received: from (127.0.0.1) by domain.com id he3n9g174e0u for
+ <user@domain.com>; Mon, 12 May 2015 15:53:56 +0000 (envelope-from
+ <user@domain.com>)
+Subject: =?utf-8?Q?SSN=E2=80=99s=20Upfronts=20Daily=20Updates=3A=20CBS=2C=20NBC=20&=20ABC=2C=20Neighbors=20Wins=20Weekend=20B.O.=2C=20Fox=20Fall=20Schedule=2C=20Jane=20Campion=20Q&A?=
+From: =?utf-8?Q?Studio=20System=20News?= <newsletter@studiosystemnews.com>
+Reply-To: =?utf-8?Q?Studio=20System=20News?= <user@domain.com>
+To: <user@domain.com>
+Date: Mon, 12 May 2015 15:53:56 +0000
+Message-ID: <3713user@domain.com>
+X-Mailer: MailChimp Mailer - **CID3e2bd23dc768b188c2a8**
+X-Campaign: mailchimp3713f73f985b2c7f64cf503c0.3e2bd23dc7
+X-campaignid: mailchimp3713f73f985b2c7f64cf503c0.3e2bd23dc7
+X-Report-Abuse: Please report abuse for this campaign here: <<link>>
+X-MC-User: 3713f73f985b2c7f64cf503c0
+X-Feedback-ID: 7961281:7961281.98433:us4:mc
+X-Accounttype: pd
+List-Unsubscribe: <mailto:user@domain.com?subject=unsubscribe>, <<<link>>>
+x-mcda: FALSE
+Return-Path: 
+ user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+View this email in your browser.         Too many emails? Click here to change your email settings.      
+<<link>>://studiosystemnews.us4.list-domain.com/track/click?u=3713f73f985b2c7f64cf503c0&id;=1178f55e21&e;=68b188c2a8 
+<<link>> 
+
+SSN’s Upfronts Daily Updates: CBS, NBC & ABC, Neighbors Wins Weekend B.O., Fox Fall Schedule, Jane Campion Q&A
+
+SSN ORIGINALS
+
+
+
+Upfronts Daily Updates: CBS, NBC & ABC Swing Axe- Community, Suburgatory, The Crazy Ones Among Casualties, NBC Releases Fall Schedule 
+Here’s the most up-to-date goings-on in the world of pickups and cancellations - for CBS, NBC and ABC - during the frenzy leading up to the networks’ upfront sessions next week. (SSN)
+
+
+
+
+Neighbors Annihilates Spider-Man Nabbing Number One Box Office Slot
+Neighbors grossed $51M in its opening weekend, marking Universal’s fourth film this year to top the box office at #1, while The Amazing Spider Man 2 slipped 60% to $37.2M in second place. SSN has the weekend numbers for the rest of the Top 10 films here. (SSN)
+
+
+
+
+TODAY’S HEADLINES
+
+
+
+Fox Announces Fall Schedule
+American Idol, Glee and The Following return next year, along with new shows including Mulaney, Utopia and Red Band Society. Also included are mid-season replacements. (TVL)
+
+
+
+
+‘Firmly Back In The Game’: Jane Campion Talks Cannes, Career & Personal Loss
+The Guardian’s interview with the esteemed director-writer about her thoughts on women in film, her own career and recovering from the death of her 12-day old son shortly after winning the Palme d'Or for The Piano. (GUAR)
+
+
+

@@ -1,0 +1,169 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Sat, 14 May
+ 2015 10:50:01 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Sat, 14 May 2015 
+ 10:49:57 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 915260929
+ for user@domain.com; Sat, 14 May 2015 09:50:07 -0500
+X-Note-AR-ScanTimeLocal: 5/14/2016 9:49:59 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:207.46.100.126 DOM:akdems.org ADDR:user@domain.com
+X-Note: SPF: None
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-205/SG:5 5/14/2016 9:49:21 AM
+X-GBUdb-Analysis: 0, 207.46.100.126, Ugly c=0.743608 p=-0.936811 Source Normal
+X-Signature-Violations: 0-0-0-17636-c
+X-Note-419: 0 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/14/2016 9:49:44 AM
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->->United States->
+X-Note-Sending-IP: 207.46.100.126
+X-Note-Reverse-DNS: mail-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from [207.46.100.126] (HELO
+ na01-by2-domain.com)  by domain.com
+ (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 138584517 for user@domain.com;
+ Sat, 14 May 2015 09:49:59 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=domain.com; s=selector1-akdems-org;
+ h=From: Jake Hamburg <jhamburg@akdems.org>
+ bh=BKRHfVDGOgSCM+0uOMRnU5tWHQYC1H7TPxzj7UadPDw=;
+ b=LQM0GvJp6xINsLW3ICWF8rNoSzH1A1hKe9YrkdheowVEnfXzVriAEpH/kIZhdcO58vuWcdAoQXcb6/JjrfW4xtQMySYSwHlGzRr2nychouR++HDcvnFOkVFQ49Y+WbV541jEOSswB0SBAD/YcTxbqpoA/tbcxyXpFynxw3FzYPA=
+Received: from domain.com (10.167.8.17) by
+ domain.com (10.167.8.17) with Microsoft SMTP
+ Server (TLS) id 15.1.497.12; Sat, 14 May 2015 14:49:58 +0000
+Received: from domain.com ([10.167.8.17]) by
+ domain.com ([10.167.8.17]) with mapi id
+ 15.01.0497.015; Sat, 14 May 2015 14:49:57 +0000
+From: Jake Hamburg <jhamburg@akdems.org>
+To: "User" <user@domain.com>
+Subject: Re: Urgent question
+Thread-Topic: Urgent question
+Thread-Index: AQHRrXbpu0dAF3oZsEOWzhGuN6G4eJ+3lHLHgAA078aAAAQbJoAAAbXtgAACTnqAALNM+g==
+Date: Sat, 14 May 2015 14:49:57 +0000
+Message-ID: <user@domain.com>
+References: <4user@domain.com>,<35user@domain.com>,<user@domain.com>,<3user@domain.com>,<4user@domain.com>,<73user@domain.com>
+In-Reply-To: <73user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+authentication-results: domain.com; dkim=none (message not signed)
+ header.d=none;domain.com; dmarc=none action=none header.from=akdems.org;
+x-originating-ip: [25.169.34.4]
+x-ms-office365-filtering-correlation-id: 5b39ae80-b48c-4a1b-e46e-08d37c070500
+x-microsoft-exchange-diagnostics: 1;CY1PR04MB2139;5:jzi8kWYJufFQNaHLCMMFT92+irEHhT8vYzHv7zYBtG+CwHOzAHFR7aJlIe+tConvn1jT0d1wln3RcYFmt7SCwKlUr/qvBfqPzkdqFte7PPR7p5Ez78HaMPOhTOlw6BUaSFfxgFUVD/l5jWTQed13MA==;24:f+Ns2MbiPElb6f++d8/jM7z0AlKBg/4+bXFK1saFrJ/VmerqbqRgB8MYSGFISNOE1XxqyMB1MY1L8LDBI2iS9/sKcw5507SVOpEhku0/f7g=;7:t22P5JrZQ6JmUH4LxL6YyJDdabUeKJFOa1w4jbxe+snNJChLMObBC0wC0zj2rviNlj7GqHnTZ7PMPAddzspRzLcxX5xbLr8gjdRzezSijXOkLRQhDTpvgyx8WM4lJkzN4dRi7w0J11UeViCmrYqj6cLEITmkWYcwDYURKPU6FMHM1RLQ8OEpsVDHQdKqVhmd
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:;SRVR:CY1PR04MB2139;
+x-microsoft-antispam-prvs: <user@domain.com>
+x-exchange-antispam-report-test: UriScan:;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(6040130)(601004)(2401047)(5005006)(8121501046)(10201501046)(3002001)(6041072)(6043046);SRVR:CY1PR04MB2139;BCL:0;PCL:0;RULEID:;SRVR:CY1PR04MB2139;
+x-forefront-prvs: 094213BFEA
+x-forefront-antispam-report: SFV:NSPM;SFS:(10019020)(377454003)(24454002)(74316001)(76176999)(54356999)(50986999)(5008740100001)(2906002)(19625215002)(81166006)(8936002)(1220700001)(93886004)(76576001)(102836003)(586003)(3846002)(6116002)(15975445007)(77096005)(87936001)(19617315012)(106116001)(19580405001)(19580395003)(86362001)(99286002)(8676002)(2950100001)(2900100001)(450100001)(92566002)(19627405001)(3660700001)(218543002)(110136002)(3280700002)(107886002)(122556002)(10400500002)(66066001)(16236675004)(9686002)(5004730100002)(33656002)(5002640100001)(3480700004)(5003600100002)(189998001)(5003630100001)(221733001);DIR:OUT;SFP:1102;SCL:1;SRVR:CY1PR04MB2139;H:domain.com;FPR:;SPF:None;MLV:sfv;LANG:en;
+spamdiagnosticoutput: 1:23
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_CY1PR04MB2139FB8D56388479816533A9B7750CY1PR04MB2139namp_"
+X-MS-Exchange-CrossTenant-originalarrivaltime: 14 May 2015 14:49:57.7431
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 3cfe0d6c-029c-4bf7-b136-842b7a08e90f
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: CY1PR04MB2139
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+It was from KTUU Channel 2.
+
+All the best,
+
+Jake Hamburg
+
+Communications Director, Alaska Democratic Party
+
+user@domain.com
+
+(907) 258-3077
+
+This communication is paid for by the Alaska Democratic Party, 2015 Fairban=
+ks Street, Anchorage, AK 99503
+
+and is not authorized by any candidate or candidate=92s committee.
+
+________________________________
+From: Jake Hamburg <jhamburg@akdems.org>
+Sent: Friday, May 13, 2015 8:08:04 PM
+To: Jake Hamburg; Garcia, Walter; Kay Brown
+Cc: Paustenbach, Mark; Banfill, Ryan
+Subject: RE: Urgent question
+
+Who was request from?
+
+Sent via the Samsung GALAXY S=AE4, an AT&T 4G LTE smartphone
+
+-------- Original message --------
+From: Jake Hamburg <jhamburg@akdems.org>
+Date: 05/13/2016 19:59 (GMT-09:00)
+To: "User" <user@domain.com>,=
+ Kay Brown <user@domain.com>
+Cc: "Paustenbach, Mark" <user@domain.com>, "Banfill, Ryan" <user@domain.com=
+domain.com>
+Subject: RE: Urgent question
+
+Thank you. The story is already done. Not sure Scott would have responded w=
+ith the time difference.
+
+Get Outlook for Android<<<link>>>
+
+From: Jake Hamburg <jhamburg@akdems.org>
+Sent: Friday, May 13, 7:53 PM
+Subject: RE: Urgent question
+To: Garcia, Walter, Jake Hamburg, Kay Brown
+Cc: Paustenbach, Mark, Banfill, Ryan
+
+Also looping Kay, so you guys get on the same page, I'm sure she knows how =
+to deal with this bs and bat down the ridiculous requests.
+
+Sent via the Samsung GALAXY S=AE4, an AT&T 4G LTE smartphone
+
+-------- Original message --------
+From: Jake Hamburg <jhamburg@akdems.org>
+Date: 05/13/2016 19:39 (GMT-09:00)
+To: "User" <user@domain.com>, Jake Hamburg <user@domain.com>
+Cc: "Paustenbach, Mark" <user@domain.com>, "Banfill, Ryan" <user@domain.com=
+domain.com>
+Subject: RE: Urgent question
+
+Jake, being with a state party you know it's state parties who deal with vo=
+ter file access down ballot, so you should pose your question to the Florid=
+a party.
+
+Sent via the Samsung GALAXY S=AE4, an AT&T 4G LTE smartphone
+
+-------- Original message --------
+From: Jake Hamburg <jhamburg@akdems.org>
+Date: 05/13/2016 16:29 (GMT-09:00)
+To: Jake Hamburg <user@domain.com>
+Cc: "User" <user@domain.com>, "Paustenbach, Mark" <user@domain.com=
+domain.com>, "Banfill, Ryan" <user@domain.com>
+Subject: Re: Urgent question
+
+Jake,
+
+Adding some folks from my team to help answering this question.
+
+Sent from my iPhone
+
+On May 13, 2016, at 8:24 PM, Jake Hamburg <user@domain.com<mailto:jhamb=

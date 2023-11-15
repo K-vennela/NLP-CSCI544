@@ -1,0 +1,76 @@
+Received: from domain.com (146.215.230.103) by
+ domain.com (43.130.141.76) with Microsoft SMTP Server id
+ 8.3.342.0; Tue, 15 Apr 2015 20:32:04 -0700
+Received: from domain.com ([160.33.194.228])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s3G3W4Tn012630	for <user@domain.com>; Wed, 16 Apr 2015 
+ 03:32:04 GMT
+Received: from mail216-va3-domain.com (mail-domain.com
+ [216.32.180.115])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s3G3XCl5010848
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Wed, 16 Apr 2015 03:33:13 GMT
+Received: from mail216-va3 (localhost [127.0.0.1])	by
+ mail216-va3-domain.com (Postfix) with ESMTP id 1AA292C0067	for
+ <user@domain.com>; Wed, 16 Apr 2015 03:31:23 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:123.176.101.160;KIP:(null);UIP:(null);IPV:NLI;H:domain.com;RD:domain.com;EFVD:NLI
+X-SpamScore: 3
+X-BigFish: vps3(z551bizc85fh1be0Iddc2hde40hzz1f42he46M2148h1ee6h1de0h1fdah2073h2146h1202h1e76h2189h1d1ah1d2ah21bch1fc6h208chzz1d7338h1de098h1def03h1b1984h17326ah1def87h8275bh1bc7b9h8275dh1def86h18c673h1c8fb4h1de097h186068hz2ei54h793h109h2a8h5c0h6f5h839hd24hd2bh11a0h1288h12a5h12bdh137ah139eh13eah1441h1504h1537h15beh162dh1631h1751h1758h17f1h1898h18b6h18bch18e1h1946h19b5h1b0ah1bceh1bfbh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1e23h1fe8h1ff5h20dbh20f0h2152h2218h2216h226dh22d0h24afh2327h2438h2461h2487h24d7h2516h2545h255eh25f6h2605h268bh26d3h34h35h25d3o1155h15c0h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: neutral (mail216-va3: 123.176.101.160 is neither permitted nor denied by domain of artisangateway.com) client-ip=123.176.101.160; user@domain.com; helo=domain.com ;domain.com ;
+Received: from mail216-va3 (localhost.localdomain [127.0.0.1]) by mail216-va3
+ (MessageSwitch) id 1397619080325418_4730; Wed, 16 Apr 2015 03:31:20 +0000
+ (UTC)
+Received: from domain.com (unknown [10.7.14.236])	by
+ mail216-domain.com (Postfix) with ESMTP id 467FBC800D0	for
+ <user@domain.com>; Wed, 16 Apr 2015 03:31:20 +0000 (UTC)
+Received: from domain.com (123.176.101.160) by
+ domain.com (10.7.99.14) with Microsoft SMTP Server (TLS) id
+ 14.16.227.3; Wed, 16 Apr 2015 03:31:10 +0000
+Received: from domain.com ([172.16.100.22]) by domain.com
+ with ESMTP id kzcQFKh3lW7YoNA7 for <user@domain.com>; Wed, 16 Apr
+ 2015 11:31:45 +0800 (HKT)
+Received: from mailcls8 ([10.100.2.57])        by domain.com (IceWarp
+ 10.4.5) with ESMTP id 201404161131449195        for
+ <user@domain.com>; Wed, 16 Apr 2015 11:31:44 +0800
+Received: (qmail 16772 invoked from network); 16 Apr 2015 03:31:24 -0000
+Received: from unknown (HELO agba0257ea64b1)
+ (user@domain.com@[210.13.65.170])  by 10.100.2.57 with ESMTPA; 16
+ Apr 2015 03:31:24 -0000
+X-Nat-Received: from [210.13.65.170]:1596 [ident-empty]
+	by smtpGated01 with TPROXY id 1397619068.4252
+From: AG reports <reports@artisangateway.com>
+To: AG reports <user@domain.com>
+Subject: AG China Reports - Week 15, CAPTAIN AMERICA 2 Tops BO a Second Week
+Date: Wed, 16 Apr 2015 11:31:06 +0800
+Message-ID: <000f01cf5924$529c6670$f7d53350$@com>
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: Ac9ZJCdlf/sC2W4aSo6GWz9V7F8cSQAAAZQwAAAESyA=
+Content-Language: en-us
+X-Virus-Scanned: by bsmtpd at domain.com
+Return-Path: user@domain.com
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-406539735_-_-"
+
+Dear AG China Reports Subscriber,
+
+We are pleased to deliver your AG China Reports for the week ending 13 April, 2014.
+
+
+
+
+Kind regards,
+
+The AG Reports Team
+
+
+
+
+ARTISAN GATEWAY
+
+Cinema | Investment | Research
+
+
+

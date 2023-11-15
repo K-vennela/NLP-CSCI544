@@ -1,0 +1,55 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id D2ABB23CA9D;
+	Wed,  7 Dec 2015 10:43:51 -0600 (CST)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 1SDS5tKKb-2a; Wed,  7 Dec 2015 10:43:51 -0600 (CST)
+Received: from domain.com (domain.com [216.59.32.116])
+	by domain.com (Postfix) with ESMTP id 7425123CA9A;
+	Wed,  7 Dec 2015 10:43:51 -0600 (CST)
+Received: from domain.com (localhost [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id E43FE7FEB2608;
+	Wed,  7 Dec 2015 13:43:49 -0300 (ART)
+Received: from localhost (140.54.62.200.domain.com [200.62.54.140])
+	by domain.com (Postfix) with ESMTP id BF4217FEB0398;
+	Wed,  7 Dec 2015 13:43:44 -0300 (ART)
+MIME-Version: 1.0
+X-Priority: Normal
+X-Mailer: AtMail PHP 5.61
+Message-ID: <31983.1323276778@domain.com.ar>
+To: <user@domain.com>
+Reply-To: user@domain.com
+Content-Type: text/plain; charset="utf-8"
+X-Origin: 203.82.87.43
+X-Atmail-Account: user@domain.com
+Date: Wed, 07 Dec 2015 13:52:57 -0300
+Subject: Security report
+From: University of Houston <info@plprensa.com.ar>
+Content-Transfer-Encoding: quoted-printable
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 39
+
+SERVICE ANNOUCEMENT
+=20
+There's a new master of the digital universe. YOU.
+
+Thank you for being a WEBMail user for the past months. We look forward
+to bringing you an even faster, safer, easier-to-use your WEBMail very soon=
+.
+We have upgraded the security on all accounts.You are advised to=20
+update your account. Please click on the link below to update your account
+=20
+click here to update: <<link>>
+=20
+Thank you for being a loyal WebMail user.
+
+We hope you enjoy the newest version of our Mail.=20
+
+David McDowell
+University of Houston,

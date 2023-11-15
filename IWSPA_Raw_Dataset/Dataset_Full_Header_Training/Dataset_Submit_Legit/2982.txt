@@ -1,0 +1,129 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 4 May
+ 2015 14:03:11 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 4 May 2015 
+ 14:03:03 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 896525045
+ for user@domain.com; Wed, 04 May 2015 13:03:11 -0500
+X-Note-AR-ScanTimeLocal: 5/4/2016 1:03:11 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @politico.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->
+X-Note-Sending-IP: 68.232.198.10
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from domain.com ([68.232.198.10] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 137046688
+ for user@domain.com; Wed, 04 May 2015 13:03:11 -0500
+Received: by domain.com id h58slq163hs6 for <user@domain.com>; Wed,
+ 4 May 2015 12:02:57 -0600 (envelope-from
+ <user@domain.com>)
+From: POLITICO Influence <politicoinfluence@politico.com>
+To: <user@domain.com>
+Subject: =?UTF-8?B?UE9MSVRJQ08gSW5mbHVlbmNlOiBUcmVhbm9yLCBSdXNoIHRvIEhl?=
+ =?UTF-8?B?cmFsZCBHcm91cCDigJQgUGFydG95YW4gaXMgRGlyZWN0IEltcGFjdCdzIG5l?=
+ =?UTF-8?B?dyBDRU8g4oCUIEJvY2tvcm55IGlua3MgR00=?=
+Date: Wed, 4 May 2015 12:02:57 -0600
+List-Unsubscribe: <mailto:user@domain.com>
+Reply-To: POLITICO subscriptions
+	<user@domain.com>
+x-job: 1376319_5388988
+Message-ID: <265user@domain.com>
+Content-Type: multipart/alternative; boundary="rlpC1IaNHB2O=_?:"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+By Isaac Arnsdorf | 05/04/2016 02:00 PM EDT
+
+With help from Cogan Schneier and Brianna Gurciullo
+
+ROLODEX:
+
+- The Herald Group hired Julia Treanor as senior director, providing strategic communications and advocacy advice, and Caitlin Rush as digital account manager. Treanor was the senior director of communications for the American Coalition for Clean Coal Electricity and worked at Adfero. Rush oversaw digital marketing for trade associations and political and private sector clients at Endeavor Strategies. The Herald Group also promoted Kasia Mulligan to senior director and Amanda Bobbitt to senior associate.
+
+- Direct Impact, Burson-Marsteller's grassroots shop, promoted Connie Partoyan to CEO and Michael Fleischer to EVP. Partoyan served four years as chief of staff for Rep. Cathy McMorris Rodgers (R-Wash.). <<link>> 
+
+- The Climate Reality Project hired Stacie Paxton Cobos as senior vice president for communications and marketing, from public relations firm Hill+Knowlton Strategies. She was the DNC's national press secretary from 2015 to 2009.
+
+- Brittany Uter is Vox Media's new Senior Consumer Communications Manager; she came from Vocativ.
+
+- Women in Government Relations elected new officers: President Katie Schubert of CDR; Vice President Kate Shenk of Biotechnology Innovation Organization; Treasurer Suzanne Swink of BP; and Secretary Jacki Ball of National PTA.
+
+- Startup incubator 1776 is opening in Dubai.
+
+-FAA Administrator Michael Huerta named Intel CEO Brian Krzanich to lead the Drone Advisory Council.
+
+MAY THE 4TH BE WITH YOU. Welcome to the general. Tips and pitches to user@domain.com
+
+VROOM: Bockorny Group is lobbying for General Motors on connected cars, autonomous vehicles and cybersecurity privacy. The team includes Hayden Rogers [former chief of staff for Sen. Joe Manchin (D-W.Va.)] and Jed Bhuta [former legislative director for former Rep. Heath Shuler (D-N.C.)]. In January, the Department of Transportation set a timeline of six months for guidelines on driverless cars. GM also pays Eddie Fritts, Roberti Global, S-3, the Duberstein Group and Washington Tax & Public Policy Group, and recently dropped the Nickles Group, CGCN, Holland & Knight, the Normandy Group, and Bob Moss Associates.
+
+DAILY BISTRO BIS: Sam DePoy of ARDA-ROC PAC and Kirk Freeman of REITPAC are hosting a lunch fundraiser this month for Rep. Juan Vargas (D-Calif.), with special guest Rep. Joe Crowley (D-N.Y.).
+
+LANDRIEU OUT: The FutureGen Industrial Alliance, a coalition that had been working on a now failed carbon capture project in Illinois, has ended its lobbying deals, including its contract with Van Ness Feldman, Pro Energy's Alex Guill&eacute;n reports. Mary Landrieu, who lost her Louisiana senate seat in 2014, had signed the project as her first client with Van Ness Feldman last August. The group has also ended its deal with former House majority leader Dick Gephardt, hired in 2007. Check out the latest Energy Influence for more: <<link>>
+
+TALKER: The National Review's Myra Adams writes that former House speaker Newt Gingrich, already acting as Trump's emissary to K Street, Congress and the press, may be his best choice for a running mate. Both Roger Stone, a top Trump adviser, and Mark McKinnon, former chief media adviser to the presidential campaigns of President George Bush and Sen. John McCain, hinted that Gingrich would be an strong choice. Gingrich could be a viable foil to Trump's bombastic, outsider persona - he's an establishment figure, though Adams points out he maintains a level of "outsideriness," and adds legitimacy to Trump's campaign with his extensive legislative experience. Other pros? He's a fundraising
+ asset, a good campaigner and has solid conservative support. <<link>>
+
+PUERTO RICO WATCH: Puerto Rico's Resident Commissioner Pedro PierUseri, also a leading candidate for governor in the territory's November election, is under investigation from both the FEC and Puerto Rico's Office of Electoral Comptroller, reports POLITICO's John Bresnahan, Anna Palmer and Manuela Tobias. The FEC wants PierUseri to return more than $91,000 in donations to his federal campaign, and the Comptroller office in San Juan, which oversees campaign fundraising, is investigating whether he failed to report extra funds raised from Wall Street groups, including Morgan Stanley, which had helped the territory issue bonds. The FEC argues that PierUseri does not need the money for his
+ federal campaign, since he is retiring from that post to run for governor. Puerto Rico's electoral comptroller Torres Nieves is also investigating whether PierUseri was allowed to raise money for his gubernatorial campaign while also accepting donations for his federal committee for resident commissioner. PierUseri has been a major figure in the congressional talks on Puerto Rico's debt crisis, and faces a June 5 gubernatorial primary. <<link>>
+
+IMMIGRATION CONFRONTATION: POLITICO's Seung Min Kim reports a fight is looming in Congress on the H-2B visa program, which allows low-skilled foreign workers to come to the U.S. to work for up to 10 months as landscapers, housekeepers or seafood processors. Lawmakers on both sides of the aisle whose home states rely on immigrant labor to support local industries, like Democratic Sen. Barbara Mikulski of Maryland and Republican North Carolina Sen. Thom Tillis, both from states with robust seafood production, want to include language in this year's spending bills that renews a provision in last year's omnibus quadrupling the number of H-2B visas available. Additionally, hundreds of groups
+ representing varied professions, like florists, concrete pavement producers and ski resort operators, have been lobbying Congress to increase the visa domain.com, with more than 1,000 groups sending a letter to congressional committees in March. The visas face pushback from labor groups, like the AFL-CIO, which argue the program takes jobs away from Americans and puts workers in unfavorable conditions. <<link>>
+
+POP: The American Beverage Association spent $1.5 million in its fight against Philadelphia mayor Jim Kenney's proposed tax on sugary drinks in the month since the measure's introduction in March, The Philadelphia Inquirer's Tricia L. Nadolny and Julia Terruso report. The organization has largely helped fund the No Philly Grocery Tax Coalition, which has spent $2.6 million on advertising against the proposal. <<link>>
+
+NEW PAC REGISTRATIONS:
+Americans For Sensible Solutions (Independent Expenditure-Only Committee, Unauthorized)
+Lafayette Surgical Hospital, LLC Political Action Committee (Non-Qualified Non-Party, Unauthorized)
+Leading Builders of America Political Action Committee (LBA PAC) (Non-Qualified Non-Party, Lobbyist/Registrant PAC)
+Not Trump Or Hillary (Independent Expenditure-Only Committee, Unauthorized)
+United Republicans of Texas (Non-Qualified Non-Party, Unauthorized)
+
+NEW LOBBYING REGISTRATIONS:
+Alpine Group, Inc.: Rubber Manufacturers Association
+Capitol Tax Partners, LLP: General Electric Energy Financial Services
+Capitol Tax Partners, LLP: NextEra Energy, Inc.
+DeBrunner & Associates, Inc.: Post Acute Medical
+Foley & Lardner LLP: 1101 Dexter Avenue Investors, LLC
+Foley & Lardner LLP: Treasure Island Community Development, LLC
+Gray & Oscar, LLC (formerly Bob Gray, LLC): Vetri Community Partnership
+Jochum Shore & Trossevin PC: GlaxoSmithKline
+Jochum Shore & Trossevin PC: The Pew Charitable Trusts
+Poblete Tamargo, LLP: Paganini
+Poblete Tamargo, LLP: Piedra Family
+Poblete Tamargo, LLP: Pingree
+Poblete Tamargo, LLP: The Buttenheim Family
+Poblete Tamargo, LLP: The Coleman Family
+Poblete Tamargo, LLP: The Condon (Veeder) Family
+Poblete Tamargo, LLP: The Raciti Family
+Poblete Tamargo, LLP: The Ritter Family
+Poblete Tamargo, LLP: The Wassall Family
+The Raben Group: Protect Our Defenders
+Williams and Jensen, PLLC: Bonistas del Patio, Inc.
+
+NEW LOBBYING TERMINATIONS:
+Lockridge Grindal Nauen P.L.L.P.: Howling For Wolves
+
+To view online:
+<<link>>
+ To change your alert settings, please go to <<link>> or <<link>> email was sent to user@domain.com by: POLITICO, LLC 1000 Wilson Blvd. Arlington, VA, 22209, USA
+
+To unsubscribe,<<link>>
+

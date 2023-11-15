@@ -1,0 +1,22 @@
+<x-flowed>
+Dear folks,
+I believe Ben's suggestion is very  good compromise and we should
+prepare a Fig. 4 with three RAOBCORE versions, RICH, HadAT and RATPAC. 
+As I have understood Ben in his first description of Fig. 4, also the 
+range of model trend profiles should be included.
+Who will actually draw the figure? I can do this but I do not have the 
+model data and I do not have the RATPAC profiles so far. It would be 
+easiest to remove the Titchner et al. profiles and Steves profiles from 
+Peter's plot. Or should we send our profile data to you, Ben? What do 
+you think?
+Concerning the possible reaction of Douglass et al.: RAOBCORE v1.2 and 
+v1.3 are both published in the Haimberger(2007) RAOBCORE paper (where 
+they were labeled differently). Thus they have at least omitted v1.3. 
+RAOBCORE v1.4 time series have published in the May 2007 BAMS climate 
+state of 2006 supplement.
+Peter, myself, Dian and probably a few others will meet in Japan by the 
+End of January and a few weeks later in Germany, where we can discuss 
+the latest developments  and plan the publishing strategy.
+Thanks a lot Ben for moderating this Fig. 4 issue.
+Regards,
+Leo

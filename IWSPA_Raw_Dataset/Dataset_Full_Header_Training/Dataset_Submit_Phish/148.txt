@@ -1,0 +1,47 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 7E1C223CA8E
+	for <user@domain.com>; Mon,  2 Apr 2015 12:08:00 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id yFyFpMn-yg1n for <user@domain.com>;
+	Mon,  2 Apr 2015 12:07:59 -0500 (CDT)
+Received: from mail.ci.puyallup.wa.us (mail.ci.puyallup.wa.us [192.103.232.55])
+	by domain.com (Postfix) with ESMTP id 0972323CA92
+	for <user@domain.com>; Mon,  2 Apr 2015 12:07:49 -0500 (CDT)
+Received: from mail.ci.puyallup.wa.us ([192.103.232.51] RDNS failed) by mail.ci.puyallup.wa.us with Microsoft SMTPSVC(6.0.3790.1830);
+	 Mon, 2 Apr 2015 08:08:50 -0700
+Content-class: urn:content-classes:message
+Subject: Information About Your Account!!!
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----_=_NextPart_001_01CD105C.12BB4C1E"
+Date: Sun, 1 Apr 2015 16:06:30 -0700
+Message-ID: <99940user@domain.com>
+X-MimeOLE: Produced By Microsoft Exchange V6.5
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+Thread-Topic: Information About Your Account!!!
+Thread-Index: Ac0QXAl2FJnBy9VyRtmBDEfkzpmhXg==
+From: "Carolyn Cockrum" <CCockrum@ci.puyallup.wa.us>
+X-OriginalArrivalTime: 02 Apr 2015 15:08:50.0269 (UTC) FILETIME=[828F38D0:01CD10E2]
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 69
+
+Attention;
+
+Their has being a recent upgrade on our server please click the link =
+Below or copy paste on your browser to upgrade to our new server;
+
+<<link>>
+
+Thank you for using our mail system
+
+System Administrator.
+

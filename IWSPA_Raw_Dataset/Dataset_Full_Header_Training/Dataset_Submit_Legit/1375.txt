@@ -1,0 +1,146 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 3 May
+ 2015 15:39:51 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 3 May 2015 
+ 15:39:46 -0400
+Received: from [10.87.0.110] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 894405816
+ for user@domain.com; Tue, 03 May 2015 14:39:48 -0500
+X-Note-AR-ScanTimeLocal: 5/3/2016 2:39:46 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:167.89.16.17 DOM:maillist.prochoiceamerica.org ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-195/SG:5 5/3/2016 2:39:40 PM
+X-GBUdb-Analysis: 0, 167.89.16.17, Ugly c=0.626539 p=-0.867277 Source Normal
+X-Signature-Violations: 0-0-0-16043-c
+X-Note-419: 15.626 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/3/2016 2:39:43 PM
+X-Warn: BOUNCETRACKER Bounce User Tracking Found
+X-Warn: WEBBUG
+X-Warn: OPTOUT
+X-Warn: WEIGHT10
+X-Note: Spam Tests Failed: BOUNCETRACKER, WEBBUG, OPTOUT, WEIGHT10
+X-Country-Path: United States->->United States->
+X-Note-Sending-IP: 167.89.16.17
+X-Note-Reverse-DNS: o1678916x17.outbound-domain.com
+X-Note-Return-Path: bounces+2331581-user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G339 G375 G397 G398 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from [167.89.16.17] (HELO o1678916x17.outbound-domain.com)
+  by domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id
+ 139760873 for user@domain.com; Tue, 03 May 2015 14:39:46 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=prochoiceamerica.org; 
+	h=mime-version:subject:From: NARAL Pro-Choice America Media <media@prochoiceamerica.org>
+	s=s1; bh=p4UPog1Ao2tJEAfcM1g+VqtmZa0=; b=g1UyOd7pB2A6Yw6M/bsMt1c
+	yDlzsiR5pWWO7587UpZwSoiH7CbwcBv9XaecuP1hXOkkK5AW9ItbFJ+tF2D/Bj7a
+	Z9Hv+eIB1RynbkDTC/92V0lHMolFHUZQdC936aCZ8S9eaQhUjrXKMFW79y94XPYF
+	Ie5YaSEZJ8eiayOxR14w=
+Received: by domain.com with SMTP id
+ filter0429p1mdw1.19329.5728FE7629        2016-05-03 19:39:34.484275967 +0000
+ UTC
+Received: from domain.com (67.108.121.52.domain.com
+ [67.108.121.52])	by domain.com (SG) with ESMTP id
+ l7-3RwXoQD2uu2aklhjaRg	for <user@domain.com>; Tue, 03 May 2015 19:39:34.293
+ +0000 (UTC)
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=1e100.net; s=20130820;
+ h=x-gm-message-state:mime-version:date:message-id:subject:From: NARAL Pro-Choice America Media <media@prochoiceamerica.org>
+ bh=6qJFE61x6BoC4v51T9/+79OPTOcyIgcyi0ckuwqn/00=;
+ b=Y6wb8A3fv8hd7N6VO0MGRPBtTPCqxS99l9ZgaQObLoZi6cxWfv0ztfYqNnDAKP63IQ
+ gHOi/Vu//0Evmk6YZ/mikVorFNTJkS7VW+smJwdP0Qm8B4BmPUIn1dquuRTaDGWPoxs9
+ DLqW2X1/wzrnVlU3nxIoq0M8uKDCdade1FeghTwevhLVpXM/mK/Yirpwl9YlEFZHpSYk
+ EHSn/uRnGO4YELKb+MXbpAug58spEQij+VJPxW0xhy+i2cEE/uUAqCQBIz50ngWLAntQ
+ KLCxDuamifaz/7PcGEpv/10/w9WpMTJBxv0f8AC1QW5aeewCyclAuP6lOhyRNWiRtzP6
+ y8jA==
+X-Gm-Message-State: AOPr4FVZD5YOBQxh3XCH9yy+IfBlf/9iDpTRO7CKJJ/JJcXP+78kleqCKT4ps560IReGbpyaU4VjCG6/OOLpMxNlhac=
+X-Received: by 10.25.26.143 with SMTP id a137mr2155399lfa.1.1462304310293;
+ Tue, 03 May 2015 12:38:30 -0700 (PDT)
+Date: Tue, 3 May 2015 15:38:30 -0400
+Message-ID: <CACajJ+QoAzp6ufvA-K4tGrO8tHyVC73t-pC4K4q3+user@domain.com>
+Subject: NARAL Responds to MedStar Washington Hospital Center
+From: NARAL Pro-Choice America Media <media@prochoiceamerica.org>
+Content-Type: multipart/alternative; boundary="001a1140242ef8195f0531f540cd"
+X-BeenThere: user@domain.com
+X-Mailman-Version: 2.1.16
+Precedence: list
+List-Id: <friends.mailman.prochoiceamerica.org>
+List-Unsubscribe: <<<link>>>, <mailto:user@domain.com?subject=<<link>>*q*upn=xUQ3jCNra69WclajdKWNZXvi-2B5CvD0xij2hIwhOMJl57RuzexjvblUH-2ByEHAyq8O1BLLF6-2FsWFW6Hcv4DcZlz1VjN-2BSJAF5R4WZ0cua5a0ELLNy9l2FLQy4rZedRGUNLXXmefZDMgGJLBpdoGpDxy-2FKxl3Wqp8dJgfETs5x6S6H2-2FeqQ7IiAb4QepwYUVcfcMgnCArfji1fuauj-2FwRxxGQ-3D-3D>
+List-Archive: <<<link>>>
+List-Post: <mailto:user@domain.com>
+List-Help: <mailto:user@domain.com?subject=help>
+List-Subscribe: <<<link>>>,
+ <mailto:user@domain.com?subject=subscribe>
+To: <user@domain.com>
+Errors-To: user@domain.com
+X-SG-EID: /qskMPcwxb1VaCv1PswYfL3cIKK16+tE+dB/q/CjBM2HTMj+OE1uDWSHi1f0/K8glo887CPXpPBHsm
+ gxZck1BESvxWvuYkeCPXOtYeLtcS93DenHrCsM5zRNsmPzd+rudC34uGbm1voVraNiv1iYHiNABr8b
+ HQCzeYLC+3a+5SYyS/V6XR6opPC7iVtWyxsfKy9qRw4UAubuCh4U+nunNWhbiZjUsKsArpr7+HiDtU
+ VX3n/S7kgHYilRDPYPmP0o
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+*For Immediate Release:* Tuesday, May 3, 2015 
+
+*Contact:* Kaylie Hanson, user@domain.com
+
+*NARAL Responds to MedStar Washington Hospital Center*
+
+In response to the explosive New York Times story
+<<<link>>
+n-files-civil-rights-complaint.html?smprod=3Dnytcore-ipad&smid=3Dnytcore-ip=
+ad-share&_r=3D0>
+about
+MedStar Washington Hospital Center silencing Dr. Horvath-Cosper for
+speaking of her role in *providing abortion care*, NARAL Pro-Choice America
+President Ilyse Hogue issued the following statement:
+
+=E2=80=9CA hospital should never try to silence a doctor from discussing th=
+e vital
+medical care she provides her patients. To do so is shameful, disturbing, *=
+and
+against federal law*. Would they stop cardiovascular surgeons from talking
+about heart procedures they do? Do they silence oncologists from discussing
+their work? Then why stop an OB-GYN from talking about abortion as part of =
+the
+vital medical services they provide? Doing so is a victory for the bullies
+who are trying to end women's access to  abortion care. Silence breeds
+stigma and hurts women and doctors, which is antithetical to everything
+that a hospital should stand for.   If MedStar Washington Hospital Center
+is truly "dedicated to delivering exceptional patient first health care"
+<<<link>>#q=
+=3D%7B%7D>,
+they should actually put patients first and stop contributing to the stigma
+they face if seeking an abortion.
+
+"We support Dr. Horvath-Cosper and all of those who are standing up for
+women=E2=80=99s health care.=E2=80=9D
+
+*NARAL Pro-Choice America and its network of state affiliates are dedicated
+to protecting and expanding reproductive freedom for all Americans. NARAL
+works to guarantee that every woman has the right to make personal
+decisions regarding the full range of reproductive choices, including
+preventing unintended pregnancy, bearing healthy children, and choosing
+legal abortion. In recognition of its work defending our constitutional
+right to choose, Fortune Magazine described NARAL as "one of the top 10
+advocacy groups in America."*
+
+###
+To no longer receive news updates click here: <<link>>
+.org/wf/unsubscribe?upn=3DxUQ3jCNra69WclajdKWNZXvi-2B5CvD0xij2hIwhOMJl57Ruz=
+exjvblUH-2ByEHAyq8Oml2L6OjDpnxbzifIH-2BMYsQX6WdtASjuGa-2FRSyW9kjegYvDV5fbfN=
+W08CepDbCj6RBhI9x4URYgcLzRKKBsJ2qisiRWoTKakdxLavWoer0LPTbxrPzo1jxKRfLERJgX2=
+vk5q0B0sR-2FG71SEtmgHDKMw-3D-3D.

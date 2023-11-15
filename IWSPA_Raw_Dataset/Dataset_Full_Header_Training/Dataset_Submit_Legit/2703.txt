@@ -1,0 +1,460 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Mon, 16 May
+ 2015 11:03:49 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Mon, 16 May 2015 
+ 11:03:47 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 917067711
+ for user@domain.com; Mon, 16 May 2015 10:03:54 -0500
+X-Note-AR-ScanTimeLocal: 5/16/2016 10:03:46 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:207.67.38.166 DOM:domain.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 100
+X-GBUdb-Analysis: 0, 207.67.38.166, Ugly c=0.363392 p=0.0588235 Source Normal
+X-Signature-Violations: 100-5819748-454-476-m
+	100-5950968-647-679-m
+	100-5948747-648-679-m
+	100-5819748-0-32623-f
+X-Note-419: 15.6242 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/16/2016 10:03:31 AM
+X-Warn: BULKMAILER
+X-Note: Spam Tests Failed: BULKMAILER
+X-Country-Path: ->United States->
+X-Note-Sending-IP: 207.67.38.166
+X-Note-Reverse-DNS: xtinmta05-166.domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G281 G286 G374 G580 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from xtinmta05-166.domain.com ([207.67.38.166] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 138782048
+ for user@domain.com; Mon, 16 May 2015 10:03:46 -0500
+Received: by xtinmta05-166.domain.com id h77gl4163hsp for
+ <user@domain.com>; Mon, 16 May 2015 09:03:23 -0600 (envelope-from
+ <user@domain.com>)
+From: USA TODAY Opinion <noreply@reply.usatoday.com>
+To: <user@domain.com>
+Subject: The latest debate & opinion from USA TODAY
+Date: Mon, 16 May 2015 09:03:21 -0600
+List-Unsubscribe: <mailto:user@domain.com>
+Reply-To: domain.com
+	<user@domain.com>
+x-job: 10733530_61488917
+Message-ID: <user@domain.com>
+Content-Type: multipart/alternative; boundary="5OiPY0nBxaNH=_?:"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+USA Today- Opinion
+
+<<link>> 
+May 16 
+
+<<link>> 
+May 16     
+FOLLOW US
+<<link>> 
+
+<<link>> 
+
+<<link>> 
+
+<<link>> 
+
+
+
+<<link>> 
+NEWS 
+<<link>> 
+SPORTS 
+<<link>> 
+LIFE 
+<<link>> 
+MONEY 
+<<link>> 
+TECH 
+<<link>> 
+TRAVEL 
+<<link>> 
+OPINION 
+<<link>> 
+WEATHER 
+
+<<link>> 
+USATODAY.COM  
+<<link>> 
+NEWS 
+
+
+
+
+opinion
+
+
+
+
+<<link>> 
+
+
+
+
+<<link>> 
+Transgender bathroom 'guidance' could be last straw: Cal Thomas  
+
+
+
+ Obama administration has given families turning to alternatives to public school another push.
+
+
+
+
+<<link>> 
+Read Story 
+<<link>> 
+
+
+
+<<link>> 
+
+<<link>> 
+
+<<link>> 
+
+<<link>> 
+
+
+
+
+<<link>> 
+
+<<link>> 
+
+<<link>> 
+
+
+
+
+opinion
+
+
+
+
+<<link>> 
+
+
+
+
+<<link>> 
+Mr. Trump, release your tax returns: Our view 
+Voters deserve to know before Election Day.
+
+<<link>> 
+
+<<link>> 
+
+<<link>> 
+
+<<link>> 
+
+<<link>> 
+
+
+
+
+opinion
+
+
+
+
+<<link>> 
+
+
+
+
+<<link>> 
+Mrs. Clinton, and your speeches?: Our view 
+What you said privately to bankers would interest voters.
+
+<<link>> 
+
+<<link>> 
+
+<<link>> 
+
+<<link>> 
+
+<<link>> 
+
+
+
+
+opinion
+
+
+
+
+<<link>> 
+
+
+
+
+<<link>> 
+Transgender bathrooms now a 2015 battleground: Column 
+The Obama administration's threat to pull federal money from states is unconstitutional bullying.
+
+<<link>> 
+
+<<link>> 
+
+<<link>> 
+
+<<link>> 
+
+<<link>> 
+
+
+
+
+Advertisement
+
+<<link>> 
+
+<<link>> 
+
+<<link>> 
+
+
+
+
+opinion
+
+
+
+
+<<link>> 
+
+
+
+
+<<link>> 
+Trump doesn't seem headed for Mt. Rushmore: Column 
+Presumptive GOP nominee is already lagging on measures of presidential greatness.
+
+<<link>> 
+
+<<link>> 
+
+<<link>> 
+
+<<link>> 
+
+<<link>> 
+
+
+
+
+opinion
+
+
+
+
+<<link>> 
+
+
+
+
+<<link>> 
+White House jumps into restroom debate: #tellusatoday 
+Hold it, there is a debate going on in the bathroom.
+
+<<link>> 
+
+<<link>> 
+
+<<link>> 
+
+<<link>> 
+
+<<link>> 
+
+
+
+
+nation-now
+
+
+
+
+<<link>> 
+
+
+
+
+<<link>> 
+Voices: Transgender people just want to use bathroom 
+In all the years of working with adults who were sexually abused as children, I know not one of them having been abused by a transgender person.
+
+<<link>> 
+
+<<link>> 
+
+<<link>> 
+
+<<link>> 
+
+<<link>> 
+
+
+
+
+nation-now
+
+
+
+
+<<link>> 
+
+
+
+
+<<link>> 
+Voices: I survived China's horrific Cultural Revolution 
+Fifty years ago Monday, dictator Mao Zedong of China lit the flames of Cultural Revolution to purge his opponents and preserve the “true” communist ideology.
+
+<<link>> 
+
+<<link>> 
+
+<<link>> 
+
+<<link>> 
+
+<<link>> 
+
+
+
+
+opinion
+
+
+
+
+<<link>> 
+
+
+
+
+<<link>> 
+Punchlines: An 'encouraging' meeting? 
+The late-night comics on Paul Ryan's response to a closed-door session with Donald Trump.
+
+<<link>> 
+
+<<link>> 
+
+<<link>> 
+
+<<link>> 
+
+<<link>> 
+
+
+
+
+opinion
+
+
+
+
+<<link>> 
+
+
+
+
+<<link>> 
+Al-Qaeda resurrects under ISIL shadow: Column 
+While Islamic State seized world's attention, bin Laden network rebranded and recharged.
+
+<<link>> 
+
+<<link>> 
+
+<<link>> 
+
+<<link>> 
+
+<<link>> 
+
+
+
+
+<<link>> 
+
+
+
+
+Editorial Cartoon
+
+<<link>> 
+
+<<link>> 
+
+
+
+ Popular Stories
+
+
+
+
+<<link>> 
+Supreme Court sends 'contraceptive mandate' cases back to lower courts 
+
+
+
+<<link>> 
+Gannett raises offer to buy Tribune to $15 per share 
+
+
+
+<<link>> 
+Missing 64-year-old hiker found tied to tree 
+
+
+
+To forward this e-mail to a friend, 
+<<link>> 
+click here
+
+You are currently subscribed to this newsletter with the address: user@domain.com To UNSUBSCRIBE, please 
+<<link>> 
+click here .
+
+<<link>> 
+Manage Subscriptions  | 
+<<link>> 
+Help  | 
+<<link>> 
+Advertise  | 
+<<link>> 
+Home Delivery  | 
+<<link>> 
+Privacy Policy - Your California Privacy Rights 
+
+(c) 2015 USA TODAY, a division of Gannett Satellite Information Network, LLC.
+
+7950 Jones Branch Drive, McLean, VA 22108
+
+
+

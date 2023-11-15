@@ -1,0 +1,102 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.4.9])
+	by domain.com (Postfix) with ESMTP id 1FC06468D4
+	for <user@domain.com>; Tue, 10 Jul 2015 20:20:57 -0400 (EDT)
+Received: from domain.com (bio.hgy.es [193.146.180.21])
+	by domain.com (Postfix) with ESMTP id D4353131FDEA
+	for <user@domain.com>; Tue, 10 Jul 2015 20:20:56 -0400 (EDT)
+Received: by domain.com (Postfix)
+	id 095351C412; Wed, 11 Jul 2015 02:20:55 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [193.146.180.90])
+	by domain.com (Postfix) with ESMTP id 992471C3D3
+	for <user@domain.com>; Wed, 11 Jul 2015 02:20:54 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 88DD97F3
+	for <user@domain.com>; Wed, 11 Jul 2015 02:20:54 +0200 (CEST)
+X-Quarantine-ID: <GfJFmIu+dtZv>
+X-Virus-Scanned: Debian amavisd-new at domain.com
+X-Amavis-Alert: BAD HEADER Non-encoded 8-bit data (char A9 hex): From: "2007 E-Gold" <contact@e-gold.com>
+	"\2512007 E-Gold" <c...
+X-Spam-Flag: YES
+X-Spam-Score: 13.6
+X-Spam-Level: *************
+X-Spam-Status: Yes, score=13.6 tagged_above=0 required=5
+	tests=[BAYES_50=0.001, DNS_FROM_RFC_ABUSE=0.2,
+	FORGED_MUA_OUTLOOK=4.056, FORGED_OUTLOOK_HTML=2.713,
+	FORGED_OUTLOOK_TAGS=2.492, HTML_50_60=0.134, HTML_IMAGE_ONLY_16=0.497,
+	HTML_MESSAGE=0.001, HTML_MIME_NO_HTML_TAG=1.082,
+	HTML_SHORT_LINK_IMG_2=1.582, MIME_HTML_ONLY=0.001,
+	UNDISC_RECIPS=0.841]
+Received: from domain.com ([193.146.180.21])
+	by localhost (domain.com [193.146.180.108]) (amavisd-new, port 10024)
+	with ESMTP id GfJFmIu+dtZv for <user@domain.com>;
+	Wed, 11 Jul 2015 02:20:54 +0200 (CEST)
+Received: from smtp20.orange.fr (smtp20.orange.fr [193.252.22.31])
+	by domain.com (Postfix) with ESMTP id 70A8C1C3D2
+	for <user@domain.com>; Wed, 11 Jul 2015 02:20:18 +0200 (CEST)
+Received: from me-domain.com (localhost [127.0.0.1])
+	by mwinf2022.orange.fr (SMTP Server) with ESMTP id 2265E1C01440
+	for <user@domain.com>; Wed, 11 Jul 2015 02:19:05 +0200 (CEST)
+Received: from User (LAubervilliers-153-51-1-56.w193-252.abo.wanadoo.fr [193.252.176.56])
+	by mwinf2022.orange.fr (SMTP Server) with SMTP id 427461C0044B;
+	Wed, 11 Jul 2015 02:19:01 +0200 (CEST)
+X-ME-UUID: 20070711001901272.427461user@domain.com
+From: "2007 E-Gold" <contact@e-gold.com>
+Subject: Confirm Your E-Gold Information
+Date: Wed, 11 Jul 2015 02:18:54 +0200
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20070711001901.427461user@domain.com>
+To: undisclosed-recipients: ;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1499
+
+eBay sent this 
+
+message.
+
+Your registered name is included to show this message originated from eBay. Learn more.
+
+Question about Item - Respond Now
+
+eBay sent this message on behalf of an eBay member through My Messages. Responses 
+
+sent using email will go to the eBay member directly and will include your email 
+
+address.
+
+Question from 
+
+bluebellvue
+
+bluebellvue(  
+
+146)
+
+Positive 
+
+feedback:
+100%
+
+Member 
+
+since:May-25-05
+Location:NC, United 
+
+States
+Registered 
+
+on:domain.com
+
+Item: (250026510836)

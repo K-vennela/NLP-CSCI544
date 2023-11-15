@@ -1,0 +1,125 @@
+Dear Keith 
+(Tim, please get this to Keith by FAX or other means, if
+he is unlikely to have received this at his own email while traveling).
+It's a good piece overall. As you might suspect, I do have several
+comments. Ray and Malcolm may send along a few of their own. Malcolm
+in particular may want to comment on some of your points regarding
+dendroclmiatic series and our ITRDB PC#1 series which figures
+so prominently in our millennial reconstruction.
+1) page 2, top paragraph:
+It's is very misleading to make it sound as if we are strictly
+reconstructing northern hemisphere mean temperature, and then
+say "4 of the records are actually from the southern hemisphere
+locations". This is misleading for a number of reasons. First of
+all, if one is going after true northern hemisphere areally-weighted
+mean temperature 0-90 degrees (as we are), then the southern hemisphere
+tropics are actually more relevant than the high-latitudes of the
+Northern Hemisphere. Careful diagnostics of surface temperature
+covariances by Alexey Kaplan, Mark Cane and others have shown this
+clearly to be true. BUt more than that, we are reconstructing the full
+20th century surface temperature domain shown in Figure 1 of our '98 
+Nature paper. This is a GLOBAL domain, albeit sparse outside the southern
+hemisphere tropics/subtropics, particularly the southern oceans,
+for obvious regions. THe proxy network roughly overlaps the spatial
+domain of surface temperature we are reconstructing (ie, compare
+Nature '98 figure 1a and figure 1b). We choose to diagnose from
+this spatial domain the northern hemisphere mean only because that
+is the hemisphere for which we can meaningfully talk about a 
+true hemispheric mean. But both the predictor and predictand have
+a global distribution. Without going on and on, I think its clear
+why your comments here are a bit unfair in how they represent why
+we use southern hemisphere data. This is probably the most important
+point that needs to be revised here. 
+2) page 2, 2nd paragraph
+A minor point, but an important one: It is incorrect to say the
+our uncertainties are based only on "a consideration ...goodnest
+of fit...over the calibration period"! This is not correct. A
+key point is that the verification period (1854-1901) diagnostics
+(though based on a somewhat sparser distribution of gridpoint
+data from which NH mean temp can be estimated) give very nearly
+identifical diagnostics in terms of unresolved reconstructed
+NH mean temp variance. So our uncertainties are based both
+on 20th century calibration and independent confirmation from
+19th century data. PLEASE MAKE SURE this is clear.
+On the bigger point being made here, I agree w/ you in principle,
+and this is a point that Phil has raised too: what we *DONT*
+take into account (though I challenge anyone to really ever
+be able to take this into account!) is the unknown potential
+bias due to degradation from diminishing quality of the underlying
+proxy data back in time. However, on some of the specific 
+points in that regard, it is very likely not a significant
+concern in our reconstructions. We closely examined the spectra
+of the underlying proxy data to insure that those upon which
+our reconstruction ultimately relies have the amount of
+millennial scale trend/variability that would be expected for
+a climatic series for at least the null hypothesis of red noise.
+Malcolm independently examined the tree ring chronologies underlying
+our ITRDB PC #1 to verify that the standardization was appropriately
+conservative for a millennial-scale reconstruction. Furthermore,
+Malcolm verified that the ITRDB PC #1 is made up of heavily replicated
+chronologies as far back as we use them. So neither of the
+points you raise appear to be  all that relevant to our reconstruction.
+With regard to this point, I have some issues with your Figure 
+that accompanies the piece. It is quite ironic 
+given your comments about the potential impacts of
+standardization on the long-timescale veriations. For our
+millennial reconstruction we have verified as carefully as
+has ever been verified, that the millennial scale trend is
+likely to be meaningful. I don't think you have done so for
+the 2000 year-long trend in the series you show, and if you
+have not verified that it is likely to have retained 2000 year
+long trends, it is VERY misleading to show this series along
+with the others. I don't believe that it is likely to accurately
+represent the 2000 year long trend in NOrthern Hemisphere mean
+temperature, as you imply by showing it here. I think this series
+needs to be removed from the plot. I have a related comment
+below (point #5).
+3) page 3, 1st paragraph:
+Remove "this is a moot point" and replace with more appropriate
+language. It is not "a moot point" because the problem you point
+out has largely been shown to apply to tree ring density data
+(which you have largely been using), and much less so tree
+ring width data (which we are using). Furthermore, the comparison
+only goes through 1980 at which point there is little evidence
+that there is a significant declinde in tree ring width response,
+although more evidence that there is already a problem at that
+point with density data. Your criticism is not quite fair here,
+and the statements should be revised to reflect more accurately
+on what we have done.
+4) page 3, 2nd paragraph:
+When you talk about proxy-based ENSO reconstructions, you
+should mention our NINO3 reconstruction! This is complementary
+to Stahle's SOI reconstruction in a number of ways. The appropriate
+references here are both our Nature '98 papers, and the chapter
+in Henry Diaz's latest book (in the press):
+Mann, M.E., Bradley, R.S., and Hughes, M.K., 
+Long-term variability in the El Nino
+Southern Oscillation and associated teleconnections, Diaz, H.F. & Markgraf,V., 
+(eds) El Nino and the Southern Oscillation: Multiscale Variability and 
+its Impacts on
+Natural Ecosystems and Society, Cambridge University Press, 321-372, Cambridge,
+UK, in press, 1999. 
+if you care to, you can download the galley version here:
+ftp://eclogite.geo.umass.edu/pub/mann/ONLINE-PREPRINTS/ENSO-recon/
+in either pdf format (chapter-diaz.pdf) or postscript (chapter-diaz.ps)
+5) accompanying figure (see also my point #3):
+There are problems with the 2000 year series in terms
+of your definition of the baseline for comparing with the
+other series, and this differs quite a bit from what
+we are likely to be showing in IPCC. It appears that both
+the density NH reconstruction and your 2000 year long
+series fall at least 0.1C below the other series during
+the 20th century, and are probably running at least that
+much too cold the whole way through.
+Also, correct "global temperature and non-temperature proxies"
+in your description of our series to "global climate proxies"
+which is a more honest way of describing them given our
+methodological approach, and make sure it is clear to the
+readers which series are extratropical and warm season, and
+which are full northern hemisphere/annual mean estimates (ours).
+Such discussion will, again, figure prominently in IPCC, and
+it would be a shame for Science to be publishing something
+that is misleading in that respect. In part, it was this issue
+that forced the publication of a followup to Phil's perspective
+by me, Ray, Malcolm, and Phil a year ago, and it would be nice
+to avoid that scenario this time around...

@@ -1,0 +1,161 @@
+Received: from dncedge1.dnc.org (192.168.185.10) by DNCHUBCAS1.dnc.org
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Mon, 9 May
+ 2015 12:33:20 -0400
+Received: from domain.com (8.19.118.102) by dncwebmail.dnc.org
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Mon, 9 May 2015 
+ 12:33:18 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 904535227;
+ Mon, 09 May 2015 11:33:18 -0500
+X-Note-AR-ScanTimeLocal: 5/9/2016 11:33:12 AM
+X-Policy: dnc.org
+X-Policy: dnc.org
+X-Policy: dnc.org
+X-Policy: dnc.org
+X-Policy: dnc.org
+X-Policy: Too many policies to list
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:209.85.213.60 DOM:domain.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note: ICH-CT/SI:0-779/SG:1 5/9/2016 11:33:04 AM
+X-Note-SnifferID: 100
+X-GBUdb-Analysis: 1, 208.69.4.12, Ugly c=0.63426 p=-0.96603 Source Normal
+X-Signature-Violations: 100-5941379-11315-11394-m
+	100-5941379-0-19844-f
+X-Note-419: 15.6256 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/9/2016 11:33:05 AM
+X-Warn: OPTOUT
+X-Warn: BULKMAILER
+X-Note: Spam Tests Failed: OPTOUT, BULKMAILER
+X-Country-Path: ->->United States->->->United States->
+X-Note-Sending-IP: 209.85.213.60
+X-Note-Reverse-DNS: mail-vk0-domain.com
+X-Note-Return-Path: demcommunications+user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G281 G286 G374 G376 G427 G438 G580 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from mail-vk0-domain.com ([209.85.213.60] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 137366576;
+ Mon, 09 May 2015 11:33:12 -0500
+Received: by mail-vk0-domain.com with SMTP id s184sf13452717vkb.0;
+        Mon, 09 May 2015 09:33:12 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=domain.com; s=20120806;
+        h=sender:From: "Wartel, Jonae" <WartelJ@dnc.org>
+         :accept-language:content-language:mime-version:x-original-sender
+         :x-original-authentication-results:precedence:mailing-list:list-id
+         :x-spam-checked-in-group:list-post:list-help:list-archive
+         :list-unsubscribe;
+        bh=Y6kBlTz4RlyuxbJgVKxrUvAwdsoGtx6XGE/hC+MoMB0=;
+        b=AorEQ8UPznXkh1QTOQiUnTgxtV2GlkFjiSLkX/2C37NhhIEUQw0M8XDDoQWZuddWGf
+         giEEnWqF020bHSq/14Vy2p491e0Ds9ZgYfQLTBfDTtC0/AdgQ6pH0TQr9ka7v8+Q3vo5
+         lFgJeoetf3eJqlOCt72+MNmHtdrrlE2NLxk7MJHtLSpjNv9xCKs9fyICEfFsP7GEZHVG
+         8An+T+uoNTGF5oPTdLXzJAAlG/qf/whBj86tyYeiDu2tXTmNNuJUGrgpY003+mBryA2L
+         UC0HDBj3S5nfMgtAPhzHgciMDuFLMYzE3t+Xz+TJeM7KjHM6aW4MKquuOruEqy5KdQwx
+         mePQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=sender:x-gm-message-state:From: "Wartel, Jonae" <WartelJ@dnc.org>
+         :thread-index:date:message-id:accept-language:content-language
+         :mime-version:x-original-sender:x-original-authentication-results
+         :precedence:mailing-list:list-id:x-spam-checked-in-group:list-post
+         :list-help:list-archive:list-unsubscribe;
+        bh=Y6kBlTz4RlyuxbJgVKxrUvAwdsoGtx6XGE/hC+MoMB0=;
+        b=JpYClzCev6U/swThPtLTtPvR0UtGPLpa004haz6eb94aoDK3vMAbpI23Ej+qNLbSAB
+         ot+2mmjRp77AD684ab1PZBTKbmQPu0si7ZReiayCDohxKczboHtnTQ86XwclfsR+5HFt
+         T8e1R+r9m5nqieYhuhlrdUupUsDAi8XIFuEbQAxlWUaaeP05WGUF3inRXGiuCB83FA1o
+         SmNxoKXFEqY5Y14yl5MkstA9CFTSNUV8JpSw3jolCELwWupSLBgiZCO0A0TKuNXfIcim
+         0ueLR46AUO+zV3kCO2QQ9lVDwFWwcb1Y8K4FOTnzlFBpLflasMHJEUCqYzXGa8pI1tub
+         pIWA==
+Sender: <user@domain.com>
+X-Gm-Message-State: AOPr4FU5ZmznO5LmqyMV5M/1ocx+kb36tpAbzbouZu8DevwAdlnb1G28nuSLcnzvtZ+y6w==
+X-Received: by 10.50.6.70 with SMTP id y6mr155990igy.8.1462811592003;
+        Mon, 09 May 2015 09:33:12 -0700 (PDT)
+X-BeenThere: user@domain.com
+Received: by 10.107.26.196 with SMTP id a187ls2124164ioa.79.gmail; Mon, 09 May
+ 2015 09:33:11 -0700 (PDT)
+X-Received: by 10.66.101.212 with SMTP id fi20mr23074823pab.10.1462811591656;
+        Mon, 09 May 2015 09:33:11 -0700 (PDT)
+Received: from dncedge1.dnc.org (dncedge1.dnc.org. [208.69.4.12])        by
+ gmr-domain.com with ESMTPS id x84si2105910ywd.6.2016.05.09.09.33.11
+        for <user@domain.com>        (version=TLS1
+ cipher=ECDHE-RSA-AES128-SHA bits=128/128);        Mon, 09 May 2015 09:33:11
+ -0700 (PDT)
+Received-SPF: pass (domain.com: domain of user@domain.com designates 208.69.4.12 as permitted sender) client-ip=208.69.4.12;
+Received: from DNCHUBCAS2.dnc.org (192.168.185.16) by dncwebmail.dnc.org
+ (192.168.10.221) with Microsoft SMTP Server (TLS) id 14.3.224.2; Mon, 9 May
+ 2015 12:33:09 -0400
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ dnchubcas2.dnc.org ([::1]) with mapi id 14.03.0224.002; Mon, 9 May 2015 
+ 12:33:10 -0400
+From: "Wartel, Jonae" <WartelJ@dnc.org>
+To: "User" <user@domain.com>
+CC: "Cure, Vanna" <user@domain.com>
+Subject: [COMMUNICATIONS] REMINDER: ASDC Comms Call- 1PM EST
+Thread-Topic: REMINDER: ASDC Comms Call- 1PM EST
+Thread-Index: AdGqAUB2FkRCf8NhSG2JzkzwKtwbWQADv+NA
+Date: Mon, 9 May 2015 16:33:10 +0000
+Message-ID: <400user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.185.18]
+Content-Type: multipart/related;
+	boundary="_004_400E536A02570D4D9DE56FC171DFEA776F61DFDDdncdag1dncorg_";
+	type="multipart/alternative"
+X-Original-Sender: user@domain.com
+X-Original-Authentication-Results: gmr-domain.com;       spf=pass
+ (domain.com: domain of user@domain.com designates 208.69.4.12 as permitted
+ sender) user@domain.com
+Precedence: list
+Mailing-list: list user@domain.com; contact demcommunications+user@domain.com
+List-ID: <domain.com>
+X-Spam-Checked-In-Group: user@domain.com
+X-Google-Group-Id: 191713197092
+List-Post: <<<link>>>, <mailto:user@domain.com>
+List-Help: <<<link>>>, <mailto:demcommunications+user@domain.com>
+List-Archive: <<<link>>
+List-Unsubscribe: <mailto:googlegroups-manage+191713197092+user@domain.com>,
+ <<<link>>>
+Return-Path: demcommunications+user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: dncedge1.dnc.org
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Hey Everyone!
+
+Quick reminder about the ASDC Comms call happening this afternoon at 1:00 pm ET.
+
+Dial In Info is listed below:
+
+ +1 (202) 743-7477<tel:+1%20(202)%20743-7477> Conference ID: 50472
+Talk to you soon!
+
+Jonae
+
+---------------------
+Jonae Wartel
+Executive Director
+Association of State Democratic Chairs
+E: user@domain.com<mailto:user@domain.com>
+C: 770.653.9789
+O: 202.479.5104
+T: JonaeASDC
+
+[ASDC Logo]
+
+-- 
+
+--- 
+You received this message because you are subscribed to the Google Groups "Democratic State Party - Communications Staff" group.
+To unsubscribe from this group and stop receiving emails from it, send an email to demcommunications+user@domain.com
+To post to this group, send email to user@domain.com
+To view this discussion on the web domain.com <<link>>
+For more options, domain.com <<link>>

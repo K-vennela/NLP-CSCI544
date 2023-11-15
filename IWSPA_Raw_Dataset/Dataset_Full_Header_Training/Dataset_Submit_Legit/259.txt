@@ -1,0 +1,48 @@
+Received: from domain.com ([fe80::755c:1705:6a98:dcff]) by
+ domain.com ([fe80::755c:1705:6a98:dcff%11]) with mapi id
+ 14.03.0123.003; Wed, 3 Jun 2015 20:47:44 +0200
+From: Emad Shehata <e.shehata@hackingteam.com>
+To: Alessandra Mino <user@domain.com>
+CC: events <user@domain.com>, rsales <user@domain.com>,
+	=?iso-8859-1?Q?Sergio_Rodriguez-Sol=EDs_y_Guerrero?=
+	<user@domain.com>, Fabio Busatto <user@domain.com>, "Eric
+ Rabe" <user@domain.com>, Fabrizio Cornelli
+	<user@domain.com>
+Subject: ISS Praha 2015 
+Thread-Topic: ISS Praha 2015 
+Thread-Index: AdCeLbR98tn6lrPPT/qQFC5G0YSvVg==
+Date: Wed, 3 Jun 2015 20:47:43 +0200
+Message-ID: <user@domain.com>
+Accept-Language: it-IT, en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <user@domain.com>
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 03
+X-Originating-IP: [fe80::755c:1705:6a98:dcff]
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EMAD SHEHATA450
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-641495719_-_-"
+
+Dear Alessandra,
+
+Trust this e-mail find you well.
+
+Please find attached the photos of our Booth in ISS Praha 2015.
+
+On behalf of our Team: excellent job and effort from your side, appreciate!! 
+
+Thanks!!!
+
+HeackingTeam Exibition Staff
+
+--
+Emad Shehata
+Key Account Manager
+
+Sent from my mobile.

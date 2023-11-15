@@ -1,0 +1,55 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id E1D4B23CAA0
+	for <user@domain.com>; Tue, 26 Jun 2015 03:02:40 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at domain.com
+X-Spam-Score: 2.747
+X-Spam-Level: **
+X-Spam-Status: No, score=2.747 tagged_above=2 required=5
+	tests=[BAYES_00=-2.599, DNS_FROM_RFC_ABUSE=0.2,
+	DNS_FROM_RFC_DSN=2.597, DNS_FROM_RFC_POST=1.708, UNDISC_RECIPS=0.841]
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 0ATir8cu9j+J for <user@domain.com>;
+	Tue, 26 Jun 2015 03:02:38 -0500 (CDT)
+Received: from mail5 (domain.com.gt [200.12.63.16])
+	by domain.com (Postfix) with ESMTP id 6F57123CA91
+	for <user@domain.com>; Tue, 26 Jun 2015 03:02:36 -0500 (CDT)
+Received: from [200.12.63.16] (localhost [127.0.0.1])
+	by mail5 (Postfix) with ESMTP id 72E2425EEC;
+	Tue, 26 Jun 2015 02:38:17 -0500 (CDT)
+Received: from 180.215.197.194
+        (SquirrelMail authenticated user michael)
+        by 200.12.63.16 with HTTP;
+        Tue, 26 Jun 2015 02:38:17 -0500
+Message-ID: <1c0f37d3892f49f02ea9667b612e293e.squirrel@200.12.63.16>
+Date: Tue, 26 Jun 2015 02:38:17 -0500
+Subject: Email Quota domain.com
+From: "WEB TECHNICAL SUPPORT TEAM" <noreply@upgrade.com>
+User-Agent: SquirrelMail/1.4.20
+MIME-Version: 1.0
+Content-Type: text/plain;charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 102
+
+You have exceeded the storage domain.com on your mailbox.You will not be able
+to send or receive new mail until you upgrade your email.
+
+Click the below link and fill the form to upgrade your account.
+
+<<link>>
+
+Warning!!!
+Account owners are expected to update their accounts within 3 working days
+after receipt of this notice. Failure to comply with this notice within
+the stipulated time will face the risk of loosing his or her account.
+
+                 Copyright  2015 . All rights reserved.

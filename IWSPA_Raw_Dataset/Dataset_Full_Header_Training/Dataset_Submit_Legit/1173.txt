@@ -1,0 +1,119 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Mon, 9 May
+ 2015 17:09:38 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Mon, 9 May 2015 
+ 17:09:36 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 905312676
+ for user@domain.com; Mon, 09 May 2015 16:09:42 -0500
+X-Note-AR-ScanTimeLocal: 5/9/2016 4:09:37 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @politico.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->
+X-Note-Sending-IP: 68.232.198.10
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from domain.com ([68.232.198.10] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 137434103
+ for user@domain.com; Mon, 09 May 2015 16:09:37 -0500
+Received: by domain.com id h63u92163hs8 for <user@domain.com>; Mon,
+ 9 May 2015 15:01:59 -0600 (envelope-from
+ <user@domain.com>)
+From: "POLITICO's  2015 Blast" <2016blast@politico.com>
+To: <user@domain.com>
+Subject: =?UTF-8?B?UE9MSVRJQ08ncyAyMDE2IEJsYXN0OiBSeWFuIHdvdWxkIHN0ZXAg?=
+ =?UTF-8?B?YXNpZGUgYXQgY29udmVudGlvbiDigJQgQ2xpbnRvbuKAmXMgUm9tbmV5LWZp?=
+ =?UTF-8?B?Y2F0aW9uIHBsYW4g4oCUIFRydW1w4oCZcyBmb3J3YXJkIHBsYW5uaW5nIA==?=
+ =?UTF-8?B?4oCUIDUgVGhpbmdzIFlvdSBOZWVkIFRvIEtub3c=?=
+Date: Mon, 9 May 2015 15:01:59 -0600
+List-Unsubscribe: <mailto:user@domain.com>
+Reply-To: POLITICO subscriptions
+	<user@domain.com>
+x-job: 1376319_5405797
+Message-ID: <65user@domain.com>
+Content-Type: multipart/alternative; boundary="vCPraQxTFNVO=_?:"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+By Henry C. Jackson | 05/09/2016 04:59 PM EDT
+
+CASTING A PAUL: Paul Ryan says he'd be willing to stand aside as chairman of the Republican National Convention if DONALD TRUMP were to ask, another sign of escalated tensions between the billionaire and the GOP speaker of the House.
+
+POLITICO's Rachael Bade reports Ryan made the offer while doing a round of local press to kick off the week. He told the Milwaukee Journal Sentinel that he would stand down at Trump's request. The comments come after Ryan said last week he couldn't currently support Trump as his party's nominee: "He's the nominee. I'll do whatever he wants with respect to the convention," Ryan told the newspaper.
+
+Trump and Ryan are set to meet in person on Thursday in Washington. Thus far, there's been little sign that tensions have cooled ahead of the t&ecirc;te-a-t&ecirc;te. Read more at: <<link>> 
+
+It's Monday. We'd never stand down from your 2015 Blast. You will have to demand our ouster. Henry C. Jackson (@henrycjjackson) is here to guide you through the day's campaign news, so send your tips, complaints and your most scalding takes to: user@domain.com 
+
+BREAKING BLAST: MARCO RUBIO has formally ruled himself out of serving as DONALD TRUMP's vice president, CNN reports. 
+
+Here are four more things we're watching today.
+
+2) NO APOLOGIES: Huh, this sounds familiar: HILLARY CLINTON's campaign is test driving a message against DONALD TRUMP that sure seems like the first step in the MITT ROMNEY-fication of the presumptive GOP nominee. POLITICO's Nolan D. McCaskill reports that Clinton's campaign today sought to portray Trump as a ruthless tycoon. Clinton's campaign convened a conference call to slam the presumptive GOP nominee's economic proposals. Clinton's top policy aide, Jake Sullivan, said Trump's tax plan "places him squarely on the side of the super wealthy and corporations at the expense of the middle class and working families." Where have we heard this before? 
+<<link>> 
+
+3) FORWARD PLANNING: DONALD TRUMP named Chris Christie as the chairman of his presidential transition - a role that would take on outsize importance if Trump wins in November. <<link>> But, as POLITICO's Ben White and Darren Samuelsohn report, Christie's assignment is already quite difficult: A vast number of GOP administration veterans have said they'll take a pass on a Trump administration. Dozens of potential appointees said in interviews with POLITICO they wouldn't serve unless Trump changed his tone on a variety of issues. <<link>> 
+
+4) MONDAY TIRADE: How did DONALD TRUMP spend his Monday? As he has spent many other days this campaign cycle: lashing out at multiple targets, particularly the media. POLITICO's Nick Gass reports Trump pivoted toward a general election by referring to "Crooked Hillary" on Twitter, getting into a sarcastic back-and-forth with a CNN anchor and conducting himself with a generally combative tone in a series of TV interviews. <<link>> For good measure, Trump also reignited a feud with the hosts of "Morning Joe." <<link>> 
+
+5) IT, PHONE HOME: The State Department says it can't find any text messages sent by HILLARY CLINTON, nor any she received during her tenure as secretary of state. And, POLITICO's Josh Gerstein reports, Foggy Bottom can't locate any emails received or sent by a key information technology staffer during her tenure. That's according to lawyers for the Republican Party in a court filing on Monday. The State Department disputes this - saying they have at least some emails from computer specialist, Bryan Pagliano, although the messages were found in other people's accounts.This comes in response to a RNC domain.com, filed in March seeking Clinton's text or Blackberry messages. 
+<<link>> 
+
+TRAIL MIX: Elsewhere on the campaign trail, there are a lot of "Democrats" who do not like HILLARY CLINTON. But she's riding a midnight train in Georgia. Mark Salter explains. TED CRUZ supporters want control. And Jon Stewart goes off.
+
+STILL BERNING HERE: Ahead of West Virginia voting tomorrow, BERNIE SANDERS emphasized that he still has a chance during a rally in Atlantic City. <<link>> Sanders also managed to rouse DONALD TRUMP supporter Carl Ichan who disputed his portrayal of Atlantic City. <<link>> 
+
+MOUNTAINEER MATH: For the record, there are 29 delegates on the line tomorrow. They are proportionally distributed. The Real Clear Politics average has Sanders up about 6 points in the state. <<link>> 
+
+NOT WITH HER: These are the places, besides Vermont, where Democrats least like HILLARY CLINTON. (The New York Times) <<link>> 
+
+MOORE OR LESS: Michael Moore says he'll be backing HILLARY CLINTON - if she's the Democratic nominee. <<link>> 
+
+MIDNIGHT TRAIN TO GEORGIA: A new poll has HILLARY CLINTON and DONALD TRUMP statistically tied in Georgia. Yes, Georgia. (Atlanta Journal-Constitution) <<link>> 
+
+BLAST NOTE: Did you think we'd pass up an opportunity to link to Gladys Knight and the Pips? <<link>> At the Blast we're always looking for a simpler place and time.
+
+BERN AFTER READING: A meme making its way around the domain.com does not tell BERNIE SANDERS supporters how to make glowsticks, but rather chlorine bombs. Yikes. (Mic) <<link>>  
+
+STILL SALT(ER)Y: POLITICO's Glenn Thrush talks to former McCain adviser Mark Salter about why the adviser won't back DONALD TRUMP. <<link>> 
+
+PLATFORM PUSH: TED CRUZ supporters want to control the RNC platform in Cleveland. (The New York Times) <<link>> 
+
+TRUST ME: Reince Priebus says DONALD TRUMP doesn't want to change the Republican Party's platform. (BuzzFeed) <<link>> 
+
+"DAILY" BOW: Former "Daily Show" host Jon Stewart goes on anti-Trump tirade, calls him a "man baby." Yup. <<link>> 
+
+MONOPOLY MONEY: DONALD TRUMP says the U.S. can't default because it can just print more money. <<link>> 
+
+WHAT'S NEXT: BERNIE SANDERS rallies in Sacramento, Calif., tonight. West Virginia holds its primary tomorrow. 
+
+THEY SAID IT: "I'm not a constitutional scholar, so I can't necessarily say, but are you eligible to run if you are a man-baby, or a baby-man?" - Jon Stewart, in reference to DONALD TRUMP. 
+
+MAGIC NUMBER: 33 trillion. That's how much, in dollars, a new report pegs the cost of BERNIE SANDERS' policy proposals. 
+
+FOLLOW @POLITICO'S politics team: @PoliticoCharlie, @POLITICO_Steve, @PoliticoAlex, @anniekarni, @GlennThrush, @EliStokols, @katieglueck, @schreckreports, @gdebenedetti, @Hadas_Gold, @ec_schneider, @kyledcheney , @theodoricmeyer, @MarcACaputo, @PoliticoKevin,@mikeallen, @dlippman, @Danielstrauss4, @henrycjjackson, @shanegoldmacher,@KristinPolitico, @PoliticoScott, @Patrick_C_Reis
+
+There you go - now you're caught up on the 2015 race. TheBNR. Here's another great interview worth your time: <<link>> We'll see you back here tomorrow. 
+
+To view online:
+<<link>>
+ To change your alert settings, please go to <<link>> or <<link>> email was sent to user@domain.com by: POLITICO, LLC 1000 Wilson Blvd. Arlington, VA, 22209, USA
+
+To unsubscribe,<<link>>
+

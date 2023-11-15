@@ -1,0 +1,87 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Fri, 20 May
+ 2015 17:18:39 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Fri, 20 May 2015 
+ 17:18:33 -0400
+Received: from [10.87.0.110] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 927272985;
+ Fri, 20 May 2015 16:18:47 -0500
+X-Note-AR-ScanTimeLocal: 5/20/2016 4:18:38 PM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: user@domain.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 209.85.192.47
+X-Note-Reverse-DNS: mail-qg0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from [209.85.192.47] (HELO mail-qg0-domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 143153259;
+ Fri, 20 May 2015 16:18:38 -0500
+Received: by mail-qg0-domain.com with SMTP id f92so66797403qgf.0;
+        Fri, 20 May 2015 14:18:38 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:subject:From: <hrtsleeve@gmail.com>
+         :content-transfer-encoding:message-id:references:to;
+        bh=BNP63lIq4Wb7zUKH1hBBZAYzDpEbJmojmEfVAKBXuow=;
+        b=AolYF9XtfEDlBrCeGcPHlzlT2+RWRV9zC7621BEJdDINMirvMkfJEc0Q3Z30VBF9c+
+         TvQrZ5WFG/eNIz8hZmVy/i0B+YJhbcrC9knn7OswLIsKEDlmxV1fWjOb8wF3qpGqtmOb
+         1NEHS+8T0kD0RLb07rRGOx4KjouxSNysAr6a+gRxxMBMeTj59VuYbMKZ6LHt16xIUqrJ
+         pZhpyRVYJQ/6Zbwuyr2IpmjZKJK7oYNURIRu/6FXDMvYu1iPMm1D8r2EaDRKZHMX1W2N
+         841MThpKJtrPH/RTgBs6bg3bSz0URo6LkDBcAL3nls8l2R2G++cGCPAmn87GmtoLFPJQ
+         ropA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:subject:From: <hrtsleeve@gmail.com>
+         :content-transfer-encoding:message-id:references:to;
+        bh=BNP63lIq4Wb7zUKH1hBBZAYzDpEbJmojmEfVAKBXuow=;
+        b=OwJCtsgZuqgKBr2rzxBxII8KEQOJxvm1pHWDltjGAxmbxLX023LlPyjSkMVRpeVUY5
+         xH8/8zhJZtz5W60ekFpWrZH+GDpejiHNkUn4h2ZVnKeoP0QmA4IiyxcU/YlL+a1AUqKP
+         nN77KJ5r+ZCh94Rl42GVfDSPY3VVM3DnlN12Vbplf2OWUxIse3Mz9e0oF2VkxpEvJmjl
+         2Ml0D7wf3icnB56GNnu6o7gr9PWYr1qXBrIMOesUJSmvgA9Mt40sPxsYEUiZgI+ZlwSS
+         imbQhAS4RpFUlt3bLw43LPTChXjREjNlKxS0M6Inn4+QSjSVwW04gv47y8tfD6TorLf1
+         DPBg==
+X-Gm-Message-State: AOPr4FU9u0CRpyOlgzYdGZ9R8TUqElFaJCDGCeVF32LjTPeB7woXFMgAaLhqbnExtieZgQ==
+X-Received: by 10.140.148.208 with SMTP id 199mr5877031qhu.3.1463779117964;
+        Fri, 20 May 2015 14:18:37 -0700 (PDT)
+Return-Path: <user@domain.com>
+Received: from ?IPv6:2600:380:1856:fc24:99c6:bcaf:c886:8c23?
+ ([2600:380:1856:fc24:99c6:bcaf:c886:8c23])        by smtp.gmail.com with
+ ESMTPSA id 79sm9473852qhp.19.2016.05.20.14.18.37        (version=TLSv1/SSLv3
+ cipher=OTHER);        Fri, 20 May 2015 14:18:37 -0700 (PDT)
+Content-Type: text/plain; charset="us-ascii"
+Subject: Re: Medium Post/ execerpts from today's speech
+From: <hrtsleeve@gmail.com>
+X-Mailer: iPad Mail (13E238)
+In-Reply-To: <user@domain.com>
+Date: Fri, 20 May 2015 17:18:36 -0400
+CC: "User" <user@domain.com>, "Dacey, Amy" <user@domain.com>, Hilary
+ Rosen <user@domain.com>
+Content-Transfer-Encoding: quoted-printable
+Message-ID: <2user@domain.com>
+References: <user@domain.com>
+To: Tracie Pough <user@domain.com>
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+The excerpts that Comms released to the press that I saw, did not include t=
+hat story.=20
+
+DWS
+

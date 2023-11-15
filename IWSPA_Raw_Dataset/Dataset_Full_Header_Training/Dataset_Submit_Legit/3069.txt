@@ -1,0 +1,40 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Wed, 29 Oct 2015 22:26:51 +0100
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id 3F0986005F	for
+ <user@domain.com>; Wed, 29 Oct 2015 21:09:44 +0000 (GMT)
+Received: by domain.com (Postfix)	id 4E3C72BC095; Wed, 29 Oct 2015 
+ 22:26:51 +0100 (CET)
+Delivered-To: user@domain.com
+Received: from [10.164.231.166] (unknown [63.92.228.233])	(using TLSv1 with
+ cipher DHE-RSA-AES256-SHA (256/256 bits))	(No client certificate requested)
+	by domain.com (Postfix) with ESMTPSA id 0D9032BC041	for
+ <user@domain.com>; Wed, 29 Oct 2015 22:26:50 +0100 (CET)
+From: Alex Velasco HT <a.velasco@hackingteam.com>
+Subject: test
+Message-ID: <user@domain.com>
+Date: Wed, 29 Oct 2015 17:26:49 -0400
+To: Alex Velasco <user@domain.com>
+X-Mailer: Apple Mail (2.1990.1)
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=ALEX VELASCO769
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2135562172_-_-"
+
+Alex Velasco
+Key Account Manager
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com
+mobile: +1 301.332.5654
+phone: +1 443.949.7470Travel: +39 33 5724 5469
+

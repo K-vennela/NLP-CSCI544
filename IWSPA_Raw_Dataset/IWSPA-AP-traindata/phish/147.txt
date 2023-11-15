@@ -1,0 +1,10 @@
+Dear user,
+You are receiving this message because your off-campus access may have been compromised.
+Your access will be inactive in 2 days. Because of some security problems, we decided to make some changes (Upgrade) and this is due to the implementation of a new version of Central Authentication System(CAS) and Web Login.
+This means while you are off-campus or on-campus you will have no access to library's internal web services.
+You can activate it by going again simply login to Cornell University Libraries Authentication System(Web Login) with your NetID from Cornell University campus or at least via US IP address and reactive your access.
+Offer that Logout your account and close your browser.
+Please note: If you get an Authentication Error ,just try 2 times to login again. Because System will automatically block your IP and Account and you should contact Systems Help Desk to Unlock.
+Cornell University Library,
+Ithaca, NY 14853
+(607) 255-4144user@domain.com

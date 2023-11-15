@@ -1,0 +1,410 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.4.9])
+	by domain.com (Postfix) with ESMTP id 18B6C468ED
+	for <user@domain.com>; Sun, 24 Jun 2015 05:01:07 -0400 (EDT)
+Received: from domain.com (domain.com [192.168.6.4])
+	by domain.com (Postfix) with ESMTP id 76FCB131FAFB
+	for <user@domain.com>; Sun, 24 Jun 2015 05:01:05 -0400 (EDT)
+Received: from domain.com (www.freise-domain.com [204.202.204.110])
+	by domain.com (Postfix) with ESMTP id 159166FA1C4
+	for <user@domain.com>; Sun, 24 Jun 2015 05:01:01 -0400 (EDT)
+Received: from 63.226.235.174 [63.226.235.174]
+	by domain.com
+	with XWall v3.38 ;
+	Sat, 23 Jun 2015 17:10:07 -0700
+Received: from User ([65.40.31.109]) by domain.com with Microsoft SMTPSVC(5.0.2195.6713);
+	 Sat, 23 Jun 2015 17:07:23 -0700
+Reply-To: <No-Reply>
+From: "eBay Secure"<confirm@ebay.com>
+Subject: eBay Account Issue - Response Required!
+Date: Sat, 23 Jun 2015 20:03:27 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <user@domain.com>
+X-OriginalArrivalTime: 24 Jun 2015 00:07:23.0593 (UTC) FILETIME=[A3F76B90:01C7B5F3]
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1441
+
+
+
+
+eBay sent this message requesting your Account
+      Confirmation.
+Your registered name is not included to show
+this message
+      originated from eBay.
+      Learn more.
+
+
+
+eBay Account Issue -
+      Response Required 
+
+Dear
+eBay Member,
+
+
+
+Due to
+                        our latest changes on eBay Marketplace
+security
+                        system we have discovered there is an
+issue with
+                        your Account on file. 
+You can
+                        also copy and paste the following link into
+your Web
+                        browser: 
+<<link>>
+Your
+                        confirmation code is: 65417 
+At this
+                        moment all selling, bidding and
+                        watching activities
+on your
+                        account are restricted until
+you
+                        confirm your Account Informations.
+
+
+
+Thank
+                        you,
+eBay
+
+
+
+
+Complete
+                              this process
+
+Confirm
+
+Now
+
+This will confirm to eBay
+                              your Account
+
+details
+
+Learn how
+                  you can protect yourself from spoof (fake) emails at:
+
+<<link>>
+
+If
+                  you would like to receive this email in text format,
+change
+                  your notification
+                  preferences. 
+
+See our Privacy
+Policy and
+                  User Agreement if you have questions about eBay's
+                  communication policies. 
+Privacy Policy: <<link>>
+User
+                  Agreement: <<link>>
+
+Copyright
+                   2006-2007 eBay, Inc.
+                  All Rights Reserved.
+Designated trademarks and
+brands are
+                  the property of their respective owners.
+eBay and the
+                  eBay logo are registered trademarks or trademarks of
+eBay,
+                  Inc.
+eBay is
+                  located at 2145
+                  Hamilton Avenue, San Jose, CA
+
+95125.
+
+From user@domain.com  Sun Jun 24 12:06:48 2015 
+Return-Path: 
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.4.9])
+	by domain.com (Postfix) with ESMTP id 8EC55468FE
+	for ; Sun, 24 Jun 2015 12:06:48 -0400 (EDT)
+Received: from domain.com (domain.com [192.168.6.4])
+	by domain.com (Postfix) with ESMTP id AD6EC131F9A6
+	for ; Sun, 24 Jun 2015 12:06:48 -0400 (EDT)
+Received: from server01.PREMIERHEARTASSOCIATES.COM (rrcs-70-61-37-30.domain.com [70.61.37.30])
+	by domain.com (Postfix) with ESMTP id 99EE56FA1C4
+	for ; Sun, 24 Jun 2015 12:06:48 -0400 (EDT)
+Received: from User ([70.46.57.58]) by server01.PREMIERHEARTASSOCIATES.COM with Microsoft SMTPSVC(6.0.3790.3959);
+	 Sun, 24 Jun 2015 12:06:43 -0400
+Reply-To: 
+From: "eBay Secure"<confirm@ebay.com>
+Subject: Dispute Transaction
+Date: Sun, 24 Jun 2015 12:06:11 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: 
+X-OriginalArrivalTime: 24 Jun 2015 16:06:43.0434 (UTC) FILETIME=[A84E24A0:01C7B679]
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 1442
+
+
+
+
+Dear PayPal Member,
+
+This email confirms that you have sent an eBay payment of $47.85 USD to 
+user@domain.com for an eBay item. 
+
+-----------------------------------
+Payment Details
+-----------------------------------
+
+Amount: $47.85 USD
+
+Transaction ID: 2LC956793J776333Y
+
+Subject: Digimax 130
+
+Note:
+If you haven't authorized this charge ,click the link below to dispute transaction 
+and get full refund
+Dispute transaction (Encrypted Link )
+
+*SSL connection:
+PayPal automatically encrypts your confidential information
+in domain.com from your computer to ours using the Secure 
+Sockets Layer protocol (SSL) with an encryption key length 
+of 128-bits (the highest level commercially available)
+
+-----------------------------------
+Item Information
+-----------------------------------
+
+eBay User ID: scratchandgnaw2
+
+
+
+----------------------------------------------------------------
+Edward Harrell's UNCONFIRMED Address
+----------------------------------------------------------------
+
+Edward Harrell
+211 David St. 
+Springtown, TX 76082
+United States
+
+Important Note: Edward Harrell has provided an Unconfirmed Address. If 
+you are planning on shipping items to Edward Harrell, please check the 
+Transaction Details page of this payment to find out whether you will 
+be covered by the PayPal Seller Protection Policy. 
+
+----------------------------------------------------------------
+This payment was sent using your bank account. 
+
+By using your bank account to send money, you just:
+
+- Paid easily and securely
+
+- Sent money faster than writing and mailing paper checks
+- Paid instantly -- your purchase won't show up on bills at the end of 
+the month. 
+
+Thanks for using your bank account!
+
+----------------------------------------------------------------
+
+Thank you for using PayPal!
+The PayPal Team
+PayPal Email ID PP118
+
+From user@domain.com  Mon Jun 25 06:03:18 2015 
+Return-Path: 
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.4.9])
+	by domain.com (Postfix) with ESMTP id C48CD468FD
+	for ; Mon, 25 Jun 2015 06:03:18 -0400 (EDT)
+X-Greylist: delayed 36556 seconds by postgrey-1.27 at domain.com; Mon, 25 Jun 2015 06:03:18 EDT
+Received: from domain.com (domain.com [207.22.67.67])
+	by domain.com (Postfix) with ESMTP id DDFBB131FB54
+	for ; Mon, 25 Jun 2015 06:03:18 -0400 (EDT)
+Received: by domain.com (Postfix, from userid 65534)
+	id 0599B2DE09B; Sun, 24 Jun 2015 19:34:02 -0400 (EDT)
+Received: from localhost by domain.com
+	with SpamAssassin (2.64 2004-01-11);
+	Sun, 24 Jun 2015 19:34:02 -0400
+From: "eBay Secure"<confirm@ebay.com>
+To: undisclosed-recipients: ;
+Subject: TKO NOTICE: Suspicious Activity.
+Date: Sun, 24 Jun 2015 16:17:27 -0700
+Message-Id: <20070624231458.422422user@domain.com>
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 2.64 (2004-01-11) on domain.com
+X-Spam-Level: **************
+X-Spam-Status: Yes, hits=14.5 required=5.0 tests=BAYES_99,CLICK_BELOW,
+	FORGED_MUA_OUTLOOK,FORGED_OUTLOOK_TAGS,HTML_60_70,HTML_FONTCOLOR_RED,
+	HTML_FONT_BIG,HTML_LINK_CLICK_HERE,HTML_MESSAGE,HTML_MIME_NO_HTML_TAG,
+	HTML_TAG_EXISTS_TBODY,MIME_HTML_ONLY,MSGID_FROM_MTA_SHORT,WEIRD_PORT 
+	autolearn=no version=2.64
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_467EFF6A.B3DCD939"
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 1443
+
+This is a multi-part message in MIME format.
+
+------------=_467EFF6A.B3DCD939
+Content-Type: text/plain
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+
+Spam detection software, running on the system "domain.com", has
+identified this incoming email as possible spam.  The original message
+has been attached to this so you can view it (if it isn't spam) or block
+similar future email.  If you have any questions, see
+the administrator of that system for details.
+
+Content preview:  URI:<<link>>://3393823353:82/eBayISAPI.dll-SignIn/index.php
+  URI:<<link>> TKO NOTICE:
+  Suspicious Activity. Dear eBay member , [...] 
+
+Content analysis details:   (14.5 points, 5.0 required)
+
+ pts rule name              description
+---- ---------------------- --------------------------------------------------
+ 0.1 HTML_LINK_CLICK_HERE   BODY: HTML link text says "click here"
+ 0.5 HTML_60_70             BODY: Message is 60% to 70% HTML
+ 0.1 HTML_MESSAGE           BODY: HTML included in message
+ 0.3 HTML_FONT_BIG          BODY: HTML has a big font
+ 0.0 HTML_TAG_EXISTS_TBODY  BODY: HTML has "tbody" tag
+ 4.0 BAYES_99               BODY: Bayesian spam probability is 99 to 100%
+                            [score: 1.0000]
+ 0.2 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+ 0.1 HTML_FONTCOLOR_RED     BODY: HTML font color is red
+ 0.6 WEIRD_PORT             URI: Uses non-standard port number for HTTP
+ 3.2 MSGID_FROM_MTA_SHORT   Message-Id was added by a relay
+ 1.3 HTML_MIME_NO_HTML_TAG  HTML-only message, but there is no HTML tag
+ 1.0 FORGED_OUTLOOK_TAGS    Outlook can't send HTML in this format
+ 0.0 CLICK_BELOW            Asks you to click below
+ 3.1 FORGED_MUA_OUTLOOK     Forged mail pretending to be from MS Outlook
+
+The original message was not completely plain text, and may be unsafe to
+open with some email clients; in particular, it may contain a virus,
+or confirm that your address can receive spam.  If you wish to view
+it, it may be safer to save it to a file and open it with an editor.
+
+------------=_467EFF6A.B3DCD939
+Content-Type: message/rfc822; x-spam-type=original
+Content-Description: original message before SpamAssassin
+Content-Disposition: attachment
+Content-Transfer-Encoding: 8bit
+
+Return-Path: 
+Received: from User (ip67-94-216-34.z216-94-67.domain.com [67.94.216.34])
+	by domain.com (Postfix) with ESMTP
+	id 422422DDEAE; Sun, 24 Jun 2015 19:14:56 -0400 (EDT)
+Reply-To: 
+From: "eBay Secure"<confirm@ebay.com>
+Subject: TKO NOTICE: Suspicious Activity.
+Date: Sun, 24 Jun 2015 16:17:27 -0700
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20070624231458.422422user@domain.com>
+To: undisclosed-recipients:;
+
+#message .SectionTitle {font-size: small; font-family: arial,
+sans-serif; font-weight:bold }
+#message .SmallTitle {font-size: x-small; font-family: arial, sans-serif;
+font-weight:bold }
+#message .SectionBody {font-size: x-small; font-family: arial, sans-serif}
+#message .DetailTable, #message .DetailTable th {font-size: 10 pt;
+font-family: arial, sans-serif; font-weight:normal }ttp
+
+#message .Title {font-size: medium; font-family: verdana, arial, sans-serif}php
+#message .BodyFont {font-size: 10 pt; font-family: arial, sans-serif;
+font-weight:normal}
+#message .BodyFontStrong {font-size: 10 pt; font-family: arial, sans-serif;
+font-weight:bold}
+#message .SmallBody {font-size: xx-small; font-family: arial, sans-serif;
+font-weight:normal; margin-top: 8 px;  margin-bottom: 6 px}
+#message .Separator { COLOR: #CCCCCC; height: 1px}
+#message .HighlightedSeparator { COLOR: #9999CC; height: 1px}
+#message .FooterSeparator { COLOR: #CCCCCC; height: 1px}
+#message .Footer, #message .Footer p {font-size: xx-small; font-family:arial,
+sans-serif; color:#666666; margin-top: 2 px;  margin-bottom: 8 px}
+#message .SmallPara, #message .SmallParap {margin-top: 8 px;  margin-bottom: 6
+px}
+    #message .ItemTitle {font-size: 10pt; font-family: arial,
+sans-serif; font-weight:bold }
+
+TKO NOTICE:
+Suspicious Activity.
+
+Dear eBay member ,
+
+
+
+We regret to inform you that your eBay account could be suspended if you don't  update your account information. To resolve this problem please use the link below and re-enter your account information. If your problem 
+does not  resolve , your account will be suspended for a period of 24 hours, after this period your account will be 
+closed. . 
+
+Due to the suspension of your account, please be advised that you are prohibited from using eBay in any way. This includes the registering of a new account. 
+Note that this suspension does not relieve you of your agreed-upon obligation to pay any fees you may owe to eBay.
+
+                    To  update your record please click here:
+
+It is highly recommended that you right click on the link and select "Open in new window" option
+
+as some mail clients will not allow you to proceed!
+
+<<link>>:h:sin:US
+
+We apologize in advance 
+for any inconvenience this may cause you and we would like to thank you for your 
+cooperation .
+
+
+
+
+Thank you for using eBay! 
+www.ebay.com
+
+This eBay notice was sent to you based on your eBay account preferences. If you would like to review your notification preferences for other types of communications, click 
+                              here. If you would like to receive this email                               in text only, click 
+                              here. 
+As outlined in our User Agreement, eBay will periodically send you information about site changes and enhancements. domain.com our Privacy Policy and User Agreement if you have any questions. 
+Copyright . 2015 eBay Inc. All Rights Reserved.
+Designated
+trademarks and brands are the property of their respective owners. 
+eBay and the eBay logo are trademarks of eBay Inc.
+
+------------=_467EFF6A.B3DCD939

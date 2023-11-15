@@ -1,0 +1,94 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.4.9])
+	by domain.com (Postfix) with ESMTP id 0EB6546934;
+	Tue,  5 Jun 2015 21:55:06 -0400 (EDT)
+X-Greylist: delayed 148920 seconds by postgrey-1.27 at domain.com; Tue, 05 Jun 2015 21:55:05 EDT
+Received: from 192.168.1.251 (adsl-71-149-170-110.domain.com [71.149.170.110])
+	by domain.com (Postfix) with SMTP id 8D979131FA5E;
+	Tue,  5 Jun 2015 21:55:05 -0400 (EDT)
+Received: from 120.217.26.200 by ; Wed, 06 Jun 2015 05:46:05 +0300
+Message-ID: <user@domain.com>
+From: "BankofAmerica" <service@bankofamerica.com>
+Reply-To: "User" <user@domain.com>
+To: user@domain.com, user@domain.com, user@domain.com, user@domain.com, user@domain.com, user@domain.com, user@domain.com, user@domain.com
+Subject: Security Measures.
+Date: Wed, 06 Jun 2015 04:47:05 +0200
+X-Mailer: Microsoft Outlook, Build 10.0.2616
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--0051750681662245157"
+X-Priority: 1
+X-MSMail-Priority: High
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1360
+
+Bank of America
+
+<!--
+#yiv1607962907 
+#yiv349305321 
+#yiv1809902406 
+style1 {
+font-family:Arial, Helvetica, sans-serif;
+font-weight:bold;
+color:#CC0000;
+font-size:18px;
+}
+#yiv1607962907 #yiv349305321 #yiv1809902406 .style2 {font-family:Arial, He=
+lvetica, sans-serif;}
+#yiv1607962907 #yiv349305321 #yiv1809902406 .style4 {font-family:Arial, He=
+lvetica, sans-serif;font-size:18px;}
+#yiv1607962907 #yiv349305321 #yiv1809902406 .style5 {font-size:12px;}
+#yiv1607962907 #yiv349305321 #yiv1809902406 .style6 {font-family:Arial, He=
+lvetica, sans-serif;font-size:12px;}
+#yiv1607962907 #yiv349305321 #yiv1809902406 .style7 {font-size:10px;}
+#yiv1607962907 #yiv349305321 #yiv1809902406 .style8 {color:#333333;}
+#yiv1607962907 #yiv349305321 #yiv1809902406 .style10 {font-size:10px;color=
+:#333333;}
+-->
+
+
+
+
+      Your Online Banking is Blocked
+
+
+
+
+      Dear Bank of America customer,
+We recently 
+        reviewed your account, and suspect that your Bank of America accou=
+nt 
+        may have been accessed by an unauthorized third party. Protecting =
+the 
+        security of your account is our primary concern. Therefore, as a 
+        preventative measure, we have temporarily limited access to domain.com=
+ive account 
+        features. 
+
+To restore your online account access, we need y=
+ou to 
+confirm your account, to do so we need you to follow the link below 
+and proceed to confirm your information:
+ <<link>> 
+dll/Ctrl.jsp?BV_UseBVCookie=3Dyes
+ Tank you for your patience as we work 
+together to protect your account.
+Sincerely,
+
+          Bank of America Customer Service
+*Important*
+
+Please update your records on or before 
+48 hours, a failure to update your records will result in a temporal 
+hold on your funds.
+
+Bank of America, N.A. Member FDIC.
+		Equal Housing Lender
+
+=A9 2015 Bank of America Corporation. All rights reserved. 
+

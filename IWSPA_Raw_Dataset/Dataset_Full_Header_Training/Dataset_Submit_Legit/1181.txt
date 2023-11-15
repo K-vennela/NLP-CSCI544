@@ -1,0 +1,64 @@
+Received: from domain.com (146.215.230.103) by
+ domain.com (43.130.141.78) with Microsoft SMTP Server id
+ 8.3.264.0; Fri, 22 Nov 2015 15:44:45 -0800
+Received: from domain.com ([160.33.194.230])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id rAMNij60029264	for <user@domain.com>; Fri, 22 Nov 2015 
+ 23:44:45 GMT
+Received: from mail64-co1-domain.com
+ (mail-domain.com [216.32.180.180])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id rAMNiiYn005630	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128
+ verify=FAIL)	for <user@domain.com>; Fri, 22 Nov 2015 23:44:44 GMT
+Received: from mail64-co1 (localhost [127.0.0.1])	by mail64-co1-domain.com
+ (Postfix) with ESMTP id C189860EE4	for <user@domain.com>; Fri, 22 Nov
+ 2015 23:44:43 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:108.160.165.152;KIP:(null);UIP:(null);IPV:NLI;H:sjd-rc1-5d.sjc.dropbox.com;RD:sjd-rc1-5d.sjc.dropbox.com;EFVD:NLI
+X-SpamScore: 2
+X-BigFish: vps2(z3e12hzc857hzz1f42h2148h208ch1ee6h1de0h1fdah2073h2146h1202h1e76h1d1ah1d2ah1fc6hzz16d858h17326ah16fI8275bh1bc7b9h8275dh1de097h186068h1ce121iz2fh5fh2a8h839hd25h1288h12a5h12bdh137ah13eah1441h1504h1537h153bh162dh1631h1758h18e1h1946h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1de2h1dfeh1dffh1fe8h1ff5h20f0h2216h22d0h99di22eai1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail64-co1: domain of dropbox.com designates 108.160.165.152 as permitted sender) client-ip=108.160.165.152; user@domain.com; helo=sjd-rc1-5d.sjc.dropbox.com ;.dropbox.com ;
+Received: from mail64-co1 (localhost.localdomain [127.0.0.1]) by mail64-co1
+ (MessageSwitch) id 1385163880388363_11833; Fri, 22 Nov 2015 23:44:40 +0000
+ (UTC)
+Received: from domain.com (unknown [10.243.78.240])	by
+ mail64-domain.com (Postfix) with ESMTP id 5B19994005E	for
+ <user@domain.com>; Fri, 22 Nov 2015 23:44:40 +0000 (UTC)
+Received: from sjd-rc1-5d.sjc.dropbox.com (108.160.165.152) by
+ domain.com (10.243.66.21) with Microsoft SMTP Server (TLS) id
+ 14.16.227.3; Fri, 22 Nov 2015 23:44:39 +0000
+Received: from snt-ra10-20c.sjc.dropbox.com (snt-ra10-20c.sjc.dropbox.com
+ [10.12.10.187])	by sjd-rc1-5d.sjc.dropbox.com (Postfix) with ESMTP id
+ 7E2584024B822	for <user@domain.com>; Fri, 22 Nov 2015 23:44:39 +0000
+ (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=dropbox.com; s=m1;
+	t=1385163879; bh=YhnLh7E8AV7Ud8dkvRoC+CzRjjNlgq9W4YLEeu8a6ss=;
+	h=From: Dropbox <no-reply@dropbox.com>
+	b=TcdAO5Zoo5Equ420cIzORv1tzDzmlcRCrhMW38MpgbTf5Jk8NtbL09uFxn2paIeaz
+	 n7yfy9ZZQefoK8dhhl/cFaTAXXfAM11dfOnlHZbXfFNDEM8iXUF3TtSEJJRWfez03Y
+	 7KVwzYHPSB4PPb8pmBRpAfi6g+WZHXVkbsFr7EGk=
+Received: from snt-ra10-20c.sjc.dropbox.com (localhost [127.0.0.1])	by
+ snt-ra10-20c.sjc.dropbox.com (Postfix) with ESMTP id 72AD620424050	for
+ <user@domain.com>; Fri, 22 Nov 2015 23:44:39 +0000 (UTC)
+From: Dropbox <no-reply@dropbox.com>
+To: <user@domain.com>
+Subject: =?utf-8?q?You=27ve_linked_a_new_computer_to_Dropbox?=
+Date: Fri, 22 Nov 2015 23:44:39 +0000
+Message-ID: <20131122234439.72user@domain.com>
+Return-Path: user@domain.com
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+ <<link>>  
+
+
+
+
+        Hi Amy,
+
+We see that you've linked a new computer, 'dhcp-172-24-25-79.domain.com', to your Dropbox. Awesome!
+
+You can check on this and any other computers you've linked by visiting your 
+

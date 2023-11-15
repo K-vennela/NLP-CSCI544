@@ -1,0 +1,93 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Mon, 16 May
+ 2015 07:30:08 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Mon, 16 May 2015 
+ 07:30:07 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 916516052;
+ Mon, 16 May 2015 06:30:14 -0500
+X-Note-AR-ScanTimeLocal: 5/16/2016 6:30:07 AM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: Too many policies to list
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: user@domain.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 209.85.213.50
+X-Note-Reverse-DNS: mail-vk0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mail-vk0-domain.com ([209.85.213.50] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 138726956;
+ Mon, 16 May 2015 06:30:07 -0500
+Received: by mail-vk0-domain.com with SMTP id f66so209039073vkh.2;
+        Mon, 16 May 2015 04:30:07 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:subject:From: <hrtsleeve@gmail.com>
+         :content-transfer-encoding:message-id:references:to;
+        bh=RHX4ivjr+nKtkjSdlgPLHr6AsnRlpa7L+vBnKzDrgI0=;
+        b=Sgt5tAk6iEUOlLVssBlACDCEhfaDxHq15cwUjk5hL2CQr7olUAIXLQrQmgRQcl6uVF
+         DoLJNyOvfvfKeFSo25Bg6WDuEmKHjHpTDqhfV4+uVOdk0aAPRLdMrVcTnChPGALjVWOY
+         VP5IDWfm9Ltpfg1U4Ioe9bOq0+b5uKtLRf7F4ZArrhOx5MGfNFDWkrikAvZw0wO8ypmY
+         GeaF1TSg/C5gcvkTKA5Iq2Pyylm+81v2O3GUh20HfNbO9KMKN3CPEImkD5+m5l4DWt04
+         MM23Iv02LuDWzSuwqsppsALqbpT5xcxfa+HUd4tqa3m0+L6rcf+5JJmMJiUtATl8rdsd
+         /trw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:subject:From: <hrtsleeve@gmail.com>
+         :content-transfer-encoding:message-id:references:to;
+        bh=RHX4ivjr+nKtkjSdlgPLHr6AsnRlpa7L+vBnKzDrgI0=;
+        b=ErcjWcs0RN/qb/uL+Iel8ML/VsE1w0pAkb6uDofXwNUpqj1Q2f8pIuG/g+863pVW3M
+         hXe/EQrnwFoubJa90Cs9fkLFIeqSotzMycdux4c3xpnXhbWLrX0JU51hEcrJ0dTMWPIB
+         eFROyNEohHdyTRRmAMUug3HUIYjY49bdCU25k8NqjXkTQjyo71SDycFW0aKZhMNAMU7+
+         vcjyUGXowz2yjwpDXJYpKTKVLr4IiVw0IV88fhghupWZO81iGl9N+N6IaozZWTUv4I14
+         XHOocLGXJXFCSE4PFI4R1AFF7KdRFdfIf77E/88bZjrCGDvSwvSZlgFMoGgxjUJzjunx
+         g9qQ==
+X-Gm-Message-State: AOPr4FUc3QJttRdHKJlqU13kfpobuA0b8zMBDFxB5xhUfmC/1FslNOxsgUwLKQaPJmwdXw==
+X-Received: by 10.31.208.197 with SMTP id h188mr14665766vkg.84.1463398204539;
+        Mon, 16 May 2015 04:30:04 -0700 (PDT)
+Return-Path: <user@domain.com>
+Received: from ?IPv6:2601:582:c100:77:d575:a743:970c:3cbf?
+ ([2601:582:c100:77:d575:a743:970c:3cbf])        by smtp.gmail.com with
+ ESMTPSA id q20sm5054528vke.15.2016.05.16.04.30.03        (version=TLSv1/SSLv3
+ cipher=OTHER);        Mon, 16 May 2015 04:30:03 -0700 (PDT)
+Content-Type: multipart/alternative;
+	boundary="Apple-Mail-00C959E9-CB22-4AD4-9FD6-DC98A94FBC82"
+Subject: Re: Coverage of DWS in Alaska
+From: <hrtsleeve@gmail.com>
+X-Mailer: iPad Mail (13E238)
+In-Reply-To: <5user@domain.com>
+Date: Mon, 16 May 2015 07:30:02 -0400
+CC: Tracie Pough <user@domain.com>, "Bonosky, Garret" <user@domain.com>, Kate
+ Houghton <user@domain.com>, "Banfill, Ryan" <user@domain.com>,
+	"Paustenbach, Mark" <user@domain.com>
+Content-Transfer-Encoding: 7bit
+Message-ID: <user@domain.com>
+References: <D35C9279.303DA%user@domain.com> <D35D1FB8.3041B%user@domain.com> <D35EB7E0.305A2%user@domain.com> <user@domain.com> <98user@domain.com> <5user@domain.com>
+To: "User" <user@domain.com>
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Yes, that was good. But he used the numerical count on the counter conventio=
+n crowd and just said "huge" for the dinner. I guess that was his compromise=
+ on his version of the number vs. ours. Thanks so much for everyone's help o=
+n this swing. It was successful because of your efforts.
+
+DWS
+

@@ -1,0 +1,77 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Mon, 16 May
+ 2015 21:08:56 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Mon, 16 May 2015 
+ 21:08:55 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 918416978
+ for user@domain.com; Mon, 16 May 2015 20:09:03 -0500
+X-Note-AR-ScanTimeLocal: 5/16/2016 8:08:55 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @nvdems.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 74.125.82.49
+X-Note-Reverse-DNS: mail-wm0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mail-wm0-domain.com ([74.125.82.49] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 138737842
+ for user@domain.com; Mon, 16 May 2015 20:08:55 -0500
+Received: by mail-wm0-domain.com with SMTP id n129so120740051wmn.1
+        for <user@domain.com>; Mon, 16 May 2015 18:08:55 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=nvdems-domain.com; s=20150623;
+        h=mime-version:in-reply-to:references:From: Stewart Boss <sboss@nvdems.com>
+         :cc;
+        bh=6M3D3YzBZAOdzPdT4lvcDYTOiLYbAsUSLdV5T3v9Izc=;
+        b=wYl08JRxwIYFdEqBDohgg+DpM+gEPG+0uDTKGyeDH4q87i/+e3oOqqH1R+k33xJny/
+         WpciQ60EOZQn1BpZPdlJbWvOvi8OG5j5fjwhgBD8mswJls4lIYmdIagQEVfFFL3QkONa
+         v0H/Gzz3U1RG6dbHxntAPsMiW/f3aeAu/ESp2TZ6E3BvS71P/i2jncvFiGaBL01P/7it
+         YWNYd99vKilgkH2UxuLu9vwUtkVkpVIxRA8zNhs3pJY8qvxjXMRPLpye45ahtGClzegY
+         FlWOj2Ct3gxzofaLLRSLg/hDgMIjJYAPGLmIq2UngTOmW/2hui3O696Uz3w7atbJqQrl
+         HyRQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:From: Stewart Boss <sboss@nvdems.com>
+         :message-id:subject:to:cc;
+        bh=6M3D3YzBZAOdzPdT4lvcDYTOiLYbAsUSLdV5T3v9Izc=;
+        b=eVowGsvaruB9ZMrBoU/eqypR9iBvVAmOKRkLr74JuHcbt3aPEdUlkBAU1tM4YqxIBZ
+         8c/ufgAul3WaXiDpaTREVppTuqNgLazewWsOpou67gSSq9K4+Ju94a6VmWMHph2DEL0F
+         BK5bqkac9p8aodFICWku548Rh21QfjLryjFqRyoMhvGQDIbrjbLaG3vP0BTcZUNpi6fW
+         olY+JLke6xlFCwswtRIGg2+IxEJt/JfAr0SRXmeO4rQviiGVYaOQG46vr87aNLxzieSG
+         yOOKJYwZsKiHt+wvyr+MhYOcoFNN/WsMERrBGbGt70O6etUgbid17Edk186g/KDo4Ajv
+         HQeQ==
+X-Gm-Message-State: AOPr4FXb6gqWOp0pBIqw4KKBpFj4u71fZqdRZ6sScapHRInAEDyRWRqp3J17DH7gyLowgIek0gvsEUX/GPbxTQ==
+X-Received: by 10.194.252.162 with SMTP id zt2mr32794284wjc.46.1463447334031;
+ Mon, 16 May 2015 18:08:54 -0700 (PDT)
+Received: by 10.28.3.66 with HTTP; Mon, 16 May 2015 18:08:24 -0700 (PDT)
+In-Reply-To: <CA+gRAz3L6bogn2i+-user@domain.com>
+References: <user@domain.com> <user@domain.com>
+ <CA+gRAz3L6bogn2i+-user@domain.com>
+From: Stewart Boss <sboss@nvdems.com>
+Date: Mon, 16 May 2015 18:08:24 -0700
+Message-ID: <CA+user@domain.com>
+Subject: Re: AP: Nevada Democrats: Sanders Campaign Has Violent Streak
+To: "User" <user@domain.com>
+CC: "Garcia, Walter" <user@domain.com>, Maureen Garde <user@domain.com>,
+	"Walker, Eric" <user@domain.com>
+Content-Type: multipart/alternative; boundary="001a1133a6227e254e0532ff624c"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+I thought this was handled hours ago when I talked to Walter on the phone
+

@@ -1,0 +1,24 @@
+From: "User" <UserL@dnc.org>
+To: "User"
+	<user@domain.com>
+Subject: Outgoing call to +1 (212) 375-6415 (Other)
+Thread-Topic: Outgoing call to +1 (212) 375-6415 (Other)
+Thread-Index: AdGgLPIzId2A3vvsVh7zGFYnumZ2Ng==
+Content-Class: voice-uc
+Date: Tue, 26 Apr 2015 19:33:56 -0700
+Message-ID: <05user@domain.com>
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+Content-Type: multipart/alternative;
+	boundary="_000_05E01258E71AC046852ED29DFCD139D54DEF4D0Ddncdag1dncorg_"
+MIME-Version: 1.0
+
+Outgoing call to +1 (212) 375-6415 (Other)
+
++1 (212) 375-6415
+
+Other:  +1 (212) 375-6415<tel:+12123756415>
+
+Microsoft Lync

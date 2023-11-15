@@ -1,0 +1,43 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Wed, 1 Apr 2015 16:50:56 +0200
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id CD972621B0	for
+ <user@domain.com>; Wed,  1 Apr 2015 15:28:33 +0100 (BST)
+Received: by domain.com (Postfix)	id A2A0EB6600F; Wed,  1 Apr 2015 
+ 16:50:56 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from [172.20.20.170] (unknown [172.20.20.170])	(using TLSv1 with
+ cipher DHE-RSA-AES128-SHA (128/128 bits))	(No client certificate requested)
+	by domain.com (Postfix) with ESMTPSA id 97AB7B6600B;	Wed,  1 Apr
+ 2015 16:50:56 +0200 (CEST)
+Message-ID: <551user@domain.com>
+Date: Wed, 1 Apr 2015 16:51:30 +0200
+From: Antonio Mazzeo <a.mazzeo@hackingteam.com>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Thunderbird/31.5.0
+To: Alberto Ornaghi <user@domain.com>, <user@domain.com>
+Subject: mongodb
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=ANTONIO MAZZEO195
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1267958284_-_-"
+
+<<link>>
+
+-- 
+Antonio Mazzeo
+Senior Security Engineer
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com
+mobile: +39 3311863741
+phone: +39 0229060603
+

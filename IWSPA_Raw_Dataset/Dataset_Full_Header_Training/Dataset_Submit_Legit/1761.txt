@@ -1,0 +1,209 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 18 May
+ 2015 15:33:49 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 18 May 2015 
+ 15:33:47 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 922601986;
+ Wed, 18 May 2015 14:33:46 -0500
+X-Note-AR-ScanTimeLocal: 5/18/2016 2:33:37 PM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: Too many policies to list
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @mail.house.gov ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->United States->
+X-Note-Sending-IP: 143.228.181.83
+X-Note-Reverse-DNS: s-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from s-domain.com ([143.228.181.83] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 139156656;
+ Wed, 18 May 2015 14:33:37 -0500
+Received: from FHOB-domain.com (fhob-domain.com
+ [143.228.233.117])	by s-domain.com  with ESMTP id u4IJTaui031594	(using
+ TLSv1 with cipher ECDHE-RSA-AES256-SHA (256 bits) verified FAIL);	Wed, 18 May
+ 2015 15:29:37 -0400
+X-DKIM: OpenDKIM Filter v2.4.3 s-domain.com u4IJTaui031594
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mail.house.gov;
+	s=November2012-msg-mhg; t=1463599843;
+	bh=NczezvEBQar3RXOXFk3ImpHncG++29xF1WBAH7VFmy4=;
+	h=From: Dem Leader Press Office <Dem.LeaderPressOffice@mail.house.gov>
+	b=fubvZGZTp5amciHzvNZxMR1fzV1XprhU0HzehOrBewR82xqRYgjtqDIexGYAly6ID
+	 CqepOL4m7luKXpt8nzU7BDolTbEsXjAQLnvQ+JiuI3gRYOiJsf5RfMXOcZYiXBw3KD
+	 7p2wIxs+Fj8iUbSc8NmMWQWkQNGl8kP1iTQQfXwo=
+Received: from HEOC-domain.com ([fe80::cdcd:f28:6aa5:7d5a]) by
+ FHOB-domain.com ([::1]) with mapi id 14.03.0279.002; Wed, 18 May 2015 
+ 15:29:28 -0400
+From: Dem Leader Press Office <Dem.LeaderPressOffice@mail.house.gov>
+Subject: ICYMI: Coalition of Over 60 National Organizations Writes Congress
+ Calling out the House GOP for Inadequate Zika Funding Levels
+Thread-Topic: ICYMI: Coalition of Over 60 National Organizations Writes
+ Congress Calling out the House GOP for Inadequate Zika Funding Levels
+Thread-Index: AdGxO3BGPnUnUpNsSy6lYsu9DqoxVg==
+Date: Wed, 18 May 2015 19:29:26 +0000
+Message-ID: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-originating-ip: [143.231.232.152]
+Content-Type: multipart/alternative;
+	boundary="_000_CA58D7DE03EE0A4D8D0DF860799FAACC0CD959BBHEOCHRM01USHous_"
+To: Undisclosed recipients:;
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Below is a letter from a coalition, led by the March of Dimes, of more than=
+ 60 national medical and other organizations, which calls out the House GOP=
+ for inadequate Zika funding levels in their bill, which is being considere=
+d on the House Floor today.
+As the groups write, =93we are profoundly disappointed in the inadequate fu=
+nding levels proposed in H.R. 5243, the Zika Response Appropriations Act.  =
+This initiative fails to provide appropriate resources to address any of th=
+e needed public health efforts to protect pregnant women and their infants =
+from Zika virus.  The bill provides less than one-third of its funding to t=
+he Centers for Disease Control and Prevention for the public health efforts=
+ desperately needed this summer, such as laboratory capacity, vector contro=
+l, and public education.  It also appears to restrict funding for the Natio=
+nal Institutes of Health only to engaging in vaccine development, which wou=
+ld prevent its use for time-critical needs like cohort studies to determine=
+ risk of and susceptibility to birth defects caused by Zika.  The fact that=
+ this funding is only available until the end of September places unwarrant=
+ed and counterproductive constraints on its use.=94
+The full letter is below.
+May 18, 2015 
+
+Dear Representative,
+
+The undersigned organizations committed to the health and wellbeing of our =
+nation=92s children and families urge you to provide emergency supplemental=
+ funding to combat Zika virus at or near the President=92s requested levels=
+, and to reject proposals that fall far short of those amounts, particularl=
+y those that would fund efforts against Zika by cutting other vital public =
+health programs and priorities.
+
+As you know, the Zika virus is responsible for causing thousands of severe =
+birth defects in South America over the past year.  It also appears likely =
+that Zika is causing miscarriages and less severe birth defects to an as-ye=
+t-unknown extent.  Zika has spread northward steadily and is now reported t=
+o affect almost 50 nations in the Americas.  Already, all but five states i=
+n the U.S. have reported travel-associated Zika cases, and as many as 30 st=
+ates fall within the range of the mosquito known to carry this virus.  As s=
+ummer begins, it is possible that Zika virus could gain a foothold in porti=
+ons of the United States, particularly along our Gulf Coast.
+
+Robust federal, state, tribal and territorial public health responses are c=
+ritical to our ability to respond to Zika and prevent the terrible birth de=
+fects it causes.  The President has requested emergency funding to engage i=
+n a full range of public health efforts to prevent transmission and educate=
+ the American people about how to protect themselves and their loved ones, =
+as well as to assist Zika-endemic nations in stemming the virus.  The packa=
+ge represents an appropriately full-fledged response to a potential public =
+health crisis that could have dire consequences for infants and families.
+
+In contrast, we are profoundly disappointed in the inadequate funding level=
+s proposed in H.R. 5243, the Zika Response Appropriations Act.  This initia=
+tive fails to provide appropriate resources to address any of the needed pu=
+blic health efforts to protect pregnant women and their infants from Zika v=
+irus.  The bill provides less than one-third of its funding to the Centers =
+for Disease Control and Prevention for the public health efforts desperatel=
+y needed this summer, such as laboratory capacity, vector control, and publ=
+ic education.  It also appears to restrict funding for the National Institu=
+tes of Health only to engaging in vaccine development, which would prevent =
+its use for time-critical needs like cohort studies to determine risk of an=
+d susceptibility to birth defects caused by Zika.  The fact that this fundi=
+ng is only available until the end of September places unwarranted and coun=
+terproductive constraints on its use.
+
+Underfunding Zika prevention efforts will come with a heavy human and econo=
+mic toll.  In addition to experiencing the pain of families with infants bo=
+rn with dreadful preventable birth defects, our nation can expect costs of =
+approximately $10 million in lifetime costs of care for each affected baby.=
+  Most of those costs are likely to be borne by the government through Medi=
+caid programs.
+
+Our nation has no time to waste.  Even now, it will require an extraordinar=
+y effort to move emergency funds into the field to make a meaningful differ=
+ence in Zika prevention this summer.  We urge you to support full funding f=
+or Zika prevention and to reject half-measures.
+
+Sincerely,
+
+Academic Pediatric Association
+ADAP Advocacy Association
+African American Health Alliance
+American Academy of Family Physicians
+American Academy of Pediatrics
+American Association of Colleges of Pharmacy
+American College of Nurse-Midwives
+American College of Preventive Medicine
+American Congress of Obstetricians and Gynecologists
+American Federation of State, County and Municipal Employees
+American Pediatric Society
+American Public Health Association
+American Sexual Health Association
+American Society for Clinical Pathology
+American Society for Reproductive Medicine
+American Society of Hematology
+Association for Professionals in Infection Control and Epidemiology
+Association of American Medical Colleges
+Association of Maternal and Child Health Programs
+Association of Medical School Pediatric Department Chairs
+Association of Public Health Laboratories
+Association of Reproductive Health Professionals
+Association of Schools and Programs of Public Health
+Association of State and Territorial Health Officials
+Association of University Centers on Disabilities
+Association of Women's Health, Obstetric, and Neonatal Nurses
+Avery's Angels Gastroschisis Foundation
+Coalition for Health Funding
+Community Access National Network
+Cooley's Anemia Foundation
+Easterseals
+Elizabeth Glaser Pediatric AIDS Foundation
+Endocrine Society
+First Candle
+GBS|CIDP Foundation International
+Healthcare Ready
+HIV Medicine Association
+Infectious Diseases Society of America
+March of Dimes
+National Alliance of State & Territorial AIDS Directors
+National Association of County and City Health Officials
+National Association of Pediatric Nurse Practitioners
+National Birth Defects Prevention Network
+National Center for Healthy Housing
+National Coalition of STD Directors
+National Environmental Health Association
+National Hispanic Medical Association
+National Indian Health Board
+National Organization for Rare Disorders
+Oregon Public Health Association
+Pediatric Policy Council
+Public Health Institute
+Racial and Ethnic Health Disparities Coalition
+RESOLVE: The National Infertility Association
+Society for Healthcare Epidemiology of America
+Society for Maternal-Fetal Medicine
+Society for Pediatric Research
+Spina Bifida Association
+The Arc
+Trisomy 18 Foundation
+Trust for America=92s Health

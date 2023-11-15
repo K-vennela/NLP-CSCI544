@@ -1,0 +1,68 @@
+Received: from domain.com (146.215.230.103) by
+ domain.com (43.130.141.78) with Microsoft SMTP Server id
+ 8.3.342.0; Sat, 12 Apr 2015 09:03:31 -0700
+Received: from domain.com ([160.33.194.231])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s3CG3U1s004756	for <user@domain.com>; Sat, 12 Apr 2015 
+ 16:03:31 GMT
+Received: from mail28-am1-domain.com (mail-domain.com
+ [213.199.154.203])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s3CG4vTY001311
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Sat, 12 Apr 2015 16:04:57 GMT
+Received: from mail28-am1 (localhost [127.0.0.1])	by mail28-am1-domain.com
+ (Postfix) with ESMTP id 26268E019C	for <user@domain.com>; Sat, 12 Apr
+ 2015 16:03:00 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:8.21.238.176;KIP:(null);UIP:(null);IPV:NLI;H:domain.com;RD:domain.com;EFVD:NLI
+X-SpamScore: 9
+X-BigFish: vps9(zzc89bhe0eahc857hzz1f42h2148h1ee6h1de0h1fdah21bdh2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6h208chzz8275ch1de098h177df4h17326ah8275bh1bc7b9h1defc1h1de097h186068h1b778fh1ce120h1bc581m1deb3aiz2fh5fh839h8e2h8e3hd24he5bhe83h10d2h1288h12a5h12bdh137ah13eah1441h1537h153bh162dh1631h1758h18e1h1946h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1fe8h1ff5h20f0h2216h2336h2461h2487h24d7h2516h2545h255eh25f6h2605h268bh26d3hbe9i9a9j1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail28-am1: domain of domain.com designates 8.21.238.176 as permitted sender) client-ip=8.21.238.176; user@domain.com; helo=domain.com ;2.domain.com ;
+Received: from mail28-am1 (localhost.localdomain [127.0.0.1]) by mail28-am1
+ (MessageSwitch) id 1397318577170178_31818; Sat, 12 Apr 2015 16:02:57 +0000
+ (UTC)
+Received: from domain.com (unknown [10.3.201.236])	by
+ mail28-domain.com (Postfix) with ESMTP id 265C120055	for
+ <user@domain.com>; Sat, 12 Apr 2015 16:02:57 +0000 (UTC)
+Received: from domain.com (8.21.238.176) by
+ domain.com (10.3.207.111) with Microsoft SMTP Server id
+ 14.16.227.3; Sat, 12 Apr 2015 16:02:56 +0000
+DKIM-Signature: v=1; a=rsa-sha1; d=domain.com; s=ngpweb3; c=simple/simple;
+	q=dns/txt; user@domain.com; t=1397318605;
+	h=Sender:From: John Walsh <john@johnwalsh2014.com>
+	Content-Type;
+	bh=Qim+TbYV3tpArfPvT8jSjK/tEYU=;
+	b=AZrdb/w0+mwgz6apuRm0W4qXnGFsGuK8o9BjyQTTG7Uu7MHUupAZsWsJ5PkVNP/G
+	3pqUvr9AvhQU42JN/+HkugahCBjO1Tf2okn1WuE/nMsv/v/1i/WYFKQWT7O5F10s
+	lW1UoG4alrZoqFI4/wdfCxBvePZ7q8024IH21r2Zq1g=;
+X-MSFBL: YW15X3Bhc2NhbEBzcGUuc29ueS5jb21AbWFpbG91dDMwMkBkZWZhdWx0Z3JvdXAw
+	OEBib3VuY2VfMzU5NjgwM19wb2Qx
+Received: from [10.0.1.247] ([10.0.1.247:53362] helo=OBPROD112)	by nvmta04
+ (envelope-from <user@domain.com>)	(ecelerity 3.5.1.37854
+ r(Momo-dev:3.5.1.0)) with ESMTP	id 54/BB-24191-DC369435; Sat, 12 Apr 2015 
+ 12:03:25 -0400
+Sender: =?UTF-8?B?Sm9obiBXYWxzaA==?= <user@domain.com>
+X-Binding: default
+Reply-To: <user@domain.com>
+From: John Walsh <john@johnwalsh2014.com>
+To: Amy Pascal <user@domain.com>
+Message-ID: <user@domain.com>
+Date: Sat, 12 Apr 2015 12:03:25 -0400
+Subject: values of a soldier
+Return-Path: user@domain.com
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+<<link>>
+Walsh for Montana 
+Amy,
+The values of a soldier are simple: Do what’s right, even if it’s hard.
+We have no time for cowardice, but that’s all we see in the House. They’re praising an irresponsible budget that gives tax breaks to millionaires and big corporations. They refuse to join the Senate in extending emergency unemployment insurance for those in need.
+Close to 200,000 veterans are among the 2 million unemployed workers who’ve lost access to jobless benefits that the House allowed to expire.
+U.S. Senate candidate and Congressman Steve Daines was among those who lacked the courage to do what’s right. He refused to take responsibility to stand up for veterans and their families.
+Click here to tell the House GOP: Stop playing politics and restore the emergency unemployment insurance families are counting on.
+Stand with John. Tell the House - pass unemployment benefits now. Add your name.
+Congressman Daines is just part of the problem. He says he plans to side with the special interests and oppose extending these critical benefits. Daines and too many of his cronies in the House lack the courage to do what needs to be done. Let’s tell them to stand up to the special interests and serve families in need.
+

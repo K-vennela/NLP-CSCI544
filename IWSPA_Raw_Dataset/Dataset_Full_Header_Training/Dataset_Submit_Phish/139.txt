@@ -1,0 +1,46 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (dijkstra.cs.uh.edu [127.0.0.1])
+	by dijkstra.cs.uh.edu (Postfix) with ESMTP id 4BC5D23CA7E
+	for <user@domain.com>; Wed, 14 Mar 2015 11:30:32 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at cs.uh.edu
+Received: from dijkstra.cs.uh.edu ([127.0.0.1])
+	by localhost (dijkstra.cs.uh.edu [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id HS3XLZzIAP0Z for <user@domain.com>;
+	Wed, 14 Mar 2015 11:30:32 -0500 (CDT)
+Received: from domain.com.co.nz (domain.com.co.nz [121.79.197.193])
+	by dijkstra.cs.uh.edu (Postfix) with ESMTP id 6B95323CA93
+	for <user@domain.com>; Wed, 14 Mar 2015 11:30:29 -0500 (CDT)
+Received: by domain.com.co.nz (Postfix, from userid 48)
+	id 497AD24EB0; Thu, 15 Mar 2015 05:30:23 +1300 (NZDT)
+To: user@domain.com
+Subject: Service Violation - Urgent Action Required
+X-PHP-Originating-Script: 1187:topiks.php(91) : eval()'d code
+From: The University of Houston <user-violation@uh.edu>
+Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Message-Id: <20120314163023.497user@domain.com>
+Date: Thu, 15 Mar 2015 05:30:23 +1300 (NZDT)
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 88
+
+Dear 
+            User, 
+
+We noticed a violation of 
+            our services on your E-mail account and
+for this reason, your 
+            E-mail account will be closed if you fail to
+resolve the issue 
+            within the next 48 hours.
+
+This will only take a 
+            moment...Click the "RESOLVE" link below and
+enter the requested 
+            details to complete the process. 
+

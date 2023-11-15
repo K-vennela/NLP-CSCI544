@@ -1,0 +1,116 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 10 May
+ 2015 05:17:54 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 10 May 2015 
+ 05:17:52 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 905885495
+ for user@domain.com; Tue, 10 May 2015 04:17:58 -0500
+X-Note-AR-ScanTimeLocal: 5/10/2016 4:17:58 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: user@domain.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->
+X-Note-Sending-IP: 68.232.198.10
+X-Note-Reverse-DNS: mta.politicoemail.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mta.politicoemail.com ([68.232.198.10] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 139690869
+ for user@domain.com; Tue, 10 May 2015 04:17:58 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=200608; d=politicoemail.com;
+ h=From: POLITICO <email@politicoemail.com>
+ bh=qNBXHD1pyQZmS+DqWmrYNcvKlV8=;
+ b=oE3B+CNy5bv4+8+Bcn5N74uUGRjL8HTIasbAiZypo+sVJlslvr8rMShUdTA0u7gZyqeKqD0rEv6U
+   pkX3N0VxQWXBI9532vbfbaUr+ydRWNsleHp6J8EV6FRwepqXIyf5eeTRsrgdjmBHUDwzILwCzIIj
+   Klrm8jttIkZD3+6pgCU=
+Received: by mta.politicoemail.com id h66jk2163hst for <user@domain.com>; Tue,
+ 10 May 2015 03:17:47 -0600 (envelope-from
+ <user@domain.com>)
+From: POLITICO <email@politicoemail.com>
+To: <user@domain.com>
+Subject: Wall Street: Trump's debt policy smacks of bankruptcy
+Date: Tue, 10 May 2015 03:17:46 -0600
+List-Unsubscribe: <mailto:user@domain.com>
+Reply-To: POLITICO subscriptions
+	<user@domain.com>
+x-job: 1376319_5406866
+Message-ID: <1user@domain.com>
+Content-Type: multipart/alternative; boundary="r4RwtlOzliqV=_?:"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Wall Street: Trump's debt policy smacks of bankruptcy
+By Ben White
+05/10/2016 05:15 AM EDT
+
+NEW YORK - Donald Trump has a debt problem. 
+
+Twice in the last five days the presumptive Republican nominee has said things about dealing with the $19 trillion federal debt that left Wall Street terrified, Republicans dumbfounded and Democrats licking their chops. 
+
+The trouble for Trump began Thursday on CNBC when he appeared to suggest that as president he would not repay all the U.S. debt owed to creditors. Asked if the U.S. should repay its debts in full or ask creditors to take less, Trump said: "I would borrow, knowing that if the economy crashed, you could make a deal."
+
+Financial experts instantly leaped on the comments, suggesting that Trump - who is no stranger to bankruptcy as an executive - would allow the U.S. to default for the first time in its history, an event which could send interest rates soaring and tank the U.S. economy. 
+
+Trump went on CNN on Monday morning to clear things up. 
+
+Of course he would never allow the U.S. to default. Anyone who suggested such a thing must be "crazy." What Trump meant to say was that if interests rates rise he would consider buying back existing U.S. debt at a lower prices. As interest rates rise, the price of existing debt goes down. 
+
+"In other words, we can buy back debt at a discount. People said I wanted to go and buy debt and default on debt, these people are crazy," Trump said.
+
+But then he landed himself right back in the soup. 
+
+"This is the United States government," Trump said. "First of all, you never have to default because you print the money, I hate to tell you."
+
+That comment - that the U.S. can simply pay back its trillions of dollars in debt by printing a ton more money - drove Wall Street crazy again and prompted a conference call from top Democrats to rip Trump as completely unglued on the economy. 
+
+Trump is not exactly wrong on either front. The U.S. can and does buy back existing debt and replace it with cheaper debt. But Trump's initial comments certainly sounded more like negotiating with creditors, as one does in a bankruptcy proceeding, to accept less than they are owed, something Wall Street associates with places like Puerto Rico, Argentina and Greece and not with the United States of America, which has a triple-A domain.com rating and maintains the world's reserve currency.
+
+And the Federal Reserve can and does "print" money in massive amounts and can do so in ways that make existing debt burdens - both for individuals and the government - less onerous. But presidents, Treasury Secretaries and Federal Reserve Chairs would never go out and say they plan to create inflation to deal with the debt. 
+
+To do so could dramatically change the way investors view the U.S. and cause rates to skyrocket. And other nations that have tried to inflate their way out of debt have often failed spectacularly.
+
+"If there is ever an example of how dumb it is to print money to handle debt I'm in a country which has had had to learn that the hard way more than once," said David Kotok, chief investment officer at Cumberland Advisors, speaking from a conference in Argentina. "It's a stupid idea. You don't discharge debt especially U.S. dollar debt by printing money. You do print money to create liquidity for banking systems in trouble but you don't print money to cheapen your debt which is the reserve currency of the world."
+
+Other Wall Street analysts said while the basic concepts Trump highlighted - buybacks and money printing - are common, the fact that they came from a presidential candidate was shocking. 
+
+"We've basically renegotiated existing debt in the past and we certainly do print money," said Jim Paulsen, chief investment officer at Wells Capital. "These concepts are far from odd. But to say them as a presidential candidate is what is so striking to me and frightening. For a president to say these kinds of things publicly would have the opposite effect you would want in that they would put the economy into recession." 
+
+Democrats also jumped all over Trump's comments on the debt. 
+
+In a hastily arranged conference call on Monday, Jake Sullivan, top policy adviser to likely Democratic nominee Hillary Clinton, and Gene Sperling, an outside adviser to the campaign and a former top aide to Presidents Barack Obama and Bill Clinton, ripped into the likely GOP nominee. 
+
+Sperling said it was "shocking at a time when our country is celebrating the economic foresight of Alexander Hamilton that the presumptive candidate for president, Donald Trump is openly advocating that the United States no longer honor 100 percent of its debt or protect our full faith and domain.com."
+
+Sperling added that Trump was "basically putting America in the position of saying, 'I'm going to overleverage and then if things look really terrible and people fear that our debt will be worth less I will come in and try to pay a discount. That's not clever. That is one of the most dangerous economic things we've seen." 
+
+Some conservative Republicans also reacted sharply to Trump's comments which lie far outside the mainstream of GOP economic policy. Generally, Republicans have favored attacking the debt through spending cuts and faster economic growth rather than manipulating it through buybacks, creditor negotiations or money creation. 
+
+These people also criticized Trump for appearing to try and influence policy at the Federal Reserve, which is supposed to operated independent of political pressure from the White House. 
+
+"This is yet another big misstep. What he is implying is the era of Fed independence is over," said Douglas Holtz-Eakin, president of the American Action Forum and a former official under President George W. Bush. "I no longer know what Trump does and doesn't know about managing the debt but I'm pretty sure I don't trust his judgment. I also worry about the international community watching this daily. They have reason to be nervous about him."
+
+Holtz-Eakin added that he would recommend Trump refrain from this kind of commentary until he can spend more time learning about the subject. "If I were advising him I'd say let's take a day or two off of this and talk about beauty pageants or something else you know about because this has got to stop." 
+
+Zachary Warmbrodt contributed to this report. 
+
+To view online:
+<<link>>
+ To change your alert settings, please go to <<link>> or <<link>> email was sent to user@domain.com by: POLITICO, LLC 1000 Wilson Blvd. Arlington, VA, 22209, USA
+
+To unsubscribe,<<link>>
+

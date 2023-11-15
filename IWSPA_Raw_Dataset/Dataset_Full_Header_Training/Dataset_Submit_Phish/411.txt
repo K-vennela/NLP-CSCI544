@@ -1,0 +1,43 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id E697223CAF2
+	for <user@domain.com>; Thu, 22 Sep 2015 16:07:02 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id NfJTy9cVV+m2 for <user@domain.com>;
+	Thu, 22 Sep 2015 16:06:59 -0500 (CDT)
+Received: from domain.com (domain.com [129.7.234.210])
+	by domain.com (Postfix) with ESMTP id 8258623CAC7
+	for <user@domain.com>; Thu, 22 Sep 2015 16:06:59 -0500 (CDT)
+Received: from domain.com (domain.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 2B6FB55E1DED
+	for <user@domain.com>; Thu, 22 Sep 2015 16:06:58 -0500 (CDT)
+Received: from smtp9.elavon-domain.com (unknown [217.115.117.28])
+	by domain.com (Postfix) with SMTP id 1743555E1DE9
+	for <user@domain.com>; Thu, 22 Sep 2015 16:06:56 -0500 (CDT)
+MIME-Version: 1.0
+Content-Transfer-Encoding: binary
+Content-Type: multipart/mixed; boundary="_----------=_131672560329090113"
+DomainKey-Signature: a=rsa-sha1; h=From: merchantelavon77420@elavon-virtualmerchant2.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=elavon-domain.com; h=mime-version:content-transfer-encoding:content-type:date:From: merchantelavon77420@elavon-virtualmerchant2.com
+X-MimeOLE: Produced By Microsoft Exchange V6.5
+Date: Thu, 22 Sep 2015 17:06:43 -0400
+From: merchantelavon77420@elavon-virtualmerchant2.com
+To: user@domain.com
+Subject: Your Online Password is expired.
+Message-Id: <20110922210657.1743555user@domain.com>
+X-PMX-Version: 5.5.9.395186, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2011.9.22.210014
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 9
+
+ELAVON VIRTUAL MERCHANT ACCOUNT UPDATE
+
+ - Please update your password to continue using our merchant services.
+Check your attached form in this e-mail. Thank you.
+
+$merchantelavon: C2UWUHSZLA14C8ETGL0DE11HKALDDDS7EL44YKXBTWUCVVGTNEX53DCCTJEUHK43Y0

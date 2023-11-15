@@ -1,0 +1,165 @@
+<x-rich>Folks,
+Two points here:
+1. I read with some consternation Wally Broecker's latest piece in
+Science (23Feb. 2001).  First you can all take up some other topic
+since Wally says only Boreholes and treeline changes are accurate
+enough to do low frequency trends.  What does he mean by "only two
+proxies can yield temperatures that are accurate to 0.5C"? and do you
+agree that tree rings and sediments, etc are not sufficiently accurate
+to exhibit correct low frequency trends?
+2. Here are some references to recent Holocene time-frame records you
+probably have seen, but just in case...  I found them interesting
+without knowing how good or representative they are.
+Surprisingly they were given me by one who cited them as examples of
+evidence for a MWP and LIA.  I read them differently but they caused me
+to consider one question I hadn't heard discussed (see below).
+Based just on these four, one comes to the following tentative
+conclusions and observations:
+Conclusions: 
+*MWP was a generally warm time interspersed with coolings and not well
+synchronized hemispherically or globally.
+*LIA was global and capable of better (but not completely) synchronized
+large amplitude variations 
+*20th Cent. was the only time when all records agree (tree ring
+problems with CO2?)
+MIGHT THIS RELATIVE UNIFORMITY BE USED AS A CHARACTERISTIC OF 20TH
+CENTU WARMING THAT SETS IT APART FROM PREVIOUS CLIMATE CHANGES?
+*Borehole inversion is too smoothed to be of much use but it does
+indicate a larger temp amplitude if it weren't smoothed. ~1.5C
+And this brings up my question.  How one averages these records.  
+One way would be to note that the temperature amplitude (1000 - 1950)
+for each is ~1.5C.  Thus you could conclude that hemispheric/global
+climate varied ay over a degree Celcius (although with regional
+differences)
+Another way would be to average the records.  The resulting temperature
+amplitude  would be smaller because extremes would cancel since
+variability is large and each region's extremes occur at different
+times. 
+Thus, if people simply looked at several records they would get the
+impression that temperature variations were large, ~1.5C. Imagine
+their surprise when they see that the ensemble averages you publish
+have much smaller amplitude. 
+Comparison of amplitudes is given below (although difficult to do since
+amplitude depends on averaging so these are very approximate).
+Approximate Temperature Amplitudes for period 1000-1950
+Mann et al 1999		~0.5
+Jones et al 1998	~0.8
+Crowley and Lowery	 ???
+Briffa 2000		 ???
+Dahl, Jensen	    	~1.5
+Huang, et al            ~0.8 (500 yrs only)
+Overpeck et al          ~1.3 (400 yrs, polar only)
+Bradley & Jones(93)	~0.7 (600 yrs only)
+(Not surprising that the contrarians take great exception to Michael's
+small amplitude.)  
+<bold><underline>This is important in the current debate even, it would
+appear, with people like Wally.</underline></bold>  I have been looking
+for what the real issue is between researchers like yourselves and
+skeptical scientists.  Politics and agendas aside, I think it is close
+to this.
+Anyone looking at the records gets the impression that the temperature
+amplitude for many individual records/sites over the past 1000 years or
+so is often larger than 1C.  They thus recognize that natural
+variability is unlikely to generate such large changes unless the sun
+is having more effect than direct forcing, or there is some fortuitous
+but detectable combination of forcings.  And they see this as evidence
+that the 0.8C or so temperature rise in the 20th century is not all
+that special.
+The community, however, in making ensemble averages gets a much smaller
+amplitude ~0.5C. which they say shows that reasonable combinations of
+solar direct plus volcanos and internal variability with the help of
+THC can indeed explain this AND the 20th century warming is unique.
+Thus, the impass--one side pointing to large temperature variations in
+many records around the globe and the other saying "yes, but not
+synchronous and so averaged hemispherically no big deal.
+But, just replying that lack of synchronous events (sometimes by a few
+decades) is the reason might not be enough.  It seems to me that we
+must go one step further.  We must address the question:  what forcings
+can generate large amplitude temperature variations over hundreds of
+years, regional though they may be (and, could these occur at different
+times in different regions due to shifting heat inertia patterns)?  If
+we can't do this, then there might be something wrong with our
+rationale that the average is low amplitude even though many regions
+see high amplitude.  This may be the nubbin of the disagreement, and
+until we answer it, many careful scientists will decide the issue is
+still unsettled and that indeed climate in the past may well have
+varied as much or more than in the last hundred years.
+(Also, I note that most proxy temperature records claim timing errors
+of +-50 years or so.  What is the possibility that records are
+cancelling each other out on variations in the hundred year frame due
+simply to timing errors? as in hitting or missing C&L's triple warming
+peak 1000-1200 AD) 
+Regards,
+Referendes to proxy temp records
+<excerpt>(1) Bodri, L. and V.Cermak Climate change of the last
+millennium inferred from borehole temperatures: Regional patterns of
+climatic changes in the Czech Republic - Part III, Global and Planetary
+Change, 21, 225-235. 1999
+As with other borehole data the record is incredibly smoothed.  It has
+essentially three warming features. 
+from 1000 to after 1500 there is a broad warming pulse;
+1550-1750  cooling
+1750-1850 warming
+1850-1900 cooling
+1900-1950?  rapid warming	<underline>Total amplitude ~1C (1.5C if not
+smoothed?)
+</underline>
+I don't know what to make of the more than 500 year warming pulse. 
+Most records show warming either in the 1100's or 1200's but usually
+not both.
+The rest of the record looks reasonable given the smoothing. 
+</excerpt>
+<excerpt>
+</excerpt>(2) Filippi , M.L., Lambert, P., et al, Climatic and
+anthropogenic influence on the stable isotope record from bulk
+carbonates and ostracodes in Lake Neuchatel, Switzerland during the
+last two millenia, Jour. of Paleolimnology, 21, 19-34, 1999
+<excerpt>	Graph actually begins at 805 AD (all dates are advertised as
++-50 yrs)
+Starts out warm but already cooling which it does till about 1150.
+warms till 1242, second peak 1298 then cools to minimum at 1500
+warms significantly to 1600 then cools to about half of 1500 max and
+essentially stays that way till 1850 when cools to 1500 level again and
+immediately rebounds
+into 1950s and still warming.    <underline>Total amplitude
+~2.5C</underline>
+</excerpt>(3)  Naurzbaev, M.M. and  E.A.Vaganov,Variation of early
+summer and annual temperature in east Taymir and Putoran (Siberia) over
+the last two millennia inferred from tree rings, JGR 105, 7317-7326,
+2000
+Interesting record.  
+<excerpt>moderately cool 800-950, 
+rapid warming to max 1000 dip ~1050, recovers till ~1180
+cools fast to minimum  ~1250,
+</excerpt> warms to max		~1400
+cools to 1450 slight cooling till 1700
+<excerpt>warms to 		~1780
+rapid cooling to	~1830
+rapid warming till 	~1930    <underline> Total Amplitude
+~1.5C</underline>
+</excerpt>(4)  Wilson, A.T., Hendy, C.H. and Reynolds, C.P., Short-term
+climate change
+and New Zealand temperatures during the last millennium, Nature 1979,
+<excerpt>	315-317,
+Used stalagmites (delta 18 O proxy)
+</excerpt>	This is a strange record, but the authors compare it
+favorably with the 
+<excerpt>	central England record.
+1100 starts  and warms in two pulses one at 1250, min at 1300, big max
+at 1400, followed by dive to minimum 1450
+rises to max 1500
+drops to min 1600
+rises a bit 1700 and into 1850
+drops to minor min1880  rises after that	<underline> Total Amplitude
+~1.5C</underline>
+STRANGE RECORD
+</excerpt>
+Charles. "Chick" F. Keller,
+IGPP.SIO.UCSD - Attn: Chick Keller
+9500 Gilman Drive
+La Jolla, CA 92093-0225
+(858) 822-1510  office
+(858) 456-9002  home
+Is the noticeable increase in surfers off Scripps Beach a possible 
+indication of global warming? 
+</x-rich>

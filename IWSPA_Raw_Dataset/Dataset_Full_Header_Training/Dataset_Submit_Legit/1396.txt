@@ -1,0 +1,52 @@
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ dnchubcas2.dnc.org ([::1]) with mapi id 14.03.0224.002; Tue, 17 May 2015 
+ 10:31:03 -0400
+From: "Palermo, Rachel" <PalermoR@dnc.org>
+To: "User" <user@domain.com>
+Subject: RE: birthday drinks!
+Thread-Topic: birthday drinks!
+Thread-Index: AdGtQlKMOpSFCoKlSoS9EUIXjkuCOwCdLj/g
+Date: Tue, 17 May 2015 07:31:02 -0700
+Message-ID: <6user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: dnchubcas2.dnc.org
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.177.130]
+Content-Type: multipart/related;
+	boundary="_004_6E20703C3B98FC4D97E277223738C7A74DAC7F22dncdag1dncorg_";
+	type="multipart/alternative"
+MIME-Version: 1.0
+
+Hey we'll do this at ambar<<<link>>> in eastern market tonight at 6:30-- at the bar upstairs in the back. Hope you can come!
+
+Rachel
+
+--
+[DNC]<<<link>>>
+Rachel Palermo
+Organization
+user@domain.com<mailto:user@domain.com>
+202-863-8041
+
+From: "Palermo, Rachel" <PalermoR@dnc.org>
+Sent: Friday, May 13, 2015 2:43 PM
+Subject: birthday drinks!
+
+Hey friends-it's my birthday<<<link>>> on Tuesday, and I'd like you to celebrate it with me! We'll meet somewhere on Barracks row at 6:30pm, bar TBD. I know there are primaries on Tuesday so a lot of you folks will have to work, but stop by for a quick drink if you can.
+
+I'll circle back next week and let you know the bar. I know I missed some people, so know that anyone is invited. Hope you can make it!
+
+Rachel
+
+--
+[DNC]<<<link>>>
+Rachel Palermo
+Organization
+user@domain.com<mailto:user@domain.com>
+202-863-8041
+

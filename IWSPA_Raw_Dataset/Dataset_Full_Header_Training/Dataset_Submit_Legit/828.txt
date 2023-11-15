@@ -1,0 +1,205 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Fri, 20 May
+ 2015 17:24:44 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Fri, 20 May 2015 
+ 17:24:38 -0400
+Received: from [10.87.0.110] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 927282425
+ for user@domain.com; Fri, 20 May 2015 16:24:52 -0500
+X-Note-AR-ScanTimeLocal: 5/20/2016 4:24:43 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @skdknick.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->->United States->
+X-Note-Sending-IP: 207.46.100.103
+X-Note-Reverse-DNS: mail-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from [207.46.100.103] (HELO
+ na01-by2-domain.com)  by domain.com
+ (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 143154010 for user@domain.com;
+ Fri, 20 May 2015 16:24:42 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=domain.com; s=selector1-skdknick-com;
+ h=From: Sam Michel <smichel@skdknick.com>
+ bh=369QIri7MLRK42UrU4RO5IBcgT83Q3Kc0+ivoWcxC2k=;
+ b=SSDADadkgAFUD6/szYWlPEc/tyVobCqdkVMmI0Y8/vp2yiGFq+1/mCJAkCd6/eST0HvYDvi008gRpdx9C01RAAsAXPxGyBc8euYJTR2QteMDOvmRphIi0RpJFTZoBJEoF5wFvZZ2Ejnp124wVfvpoE/PG9awoxO29Qa8f6eAua4=
+Received: from domain.com (10.160.150.155) by
+ domain.com (10.160.150.16) with Microsoft SMTP
+ Server (TLS) id 15.1.492.11; Fri, 20 May 2015 21:24:39 +0000
+Received: from domain.com ([10.160.150.155]) by
+ domain.com ([10.160.150.155]) with mapi id
+ 15.01.0492.020; Fri, 20 May 2015 21:24:39 +0000
+From: Sam Michel <smichel@skdknick.com>
+To: Sam Michel <user@domain.com>
+Subject: Today from the Constitutional Responsibility Project
+Thread-Topic: Today from the Constitutional Responsibility Project
+Thread-Index: AdGy3Vwr9wGXnLRdSmWEIHmArx44dQ==
+Date: Fri, 20 May 2015 21:24:36 +0000
+Message-ID: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+authentication-results: skdknick.com; dkim=none (message not signed)
+ header.d=none;skdknick.com; dmarc=none action=none header.from=skdknick.com;
+x-originating-ip: [50.193.144.129]
+x-ms-office365-filtering-correlation-id: c93ecab7-8aa9-4daa-bed4-08d380f5269f
+x-microsoft-exchange-diagnostics: 1;CY1PR0701MB1403;5:WefOPlj3vwnqXpFcxJGn+sHZQqp01syKXkSlzBwPhyVo6nkjbgrrPdF71rvaRHProIzBhGtytl3MigIaVVOZ0f4jDkYWh6H7QB3I2RxuZaB1a09qJUPQmTWPciClBftLrmOm64hvgT+/KtpHYvA3Ng==;24:qDGnEOaoV/ORU1b1YnSMg3dS9ZNYswm54aLh8QJ/5Yi6sNM0dpLpC/IRnQKqM9M4ml/9V+5CXH1r+af+eYQ1V8vpb2KOE/vYtmoOxydHyV8=;7:RlfKXMCnllzzKcMGqqM2bEm8KYwMfeppSXXwYKnT5PO88ZeTS1aMwsdqXkqmNVIRJubVbi63Ku/pKhuaW/MmPSAvhvWJWxVjJhGY56SvAfwFYpEj35h8DPGxPNAmdfQq8WmZvw1e1zO7Jkl2QTeGgrzPICZbqYfy8AzYqVAorzQFRT0lo5hPTj6WRtC4hDM/
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:;SRVR:CY1PR0701MB1403;
+x-ld-processed: 51f4a8d4-10a8-4d6c-bc10-f2546164f7db,ExtAddr
+x-microsoft-antispam-prvs: <user@domain.com>
+x-exchange-antispam-report-test: UriScan:;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(601004)(2401047)(5005006)(8121501046)(10201501046)(3002001);SRVR:CY1PR0701MB1403;BCL:0;PCL:0;RULEID:;SRVR:CY1PR0701MB1403;
+x-forefront-prvs: 09480768F8
+x-forefront-antispam-report: SFV:NSPM;SFS:(10019020)(124975003)(40154002)(111735001)(189998001)(5002640100001)(81166006)(6200100001)(586003)(790700001)(1220700001)(102836003)(5003600100002)(54356999)(10400500002)(9686002)(6116002)(33656002)(15975445007)(92566002)(77096005)(8666003)(15395725005)(66066001)(16236675004)(50986999)(8676002)(3660700001)(19625215002)(2906002)(87936001)(5004730100002)(5008740100001)(11100500001)(122556002)(19617315012)(3280700002)(3846002)(107886002)(19300405004)(110136002)(99286002)(19580395003)(8936002)(229853001)(76576001)(74316001)(4001450100002)(86362001)(7059030);DIR:OUT;SFP:1102;SCL:1;SRVR:CY1PR0701MB1403;H:domain.com;FPR:;SPF:None;MLV:sfv;LANG:en;
+spamdiagnosticoutput: 1:23
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_CY1PR0701MB14010E3500AC2CE5AFDC4DE9D84B0CY1PR0701MB1401_"
+X-MS-Exchange-CrossTenant-originalarrivaltime: 20 May 2015 21:24:36.7092
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 51f4a8d4-10a8-4d6c-bc10-f2546164f7db
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: CY1PR0701MB1403
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Today in the fight for a full and functioning Supreme Court: People For the=
+ American Way and the Constitutional Accountability Center release a new re=
+port detailing the consequences of an eight-member Supreme Court, civics te=
+achers give Senate Republicans a lesson on the Constitution, and we wrap up=
+ comments from editorial boards and Democratic Senators who continue to pra=
+ise Chief Judge Garland, a nominee with the most judicial experience of any=
+one ever nominated, and call for an up-or-down vote on his nomination.
+
+New Report Details Consequences of an Eight-Member Supreme Court.
+Today, People For the American Way and the Constitutional Accountability Ce=
+nter released a report, "Material Harm to Our System of Justice: The Conseq=
+uences of an Eight-Member Supreme Court", analyzing the harm a short-handed=
+ Supreme Court already has done and will continue to do to the American jud=
+icial system. Read the full report HERE<<<link>>
+blications/material-harm-our-system-justice-consequences-eight-member-supre=
+me-court-0>.
+
+Elizabeth Wydra, Constitutional Accountability Center President: "The virus=
+ of dysfunction afflicting the Senate is showing symptoms at the Court, and=
+ the prospect of this blockade extending from the current Term into the nex=
+t is outrageous. Former Justices have spoken on the need for a fully staffe=
+d Court, including former Chief Justice Rehnquist and even Justice Scalia i=
+n years past, as well as former Justices Stevens and O'Connor in recent wee=
+ks. As today's report explains, an understaffed Court is hamstrung by its i=
+nability to fully perform its essential role in resolving important domain.com=
+utional and legal questions for the American people."
+
+Elliot Mincberg, People For the American Way Foundation Senior Fellow: "The=
+ current obstruction that President Obama's Supreme Court nominee Judge Gar=
+land is facing is unprecedented, and there are real consequences for the Am=
+erican people because of this obstruction. Current and former Supreme Court=
+ justices - including Scalia, Roberts, and Rehnquist - have detailed the re=
+asons why the Court needs nine members to properly execute its duties. From=
+ 4-4 splits that fail to set national precedent to potentially blocking the=
+ Court's ability to protect voting rights, an eight-member Supreme Court si=
+mply cannot function as it should."
+
+History and social studies teachers come to Washington to give Senate Repub=
+licans a civics lesson.
+On Wednesday, a group of civics teachers traveled to Washington to tell the=
+ Senate GOP to do its job and give Chief Judge Garland a hearing and an up-=
+or-down vote.
+
+Marisol Garc=EDa, middle school teacher, Phoenix, Arizona: "Students unders=
+tand expectations, and they don't understand why senators aren't meeting th=
+eirs."
+
+Patrick Chambers, AP History teacher, Indianapolis, Indiana: "The people al=
+ready decided when they elected the president. Our constitution is too sacr=
+ed and too trusted to be dragged into partisan politics. It's a process tha=
+t been used for years and years." [Education Votes, 5/19/16<<<link>>
+domain.com/2016/05/19/civics-teachers-come-to-washington-tell-senate-do=
+-your-job/>]
+
+GOP senators should stop dithering on hearing for Merrick Garland as Suprem=
+e Court justice
+The editorial board of the Kansas City Star<<<link>>
+on/editorials/article78644512.html> writes:
+
+"Their stark message: To hell with the Constitution, separation of powers a=
+nd any semblance of cooperation. Properly undeterred, Obama nominated Merri=
+ck Garland, a highly qualified, moderate judge on the U.S. Court of Appeals=
+ for the District of Columbia and former prosecutor....Roberts, Moran and B=
+lunt should step up, be leaders of their frazzled party and call for a vote=
+. Instead they toe the misguided GOP line. Now is the time to show respect =
+for the Constitution and the public by holding a hearing and a vote. We fin=
+d it difficult to imagine how our states' Republican senators could honestl=
+y object to Garland as not qualified to serve."
+
+Senators continue to praise Chief Judge Garland and call for their GOP coll=
+eagues to do their jobs and allow for a fair hearing and up-or-down vote.
+
+Sen. Jack Reed (D-RI): [Chief Judge Garland] is supremely well-qualified...=
+the American people deserve a fair, public hearing and a fully functioning =
+government."[ABC 6, 5/17/16<<<link>>
+urt-nominee-garland-supremely-well-qualified>]
+
+Sen. Tim Kaine (D-VA): "The refusal to consider any Supreme Court nominee f=
+orwarded by President Obama in his final year in office, when other Preside=
+nts were granted consideration of their nominees, seems highly suspicious t=
+o them. When that blockade is maintained even after the President forwards =
+to the Senate a nominee of sterling credentials, the suspicion is heightene=
+d."[Sen. Kaine press release, 5/17/16<<<link>>
+eases/kaine-on-obstruction-of-president-obamas-supreme-court-nominee-we-can=
+not-blind-ourselves-to-how-our-actions-are-perceived>]
+
+Sen. Jeff Merkley (D-OR): "It is clear to me from my conversation with Chie=
+f Judge Garland that he is a detail-oriented and highly-qualified jurist. H=
+e would bring decades of legal experience and a great deal of thoughtfulnes=
+s to his work as an Associate Justice of the Supreme Court. President Obama=
+ has done his job in putting forward an extremely qualified nominee. Now it=
+ is time for Senate Republicans to do theirs and to hold hearings and a vot=
+e on his nomination, as the Constitution requires."[Sen. Merkley press rele=
+ase, 5/19/16<<<link>>
+-release-merkley-meets-with-supreme-court-nominee-merrick-garland>]
+
+Sen. Mazie Hirono (D-HI): "Judge Garland's character and record of judicial=
+ service are impressive, and Americans deserve to hear from him in a public=
+ Judiciary Committee domain.com's far past time for my Republican colleag=
+ues to do their job by holding a hearing and vote on the nomination." [Hono=
+lulu Civil Beat, 5/18/16<<<link>>
+ressive-says-hirono/>]
+
+Sen. Sherrod Brown (D-OH): "There's no excuse for the Senate not doing its =
+job. I don't think senators should leave town. I don't even think senators =
+should be paid if they're not doing their job...senators are working fewer =
+hours and still getting paid." [WKSU, 5/18/16<<<link>>
+nts-cancel-senates-summer-recess-unless-garland-gets-hearing#stream/0>]
+
+Sen. Chris Murphy (D-CT): "Never before in the history of the United States=
+ has a Congress shown this level of disrespect to a president of to a nomin=
+ee. I think this has really dangerous precedential effects for the future."=
+ [Hartford Courant, 5/18/16<<<link>>
+and-confirmation-pressure-20160518-story.html>]
+
+Sen. Richard Blumenthal (D-CT): "I have known Merrick Garland for many year=
+s, and I deeply admire him as an incredibly scholarly and smart jurist, a d=
+edicated and effective prosecutor, and a decent and good man. I hope the Am=
+erican people have an opportunity to see and hear Judge Garland as I did to=
+day, because there will be no question that he deserves a hearing and vote.=
+" [Hartford Courant, 5/18/16<<<link>>
+land-confirmation-pressure-20160518-story.html>]
+
+###
+

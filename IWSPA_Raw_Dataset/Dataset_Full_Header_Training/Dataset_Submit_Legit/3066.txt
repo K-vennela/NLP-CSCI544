@@ -1,0 +1,42 @@
+Received: from postman.dnc.org (192.168.10.251) by dnchubcas2.dnc.org
+ (192.168.185.16) with Microsoft SMTP Server id 14.3.224.2; Mon, 23 May 2015 
+ 18:09:29 -0400
+Received: from postman.dnc.org (postman [127.0.0.1])	by postman.dnc.org
+ (Postfix) with ESMTP id 47D0C2407E;	Mon, 23 May 2015 18:09:26 -0400 (EDT)
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from DNCHUBCAS1.dnc.org (dnchubcas1.dnc.org [192.168.185.12])	by
+ postman.dnc.org (Postfix) with ESMTP id 3A9142407E	for
+ <user@domain.com>; Mon, 23 May 2015 18:09:24 -0400 (EDT)
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+	DNCHUBCAS1.dnc.org ([fe80::ac16:e03c:a689:8203%11]) with mapi id
+	14.03.0224.002; Mon, 23 May 2015 18:09:27 -0400
+From: OrganizationPress <DNCPress@dnc.org>
+To: OrganizationPress <user@domain.com>
+Subject: =?Windows-1252?Q?Veterans_Protest_Trump=92s_Empty_Promises_?=
+Thread-Topic: =?Windows-1252?Q?Veterans_Protest_Trump=92s_Empty_Promises_?=
+Thread-Index: AdG1PHzA69K0PTSwQ6upVRlAS1kvTwAAGzwwAACqbPA=
+Date: Mon, 23 May 2015 22:09:26 +0000
+Message-ID: <95177user@domain.com>
+References: <95177user@domain.com>
+	<95177user@domain.com>
+In-Reply-To: <95177user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.177.119]
+X-BeenThere: user@domain.com
+X-Mailman-Version: 2.1.12
+Precedence: list
+Reply-To: <user@domain.com>
+Content-Type: multipart/mixed;
+	boundary="===============4375287126997122641=="
+Sender: <user@domain.com>
+Errors-To: user@domain.com
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: dnchubcas2.dnc.org
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+To be automatically unsubscribed from this list, please email: user@domain.com

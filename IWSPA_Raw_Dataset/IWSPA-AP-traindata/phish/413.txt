@@ -1,0 +1,3 @@
+Your mailbox is almost full.
+Current size Maximum size
+Please <<link>> to reduce your mailbox size and increase the size to 3500MB.

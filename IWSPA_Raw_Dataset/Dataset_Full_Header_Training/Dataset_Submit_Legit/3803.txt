@@ -1,0 +1,118 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Mon, 16 May
+ 2015 19:33:01 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Mon, 16 May 2015 
+ 19:33:01 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 918337787
+ for user@domain.com; Mon, 16 May 2015 18:33:04 -0500
+X-Note-AR-ScanTimeLocal: 5/16/2016 6:33:03 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:198.37.148.253 DOM:em1.miamidadedems.org ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-175/SG:5 5/16/2016 6:33:00 PM
+X-GBUdb-Analysis: 0, 198.37.148.253, Ugly c=0.552483 p=-0.877934 Source Normal
+X-Signature-Violations: 0-0-0-12164-c
+X-Note-419: 0 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/16/2016 6:32:45 PM
+X-Warn: BOUNCETRACKER Bounce User Tracking Found
+X-Warn: WEBBUG
+X-Warn: OPTOUT
+X-Warn: WEIGHT10
+X-Note: Spam Tests Failed: BOUNCETRACKER, WEBBUG, OPTOUT, WEIGHT10
+X-Country-Path: United States->->United States->
+X-Note-Sending-IP: 198.37.148.253
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: bounces+2260232-user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G340 G376 G398 G399 G407 G443 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from domain.com ([198.37.148.253] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 139174149
+ for user@domain.com; Mon, 16 May 2015 18:15:20 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=miamidadedems.org; 
+	h=From: Miami-Dade Dems <info@miamidadedems.org>
+	s=s1; bh=JiHuz5xe7oMsnkBIiV1OYs2gLek=; b=wiv6mA6l07Jc0vq+BzX8yYd
+	rCyPFrk9pFkGlLNCHeDoL3bIJzQ/Nab7S5FfLTP1wMPqvlX2kk+S6IV+KeAJC1+5
+	5f/dUh2I+RIJdYFNeC7mSvYGoM0luTflJW+hxTBHDwwMqUgHdGT8wj0Q5BNz4+iO
+	hio5/RQMIRePvt5TqoTY=
+Received: by domain.com with SMTP id
+ filter0486p1mdw1.26019.573A547626        2016-05-16 23:15:02.250742367 +0000
+ UTC
+Received: from domain.com (ip-162-219-220-2.rdns.3dna.io
+ [162.219.220.2])	by domain.com (SG) with ESMTP id
+ OoIGxQGjTzC6WSKsYpeD5w	for <user@domain.com>; Mon, 16 May
+ 2015 23:15:01.742 +0000 (UTC)
+Date: Mon, 16 May 2015 23:15:00 +0000
+From: Miami-Dade Dems <info@miamidadedems.org>
+To: User <user@domain.com>
+Message-ID: <573user@domain.com>
+Subject: We need your help! Sign up to volunteer today
+Content-Type: multipart/alternative;
+	boundary="--==_mimepart_573a546c8eb76_217b11e932051948"; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+List-Unsubscribe: <<<link>>>
+X-SG-EID: /qskMPcwxb1VaCv1PswYfL3cIKK16+tE+dB/q/CjBM33DHQZDFMqcksqNuWp+4UCM+a68ILq1xv8iC
+ xYuXNclgceqCCuFAAaBxnka25anCPUXHGghKFrdhjNBxF4ZHKDDYL2BiOFBkB4RizWHFe0MAXFXfyg
+ ymuvpMP7tUZsv8cT5BHAPxFkShnd5ZCkwUj36/dmjBxid2C0EpwpFln2Ck2TmV7HfWaWCBWA/Q0Clh
+ 4=
+X-SG-ID: SolyLoj4M+6t0KZQOavh+JBa9fj3XG7GqAhj3Gi9O1Rp5JWwQZ3NTu8yjepL4nh+KwggSZgpA9q33T
+ MNkM+/8CCvWMRK6uB4i1tNauE4oGTRgkfXrBm/D+HtfP4CxHq2OE+5RL6yTEBhbpP4W0FhCgpfy4yG
+ xUQRPzjvxnKzBZg=
+X-Note-AR-ScanTimeLocal: 5/16/2016 6:15:21 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:198.37.148.253 DOM:em1.miamidadedems.org ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-130/SG:5 5/16/2016 6:14:59 PM
+X-GBUdb-Analysis: 0, 198.37.148.253, Ugly c=0.551998 p=-0.877358 Source Normal
+X-Signature-Violations: 0-0-0-11459-c
+X-Note-419: 15.6261 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/16/2016 6:15:04 PM
+X-Delay: Delay processing for miamidadedems.org 11:15 PM GMT
+Return-Path: bounces+2260232-user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+User --=20
+
+We need your help right NOW to make phone calls and register new voters. We=
+ have volunteer opportunities several days this week: Wednesday, Thursday, =
+Friday and Saturday.=C2=A0
+
+Trump is already the presumptive Republican nominee and Republican attack a=
+ds are already on TV. We need to fight back by working hard like we did in =
+2012 and 2008. If we win Florida again, then we win this election. It won't=
+ matter what happens in Ohio or Virginia. If we win here, we guarantee a De=
+mocratic President. So, let's get to work.
+
+Sign-up RIGHT NOW <<<link>>
+GujqUnkhOSc5i2kDpQ9s/viewform>
+
+Don't domain.com until October to volunteer, we need you NOW.=C2=A0
+
+Miami-Dade Dems
+<<link>>
+
+-=3D-=3D-
+Miami-Dade Democratic Party - PO Box 15607, Miami, FL 33101, United States=
+=20
+This email was sent to user@domain.com  To stop receiving emails: <<link>>
+www.miamidadedems.org/unsubscribe
+-=3D-=3D-
+
+Created with NationBuilder - <<link>>

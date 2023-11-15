@@ -1,0 +1,84 @@
+Received: from domain.com (146.215.230.103) by
+ domain.com (43.130.141.77) with Microsoft SMTP Server id
+ 8.3.297.1; Fri, 31 Jan 2015 17:35:09 -0800
+Received: from domain.com ([160.33.194.231])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s111Z8h1020213	for <user@domain.com>; Sat, 1 Feb 2015 
+ 01:35:08 GMT
+Received: from mail34-am1-domain.com (mail-domain.com
+ [213.199.154.203])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s111Z7Bj010770
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Sat, 1 Feb 2015 01:35:08 GMT
+Received: from mail34-am1 (localhost [127.0.0.1])	by mail34-am1-domain.com
+ (Postfix) with ESMTP id 2A07F420110	for <user@domain.com>; Sat,  1
+ Feb 2015 01:35:07 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:192.64.236.105;KIP:(null);UIP:(null);IPV:NLI;H:mx-domain.com;RD:mx-domain.com;EFVD:NLI
+X-SpamScore: 2
+X-BigFish: vps2(z579ehzc545Ic89bhc857hdbb0izz1f42h2148h208ch1ee6h1de0h1fdah2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6hzz8275ch1d7338h1de098h1def03h17326ah1def87h8275bh1bc7b9h8275dh1defc1h1def86h1de097h186068h172c6ch1ce120h1a691ciz2fheh5fh839ha12he5bh1288h12a5h137ah139eh13eah1441h14ddh1504h1537h162dh1631h1758h1898h18e1h1946h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1e23h1fe8h1ff5h20f0h2218h2216h226dh24afh2327h2336h2438h2461h2487h24d7h2516h214ai1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail34-am1: domain of domain.com designates 192.64.236.105 as permitted sender) client-ip=192.64.236.105; user@domain.com; helo=mx-domain.com ;domain.com ;
+Received: from mail34-am1 (localhost.localdomain [127.0.0.1]) by mail34-am1
+ (MessageSwitch) id 1391218504699695_15450; Sat,  1 Feb 2015 01:35:04 +0000
+ (UTC)
+Received: from domain.com (unknown [10.3.201.227])	by
+ mail34-domain.com (Postfix) with ESMTP id 9CBFEE0094	for
+ <user@domain.com>; Sat,  1 Feb 2015 01:35:04 +0000 (UTC)
+Received: from mx-domain.com (192.64.236.105) by domain.com
+ (10.3.207.153) with Microsoft SMTP Server id 14.16.227.3; Sat, 1 Feb 2015 
+ 01:35:04 +0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1391218503;
+	s=sailthru; d=variety.com;
+	h=Date:From: Variety Breaking News <donotreply@variety.com>
+	bh=WWQlGBDPMjpdpct66NZh24h8Ii0EwWh2Gp5Iupx0tsY=;
+	b=g3QzSC7LowUAGRuRoeENfD0Qy6czpLLikX3SIBYEGxedfXP71KGgZ3hozNHoFREw
+	1UQ9aYODT56T5H/Wi6FequmAyVxUW9DEM8PzhVhVPylUo/O1d7SVFfyzswQ5uOu0K7/
+	UZnbwbCCS72HEjR9lH9ANArtoZV68ck32UFEvcEc=
+Date: Fri, 31 Jan 2015 20:35:03 -0500
+From: Variety Breaking News <donotreply@variety.com>
+To: <user@domain.com>
+Message-ID: <20140201013503.2391693.19648@domain.com>
+Subject: Box Office: 'Ride Along' Heading for a Three-Peat to Beat 'That
+ Awkward Moment'
+Precedence: bulk
+X-TM-ID: 20140201013503.2391693.19648
+X-Info: Message sent by domain.com customer Variety
+X-Info: We do not domain.com unsolicited commercial email
+X-Info: Please report abuse by forwarding complete headers to
+X-Info: user@domain.com
+X-Mailer: domain.com
+X-IADB-IP: 192.64.236.105
+X-IADB-IP-REVERSE: 105.236.64.192
+X-IADB-URL: <<link>>
+X-Unsubscribe-Web: <<link>>
+List-Unsubscribe: <<<link>>>, <mailto:user@domain.com>
+X-rpcampaign: stcoy2391693
+Return-Path: user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+In the battle of buddy comedies, Kevin Hart's "Ride Along" looks likely to prevail over the open... 
+
+​ 
+
+Variety         
+
+Breaking News   
+
+Friday, January 31, 2015        
+
+​ 
+
+<<link>> 
+
+        Box Office: 'Ride Along' Heading for a Three-Peat to Beat 'That Awkward Moment'                 
+
+        In the battle of buddy comedies, Kevin Hart's "Ride Along" looks likely to prevail over the opening of Zac Efron’s “That Awkward ...            
+        Full Story              
+
+
+
+
+Subscribe to Other Variety Newsletters   
+

@@ -1,0 +1,79 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 26 Apr
+ 2015 22:43:46 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 26 Apr 2015 
+ 22:43:41 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 881881773
+ for user@domain.com; Tue, 26 Apr 2015 21:43:47 -0500
+X-Note-AR-ScanTimeLocal: 4/26/2016 9:43:47 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: user@domain.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->
+X-Note-Sending-IP: 68.232.198.10
+X-Note-Reverse-DNS: mta.politicoemail.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mta.politicoemail.com ([68.232.198.10] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 135564028
+ for user@domain.com; Tue, 26 Apr 2015 21:43:47 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=200608; d=politicoemail.com;
+ h=From: POLITICO <email@politicoemail.com>
+ bh=oeUHcU42ltWvIbnKnBBzK35RRhQ=;
+ b=u4c0sURxjyDOmYC4YEA1N5VH5tY1kTUoQeUGlLChYe4tY0tK6o0+OM8MyhsLmEYNfm8tIOUFH3Zj
+   hfNTltMKdh26QeVhDqOOsZbHcCxRMf1rE/1FjfGUv0cB8y7bPVgBOAoZtS/CNPKNmtNn3O1YKs6z
+   SZL01nF/uJfex6DD+x4=
+Received: by mta.politicoemail.com id h40jm2163hsr for <user@domain.com>; Tue,
+ 26 Apr 2015 20:43:45 -0600 (envelope-from
+ <user@domain.com>)
+From: POLITICO <email@politicoemail.com>
+To: <user@domain.com>
+Subject: BREAKING NEWS: Hillary Clinton wins Connecticut Democratic primary
+Date: Tue, 26 Apr 2015 20:43:45 -0600
+List-Unsubscribe: <mailto:user@domain.com>
+Reply-To: POLITICO subscriptions
+	<user@domain.com>
+x-job: 1376319_5361651
+Message-ID: <30user@domain.com>
+Content-Type: multipart/alternative; boundary="DKSUiPr0dFaN=_?:"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Hillary Clinton has won the Connecticut Democratic primary, according to the Associated Press.
+
+Clinton campaigned hard on the message of gun safety in Connecticut, a little more than three years after the massacre at Sandy Hook Elementary School in Newtown.
+
+At various panels featuring the family members of gun-violence victims in Connecticut and elsewhere, Clinton and her surrogates sought to draw distinctions between the positions and past votes of the Democratic frontrunner and Bernie Sanders.
+
+Connecticut Gov. Dannel Malloy backed Clinton's bid, along with the state's attorney general and lieutenant governor and a host of mayors from across the state.
+
+Both of the state's U.S. senators, Richard Blumenthal and Chris Murphy, also threw their support behind Clinton.
+
+
+
+Connecticut allocates its 55 pledged delegates on a proportional basis.
+
+View full results: <<link>>
+
+2016 delegate tracker: <<link>>
+
+Read more: <<link>>
+ To change your alert settings, please go to <<link>> or <<link>> email was sent to user@domain.com by: POLITICO, LLC 1000 Wilson Blvd. Arlington, VA, 22209, USA
+
+To unsubscribe,<<link>>
+

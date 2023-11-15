@@ -1,0 +1,78 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.4.9])
+	by domain.com (Postfix) with ESMTP id 318014696D
+	for <user@domain.com>; Tue, 12 Jun 2015 22:39:06 -0400 (EDT)
+Received: from domain.com (domain.com [192.168.6.4])
+	by domain.com (Postfix) with ESMTP id BA8C6131FBB5
+	for <user@domain.com>; Tue, 12 Jun 2015 22:39:04 -0400 (EDT)
+Received: from iss-domain.com.sg (mail.iss-domain.com.sg [203.118.38.121])
+	by domain.com (Postfix) with ESMTP id D94FD6FA1C4
+	for <user@domain.com>; Tue, 12 Jun 2015 22:39:00 -0400 (EDT)
+Received: from User ([202.172.121.87]) by iss-domain.com.sg with Microsoft SMTPSVC(6.0.3790.1830);
+	 Wed, 13 Jun 2015 06:28:13 +0800
+From: "eBay Security"<confirm@ebaysecure.com>
+Subject: eBay Account Issue - Response Required
+Date: Wed, 13 Jun 2015 08:26:35 +1000
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <user@domain.com>
+X-OriginalArrivalTime: 12 Jun 2015 22:28:13.0585 (UTC) FILETIME=[F6F10010:01C7AD40]
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1388
+
+
+
+
+  >
+
+
+
+Trans West domain.com Union Online department temporary disabled your account.
+
+
+
+
+ After three unsuccessful login attempts your account was temporary disabled until further investigations.
+
+
+
+
+All cards (except the temporary cards) from this account are suspended. 
+
+
+
+
+You must reactivate your account immediately, or you won't be able to use your cards again. 
+
+ >
+ Once you have completed these steps, we will send you an email notifying that your account is available again. 
+
+The information you provide us is all non-sensitive 
+  and anonymous - No part of it is handed down to any third party.  
+
+
+
+ >
+
+
+
+Sorry for any inconvenience this may cause and thank you for your patience.
+
+
+
+
+  To continue please click the link below
+
+<<link>>
+2007 Trans West domain.com Union.

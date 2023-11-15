@@ -1,0 +1,36 @@
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ DNCHUBCAS1.dnc.org ([fe80::ac16:e03c:a689:8203%11]) with mapi id
+ 14.03.0224.002; Thu, 19 May 2015 15:03:50 -0400
+From: "Crystal, Andy" <CrystalA@dnc.org>
+To: "User"
+	<user@domain.com>, "Banfill, Ryan" <user@domain.com>, "Paustenbach, Mark"
+	<user@domain.com>, "Walker, Eric" <user@domain.com>
+CC: Kate Houghton <user@domain.com>
+Subject: RE: For Research: attached DWS ASDC Speech
+Thread-Topic: For Research: attached DWS ASDC Speech
+Thread-Index: AdGx/NiBdqffH/xRSRapt4rzEGZ2uAAAZYPg
+Date: Thu, 19 May 2015 12:03:49 -0700
+Message-ID: <user@domain.com>
+References: <58user@domain.com>
+In-Reply-To: <58user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: DNCHUBCAS1.dnc.org
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.176.168]
+Content-Type: multipart/mixed;
+	boundary="_004_F0691438AC417845A6BA92342CE019776ECE0AA5dncdag1dncorg_"
+MIME-Version: 1.0
+
+Looks great, attached just a couple small eds
+
+From: "Crystal, Andy" <CrystalA@dnc.org>
+Sent: Thursday, May 19, 2015 2:33 PM
+To: RR2; User; Banfill, Ryan; Paustenbach, Mark; Walker, Eric
+Cc: Kate Houghton
+Subject: For Research: attached DWS ASDC Speech
+

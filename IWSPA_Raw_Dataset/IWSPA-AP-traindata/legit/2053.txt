@@ -1,0 +1,2 @@
+Hi Sathanu,
+1. Yes definitely.2. Root for Android is a requirement for some modules (capabilities). We do not provide methods for rooting. You can find ways to root it on the internet.

@@ -1,0 +1,367 @@
+@media only screen and=
+(max-width: 730px) {                 .leaderboard {                     di=
+splay: none !important;                 }                 * {              =
+-webkit-text-size-adjust: none;                 }                 bo=
+dy {                     min-width: 100% !important;                 }     =
+table[id=3Dwrapper], table[class=3Dad_group], table[id=3Dwrappe=
+r] .intro, table[id=3Dwrapper] .divide {                     width: 100% !i=
+mportant;                 }                 #brief {                     fl=
+oat: none !important;                     width: 100% !important;          =
+}                 .ad_group {                     display: block !im=
+portant;                     padding-left: 10px;                 }         =
+div[class=3Dad] {                     margin: auto !important;     =
+padding-top: 0 !important;                     padding-left=
+: 0 !important;                     display: block !important;             =
+width: 100% !important;                 }                 table td[=
+class=3Dnumber] {                   display: none !important;              =
+}             }                  Bloomberg Politics Daily               =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+SIGN UP                              =
+=
+=
+=
+=
+=
+=
+=
+The Brief                           =
+=
+=
+=C2=A0                            =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=E2=80=98Acela P=
+rimary=E2=80=99 starts key campaign week that ends in Indiana              =
+=
+=
+=
+After five primaries Tuesday, a=
+ttention will quickly move to=C2=A0the Hoosier State, which many Trump oppo=
+nents see as the last best hope to slow his momentum.                      =
+=
+=
+=
+=
+=
+=
+=
+=
+=C2=A0                                       =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+Trump aims to prove critics wrong in foreign policy speech    =
+=
+=
+=
+Wednesday=E2=80=99s a=
+ddress in Washington gives the Republican presidential front-runner a chanc=
+e to appear as a more serious candidate than he=E2=80=99s perceived by many=
+Americans and foreign allies.                                             =
+=
+=
+=
+=
+=
+=
+=
+=
+=C2=A0                                                              =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+Confusion =
+reigns on first day of Cruz=E2=80=93Kasich alliance                        =
+=
+=
+=
+Supporters of the Ohio governor are expre=
+ssing reservations about the deal cut with the Texas senator to stop Trump.=
+=
+=
+=
+=
+=
+=
+=
+=
+=C2=A0                 =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=E2=
+=80=9CWe are not a movement where I can snap my fingers and say to you or a=
+nybody else what you should do.=E2=80=9D                                   =
+=
+=
+=
+=
+=
+=E2=80=94Bernie Sanders on encouraging supporters t=
+o vote for Hillary Clinton if she=E2=80=99s the nominee                    =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=C2=A0                                          =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+Trump set to sweep April =
+26 primaries but not to break 50% (CHART)                                  =
+=
+=
+=
+His path to a delegate majority gets trickier if he=
+doesn=E2=80=99t break the barrier, which he overcame for the first time la=
+st week.                                                                   =
+=
+=
+=
+=
+=
+=
+=
+=C2=A0         =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+Cruz campaign says VP choices na=
+rrowed to short list                                                       =
+=
+=
+=
+A report says rival-turned-surrogate Carly Fiorina is being vetted.     =
+=
+=
+=
+=
+=
+=
+=
+=
+=C2=A0                      =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+What life is like for a Connecticut Trump sup=
+porter (VIDEO)                                                             =
+=
+=
+Blo=
+omberg Politics traveled to a rural, economically depressed part of eastern=
+Connecticut to see what it=E2=80=99s like to be a supporter of Donald Trum=
+p these days.                                                              =
+=
+=
+=
+=
+=
+=
+=
+=C2=A0   =
+=
+=
+=
+=
+=
+=
+=
+=
+=C2=A0                                                                    =
+Catch =E2=80=9CWith All Due =
+Respect=E2=80=9D on Bloomberg TV and BloombergPolitics.com weekdays at 5 p.=
+m. ET.                                                                     =
+=C2=A0                      =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=C2=A0                                              =
+=
+=
+=
+=
+=
+=
+=
+Follow us:                                                         =
+=
+=
+=
+=
+=
+=C2=A0                                                               =
+=
+For press in=
+quiries, please contact Emma Angerer user@domain.com, 202-654-4332  =
+=
+=
+=C2=A0                        =
+=
+You received this message because you are subscribed to th=
+e Bloomberg Politics Daily newsletter.                                     =
+=
+=C2=A0                                                                  =
+=C2=A0                    =
+=
+Unsubscribe | BloombergPolitics.com | Contact Us       =
+=
+Bloomberg L.P. 731 Lexington, New York, N=
+Y, 10022                                                                   =
+=
+<a href=3D"<<link>>
+HR0cDovL3d3dy5tYWlsLmJsb29tYmVyZ3BvbGl0aWNzLmNvbSI/5620642517893f007f8b4d8a=
+B2697239d><img src=3D"<<link>>
+893f007f8b4d8a3x7xc.4ak/8c45e06a.gif" alt=3D"" border=3D"0" /></a>         =
+=20
+If you believe this has been sent to you in error, please click <<<link>>
+k.mail.bloombergpolitics.com/oc/5620642517893f007f8b4d8a3x7xc.4ak/9f2f9c58>=
+to safely unsubscribe.

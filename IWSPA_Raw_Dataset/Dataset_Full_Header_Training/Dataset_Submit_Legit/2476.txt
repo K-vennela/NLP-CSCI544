@@ -1,0 +1,60 @@
+Received: from domain.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Tue, 10 Jun 2015 11:13:53 +0200
+Received: from mail.hackingteam.it (unknown [192.168.100.50])	by
+ domain.com (Postfix) with ESMTP id 5913E6037E;	Tue, 10 Jun 2015 
+ 10:01:50 +0100 (BST)
+Received: by mail.hackingteam.it (Postfix)	id 1B2CEB6603D; Tue, 10 Jun 2015 
+ 11:13:53 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from EmadPC (unknown [192.168.1.186])	(using TLSv1 with cipher
+ AES128-SHA (128/128 bits))	(No client certificate requested)	by
+ mail.hackingteam.it (Postfix) with ESMTPSA id 7BB4FB6600D;	Tue, 10 Jun 2015 
+ 11:13:52 +0200 (CEST)
+From: Emad Shehata <e.shehata@hackingteam.it>
+To: 'Astana Team' <user@domain.com>
+CC: 'Emad Shehata' <user@domain.com>, 'HT' <user@domain.com>
+References: <CADsNJ7qcCc2g0Yrw2q+Bb=zwARz2JJNPMM9YRcfKS=++user@domain.com>	<user@domain.com> <CADsNJ7qKe2ukxPRaZfpuNytUuuKvLxA9ZZ5pWZKxoSQQnfb+user@domain.com>
+In-Reply-To: <CADsNJ7qKe2ukxPRaZfpuNytUuuKvLxA9ZZ5pWZKxoSQQnfb+user@domain.com>
+Subject: R: Re: Advanced Training Agenda
+Date: Tue, 10 Jun 2015 11:13:51 +0200
+Message-ID: <00c901cf848c$4be76ee0$e3b64ca0$@user@domain.com>
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: Ac+AqJM6smYS+NIHR5WpxFNOnJLw9QD4zAfA
+Content-Language: it
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-128259149_-_-"
+
+Dears,pls find attached the Advanced Training Certificate, it’s invoice and The Certificate signed and stamp from our part.Those documents already in our hand. Kindly sent the Certificate sign and stamp from your part as well by post. Best regards   Da: Astana Team [mailto:user@domain.com] 
+Inviato: giovedì 5 giugno 2015 12:26
+A: Emad Shehata
+Oggetto: Re: Re: Advanced Training Agenda Ok. Direct act of the services renderedregarda 2014-06-05 12:37 GMT+06:00 Emad Shehata <user@domain.com>:Dears,
+See you in Milan:
+Our office address is:
+
+Via Della Moscova 13- Milano
+If you need just call me on my mobile number ( 0039_3357939078(
+
+Best regards 
+-- Emad Shehata 
+Key Account Manager Sent from my mobile.
+ Da: Astana Team [mailto:user@domain.com] 
+Inviato: Thursday, June 05, 2015 05:50 AM
+A: Emad Shehata <user@domain.com> 
+Oggetto: Re: Advanced Training Agenda 
+ Thank you, see you in Milan. 2014-06-04 22:45 GMT+06:00 Emad Shehata <user@domain.com>:Dear Sir, trust this e-mail find you well.Please find attached the agenda for our training in Milan.I would like to inform you that we will domain.com you in our office on Monday 09 at 10.00 A.M.Best regards   Emad Shehata
+Key Account Manager
+
+Hacking Team
+Milan Singapore Washington DC
+domain.com
+
+email: user@domain.com
+mobile: +39 3357939078
+phone: +39 0229060603     

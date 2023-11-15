@@ -1,0 +1,146 @@
+Received: from dncedge1.dnc.org (192.168.185.10) by dnchubcas2.dnc.org
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 3 May
+ 2015 11:12:18 -0400
+Received: from domain.com (8.19.118.102) by dncwebmail.dnc.org
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 3 May 2015 
+ 11:12:09 -0400
+Received: from [10.87.0.110] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 893543402
+ for user@domain.com; Tue, 03 May 2015 10:11:54 -0500
+X-Note-AR-ScanTimeLocal: 5/3/2016 10:11:52 AM
+X-Policy: dnc.org
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: user@domain.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: LOCAL->United States->
+X-Note-Sending-IP: 205.201.133.161
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from [205.201.133.161] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 139668137
+ for user@domain.com; Tue, 03 May 2015 10:11:40 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=domain.com;
+ h=Subject:From: =?utf-8?Q?Jonae=20Wartel?= <asdc@dnc.org>
+ bh=naeJLf4FHuArQYsnd7cU5Jj20Bo=;
+ b=GNDBaLzfYvZxUl20tqEWf7uH4II1BCXJ1kVMdhTqppB8aq62wq7sYSF/8E72lIBoja0JzDIPrTUa
+   ivlFVpaRYl5Pl3ujGgJbG5zNDWZZn/kreWBaSypCHRqZkPzWKFsVqsvcTHzctzB/NuRt99UIdwis
+   M4Eb2sZgWxQMIq1VMCg=
+Received: from (127.0.0.1) by domain.com id h52vqo1lgi4p for
+ <user@domain.com>; Tue, 3 May 2015 15:11:28 +0000 (envelope-from
+ <user@domain.com>)
+Subject: =?utf-8?Q?ASDC=20Clips=205=2F03=2F16?=
+From: =?utf-8?Q?Jonae=20Wartel?= <asdc@dnc.org>
+Reply-To: =?utf-8?Q?Jonae=20Wartel?= <user@domain.com>
+To: <user@domain.com>
+Date: Tue, 3 May 2015 15:11:28 +0000
+Message-ID: <user@domain.com>
+X-Mailer: MailChimp Mailer - **CID5b0dd0349b7633d8eb8e**
+X-Campaign: mailchimpca6d16b8af5e1932f64d24222.5b0dd0349b
+X-campaignid: mailchimpca6d16b8af5e1932f64d24222.5b0dd0349b
+X-Report-Abuse: Please report abuse for this campaign here: <<link>>
+X-MC-User: ca6d16b8af5e1932f64d24222
+X-Feedback-ID: 17616351:17616351.1335761:us4:mc
+List-ID: ca6d16b8af5e1932f64d24222mc list <ca6d16b8af5e1932f64d24222.191673.list-domain.com>
+X-Accounttype: pd
+List-Unsubscribe: <mailto:user@domain.com?subject=unsubscribe>, <<<link>>>
+Sender: Jonae Wartel <user@domain.com>
+x-mcda: FALSE
+Content-Type: multipart/alternative;
+	boundary="_----------=_MCPart_1940838054"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: dncedge1.dnc.org
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+<<link>>
+
+Louisiana
+La. Democrats announce district delegates to convention
+Many Louisiana lawmakers are among those elected as delegates to the 2016=
+ Democratic National Convention in Philadelphia. State Reps. Katrina Jacks=
+on=2C D-Monroe=2C and Barbara Norton=2C D-Shreveport=2C are among those el=
+ected. Both of them are pledged to front-runner Hillary Clinton=2C as are=
+ the majority of the delegates. The Louisiana Democratic Party announced M=
+onday the results of elections for district level delegates to this year=
+=E2=80=99s presidential nominating convention July 25. Those winners are l=
+isted below by congressional district and who they will support. <<link>>
+domain.com/story/news/2016/05/02/la-democrats-announce-district-del=
+egates-convention/83850726/
+
+North Carolina
+Rallies for=2C Against House Bill 2 Set on Session's First Day
+The North Carolina Democratic Party criticized comments made by a Republic=
+an state senator urging people to "fight to keep our state straight". And=
+ states with such protections have not seen a rise in such crimes. "It is=
+ both frightening and embarrassing that one of our nation's staunchest all=
+ies has warned its citizens of the risks of traveling to North Carolina an=
+d MS because of anti-LGBT laws passed by their elected officials"=2C said=
+ Director of HRC Global Ty Cobb in a statement. Despite the disruptions on=
+ the legislature's first formal day of business=2C the state's top GOP lea=
+ders insist they have no plan to repeal the law. Newton is now campaigning=
+ to be the state's next attorney general. "It means keep men out of the la=
+dies' room"=2C he said. "We won't do HB 2"=2C the protesters chanted=2C re=
+ferring to the law by its initials. "I think here's some talk even among R=
+epublicans for a couple of little tweaks here and there but I'm not even s=
+ure that any of that will happen".
+<<link>>
+ions-first-day/
+
+Tennessee
+Tennessee Campus Carry Becomes Law without Haslam Signature
+Tennessee Democratic Party Chairwoman Mary Mancini criticized the governor=
+ for declining to veto the legislation=2C which she said puts the interest=
+s of "the gun lobby and their wealthy donors" above campus security. "Gove=
+rnor Haslam is defying all common sense=2C ignoring the opposition of facu=
+lty and staff=2C and jeopardizing the safety and well-being of students=2C=
+" Mancini said. The bill was sponsored by Rep. Andy Holt of Dresden and fe=
+llow Republican Sen. Mike Bell of Riceville. During the Senate debate on t=
+he bill=2C opponents circulated comments from a survey of faculty at the U=
+niversity of Tennessee in Knoxville that raised security concerns about mo=
+re guns on campus. Bell scoffed at many of those comments=2C declaring tha=
+t he hopes some professors will follow through on vows to domain.com their domain.com=
+ions at the state's flagship university if the bill became law. "Maybe thi=
+s will give UT a chance to hire some conservative teachers if we have a ma=
+ss exodus of some of these liberals who
+responded to this=2C" he said.
+<<link>>
+8825009
+
+Washington
+County Democrats elect delegates=2C talk platform
+About 600 gathered Sunday at the domain.com County Democratic Convention to el=
+ect delegates to the next step of the state=E2=80=99s presidential primary=
+=2C and to talk about the party=E2=80=99s platform. The convention also se=
+rved as caucuses for the 10th and 40th legislative districts=2C which toge=
+ther elected 13 delegates to represent Bernie Sanders and five for Hillary=
+ Clinton. Elected delegates proceed to the state convention in Tacoma=2C a=
+nd to their respective congressional district caucuses. The 39th legislati=
+ve district=2C which covers the county from Sedro-Woolley east=2C elected=
+ delegates at its caucus two weeks ago. The convention=2C which was held a=
+t Mount Vernon High School=2C was familiar territory for two young delegat=
+es=2C Peri Kirkpatrick and Malachi Simpson. The two are Mount Vernon High=
+ School seniors. The platform reflects the values of Democrats in the regi=
+on=2C and is sent to the state party to be incorporated into the state pla=
+tform. Resolutions to nationalize banking institutions=2C fund
+education and preserve national parks all passed. <<link>>
+news/local_news/county-democrats-elect-delegates-talk-platform/article_5ba=
+a6218-45ea-5837-94a2-9abf6e770c2c.html
+
+<<link>> <<link>>
+
+Paid for by the Association of State Democratic Chairs (<<link>>
+domain.com/) =2C 430 S. Capitol St. SE=2C Washington=2C D.C. 20003=2C
+and not authorized by any candidate or candidate's committee.
+Unsubscribe (<<link>>
+af5e1932f64d24222&id=3Dd6759cd91c&e=3D7633d8eb8e&c=3D5b0dd0349b)

@@ -1,0 +1,608 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 3 May
+ 2015 05:40:01 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 3 May 2015 
+ 05:39:56 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 892781301
+ for user@domain.com; Tue, 03 May 2015 04:40:01 -0500
+X-Note-AR-ScanTimeLocal: 5/3/2016 4:39:59 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:68.232.197.141 DOM:domain.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 100
+X-GBUdb-Analysis: 0, 68.232.197.141, Ugly c=0.394543 p=-0.130435 Source Normal
+X-Signature-Violations: 100-5819748-1140-1162-m
+	100-5950968-1335-1367-m
+	100-5948747-1336-1367-m
+	100-5819748-0-32695-f
+X-Note-419: 31.2448 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/3/2016 4:39:42 AM
+X-Warn: COMMENTS HTML Comments found in Message Body
+X-Warn: BULKMAILER
+X-Note: Spam Tests Failed: COMMENTS, BULKMAILER
+X-Country-Path: ->United States->
+X-Note-Sending-IP: 68.232.197.141
+X-Note-Reverse-DNS: mta.email.bostonglobe.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G280 G285 G340 G373 G579 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from mta.email.bostonglobe.com ([68.232.197.141] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 136201250
+ for user@domain.com; Tue, 03 May 2015 04:39:59 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=200608; d=email.bostonglobe.com;
+ h=From: BostonGlobe.com <newsletters@email.bostonglobe.com>
+ bh=XAuiZq4y39mCX/YOWeAI6bMc1gA=;
+ b=CSLFPGLnlUluPeydWTnSkEtsWANRMsDsPpc7LGBkPH5r64vaD2dpJalZzuXKN9KMNAr69U5MGDAQ
+   CfmBXnEYQ2X8CG2nVnjQLp4zk/JUAFLlhkksVyLSejaRw6vtartcgpE96ZN9paDoGEsLvzDbJDGy
+   NCnIQHuD0fM7XtGP9lk=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=200608; d=email.bostonglobe.com;
+ b=c7bQkFlfPrZWibFKY5obod+gUm0LVBZdoFlfe5qw/sHXgQNf9pImAECc5sTvnpBRN7HgP+nOMFbf
+   u3Xi3FVZ7DNwPegVRc8zwiUwB8utUoSye7KHNoiZXLtRH/b0tDGB+zTqeXHB68k1CRdRt8Vwulbd
+   U1zqS++GwmdnMt+5PEc=;
+Received: by mta.email.bostonglobe.com id h51ouu163hs4 for <user@domain.com>;
+ Tue, 3 May 2015 03:39:59 -0600 (envelope-from
+ <user@domain.com>)
+From: BostonGlobe.com <newsletters@email.bostonglobe.com>
+To: <user@domain.com>
+Subject: Today's headlines from The Boston Globe
+Date: Tue, 3 May 2015 03:39:58 -0600
+List-Unsubscribe: <mailto:user@domain.com>
+Reply-To: Today's Headlines
+	<user@domain.com>
+x-job: 10839380_35401302
+Message-ID: <34476user@domain.com>
+Content-Type: multipart/alternative; boundary="B7RjepJh5pCR=_?:"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+To view this email as a web page, go to the link below, or copy and paste it into your browser's address window.
+<<link>>'s Headlines
+
+Today's Headlines
+To ensure you receive your domain.com e-mails, please add 
+mailto:user@domain.com 
+user@domain.com  to your address book.
+
+If you have trouble reading this e-mail, go to 
+<<link>> 
+<<link>> .
+
+<<link>> 
+Today's headlines
+05/03/2016
+
+<<link>> 
+Today's Paper 
+<<link>> 
+Metro 
+<<link>> 
+Opinion 
+<<link>> 
+Sports 
+<<link>> 
+Comics 
+<<link>> 
+Crossword 
+
+/todayspaper?s_campaign=email_BG_TodaysHeadline 
+Page one
+
+
+
+<<link>> 
+Experts raise questions about duck boats&#'; blind spots
+
+<<link>> 
+
+<<link>> 
+&ldquo;There&rsquo;s no way to make an overly large, World War II military weapon with blind spots safe to drive on city streets,&rdquo; a lawyer said.  
+
+
+
+
+<<link>> 
+Little oversight, lots of success for marijuana delivery services
+
+<<link>> 
+
+<<link>> 
+It was expected that the services would fade away with the opening of state-sanctioned medical marijuana dispensaries. 
+
+
+
+
+<<link>> 
+City officials still mum when asked about subpoenas
+
+<<link>> 
+
+<<link>> 
+The move comes despite an order for the Walsh administration to disclose whether it has the documents. 
+
+
+
+
+<<link>> 
+Trump may deliver crushing blow to Cruz in Indiana
+
+<<link>> 
+
+<<link>> 
+Donald Trump&rsquo;s once seemingly quixotic campaign may be on the verge of taking him to the GOP nomination.  
+
+
+
+
+<<link>> 
+Like father, like son? Younger Belichick gets his shot
+
+<<link>> 
+
+<<link>> 
+Steve Belichick, the 29-year-old son of the head coach, is the new safeties coach after four years as a defensive assistant.  
+
+
+
+
+<<link>> 
+
+<<link>> 
+
+<<link>> 
+
+
+
+
+<<link>> 
+Globe Events 
+
+
+
+<<link>> 
+Second Life
+
+<<link>> 
+
+<<link>> 
+An architect turns his old barn in Newport, Rhode Island, into a light-filled multipurpose haven for family and guests.  
+
+
+
+
+<<link>> 
+More Globe Events &rarr;  
+
+/todayspaper?s_campaign=email_BG_TodaysHeadline 
+Today's Paper &rarr; 
+
+<<link>> 
+The Nation
+
+
+
+<<link>> 
+Trump may deliver crushing blow to Cruz in Indiana
+
+<<link>> 
+
+<<link>> 
+Donald Trump&rsquo;s once seemingly quixotic campaign may be on the verge of taking him to the GOP nomination.  
+
+
+
+
+<<link>> 
+Teacher protest shuts most domain.com public schools
+
+<<link>> 
+
+<<link>> 
+About half the city&rsquo;s teachers called in sick to protest the possibility that some will not be paid over the summer. 
+
+
+
+
+<<link>> 
+Ted Cruz mounts go-for-broke campaign in Calif.
+
+<<link>> 
+
+<<link>> 
+Cruz hopes to win over the state&rsquo;s most committed Republican activists in an effort to block Donald Trump.  
+
+<<link>> 
+
+Jump to domain.com The Nation Section &rarr;
+
+
+
+<<link>> 
+The World
+
+
+
+<<link>> 
+Talks seek to extend shaky Syrian truce to embattled Aleppo
+
+<<link>> 
+Secretary of State John Kerry Kerry blamed the Assad regime for air raids on a hospital and clinics in Aleppo.  
+
+
+
+
+<<link>> 
+China&#';s Communist Party places outspoken tycoon on probation
+
+<<link>> 
+The man criticized the Chinese state media for pledging absolute loyalty to the party. 
+
+
+
+
+<<link>> 
+Missing US climbers found preserved in glacier, 16 years after avalanche
+
+<<link>> 
+A pair of European climbers stumbled upon the remains of the disaster, exposed by an early melt.  
+
+
+
+
+<<link>> 
+
+<<link>> 
+
+<<link>> 
+
+<<link>> 
+
+Jump to domain.com The World Section &rarr;
+
+
+
+<<link>> 
+Editorial & Opinion
+
+
+
+JOAN VENNOCHI
+
+<<link>> 
+Good for Boston for stopping IndyCar crash
+
+<<link>> 
+
+<<link>> 
+So, Boston is a city where half-baked ideas in search of open public wallets go to die. Good for Boston.  
+
+
+
+
+<<link>> 
+For residents, on-site care is preferable to the disruption of a transfer to nursing home
+
+<<link>> 
+&ldquo;Having to give up social support and independence because of a lingering wound problem or the need to have a catheter changed is cruel punishment for enduring the process of aging.&rdquo; &mdash; Nancy Kane and Katherine Swartz 
+
+
+
+
+<<link>> 
+Addition of health services must be regulated by the right agency
+
+<<link>> 
+&ldquo;The addition of limited health services in assisted living needs to be overseen by, and under the direction and supervision of, the Department of Public Health.&rdquo; &mdash; Diane DeRubeis 
+
+<<link>> 
+
+Jump to domain.com Editorial & Opinion Section &rarr;
+
+
+
+<<link>> 
+Metro
+
+
+
+<<link>> 
+City officials still mum when asked about subpoenas
+
+<<link>> 
+
+<<link>> 
+The move comes despite an order for the Walsh administration to disclose whether it has the documents. 
+
+
+
+
+<<link>> 
+Little oversight, lots of success for marijuana delivery services
+
+<<link>> 
+
+<<link>> 
+It was expected that the services would fade away with the opening of state-sanctioned medical marijuana dispensaries. 
+
+
+
+
+<<link>> 
+Experts raise questions about duck boats&#'; blind spots
+
+<<link>> 
+
+<<link>> 
+&ldquo;There&rsquo;s no way to make an overly large, World War II military weapon with blind spots safe to drive on city streets,&rdquo; a lawyer said.  
+
+<<link>> 
+
+Jump to domain.com Metro Section &rarr;
+
+
+
+<<link>> 
+Business & Tech
+
+
+
+<<link>> 
+In US opioid crisis, green card seekers see opportunity
+
+<<link>> 
+
+<<link>> 
+Foreign investors are pouring money into a thriving industry: drug rehabilitation and psychiatric clinics. 
+
+
+
+
+Stat | Pharmalot
+
+<<link>> 
+Drug makers need to swallow hard, take back extra pills
+
+<<link>> 
+
+<<link>> 
+The pharmaceutical industry has adopted a range of tactics to avoid having to pick up the tab for take-back programs. 
+
+
+
+
+<<link>> 
+Hot about Starbucks&#'; iced coffee
+
+<<link>> 
+
+<<link>> 
+A fed-up customer in Chicago is suing the chain over the amount of fluid in its iced beverages. 
+
+<<link>> 
+
+Jump to domain.com Business & Tech Section &rarr;
+
+
+
+<<link>> 
+Obituaries
+
+
+
+<<link>> 
+Michelle McNamara, 46, writer and wife of Patton Oswalt
+
+<<link>> 
+
+<<link>> 
+Ms. McNamara founded the website True Crime Diary, which covers both breaking stories and cold cases. 
+
+
+
+
+<<link>> 
+Remo Belli, 88, musician who pioneered synthetic drumheads
+
+<<link>> 
+
+<<link>> 
+Mr. Belli helped a generation of rock &rsquo;n&rsquo; rollers shape their sound and saw synthetic drumheads become standard on kits across genres. 
+
+<<link>> 
+
+Jump to domain.com Obituaries Section &rarr;
+
+
+
+<<link>> 
+Sports
+
+
+
+<<link>> 
+Like father, like son? Younger Belichick gets his shot
+
+<<link>> 
+
+<<link>> 
+Steve Belichick, the 29-year-old son of the head coach, is the new safeties coach after four years as a defensive assistant.  
+
+
+
+
+DAN SHAUGHNESSY
+
+<<link>> 
+Red Sox spring to life, and we&#';re talkin&#'; baseball again
+
+<<link>> 
+
+<<link>> 
+Right now, the compliments outnumber the complaints, as the Sox have been positively accountable. 
+
+
+
+
+<<link>> 
+After a mild winter, skiers get in their last licks &#-; in May
+
+<<link>> 
+
+<<link>> 
+Diehard skiers flocked to Sunday River in Maine for a fun and festive close to the season. 
+
+<<link>> 
+
+Jump to domain.com Sports Section &rarr;
+
+
+
+<<link>> 
+Tuesday Stories
+
+
+
+<<link>> 
+Spanking your kid is about as harmful as child abuse, says study
+
+<<link>> 
+
+<<link>> 
+The action could cause increased mental health problems, cognitive difficulties, aggression, and antisocial behavior patterns later in life.  
+
+
+
+
+Dance Review
+
+<<link>> 
+Boston Ballet casts a spell with latest &#';Swan Lake&#';
+
+<<link>> 
+
+<<link>> 
+For Friday&rsquo;s opening night performance, Misa Kuranaga was pitch perfect as Odette/Odile. 
+
+
+
+
+parenting
+
+<<link>> 
+Tips to resolve a disagreement on how to raise the children
+
+<<link>> 
+
+<<link>> 
+What do you do when one parent wants the other to be tougher? 
+
+<<link>> 
+
+Jump to domain.com Tuesday Stories Section &rarr;
+
+
+
+<<link>> 
+Comics
+
+<<link>> 
+Crossword
+
+<<link>> 
+Circulars
+
+<<link>> 
+
+Jump to domain.com Circulars Section &rarr;
+
+
+
+<<link>> 
+
+<<link>> 
+domain.com 
+Today's headlines
+  |  
+05/03/2016
+
+
+
+
+About This Email
+
+You received this message because you signed up for the Today's headlines newsletter.
+To automatically unsubscribe, 
+<<link>> 
+please click here.  
+If you wish to unsubscribe from all domain.com newsletters, 
+<<link>> 
+please click here. 
+Please note: this will unsubscribe you from the newsletters only. If you wish to cancel your domain.com subscription, please call 1-888-MY-GLOBE (1-888-694-5623).
+
+<<link>> 
+Manage Your Account  | 
+<<link>> 
+Terms of Service  | 
+<<link>> 
+Privacy Policy  | 
+<<link>> 
+Help Center  | 
+mailto:user@domain.com?subject=Advertising in domain.com 
+Advertise 
+
+Address:
+
+The Boston Globe
+
+135 Morrissey Blvd.
+
+Boston, MA 02125
+
+(c)Copyright 2015 Boston Globe Media Partners, LLC
+
+----------------------------------------
+
+
+
+	This email was sent by:
+	The Boston Globe
+	135 Morrissey Blvd.
+	Boston, MA, 02125, United States
+
+
+
+	We respect your right to privacy - domain.com the following URL to view our policy.
+	( <<link>> )
+
+
+
+	----------------------------------------
+
+
+
+	domain.com the following URL to manage your subscriptions.
+	( <<link>> )
+
+
+
+	domain.com the following URL to update your profile.
+	( <<link>> )
+
+
+
+	domain.com the following URL to unsubscribe.
+	( <<link>> )
+
+

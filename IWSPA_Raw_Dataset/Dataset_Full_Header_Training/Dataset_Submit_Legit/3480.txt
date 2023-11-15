@@ -1,0 +1,64 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from mail.hackingteam.it (localhost [127.0.0.1])
+	by localhost (Postfix) with SMTP id 72CDA6AE6;
+	Wed, 17 Dec 2015 16:08:02 +0100 (CET)
+Received: from TEST01XP (unknown [192.168.1.146])
+	(using TLSv1 with cipher RC4-MD5 (128/128 bits))
+	(No client certificate requested)
+	by mail.hackingteam.it (Postfix) with ESMTP id 4B04B6A6D;
+	Wed, 17 Dec 2015 16:07:56 +0100 (CET)
+From: "Ivan Roattino" <i.roattino@hackingteam.it>
+To: <user@domain.com>
+CC: "'Antonio Mazzeo'" <user@domain.com>
+Subject: devo inviare il documento a Francesco e Max prima delle 17 se no vanno via
+Date: Wed, 17 Dec 2015 16:11:16 +0100
+Organization: HT srl
+Message-ID: <000001c96059$b5467820$1fd36860$@user@domain.com>
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AclgWbS5suKyi3R3TM6NKdBhEdq64Q==
+Content-Language: it
+X-PerlMx-Spam: Gauge=IIIIIII, Probability=8%, Report='HTML_70_90 0.1, __C230066_P5 0, __CT 0, __CTYPE_HAS_BOUNDARY 0, __CTYPE_MULTIPART 0, __CTYPE_MULTIPART_ALT 0, __HAS_HTML 0, __HAS_MSGID 0, __HAS_X_MAILER 0, __HTML_FONT_BLUE 0, __HTML_MSWORD 0, __MIME_HTML 0, __MIME_VERSION 0, __SANE_MSGID 0, __STYLE_RATWARE_2 0, __SXL_SIGV2_TIMEOUT , __SXL_SIG_TIMEOUT , __SXL_URI_TIMEOUT , __TAG_EXISTS_HTML 0, __USER_AGENT_MS_GENERIC 0'
+PMX-where: ih-tr
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1666333765_-_-"
+
+Va bene anche in bozza..
+
+
+
+Ivan
+Roattino
+Key
+Account Manager
+
+
+
+HT
+srl
+Via
+Moscova, 13  I-20121 Milan, Italy
+WWW.HACKINGTEAM.IT
+Phone
++39 02 29060603
+Fax
+-39 02 63118946
+Mobile
++39 3316237813
+
+
+
+This message is a PRIVATE communication.
+This message contains privileged and confidential information intended only for
+the use of the addressee(s).
+If you are not the intended recipient, you
+are hereby notified that any dissemination, disclosure, copying, distribution
+or use of the information contained in this message is strictly prohibited. If
+you received this email in error or without authorization, please notify the
+sender of the delivery error by replying to this message, and then delete it
+from your system.
+
+

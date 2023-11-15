@@ -1,0 +1,76 @@
+Received: from domain.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Fri, 13 Feb 2015 13:57:13 +0100
+Received: from domain.com (unknown [192.168.100.50])	by
+ domain.com (Postfix) with ESMTP id 1AA63600EE;	Fri, 13 Feb 2015 
+ 12:36:15 +0000 (GMT)
+Received: by domain.com (Postfix)	id 601192BC226; Fri, 13 Feb 2015 
+ 13:57:13 +0100 (CET)
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.100.25])
+	by domain.com (Postfix) with ESMTP id 4C0312BC0F5	for
+ <user@domain.com>; Fri, 13 Feb 2015 13:57:13 +0100 (CET)
+X-ASG-Debug-ID: 1423832232-066a751f0351270001-DQSXrx
+Received: from mail-wg0-domain.com (mail-wg0-domain.com
+ [74.125.82.49]) by domain.com with ESMTP id XMHRMDtAi964sOdK; Fri,
+ 13 Feb 2015 13:57:12 +0100 (CET)
+X-Barracuda-Envelope-From: Serge Yun <sergeyun@gmail.com>
+X-Barracuda-Apparent-Source-IP: 74.125.82.49
+Received: by mail-wg0-domain.com with SMTP id l18so16511279wgh.8;
+        Fri, 13 Feb 2015 04:57:12 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:From: Serge Yun <sergeyun@gmail.com>
+         :cc:content-type;
+        bh=y6VQvmxT5PLfcC5X7LKBJAzYR6vvOUykAMqjuD6r9WY=;
+        b=gMOwyBMLopI51vE64JkVPUFZaqp88TWcqoWEmGejfNVa7goyDtuZyNgMG52fFiOK0z
+         SfTCSvBJXSd3wtQEEa3Bz+GsCzst/BgLne5CPJ5yrkGgrM1/bR9X2tpsewCdnsGuwc8E
+         bGOPIIOLD54YLYewwMPcu3OwaWUWZlOp0ZrkcqWCEX0w+F5UVal+I96Z62NLbT21Pfe1
+         kmf06J4//7crfGe14N/6aGW4PQkWVc393cKWecUmEFwwGs/KWE4tj5pdQRsbpWLXvF7V
+         aggOiGqsV0dznXZw8zGKWy4D/yzdY2uihOrAGVJwNA+OGjW3OjJtUy4ZcgVV2B6ScNN7
+         uaYw==
+X-Received: by 10.194.5.168 with SMTP id t8mr18361260wjt.150.1423832231946;
+ Fri, 13 Feb 2015 04:57:11 -0800 (PST)
+Received: by 10.27.97.72 with HTTP; Fri, 13 Feb 2015 04:57:11 -0800 (PST)
+Received: by 10.27.97.72 with HTTP; Fri, 13 Feb 2015 04:57:11 -0800 (PST)
+In-Reply-To: <user@domain.com>
+References: <user@domain.com>
+	<54user@domain.com>
+	<user@domain.com>
+	<user@domain.com>
+	<user@domain.com>
+Date: Fri, 13 Feb 2015 20:57:11 +0800
+Message-ID: <user@domain.com>
+Subject: Re: Farewell
+From: Serge Yun <sergeyun@gmail.com>
+X-ASG-Orig-Subj: Re: Farewell
+To: Eduardo Pardo <user@domain.com>, <user@domain.com>
+CC: Massimo Chiodini <user@domain.com>, Fabrizio Cornelli
+	<user@domain.com>
+X-Barracuda-Connect: mail-wg0-domain.com[74.125.82.49]
+X-Barracuda-Start-Time: 1423832232
+X-Barracuda-URL: <<link>>:8000/cgi-mod/mark.cgi
+X-Virus-Scanned: by bsmtpd at domain.com
+X-Barracuda-BRTS-Status: 1
+X-Barracuda-Spam-Score: 0.00
+X-Barracuda-Spam-Status: No, SCORE=0.00 using global scores of TAG_LEVEL=3.5 QUARANTINE_LEVEL=1000.0 KILL_LEVEL=8.0 tests=HTML_MESSAGE
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.3.15237
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.00 HTML_MESSAGE           BODY: HTML included in message
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1489860702_-_-"
+
+Hi Guys,
+I do not have access to my ht email account longer, so I may have missed some of you guys. Thanks for all your good wishes and suggestions for mobile phones. With your hard work, I think its a matter of time I switch back to good old Nokia 6520. If you happen to drop by Singapore, for work or play, contact me and we'll catch up :)
+
+Regards,
+
+Serge

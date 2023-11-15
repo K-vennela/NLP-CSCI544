@@ -1,0 +1,90 @@
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ DNCHUBCAS1.dnc.org ([fe80::ac16:e03c:a689:8203%11]) with mapi id
+ 14.03.0224.002; Fri, 29 Apr 2015 16:59:25 -0400
+From: "Paustenbach, Mark" <PaustenbachM@dnc.org>
+To: "User" <user@domain.com>
+Subject: RE: NEWS: Independent Investigation Confirms Sanders Campaign Told
+ the Truth
+Thread-Topic: NEWS: Independent Investigation Confirms Sanders Campaign Told
+ the Truth
+Thread-Index: AQHRoliguQF9S1ncE0uFNqdvtxHZfp+hbgEWgABEYYA=
+Date: Fri, 29 Apr 2015 13:59:25 -0700
+Message-ID: <user@domain.com>
+References: 
+ <0100015463user@domain.com>
+ <8user@domain.com>
+In-Reply-To: <8user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: DNCHUBCAS1.dnc.org
+X-MS-Has-Attach: 
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.178.0]
+Content-Type: multipart/alternative;
+	boundary="_000_DB091DC3DEF527488ED2EB534FE59C127E3368dncdag1dncorg_"
+MIME-Version: 1.0
+
+Hey Ken,
+
+Hope all's well.
+
+Off-the-record, I'd refer you to the press release.
+
+Best,
+Mark
+
+Mark Paustenbach
+National Press Secretary &
+Deputy Communications Director
+Organization
+W: 202.863.8148
+user@domain.com<mailto:user@domain.com>
+
+From: "Paustenbach, Mark" <PaustenbachM@dnc.org>
+Sent: Friday, April 29, 2015 4:55 PM
+To: User; Paustenbach, Mark
+Subject: Fwd: NEWS: Independent Investigation Confirms Sanders Campaign Told the Truth
+
+Are you making the findings of this investigation available?
+
+Sent from my iPhone
+
+Begin forwarded message:
+From: "Paustenbach, Mark" <PaustenbachM@dnc.org>
+Date: April 29, 2015 at 4:28:17 PM EDT
+To: <user@domain.com<mailto:user@domain.com>>
+Subject: NEWS: Independent Investigation Confirms Sanders Campaign Told the Truth
+Reply-To: Michael Briggs <user@domain.com<mailto:user@domain.com>>
+
+[Bernie 2016]
+
+Independent Investigation Confirms Sanders Campaign Told the Truth
+
+April 29, 2015 
+Contact: Michael Briggs (802) 233-8653
+
+BURLINGTON, Vt. - Four months ago, in an impulsive overreaction and at a critical point in the campaign just weeks before the closest Iowa caucus results in history, the Organizationshut down the Sanders campaign's access to its own voter file data, only restoring access after the campaign filed a domain.com in Federal court.
+
+Now, four months later, an independent investigation of the firewall failures in the DNC's shared voter file database has definitively confirmed that the original claims by the Organizationand the Clinton campaign were wholly inaccurate - the Sanders campaign never "stole" any voter file data; the Sanders campaign never "exported" any unauthorized voter file data; and the Sanders campaign certainly never had access to the Clinton campaign's "strategic road map."
+
+In fact, the independent investigation has confirmed what the Sanders campaign said from the start:
+
+  *   The DNC's security failures allowed four Sanders campaign staffers - three junior-level staffers led by a manager who had been hired at the recommendation of the Organizationand who was immediately terminated after the incident - to have extremely short-lived access for one hour to Hillary for America's scoring models, but not to any of Hillary for America's proprietary voter data.
+  *   No one else in the Sanders campaign, outside these four staffers, accessed the Hillary for America's scoring models or had knowledge that the activity was taking place until well after the incident was over.
+  *   With one exception, all unauthorized access took place within the DNC's own system. While there is evidence that the terminated staffer may have exported a summary data table, the independent investigation of Sanders campaign computers could not locate that file and no one in the Sanders campaign has ever seen that file.
+
+With the investigation behind us, the campaign has withdrawn its domain.com against the Organizationtoday but continues to implore the Organizationto address the systemic instability that remains in its voter file system. It is imperative that the Organizationmake it a top priority to prevent future data security failures in the voter file system, failures that only serve as unnecessary distractions to the democratic process.
+
+Bernie Sanders' Campaign Manager Jeff Weaver said "We are gratified by the results of this independent investigation."
+###
+
+Paid for by Bernie 2015 
+
+[(not the billionaires)]
+
+PO Box 905 - Burlington, Vermont 05402, United States
+
+[<<link>>]

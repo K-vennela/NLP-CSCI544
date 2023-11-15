@@ -1,0 +1,98 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.4.9])
+	by domain.com (Postfix) with ESMTP id 070A4468FE;
+	Sat, 28 Jul 2015 13:38:49 -0400 (EDT)
+Received: from domain.com (domain.com [192.168.6.4])
+	by domain.com (Postfix) with ESMTP id EED91131FB0B;
+	Sat, 28 Jul 2015 13:38:48 -0400 (EDT)
+Received: from 82-33-20-211.cable.ubr01.stav.blueyonder.co.uk (82-33-20-211.cable.ubr01.stav.blueyonder.co.uk [82.33.20.211])
+	by domain.com (Postfix) with SMTP id C64B16FA1C4;
+	Sat, 28 Jul 2015 13:38:47 -0400 (EDT)
+Received: from [120.157.194.126] by 82-33-20-211.cable.ubr01.stav.blueyonder.co.uk with ESMTP id CB8A2A94265; Sat, 28 Jul 2015 18:32:48 +0000
+Message-ID: <5$-2-8wzkp8escz8$user@domain.com>
+From: "PayPal Service" <accountservice@paypal.com>
+Reply-To: "User" <user@domain.com>
+To: user@domain.com
+Subject: Please Restore Your Account Access !
+Date: Sat, 28 Jul 07 18:32:48 GMT
+X-Mailer: bizness-mailer v.3.9.0
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary=".31EC26A7B"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Keywords: 
+Status: O
+Content-Length: 2015 
+Lines: 71
+
+Dear PayPal Member,
+As part of our security measures, we regularly screen activity in the <=
+br />
+  PayPal system. We recently contacted you after noticing an issue on your=
+
+
+
+  account.We requested information from you for the following reason:
+We recently received a report of unauthorized domain.com card use 
+
+  associated with this account. As a precaution, we have limited access to=
+ your 
+
+  PayPal account in order to protect against future unauthorized 
+
+  transactions.
+Case ID Number: PP-222-735-506
+This is a reminder to log in to PayPal as soon as possible.
+Be sure to log in securely by opening a new browser window and typing <=
+br />
+  the PayPal URL. Once you log in, you will be provided with steps to 
+
+  restore your account access. We appreciate your understanding as we work=
+ to 
+
+  ensure account safety.
+Click here to restore y=
+our account access.
+In accordance with PayPal's User Agreement, your account access will 
+  remain limited until the issue has been resolved. Unfortunately, if 
+
+  access to your account remains limited for an extended period of time, i=
+t 
+
+  may result in further limitations or eventual account closure. We 
+=
+
+  encourage you to log in to your PayPal account as soon as possible to he=
+lp 
+
+  avoid this. 
+To review your account and some or all of the information that PayPal <=
+br />
+  used to make its decision to domain.com your account access, please domain.com the=
+
+
+
+  Resolution Center. If, after reviewing your account information, you 
+  seek further clarification regarding your account access, please contact=
+
+
+
+  PayPal by visiting the Help Center and clicking "Contact Us".<=
+/p>
+We thank you for your prompt attention to this matter. Please 
+
+  understand that this is a security measure intended to help protect you =
+and your 
+
+  account. We apologize for any inconvenience.
+Sincerely,
+
+  PayPal Account Review Department
+
+----------------------------------------------------------------
+PayPal Email ID PP638
+
+  ------------------------------------------------------------------

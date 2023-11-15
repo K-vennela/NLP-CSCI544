@@ -1,0 +1,114 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Thu, 28 Apr
+ 2015 12:53:26 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Thu, 28 Apr 2015 
+ 12:53:18 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 885666073;
+ Thu, 28 Apr 2015 11:53:27 -0500
+X-Note-AR-ScanTimeLocal: 4/28/2016 11:53:25 AM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:209.85.161.170 DOM:gmail.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-245/SG:5 4/28/2016 11:52:52 AM
+X-GBUdb-Analysis: Unknown
+X-Signature-Violations: 0-0-0-9104-c
+X-Note-419: 15.6264 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 4/28/2016 11:53:12 AM
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 209.85.161.170
+X-Note-Reverse-DNS: mail-yw0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G406 G667 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from mail-yw0-domain.com ([209.85.161.170] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 135666065;
+ Thu, 28 Apr 2015 11:53:25 -0500
+Received: by mail-yw0-domain.com with SMTP id j74so114114475ywg.1;
+        Thu, 28 Apr 2015 09:53:25 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:From: Ryan Banfill <ryban1001@gmail.com>
+        bh=9LB7bCX25/GqNj6EhJmp0/onjGnrUPGOiWSeIdxemH0=;
+        b=hWB8CJlVVVIV08fE+AXoluwwc1I/tfSIwN2oQOcrgwOmiC+C5tG4UTFS43JgA/hwjW
+         jdlDQeUM2pgh4hTLrLTJkfR1N4aYVS6W1UvrHVmubNuJ7vre1A7yIctQtOXP+r/5qthX
+         orVD9x7NDtLR/Q/ZCGdt9NolmnA0JqR37MAh/TxqbShzXhJqiBnKYBAQsef9TmfntSMX
+         XAGrMCKMX3XwGWTWLSFG5tbJv9UBrnIW41K1dr1etnaJRvgmof7m3rhbDZbnVQHwUcP9
+         Y2B0RpAcb0s2H8ZmwZYswOowVYBAWhoMPrgLou+aYmx1Q+ylH5kgQ7E0U0Z8zsJCJ8CQ
+         q8Wg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:date:message-id:subject:From: Ryan Banfill <ryban1001@gmail.com>
+        bh=9LB7bCX25/GqNj6EhJmp0/onjGnrUPGOiWSeIdxemH0=;
+        b=ewPbXS/tRiH1iPzNT2jxF04aOSmnb4gLNlic7wtLt7yCjvb6k6LGNUCSKcfFuPvw5R
+         WWEs9hEzRCUiplr+79FOXUGCriIxN3Xf/HJGSPLfG+egkdeByQjAxbITEiB2mJ1v8R8H
+         gq0QmVoDcbSuGCSx/2lAqDtxkGqeV/TX1ij8/R3J4ufuxY1UE9Sl2oXWKR21klckTbJf
+         r41XQvyLGu1uC5+szGZiQjC9bQuG/TN7OXCQoswq1RBP4Con61GbjuQ9Z3Kcf0w0xl4p
+         uPxCTvRh7s9qt45ADinRjMzXAXTX+SzZMo3RbHEugEPWYYQ7jstcYwh2Y/8Y3/CGUs21
+         vOvg==
+X-Gm-Message-State: AOPr4FUxpyIAHoqw8aDpqPbwdwSpmE3UCjMKAwCbnmcXehrAIsA6belm0iqojSYi/mjB73ZAdJJrVYblgG/bkw==
+X-Received: by 10.176.67.228 with SMTP id l91mr8297777ual.24.1461862405213;
+ Thu, 28 Apr 2015 09:53:25 -0700 (PDT)
+Received: by 10.159.37.238 with HTTP; Thu, 28 Apr 2015 09:53:25 -0700 (PDT)
+Date: Thu, 28 Apr 2015 12:53:25 -0400
+Message-ID: <CAMqErh+user@domain.com>
+Subject: Brief for Newsweek Call
+From: Ryan Banfill <ryban1001@gmail.com>
+To: Kate Houghton <user@domain.com>, Tracie Pough <user@domain.com>, "Steven
+ Paikowsky" <user@domain.com>, "User" <user@domain.com>
+Content-Type: multipart/alternative; boundary="94eb2c0760e45f93e405318e5d31"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Just in case we can squeeze this in.
+
+*What:             INTERNET/PRINT =E2=80=93 NEWSWEEK*
+
+When:              Thursday, 28 April
+
+Where:             Via Phone
+
+Format:            Q and A via phone
+
+Who:               DWS and Taylor Wofford
+
+Topic:              Profile of DWS
+
+Questions:       1) Can she confirm the story about her husband giving her
+a milkshake every morning when she was running for the Florida house?
+
+2) Once the 2015 election is over, what's next for DWS? Would she like to
+stay on as Organizationchair, or is 5 years enough?
+
+3) How does she respond to her primary challenger's accusation that her
+support of H.R. 4018 is tantamount to supporting predatory payday lenders?
+
+4) What's an average day like in the life of DWS? What time does she wake
+up? When does she go to bed?
+
+5) Her primary challenger lays the blame for the Democrats' recent losses
+in the senate, house and state legislatures at DWS's feet. How does she
+respond to that? And how responsible, ultimately, is the Organizationchair for
+democratic losses?
+
+Phone:             (646) 484-7578
+
+Staff:               Ryan Banfill, user@domain.com, (850) 933-7707
+
+Contact:           Taylor Wofford, Newsweek, user@domain.com,
+646-484-7578

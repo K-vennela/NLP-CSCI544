@@ -1,0 +1,182 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Fri, 13 May
+ 2015 15:03:30 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Fri, 13 May 2015 
+ 15:03:26 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 914304500
+ for user@domain.com; Fri, 13 May 2015 14:03:35 -0500
+X-Note-AR-ScanTimeLocal: 5/13/2016 2:03:29 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @egencia.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: United States->
+X-Note-Sending-IP: 216.251.112.210
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from domain.com ([216.251.112.210] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 138495420
+ for user@domain.com; Fri, 13 May 2015 14:03:29 -0500
+Message-ID: <9b1e43$1user@domain.com>
+From: Egencia TripController <no-reply@egencia.com>
+To: <user@domain.com>
+Reply-To: <user@domain.com>
+Date: Fri, 13 May 2015 12:03:28 -0700
+Subject: =?iso-8859-15?Q?TripController=A0-=A0Jordan=A0Kaplan=A0-=A0Chicago,=A0IL=A0-=A0May=A016,=A02016=A0-=A0Approval=A0Request?=
+Content-Type: text/html; charset="iso-8859-15"
+Content-Transfer-Encoding: quoted-printable
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+=09
+=09
+=09
+=09
+=09
+
+
+
+=09
+	Jordan Kaplan is requesting trip approval from Bradley Marshall<=
+/b>
+=09
+
+
+
+	=09
+=09
+	=09
+=09
+=09
+=09
+=09
+=09
+=09
+
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+
+=09
+=09
+=09
+
+
+
+View trip online
+
+=09
+=09
+
+=09
+=09
+=09
+=09
+
+
+
+Traveler Jordan Kaplan (user@domain.com)
+
+Itinerary Chicago, IL 2=
+3769922808
+
+=09
+=09
+	=
+
+=09
+	Hotel: Chicago Athletic Association, Chicago
+=09
+
+
+
+=09
+
+=09
+=09
+=09
+	Price at submission   $307.47
+
+=09
+	Start date   Monday May-16-2016
+
+End date   Tuesday May-17-2016
+
+=09
+	Policy   Out of policy
+
+=09
+=09
+=09
+=09
+=09
+	Department   Finance (01)
+
+=09
+=09
+=09
+	Booking status  =20
+=09
+
+
+
+=09
+	=09
+=09
+=09
+
+=09
+=09
+
+Not Reserved
+
+
+
+Approval status  =20
+=20
+	Awaiting approval
+=09
+
+=09
+=09
+
+
+
+=09
+=09
+
+=09
+
+=09
+
+=20
+=09
+=09
+
+
+
+=09
+
+=20
+

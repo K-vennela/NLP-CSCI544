@@ -1,0 +1,53 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id D2C9023CA7E
+	for <user@domain.com>; Wed, 23 Nov 2015 10:33:37 -0600 (CST)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id mk8M9b-b+2UX for <user@domain.com>;
+	Wed, 23 Nov 2015 10:33:36 -0600 (CST)
+Received: from domain.com (domain.com [129.7.234.210])
+	by domain.com (Postfix) with ESMTP id 2BCBD23CA78
+	for <user@domain.com>; Wed, 23 Nov 2015 10:33:36 -0600 (CST)
+Received: from domain.com (domain.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 0C53655F0270
+	for <user@domain.com>; Wed, 23 Nov 2015 10:33:35 -0600 (CST)
+Received: from mta01.xtra.co.nz (mta01.xtra.co.nz [210.54.141.254])
+	by domain.com (Postfix) with ESMTP id 51F4F55F0366
+	for <user@domain.com>; Wed, 23 Nov 2015 10:33:32 -0600 (CST)
+Received: from PORTABLE ([222.154.239.177]) by mta01.xtra.co.nz with ESMTP
+          id <20111123163331.user@domain.com>
+          for <user@domain.com>; Thu, 24 Nov 2015 05:33:31 +1300
+From: "ATM/Debit Card" <abh14@psu.edu>
+Subject: *** Important Notification from us *** YN327W7070F46M%
+To: "User" <user@domain.com>
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain
+Date: Thu, 24 Nov 2015 05:33:31 +1300
+Message-Id: <20111123163331.user@domain.com>
+X-PMX-Version: 5.5.9.395186, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2011.11.23.162117
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 44
+
+Dear Cardholder,
+
+We have completed our ATM/domain.com Card software upgrade and determined that an error did occur.
+It will only take few minutes to re-activate all your Check Cards accounts.
+Please click the link below to proceed with re-activation process :
+
+<<link>>
+
+If you have further questions, please call us at 1-800-548-9554. Our hours are (in Pacific Time):
+
+    During Daylight Saving Time: Monday - Friday, 5:00 am - 5:00 pm; Saturday, 7:00 am - 4:00 pm.
+    During Standard Time: Monday - Friday, 4:00 am - 4:00 pm; Saturday, 6:00 am - 3:00 pm. 
+
+Thank you for bringing this matter to our attention. We hope we have been able to assist you.
+Sincerely,
+Wells Fargo domain.com Card Operations
+You received this notification because you are a cardholder, account owner, or an authorized representative for this account.

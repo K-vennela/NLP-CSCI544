@@ -1,0 +1,45 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id EFD3946878
+	for <user@domain.com>; Sat,  1 Sep 2015 10:05:40 -0400 (EDT)
+Received: from yoosungtns.co.kr (www.shenc.co.kr [210.107.14.251])
+	by domain.com (Postfix) with ESMTP id 2CD57131F86E
+	for <user@domain.com>; Sat,  1 Sep 2015 10:05:39 -0400 (EDT)
+Received: from User [213.207.194.162] by yoosungtns.co.kr with ESMTP
+  (SMTPD32-7.13) id A49D6430090; Thu, 30 Aug 2015 21:14:21 +0900
+From: "eBay Customer Support"<unpaid@ebaypayment.com>
+Subject: eBay Unpaid item Dispute for Item # 270159933162
+Date: Thu, 31 Aug 2015 05:18:04 +0430
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <200708302114953.user@domain.com>
+To: undisclosed-recipients:;
+Content-Length: 5052
+Lines: 12
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 86
+
+          eBay Unpaid Item Dispute for Item # 270159933162 -- Response Required     
+ cellPadding="0" width="100%" border="0">                        Dear member,        The eBay member, domain.com, has indicated that they already paid for Motorola Canopy 9000APC  (# 270159933162). 
+
+Review payment details.
+
+  Regards, 
+
+Safeharbor Department 
+eBay Inc.   <
+ table cellSpacing="0" cellPadding
+ align="center">Copyright  2015 eBay Inc. All Rights Reserved. 
+Designated trademarks and brands are the property of their respective owners. 
+eBay and the eBay logo are trademarks of eBay Inc.        Safe Trading Tips - Buy with Confidence           Copyright  1999-2007 eBay Inc. All Rights Reserved. 
+Designated trademarks and brands are the property of their respective owners. Use of this Web site constitutes acceptance of the eBay User Agreement and Privacy Policy 

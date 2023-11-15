@@ -1,0 +1,202 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 18 May
+ 2015 19:34:46 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 18 May 2015 
+ 19:34:44 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 923069119
+ for user@domain.com; Wed, 18 May 2015 18:34:53 -0500
+X-Note-AR-ScanTimeLocal: 5/18/2016 6:34:53 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @hillaryclinton.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->->->->United States->
+X-Note-Sending-IP: 209.85.223.198
+X-Note-Reverse-DNS: mail-io0-domain.com
+X-Note-Return-Path: nationalpress2016+user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mail-io0-domain.com ([209.85.223.198] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 141405461
+ for user@domain.com; Wed, 18 May 2015 18:34:53 -0500
+Received: by mail-io0-domain.com with SMTP id 190sf134979604iow.2
+        for <user@domain.com>; Wed, 18 May 2015 16:34:44 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=hillaryclinton.com; s=google;
+        h=mime-version:From: Hillary for America Press <press@hillaryclinton.com>
+         :x-original-authentication-results:precedence:mailing-list:list-id
+         :x-spam-checked-in-group:list-post:list-help:list-archive
+         :list-unsubscribe;
+        bh=+Dc2uUKaoi8KWi99/6REsAeTRfch5ZtH7zYOYgEch98=;
+        b=MACohY9I6ML/RLlk6vC+ugMR0icPUxxkxgTg1bZimMAl5HfQkwgDgcbzCwVNQc6nJi
+         qiYlOrV5LZCaNrKIHy4NJyt8pFfUAEqOVQYruNriET1Ox1zKRxXb0CpDDoh1fyuY3tlC
+         v25YctOJQbFUlP5idPryE1qCmOKZrYMnUuqW4=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:From: Hillary for America Press <press@hillaryclinton.com>
+         :x-original-sender:x-original-authentication-results:precedence
+         :mailing-list:list-id:x-spam-checked-in-group:list-post:list-help
+         :list-archive:list-unsubscribe;
+        bh=+Dc2uUKaoi8KWi99/6REsAeTRfch5ZtH7zYOYgEch98=;
+        b=gX/NNAQJmBfwrUj2R6iUZaUD5QRgmib4QEja8z513S4PHYkmXxLtDaAvKSZV/0/+IW
+         eASIDpbPqX8ztAhEXDRA0ADKaOASp82qUmYs7jCioBpFaxIvnBD0mDxV4TwyDZ1x+4u1
+         PMfrl1nc/7bb8wlZA4FhAcWvuojEH+JJiKSP2dIrsJ83oMRgvH65ZFpSt8nEcCzs4b9L
+         IjudRGZGXnjsncpmjGN4wCLL0LJ/nBfZ0rQnJYVg105BAxoPjB5LYcGSzS4qmrlOjoQQ
+         MQjSy6kz48SocdoSA8GO1y2ci388YhSbJAdHDVS7RcesCDjS9q2XLbkhFxmWipMGzsOl
+         m1Dw==
+X-Gm-Message-State: AOPr4FXsmCXTQz9obolcBrapukdYyrnWIDBE9TPLNoDSjPWDVeUQKHmNWAw2mmImtH5ovuUu
+X-Received: by 10.107.33.74 with SMTP id h71mr31985410ioh.28.1463614484310;
+        Wed, 18 May 2015 16:34:44 -0700 (PDT)
+X-BeenThere: user@domain.com
+Received: by 10.157.15.138 with SMTP id d10ls332672otd.45.gmail; Wed, 18 May
+ 2015 16:34:42 -0700 (PDT)
+X-Received: by 10.202.0.5 with SMTP id 5mr203435oia.1.1463614482352;
+        Wed, 18 May 2015 16:34:42 -0700 (PDT)
+Received: from mail-oi0-domain.com (mail-oi0-domain.com.
+ [2607:f8b0:4003:c06::22b])        by domain.com with ESMTPS id
+ e2si4504900ote.207.2016.05.18.16.34.42        for
+ <user@domain.com>        (version=TLS1_2
+ cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);        Wed, 18 May 2015 
+ 16:34:42 -0700 (PDT)
+Received-SPF: pass (domain.com: domain of user@domain.com designates 2607:f8b0:4003:c06::22b as permitted sender) client-ip=2607:f8b0:4003:c06::22b;
+Received: by mail-oi0-domain.com with SMTP id x19so102552742oix.2
+        for <user@domain.com>; Wed, 18 May 2015 16:34:42
+ -0700 (PDT)
+X-Received: by 10.202.59.68 with SMTP id i65mr6021623oia.185.1463614481828;
+ Wed, 18 May 2015 16:34:41 -0700 (PDT)
+Received: by 10.182.136.41 with HTTP; Wed, 18 May 2015 16:34:02 -0700 (PDT)
+From: Hillary for America Press <press@hillaryclinton.com>
+Date: Wed, 18 May 2015 19:34:02 -0400
+Message-ID: <user@domain.com>
+Subject: Republicans Continue to Reject A Potential Trump Presidency as Risky,
+ Divisive & Unpredictable: Wednesday Edition
+To: Hillary for America Press <user@domain.com>
+Content-Type: multipart/related; boundary="001a113cf36a47566e0533264d51"
+BCC: <user@domain.com>
+X-Original-Sender: user@domain.com
+X-Original-Authentication-Results: domain.com;       dkim=pass
+ user@domain.com;       spf=pass (domain.com: domain of
+ user@domain.com designates 2607:f8b0:4003:c06::22b as permitted
+ sender) user@domain.com;       dmarc=pass
+ (p=QUARANTINE dis=NONE) header.from=hillaryclinton.com
+Precedence: list
+Mailing-list: list user@domain.com; contact nationalpress2016+user@domain.com
+List-ID: <nationalpress2016.hillaryclinton.com>
+X-Spam-Checked-In-Group: user@domain.com
+X-Google-Group-Id: 5632930410
+List-Post: <<<link>>>,
+ <mailto:user@domain.com>
+List-Help: <<<link>>>,
+ <mailto:nationalpress2016+user@domain.com>
+List-Archive: <<<link>>>
+List-Unsubscribe: <mailto:googlegroups-manage+5632930410+user@domain.com>,
+ <<<link>>>
+Return-Path: nationalpress2016+user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+*[image: Inline image 1]*
+
+*Republicans Continue to Reject A Potential Trump Presidency as Risky,
+Divisive & Unpredictable: Wednesday Edition*
+
+Day after day, Republicans are continuing to reject Donald Trump's
+unpredictable, risky and divisive candidacy. Trump has for years proven
+himself to be a loose cannon whose hateful language and dangerous policies
+will do serious harm to working families and put America=E2=80=99s security=
+ at
+risk, and Republicans are continuing to acknowledge that a President Trump
+would be too big a risk.
+
+*Read the growing list
+<<<link>>
+ebuke-trump-as-he-captures-republican-nomination/>
+of Republicans and conservatives unwilling to support a President Donald
+Trump and fresh condemnations of Trump:*
+
+*Eliot Cohen, Counselor to U.S. Department of State under President George
+W. Bush
+<<<link>>
+ml>:*
+"Mr. Trump=E2=80=99s temperament, his proclivity for insult and domain.com and =
+his
+advocacy of unpredictability would make him a presidential disaster =E2=80=
+=94
+especially in the conduct of foreign policy, where clarity and consistency
+matter."
+
+*Jeb Bush:
+<<<link>>>=E2=80=
+=8B =E2=80=8B*=E2=80=9CFirst,
+not all Hispanics are Mexican=E2=80=A6 Secondly, not all Hispanics eat taco=
+s.
+Thirdly, showing your sensitivity by eating an American dish is the most
+insensitive thing you can do. Fourthly, to say this, next to all things he
+already said, is a further insult. It=E2=80=99s like eating a watermelon an=
+d saying
+=E2=80=98I love African-Americans.=E2=80=99=E2=80=A6 If we lose in November=
+, we Republicans have
+ourselves to blame.=E2=80=9D
+
+*Rep. Ileana Ros-Lehtinen [R-FL]:
+<<<link>>>* On
+supporting Donald Trump: "No, I'm not. And who would have ever thought when
+I did that interview that talking about having a transgender son would be
+more comfortable than saying I'm not going to support my Republican party
+nominee?"
+
+*Rep. Reid Ribble [R-WI]:
+<<<link>>>* "Ribble...remains
+deeply opposed to Donald Trump while his party begins to rally around him.
+=E2=80=9CIt=E2=80=99s an unrecoverable relationship, let me put it that way=
+,=E2=80=9D Ribble says
+of his attitude toward the New York developer, a candidate he says lacks
+the temperament to be president."
+
+*Ken Cobb, Chair Beltrami County, Minnesota Republicans:
+<<<link>>
+rump-some-state-republicans-want-party-emphasize-local>
+*"Speaking on my behalf ... I am concerned about our presumptive nominee,
+that he is at odds with the principles that make our party what it is,"
+Cobb said. "I'm concerned that he will do considerable damage just by
+association to our candidates who are conservatives."
+
+*John Weaver, former Chief Strategist for John Kasich:*
+<<<link>>
+chigan-end-democratic-dominance/84520892/>
+=E2=80=9CI think a combination of his rhetoric, his inability to bring peop=
+le
+together, which is what you have to do in swing stages like Michigan, ...
+are going to put Michigan out of reach for him."
+
+*Minnesota State GOP Convention Delegate Walter Hudson:
+<<<link>>
+rump-some-state-republicans-want-party-emphasize-local>*
+=E2=80=9CWe want to send a clear message that Republicans in Minnesota
+categorically reject the divisive candidacy of Donald Trump.=E2=80=9D
+
+###
+
+For Immediate Release, May 18, 2015 
+Contact: user@domain.com
+
+PAID FOR BY HILLARY FOR AMERICA
+Contributions or gifts to Hillary for America are not tax deductible.
+Hillary for America, PO Box 5256, New York
+
+--=20
+You received this message because you are subscribed to the Google Groups "=
+NationalPress2016" group.
+To unsubscribe from this group and stop receiving emails from it, send an e=
+mail to nationalpress2016+user@domain.com

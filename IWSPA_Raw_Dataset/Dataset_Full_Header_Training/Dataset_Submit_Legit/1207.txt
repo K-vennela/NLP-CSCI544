@@ -1,0 +1,107 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 18 May
+ 2015 14:19:36 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 18 May 2015 
+ 14:19:33 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 922369660
+ for user@domain.com; Wed, 18 May 2015 13:19:34 -0500
+X-Note-AR-ScanTimeLocal: 5/18/2016 1:19:25 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @washpost.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->->United States->LOCAL->United States->
+X-Note-Sending-IP: 67.231.148.195
+X-Note-Reverse-DNS: mx0a-001domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from [67.231.148.195] (HELO mx0b-001domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 139135147
+ for user@domain.com; Wed, 18 May 2015 13:19:25 -0500
+Received: from pps.filterd (domain.com [127.0.0.1])	by
+ mx0a-001domain.com (8.16.0.17/8.16.0.17) with SMTP id u4IIImEw032267
+	for <user@domain.com>; Wed, 18 May 2015 14:19:24 -0400
+Received: from na01-bn1-domain.com
+ (mail-domain.com [207.46.163.189])	by
+ mx0a-001domain.com with ESMTP id 22wxbnawn8-1	(version=TLSv1.2
+ cipher=ECDHE-RSA-AES256-SHA384 bits=256 verify=NOT)	for <user@domain.com>;
+ Wed, 18 May 2015 14:19:24 -0400
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=domain.com; s=selector1-washpost-com;
+ h=From: "Sargent, Greg" <Greg.Sargent@washpost.com>
+ bh=/Pqd5aRfKM1qlQ0Jgcobgsin9EMyJwVBKakiKEfKmlI=;
+ b=M6nB3+0WIeGAyKojKQMlM5Opln50xEnhu5oF8Z/Bsksz+OeWX39NQuK/05YV1j0TbYoNwP4YvBXqE2AK9fvDjgBGyYqts5McjHbRS5niAmIJ4Xy+djYEA0eSpW0EYa7Cg32/923KioQ5cqNruf2mGdBYHlKowfqf69nr1WzDWfI=
+Received: from domain.com (10.161.208.22) by
+ domain.com (10.161.208.24) with Microsoft SMTP
+ Server (TLS) id 15.1.492.11; Wed, 18 May 2015 18:19:18 +0000
+Received: from domain.com ([10.161.208.22]) by
+ domain.com ([10.161.208.22]) with mapi id
+ 15.01.0492.020; Wed, 18 May 2015 18:19:18 +0000
+From: "Sargent, Greg" <Greg.Sargent@washpost.com>
+To: "User" <user@domain.com>
+Subject: here are the Devine quotes
+Thread-Topic: here are the Devine quotes
+Thread-Index: AQHRsTHKQ+RfXxfGn0+wQbmIueaEgg==
+Date: Wed, 18 May 2015 18:19:18 +0000
+Message-ID: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+authentication-results: domain.com; dkim=none (message not signed)
+ header.d=none;domain.com; dmarc=none action=none header.from=washpost.com;
+x-originating-ip: [132.245.23.149]
+x-ms-office365-filtering-correlation-id: c5d1f600-fcd0-4865-a33d-08d37f48ed21
+x-microsoft-exchange-diagnostics: 1;BN3PR0601MB1236;5:BbQ7zRgOsoh4MbKR1cG2qP9zei/v2aHwPoRodnTBnT5xLr0ZB39Shl6pT3s6PRZ7yo4LkbiYcZIFjPr6cfkOgYvdz4o52tcIs1TZ68eDO90RutJL+z/RCD1ezA5qxCenwXR88SJnLDleiJO9nHbhhA==;24:uhZQoecau5sKhiNVHZR5j5QinlGTkd6b2ufuGuWOGGuH/hR89TOfz/kfqjIvRZXZouvttYNGtimr+RPqt621tig5FJRB4ynxZUlwOZartIY=;7:GvjnzFOPo4Eh9MVGtpDM9EYWkeb88EivtU+L3me/YjbIcD6clKDrse5bGRq0zpXHXzk+LhvwFen1TuF5P2hXlNy9XBeODnHhYKEnc1Pl0UNjjCtmhHtWRGvNytPMhWYr3DZIx3QWrGN92I6ypRAV7DLcHoLjDCU76QSTJUyg+KW4FUQT6/8Gl2tC2Y6QLwA4
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:;SRVR:BN3PR0601MB1236;
+x-microsoft-antispam-prvs: <user@domain.com>
+x-exchange-antispam-report-test: UriScan:;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(601004)(2401047)(8121501046)(5005006)(3002001)(10201501046);SRVR:BN3PR0601MB1236;BCL:0;PCL:0;RULEID:;SRVR:BN3PR0601MB1236;
+x-forefront-prvs: 0946DC87A1
+x-forefront-antispam-report: SFV:NSPM;SFS:(10019020)(2906002)(8936002)(5002640100001)(9686002)(76576001)(92566002)(6116002)(11100500001)(19617315012)(18206015028)(110136002)(8676002)(66066001)(107886002)(19627405001)(586003)(5008740100001)(99286002)(15975445007)(16236675004)(33656002)(10400500002)(19580395003)(3660700001)(558084003)(1220700001)(87936001)(81166006)(5004730100002)(86362001)(3280700002)(189998001)(122556002)(450100001)(229853001)(2900100001)(54356999)(50986999)(5003600100002)(106116001)(74316001)(77096005)(102836003)(19625215002)(7099028);DIR:OUT;SFP:1102;SCL:1;SRVR:BN3PR0601MB1236;H:domain.com;FPR:;SPF:None;MLV:sfv;LANG:en;
+spamdiagnosticoutput: 1:23
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_BN3PR0601MB1234CA947396E25E86BEBF11E1490BN3PR0601MB1234_"
+X-MS-Exchange-CrossTenant-originalarrivaltime: 18 May 2015 18:19:18.0638
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 37bb694a-a00d-4f6a-a9ab-466be04b1db4
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BN3PR0601MB1236
+X-Proofpoint-Virus-Version: vendor=fsecure engine=2.50.10432:,, definitions=2016-05-18_09:,,
+ signatures=0
+X-Proofpoint-Spam-Details: rule=outbound_notspam policy=outbound score=0 spamscore=0 suspectscore=0
+ malwarescore=0 phishscore=0 adultscore=0 bulkscore=0 classifier=spam
+ adjust=0 reason=mlx scancount=1 engine=8.0.1-1604210000
+ definitions=main-1605180235
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+and check out what Merkley said:
+
+<<link>>
+nders-burn-it-all-down/
+[<<link>>
+6/05/17/National-Politics/Images/Election_Oregon_News_Guide-fc91a.jpg]<http=
+s://domain.com/blogs/plum-line/wp/2016/05/18/will-bernie-sander=
+s-burn-it-all-down/>
+
+Will Bernie Sanders burn it all down?<<<link>>
+plum-line/wp/2016/05/18/will-bernie-sanders-burn-it-all-down/>
+domain.com
+Top Sanders adviser Tad Devine offers some cryptic comments about what's ne=
+xt.
+

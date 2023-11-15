@@ -1,0 +1,7 @@
+td img {display: block;}
+body {
+font-family:Tahoma, Geneva, sans-serif;
+font-size:16px;
+color:#333;
+}
+.

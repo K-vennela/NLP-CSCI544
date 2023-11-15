@@ -1,0 +1,62 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id 3024746895
+	for <user@domain.com>; Fri,  1 May 2015 09:37:51 -0400 (EDT)
+X-Greylist: delayed 3302 seconds by postgrey-1.27 at domain.com; Fri, 01 May 2015 09:37:50 EDT
+Received: from spiseforstyrrelser.dk (mail.spiseforstyrrelser.dk [83.89.199.122])
+	by domain.com (Postfix) with ESMTP id D4431131F749
+	for <user@domain.com>; Fri,  1 May 2015 09:37:50 -0400 (EDT)
+Received: from User ([71.43.144.138]) by spiseforstyrrelser.dk with Microsoft SMTPSVC(6.0.3790.3959);
+	 Fri, 1 May 2015 11:38:12 +0200
+Reply-To: <user@domain.com>
+From: "Wal*Mart Payments dept."<walmartsurvey@walmartstores.com>
+Subject: Congratulations.You have been selected
+Date: Fri, 1 May 2015 05:44:58 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <user@domain.com>
+X-OriginalArrivalTime: 01 May 2015 09:38:12.0362 (UTC) FILETIME=[8B7B96A0:01C9CA40]
+To: undisclosed-recipients:;
+Content-Length: 1950
+Lines: 23
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1047
+
+Congratulations!
+You 
+  have been selected by Wal-Mart 
+  Stores, Inc. 
+  Online Department to take part in our quick and easy reward survey.
+
+In 
+  return we will domain.com $150 to your account - Just for your time!
+Helping 
+  us better understand how our customers feel, benefits everyone. 
+
+  With the information collected we can decide to direct a number of changes to 
+  improve and expand our services.
+
+  The information you provide us is all non-sensitive and anonymous. No part of 
+  it is handed down to any third party groups. 
+
+  It will be stored in our secure database for maximum of 3 days while we process 
+  the results of this nationwide survey.
+To 
+  access the form, please click on the link below 
+  :
+<<link>>
+Lee Scott
+
+  President and Chief Executive Officer
+
+  Wal-Mart Stores, Inc.

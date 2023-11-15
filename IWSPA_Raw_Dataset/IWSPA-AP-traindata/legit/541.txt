@@ -1,0 +1,17 @@
+Hi Grant,
+I have been tied up with other things.  In looking at the paper some questions.
+1) In Fig 1, why is the scale zero to 2?  Normally a filter would be scaled to have a
+response function zero to 1.
+2) In Fig 2 and 3 what are the units of "power"? It is not in the caption.  Are these
+normalized spectra so that the area under the curve is unity?  My guess is that this is the
+case and hence the amplification at ENSO bands.  But it is important to say this and
+perhaps point out.  Maybe the captions are sufficient?   Add something like:  The spectra
+have been normalized to have unit variance, which relatively inflates the values in the 0.2
+to 0.5 frequency band.   In a couple of places in text add "normalized" before "power
+spectrum" such as 2 lines above Fig 3 in the JGR set version.
+3) A minor point: in the  x= sin(2*pi*vt) I would be inclined to add an amplitude which
+would then be included also in eq (1) on RHS emphasizing how the amplitude is changed.
+[My own preference would be to call the amplitude A and the A you have R (for response
+function)].  However it is fine as is.
+Thanks
+Kevin

@@ -1,0 +1,94 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Mon, 9 May
+ 2015 13:34:28 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Mon, 9 May 2015 
+ 13:34:26 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 904708526
+ for user@domain.com; Mon, 09 May 2015 12:34:32 -0500
+X-Note-AR-ScanTimeLocal: 5/9/2016 12:34:27 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:209.134.151.56 DOM:domain.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 100
+X-GBUdb-Analysis: 0, 209.134.151.56, Ugly c=0.482495 p=-0.796296 Source Normal
+X-Signature-Violations: 100-5941377-4758-5253-m
+	100-5952969-5240-5256-m
+	100-5941377-0-9825-f
+X-Note-419: 15.6256 ms. Fail:1 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:1-1324/SG:1 5/9/2016 12:34:27 PM
+X-Warn: OPTOUT
+X-Warn: BULKMAILER
+X-Note: Spam Tests Failed: OPTOUT, BULKMAILER
+X-Country-Path: United States->
+X-Note-Sending-IP: 209.134.151.56
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G281 G286 G374 G376 G580 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from domain.com ([209.134.151.56]
+ verified)  by domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP
+ id 137381769 for user@domain.com; Mon, 09 May 2015 12:34:27 -0500
+X-VirtualServer: VSG003, domain.com, 172.24.0.184
+X-VirtualServerGroup: VSG003
+X-MailingID: 17302766::20160509.58773611::1001::MDB-PRD-BUL-20160509.58773611::user@domain.com::4587_0
+X-SMHeaderMap: mid="X-MailingID"
+X-Destination-ID: user@domain.com
+X-SMFBL: bWlyYW5kYWxAZG5jLm9yZw==
+Content-Transfer-Encoding: 7bit
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_AA6_5BA4_7FA13B17.0E5BE9D5"
+x-subscriber: 3.M4zeXK2E/rBfwXew6RoZM2vPfMJ7yOUjgNf/RGb9taPJml0RUbfxQyXjVszxeyEFsrDvt4Vsjh5n+IXw1mvlm7XOKluSFu7/5gpUhwhecSHjXEVs5UdhYKgYhHhvy8lzrXXhj2XgeO8Cr2D6/5hq5w==
+X-Accountcode: WALEGHDCSTANFORD
+Errors-To: user@domain.com
+Reply-To: <user@domain.com>
+Message-ID: <17302766.4587@updates.leg.wa.gov>
+X-ReportingKey: LJJJ2EWJK40BFTJJCDRJJ::user@domain.com::user@domain.com
+Subject: =?US-ASCII?Q?2016_Legislative_Report?=
+Date: Mon, 9 May 2015 12:34:26 -0500
+To: <user@domain.com>
+From: =?US-ASCII?Q?Rep._Derek_Stanford?= <RepDerekStanford@updates.leg.wa.gov>
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+2016 newsletter front
+
+stanford middle 1
+
+stanford middle 2
+
+stanford middle 3
+
+stanford back
+
+________________________________________________________________________
+
+Unsubscribe [ <<link>>
+bscriber/one_click_unsubscribe?verification=3D5.0b8ff9f91adcba6f88dca2ffa=
+e018aa7&user@domain.com ]
+
+Update your subscriptions, modify your password or email address, or stop=
+ subscriptions at any time on your Subscriber Preferences Page [ <<link>>
+domain.com/accounts/WALEGHDCSTANFORD/subscriber/new?preferenc=
+es=3Dtrue ]. You will need to use your email address to log in. If you ha=
+ve questions or problems with the subscription service, please contact su=
+domain.com [ <<link>> ].=
+
+________________________________________________________________________
+
+This email was sent to user@domain.com using GovDelivery, on behalf of: =
+Rep. Derek Stanford 2015 Chandler Court SW, Olympia, WA 98502-6052 1-360-=
+786-7000 Powered by GovDelivery [ <<link>>
+red-by ]
+=0A

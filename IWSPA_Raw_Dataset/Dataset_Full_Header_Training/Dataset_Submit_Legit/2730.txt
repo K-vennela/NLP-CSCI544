@@ -1,0 +1,414 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Mon, 25 Apr
+ 2015 14:21:52 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Mon, 25 Apr 2015 
+ 14:21:49 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 878711884
+ for user@domain.com; Mon, 25 Apr 2015 13:21:43 -0500
+X-Note-AR-ScanTimeLocal: 4/25/2016 1:21:41 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:08:57 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:209.18.93.114 DOM:send.meetingstoday.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 100
+X-GBUdb-Analysis: 0, 209.18.93.114, Ugly c=0.662584 p=-0.76129 Source Normal
+X-Signature-Violations: 100-7297394-1111-1186-m
+	100-7297394-0-6559-f
+X-Note-419: 31.2532 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 4/25/2016 1:21:23 PM
+X-Warn: SHORTURL Failed URIBINARY Code: bnl0aS5tcw==
+X-Warn: BULKMAILER
+X-Note: Spam Tests Failed: SHORTURL, BULKMAILER
+X-Country-Path: ->United States->
+X-Note-Sending-IP: 209.18.93.114
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G280 G285 G373 G386 G572 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from domain.com ([209.18.93.114] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 137012418
+ for user@domain.com; Mon, 25 Apr 2015 13:21:40 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=domain.com; d=meetingstoday.com;
+ h=Date:From: Meetings Today <enewsletters@meetingstoday.com>
+ bh=bjXqPTW83USEuYuiMgaUGbXPs4Y=;
+ b=rwjLooMXkdHYLEf0bNpcqkr1HhVyd4cIBiGeTORP41l6+gJAg8g/EpwBuZnNbMebDrHaciTJ93Wg
+   yVXgFlyiY3jXfORRsSNTYiIwFBTAyldo4PCielFpI/m/Xumx7qEDBH7OctqsGvJcVjju7fReERmr
+   DxcYCPwsTXhsGcBkfio=
+Received: from RMPMTA03 (172.17.114.3) by domain.com id h3pg3a259tst
+ for <user@domain.com>; Mon, 25 Apr 2015 14:11:43 -0400 (envelope-from
+ <user@domain.com>)
+Date: Mon, 25 Apr 2015 14:11:42 -0400
+From: Meetings Today <enewsletters@meetingstoday.com>
+To: <user@domain.com>
+Subject: MPI Stands up to Planner Criticism
+X-TokenInfo-NoToken: 
+Feedback-ID: 4923:4923_2336903:4923_33424312:domain.com
+x-jobid: 33424312
+List-Unsubscribe: <<<link>>>
+X-Bps1: 30297878780
+Content-Type: multipart/alternative;
+	boundary="_NextPart_000_12730894_2016425_141142307"
+Message-ID: <0.0.0.21user@domain.com>
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Add @domain.com to your address book or safe senders
+list. Learn how ( <<link>> )
+
+Trouble viewing this email? View in browser ( <<link>>
+tions/email_web_version.cfm?recipient_id=3D2118746705&message_id=
+=3D12730894&user_id=3DStamats2&group_id=3D2336903&jobid=3D33424312 )
+
+( <<link>>
+ner_728x90&utm_campaign=3Dsummer_16_meetings )
+
+( <<link>> )
+
+April 25, 2015 
+
+Video ( <<link>> ) | Webina=
+rs ( <<link>> ) |
+Editions ( <<link>>
+0A ) | Blog ( <<link>> ) |
+Live Events ( <<link>>
+view/tabid/278/Default.aspx ) | Subscribe ( <<link>>
+com/ )
+
+( <<link>> )
+( <<link>> )
+( <<link>> )
+
+NEWS OF THE DAY
+
+MPI Stands up to Planner Criticism ( <<link>>
+s/IndustryNews/IndustryNewsDetails/tabid/138/RegionID/0/ArticleID/28272/Def=
+ault.aspx?topic=3D649,644 )
+
+Meeting Professionals International (MPI) recently
+received criticism from meeting and event planners after
+announcing a new Meeting Fundamentals certificate program...
+
+READ MORE ( <<link>>
+wsDetails/tabid/138/RegionID/0/ArticleID/28272/Default.aspx?topic=3D649,644=
+ )
+( <<link>>
+.com/NewsEvents/IndustryNews/IndustryNewsDetails/tabid/138/RegionID/0/Artic=
+leID/28272/Default.aspx?topic=3D649,644 )
+( <<link>>
+ts/IndustryNews/IndustryNewsDetails/tabid/138/RegionID/0/ArticleID/28272/De=
+fault.aspx?topic=3D649,644 )
+( <<link>>
+domain.com/NewsEvents/IndustryNews/IndustryNewsDetails/tabid/138/RegionI=
+D/0/ArticleID/28272/Default.aspx?topic=3D649,644 )
+
+( <<link>>
+8/Default.aspx )
+
+Site Selection: Finding the Right Fit ( <<link>>
+ents/EventDetails/tabid/104/ItemID/4038/Default.aspx )
+
+Wednesday, April 27, | 1 pm EST
+
+Join Joan Eisenstodt for this one-hour webinar
+that will help ensure you think of all contingencies on your site
+inspection, before signing the contract. Attendees are also asked
+that if they have any site selection questions, or any others,
+before the webinar, feel free to email Joan at
+user@domain.com ( mailto:user@domain.com )
+
+Click here for more information. ( <<link>>
+EventDetails/tabid/104/ItemID/4038/Default.aspx )
+
+EAST NEWS
+
+Toronto Sheraton Finishes $120M Revamp ( <<link>>
+vents/IndustryNews/IndustryNewsDetails/tabid/138/RegionID/12002/ArticleID/2=
+8270/Default.aspx?topic=3D12002,644,617 )
+
+Sheraton Hotels & Resorts announced the completion
+of an extensive $120 million renovation of a flagship property,
+Sheraton Centre Toronto Hotel...
+
+READ MORE ( <<link>>
+wsDetails/tabid/138/RegionID/12002/ArticleID/28270/Default.aspx?topic=3D120=
+02,644,617 )
+( <<link>>
+.com/NewsEvents/IndustryNews/IndustryNewsDetails/tabid/138/RegionID/12002/A=
+rticleID/28270/Default.aspx?topic=3D12002,644,617 )
+( <<link>>
+ts/IndustryNews/IndustryNewsDetails/tabid/138/RegionID/12002/ArticleID/2827=
+0/Default.aspx?topic=3D12002,644,617 )
+( <<link>>
+domain.com/NewsEvents/IndustryNews/IndustryNewsDetails/tabid/138/RegionI=
+D/12002/ArticleID/28270/Default.aspx?topic=3D12002,644,617 )
+
+New Jersey Boutique Breaks Ground ( <<link>>
+/IndustryNews/IndustryNewsDetails/tabid/138/RegionID/233/ArticleID/28268/De=
+fault.aspx?topic=3D233,644,617 )
+
+The Pinnacle Companies, in a joint venture with The
+Hampshire Companies and investment partner Circle Squared
+Alternative Investments, announced the groundbreaking of "The MC"
+hotel...
+
+READ MORE ( <<link>>
+wsDetails/tabid/138/RegionID/233/ArticleID/28268/Default.aspx?topic=3D233,6=
+44,617 )
+( <<link>>
+.com/NewsEvents/IndustryNews/IndustryNewsDetails/tabid/138/RegionID/233/Art=
+icleID/28268/Default.aspx?topic=3D233,644,617 )
+( <<link>>
+ts/IndustryNews/IndustryNewsDetails/tabid/138/RegionID/233/ArticleID/28268/=
+Default.aspx?topic=3D233,644,617 )
+( <<link>>
+domain.com/NewsEvents/IndustryNews/IndustryNewsDetails/tabid/138/RegionI=
+D/233/ArticleID/28268/Default.aspx?topic=3D233,644,617 )
+
+( <<link>> )
+
+INCENTIVIZE! ( <<link>>
+spx )
+
+Enter for a chance to win one of the incentive gifts
+featured in the April 2015 issue of Meetings Today. One entry per
+person, per month.
+
+Sponsored by BizFitters ( <<link>> )
+
+Click here for more information. ( <<link>>
+/tabid/521/Default.aspx )
+
+INDUSTRY NEWS
+
+domain.com Baltimore CEO Resigns, Heads to Austin ( <<link>>
+/NewsEvents/IndustryNews/IndustryNewsDetails/tabid/138/RegionID/223/Article=
+ID/28271/Default.aspx?topic=3D223,644 )
+
+domain.com Baltimore President and CEO Tom Noonan revealed
+he is resigning from the CVB to accept the same title with the
+Austin Convention and Visitors Bureau...
+
+READ MORE ( <<link>>
+wsDetails/tabid/138/RegionID/223/ArticleID/28271/Default.aspx?topic=3D223,6=
+44 )
+( <<link>>
+.com/NewsEvents/IndustryNews/IndustryNewsDetails/tabid/138/RegionID/223/Art=
+icleID/28271/Default.aspx?topic=3D223,644 )
+( <<link>>://www.meetingstoday.com/N=
+ewsEvents/IndustryNews/IndustryNewsDetails/tabid/138/RegionID/223/ArticleID=
+/28271/Default.aspx?topic=3D223,644 )
+( <<link>>
+domain.com/NewsEvents/IndustryNews/IndustryNewsDetails/tabid/138/RegionI=
+D/223/ArticleID/28271/Default.aspx?topic=3D223,644 )
+
+Cuba Eases Restriction on Sea Travel (via N.Y. Times) ( <<link>>
+a9p )
+
+Cuba reversed a decades-old policy on Friday, lifting
+a restriction that prevented Cubans from entering or leaving the
+country by cruise ship or commercial vessel...
+
+READ MORE ( <<link>> )
+( <<link>> )
+( <<link>> )
+( <<link>>
+1Sz7a9p )
+
+The Reason Why It's Hard to Sleep in Hotels (via CNBC) ( <<link>>
+m/2016/04/21/an-evolutionary-reason-for-why-its-hard-to-sleep-in-hotels.htm=
+l )
+
+Ever wake up groggy after your first night in a hotel? Your brain
+may be keeping watch for danger.
+New research suggests that the parts of the brain do not go into
+"sleep mode"...
+
+READ MORE ( <<link>>
+ts-hard-to-sleep-in-hotels.html )
+( <<link>>
+/04/21/an-evolutionary-reason-for-why-its-hard-to-sleep-in-hotels.html?smid=
+=3Dtw-share )
+( <<link>>
+-evolutionary-reason-for-why-its-hard-to-sleep-in-hotels.html )
+( <<link>>
+.com/2016/04/21/an-evolutionary-reason-for-why-its-hard-to-sleep-in-hotels.=
+html )
+
+( <<link>> )Vote Now for Best of
+Meetings Today 2016! ( <<link>> )
+
+Each year Meetings Today polls its users--made up of
+planners who hold events around the world--to determine the best
+hotels and resorts for meetings and events in North America. Vote
+now for your favorite properties!
+
+Click here for more information. ( <<link>> )
+
+FROM THE ISSUE
+
+East Upgrades & Openings ( <<link>>
+d/136/RegionID/0/ArticleID/28035/Default.aspx?topic=3D644 )
+
+Tropicana Entertainment and Trump Taj Mahal Associates announced
+they entered into a management agreement in which a wholly-owned
+subsidiary of Tropicana...
+
+READ MORE ( <<link>>
+0/ArticleID/28035/Default.aspx?topic=3D644 )
+( <<link>>
+.com/ArticleDetails/tabid/136/RegionID/0/ArticleID/28035/Default.aspx?topic=
+=3D644 )
+( <<link>>
+etails/tabid/136/RegionID/0/ArticleID/28035/Default.aspx?topic=3D644 )
+( <<link>>
+domain.com/ArticleDetails/tabid/136/RegionID/0/ArticleID/28035/Default.a=
+spx?topic=3D644 )
+
+Pennsylvania Offers Varied Group Escapes ( <<link>>
+azines/ArticleDetails/tabid/136/RegionID/241/ArticleID/28033/Default.aspx?t=
+opic=3D241 )
+
+In the February 2015 edition of Philadelphia
+magazine, Senior Writer Liz Spikol, who grew up in Center City,
+addresses the historical divide between Philadelphia and the rest
+of Pennsylvania.
+
+READ MORE ( <<link>>
+/RegionID/241/ArticleID/28033/Default.aspx?topic=3D241 )
+( <<link>>
+.com/Magazines/ArticleDetails/tabid/136/RegionID/241/ArticleID/28033/Defaul=
+t.aspx?topic=3D241 )
+( <<link>>
+s/ArticleDetails/tabid/136/RegionID/241/ArticleID/28033/Default.aspx?topic=
+=3D241 )
+( <<link>>
+domain.com/Magazines/ArticleDetails/tabid/136/RegionID/241/ArticleID/280=
+33/Default.aspx?topic=3D241 )
+
+( <<link>> )
+
+Meetings Today Expanded Digital Edition ( <<link>>
+d/67/iss/844/Default.aspx )
+
+The April 2015 digital edition is now live
+(hyperlink the is now live part). We've got a lot of great
+content for you this month including luxury hotels, top chefs,
+the transformation of convention centers and so much more. With
+destinations highlighted such as Pennsylvania, Tennessee &
+Denmark. Also take a look at our Meetings Today Florida
+supplement ( <<link>>
+nts/florida_2016 ) for anything, and everything, you want to know about this
+specific destination.
+
+Sponsored by The Roosevelt ( <<link>> )
+
+Click here for more information. ( <<link>>
+s/844/Default.aspx )
+
+IN THE SPOTLIGHT
+
+Convention Centers Transform to Meet Attendee Needs ( <<link>>
+domain.com/ArticleDetails/tabid/136/RegionID/0/ArticleID/28009/Default.aspx?to=
+pic=3D10 )
+
+As you may have noticed, generic big-box convention
+centers seem to be going the way of the buggy whip and
+typewriter.
+
+READ MORE ( <<link>>
+0/ArticleID/28009/Default.aspx?topic=3D10 )
+( <<link>>
+.com/ArticleDetails/tabid/136/RegionID/0/ArticleID/28009/Default.aspx?topic=
+=3D10 )
+( <<link>>
+etails/tabid/136/RegionID/0/ArticleID/28009/Default.aspx?topic=3D10 )
+( <<link>>
+domain.com/ArticleDetails/tabid/136/RegionID/0/ArticleID/28009/Default.a=
+spx?topic=3D10 )
+
+IACC Embraces the Acronym in Rebrand ( <<link>>
+nts/IndustryNews/IndustryNewsDetails/tabid/138/RegionID/0/ArticleID/28198/D=
+efault.aspx?topic=3D644 )
+
+IACC announced the rebranding of the association from
+the International Association of Conference Centres (IACC) to the
+abbreviated IACC in all marketing instances.
+
+READ MORE ( <<link>>
+wsDetails/tabid/138/RegionID/0/ArticleID/28198/Default.aspx?topic=3D644%0D%=
+0A )
+( <<link>>
+.com/NewsEvents/IndustryNews/IndustryNewsDetails/tabid/138/RegionID/0/Artic=
+leID/28198/Default.aspx?topic=3D644 )
+( <<link>>
+ts/IndustryNews/IndustryNewsDetails/tabid/138/RegionID/0/ArticleID/28198/De=
+fault.aspx?topic=3D644 )
+( <<link>>
+domain.com/NewsEvents/IndustryNews/IndustryNewsDetails/tabid/138/RegionI=
+D/0/ArticleID/28198/Default.aspx?topic=3D644 )
+
+( <<link>> )Meetings T=
+oday Spotlight ( <<link>>
+spx )
+
+Check out these properties and destinations
+featured in the Spotlight section of our April 2015 issue. Each
+month a new selection of venues are highlighted on the website as
+well as in the print and digital edition of the magazine.
+
+Click here for more information. ( <<link>>
+abid/515/Default.aspx )
+
+FEATURED VIDEO
+
+Make Your Marketing Outrageous ( <<link>>
+tail2013/tabid/408/RegionID/0/ArticleID/27924/Default.aspx?topic=3D954 )
+
+Don't be afraid to push the envelope with your
+marketing materials.
+
+READ MORE ( <<link>>
+gionID/0/ArticleID/27924/Default.aspx?topic=3D954 )
+( <<link>>
+.com/Video/VideoDetail2013/tabid/408/RegionID/0/ArticleID/27924/Default.asp=
+x?topic=3D954 )
+( <<link>>
+deoDetail2013/tabid/408/RegionID/0/ArticleID/27924/Default.aspx?topic=3D954=
+ )
+( <<link>>
+domain.com/Video/VideoDetail2013/tabid/408/RegionID/0/ArticleID/27924/De=
+fault.aspx?topic=3D954 )
+
+Copyright =A9 2015 Stamats Meetings Media, Inc. All rights
+reserved.
+
+Never miss an update. Subscribe ( <<link>>
+px ) to Meetings Today
+
+Stamats Meetings Media
+
+Meetings Today
+
+615 Fifth Street SE
+
+Cedar Rapids, IA 52401
+
+(319) 364-6167
+
+To unsubscribe from this newsletter, please
+click here ( <<link>>
+=3D12730894&user_id=3DStamats2&recipient_id=3D2118746705&email=3D=
+user@domain.com&group_id=3D2336903 ).
+
+Leaderboard1 ( <<link>> )-->

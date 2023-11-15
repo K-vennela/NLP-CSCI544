@@ -1,0 +1,24 @@
+From: "Ricardo Villalba" <user@domain.com.ar>
+To: "Jonathan Overpeck" <user@domain.com>,
+"Edward R. Cook" <user@domain.com>
+Cc: "Keith R. Briffa" <k.briffa@uea.ac.uk>,
+<eystein.jansen@geo.uib.no>
+Subject: Re: the regional section and MWP Figure
+Date: Tue, 19 Jul 2005 15:35:39 -0300
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+Dear Keith and Ed,
+Please, find attached the new version of the SH figure for the IPCC.  I have
+now included the New Zealand record. All the records have been scaled to 4
+C amplitude. Variability in the Tas record is reduced compared to New
+Zealand and Patagonian records. The reference lines is the mean used for the
+calibration period in each record, 15 C for New Zealand, 14.95 C for
+Tasmania and 0 C for the Patagonian records (they show departures). Please,
+let me know if you want to introduce some changes in the figure. The
+opposite phase in the Patagonia-New Zealand records is so clear before 1850,
+which is consistent with our previous TPI. For instance, in the instrumental
+record the 1971 and 1976 are the coolest summer in northern Patagonian
+during the past 70 years, but the warmest in New Zealand reconstruction!!
+This out of phase relationship between regions in the Southern Hemisphere
+points out to the difficulty of using few records to get a hemispheric
+average. Cheers,
+Ricardo

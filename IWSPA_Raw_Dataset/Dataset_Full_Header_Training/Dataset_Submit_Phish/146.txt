@@ -1,0 +1,65 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id A5C8546981
+	for <user@domain.com>; Thu, 23 Aug 2015 11:00:54 -0400 (EDT)
+Received: from domain.com (domain.com [204.181.64.8])
+	by domain.com (Postfix) with ESMTP id A0F23131FF48
+	for <user@domain.com>; Thu, 23 Aug 2015 11:00:54 -0400 (EDT)
+Received: from OP4 (cpe-72-183-252-77.domain.com [72.183.252.77])
+	by domain.com (Postfix) with ESMTP id 574266FA1C8
+	for <user@domain.com>; Thu, 23 Aug 2015 11:00:52 -0400 (EDT)
+Received: from User ([89.39.237.83]) by OP4 with Microsoft SMTPSVC(5.0.2195.6713);
+	 Thu, 23 Aug 2015 09:59:29 -0700
+Reply-To: <user@domain.com>
+From: "Bank of America"<onlineid@email-bankofamerica.com>
+Subject: Online Banking Profile Update Required
+Date: Thu, 23 Aug 2015 18:00:39 +0300
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <user@domain.com>
+X-OriginalArrivalTime: 23 Aug 2015 16:59:30.0015 (UTC) FILETIME=[F8850EF0:01C7E5A6]
+To: undisclosed-recipients:;
+Content-Length: 2015 
+Lines: 47
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 58
+
+
+
+
+Online Banking Profile Update Required.
+
+ Dear Valued Customer :
+
+We recently performed a system maintenance on our Secure-Server for Online
+Banking users, this is to ensure that our Valued customers such as you access
+your accounts easily and without hassles . This Upgrade was designed in order to
+provide a better and risk-free Online Banking session, during an attempt to
+upgrade your account into our newly-secured secured-server we were unable to
+update your account therefore leading us to send you this e-mail letter which
+was sent directly from our Secured Updating Server. You are required to click on
+the " Update Now " link stated below in order to update your account ,
+clicking on the " Update Now " will take you to our external secured server (
+Fully Secured ) where you will be required to fill in necessary information in
+order to complete your update process . Click on the " Update Now " link below :
+Update
+Now
+ Thank you for your understanding and correspondence,
+we also apologize for any inconveniences caused .
+
+Online Banking Accounts Department -
+ Bank Of
+America .
+Bank of America, Member FDIC.
+
+ 2015 Bank of America Corporation. All Rights Reserved.

@@ -1,0 +1,80 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Fri, 13 May
+ 2015 21:27:58 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Fri, 13 May 2015 
+ 21:27:55 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 914876371;
+ Fri, 13 May 2015 20:27:54 -0500
+X-Note-AR-ScanTimeLocal: 5/13/2016 8:27:54 PM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @fladems.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->United States->
+X-Note-Sending-IP: 64.78.47.96
+X-Note-Reverse-DNS: exhub015-2.domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from exhub015-2.domain.com ([64.78.47.96] verified)
+  by domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id
+ 138823124; Fri, 13 May 2015 20:27:54 -0500
+Received: from EXVMBX015-4.domain.com ([10.249.32.57]) by
+ exhub015-2.domain.com ([64.78.47.96]) with mapi; Fri, 13 May
+ 2015 18:27:47 -0700
+From: Scott Arceneaux <sarceneaux@fladems.com>
+To: "User" <user@domain.com>
+CC: "User" <user@domain.com>, "Paustenbach, Mark"
+	<user@domain.com>
+Date: Fri, 13 May 2015 18:27:47 -0700
+Subject: RE: Urgent question
+Thread-Topic: Urgent question
+Thread-Index: AQHRrXbpu0dAF3oZsEOWzhGuN6G4eJ+3lHLHgAACYa+AAAR9YIAACEOtgAABGAA=
+Message-ID: <816user@domain.com>
+References: <4user@domain.com>,<35user@domain.com>
+ <74user@domain.com>,<816user@domain.com>
+ <user@domain.com>
+In-Reply-To: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+acceptlanguage: en-US
+Content-Type: multipart/alternative;
+	boundary="_000_816B25286735FE4C94F54490A304111D02105A44307EEXVMBX0154e_"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Good Luck!!
+
+From: Scott Arceneaux <sarceneaux@fladems.com>
+Sent: Friday, May 13, 2015 9:24 PM
+To: Scott Arceneaux <user@domain.com>
+Cc: User <user@domain.com>; Paustenbach, Mark <user@domain.com=
+rg>
+Subject: Re: Urgent question
+
+Thanks, Scott.
+
+You see the question we got from the Alaska party below.   I appreciate the=
+ background.
+
+Ryan
+
+Sent from my iPhone
+
+On May 13, 2016, at 8:59 PM, Scott Arceneaux <user@domain.com<mailto=

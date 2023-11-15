@@ -1,0 +1,317 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Sat, 21 May
+ 2015 06:31:16 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Sat, 21 May 2015 
+ 06:31:09 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 927713756
+ for user@domain.com; Sat, 21 May 2015 05:31:15 -0500
+X-Note-AR-ScanTimeLocal: 5/21/2016 5:31:15 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: user@domain.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 192.64.237.167
+X-Note-Reverse-DNS: mx-washpost-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mx-washpost-domain.com ([192.64.237.167] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 139917265
+ for user@domain.com; Sat, 21 May 2015 05:31:14 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; s=mt; d=domain.com;
+ h=Date:From: The Washington Post <email@e.washingtonpost.com>
+ bh=3NPgsaZmlF9wWFLnwnuqh5cWUk0=;
+ b=JYvradJokBrpOam6VgmnsxU2YT3TTKTHaA+3mRT3iD/Kw9aHPcL+EdzmZHbMga7cvZpZ7E9EdX5s
+   y6RsoSzRlAZwh4T2wj8RioVl7l/jomRNStUfyg12AcwMuqqUT1uj5DUDHQscUNjW4H6d3pRhIytB
+   viJKS0/7n4JbRZ9SbAY=
+Received: from njmta-174.domain.com (173.228.155.174) by
+ mx-washpost-domain.com id h80sf41qqbso for <user@domain.com>; Sat, 21
+ May 2015 06:31:13 -0400 (envelope-from <user@domain.com>)
+Received: from nj1-heypurple.flt (172.18.20.12) by njmta-174.domain.com id
+ h80sf21qqbsu for <user@domain.com>; Sat, 21 May 2015 06:31:10 -0400
+ (envelope-from <user@domain.com>)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1463826670;
+	s=sailthru; d=e.washingtonpost.com;
+	h=Date:From: The Washington Post <email@e.washingtonpost.com>
+	bh=gwORa6ehKokbJEB5c7TWqSzRUGi249Wi3ZLDNO7WpG8=;
+	b=A2gyJTSNdFjpA4V5i/6NcF2S3upvtsJSndQxF1qohUcsKKgsVSfwc8Kr8nS/go12
+	gAxXjPm4MNfHvc1xpK6uYE2Rq3PmGdAZc6WwhygACyQKMI0JZnpMrpUljk/xQDqaQ3W
+	iLiT90vsS8Tt1tGMWA8dwN8noVS5uZrfam38Bbbo=
+Date: Sat, 21 May 2015 06:31:10 -0400
+From: The Washington Post <email@e.washingtonpost.com>
+To: <user@domain.com>
+Message-ID: <20160521063110.6770109.18940@domain.com>
+Subject: Saturday's Opinions: Trump bets on mass amnesia
+Content-Type: multipart/alternative;
+	boundary="----=_Part_19937272_629306097.1463826670138"
+Precedence: bulk
+X-TM-ID: 20160521063110.6770109.18940
+X-Info: Message sent by domain.com customer The Washington Post
+X-Info: We do not domain.com unsolicited commercial email
+X-Info: Please report abuse by forwarding complete headers to
+X-Info: user@domain.com
+X-Mailer: domain.com
+X-Unsubscribe-Web: <<link>>
+List-Unsubscribe: <<<link>>>, <mailto:user@domain.com>
+X-rpcampaign: sthiq6770109
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Read on the Web >> <<<link>>>
+
+OPINIONS
+=20
+
+TRUMP BETS ON MASS AMNESIA
+His general election strategy isn=E2=80=99t evolution =E2=80=94 it=E2=80=99=
+s reincarnation.
+By Dana Milbank
+Read more >> <<<link>>
+93d3cud2FzaGluZ3RvbnBvc3QuY29tL29waW5pb25zL3RydW1wLWJldHMtb24tbWFzcy1hbW5lc=
+2lhLzIwMTYvMDUvMjAvNzZiYTk3ZjQtMWU4Mi0xMWU2LTljODEtNGJlMWMxNGZiOGM4X3N0b3J5=
+Lmh0bWw_d3BtbT0xJndwaXNyYz1ubF9vcGluaW9ucw/54a5057d3b35d0e87a8f0190Eb238177=
+e>
+
+LATEST COLUMNS
+
+WE MUST WEED OUT IGNORANT AMERICANS FROM THE ELECTORATE
+No, we shouldn=E2=80=99t erect physical barriers to the ballot. Let=E2=80=
+=99s give voters the citizenship civics test.
+By David Harsanyi
+Read more >> <<<link>>
+93d3cud2FzaGluZ3RvbnBvc3QuY29tL29waW5pb25zL3dlLW11c3Qtd2VlZC1vdXQtaWdub3Jhb=
+nQtYW1lcmljYW5zLWZyb20tdGhlLWVsZWN0b3JhdGUvMjAxNi8wNS8yMC9mNjZiM2UxOC0xYzdh=
+LTExZTYtOGM3Yi02OTMxZTY2MzMzZTdfc3RvcnkuaHRtbD93cG1tPTEmd3Bpc3JjPW5sX29waW5=
+pb25z/54a5057d3b35d0e87a8f0190E2e0e76a0>
+
+WHEN IT COMES TO LYING, TRUMP IS IN A CLASS BY HIMSELF
+Both Clinton and Trump are often called liars. But Trump=E2=80=99s behavior=
+ is much worse.
+By Ruth Marcus
+Read more >> <<<link>>
+93d3cud2FzaGluZ3RvbnBvc3QuY29tL29waW5pb25zL3doZW4taXQtY29tZXMtdG8tbHlpbmctd=
+HJ1bXAtaXMtaW4tYS1jbGFzcy1ieS1oaW1zZWxmLzIwMTYvMDUvMjAvZTc2NjhkNDItMWU5YS0x=
+MWU2LTljODEtNGJlMWMxNGZiOGM4X3N0b3J5Lmh0bWw_d3BtbT0xJndwaXNyYz1ubF9vcGluaW9=
+ucw/54a5057d3b35d0e87a8f0190Ef19b1849>
+
+A NOSE-HOLDING WORD TO THE DISAFFECTED: VOTE
+Even if you have trouble choosing between Trump and Clinton, you have to pi=
+ck one.
+By Kathleen Parker
+Read more >> <<<link>>
+93d3cud2FzaGluZ3RvbnBvc3QuY29tL29waW5pb25zL2Etbm9zZS1ob2xkaW5nLXdvcmQtdG8td=
+GhlLWRpc2FmZmVjdGVkLXZvdGUvMjAxNi8wNS8yMC8zMWJmMTE2MC0xZWM0LTExZTYtYjZlMC1j=
+NTNiN2VmNjNiNDVfc3RvcnkuaHRtbD93cG1tPTEmd3Bpc3JjPW5sX29waW5pb25z/54a5057d3b=
+35d0e87a8f0190Ed52a342a>
+
+THE U.S.=E2=80=99S SHOW OF POWER AGAINST THE ISLAMIC STATE
+We can win against the militant group, but can we save Iraq?
+By David Ignatius
+Read more >> <<<link>>
+93d3cud2FzaGluZ3RvbnBvc3QuY29tL29waW5pb25zL3RoZS11c3Mtc2hvdy1vZi1wb3dlci1hZ=
+2FpbnN0LXRoZS1pc2xhbWljLXN0YXRlLzIwMTYvMDUvMjAvMDIwOTZkZTYtMWVjYy0xMWU2LWI2=
+ZTAtYzUzYjdlZjYzYjQ1X3N0b3J5Lmh0bWw_d3BtbT0xJndwaXNyYz1ubF9vcGluaW9ucw/54a5=
+057d3b35d0e87a8f0190Ec0f2ef2b>
+
+THE INAUGURAL ADDRESS WE WON=E2=80=99T HEAR NEXT JANUARY, BUT SHOULD
+What Americans need is a short, unsweet talk about business as usual in the=
+ United States.
+By George F. Will
+Read more >> <<<link>>
+93d3cud2FzaGluZ3RvbnBvc3QuY29tL29waW5pb25zL3RoZS1pbmF1Z3VyYWwtYWRkcmVzcy13Z=
+S13b250LWhlYXItbmV4dC1qYW51YXJ5LWJ1dC1zaG91bGQvMjAxNi8wNS8yMC9hYTRmZTg5MC0x=
+ZGUxLTExZTYtOWM4MS00YmUxYzE0ZmI4Yzhfc3RvcnkuaHRtbD93cG1tPTEmd3Bpc3JjPW5sX29=
+waW5pb25z/54a5057d3b35d0e87a8f0190E9dafdfdf>
+
+IF HEALTH-CARE PROVIDERS CAN=E2=80=99T OVERCOME THE STIGMA OF MENTAL ILLNES=
+S, WHO WILL?
+No one should be afraid to speak up when they need help, even doctors-in-tr=
+aining with depression.
+By Nathaniel P. Morris
+Read more >> <<<link>>
+93d3cud2FzaGluZ3RvbnBvc3QuY29tL29waW5pb25zL2lmLWhlYWx0aC1jYXJlLXByb3ZpZGVyc=
+y1jYW50LW92ZXJjb21lLXRoZS1zdGlnbWEtb2YtbWVudGFsLWlsbG5lc3Mtd2hvLXdpbGwvMjAx=
+Ni8wNS8yMC85OTNlY2E0Ni0xZGZkLTExZTYtOWM4MS00YmUxYzE0ZmI4Yzhfc3RvcnkuaHRtbD9=
+3cG1tPTEmd3Bpc3JjPW5sX29waW5pb25z/54a5057d3b35d0e87a8f0190E941c043f>
+
+MURIEL BOWSER GETS WHACKED. NOW WHAT?
+The D.C. Council shuttles the mayor=E2=80=99s shelter plan.
+By Colbert I. King
+Read more >> <<<link>>
+93d3cud2FzaGluZ3RvbnBvc3QuY29tL29waW5pb25zL211cmllbC1ib3dzZXItZ2V0cy13aGFja=
+2VkLW5vdy13aGF0LzIwMTYvMDUvMjAvNWU2OTllY2EtMWUwNS0xMWU2LTljODEtNGJlMWMxNGZi=
+OGM4X3N0b3J5Lmh0bWw_d3BtbT0xJndwaXNyYz1ubF9vcGluaW9ucw/54a5057d3b35d0e87a8f=
+0190E8f5f9994>
+
+THE UNFAIR, UNCLEAR, EXPENSIVE SYSTEM OF TAXING VIRGINIANS JUST FOR OWNING =
+A CAR
+The high personal property tax on cars disproportionately affects the lower=
+ and middle classes.
+By Ian Jacobs
+Read more >> <<<link>>
+93d3cud2FzaGluZ3RvbnBvc3QuY29tL29waW5pb25zL3RoZS11bmZhaXItdW5jbGVhci1leHBlb=
+nNpdmUtc3lzdGVtLW9mLXRheGluZy12aXJnaW5pYW5zLWp1c3QtZm9yLW93bmluZy1hLWNhci8y=
+MDE2LzA1LzIwL2RiOThmZGMwLTEwOGUtMTFlNi04MWI0LTU4MWE1YzRjNDJkZl9zdG9yeS5odG1=
+sP3dwbW09MSZ3cGlzcmM9bmxfb3BpbmlvbnM/54a5057d3b35d0e87a8f0190E442c7e97>
+
+WE=E2=80=99RE ASKING THE WRONG QUESTION ABOUT DOMESTIC VIOLENCE
+We need to focus on how to get people to stop abusing and killing intimate =
+partners.
+By Dorothy Lennig
+Read more >> <<<link>>
+93d3cud2FzaGluZ3RvbnBvc3QuY29tL29waW5pb25zL3dlcmUtYXNraW5nLXRoZS13cm9uZy1xd=
+WVzdGlvbi1hYm91dC1kb21lc3RpYy12aW9sZW5jZS8yMDE2LzA1LzIwL2UyNjBlMjI0LTFiOTkt=
+MTFlNi04YzdiLTY5MzFlNjYzMzNlN19zdG9yeS5odG1sP3dwbW09MSZ3cGlzcmM9bmxfb3Bpbml=
+vbnM/54a5057d3b35d0e87a8f0190E6c33fd03>
+
+SOLVE HOMELESSNESS BY ADDRESSING ITS ROOT CAUSES
+Mental-health and substance-abuse issues underlie the problem.
+By Richard R. Bebout
+Read more >> <<<link>>
+93d3cud2FzaGluZ3RvbnBvc3QuY29tL29waW5pb25zL3NvbHZlLWhvbWVsZXNzbmVzcy1ieS1hZ=
+GRyZXNzaW5nLWl0cy1yb290LWNhdXNlcy8yMDE2LzA1LzIwLzc0OGQwOTdlLTExMzctMTFlNi04=
+MWI0LTU4MWE1YzRjNDJkZl9zdG9yeS5odG1sP3dwbW09MSZ3cGlzcmM9bmxfb3BpbmlvbnM/54a=
+5057d3b35d0e87a8f0190E79aa8b1d>
+
+HILLARY CLINTON: CHILD CARE NOW COSTS MORE THAN RENT. HERE=E2=80=99S HOW TO=
+ FIX THIS CRISIS.
+We=E2=80=99ve got to make investing in child care a national priority.
+By Hillary Clinton
+Read more >> <<<link>>
+93d3cud2FzaGluZ3RvbnBvc3QuY29tL29waW5pb25zL2hpbGxhcnktY2xpbnRvbi1jaGlsZC1jY=
+XJlLW5vdy1jb3N0cy1tb3JlLXRoYW4tcmVudC1oZXJlcy1ob3ctdG8tZml4LXRoaXMtY3Jpc2lz=
+LzIwMTYvMDUvMjAvOTA1NWEyMDAtMWRkNi0xMWU2LWI2ZTAtYzUzYjdlZjYzYjQ1X3N0b3J5Lmh=
+0bWw_d3BtbT0xJndwaXNyYz1ubF9vcGluaW9ucw/54a5057d3b35d0e87a8f0190Eeb936f59>
+
+EDITORIAL CARTOONS
+
+Toles: Why should the District get to be a state when it&#8217;s already in=
+ one? <<<link>>
+2FzaGluZ3RvbnBvc3QuY29tL25ld3Mvb3BpbmlvbnMvd3AvMjAxNi8wNS8yMC93aHktc2hvdWxk=
+LXRoZS1kaXN0cmljdC1nZXQtdG8tYmUtYS1zdGF0ZS13aGVuLWl0cy1hbHJlYWR5LWluLW9uZS8=
+_d3BtbT0xJndwaXNyYz1ubF9vcGluaW9ucw/54a5057d3b35d0e87a8f0190E9afc5385>
+
+Telnaes: Why should the District get to be a state when it&#8217;s already =
+in one? <<<link>>
+ud2FzaGluZ3RvbnBvc3QuY29tL25ld3Mvb3BpbmlvbnMvd3AvMjAxNi8wNS8yMC93aHktc2hvdW=
+xkLXRoZS1kaXN0cmljdC1nZXQtdG8tYmUtYS1zdGF0ZS13aGVuLWl0cy1hbHJlYWR5LWluLW9uZ=
+S8_d3BtbT0xJndwaXNyYz1ubF9vcGluaW9ucw/54a5057d3b35d0e87a8f0190F9afc5385>
+
+THE POST'S VIEW
+
+THE DANGER OF TRUMP, SANDERS AND CLINTON=E2=80=99S SUPREME COURT LISTS AND =
+LITMUS TESTS
+Presidential hopefuls offer premature promises on their plans for the judic=
+iary.
+By Editorial Board
+Read more >> <<<link>>
+93d3cud2FzaGluZ3RvbnBvc3QuY29tL29waW5pb25zL3RoZS1kYW5nZXItb2YtdHJ1bXAtc2FuZ=
+GVycy1hbmQtY2xpbnRvbnMtc3VwcmVtZS1jb3VydC1saXN0cy1hbmQtbGl0bXVzLXRlc3RzLzIw=
+MTYvMDUvMjAvZjU5NDg0ZDgtMTE3OS0xMWU2LTg5NjctN2FjNzMzYzU2ZjEyX3N0b3J5Lmh0bWw=
+_d3BtbT0xJndwaXNyYz1ubF9vcGluaW9ucw/54a5057d3b35d0e87a8f0190E321c1831>
+
+CAN AUNG SAN SUU KYI AVOID THE MISTAKES OF BURMA=E2=80=99S PAST?
+Her recent comments about the country=E2=80=99s Muslim minority are concern=
+ing.
+By Editorial Board
+Read more >> <<<link>>
+93d3cud2FzaGluZ3RvbnBvc3QuY29tL29waW5pb25zL2Nhbi1hdW5nLXNhbi1zdXUta3lpLWF2b=
+2lkLXRoZS1taXN0YWtlcy1vZi1icnVtYXMtcGFzdC8yMDE2LzA1LzIwL2ZmYWNlODVhLTFlMDAt=
+MTFlNi04YzdiLTY5MzFlNjYzMzNlN19zdG9yeS5odG1sP3dwbW09MSZ3cGlzcmM9bmxfb3Bpbml=
+vbnM/54a5057d3b35d0e87a8f0190E7b6091a9>
+
+THE DISTRICT=E2=80=99S LEADERS MUST WORK TOGETHER TO HELP THE HOMELESS
+Can the D.C. Council and the mayor learn how to cooperate for the common go=
+od?
+By Editorial Board
+Read more >> <<<link>>
+93d3cud2FzaGluZ3RvbnBvc3QuY29tL29waW5pb25zL3RoZS1kaXN0cmljdHMtbGVhZGVycy1td=
+XN0LXdvcmstdG9nZXRoZXItdG8taGVscC10aGUtaG9tZWxlc3MvMjAxNi8wNS8yMC9lOTIxNTVh=
+Mi0xZGYyLTExZTYtYjZlMC1jNTNiN2VmNjNiNDVfc3RvcnkuaHRtbD93cG1tPTEmd3Bpc3JjPW5=
+sX29waW5pb25z/54a5057d3b35d0e87a8f0190E2de0b8bd>
+
+LATEST BLOGS
+
+CNN REPORTER: TRUMP SUPPORTERS SENSE CURRENT GUN POSITION IS CLOSER &#8216;=
+TO WHAT HE ACTUALLY BELIEVES&#8217;
+And that's a central challenge to the job of reporting on Trump.=20
+By Erik Wemple
+Read more >> <<<link>>
+93d3cud2FzaGluZ3RvbnBvc3QuY29tL2Jsb2dzL2VyaWstd2VtcGxlL3dwLzIwMTYvMDUvMjAvY=
+25uLXJlcG9ydGVyLXRydW1wLXN1cHBvcnRlcnMtc2Vuc2UtY3VycmVudC1ndW4tcG9zaXRpb24t=
+aXMtY2xvc2VyLXRvLXdoYXQtaGUtYWN0dWFsbHktYmVsaWV2ZXMvP3dwbW09MSZ3cGlzcmM9bmx=
+fb3BpbmlvbnM/54a5057d3b35d0e87a8f0190E2acd842d>
+
+HAPPY HOUR ROUNDUP
+Our nightly wrap-up of news and opinion.
+By Paul Waldman
+Read more >> <<<link>>
+93d3cud2FzaGluZ3RvbnBvc3QuY29tL2Jsb2dzL3BsdW0tbGluZS93cC8yMDE2LzA1LzIwL2hhc=
+HB5LWhvdXItcm91bmR1cC04NjMvP3dwbW09MSZ3cGlzcmM9bmxfb3BpbmlvbnM/54a5057d3b35=
+d0e87a8f0190E219db84a>
+
+ARE DEMOCRATS FRITTERING AWAY A SHOT AT THE SENATE MAJORITY?
+The GOP has a chance to hold onto the Senate.
+By Jennifer Rubin
+Read more >> <<<link>>
+93d3cud2FzaGluZ3RvbnBvc3QuY29tL2Jsb2dzL3JpZ2h0LXR1cm4vd3AvMjAxNi8wNS8yMC9hc=
+mUtZGVtb2NyYXRzLWZyaXR0ZXJpbmctYXdheS1hLXNob3QtYXQtdGhlLXNlbmF0ZS1tYWpvcml0=
+eS8_d3BtbT0xJndwaXNyYz1ubF9vcGluaW9ucw/54a5057d3b35d0e87a8f0190E21aa130e>
+
+APPLE DOESN&#8217;T GET IT
+Silicon Valley is part of the U.S.
+By Jennifer Rubin
+Read more >> <<<link>>
+93d3cud2FzaGluZ3RvbnBvc3QuY29tL2Jsb2dzL3JpZ2h0LXR1cm4vd3AvMjAxNi8wNS8yMC9hc=
+HBsZS1kb2VzbnQtZ2V0LWl0Lz93cG1tPTEmd3Bpc3JjPW5sX29waW5pb25z/54a5057d3b35d0e=
+87a8f0190Ef2e7808d>
+
+FOX NEWS&#8217;S O&#8217;REILLY OFFERS CLINTON POLITICAL ADVICE: COMMIT TO =
+FOX NEWS DEBATE IN CALIFORNIA
+Cable news organization uses transparency of its own airwaves to push for a=
+ debate.=20
+By Erik Wemple
+Read more >> <<<link>>
+93d3cud2FzaGluZ3RvbnBvc3QuY29tL2Jsb2dzL2VyaWstd2VtcGxlL3dwLzIwMTYvMDUvMjAvZ=
+m94LW5ld3NzLW9yZWlsbHktb2ZmZXJzLWNsaW50b24tcG9saXRpY2FsLWFkdmljZS1jb21taXQt=
+dG8tZm94LW5ld3MtZGViYXRlLWluLWNhbGlmb3JuaWEvP3dwbW09MSZ3cGlzcmM9bmxfb3Bpbml=
+vbnM/54a5057d3b35d0e87a8f0190E8871fbfa>
+
+THREE REASONS BERNIE SANDERS SHOULD STAY IN THE RACE
+Hillary Clinton wants Bernie Sanders to drop out, but that is not in his be=
+st interest.
+By Ed Rogers
+Read more >> <<<link>>
+93d3cud2FzaGluZ3RvbnBvc3QuY29tL2Jsb2dzL3Bvc3QtcGFydGlzYW4vd3AvMjAxNi8wNS8yM=
+C90aHJlZS1yZWFzb25zLWJlcm5pZS1zYW5kZXJzLXNob3VsZC1zdGF5LWluLXRoZS1yYWNlLz93=
+cG1tPTEmd3Bpc3JjPW5sX29waW5pb25z/54a5057d3b35d0e87a8f0190E65ed994b>
+
+You received this email because you are signed up for Opinions. For additio=
+nal free newsletters or to manage your newsletters, click here >> <<<link>>
+domain.com/click/6770109.18940/aHR0cHM6Ly9zdWJzY3JpYmUud2FzaGlu=
+Z3RvbnBvc3QuY29tL25ld3NsZXR0ZXJzP3dwbW09MSZ3cGlzcmM9bmxfb3BpbmlvbnM/54a5057=
+d3b35d0e87a8f0190C87ee61ce>.
+We respect your privacy <<<link>>
+/aHR0cDovL3d3dy53YXNoaW5ndG9ucG9zdC5jb20vcHJpdmFjeS1wb2xpY3kvMjAxMS8xMS8xOC=
+9nSVFBU0lpYWlOX3N0b3J5Lmh0bWw_d3BtbT0xJndwaXNyYz1ubF9vcGluaW9ucw/54a5057d3b=
+35d0e87a8f0190Cb1439938>. If you believe that this email has been sent to y=
+ou in error or you no longer wish to receive email from The Washington Post=
+, click here >> <<<link>>
+413ul.em4/e90b1937>. Contact us <<<link>>
+09.18940/aHR0cDovL3d3dy53YXNoaW5ndG9ucG9zdC5jb20vYWN0bWdtdC9oZWxwP3dwbW09MS=
+Z3cGlzcmM9bmxfb3BpbmlvbnM/54a5057d3b35d0e87a8f0190C7b4a6761> for help.
+
+(c)2016 The Washington Post, 1301 K St NW, Washington DC 20071

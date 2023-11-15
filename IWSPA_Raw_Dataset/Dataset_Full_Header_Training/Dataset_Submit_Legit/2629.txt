@@ -1,0 +1,252 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Sun, 15 May
+ 2015 18:11:03 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Sun, 15 May 2015 
+ 18:10:58 -0400
+Received: from [10.87.0.110] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 916111344
+ for user@domain.com; Sun, 15 May 2015 17:11:09 -0500
+X-Note-AR-ScanTimeLocal: 5/15/2016 5:11:00 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:205.201.133.202 DOM:domain.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 100
+X-GBUdb-Analysis: 0, 205.201.133.202, Ugly c=0.184641 p=1 Source Caution
+X-Signature-Violations: 100-5953858-1785-1815-m
+	100-5946975-1898-1917-m
+	100-5953858-0-27743-f
+X-Note-419: 31.2583 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/15/2016 5:10:47 PM
+X-Warn: BOUNCETRACKER Bounce User Tracking Found
+X-Warn: OPTOUT
+X-Warn: BULKMAILER
+X-Note: Spam Tests Failed: BOUNCETRACKER, OPTOUT, BULKMAILER
+X-Country-Path: LOCAL->United States->
+X-Note-Sending-IP: 205.201.133.202
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G281 G286 G340 G374 G376 G580 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from [205.201.133.202] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 141941813
+ for user@domain.com; Sun, 15 May 2015 17:11:00 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=domain.com;
+ h=Subject:From: =?utf-8?Q?Cato=20Institute?= <events@cato.org>
+ bh=7VtsMxSME3zYrV6YmO7E9Bc5KDk=;
+ b=AUC4RgtaeZ7CX+2WEm8lpk76DJmOrS9qVbQZK/InzrA+Yj1IE5NfnkYxE5RSVnHneiIXc5j+eWVB
+   AunS+jBBdcmuezm1XulUNebqE4YT0zkR9LHOECcsVRrLelgXthTt0m/jh0zZ4vEh+iTNlwaauGJX
+   +iTA7Wk4zQ8OMajPKyk=
+Received: from (127.0.0.1) by domain.com id h73pv81lgi49 for
+ <user@domain.com>; Sun, 15 May 2015 22:10:57 +0000 (envelope-from
+ <user@domain.com>)
+Subject: =?utf-8?Q?Conference=3A=20The=20Case=20for=20Restraint=20in=20U.S.=20Foreign=20Policy=2C=20June=2015=2C=202016?=
+From: =?utf-8?Q?Cato=20Institute?= <events@cato.org>
+Reply-To: =?utf-8?Q?Cato=20Institute?= <user@domain.com>
+To: <user@domain.com>
+Date: Sun, 15 May 2015 22:10:57 +0000
+Message-ID: <98user@domain.com>
+X-Mailer: MailChimp Mailer - **CIDab05707cba9efd0f9e4d**
+X-Campaign: mailchimp98c97f42691d5de57bc944822.ab05707cba
+X-campaignid: mailchimp98c97f42691d5de57bc944822.ab05707cba
+X-Report-Abuse: Please report abuse for this campaign here: <<link>>
+X-MC-User: 98c97f42691d5de57bc944822
+X-Feedback-ID: 1115701:1115701.1211785:us1:mc
+List-ID: 98c97f42691d5de57bc944822mc list <98c97f42691d5de57bc944822.295165.list-domain.com>
+X-Accounttype: pd
+List-Unsubscribe: <mailto:user@domain.com?subject=unsubscribe>, <<<link>>>
+Sender: Cato Institute <user@domain.com>
+x-mcda: FALSE
+Content-Type: multipart/alternative;
+	boundary="_----------=_MCPart_1026620692"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Upcoming Cato event
+
+View this email in your browser (<<link>>
+97f42691d5de57bc944822&id=3Dab05707cba&e=3D9efd0f9e4d)
+
+The Cato Institute invites you to a conference
+
+** The Case for Restraint in U.S. Foreign Policy (<<link>>
+ts/case-restraint-us-foreign-policy?utm_source=3DCato+Institute+Emails&utm=
+_campaign=3Dab05707cba-Cato-event&utm_medium=3Demail&utm_term=3D0_39587858=
+4c-ab05707cba-144287633&goal=3D0_395878584c-ab05707cba-=
+144287633&mc_cid=3Dab05707cba&mc_eid=3D[UNIQID])
+------------------------------------------------------------
+Wednesday=2C June 15=2C 2015 =E2=80=A2 9:00AM =E2=80=93 5:00PM
+Cato Institute=2C 1000 Massachusetts Ave.=2C NW=2C Washington=2C D.C.
+For the past two decades Democratic and Republican leaders have viewed U.S=
+=2E military power as indispensable to global stability. Known as =E2=80=9Cp=
+rimacy=E2=80=9D or =E2=80=9Cliberal hegemony=2C=E2=80=9D U.S. military all=
+iances=2C they believed=2C would secure the peace between foreign powers=
+=2C and armed interventions would be necessary to prevent terrorism and ci=
+vil conflicts abroad.
+
+This grand strategy perspective is now undergoing major revisions=2C with=
+ many foreign policy and military experts now calling for restraint. The U=
+nited States is now viewed as greatly benefiting from a robust state of na=
+tional security thanks to its geographic=2C economic=2C and military advan=
+tages. Further=2C decades of rigorous military interventions and long-term=
+ military alliances have caused more problems than they solved=E2=80=94and=
+ a grand strategy of restraint aligns with the fundamental values at the c=
+ore of our nation=E2=80=99s founding.
+
+At this conference=2C experts on international security will deeply examin=
+e the major shifts now taking place in global perspectives=2C and will bot=
+h confront and critically examine the arguments and assumptions of the =E2=
+=80=9Cprimacy=E2=80=9D consensus. Panelists will also discuss what form a=
+ more restrained U.S. foreign policy should take=2C and the prospects for=
+ restraint given American politics today.
+
+Full schedule and registration: www.cato.org/case-restraint-us-foreign-pol=
+icy (<<link>>
+e=3DCato+Institute+Emails&utm_campaign=3Dab05707cba-Cato-event&utm_medium=
+=3Demail&utm_term=3D0_395878584c-ab05707cba-144287633&goal=3D0_39587=
+8584c-ab05707cba-144287633&mc_cid=3Dab05707cba&mc_eid=3D[UNIQID])
+
+Panel 1: The Myths of Primacy: Alliances and Security Dilemmas
+* David Edelstein=2C Associate Professor=2C Edmund A. Walsh School of Fore=
+ign Service and Department of Government=2C Georgetown University
+* Eugene Gholz=2C Associate Professor of Public Affairs=2C Lyndon B. Johns=
+on School of Public Affairs=2C University of Texas at Austin
+* Brendan Green=2C Assistant Professor of Political Science=2C University=
+ of Cincinnati
+
+Panel 2: The Myths of Primacy: Geography=2C Energy=2C and Democracy
+* Alexander Downes=2C Associate Professor of Political Science and Interna=
+tional Affairs=2C George Washington University
+* Eugene Gholz=2C Associate Professor of Public Affairs=2C Lyndon B. Johns=
+on School of Public Affairs=2C University of Texas at Austin
+* Moderated by Charles Glaser=2C Professor of Political Science and Intern=
+ational Affairs; Director=2C Institute for Security and Conflict Studies=
+=2C George Washington University
+
+Lunch Address
+* Barry Posen=2C Ford International Professor of Political Science=2C Mass=
+achusetts Institute of Technology; Director=2C MIT Security Studies Progra=
+m
+
+Panel 3: The Case for Restraint: History and Politics
+* Benjamin Friedman=2C Research Fellow=2C Cato Institute
+* Edward Rhodes=2C Professor=2C School of Policy=2C Government=2C and Inte=
+rnational Affairs=2C George Mason University
+* William Ruger=2C Vice President of Research and Policy=2C Charles Koch I=
+nstitute
+* Trevor Thrall=2C Senior Fellow=2C Cato Institute
+
+Panel 4: The Case for Restraint: What Should It Look Like
+* Emma Ashford=2C Research Fellow=2C Cato Institute
+* Benjamin Friedman=2C Research Fellow=2C Cato Institute
+* Christopher Preble=2C Vice President=2C Defense and Foreign Policy Studi=
+es=2C Cato Institute
+* John Mueller=2C Senior Research Scientist=2C Mershon Center for Internat=
+ional Security Studies=2C Ohio State University=2C and Senior Fellow=2C Ca=
+to Institute
+
+This Cato Conference is free of charge.
+To register to attend this event=2C click the button below=2C email events=
+@cato.org (mailto:events%40cato.org) =2C or call (202) 789-5229 by 9:00AM=
+ on Tuesday=2C June 14=2C 2016.
+REGISTER (<<link>>:8443/catopublic/?utm_source=3DCato+Institut=
+e+Emails&utm_campaign=3Dab05707cba-Cato-event&utm_medium=3Demail&utm_term=
+=3D0_395878584c-ab05707cba-144287633&goal=3D0_395878584c-ab05707cba-=
+144287633&mc_cid=3Dab05707cba&mc_eid=3D[UNIQID]#MtgDetail/00000951)
+
+<<link>>+Institute+Emails&utm_campaign=
+=3Dab05707cba-Cato-event&utm_medium=3Demail&utm_term=3D0_395878584c-ab0570=
+7cba-144287633&goal=3D0_395878584c-ab05707cba-144287633&mc_cid=
+=3Dab05707cba&mc_eid=3D[UNIQID]
+
+If you can=E2=80=99t make it to the event=2C you can watch it live online=
+ at www.cato.org/live and join the conversation on Twitter using #Restrain=
+tFP (<<link>>+Institute+E=
+mails&utm_campaign=3Dab05707cba-Cato-event&utm_medium=3Demail&utm_term=3D0=
+_395878584c-ab05707cba-144287633&goal=3D0_395878584c-ab05707cba-=
+144287633&mc_cid=3Dab05707cba&mc_eid=3D[UNIQID]) . Follow @CatoEvents (=
+<<link>>+Institute+Emails&utm_camp=
+aign=3Dab05707cba-Cato-event&utm_medium=3Demail&utm_term=3D0_395878584c-ab=
+05707cba-144287633&goal=3D0_395878584c-ab05707cba-144287633&mc=
+_cid=3Dab05707cba&mc_eid=3D[UNIQID]) on Twitter to get future event updat=
+es=2C live streams=2C and videos from the Cato Institute.
+<<link>>
+_JiL&utm_source=3DCato+Institute+Emails&utm_campaign=3Dab05707cba-Cato-eve=
+nt&utm_medium=3Demail&utm_term=3D0_395878584c-ab05707cba-144287633&g=
+oal=3D0_395878584c-ab05707cba-144287633&mc_cid=3Dab05707cba&mc_eid=
+=3D[UNIQID] Share (<<link>>
+2F%2domain.com%2FbZ_JiL&utm_source=3DCato+Institute+Emails&utm_campaign=
+=3Dab05707cba-Cato-event&utm_medium=3Demail&utm_term=3D0_395878584c-ab0570=
+7cba-144287633&goal=3D0_395878584c-ab05707cba-144287633&mc_cid=
+=3Dab05707cba&mc_eid=3D[UNIQID])
+<<link>>+The+Case+for+Restrain=
+t+in+U.S.+Foreign+Policy%2C+June+15%2C+2016:&utm_source=3DCato+Institute+E=
+mails&utm_campaign=3Dab05707cba-Cato-event&utm_medium=3Demail&utm_term=3D0=
+_395878584c-ab05707cba-144287633&goal=3D0_395878584c-ab05707cba-=
+144287633&mc_cid=3Dab05707cba&mc_eid=3D[UNIQID] http%3A%2F%2domain.com=
+%2FbZ_JiL Tweet (<<link>>+The+=
+Case+for+Restraint+in+U.S.+Foreign+Policy%2C+June+15%2C+2016:&utm_source=
+=3DCato+Institute+Emails&utm_campaign=3Dab05707cba-Cato-event&utm_medium=
+=3Demail&utm_term=3D0_395878584c-ab05707cba-144287633&goal=3D0_39587=
+8584c-ab05707cba-144287633&mc_cid=3Dab05707cba&mc_eid=3D[UNIQID] ht=
+tp%3A%2F%2domain.com%2FbZ_JiL)
+<<link>>
+ource=3DCato+Institute+Emails&utm_campaign=3Dab05707cba-Cato-event&utm_med=
+ium=3Demail&utm_term=3D0_395878584c-ab05707cba-144287633&goal=3D0_39=
+5878584c-ab05707cba-144287633&mc_cid=3Dab05707cba&mc_eid=3D[UNIQID]=
+ +1 (<<link>>
+utm_source=3DCato+Institute+Emails&utm_campaign=3Dab05707cba-Cato-event&ut=
+m_medium=3Demail&utm_term=3D0_395878584c-ab05707cba-144287633&goal=
+=3D0_395878584c-ab05707cba-144287633&mc_cid=3Dab05707cba&mc_eid=3D[=
+UNIQID])
+
+** Support Cato (<<link>>
+to+Institute+Emails&utm_campaign=3Dab05707cba-Cato-event&utm_medium=3Demai=
+l&utm_term=3D0_395878584c-ab05707cba-144287633&goal=3D0_395878584c-a=
+b05707cba-144287633&mc_cid=3Dab05707cba&mc_eid=3D[UNIQID])
+
+** (<<link>>+Institute+Emails&utm_campaign=3D=
+ab05707cba-Cato-event&utm_medium=3Demail&utm_term=3D0_395878584c-ab05707cb=
+a-144287633&goal=3D0_395878584c-ab05707cba-144287633&mc_cid=3D=
+ab05707cba&mc_eid=3D[UNIQID])
+
+Follow Cato on:
+
+** Facebook (<<link>>+Inst=
+itute+Emails&utm_campaign=3Dab05707cba-Cato-event&utm_medium=3Demail&utm_t=
+erm=3D0_395878584c-ab05707cba-144287633&goal=3D0_395878584c-ab05707c=
+ba-144287633&mc_cid=3Dab05707cba&mc_eid=3D[UNIQID])
+** Twitter (<<link>>+Institute+E=
+mails&utm_campaign=3Dab05707cba-Cato-event&utm_medium=3Demail&utm_term=3D0=
+_395878584c-ab05707cba-144287633&goal=3D0_395878584c-ab05707cba-=
+144287633&mc_cid=3Dab05707cba&mc_eid=3D[UNIQID])
+** Google Plus (<<link>>+TheCatoInstitute/posts?utm_source=
+=3DCato+Institute+Emails&utm_campaign=3Dab05707cba-Cato-event&utm_medium=
+=3Demail&utm_term=3D0_395878584c-ab05707cba-144287633&goal=3D0_39587=
+8584c-ab05707cba-144287633&mc_cid=3Dab05707cba&mc_eid=3D[UNIQID])
+** YouTube (<<link>>+In=
+stitute+Emails&utm_campaign=3Dab05707cba-Cato-event&utm_medium=3Demail&utm=
+_term=3D0_395878584c-ab05707cba-144287633&goal=3D0_395878584c-ab0570=
+7cba-144287633&mc_cid=3Dab05707cba&mc_eid=3D[UNIQID])
+
+Cato Institute =E2=80=A2 1000 Massachusetts Ave=2C NW =E2=80=A2 Washington=
+=2C D.C. 20001 =E2=80=A2 Phone (202) 842 0200
+** Unsubscribe / Manage Subscriptions (<<link>>
+file?u=3D98c97f42691d5de57bc944822&id=3D395878584c&e=3D9efd0f9e4d)
+
+user@domain.com** why did I get this email? (<<link>>
+=2Ecom/about?u=3D98c97f42691d5de57bc944822&id=3D395878584c&e=3D9efd0f9e4d&c=3D=
+ab05707cba)
+**   (<<link>>
+944822&id=3D395878584c&e=3D9efd0f9e4d&c=3Dab05707cba)

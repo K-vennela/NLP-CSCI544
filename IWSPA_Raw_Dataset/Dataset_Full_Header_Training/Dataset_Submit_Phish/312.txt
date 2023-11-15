@@ -1,0 +1,59 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id 383AD46884
+	for <user@domain.com>; Sun, 22 Mar 2015 02:40:04 -0400 (EDT)
+X-Greylist: delayed 950 seconds by postgrey-1.27 at domain.com; Sun, 22 Mar 2015 02:40:03 EDT
+Received: from domain.com (domain.com [90.155.128.66])
+	by domain.com (Postfix) with ESMTP id EFFCF131F720
+	for <user@domain.com>; Sun, 22 Mar 2015 02:40:03 -0400 (EDT)
+Received: by domain.com (Postfix, from userid 80)
+	id 8482F1D9397; Sun, 22 Mar 2015 09:20:33 +0300 (MSK)
+To: user@domain.com
+Subject: Dear  Webmail Account User
+X-PHP-Script: domain.com/webmail1/index.php for 212.116.219.91
+MIME-Version: 1.0
+Date: Sun, 22 Mar 2015 09:20:33 +0300
+From: Helpdesk Mail Support <helpdesksupport@webmaster.com>
+Reply-To: user@domain.com
+Message-ID: <044user@domain.com>
+X-Sender: user@domain.com
+Received: from 212.116.219.91 [212.116.219.91]
+	 with HTTP/1.1 (POST); Sun, 22 Mar 2015 09:20:33 +0300
+User-Agent: RoundCube Webmail on MX1
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+Content-Length: 941
+Lines: 27
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1015
+
+Dear Webmail Account User
+
+This message is from the Webmail IT Service messaging center to all
+webmail account owners. Due to the incessant rate of Spam we are currently
+performing maintenance and up-grading our Digital webmail services for
+your convenience.
+
+We are deleting all unused webmail account to create more space for new
+accounts. To prevent your account from closing during this exercise you
+will have to update it below to know it's status as a currently used
+account with a hard spam protector.
+
+Confirm Your WebMail Details;
+User Name:
+Password:
+Date of Birth:
+
+You will be sent a new confirmation alphanumerical password so that it will
+only be valid during this period and can be changed after the process.
+
+We thank you for your prompt attention to this matter. Please understand
+that this is a security measure intended to help protect you and your
+Webmail Account.
+
+Webmail Account Support Team
+Warning Code :ID67565434

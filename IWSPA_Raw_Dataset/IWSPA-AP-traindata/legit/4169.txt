@@ -1,0 +1,41 @@
+Phil, David,
+as David says I'll be away in Oklahoma first week in March. Antarctic
+data first piqued my interest with the Science paper on raobs trends
+which was clearly non-physical but hard to nail down how wrong it was. I
+did some minor digging into READER and found that in the UA domain it
+was qc'ed but not homogenised. I've made a rather rash assumption that
+this would also be the case for the surface data but am happy to be
+corrected.
+Its clear to me that Antarctica is a uniquely difficult environment to
+collect long-term homogeneous data in. So I have substantial doubts that
+all the manned station pegs in Steig et al. are adequate. Does this
+really matter? I'm not sure.
+What Steig et al., satellites, and potentially reanalyses does do is
+allow us, in principle, at least to get around the no-neighbours issue
+in assessing homogeneity away from the peninsula. 
+For example we could use a bootstrapping of the Steig et al approach by
+creating say 50 realisations of each station series using randomly
+seeded combinations of manned station pegs as the S et al. RegEM
+constraint (excluding the candidate station) to make a neighbour
+composite ensemble. We could then add in the available reanalysis field
+estimates and satellite estimates and make a reasonable punt about the
+existence and magnitude of any breaks based upon multiple lines of
+evidence (of course, we lose some of these before 1979 ...). We could
+use this information to assess in a more rigorous way than has been done
+to date the homogeneity of these sparse stations. Then cleaned up data
+could be fed back through Steig et al. afterwards to see how it impacts
+that analysis making for a nice clean self-contained study.
+My understanding from the blog discussion of Steig et al. is that the
+analysis step is fairly trivial so such an ensemble realisation approach
+should be plausible with a humble PC so long as it has the coding
+platform available.
+Of course, this doesn't resolve any fundamental methodological concerns
+about the S et al. approach that may exist but it does give us a
+reasonable chance of creating a much more homogeneous READER manned
+station dataset for next IPCC AR and our future products. 
+My suspicion is that actually changing the manned station data in this
+way may make S et al. more different to the straight average of the
+READER data as used (effectively) in AR5 and point to the importance of
+the long-term homogeneity of the data pegs in RegEM ... this may, of
+course, be felt to be a can of worms too far ...
+Peter

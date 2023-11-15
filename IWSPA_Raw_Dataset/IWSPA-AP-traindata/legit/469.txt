@@ -1,0 +1,29 @@
+TrainHR                  For Human Resource Professionals        
+Introduction 
+Statistical overview of the fraud problem generally, and T&E fraud specifically
+Who commits fraud 
+Why employees commit fraud (The Fraud Triangle)
+Lessons from T&E fraudsters 
+Common Types of Expense Reimbursement Fraud Today 
+Falsifying T&E reimbursement schemes w/ bogus receipts
+Submitting T&E claims multiple times 
+Abuse of corporate/P-card for personal gain
+Claiming for expenses just under the limit requiring approval
+Purchasing more than needed (e.g. office supplies)
+Exploiting AP/Disbursements control weaknesses
+P-Card fraud
+Red Flags of AP Fraud 
+Specific red flags of each of the common expense reimbursement frauds
+The Fraud Risk Mitigation Cycle
+Implementing an organization-wide system for detecting, preventing and investigating fraud
+Fraud Detection 
+How T&E Frauds Are Most Often Detected 
+Additional General Detection Methods 
+Data Mining/Analytics for fraud detection
+Examples of Fraud Audit Techniques at Work
+Anti-Fraud Controls for Expense Reimbursement Fraud 
+Internal Controls and Other T&E Fraud Prevention Measures
+Who Should Manage Anti-Fraud Activities 
+Internal Controls: Do's and Don'ts
+General controls: Segregation of Duties, Delegation of Authority, Background Investigation
+Specific Expense reimbursement controls and deterrents

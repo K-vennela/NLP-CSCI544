@@ -1,0 +1,60 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 587BC23CAAA
+	for <user@domain.com>; Wed, 18 Jan 2015 01:36:22 -0600 (CST)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id DN9rvmDBoq3B for <user@domain.com>;
+	Wed, 18 Jan 2015 01:36:22 -0600 (CST)
+Received: from domain.com (domain.com [129.7.234.211])
+	by domain.com (Postfix) with ESMTP id 3B16423CAA9
+	for <user@domain.com>; Wed, 18 Jan 2015 01:36:22 -0600 (CST)
+Received: from domain.com (domain.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 84B0A4E99106;
+	Wed, 18 Jan 2015 01:36:20 -0600 (CST)
+Received: from marnier.ucs.louisiana.edu (marnier.ucs.louisiana.edu [130.70.132.233])
+	by domain.com (Postfix) with ESMTP id 690734E99485;
+	Wed, 18 Jan 2015 01:36:20 -0600 (CST)
+Received: from zimbra-mta02.ucs.louisiana.edu (zimbra-mta02.ucs.louisiana.edu [130.70.240.10])
+	by marnier.ucs.louisiana.edu (8.14.1/8.14.1/ull-ucs-mx-host_1.9a) with ESMTP id q0I7aEmO014770;
+	Wed, 18 Jan 2015 01:36:19 -0600 (CST)
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by zimbra-mta02.ucs.louisiana.edu (Postfix) with ESMTP id E8340FC3CA;
+	Wed, 18 Jan 2015 01:36:10 -0600 (CST)
+X-Virus-Scanned: amavisd-new at zimbra.ucs.louisiana.edu
+Received: from zimbra-mta02.ucs.louisiana.edu ([127.0.0.1])
+	by localhost (zimbra-mta02.ucs.louisiana.edu [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id T3kk3WmGQxtT; Wed, 18 Jan 2015 01:36:10 -0600 (CST)
+Received: from zimbra-mbox02.ucs.louisiana.edu (zimbra-mbox02.private.ucs.louisiana.edu [10.10.101.4])
+	by zimbra-mta02.ucs.louisiana.edu (Postfix) with ESMTP id 97F2DFC3AC;
+	Wed, 18 Jan 2015 01:36:09 -0600 (CST)
+Date: Wed, 18 Jan 2015 01:36:09 -0600 (CST)
+From: University of Houston <mjl5625@louisiana.edu>
+Message-ID: <1113_1326872180_4user@domain.com>
+Subject: *****SPAM***** New: 01/18/2012
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+X-Originating-IP: [41.206.12.60]
+X-Mailer: Zimbra 6.0.14_GA_2928 (ZimbraWebClient - FF3.0 (Win)/6.0.14_GA_2928)
+To: undisclosed-recipients:;
+X-PMX-Version: 5.5.9.395186, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2012.1.18.72114
+X-PerlMx-Spam: Gauge=XXXIIII, Probability=34%, Report='
+ FRAUD_IP_ANY 2.5, FRAUD_IP_XOIP 0.5, PHISH_SPEAR_FROM_EDU_FORM_URI 0.5, MULTIPLE_RCPTS 0.1, SUPERLONG_LINE 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1000_LESS 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_400_499 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, FROM_EDU_TLD 0, FROM_NAME_PHRASE 0, INVALID_MSGID_NO_FQDN 0, TO_UNDISCLOSED_RECIPIENTS 0, WEBMAIL_SOURCE 0, WEBMAIL_XOIP 0, WEBMAIL_X_IP_HDR 0, __ANY_URI 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __HAS_MSGID 0, __HAS_XOIP 0, __HAS_X_MAILER 0, __INT_PROD_COMP 0, __MIME_TEXT_ONLY 0, __MIME_VERSION 0, __PHISH_SPEAR_CONSEQUENCES_A 0, __PHISH_SPEAR_FORM_URI 0, __PHISH_SPEAR_STRUCTURE_1 0, __PHISH_SPEAR_STRUCTURE_2 0, __SANE_MSGID 0, __SPEAR_FROM_NAME_B 0, __TO_MALFORMED_3 0, __URI_NO_MAILTO 0, __URI_NS '
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 51
+
+Attention:
+
+An Attempt has been made to login from a new computer. For the security of your account, we are poised to open a query. Kindly Click the link below or copy and paste on your web browser for good security practice.
+
+<<link>>
+
+Do not ignore this message to avoid termination of your webmail account.
+
+University of Houston Administration

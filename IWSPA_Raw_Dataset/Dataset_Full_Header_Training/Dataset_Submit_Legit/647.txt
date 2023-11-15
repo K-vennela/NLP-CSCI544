@@ -1,0 +1,68 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Thu, 19 May
+ 2015 11:41:45 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Thu, 19 May 2015 
+ 11:41:42 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 924228087
+ for user@domain.com; Thu, 19 May 2015 10:41:53 -0500
+X-Note-AR-ScanTimeLocal: 5/19/2016 10:41:53 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @domain.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->PRIVATE->United States->
+X-Note-Sending-IP: 70.42.50.132
+X-Note-Reverse-DNS: mta-dock-front-3.domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mta-dock-front-3.domain.com ([70.42.50.132] verified)
+  by domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id
+ 141554147 for user@domain.com; Thu, 19 May 2015 10:40:35 -0500
+Received: from domain.com (unknown [10.0.200.87])	by
+ mta-dock-front-3.domain.com (Postfix) with ESMTP id 3r9Zyd3fC5zjX1N
+	for <user@domain.com>; Thu, 19 May 2015 15:40:25 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=domain.com; s=bsdkey; t=1463672425;
+	bh=An7KNf80oTktopkrktkVWJ6npyAvPvTMEQdBlWySr+Y=;
+	h=Date:To:From: Rainbow PUSH Coalition <pressdepartment@rainbowpush.org>
+	b=SIaw1Vh0grBjK9ZurHoxSqt+lYS5f42RSAovVbA22oXybXGguWuviOgD2C0v3ZFmK
+	 AUSYhVFCKCxpUqQTRVGGaRYKHCU47iuuQvaJqgyt3rFuJhnS5xIUrilPCvmF9qCw3X
+	 /S0FiAmJ+LRkQXLsX9F4a2tHe6n3GbThwlfecGn0=
+Received: from phpmailer 	by domain.com with local
+ (PHPMailer);	Thu, 19 May 2015 15:40:25 +0000
+Date: Thu, 19 May 2015 15:40:25 +0000
+To: <user@domain.com>
+From: Rainbow PUSH Coalition <pressdepartment@rainbowpush.org>
+Reply-To: <user@domain.com>
+Subject: BBQ, Hackathon, Career Fair and More!
+Message-ID: <user@domain.com>
+X-Mailer: PHPMailer [version 1.71-blue_mailer]
+X-maillist-id: 69cf121de3e66946
+X-rpcampaign: rp_1090798
+X-maillist-guid: FwRfWwELET1TClNTAFcCBQYKVQQCDlEFa1RbEVdaUQUJJVJbAEoJRgI6CQME
+List-Unsubscribe: <<<link>>>, <mailto:user@domain.com>
+Content-Type: multipart/alternative;
+	boundary="b1_ac5608d01b6d48f6e277a3addc278b39"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+----
+
+This email was sent to user@domain.com
+
+To unsubscribe, go to:=20
+  <<link>>
+

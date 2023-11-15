@@ -1,0 +1,67 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 2FBC423CA85;
+	Wed, 15 Aug 2015 00:05:18 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id P2uWNn6vJBXi; Wed, 15 Aug 2015 00:05:17 -0500 (CDT)
+Received: from mail.inp.gob.ec (mail.inp.gob.ec [190.110.215.78])
+	by domain.com (Postfix) with ESMTP id 36D2A23CA86;
+	Wed, 15 Aug 2015 00:05:16 -0500 (CDT)
+Received: from inp.gob.ec (localhost.localdomain [127.0.0.1])
+	by mail.inp.gob.ec (Postfix) with ESMTP id 7ED7E3CD0003;
+	Tue, 14 Aug 2015 23:52:29 -0500 (ECT)
+Received: from 95.141.28.55 ([95.141.28.55]) by mail.inp.gob.ec (Horde
+ Framework) with HTTP; Tue, 14 Aug 2015 23:52:29 -0500
+Message-ID: <20120814235229.17431765987user@domain.com>
+Date: Tue, 14 Aug 2015 23:52:29 -0500
+From: Help Desk <info@admin.net>
+To: undisclosed-recipients:;
+Subject: Upgrade You Webmail Account
+MIME-Version: 1.0
+Content-Type: text/plain;
+ charset=ISO-8859-1;
+ DelSp="Yes";
+ format="flowed"
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+User-Agent: domain.com Messaging Program (IMP) H3 (4.3.7)
+X-INP-MailScanner-Information: Please contact the ISP for more information
+X-INP-MailScanner-ID: 7ED7E3CD0003.AD0A8
+X-INP-MailScanner: Found to be clean
+X-INP-MailScanner-From: Help Desk <info@admin.net>
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 116
+
+Dear E-mail User,
+
+We hereby announce to you that your email account has exceeded its
+storage domain.com. You will be unable to send and receive mails and your
+email account will be deleted from our server. To avoid this problem,
+you are advised to verify your email account by clicking on the link
+below.
+
+Please click the link Below To Validate Your Mailbox And Increase Your Quota.
+
+-------------<<link>>
+
+Failure to do this will have your account deactivated to avoid  
+unauthorised usage.
+
+Regards,
+Abuse/Help Desk
+Thank you.
+Admin/Staff/Student
+
+----------------------------------------------------------------
+This message was sent using IMP, the domain.com Messaging Program.
+
+-- 
+This message has been scanned for viruses and
+dangerous content by MailScanner, and is
+believed to be clean.

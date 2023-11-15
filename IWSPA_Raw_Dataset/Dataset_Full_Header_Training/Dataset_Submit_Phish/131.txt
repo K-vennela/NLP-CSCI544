@@ -1,0 +1,87 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id BB4B1475C2
+	for <user@domain.com>; Fri, 17 Aug 2015 22:20:53 -0400 (EDT)
+Received: from domain.com (bio.hgy.es [193.146.180.21])
+	by domain.com (Postfix) with ESMTP id D00541325BB9
+	for <user@domain.com>; Fri, 17 Aug 2015 21:45:31 -0400 (EDT)
+Received: by domain.com (Postfix)
+	id C92091BEED; Sat, 18 Aug 2015 03:45:24 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [193.146.180.90])
+	by domain.com (Postfix) with ESMTP id B4E0F1C444
+	for <user@domain.com>; Sat, 18 Aug 2015 03:45:24 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id A6C658AB
+	for <user@domain.com>; Sat, 18 Aug 2015 03:45:24 +0200 (CEST)
+X-Quarantine-ID: <fd3a2zo-Ensx>
+X-Virus-Scanned: Debian amavisd-new at domain.com
+X-Spam-Flag: YES
+X-Spam-Score: 8.663
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.663 tagged_above=0 required=5 tests=[BAYES_99=3.5,
+	FORGED_RCVD_HELO=0.135, FROM_HAS_ULINE_NUMS=0.291, HTML_50_60=0.134,
+	HTML_MESSAGE=0.001, SPOOF_OURI=0.104, URIBL_SC_SURBL=4.498]
+Received: from domain.com ([193.146.180.21])
+	by localhost (domain.com [193.146.180.108]) (amavisd-new, port 10024)
+	with ESMTP id fd3a2zo-Ensx for <user@domain.com>;
+	Sat, 18 Aug 2015 03:45:17 +0200 (CEST)
+Received: from domain.com.ar (unknown [200.69.230.11])
+	by domain.com (Postfix) with ESMTP id E30791BEED
+	for <user@domain.com>; Sat, 18 Aug 2015 03:45:15 +0200 (CEST)
+Received: from localhost (rocinante [127.0.0.1])
+	by domain.com.ar (Postfix) with ESMTP id 6CAA4500104
+	for <user@domain.com>; Fri, 17 Aug 2015 22:45:14 -0300 (ART)
+Received: from domain.com.ar ([127.0.0.1])
+	by localhost (rocinante [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 11301-02 for <user@domain.com>;
+	Fri, 17 Aug 2015 22:45:10 -0300 (ART)
+Received: from pc (unknown [58.186.184.48])
+	by domain.com.ar (Postfix) with SMTP id 0C75A5000FF
+	for <user@domain.com>; Fri, 17 Aug 2015 22:45:08 -0300 (ART)
+Message-ID: <002001c7e139$36e596f0$0401user@domain.com>
+From: "TD Banknorth U.S. Corporate Banking'07" <technical_support_op_06ij@tdbanknorth.com>
+To: <user@domain.com>
+Subject: ***SPAM*** TDBanknorth Group Inc. Treasury Management Important
+	Information About Your Banking  --   Code: 4862
+Date: Sat, 18 Aug 2015 08:43:45 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001B_01C7E173.E341FDF0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at localhost
+Content-Length: 3218
+Lines: 61
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 35
+
+   TD Banknorth USA
+
+   Dear TD Banknorth US Business Banking user!
+
+   Our Maintenance Division is running a planned domain.com Banking upgrade
+
+   By clicking on the link below you will commence the procedure of the
+   client details approval:
+
+   <<link>>
+
+   These directions are to be sent and followed by all users of the TD
+   Banknorth USA Wealth Management
+
+   TD Banknorth N.A. Online Banking does apologize for the problems
+   caused, and is very grateful for your collaboration.
+
+   If you are not user of TD Banknorth USA Business Banking please
+   disregard this notification!
+
+   *** This is an automated message, please do not respond ***
+
+    2015  TD Banknorth USA Wealth Management. All Rights Reserved.

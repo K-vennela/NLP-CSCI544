@@ -1,0 +1,72 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id B1AEC23CAE3;
+	Tue, 18 Oct 2015 12:27:34 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at domain.com
+X-Spam-Score: 3.808
+X-Spam-Level: ***
+X-Spam-Status: No, score=3.808 tagged_above=2 required=5
+	tests=[BAYES_00=-2.599, FORGED_MUA_OUTLOOK=4.056, SPOOF_OURI=0.104,
+	SUBJECT_NOVOWEL=0.155, SUBJ_HAS_SPACES=0.87, SUBJ_HAS_UNIQ_ID=0.19,
+	TRACKER_ID=1.032]
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id Y1quaeDMvSy1; Tue, 18 Oct 2015 12:27:33 -0500 (CDT)
+Received: from domain.com (domain.com [129.7.234.211])
+	by domain.com (Postfix) with ESMTP id 45B6223CAEC;
+	Tue, 18 Oct 2015 12:27:33 -0500 (CDT)
+Received: from domain.com (domain.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id D3351E08F41;
+	Tue, 18 Oct 2015 12:27:31 -0500 (CDT)
+Received: from tr21g10.aset.psu.edu (tr21g10.aset.psu.edu [146.186.149.132])
+	by domain.com (Postfix) with ESMTP id 433AE4E99169;
+	Tue, 18 Oct 2015 12:27:31 -0500 (CDT)
+Received: from fijewife ([146.186.238.35])
+	by tr21g10.aset.psu.edu (8.14.3/8.14.3) with SMTP id p9IHQA0i2658398;
+	Tue, 18 Oct 2015 13:26:15 -0400
+Message-Id: <201110181726.user@domain.com>
+Reply-To: user@domain.com
+From: *** Survey WF<phmtcp@psu.edu>
+To: user@domain.com
+Subject: *** Survey Notification ***                                              MWZXPKSQMX
+Date: Tue, 18 Oct 2015 12:26:35 -0500
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="koi8-u"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-Virus-Scanned: by amavisd-new
+X-PMX-Version: 5.5.9.395186, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2011.10.18.171815
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 17
+
+Dear Valued Customer,
+
+You have been chosen by the Wells Fargo to take part in our quick and easy  4 questions survey. 
+In return we will domain.com $70 to your account just for your time!
+
+Helping us better understand how our customers feel benefits everyone. With the information collected we can decide to 
+direct a number of changes to improve and expand our online service. 
+ It will be stored in our secure database for maximum of 5 business days while we process the results of this nationwide survey.
+
+To Continue click on the link below:
+
+<<link>>
+
+WellsFargo Customer Service
+
+Please do not reply to this e-mail as this is only a notification. Mail sent to this address cannot be answered.
+
+Encrypted Message
+
+
+
+
+ONDDSWMVTHTBFOHLYWNZEJORQDMCYQRJRJLCRT

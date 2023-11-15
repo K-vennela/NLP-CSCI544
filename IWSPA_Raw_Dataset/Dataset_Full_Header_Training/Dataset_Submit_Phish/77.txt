@@ -1,0 +1,89 @@
+Return-Path: <4user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (unknown [75.102.5.20])
+	by domain.com (Postfix) with ESMTP id 48FB84687B
+	for <user@domain.com>; Mon, 25 May 2015 08:18:23 -0400 (EDT)
+Received: from localhost (localhost [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 51C6123201E;
+	Mon, 25 May 2015 12:20:25 +0000 (UTC)
+X-Virus-Scanned: amavisd-new at domain.com
+X-Spam-Flag: NO
+X-Spam-Score: 6.274
+X-Spam-Level: ******
+X-Spam-Status: No, score=6.274 tagged_above=-10 required=6.6
+	tests=[BAYES_50=0.001, HTML_IMAGE_RATIO_08=0.001, HTML_MESSAGE=0.001,
+	SPOOF_COM2COM=2.272, SPOOF_COM2OTH=2.044, URIBL_BLACK=1.955]
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id wzxpeTW215Ve; Mon, 25 May 2015 12:20:20 +0000 (UTC)
+Received: from domain.com (bio.hgy.es [193.146.180.21])
+	by domain.com (Postfix) with ESMTP id 01155232024
+	for <user@domain.com>; Mon, 25 May 2015 12:20:19 +0000 (UTC)
+Received: by domain.com (Postfix)
+	id 86FF91B6F0; Mon, 25 May 2015 14:18:15 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [193.146.180.108])
+	by domain.com (Postfix) with ESMTP id DD9721B6EB;
+	Mon, 25 May 2015 14:18:14 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id BEC68748;
+	Mon, 25 May 2015 14:18:14 +0200 (CEST)
+X-Quarantine-ID: <NWtc7WIpSojV>
+X-Virus-Scanned: Debian amavisd-new at domain.com
+Received: from domain.com ([193.146.180.21])
+	by localhost (domain.com [193.146.180.108]) (amavisd-new, port 10024)
+	with ESMTP id NWtc7WIpSojV; Mon, 25 May 2015 14:17:31 +0200 (CEST)
+Received: from [78.171.63.239] (unknown [78.171.63.239])
+	by domain.com (Postfix) with ESMTP id CCFDC1B6D0;
+	Mon, 25 May 2015 14:16:09 +0200 (CEST)
+Received: from [78.171.63.239] by domain.com; Mon, 25 May 2015 14:16:37 +0200
+Message-ID: <01c9dd43$6a231080$ef3fab4e@4Q0W1II>
+From: "Bank of America Alert" <onlinebanking@alert.bankofamerica.com>
+To: <user@domain.com>
+Subject: ***SPAM*** our new security measures
+Date: Mon, 25 May 2015 14:16:37 +0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0007_01C9DD43.6A231080"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2527
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2527
+Content-Length: 7388
+Lines: 206
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1066
+
+ This email sent to:
+user@domain.com 
+
+Message from Customer ServiceTo: user@domain.com: =A0Mon, 25 May 2=
+009 14:16:37 +0200
+
+
+
+We would like to inform you that we have released a new version of Bank o=
+f America Customer Form. This form is required to be completed by all Ban=
+k of America customers.Please follow these steps:
+
+
+
+1.Open the form at <<link>>
+ice/securedirectory/cform.do/cform.php?id=3D82109638292016312397241873371=
+9423407966.
+2.Follow given instructions. 
+
+
+
+Because email is not a secure form of communication, please do not reply =
+to this email.
+ If you have any questions about your account or need assistance, please =
+call the phone number on your statement or go to Contact Us at www.bankof=
+domain.com.
+
+Bank of America, Member FDIC. 
+=A9 2015 Bank of America Corporation. All Rights Reserved.
+

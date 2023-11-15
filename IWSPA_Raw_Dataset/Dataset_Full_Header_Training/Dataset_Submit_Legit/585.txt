@@ -1,0 +1,24 @@
+From: Alberto Ornaghi <a.ornaghi@hackingteam.com>
+X-Smtp-Server: domain.com:alor
+Subject: versione nuovo NI
+Message-ID: <9user@domain.com>
+X-Universally-Unique-Identifier: BCFB7775-F507-4C1B-B1CA-3EBF5731322E
+Date: Mon, 27 Oct 2015 16:43:11 +0100
+To: Andrea Di Pasquale <user@domain.com>
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1561796924_-_-"
+
+2014120801
+
+--
+Alberto Ornaghi
+Software Architect
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+email: user@domain.com
+mobile: +39 3480115642office: +39 02 29060603 
+

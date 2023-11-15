@@ -1,0 +1,37 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.4.9])
+	by domain.com (Postfix) with ESMTP id 1E571469B9
+	for <user@domain.com>; Thu, 28 Jun 2015 10:38:42 -0400 (EDT)
+Received: from domain.com (domain.com [192.168.6.4])
+	by domain.com (Postfix) with ESMTP id 09AD1131FBB3
+	for <user@domain.com>; Thu, 28 Jun 2015 10:38:42 -0400 (EDT)
+Received: from onp-domain.com (static-71-114-220-214.sbndin.dsl-domain.com [71.114.220.214])
+	by domain.com (Postfix) with ESMTP id 35BBD6FA1C4
+	for <user@domain.com>; Thu, 28 Jun 2015 10:38:41 -0400 (EDT)
+Received: from User ([69.213.217.198]) by onp-domain.com with Microsoft SMTPSVC(6.0.3790.1830);
+	 Thu, 28 Jun 2015 10:38:38 -0400
+From: "service@ebay.com"<service@ebay.com>
+Subject: Question from eBay Member -- Respond Now
+Date: Thu, 28 Jun 2015 09:38:38 -0500
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <user@domain.com>
+X-OriginalArrivalTime: 28 Jun 2015 14:38:38.0772 (UTC) FILETIME=[040DB740:01C7B992]
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1450
+
+You have added 
+user@domain.com as a new email address for
+ your
+PayPal account.

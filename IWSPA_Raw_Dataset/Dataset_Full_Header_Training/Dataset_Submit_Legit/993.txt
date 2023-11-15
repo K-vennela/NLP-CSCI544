@@ -1,0 +1,54 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Wed, 18 Feb 2015 17:07:58 +0100
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id 9E31660059;	Wed, 18 Feb 2015 
+ 15:46:48 +0000 (GMT)
+Received: by domain.com (Postfix)	id 225B0B6600B; Wed, 18 Feb 2015 
+ 17:07:58 +0100 (CET)
+Delivered-To: user@domain.com
+Received: from domain.com (unknown [172.20.20.166])	(using TLSv1 with cipher
+ DHE-RSA-AES128-SHA (128/128 bits))	(No client certificate requested)	by
+ domain.com (Postfix) with ESMTPSA id 18A6B2BC0F3	for
+ <user@domain.com>; Wed, 18 Feb 2015 17:07:58 +0100 (CET)
+Message-ID: <54user@domain.com>
+Date: Wed, 18 Feb 2015 17:07:57 +0100
+From: Eros Marcon <e.marcon@hackingteam.com>
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:31.0) Gecko/20100101 Thunderbird/31.4.0
+To: <user@domain.com>
+Subject: Permesso
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EROS MARCONC61
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-927791147_-_-"
+
+    Ciao, vi informo che domani Giovedi 19 Febbraio 
+
+    per motivi familiari sarò assente in ufficio dale ore 9 alle ore 12.
+
+    Grazie.
+
+-- 
+
+      Eros Marcon
+
+      Senior Software Developer
+
+      Hacking Team
+
+      Milan Singapore Washington DC
+
+www.hackingteam.com
+
+      email: user@domain.com
+
+      mobile: +39 3486512411
+
+      phone: +39 0229060603
+
+

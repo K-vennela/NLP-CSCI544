@@ -1,0 +1,137 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 11 May
+ 2015 08:33:18 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 11 May 2015 
+ 08:33:15 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 908601077
+ for user@domain.com; Wed, 11 May 2015 07:33:22 -0500
+X-Note-AR-ScanTimeLocal: 5/11/2016 7:33:17 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @politico.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->
+X-Note-Sending-IP: 68.232.198.10
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from domain.com ([68.232.198.10] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 137749871
+ for user@domain.com; Wed, 11 May 2015 07:33:17 -0500
+Received: by domain.com id h6cj8q163hsj for <user@domain.com>; Wed,
+ 11 May 2015 06:33:00 -0600 (envelope-from
+ <user@domain.com>)
+From: Morning Defense <morningdefense@politico.com>
+To: <user@domain.com>
+Subject: =?UTF-8?B?UE9MSVRJQ08ncyBNb3JuaW5nIERlZmVuc2UsIHByZXNlbnRlZCBi?=
+ =?UTF-8?B?eSBCQUUgU3lzdGVtczogSG91c2UgZGVmZW5zZSBzcGVuZGluZyBiaWxsIGJv?=
+ =?UTF-8?B?b3N0cyBwcm9jdXJlbWVudCDigJQgU0FTQyBiZWdpbnMgZnVsbCBOREFBIG1h?=
+ =?UTF-8?B?cmt1cCDigJQgQSB2ZXJ5IGJlbGF0ZWQgSGFnZWwgRk9JQSBkZWxpdmVyeQ==?=
+Date: Wed, 11 May 2015 06:33:00 -0600
+List-Unsubscribe: <mailto:user@domain.com>
+Reply-To: POLITICO subscriptions
+	<user@domain.com>
+x-job: 1376319_5411499
+Message-ID: <user@domain.com>
+Content-Type: multipart/alternative; boundary="bFbhXzfjpFjH=_?:"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+By Jeremy Herb | 05/11/2016 08:30 AM EDT
+
+With Louis Nelson, Austin Wright, Connor O'Brien and Ellen Mitchell
+
+DRIVING THE DAY - CONGRESS NEGOTIATES DEFENSE BILLS BEHIND CLOSED DOORS: The Senate Armed Services Committee and House Defense Appropriations Subcommittee take their debates of the annual defense policy and spending bills behind closed doors. The Senate panel begins work on the National Defense Authorization Act, likely to stretch into Thursday or Friday, while the House subcommittee should have a fairly quick markup at 5:30 p.m. ahead of full committee consideration, which will be open. Here's a look at both bills:
+
+HOUSE DEFENSE SPENDING BILL BOOST PROCUREMENT, BLOCKS ARMY CUTS: The House defense spending bill released Tuesday evening includes an additional $15.7 billion from the war budget moved to cover base Pentagon programs, echoing a similar move by the House Armed Services Committee. With the extra money, the bill boosts procurement funding by $9.6 billion, including an additional 11 F-35 fighters and 14 F/A-18 Super Hornets as well as a third Littoral Combat Ship. The spending measure also reverses the Army's planned end strength cuts and funds a full 2.1 percent military pay raise.
+
+The full bill is here, and a summary is here. The measure's funding tables will be released ahead of the full appropriations committee markup.
+
+- DEMOCRATS SLAM 'FUNDING GIMMICK': In a sign of the looming defense spending fight, House Appropriations ranking Democrat Nita Lowey of New York issued a statement Tuesday slamming the bill's funding maneuver as a gimmick and "astoundingly irresponsible." "By shifting funding away from Overseas Contingency Operations, the majority would create a cliff just a few months into 2017, forcing the new President to request supplemental funds to pay our troops within weeks after taking office," she said in a statement.
+
+SASC DEFENSE POLICY BILL BANS BRAC, INCLUDES LOWER PAY RAISE: The six SASC subcommittees approved their portions of the NDAA Monday and Tuesday, with three of them holding open sessions that teased out a few details of the full Senate bill. The bill would ban a new round of base closures requested by the Pentagon for the fifth straight year, said Sen. Kelly Ayotte (R-N.H.), the Readiness chairwoman. "I do not want to give the department the open-ended authority to pursue another BRAC round that will incur significant up-front costs,' Ayotte said.
+
+Personnel Subcommittee Chairman Lindsey Graham (R-S.C.) said the bill includes a lower-than-projected pay raise of 1.6 percent, rather than 2.1 percent approved by the House. He also added that the bill includes provisions overhauling the military's health-care system aimed at "sustainability, higher quality, better access and ... expand the services." And the changes, he suggested, could be opposed by veterans and military service organizations.
+
+- BILL LIKELY TO REQUIRE WOMEN TO REGISTER FOR THE DRAFT: The Senate Armed Services' version of the defense policy bill is likely to include a provision requiring women to register for the draft. "I believe it will be in the mark," Sen. Claire McCaskill (D-Mo.) told Morning D Tuesday. The defense bill mark from Senate Armed Services Chairman John McCain (R-Ariz.) has not yet been made public, but if the provision remains after the committee completes its markup, it would follow the House Armed Services Committee, where the requirement was added in as an amendment - although there are efforts to remove it on the House floor. 
+
+- SENATE APPROPRIATIONS NOT FAR BEHIND: Our Budget and Appropriations colleagues report that Senate Majority Leader Mitch McConnell said Tuesday the defense authorization and appropriations measures are in the Senate floor queue. The Kentucky Republican said they're both likely to be considered after the Senate finishes the Energy and Water appropriations bill and then the Transportation-HUD and Military Construction-VA bill, which will be coupled together.
+
+HAPPY WEDNESDAY AND WELCOME TO MORNING DEFENSE, where the coffee is already flowing, and we're not yet halfway through the week. We're hearing SASC can get done by Thursday evening, at least. Keep the tips, pitches and feedback coming at user@domain.com, and follow on Twitter @jeremyherb, @morningdefense and @politicopro.
+
+HAPPENING TODAY - HEARING ON FOREIGN MILITARY SALES: The defense industry's two leading trade groups testify this morning in the House Armed Services Oversight and Investigations Subcommittee. Tom Davis of the Aerospace Industries Association and Remy Nathan of the National Defense Industrial Association will discuss the Pentagon's policies on foreign military sales.
+
+ALSO TODAY - CARTER IN SILICON VALLEY: Defense Secretary Ash Carter addresses a meeting of the National Security Telecommunications Advisory Committee in California. And, in Washington, Rep. Jim Bridenstine (R-Okla.) discusses the security implications of rapid access to space at a forum hosted by the Heritage Foundation and the Air Force Air University.
+
+FROM THE ARCHIVES - HAGEL BLASTS 'DUMB' BLACK BERETS DECISION: On the day Chuck Hagel was nominated for defense secretary, we submitted a Freedom of Information Act request for his communications with the Pentagon from 1997 to 2009, during his time as a Republican senator from Nebraska. We were hoping these letters would shed some light on his views on key issues of the past decade. On Tuesday, three-and-a-half years later, we got a large envelope in the mail with a stack of letters from Hagel to then-Defense Secretaries Donald Rumsfeld and Robert Gates. Given that Hagel has now been out of the government for more than a year, the letters no longer have much news value (except as evidence
+ of the Pentagon's less-than-punctual FOIA system), but there are a few gems worth noting.
+
+In 2008, Hagel sent Gates a letter recommending his former Senate aide, Eric Rosenbach, to be deputy undersecretary of defense for intelligence. Rosenbach didn't get the job. But he's done pretty well for himself nonetheless, serving in several top Pentagon posts, including now as Carter's chief of staff. Hagel also sent several letters asking about Iraq War issues, and he twice wrote Rumsfeld to urge funding to repair a runway at Offutt Air Force Base back home in Nebraska. In 2001,Hagel sent Rumsfeld a pretty direct handwritten note, complaining about then-Army Chief of Staff Eric Shinseki's decision to make black berets a part of the Army combat uniform - a move that was unpopular among
+ soldiers and has since been reversed.
+
+"Dear Don," Hagel wrote. "I hope you personally are taking a look at this dumb 'black beret' decision made by General Shinseki. I expressed my displeasure with this silly decision to Cohen and Shinseki. One dumb decision after the other over there. First, black berets then the 'Army of One' slogan. What the hell is next? I sent the president a note on this yesterday. Thanks, friend." Signed: "An old Army sergeant, Chuck."
+
+** A message from BAE Systems: At BAE Systems, our experts have developed a low-cost gun-launched guided projectile, increasing range, accuracy and efficiency for our military services. Learn more at domain.com/SAS. **
+
+THE CAPITOL HILL SPACE WARS - HOW ULA WON ROUND 1 IN THE NDAA, we dove into the backstory of the HASC amendment battle: "The House Intelligence chairman was off the grid. As the House Armed Services Committee considered hundreds of amendments to the National Defense Authorization Act, Rep. Duncan Hunter wanted to add one more, seeking to fight back against supporters of United Launch Alliance and their efforts to secure more Russian-made rocket engines. There was just one problem: The congressman needed fellow California Republican Rep. Devin Nunes and the Intelligence Committee to sign off on a waiver. And Nunes wasn't around.
+
+"The waiver for Hunter, a SpaceX backer, never came that night. His hands were largely tied as the committee adopted an amendment from Rep. Mike Coffman (R-Colo.) allowing ULA to obtain 18 Russian-made RD-180 rocket engines for its military launches, according to sources familiar with the daylong negotiations among lawmakers, congressional aides and lobbyists from the two companies. The amendment skirmish during last month's House markup was only the opening salvo in this year's Space Wars on Capitol Hill."
+
+FOR YOUR RADAR - OBAMA TO VISIT HIROSHIMA, via The Associated Press: "Eager to heal old wounds and galvanize new generations, President Barack Obama this month will become the first sitting American president to domain.com Hiroshima, where seven decades ago the U.S. dropped the devastating atomic bomb that ushered in the nuclear age. By visiting the peace park near the epicenter of the 1945 attack, the president hopes to reinvigorate efforts worldwide to eliminate nuclear weapons. But in a sign of the extraordinary political sensitivities attached to the gesture, the White House is going out of its way to stress Obama will not come bearing an apology."
+
+- SLIDESHOW: What the president will see when he visits Hiroshima.
+
+THE SOUTH CHINA SEA DISPUTE - CHINA SCRAMBLES FIGHTERS AFTER U.S. SAILS WARSHIP, writes Reuters: "China scrambled fighter jets on Tuesday as a U.S. navy ship sailed close to a disputed reef in the South China Sea, a patrol China denounced as an illegal threat to peace which only went to show its defense installations in the area were necessary. ... China's Defense Ministry said two fighter jets were scrambled and three warships shadowed the U.S. ship, telling it to leave." 
+
+INDUSTRY INTEL - KENDALL SEEKS QUICKER PROGRAM STARTS: The Pentagon's top weapons buyer on Tuesday said he asked the House Armed Services Committee to insert a provision into the committee's defense bill that would allow programs to start ahead of a budget cycle should they be urgently needed to keep pace with new threats. "I'm thinking about a surprise, where if a threat shows up on the battlefield ... We need to start right away with the countermeasure," Frank Kendall said. But the House Armed Services Committee did not include the provision in the defense policy bill, according to a congressional staff member.
+
+SPEED READ
+
+- Dozens of people are killed by a car bomb in a Shiite neighborhood in Baghdad: AP
+
+- At least 10 people are dead in a suicide bombing in Afghanistan in front of a pro-government militia commander's residence: Reuters
+
+- U.S. and Afghan commandos rescue the son of a former Pakistani prime minister in Afghanistan: The Washington Post
+
+- Iran announces the delivery of an S-300 air-defense missile system from Russia, part of a 2015 deal that was halted by complaints from the U.S. and Russia: The Washington Post
+
+- The Citadel military college in South Carolina denies a request from a female Muslim student to wear a headscarf: AP
+
+- Ben Rhodes and the tough sell of the president's foreign policy: POLITICO Magazine
+
+- Classified information was inadvertently disclosed at a February Guantanamo military commission hearing: POLITICO
+
+- The Navy tells Lockheed Martin to correct quality control failures in its version of the Littoral Combat Ship: Bloomberg
+
+- Boeing's $19 billion stock buybacks over the past three years have analysts worried the company is borrowing from the future: The Wall Street Journal
+
+- The Islamic State distributes lengthy "kill lists" of ordinary Americans, raising questions over whether the lists are a legitimate threat or scare tactics: WSJ
+
+- A new "fifth-generation" military drone being developed as a target for training missions could become a wingman for F-22 and F-35 fighters: The Daily Beast
+
+- A Syrian national was extradited to the U.S. on charges of helping hack and extort American targets viewed as enemies of Syrian President Bashar Assad: AP
+
+- The Air Force will announce the name of the new B-21 bomber during the Air Force Association's conference in September: Defense News
+
+** A message from BAE Systems: At BAE Systems, we work relentlessly to stay ahead of any challenge our customers may face. Our passion and dedication shows in everything we do-from advanced electronic systems to cyber operations and intelligence analysis, from combat vehicles and naval weapons, and from ship maintenance and modernization to vehicle upgrades and services. Knowing that our work makes a difference inspires us to push ourselves and the technologies we create to new levels. That's BAE Systems. That's Inspired Work. Learn more about our technologies, systems and services at domain.com/US. **
+
+To view online:
+<<link>>
+ To change your alert settings, please go to <<link>> or <<link>> email was sent to user@domain.com by: POLITICO, LLC 1000 Wilson Blvd. Arlington, VA, 22209, USA
+
+To unsubscribe,<<link>>
+

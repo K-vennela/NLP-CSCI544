@@ -1,0 +1,145 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 24 May
+ 2015 08:21:31 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 24 May 2015 
+ 08:21:21 -0400
+Received: from [10.87.0.110] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 931040536;
+ Mon, 23 May 2015 23:59:49 -0500
+X-Note-AR-ScanTimeLocal: 5/24/2016 12:00:00 AM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Note-AR-Scan: None - PIPE
+Received: by domain.com (CommuniGate Pro PIPE 6.1.7)  with PIPE id
+ 143586674; Tue, 24 May 2015 00:00:00 -0500
+Received: from [216.251.112.210] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 143586666;
+ Mon, 23 May 2015 23:59:55 -0500
+Message-ID: <078edd$1user@domain.com>
+From: Egencia <no-reply@egencia.com>
+To: <user@domain.com>
+CC: <user@domain.com>
+Reply-To: Egencia <user@domain.com>
+Date: Mon, 23 May 2015 21:59:43 -0700
+Subject: =?iso-8859-1?Q?Receipt=A0for=A0Jordan=A0Kaplan=A0-=A0Itinerary=A0#23747475922=A0?=
+Content-Type: multipart/mixed;
+	boundary="--boundary_69659_17b9f8da-926a-4b46-ab12-7336ae2c7159"
+X-Note-AR-ScanTimeLocal: 5/23/2016 11:59:55 PM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @egencia.com ALLOWED
+X-Note: VCH-CT/SI:0-3946/SG:1 5/23/2016 11:59:35 PM
+X-Virus-Scan: V-X0H0M0
+X-Note: Spam Tests Failed: 
+X-Country-Path: United States->
+X-Note-Sending-IP: 216.251.112.210
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+=09
+
+
+
+=09
+	Dear Jordan,
+=09
+
+
+
+=09
+=09
+
+
+
+	Please find your receipt attached to this email.
+
+
+
+=09
+
+
+
+=09
+=09
+	On your next trip, you can keep up to date with your itinerary using our m=
+obile app available on iOS and Android.
+
+
+
+=09
+
+
+
+	Thank you for traveling with Egencia.
+
+
+
+=09
+=09
+
+
+
+=09
+	Safe travels,
+=09
+
+
+
+The Egencia Team
+
+
+
+=09
+=09
+=09
+
+
+
+=09
+=09
+=09
+=09
+
+
+
+=09
+
+
+
+
+=09
+=09
+=09
+
+
+
+www.egencia.com
+
+333 108th Ave NE, Bellevu=
+e, WA 98004
+
+	CONTACT US - Please do not reply to this email to reach us -- we can't rep=
+ly to messages sent to this address.=20
+							To contact using email, please use our feedback form.
+
+
+
+	=A9 Egencia, LLC. All rights reserved. Expedia, Egencia, and the Egencia l=
+ogo are either registered trademarks=20
+							or trademarks of Expedia, Inc. in the U.S. and/or other countries.
+
+

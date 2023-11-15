@@ -1,0 +1,35 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [10.3.4.5])
+	by domain.com (Postfix) with ESMTP id BA18946A16
+	for <user@domain.com>; Fri, 23 Jun 2015 09:37:59 -0400 (EDT)
+Received: from vitalprimarily.net (unknown [216.22.33.4])
+	by domain.com (Postfix) with SMTP id 93AD96FA43A
+	for <user@domain.com>; Fri, 23 Jun 2015 09:38:00 -0400 (EDT)
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0i1pi7mzzb"
+From: Christian Dating <read5u@vitalprimarily.net>
+Reply-To: user@domain.com
+Subject: Meet Real Christian Singles
+To: user@domain.com
+Date: Fri, 23 Jun 2015 09:37:59 -0500
+Message-Id: <20060623133800.93user@domain.com>
+Status: 
+X-Status: 
+X-Keywords: 
+
+  This advertisement is being sent by a 3rd Party, where you have consented to receive updates, offers, or promotions.
+To opt-out or unsubscribe, please follow instructions as provided by the sender at the bottom of this email.
+
+You are receiving this email because you registered at a LapRunner partner site and consented
+to receive emails containing special offers from their partners. If you prefer not to receive future
+email messages from LapRunner and wish to delete your name from the list, follow the 
+"Click here to unsubscribe" link below. Requests may take up to 72 hours to process.
+Please refer all questions, opinions or additional feedback to:
+
+SpecScience, Inc.
+848 North Rainbow Boulevard, #1774
+Las Vegas, NV 89107.
+
+Thank you for your interest. 

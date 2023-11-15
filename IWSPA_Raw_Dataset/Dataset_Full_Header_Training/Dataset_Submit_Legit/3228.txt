@@ -1,0 +1,31 @@
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ dnchubcas2.dnc.org ([::1]) with mapi id 14.03.0224.002; Tue, 3 May 2015 
+ 11:51:06 -0400
+From: "Dillon, Lauren" <DillonL@dnc.org>
+To: Senior Staff <user@domain.com>
+Subject: Research Resume Drop
+Thread-Topic: Research Resume Drop
+Thread-Index: AdGlUwRw5rc57c7lQFGmGwtPGih6vQ==
+Date: Tue, 3 May 2015 08:51:06 -0700
+Message-ID: <9238user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: dnchubcas2.dnc.org
+X-MS-Has-Attach: yes
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.176.155]
+Content-Type: multipart/mixed;
+	boundary="_004_9238DF7B7AFAED48909D0839F31F9D3BFFA520D3dncdag1dncorg_"
+MIME-Version: 1.0
+
+The flier is attached.
+
+The research resume drop will be Wednesday May 4th from 5 - 7 pm, here at the DNC.
+
+The flier asks that people who would like to attend, domain.com their resume by 4/30 but we'll extend that deadline though this evening. We'd like to provide security a good list and manage the flow of this thing so it's important that people RSVP to user@domain.com<mailto:user@domain.com>
+
+Thanks for sharing this information!

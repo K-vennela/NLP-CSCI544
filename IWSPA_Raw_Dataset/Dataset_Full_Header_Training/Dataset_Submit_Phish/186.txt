@@ -1,0 +1,63 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 541DA23CAD3
+	for <user@domain.com>; Tue, 18 Oct 2015 08:02:09 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 7+selrX4PJUD for <user@domain.com>;
+	Tue, 18 Oct 2015 08:02:06 -0500 (CDT)
+Received: from sdmail.net (wsip-70-166-17-107.domain.com [70.166.17.107])
+	by domain.com (Postfix) with ESMTP id B858F23CABB
+	for <user@domain.com>; Tue, 18 Oct 2015 08:02:06 -0500 (CDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=default; d=sdmail.net;
+	h=Received:To:Subject:Message-ID:Date:From: "Michael Cohen" <Michael@sdmail.net>
+	b=HlTzo/FLj+dc8pK3xG1z+tGaaBuzjzJU49ZdjCbrBVRB6yVZbkrDMjPxKk0gUpHbhnWI24tosWGvlmyVxWYcJPwClYl1o5B9nkC9C71XM0CiI/PQZatQm3X8cJVuxudf;
+Received: from sdmail by domain.com with local (Exim 4.69)
+	(envelope-from <user@domain.com>)
+	id 1RG9Iv-00084T-I1
+	for user@domain.com; Tue, 18 Oct 2015 06:02:01 -0700
+To: user@domain.com
+Subject: Hey
+Message-ID: <4bfa0026e878c823b73f0d6c7b4fdb24@70.166.17.107>
+Date: Tue, 18 Oct 2015 05:57:35 -0700
+From: "Michael Cohen" <Michael@sdmail.net>
+Reply-To: user@domain.com
+MIME-Version: 1.0
+X-Mailer-LID: 3
+List-Unsubscribe: <<<link>>>
+X-Mailer-RecptId: 1927198
+X-Mailer-SID: 4
+X-Mailer-Sent-By: 1
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - domain.com
+X-AntiAbuse: Original Domain - domain.com
+X-AntiAbuse: Originator/Caller UID/GID - [531 527] / [47 12]
+X-AntiAbuse: Sender Address Domain - sdmail.net
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 14
+
+Hey, check this out. I get paid 800 dollars a month to put an ad on my car.
+Its a really great deal.
+
+I signed up, and I put the ad on my car (it only took a few seconds), and I
+got my check in the mail for $800 this month. CHA-CHINGG :)
+
+Here is the website  domain.com
+
+Regards,
+
+Michael Cohen
+
+-------------------------------------------------
+To stop receiving emails from this sender, click:
+<<link>>
+
+To Report SPAM, Please go here, <<link>>
+9481 Lockwood ave, Skokie, IL 60077

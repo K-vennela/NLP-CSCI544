@@ -1,0 +1,116 @@
+Dear Mike,
+Thanks for your detailed response about your use of the SRES scenarios.
+I'm sure it will be useful to Bob Watson.  I wish I could explain better
+what Bob's problem entails -- it is intensely political.  My judgement is
+that, if I tell you more, then this will indirectly help Bob in answering
+the questions posed of him by Sensenbrenner; particularly should Bob need
+to get back to you. Please note that this is confidential information.
+Please note, too, that I am making my own judgement on this in the
+interest of clarifying a complex issue.  I have not been authorized by
+Bob, or anyone associated with IPCC, to divulge this information.
+The stated concern of Sensenbrenner is that the use of the SRES scenarios
+prior to their ratification might, in some way, jeopardize IPCC's
+"independence and objectivity".  Sensenbrenner apparently uses as
+guidelines in making his judgement "IPCC's 'Principles' (as) approved in
+Vienna, Austria in October 1998" together with "June 11 and 28, 1999
+letters" giving "Appendix A to the Principles, which is entitled
+'Procedures for the Preparation, Review, Acceptance, Approval and
+Publication of IPCC Reports' (which was) approved ... in April 1999".
+Sensenbrenner implies that these documents "raise concerns about the use
+of preliminary IPCC material by Dr. Wigley and the Pew Center on Global
+Climate Change for non-IPCC purposes, apparently without IPCC sanction".
+He considers that "these issues (are) significant because they relate
+directly to the integrity of the IPCC process".
+In my case, I bypassed the "IPCC process" by obtaining permission, in
+writing, from the 4 groups who produced the marker scenarios.  I did not
+acknowledge the CIESIN web site.  In your case, apparently, you did.  The
+problem here is that this site stated very clearly that the data were "not
+for citation or quotation".  Did you take notice of this?
+My view is, and has always been, that contributors to such data sets or
+distribution sites do not give up the intellectual property rights to
+their own data. They could do so, of course, by signing appropriate
+legal/copyright documents; but I have never done this, nor, as far as I
+know, has anyone who contributed to the CIESIN site.  This is why I went
+to the individual authors in order to obtain permission to use their data
+in my Pew report.  I hope you can see that there is an important
+difference between what you did and what I did.  At face value, it would
+appear that you have ignored the clearly-stated message that the CIESIN
+site data were "not for citation or quotation".  (More on this point
+below.)
+You refer back to the July 1998 Bureau meeting agreeing that the
+preliminary SRES scenarios (in your words) "could, and should, be used by
+scientists".  From my reading of the background material, this is subtly
+wrong -- the Bureau only agreed that the data could be used by "the GCM
+modeling community".  As it happens, I am part of that community, and I
+acted as the interface between the scenarios and the rest of the NCAR GCM
+team, providing SRES data to them in a form that could be used for our GCM
+runs.  I do not think you can claim to have filled this particular and
+quite specific role in your work.
+However, there are some interesting subtleties here that, I think,
+vindicate your position.  The issue is what is meant by the "GCM modeling
+community".  In my view, anyone who uses GCM data either to provide data
+sets to the impacts community or to carry out diagnostic studies directly
+to improve GCMs is part of this community.  (Note that this does *not*
+allow one to include the impacts modelers as part of the GCM community.)
+The two stated aspects are precisely what you do.  Furthermore, SCENGEN
+(which I presume you have used in your work) makes direct use of GCMs in
+order to produce spatially-specific climate results based on any given
+emissions scenarios (including the SRES scenarios).  The SCENGEN method is
+simply an alternative way of translating emissions scenarios into
+GCM-based and GCM-type output.  In my view, anyone using the SRES
+scenarios in the development of SCENGEN, or applying SCENGEN to produce
+spatially-specific climate results for dissemination to others, must be
+included as part of the "GCM modeling community" referred to in the
+Bureau's agreement regarding use of the SRES scenarios.  You may have
+interpreted the Bureau's statements even more broadly than this -- but
+this is of no consequence, since what you have done also falls squarely
+within the more restricted interpretation that I have given above.
+Nevertheless, I think it would have been wiser for you to have done things
+the way I did, rather than to have acknowledged the CIESIN site as your
+source.
+The next issue, raised in your email, concerns the DDC.  I have not looked
+at this site, but I presume it duplicates what was on the CIESIN site.  If
+so, then its use (and the use of the preliminary SRES data) must be
+controlled by the rules under which the DDC was set up and operates.  The
+key questions, therefore, are:
+(1) Do these rules allow the use of these data by anyone?
+(2) Do the SRES data, as it appears on this site, include the statement
+"not for citation or quotation"?
+(3) Does this make moot the whole issue of the use of the SRES scenarios?
+In other words, if these data are available to all and sundry, with no
+restrictions, through DDC, then no one can complain about their use.
+(Although, in your case, since you acknowledged CIESIN rather than DDC,
+you may still be subject to criticism.)
+What this could amount to is a loophole in the IPCC rules of procedure.
+Sensenbrenner might then argue that this loophole should be closed by
+clarifying and tightening the rules for the DDC.
+The bottom line is that I think you have done things in a perfectly
+legitimate way.  Even acknowledging the CIESIN site is legitimate, since
+your primary application was in the production of climate change scenarios
+as a member of the "GCM modeling community" as I believe this community
+should be defined.  You have then distributed these results to the global
+climate impacts community who, in turn, will be feeding their results back
+into the IPCC process through WGII.  Your chosen method of distribution
+(especially the WWF pathway) might be judged as less than ideal; but I
+cannot see anything that you have done that goes explicitly or implicitly
+against IPCC regulations.
+Below the bottom line is the concern expressed by Sensenbrenner that these
+actions (yours and mine) might, in some way, have undermined the
+"integrity of the IPCC process".  It would be interesting to hear from
+Sensenbrenner just how he thinks that might have happened.  All we have
+done is distribute credible and defensible scientific information.  If
+this information were to be in conflict with the currently best-available
+science, this might be an issue of concern -- but it is not.  The more
+such credible scientific information is distributed to the community,
+particularly when it is presented in an easily-read, non-technical yet
+authoritative way, the better.  I can see no way that this can distort the
+IPCC process.  Some people, however, appear to think that it might.  (A
+less kind interpretation might be that they are just trying to slow down
+the process by tying it up in legal and procedural knots -- but I have no
+evidence that this is what they are trying to do.)
+I hope you can see from the above quotes and somewhat convoluted arguments
+what a legal and political minefield this is.  These sorts of issues do
+not seem to arise outside of the USA; but here they take on an enormous
+importance.  One must tread very cautiously.
+Cheers,
+Tom

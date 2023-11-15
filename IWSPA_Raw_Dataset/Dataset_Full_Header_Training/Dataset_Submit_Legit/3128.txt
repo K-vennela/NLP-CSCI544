@@ -1,0 +1,66 @@
+From: "eBay" <eBay@reply1.ebay.com>
+To: "User"
+Subject: =?utf-8?Q?Get_a_$100_Coupon_if_your_phone_?=
+	=?utf-8?Q?doesn=E2=80=99t_sell.?=
+Date: Tue, 2 Sep 2015 23:08:13 -0400
+Message-ID: <0.1.11user@domain.com>
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQHxGEC8Wm9GQicnt5xX+9Sy/Nc3LA==
+Content-Language: en-us
+x-ms-exchange-organization-authas: Internal
+x-ms-exchange-organization-authmechanism: 10
+x-ms-exchange-organization-authsource: domain.com
+x-forefront-antispam-report: CIP:91.194.248.158;CTRY:AT;SRV:BULK;EFV:NLI;SFV:NSPM;SFS:(438002)(199003)(65504003)(32674003)(505014003)(189002)(33656002)(110136001)(229853001)(92566001)(74662001)(107046002)(31966008)(80022001)(81542001)(46102001)(47976999)(77096002)(71186001)(2351001)(54356999)(53416004)(19273905006)(18206015026)(106796001)(15975445006)(19627405001)(84326002)(104016003)(19617315012)(110456001)(19618635001)(307094003)(106466001)(2361001)(83072002)(85852003)(92726001)(22186001)(44976005)(946001)(99396002)(83322001)(20776003)(15202345003)(81342001)(107886001)(87836001)(102836001)(19580395003)(146001)(4396001)(103116003)(15187005004)(6806004)(74502001)(85306004)(50986999)(19580405001)(21056001)(575784001)(567944001)(95656003)(76482001)(90102001)(79102001)(512874002)(956001)(77982001)(82556003)(559001)(579004)(18926415006);DIR:INB;SFP:;SCL:1;SRVR:BY2FFO11HUB054;H:domain.com;FPR:;MLV:sfv;PTR:domain.com;A:0;MX:1;LANG:en;
+received-spf: Pass (domain.com: domain of reply1.ebay.com designates 91.194.248.158 as permitted sender) receiver=domain.com; client-ip=91.194.248.158; helo=domain.com;
+authentication-results: spf=pass (sender IP is 91.194.248.158) user@domain.com; 
+x-microsoft-antispam: BCL:3;PCL:0;RULEID:(50001);UriScan:;
+x-eopattributedmessage: 0
+List-Unsubscribe: <<<link>>>
+x-domain.com: domain.com
+dkim-signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=emarsys2007; d=reply1.ebay.com; h=List-Unsubscribe:List-Id:MIME-Version:To:From: "eBay" <eBay@reply1.ebay.com>
+domainkey-signature: a=rsa-sha1; c=nofws; q=dns; s=emarsys2007; d=reply1.ebay.com; b=MOhAm8/ljRtJZi6ULxWXW4SIJG1KT5TEGs4I0VajxIyf7noMLrsnQk8cvWQoGvbFSWe932l7QcGA   nlW/Ahwozuw82X+OeGTgVrj0OLgKEca8tAXNvd73T6fqhFXlTiH0tdZIcKUg3O0yRUVUXqNy/YV2   ByKlGGJ+t2x8NnicFtE=;
+list-id: 1301 <eBay>
+x-csa-complaints: user@domain.com
+X-Message-Flag: Flag for follow up
+x-emarsys-identify: 1301_1770307870879_1771504254244_43e09dII87e69dII19c75e1bd24II1
+x-emarsys-environment: e3us
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+Your phone will sell or we’ll give you $100—either way, you win.
+
+View this message in your browser
+
+Sell Your Phone
+
+Phone Selling Guide
+
+†Based on the difference between trending price (*) and the comparison price (**) for the iPhone 5S 32GB (Verizon) in used (flawless or excellent) condition, as checked on August 25, 2014. 
+
+                *Trending Price is based on the prices of iPhone 5S 32GB (Verizon), Samsung Galaxy S4 SCH -I545 32 GB (Verizon), or HTC OP6B120 One M8 (ATT) phones, as applicable, in used (flawless or excellent) condition for the most recent 100 transactions of such items sold through domain.com, as secured on August 25, 2014. The price reflected is the 85th percentile of those prices (removing fees), but excluding shipping/handling charges and any sales tax. 
+
+                **The comparison prices reflect those offered for iPhone 5S 32GB (Verizon), Samsung Galaxy S4 SCH -I545 32 GB (Verizon) or HTC OP6B120 One M8 (ATT) phones, as applicable, in used (flawless or excellent) condition as secured on August 25, 2015 through the domain.com trade-in program, the domain.com trade-in program, and domain.com.  
+
+                No guarantee is made that a particular item will sell at a particular price. No affiliation with, sponsorship, or endorsement by any referenced brand or brand owner is implied.
+
+See full offer details. 
+
+Learn more to protect yourself from spoof (fake) e-mails.
+
+
+
+						eBay Inc. sent this e-mail to you at user@domain.com because your Notification Preferences indicate that you want to receive seller email promotions.
+
+
+
+						If you do not wish to receive further communications like this, please click here to unsubscribe. Alternatively, you can change your Notification Preferences in My eBay by clicking here. Please note that it may take up to 10 days to process your request.
+
+
+
+						domain.com our Privacy Policy and User Agreement if you have any questions.
+
+
+
+						Copyright © 2015 eBay Inc. All Rights Reserved. Designated trademarks and brands are the property of their respective owners. eBay and the eBay logo are trademarks of eBay Inc. 2145 Hamilton Avenue, San Jose, CA 95125.
+

@@ -1,0 +1,51 @@
+Received: from domain.com ([fe80::755c:1705:6a98:dcff]) by
+ domain.com ([fe80::755c:1705:6a98:dcff%11]) with mapi id
+ 14.03.0123.003; Sat, 17 Jan 2015 09:03:28 +0100
+From: Emad Shehata <e.shehata@hackingteam.com>
+To: "User"
+	<user@domain.com>
+CC: rsales <user@domain.com>
+Subject: R:
+Thread-Index: AQHQMh9qR2W5G7s2kkqBN2ETHUPqdJzD8+i4
+Date: Sat, 17 Jan 2015 09:03:28 +0100
+Message-ID: <user@domain.com>
+In-Reply-To: <CADsNJ7obvi6123k2hKwit0SsBu3r8NPMPoBjO614XUDiw+user@domain.com>
+Accept-Language: it-IT, en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <user@domain.com>
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 03
+X-Originating-IP: [fe80::755c:1705:6a98:dcff]
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EMAD SHEHATA450
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1059228026_-_-"
+
+Dear Marat,
+
+Thanks for the update.
+
+Best regards and have a nice week end
+--
+Emad Shehata
+Key Account Manager
+
+Sent from my mobile.
+
+
+
+Da: Astana Team [mailto:user@domain.com]
+Inviato: Saturday, January 17, 2015 07:32 AM
+A: Emad Shehata; Emad Shehata <user@domain.com>
+Oggetto: 
+
+
+
+Dear Emad!Thank you for your support (license key). I would like to inform that the draft contract agreed with the lawyers. Paragraph in respect of the bank guarantee has been deleted. Now Sonia its translation into English. Once it is transferred, we will send it to you.
+
+Kind regards!

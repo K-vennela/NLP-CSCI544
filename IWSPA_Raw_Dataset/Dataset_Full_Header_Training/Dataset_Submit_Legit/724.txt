@@ -1,0 +1,91 @@
+From: "Apple" <noreply@insideicloud.icloud.com>
+To: "User"
+Subject: Your Apple ID was used to restore a device from iCloud Backup
+Date: Thu, 9 Oct 2015 17:42:41 -0400
+Message-ID: <240320528.355950721412890961292.user@domain.com>
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQHiQSNTINFm4V4Ek4yJUEJf5Q2hzg==
+Content-Language: en-us
+x-ms-exchange-organization-authas: Internal
+x-ms-exchange-organization-authmechanism: 10
+x-ms-exchange-organization-authsource: domain.com
+x-forefront-antispam-report: CIP:17.151.1.98;CTRY:US;IPV:NLI;EFV:NLI;SFV:NSPM;SFS:(438002)(199003)(377454003)(31594003)(189002)(6806004)(18206015026)(21056001)(110456001)(118246001)(71186001)(31966008)(80022003)(92726001)(20776003)(575854001)(46102003)(19580395003)(85306004)(19617315012)(956001)(64706001)(107886001)(19580405001)(15202345003)(44976005)(106796001)(2351001)(99396003)(107046002)(16236675004)(92566001)(87836001)(77096002)(2361001)(110136001)(85852003)(54356999)(76482002)(102836001)(15975445006)(4396001)(120916001)(84326002)(106466001)(86816001)(95666004)(551544002)(50986999)(53416004)(229853001)(25786005)(307094003)(7059026)(85226002);DIR:INB;SFP:;SCL:1;SRVR:BY2FFO11HUB017;H:nwk-txn-domain.com;FPR:;MLV:sfv;PTR:nwk-txn-domain.com;A:0;MX:1;LANG:en;
+received-spf: Pass (domain.com: domain of insideicloud.icloud.com designates 17.151.1.98 as permitted sender) receiver=domain.com; client-ip=17.151.1.98; helo=nwk-txn-domain.com;
+authentication-results: spf=pass (sender IP is 17.151.1.98) user@domain.com; 
+x-microsoft-antispam: BCL:3;PCL:0;RULEID:(50001);SRVR:BY2FFO11HUB017;
+x-eopattributedmessage: 0
+x-domain.com: domain.com
+dkim-signature: v=1; a=rsa-sha1; d=insideicloud.icloud.com; s=insideicloud2048; c=relaxed/relaxed;	q=dns/txt; user@domain.com; t=1412890961;	h=From: "Apple" <noreply@insideicloud.icloud.com>
+x-dkim_sign_required: YES
+x-sent-to: user@domain.com,2,k%2BmjWPCFEH1m5ry2zndhAi%2BUAjhokWPRuCArgZLWLu0QqJe4bznMnmV6pl32Qm4wge8SldXp36AksA3K%2BQbGp3wm74UZeQEb%2BEilFyUBBjdMqPUv%2FlcnuGvVXGIUH05LR5EdFAiLX7SDv2HWTcQO%2FXwHs7BMLumJBVylomvOTBebOsibXdDeswnE%2FIb%2FityRPbjwuOM6X49RdOg4AKlO7XciceuyXHXTOMpWJ%2BlhUfMS%2Fe5tvI%2FrQKx9mRi6uszM64RFneZI0yLevnD9lvxXGFAB8K5Sd6qs1Xpl7Ha51B1p1BZCDmfuyvFrIeSOj9EDNmWC7fpiMiK3rEzUuPCLWIe0poow1kw1gDpSt1KdX7U%3D
+x-emailtype-id: 763321
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+                              Dear Amy Pascal,
+
+
+
+                              Your Apple ID (user@domain.com) was used to restore a device from one of your iCloud backups.
+
+
+
+                                Date and Time: 
+
+
+
+                                    October 9, 2014, 2:42 PM PDT
+
+
+
+                                          Device: 
+
+
+
+                                              Amy's New Ipad (iPad mini) 
+
+
+
+                                    If you recently restored this device, you can disregard this email.
+
+
+
+                              If you have not restored a device recently or you believe someone may have accessed your account, go to My Apple ID (<<link>>) and change your password as soon as possible.
+
+
+
+
+                                  Apple Support
+
+
+
+                                My Apple ID
+
+
+
+ |  
+
+
+
+                              Support
+
+
+
+ | 
+
+
+
+                          Privacy Policy
+
+
+
+                          Copyright © 2015 
+
+
+
+                          Apple Inc. 1 Infinite Loop, Cupertino, CA 95014, United States.
+
+                          All rights reserved.
+
+

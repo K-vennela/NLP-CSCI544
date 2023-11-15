@@ -1,0 +1,40 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Mon, 26 Jan 2015 17:51:04 +0100
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id 9D77A621AC;	Mon, 26 Jan 2015 
+ 16:30:44 +0000 (GMT)
+Received: by domain.com (Postfix)	id 243BFB6603E; Mon, 26 Jan 2015 
+ 17:51:04 +0100 (CET)
+Delivered-To: user@domain.com
+Received: from [10.10.2.233] (unknown [189.240.241.162])	(using TLSv1 with
+ cipher DHE-RSA-AES256-SHA (256/256 bits))	(No client certificate requested)
+	by domain.com (Postfix) with ESMTPSA id 63CA32BC03F;	Mon, 26 Jan
+ 2015 17:51:03 +0100 (CET)
+Subject: Re: Hotel in Durango and Tijuana
+From: Alex Velasco <a.velasco@hackingteam.com>
+X-Mailer: iPhone Mail (12B440)
+In-Reply-To: <0user@domain.com>
+Date: Mon, 26 Jan 2015 10:51:01 -0600
+CC: Simonetta Gallucci <user@domain.com>, travel
+	<user@domain.com>
+Message-ID: <user@domain.com>
+References: <033701d0397f$c7c59930$5750cb90$@user@domain.com> <70user@domain.com> <038301d03987$78f03240$6ad096c0$@user@domain.com> <0user@domain.com>
+To: Eduardo Pardo <user@domain.com>
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=ALEX VELASCO769
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2135542561_-_-"
+
+Simo
+Either on is ok for me. Does not matter. 
+
+Alex VelascoKey Account Manager
+Hacking TeamMilan Singapore Washington DCwww.hackingteam.com
+email: user@domain.com: +1 301.332.5654phone: +1 443.949.7470
+

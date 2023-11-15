@@ -1,0 +1,83 @@
+Received: from domain.com (146.215.230.103) by
+ domain.com (43.130.141.76) with Microsoft SMTP Server id
+ 8.3.297.1; Tue, 18 Feb 2015 10:19:55 -0800
+Received: from domain.com ([160.33.194.231])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s1IIJscs005050	for <user@domain.com>; Tue, 18 Feb 2015 
+ 18:19:54 GMT
+Received: from mail28-co9-domain.com (mail-domain.com [207.46.163.20])
+	by domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s1IIKqce010951	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128
+ verify=FAIL)	for <user@domain.com>; Tue, 18 Feb 2015 18:20:58 GMT
+Received: from mail28-co9 (localhost [127.0.0.1])	by mail28-co9-domain.com
+ (Postfix) with ESMTP id 6F4D81000B6	for <user@domain.com>; Tue, 18
+ Feb 2015 18:19:40 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:192.64.236.105;KIP:(null);UIP:(null);IPV:NLI;H:mx-domain.com;RD:mx-domain.com;EFVD:NLI
+X-SpamScore: 2
+X-BigFish: vps2(z579ehzc89bhe0eahc857hc545Idbb0izz1f42h2148h208ch1ee6h1de0h1fdah2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6hzz8275ch1d7338h1de098h1def03h17326ah1def87h8275bh1bc7b9h8275dh1defc1h1def86h1de097h186068h172c6ch1ce120h1a691ciz2fheh5fh839ha12he5bh1288h12a5h137ah139eh13eah1441h14ddh1504h1537h162dh1631h1758h1898h18e1h1946h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1e23h1fe8h1ff5h20f0h2218h2216h226dh24afh2327h2336h2438h2461h2487h24d7h2516h2545h255eh2565h214ai1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail28-co9: domain of domain.com designates 192.64.236.105 as permitted sender) client-ip=192.64.236.105; user@domain.com; helo=mx-domain.com ;domain.com ;
+Received: from mail28-co9 (localhost.localdomain [127.0.0.1]) by mail28-co9
+ (MessageSwitch) id 1392747578836038_16916; Tue, 18 Feb 2015 18:19:38 +0000
+ (UTC)
+Received: from domain.com (unknown [10.236.132.251])	by
+ mail28-domain.com (Postfix) with ESMTP id C68EE40004A	for
+ <user@domain.com>; Tue, 18 Feb 2015 18:19:38 +0000 (UTC)
+Received: from mx-domain.com (192.64.236.105) by domain.com
+ (10.236.130.20) with Microsoft SMTP Server id 14.16.227.3; Tue, 18 Feb 2015 
+ 18:19:35 +0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1392747575;
+	s=sailthru; d=variety.com;
+	h=Date:From: Variety Breaking News <donotreply@variety.com>
+	bh=I/IzeRYDrL5mrTxj1W04632/2LoCuwRRORcTVSV+p5E=;
+	b=sYFUasjAXRsvdwyFQ1Y0PuUqk+JhD+qWV+syLllnrdHcWwAIUh40nQu2mUfiZV0a
+	PH6A8bDF5tBNZ9vxYkCTrbateSTVIjJM+zty6Sxz7leLpdOtXGBe3fAo53/QrB0NYln
+	PeVcpDtotXssze1Zo9VXqOQKi1Hz4IPY4fygFaeo=
+Date: Tue, 18 Feb 2015 13:19:35 -0500
+From: Variety Breaking News <donotreply@variety.com>
+To: <user@domain.com>
+Message-ID: <20140218181935.2428826.19440@domain.com>
+Subject: Matthew McConaughey on 'Dallas Buyers Club': 'Damn Right This Is a
+ Great Time in My Career'
+Precedence: bulk
+X-TM-ID: 20140218181935.2428826.19440
+X-Info: Message sent by domain.com customer Variety
+X-Info: We do not domain.com unsolicited commercial email
+X-Info: Please report abuse by forwarding complete headers to
+X-Info: user@domain.com
+X-Mailer: domain.com
+X-IADB-IP: 192.64.236.105
+X-IADB-IP-REVERSE: 105.236.64.192
+X-IADB-URL: <<link>>
+X-Unsubscribe-Web: <<link>>
+List-Unsubscribe: <<<link>>>, <mailto:user@domain.com>
+X-rpcampaign: stcoy2428826
+Return-Path: user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+It may not be to most actors’ tastes, but Matthew McConaughey is sounding oddly happy about his ... 
+
+​ 
+
+Variety         
+
+Breaking News   
+
+Tuesday, February 18, 2015      
+
+​ 
+
+<<link>> 
+
+        Matthew McConaughey on 'Dallas Buyers Club': 'Damn Right This Is a Great Time in My Career'             
+
+        It may not be to most actors’ tastes, but Matthew McConaughey is sounding oddly happy about his smaller paydays. “For the first t...            
+        Full Story              
+
+
+
+
+Subscribe to Other Variety Newsletters   
+

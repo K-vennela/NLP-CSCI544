@@ -1,0 +1,15 @@
+Tom,
+Sorry I couldn't say goodbye - I was actually on the phone to Bo Lim at the time.  I also wanted to ask you about your views on the UK national climate change centre, but this can wait until later.
+Anyway, about MAGICC/SCENGEN Workbook I think we agreed the following things for this UNDP version ........
+- a select number of emissions scenarios, IS92, SRES98, 550 and 750 stabilisation cases, some Kyoto variants (perhaps from IS92a,e,d reference), and 1-2 others you may recommend.  I would be keen to use your *.gas files if that's OK, even though I have some of my own.  You may have done the SO2 into regions, which I haven't.  Could you send me a selection?
+- you would think about how to handle the CH4 adjustment to ensure SAR replicability across the emissions scenarios.  This may require a tweak in the MAGICC code which Mike will have to recompile.
+- we should aim to reproduce the SAR results as closely as possible in this version, e.g. use 6.37Wm-2 rather than 5.5, and not use Prather's methane concentrations (an Annex in the Workbook will explain this).
+- the variable upwelling rate will be hard-wired.  Choices will remain for the Dn80s, climate sensitivity and aerosol forcing.
+- SCENGEN will have the new DDC patterns included and we will switch off the buttons for the older 2xCO2 patterns.
+- SCENGEN will output values over land and ocean.
+- the Help Screens will need updating.  I will attempt this and then check them all with you to make sure you agree.
+The only problem I can forsee is that the 2.32 version that Mike and you produced in the summer corrected the aerosol calculations and also used Prather's methane concentrations.  If we now want a version with correct aerosol concentrations and IPCC SAR Chapter 6 CH4 concentrations, *plus* a CH4 tweak to handle the ad hoc adjustment, then Mike Salmon will need a new and unique FORTRAN version of MAGICC.  Am I right?
+I have agreed with Bo Lim to get a first draft of the Workbook by 17 December, but the final version and all the CDs will not be agreed until February 2000.
+Have I missed anything?
+Regards,
+Mike

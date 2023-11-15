@@ -1,0 +1,17 @@
+Mike
+Here are some of the issues as I see them:
+Saying it is natural variability is not an explanation.  What are the physical processes?
+Where did the heat go?  We know there is a build up of ocean heat prior to El Nino, and a
+discharge (and sfc T warming) during late stages of El Nino, but is the observing system
+sufficient to track it?  Quite aside from the changes in the ocean, we know there are major
+changes in the storm tracks and teleconnections with ENSO, and there is a LOT more rain on
+land during La Nina (more drought in El Nino), so how does the albedo change overall
+(changes in cloud)?  At the very least the extra rain on land means a lot more heat goes
+into evaporation rather than raising temperatures, and so that keeps land temps down: and
+should generate cloud.  But the resulting evaporative cooling means the heat goes into
+atmosphere and should be radiated to space: so we should be able to track it with CERES
+data.  The CERES data are unfortunately wonting and so too are the cloud data.  The ocean
+data are also lacking although some of that may be related to the ocean current changes and
+burying heat at depth where it is not picked up.  If it is sequestered at depth then it
+comes back to haunt us later and so we should know about it.
+Kevin

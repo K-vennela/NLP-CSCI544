@@ -1,0 +1,48 @@
+Return-Path: <user@domain.com>
+Reply-To: <user@domain.com>
+From: "Bruno Muschitiello" <support@hackingteam.com>
+To: <user@domain.com>
+Subject: [!JAQ-764-22751]: Assignment - Upgrade a RCS 9.1.4 effettuato in data 17.12.2013
+Date: Tue, 17 Dec 2015 14:37:48 +0100
+Message-ID: <1387287468.52user@domain.com>
+X-Mailer: Microsoft Outlook 15.0
+Thread-Index: AQIkBGaw+91CT93dcXa2eLdOzs34Zw==
+X-OlkEid: 0000000065B99B20C2857749979341BFED77CC1B070034AD76187591974DBF6C4F76951C873A01005249000000000230709749A9DC45970DBCF6F077600B00000000613600006BCD17FAF4D24F4BAA06EFD793FF0FD5
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-615933390_-_-"
+
+Bruno Muschitiello updated #JAQ-764-22751
+
+-----------------------------------------
+
+Staff (Owner): Bruno Muschitiello (was: -- Unassigned --)
+Status: In Progress (was: Open)
+
+Upgrade a RCS 9.1.4 effettuato in data 17.12.2013
+
+-------------------------------------------------
+
+Ticket ID: JAQ-764-22751
+URL: <<link>>
+Name: Gruppo SIO x HT
+Email address: user@domain.com
+Creator: User
+Department: General
+Staff (Owner): Bruno Muschitiello
+Type: Feedback
+Status: In Progress
+Priority: Normal
+Template group: Default
+Created: 17 December 2015 01:43 PM
+Updated: 17 December 2015 02:37 PM
+
+Vi ringraziamo per le comunicazioni.
+
+Gli errori nel Worker non sono relativi ai Connector, possono essere ignorati.
+
+Cordiali saluti
+
+Staff CP:  <<link>>
+

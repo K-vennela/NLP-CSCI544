@@ -1,0 +1,88 @@
+Received: from domain.com (146.215.230.104) by
+ domain.com (43.130.141.78) with Microsoft SMTP Server id
+ 8.3.264.0; Sun, 16 Mar 2015 02:52:50 -0700
+Received: from domain.com ([160.33.194.230])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s2G9qnqD002487	for <user@domain.com>; Sun, 16 Mar 2015 
+ 09:52:50 GMT
+Received: from mail92-am1-domain.com (mail-domain.com
+ [213.199.154.203])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s2G9qlLE024478
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Sun, 16 Mar 2015 09:52:48 GMT
+Received: from mail92-am1 (localhost [127.0.0.1])	by mail92-am1-domain.com
+ (Postfix) with ESMTP id 948B2C0431	for <user@domain.com>; Sun, 16 Mar
+ 2015 09:52:48 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:213.199.154.75;KIP:(null);UIP:(null);IPV:NLI;H:emea01-db3-domain.com;RD:reserved;EFVD:RES
+X-SpamScore: 0
+X-BigFish: vps0(zf7Izbb2dIc85fhe0eahzz2148h208ch1ee6h1de0h1d18h1fdah2073h2146h1202h1e76h2189h1d1ah1d2ah21bch1fc6hzz18c673hz2fh109h2a8h839hbe3hd24h1288h12a5h12bdh137ah13eah1441h1504h1537h153bh162dh1631h1758h18deh18e1h1946h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dfeh1dffh1e1dh1fe8h1ff5h20f0h2216h22d0h2336h2438h2461h2487h24d7h2516h2534h2545h255eh25f6h2605h17ej1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail92-am1: domain of yellowbird.se designates 213.199.154.75 as permitted sender) client-ip=213.199.154.75; user@domain.com; helo=emea01-db3-domain.com ;.domain.com ;
+X-Forefront-Antispam-Report-Untrusted: SFV:NSPM;SFS:(10019001)(6009001)(428001)(2473001)(479174003)(199002)(189002)(85306002)(47976001)(97186001)(50986001)(74876001)(76796001)(94316002)(86362001)(95246002)(85852003)(53806001)(83072002)(33646001)(97336001)(54356001)(83322001)(77096001)(95416001)(51856001)(93516002)(47736001)(93136001)(20776003)(63696002)(63666003)(87936001)(81686001)(74662001)(81542001)(31966008)(74366001)(81342001)(2656002)(90146001)(79102001)(47446002)(74482001)(16236675002)(4396001)(87266001)(65816001)(81816001)(80976001)(94946001)(59766001)(92566001)(77982001)(49866001)(46102001)(92726001)(69226001)(76482001)(74502001)(56776001)(54316002)(56816005);DIR:OUT;SFP:1102;SCL:1;SRVR:AM3PR04MB324;H:domain.com;FPR:665F7F8C.13C2EC2A.8141517B.82FD20FB.2014A;MLV:sfv;PTR:InfoNoRecords;A:1;MX:1;LANG:en;
+Received: from mail92-am1 (localhost.localdomain [127.0.0.1]) by mail92-am1
+ (MessageSwitch) id 1394963567309315_29260; Sun, 16 Mar 2015 09:52:47 +0000
+ (UTC)
+Received: from domain.com (unknown [10.3.201.248])	by
+ mail92-domain.com (Postfix) with ESMTP id 3D234480062	for
+ <user@domain.com>; Sun, 16 Mar 2015 09:52:47 +0000 (UTC)
+Received: from emea01-db3-domain.com (213.199.154.75)
+ by domain.com (10.3.207.153) with Microsoft SMTP Server (TLS)
+ id 14.16.227.3; Sun, 16 Mar 2015 09:52:47 +0000
+Received: from domain.com (10.242.71.145) by
+ domain.com (10.242.110.21) with Microsoft SMTP
+ Server (TLS) id 15.0.898.11; Sun, 16 Mar 2015 09:52:45 +0000
+Received: from domain.com ([169.254.9.193]) by
+ domain.com ([169.254.9.193]) with mapi id
+ 15.00.0898.005; Sun, 16 Mar 2015 09:52:45 +0000
+From: Berna Levin <berna.levin@yellowbird.se>
+To: Line Funch <user@domain.com>
+CC: Anni Faurbye Fernandez <user@domain.com>
+Subject: Fwd: Break a leg!
+Thread-Topic: Break a leg!
+Thread-Index: AQHPQPyBp2SYq0LC50GVBBkvWEG1wZrjeP2q
+Date: Sun, 16 Mar 2015 09:52:45 +0000
+Message-ID: <7user@domain.com>
+References: <03user@domain.com>
+In-Reply-To: <03user@domain.com>
+Accept-Language: sv-SE, en-US
+Content-Language: sv-SE
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-originating-ip: [::]
+x-forefront-prvs: 0152EBA40F
+X-OriginatorOrg: yellowbird.se
+Return-Path: user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+Skickade detta 2 minuter innan du skickade ditt mail... :-/
+
+Sent from my fabulous Phablet.
+
+-------- Original message --------
+
+From: Berna Levin <berna.levin@yellowbird.se>
+
+Date:16/03/2014 10:45 (GMT+01:00) 
+
+To: Charles Randolph ,"Traugott, Peter (NBCUniversal)" ,"Kaplan, Rachel (NBCUniversal)" 
+
+Cc: Anni Faurbye 
+
+Subject: Break a leg! 
+
+Hi guys! 
+
+Thinking of all of you today - keeping fingers crossed for smooth sailing! 
+
+Please say hi to Patty and the whole cast and crew from Sweden!!!!!
+
+Liza Marklund e-mailed yesterday to wish luck as well!
+
+All the best, 
+
+Berna and Anni
+
+Sent from my fabulous Phablet.
+

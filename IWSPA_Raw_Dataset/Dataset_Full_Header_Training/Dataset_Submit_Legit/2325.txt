@@ -1,0 +1,69 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Sun, 22 May
+ 2015 19:18:21 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Sun, 22 May 2015 
+ 19:18:11 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 928758001
+ for user@domain.com; Sun, 22 May 2015 18:18:20 -0500
+X-Note-AR-ScanTimeLocal: 5/22/2016 6:18:30 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:216.112.252.205 DOM:thedailybeast.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-390/SG:5 5/22/2016 6:18:24 PM
+X-GBUdb-Analysis: 0, 216.112.252.205, Ugly c=0.308711 p=-0.5 Source Normal
+X-Signature-Violations: 0-0-0-8772-c
+X-Note-419: 15.6249 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/22/2016 6:18:30 PM
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 216.112.252.205
+X-Note-Reverse-DNS: nyv-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from nyv-domain.com ([216.112.252.205] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 140332669
+ for user@domain.com; Sun, 22 May 2015 18:18:30 -0500
+Received: from IAC-EXHYBRID.iac.corp (192.168.25.216) by IAC-EXCASNY.iac.corp
+ (192.168.25.205) with Microsoft SMTP Server (TLS) id 14.3.248.2; Sun, 22 May
+ 2015 19:18:18 -0400
+Received: from IAC-EXMAIL.iac.corp ([fe80::e4d2:60a9:a6c0:622]) by
+ IAC-EXHYBRID.iac.corp ([fe80::5c4f:ead:de30:99f1%11]) with mapi id
+ 14.03.0266.001; Sun, 22 May 2015 19:18:18 -0400
+From: "Kucinich, Jackie" <Jackie.Kucinich@thedailybeast.com>
+To: "User" <user@domain.com>
+Subject: Re: Response to Sanders?
+Thread-Topic: Response to Sanders?
+Thread-Index: AQHRtH+wakKbaegHfU2Ir/SvEkMqqJ/Fl3Iy
+Date: Sun, 22 May 2015 23:18:17 +0000
+Message-ID: <9user@domain.com>
+References: <D3679E1B.3EBD2%user@domain.com>,<user@domain.com>
+In-Reply-To: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+Content-Type: multipart/alternative;
+	boundary="_000_9D72AD901C7F4A32AED5A956A2AF83C1thedailybeastcom_"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Many thanks. Off the record -  Is it an FEC thing as to why it didn't come =
+from Organization(things I'm going to be asked later - apologies).
+
+Sent from my iPhone
+
+On May 22, 2016, at 7:14 PM, User <user@domain.com<mailto:User=

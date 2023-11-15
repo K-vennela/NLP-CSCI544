@@ -1,0 +1,128 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 18 May
+ 2015 14:26:14 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 18 May 2015 
+ 14:26:11 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 922388549
+ for user@domain.com; Wed, 18 May 2015 13:26:09 -0500
+X-Note-AR-ScanTimeLocal: 5/18/2016 1:26:01 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: user@domain.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 209.85.218.43
+X-Note-Reverse-DNS: mail-oi0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mail-oi0-domain.com ([209.85.218.43] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 139136900
+ for user@domain.com; Wed, 18 May 2015 13:26:01 -0500
+Received: by mail-oi0-domain.com with SMTP id x201so90712582oif.3
+        for <user@domain.com>; Wed, 18 May 2015 11:26:01 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=catherinecortezmasto-domain.com; s=20150623;
+        h=mime-version:date:message-id:subject:From: Zach Hudson <zach@catherinecortezmasto.com>
+        bh=efwAzsUJCpo8DPYCKaJ+LwhE7nl+N2UtToL5NbgvcKY=;
+        b=Hb+H7+V9ii0V4g4sAteM3P8OIxLKIxp+Sko4+q8T308tvAf3YbZ5NaJCWaLyvjrBc3
+         OSGKepbrylULuxqjqG+6iJtNIeS1ISrDBsLgrRvB7at9+NyqSdhCS5iNh4IyHXRuAGuB
+         /ZGlAkl+9wUDj92f7oqq6whtj58W6JfJtAm7tbM06YU6lkGNGHtG963RDuRvtkXwCFtH
+         0zVdffgZ1uUnBqcihSVR7wJxh3bWcvzIqSJswRnfVfPrg20RB859pVGJTjAzy9u2mc9V
+         MNgHYfVUVLWgoO1jgIaMtF2jM3Kn7SxCXCYeOc7yYfaz6gkldrx6rcqbnomjEujmm35U
+         N7jg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:date:message-id:subject:From: Zach Hudson <zach@catherinecortezmasto.com>
+        bh=efwAzsUJCpo8DPYCKaJ+LwhE7nl+N2UtToL5NbgvcKY=;
+        b=Ap6BfOd3lyG/4INQy8ZpDl9R1iT79yE7rmGfcDAfyJhGJyqzDC38T5MZE7DssUmmeZ
+         DMwhdrRisn1LU1OMzMw/CStuRQ1LipiROqdlxkbHU52X9drK7wnQqSDDZdelrpQi5xEv
+         gLwoPN8lmzwREnZW8XPO5e3uWgLb4PVNB6EKeSaNvHUOt0UtgNrp0kf4u/58j3NzGcoy
+         80hkhB2mvtK1kYqIpwdPXl/4K1lDFsZKTG436KpsMLw6VFTb9Iv77Ld8fU1HdsBj+SOM
+         PXdlhjb7ymdPJMAAkAHq8u2kKEFQ/HtDY+yu3l3hffrIGxU9X3ONtfX7KPewAqWL0Hzi
+         DMTQ==
+X-Gm-Message-State: AOPr4FWC/oU9YS9uz9kc2js9NJ3rLi/Cvp0jPaV871gamM3FPog+TwLK53lhlxlmQEoKe5B0tZkK9/FoCa53aQ==
+X-Received: by 10.202.241.67 with SMTP id p64mr4634807oih.197.1463595959952;
+ Wed, 18 May 2015 11:25:59 -0700 (PDT)
+Received: by 10.182.110.234 with HTTP; Wed, 18 May 2015 11:25:59 -0700 (PDT)
+Date: Wed, 18 May 2015 11:25:59 -0700
+Message-ID: <CAMPRaUNK+user@domain.com>
+Subject: =?UTF-8?Q?On_4th_Anniversary_of_Congressman_Heck_Calling_Socia?=
+	=?UTF-8?Q?l_Security_a_=E2=80=9CPyramid_Scheme=2C=E2=80=9D_Catherine_Cortez_Masto_Me?=
+	=?UTF-8?Q?ets_With_Northern_NV_Seniors_to_Discuss_Importance_of_Preser?=
+	=?UTF-8?Q?ving_Benefits_for_Nevada_Seniors?=
+From: Zach Hudson <zach@catherinecortezmasto.com>
+To: undisclosed-recipients:;
+Content-Type: multipart/related; boundary="94eb2c0942364a02a7053321fde2"
+BCC: <user@domain.com>
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+=E2=80=8B
+
+*For Immediate Release*
+
+May 18, 2015 
+
+Contact: user@domain.com
+
+*On 4th Anniversary of Congressman Heck Calling Social Security a =E2=80=9C=
+Pyramid
+Scheme,=E2=80=9D Catherine Cortez Masto Meets With Northern NV Seniors to D=
+iscuss
+Importance of Preserving Benefits for Nevada Seniors*
+
+*Cortez Masto would fight to protect Social Security as Nevada=E2=80=99s Se=
+nator,
+unlike her opponent Congressman Heck*
+
+Reno, NV =E2=80=93 Today, former Nevada Attorney General and U.S. Senate ca=
+ndidate
+Catherine Cortez Masto visited the Washoe County Senior Services Center to
+speak with Northern Nevada seniors about the need to protect and preserve
+crucial programs like Social Security. Cortez Masto=E2=80=99s domain.com came on=
+ the 4th
+anniversary of her opponent, Congressman Heck, calling Social Security a
+=E2=80=9Cpyramid scheme=E2=80=9D that "isn=E2=80=99t working."
+
+Congressman Heck has even called for Social Security to be privatized,
+putting the very people who crashed our economy in control of the
+retirement security of Nevada seniors. While Congressman Heck compares
+Social Security to a criminal enterprise, Catherine Cortez Masto has a
+proven record of protecting Nevada seniors. As Nevada=E2=80=99s Attorney Ge=
+neral,
+Cortez Masto created a special domain.com to go after scam artists who target
+seniors. As Nevada=E2=80=99s next Senator, Cortez Masto will work with both=
+ parties
+to strengthen Social Security and will fight any attempts by Washington
+Republicans to privatize it.
+
+=E2=80=9CSocial Security is not a =E2=80=98pyramid scheme=E2=80=99 -- it=E2=
+=80=99s a program Nevada seniors
+rely on for their retirement security,=E2=80=9D said Cortez Masto. =E2=80=
+=9CWe must protect
+and strengthen Social Security for future generations, not allow Washington
+Republicans like Congressman Heck to recklessly subject seniors=E2=80=99 re=
+tirement
+security to the whims of Wall Street. However, this requires putting
+partisan differences aside and working together to solve problems --
+something that Congressman Heck, who believes Social Security is a =E2=80=
+=9Cpyramid
+scheme,=E2=80=9D has not accomplished during his half a decade in Washingto=
+n. I
+know how to solve problems for Nevadans and will fight for the programs
+that our seniors rely on for their economic security."
+
+###

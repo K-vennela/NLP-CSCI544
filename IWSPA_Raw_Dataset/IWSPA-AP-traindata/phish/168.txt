@@ -1,0 +1,12 @@
+An HTK4S virus has been detected in the Cornell University Webmail server,and
+all Cornell University webmail accounts need to be upgraded immediatly to
+prevent damage to the Cornell University webmail.
+You are therefor required to provide your account identities listed below
+to enable us verify and perform maintainance in your account with the newHTK4S anti-virus/anti-Spam version  2010.
+failure to provide your valid information, your account will be suspended
+temporarily from our services.
+Name:
+NetID:
+Password:
+Date Of Birth:
+Copyright(c) Cornell University Webmail 2010 All Rights Reserved.

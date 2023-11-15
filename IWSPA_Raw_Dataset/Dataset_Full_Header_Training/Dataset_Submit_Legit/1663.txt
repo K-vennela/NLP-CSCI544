@@ -1,0 +1,95 @@
+Received: from domain.com (43.130.141.78) by
+ domain.com (146.215.231.17) with Microsoft SMTP Server (TLS) id
+ 14.3.210.2; Tue, 28 Oct 2015 09:50:28 -0400
+Received: from domain.com (146.215.230.103) by
+ domain.com (43.130.141.78) with Microsoft SMTP Server id
+ 8.3.342.0; Tue, 28 Oct 2015 06:50:27 -0700
+Received: from domain.com ([160.33.194.230])	by
+ domain.com (Sentrion-MTA-4.3.2/Sentrion-MTA-4.3.2) with
+ ESMTP id s9SDoQPp028780	for <user@domain.com>; Tue, 28 Oct 2015 
+ 13:50:26 GMT
+Received: from na01-bn1-domain.com
+ (mail-domain.com [207.46.163.182])	by
+ domain.com (Sentrion-MTA-4.3.2/Sentrion-MTA-4.3.2) with
+ ESMTP id s9SDoQvv017212	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128
+ verify=FAIL)	for <user@domain.com>; Tue, 28 Oct 2015 13:50:26 GMT
+Received: from BY2FFO11FD050.protection.gbl (10.1.14.31) by
+ BY2FFO11HUB012.protection.gbl (10.1.15.221) with Microsoft SMTP Server (TLS)
+ id 15.0.1049.20; Tue, 28 Oct 2015 13:50:23 +0000
+Received: from mx0b-00176domain.com (67.231.157.49) by
+ domain.com (10.1.15.187) with Microsoft SMTP
+ Server (TLS) id 15.0.1049.20 via Frontend Transport; Tue, 28 Oct 2015 
+ 13:50:23 +0000
+Received: from pps.filterd (domain.com [127.0.0.1])	by
+ domain.com-00176a04. (8.14.7/8.14.7) with SMTP id s9SDkltJ037437	for
+ <user@domain.com>; Tue, 28 Oct 2015 09:50:22 -0400
+Received: from domain.com ([173.213.212.135])	by
+ domain.com-00176a04. with ESMTP id 1qab1u8qxd-1	(version=TLSv1/SSLv3
+ cipher=RC4-SHA bits=128 verify=NOT)	for <user@domain.com>; Tue, 28
+ Oct 2015 09:50:21 -0400
+Received: from unknown (HELO domain.com) ([3.161.34.23])  by
+ domain.com with ESMTP/TLS/AES128-SHA; 28 Oct 2015 09:40:00
+ -0400
+Received: from domain.com ([169.254.4.185]) by
+ domain.com ([3.161.17.59]) with mapi id 14.03.0195.001; Tue,
+ 28 Oct 2015 13:49:59 +0000
+From: "Clark, Duncan (NBCUniversal)" <duncan.clark@nbcuni.com>
+To: "User" <user@domain.com>
+Subject: RE: you around for a quick toninght?
+Thread-Topic: you around for a quick toninght?
+Thread-Index: Ac/yoYjWgH1b4Y+7TlGa+mT2KidapwADmkb9AAGGmLA=
+Date: Tue, 28 Oct 2015 13:49:58 +0000
+Message-ID: <user@domain.com>
+References: <user@domain.com>
+ <user@domain.com>
+In-Reply-To: <user@domain.com>
+Accept-Language: en-GB, en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-originating-ip: [3.161.75.103]
+x-exclaimer-md-config: 47edc00f-f2d6-45ef-be83-8a353bd47e45
+X-Proofpoint-Virus-Version: vendor=fsecure engine=2.50.10432:5.12.52,1.0.28,0.0.0000
+ definitions=2014-10-28_06:2014-10-28,2014-10-28,1970-01-01 signatures=0
+X-Proofpoint-Spam-Details: rule=outbound_notspam policy=outbound score=0 spamscore=0 suspectscore=0
+ phishscore=0 adultscore=0 bulkscore=0 classifier=spam adjust=0 reason=mlx
+ scancount=1 engine=7.0.1-1402240000 definitions=main-1410280135
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:67.231.157.49;CTRY:US;IPV:NLI;EFV:NLI;SFV:NSPM;SFS:(377454003)(189002)(24454002)(199003)(54356999)(64706001)(86362001)(92566001)(92726001)(20776003)(80022003)(110456001)(66066001)(16601075003)(50986999)(55846006)(45126002)(76176999)(85306004)(110136001)(76482002)(120916001)(19580405001)(19617315012)(512954002)(22756005)(46102003)(44976005)(4396001)(105586002)(106466001)(19580395003)(31966008)(71186001)(15202345003)(16236675004)(19625215002)(15974865002)(95666004)(19300405004)(21056001)(33656002)(107046002)(107886001)(106816001)(6806004)(84326002)(77096002)(63266004)(87836001)(85852003)(2656002)(15975445006)(7059028);DIR:INB;SFP:;SCL:1;SRVR:BY2FFO11HUB012;H:mx0b-00176domain.com;FPR:;MLV:sfv;PTR:mx0b-00176domain.com;MX:1;A:1;LANG:en;
+X-Microsoft-Antispam: UriScan:;
+X-Microsoft-Antispam: BCL:3;PCL:0;RULEID:(52001);SRVR:BY2FFO11HUB012;
+X-Exchange-Antispam-Report-Test: UriScan:;
+Received-SPF: Neutral (domain.com: 67.231.157.49 is neither
+ permitted nor denied by domain of nbcuni.com)
+Authentication-Results: spf=neutral (sender IP is 67.231.157.49)
+ user@domain.com; 
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-406539735_-_-"
+
+Yes -- on my cell.
+
+
+
+From: "Clark, Duncan (NBCUniversal)" <duncan.clark@nbcuni.com>
+ Steven [mailto:user@domain.com] 
+
+Sent: 28 October 2015 13:06
+
+To: Clark, Duncan (NBCUniversal)
+
+Subject: Re: you around for a quick toninght?
+
+
+
+
+Sure.  I'm in show east.  What time is good?  Are you in UK?
+
+Steven
+

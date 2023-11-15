@@ -1,0 +1,48 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id 005F0468A1
+	for <user@domain.com>; Thu,  7 May 2015 16:44:53 -0400 (EDT)
+X-Greylist: delayed 667 seconds by postgrey-1.27 at domain.com; Thu, 07 May 2015 16:44:53 EDT
+Received: from domain.com (unknown [216.117.188.85])
+	by domain.com (Postfix) with ESMTP id 4A08B131F769
+	for <user@domain.com>; Thu,  7 May 2015 16:44:53 -0400 (EDT)
+Received: from deidcfile [74.85.88.131] by domain.com with ESMTP
+  (SMTPD32-8.00) id A5A05F1700A0; Thu, 07 May 2015 16:33:36 -0400
+Reply-To: <user@domain.com>
+From: "PayPal"<email@w2-paypal.com>
+Subject: Primary Email Address Change
+Date: Thu, 7 May 2015 13:33:38 -0700
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <200905071633179.user@domain.com>
+To: undisclosed-recipients:;
+Content-Length: 633
+Lines: 15
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1055
+
+The primary email for your PayPal account was changed on Thursday, May 7th, 2009.
+
+If you did not authorize this change, please confirm your identity by visiting our website now:
+<<link>>
+
+Thank you for using PayPal.
+The PayPal Team
+
+_____________________________________________
+
+Security Advisory: When you log in to your PayPal account, be sure to open up our website located at 
+<<link>>
+For more information on protecting your account, please review the Security Tips in our Security Center.
+
+enter.

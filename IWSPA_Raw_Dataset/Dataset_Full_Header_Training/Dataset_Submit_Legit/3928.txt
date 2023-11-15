@@ -1,0 +1,109 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 11 May
+ 2015 15:59:45 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 11 May 2015 
+ 15:59:42 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 909945236;
+ Wed, 11 May 2015 14:59:49 -0500
+X-Note-AR-ScanTimeLocal: 5/11/2016 2:59:48 PM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @who.eop.gov ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->->PRIVATE->United States->
+X-Note-Sending-IP: 214.3.115.10
+X-Note-Reverse-DNS: zeus.whmo.mil
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from [214.3.115.10] (HELO Augustus.whca.mil)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 138341514;
+ Wed, 11 May 2015 14:59:48 -0500
+Received: from CN399Exch1.whca.mil (cn399exch1.whca.mil [10.75.26.101])	by
+ Augustus.whca.mil with ESMTP id u4BK00rS092725;	Wed, 11 May 2015 16:00:00
+ -0400 (EDT)
+Received: from CN399Exch1.whca.mil (10.75.26.101) by CN399Exch1.whca.mil
+ (10.75.26.101) with Microsoft SMTP Server (TLS) id 15.0.1130.7; Wed, 11 May
+ 2015 15:59:37 -0400
+Received: from CN399Exch1.whca.mil ([10.75.26.101]) by CN399Exch1.whca.mil
+ ([10.75.26.101]) with mapi id 15.00.1130.005; Wed, 11 May 2015 15:59:37 -0400
+From: "Gainedi, Sriramya N. EOP/WHO" <sriramya_gainedi@who.eop.gov>
+To: "User" <user@domain.com>
+CC: "Cox, Clayton" <user@domain.com>, "Kaplan, Jordan" <user@domain.com>
+Subject: RE: may 31
+Thread-Topic: may 31
+Thread-Index: AdGrvaR2Jr1jz5khSxujCxSwNVy8VAAAVd2kAAAdVNA=
+Date: Wed, 11 May 2015 19:59:36 +0000
+Message-ID: <2535user@domain.com>
+References: <7user@domain.com>,<user@domain.com>
+ <user@domain.com>
+In-Reply-To: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-ms-exchange-transport-fromentityheader: Hosted
+x-originating-ip: [10.75.20.202]
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Hi Jordan- thanks for reaching out. What time is the event? It looks like, =
+timing-wise, it would be possible for her to do the 31st but before I can c=
+domain.com her, I need some traps on it.=20
+
+Is there any more info you can give me about the event? Thanks so much!
+
+Best,
+Sri=20
+
+-----Original Message-----
+From: "Gainedi, Sriramya N. EOP/WHO" <sriramya_gainedi@who.eop.gov>
+Sent: Wednesday, May 11, 2015 3:55 PM
+To: Gainedi, Sriramya N. EOP/WHO <user@domain.com>
+Cc: Cox, Clayton <user@domain.com>; Kaplan, Jordan <user@domain.com>
+Subject: Re: may 31
+
+Hey Sri,
+
+We are putting together a Democratic Lawyers Council reception in NYC with =
+Robbie Kaplan hosting and Gloria Allred featured as the special guest. The =
+ever would take place the evening of Tuesday, May 31st. Per Tina and Kaplan=
+'s conversation below, Tina is happy to join if we can work out the timing.=
+=20
+
+Happy to put her on a flight out of NYC the evening of the 31st or first th=
+ing on the 1st. Please let us know at your earliest convenience if this is =
+feasible. It is a women's issues and civil rights focused event, so Tina's =
+participation would be pivotal to the event's success.=20
+
+Thanks and we Look forwarding to hearing from you.
+
+Jordan C. Vaughn
+
+National AALC Finance Director
+
+Organization
+
+(202) 488-5089 <tel:(202)%20488-5089>  (o) | (407) 797-2215 <tel:(407)%2079=
+7-2215>  (c)
+
+user@domain.com <mailto:user@domain.com>=20
+
+On May 11, 2016, at 3:48 PM, Kaplan, Jordan <user@domain.com <mailto:Kaplan=

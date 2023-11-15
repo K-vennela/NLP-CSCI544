@@ -1,0 +1,176 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [75.102.5.22])
+	by domain.com (Postfix) with ESMTP id 88CE13144046
+	for <user@domain.com>; Tue, 16 Jun 2015 08:22:11 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 32B6B23200E;
+	Tue, 16 Jun 2015 08:24:46 +0000 (UTC)
+X-Virus-Scanned: amavisd-new at domain.com
+X-Spam-Flag: YES
+X-Spam-Score: 8.412
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.412 tagged_above=-10 required=6.6
+	tests=[BAYES_99=3.5, HTML_MESSAGE=0.001, MIME_HTML_ONLY=1.457,
+	URIBL_BLACK=1.955, URIBL_SBL=1.499]
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id SP2rLbo6deXI; Tue, 16 Jun 2015 08:24:42 +0000 (UTC)
+Received: from lujan.uninet.edu (bio.hgy.es [193.146.180.21])
+	by domain.com (Postfix) with ESMTP id EB323232004
+	for <user@domain.com>; Tue, 16 Jun 2015 08:24:41 +0000 (UTC)
+Received: by lujan.uninet.edu (Postfix)
+	id DC7921B667; Tue, 16 Jun 2015 10:22:05 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from mar.uninet.edu (mar.uninet.edu [193.146.180.108])
+	by lujan.uninet.edu (Postfix) with ESMTP id C5DC81B692
+	for <user@domain.com>; Tue, 16 Jun 2015 10:22:05 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+	by mar.uninet.edu (Postfix) with ESMTP id B61381978
+	for <user@domain.com>; Tue, 16 Jun 2015 10:22:05 +0200 (CEST)
+X-Quarantine-ID: <yw8pGxC6sQBl>
+X-Virus-Scanned: Debian amavisd-new at uninet.edu
+Received: from lujan.uninet.edu ([193.146.180.21])
+	by localhost (mar.uninet.edu [193.146.180.108]) (amavisd-new, port 10024)
+	with ESMTP id yw8pGxC6sQBl for <user@domain.com>;
+	Tue, 16 Jun 2015 10:21:53 +0200 (CEST)
+Received: from domain.com.ar (inv-160.domain.com.ar [200.69.223.160])
+	by lujan.uninet.edu (Postfix) with ESMTP id 1BE7B1B667
+	for <user@domain.com>; Tue, 16 Jun 2015 10:21:53 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+	by domain.com.ar (Postfix) with ESMTP id 6A7FFA322D9
+	for <user@domain.com>; Tue, 16 Jun 2015 05:22:09 -0300 (ART)
+Received: from domain.com.ar ([127.0.0.1])
+	by localhost (domain.com.ar [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id Fy0Bl-LTlAcN for <user@domain.com>;
+	Tue, 16 Jun 2015 05:22:08 -0300 (ART)
+Received: from [85.108.84.14] (unknown [85.108.84.14])
+	by domain.com.ar (Postfix) with ESMTP id D5504A322D3
+	for <user@domain.com>; Tue, 16 Jun 2015 05:22:06 -0300 (ART)
+From: "Lianne Aniz" <josu@uninet.edu>
+To: user@domain.com
+Subject: ***SPAM*** Bank of America notification
+Date: Tue, 16 Jun 2015 11:21:49 +0300
+Reply-To: user@domain.com
+Message-ID: <user@domain.com>
+MIME-version: 1.0
+Content-type: text/html; charset="UTF-8"
+X-Mailer: Bumymj
+Content-Length: 5128
+Lines: 110
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1079
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "<<link>>">
+<html>
+<head>
+  <meta http-equiv="content-type"
+ content="text/html; charset=UTF-8">
+  <title>Exqd</title>
+</head>
+<body>
+<table align="center" border="0" cellpadding="0"
+ cellspacing="0" style="width: 597px">
+  <tbody>
+    <tr>
+      <td style="text-align: center">
+	  <span style="color: #999900; font-family: Arial, Helvetica, sans-serif; font-size: x-small">
+	  Having trouble viewing this email? </span><a href="<<link>>">
+	  <span style="color: #999900; font-family: Arial, Helvetica, sans-serif; font-size: x-small">
+	  Click here</span></a><br></td>
+
+    </tr>
+
+    <tr>
+      <td style="text-align: center">
+      <br><a href="<<link>>" target="_blank">
+	  <img alt="Click here to open as a web page" src="<<link>>" style="border-width: 0px"></a><br><br><br>
+      <table border="0" cellpadding="0" cellspacing="0"
+ width="538">
+        <tbody>
+          <tr>
+            <td> <font
+ style="font-family: Arial,Helvetica,sans-serif; font-size: 13px; color: rgb(102, 102, 102);"><a
+ href="<<link>>" target="_blank"
+ style="text-decoration: none;"><font
+ style="color: rgb(153, 153, 0); text-decoration: none;">Home</font></a>
+			| <a href="<<link>>"
+ target="_blank" style="text-decoration: none;"><font
+ style="color: rgb(153, 153, 0); text-decoration: none;">Activities</font></a>
+
+			| <a href="<<link>>"
+ target="_blank" style="text-decoration: none;"><font
+ style="color: rgb(153, 153, 0); text-decoration: none;">Vacations</font></a>
+			| <a href="<<link>>"
+ target="_blank" style="text-decoration: none;"><font
+ style="color: rgb(153, 153, 0); text-decoration: none;">Expert Advice</font></a>
+			|
+			<a href="<<link>>"
+ target="_blank" style="text-decoration: none;">
+			<font
+ style="color: rgb(153, 153, 0); text-decoration: none;">Toys &amp; Gifts </font></a>
+			| <a
+ href="<<link>>" target="_blank"
+ style="text-decoration: none;"><font
+ style="color: rgb(153, 153, 0); text-decoration: none;">Video</font></a>
+
+			| <a href="<<link>>"
+ target="_blank" style="text-decoration: none;"><font
+ style="color: rgb(153, 153, 0); text-decoration: none;">Columns</font></a></font>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      </td>
+
+    </tr>
+<!-- END Footer --><!-- BEGIN unsubscribe disclaimer -->
+
+    <tr>
+      <td style="height: 42px"> <br>
+      <font
+ style="font-family: Arial,Helvetica,sans-serif; color: rgb(119, 119, 119); font-size: 12px;"
+ color="#777777" face="Arial, Helvetica, sans-serif"
+ size="1">You
+are receiving this e-mail because you signed to receive the
+	  Ijou newsletter. If you feel you have received this e-mail
+in error or would like to <a href="<<link>>"
+ style="text-decoration: none;"><font
+ style="font-family: Arial,Helvetica,sans-serif; color: rgb(100, 165, 184); font-size: 12px;"
+ color="#6498b8" face="Arial, Helvetica, sans-serif"
+ size="1">unsubscribe, click here</font></a>. </font><br>
+      </td>
+    </tr>
+<!-- END unsubscribe disclaimer --><!-- BEGIN Footer Disclaimer -->
+    <tr>
+      <td> <br>
+      <font
+ style="font-family: Arial,Helvetica,sans-serif; color: rgb(119, 119, 119); font-size: 12px;"
+ color="#777777" face="Arial, Helvetica, sans-serif"
+ size="1"> Roeb takes <a
+ href="<<link>>" target="_blank"
+ style="text-decoration: none;"><font
+ style="font-family: Arial,Helvetica,sans-serif; color: rgb(100, 152, 184); font-size: 12px;"
+ color="#6498b8" face="Arial, Helvetica, sans-serif"
+ size="1">privacy</font></a> very seriously and
+will never share your e-mail address with third parties without your
+permission. Click <a href="<<link>>"
+ target="_blank" style="text-decoration: none;"><font
+ style="font-family: Arial,Helvetica,sans-serif; color: rgb(100, 152, 184); font-size: 12px;"
+ color="#6498b8" face="Arial, Helvetica, sans-serif"
+ size="1">here</font></a> to read our <a
+ href="<<link>>" target="_blank"
+ style="text-decoration: none;"><font
+ style="font-family: Arial,Helvetica,sans-serif; color: rgb(100, 152, 184); font-size: 12px;"
+ color="#6498b8" face="Arial, Helvetica, sans-serif"
+ size="1">privacy policy</font></a>. If you have
+any questions about your subscription.<br><br>&copy; 2015 Iboj LLC. </font> </td>
+    </tr>
+<!-- End Footer Disclaimer -->
+  </tbody>
+</table>
+</body>
+</html>

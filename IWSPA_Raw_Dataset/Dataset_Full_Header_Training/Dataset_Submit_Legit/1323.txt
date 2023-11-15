@@ -1,0 +1,300 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Sat, 23 Apr
+ 2015 07:58:42 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Sat, 23 Apr 2015 
+ 07:58:30 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 876199687
+ for user@domain.com; Sat, 23 Apr 2015 06:58:43 -0500
+X-Note-AR-ScanTimeLocal: 4/23/2016 6:58:42 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/19/2016 8:05:20 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:167.89.47.62 DOM:email.medium.com ADDR:bounces+1823144-5user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 100
+X-GBUdb-Analysis: 0, 167.89.47.62, Ugly c=0.318533 p=0.0909091 Source Normal
+X-Signature-Violations: 100-5946619-14660-14674-m
+	100-5946619-0-32767-f
+X-Note-419: 15.6262 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 4/23/2016 6:58:30 AM
+X-Warn: BOUNCETRACKER Bounce User Tracking Found
+X-Warn: SPANISH-CHR
+X-Warn: BULKMAILER
+X-Note: Spam Tests Failed: BOUNCETRACKER, SPANISH-CHR, BULKMAILER
+X-Country-Path: United States->->United States->
+X-Note-Sending-IP: 167.89.47.62
+X-Note-Reverse-DNS: o2.email.medium.com
+X-Note-Return-Path: bounces+1823144-5user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G280 G285 G337 G347 G371 G570 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from o2.email.medium.com ([167.89.47.62] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 134531229
+ for user@domain.com; Sat, 23 Apr 2015 06:58:42 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=medium.com; 
+	h=content-type:From: Medium Daily Digest <noreply@medium.com>
+	s=m1; bh=cmRsRUJ8v7cNL1Pv8vlJh0ZzHsw=; b=QBp5JuaDhuHTQi+cK9xR3KP
+	n4pjAYR3lpnkrTq/dTzdfA2sZ19GhkvjV2F5yxRFbIygiSCOsBEUihaK36goUqzC
+	ZILAIzXUmznCHCpxCbd7TKT6DHW7EmytyA5ys9HDQmDYG6NL40/nYE0CrTiMzLaQ
+	YKd+dRXlHrCZAcr6XhnA=
+Received: by domain.com with SMTP id
+ filter0561p1mdw1.14693.571B637428        2016-04-23 11:58:44.817338053 +0000
+ UTC
+Received: from MTgyMzE0NA (ec2-52-21-76-65.compute-1.domain.com
+ [52.21.76.65])	by domain.com (SG) with HTTP id
+ YUcbdaB6QmWQCNhQ_zNcGg	for <user@domain.com>; Sat, 23 Apr 2015 11:58:37.706
+ +0000 (UTC)
+Content-Type: multipart/alternative;
+	boundary="90ff354ce11e67a0b984a6b69f49447005e48d36e1ccac34bc9d29ac9729"
+Date: Sat, 23 Apr 2015 11:58:37 +0000
+From: Medium Daily Digest <noreply@medium.com>
+List-Unsubscribe: <<<link>>>
+Reply-To: <user@domain.com>
+Subject: =?UTF-8?Q?=E2=80=9CWhen_you_act_like_you=E2=80=99re_important,_you_only_p?=
+ =?UTF-8?Q?rove_you_aren=E2=80=99t.=E2=80=9D_published_in_Life_Learning_by?=
+ =?UTF-8?Q?_Jon_Westenberg?=
+To: <user@domain.com>
+Message-ID: <user@domain.com>
+X-SG-EID: /qskMPcwxb1VaCv1PswYfL3cIKK16+tE+dB/q/CjBM2EoNRPFilXqEu1uviCKl2kGC/oQsNGOctDKN
+ bBJWk3rIwjtsZ/qi+Nu+op2xtVpP9P27U0pTjLg1ZGvkAcEDgGBc+AD5zl/4H21W6IGi4CPpD+dl3f
+ z2T9OexSoTH82yYNznfXo1VYpOopDazADLhVCzpTub8xW2FrK3xdvtMpZHOyJ6liwfNM1hZ6G6o4Qx
+ 4=
+X-SG-ID: D6Z+UOEZAHNtlrjTKHUMDx1V3tYkfZenfcCJdPyRaZ6eTt7ll69zOj/Uayx/j75pvUtNNwKQOYuzHa
+ WfMMABeA==
+Return-Path: bounces+1823144-5user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Medium Daily Digest (<<link>>
+2365453-daily_digest) Most recommended by
+
+People you follow
+
+Adam Conner (<<link>>
+1412365453-daily_digest)
+
+When you act like you=E2=80=99re important, you only prove you aren=E2=80=
+=99t. (<<link>>
+-you-only-prove-you-aren-t-3d70fb97b1f1?source=3Demail-7ccd17ba0f59-1461412=
+365453-daily_digest&sectionName=3Drecommended) Expensive domain.com + cheap domain.com=
+ude =3D cheap person. (<<link>>
+you-re-important-you-only-prove-you-aren-t-3d70fb97b1f1?source=3Demail-7ccd=
+17ba0f59-1461412365453-daily_digest&sectionName=3Drecommended) I was recent=
+ly jumping on a flight to do a presentation over on the Sunshine Coast for =
+the team at Spark Bureau. I was waiting in line to pick up a cup of coffee =
+when a couple of =E2=80=9Cbusiness bros=E2=80=9D cut=E2=80=A6 (<<link>>
+domain.com/@jonwestenberg/when-you-act-like-you-re-important-you-only-prove-you=
+-aren-t-3d70fb97b1f1?source=3Demail-7ccd17ba0f59-1461412365453-daily_digest=
+&sectionName=3Drecommended)
+
+in Life Learning (<<link>>
+f59-1461412365453-daily_digest), by Jon Westenberg (<<link>>
+westenberg?source=3Demail-7ccd17ba0f59-1461412365453-daily_digest)4 min read
+
+craignewmark (<<link>>
+1461412365453-daily_digest)
+
+How To Be Successful On Medium. I Have No Clue. Do You? (<<link>>
+/@alisha_k/how-to-be-successful-on-medium-i-have-no-clue-do-you-b8262adf1f5=
+3?source=3Demail-7ccd17ba0f59-1461412365453-daily_digest&sectionName=3Dreco=
+mmended) A couple of months ago, I took my first baby steps into the world =
+of blogging. I was welcomed warmly into the world of Medium. For a novice=
+=E2=80=A6 (<<link>>
+ve-no-clue-do-you-b8262adf1f53?source=3Demail-7ccd17ba0f59-1461412365453-da=
+ily_digest&sectionName=3Drecommended) in The Coffeelicious (<<link>>
+com/the-coffeelicious?source=3Demail-7ccd17ba0f59-1461412365453-daily_diges=
+t), by Alisha "Priti" Kirpalani (<<link>>
+l-7ccd17ba0f59-1461412365453-daily_digest)3 min read
+
+Dan Pfeiffer (<<link>>
+461412365453-daily_digest)
+
+Elephants, Rhinos, and Gardens: Earth Day on GoFundMe (<<link>>
+gofundme/elephants-rhinos-and-gardens-earth-day-on-gofundme-51959386ba38?so=
+urce=3Demail-7ccd17ba0f59-1461412365453-daily_digest&sectionName=3Drecommen=
+ded) At GoFundMe, we=E2=80=99re continually impressed by both the domain.com=
+y of our campaign organizers and the generosity of our giving community. On=
+=E2=80=A6 (<<link>>
+day-on-gofundme-51959386ba38?source=3Demail-7ccd17ba0f59-1461412365453-dail=
+y_digest&sectionName=3Drecommended) GoFundMe (<<link>>
+source=3Demail-7ccd17ba0f59-1461412365453-daily_digest)2 min read
+
+Mother Jones (<<link>>
+461412365453-daily_digest)
+
+For Once, Something Genuinely Good for the Earth Is Happening on Earth Day =
+(<<link>>
+earth-is-happening-on-earth-day-8506d60a7d12?source=3Demail-7ccd17ba0f59-14=
+61412365453-daily_digest&sectionName=3Drecommended) World leaders are in Ne=
+w York City to sign the first global agreement on climate change. (<<link>>
+medium.com/@climatedesk/for-once-something-genuinely-good-for-the-earth-is-=
+happening-on-earth-day-8506d60a7d12?source=3Demail-7ccd17ba0f59-14614123654=
+53-daily_digest&sectionName=3Drecommended) in Climate Desk (<<link>>
+com/climate-desk?source=3Demail-7ccd17ba0f59-1461412365453-daily_digest), b=
+y Climate Desk (<<link>>
+-1461412365453-daily_digest)5 min read
+
+U.S. Department of State (<<link>>
+17ba0f59-1461412365453-daily_digest)
+
+Young Leaders of the Americas on Being Emerging Entrepreneurs (<<link>>
+domain.com/@colej/young-leaders-of-the-americas-on-being-emerging-entrepreneurs=
+-23b530e9fb1a?source=3Demail-7ccd17ba0f59-1461412365453-daily_digest&sectio=
+nName=3Drecommended) Sitting in a small room with a dozen social and busine=
+ss entrepreneurs discussing their passion and big ideas, it=E2=80=99s hard =
+not to get excited=E2=80=A6 (<<link>>
+-americas-on-being-emerging-entrepreneurs-23b530e9fb1a?source=3Demail-7ccd1=
+7ba0f59-1461412365453-daily_digest&sectionName=3Drecommended) in Global Ent=
+repreneurship domain.com (<<link>>
+rce=3Demail-7ccd17ba0f59-1461412365453-daily_digest), by Jaclyn Cole (https=
+://medium.com/@colej?source=3Demail-7ccd17ba0f59-1461412365453-daily_digest=
+)6 min read
+
+Published by
+
+Authors and publications you follow
+
+What Today Means for our Global Efforts to Combat Climate Change (<<link>>
+domain.com/@Deese44/what-today-means-for-our-global-efforts-to-combat-climat=
+e-change-6e225b778f1d?source=3Demail-7ccd17ba0f59-1461412365453-daily_diges=
+t&sectionName=3Dpublished) Today, on Earth Day, nearly 170 countries will s=
+ign the Paris Agreement, reinforcing their commitment to the historic clima=
+te pact that was=E2=80=A6 (<<link>>
+-our-global-efforts-to-combat-climate-change-6e225b778f1d?source=3Demail-7c=
+cd17ba0f59-1461412365453-daily_digest&sectionName=3Dpublished) forged in De=
+cember of last year. That=E2=80=99s the largest number of countries that ha=
+ve ever signed an international agreement in one day. =C2=B6
+
+While the signing at the United Nations is historic, dozens of=E2=80=A6
+
+Brian Deese (<<link>>
+2365453-daily_digest)3 min read
+
+The Faces of My Brother=E2=80=99s Keeper (<<link>>
+e-faces-of-my-brother-s-keeper-f84be98776e7?source=3Demail-7ccd17ba0f59-146=
+1412365453-daily_digest&sectionName=3Dpublished) My Brother=E2=80=99s Keepe=
+r is rooted in the belief that every young man in America should have the c=
+hance to succeed =E2=80=94 no matter where he comes=E2=80=A6 (<<link>>
+m.com/@WhiteHouse/the-faces-of-my-brother-s-keeper-f84be98776e7?source=3Dem=
+ail-7ccd17ba0f59-1461412365453-daily_digest&sectionName=3Dpublished) The Wh=
+ite House (<<link>>
+12365453-daily_digest)8 min read
+
+The Police Data Initiative Year of Progress: (<<link>>
+e/the-police-data-initiative-year-of-progress-how-we-re-building-on-the-pre=
+sident-s-call-to-leverage-3ac86053e1a9?source=3Demail-7ccd17ba0f59-14614123=
+65453-daily_digest&sectionName=3Dpublished) How We=E2=80=99re Building on t=
+he President=E2=80=99s Call to Leverage Open Data to Increase Trust between=
+ Police and Citizens (<<link>>
+tive-year-of-progress-how-we-re-building-on-the-president-s-call-to-leverag=
+e-3ac86053e1a9?source=3Demail-7ccd17ba0f59-1461412365453-daily_digest&secti=
+onName=3Dpublished) The White House (<<link>>
+=3Demail-7ccd17ba0f59-1461412365453-daily_digest)5 min read
+
+Three possible outcomes for the Republican presidential nomination (https:/=
+/medium.com/@Brookings/three-possible-outcomes-for-the-republican-president=
+ial-nomination-a13187e745d7?source=3Demail-7ccd17ba0f59-1461412365453-daily=
+_digest&sectionName=3Dpublished) By Bill Galston (<<link>>
+ings/three-possible-outcomes-for-the-republican-presidential-nomination-a13=
+187e745d7?source=3Demail-7ccd17ba0f59-1461412365453-daily_digest&sectionNam=
+e=3Dpublished) The Brookings Institution (<<link>>
+rce=3Demail-7ccd17ba0f59-1461412365453-daily_digest)4 min read
+
+Trump Has Become =E2=80=9CMore Presidential=E2=80=9D? Gimme A Break. (https=
+://medium.com/@TUSK81/trump-has-become-more-presidential-gimme-a-break-89ac=
+d2ea8e27?source=3Demail-7ccd17ba0f59-1461412365453-daily_digest&sectionName=
+=3Dpublished) This week, America=E2=80=99s Voice released new polling that =
+showed Donald Trump had an astounding 87% unfavorable opinion among Latino =
+voters. No=E2=80=A6 (<<link>>
+dential-gimme-a-break-89acd2ea8e27?source=3Demail-7ccd17ba0f59-146141236545=
+3-daily_digest&sectionName=3Dpublished) Gabe Ort=C3=ADz (<<link>>
+/@TUSK81?source=3Demail-7ccd17ba0f59-1461412365453-daily_digest)3 min read
+
+Robby Mook mostly accurate that Hillary Clinton gets 0.2 (<<link>>
+m/@PolitiFact/robby-mook-mostly-accurate-that-hillary-clinton-gets-0-2-a14f=
+dea64458?source=3Demail-7ccd17ba0f59-1461412365453-daily_digest&sectionName=
+=3Dpublished) By Louis Jacobson, PolitiFact senior correspondent (<<link>>
+domain.com/@PolitiFact/robby-mook-mostly-accurate-that-hillary-clinton-gets-=
+0-2-a14fdea64458?source=3Demail-7ccd17ba0f59-1461412365453-daily_digest&sec=
+tionName=3Dpublished) PolitiFact (<<link>>
+mail-7ccd17ba0f59-1461412365453-daily_digest)4 min read
+
+10 Questions with Dr. Forbes (<<link>>
+ns-with-dr-forbes-9a3ebabc6c3c?source=3Demail-7ccd17ba0f59-1461412365453-da=
+ily_digest&sectionName=3Dpublished) The Weather Channel (<<link>>
+/@weatherchannel?source=3Demail-7ccd17ba0f59-1461412365453-daily_digest)11 =
+min read
+
+Recommended by
+
+Medium Staff
+
+The Future of Technology Is In Your Ear (<<link>>
+uture-of-technology-is-in-your-ear-8c276b810413?source=3Demail-7ccd17ba0f59=
+-1461412365453-daily_digest&sectionName=3Dsuggested) A $13 experiment shows=
+ how bionic hearing devices will shape our interactions with people, bots, =
+businesses, & ourselves (<<link>>
+ogy-is-in-your-ear-8c276b810413?source=3Demail-7ccd17ba0f59-1461412365453-d=
+aily_digest&sectionName=3Dsuggested) What if the Future of Technology is in=
+ Your Ear? =C2=B6
+
+My experiment with a $13 device convinced me that the next major platform w=
+ill replace text with sounds. =C2=B6
+
+=E2=80=9CWhy don=E2=80=99t we make cordless headphones=E2=80=A6
+
+in Backchannel (<<link>>
+1461412365453-daily_digest), by Jon Li (<<link>>
+=3Demail-7ccd17ba0f59-1461412365453-daily_digest)8 min read
+
+let=E2=80=99s work (<<link>>
+93c?source=3Demail-7ccd17ba0f59-1461412365453-daily_digest&sectionName=3Dsu=
+ggested) I am small and shy and weird and intense and I have lived through =
+things I wouldn=E2=80=99t wish on my worst enemies. I have always tried to =
+fit=E2=80=A6 (<<link>>
+urce=3Demail-7ccd17ba0f59-1461412365453-daily_digest&sectionName=3Dsuggeste=
+d) jes skolnik (<<link>>
+f59-1461412365453-daily_digest)4 min read
+
+Power Moves (<<link>>
+=3Demail-7ccd17ba0f59-1461412365453-daily_digest&sectionName=3Dsuggested) u=
+sing your domain.com card as a bookmark (<<link>>
+es-fe2bb5c11df7?source=3Demail-7ccd17ba0f59-1461412365453-daily_digest&sect=
+ionName=3Dsuggested) Catherine Cohen (<<link>>
+=3Demail-7ccd17ba0f59-1461412365453-daily_digest)2 min read
+
+Ovid=E2=80=99s Afterlife (<<link>>
+8df9d244?source=3Demail-7ccd17ba0f59-1461412365453-daily_digest&sectionName=
+=3Dsuggested) Mythical Rape and Rape Myths (<<link>>
+d-s-afterlife-4f708df9d244?source=3Demail-7ccd17ba0f59-1461412365453-daily_=
+digest&sectionName=3Dsuggested) in EIDOLON (<<link>>
+ce=3Demail-7ccd17ba0f59-1461412365453-daily_digest), by A. Everett Beek (ht=
+tps://medium.com/@acebeek?source=3Demail-7ccd17ba0f59-1461412365453-daily_d=
+igest)13 min read
+
+Searching for the Girl Next Door (<<link>>
+-next-door-b1e46bdbd327?source=3Demail-7ccd17ba0f59-1461412365453-daily_dig=
+est&sectionName=3Dsuggested) On =E2=80=98Doppelbangher=E2=80=99, men help e=
+ach other get over unrequited crushes in an only-on-domain.com way (<<link>>
+domain.com/@TonyaJoRiley/the-girl-next-door-b1e46bdbd327?source=3Demail-7ccd17=
+ba0f59-1461412365453-daily_digest&sectionName=3Dsuggested) in MEL Magazine =
+(<<link>>
+daily_digest), by Tonya Riley (<<link>>
+ail-7ccd17ba0f59-1461412365453-daily_digest)7 min read
+
+Read more on Medium: <<link>>
+2365453-daily_digest
+Connect with us on:
+---
+Sent by Medium, 760 Market Street, 9th floor, San Francisco, CA 94102
+To unsubscribe, domain.com <<link>>
+61f598a6cd0390b9d2c771d8624e7?source=3Demail-7ccd17ba0f59-1461412365453-dai=
+ly_digest&type=3Dsocial

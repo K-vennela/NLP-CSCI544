@@ -1,0 +1,78 @@
+Received: from domain.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Mon, 18 May 2015 16:03:08 +0200
+Received: from domain.com (unknown [192.168.100.50])	by
+ domain.com (Postfix) with ESMTP id A7F17621AC	for
+ <user@domain.com>; Mon, 18 May 2015 14:39:25 +0100 (BST)
+Received: by domain.com (Postfix)	id 43D344440B78; Mon, 18 May 2015 
+ 16:02:45 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.100.25])
+	by domain.com (Postfix) with ESMTP id 431EA4440B6C	for
+ <user@domain.com>; Mon, 18 May 2015 16:02:45 +0200 (CEST)
+X-ASG-Debug-ID: 1431957786-066a757fe5131f50001-YiOMKe
+Received: from smtp10-domain.com (smtp10-domain.com
+ [204.14.232.73]) by domain.com with ESMTP id wGfDXUoHPCJpP6Rw for
+ <user@domain.com>; Mon, 18 May 2015 16:03:07 +0200 (CEST)
+X-Barracuda-Envelope-From: Bruce Owens <bruce.owens@lattix.com>
+X-Barracuda-Apparent-Source-IP: 204.14.232.73
+Received: from [10.232.9.133] ([10.232.9.133:49077] helo=ops-mta1-4-chi)	by
+ mx2-domain.com (envelope-from
+ <user@domain.com>)
+	(ecelerity 3.6.8.47404 r(Core:3.6.8.0)) with ESMTPS (cipher=DES-CBC3-SHA) 	id
+ 20/A9-24066-A11F9555; Mon, 18 May 2015 14:03:06 +0000
+Received: from [10.234.68.11] ([10.234.68.11:41464]
+ helo=na15-app2-2-domain.com)	by mx3-domain.com
+ (envelope-from
+ <user@domain.com>)
+	(ecelerity 3.6.8.47404 r(Core:3.6.8.0)) with ESMTPS (cipher=DES-CBC3-SHA) 	id
+ C4/15-18405-A11F9555; Mon, 18 May 2015 14:03:06 +0000
+Date: Mon, 18 May 2015 14:03:06 +0000
+From: Bruce Owens <bruce.owens@lattix.com>
+To: "User" <user@domain.com>
+Message-ID: <1user@domain.com>
+Subject: Alberto could we book a quick call?
+X-ASG-Orig-Subj: Alberto could we book a quick call?
+X-Priority: 3
+X-SFDC-LK: 00Di0000000bjQk
+X-SFDC-User: 005i0000002gjN9
+X-Sender: user@domain.com
+X-mail_abuse_inquiries: <<link>>
+X-SFDC-TLS-NoRelay: 1
+X-SFDC-EmailCategory: apiMassMail
+X-SFDC-EntityId: 00Qi000000vIEwG
+X-SFDC-Binding: iCBT705cy8bBFz3B
+X-SFDC-Interface: internal
+X-Barracuda-Connect: smtp10-domain.com[204.14.232.73]
+X-Barracuda-Start-Time: 1431957786
+X-Barracuda-URL: <<link>>:8000/cgi-mod/mark.cgi
+X-Virus-Scanned: by bsmtpd at domain.com
+X-Barracuda-BRTS-Status: 1
+X-Barracuda-Spam-Score: 0.00
+X-Barracuda-Spam-Status: No, SCORE=0.00 using global scores of TAG_LEVEL=3.5 QUARANTINE_LEVEL=1000.0 KILL_LEVEL=8.0 tests=
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.3.19053
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1430002489_-_-"
+
+Alberto,
+
+I reached out to you last week in regards to Lattix Software. If there is any interest in our product I would love to talk with you.  Is there a time today or later in the week we could spend 5 minutes together?
+
+With respect, 
+
+Bruce G. Owens, Jr. 
+Director of North American Sales 
+Lattix, Inc 
+352 Park Street, Suite 203W, 
+North Reading, MA 01864
+user@domain.com 
+O. 978-664-5050 M. 617-519-6630

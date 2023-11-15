@@ -1,0 +1,62 @@
+Received: from domain.com (146.215.230.104) by
+ domain.com (43.130.141.78) with Microsoft SMTP Server id
+ 8.3.264.0; Fri, 17 Jan 2015 17:19:44 -0800
+Received: from domain.com ([160.33.194.229])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s0I1Ji7j026310;	Sat, 18 Jan 2015 01:19:44 GMT
+Received: from mail191-co9-domain.com (mail-domain.com
+ [207.46.163.22])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s0I1Jhkx011765
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL);	Sat, 18 Jan 2015 
+ 01:19:43 GMT
+Received: from mail191-co9 (localhost [127.0.0.1])	by
+ mail191-co9-domain.com (Postfix) with ESMTP id CDDFC300277;	Sat, 18 Jan
+ 2015 01:19:42 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:209.86.89.70;KIP:(null);UIP:(null);IPV:NLI;H:elasmtp-banded.atl.sa.earthlink.net;RD:elasmtp-banded.atl.sa.earthlink.net;EFVD:NLI
+X-SpamScore: -1
+X-BigFish: vps-1(z21eIz98dI9371Ic89bh1b0bIe0eah1432Ic857hzz1f42h2148h208ch1ee6h1de0h1ce5h1fdah201ch2073h2146h1202h1e76h2189h1d1ah1d2ah21bch1fc6h1082kzz8275ch1de098h8275bh18c673h1de097hz2dh5eh839hd25he5bh1288h12a5h12bdh137ah139eh13eah1441h1504h1537h162dh1631h1758h1898h18b6h18e1h1946h19b5h19ceh1b0ah1bceh2222h224fh1d0ch1d2eh1d3fh1dfeh1dffh1e1dh1e23h1fe8h1ff5h2052h20b3h20f0h2218h2216h226dh24afh2327h2336h2438h2461h2462h2487h2463i1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received: from mail191-co9 (localhost.localdomain [127.0.0.1]) by mail191-co9
+ (MessageSwitch) id 1390007980985921_17313; Sat, 18 Jan 2015 01:19:40 +0000
+ (UTC)
+Received: from domain.com (unknown [10.236.132.244])	by
+ mail191-domain.com (Postfix) with ESMTP id E1233840047;	Sat, 18 Jan 2015 
+ 01:19:40 +0000 (UTC)
+Received: from elasmtp-banded.atl.sa.earthlink.net (209.86.89.70) by
+ domain.com (10.236.130.38) with Microsoft SMTP Server id
+ 14.16.227.3; Sat, 18 Jan 2015 01:19:40 +0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=dk20050327; d=earthlink.net;
+  b=DIQq7GREexyG0EdxI3VUWHgLN49z3iNobu779bWXowui4XIPYN5uiAy7dMVZRoUo;
+  h=Received:Content-Type:Mime-Version:Subject:From: Michele Cook <travelnow01@earthlink.net>
+Received: from [67.100.127.2] (helo=[192.168.0.101])	by
+ elasmtp-banded.atl.sa.earthlink.net with esmtpsa (TLSv1:AES128-SHA:128)	(Exim
+ 4.67)	(envelope-from <user@domain.com>)	id 1W4KZX-0003Jf-NS; Fri,
+ 17 Jan 2015 20:19:40 -0500
+Subject: Re: Ok Just called and the Girijaala suite is available 3/22-25 only at the moment and the rate is 3300.00 a night.
+From: Michele Cook <travelnow01@earthlink.net>
+X-Mailer: iPhone Mail (11B554a)
+In-Reply-To: <9user@domain.com>
+Date: Fri, 17 Jan 2015 17:19:38 -0800
+CC: "Golfo, Sabrina" <user@domain.com>, "Watty, Ariya"
+	<user@domain.com>, "user@domain.com"
+	<user@domain.com>
+Message-ID: <user@domain.com>
+References: <02ad01cf13e3$c84e91d0$58ebb570$@earthlink.net> <9user@domain.com>
+To: "User" <user@domain.com>
+X-ELNK-Trace: c8bdac808cd3c107bba5908a4787d0969ef193a6bfc3dd48de88702ade273ef40ca4bb3bed3c43d7510ab3ad090af031350badd9bab72f9c350badd9bab72f9c
+X-Originating-IP: 67.100.127.2
+Return-Path: user@domain.com
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+U are currently confirmed at $1750 a night plus tax
+
+FYI
+
+M
+
+Sent from my iPhone including spelling errors!
+

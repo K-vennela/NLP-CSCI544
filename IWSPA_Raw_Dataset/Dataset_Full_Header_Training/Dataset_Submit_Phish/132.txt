@@ -1,0 +1,50 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [75.102.5.22])
+	by domain.com (Postfix) with ESMTP id 5B2E09AC002
+	for <user@domain.com>; Mon,  6 Jul 2015 05:17:35 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id D53AA23203A;
+	Mon,  6 Jul 2015 05:20:29 +0000 (UTC)
+X-Virus-Scanned: amavisd-new at domain.com
+X-Spam-Flag: NO
+X-Spam-Score: 4.412
+X-Spam-Level: ****
+X-Spam-Status: No, score=4.412 tagged_above=-10 required=6.6
+	tests=[BAYES_50=0.001, DATE_IN_PAST_06_12=1.069,
+	HTML_IMAGE_ONLY_08=1.787, HTML_MESSAGE=0.001,
+	HTML_MIME_NO_HTML_TAG=0.097, MIME_HTML_ONLY=1.457]
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id xe+B--6cP2fp; Mon,  6 Jul 2015 05:20:14 +0000 (UTC)
+Received: from domain.com (domain.com [203.129.240.200])
+	by domain.com (Postfix) with ESMTP id E9747232012
+	for <user@domain.com>; Mon,  6 Jul 2015 05:20:13 +0000 (UTC)
+Received: (qmail 21430 invoked by uid 33); 5 Jul 2015 22:29:28 -0000
+Date: 5 Jul 2015 22:29:28 -0000
+Message-ID: <20090705222928.21429.user@domain.com>
+To: user@domain.com
+Subject: Account suspension notification
+From: Westpac Bank <ssc@westpac.com.au>
+Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Content-Length: 658
+Lines: 26
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1097
+
+ Dear customer,
+
+Please pay attention that your online banking account is suspended because of missing information. In order for it 
+to remain active,please pass the account authorization process. 
+
+Login here.
+Thank you.
+
+Copyright © Copyright © 2015 Westpac Banking Corporation ABN 33 007 457 141
+

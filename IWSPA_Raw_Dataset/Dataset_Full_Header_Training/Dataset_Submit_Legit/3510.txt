@@ -1,0 +1,167 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Thu, 12 May
+ 2015 13:47:21 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Thu, 12 May 2015 
+ 13:47:17 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 911907844
+ for user@domain.com; Thu, 12 May 2015 12:47:25 -0500
+X-Note-AR-ScanTimeLocal: 5/12/2016 12:47:19 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @hillaryclinton.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 209.85.223.175
+X-Note-Reverse-DNS: mail-io0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mail-io0-domain.com ([209.85.223.175] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 138094360
+ for user@domain.com; Thu, 12 May 2015 12:47:19 -0500
+Received: by mail-io0-domain.com with SMTP id f89so104270451ioi.0
+        for <user@domain.com>; Thu, 12 May 2015 10:47:19 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=hillaryclinton.com; s=google;
+        h=mime-version:in-reply-to:references:date:message-id:subject:From: Zac Petkanas <zpetkanas@hillaryclinton.com>
+        bh=elYtgNGUirM2h0/ntCQHS2EKTy4rSCuk7uRNZdllCHo=;
+        b=HzADjqzWfGxPEJWX7A690FpwEjbOz26I5EcQGGl2YDmIK0nqNDt9azji/Q+irLEy+f
+         t3D4FRdVkPa3lcYKwLaOkf8gR+RkxStdziq2fbE4ScwHOx4ihrFw7UfWy9fLb/4XU2hN
+         Hh1YRiwSAeF2RlAa9XAFbSi1WGu45SGCHEMss=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:date
+         :message-id:subject:From: Zac Petkanas <zpetkanas@hillaryclinton.com>
+        bh=elYtgNGUirM2h0/ntCQHS2EKTy4rSCuk7uRNZdllCHo=;
+        b=Su+2fpGbDDjB1nxvIvzLyVCoRbPBC8WkzKZiLtFqZt/WmBtxA4BYKmWrNy7g/tYuIA
+         Wg1fEr/nHxU17JRyD9G34h2qL8zzSHawDT3ENl9ot5frDJiemcm0LusbxpjFukumz+nK
+         Y3NGIi096c+RxFIvzuFyDvwyS1O5kfnIPd/taLEf2/OuHFRG09TcgiGv68gND3mBOWnL
+         CpPHwTU7ySICYLUofzb95Wewzt0SfnhS8HEDfDhP1Jt0DevabRQOfhLF8NbkwymrwaOo
+         atuwf3dDO9Em+EwH0KuR5d6VJHNRyDAhBBebTsVBNvSZUYpK0OLRvdpR0UUOarVDkgV7
+         +rKw==
+X-Gm-Message-State: AOPr4FWNbWdI1XY+Q4OGWiNJxyWZMg1mTSE1bWzKx8XIiXaRA6JnNXc836Lrce9LzgP3SYewXfnye6jDG5au62S8
+X-Received: by 10.36.123.77 with SMTP id q74mr9710778itc.44.1463075239322;
+ Thu, 12 May 2015 10:47:19 -0700 (PDT)
+Received: by 10.36.227.201 with HTTP; Thu, 12 May 2015 10:47:19 -0700 (PDT)
+In-Reply-To: <6user@domain.com>
+References: <6user@domain.com>
+Date: Thu, 12 May 2015 13:47:19 -0400
+Message-ID: <user@domain.com>
+Subject: =?UTF-8?Q?Fwd=3A_Donald_Trump=E2=80=99s_Ongoing_Support_for_a_Muslim_B?=
+	=?UTF-8?Q?an?=
+From: Zac Petkanas <zpetkanas@hillaryclinton.com>
+To: User <user@domain.com>, "Paustenbach, Mark"
+	<user@domain.com>
+Content-Type: multipart/related; boundary="001a11475b22ebac800532a8bf27"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+this is great
+
+---------- Forwarded message ----------
+From: Zac Petkanas <zpetkanas@hillaryclinton.com>
+Date: Thu, May 12, 2015 at 1:23 PM
+Subject: Donald Trump=E2=80=99s Ongoing Support for a Muslim Ban
+To: OrganizationPress <user@domain.com>
+
+<<<link>>
+joBkfaiytVd-2F5WFUR-2FGbTpZtYC6HJKYybeicrnmIPr7benX5VgzD0k9dTxrxA-2FiGxMuJR=
+nFNEKz8v3PDUK08rdXUFZ8nBu2Lv_mOdMyFeGLf1DWJMrSvkf3ylDUKvt-2BH2eNUfBgIclOZMe=
+nMnXeViqmoqo9RPxGYac8PmwVs12QzgaERFTltxHtW36pvKLtlPjQAey4RXrSa8xa8d6p6fPts4=
+MT6RajsMY5gEMNUSDzOn5oOeFFao1hBHApbWHkZOyuN2wkywCwMdSB2uwrNTS-2BJcpEYPPnxBC=
+tribv3Y1ht-2FBxsmibK4LOG6yJNK9n2KhOZeARagGUPc-3D>
+
+Donald Trump=E2=80=99s ongoing support for his dangerous ban on Muslims ent=
+ering
+the United States remains strong, despite broad agreement that such a
+divisive measure would only make America less safe. It is clear that Donald
+Trump does not have the temperament or judgment needed to occupy the White
+House.
+
+=C2=B7         When asked whether he would stick by his ban in the general
+election, Trump said
+<<<link>>
+mOV93Y9AkJ9OTLVFGcafJS9UDjlZ1f6FViJm-2B4e2I9sitVvAREg-3D-3D_mOdMyFeGLf1DWJM=
+rSvkf3ylDUKvt-2BH2eNUfBgIclOZMenMnXeViqmoqo9RPxGYac8PmwVs12QzgaERFTltxHtayX=
+Y9u8EGjbMQ0MnXa0ta-2FZPvJXbd4M5tPhHbH-2Bueqagw0IxmtJoWreDNIzIfyJgZbc-2B6RMQ=
+3LZdCs9R8B5mdS9cuoZBLIEbzIFZUx-2Fln3fWfWQOK2zmOWk9afhcCKfQLHRifoVqzuOVn8-2F=
+AiyIkdw-3D>,
+=E2=80=9CI don't care if it hurts me. I'm doing the right thing when I do t=
+his.=E2=80=9D
+
+=C2=B7         According to interviews
+<<<link>>
+JoZPJ6H4HawHctckX4PPNkUgI3Kb2BwQ2kbVl-2BXhtFkm5ADhc2XcV3diRtO-2FrJO7FZ6o3C0=
+PYRhlrvvTY9ZFTzATGhdtVlp_mOdMyFeGLf1DWJMrSvkf3ylDUKvt-2BH2eNUfBgIclOZMenMnX=
+eViqmoqo9RPxGYac8PmwVs12QzgaERFTltxHtaes-2BAQTSB-2FFiODfDJXd3JAEli3RkqEbPep=
+Mf9w9qEYwrSiGBIsoaIPzwI8eqT-2FdrlDo0H1yFtR5Wy79agaKvpvFwCZz1H5sN75akJZARunJ=
+bVgDqIEw0PCyDh7KacTo2TjyISmc61TOxkA9M1t82k8-3D>
+with The New York Times, Trump plans to have his Muslim ban in place within
+his first 100 days as President.
+
+=C2=B7         Trump=E2=80=99s website still notes
+<<<link>>
+YK-2FUZvq3RRM1AznnY2siTgr9OGn19tp33FbSVZNdkaz8GR0CS32-2F1e9KVp-2BpesrjIqavl=
+UB3F3gEGtutchK-2BN5QH8Jdsy1O5oyz-2Bg48u46-2FkSbxLvYg-3D-3D_mOdMyFeGLf1DWJMr=
+Svkf3ylDUKvt-2BH2eNUfBgIclOZMenMnXeViqmoqo9RPxGYac8PmwVs12QzgaERFTltxHtZg19=
+s8If9bMBFMErDH5R0R80eNa7N5YR6mtaEwWatjgssq4791HqwH9HNv3hcGFydURoFcLbz6NCBQl=
+bFRCp7YdyKJzYMMCYx5Mne0QpeGJfA-2FrIHH2vDOQv3sog8nG-2FHVQpwDFo85Yr-2FzcUuPba=
+5E-3D>
+that he =E2=80=9Cis calling for a total and complete shutdown of Muslims en=
+tering
+the United States until our country=E2=80=99s representatives can figure ou=
+t what
+is going on. According to Pew Research, among others, there is great hatred
+towards Americans by large segments of the Muslim populations.=E2=80=9D
+
+=C2=B7         Trump has said
+<<<link>>
+WeTN1b18k4t8TKVwOQ6Qr5dqPaDJza71h82jVADqPttgHOmVMeam4O5PdSspfcFGhABiEaHSgUG=
+bXnwZoskWTjJatNoTIbvciYWYOO3I1UMj15xpsIRnL98fQfng-2BfUPh9afB9556uTat2sN2M2n=
+Z25RzSJz62-2FDsb516rqOk0DmaRR46Ihyy5KOCnz9KgkF5iQG-2FtMsoDtMU1WFAboiGnXd4Hz=
+e-2BDKZFH-2FFr92Z-2FPzajdRcygmVDHL6R2HqNcxlohoxbNfvXZeL4K2-2B7x-2BACc4HRDDP=
+x_mOdMyFeGLf1DWJMrSvkf3ylDUKvt-2BH2eNUfBgIclOZMenMnXeViqmoqo9RPxGYac8PmwVs1=
+2QzgaERFTltxHtXBcJrH8tM4K8FKsMVGAEn6z6YzlpekKMHMK6dQQYinPiEfbyZhikxvNo9wSgG=
+tN8PuS10v-2FnSaA7BTY3pmZKGlQTaeKb-2BznHr3Crr3FFLhWmFZBAtR94Y2hFF1v1YQzVCo6l=
+LY9CACzEIaSuS5UYQQ-3D>
+he did not care if his call to ban all Muslims from entering the United
+States was =E2=80=9Cpolitically incorrect.=E2=80=9D He argued that, =E2=80=
+=9CWe Have No Choice. We
+Have. No. Choice.=E2=80=9D
+
+=C2=B7         This week, after Donald Trump reiterated his plan to ban Mus=
+lims
+from entering the U.S., London=E2=80=99s newly-elected mayor Sadiq Khan rej=
+ected
+<<<link>>
+owmmzyQXgYyD1x0wuhr8ikbhlr-2FTyyvpctPVqZclOCZwaDjrzByBmPOLb8yloRQl3UkmzgZ0B=
+mi5cxdwFpqD5RLlcpBOOubLxfhKRBAt67IxzPXhSGJhUl8GaZnDgQnkHZCNR12S6U-3D_mOdMyF=
+eGLf1DWJMrSvkf3ylDUKvt-2BH2eNUfBgIclOZMenMnXeViqmoqo9RPxGYac8PmwVs12QzgaERF=
+TltxHtQATrJKV0p7iEynelWy-2FJgxdkY10k0bCQVGmJHxjVvq-2Bf4C0eJDM-2FsRPlqC1gJ7Q=
+YyltMjj7OaG8umZ51lBIlodJLue0D7yoeXdh6uVLJF5UoZO2VrQwZf9hCZ62Til8kkgQanuUbAs=
+5-2FIKEnVgbz7c-3D>
+the insulting idea that he could be one of Trump=E2=80=99s =E2=80=9Cexcepti=
+ons.=E2=80=9D
+
+*View this post on our Factivists site here
+<<<link>>
+joBkfaiytVd-2F5WFUR-2FGbTpZtYC6HJKYybeicrnmIPr7benX5VgzD0k9dTxrxA-2FiGxMuJR=
+nFNEKz8v3PDUK08rdXUFZ8nBu2Lv_mOdMyFeGLf1DWJMrSvkf3ylDUKvt-2BH2eNUfBgIclOZMe=
+nMnXeViqmoqo9RPxGYac8PmwVs12QzgaERFTltxHteUmDODZa4B-2BS1rpMn0Ip6G63DXkP4gXp=
+1Y68Ywk44rT6ei0GpSHtEFPag4VYRHzPAhXAmw9IH0Iy2fWgtdK8rhCu8ptPjahfNorYn0jyr8b=
+0LlvCFV7HAPHkbBcVwedPBQQpGdeeOQHVdnHUybOAGM-3D>.*
+
+To be automatically unsubscribed from this list, please email:
+user@domain.com

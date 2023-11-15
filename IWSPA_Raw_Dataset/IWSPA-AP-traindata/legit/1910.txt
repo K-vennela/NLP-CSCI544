@@ -1,0 +1,22 @@
+<x-flowed>
+Hi Caspar,
+Thanks for the comments. Frankly, Von storch is being duplicitous here. 
+He may tell certain audiences (like the NCAR group last month) that he 
+is not suggesting that the GKSS simulation is reealistic, because he 
+knows he'll get skewered if he claims othewise. But then he turns around 
+to the press, and talks about how the Moberg et al reconstruction 
+matches their model, etc.  I  frankly consider this dishonest, at best!
+If what Stefan says is true (that the entire long-term trend, including 
+the cold LIA in the model, is all due to the spinup problem), then it 
+completely invalidates the use of that model for testing statistical 
+reconstruction methodologies which require physically-consistent 
+patterns of variance in the calibration period to reconstruct the past. 
+But that's a separate issue.
+As we now know, the far more damning fact is that Von Storch et al 
+knowingly applied a procedure which is not the MBH98 procedure, and they 
+think they can get away w/ admitting this now in some obscure Italian 
+journal which isn't even in the ISI database.   Tim/Phil/Keith: you may 
+not know about the latter, but Caspar should be able to fill you in on 
+this shortly...
+Meanwhile, lets enjoy the media fiesta on MSU...
+Mike

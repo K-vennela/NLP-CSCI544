@@ -1,0 +1,8 @@
+This is an autmomated email sent from our SSL severs to inform you that there is an error in your email POP3/SMTP configuration.
+This error was identified on: 09/5/2016 and we have not been able to deliver 8 contact email messages to your mailbox.
+To retrieve your emails and reconfigure Port 486, Click Here
+Warning: Failure to do this will lead to loss of important mails and data.
+--------------------------------------------------------------------------------
+Please delete and Ignore if this is not your email address
+Regards,
+Webmail setup team.

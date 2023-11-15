@@ -1,0 +1,23 @@
+Content-Type: multipart/alternative;
+	boundary="Apple-Mail=_5B1981DA-9D84-4E47-89E5-08AB5C959EA9"
+Subject: Re: can't remember
+X-Universally-Unique-Identifier: CBBABD02-5A48-4E6F-AE2F-B50723FE0C86
+From: Jordan Kaplan <kaplanj@dnc.org>
+In-Reply-To: <872user@domain.com>
+Date: Thu, 12 May 2015 16:37:43 -0400
+CC: Valerie Friedman <user@domain.com>, "Mahoney, Caitria"
+	<user@domain.com>
+Message-ID: <9user@domain.com>
+X-Smtp-Server: C6C38CC7-AF1C-4C17-AB9E-879844FB845B
+References: <872user@domain.com>
+To: Bobby Schmuck <user@domain.com>
+MIME-Version: 1.0
+
+We have the dinner.=20
+
+Jordan Kaplan
+National Finance Director
+Organization
+(202) 488-5002 (o) | (312) 339-0224 (c)
+user@domain.com
+

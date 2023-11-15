@@ -1,0 +1,20 @@
+<x-flowed>
+Dear Phil,
+Yes, this is the same Geoff Smith who wrote to me. Do you know who he 
+is? From his comments about the RMS, he seems to be a Brit.
+In his email to you, Mr. Smith notes that: "there is a strong case to be 
+made that intermediate results, e.g., collation of such data and the 
+relevant code should be made available in studies such as this one, 
+since there is an important possibility of errors in trying to replicate 
+such a collation".
+This is a key point. Douglass et al. already audited our "collation" of 
+the primary temperature data (i.e., our calculation of synthetic MSU 
+temperatures). As I've already told Mr. Smith, Douglass et al. obtained 
+synthetic MSU temperatures very similar to the ones published in our 
+IJoC paper. Mr. Smith does not understand this. Nor does he understand 
+that the algorithms used to calculate synthetic MSU temperatures from 
+raw model temperature data have already been published and documented in 
+the peer-reviewed literature.
+I think it would be useful to raise these issues with Paul Hardaker.
+Cheers,
+Ben

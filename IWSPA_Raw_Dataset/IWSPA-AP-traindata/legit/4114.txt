@@ -1,0 +1,32 @@
+Dear Dr. Ritson,
+Your email to Phil Jones suggests that there are serious discrepancies between
+the ECHAM1/LSG power spectrum that I computed for the 1995 Barnett et al.
+Holocene paper and the ECHAM1/LSG power spectrum that Curt Covey posted on the
+WWW. This is not the case. At the time that Tim Barnett, Phil Jones, Keith
+Briffa and I performed the research that is the subject of the Holocene paper,
+only 600 years of control run data were available from ECHAM1/LSG. This is
+stated on page 256 of the Holocene paper. The first ca. 200-250 years of this
+control integration incorporated a large, non-linear climate drift component.
+This was manifested both in globally-averaged temperature and in other climate
+variables (see Santer et al., 1995, JGR 100, 10,693-10,725).
+Prior to computing the spectrum I removed the overall (i.e., 600-year)
+least-squares linear trend. There is still considerable low-frequency variance
+in the residuals, in part (but not wholly) due to the non-linearity of the
+drift component in the first few centuries. This residual drift explains some
+portion of the GFDL-versus-ECHAM1 power discrepancies at timescales of >100
+years.
+The CMIP project received data from MPI well after the completion of the
+research described in the Barnett et al. paper. At that time, I believe that
+1,250 years of ECHAM1/LSG control run data were made available. My
+understanding is that Curt did not use the first (drift-contaminated) 250 years
+of the ECHAM1/LSG control run when he computed the ECHAM1 spectrum displayed on
+the CMIP WWW page. HIs analysis relied on the last 1,000 years of the data.
+Not surprisingly, neglecting the first 250 years makes a big difference to the
+computed spectrum. This is particularly apparent at low frequencies, and also
+in the variance ratio (between periods of 300 and 2 years) that you compute.
+I hope this clarifies things. Should you still have residual concerns about our
+method of spectral analysis (which is standard and follows Jenkins and Watts),
+I'd be happy to provide you with a copy of the program that was used to
+generate the spectra.
+Sincerely,
+Ben Santer

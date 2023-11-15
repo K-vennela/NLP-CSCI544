@@ -1,0 +1,65 @@
+Phil
+Thanks for this great detail. I am thinking that probably a raw radiosonde dataset may be better (I tried this before using the LKS dataset but station density was an issue and only ended up with around 20 station pairs) - it sounds as though things have improved dramatically in that area and will look at the sources you suggest. My hope is that at least I can find hundreds/thousands of stations near to my high elevation surface ones for comparison. If not I could interpolate spatially maybe between radiosondes to my surface sites since free-air climate (not meteorology) should be relatively smooth in space. I cannot interpolate between surface stations.
+I agree that reanalyses can be a can of worms (esp NCEP/NCAR)!
+As for the surface I'll also look at the site you suggest and get back if I have any Q/problems. I appreciate the time you have taken to answer some of my Q!
+Best wishes
+Nick
+Nick,
+I don't want to put off, but there is an awful lot of things 
+wrong with NCEP/NCAR.
+They are probably OK for month-to-month variability, but if you look at some
+of the figures in Simmons et al (2004) you'll see that for trends they are
+practically useless before 1979.
+There is just so much wrong with the sondes which together with the
+introduction of satellite data in 1978/9 makes reanalyses awful.
+The Simmons paper is about how much better ERA-40 is than NCEP/NCAR.
+It is also telling you that you shouldn't be using NCEP/NCAR for 
+trends - and ERA-40
+is only OK in Europe and North America.
+A group of us are hopeful of getting an EU project funded to go 
+through the
+Reanalysis input - surface and sonde. The aim is to put in all the 
+homogenised
+surface and sonde data, so giving reanalysis better data input - 
+and putting back all the
+data that missed the real-time cut.  I'm not sure you're aware that 
+no back data have
+ever got into the reanalyses. If data doesn't make the cut in real 
+time, it can never get
+in later. The reanalysis source input doesn't collect back data!
+You'd be better off getting one of the newer sonde datasets. 
+HadAT2 although developed
+in 2005 is beyond it's sell-by date. Have a look at the attached 
+and this web site
+<<link>> 
+Ra-ob core version 1.4 is the latest.
+The drop off in surface data isn't the fault of GHCNv2. The 
+folks in Asheville are doing all
+they can to get additional datasets. Currently about 2000 sites are 
+exchanged in real time.
+If the sites you want are not exchanged by Met Services in real 
+time we can't get access
+to them except by asking each Met Service and/or waiting till the 
+next volumes of the 10-year
+books (for 2001-2010) get released.
+CRUTEM3 has some additional station data going in for Australia 
+and Canada, but apart
+from this we will have nothing more than GHCNv2. We could get a 
+load more from the US
+quite easily, but coverage is reasonable there compared to the rest 
+of the world.
+GHCNv2 and ourselves have lots of historic series, but these 
+aren't updatable in real
+time, without continuous effort.  Lots of projects were funded in 
+the US and Europe in the
+1980s and 1990s to get loads of data digitized, homogenized and accessible.
+It is possible to do things with daily data (SYNOPS) but these are 
+only generally good enough for the good countries.
+<<link>> 
+This site has what is available in real time - since 2001. This 
+site can be very annoying.
+There is a link back to NCDC.
+Cheers
+Phil
+Cheers
+Phil

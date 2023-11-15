@@ -1,0 +1,30 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Thu, 26 Feb 2015 17:34:02 +0100
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id 78D5C6005F	for
+ <user@domain.com>; Thu, 26 Feb 2015 16:12:34 +0000 (GMT)
+Received: by domain.com (Postfix)	id 8FA70B6600F; Thu, 26 Feb 2015 
+ 17:34:00 +0100 (CET)
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com
+ [192.168.200.205])	by domain.com (Postfix) with ESMTP id 7B5CEB6603E
+	for <user@domain.com>; Thu, 26 Feb 2015 17:34:00 +0100 (CET)
+Date: Thu, 26 Feb 2015 17:34:00 +0100
+From: "Alessandro Scarafile (Confluence)" <confluence@hackingteam.com>
+To: <user@domain.com>
+Message-ID: <907269407.775.1424968440503.JavaMail.CONFLUENCE$@confluence>
+Subject: [confluence] Alessandro Scarafile updated a event in the "00.
+ TENTATIVE" calendar
+Precedence: bulk
+Auto-Submitted: auto-generated
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2135562172_-_-"
+
+  Alessandro Scarafile updated a event in the 00. TENTATIVE calendar Mar 23, 2015 Until Mar 24, 2015   Upgrade Oman (ORF)You are receiving this notification because you are watching the following:   00. TENTATIVE   Sent by Atlassian Confluence 5.6.3, the Enterprise Wiki 

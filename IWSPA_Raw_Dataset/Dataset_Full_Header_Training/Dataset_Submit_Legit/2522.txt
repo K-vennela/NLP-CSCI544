@@ -1,0 +1,171 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Thu, 12 May
+ 2015 11:13:31 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Thu, 12 May 2015 
+ 11:13:27 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 911432190;
+ Thu, 12 May 2015 10:13:31 -0500
+X-Note-AR-ScanTimeLocal: 5/12/2016 10:13:30 AM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: Too many policies to list
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:207.46.100.69 DOM:blueenginemedia.com ADDR:user@domain.com
+X-Note: SPF: PermError
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-275/SG:5 5/12/2016 10:13:20 AM
+X-GBUdb-Analysis: 0, 207.46.100.69, Ugly c=0.700989 p=-0.971111 Source White
+X-Signature-Violations: 0-0-0-26317-c
+X-Note-419: 109.3861 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/12/2016 10:13:21 AM
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->->United States->
+X-Note-Sending-IP: 207.46.100.69
+X-Note-Reverse-DNS: mail-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from [207.46.100.69] (HELO
+ na01-by2-domain.com)  by domain.com
+ (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 138493664; Thu, 12 May 2015 
+ 10:13:30 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=domain.com; s=selector1-blueenginemedia-com;
+ h=From: Erik Smith <erik@blueenginemedia.com>
+ bh=OmSI6NMaSiqaq+f0dLMSbAEvPDG5UmaL97sP9yFQAkI=;
+ b=PsP/WGkWUslqQQlaq5h5sAEXXfRuc1zjki0oF8LWO71JoKtR5+DJwGHYb/DtOCqhbydWx77hPDNU/v4C+/V6kYmBDqsePIVo8B8ZA3Gwena1n9fWS/HF/jIFrVz+XQBuMwzhncLgDYB7POF9wAfpLpWZfcreu6jjmqlzpn2C1Cs=
+Received: from domain.com (10.162.218.25) by
+ domain.com (10.162.218.25) with Microsoft SMTP
+ Server (TLS) id 15.1.497.3; Thu, 12 May 2015 15:13:22 +0000
+Received: from domain.com ([10.162.218.25]) by
+ domain.com ([10.162.218.25]) with mapi id
+ 15.01.0497.013; Thu, 12 May 2015 15:13:21 +0000
+From: Erik Smith <erik@blueenginemedia.com>
+To: "User" <user@domain.com>, Debbie Wasserman Schultz
+	<user@domain.com>, "Dacey, Amy" <user@domain.com>, Jessica Borchert
+	<user@domain.com>, "User" <user@domain.com>, "Tracie
+ Pough" <user@domain.com>, Kate Houghton <user@domain.com>, Lindsey Reynolds
+	<user@domain.com>
+Subject: RE: Politico - The sun is setting on the final planned Democratic
+ primary debate
+Thread-Topic: Politico - The sun is setting on the final planned Democratic
+ primary debate
+Thread-Index: AdGsX1iPRstm3v/NSJOtHOj3HhqxmQAAWVkg
+Date: Thu, 12 May 2015 15:13:20 +0000
+Message-ID: <user@domain.com>
+References: <user@domain.com>
+In-Reply-To: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+authentication-results: domain.com; dkim=none (message not signed)
+ header.d=none;domain.com; dmarc=none action=none
+ header.from=blueenginemedia.com;
+x-originating-ip: [38.104.236.238]
+x-ms-office365-filtering-correlation-id: f0687576-a783-4afe-526a-08d37a77f495
+x-microsoft-exchange-diagnostics: 1;CY1PR08MB1803;5:xIOCSvfdW4fxEH8gRgjG4Ag26NYsMzn5vVYtcjigqe3/Gpit9+kIE73Tzxqt4Yx7/0TZP1pQwL/a+W7pmrnBt95r+SjZ0IteMs7tG0BVDdUN6ZYjG0gkYwOKT8DNy1rtwRGWYu0zx0ZNjgAG6WlDOw==;24:/FxhUucI9W+NXA+IH5NvNDh1XU9YlxjSJp+5v52ocFMPDpAQdmjmqkmD9H4Nz+9Na2/9ZGHkbdXdEY9Z8975yVMygsPl7te2hlLT1tFGKMs=;7:YfzIsZU26L1AfDjObsVoAGUqeJ1vB4AJktIQNsdYKA5C+Ej3qJiWiMml7A4BTOsh8uqGTSwCvnp0Cv+jl0m4pvoxtha/fZZyIO9gQitg59Pt9zEhxtRvc5R/QOhMrmqkydFAeeJem+ipNwbI8FQg0M/1rsF5RF3T+yQAF655ITWA4I5/WrLoN3y1/Gvtoj43
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:;SRVR:CY1PR08MB1803;
+x-microsoft-antispam-prvs: <user@domain.com>
+x-exchange-antispam-report-test: UriScan:;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(601004)(2401047)(8121501046)(5005006)(3002001)(10201501046);SRVR:CY1PR08MB1803;BCL:0;PCL:0;RULEID:;SRVR:CY1PR08MB1803;
+x-forefront-prvs: 0940A19703
+x-forefront-antispam-report: SFV:NSPM;SFS:(10009020)(377454003)(86362001)(19609705001)(5002640100001)(19580395003)(16236675004)(19580405001)(87936001)(5003600100002)(5008740100001)(50986999)(76176999)(74316001)(54356999)(9686002)(5001770100001)(107886002)(92566002)(1220700001)(99286002)(19625215002)(5004730100002)(3660700001)(122556002)(3280700002)(81166006)(2906002)(2950100001)(33656002)(66066001)(2900100001)(77096005)(19300405004)(15975445007)(76576001)(586003)(19617315012)(3846002)(6116002)(189998001)(790700001)(102836003)(8936002)(921003)(1121003);DIR:OUT;SFP:1101;SCL:1;SRVR:CY1PR08MB1803;H:domain.com;FPR:;SPF:None;MLV:sfv;LANG:en;
+spamdiagnosticoutput: 1:23
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_CY1PR08MB18031BC3D669E6AA5D7F12CAD4730CY1PR08MB1803namp_"
+X-MS-Exchange-CrossTenant-originalarrivaltime: 12 May 2015 15:13:20.9995
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 2138a939-c6be-49b9-a268-ded25fd39341
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: CY1PR08MB1803
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+I suspect Sanders will start hearing form cable networks now.  This story m=
+ight change the trajectory a little.
+
+From: Erik Smith <erik@blueenginemedia.com>
+Sent: Thursday, May 12, 2015 11:08 AM
+To: Debbie Wasserman Schultz; Dacey, Amy; Erik Smith; Jessica Borchert; Mir=
+anda, User; Tracie Pough; Kate Houghton; Lindsey Reynolds
+Subject: Politico - The sun is setting on the final planned Democratic prim=
+ary debate
+
+The sun is setting on the final planned Democratic primary debate<<<link>>
+domain.com/blogs/on-media/2016/05/wherefore-art-thou-final-democratic-d=
+ebate-223095>
+POLITICO
+By Hadas Gold
+05/12/16
+
+Back in February<<<link>>
+ers-hillary-clinton-debates-michigan-california-218691> the Hillary Clinton=
+ and Bernie Sanders campaigns agreed to extend the Democratic debate domain.com=
+le by four more debates.
+
+Three have been held, but the final debate, to be held in California in May=
+ according to the agreement, doesn't seem to be going anywhere fast. There =
+are 19 days left in May, and the California primary is on June 7.
+
+At the moment there have been few if any discussions about a date, location=
+, or network agreed upon between the campaigns and the Democratic National =
+Committee, multiple sources said.
+
+The Sanders campaign has not been in negotiations with the Clinton campaign=
+ or the DNC, and is waiting for a cable network to come forward to offer a =
+location and a primetime slot, a Sanders adviser said on background. Spokes=
+man Michael Briggs said they're trying to 'nail down a date and location' b=
+ut would only say that there 'have been discussions' when asked for specifi=
+cs.
+
+The last Democratic debate<<<link>>
+cepts-april-14-debate-with-clinton-221556>, hosted by CNN in Brooklyn, came=
+ together just ten days before through a rather public negotiation, which t=
+he Sanders adviser said they expect to happen again. All three cable networ=
+ks have expressed interest, the adviser said, but none have specifically co=
+me forward with a time or place. (Cable networks this season have been spen=
+ding tidy sums to reserve locations on different dates and in different cit=
+ies that could be used for possible debates or town halls). The Sanders cam=
+paign has often gone around the Organizationin debate negotiations, and even sought=
+ to exclude<<<link>>
+-results/2016/04/bernie-sanders-dnc-democratic-debate-221616> the Organizationfrom =
+the Brooklyn debate last month.
+
+"As voters in the remaining states and territories make up their minds abou=
+t the future of the Democratic Party, I believe they deserve a chance to co=
+mpare my record and Secretary Clinton's record on creating jobs, raising th=
+e minimum wage, war and peace, the need for health care for all, breaking u=
+p big banks, combating climate change and other critical issues. Secretary =
+Clinton's campaign already has agreed to another debate in California. I ho=
+pe that we can soon settle on a date and place for that debate," Sanders sa=
+id on Tuesday night after winning the West Virginia primary.
+
+Asked about the negotiations for an upcoming debate or whether one is still=
+ in the works, Organizationspokesman User said there was 'no update at this=
+ time."
+
+A Clinton campaign spokesman declined to comment.
+
+Mark Paustenbach
+National Press Secretary &
+Deputy Communications Director
+Organization
+W: 202.863.8148
+user@domain.com<mailto:user@domain.com>
+

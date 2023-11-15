@@ -1,0 +1,75 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id BA4EB23CAB1
+	for <user@domain.com>; Tue, 13 Sep 2015 10:14:17 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at domain.com
+X-Spam-Score: 3.256
+X-Spam-Level: ***
+X-Spam-Status: No, score=3.256 tagged_above=2 required=5
+	tests=[BAYES_00=-2.599, HTML_30_40=0.374, HTML_MESSAGE=0.001,
+	UNDISC_RECIPS=0.841, URIBL_BLACK=3, URIBL_SBL=1.639]
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 7PwLXyZyPleK for <user@domain.com>;
+	Tue, 13 Sep 2015 10:14:15 -0500 (CDT)
+Received: from ttc-spam.sw1.k12.wy.us (ttc-spam.sw1.k12.wy.us [137.90.193.15])
+	by domain.com (Postfix) with ESMTP id D7AE423CAA3
+	for <user@domain.com>; Tue, 13 Sep 2015 10:14:15 -0500 (CDT)
+Received: from ttc-spam.sw1.k12.wy.us (localhost [127.0.0.1])
+	by ttc-spam.sw1.k12.wy.us (Postfix) with ESMTP id A65C13098F1;
+	Tue, 13 Sep 2015 09:09:54 -0600 (MDT)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from ttc-spam.sw1.k12.wy.us ([127.0.0.1])
+	by ttc-spam.sw1.k12.wy.us (ttc-spam.sw1.k12.wy.us [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id CWfPXca4ZNk8; Tue, 13 Sep 2015 09:09:54 -0600 (MDT)
+Received: from exchange.sw1.k12.wy.us (exchange.sw1.k12.wy.us [137.90.193.10])
+	by ttc-spam.sw1.k12.wy.us (Postfix) with ESMTP id A97973098D4;
+	Tue, 13 Sep 2015 09:09:53 -0600 (MDT)
+Received: from exchange.sw1.k12.wy.us ([137.90.193.10]) by
+ exchange.sw1.k12.wy.us ([137.90.193.10]) with mapi; Tue, 13 Sep 2015 09:09:53
+ -0600
+From: Sandra Garber <garbers@sw1.k12.wy.us>
+Date: Tue, 13 Sep 2015 09:09:52 -0600
+Subject: Mail Box Quota Exceeded
+Thread-Topic: Mail Box Quota Exceeded
+Thread-Index: AQHMcicwGtz4AjmTIEKQNyq88G0p3Q==
+Message-ID: <3user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+acceptlanguage: en-US
+Content-Type: multipart/alternative;
+	boundary="_000_3C1E3700AE37E8469B5E96CBF49596E930E33F8F1Bexchangesw1k1_"
+MIME-Version: 1.0
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 20
+
+Your web mail quota has exceeded the set quota which is 3GB. you are curren=
+tly running on 3.9 GB.
+To re-activate and increase your web mail quota please click the link below=
+.
+CLICK HERE<<<link>>>
+
+Failure to do so may result in the cancellation of your web mail account.
+Thanks, and sorry for the inconvenience
+Local-host.
+
+________________________________
+This e-mail message, which is from Sweetwater County School District Number=
+ one, State of Wyoming, contains CONFIDENTIAL and PRIVILEGED INFORMATION. I=
+n addition, the information may be protected by applicable Federal and Stat=
+e laws including, without limitation, the provisions of the Family Educatio=
+nal Rights and Privacy Act (FERPA) which prohibits unauthorized disclosures=
+.
+
+If you have received this communication in error (you are not the addressee=
+ or authorized receiver for the addressee), you may not use, copy, or discl=
+ose the message or any information contained in the message. If you have re=
+ceived this e-mail in error, please advise the sender immediately by reply =
+e-mail and delete this message.

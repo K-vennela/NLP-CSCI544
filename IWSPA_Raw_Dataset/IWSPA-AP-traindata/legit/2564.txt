@@ -1,0 +1,37 @@
+<x-flowed>
+Dear folks,
+You may be interesting in this snippet of information about
+Pat Michaels. Perhaps the University of Wisconsin ought to
+open up a public comment period to decide whether Pat Michaels,
+PhD needs re-assessing?
+Michaels' PhD was, I believe, supervised by Reid Bryson. It dealt
+with statistical (regression-based) modeling of crop-climate
+relationships. In his thesis, Michaels claims that his statistical
+model showed that weather/climate  variations could explain 95%
+of the inter-annual variability in crop yields. Had this been
+correct, it would have been a remarkable results. Certainly, it
+was at odds with all previous studies of crop-climate relationships,
+which generally showed that weather/climate could only explain about
+50% of inter-annual yield variability.
+How did result come about? The answer is simple. In Michaels'
+regressions he included a trend term. This was at the time a common
+way to account for the effects of changing technology on yield. It
+turns out that the trend term accounts for 90% of the variability,
+so that, in Michaels' regressions, weather/climate explains just 5
+of the remaining 10%. In other words, Michaels' claim that
+weather/climate explains 95% of the variability is completely
+bogus.
+Apparently, none of Michaels' thesis examiners noticed this. We
+are left with wondering whether this was deliberate misrepresentation
+by Michaels, or whether it was simply ignorance.
+As an historical note, I discovered this many years ago when working
+with Dick Warrick and Tu Qipu on crop-climate modeling. We used a
+spatial regression method, which we developed for the wheat belt of
+southwestern Western Australia. We carried out similar analyses for
+winter wheat in the USA, but never published the results.
+Wigley, T.M.L. and Tu Qipu, 1983:  Crop-climate modelling using spatial
+patterns of yield and climate:  Part 1, Background and an example from
+Australia. Journal of Climate and Applied Meteorology 22, 18311841.
+There never was a "Part 2".
+Tom
++++++++++++++++++++++++++++++++++++++++++

@@ -1,0 +1,203 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "<<link>>
+/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<title></title>
+<style>
+body[yahoo] .appleLinks a {
+color: #9b9b9b !important;
+text-decoration: none !important;
+}
+/***** GENERAL EMAIL CLIENT FIXES *****/
+ReadMsgBody{ width: 100%;} /* Forces Hotmail to display emails at full widt=
+h */
+.ExternalClass {width: 100%;} /*Hotmail table centering fix*/
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font,=
+.ExternalClass td, .ExternalClass div {line-height: 100%;}
+/* Forces Hotmail to display normal line spacing*/
+body {-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%;margin:0 !im=
+portant; padding:0 !important;}=20
+/* Prevent Webkit and Windows Mobile platforms from changing default font s=
+izes, while not breaking desktop design. */
+p { margin: 1em 0;} /*Yahoo paragraph fix*/
+table td { border-collapse: collapse;}  /*This resolves the Outlook 07, 10,=
+and Gmail td padding issue fix*/
+/* Remove the borders that appear when linking <<link>>
+/lib/fe9613707567027b76/m/1 with "border:none" and "outline:none" */
+img {outline:0;}
+a img {border:none;}
+p {margin: 1em 0;} /*Yahoo paragraph fix*/
+@-ms-viewport{ width: device-width;}
+/***** SMARTPHONE STYLING RULES *****/
+@media only screen and (max-width: 600px) {
+body[yahoo] .fluid { width:100% !important; }
+body[yahoo] .hide { display:none !important; }
+body[yahoo] .footerText {font-size: 14px!important; line-height: 18px!impor=
+tant;}
+body[yahoo] .fluidImg { width:100% !important; height: auto !important; }
+body[yahoo] .padLeft { width:100% !important; padding-left: 20px !important=
+; }
+body[yahoo] .padLess { width:100% !important; padding-left: 20px !important=
+; padding-right: 20px !important; }
+body[yahoo] .showImg { width:100% !important; height: auto !important; disp=
+lay: inline !important; }
+body[yahoo] .show { display: inline !important; width: 100% !important }
+}
+</style>
+</head>
+<body style=3D"background-color: #f7f7f7; margin: 0px !important;padding: 0=
+px !important;-webkit-text-size-adjust: none !important" yahoo=3D"fix">
+<!--start main table-->
+<table class=3D"fluid" align=3D"center" border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" width=3D"100%" bgcolor=3D"#f7f7f7">
+<tr>
+<td align=3D"center" width=3D"100%">
+<!--header start-->
+<table class=3D"fluid" align=3D"center" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"600">
+<tr>
+<td width=3D"600" class=3D"padLeft" align=3D"left" vali=
+gn=3D"top" style=3D"font-size:12px; line-height: 12px; font-family: Arial, =
+Helvetica, sans-serif; color: #333333; padding-top: 15px; padding-bottom: 1=
+5px;">
+<img src=3D"<<link>>
+ponsysimages/eventbrt/contentlibrary/org_category/2016-05-11_facebook/2016-=
+05-11_Facebook/images/eventbrite_logo.png" width=3D"108" height=3D"auto" al=
+t=3D"Eventbrite" style=3D"display: block; border: 0;">
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align=3D"center" width=3D"100%">
+<!--body table-->
+<table class=3D"fluid" align=3D"center" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"600">
+<tr>
+<td class=3D"show" style=3D"display: none; line-height: 0.01p=
+x;">
+<img src=3D"<<link>>
+ges/eventbrt/contentlibrary/org_category/2016-05-11_facebook/2016-05-11_Fac=
+ebook/images/FB_Email_Header_mobile.jpg" class=3D"showImg" alt=3D"Reach new=
+audiences with Facebook Official Events" width=3D"1" height=3D"1" style=3D=
+"display: none; border: 0;">
+</td>
+</tr>
+<tr>
+<td class=3D"hide">
+<img src=3D"<<link>>
+ponsysimages/eventbrt/contentlibrary/org_category/2016-05-11_facebook/2016-=
+05-11_Facebook/images/FB_Email_Header_Desk.jpg" width=3D"600" height=3D"300=
+" alt=3D"Reach new audiences with Facebook Official Events" style=3D"displa=
+y: block; border: 0;">
+</td>
+</tr>
+<tr>
+<td width=3D"600" class=3D"padLess" style=3D"padding: 4=
+0px; background-color: #ffffff;">
+<table class=3D"fluid" align=3D"center" border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+=20
+<tr>
+<td align=3D"left" style=3D"font-size:16px;=
+line-height: 22px; font-family: Helvetica, Arial, sans-serif; color: #6666=
+66; padding-bottom: 20px; font-weight: 200;">
+Save time and boost event attendance with <=
+b>Eventbrite and Facebook Official Events</b>. <a href=3D"<<link>>
+email.com/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGkszfzgtWOze5afgKAXO9hDtzaFeE=
+uogeyNW9ujqDHRvugI571HOPMI2VXtpKX%3DTRAWYY&amp;_ei_=3DEolaGGF4SNMvxFF7KucKu=
+WMcBjp7jRerseZo8JX_phZKV36YFfSAHPhrtA4genZgCzqscLISAJt3lvzXJ7412GtDIesG_-_j=
+wTsh1sijWJU6WP1kvDnv." target=3D"_blank" style=3D"text-decoration: none; co=
+lor: #39c2ca;">Learn more about our new integration</a>
+<br><br>
+Facebook Official Events show up more on search and News Feed recommendatio=
+ns&#8212;helping you expand your reach and drive ticket sales.<br><br>
+It only takes a few simple clicks to get your Eventbrite event up on your F=
+acebook Page. Take advantage of promotion with Facebook Official Events tod=
+ay.=20
+</td>
+</tr>
+<tr>
+<td align=3D"left">
+<a href=3D"<<link>>
+ub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGkszfzgtWOze5afgKAXO9hDtzaFeEuogeyNW9ujq=
+DHRvugI571HOPMI2VXtpKX%3DTRAWDY&amp;_ei_=3DEolaGGF4SNMvxFF7KucKuWMcBjp7jRer=
+seZo8JX_phZKV36YFfSAHPhrtA4genZgCzqscLISAJt3lvzXJ7412GtDIesG_-_jwTsh1sijWJU=
+6WP1kvDnv." target=3D"_blank">
+<table class=3D"fluid" align=3D"left" b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#39c2ca">
+<tr>
+<td width=3D"4">
+<img src=3D"<<link>>
+cdn.responsys.net/i5/responsysimages/eventbrt/contentlibrary/org_category/2=
+016-05-11_facebook/2016-05-11_Facebook/images/eventbrite_button_left.gif" w=
+idth=3D"4" height=3D"44" style=3D"display: block; border: 0;">
+</td>
+<td align=3D"center" valign=3D"=
+middle" style=3D"padding-left: 20px; padding-right: 20px; font-size:16px; l=
+ine-height: 22px; font-family: Helvetica, Arial, sans-serif; color: #ffffff=
+; font-weight: 200;">
+<a href=3D"<<link>>
+temail.com/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGkszfzgtWOze5afgKAXO9hDtzaFe=
+EuogeyNW9ujqDHRvugI571HOPMI2VXtpKX%3DTRAWDY&amp;_ei_=3DEolaGGF4SNMvxFF7KucK=
+uWMcBjp7jRerseZo8JX_phZKV36YFfSAHPhrtA4genZgCzqscLISAJt3lvzXJ7412GtDIesG_-_=
+jwTsh1sijWJU6WP1kvDnv." target=3D"_blank" style=3D"text-decoration: none; c=
+olor: #ffffff;">Get Started</a>
+</td>
+<td width=3D"4">
+<img src=3D"<<link>>
+cdn.responsys.net/i5/responsysimages/eventbrt/contentlibrary/org_category/2=
+016-05-11_facebook/2016-05-11_Facebook/images/eventbrite_button_right.gif" =
+width=3D"4" height=3D"44" style=3D"display: block; border: 0;">
+</td>
+</tr>
+</table>
+</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align=3D"center">
+<!--footer-->
+<table class=3D"fluid" align=3D"center" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"600">
+<tr>
+<td class=3D"padLess" align=3D"center" valign=3D"top" s=
+tyle=3D"color:#989695; font-family:'Helvetica Neue', Helvetica, Arial, sans=
+-serif; font-size:12px; line-height:22px; text-align:center; padding-left: =
+40px; padding-right: 40px; padding-top: 12px; padding-bottom: 20px;">
+This email was sent to <a href=3D"" target=3D"_blan=
+k" style=3D"color: #49aac9; text-decoration: none;">user@domain.com</a> | <=
+a href=3D"<<link>>
+YQGkszfzgtWOze5afgKAXO9hDtzaFeEuogeyNW9ujqDHRvugI571HOPMI2&amp;_ei_=3DEolaG=
+GF4SNMvxFF7KucKuWMcBjp7jRerseZo8JX_phZKV36YFfSAHPhrtA4genZgCzqscLISAJt3lvzX=
+J7412GtDIesG_-_jwTsh1sijWJU6WP1kvDnv" target=3D"_blank" style=3D"color: #49=
+aac9; text-decoration: none;">unsubscribe</a>
+<br>
+Eventbrite | <a class=3D"appleLinks">155 5th St | S=
+an Francisco, CA</a> | 94103
+<br>
+Copyright =A9 2016 Eventbrite. All rights reserved.
+</td>
+</tr>
+=20
+</table>
+</td>
+</tr>
+</table><br>
+<br><table cellpadding=3D"0" cellspacing=3D"0" style=3D"border: 0px; paddin=
+g: 0px; margin: 0px; position: absolute; float: left"><tr><td height=3D"1" =
+style=3D"font-size: 1px; line-height: 1px; padding: 0px;"><img height=3D"1"=
+width=3D"1" style=3D"padding: 0px 0px; !important; margin: 0px 0px; font-s=
+ize: 1px; line-height: 1px;" src=3D"<<link>>
+=3DX0Gzc2X%3DYQpglLjHJlYQGkszfzgtWOze5afgKAXO9hDtzaFeEuogeyNW9ujqDHRvugI571=
+HOPMI2VXHkMX%3Dw&amp;_ei_=3DEolaGGF4SNMvxFF7KucKuWMcBjp7jRerseZo8JX_phZKV36=
+YFfSAHPhrtA4genZgCzqscLISAJt3lvzXJ7412GtDIesG_-_jwTsh1sijWJU6WP1kvDnv."><!-=
+- </img> --></td></tr></table>
+</body></html>

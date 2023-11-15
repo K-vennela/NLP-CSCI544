@@ -1,0 +1,5 @@
+INTERNAL NOTICE
+Dear user@domain.com,
+In regards to the ongoing maintainance. Some of your important messages were queued on our mail server. This is because you have exceeded your mail storage limit. Please Click here to upgrade your data usage and view your pending emails. 
+Kindly follow the above instruction to avoid technical issues on our server and avoid deactivation of your email account.
+Thank you.

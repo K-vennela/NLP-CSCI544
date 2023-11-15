@@ -1,0 +1,10 @@
+<x-flowed>
+Hi Tim
+I've re-run with the same database used for the previous 2006 run  
+(tmp.0705101334.dtb).
+/cru/cruts/version_3_0/update_top/gridded_finals/data/data.0909041051/ 
+tmp/cru_ts_3_00.1901.2008.tmp.dat.nc.gz
+Is that any better? If not please can you send the traditional multi- 
+page country plots for me to pore over?
+Cheers
+Harry

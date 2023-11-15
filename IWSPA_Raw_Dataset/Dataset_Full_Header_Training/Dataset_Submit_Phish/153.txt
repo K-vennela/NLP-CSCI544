@@ -1,0 +1,58 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (dijkstra.cs.uh.edu [127.0.0.1])
+	by dijkstra.cs.uh.edu (Postfix) with ESMTP id 59BE923CAA2
+	for <user@domain.com>; Thu, 14 Jul 2015 10:25:53 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at cs.uh.edu
+Received: from dijkstra.cs.uh.edu ([127.0.0.1])
+	by localhost (dijkstra.cs.uh.edu [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id xHQnaiahL3n9 for <user@domain.com>;
+	Thu, 14 Jul 2015 10:25:51 -0500 (CDT)
+Received: from ironport7-4T.isc.cl (ironport7-4T.isc.cl [200.91.27.126])
+	by dijkstra.cs.uh.edu (Postfix) with ESMTP id 9F4EE23CA8D
+	for <user@domain.com>; Thu, 14 Jul 2015 10:25:50 -0500 (CDT)
+Received: from maaa1.isc.cl (HELO maa1.isc.cl) ([172.31.30.141])
+  by iport7-loop.isc.cl with ESMTP; 14 Jul 2015 11:25:48 -0400
+Received: from [172.31.30.6] (172.31.30.6) by maa1.isc.cl (8.5.133)
+        id 4E1C705F001A6317; Thu, 14 Jul 2015 11:25:48 -0400
+Received: from (72.46.129.44) by correo.uchile.cl;  Thu, 14 Jul 2015 12:25:48 -0300
+Message-ID: <11287838.12811310657148197.user@domain.com>
+Date: Thu, 14 Jul 2015 12:25:48 -0300 (GMT-03:00)
+From: UH <webmasterr@uh.edu>
+Reply-To: user@domain.com
+Subject: Official message
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1467_27410012.1310657148197"
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 2
+
+Dear web mail=20
+Owner,
+We are contacting you to inform you that our Account Review Team=20
+
+identified some unusual errors in your account profile.This may be due to=
+=20
+the following
+=20
+* Using a shared=20
+computer to access your online webmail.
+* Not logging off after webmail=20
+usage.
+Due to this an account=20
+update has been issued to rectify.Follow the Link Below providing the requi=
+red=20
+security information correctly to re-gain access or we will  locked your ac=
+count=20
+permanently
+=20
+click here:uh.edu/securityupdate
+=20
+**Thanks=20
+*
+=C2=A9Copyright 2015 University of=20
+Houston

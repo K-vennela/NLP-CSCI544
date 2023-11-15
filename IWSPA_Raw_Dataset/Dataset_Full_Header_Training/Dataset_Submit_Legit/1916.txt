@@ -1,0 +1,79 @@
+Received: from domain.com (146.215.230.104) by
+ domain.com (43.130.141.78) with Microsoft SMTP Server id
+ 8.3.342.0; Sun, 3 Aug 2015 12:40:33 -0700
+Received: from domain.com ([160.33.194.228])	by
+ domain.com (Sentrion-MTA-4.3.1/Sentrion-MTA-4.2.2) with
+ ESMTP id s73JeWf7019480	for <user@domain.com>; Sun, 3 Aug 2015 
+ 19:40:33 GMT
+Received: from na01-by2-domain.com
+ (mail-domain.com [207.46.163.239])	by
+ domain.com (Sentrion-MTA-4.3.1/Sentrion-MTA-4.2.2) with
+ ESMTP id s73JeVRq016385	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128
+ verify=FAIL)	for <user@domain.com>; Sun, 3 Aug 2015 19:40:32 GMT
+Received: from BY2FFO11FD013.protection.gbl (10.1.14.30) by
+ BY2FFO11HUB059.protection.gbl (10.1.15.234) with Microsoft SMTP Server (TLS)
+ id 15.0.980.11; Sun, 3 Aug 2015 19:40:25 +0000
+Received: from mx-justfab-domain.com (192.64.237.154) by
+ domain.com (10.1.14.75) with Microsoft SMTP
+ Server id 15.0.990.10 via Frontend Transport; Sun, 3 Aug 2015 19:40:25 +0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; s=mt; d=domain.com;
+ h=Date:From: Deadline.com <alerts@deadline.com>
+ bh=vEIy3n8Rp9kf5tXlKpDith0D1BY=;
+ b=FYkJoDbxx4bh84VkGetwUgv69uDJw6TqrlxvhGsT6fGtV9ksD4YHqxqkOOUNWS+6eAsFuSshL95M
+   10fdYub0qesAB0ras5myRUmCn3+UN3IID3DbO15GW20HOP5vTUXmuzfGm6Zi4qSnmmaQvqfpEiOk
+   5N/Fp+GiML9dx4QiK5w=
+Received: from nyp1-p-p4336-prd-jma-09.sailthru.pvt (65.39.215.161) by
+ mx-justfab-domain.com id hrq83i1qqbsv for <user@domain.com>; Sun,
+ 3 Aug 2015 15:40:25 -0400 (envelope-from <user@domain.com>)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1407094883;
+	s=sailthru; d=deadline.com;
+	h=Date:From: Deadline.com <alerts@deadline.com>
+	bh=LNT6Rtm6tia8974kJwsBH2DSgF2gFUhmJPMer+f9DbM=;
+	b=gnxXO8kNFu3Z4sbrZ7EUxLyIDOLMJ6Pxg1PE3GJNOnLoVR7UmT3Kv6THhVn3TSZ2
+	2ioKFQm4N+5zjH87PFZIyw+IaLxNDjFkERhEUED/EmV64pXUEykfXDQHTzMLxcVrP7C
+	qJWv5inH0U0KP27hXpHBy3XvujTmQQiUXmLxMKGU=
+Date: Sun, 3 Aug 2015 15:41:23 -0400
+From: Deadline.com <alerts@deadline.com>
+To: <user@domain.com>
+Message-ID: <20140803194123.2892922.986@domain.com>
+Subject: [domain.com] Intl Box Office: A Weekend Of Milestones For
+ 'Transformers', 'Godzilla', '22 Jump Street' As 'Guardians Of The Galaxy'
+ Rockets To $66.4M In Overseas Bow
+Precedence: bulk
+X-TM-ID: 20140803194123.2892922.986
+X-Info: Message sent by domain.com customer Deadline
+X-Info: We do not domain.com unsolicited commercial email
+X-Info: Please report abuse by forwarding complete headers to
+X-Info: user@domain.com
+X-Mailer: domain.com
+X-JMailer: nyp1-p-p4336-prd-jma-09.sailthru.pvt
+X-IADB-IP: 65.39.215.25
+X-IADB-IP-REVERSE: 25.215.39.65
+X-IADB-URL: <<link>>
+X-Unsubscribe-Web: <<link>>
+List-Unsubscribe: <<<link>>>,
+ <mailto:user@domain.com>
+X-rpcampaign: stdgp2892922
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: 
+ UriScan:(133331);SFV:NSPM;SFS:(18804003)(189002)(199002)(19300405004)(110136001)(81542001)(81342001)(36756003)(15975445006)(104016003)(71186001)(85306004)(19617315012)(2361001)(74502001)(110146005)(18206015026)(959005)(20776003)(64706001)(74662001)(31966008)(110126003)(80022001)(4396001)(79102001)(87286001)(83322001)(19580395003)(77982001)(19580405001)(229853001)(44976005)(76482001)(87836001)(19618635001)(956001)(146001)(88136002)(18926405002)(19619215002)(2351001)(107046002)(107886001)(92726001)(21056001)(89996001)(77156001)(84326002)(69596002)(106996001)(92566001)(83072002)(85852003)(105586002)(50226001)(46102001)(15202345003)(102836001)(47976999)(2009002)(99396002)(53416004)(106476002)(95736001)(106356001)(93916002)(106466001)(81156004)(101416001)(104166001)(77096002)(15187005004)(62966002)(50986999)(105646008)(562404015)(85226002)(17308445002)(94166001);DIR:INB;SFP:;SCL:1;SRVR:BY2FFO11HUB059;H:mx-justfab-domain.com;FPR:;MLV:ovrnspm;PTR:InfoNoRecords;MX:1;A:1;LANG:en;
+X-Microsoft-Antispam: BCL:0;PCL:0;RULEID:(120001)
+Received-SPF: None (: domain.com does not designate permitted sender
+ hosts)
+Authentication-Results: spf=none (sender IP is )
+ user@domain.com; 
+Return-Path: user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+<<link>> 
+
+<<link>> 
+
+        Deadline Hollywood has posted urgent news:              
+
+        Intl Box Office: A Weekend Of Milestones For 'Transformers', 'Godzilla', '22 Jump Street' As 'Guardians Of The Galaxy' Rockets To $66.4M In Overseas Bow                
+        For all of Deadline's headlines, follow us @Deadline on Twitter.                
+
+This email was sent to user@domain.com by Deadline. To ensure delivery to your inbox (and not your spam folder), please add user@domain.com to your address book. If you prefer not to continue receiving email communications, please 

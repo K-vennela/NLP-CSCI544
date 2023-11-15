@@ -1,0 +1,230 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Fri, 29 Apr
+ 2015 16:58:08 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Fri, 29 Apr 2015 
+ 16:57:56 -0400
+Received: from [10.87.0.110] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 888479388
+ for user@domain.com; Fri, 29 Apr 2015 15:58:06 -0500
+X-Note-AR-ScanTimeLocal: 4/29/2016 3:58:04 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:198.21.6.101 DOM:maillist.prochoiceamerica.org ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note: ICH-CT/SI:0-2322/SG:3 4/29/2016 3:57:55 PM
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-1344/SG:12 4/29/2016 3:57:57 PM
+X-GBUdb-Analysis: 0, 198.21.6.101, Ugly c=0.626066 p=-0.921839 Source Normal
+X-Signature-Violations: 0-0-0-32767-c
+X-Note-419: 31.249 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 4/29/2016 3:58:00 PM
+X-Warn: BOUNCETRACKER Bounce User Tracking Found
+X-Warn: OPTOUT
+X-Note: Spam Tests Failed: BOUNCETRACKER, OPTOUT
+X-Country-Path: United States->->United States->
+X-Note-Sending-IP: 198.21.6.101
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: bounces+2331581-user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G339 G375 G406 G418 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from [198.21.6.101] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 139138247
+ for user@domain.com; Fri, 29 Apr 2015 15:58:04 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=prochoiceamerica.org; 
+	h=mime-version:subject:From: NARAL Pro-Choice America Media <media@prochoiceamerica.org>
+	s=s1; bh=CZJsu/1+9GJSeUasjysAqft1fdo=; b=nO982JWzShqVH0iqHDQzz+o
+	E/BcUSiMlT9NvNzmtBb69rWWsJDaO2zphzSH4Sa6kmFRjg1PKa7HczikGHm6aZxS
+	6GwYkyAiTceuVAAwpsaKTLmzlwWxcCYPS98Yj1cVddEcCb2qG67aztnmNP9jmA5X
+	YL4a9dOogPHffBRhlPR0=
+Received: by domain.com with SMTP id
+ filter0812p1mdw1.2005.5723CAD237        2016-04-29 20:57:54.827242332 +0000
+ UTC
+Received: from domain.com (67.108.121.52.domain.com
+ [67.108.121.52])	by domain.com (SG) with ESMTP id
+ fzRcyaqNTymIhCN_iqW8Mg	for <user@domain.com>; Fri, 29 Apr 2015 20:57:54.611
+ +0000 (UTC)
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=1e100.net; s=20130820;
+ h=x-gm-message-state:mime-version:date:message-id:subject:From: NARAL Pro-Choice America Media <media@prochoiceamerica.org>
+ bh=l9I/EWtndcR20LxYnWjEHMadLAzYm6oGpw9xkgOhW04=;
+ b=cp5JguMvhNDb7sCdlohSdLjx//XwiKEFzW0KM33YldhfjpqNGWaxXDZsQbtLwWoUqh
+ O6jEDZlfO3cDtAK4HQwIboZJ76VCiZBe9YRaVEQwFGGB/naYfeIWKPDvGUegoty9/5vS
+ 4YV+Sk/Jvw+1UFKR2qHo/Yu4b9tTrQ872mfoxCcq0AL44SJlZBvAMC43P2tAL5FA5bnJ
+ kO1Et+JMq7v1aNiuGlXw1ZmbsseLznBxquG0xhaAWgQ2GSd2LrCwYl8avcr41rNdZi/O
+ xhg1TkIroPnjLtCXfhpU1fdPENyW95eF/YTfqr81GD4YLphVuF22Um7uCQl7st4hFEAe
+ Ey1w==
+X-Gm-Message-State: AOPr4FUtovWppXJIVIbXtEZSXhLinkaZD4I+MHgLU9NtmNzj7dxTLhgK89KWPxrZ5gOU50ExWU2eq7yEfeC2icb7eNU=
+X-Received: by 10.112.169.105 with SMTP id ad9mr9577470lbc.123.1461963362134; 
+ Fri, 29 Apr 2015 13:56:02 -0700 (PDT)
+Date: Fri, 29 Apr 2015 16:56:01 -0400
+Message-ID: <CACajJ+user@domain.com>
+Subject: As you pregame #NerdProm...
+From: NARAL Pro-Choice America Media <media@prochoiceamerica.org>
+Content-Type: multipart/related; boundary="001a11c38c08e0c5f40531a5de7c"
+X-Mailman-Approved-At: Fri, 29 Apr 2015 16:57:37 -0400
+X-BeenThere: user@domain.com
+X-Mailman-Version: 2.1.16
+Precedence: list
+List-Id: <friends.mailman.prochoiceamerica.org>
+List-Unsubscribe: <<<link>>>, <mailto:user@domain.com?subject=<<link>>*q*upn=xUQ3jCNra69WclajdKWNZXvi-2B5CvD0xij2hIwhOMJl57-2FhXgiSgRqsfhK1vWvHn3zvFxxt8uEhSisWZG-2BJm1P-2FCA6rZ59-2Bf7360LWVibnOkWBrOonWRDXTixm2RQ2Rni5-2F-2BY9PQP9Q3242m3mjhGeADe2-2BC6LPiYs4BkBFuG3aebxlDI6I-2BZE-2BYRcyJ5oqWbc1yO-2Bmx8gO9LGND3dEfh6g-3D-3D>
+List-Archive: <<<link>>>
+List-Post: <mailto:user@domain.com>
+List-Help: <mailto:user@domain.com?subject=help>
+List-Subscribe: <<<link>>>,
+ <mailto:user@domain.com?subject=subscribe>
+To: <user@domain.com>
+Errors-To: user@domain.com
+X-SG-EID: /qskMPcwxb1VaCv1PswYfL3cIKK16+tE+dB/q/CjBM2HQfuYJvOjvv5oQoZwamJu+j1/8E5af1hHOT
+ 130cXMAcFVUPUEQC1jEitJt+PvWSPk+nm9tJlr/qftqzwco7yNJ/skiZRxVMm8WQfnz7pHwT9CowP4
+ 3lSttGI23oIt/i299O6psd1G8Mx+JZ0ExUriuSy7piv3z3Nsd/oGNsFBpTgBZ3dV1T+MF0lHtPX+OY
+ Jb6DeZlYoNWChXXvYlYrTy
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+...check out what NARAL has been up to this week fighting for reproductive
+freedom!
+
+1.      *NARAL launched new paid advertising campaign
+<<<link>>
+corps.html>
+to
+demand Congress repeal a discriminatory rule that prevents AmeriCorps
+volunteers from referring women for abortion care.* Following a report this
+week
+<<<link>>
+-violated-federal-law-on-abortion-funding>
+from
+NACHC which claims that AmeriCorps volunteers were serving as clinic
+escorts, NARAL mobilized thousands of members and called on Congress to
+change the oppressive rule, which disproportionately affects low-income
+women and women of color. Check out the petition here
+<<<link>>#.VyONddIrL0M>.
+
+ [image: Inline image 3]
+<<<link>>
+520000.1461948025./10154142594164321/?type=3D3&theater>
+
+<<<link>>
+520000.1461948025./10154142594164321/?type=3D3&theater>
+
+*=E2=80=9CLow-income women and women of color shouldn't be getting worse tr=
+eatment
+and less information than anyone else when it comes to their medical
+decisions. It's time for the rule to be repealed so AmeriCorps volunteers
+can help women get the care they need.=E2=80=9D =E2=80=93 Sasha Bruce, NARA=
+L Pro-Choice
+America Senior Vice President*
+
+2.      *NARAL celebrated Hillary Clinton=E2=80=99s historic wins
+<<<link>>>=
+ in
+the Acela primaries this week.* After winning 4 of 5 primary elections and
+basically securing the Democratic nomination last Tuesday, Hillary Clinton
+is proving that standing up for reproductive healthcare, paid family leave
+and equal pay win elections in a serious way. We are so proud to support
+and lift up the only true champion for reproductive freedom in this race.
+Let=E2=80=99s take this all the way to the White House!
+
+3.      *NARAL, partners call on Cruz to #FireTroy
+<<<link>>>.* In an open letter
+<<<link>>
+eaders-call-ted-cruz-fire-troy-newman-presiden>,
+NARAL president Ilyse Hogue, People For the American Way (PFAW) president
+Michael Keegan, and Planned Parenthood VP Dawn Laguens called for the Ted
+Cruz campaign to remove anti-choice extremist and Operation Rescue leader
+Troy Newman from his so-called =E2=80=9CPro-Lifers for Cruz coalition.=E2=
+=80=9D NARAL
+denounced
+<<<link>>
+newman.html>
+the
+Cruz campaign=E2=80=99s acceptance of Newman=E2=80=99s endorsement in Novem=
+ber, citing the
+facts
+<<<link>>
+ist-with-a-histor/207011>
+that
+Newman has suggested that the 9/11 attacks and AIDS were retribution from
+God against legal abortion and that the murder of abortion providers is
+=E2=80=9Cjustifiable defense.=E2=80=9D
+
+Sign the petition to add your name to the letter here,
+<<<link>>
+autologin=3Dtrue>
+and
+check out PFAW's graphic on the Cruz-Newman connection:
+
+[image: Inline image 2]
+
+4.      *New data-driven ad campaign against Sen. Ayotte out as
+NARAL endorses Maggie Hassan
+<<<link>>
+n.html>.
+*National Journal
+today is out with a story
+<<<link>>> on
+NARAL's new data-driven ad campaign against Sen. Ayotte (R-NH). The article
+highlights how NARAL has used new polling
+<<<link>>
+ative.pdf>
+to
+learn that Sen. Ayotte's opposition to reproductive freedom is a
+significant vulnerability and that it is particularly off-putting to
+independents and Republicans.
+
+Nationally, seven-in-ten Americans support legal access to abortion but
+NARAL's polling shows that number is even higher in NH, where it is
+supported by 78 percent of voters. Polling
+<<<link>>
+memo.pdf>
+conducted
+by NARAL showed that a clear majority of voters (60-75%) were *less *likely
+to vote for a candidate for holding this extreme position. Watch the NARAL
+ad here <<<link>>>.
+
+[image: Inline image 1] <<<link>>>
+
+<<<link>>>
+
+5.      *Pro-Choice Legislation in Hawai'i making waves! (get it?)* NARAL
+Pro-Choice America this week asked a governor to *sign *a bill into law. S.
+2139 will require insurance companies to cover up to 12 months of
+contraception dispensed at once and passed the legislature this week, a
+practice that research shows increases consistent and correct usage of
+birth control. NARAL president Ilyse Hogue sent a letter
+<<<link>>
+df>
+to
+Governor David Ige encouraging him to make a stand for Hawai=E2=80=99ian wo=
+men=E2=80=99s
+health.
+
+*=E2=80=9CAt a time when family-planning services have been under attack ac=
+ross the
+country, we applaud Hawaii=E2=80=99s efforts to lead the way in improving a=
+ccess to
+this vital health-care service.=E2=80=9D - Ilyse Hogue, NARAL Pro-Choice Am=
+erica
+President*
+
+Read the full letter here
+<<<link>>
+df>
+=2E
+To no longer receive news updates click here: <<link>>
+.org/wf/unsubscribe?upn=3DxUQ3jCNra69WclajdKWNZXvi-2B5CvD0xij2hIwhOMJl57-2F=
+hXgiSgRqsfhK1vWvHn3-2FuMhA01htRN-2BqL3IGGc5XIR0mkDy1PGgDj3KjAysfEG-2F9en8Gp=
+tfCFDuRncD-2B-2BBtn8gNq62wlhXxmlXFFTaP0q4W4nn8iLak9VT7nQy-2B81-2F3LgG1BCBZl=
+PazIaBb3z3BFBHScyE1QVgtPJgxGo1rkw-3D-3D.

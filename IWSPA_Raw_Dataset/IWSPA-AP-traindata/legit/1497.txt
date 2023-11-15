@@ -1,0 +1,28 @@
+Andy
+Here's some further results, based on the time series for 1900 to 2007
+Results:
+(0)     correlation between ENSO and PDO: for the smoothed IPCC decadal
+filter: 0.490662
+(0)     correlation between ENSO and PDO: for the annual means: 0.527169
+(0)     regression coef for PDO with global T : 0.0473447
+(0)     regression coef for N34 with global T : 0.0664886
+Data sources:
+;----------------------------------------------
+;  PDO:  <<link>>
+;        <<link>>
+;----------------------------------------------
+;  N34:  <<link>>
+;        <<link>>#Sec5
+; ---------------------------------
+;  CRU:      <<link>>
+;  Hadcrut:  <<link>>
+;===================================================================
+; Files were manually stripped for 1900 to 2007
+;============================================/=======================
+These numbers mean that for a one standard deviation in the ENSO index
+there is 0.066C change in global T, or from PDO: 0.047C, but that much of
+the latter comes from the ENSO index.  Very roughly, since the correlation
+is 0.5 between PDO and ENSO, half of the 0.066 or 0.033C of the 0.047 is
+from ENSO.  Strictly one should do this properly using screening
+regression.
+Kevin

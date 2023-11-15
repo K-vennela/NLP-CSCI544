@@ -1,0 +1,133 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Mon, 2 May
+ 2015 12:44:26 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Mon, 2 May 2015 
+ 12:44:23 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 891412186;
+ Mon, 02 May 2015 11:44:14 -0500
+X-Note-AR-ScanTimeLocal: 5/2/2016 11:44:14 AM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: Too many policies to list
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @who.eop.gov ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->->PRIVATE->United States->
+X-Note-Sending-IP: 214.3.115.10
+X-Note-Reverse-DNS: zeus.whmo.mil
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from [214.3.115.10] (HELO Augustus.whca.mil)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 136527788;
+ Mon, 02 May 2015 11:44:13 -0500
+Received: from CN399Exch3.whca.mil (cn399exch3.whca.mil [10.75.26.103])	by
+ Augustus.whca.mil with ESMTP id u42GfVcH050244;	Mon, 2 May 2015 12:41:31
+ -0400 (EDT)
+Received: from CN399Exch3.whca.mil (10.75.26.103) by CN399Exch3.whca.mil
+ (10.75.26.103) with Microsoft SMTP Server (TLS) id 15.0.1130.7; Mon, 2 May
+ 2015 12:41:07 -0400
+Received: from CN399Exch3.whca.mil ([10.75.26.103]) by CN399Exch3.whca.mil
+ ([10.75.26.103]) with mapi id 15.00.1130.005; Mon, 2 May 2015 12:41:07 -0400
+From: "Cunnane, Pat EOP/WHO" <Patrick_Cunnane@who.eop.gov>
+To: "User" <user@domain.com>
+Subject: Daily Message Points -- May 2, 2015 
+Thread-Topic: Daily Message Points -- May 2, 2015 
+Thread-Index: AdGkj+9iiQrLS1a/RzGKtNZgvtNMsg==
+Date: Mon, 2 May 2015 16:41:06 +0000
+Message-ID: <9140user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-ms-exchange-transport-fromentityheader: Hosted
+x-originating-ip: [10.75.20.202]
+Content-Type: multipart/alternative;
+	boundary="_000_9140c50a2b9441898cad6162ebb83277CN399Exch3whcamil_"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Daily Message Points
+
+May 2, 2015 
+
+5th Anniversary of the Death of Osama Bin Laden
+
+*         Five years ago, U.S. Special Operations forces undertook a missio=
+n that killed Osama Bin Laden during a raid against his compound in Abbotta=
+bad, Pakistan.
+
+*         We have never lost sight of our commitment to defeating al-Qa'ida=
+ and bringing to justice those responsible for attacking the United States.
+
+*         Not only has Osama Bin Laden been killed but most of his top lieu=
+tenants have been taken off the battlefield and we continue to systematical=
+ly pursue al-Qa'ida terrorists who remain.
+
+*         We have severely degraded core al-Qa'ida and we have maintained s=
+trong pressure utilizing all of our resources as al-Qa'ida has attempted to=
+ exert influence in places like Yemen, parts of Africa, Iraq, and Syria.
+
+*         For example, just this month the U.S. military conducted a strike=
+ in Syria that targeted longtime senior al-Qa'ida operative Abu Firas al Su=
+ri who had been an associate of Osama Bin Laden for decades.
+
+*         Today what remains of al-Qa'ida is in hiding and has great diffic=
+ult moving around or planning to carry out large scale operations and there=
+ is no question our homeland is more secure from its threat.
+
+*         Of course the challenge of terrorism remains. That is why we have=
+ a comprehensive approach to counter terrorist groups, including ISIL, that=
+ incorporates and builds on many of the lessons we have learned in our purs=
+uit of al-Qa'ida and its other affiliates.
+
+Supreme Court
+
+*         Today, the President is interviewing with six local television st=
+ations - from Ohio, New Hampshire, Iowa, Missouri, Wisconsin and Arizona - =
+to continue to make the case for why Senate Republicans need to consider th=
+e President's nominee for the Supreme Court.
+
+*         The President fulfilled his constitutional responsibility by nomi=
+nating Chief Judge Merrick Garland - an eminently qualified American - to t=
+he Supreme Court.
+
+*         He did his job. Now, Senate Republicans should do their jobs, and=
+ quickly move to give the President's nominee a fair hearing and an up or d=
+own vote.
+
+*         That is what the Constitution dictates, and that's what the Ameri=
+can people expect and deserve from their leaders.
+
+Meeting with Senators
+
+*         Judge Garland has continued meeting with numerous Senators, but L=
+eader McConnell has stated he will not meet with the Preident's nominee.
+
+*         Still, 18 Senate Republicans have either met with or indicated th=
+at they would be willing to meet with Judge Garland.
+
+*         To do otherwise - to follow in the footsteps of Senator McConnell=
+ - would be to abdicate their constitutional duty.
+
+*         Presidents do not stop working in the final year of their term. A=
+nd it's becoming clear that many Republican senators realize they shouldn't=
+ either.
+
+###
+

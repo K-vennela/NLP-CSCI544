@@ -1,0 +1,40 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id D994623CAA6
+	for <user@domain.com>; Thu, 12 Apr 2015 16:07:41 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id LkS75qtXnpTe for <user@domain.com>;
+	Thu, 12 Apr 2015 16:07:39 -0500 (CDT)
+Received: from domain.com (domain.com [195.28.164.232])
+	by domain.com (Postfix) with ESMTP id 60A2823CAA5
+	for <user@domain.com>; Thu, 12 Apr 2015 16:07:39 -0500 (CDT)
+Received: from rocvzw by domain.com with local (Exim 4.54)
+	id 1SIREv-0004ZP-IU
+	for user@domain.com; Thu, 12 Apr 2015 23:07:37 +0200
+To: user@domain.com
+Subject: Last Warning!!!!
+X-PHP-Script: rocvzw.be/modules/mod_login/a7a.php for 72.37.242.43
+From: Administrator <helpdesk@webmaster.net>
+MIME-Version: 1.0
+Content-Type: text/html
+Message-Id: <user@domain.com>
+Sender: <user@domain.com>
+Date: Thu, 12 Apr 2015 23:07:37 +0200
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 79
+
+Attention;
+
+Their has being a recent upgrade on our server please click the link Below or copy paste on your browser to upgrade to our new server;
+
+<<link>>
+
+Thank you for using our mail system
+
+System Administrator.

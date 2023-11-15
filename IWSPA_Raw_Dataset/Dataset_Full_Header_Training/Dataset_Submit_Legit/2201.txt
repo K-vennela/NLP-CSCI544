@@ -1,0 +1,430 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 11 May
+ 2015 13:16:56 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 11 May 2015 
+ 13:16:53 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 909487036
+ for user@domain.com; Wed, 11 May 2015 12:16:58 -0500
+X-Note-AR-ScanTimeLocal: 5/11/2016 12:16:57 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:209.18.93.114 DOM:send.meetingstoday.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 100
+X-GBUdb-Analysis: 0, 209.18.93.114, Ugly c=0.668871 p=-0.775417 Source Normal
+X-Signature-Violations: 100-7297394-1112-1187-m
+	100-7297394-0-32335-f
+X-Note-419: 46.8746 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/11/2016 12:16:38 PM
+X-Warn: BULKMAILER
+X-Note: Spam Tests Failed: BULKMAILER
+X-Country-Path: ->United States->
+X-Note-Sending-IP: 209.18.93.114
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G281 G286 G374 G580 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from domain.com ([209.18.93.114] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 140058008
+ for user@domain.com; Wed, 11 May 2015 12:16:56 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=domain.com; d=meetingstoday.com;
+ h=Date:From: Meetings Today <enewsletters@meetingstoday.com>
+ bh=kwXVtDM9ej18YwWnsjxUl9o5jFw=;
+ b=UjOp9x3RzMRQSnjoT8oPzqYnzsggddzT5Q3rUVMm6JtJ5R1GXAgXk6328HCuJKHPxBYBD2yYjCzq
+   ooG9p7w/vofsFDuU5Q2NPP/AhURSst3ra707XlN4qeOcctp/r/TmtimUXdON1E2XWZJ7AsWy0ax8
+   H53cQEtsLsv2V8qIwjo=
+Received: from RMPMTA05 (172.17.114.5) by domain.com id h6dkg625a3cq
+ for <user@domain.com>; Wed, 11 May 2015 13:16:32 -0400 (envelope-from
+ <user@domain.com>)
+Date: Wed, 11 May 2015 13:16:31 -0400
+From: Meetings Today <enewsletters@meetingstoday.com>
+To: <user@domain.com>
+Subject: SBE to Acquire Morgans Hotel Group
+X-TokenInfo-NoToken: 
+Feedback-ID: 4923:4923_2336903:4923_33655199:domain.com
+x-jobid: 33655199
+List-Unsubscribe: <<<link>>>
+X-Bps1: 30518440056
+Content-Type: multipart/alternative;
+	boundary="_NextPart_000_12852892_2016511_131631224"
+Message-ID: <0.0.1.318.1user@domain.com>
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Add @domain.com to your address book or safe senders
+list. Learn how ( <<link>> )
+
+Trouble viewing this email? View in browser ( <<link>>
+tions/email_web_version.cfm?recipient_id=3D2118746705&message_id=
+=3D12852892&user_id=3DStamats2&group_id=3D2336903&jobid=3D33655199 )
+
+( <<link>> )
+
+May 11, 2015 
+
+Video ( <<link>> ) | Webina=
+rs ( <<link>> ) |
+Editions ( <<link>>
+0A ) | Blog ( <<link>> ) |
+Live Events ( <<link>>
+view/tabid/278/Default.aspx ) | Subscribe ( <<link>>
+com/ )
+
+( <<link>> )
+( <<link>> )
+( <<link>> )
+
+NEWS OF THE DAY
+
+SBE to Acquire Morgans Hotel Group ( <<link>>
+s/IndustryNews/IndustryNewsDetails/tabid/138/RegionID/0/ArticleID/28332/Def=
+ault.aspx?topic=3D667,644 )
+
+SBE revealed it has entered an agreement to acquire the Morgans
+Hotel Group collection of brands--plus 13 domestic and
+international hotel management contracts--in an $82 million
+all-cash transaction.
+
+READ MORE ( <<link>>
+wsDetails/tabid/138/RegionID/0/ArticleID/28332/Default.aspx?topic=3D667,644=
+ )
+( <<link>>
+.com/NewsEvents/IndustryNews/IndustryNewsDetails/tabid/138/RegionID/0/Artic=
+leID/28332/Default.aspx?topic=3D667,644 )
+( <<link>>
+ts/IndustryNews/IndustryNewsDetails/tabid/138/RegionID/0/ArticleID/28332/De=
+fault.aspx?topic=3D667,644 )
+( <<link>>
+domain.com/NewsEvents/IndustryNews/IndustryNewsDetails/tabid/138/RegionI=
+D/0/ArticleID/28332/Default.aspx?topic=3D667,644 )
+
+( <<link>>
+etings_today&utm_medium=3Dtext_link&utm_campaign=3Dmeetings )
+
+Special Summer Group Rates for your Seaside Meetings ( <<link>>
+domain.com/kiawah-special-meeting-offers?utm_source=3Dmeetings_today&utm_medium=
+=3Dtext_link&utm_campaign=3Dmeetings )
+
+Kiawah Island Golf Resort, just minutes from historic
+Charleston, South Carolina, is the ideal oceanfront meeting
+location with 35,000 square feet of immaculate indoor venues and
+outdoor spaces. Accommodations in spacious resort villas and
+5-Star Sanctuary Hotel. Championship golf, water sports,
+bicycling and additional activities for team-building and
+recreation. Plus a 5-Star spa to pamper and reward your
+attendees. Rates start at $255/night for villas and $395/night
+for The Sanctuary on select dates June through August.
+
+Click here for more information. ( <<link>>
+al-meeting-offers?utm_source=3Dmeetings_today&utm_medium=3Dtext_link&utm_ca=
+mpaign=3Dmeetings )
+
+SOUTH NEWS
+
+Bossier City Celebrates Event Center Rebrand ( <<link>>
+/NewsEvents/IndustryNews/IndustryNewsDetails/tabid/138/RegionID/221/Article=
+ID/28329/Default.aspx?topic=3D221,644,617 )
+
+The meeting space at the Hilton Garden Inn and Homewood Suites by
+Hilton in Bossier City, La., has officially been branded as the
+Garden Event Center, and the property is celebrating the launch
+of...
+
+READ MORE ( <<link>>
+wsDetails/tabid/138/RegionID/221/ArticleID/28329/Default.aspx?topic=3D221,6=
+44,617 )
+( <<link>>
+.com/NewsEvents/IndustryNews/IndustryNewsDetails/tabid/138/RegionID/221/Art=
+icleID/28329/Default.aspx?topic=3D221,644,617 )
+( <<link>>
+ts/IndustryNews/IndustryNewsDetails/tabid/138/RegionID/221/ArticleID/28329/=
+Default.aspx?topic=3D221,644,617 )
+( <<link>>
+domain.com/NewsEvents/IndustryNews/IndustryNewsDetails/tabid/138/RegionI=
+D/221/ArticleID/28329/Default.aspx?topic=3D221,644,617 )
+
+Cavalier Hotel Restoration More Costly Than Planned (via
+Virginian-Pilot) ( <<link>>
+tion-in-virginia-beach-costing-million-more-than/article_ffc0081d-a0d0-5837=
+-9ef3-69b084955292.html )
+
+The restoration of The Cavalier Hotel at the Oceanfront is
+costing $20 million more than anticipated and taking more time to
+complete, according to a letter from the developer.
+
+READ MORE ( <<link>>
+-virginia-beach-costing-million-more-than/article_ffc0081d-a0d0-5837-9ef3-6=
+9b084955292.html )
+( <<link>>
+ews/local/cavalier-hotel-restoration-in-virginia-beach-costing-million-more=
+-than/article_ffc0081d-a0d0-5837-9ef3-69b084955292.html )
+( <<link>>
+alier-hotel-restoration-in-virginia-beach-costing-million-more-than/article=
+_ffc0081d-a0d0-5837-9ef3-69b084955292.html )
+( <<link>>
+domain.com/news/local/cavalier-hotel-restoration-in-virginia-beach-costing-mil=
+lion-more-than/article_ffc0081d-a0d0-5837-9ef3-69b084955292.html )
+
+( <<link>> )
+
+Meet with success in Plano ( <<link>>
+ )
+
+From major contentions, tradeshows and conferences to
+intimate board meetings and retreats, our seasoned staff provides
+the services and support you need to identify the perfect place
+and time for your event. Plano also has convenient connections to
+Dallas Love Field and DFW International Airport so getting here
+is easy too.
+
+Click here for more information. ( <<link>>
+rs/%20 )
+
+INDUSTRY NEWS
+
+AH&LA Attacks Airbnb in New Study ( <<link>>
+/IndustryNews/IndustryNewsDetails/tabid/138/RegionID/0/ArticleID/28331/Defa=
+ult.aspx?topic=3D667,644 )
+
+The American Hotel & Lodging Association (AH&LA) released a new
+study that provides a detailed analysis of the rise in commercial
+activity taking place in Chicago on Airbnb...
+
+READ MORE ( <<link>>
+wsDetails/tabid/138/RegionID/0/ArticleID/28331/Default.aspx?topic=3D667,644=
+ )
+( <<link>>
+.com/NewsEvents/IndustryNews/IndustryNewsDetails/tabid/138/RegionID/0/Artic=
+leID/28331/Default.aspx?topic=3D667,644 )
+( <<link>>
+ts/IndustryNews/IndustryNewsDetails/tabid/138/RegionID/0/ArticleID/28331/De=
+fault.aspx?topic=3D667,644 )
+( <<link>>
+domain.com/NewsEvents/IndustryNews/IndustryNewsDetails/tabid/138/RegionI=
+D/0/ArticleID/28331/Default.aspx?topic=3D667,644 )
+
+PCMA Launches CMP Exam Prep App ( <<link>>
+ndustryNews/IndustryNewsDetails/tabid/138/RegionID/0/ArticleID/28330/Defaul=
+t.aspx?topic=3D6,644 )
+
+PCMA recently announced the launch of its new CMP Exam Prep App,
+powered by SpotMe. The CMP study app is an add-on to the recently
+released updated CMP Online Prep Course.
+
+READ MORE ( <<link>>
+wsDetails/tabid/138/RegionID/0/ArticleID/28330/Default.aspx?topic=3D6,644 )
+( <<link>>
+.com/NewsEvents/IndustryNews/IndustryNewsDetails/tabid/138/RegionID/0/Artic=
+leID/28330/Default.aspx?topic=3D6,644 )
+( <<link>>
+ts/IndustryNews/IndustryNewsDetails/tabid/138/RegionID/0/ArticleID/28330/De=
+fault.aspx?topic=3D6,644 )
+( <<link>>
+domain.com/NewsEvents/IndustryNews/IndustryNewsDetails/tabid/138/RegionI=
+D/0/ArticleID/28330/Default.aspx?topic=3D6,644 )
+
+MGM Files Complaint Against Airport Authority (via Hartford
+Courant) ( <<link>>
+0160509-story.html )
+
+MGM Resorts International -- the developer of a $950 million
+casino and entertainment complex in Springfield -- has opened
+another front in its battle against being left out of...
+
+READ MORE ( <<link>>
+20160509-story.html )
+( <<link>>
+usiness/hc-mgm-airport-authority-fight-20160509-story.html )
+( <<link>>
+m-airport-authority-fight-20160509-story.html )
+( <<link>>
+domain.com/business/hc-mgm-airport-authority-fight-20160509-story.html )
+
+( <<link>>
+12818241&u=3DStamats2&j=3D33593267&s=3D<<link>>
+tters/tabid/492/Default.aspx )
+
+Meetings Today Trendsetters ( <<link>>
+42049704&sid=3D96095023&m=3D12818241&u=3DStamats2&j=3D33593267&s=3D<<link>>
+ww.meetingstoday.com/Trendsetters/tabid/492/Default.aspx )
+
+domain.com your nomination for our annual Meetings
+Trendsetters feature, appearing in the July 2015 edition of
+Meetings Today magazine. The cut-off date for nominations is
+Friday, May 13.
+
+domain.com our website to nominate a Meetings Trendsetter!
+( <<link>>
+12818241&u=3DStamats2&j=3D33593267&s=3D<<link>>
+tters/tabid/492/Default.aspx )
+
+FROM THE ISSUE
+
+Biloxi and Surrounds Are a Golfer's Paradise ( <<link>>
+/Magazines/ArticleDetails/tabid/136/RegionID/227/ArticleID/28214/Default.as=
+px?topic=3D227 )
+
+In some circles, the Mississippi Gulf Coast is known as the Golf
+Coast, as it's filled with picturesque and challenging courses
+that make it an award-winning golfing destination.
+
+READ MORE ( <<link>>
+/RegionID/227/ArticleID/28214/Default.aspx?topic=3D227 )
+( <<link>>
+.com/Magazines/ArticleDetails/tabid/136/RegionID/227/ArticleID/28214/Defaul=
+t.aspx?topic=3D227 )
+( <<link>>
+s/ArticleDetails/tabid/136/RegionID/227/ArticleID/28214/Default.aspx?topic=
+=3D227 )
+( <<link>>
+domain.com/Magazines/ArticleDetails/tabid/136/RegionID/227/ArticleID/282=
+14/Default.aspx?topic=3D227 )
+
+History Is at the Forefront in Coastal Virginia ( <<link>>
+com/Magazines/ArticleDetails/tabid/136/RegionID/251/ArticleID/28218/Default=
+.aspx?topic=3D251 )
+
+Essential to any understanding of the American
+experience are the nation-founding events that took place along
+Virginia's coast in 1607. Landing at Cape Henry (today's Virginia
+Beach)...
+
+READ MORE ( <<link>>
+/RegionID/251/ArticleID/28218/Default.aspx?topic=3D251 )
+( <<link>>
+.com/Magazines/ArticleDetails/tabid/136/RegionID/251/ArticleID/28218/Defaul=
+t.aspx?topic=3D251 )
+( <<link>>
+s/ArticleDetails/tabid/136/RegionID/251/ArticleID/28218/Default.aspx?topic=
+=3D251 )
+( <<link>>
+domain.com/Magazines/ArticleDetails/tabid/136/RegionID/251/ArticleID/282=
+18/Default.aspx?topic=3D251 )
+
+( <<link>> )
+
+May 2015 Digital Edition is now live! ( <<link>>
+m/meetingstoday/may_2016?pg=3D2 )
+
+Pull up a chair and dig in to our "Taste of History"
+cover story, which serves up some of the top historic fare
+offered at storied properties and destinations. Other feature
+stories explore how government meeting planners can get off the
+hot seat; simple tips to improve attendee engagement; and how
+conference center education is being revolutionized around the
+globe. Don't forget to check out all of the departments and
+destinations, too.
+
+Click here for more information. ( <<link>>
+tingstoday/may_2016?pg=3D2 )
+
+IN THE SPOTLIGHT
+
+On the Scene in Orlando ( <<link>>
+/136/RegionID/0/ArticleID/28254/Default.aspx?topic=3D211 )
+
+There's a reason that Orlando is consistently ranked as
+one of the top meeting destinations in the U.S.--its overall mix
+of modern event facilities and family-friendly entertainment
+options are unmatched.
+
+READ MORE ( <<link>>
+0/ArticleID/28254/Default.aspx?topic=3D211 )
+( <<link>>
+.com/ArticleDetails/tabid/136/RegionID/0/ArticleID/28254/Default.aspx?topic=
+=3D211 )
+( <<link>>
+etails/tabid/136/RegionID/0/ArticleID/28254/Default.aspx?topic=3D211 )
+( <<link>>
+domain.com/ArticleDetails/tabid/136/RegionID/0/ArticleID/28254/Default.a=
+spx?topic=3D211 )
+
+Group Fun Is a 'Shore Thing' in the South ( <<link>>
+ticleDetails/tabid/136/RegionID/0/ArticleID/28258/Default.aspx?topic=3D713 )
+
+Between the Gulf and the Atlantic, the southern realms of the
+U.S. boast an enviable number of beautiful beaches, not to
+mention the climes that are ideal for enjoying them. Small wonder
+that...
+
+READ MORE ( <<link>>
+0/ArticleID/28258/Default.aspx?topic=3D713 )
+( <<link>>
+.com/ArticleDetails/tabid/136/RegionID/0/ArticleID/28258/Default.aspx?topic=
+=3D713 )
+( <<link>>
+etails/tabid/136/RegionID/0/ArticleID/28258/Default.aspx?topic=3D713 )
+( <<link>>
+domain.com/ArticleDetails/tabid/136/RegionID/0/ArticleID/28258/Default.a=
+spx?topic=3D713 )
+
+( <<link>> )
+
+INCENTIVIZE! ( <<link>>
+spx )
+
+Enter for a chance to win one of the incentive gifts
+featured in the May 2015 issue of Meetings Today. One entry per
+person, per month.
+
+Sponsored by BizFitters ( <<link>> )
+
+Click here for more information. ( <<link>>
+/tabid/521/Default.aspx )
+
+FEATURED VIDEO
+
+Time Management Tips for Meeting Planners ( <<link>>
+deo/VideoDetail2013/tabid/408/RegionID/0/ArticleID/28132/Default.aspx?topic=
+=3D954 )
+
+Use these time management tips to make your meeting planning more
+efficient.
+
+READ MORE ( <<link>>
+gionID/0/ArticleID/28132/Default.aspx?topic=3D954 )
+( <<link>>
+.com/Video/VideoDetail2013/tabid/408/RegionID/0/ArticleID/28132/Default.asp=
+x?topic=3D954 )
+( <<link>>
+deoDetail2013/tabid/408/RegionID/0/ArticleID/28132/Default.aspx?topic=3D954=
+ )
+( <<link>>
+domain.com/Video/VideoDetail2013/tabid/408/RegionID/0/ArticleID/28132/De=
+fault.aspx?topic=3D954 )
+
+Copyright =A9 2015 Stamats Meetings Media, Inc. All rights
+reserved.
+
+Never miss an update. Subscribe ( <<link>>
+px ) to Meetings Today
+
+Stamats Meetings Media
+
+Meetings Today
+
+615 Fifth Street SE
+
+Cedar Rapids, IA 52401
+
+(319) 364-6167
+
+To unsubscribe from this newsletter, please
+click here ( <<link>>
+=3D12852892&user_id=3DStamats2&recipient_id=3D2118746705&email=3D=
+user@domain.com&group_id=3D2336903 ).
+
+Leaderboard2 ( <<link>>
+om/B8464729.118745741;dc_trk_aid=3D291515784;dc_trk_cid=3D63274628 )
+-->

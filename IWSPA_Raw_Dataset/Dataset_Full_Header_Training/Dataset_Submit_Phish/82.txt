@@ -1,0 +1,64 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [10.3.4.5])
+	by domain.com (Postfix) with ESMTP id 7931F46956
+	for <user@domain.com>; Wed,  5 Jul 2015 13:34:26 -0400 (EDT)
+Received: from 192.168.0.100 (rrcs-24-73-89-67.domain.com [24.73.89.67])
+	by domain.com (Postfix) with SMTP id 8D4DF6FA52E
+	for <user@domain.com>; Wed,  5 Jul 2015 13:34:27 -0400 (EDT)
+Received: from 35.19.138.168 by ; Wed, 05 Jul 2015 17:44:22 -0100
+Message-ID: <user@domain.com>
+From: "eBay Pearl Harbour " <service@ebay.com>
+Reply-To: "User" <user@domain.com>
+To: user@domain.com
+Subject: Notification: Update Your eBay Profile
+Date: Wed, 05 Jul 2015 12:45:22 -0600
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--1242747885537007175"
+X-Priority: 1
+X-MSMail-Priority: High
+Status: R
+X-Status: 
+X-Keywords: 
+
+Dear=
+
+eBay Customer
+
+As the domain.com and informa=
+tion technology enable us to expand our services, we are committed to main=
+taining the trust customers have placed in us for protecting the privacy a=
+nd security of information we have about you. In order to protect your inf=
+ormation against unauthorized access, identity theft and account fraud we =
+earnestly ask you to update your profile.PLEASE REMEMBER YOU NEED TO CONFI=
+RM ALL FIELDS OF THE FORM TO AVOID ACCOUNT BLOCK,
+ and remember we do t=
+his for your safety!
+
+To resub=
+mit your information, please click the link below:
+
+<<link>>
+L=3D1
+
+If you received this notice=
+ and you are not the authorized account holder,
+please be aware that it is in violation of our policy to represent oneself=
+
+as another eBay user. Such action may also be in violation of local, natio=
+nal, 
+and/or international law. eBay
+ is committed to assist law enforcement with 
+any inquiries related to attempts to misappropriate personal information w=
+ith
+the intent to domain.com fraud or theft. Information will be provided at the r=
+equest
+of law enforcement agencies to ensure that perpetrators are prosecuted to =
+the 
+fullest extent of the law.
+
+Thanks for your patience as we work together to protect your account.
+

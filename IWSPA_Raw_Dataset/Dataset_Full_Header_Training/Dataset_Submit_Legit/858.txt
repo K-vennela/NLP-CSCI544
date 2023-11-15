@@ -1,0 +1,144 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Thu, 5 May
+ 2015 14:03:01 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Thu, 5 May 2015 
+ 14:02:53 -0400
+Received: from [10.87.0.110] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 898902752
+ for user@domain.com; Thu, 05 May 2015 13:03:02 -0500
+X-Note-AR-ScanTimeLocal: 5/5/2016 1:03:00 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @politico.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->
+X-Note-Sending-IP: 68.232.198.10
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from [68.232.198.10] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 140223087
+ for user@domain.com; Thu, 05 May 2015 13:03:00 -0500
+Received: by domain.com id h5e5d8163hsj for <user@domain.com>; Thu,
+ 5 May 2015 12:02:58 -0600 (envelope-from
+ <user@domain.com>)
+From: POLITICO Influence <politicoinfluence@politico.com>
+To: <user@domain.com>
+Subject: =?UTF-8?B?UE9MSVRJQ08gSW5mbHVlbmNlOiBLIFN0cmVldCBzY3JhbWJsZXMg?=
+ =?UTF-8?B?Zm9yIERlbXMg4oCUIEdQRydzIFNtaXRoIHRvIEZveCDigJQgRWRlbG1hbiBo?=
+ =?UTF-8?B?aXJlcyB0aHJlZSDigJQgSm9obm55J3MgSGFsZiBTaGVsbCBpcyBtb3Zpbmc=?=
+Date: Thu, 5 May 2015 12:02:58 -0600
+List-Unsubscribe: <mailto:user@domain.com>
+Reply-To: POLITICO subscriptions
+	<user@domain.com>
+x-job: 1376319_5393556
+Message-ID: <0462user@domain.com>
+Content-Type: multipart/alternative; boundary="5D4Eu6Uf7SXb=_?:"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+By Isaac Arnsdorf | 05/05/2016 02:00 PM EDT
+
+With help from Cogan Schneier and Brianna Gurciullo
+
+FREAKOUT: With the conventional wisdom calling the Senate to flip, "K Street may be a bit light on well-placed Democrats," a leading recruiters tells PI. "We anticipate that the demand for substantive lobbyists will be increasing and those with policy expertise will be considered more valuable than purveyors of access...
+
+"If regular order returns - committee consideration of authorizing legislation followed by appropriations - those closest to the legislation will be the highest priorities and appropriations staff will be key players. If not, leadership staff of both parties will continue to be sought after. Since there will be a new Democratic Leader in the Senate, his staff may come at a premium." 
+
+Chuck Schumer's former staffers already downtown include Carmencita Whonder of Brownstein Hyatt Farber Schreck, Izzy Klein at Roberti Global, Michael Tobman, Julia Kernochan Tama at Venable, Stephanie Martz at Monument Policy Group, Jeff Hamond at Van Scoyoc Associates and David Hantman.
+
+GPG'S SMITH TO FOX: Chip Smith, Glover Park Group's co-founder and CEO, is leaving to become EVP of global public affairs at 21st Century Fox, overseeing legislative, regulatory and strategic policy. Fox is a GPG client. The company's top lobbyist, Michael Regan, recently said he'd step down after 15 years. Smith will report to Executive Chairman Lachlan Murdoch and CEO James Murdoch and lead the company's policy offices in the U.S., Hong Kong, Brussels and the U.K. Before starting GPG, Smith was a deputy campaign manager and the chief operating officer for Vice President Al Gore's 2015 presidential campaign.
+
+HAPPY CINCO DE MAYO! But Rep. Linda Sanchez has to domain.com until next week to celebrate at a fundraiser "featuring home cooked S&aacute;nchez family recipes!" hosted by Kirk Freeman, Libby Greer, Meghan Johnson, Joel Kopperud, Mike Mattoon, Tracy Spicer, Mary Beth Stanton, BIOGEN PAC, Diageo PAC, HorsePAC, HumanaPAC, and TIAA PAC.
+
+Please send pitches and tips to user@domain.com
+
+GOOD NEWS FOR BISTRO BIS: ICYMI, my scoop of the year yesterday ... Johnny's Half Shell is leaving its spot near the Capitol, after a decade as a favorite venue for congressional fundraisers. "That business is hard to walk away from," co-owner Ann Cashion said. The new location, in Adams Morgan, will be smaller and focus on more of a neighborhood clientele but serve a similar menu.
+
+MOAR JOBZ:
+
+- Edelman hired Allison Gracey, a ten-year veteran of CNN, as a vice president on its national health media team; Justin Hyde, former managing editor of Yahoo Autos, as a vice president on the corporate affairs Team; and Alexis Weiss, a senior editorial producer with CNN, as a vice president on the media services and strategies team.
+
+- Spotify's Washington office made a second hire: Holly Maine, previously with Atlantic Media, Centro and most recently the Glover Park Group. She will lead Spotify's advertising efforts for the D.C./Mid-Atlantic region. Tom Manatos joined Spotify earlier this year as VP of government relations.
+
+- Cornerstone Government Affairs hired Tyler Nelson, chief of staff to Rep. Pete Olson (R-Texas), as vice president and will be splitting his time between Houston, Austin and D.C. Nelson was previously a consultant with Hitachi Consulting in Houston.
+
+- Kelly Kolb left the Retail Industry Leaders Association to become Travelport's new VP of government affairs.
+
+- Alan Solow is leaving DLA Piper for Resolute Consulting, a national public affairs and strategic communications firm based in Chicago.
+
+- Cardinal Donald Wuerl, archbishop of Washington, appointed Kim Viti Fiorentino, who was in private practice, as general counsel for the Archdiocese of Washington.
+
+IN MEMORIAM: Bob Bennett, the 18-year Utah senator and lobbyist at Arent Fox, died at 82 after fighting pancreatic cancer and suffering a stroke. Bennett also once lobbied for J.C. Penney and worked in Nixon's Transportation Department. His 2015 loss to Mike Lee was one of the first in the Tea Party wave. 
+
+PI 'SPORT' SECTION: Mehlman Castagnetti's CR Wooters sees a resemblance between Leicester City's 5,000-1 odds of winning the English Premier League and Donald Trump's unlikely path to the Republican nomination. "They both came out of nowhere and were not taken seriously almost until it was too late to stop them," he wrote on Medium. One key difference: "Even a jaded Spurs fan like myself [and your PI author!] is proud of what Leicester was able to accomplish. Trump, on the other hand, at every opportunity has taken the low road."
+
+WHOSE PARTY IS IT ANYWAY? Republican donors aren't ready to embrace presumptive nominee Donald Trump, at least not yet. POLITICO's Alex Isenstadt reports that in interviews Wednesday, not one out of dozens of major GOP donors would domain.com to donating to Trump. <<link>> Bloomberg's Zachary Mider adds Ted Cruz benefactors the Wilks family of Texas to the list of donors who say they will never back Trump. <<link>>
+
+SURGE PRICING: The Our City Our Safety Our Choice PAC in Austin, Texas, is calling for an investigation into Uber and Lyft's tactics, such as allegedly offering discounted rides for votes, supporting a ballot measure to remove regulations. KVUE's Ashley Goudeau reports the companies spent a combined $8.8 million. Residents took to Twitter earlier this week to air their frustrations when Uber began to mass text customers on their personal cellphones encouraging them to vote yes. <<link>>
+
+THE YEAR OF THE BALLOT INITIATIVE: Bloomberg's Bill Allison reports political organizations have already raised more than $135 million this year different state ballot initiatives - a 74 percent increase from this time during the 2015 cycle. There are about 817 ballot initiatives across the country this year, according to Ballotpedia, up from 616 in 2014. In California, the AIDS Healthcare Foundation has spent $5.9 million in its sponsorship of a pair of initiatives to cap the price state agencies pay for prescription drugs and to require performers in adult films to wear condoms. To defeat the drug measure, rival group the Californians Against the Misleading RX Measure has raised $39
+ million, entirely funded by pharmaceutical firms. Other groups focused on state ballot initiatives include Select Management Resources LLC, parent of the lender LoanMax on lending issues in South Dakota, the Service Employees International Union on insurance regulations in Massachusetts and California, a group called ColoradoCareYES on a single- payer health plan in Colorado, and more. <<link>>
+
+GUNS EX MACHINA: The Christian Science Monitor's Joshua Eaton reports that the Obama administration is stoking the fire surrounding the "smart gun debate," releasing a joint report last week on the administration's efforts to research smart-gun technology preventing the use of weapons by unauthorized users. The National Rifle Association argues a mandate would open the door to stricter regulations, government tracking, safety-threatening glitches and hacking. There is currently legislation in New Jersey to update the state's smart-gun law, and the Smart Gun Tech Challenges Foundation, a group of investors and entrepreneurs founded in 2014, currently funds 15 projects focused on gun safety
+ technology. <<link>>
+
+SISTER ACT: At their annual meeting in Charlotte, N.C., Duke Energy shareholders will vote today on a proposal mandating the company disclose more information about its lobbying efforts. The Charlotte Observer's Bruce Henderson reports the proposal came from Mercy Investment Services, which represents the sisters of two Catholic orders that hold Duke stock, the Sisters of Mercy and the Benedictine Sisters of Virginia. The sisters are asking for an annual report on Duke's lobbying policies, spending specifics and disclosure of membership in groups that write model legislation, such as the American Legislative Exchange Council, of which Duke will not say if it is a member. Management opposes
+ the proposal, arguing it's unnecessary as the firm already files required lobbying reports. <<link>>
+
+OVERTIME: Representatives from the American Hotel & Lodging Association and the Asian American Hotel Owners Association met with the OIRA Administrator today to express the hotel and lodging industry's concerns about the proposed new overtime rule (RIN 1235-AA11). Those in attendance included: Brian Crawford, vice president of government affairs at the American Hotel & Lodging Association; Chirag Shah, vice president of government affairs for the Asian American Hotel Owners Association; Kristian Gathright, executive VP and COO of Apple Hospitality REIT; Hiren Govind, COO of Qube Hotel Group; Greg Miller, managing director of PM Hotel Group; Tarun Patel, president of Pacific Hospitality
+ Company; Mary Powers, vice president of Human Resources with Davidson Hotels and Resorts; Alan Rabinowitz, executive vice president and general counsel of G6 Hospitality; and Ben Seidel, president and CEO of Real Hospitality Group.
+
+RETAIL'S NIGHT OUT: The National Retail Federation hosted more than 2,000 people at City Center to browse more than 25 pop-ups. NRF President and CEO Matthew Shay and his wife, Allison, hosted a VIP reception at NRF's headquarters which attracted industry C-suiters, politicos and media including: Tom Kuhn, president of Edison Electric Institute; Susan Farkas, associate publisher of Washingtonian; Consumer Product Safety Commissioner Joseph Mohorovic; Jeff Mascott CEO of Adfero; Harriet Torry and Sarah Portlock from The Wall Street Journal; Sage Peterson of House Majority Leader Kevin McCarthy's office; Kristin Nelson, senior counsel, and Kyle Fortson, labor policy director, of the Senate
+ HELP Committee, Lindley Kratovil, chief of staff to Rep. Elise Stefanik (R-N.Y.); Lauren Robitaille Director at Wal-Mart; Olivia McDonald, Speaker Paul Ryan's office; Steven Miller CFO of Alpha Industries; Jeanette Quick, senior counsel for the Senate Banking Committee; Rebecca Mond, Toy Industry Association; Tim Tarpley, deputy chief of staff to Rep. Ted Poe (R-Texas); Jennifer Bell, press secretary to Rep. Carolyn Maloney (D-N.Y.); Bret Manley, legislative director to Rep. Jeff Denham (R-Calif.); Michael Reed, legislative director to Rep. Bonnie Watson Coleman (D-N.J.), Kimberly Pinter, tax counsel to the House Small Business Committee; Cort Bush, senior policy adviser to Sen. Jerry
+ Moran (R-Kan.), Camille Stewart, cyber policy adviser at DHS; Maddy Voytek of the Maryland Retailers Association. 
+
+NEW JOINT FUNDRAISING COMMITTEES:
+Congressional Cousins Victory Fund (Non-Qualified Non-Party, Joint Fundraiser)
+Progressive Victory 2015 (Non-Qualified Non-Party, Joint Fundraiser)
+
+NEW PAC REGISTRATIONS:
+American Action Now PAC (Non-Qualified Non-Party, Unauthorized)
+Wake REC Federal (Non-Qualified Party, Unauthorized) 
+
+NEW LOBBYING REGISTRATIONS:
+Clark Hill, PLC: Henry Ford College
+Clark Hill, PLC: Nexteer Automotive
+Clark Hill, PLC: Spartan Motors
+Henderson Strategies, Inc.: CLS America, Inc.
+Holland & Knight LLP: The Chemours Company
+Mr. Baltazar Serna, Jr.: San Antonio Water Systems
+Park Strategies, LLC: Town of Clarkstown
+Polsinelli PC: Genomind
+Rampy Northrup LLC: McGraw Hill Financial Inc.
+Sebastian O'Kelly: Louisiana Oyster Dealers & Growers Association
+The Nickles Group, LLC: BionX Medical Technologies, Inc.
+Thorn Run Partners: Comcast Corporation
+Wilmer Cutler Pickering Hale and Dorr LLP: Microsoft Corporation
+Wilmer Cutler Pickering Hale and Dorr LLP: Professional Licensing Coalitio
+
+NEW LOBBYING TERMINATIONS:
+Dunlap Consulting, LLC: Bond & Associates (on behalf of ACA)
+
+TERMINATIONS - NO ACTIVITY:
+Kyle House Group: World Wildlife Fund
+
+To view online:
+<<link>>
+ To change your alert settings, please go to <<link>> or <<link>> email was sent to user@domain.com by: POLITICO, LLC 1000 Wilson Blvd. Arlington, VA, 22209, USA
+
+To unsubscribe,<<link>>
+

@@ -1,0 +1,72 @@
+Received: from domain.com (146.215.230.104) by
+ domain.com (43.130.141.78) with Microsoft SMTP Server id
+ 8.3.264.0; Fri, 8 Nov 2015 03:36:50 -0800
+Received: from domain.com ([160.33.194.231])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id rA8BaoKf005905	for <steven_o'user@domain.com>; Fri, 8 Nov 2015 
+ 11:36:50 GMT
+Received: from mail106-am1-domain.com (mail-domain.com
+ [213.199.154.203])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id rA8BaniO032686
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <steven_o'user@domain.com>; Fri, 8 Nov 2015 11:36:49 GMT
+Received: from mail106-am1 (localhost [127.0.0.1])	by
+ mail106-am1-domain.com (Postfix) with ESMTP id C15763E0165	for
+ <steven_o'user@domain.com>; Fri,  8 Nov 2015 11:36:48 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:216.146.32.179;KIP:(null);UIP:(null);IPV:NLI;H:mtaout-179-domain.com;RD:mtaout-179-domain.com;EFVD:NLI
+X-SpamScore: 3
+X-BigFish: vps3(z54eeh56bfizc89bhc857hzz1f42h2148h208ch1ee6h1de0h1fdah2073h2146h1202h1e76h1d1ah1d2ah1fc6hzz1de098h17326ah8275bh1bc7b9h8275dh1de097h186068hz2fh5eh5fh536h839h92aha12hd24h10d2h1288h12a5h12bdh137ah139eh13eah1441h14ddh1537h162dh1631h1758h1898h18e1h1946h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1e23h1ff5h20f0h2218h2216h9a9j1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail106-am1: domain of dynect-domain.com designates 216.146.32.179 as permitted sender) client-ip=216.146.32.179; envelope-from=bounces+steven_o'user@domain.com; helo=mtaout-179-domain.com ;domain.com ;
+Received: from mail106-am1 (localhost.localdomain [127.0.0.1]) by mail106-am1
+ (MessageSwitch) id 1383910606632856_29267; Fri,  8 Nov 2015 11:36:46 +0000
+ (UTC)
+Received: from domain.com (unknown [10.3.201.237])	by
+ mail106-domain.com (Postfix) with ESMTP id 8CEC41A0040	for
+ <steven_o'user@domain.com>; Fri,  8 Nov 2015 11:36:46 +0000 (UTC)
+Received: from mtaout-179-domain.com (216.146.32.179) by
+ domain.com (10.3.207.102) with Microsoft SMTP Server id
+ 14.16.227.3; Fri, 8 Nov 2015 11:36:46 +0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=domain.com; d=wetransfer.com;
+ h=Date:To:From: WeTransfer <noreply@wetransfer.com>
+ bh=QTodiRdurNunGnFHXYjZtXRdTGk=;
+ b=hQlhQ4x1yhbbWnd3L9vBzNWPhn4CFAMfJy/kBuoEw0POQUT2FFskpvz76RRRk7CqUFbNERTxdaYD
+   +B8T5TKtdyXa9jjT1zgsGLsSD8LLSSpGpc8FIlXNuSPku91lK+p1
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=domain.com; d=wetransfer.com;
+ b=+NTWwdHcqng7eg5z7DgRnGTIm1wuA7LBHbEfZsERTTA09dvcNNdYs+5VBIFEBqLi9c/5cuv6h50u
+   qj35UHlXGVIykmmthDq4T/Hkkn0Kp2atIk5rMYUmVXbjkdoRDKqJ;
+Date: Fri, 8 Nov 2015 12:36:44 +0100
+To: "User" <steven_o'user@domain.com>
+From: WeTransfer <noreply@wetransfer.com>
+Reply-To: "User" <user@domain.com>
+Subject: user@domain.com has sent you a file via WeTransfer
+X-DynectEmail-Msg-Key: <20131108113644.9user@domain.com>
+Message-ID: <user@domain.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.0.2 (domain.com)
+X-Profile: wetransfer
+X-Code: a9dcf91072583b10a88d2e7cfa2b48bd20131108113512
+X-Tag: profile wetransfer,code a9dcf91072583b10a88d2e7cfa2b48bd20131108113512
+Sender: <user@domain.com>
+X-DynectEmail-Msg-Hash: WpfRqTFmqv45GbmvFQgMtLB7mdAR2keMIQpf8guiwbylIHoIlsCeydrA59gGBI0eagGtukpupPZmVgaFsVjO2Yqh1MtTx4fPnw2Dilma1Po=
+X-DynectEmail-X-Headers: MHwyMDc1OmE5ZGNmOTEwNzI1ODNiMTBhODhkMmU3Y2ZhMmI0OGJkMjAxMzExMDgxMTM1MTI7MXwyMDc2OndldHJhbnNmZXI7
+Return-Path: bounces+steven_o'user@domain.com
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2092221421_-_-"
+
+        You've got files 
+
+
+
+
+ <<link>>
+
+WeTransfer       <<link>>      
+
+         <<link>>      user@domain.com
+has sent you some files
+
+All - here's the revised UK presentation for next weeks ASM2 meeting.
+

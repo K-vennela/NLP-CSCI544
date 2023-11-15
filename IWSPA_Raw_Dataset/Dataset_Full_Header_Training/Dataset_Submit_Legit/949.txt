@@ -1,0 +1,415 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Mon, 9 May
+ 2015 08:57:05 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Mon, 9 May 2015 
+ 08:57:03 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 903801388
+ for user@domain.com; Mon, 09 May 2015 07:57:07 -0500
+X-Note-AR-ScanTimeLocal: 5/9/2016 7:57:01 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:198.2.138.134 DOM:domain.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 100
+X-GBUdb-Analysis: 0, 198.2.138.134, Ugly c=0.318533 p=0.181818 Source Normal
+X-Signature-Violations: 100-5953858-1878-1908-m
+	100-5946975-1992-2011-m
+	100-5953858-0-32511-f
+X-Note-419: 31.2592 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/9/2016 7:56:45 AM
+X-Warn: BOUNCETRACKER Bounce User Tracking Found
+X-Warn: BULKMAILER
+X-Note: Spam Tests Failed: BOUNCETRACKER, BULKMAILER
+X-Country-Path: LOCAL->United States->
+X-Note-Sending-IP: 198.2.138.134
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G281 G286 G340 G374 G580 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from domain.com ([198.2.138.134] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 137476033
+ for user@domain.com; Mon, 09 May 2015 07:57:01 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=domain.com;
+ h=Subject:From: =?utf-8?Q?Jonathan=20Allen?= <jon@sidewire.com>
+ bh=7OCUBjckaQwIBY/JljkziLMKU0g=;
+ b=d98K6MUqTXCSDeOgI6YiSsv8NYqO1w9eoW577+cKi298vyu4EdljVJbrwAs0UVhZ7S8rZ8lXSW/T
+   XKwZdKOnLScuGCmaQl6djnp8S45uIvWhGpVQ98RCaVhUsDXXDFAZejeBNsSB71O8VL8710LAb5uZ
+   CtQmaBYpmORkUDvtCSA=
+Received: from (127.0.0.1) by domain.com id h624hq1sb54d for
+ <user@domain.com>; Mon, 9 May 2015 12:57:00 +0000 (envelope-from
+ <user@domain.com>)
+Subject: =?utf-8?Q?Stitch=20=E2=80=94=20Threat=20Level=20Rising=20for=20Ryan=20and=20Trump=2C=20Ben=20Rhodes=20Defends=20Himself=2C=20Sidewire=20Chats=20Feature=20Rodell=20Mollineau=2C=20Ron=20Christie=20&=20Bob=20Shrum?=
+From: =?utf-8?Q?Jonathan=20Allen?= <jon@sidewire.com>
+Reply-To: =?utf-8?Q?Jonathan=20Allen?= <user@domain.com>
+To: <user@domain.com>
+Date: Mon, 9 May 2015 12:57:00 +0000
+Message-ID: <user@domain.com>
+X-Mailer: MailChimp Mailer - **CID68408dd0d8584f90e12b**
+X-Campaign: mailchimpdff5dea186e38c29c57ca6f8f.68408dd0d8
+X-campaignid: mailchimpdff5dea186e38c29c57ca6f8f.68408dd0d8
+X-Report-Abuse: Please report abuse for this campaign here: <<link>>
+X-MC-User: dff5dea186e38c29c57ca6f8f
+X-Feedback-ID: 42560441:42560441.1610857:us11:mc
+List-ID: dff5dea186e38c29c57ca6f8fmc list <dff5dea186e38c29c57ca6f8f.326717.list-domain.com>
+X-Accounttype: pd
+List-Unsubscribe: <mailto:user@domain.com?subject=unsubscribe>, <<<link>>>
+Sender: Jonathan Allen <user@domain.com>
+x-mcda: FALSE
+Content-Type: multipart/alternative;
+	boundary="_----------=_MCPart_1784928597"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+** WHAT'S THE STITCH?
+------------------------------------------------------------
+Stitch is a morning news speed-read highlighting the work and insights of=
+ Newsmakers that is followed by a daily chat on hot political topics.
+
+------------------------------------------------------------
+
+** TODAY'S SIDEWIRE CHATS
+------------------------------------------------------------
+* At 10 a.m. Eastern=2C Democratic strategist Rodell Mollineau joins Stitc=
+h to talk about the presidential campaign and the battle for control of th=
+e Senate.
+* At 12 p.m. Eastern=2C Republican strategist RON CHRISTIE hosts Democrati=
+c strategist BOB SHRUM to talk about politics.
+
+------------------------------------------------------------
+
+**
+
+POLITICAL THREATS AGAINST RYAN ARE MOUNTING ...
+------------------------------------------------------------
+In separate interviews on Sunday political talk shows=2C Donald Trumprefus=
+ed to rule out removing House Speaker Paul Ryan as chairman of the Republi=
+can convention and Trump ally Sarah Palin said she would do everything she=
+ could to help the Wisconsin congressman's primary opponent.
+------------------------------------------------------------
+
+"If he can't endorse you=2C do you think he should be chair of the convent=
+ion?"
+
+=E2=80=94Chuck Todd/"Meet the Press=2C" NBC
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+"I don't want to mention now. I'll see after. I will give you a very solid=
+ answer=2C if that happens=2C about one minute after that happens. Okay? B=
+ut there's no reason to give it right now."
+
+=E2=80=94Donald Trump/"Meet the Press"/NBC
+
+------------------------------------------------------------
+Palin went even further in an interview with Jake Tapper for CNN's "State=
+ of the Union=2C" issuing a fusillade of threats and taunts about what pol=
+itical fate might befall Ryan if he doesn't get on board the Trump train.=
+ They included a reference to the primary defeat suffered by then-Majority=
+ Leader ERIC CANTOR at the hands of previously unheard of Tea Party challe=
+nger Dave Brat in 2014.
+------------------------------------------------------------
+
+"His political career is over but for a miracle. ... I think Paul Ryan is=
+ soon to be =E2=80=98Cantored=2C=E2=80=99 as in Eric Cantor."
+
+=E2=80=94Sarah Palin/CNN's "State of the Union"
+
+------------------------------------------------------------
+
+** ... BUT THE POLITICAL THREATS AGAINST TRUMP ARE MOUNTING FASTER ...
+------------------------------------------------------------
+Family Research Council President Tony Perkins=2C an ally of onetime Trump=
+ rival Ted Cruz=2C is quickly emerging as one of the leading voices warnin=
+g Trump that he's too far from party orthodoxy to expect the backing of th=
+e party.
+
+Perkins is all over the news this morning=2C appearing in a story by JEREM=
+Y PETERS for the New York Times (<<link>>
+tics/donald-trumps-warning-to-paul-ryan-signals-further-gop-discord.html?h=
+p&action=3Dclick&pgtype=3DHomepage&clickSource=3Dstory-heading&module=3Dfi=
+rst-column-region&region=3Dtop-news&WT.nav=3Dtop-news)  and another by ALA=
+N FRAM of the Associated Press (<<link>>
+44fcba07870f03a3452eb/stunned-trump-foes-face-diminished-options-gop-conve=
+ntion)  (who was assisted by JULIE PACE & THOMAS BEAUMONT).
+------------------------------------------------------------
+
+"The margins he has to work with in terms of electoral success are very sm=
+all. ... Now=2C not only do you have indifference=2C you have outright res=
+istance to his candidacy."
+
+=E2=80=94Tony Perkins/NYT (<<link>>
+onald-trumps-warning-to-paul-ryan-signals-further-gop-discord.html?hp&acti=
+on=3Dclick&pgtype=3DHomepage&clickSource=3Dstory-heading&module=3Dfirst-co=
+lumn-region&region=3Dtop-news&WT.nav=3Dtop-news)
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+"If the party walks away from any of its clearly cut social=2C family valu=
+es issues=2C it will be an issue. ... We're not just going to fall in line=
+ because he's the nominee."
+
+=E2=80=94Perkins/AP (<<link>>
+f03a3452eb/stunned-trump-foes-face-diminished-options-gop-convention)
+
+------------------------------------------------------------
+
+IT'S A PROBLEM THAT RUNS MUCH DEEPER than Perkins among evangelical Christ=
+ians=2C as KATIE ZEZIMA reports in a Washington Post story about religious=
+ leaders who find Trump anathema to their values. It's hard for some of th=
+em to take a lesser-of-the-evils approach to voting=2C GARY FULLER=2C the=
+ pastor at Gentle Shepherd Baptist Church in Lincoln=2C Neb.=2C told Katie=
+=2E
+------------------------------------------------------------
+
+"I got the idea of =E2=80=98Who would Jesus have voted for=2C Herod or Pil=
+ate?=E2=80=99 and probably neither one=2C and that=E2=80=99s where I feel=
+ we=E2=80=99re at here."
+
+=E2=80=94Gary Fuller/Washington Post (<<link>>
+ics/theres-nobody-left-evangelicals-feel-abandoned-by-gop-after-trumps-asc=
+ent/2016/05/08/a133991e-130f-11e6-8967-7ac733c56f12_story.html?hpid=3Dhp_r=
+hp-top-table-main_gopevangelicals810p%3Ahomepage%2Fstory)
+
+------------------------------------------------------------
+
+THE MONEY WING OF THE GOP faces a similar dilemma=2C according to The Bost=
+on Globe's VICTORIA McGRANE. Vicki reports that Wall Street is torn over w=
+hether to back Trump or Democrat Hillary Clinton in November=2C in large p=
+art because Trump is perceived to be courting potentially catastrophic pol=
+icies. In particular=2C his suggestion last week that the U.S. could cut i=
+ts debt by forcing creditors to renegotiate terms raised eyebrows in the f=
+inancial sector.
+
+The aforementioned ERIC CANTOR=2C now vice chairman of investment bank Moe=
+lis & Co.=2C is backing Trump =E2=80=94 but he doesn't sound terribly enth=
+usiastic about it in Vicki's story.
+------------------------------------------------------------
+
+"They=E2=80=99re looking at a Trump-Clinton election as probably not the b=
+est choice for anybody. ... He=E2=80=99s a businessman . . . [but] he=E2=
+=80=99s been on so many sides of every issue that you never know."
+
+=E2=80=94Eric Cantor/Boston Globe (<<link>>
+cs/2016/05/08/wall-street-befuddled-alarmed-donald-trump-and-may-turn-demo=
+cratic-ticket/T1o4HZYA8pryPuMmxz71xJ/story.html)
+
+------------------------------------------------------------
+FORMER TREASURY OFFICIAL Tony Fratto=2C a founding partner of the Washingt=
+on consulting firm Hamilton Place Strategies=2C explained why some Republi=
+cans in finance are reluctant to back Trump.
+------------------------------------------------------------
+
+"Even if you suspect Trump might win=2C if you contribute to his campaign=
+=2C you=E2=80=99re buying a ticket on the crazy train. ... You own everyth=
+ing that he does."
+
+=E2=80=94Tony Fratto/Boston Globe (<<link>>
+cs/2016/05/08/wall-street-befuddled-alarmed-donald-trump-and-may-turn-demo=
+cratic-ticket/T1o4HZYA8pryPuMmxz71xJ/story.html)
+
+------------------------------------------------------------
+
+** ... AND THAT EXPLAINS A SECONDARY PROBLEM FOR TRUMP: HIRING
+------------------------------------------------------------
+DARREN SAMUELSOHN & BEN WHITE write in Politico that Trump would have trou=
+ble filling an administration because many of the veteran policy hands a R=
+epublican president would normally hire won't work for him.
+LANHEE CHEN of the Hoover Institution=2C who advised Mitt Romney on policy=
+ in 2012=2C declined to tell Politico whether he would work for Trump or n=
+ot=2C but he explained the thinking of some of the party's policy domain.com=
+y.
+------------------------------------------------------------
+
+"My view is it would be very challenging for a lot of mainstream policy fo=
+lks to envision working in an administration for somebody who has said som=
+e of the things Trump has said during the campaign."
+
+=E2=80=94Lanhee Chen/Politico (<<link>>
+d-trump-administration-transition-222944#ixzz489OKOaeg)
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+**
+TRIVIAL PURSUITS
+------------------------------------------------------------
+ABOUT TODAY
+Author J.M. Barrie=2C who gave us Peter Pan=2C was born on this day in 186=
+0.
+
+ONE THING TO KNOW ABOUT SPORTS TODAY
+LeBron James hit a key shot (<<link>>
+68)  with 39 seconds left to go as the Cleveland Cavaliers advanced to the=
+ NBA's Eastern Conference semi-finals by defeating the Atlanta Hawks 100-9=
+9 Sunday=2C capping a 4-0 series victory.
+
+ONE THING TO KNOW ABOUT ENTERTAINMENT TODAY
+"Captain America: Civil War" had the fifth-biggest opening ever (<<link>>
+domain.com/story/life/movies/2016/05/08/box-office-captain-america-civ=
+il-war/83968522/) =2C racking up $181.8 million at the box office this wee=
+kend.
+
+YESTERDAY'S TRIVIA
+The three Republicans who supported Theodore Roosevelt on the Bull Moose t=
+icket in 1912 but subsequently won the Republican nomination for president=
+ or vice president were: Herbert Hoover '28 and '32=2C Alf Landon '36=2C a=
+nd Frank Knox (VP) '36.
+
+TODAY'S TRIVIA
+Name the former deputy national security advisers to the president who lat=
+er became secretary of State or secretary of Defense.
+
+Send answers to user@domain.com The first person to respond correctly=
+ wins an emoji-free version of Stitch on Tuesday and the right to pose a t=
+rivia question.
+PLEASE SEND TIPS=2C suggestions=2C comments=2C complaints and corrections=
+ to user@domain.com
+
+------------------------------------------------------------
+
+**
+
+BEN RHODES DEFENDS HIMSELF IN MEDIUM POST
+------------------------------------------------------------
+The juiciest insider drama in Washington right now just got a little more=
+ interesting=2C as Ben Rhodes=2C deputy national security adviser to Presi=
+dent Barack Obama=2C defended himself and the Iran nuclear deal in a Mediu=
+m Post last night (<<link>>
+ran-deal-55e927fa9de5#.twooywf4z) .
+
+Rhodes is smart enough to know that writing about the controversy he's emb=
+roiled in will give it even more currency. Rhodes' decision to ignore the=
+ risk of adding fuel to the fire suggests he knows his reputation =E2=80=
+=94 and that of the Obama foreign policy legacy he's tried to build =E2=80=
+=94 are on the line.
+
+His defense of himself is encased in a defense of the Iran deal=2C which c=
+ould have the effect of rallying the agreement's supporters to his side.
+
+HERE IS HOW IT'S ALL PLAYED OUT
+
+ACT I =E2=80=94 A New York Times magazine profile (<<link>>
+litics/dashboard/articles/c15781693dcd6b903ed25dd050e1c21a)  by David Samu=
+els cast Rhodes as a master manipulator of the public and the press on an=
+ Iran nuclear deal that was=2C in addition to its own merits=2C a trojan h=
+orse for a plan to disentangle the U.S. from the Middle East.
+
+It created quite a stir in foreign policy circles =E2=80=94 in part becaus=
+e of the way Rhodes and his team ridiculed anyone outside their tight-domain.com=
+ circle of self-styled disestablishmentarians=2C including some of the jou=
+rnalists and think-tankers who supported their view.
+
+ACT II =E2=80=94 Bloomberg's ELI LAKE wrote a response contending that Rho=
+des and Obama are=2C in fact=2C exactly the kind of establishment thinkers=
+ (<<link>>
+cdba6ab99)  they abhor.
+
+ACT III =E2=80=94 ELI and TOMMY VIETOR=2C who shared an office with Rhodes=
+ in the White House=2C debated the profile of Rhodes and Eli's column in a=
+ Sidewire Chat yesterday afternoon.
+------------------------------------------------------------
+
+"All White Houses spin. But what comes across is that Ben and Obama hold t=
+heir critics in contempt. And this was the main argument over the summer.=
+ If you don't want the deal=2C you want war. That short circuits the debat=
+e."
+
+=E2=80=94Eli Lake/Sidewire (<<link>>
+es/2807b1f365e908e2f2e6a5bcdba6ab99/commentary/a4d71a95-efe8-4bae-bbc9-da6=
+0f53d6b0c)
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+"Ben was bragging about this. He was bragging how he drove the critics nut=
+s and how he he gave all these experts their talking points."
+
+=E2=80=94Eli Lake/Sidewire (<<link>>
+es/2807b1f365e908e2f2e6a5bcdba6ab99/commentary/33c66e3a-f9dc-428e-b9ff-4ab=
+d0dc2376f)
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+"The White House had a strong point of view and they argued it. The other=
+ side had a strong point of view=2C and they argued it in much more apocal=
+yptic terms=2C in my opinion. Words like 'contempt' were used by Samuels=
+=2C not Ben."
+
+=E2=80=94Tommy Vietor/Sidewire (<<link>>
+ticles/2807b1f365e908e2f2e6a5bcdba6ab99/commentary/69f68ecc-524a-4859-b44f=
+-8eae7ed94bb2)
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+"He was explaining the process of how they communicated the deal. It is wh=
+at it is. The experts he was referring to often agree with them on this po=
+licy. The WH simply briefed them on what was going on in the talks."
+
+=E2=80=94Tommy Vietor/Sidewire (<<link>>
+ticles/2807b1f365e908e2f2e6a5bcdba6ab99/commentary/140570c7-9102-4f80-b38d=
+-236db646e29c)
+
+------------------------------------------------------------
+
+Click here (<<link>>
+8e2f2e6a5bcdba6ab99)  for the full Sidewire Chat between Eli and Tommy (an=
+d featuring a cameo from Bloomberg's Josh Rogin).
+
+ACT IV =E2=80=94 Rhodes writes a Medium post Sunday asserting that 1) "We=
+ never made any secret of our interest in pursuing a nuclear deal with Ira=
+n" 2) "we did aggressively make the case for the Iran deal during the cong=
+ressional review mandated by statute last summer=2C as it was imperative t=
+hat the facts of the deal be understood for it to be implemented" and 3) "=
+there was no shortage of good reporting and analysis=E2=80=8A=E2=80=94=E2=
+=80=8Apositive=2C negative=2C and mixed=E2=80=8A=E2=80=94=E2=80=8Aabout th=
+e Iran deal."
+
+None of those major points has been in dispute.
+
+------------------------------------------------------------
+
+THE BIG QUESTION
+
+Would Trump really have trouble filling an administration if he wins the p=
+residency or would the best and brightest be drawn to trying to ensure the=
+ country is run well?
+
+Have feedback for us? Email ** user@domain.com (mailto:user@domain.com=
+)
+=2E
+
+Sidewire=2C Inc.
+633 Battery Street
+Suite 100
+San Francisco=2C CA 94111
+USA
+
+Want to change how you receive these emails? ** Update (<<link>>
+11.list-domain.com/profile?u=3Ddff5dea186e38c29c57ca6f8f&id=3D7eeab627b3&e=
+=3D584f90e12b)
+your preferences or ** unsubscribe (<<link>>
+nsubscribe?u=3Ddff5dea186e38c29c57ca6f8f&id=3D7eeab627b3&e=3D584f90e12b&c=3D=
+68408dd0d8)
+=2E

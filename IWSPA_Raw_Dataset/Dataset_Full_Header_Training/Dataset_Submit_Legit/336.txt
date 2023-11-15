@@ -1,0 +1,92 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Fri, 13 May
+ 2015 11:54:17 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Fri, 13 May 2015 
+ 11:54:13 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 913810005;
+ Fri, 13 May 2015 10:54:22 -0500
+X-Note-AR-ScanTimeLocal: 5/13/2016 10:54:16 AM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @who.eop.gov ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->->PRIVATE->United States->
+X-Note-Sending-IP: 214.3.115.10
+X-Note-Reverse-DNS: zeus.whmo.mil
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from [214.3.115.10] (HELO Augustus.whca.mil)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 138450731;
+ Fri, 13 May 2015 10:54:15 -0500
+Received: from CN399EXCH2.whca.mil (cn399exch2.whca.mil [10.75.26.102])	by
+ Augustus.whca.mil with ESMTP id u4DFsb4E024200;	Fri, 13 May 2015 11:54:37
+ -0400 (EDT)
+Received: from CN399Exch1.whca.mil (10.75.26.101) by CN399EXCH2.whca.mil
+ (10.75.26.102) with Microsoft SMTP Server (TLS) id 15.0.1130.7; Fri, 13 May
+ 2015 11:54:09 -0400
+Received: from CN399Exch1.whca.mil ([10.75.26.101]) by CN399Exch1.whca.mil
+ ([10.75.26.101]) with mapi id 15.00.1130.005; Fri, 13 May 2015 11:54:09 -0400
+From: "Gainedi, Sriramya N. EOP/WHO" <sriramya_gainedi@who.eop.gov>
+To: "User" <user@domain.com>
+CC: "Cox, Clayton" <user@domain.com>, "Kaplan, Jordan" <user@domain.com>
+Subject: RE: may 31
+Thread-Topic: may 31
+Thread-Index: AdGrvaR2Jr1jz5khSxujCxSwNVy8VAAAVd2kAAAdVNAAACtXXAAQWWTxAEtnfhQAAAsYQA==
+Date: Fri, 13 May 2015 15:54:09 +0000
+Message-ID: <6user@domain.com>
+References: <7user@domain.com>,<user@domain.com>
+ <user@domain.com>,<2535user@domain.com>,<user@domain.com>,<256377user@domain.com>
+ <user@domain.com>
+In-Reply-To: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-ms-exchange-transport-fromentityheader: Hosted
+x-originating-ip: [10.75.20.202]
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Hi Jordan- im still waiting to hear back from counsel's office - I just pin=
+ged them again this morning. Once I get their approval, we can start lookin=
+g at flights!
+
+-----Original Message-----
+From: "Gainedi, Sriramya N. EOP/WHO" <sriramya_gainedi@who.eop.gov>
+Sent: Friday, May 13, 2015 11:50 AM
+To: Gainedi, Sriramya N. EOP/WHO <user@domain.com>
+Cc: Cox, Clayton <user@domain.com>; Kaplan, Jordan <user@domain.com>
+Subject: Re: may 31
+
+Hey Sri, checking in!
+
+Jordan C. Vaughn
+
+National AALC Finance Director
+
+Organization
+
+(202) 488-5089 <tel:(202)%20488-5089>  (o) | (407) 797-2215 <tel:(407)%2079=
+7-2215>  (c)
+
+user@domain.com <mailto:user@domain.com>=20
+
+On May 11, 2016, at 11:51 PM, Gainedi, Sriramya N. EOP/WHO <sriramya_gained=

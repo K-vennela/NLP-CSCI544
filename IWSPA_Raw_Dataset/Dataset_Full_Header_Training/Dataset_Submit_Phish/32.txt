@@ -1,0 +1,53 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [10.23.1.4])
+	by domain.com (Postfix) with ESMTP id A70D2536EAE
+	for <user@domain.com>; Sun, 13 Feb 2015 09:44:46 -0500 (EST)
+Received: from 10.23.1.4 (unknown [165.229.191.135])
+	by domain.com (Postfix) with SMTP id 7BE5A85ACD4
+	for <user@domain.com>; Sun, 13 Feb 2015 09:36:37 -0500 (EST)
+X-Message-Info: 05+qnwjpyf251/pVYvMNwNdhN18Rcbm
+Received: (qmail 259483 invoked by uid 448); Sun, 13 Feb 2015 11:36:22 -0500
+Date: Sun, 13 Feb 2015 21:33:22 +0500
+Message-ID: <953559833219199272.26149.user@domain.com>
+From: "Citizens Bank" <support@citizensbank.com>
+Reply-To: user@domain.com
+To: "User" <user@domain.com>
+Subject: Important Online Banking Alert
+MIME-Version: 1.0 (produced by deadenlizzie 4.1)
+Content-Type: multipart/alternative;
+	boundary="--729860965465309416"
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 125
+
+Dear valued Citizens=AE Bank member,
+
+Due to concerns, for the safety and integrity of the online banking commun=
+ity we have issued the following warning message.
+
+It has come to our attention that your Citizens=AE account informat=
+ion needs to be updated as part of our continuing commitment to protect yo=
+ur account and to reduce the instance of fraud on our website. If you coul=
+d please take 5-10 minutes out of your online experience and renew your re=
+cords you will not run into any future problems with the online service. H=
+owever, failure to confirm your records may result in your account suspens=
+ion.
+
+Once you have confirmed your account records your domain.com banking service=
+ will not be interrupted and will continue as normal.
+
+To confirm your bank account record please click here.
+
+Thank you for your time,
+
+Citizens=AE Financial Group.
+
+Privacy |
+Security     © 2015 Citizens Financial Grou=
+p.  All rights reserved.
+Terms of Use |
+Site Map
+

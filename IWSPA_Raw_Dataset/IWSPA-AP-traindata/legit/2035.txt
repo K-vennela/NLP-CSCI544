@@ -1,0 +1,129 @@
+Dear All
+we heard the opinions of most LAs, namely Jens, Richard, Linda, Peter,
+and Hans as well as some interesting interpretations of my email (Linda says:  
+" You seem to be assuming that the most desirable result is 
+if the SRES results have no contrasts with the IS92a results.  
+I don't understand your reasoning on this." I do not have any particular desire
+on the new data. We said that one thing to look at was the agreement with
+the old data and thus I noticed that relaxing the criteria would yield a greater
+agreement). I would say that a broad range of opinions was covered, from
+one where the SRES should essentially be commented upon concerning their 
+agreement with the old data to one in which all the old stuff should be 
+replaced with SRES stuff. Some people want to make the BOX more central, 
+others want to get rid of it. 
+Given this, I would like to add my own opinion developed through the weekend.
+First let me say that in general, as my own opinion, I feel rather 
+unconfortable about using not only unpublished but also un reviewed 
+material as the backbone of our conclusions (or any conclusions). 
+I realize that chapter 9
+is including SRES stuff, and thus we can and need to do that too, but the
+fact is that in doing so the rules of IPCC have been softened to the point
+that in this way the IPCC is not any more an assessment of published science 
+(which is its proclaimed goal) but production of results. 
+The softened condition that the models
+themself have to be published does not even apply because the Japanese
+model for example is very different from the published one which gave results 
+not even close to the actual outlier version (in the old dataset the CCC model 
+was the outlier). Essentially, I feel that at this point there are very
+little rules and almost 
+anything goes. I think this will set a dangerous precedent which might mine the
+IPCC credibility, and I am a bit unconfortable
+that now nearly everybody seems to think that it is just ok to do this. 
+Anyways, this is only my opinion for what it is worth.
+Going to the problem at hand, I have a proposal that is in between the
+two extreme positions. I think the SRES runs should be included and 
+highlighted in the chapter, but should not be the only source of our
+conclusions, partially also for the reasons I state above (I seem to
+remember that in Chapter 9 the SRES results were only a small section
+in the whole chapter in which it was said that they essentially confirmed
+previous findings). Also let me say 
+that, as it currently stands, the box is essentially meaningless, because 
+it simply repeats what is already said in the executive summary.  
+With these premises here is my proposal:
+1) We leave 10.3 more or less as it is, a discussion of published science
+on model behavior, uncertainty, some climate change runs.
+Perhaps we shorten it or something like that. I am not in favor of 
+presenting Giorgi and Francisco-type plots for the SRES runs for the simple 
+reason that they do not convey effectively what readers want. Proof is that we
+had all the plots there and we were accused of not having any results in
+the chapter !! I think people want something more direct, i.e. plots similar
+to the +/- one we had proposed in the BOX. 
+2) We make the BOX only with SRES results, i.e. the BOX becomes a 
+summary presentation of the SRES projections. In this way we accomplish
+several objectives: we highlight the SRES results in a way that is of direct 
+impact (after all this is what working group II people are really interested 
+in); we can explicitly state that the results are preliminary and sort
+of differentiate them from the more IPCC-proper chapter material (of course
+we are not going to say so); we
+have a natural place for the BOX (end of 10.3), do not need to rewrite
+the whole thing and just need to make the proper connections with the
+rest of the chapter. All and all I think this is a feasible and clean
+solution. The rest of the material in the old box (sections a and c) was
+really just general material repetitive of what we were saying in various 
+other part of the chapter.  
+3) In the executive summary we summarize what we believe are the 
+confident patterns from the combination of old and new runs.
+As to what should the SRES box look like. I hear people liked a lot 
+our +/- plot, so we do the same types of plots, both for precip and
+temperature, one for the A2 and one for B2 scenarios, plus one or
+two paragraphs explaining the plots. This will portray agreement not
+only across models but also across what are now considered plausible
+scenarios. We can easily fit 4 plots in a page
+and if need be fit the 1-2 paragraphs on another page (I do not see 
+anything wrong with a 1.5 page box). 
+For precipitation I think the old criteria are fine. For temperature this
+is what I propose. In the precip plots we had 4 sub-categories, (+, -
+large change, small change) plus the inconclusive, or whatever we 
+decided to call it. Similarly, we could do 4 categories here
+1) Amplification positive, 2) Amplification negative (i.e. less than
+the global average), 3) strong amplification (> 50%), 4) small amplification 
+(between 25 and 50 %). I cannot visualize it at the moment, but I think
+this will work to figures analogous to the precip ones. Correct me if I
+am wrong.
+To the two technical issues:
+1) Do we soften our requirement, i.e. from n-1 to n-2 model agreement?
+I do not feel strongly about it but am more in favor of not softening
+the criterion. We are looking for confidence and model agreement 
+and should have stringent requirements on it.
+2) Do we include the outliers in the analysis? I say yes, not having
+time for more detailed analysis as to why they should not be included.
+In Chapter 9 they are presented as bracketing the answers not as being wrong. 
+This is the problem of not having published research on this. perhaps a paper
+would have excluded them on scientific grounds, but can we at this point?
+I am not sure we can have solid enough foundations to legitimate it.
+Besides, I have done analysis without them as well and things did not change
+almost at all.
+To the operational issues:
+1) I agree there is no time for a paper to be delivered before the
+Sept. 26 deadline. After the deadline however, and with some calm, I
+think we should have a paper on it.
+2) Meeting or conference call. I myself am not keen on a meeting of the
+Europeans. Jens is not back until the end of the week, which means the
+meeting would have to be during the last week before deadline. With all
+that is still left to do on the chapter and other internal committments I have,
+I certainly could do without spending 2 days to do this (which is always the 
+minimum it takes me to get anywhere and back)and  I cannot do it 
+over the weekend since I am not here. 
+It sounds like we would have to contact people by phone
+anyways (see Peter and Linda's messages), so why not a conference call
+directly? 
+organize this. As soon as Jens is back perhaps? (Jens if you can read this
+can you let us know when this is possible?). 
+3) We just got the MPI data and the full CCC ones (I guess some was lost in
+the previous run). We need to incorporate these so we have all models
+available. I and Bruce will interact on this.
+4) I agree we should contact the TSU about it, but I also think we should have 
+a proposal on it with less spread than current to present them. 
+Last but not least, please work on your section revisions (especially those
+who have nothing to do with the BOX) so at least we get that out of the way.
+Cheers,   Filippo
+################################################################
+# Filippo Giorgi, Senior Scientist and Head,                   # 
+# Physics of Weather and Climate Section                       #
+# The Abdus Salam International Centre for Theoretical Physics #
+# P.O. BOX 586, (Strada Costiera 11 for courier mail)          #
+# 34100 Trieste, ITALY                                         #
+# Phone: + 39 040 2240 425                                     # 
+# Fax: + 39 040  2240 449 (or + 39 040 224 163)                #
+# email: giorgi@ictp.trieste.it                                #
+################################################################

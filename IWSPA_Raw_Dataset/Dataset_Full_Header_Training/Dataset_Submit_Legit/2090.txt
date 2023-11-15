@@ -1,0 +1,30 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Tue, 8 Jul 2015 15:26:00 +0200
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id B8466621DC	for
+ <user@domain.com>; Tue,  8 Jul 2015 14:12:57 +0100 (BST)
+Received: by domain.com (Postfix)	id BF312B72020; Tue,  8 Jul 2015 
+ 15:26:00 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from domain.com (confluence.hackingteam.com
+ [192.168.200.205])	by domain.com (Postfix) with ESMTP id B2568B7201F
+	for <user@domain.com>; Tue,  8 Jul 2015 15:26:00 +0200 (CEST)
+Date: Tue, 8 Jul 2015 15:26:00 +0200
+From: "Daniele Milan (Confluence)" <confluence@hackingteam.com>
+To: <user@domain.com>
+Message-ID: <1553566430.1286.1404825960719.JavaMail.CONFLUENCE$@confluence>
+Subject: [confluence] Daniele Milan updated a "Travel" event in the
+ "TENTATIVE ACTIVITY" calendar
+Precedence: bulk
+Auto-Submitted: auto-generated
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2135562172_-_-"
+
+  Daniele Milan updated a "Travel" event in the TENTATIVE ACTIVITY Deliveries calendar Jul 14, 2014 Until Jul 18, 2014   Eduardo Pardo Carvajal, Sergio Rodriguez-Solís y Guerrero Tamaulipas, delivery     You are receiving this notification because you are watching the following:  TENTATIVE ACTIVITY   Deliveries   Sent by Atlassian Confluence 5.4.4, the Enterprise Wiki 

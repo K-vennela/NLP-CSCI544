@@ -1,0 +1,90 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Thu, 12 May
+ 2015 12:53:33 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Thu, 12 May 2015 
+ 12:53:29 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 911738981
+ for user@domain.com; Thu, 12 May 2015 11:53:36 -0500
+X-Note-AR-ScanTimeLocal: 5/12/2016 11:53:36 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:209.85.223.181 DOM:cwa-domain.com ADDR:user@domain.com
+X-Note: SPF: PermError
+X-Note: ICH-CT/SI:0-779/SG:1 5/12/2016 11:52:39 AM
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-512/SG:8 5/12/2016 11:52:39 AM
+X-GBUdb-Analysis: Unknown
+X-Signature-Violations: 0-0-0-18426-c
+X-Note-419: 15.626 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/12/2016 11:53:24 AM
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 209.85.223.181
+X-Note-Reverse-DNS: mail-io0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G407 G419 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from mail-io0-domain.com ([209.85.223.181] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 140283458
+ for user@domain.com; Thu, 12 May 2015 11:53:36 -0500
+Received: by mail-io0-domain.com with SMTP id d62so102597398iof.2
+        for <user@domain.com>; Thu, 12 May 2015 09:53:30 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=cwa-union-domain.com; s=20150623;
+        h=mime-version:in-reply-to:references:date:message-id:subject:From: Charlie Ramos <cramos@cwa-union.org>
+         :cc;
+        bh=C1vpDnG32+o8M05/Bk+8rF6DGpgheeLEf7pZJQbwo1E=;
+        b=aBP7V/VMYeZInBAPuiPwxt7CwL9jH7nm05RnTrO9KRZV+UlXvgTZH4NJQHtoacGZLZ
+         vOLUphDYv9LhcH6CCmJoA8lUBjeVmuQK0SnOx6ErKCD2XcMyP+jSvUmAsu3Aem+1rAI1
+         EG+jOtDRLENpxUQ3xQMw6vbKlsZlpUUIWPgxRgMJib2eZSmOak2b8SOWppy37uHR63g8
+         9QlKEM5at5opdVNga9hRan0sRWXZrLD4gfwCkejvw3Jpcv9LJil1ZF1/Q/KnoKP55RUo
+         xCpD6G9LpEtKT8VG9AZzTLn813CSsOdVVVaUdwCzKAunQLfidPkXD1ayaseyKqwySPRy
+         O7WQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:date
+         :message-id:subject:From: Charlie Ramos <cramos@cwa-union.org>
+        bh=C1vpDnG32+o8M05/Bk+8rF6DGpgheeLEf7pZJQbwo1E=;
+        b=JOSuMzr/veL3f+IX6gcGuL4aGj/tBtVXFONesWwTFSOJY6oKzXhtnt5MSTInFrwcdi
+         96OH84ALCGtxBNVo4meRE32wRJywN/HnH/7domain.com
+         9e4O4dyrqOImpHO3I3f/nqESfFiK4kyI3II01e6RZhz2HVnvJFyuH6V8MqBPyVkQHydf
+         2d7bPwSmBOXUnGi91sz+N/zCNZqXs5j/U6Tidztx8QYKH28yCzl64U1s+EPc8GJPIWxa
+         O20U5JbetdebJ22TaVU1ri7sqiq0+EHtRkFJyq+uZISY/b8FmWKFG4Fsr4mn1fv9msFE
+         Y0+g==
+X-Gm-Message-State: AOPr4FUEclntdPlLxq1AKhdgjBSbwnIPDEFpGZP65QoB7FuJBKtrAohlqDB9fmuVSWx+ezdrdG8DHjyfhVAz+Zh0
+X-Received: by 10.36.68.82 with SMTP id o79mr9931983ita.75.1463072010386; Thu,
+ 12 May 2015 09:53:30 -0700 (PDT)
+Received: by 10.36.236.2 with HTTP; Thu, 12 May 2015 09:53:30 -0700 (PDT)
+In-Reply-To: <05user@domain.com>
+References: <CAPGiL=b8H738a5dqGzq+user@domain.com>
+	<05user@domain.com>
+Date: Thu, 12 May 2015 12:53:30 -0400
+Message-ID: <CAPGiL=aaU1LWU+6user@domain.com>
+Subject: Re: What up
+From: Charlie Ramos <cramos@cwa-union.org>
+To: "User" <user@domain.com>
+CC: "Palermo, Rachel" <user@domain.com>
+Content-Type: multipart/related; boundary="001a1143ea2e766dc30532a7ff71"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Hey User - the pleasure is mutual and sounds good about late next week.
+
+Rachel - I'm pretty flexible Wednesday thru Friday.
+
+And keep giving it to those R's out there #downwithdrumpf
+
+Talk soon --
+Charlie
+

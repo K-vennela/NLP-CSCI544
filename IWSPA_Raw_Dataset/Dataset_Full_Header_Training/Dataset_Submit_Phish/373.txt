@@ -1,0 +1,54 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id EBAEC23CAC2;
+	Fri, 11 May 2015 07:09:43 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id VW3751gSFXg8; Fri, 11 May 2015 07:09:42 -0500 (CDT)
+Received: from ironportin-vas-3.it.gu.se (ironportin-vas-3.it.gu.se [130.241.151.108])
+	by domain.com (Postfix) with ESMTP id BFB9523CAA6;
+	Fri, 11 May 2015 07:09:33 -0500 (CDT)
+X-IronPort-AV: E=Sophos;i="4.75,571,1330902000"; 
+   d="scan'208,217";a="169105890"
+Received: from smtpexchange.gu.se ([217.151.197.12])
+  by ironportout-vas-3.it.gu.se with ESMTP; 11 May 2015 14:09:26 +0200
+Received: from GU-domain.com ([fe80::7d89:77cd:71f:4c9c]) by
+ GU-domain.com ([fe80::1c8e:635c:6982:215%15]) with mapi id
+ 14.02.0298.004; Fri, 11 May 2015 14:09:25 +0200
+From: =?iso-8859-1?Q?Therese_S=E4llberg?= <therese.sallberg@psy.gu.se>
+Subject: Mailbox and increase its quota.
+Thread-Topic: Mailbox and increase its quota.
+Thread-Index: Ac0vahHahlYQBQjlSjuVoBI1xEsNaQ==
+Date: Fri, 11 May 2015 12:09:24 +0000
+Message-ID: <33user@domain.com>
+Accept-Language: sv-SE, en-US
+Content-Language: sv-SE
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-originating-ip: [10.69.108.110]
+x-kse-antivirus-interceptor-info: protection disabled
+Content-Type: multipart/alternative;
+	boundary="_000_33C214A79E1D9E468F9D0E3AF10C0CF584074862GUMBX06adgumail_"
+MIME-Version: 1.0
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 89
+
+This message requires that you verify your mailbox and increase its
+quota. You are currently running on 23GB instead of 20GB Due To Hidden
+Files and Folders in Your Mailbox. You will be unable to receive new
+email, Loss Important Information in Your Mailbox/Or Cause Limited
+Access to It if not verified.
+
+To complete this verification simply Click here:
+<<link>>
+azhKZVdMU0E6MQ
+
+Thanks
+Webmail Upgrade Support Team =A9 2015 
+System Help Desk

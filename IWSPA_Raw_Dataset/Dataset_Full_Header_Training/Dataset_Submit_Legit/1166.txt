@@ -1,0 +1,128 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 10 May
+ 2015 08:03:51 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 10 May 2015 
+ 08:03:49 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 906074127
+ for user@domain.com; Tue, 10 May 2015 07:03:55 -0500
+X-Note-AR-ScanTimeLocal: 5/10/2016 7:03:50 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @politico.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->
+X-Note-Sending-IP: 68.232.198.10
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from domain.com ([68.232.198.10] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 137504618
+ for user@domain.com; Tue, 10 May 2015 07:03:50 -0500
+Received: by domain.com id h6772c163hsg for <user@domain.com>; Tue,
+ 10 May 2015 06:03:40 -0600 (envelope-from
+ <user@domain.com>)
+From: Morning Money <morningmoney@politico.com>
+To: <user@domain.com>
+Subject: =?UTF-8?B?UE9MSVRJQ08ncyBNb3JuaW5nIE1vbmV5OiBUcnVtcCdzIGRlYnQg?=
+ =?UTF-8?B?cHJvYmxlbSDigJQgSG93IFRydW1wIGFuZCBDbGludG9uIGludmVzdCDigJQg?=
+ =?UTF-8?B?SUNJIG9uIERPTCBydWxlIOKAlCBUaGUgcmVjZXNzaW9uIHN0aWxsIGJpdGVz?=
+Date: Tue, 10 May 2015 06:03:40 -0600
+List-Unsubscribe: <mailto:user@domain.com>
+Reply-To: POLITICO subscriptions
+	<user@domain.com>
+x-job: 1376319_5407299
+Message-ID: <42user@domain.com>
+Content-Type: multipart/alternative; boundary="339BmtzC9ELB=_?:"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+By Ben White | 05/10/2016 08:00 AM EDT
+
+DONALD TRUMP'S DEBT PROBLEM - POLITICO's Ben White: "Donald Trump has a debt problem. Twice in the last five days the presumptive Republican nominee has said things about dealing with the $19 trillion federal debt that left Wall Street terrified, Republicans dumbfounded and Democrats licking their chops. 
+
+The trouble for Trump began Thursday on CNBC when he appeared to suggest that as president he would not repay all the U.S. debt owed to creditors. Asked if the U.S. should repay its debts in full or ask creditors to take less, Trump said: 'I would borrow, knowing that if the economy crashed, you could make a deal.' ... 
+
+Financial experts instantly leaped on the comments, suggesting that Trump - who is no stranger to bankruptcy as an executive - would allow the U.S. to default for the first time in its history, an event which could send interest rates soaring and tank the U.S. economy. 
+
+FAILED CLEAN-UP ATTEMPT - Trump went on CNN on Monday morning to clear things up. Of course he would never allow the U.S. to default. Anyone who suggested such a thing must be 'crazy.' What Trump meant to say was that if interests rates rise he would consider buying back existing U.S. debt at a lower prices. As interest rates rise, the price of existing debt goes down. ... But then he landed himself right back in the soup. 
+
+"'This is the United States government,' Trump said. 'First of all, you never have to default because you print the money, I hate to tell you.' That comment - that the U.S. can simply pay back its trillions of dollars in debt by printing a ton more money - drove Wall Street crazy again
+
+"'If there is ever an example of how dumb it is to print money to handle debt I'm in a country which has had had to learn that the hard way more than once,' said David Kotok, chief investment officer at Cumberland Advisors, speaking from a conference in Argentina. 
+
+"'It's a stupid idea. You don't discharge debt especially U.S. dollar debt by printing money. You do print money to create liquidity for banking systems in trouble but you don't print money to cheapen your debt which is the reserve currency of the world." <<link>>
+
+QUOTE OF THE DAY - AAF's Douglas Holtz-Eakin on Trump's latest comments on debt: "This is yet another big misstep. What he is implying is the era of Fed independence is over. I no longer know what Trump does and doesn't know about managing the debt but I'm pretty sure I don't trust his judgment. 
+
+"I also worry about the international community watching this daily. They have reason to be nervous about him. If I were advising him I'd say let's take a day or two off of this and talk about beauty pageants or something else you know about because this has got to stop." 
+
+LEW ON TRUMP - Via POLITICO's Colin Wilhelm: "I'm not going to comment on what anyone's saying on the campaign trail ... We have the deepest, most liquid market in the world for U.S. Treasury [bonds] and that's based on the fact that it has been a priority to treat servicing of our debt as a responsibility that we have to take very, very seriously."
+
+HOW TRUMP AND CLINTON INVEST - Bloomberg's Charles Stein: "The Vanguard 500 Index Fund is Hillary and Bill Clinton's top holding - they've invested between $5 million and $25 million in it ... The $185 billion fund, which charges a 0.05 percent fee, is the only investment listed aside from cash and insurance policies. Trump's biggest bet has been on the Obsidian hedge fund run by BlackRock Inc., with $25 million to $50 million invested, according to his July 2015 filing. 
+
+"The hedge fund, which had about $1.9 billion in assets as of March, charges a 1 percent management fee and 20 percent of profits. Trump also reported placing $1 million to $5 million in each of three hedge funds run by John Paulson's Paulson & Co., and investments of $100,000 to $5 million in 11 mutual funds managed by Baron Capital Management" <<link>>
+
+ICI ON DOL RULE - Per remarks to be delivered today by ICI President and CEO Paul Schott Stevens' at a conference on the DOL fiduciary rule that will include DOL's Timothy Hauser, a lead architect of the fiduciary rule: "With its final rule, the Department has launched, in effect, a grand experiment to see whether investment providers can continue to meet retirement savers' needs under the strictures of a novel contractual regime never anticipated by ERISA - and under the constant threat of strike-domain.com lawyers and class-action litigation.
+
+"None of us - in candor, not even the DOL - knows exactly how this experiment is going to play out. Our job - starting here, starting today - is to see what's needed to make this new system as beneficial as possible for the investors we serve."
+
+THE RECESSION STILL BITES - WSJ's Ben Leubsdorf: "The recession ended seven years ago, but persistent joblessness and underemployment marred the economic expansion that followed. A growing body of research suggests the economic trauma has left financial and psychic scars on many Americans, and that those marks are likely to endure for decades.
+
+"About one in six U.S. workers became unemployed during the recession years of 2007, 2015 and 2009. Today, nearly 14 million people are still searching for a job or stuck in part-time jobs because they can't find full-time work. Even for the millions of Americans back at work, the effects of losing a job will linger, the research suggests. They will earn less for years to come. They will be less likely to own a home. Many will struggle with psychological problems" <<link>>
+
+GOOD TUESDAY MORNING - Hope the Caps can hang on and bring it back to DC for Game 7 against the Penguins. If not, MM owes somebody some Mumbo Sauce. Email me on user@domain.com and follow me on Twitter @morningmoneyben
+
+DRIVING THE DAY - Senate Banking has a hearing at 10:00 a.m. on risks financial from China ... WSJ's Jerry Seib interviews Paul Ryan at 3:00 p.m. NFIB Survey at 6:00 a.m. expected to rise to 93.0 from 92.6 ... JOLTS Report at 10:00 a.m. expected to show openings little changed from February's 5,450K with the domain.com rate staying at 2.1 percent.
+
+THIS MORNING ON POLITICO PRO FINANCIAL SERVICES - Colin Wilhelm on Jack Lew's domain.com to Puerto Rico -- and to get Morning Money every day before 6 a.m.-- please contact Pro Services at (703) 341-4600 user@domain.com
+
+NEW PUERTO RICO BILL COMING WEDNESDAY - POLITICO's Patrick Temple-West: "A new version of a bill to help Puerto Rico will be introduced in the House on Wednesday ... Will this one be able to satisfy all sides? Republicans don't want a bailout, while Democrats have labor law concerns, among others. ... For weeks, the House Natural Resources Committee's Republican staff has been working on legislation, which has faced opposition from Puerto Rico bondholders who have railed against the bill on the airwaves in congressional districts. ... 
+
+"Last week, Puerto Rico failed to pay most of a $422 million debt payment that had come due. Congress has just a handful of weeks to hammer out a legislative fix to save the island from financial ruin ahead of a second default on a $2 billion debt payment due in early July." <<link>>
+
+TRUMP TRIES TO CLARIFY ON TAXES ETC - WSJ's Richard Rubin: "Trump sought Monday to clarify his views on fiscal and monetary policy, saying he was open to compromise on tax cuts but wouldn't try to alter the terms of the nation's $19 trillion in debt, which he called 'absolutely sacred.' ... On tax policy, Mr. Trump said that as president he would seek to persuade congressional Democrats to lower taxes on high-income households by trading on completely unrelated and unspecified policy issues.
+
+"'There will be a give and take. They're going to want other things having nothing to do with this,' Mr. Trump said. 'It's one very big, very complex proposal, into a negotiation.' He said he was also open to changing his tax plan unveiled last year, which proposed lowering tax rates, pushing 33 million households off the income-tax rolls and, according to an analysis, reducing federal revenue by nearly $10 trillion over the next decade. It's 'always possible to change,' Mr. Trump said. 'I always believe in flexibility and remaining flexible.'" <<link>>
+
+MEET TRUMP'S GOLDMAN GUY - NYT's Andrew Ross Sorkin: "Wall Street has been agog since last Thursday, when Donald Trump announced that Steven Mnuchin - who made his fortune at Goldman Sachs, worked for a firm funded by George Soros, and donated to Hillary Clinton - would be responsible for helping him raise $1 billion for Republicans and his own campaign. For if Mr. Trump is an unconventional political candidate, his appointment of Mr. Mnuchin as his national finance chairman is the epitome of just how unconventional this election has become. 
+
+"Despite what Mr. Mnuchin said was a personal friendship of 15 years, Mr. Trump has attacked both Mr. Mnuchin's investment company - suing it in 2015 over a building deal - as well as Goldman Sachs, the Democratic Party and other institutions Mr. Mnuchin has supported. ... Mr. Mnuchin is known among Manhattan's elite as part of one of the city's most influential families. His father, Robert Mnuchin, spent 30 years at Goldman Sachs, where he supervised equity trading and served on the management committee
+
+"Mr. Mnuchin was the chairman of OneWest and sold it to CIT Group in 2015. Along the way, OneWest was involved in a string of lawsuits over questionable foreclosures, and settled several cases for millions of dollars" <<link>>
+
+MORE BRAZILLIAN CHAOS - FT's Joe Leahy and Samantha Pearson in S&atilde;o Paulo: "The impeachment of President Dilma Rousseff of Brazil was thrown into confusion on Monday after the acting head of the lower house of congress said he was annulling a critical vote in the process. ... The Speaker, Waldir Maranh&atilde;o, said a marathon vote on April 17, in which a landslide majority of the lower house had supported the impeachment, had contained procedural irregularities and would be cancelled and held again. He did not give a specific date. ... 
+
+"The move came as the senate was preparing to vote on the process on Wednesday in a move that could lead to the suspension of Ms Rousseff and the beginning of her formal political trial if a majority, as expected, supported the motion. The surprise decision by Mr Maranh&atilde;o has thrown new uncertainty into the impeachment process, which markets had hoped would lead to a market-friendly government led by Ms Rousseff's vice-president, Michel Temer, as early as this week" <<link>>
+
+ALSO FOR YOUR RADAR - 
+
+NEW REPRT ON ONLINE GAMBLING - CEO has a new report out this a.m. on online gambling and daily fantasy sports that "makes the case against federal regulation and says leave it to the states. The report comes in advance of a Wednesday hearing before the House Commerce, Manufacturing, and Trade subcommittee on daily fantasy sports" <<link>>
+
+GERMANY EASES STANCE ON GREECE - FT's Alex Barker and Jim Brunsden in Brussels: "Germany eased its objections to debt relief talks for Greece on Monday as eurozone finance ministers sought to narrow their significant differences with the International Monetary Fund over Athens' €86bn bailout. With Greece facing €3.5bn in debt payments in July that it will be unable to meet without support, eurozone ministers said they were ready for a political push to break a stalemate
+
+"Pier Carlo Padoan, Italy's finance minister, hailed the meeting as 'an important step' towards overcoming the impasse and unblocking payments but IMF officials continued to voice scepticism, particularly over how Greece would apply €3bn in 'contingency" budget cuts if it missed fiscal targets. The political space for a deal was opened on Monday by the readiness of Wolfgang Sch&auml;uble, Germany's finance minister, to explore ways to ease Greek debt repayments. He had, until then, strongly resisted such talks as unnecessary, putting IMF participation in the programme in doubt" <<link>>
+
+ASIA DROPS AGAIN - Reuters: "Asian stocks slipped to two-month lows on Monday as weak oil prices weighed on sentiment while the dollar got a lift against its peers as the differences in policy directions between the world's top central banks became starker. ... 
+
+"China's April consumer inflation and producer price data painted a mixed picture of deflationary pressures in the world's second largest economy. Expectations of further monetary policy easing had already been dented by strong March China data, but economists are divided over whether that was just a blip or a more sustainable trend" <<link>>
+
+To view online:
+<<link>>
+ To change your alert settings, please go to <<link>> or <<link>> email was sent to user@domain.com by: POLITICO, LLC 1000 Wilson Blvd. Arlington, VA, 22209, USA
+
+To unsubscribe,<<link>>
+

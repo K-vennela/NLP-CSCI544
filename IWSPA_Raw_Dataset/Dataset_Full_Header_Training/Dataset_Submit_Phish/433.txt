@@ -1,0 +1,55 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.4.9])
+	by domain.com (Postfix) with ESMTP id E1AC5468E5
+	for <user@domain.com>; Wed, 11 Jul 2015 08:05:07 -0400 (EDT)
+X-Greylist: delayed 400 seconds by postgrey-1.27 at domain.com; Wed, 11 Jul 2015 08:05:07 EDT
+Received: from domain.com (domain.com [69.25.212.178])
+	by domain.com (Postfix) with ESMTP id 90E21131FCBC
+	for <user@domain.com>; Wed, 11 Jul 2015 08:05:07 -0400 (EDT)
+Received: (qmail 20506 invoked by uid 89); 11 Jul 2015 05:58:26 -0600
+Received: from unknown (HELO User) (user@domain.com@172.176.96.107)
+  by domain.com with SMTP; 11 Jul 2015 05:58:26 -0600
+From: "United Bank & Trust"<news@ubat.com>
+Subject: United Bank & Trust Online Account Issue
+Date: Wed, 11 Jul 2015 14:58:25 +0300
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20070711120507.90user@domain.com>
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1502
+
+   Dear United Bank & Trust Customer,
+
+We recently noticed one more attempts to log in your
+United Bank & Trust account from a foreign IP
+address and we have reasons to believe that your
+account was hijacked by a third party without your
+authorization.
+
+If you recently accessed your account while traveling,
+the unsual log in attempts may have been iniated by you.
+However, if you are rightful holder of the account,
+click on the link below, fill out the form and then
+domain.com as we try to verify your identity.
+
+ Click here  to update your online account.
+
+If you choose to ignore our request, we will have to
+temporally suspend your account and conduct further
+investigations.
+
+Thank you for your time and consideration in this matter.
+
+Copyright 2015 United Bank & Trust. All rights reserved.
+

@@ -1,0 +1,97 @@
+<x-flowed>
+Dear Tom,
+In the end, I decided to test the significance of trends in the O(t) 
+minus M(t) difference time series, as you and John Lanzante have 
+suggested. I still think that this "difference series test" is more 
+appropriate when one is operating on a pair of time series with 
+correlated variability (for example, if you wished to test whether an 
+observed tropical T2LT trend was significantly different from the T2LT 
+trend simulated in an AMIP experiment). But you and John convinced me 
+that our response to Douglass et al. would be strengthened by using 
+several different approaches to address the statistical significance of 
+differences between modeled and observed temperature trends.
+The Tables given below show the results from two different types of 
+test. You've already seen the "TYPE1" or "PAIRED TREND" results. These 
+involve b{O} and b{M}, which represent any single pair of Observed and 
+Modeled trends, with standard errors s{bO} and s{bM} (which are adjusted 
+for temporal autocorrelation effects). As in our previous work (and as 
+in related work by John Lanzante), we define the normalized trend 
+difference d as:
+d1 = (b{O} - b{M}) / sqrt[ (s{bO})**2 + (s{bM})**2 ]
+Under the assumption that d1 is normally distributed, values of d1 > 
++1.96 or < -1.96 indicate observed-minus-model trend differences that 
+are significant at the 5% level, and one can easily calculate a p-value 
+for each value of d. These p-values for the 98 pairs of trend tests (49 
+involving UAH data and 49 involving RSS data) are what we use for 
+determining the total number of "hits", or rejections of the null 
+hypothesis of no significant difference between modeled and observed 
+trends. I note that each test is two-tailed, since we have no 
+information a priori about the "direction" of the model trend (i.e., 
+whether we expect the simulated trend to be significantly larger or 
+smaller than observed).
+The "TYPE2" results are the "DIFFERENCE SERIES" tests. These involve 
+O(t) and M(t), which represent any single pair of modeled and observed 
+layer-averaged temperature time series. One first defines the difference 
+time series D(t) = O(t) - M(t), and then calculates the trend b{D} in 
+D(t) and its adjusted standard error, s{bD}. The test statistic is then 
+simply d2 = b{D} / s{bD}. As in the case of the "PAIRED TREND" tests, we 
+assume that d2 is normally distributed, and then calculate p-values for 
+the 98 pairs of difference series tests.
+As I mentioned in a previous email, the interpretation of the 
+"DIFFERENCE SERIES" tests is a little complicated. Over half (35) of the 
+49 model simulations examined in the CCSP report include some form of 
+volcanic forcing. In these 35 cases, differencing the O(t) and M(t) time 
+series reduces the amplitude of this externally-forced component in 
+D(t). This will tend to reduce the overall temporal variability of D(t), 
+and hence reduce s{bD}, the standard error of the trend in D(t). Such 
+noise reduction should make it easier to identify true differences in 
+the anthropogenically-forced components of b{O} and b{D}. But since the 
+internally-generated variability in O(t) and M(t) is uncorrelated, 
+differencing O(t) and M(t) has the opposite effect of amplifying the 
+noise, thus inflating s{bD} and making it more difficult to identify 
+model-versus-observed trend differences.
+The results given below show that the "PAIRED TREND" and "DIFFERENCE 
+SERIES" tests yield very similar rejection rates of the null hypothesis. 
+The bottom line is that, regardless of which test we use, which 
+significance level we stipulate, which observational dataset we use, or 
+which atmospheric layer we focus on, there is no evidence to support 
+Douglass et al.'s assertion that all "UAH and RSS satellite trends are 
+inconsistent with model results".
+REJECTION RATES FOR STIPULATED  5% SIGNIFICANCE LEVEL
+Test type                  No. of tests       T2 "Hits"     T2LT "Hits"
+1. OBS-vs-MODEL (TYPE1)    49 x 2    (98)     2  (2.04%)     1  (1.02%)
+2. OBS-vs-MODEL (TYPE2)    49 x 2    (98)     2  (2.04%)     2  (2.04%)
+REJECTION RATES FOR STIPULATED 10% SIGNIFICANCE LEVEL
+Test type                  No. of tests       T2 "Hits"     T2LT "Hits"
+1. OBS-vs-MODEL (TYPE1)    49 x 2    (98)     4  (4.08%)     2  (2.04%)
+2. OBS-vs-MODEL (TYPE2)    49 x 2    (98)     3  (3.06%)     3  (3.06%)
+REJECTION RATES FOR STIPULATED 20% SIGNIFICANCE LEVEL
+Test type                  No. of tests       T2 "Hits"     T2LT "Hits"
+1. OBS-vs-MODEL (TYPE1)    49 x 2    (98)     7  (7.14%)     5  (5.10%)
+2. OBS-vs-MODEL (TYPE2)    49 x 2    (98)    10 (10.20%)     7  (7.14%)
+As I've mentioned in previous emails, I think it's a little tricky to 
+figure out the null distribution of rejection rates - i.e., the 
+distribution that might be expected by chance alone. My gut feeling is 
+that this is easiest to do by generating distributions of the d1 and d2 
+statistics using model control run data only. Use of Monte Carlo 
+procedures gets into issues of whether one should use "block 
+resampling", and attempt to preserve the characteristic decorrelation 
+times of the model and observational data being tested, etc., etc.
+Thanks very much to all of you for your advice and comments. I still 
+believe that there is considerable merit in a brief response to Douglass 
+et al. I think this could be done relatively quickly. From my 
+perspective, this response should highlight four issues:
+1) It should identify the flaws in the statistical approach used by 
+Douglass et al. to compare modeled and observed trends.
+2) It should do the significance testing properly, and report on the 
+results of "PAIRED TREND" and "DIFFERENCE SERIES" tests.
+3) It should show something similar to the figure that Leo recently 
+distributed (i.e., zonal-mean trend profiles in various versions of the 
+RAOBCORE data), and highlight the fact that the structural uncertainty 
+in sonde-based estimates of tropospheric temperature change is much 
+larger than was claimed in Douglass et al.
+4) It should note and discuss the considerable body of "complementary 
+evidence" supporting the finding that the tropical lower troposphere has 
+warmed over the satellite era.
+With best regards,
+Ben

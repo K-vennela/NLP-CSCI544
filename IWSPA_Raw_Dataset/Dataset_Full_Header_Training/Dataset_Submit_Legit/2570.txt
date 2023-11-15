@@ -1,0 +1,20 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.200.205])
+	by domain.com (Postfix) with ESMTP id DD322B6603F
+	for <user@domain.com>; Fri,  3 Jan 2015 15:38:00 +0100 (CET)
+Date: Fri, 3 Jan 2015 15:38:00 +0100
+From: "Daniele Milan (Confluence)" <confluence@hackingteam.com>
+To: user@domain.com
+Message-ID: <1987105498.1803.1388759880878.JavaMail.CONFLUENCE$@confluence>
+Subject: [confluence] Daniele Milan updated a event in the "Conferences &
+ Marketing Events" calendar
+Precedence: bulk
+Auto-Submitted: auto-generated
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2135562172_-_-"
+
+  Daniele Milan updated a event in the Conferences & Marketing Events calendar Mar 11, 2014 Until Mar 13, 2014   HOSDB UK      You are receiving this notification because you are watching the following:   Conferences & Marketing Events   Sent by Atlassian Confluence 5.4, the Enterprise Wiki 

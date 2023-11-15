@@ -1,0 +1,83 @@
+Colin,
+I thought that this didn't happen.
+Cheers
+Phil
+From: C G Kilsby <c.g.kilsby@newcastle.ac.uk>
+To: "p.jones@uea.ac.uk" <p.jones@uea.ac.uk>
+Date: Tue, 10 Nov 2009 15:35:37 +0000
+Subject: FW: Helpdesk query 1489: Hourly data have discontinuities at day
+joins
+Thread-Topic: Helpdesk query 1489: Hourly data have discontinuities at day
+joins
+Thread-Index: AcpiFAtfZVu2N5gLTBW4NaA+k/QJowAB1zVA
+Accept-Language: en-GB
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+acceptlanguage: en-GB
+X-smtpf-Report: sid=lA9FZe094454569100; tid=lA9FZe0944545691XL;
+client=lan,relay,white,ipv6; mail=; rcpt=; nrcpt=1:0; fails=0
+X-Canit-CHI2: 0.00
+X-Bayes-Prob: 0.0001 (Score 0, tokens from: @@RPTN, f028)
+X-Spam-Score: 0.00 () [Hold at 5.00] HTML_MESSAGE,SPF(pass,0)
+X-CanItPRO-Stream: UEA:f028 (inherits from UEA:default,base:default)
+X-Canit-Stats-ID: 35355645 - b33bcd1c960c (trained as not-spam)
+X-Antispam-Training-Forget:
+[1]<<link>>
+X-Antispam-Training-Nonspam:
+[2]<<link>>
+X-Antispam-Training-Spam: [3]<<link>>
+X-Scanned-By: CanIt (www . roaringpenguin . com) on 139.222.131.184
+Interesting one for you....
+From: Lyndsey Middleton [[4]mailto:user@domain.com.uk]
+Sent: 10 November 2009 2:43 PM
+To: C G Kilsby
+Subject: Helpdesk query 1489: Hourly data have discontinuities at day joins
+Hi Chris,
+Another Weather Generator query for you. It was raised by Richard Watkins of Manchester
+University (and COPSE project) following a visit from Roger yesterday.
+Can you let me know your response please?
+Cheers,
+Lyndsey
+Long Description=The hourly data from the Weather
+Generator have discontinuities at each
+midnight join. The e.g. temperature
+jumps, may be as high as 9�C. The
+hourly data seem to have been generated
+independently for each day, rather than
+fitting a curve from the maximum of one
+day to the minimum of the next. The
+minimum to maximum curve, i.e. within
+each day, is fine.
+Could the Weather Generator be altered
+to produce more realistic hourly data
+by fitting from Tmax to Tmin the
+following day, please? This would be
+helpful particularly for any use of the
+data for building simulation with plant
+controls.
+Thanks,
+Richard Watkins
+Lyndsey Middleton
+Enquiries Officer
+UK Climate Impacts Programme
+School of Geography and Environment
+OUCE
+South Parks Road
+Oxford OX1 3QY
+[5]www.ukcip.org.uk
+Tel: 01865 285 718 (direct) or 01865 285717 (switchboard)
+My working days are: Tuesday and Wednesday 9am to 5pm and Friday 9 am to 12.30pm
+Prof. Phil Jones
+Climatic Research Unit        Telephone +44 (0) 1603 592090
+School of Environmental Sciences    Fax +44 (0) 1603 507784
+University of East Anglia
+Norwich                          Email    p.jones@uea.ac.uk
+NR4 7TJ
+UK
+----------------------------------------------------------------------------
+References
+1. <<link>>
+2. <<link>>
+3. <<link>>
+4. mailto:user@domain.com.uk
+5. <<link>>

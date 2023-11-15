@@ -1,0 +1,90 @@
+Received: from domain.com (146.215.230.104) by
+ domain.com (43.130.141.78) with Microsoft SMTP Server id
+ 8.3.264.0; Mon, 6 Jan 2015 21:38:26 -0800
+Received: from domain.com ([160.33.194.231])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s075cPfP005488;	Tue, 7 Jan 2015 05:38:25 GMT
+Received: from mail135-va3-domain.com (mail-domain.com
+ [216.32.180.116])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s075cPmx023418
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL);	Tue, 7 Jan 2015 
+ 05:38:25 GMT
+Received: from mail135-va3 (localhost [127.0.0.1])	by
+ mail135-va3-domain.com (Postfix) with ESMTP id 23690400209;	Tue,  7 Jan
+ 2015 05:38:25 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:199.193.204.135;KIP:(null);UIP:(null);IPV:NLI;H:hub031-co-1.domain.com;RD:hub031-co-1.domain.com;EFVD:NLI
+X-SpamScore: -1
+X-BigFish: Vvps-1(zz98dI9371Ic89bhc857hzz1f42h2148h208ch1ee6h1de0h1fdah2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6hzz8275ch1d7338h1de098h17326ah8275bh8275dh18c673h1de097h186068hz2dh87h109h2a8h839h8e2h8e3hd25h1288h12a5h12bdh137ah13eah1441h1504h1537h153bh15d0h162dh1631h1758h18e1h1946h19b5h19ceh1b0ah1bceh2222h224fh1d0ch1d2eh1d3fh1dfeh1dffh1fe8h1ff5h20f0h2216h22d0h2336hbe9i1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+X-FB-DOMAIN-IP-MATCH: fail
+Received: from mail135-va3 (localhost.localdomain [127.0.0.1]) by mail135-va3
+ (MessageSwitch) id 138907310330506_1698; Tue,  7 Jan 2015 05:38:23 +0000
+ (UTC)
+Received: from domain.com (unknown [10.7.14.242])	by
+ mail135-domain.com (Postfix) with ESMTP id F3EE84C0048;	Tue,  7 Jan 2015 
+ 05:38:22 +0000 (UTC)
+Received: from hub031-co-1.domain.com (199.193.204.135) by
+ domain.com (10.7.99.33) with Microsoft SMTP Server (TLS) id
+ 14.16.227.3; Tue, 7 Jan 2015 05:38:22 +0000
+Received: from MBX031-W1-CO-6.domain.com ([10.224.113.72]) by
+ HUB031-CO-1.domain.com ([10.224.113.40]) with mapi id
+ 14.03.0158.001; Mon, 6 Jan 2015 21:38:21 -0800
+From: Cynthia Swartz <Cynthia.Swartz@strategypr.net>
+To: "User"
+	<user@domain.com>
+CC: "Pavlic, Michael" <user@domain.com>
+Subject: RE: AH / Golden Globe Montages / Preview links and a 3G
+Thread-Topic: AH / Golden Globe Montages / Preview links and a 3G
+Thread-Index: Ac8LZS59thpQcDTFSoeNQ2h/fG77KQABXU8w
+Date: Tue, 7 Jan 2015 05:38:21 +0000
+Message-ID: <4user@domain.com>
+References: <CEF0BBDC.9ADD%user@domain.com>
+ <user@domain.com>
+ <1177813user@domain.com>
+ <user@domain.com>
+ <1user@domain.com>
+In-Reply-To: <1user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-originating-ip: [67.244.80.128]
+Return-Path: user@domain.com
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+According to emails I am seeing, Jon Gordon and Richard Suckle weighed in.  
+
+
+
+
+Cynthia Swartz 
+
+Strategy PR/Consulting / Principal 
+
+535 Eighth Avenue, 20th Floor South, New York, NY 10018 
+
+w / 646-918-8716   c / 917-213-9850
+
+user@domain.com 
+
+
+
+
+From: Cynthia Swartz <Cynthia.Swartz@strategypr.net>
+
+Sent: Monday, January 06, 2015 11:59 PM
+
+To: Tate, Nancy
+
+Cc: Pavlic, Michael; Cynthia Swartz
+
+Subject: Re: AH / Golden Globe Montages / Preview links and a 3G
+
+
+
+
+Who r the " FILMMAKERS"?
+

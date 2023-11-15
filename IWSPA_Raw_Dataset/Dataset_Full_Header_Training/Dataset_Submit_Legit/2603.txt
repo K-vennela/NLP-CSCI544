@@ -1,0 +1,145 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Mon, 19 Jan 2015 15:08:27 +0100
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id 6725E60063;	Mon, 19 Jan 2015 
+ 13:48:23 +0000 (GMT)
+Received: by domain.com (Postfix)	id 7E4B52BC0F3; Mon, 19 Jan 2015 
+ 15:08:27 +0100 (CET)
+Delivered-To: user@domain.com
+Received: from EmadPC (unknown [172.16.1.4])	(using TLSv1 with cipher
+ AES256-SHA (256/256 bits))	(No client certificate requested)	by
+ domain.com (Postfix) with ESMTPSA id 48FC62BC041;	Mon, 19 Jan 2015 
+ 15:08:27 +0100 (CET)
+From: Emad Shehata <e.shehata@hackingteam.com>
+To: 'Emad Shehata' <user@domain.com>, <user@domain.com>
+CC: <user@domain.com>, <user@domain.com>, 'rsales'
+	<user@domain.com>
+References: <user@domain.com> <user@domain.com>
+In-Reply-To: <user@domain.com>
+Subject: R: Re: Maitenance MOD Cliente Expiration on 31.12.2014
+Date: Mon, 19 Jan 2015 15:08:26 +0100
+Message-ID: <00fb01d033f1$65187160$2f495420$@user@domain.com>
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdAVDKFCVvyMLJ2GQ5+nYBKLwzgZvwESJBOgAxxVn4AAAjNVvgFSBahQAM4EURAAXwnXWQAEu14GAM0Pj+QAN48qUA==
+Content-Language: it
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EMAD SHEHATA450
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-603028132_-_-"
+
+Dear Moniem,trust this e-mail find you well. As per your request and as EXCEPTIONAL case, we will extend the maintenance until 29 January 2015.Please note that once we got the PO and EU Statement the Maintenance will considered as from 01 January 2015 until 31 December 2015. Looking for the PO no more later then the 29 January 2015. Best regards   Da: Emad Shehata [mailto:user@domain.com] 
+Inviato: domenica 18 gennaio 2015 12:35
+A: 'user@domain.com'
+Cc: 'user@domain.com'; 'user@domain.com'; rsales
+Oggetto: R: Re: Maitenance MOD Cliente Expiration on 31.12.2014 Dear Moniem,
+Thanks for your bbm update on the mentioned subject as in object.
+
+We will domain.com the PO and EU statement after the 25 January 2015 due the fact an internal polical topics.
+
+Best regards
+
+-- 
+Emad Shehata 
+Key Account Manager 
+
+Sent from my mobile.
+ Da: Emad Shehata 
+Inviato: Wednesday, January 14, 2015 10:43 AM
+A: 'user@domain.com' <user@domain.com> 
+Cc: 'user@domain.com' <user@domain.com>; 'user@domain.com' <user@domain.com>; rsales 
+Oggetto: R: Re: Maitenance MOD Cliente Expiration on 31.12.2014 
+ Dear Moniem,
+
+As per our bbm once the Head of Dept will sign the EU statements and got from you the PO we will re-active the maintenance.
+
+Until that date all request coming from the customer by our support portal will be not take in consideration and we will inform them to be in touch with you for a pending commercial aspect.
+
+Remember to the customer that they are not in position to make a new infection ( since their invisibility will be compromise) and not in position to get any Hotfix (minus and Major one).
+
+Dear Moniem, I can imagine why this delay and this is the reason why I'm here to inform you about the following (to be on the safe site):
+
+we can undestand some delay but remember them, as I already inform the customer in my last year meeting, that if they will not renewal the Maintenance in a reasonable time frame, they will need to buy a complete new configuration. 
+
+In a very simple word, they can't arrive on June 2015 and asking for the renewal and got all the benefits: we will issue them a new proposal as per the other new customer.
+
+Please keep us update.
+Best regards
+
+-- 
+Emad Shehata 
+Key Account Manager 
+
+Sent from my mobile.
+ Da: Emad Shehata 
+Inviato: Wednesday, January 14, 2015 08:28 AM
+A: 'user@domain.com' <user@domain.com> 
+Cc: 'user@domain.com' <user@domain.com>; 'user@domain.com' <user@domain.com>; rsales 
+Oggetto: R: Re: Maitenance MOD Cliente Expiration on 31.12.2014 
+ Dear Moniem,
+
+Tomorrow the license will be expired and we are not in position to extend it.
+
+Based on New European Export Regulation we need to have the EU statement stamp and signed from the end user
+
+However we discussed from a months ago and still we don't have any PO, EU statement, we would like to inform you that we are not in position to give them the service. 
+
+Best regards
+
+-- 
+Emad Shehata 
+Key Account Manager 
+
+Sent from my mobile.
+ Da: Emad Shehata 
+Inviato: Monday, January 12, 2015 11:08 AM
+A: user@domain.com <user@domain.com> 
+Cc: user@domain.com <user@domain.com>; user@domain.com <user@domain.com>; rsales 
+Oggetto: R: Re: Maitenance MOD Cliente Expiration on 31.12.2014 
+ Dear Moniem,Can you please update us on the Maintenance? We need to have the PO and EU Statement: it’s urgent since this week the Maintenance will be expired. Best regards    Da: Emad Shehata [mailto:user@domain.com] 
+Inviato: giovedì 8 gennaio 2015 08:49
+A: 'Emad Shehata'; user@domain.com
+Cc: user@domain.com; user@domain.com; 'rsales'
+Oggetto: R: Re: Maitenance MOD Cliente Expiration on 31.12.2014 Dear Moniem, Happy New Year to all of you firstly. About the MOD client please note that we need within this week the following: EU STATEMENT Stamp and signed form the customer side ( I already spoke with them about it in my last meeting with them).PO from your side Looking forward to hear from you. Best regards  Da: Emad Shehata [mailto:user@domain.com] 
+Inviato: giovedì 1 gennaio 2015 15:29
+A: 'user@domain.com'
+Cc: 'user@domain.com'; 'user@domain.com'; rsales
+Oggetto: R: Re: Maitenance MOD Cliente Expiration on 31.12.2014 Dear Moniem,
+Happy New Year to you as well.
+
+For sure we need to maintain the commitment from both side.
+
+We are a partner firsly.
+Waiting for the PO and other docs.
+
+Warmest regards
+
+-- 
+Emad Shehata 
+Key Account Manager 
+
+Sent from my mobile.
+ Da: Moniem GNSE [mailto:user@domain.com] 
+Inviato: Thursday, January 01, 2015 03:26 PM
+A: Emad Shehata 
+Cc: Hazem Moftah <user@domain.com>; Manal Shams <user@domain.com>; rsales 
+Oggetto: Re: Maitenance MOD Cliente Expiration on 31.12.2014 
+ Dear Emad,  Happy new year, I will send the PO as soon as I receive it from the customer, I need to maintain my commitment with HT. Rgrds, Mohamed. On Dec 16, 2014, at 7:26 PM, Emad Shehata <user@domain.com> wrote: Dear Moniem, Have you received my e-mail?Please update us on the following matter.Best regards  Da: Emad Shehata [mailto:user@domain.com] 
+Inviato: giovedì 11 dicembre 2015 07:35
+A: 'Moniem GNSE'
+Cc: 'Hazem Moftah'; 'Manal Shams'; 'rsales'
+Oggetto: Maitenance MOD Cliente Expiration on 31.12.2014 Dear Moniem,  I would like to underline that the maintenance of the customer will be expired on 31 December 2014.This is means that need to have the PO, EU STATEMENT and Payment within 22 December 2014, to not face any problem with the customer in term of continuity of the support. Best regards   Emad Shehata
+Key Account Manager
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com
+mobile: +39 3357939078
+phone: +39 0229060603    

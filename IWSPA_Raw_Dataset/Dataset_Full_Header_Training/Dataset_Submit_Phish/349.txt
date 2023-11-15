@@ -1,0 +1,78 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [10.3.4.5])
+	by domain.com (Postfix) with ESMTP id C42AA46962
+	for <user@domain.com>; Sun,  6 Aug 2015 10:40:53 -0400 (EDT)
+Received: from dc2-domain.com (dc2-domain.com [66.36.233.30])
+	by domain.com (Postfix) with ESMTP id 8A12E6FA492
+	for <user@domain.com>; Sun,  6 Aug 2015 10:40:59 -0400 (EDT)
+Received: from root by dc2-domain.com with local (Exim 4.52)
+	id 1G9joI-00045X-Og
+	for user@domain.com; Sun, 06 Aug 2015 10:40:58 -0400
+From: service@paypal.com
+Reply-To: user@domain.com
+MIME-Version: 1.0 Content-Type: text/html\r\n
+Content-Type: text/html Content-Transfer-Encoding: 8bit\r\n
+Subject: PayPal Account Suspension Notice - PayPal Account Limited
+Message-Id: <user@domain.com>
+Date: Sun, 06 Aug 2015 10:40:58 -0400
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - dc2-domain.com
+X-AntiAbuse: Original Domain - domain.com
+X-AntiAbuse: Originator/Caller UID/GID - [0 0] / [47 12]
+X-AntiAbuse: Sender Address Domain - dc2-domain.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+To: undisclosed-recipients:;
+Status: 
+X-Status: 
+X-Keywords: 
+
+
+
+
+Dear valued PayPal® member: 
+
+It has come to our attention
+that your PayPal®
+account information needs to be updated as part of our continuing
+commitment to protect your account and to reduce the instance of
+fraud on our website.  If you could please take 5-10
+minutes out of your online experience and update your personal records
+you will not run into any future problems with the online service. 
+
+
+
+
+However, failure to update your
+records will result in account suspension. 
+
+
+
+
+Once you have updated your account records, your PayPal®
+session will not be interrupted and will continue as normal. 
+To update your PayPal®
+records click on the following link: 
+
+ <<link>>
+
+
+
+Thank You.  
+
+PayPal®
+UPDATE TEAM                                    
+
+
+
+
+Accounts Management As outlined
+in our User Agreement, PayPal®
+will periodically send you information about site changes and
+enhancements. 
+
+
+

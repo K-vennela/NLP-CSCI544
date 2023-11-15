@@ -1,0 +1,92 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id A8F7E4688F
+	for <user@domain.com>; Thu, 23 Apr 2015 18:42:42 -0400 (EDT)
+X-Greylist: delayed 61 seconds by postgrey-1.27 at domain.com; Thu, 23 Apr 2015 18:42:42 EDT
+Received: from stanstedpark.co.uk (mail.stanstedpark.co.uk [217.155.207.223])
+	by domain.com (Postfix) with ESMTP id 6FE0F131F72A
+	for <user@domain.com>; Thu, 23 Apr 2015 18:42:42 -0400 (EDT)
+Received: from User ([216.126.98.154]) by stanstedpark.co.uk with Microsoft SMTPSVC(6.0.3790.3959);
+	 Thu, 23 Apr 2015 23:41:38 +0100
+Reply-To: <user@domain.com>
+From: "Maybank"<maybank@support.com.my>
+Subject: Your account is blocked
+Date: Thu, 23 Apr 2015 15:45:09 -0700
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <user@domain.com>
+X-OriginalArrivalTime: 23 Apr 2015 22:41:38.0918 (UTC) FILETIME=[AA44D060:01C9C464]
+X-TM-AS-Product-Ver: SMEX-8.1.0.1092-5.600.1016-16598.005
+X-TM-AS-Result: No--6.042300-5.000000-31
+X-TM-AS-User-Approved-Sender: No
+X-TM-AS-User-Blocked-Sender: No
+To: undisclosed-recipients:;
+Content-Length: 4734
+Lines: 132
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1040
+
+TD {font-family:verdana, arial, helvetica, sans-serif;font-size:12px;color:#000000;}
+LI {line-height:120%;}
+UL.smallBorder {margin:10px 5px 10px 20px;}
+LI.smallBorderLi {margin:0px 0px 5px 0px;}
+UL.Narrow {margin:10px 5px 0px 40px;}
+HR.dotted {width:100%;margin-top:0px;margin-bottom:0px;border-left:#fff;border-right:#fff;border-top:#fff;border-bottom:2px dotted #ccc;}
+.interfooter {font-family:verdana, arial, helvetica, sans-serif;font-size:11px;color:#aaaaaa;}
+.inlineBlue {color:#00f;}
+.small {font-size:11px;font-weight:400;}
+HR.solid {width:100%;margin-top:5px;margin-bottom:0px;border-left:#fff;border-right:#fff;border-top:#fff;border-bottom:2px solid #999;}
+.large {font-size:17px;}
+.style6 {color: #FFFFFF}
+.style9 {	font-family: Arial, Helvetica, sans-serif;
+	color: #555555;
+}
+.style10 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #555555;
+}
+.style12 {color: #555555; font-weight: bold; }
+.style13 {color: #555555}
+
+
+
+
+Unblock your Account
+
+
+
+For security reasons, your Maybank account has been blocked due to inactivity or becouse of too many failed login attempts. 
+
+
+
+
+Please login at maybank2u to restore your account access.
+
+
+
+
+Online banking: Login
+
+
+
+
+Maybank Berhad
+
+    <<link>>
+
+
+
+
+© 2001-08 Maybank. All rights reserved.
+
+

@@ -1,0 +1,57 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 716F223CA9D
+	for <user@domain.com>; Mon, 23 Jan 2015 22:38:01 -0600 (CST)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id wMPhx5++iBa9 for <user@domain.com>;
+	Mon, 23 Jan 2015 22:37:59 -0600 (CST)
+Received: from domain.com (domain.com [129.7.234.210])
+	by domain.com (Postfix) with ESMTP id 8C80F23CA9A
+	for <user@domain.com>; Mon, 23 Jan 2015 22:37:59 -0600 (CST)
+Received: from domain.com (domain.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id B77F255E04B8
+	for <user@domain.com>; Mon, 23 Jan 2015 22:37:57 -0600 (CST)
+Received: from domain.com (unknown [217.199.7.198])
+	by domain.com (Postfix) with ESMTP id 4CADB55E0481
+	for <user@domain.com>; Mon, 23 Jan 2015 22:37:57 -0600 (CST)
+Received: from sales.com ([193.92.159.123]) by domain.com with Microsoft SMTPSVC(6.0.3790.4675);
+	 Tue, 24 Jan 2015 05:30:48 +0100
+From: Western Union Support <suport@sales.com>
+To: user@domain.com
+Subject: *****SPAM***** You have 1 unread Message !
+Date: 24 Jan 2015 06:19:50 +0200
+Message-ID: <8997_1327379877_4user@domain.com>
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-OriginalArrivalTime: 24 Jan 2015 04:30:51.0523 (UTC) FILETIME=[F4255D30:01CCDA50]
+X-PMX-Version: 5.5.9.395186, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2012.1.24.42415
+X-PerlMx-Spam: Gauge=XXXXII, Probability=42%, Report='
+ PHISH_PHRASE_X2 1.5, PHISH_PHRASE_X3 1.5, CTYPE_JUST_HTML 0.848, SXL_IP_PROXY_RCVD 0.5, BODYTEXTH_SIZE_10000_LESS 0, BODY_SIZE_1100_1199 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, FROM_NAME_PHRASE 0, LINK_TO_IMAGE 0, RDNS_GENERIC_POOLED 0, RDNS_SUSP 0, RDNS_SUSP_GENERIC 0, __ANY_URI 0, __CP_NOT_1 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CTYPE_HTML 0, __CTYPE_IS_HTML 0, __FRAUD_WU_MONEY 0, __HAS_HTML 0, __HAS_MSGID 0, __HAS_XOAT 0, __MIME_HTML 0, __MIME_HTML_ONLY 0, __MIME_VERSION 0, __PHISH_FROM 0, __PHISH_FROM2 0, __PHISH_PHRASE1_D 0, __PHISH_PHRASE2 0, __PHISH_PHRASE4 0, __SANE_MSGID 0, __SPEAR_FROM_NAME_A 0, __TAG_EXISTS_HTML 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_NO_MAILTO 0, __URI_NS '
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 53
+
+Security Notice 
+
+Western Union Account: Suspended
+
+domain.com account access: Suspended
+
+This security notice is to advise you that a unsuccessful
+
+Password Reset was recently attempted on your domain.com account.
+
+If you are unaware of these changes, please restore your account
+
+using :
+
+<<link>>
+B/staticMid.d
+o?method=3Dload&countryCode;

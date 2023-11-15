@@ -1,0 +1,188 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Fri, 13 May
+ 2015 15:02:00 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Fri, 13 May 2015 
+ 15:01:57 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 914299351;
+ Fri, 13 May 2015 14:02:05 -0500
+X-Note-AR-ScanTimeLocal: 5/13/2016 2:02:05 PM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @customercare.expedia.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: United States->
+X-Note-Sending-IP: 216.251.112.210
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from domain.com ([216.251.112.210] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 140527732;
+ Fri, 13 May 2015 14:02:04 -0500
+Message-ID: <9b1e43$1user@domain.com>
+From: <teamagents@customercare.expedia.com>
+To: <user@domain.com>
+Date: Fri, 13 May 2015 12:01:52 -0700
+Subject: =?iso-8859-15?Q?Egencia=A0cancellation=A0confirmed=A0for=A0Jordan=A0Kaplan=A0-=A0Chicago,=A0IL,=A0May=A016,=A02016=A0-=A0(Itin=A0#=A023759844402)=A0?=
+Content-Type: text/html; charset="iso-8859-15"
+Content-Transfer-Encoding: quoted-printable
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+
+
+
+=09
+
+
+
+	Cancellation confirmed
+
+			Your reservation has been successfully canceled.
+
+Itinerary number: 23759844402
+
+
+
+=09
+
+
+
+ 1  Here is your cance=
+llation information
+
+	=09
+	=09
+	=09
+	=09
+	=09
+	=09
+		=09
+		=09
+           =20
+               =20
+           =20
+		=09
+		=09
+	=09
+
+
+
+
+Hotel canceled
+
+
+
+
+				=09
+				=09
+					Your reservation for Jordan Kaplan at The James Chicago, Chicago, IL 6=
+0611
+				=09
+         =20
+				=09
+					from 16-May-16 to 17-May-16 has been canceled.
+
+				=09
+				=09
+
+
+
+Egencia booking ID: 667976656
+
+		=09
+				Hotel reservation confirmation number: CI1TNZLV
+
+			=09
+		=09
+
+
+
+=09
+=09
+	=09
+		Refund details
+
+		=09
+				Lodging
+		=09
+			Refund Amount:
+
+        $0.00
+
+
+
+Cancellation penalty:
+
+				$0.00
+
+
+
+		=09
+
+
+
+				=09
+			Total refund:
+
+				$0.00
+
+
+
+(Please allow 7 days to process domain.com due.)
+
+				Please Note: This refund amount may have been reduced due to prior refu=
+nds associated with this=20
+					itinerary. To verify all prior refunds associated with this itinerary,=
+ please contact our Customer Care
+					group at +1 (800) 997-6494 or +1 (702) 939-2532.
+
+
+
+		=09
+
+
+
+				=09
+=09
+
+
+
+
+=09
+
+
+
+ 2  Additional informa=
+tion
+
+	=09
+		If you have any questions, please fill out our
+		Itinerary A=
+ssistance Form
+		to send us e-mail, or call +1 (800) 997-6494 or +1 (702) 939-2532=
+.
+	=09
+
+
+
+Thank you for choosing Egencia for your travel reservations.
+		We look forward to serving you again!
+
+=20
+

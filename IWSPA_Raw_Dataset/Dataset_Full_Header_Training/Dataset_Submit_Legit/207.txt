@@ -1,0 +1,39 @@
+Received: from USCCIMTA02.spe.sony.com (172.23.144.44) by
+ ussdixhub21.spe.sony.com (43.130.141.76) with Microsoft SMTP Server id
+ 8.3.342.0; Fri, 20 Jun 2015 06:26:29 -0700
+Received: from ussdixtran21.spe.sony.com ([43.130.141.78])          by
+ USCCIMTA02.spe.sony.com (Lotus Domino Release 6.5.6)          with ESMTP id
+ 2014062006262746-14081 ;          Fri, 20 Jun 2015 06:26:27 -0700 
+Received: from USSDIXMSG20.spe.sony.com ([43.130.141.72]) by
+ ussdixtran21.spe.sony.com ([43.130.141.78]) with mapi; Fri, 20 Jun 2015 
+ 06:26:26 -0700
+From: "Blake, Jeff" <Jeff_Blake@spe.sony.com>
+To: Grosses-ScreenGems <user@domain.com>
+Date: Fri, 20 Jun 2015 06:26:25 -0700
+Subject: Think Like a Man
+Thread-Topic: Think Like a Man
+Thread-Index: Ac+MizyQNdMhKZhkS4avaeZgHFJL6A==
+Message-ID: <8user@domain.com>
+Accept-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+acceptlanguage: en-US
+X-MIMETrack: Itemize by SMTP Server on USCCiMTA02/SVR/SPE(Release 6.5.6|March 06, 2007) at
+ 06/20/2014 06:26:27 AM,
+	Serialize by Router on USCCiMTA02/SVR/SPE(Release 6.5.6|March 06, 2007) at
+ 06/20/2014 06:26:29 AM,
+	Serialize complete at 06/20/2014 06:26:29 AM
+Content-Language: en-US
+Return-Path: user@domain.com
+Status: RO
+X-libpst-forensic-sender: /O=SONY/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=D62CE4EA-A7028968-88256620-5983A
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+It ended up @ 1.8mil last night for 1825 theaters playing late shows starting at 7pm . A great start vs our comps Ride Along ( 1.06mil starting at 8pm ) and TLAM #1 ( 550k starting at 12:01 ) .
+ Now the fun part . TLAM #1 did 12mil on Fri on the way to its 33.6mil opening . Ride Along did 14.4mil ( incl Thurs late shows ) on the way to its 41.5mil FSS portion of MLK weekend . 
+ We'll be comparing all day long and hopefully ending up in those very nice neighborhoods . 
+
+ Jersey Boys , by the way sat this round out and started at 12:01am doing @ 50k . 
+

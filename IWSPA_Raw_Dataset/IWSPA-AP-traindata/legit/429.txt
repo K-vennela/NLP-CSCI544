@@ -1,0 +1,27 @@
+HI Keith et al,
+Thanks for your message.
+This sounds fine. I do have to warn that with a full teaching courseload
+this semester, my own free time will necessarily be somewhat limited. Thus,
+Scott's involvement here will be key. 
+Scott has  been dealing w/ the new methodology and analyses, and hence my
+concern w/ any plans that expect new analyses w/ our old methodology. The
+code is not especially user friendly, though Tim is welcome to use it.
+Scott will be able to devote a decent share of his time to these activities
+during Tim's visit, though this will necessarily have to be split with time
+devoted to activities that Scott is explicitly supported for by our NOAA
+grant (ie, the development of a synthetic proxy network from model data,
+and wavelet-based calibration methods, as detailed in my previous email).
+So I'm sure we'll be able to find common ground. Tim will have free access
+to our data and codes, and can make the comparisons indicated below. We of
+course appreciate your willingness to make available to us the tree ring
+density data.
+It may be interesting to do a (highly preliminary!) analysis of both proxy
+datasets with our expectation maximization ridge regression scheme, and
+that would certainly fit in well w/ both our agendas (your NERC grant, and
+our NOAA grant).
+Hopefully, our 4-processor Dell server (running Linux) will be back up and
+running, so Scott can use our Sun server, while Tim will have the Dell
+server to himself if he needs it. 
+I hope the above all sounds good.
+Best regards,
+mike

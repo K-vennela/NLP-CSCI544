@@ -1,0 +1,58 @@
+Content-Type: text/plain; charset=UTF-8; format=flowed
+X-MIME-Autoconverted: from 8bit to quoted-printable by ueacanitdb01.uea.ac.uk id n457EfQ5005459
+<x-flowed>
+Phil,
+Do you know where this stands? The key things from the Peiser items are ...
+"Wang had been claiming the existence of such exonerating documents for 
+nearly a year, but he has not been able to produce them. Additionally, 
+there was a report published in 1991 (with a second version in 1997) 
+explicitly stating that no such documents exist. Moreover, the report 
+was published as part of the Department of Energy Carbon Dioxide 
+Research Program, and Wang was the Chief Scientist of that program."
+and
+"Wang had a co-worker in Britain. In Britain, the Freedom of Information 
+Act requires that data from publicly-funded research be made available. 
+I was able to get the data by requiring Wang’s co-worker to release it, 
+under British law. It was only then that I was able to confirm that Wang 
+had committed fraud."
+You are the co-worker, so you must have done something like provide
+Keenan with the DOE report that shows that there are no station records
+for 49 of the 84 stations. I presume Keenan therefore thinks that it was
+not possible to select stations on the basis of ...
+"... station histories: selected stations have relatively few, if any, 
+changes in instrumentation, location, or observation times"
+[THIS IS ITEM "X"]
+Of course, if the only stations used were ones from the 35 stations
+that *did* have station histories, then all could be OK. However, if 
+some of the stations used were from the remaining 49, then the above 
+selection method could not have been applied (but see below) -- unless 
+there are other "hard copy" station history data not in the DOE report 
+(but in China) that were used. From what Wang has said, if what he says 
+is true, the second possibility appears to be the case.
+What is the answer here?
+The next puzzle is why Wei-Chyung didn't make the hard copy information 
+available. Either it does not exist, or he thought it was too much 
+trouble to access and copy. My guess is that it does not exist -- if it
+did then why was it not in the DOE report? In support of this, it seems
+that there are other papers from 1991 and 1997 that show that the data
+do not exist. What are these papers? Do they really show this?
+Now my views. (1) I have always thought W-C W was a rather sloppy 
+scientist. I therefore would not be surprised if he screwed up here. But 
+ITEM X is in both the W-C W and Jones et al. papers -- so where does it 
+come from first? Were you taking W-C W on trust?
+(2) It also seems to me that the University at Albany has screwed up. To 
+accept a complaint from Keenan and not refer directly to the complaint
+and the complainant in its report really is asking for trouble.
+(3) At the very start it seems this could have been easily dispatched.
+ITEM X really should have been ...
+"Where possible, stations were chosen on the basis of station histories
+and/or local knowledge: selected stations have relatively few, if any, 
+changes in instrumentation, location, or observation times"
+Of course the real get out is the final "or". A station could be 
+selected if either it had relatively few "changes in instrumentation"
+OR "changes in location" OR "changes in observation times". Not all 
+three, simply any one of the three. One could argue about the science 
+here -- it would be better to have all three -- but this is not what
+the statement says.
+Why, why, why did you and W-C W not simply say this right at the start?
+Perhaps it's not too late?

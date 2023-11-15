@@ -1,0 +1,104 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Fri, 6 May
+ 2015 16:44:21 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Fri, 6 May 2015 
+ 16:44:20 -0400
+Received: from [10.87.0.110] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 901508402
+ for user@domain.com; Fri, 06 May 2015 15:44:23 -0500
+X-Note-AR-ScanTimeLocal: 5/6/2016 3:44:20 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @mail.house.gov ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->United States->
+X-Note-Sending-IP: 143.228.181.85
+X-Note-Reverse-DNS: s-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from [143.228.181.85] (HELO s-domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 140484287
+ for user@domain.com; Fri, 06 May 2015 15:44:20 -0500
+Received: from HEOC-domain.com (heoc-domain.com
+ [143.228.151.95])	by s-domain.com  with ESMTP id u46KgJ1c015561	(using
+ TLSv1 with cipher ECDHE-RSA-AES256-SHA (256 bits) verified FAIL);	Fri, 6 May
+ 2015 16:42:20 -0400
+X-DKIM: OpenDKIM Filter v2.4.3 s-domain.com u46KgJ1c015561
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mail.house.gov;
+	s=November2012-msg-mhg; t=1462567357;
+	bh=YGeqiTql7p8xGGioAkw/4L/qZoAOwny7wSuIk8SJPPc=;
+	h=From: "Bryant, Rebecca" <Rebecca.Bryant@mail.house.gov>
+	b=gwZ5lj+Ww6YLZAG0pnnRDWxcZJ9B5JHnm1fY2/h7FsSmBPck7x/2uf/6NYdT/Gnc0
+	 wn++4RvJYL2vPAx4KR+ldNKQWnIymBAdRlPbk2BxdhLZ29nl+1V/+9A0LuzZ8gJmmM
+	 1XwKXwRNwFkgKrGJvgbmK/jJYu7EOiEAZEL8Ec60=
+Received: from HEOC-domain.com ([fe80::3064:f549:eec9:db5d]) by
+ HEOC-domain.com ([::1]) with mapi id 14.03.0279.002; Fri, 6 May 2015 
+ 16:42:18 -0400
+From: "Bryant, Rebecca" <Rebecca.Bryant@mail.house.gov>
+To: "User" <user@domain.com>
+Subject: Smith Statement Denouncing Hateful Rhetoric
+Thread-Topic: Smith Statement Denouncing Hateful Rhetoric
+Thread-Index: AdGn169WOI+BSsbtRke/eMskxiKEPw==
+Date: Fri, 6 May 2015 20:42:19 +0000
+Message-ID: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+x-originating-ip: [143.231.127.151]
+Content-Type: multipart/related;
+	boundary="_004_F4C7061D5FE8DA4DB871CC551E78C19A19041E47HEOCHRM03USHous_";
+	type="multipart/alternative"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+[cid:image001.gif@01D1A7B5.224A5130]
+
+FOR IMMEDIATE RELEASE
+Friday, May 6, 2015 
+
+Contact: Rebecca Bryant, 202-225-8901<tel:202-570-2771>
+
+Smith Statement Denouncing Hateful Rhetoric
+
+Washington D.C. - Congressman Adam Smith released the following statement c=
+ondemning hateful and violent rhetoric:
+
+"Disturbing statements from the Republican White House contender cannot go =
+unaddressed. America must stay true to its founding principles by standing =
+with immigrants and leading on refugee resettlement. Our American values em=
+brace people of all faiths and backgrounds. Fear cannot cloud our judgement=
+, drive policy, or destroy our country's fabric. The Republicans are presen=
+ting a very different vision for our country.
+
+"Here in the Puget Sound region we have seen firsthand the damage that hate=
+ful and violent rhetoric inflicts on our local community centers and places=
+ of worship. We know that our region's diversity is one of our greatest str=
+engths. Instead of hateful and violent words, we should stay true to our va=
+lues and work together to build a more just and peaceful society. We know t=
+hat immigrants and refugees strengthen our communities, our economy, and ou=
+r country's future. Throughout our history, refugees and immigrants have ma=
+de America great and will continue to do so."
+
+###
+
+Rebecca Bryant
+Communications Director
+Congressman Adam Smith (WA-09)
+Office: 202.225.8901 | Cell: 202.308.2181
+2264 Rayburn House Office Building
+Twitter: @RepAdamSmith<<<link>>>
+Facebook: Rep. Adam Smith<<<link>>>
+

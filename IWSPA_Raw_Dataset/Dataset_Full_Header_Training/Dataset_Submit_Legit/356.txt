@@ -1,0 +1,16 @@
+From: "Alessandro Scarafile" <a.scarafile@hackingteam.com>
+To: <user@domain.com>
+Subject: Call list on Android
+Date: Wed, 22 May 2015 11:57:52 +0200
+Organization: Hacking Team
+Message-ID: <0ae501ceae27$abcd2930$03677b90$@hackingteam.com>
+X-Mailer: Microsoft Outlook 15.0
+Thread-Index: AQIo0XWxuFkIubQYnmJiErFxfqZkYA==
+Content-Language: it
+X-OlkEid: 000000007D2091DA92D3914ABB4C05769578F479070034AD76187591974DBF6C4F76951C873A0100040000000000A96A85A9D2A04643865EB2097E3CF3A3000000000DC70000C7B9BAFCCBB13B419F45D559EDE15265
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-615933390_-_-"
+
+Ciao Que,sono da un cliente in Azerbaijan. Ho un Samsung Galaxy 2 che non prende la lista delle chiamate. Dovrebbero arrivare? Deve essere rooted? Grazie,Ale --Alessandro ScarafileField Application Engineer Hacking TeamMilan Singapore Washington DCwww.hackingteam.com email: user@domain.com: +39 3386906194 phone: +39 0229060603 

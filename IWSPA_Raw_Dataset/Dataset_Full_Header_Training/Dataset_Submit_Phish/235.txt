@@ -1,0 +1,149 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id 3E5EF4688C
+	for <user@domain.com>; Thu, 16 Aug 2015 19:24:44 -0400 (EDT)
+Received: from domain.com (bio.hgy.es [193.146.180.21])
+	by domain.com (Postfix) with ESMTP id 9B7CB131FB49
+	for <user@domain.com>; Thu, 16 Aug 2015 19:24:42 -0400 (EDT)
+Received: by domain.com (Postfix)
+	id 595201C429; Fri, 17 Aug 2015 01:24:33 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [193.146.180.90])
+	by domain.com (Postfix) with ESMTP id 854CA1BF49
+	for <user@domain.com>; Fri, 17 Aug 2015 01:24:31 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 1D6628A5
+	for <user@domain.com>; Fri, 17 Aug 2015 01:24:31 +0200 (CEST)
+X-Quarantine-ID: <bZTs5WfDF+Mz>
+X-Virus-Scanned: Debian amavisd-new at domain.com
+X-Spam-Flag: YES
+X-Spam-Score: 19.621
+X-Spam-Level: *******************
+X-Spam-Status: Yes, score=19.621 tagged_above=0 required=5
+	tests=[BAYES_50=0.001, HTML_MESSAGE=0.001,
+	HTML_MIME_NO_HTML_TAG=1.082, MIME_HTML_ONLY=0.001,
+	NORMAL_HTTP_TO_IP=0.175, NO_REAL_NAME=0.961,
+	RAZOR2_CF_RANGE_51_100=0.5, RAZOR2_CF_RANGE_E4_51_100=1.5,
+	RAZOR2_CHECK=12, REPLY_TO_EMPTY=0.6, URIBL_PH_SURBL=2.8]
+Received: from domain.com ([193.146.180.21])
+	by localhost (domain.com [193.146.180.108]) (amavisd-new, port 10024)
+	with ESMTP id bZTs5WfDF+Mz for <user@domain.com>;
+	Fri, 17 Aug 2015 01:24:26 +0200 (CEST)
+Received: from domain.com (domain.com [72.29.65.181])
+	by domain.com (Postfix) with ESMTP id 26A4E1BF49
+	for <user@domain.com>; Fri, 17 Aug 2015 01:24:25 +0200 (CEST)
+Received: from nobody by domain.com with local (Exim 4.63)
+	(envelope-from <user@domain.com>)
+	id 1ILoh5-0000uC-Ag
+	for user@domain.com; Thu, 16 Aug 2015 19:23:59 -0400
+To: user@domain.com
+Subject: ***SPAM*** Question from eBay member
+From: <member@ebay.com>
+Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Message-Id: <user@domain.com>
+Date: Thu, 16 Aug 2015 19:23:59 -0400
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - domain.com
+X-AntiAbuse: Original Domain - domain.com
+X-AntiAbuse: Originator/Caller UID/GID - [99 99] / [47 12]
+X-AntiAbuse: Sender Address Domain - domain.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+Content-Length: 17715
+Lines: 263
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 28
+
+ #obmessage #message #obmessage .SectionTitle {font-size: small; font-family: arial, sans-serif; font-weight:bold }
+  #obmessage #message #obmessage .SmallTitle {font-size: x-small; font-family: arial, sans-serif; font-weight:bold }
+  #obmessage #message #obmessage .SectionBody {font-size: x-small; font-family: arial, sans-serif}
+  #obmessage #message #obmessage .DetailTable, #message .DetailTable th {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal }
+  #obmessage #message #obmessage .Title {font-size: medium; font-family: verdana, arial, sans-serif}
+  #obmessage #message #obmessage .BodyFont {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal}
+  #obmessage #message #obmessage .BodyFontStrong {font-size: 10 pt; font-family: arial, sans-serif; font-weight:bold}
+  #obmessage #message #obmessage .SmallBody {font-size: xx-small; font-family: arial, sans-serif; font-weight:normal; margin-top: 8 px;  margin-bottom: 6 px}
+  #obmessage #message #obmessage .Separator { COLOR: #CCCCCC; height: 1px}
+  #obmessage #message #obmessage .HighlightedSeparator { COLOR: #9999cc; height: 1px}
+  #obmessage #message #obmessage .FooterSeparator { COLOR: #CCCCCC; height: 1px}
+  #obmessage #message #obmessage .Footer, #message .Footer p {font-size: xx-small; font-family:arial, sans-serif; color:#666666; margin-top: 2 px;  margin-bottom: 8 px}
+  #obmessage #message #obmessage .SmallPara, #message .SmallParap {margin-top: 8 px;  margin-bottom: 6 px}
+
+ #obmessage #message #obmessage .ItemTitle {font-size: 10pt; font-family: arial, sans-serif; font-weight:bold }
+  #obmessage #message #obmessage .sectiontitle{font-size:small;font-weight:bold;}
+  #obmessage #message #obmessage .pagetitle {font-size:medium;font-weight:bold;}
+
+eBay sent this message to tommylong(speedtechcomputers).
+Your registered name is included to show this message originated from eBay. Learn more. 
+
+Question about Item -- Respond Now
+
+eBay sent this message on behalf of an eBay member via My Messages. Responses sent using email will go to the eBay member directly and will include your email address. Click the Respond Now button below to send your response via My Messages (your email address will not be included). 
+
+Question from speedtechcomputers
+
+About This Member
+
+speedtechcomputers ( 651) 
+
+Positive Feedback:
+99.7% Positive
+
+Member Since:
+Mar-22-04
+
+Location:
+United States
+
+Registered On:
+domain.com
+
+I sent you the money , where's the package ? You promised that after i send the money you send the goods asap .Is this a fraud? Please let me know! 
+Should I contact the autorities ? 
+
+Respond to this question in My Messages. 
+
+Item Details 
+
+Item number:
+6877317678
+
+End date:
+AUG-04-0716:37:03 PST 
+
+View item description:
+
+<<link>>:B:AAQ:US:1
+
+Thank you for using eBay!
+
+<<link>>
+
+Marketplace Safety Tip 
+
+Always remember to complete your transactions on eBay - it's the safer way to trade.
+
+Is this message an offer to buy your item directly through email without winning the item on eBay? If so, please help make the eBay marketplace safer by reporting it to us. These "outside of eBay" transactions may be unsafe and are against eBay policy. Learn more about trading safely. 
+
+Is this email inappropriate? Does it violate eBay policy? Help protect the community by reporting it. 
+
+Learn how you can protect yourself from spoof (fake) emails at:
+<<link>> 
+
+This eBay notice was sent user@domain.com onbehalf of another eBay member through the eBay platform and in accordance with our Privacy Policy. If you would like to receive this email in text format, change your notification preferences. 
+
+See our Privacy Policy and User Agreement if you have questions about eBay's communication policies.
+Privacy Policy: <<link>>
+User Agreement: <<link>> 
+
+Copyright 2015 eBay, Inc. All Rights Reserved.
+Designated trademarks and brands are the property of their respective owners.
+eBay and the eBay logo are registered trademarks or trademarks of eBay, Inc.
+eBay is located at 2015 Hamilton Avenue, San Jose, CA 95125. 

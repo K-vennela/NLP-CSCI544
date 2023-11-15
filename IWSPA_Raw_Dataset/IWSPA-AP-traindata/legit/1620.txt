@@ -1,0 +1,27 @@
+<x-flowed>
+Dear Keith,
+you've done a great job on the touchy subject of the last millennium, 
+which is central to our whole chapter.
+My comments to that are threefold:
+(1) If you could shorten the text somewhat, it could become more powerful
+(2) Some small edits & comments are in the attached doc
+(3) I propose some improvements to the figures as follows.
+- Fig 1a the land temps seem to go off plot, temperature scale needs to 
+be extended
+- we need a break between panels a and the rest, since it's a different 
+time scale on the x axis
+- Fig 1c also has one curve going off the top
+- Panels 1b-d might run the time axis up to 2010 or so, else the 
+important rise at the end is hidden in the tick-marks and less obvious 
+than it should be
+- the legends need to say what the baseline period (zero line of y-axis) 
+is (hard to find this in the axis label)
+- this baseline should be the same for all curves, i.e. 1961-1990. Fig 
+2d says 1901-1960 - it's not ideal to have a different one, as compared 
+to Fig 1. Also, is it true? Surely the Storch curve is not shown 
+relative to this baseline, it's way above it. Aligning it like this 
+could lead to the dangerous misunderstanding that Storch suggests a much 
+warmer medieval time compared to everyone else, which of course is not 
+the case.
+I hope this helps.
+Cheers, Stefan

@@ -1,0 +1,122 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 10 May
+ 2015 14:12:08 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 10 May 2015 
+ 14:12:07 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 907275815
+ for user@domain.com; Tue, 10 May 2015 13:12:13 -0500
+X-Note-AR-ScanTimeLocal: 5/10/2016 1:12:13 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:192.82.209.160 DOM:domain.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-430/SG:5 5/10/2016 1:11:22 PM
+X-GBUdb-Analysis: 0, 192.82.209.160, Ugly c=0.41843 p=-0.655172 Source Normal
+X-Signature-Violations: 0-0-0-14866-c
+X-Note-419: 15.6239 ms. Fail:1 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:1-1324/SG:1 5/10/2016 1:12:05 PM
+X-Warn: SPANISH-CHR
+X-Warn: OPTOUT
+X-Warn: SHORTURL Failed URIBINARY Code: Yml0Lmx5
+X-Warn: WEIGHT10
+X-Note: Spam Tests Failed: SPANISH-CHR, OPTOUT, SHORTURL, WEIGHT10
+X-Country-Path: PRIVATE->United States->
+X-Note-Sending-IP: 192.82.209.160
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G350 G376 G387 G399 G407 G583 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from domain.com ([192.82.209.160] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 138071133
+ for user@domain.com; Tue, 10 May 2015 13:12:13 -0500
+Return-Path: <user@domain.com>
+DKIM-Signature: v=1; a=rsa-sha1; d=domain.com; s=ngpweb3; c=simple/simple;
+	q=dns/txt; user@domain.com; t=1462903927;
+	h=Sender:From: =?utf-8?B?Q3Jpc3TDs2JhbCBBbGV4?= <info@latinovictory.us>
+	Content-Type;
+	bh=g0tDGXWhwwXHdPvwOkUPrgho4Us=;
+	b=4PoRVE/SIRNpwcKLukeq6czdviJ4HRtWlE6PkOTp5lrKvk4rhyXDRYa7z0h0wRaO
+	5+QsflXWd2w+qiFVa85jRjCaSVmuEazPlB264BY3EPQHwxIX99D+L3MCfk8ol7Zh
+	NbScsIlOVEgtDnBzfHvUXWARW7ROHdrMkQhfnKzhIVQ=;
+X-MSFBL: qa7cnIwGtgco6wFp61/+yZkyu8nnMIE+WzQVSD4M2/0=|eyJnIjoiZGVmYXVsdGd
+	yb3VwMDIiLCJiIjoibWFpbG91dDc5NiIsInUiOiJib3VuY2VfMjUwMDAwMDE4MTg
+	wOTgzM19wb2QxMiIsInIiOiJtaXJhbmRhbEBkbmMub3JnIn0=
+Received: from [10.11.74.252] ([10.11.74.252:58909] helo=NSV11OBMAIL1202)	by
+ domain.com (envelope-from
+ <user@domain.com>)	(ecelerity 4.2.1.51032
+ r(Core:4.2.1.4)) with ESMTP	id 4F/B2-09576-77422375; Tue, 10 May 2015 
+ 14:12:07 -0400
+Sender: =?UTF-8?B?Q3Jpc3TDs2JhbCBBbGV4?= <user@domain.com>
+X-Binding: default
+Reply-To: <user@domain.com>
+From: =?utf-8?B?Q3Jpc3TDs2JhbCBBbGV4?= <info@latinovictory.us>
+To: User <user@domain.com>
+Message-ID: <user@domain.com>
+Date: Tue, 10 May 2015 14:11:37 -0400
+Subject: You could feel the energy in the room
+Content-Type: multipart/alternative;
+	boundary="----97D868E66D7448A484B991CBC3CD1418"
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+User,
+
+Last Wednesday night, I could feel the energy in the room and from thos=
+e who were following us online=2E It was a packed theatre, and we got #=
+LatinoTalks2016 trending on Twitter! On behalf of our founders, Eva Lon=
+goria and Henry R=2E Mu=C3=B1oz III, a sincere thanks to everyone who a=
+ttended and watched our Facebook livestream: <<link>>
+
+Our speakers spoke passionately about our community=E2=80=99s influence=
+ and Chef Jos=C3=A9 Andr=C3=A9s said it best -- =E2=80=9CWe all have po=
+wer=2E We just need to believe [it]=2E If you can influence one person =
+to go vote in this election, it is one more vote we will get for immigr=
+ation reform and support for Latino issues=2E=E2=80=9D
+
+Can you help us reach more Latinos by chipping in $5 today: <<link>>
+ly/1satqhM
+
+As the presidential race continues, the presumed GOP nominee=E2=80=99s =
+platform remains loaded with anti-Latino and anti-immigrant rhetoric=2E=
+ It is of utmost urgency that we all use our voices to push back=2E=C2=A0
+
+Latino Victory=E2=80=99s National co-chair, Melissa Mark-Viverito, made=
+ it very clear -- =E2=80=9CThis election cycle is critically important,=
+ and we need to be involved, engaged to go to the voting booths; to reg=
+ister people to vote and to really mobilize=2E=E2=80=9D
+
+We are six months out from the general election and moving full speed a=
+head supporting candidates, registering new Latino voters, engaging and=
+ mobilizing the community=2E=C2=A0
+
+I hope we can count on your help with a $5 contribution today: <<link>>
+it=2Ely/1satqhM
+
+Saludos,
+Crist=C3=B3bal=C2=A0
+
+Crist=C3=B3bal Alex
+President
+Latino Victory Project
+
+Paid for by the Latino Victory Project, 700 14th Street NW, Washington,=
+ DC, 20005=2E
+
+Latino Victory Project
+700 14th Street NW
+Washington DC 20005
+
+If you believe you received this message in error or wish to no longer =
+receive email from us, please <<link>>
+18980608/-2935792134296369152=2E

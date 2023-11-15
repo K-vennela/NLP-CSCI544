@@ -1,0 +1,24 @@
+Neil,
+Just to reiterate David's points, I'm hoping that IPCC will stick with 1961-90.
+The issue of confusing users/media with new anomalies from a
+different base period is the key one in my mind. Arguments about
+the 1990s being better observed than the 1960s don't hold too much
+water with me.
+There is some discussion of going to 1981-2000 to help the modelling
+chapters. If we do this it will be a bit of a bodge as it will be hard to do
+things properly for the surface temp and precip as we'd lose loads of
+stations with long records that would then have incomplete normals.
+If we do we will likely achieve it by rezeroing series and maps in
+an ad hoc way.
+There won't be any move by IPCC to go for 1971-2000, as it won't
+help with satellite series or the models.  1981-2000 helps with MSU
+series and the much better Reanalyses and also globally-complete
+SST.
+20 years (1981-2000) isn't 30 years, but the rationale for 30 years
+isn't that compelling. The original argument was for 35 years around
+1900 because Bruckner found 35 cycles in some west Russian
+lakes (hence periods like 1881-1915). This went to 30 as it
+easier to compute.
+Personally I don't want to change the base period till after I retire !
+Cheers
+Phil

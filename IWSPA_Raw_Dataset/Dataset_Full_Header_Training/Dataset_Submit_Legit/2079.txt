@@ -1,0 +1,56 @@
+Received: from domain.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Wed, 18 Jun 2015 15:13:50 +0200
+Received: from mail.hackingteam.it (unknown [192.168.100.50])	by
+ domain.com (Postfix) with ESMTP id 31F23628C5	for
+ <user@domain.com>; Wed, 18 Jun 2015 14:01:30 +0100 (BST)
+Received: by mail.hackingteam.it (Postfix)	id 674D6B6603C; Wed, 18 Jun 2015 
+ 15:13:50 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from EmadPC (unknown [192.168.1.186])	(using TLSv1 with cipher
+ AES128-SHA (128/128 bits))	(No client certificate requested)	by
+ mail.hackingteam.it (Postfix) with ESMTPSA id 55121B6600D;	Wed, 18 Jun 2015 
+ 15:13:50 +0200 (CEST)
+From: Emad Shehata <e.shehata@hackingteam.it>
+To: 'Antonella Capaldo' <user@domain.com>, 'Emad Shehata'
+	<user@domain.com>, <user@domain.com>
+CC: 'Marco Bettini' <user@domain.com>
+References: <009201cf8ae9$19119730$4b34c590$@user@domain.com> <014d01cf8af5$5bf02880$13d07980$@user@domain.com>
+In-Reply-To: <014d01cf8af5$5bf02880$13d07980$@user@domain.com>
+Subject: R: act worker technical support
+Date: Wed, 18 Jun 2015 15:13:51 +0200
+Message-ID: <012b01cf8af7$25c00490$71400db0$@user@domain.com>
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: Ac+K46eIE/LcUlCRRjOgiK0qEYqfsQAA+7bAAABREmAAAxncsAAAd7Zg
+Content-Language: it
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1505733112_-_-"
+
+Grazie  Da: Antonella Capaldo [mailto:user@domain.com] 
+Inviato: mercoledì 18 giugno 2015 15:01
+A: 'Emad Shehata'; user@domain.com
+Cc: 'Marco Bettini'
+Oggetto: R: act worker technical support Ciao Emad, il WAYBILL relativo alla tua spedizione è il seguente: 4371016635 (DHL) ciao  Antonella CapaldoAdministrative Support Hacking Team
+Milan Singapore Washington domain.com
+email: user@domain.com:+39 3667216471
+phone: +39 0229060603   Da: Emad Shehata [mailto:user@domain.com] 
+Inviato: mercoledì 18 giugno 2015 13:33
+A: user@domain.com
+Cc: 'Marco Bettini'
+Oggetto: I: act worker technical support Cara Antonella, ti ho lasciato, all’interno di una busta davanti alla tua console, l’originale di quanto in allegato.Da spedire con DHL all’indirizzo che trovi su carta sulla busta, che qui ti ri-allego. Fammi sapere AWB number della spedizione per piacere.Un abbraccio  Da: Emad Shehata [mailto:user@domain.com] 
+Inviato: mercoledì 18 giugno 2015 13:24
+A: 'Astana Team'; 'Emad Shehata'
+Cc: 'amministrazione'; 'Marco Bettini'
+Oggetto: R: act worker technical support Dear Marat, pls find attached the act  signed in refer to the Invoice - 024_2014 - SIS of KNB. It will be sent to you by post as well in a few hours. Let me have the swift copy of the payment of this invoice and the invoice of the Training.Best regards  Da: Astana Team [mailto:user@domain.com] 
+Inviato: mercoledì 18 giugno 2015 12:54
+A: Emad Shehata
+Oggetto: act worker technical support Dear Emad!
+This Marat. Your offer I got. Management now sees it. 
+Sends you certificate of completion for technical support. it must sign and return to us. request when Mr. D.Vinsenzetti will not let the sign puts date. This act is necessary for financiers to pay 33,750 euros. Invoice I gave them.To expedite payment can send the scanned document. And the original mailed.
+Invoice for 5000 euros transferred financiers. How will I take payment has them and send you a confirmation.Kind regards

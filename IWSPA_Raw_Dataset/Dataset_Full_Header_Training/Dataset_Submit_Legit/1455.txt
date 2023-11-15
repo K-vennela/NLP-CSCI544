@@ -1,0 +1,100 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 26 Apr
+ 2015 10:49:25 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 26 Apr 2015 
+ 10:49:20 -0400
+Received: from [10.87.0.110] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 880342894;
+ Tue, 26 Apr 2015 09:49:26 -0500
+X-Note-AR-ScanTimeLocal: 4/26/2016 9:49:26 AM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @domain.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: Canada->PRIVATE->United States->
+X-Note-Sending-IP: 66.151.182.17
+X-Note-Reverse-DNS: mta-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from [66.151.182.17] (HELO mta-domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 138300366;
+ Tue, 26 Apr 2015 09:49:26 -0500
+Received: from domain.com
+ (domain.com [10.0.180.1])	by
+ mta-domain.com (Postfix) with ESMTP id 3qvQwM4s67zTQw3;
+	Tue, 26 Apr 2015 10:49:23 -0400 (EDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=domain.com; s=bsdkey; t=1461682163;
+	bh=RTx3C5Sd+Eyxx3m7M6jf5XwkJamF7awEym1dW80goiU=;
+	h=Date:To:From: Contribution <postmaster@my.democrats.org>
+	b=GKjZjd2jM6YkmBbdf1ItDgsM8jtUkCWOTFgf38gGnKW+8+klASfIoXLTAqJ9yhSGL
+	 xh/fbI+9GPDNE/d8H5dKgc3bpjt2LfZiXafMsNH5tcdQF11gi4I/4PmvNf89J1OF0I
+	 782AidkGo54yG5HumBmkxaa4NRkhaI4ZtOcAiFWY=
+Received: from phpmailer ([70.29.102.133]) 	by domain.com
+ with HTTP (PHPMailer);	Tue, 26 Apr 2015 10:49:23 -0400
+Date: Tue, 26 Apr 2015 10:49:23 -0400
+To: <user@domain.com>, <user@domain.com>, <user@domain.com>
+From: Contribution <postmaster@my.democrats.org>
+Subject: Contribution: Donate to help Democrats (new abroad) / Dunay Suleiman Wood / 10.00 USD
+Message-ID: <7user@domain.com>
+X-Mailer: PHPMailer [version 1.71-blue_mailer]
+X-blue_mailer-http_host: my.democrats.org
+X-blue_mailer-history_ids: 29690445 29690446 29690447
+Content-Type: multipart/alternative;
+	boundary="b1_7d8d1435b149cb5be8541feddc3e23d0"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+CONTRIBUTION DATA
+-----------------
+            Page: Donate to help Democrats (new abroad)
+            Type: One-time
+    Total Amount: $10.00
+      First Name: Dunay
+       Last Name: Suleiman Wood
+         Address: 119 Henderson Avenue
+                  Thornhill, Ontario L3T2L3
+                  CA
+           Phone: 90457718368
+           Email: user@domain.com
+        Employer: self employed
+Employer Address: 
+                  ,  
+                  US
+      Occupation: Puppeteer
+    Payment Type: Visa
+       Account #: 0015
+   Transaction #: %%TransactionId%%
+       User Id #: %%UserId%%
+Contribution Key: IHSzXba124aUl225Iw
+
+COMPLIANCE DATA
+------------------------------
+Check this box to confirm that the following statements are true and accurate:  I am a United States citizen or a permanent resident alien.  This contribution is not made from the general treasury funds of a corporation, labor organization or national bank. This contribution is not made from the treasury of an entity or person who is a federal contractor. This contribution is not made from the funds of a federally registered foreign agent. I am not a minor under the age of 16. The funds I am donating are not being provided to me by another person or entity for the purpose of making this contribution.: 1
+
+CUSTOM FIELD DATA
+------------------------------
+(Section header: "Additional Information")
+Please enter your US Passport # or Green card # below: 530820378
+
+GENERAL INFORMATION
+-------------------
+      domain.com Date: Tue, 26 Apr 2015 10:47:57 -0400
+           Status: Under Review
+Client IP Address: 70.29.102.133
+   Client Browser: Mozilla/5.0 (Windows NT 10.0; WOW64) domain.com/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36
+

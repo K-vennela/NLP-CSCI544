@@ -1,0 +1,40 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id 80D1246878
+	for <user@domain.com>; Wed,  4 Mar 2015 19:59:50 -0500 (EST)
+X-Greylist: delayed 10890 seconds by postgrey-1.27 at domain.com; Wed, 04 Mar 2015 19:59:50 EST
+Received: from domain.com (domain.com [12.162.128.20])
+	by domain.com (Postfix) with ESMTP id 53637131F78F
+	for <user@domain.com>; Wed,  4 Mar 2015 19:59:50 -0500 (EST)
+Received: from domain.com ([12.162.130.3]) by domain.com
+          (Netscape Messaging Server 3.5)  with ESMTP id 338
+          for <user@domain.com>; Wed, 4 Mar 2015 15:58:17 -0600
+Received: by domain.com with MERCUR Mailserver (v4.02.30 ODUtMjA0OS01MTMy) for <user@domain.com>; Wed, 4 Mar 2015 15:57:05 -0600
+Reply-To: <user@domain.com>
+From: "Chase"<chasesurvey@chase.com>
+Subject: Spring Survey
+Date: Wed, 4 Mar 2015 17:05:37 -0500
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+To: <user@domain.com>
+Message-Id: <09030415570510200@domain.com>
+Content-Length: 339
+Lines: 5
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1002
+
+You have been selected to access the JPMorgan Chase & Co Spring Survey and win a $100.00 in your account. 
+Please click here and complete the form 
+to claim your reward. Thank you. 
+This is an automated message. Please don't reply. Message 
+Id:0018212hhh2-jpmrgchs.

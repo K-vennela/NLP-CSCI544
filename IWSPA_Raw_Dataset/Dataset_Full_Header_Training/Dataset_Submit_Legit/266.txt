@@ -1,0 +1,83 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 18 May
+ 2015 16:11:52 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 18 May 2015 
+ 16:11:49 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 922706284
+ for user@domain.com; Wed, 18 May 2015 15:11:59 -0500
+X-Note-AR-ScanTimeLocal: 5/18/2016 3:11:59 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:69.163.253.135 DOM:tillis.com ADDR:user@domain.com
+X-Note: SPF: None
+X-Note: ICH-CT/SI:0-782/SG:1 5/18/2016 3:11:25 PM
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-400/SG:8 5/18/2016 3:11:25 PM
+X-GBUdb-Analysis: 0, 69.163.253.135, Ugly c=0.75931 p=-0.762776 Source Normal
+X-Signature-Violations: 0-0-0-32767-c
+X-Note-419: 15.6213 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/18/2016 3:11:47 PM
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->LOCAL->United States->
+X-Note-Sending-IP: 69.163.253.135
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G407 G419 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from homiemail-domain.com ([69.163.253.135] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 141371366
+ for user@domain.com; Wed, 18 May 2015 15:11:58 -0500
+Received: from homiemail-domain.com (localhost [127.0.0.1])	by
+ homiemail-domain.com (Postfix) with ESMTP id 59923360072	for
+ <user@domain.com>; Wed, 18 May 2015 13:11:49 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=tillis.com; h=from
+	:content-type:subject:message-id:date:to:mime-version; s=
+	tillis.com; bh=NqvrxPPSUMt91Mt9DcLfySI5S9Q=; b=TfKsDFX+3CwBJRLhL
+	SMJNYddGptp1sJJmj+Z7TKcQWK4TQvz/2eNfq9OlkxsOGlqva/H3ZYRB367+HWMG
+	gYYsxsrDFOCtBcVt5Xz+lnNvdP5NhqeRSRpaKCm4hCGJXB/Xwewb/9AuAfmuoDFy
+	tRf2dTDLVaBPgGIExYzG+O0aQw=
+Received: from [10.0.0.6] (c-69-245-250-154.domain.com
+ [69.245.250.154])	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)	(Authenticated sender: user@domain.com)
+	by homiemail-domain.com (Postfix) with ESMTPSA id A293D36007C	for
+ <user@domain.com>; Wed, 18 May 2015 13:11:48 -0700 (PDT)
+From: Harvey Tillis <harvey@tillis.com>
+Content-Type: multipart/alternative;
+	boundary="Apple-Mail=_0093BBE8-95FE-4D9E-848F-DC6CDE91F8C9"
+Subject: Thanks
+Message-ID: <user@domain.com>
+Date: Wed, 18 May 2015 15:11:46 -0500
+To: Jordan Kaplan <user@domain.com>
+X-Mailer: Apple Mail (2.3124)
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Hi,
+Had a great time with Nancy P at Joe=E2=80=99s in Chicago. Just wanted =
+to say, =E2=80=9CThanks.=E2=80=9D
+H
+
+.    .    .    .     .     .     .     .     .     .     .             =20=
+
+Harvey S. Tillis
+
+Editorial, Documentary & Event Photography
+Original Photo Art, Cards, Posters
+
+<<link>> <<<link>>>
+domain.com/harveytillis <<<link>>>
+domain.com/HarveyTillis/
+
+773-276-9320
+

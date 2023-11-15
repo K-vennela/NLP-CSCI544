@@ -1,0 +1,96 @@
+Received: from domain.com (146.215.230.105) by
+ domain.com (43.130.141.77) with Microsoft SMTP Server id
+ 8.3.342.0; Mon, 14 Apr 2015 14:24:33 -0700
+Received: from domain.com ([160.33.194.230])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s3ELOXW6025462	for <user@domain.com>; Mon, 14 Apr 2015 
+ 21:24:33 GMT
+Received: from mail47-va3-domain.com (mail-domain.com
+ [216.32.180.114])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s3ELOVMK025001
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Mon, 14 Apr 2015 21:24:31 GMT
+Received: from mail47-va3 (localhost [127.0.0.1])	by mail47-va3-domain.com
+ (Postfix) with ESMTP id 54A0A20076	for <user@domain.com>; Mon, 14 Apr
+ 2015 21:23:56 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:192.64.237.125;KIP:(null);UIP:(null);IPV:NLI;H:mx-directbrands-domain.com;RD:mx-directbrands-domain.com;EFVD:NLI
+X-SpamScore: 1
+X-BigFish: vps1(z579ehzc89bhe0eahd79ah758Ic857hc545Idbb0izz1f42h2148h1ee6h1de0h1fdah2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6h208chzz8275ch1d7338h1de098h1def03h17326ah1def87h8275bh1bc7b9h8275dh1defc1h1def86h1de097h186068h172c6ch1ce120h1a691ciz2fheh5fh839he5bh1288h12a5h137ah139eh13eah1441h14ddh1504h1537h162dh1631h1758h1898h18e1h1946h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1e23h1fe8h1ff5h20f0h2218h2216h226dh24afh2327h2336h2438h2461h2487h24d7h2516h2545h2565h25f6h2605h268bh26d3h214ai1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail47-va3: domain of domain.com designates 192.64.237.125 as permitted sender) client-ip=192.64.237.125; user@domain.com; helo=mx-directbrands-domain.com ;domain.com ;
+Received: from mail47-va3 (localhost.localdomain [127.0.0.1]) by mail47-va3
+ (MessageSwitch) id 1397510634612469_29493; Mon, 14 Apr 2015 21:23:54 +0000
+ (UTC)
+Received: from domain.com (unknown [10.7.14.249])	by
+ mail47-domain.com (Postfix) with ESMTP id 8B383100079	for
+ <user@domain.com>; Mon, 14 Apr 2015 21:23:54 +0000 (UTC)
+Received: from mx-directbrands-domain.com (192.64.237.125) by
+ domain.com (10.7.99.12) with Microsoft SMTP Server id
+ 14.16.227.3; Mon, 14 Apr 2015 21:23:54 +0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; s=mt; d=domain.com;
+ h=Date:From: Variety Breaking News <donotreply@variety.com>
+ bh=cSjTxy4We1IEhIpm/K50fnJ6RlY=;
+ b=dnpPBPVGVUoo3zaqkjG5QLQm8FeXYT7YMHFKWyJoIotptxXsmRBzMa7ij0ZO1E1JCDS9t+mKmHOe
+   ufS3zIBgo0MtXrMacW8WJnHMZy/U6XhC/g+RZzI7eEKwEdp8N+sRBlYVszuDUinP/mCRxXMn9f86
+   KvFqQbf1hfpVT7casx0=
+Received: from nyp1-p-p4321-prd-jma-22.sailthru.pvt (65.39.215.174) by
+ mx-directbrands-domain.com id h9h8t41qqbse for <user@domain.com>;
+ Mon, 14 Apr 2015 17:23:30 -0400 (envelope-from <user@domain.com>)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1397510679;
+	s=sailthru; d=variety.com;
+	h=Date:From: Variety Breaking News <donotreply@variety.com>
+	bh=xq1DbjIGbJ4VKn7fEI40yPIBepbcikD+5k1kpXsg2Mc=;
+	b=kpYcs1wi0bKtde73pnGhoV4zriRbRvJvEcQIGHMpqHLH57f3lF5XCKrpiSarcpX6
+	9s9fz1bKD15UNaXn5ayW3McpadoqdLvKkosJGk+0aN3ZkHDFDRIE0cvCRsh4Kbcn1pZ
+	YDVc5QyXmw6C2ZF1ZXP/kHAEobKcgnmo6Om9pET4=
+Date: Mon, 14 Apr 2015 17:24:39 -0400
+From: Variety Breaking News <donotreply@variety.com>
+To: <user@domain.com>
+Message-ID: <20140414212439.2572171.19043@domain.com>
+Subject: 'Midnight Rider' Investigation: Sheriff Will Leave Question of
+ Criminal Charges to D.A.
+Precedence: bulk
+X-TM-ID: 20140414212439.2572171.19043
+X-Info: Message sent by domain.com customer Variety
+X-Info: We do not domain.com unsolicited commercial email
+X-Info: Please report abuse by forwarding complete headers to
+X-Info: user@domain.com
+X-Mailer: domain.com
+X-JMailer: nyp1-p-p4321-prd-jma-22.sailthru.pvt
+X-IADB-IP: 65.39.215.25
+X-IADB-IP-REVERSE: 25.215.39.65
+X-IADB-URL: <<link>>
+X-Unsubscribe-Web: <<link>>
+List-Unsubscribe: <<<link>>>, <mailto:user@domain.com>
+X-rpcampaign: stcoy2572171
+Return-Path: user@domain.com
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+Wayne County Sheriff John Carter said that his office will not pursue their own criminal charges... 
+
+​ 
+
+Variety         
+
+Breaking News   
+
+Monday, April 14, 2014  
+
+​ 
+
+<<link>> 
+
+        'Midnight Rider' Investigation: Sheriff Will Leave Question of Criminal Charges to D.A.                 
+
+        Wayne County Sheriff John Carter said that his office will not pursue their own criminal charges stemming from the Feb. 21 train ...            
+        Full Story              
+
+
+
+
+Check out the redesigned Variety411      <<link>>         
+This email was sent to user@domain.com by Variety. To ensure delivery to your inbox (and no
+

@@ -1,0 +1,18 @@
+Content-Type: text/plain; charset=ISO-8859-1
+X-MIME-Autoconverted: from 8bit to quoted-printable by spdmraac.compuserve.com id QAA21095
+Dear everybody,
+I am still busy compiling the report from the kickoff meeting (and I
+also still await some input pieces from some of you...).
+For those of you who could not be there, let me just say that I
+enjoyed very much to see the group here, and to witness the really
+lively and productive discussions. Let's keep it that way.
+While U wait for the report - I would like to get you thinking about
+the project again by circulating the second draft of a small piece
+which is edging towards a working definition of vulnerability, mostly
+written by Richard and with input from Pete, Miguel and myself. All
+comments are welcome. This is not intended for publication of course,
+but it could be a start of something more substantial in due course.
+So please send me the elements still missing for the overall report,
+and comment to the four authors about the vulnerability piece.
+Best regards,
+Wolfgang

@@ -1,0 +1,147 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Fri, 20 May
+ 2015 13:08:51 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Fri, 20 May 2015 
+ 13:08:45 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 926701132;
+ Fri, 20 May 2015 12:08:42 -0500
+X-Note-AR-ScanTimeLocal: 5/20/2016 12:08:32 PM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: Too many policies to list
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @who.eop.gov ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->->->PRIVATE->United States->
+X-Note-Sending-IP: 214.3.115.10
+X-Note-Reverse-DNS: zeus.whmo.mil
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from [214.3.115.10] (HELO Augustus.whca.mil)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 139814768;
+ Fri, 20 May 2015 12:08:31 -0500
+Received: from CN399Exch1.whca.mil (cn399exch1.whca.mil [10.75.26.101])	by
+ Augustus.whca.mil with ESMTP id u4KH654i067428;	Fri, 20 May 2015 13:06:06
+ -0400 (EDT)
+Received: from CN399JRNL1.whca.mil (10.75.26.120) by CN399Exch1.whca.mil
+ (10.75.26.101) with Microsoft SMTP Server (TLS) id 15.0.1130.7; Fri, 20 May
+ 2015 13:05:36 -0400
+Received: from CN399Exch3.whca.mil (10.75.26.103) by CN399JRNL1.whca.mil
+ (10.75.26.120) with Microsoft SMTP Server (TLS) id 15.0.1130.7; Fri, 20 May
+ 2015 13:05:33 -0400
+Received: from CN399Exch3.whca.mil ([10.75.26.103]) by CN399Exch3.whca.mil
+ ([10.75.26.103]) with mapi id 15.00.1130.005; Fri, 20 May 2015 13:05:34 -0400
+From: "Cunnane, Pat EOP/WHO" <Patrick_Cunnane@who.eop.gov>
+To: "User" <user@domain.com>
+Subject: Daily Message Points -- May 20, 2015 
+Thread-Topic: Daily Message Points -- May 20, 2015 
+Thread-Index: AdGyua8NfsOpmCrRRCmTUOYXQHEBOQ==
+Date: Fri, 20 May 2015 17:05:33 +0000
+Message-ID: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-ms-exchange-transport-fromentityheader: Hosted
+x-originating-ip: [10.75.20.202]
+Content-Type: multipart/alternative;
+	boundary="_000_ee13ff7b3c5d442299951989f3c965e1CN399Exch3whcamil_"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Daily Message Points
+
+May 20, 2015 
+
+Zika
+
+*         Today, the President and Vice President received a briefing on th=
+e ongoing response to the Zika virus from members of his public health team=
+ including Secretary of Health and Human Services Sylvia Mathews Burwell, D=
+irector of NIH/NIAID Dr. Anthony Fauci, and Director of the Centers for Dis=
+ease Control and Prevention Dr. Tom Frieden.
+
+*         Following the meeting, the President highlighted the facts about =
+this disease and the ways it spreads and underscored that as summer approac=
+hes we need to step up our efforts to protect Americans, something the Pres=
+ident has long called for.
+
+*         Three months ago, he asked Congress to approve $1.9 billion in em=
+ergency funding to combat Zika.  $1.9 billion isn't an arbitrary number.  I=
+t's what public health experts consider necessary to fund things like mosqu=
+ito control, tracking the spread of the virus, accelerating new vaccines to=
+ market, and monitoring women and babies with the virus.
+
+*         The Republican Senate has only approved about half of that money.=
+  The Republican House has approved no new money, instead taking money from=
+ the funding we need to keep fighting Ebola - and that money will run out i=
+n September.
+
+*         As the President made clear, we cannot partially fight this disea=
+se - and Republicans in the House and Senate need to do their jobs. They ne=
+ed to get a bill to the President's desk.
+
+*         Every day Congress waits will have consequences.  Slower, less ac=
+curate diagnostic tests.  Delayed vaccines.  Weaker mosquito control effort=
+s.  It puts the American people at risk.
+
+*         The American people should expect their representatives to do the=
+ir jobs, and give our experts the resources they need to fight this disease=
+ and keep us safe.
+
+The President's Foreign Travel
+
+*         The President's trip to Vietnam and Japan - his 10th trip to Asia=
+ as President - provides a historic opportunity to further the progress in =
+U.S.-Vietnam relations and is another step forward in the President's Rebal=
+ance to the Asia-Pacific.
+
+*         In Vietnam, the President will focus on advancing our economic co=
+operation and trade. We anticipate the President will deliver a speech on U=
+.S.-Vietnam relations and the TPP and announce major commercial deals that =
+will help U.S. businesses.
+
+*         Maritime security, human rights, and people-to-people ties are al=
+so key components of the Vietnam trip.
+
+*         The President will domain.com Hanoi and Ho Chi Minh City. In Hanoi he =
+will have bilateral meetings with Vietnamese leaders and meet with Civil So=
+ciety representatives. He will also deliver remarks on U.S.-Vietnam relatio=
+ns at the National Convention Center. And in Ho Chi Minh City he will domain.com=
+ the Jade Pagoda and host a town hall with Young Southeast Asian Leaders (Y=
+SEALI) and meet with entrepreneurs.
+
+*         In Japan, the President will participate in his final G-7 domain.com =
+in Ise-Shima. This gathering of world leaders enables them to address a ran=
+ge of topics of mutual interest including the global economy, climate, fore=
+ign policy issues, trade, terrorism, migration flows, and the situation in =
+Ukraine.
+
+*         In addition to G-7 member nations, leaders from at least six addi=
+tional Asian nations will attend on the margins of the domain.com.
+
+*         The Administration is working to leverage the domain.com as a venue t=
+o advance our agenda on exchange rate commitments; economic support for Ira=
+q; implementation of the Paris climate agreements; and the Global Health Se=
+curity Agenda.
+
+*         The President will also domain.com Hiroshima and give brief remarks.
+
+###
+

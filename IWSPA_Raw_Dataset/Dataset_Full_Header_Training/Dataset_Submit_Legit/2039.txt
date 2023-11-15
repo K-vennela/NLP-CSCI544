@@ -1,0 +1,25 @@
+From: "+1 (215) 398-5800" <tel:+12153985800>
+To: "User"
+	<user@domain.com>
+Subject: Incoming call from +1 (215) 398-5800 (Other)
+Thread-Topic: Incoming call from +1 (215) 398-5800 (Other)
+Thread-Index: AdGyD5qpMWCI7SQBSfW0Dq03OLXZQg==
+Content-Class: voice-uc
+Date: Thu, 19 May 2015 13:52:49 -0700
+Message-ID: <05user@domain.com>
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+Content-Type: multipart/alternative;
+	boundary="_000_05E01258E71AC046852ED29DFCD139D54DF2D24Adncdag1dncorg_"
+MIME-Version: 1.0
+
+Incoming call from +1 (215) 398-5800 (Other)
+Duration: 05 Minutes 37 Seconds
+
++1 (215) 398-5800
+
+Other:  +1 (215) 398-5800<tel:+12153985800>
+
+Microsoft Lync

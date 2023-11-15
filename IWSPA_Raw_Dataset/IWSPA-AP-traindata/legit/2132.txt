@@ -1,0 +1,45 @@
+Dear Mike, (and interested colleagues)
+Given the list of people to whom you have chosen to circulate your message(s), we thought
+we should make a short, somewhat formal, response here.  I am happy to reserve my informal
+response until we are face to face! We did not respond earlier because we had more pressing
+tasks to deal with. This is not the place to go into a long or over-detailed response to
+all of your comments but a few brief remarks might help to clear up a couple of
+misconceptions.
+You consider our commentary on Ed and Jan's paper
+"more flawed than even the paper itself"
+on the basis that scaling the relationship between full Northern Hemisphere and
+extratropical Northern Hemisphere is *much* more problematic than even any of the seasonal
+issues we discuss.  In fact we did not do this.  The curve labelled Mann99 in our figure
+was, in fact, based on the average of only the land areas, north of 20 degrees N, extracted
+from your spatially-resolved reconstructions.  We then scaled it by calibration against the
+instrumental annual temperatures from the same region.  This is, just as you stress in your
+comments on the Esper et al. paper, what should have been done.  We think that this single
+point addresses virtually of all your concerns.  We can, of course, argue about what this
+means for the pre-1400 part of your reconstruction, when only 1 EOF was reconstructed, but
+the essential message is that we did our best to exclude the tropics (and the oceans too!)
+from your series so that it could more readily be compared with the other records.
+The fact that we have used only the extra-tropical land from your data is not clear from
+the text, so we can see why you may not have appreciated this, but we think you will
+concede that this fact negates much of what you say and that we acted "more correctly" than
+you realised.  Blame *Science* for being so mean with their space allocation if you want!
+Remember that this was an unrefereed piece and we felt justified in concentrating on one
+issue; that of the importance of the method of scaling and its effect on apparent
+"absolute" reconstruction levels.  In our draft, we went on to say that this was crucial
+for issues of simple model sensitivity studies and climate detection, citing the work of
+Tom Crowley and Myles Allen, but this fell foul of the editor's knife.
+You also express concerns about the calibration of Esper et al. (e.g., you say "if the
+authors had instead used the actual (unsmoothed) instrumental record for the extratropical
+northern hemisphere to scale their record, their reconstruction would be much closer to
+MBH99").
+This point is wholly consistent with our discussion in the perspective piece, and indeed we
+show that in absolute terms the records are closer when Esper et al. is calibrated using
+unsmoothed data  but since the variance is also reduced, the significance of the
+differences may be just as high.
+Finally, we have to say that we do not feel constrained in what we say to the media or
+write in the scientific or popular press, by what the sceptics will say or do with our
+results.  We can only strive to do our best and address the issues honestly.  Some
+"sceptics" have their own dishonest agenda - we have no doubt of that.  If you believe that
+I, or Tim, have any other objective but to be open and honest about the uncertainties in
+the climate change debate, then I am disappointed in you also.
+Best regards
+Keith (and Tim)

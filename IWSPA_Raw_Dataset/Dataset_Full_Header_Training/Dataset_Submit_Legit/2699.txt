@@ -1,0 +1,90 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Sat, 7 May
+ 2015 11:15:00 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Sat, 7 May 2015 
+ 11:14:59 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 902244346
+ for user@domain.com; Sat, 07 May 2015 10:14:53 -0500
+X-Note-AR-ScanTimeLocal: 5/7/2016 10:14:50 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @domain.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->PRIVATE->United States->
+X-Note-Sending-IP: 66.151.230.133
+X-Note-Reverse-DNS: mta-dock-front-14.domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mta-dock-front-14.domain.com ([66.151.230.133]
+ verified)  by domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS
+ id 137160919 for user@domain.com; Sat, 07 May 2015 10:14:50 -0500
+Received: from domain.com (unknown [10.0.200.157])	by
+ mta-dock-front-14.domain.com (Postfix) with ESMTP id
+ 3r2Byd4ktYz1Q64p	for <user@domain.com>; Sat,  7 May 2015 15:14:49 +0000
+ (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=democrats.org;
+	s=democratsorgkey; t=1462634089;
+	bh=ky1r7n/mvd0VwGTyZ5ul4vICHNF5YbTFE9F9hh5kmt8=;
+	h=Date:To:From: OrganizationHQ <democraticparty@democrats.org>
+	b=TuCNiKJH2I+NMFXH6EwHI+I/uvkvz7o+InXIN4eyv1Kqgh/GGrar68e6twTGKkdib
+	 MSm0beiNY4ZOGTO1IfRpYoJ1Acd5LMSVQe7Hjk4M+yKu0/9KUH8dkZ3IBhVFzVsvMG
+	 4+5T888MshceTIb1/lqvuTaxE9ns5Rla/33+q7AQ=
+Received: from phpmailer 	by domain.com with local
+ (PHPMailer);	Sat, 7 May 2015 11:14:49 -0400
+Date: Sat, 7 May 2015 11:14:49 -0400
+To: User <user@domain.com>
+From: OrganizationHQ <democraticparty@democrats.org>
+Reply-To: <user@domain.com>
+Subject: =?utf-8?Q?=F0=9F=8E=89_User, wish_FLOTUS_a_happy_Mother=E2=80=99s_Day_=F0=9F=8E=89?=
+Message-ID: <32user@domain.com>
+X-Mailer: PHPMailer [version 1.71-blue_mailer]
+X-maillist-id: ab1a7a3a7cf8fb29
+X-rpcampaign: rp_182849
+X-maillist-guid: AQtVPAIGV1VSUgNUBgZVWQVbAgs9WgxBA1dWAlp0UQoGS1lHBG1UBlYGCA
+List-Unsubscribe: <<<link>>>, <mailto:user@domain.com>
+Content-Type: multipart/alternative;
+	boundary="b1_32a06fb655332f232e5d54579f7cd4bc"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Wish the First Lady a happy Mother's Day:
+
+<<link>>
+
+**************************************************************
+Paid for by the Organization, <<link>>, =
+430 South Capitol Street SE, Washington DC 20003 and not authorized by any =
+candidate or candidate=E2=80=99s committee.
+**************************************************************
+
+This email was sent to user@domain.com
+If this isn't the best email address at which to reach you, update your =
+contact information at <<link>> Our =
+email list is the best way we have of staying in regular contact with =
+supporters like you across the country and letting you know about the work =
+President Obama and other Democrats are doing. domain.com =
+<<link>> to unsubscribe from our supporter =
+list. If you like staying in touch, but want to receive only the most =
+important messages, go here: =
+<<link>> Go here to unsubscribe =
+from our supporter list: <<link>>, but if you =
+leave, it will be harder for you to stay involved in the organization that =
+you've been such a critical part of. This organization is powered by you, =
+and we'd love to hear your ideas. Send us any comments, criticisms, or =
+feedback: <<link>>, or just =
+reply to this email! Thanks for supporting President Obama and other =
+Democrats.
+

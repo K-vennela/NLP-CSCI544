@@ -1,0 +1,26 @@
+Dear Mr. Matthews,
+I have not read the criticism on the website you refer to, but will add to Mike Mann's
+response in a small, but hopefully helpful, way.
+Comparison of the Mann and Jones proxy-based reconstruction with instrumental temperature
+data *is* a valid comparison to make, provided that the reconstruction is *calibrated* to
+represent the instrumental record and provided that the *uncertainties* in the calibration
+are taken into account when making the comparison.
+That is, after all, the purpose of calibration - to allow two different data sets to be
+compared!
+As is clear from their article, Mann and Jones do undertake a careful calibration and only
+make comparisons after the calibration, and their comparison figure includes their
+estimated uncertainty range.  Thus the conclusions they draw (regarding whether recent
+warming is unprecedented) are valid and are supported by their analysis.
+This does not mean that future work, perhaps using new proxy records or different methods
+for calibration or for estimating calibration uncertainties, will not change those
+conclusions.  But it remains true that their conclusions are supported by their analysis.
+As an example of a poor comparison, see the piece by Fred Pearce on page 5 of 12 July 2003
+issue of New Scientist.  This is a short news article about the Mann and Jones paper, and
+it unfortunately shows a comparison figure without the associated calibration
+uncertainties.  That is not a good comparison.  I mention this in case you were thinking of
+including a diagram in your article, perhaps showing the Mann and Jones results.  If you
+do, then it will only be valid for comparing the recent instrumental temperatures with the
+proxy-based reconstruction of earlier temperatures if the reconstruction uncertainties are
+included.  Try to avoid the mistake that Fred Pearce made.
+Regards
+Tim

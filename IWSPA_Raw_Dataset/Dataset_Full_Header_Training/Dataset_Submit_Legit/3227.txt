@@ -1,0 +1,153 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Mon, 25 Apr
+ 2015 15:20:30 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Mon, 25 Apr 2015 
+ 15:20:26 -0400
+Received: from [10.87.0.110] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 878877132;
+ Mon, 25 Apr 2015 14:20:20 -0500
+X-Note-AR-ScanTimeLocal: 4/25/2016 2:20:20 PM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: Too many policies to list
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @mail.house.gov ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->United States->
+X-Note-Sending-IP: 143.228.181.84
+X-Note-Reverse-DNS: s-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G282 G283 G294 G406 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from [143.228.181.84] (HELO s-domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 138155864;
+ Mon, 25 Apr 2015 14:20:19 -0500
+Received: from HEOC-domain.com (heoc-domain.com
+ [143.228.151.97])	by s-domain.com  with ESMTP id u3PJGYGb002309	(using
+ TLSv1 with cipher ECDHE-RSA-AES256-SHA (256 bits) verified FAIL);	Mon, 25 Apr
+ 2015 15:16:34 -0400
+X-DKIM: OpenDKIM Filter v2.4.3 s-domain.com u3PJGYGb002309
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mail.house.gov;
+	s=November2012-msg-mhg; t=1461611919;
+	bh=7Ooxff61YjXbeBG2zeN95pVKef4tOohJx4JOoyzzzTQ=;
+	h=From: Democratic Leader <Democratic.Leader@mail.house.gov>
+	b=TN8TFqmSmfIK9kGN+NplzC7Q4DxaUgQAgG+PUJRsm39reI/5L4hjz4t4kZEAFQDib
+	 Q5wOX6Q1v3/+SoXr83+ZfO+Vj9pmNcPy/D3/mpECK0wwVEMxskmpuBx4CdWdf6lmHm
+	 sM6DlBdoZ2Gwh3mmN4Eq7U7r3FhMj9YVgjYagyDI=
+Received: from HEOC-domain.com ([fe80::3064:f549:eec9:db5d]) by
+ HEOC-domain.com ([::1]) with mapi id 14.03.0279.002; Mon, 25 Apr 2015 
+ 15:16:27 -0400
+From: Democratic Leader <Democratic.Leader@mail.house.gov>
+Subject: PELOSI -- Statement on Introduction of Zika Virus Emergency
+ Supplemental Bill
+Thread-Topic: PELOSI -- Statement on Introduction of Zika Virus Emergency
+ Supplemental Bill
+Thread-Index: AdGfJmoF0R/j9HPURfye33BL67aTxg==
+Date: Mon, 25 Apr 2015 19:16:27 +0000
+Message-ID: <92user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+x-originating-ip: [143.231.232.245]
+Content-Type: multipart/related;
+	boundary="_004_92DB82FAAC4F7C4A830A863056BDCC2C23FB3635HEOCHRM03USHous_";
+	type="multipart/alternative"
+To: Undisclosed recipients:;
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+[cid:image001.jpg@01D00FCE.229082C0]<redir.aspx?REF=3DDOYkCb8UFzG07e1ze9j74=
+KkTozdgWjvlPHLcULIQWHvN9yg--2nTCAFodHRwOi8vd3d3LmRlbW9jcmF0aWNsZWFkZXIuZ292=
+Lw..>
+
+    April 25, 2015 
+
+Contact: Drew Hammill/Evangeline George
+
+202-226-7616
+
+Pelosi Statement on Introduction of Zika Virus Emergency Supplemental Bill
+
+Washington, D.C. =96 Democratic Leader Nancy Pelosi released the following =
+statement after Appropriations Ranking Member Nita Lowey, Labor-HHS Subcomm=
+ittee Ranking Member Rosa DeLauro and Legislative Branch Subcommittee Ranki=
+ng Member Debbie Wasserman Schultz introduced an emergency supplemental app=
+ropriations bill to address the Zika virus:
+
+=93Today, Democrats have introduced an emergency supplemental bill that wil=
+l provide the swift and decisive action needed to help protect American com=
+munities from the Zika virus this summer.  While Republicans inexplicably b=
+lock action to protect America=92s expectant mothers from Zika, Democrats a=
+re continuing to demand the robust emergency resources American families ne=
+ed.
+
+=93Twice, Republicans on the House Appropriations Committee have blocked em=
+ergency resources to fight the Zika virus =96 even voting down emergency re=
+sources on the same day the CDC confirmed that the Zika virus causes irreve=
+rsible brain defects.
+
+=93Republicans=92 inaction in the face of the threat that the Zika virus po=
+ses for millions of Americans this summer, including more than two million =
+pregnant women, could have devastating consequences. Democrats will continu=
+e to call on the Republican Congress to =91do your job=92 and stop standing=
+ in the way of protecting American communities.=94
+
+# # #
+
+________________________________
+Press Release Link:
+<<link>>
+domain.com<redir.aspx?REF=3DQA1aDqScDhfubYjFH43l0ejhc1QSkTeetJR10=
+OGOLLfN9yg--2nTCAFodHRwOi8vYXBwLmJyb250by5jb20vcHVibGljLz9xPXVsaW5rJmZuPUxp=
+bmsmc3NpZD0yNzE4NCZpZD0wbzAyazB0Y3B6bHU2ZWp4eDk4a3gybTl4dDF3YSZpZDI9aWczcDd=
+uaDJkcXUzOXJtajdzOTl1a24ycWpqYncmc3Vic2NyaWJlcl9pZD1iYXhjbWt6bnBpYXVuc2tkY2=
+J6ZHVkcG92cXR5YmxoJmRlbGl2ZXJ5X2lkPWNic2d0anVieGxjZXlqdWVnd3lxb21ndHVqYmZib=
+XAmdGlkPTMuYWpBLkNCaWpSUS5DazdBLlQ1Zm8uLkFScTlqdy5iLi5sLkEzLVcuYS5VUnhoN0Eu=
+VVJ4aDdBLlZPQzRHZw..> =96 Twitter<redir.aspx?REF=3DYL8UH367IT7qevPd4RGUcrj9=
+Yhi7MHQ2W6NyFpU-AX3N9yg--2nTCAFodHRwOi8vYXBwLmJyb250by5jb20vcHVibGljLz9xPXV=
+saW5rJmZuPUxpbmsmc3NpZD0yNzE4NCZpZD0wbzAyazB0Y3B6bHU2ZWp4eDk4a3gybTl4dDF3YS=
+ZpZDI9M2ZnanI0NjRkcGlxZDI3b2ZycXAxN3c1MjZmMWQmc3Vic2NyaWJlcl9pZD1iYXhjbWt6b=
+nBpYXVuc2tkY2J6ZHVkcG92cXR5YmxoJmRlbGl2ZXJ5X2lkPWNic2d0anVieGxjZXlqdWVnd3lx=
+b21ndHVqYmZibXAmdGlkPTMuYWpBLkNCaWpSUS5DazdBLlQ1Zm8uLkFScTlqdy5iLi5sLkEzLVc=
+uYS5VUnhoN0EuVVJ4aDdBLlZPQzRHZw..> =96 YouTube<redir.aspx?REF=3DzLpsqh0wrKj=
+oyfp0pigs2v4Lh3Da3YewiRJSWWzHBvHN9yg--2nTCAFodHRwOi8vYXBwLmJyb250by5jb20vcH=
+VibGljLz9xPXVsaW5rJmZuPUxpbmsmc3NpZD0yNzE4NCZpZD0wbzAyazB0Y3B6bHU2ZWp4eDk4a=
+3gybTl4dDF3YSZpZDI9M2lxMWQyNWF3bmlwdG9xbDBwaHEwYXl4aXlxOGEmc3Vic2NyaWJlcl9p=
+ZD1iYXhjbWt6bnBpYXVuc2tkY2J6ZHVkcG92cXR5YmxoJmRlbGl2ZXJ5X2lkPWNic2d0anVieGx=
+jZXlqdWVnd3lxb21ndHVqYmZibXAmdGlkPTMuYWpBLkNCaWpSUS5DazdBLlQ1Zm8uLkFScTlqdy=
+5iLi5sLkEzLVcuYS5VUnhoN0EuVVJ4aDdBLlZPQzRHZw..> =96 Flickr<redir.aspx?REF=
+=3DEXaZz_vlvkBuESmmCXPAwznzu6S4j5siuJuBXtlZKCHN9yg--2nTCAFodHRwOi8vYXBwLmJy=
+b250by5jb20vcHVibGljLz9xPXVsaW5rJmZuPUxpbmsmc3NpZD0yNzE4NCZpZD0wbzAyazB0Y3B=
+6bHU2ZWp4eDk4a3gybTl4dDF3YSZpZDI9amdxcXJjOWo4cnVxZnZ6dWV6YXhsdzNydWp6dnEmc3=
+Vic2NyaWJlcl9pZD1iYXhjbWt6bnBpYXVuc2tkY2J6ZHVkcG92cXR5YmxoJmRlbGl2ZXJ5X2lkP=
+WNic2d0anVieGxjZXlqdWVnd3lxb21ndHVqYmZibXAmdGlkPTMuYWpBLkNCaWpSUS5DazdBLlQ1=
+Zm8uLkFScTlqdy5iLi5sLkEzLVcuYS5VUnhoN0EuVVJ4aDdBLlZPQzRHZw..> =96 Facebook<=
+redir.aspx?REF=3DKzsZYxIYznAX7yPaPcAdyOooOAT9X-YAWALPWkkwqNTN9yg--2nTCAFodH=
+RwOi8vYXBwLmJyb250by5jb20vcHVibGljLz9xPXVsaW5rJmZuPUxpbmsmc3NpZD0yNzE4NCZpZ=
+D0wbzAyazB0Y3B6bHU2ZWp4eDk4a3gybTl4dDF3YSZpZDI9ZWlxcmhkNGkyd3RuNW10MzF0dHZz=
+dzhmZ2JkaXQmc3Vic2NyaWJlcl9pZD1iYXhjbWt6bnBpYXVuc2tkY2J6ZHVkcG92cXR5YmxoJmR=
+lbGl2ZXJ5X2lkPWNic2d0anVieGxjZXlqdWVnd3lxb21ndHVqYmZibXAmdGlkPTMuYWpBLkNCaW=
+pSUS5DazdBLlQ1Zm8uLkFScTlqdy5iLi5sLkEzLVcuYS5VUnhoN0EuVVJ4aDdBLlZPQzRHZw..>=
+ =96 The Gavel<redir.aspx?REF=3D_SBSdrCY0V6dhLFZaDm3FF3J4skFJZ83cbspzTyoutL=
+N9yg--2nTCAFodHRwOi8vYXBwLmJyb250by5jb20vcHVibGljLz9xPXVsaW5rJmZuPUxpbmsmc3=
+NpZD0yNzE4NCZpZD0wbzAyazB0Y3B6bHU2ZWp4eDk4a3gybTl4dDF3YSZpZDI9Zm1vbmljamMyZ=
+nExYWl1NmdlYmVjMGJ1aTNnbTcmc3Vic2NyaWJlcl9pZD1iYXhjbWt6bnBpYXVuc2tkY2J6ZHVk=
+cG92cXR5YmxoJmRlbGl2ZXJ5X2lkPWNic2d0anVieGxjZXlqdWVnd3lxb21ndHVqYmZibXAmdGl=
+kPTMuYWpBLkNCaWpSUS5DazdBLlQ1Zm8uLkFScTlqdy5iLi5sLkEzLVcuYS5VUnhoN0EuVVJ4aD=
+dBLlZPQzRHZw..>
+

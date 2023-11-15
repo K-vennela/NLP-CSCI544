@@ -1,0 +1,348 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Fri, 29 Apr
+ 2015 14:03:31 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Fri, 29 Apr 2015 
+ 14:03:20 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 888068588
+ for user@domain.com; Fri, 29 Apr 2015 13:03:31 -0500
+X-Note-AR-ScanTimeLocal: 4/29/2016 1:03:28 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:198.2.183.237 DOM:domain.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 100
+X-GBUdb-Analysis: 0, 198.2.183.237, Ugly c=0.226425 p=0.111111 Source Normal
+X-Signature-Violations: 100-5953858-1760-1790-m
+	100-5946975-1873-1892-m
+	100-5953858-0-25191-f
+X-Note-419: 62.5067 ms. Fail:1 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:1-1324/SG:1 4/29/2016 1:03:22 PM
+X-Warn: BOUNCETRACKER Bounce User Tracking Found
+X-Warn: BULKMAILER
+X-Note: Spam Tests Failed: BOUNCETRACKER, BULKMAILER
+X-Country-Path: LOCAL->United States->
+X-Note-Sending-IP: 198.2.183.237
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G275 G276 G277 G278 G280 G285 G339 G373 G572 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from domain.com ([198.2.183.237] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 135902182
+ for user@domain.com; Fri, 29 Apr 2015 13:03:28 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=domain.com;
+ h=Subject:From: =?utf-8?Q?FamousDC?= <famousdc@gmail.com>
+ bh=5D8LuLI6n/F2XVkhsF6irnmQPfA=;
+ b=G2WX5pLZGQPu8zPkZyz6URNUqj/P+zxr73Y/K3A5gi7Xl5RY4bGcTG+RqwJarBhyQXELjmJbqCnZ
+   4dbV8gXiQKiVKJsr3RLnR0YnZ4uWjnKCEhySh+E+XwzwtFZ+MdnDJHjZ19FAOvnFJMyVSIi+ZFh0
+   zdxghtGq1dLe02B+nnA=
+Received: from (127.0.0.1) by domain.com id h4egv022s945 for
+ <user@domain.com>; Fri, 29 Apr 2015 18:03:24 +0000 (envelope-from
+ <user@domain.com>)
+Subject: =?utf-8?Q?WHCD=20Weekend=20Warriors=20=C2=A0?=
+From: =?utf-8?Q?FamousDC?= <famousdc@gmail.com>
+Reply-To: <user@domain.com>
+To: <user@domain.com>
+Date: Fri, 29 Apr 2015 18:03:24 +0000
+Message-ID: <2951user@domain.com>
+X-Mailer: MailChimp Mailer - **CIDcd0b1f7b31fa3c9b039d**
+X-Campaign: mailchimp2951c1183274de2b68e45d944.cd0b1f7b31
+X-campaignid: mailchimp2951c1183274de2b68e45d944.cd0b1f7b31
+X-Report-Abuse: Please report abuse for this campaign here: <<link>>
+X-MC-User: 2951c1183274de2b68e45d944
+X-Feedback-ID: 2392126:2392126.2422009:us2:mc
+List-ID: 2951c1183274de2b68e45d944mc list <2951c1183274de2b68e45d944.736717.list-domain.com>
+X-Accounttype: pd
+X-Original-Sender: user@domain.com
+List-Unsubscribe: <mailto:user@domain.com?subject=unsubscribe>, <<<link>>>
+Sender: FamousDC <user@domain.com>
+x-mcda: FALSE
+Content-Type: multipart/alternative;
+	boundary="_----------=_MCPart_1201125190"
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+View this fancy email in your browser (<<link>>
+=3D2951c1183274de2b68e45d944&id=3Dcd0b1f7b31&e=3Dfa3c9b039d)
+<<link>>
+944&id=3D5016d2ef55&e=3Dfa3c9b039d
+
+**
+#Weekend
+------------------------------------------------------------
+
+Weekend weather: Alright=2C it=E2=80=99s still April so all this watery st=
+uff falling from the sky and the 50-60 degree temperatures all weekend are=
+ still somewhat acceptable=E2=80=A6maybe. Those May flowers better be epic=
+=2E
+
+Awesome events you can attend this weekend: The Famous Maggie Rose (http:/=
+/famousdc.us2.list-domain.com/track/click?u=3D2951c1183274de2b68e45d944&id=
+=3D7e8cc9ffe9&e=3Dfa3c9b039d)  will be at 9:30 on Saturday (<<link>>
+amousdc.us2.list-domain.com/track/click?u=3D2951c1183274de2b68e45d944&id=
+=3Da6b0ac2d05&e=3Dfa3c9b039d)  night; Head over to Georgetown for DC=
+=E2=80=99s favorite French Market (<<link>>
+ack/click?u=3D2951c1183274de2b68e45d944&id=3D6b9f0fc37f&e=3D=
+fa3c9b039d) ; If the rain holds off for a while=2C enjoy a picnic in the park (htt=
+p://famousdc.us2.list-domain.com/track/click?u=3D2951c1183274de2b68e45d94=
+4&id=3D75f0607714&e=3Dfa3c9b039d)  at the National Cathedral Grounds=
+; Ocelot Brewing (<<link>>
+c1183274de2b68e45d944&id=3Dfb46742827&e=3Dfa3c9b039d)  is having a p=
+arty in celebration of their 1 year anniversary; Check out the interactive=
+ architectural installment =E2=80=9CRaise/Raze (<<link>>
+domain.com/track/click?u=3D2951c1183274de2b68e45d944&id=3D95b10fe9e9&e=3D=
+fa3c9b039d) =E2=80=9D in Dupont.
+
+**
+#Watch
+------------------------------------------------------------
+
+So here=E2=80=99s the deal: at the end of every month we=E2=80=99re going=
+ to give you our unsolicited commentary on what happened during said month=
+=2E From politics and pop culture to pretty useless information=2C you=E2=80=
+=99ll be able to find it in our Monthly Round Up. (you don=E2=80=99t have=
+ to tell us how creative the name is=2C we already know.)
+
+Without further ado=2C we present to you: The month of April (<<link>>
+sdc.us2.list-domain.com/track/click?u=3D2951c1183274de2b68e45d944&id=3Dfe8=
+42ab5f9&e=3Dfa3c9b039d) .
+<<link>>
+944&id=3Dfc8dbeedda&e=3Dfa3c9b039d
+
+**
+#National
+------------------------------------------------------------
+
+Wicked burn (<<link>>
+274de2b68e45d944&id=3Db55919da7c&e=3Dfa3c9b039d) =2C Boehner. Props;=
+ Welcome to the draft (<<link>>
+=3D2951c1183274de2b68e45d944&id=3D6195d07256&e=3Dfa3c9b039d) =2C lad=
+ies; Chris Christie attended a Bruce Springsteen concert wearing a tie! No=
+ wonder he lost; Things seem to be going well in Cleveland (<<link>>
+c.us2.list-domain.com/track/click?u=3D2951c1183274de2b68e45d944&id=3D13794=
+d177a&e=3Dfa3c9b039d) ; Gannett is offering the big bucks (<<link>>
+mousdc.us2.list-domain.com/track/click?u=3D2951c1183274de2b68e45d944&id=
+=3D8c9084a195&e=3Dfa3c9b039d) ; Atlantic City (<<link>>
+ist-domain.com/track/click?u=3D2951c1183274de2b68e45d944&id=3Dc85bf517de&e=
+=3Dfa3c9b039d)  is taking the heat; Mike Tyson (<<link>>
+list-domain.com/track/click?u=3D2951c1183274de2b68e45d944&id=3D3ca6d42f04&=
+e=3Dfa3c9b039d)  for Trump=E2=80=99s VP?.
+
+**
+#Local
+------------------------------------------------------------
+Justice Ginsburg (<<link>>
+1c1183274de2b68e45d944&id=3Df86e73a1e8&e=3Dfa3c9b039d)  will call yo=
+u out; =E2=80=9CCurrent fence (<<link>>
+lick?u=3D2951c1183274de2b68e45d944&id=3Dcbc7e6eb1e&e=3Dfa3c9b039d) =
+ simply is not adequate for a modern era=E2=80=9D; DC paid more (<<link>>
+mousdc.us2.list-domain.com/track/click?u=3D2951c1183274de2b68e45d944&id=3D=
+aebb58c0bd&e=3Dfa3c9b039d)  in federal taxes than 22 states last yea=
+r; Waka Flocka Flame: =E2=80=9CShe loves me. I=E2=80=99m a great player (h=
+ttp://famousdc.us2.list-domain.com/track/click?u=3D2951c1183274de2b68e45d9=
+44&id=3Dea840fd186&e=3Dfa3c9b039d) .=E2=80=9C; Goodbye Bistro Franca=
+is (<<link>>
+e45d944&id=3De3548c3d6d&e=3Dfa3c9b039d) ; 82 year-old former Caps an=
+nouncer (<<link>>
+de2b68e45d944&id=3D5560a8d87d&e=3Dfa3c9b039d)  still rides the Metro=
+ to almost every home game; Who got a Teddy window
+cling?; Behind the scenes at DuPont Underground (<<link>>
+domain.com/track/click?u=3D2951c1183274de2b68e45d944&id=3D2175e304c7&e=3D=
+fa3c9b039d) .
+
+**
+#EditorsPick
+------------------------------------------------------------
+
+Famous Five =E2=80=93 Emily Miller (<<link>>
+rack/click?u=3D2951c1183274de2b68e45d944&id=3D48625ed9e7&e=3D=
+fa3c9b039d)
+
+She may look all cute and petite=2C but don=E2=80=99t let that fool you. T=
+he girl=E2=80=99s got guns =E2=80=93 literally.
+
+<<link>>
+d944&id=3D7b11b1b731&e=3Dfa3c9b039d
+
+**
+#FamousForDC
+------------------------------------------------------------
+
+Noelle Clemente=2C VP of Bryant Row=2C just took writing the =E2=80=9C2016=
+ presidential race process story (<<link>>
+k/click?u=3D2951c1183274de2b68e45d944&id=3D769088113c&e=3Dfa3c9b039d=
+) =E2=80=9D to a whole new level; Hashtag award of the week goes to Wendel=
+l White for #nuserrkdown; Who will star in Jimmy Walsh=E2=80=99s upcomin=
+g biopic?; Adrian Carrasquillo=E2=80=99s election metaphor is one of the b=
+est from 2016; Doug Farrar entertained the Queen; Ben Droz will talk to pr=
+etty much anyone; Loren Aho read DC=E2=80=99s snowfall totals with his min=
+d; The Hungry Lobbyist should definitely audition for Gordon Ramsey; Sam M=
+organte loves planes more than we=E2=80=99ll ever love anything; Happy bir=
+thday=2C Rachael Dean! Kudos for the Teak Wood reservation=2C Eric Wilson;=
+ Congratulations to the Croutons =E2=80=93 Rachel Rauscher and Clayton Cox=
+ =E2=80=93 on your engagement!; Amos Snead is surviving Baltimore and a fo=
+reign country all in one week; Heads up: Paige Gress and Taz Jones will pr=
+obably be hungover when they
+read next week=E2=80=99s Round Up; Kathryn Lyons and Lauren Hagen received=
+ a =E2=80=9Cdelicious rejection=E2=80=9D from the Daily Caller this week.=
+ Their loss; Does anyone in Washington like Ted Cruz?; It=E2=80=99s almost=
+ Lisa Kramer=E2=80=99s birthday. May the Fourth be with you; Ask Mary Stew=
+art Bell about Reba McEntire; Congratulations to the Energy and Commerce C=
+ommittee for surviving a 22-bill multiple-day mark up; Philip Bump ain=E2=
+=80=99t buying what POLITICO Jim is selling; Congrats to Leah Harrelson Gr=
+aham on the birth of her baby girl; Vincent Harris slightly disagrees with=
+ Former Speaker John Boehner; Phill Herndon stopped by NJI Media and signe=
+d their phone booth; Chris Frates loves a good cheesesteak; Chris Taylor s=
+ays the lemonade numbers don=E2=80=99t add up. Is he right?; We=E2=80=99re=
+ living vicariously through Blair Milligan Kossen this weekend; Geoff Embl=
+er is killing the game at DC Improv Comedy Club #FollowYourDreams; Stay st=
+rong WHCD Weekend Warriors. Marathon=2C not a sprint; Tell Nick Schaper an=
+d Mary
+Leschper congratulations; Bring back a sombrero for us David Almacy; Congr=
+ats on 5 years at Hilton Chris Brooks; Morgan Gress is seriously cool; Cal=
+l Robert Ransom if you need an awesome kitchen; Your socks are awesome Par=
+is Dennard; Congrats for making your first MSNBC appearance Daniel Lippman=
+; Did you find a plumber Jen Riedinger?; Watch out=2C Hallie Williams =E2=
+=80=93 that shot is on fire; Caitlin Conant was really=2C really tan in co=
+llege; Brittany Brammel does not have any Uber discount codes; Matt Haller=
+ is looking for the talent line; The Lippmanns were our favorite couple la=
+st night; John Tass-Parker had a terrible beer; Christopher Gindlesperger=
+ is always a treat; We love it when Michael Kelly drops by; Ben Jenkins ro=
+cks; We see you Matt Laslo; Nika Nour may not mind if you=E2=80=99re sick;=
+ Robbie Myers is everywhere; Austin Carson is everywhere else; Anton Vulja=
+j crushed it; Lauren French is a champion; Kevin Sheridan knows the import=
+ance of line refreshments; Alex Skatell looked
+sharp; Kelly Cohen is stunning; We=E2=80=99re on Team Bonjean; We like you=
+r style Kate Glassman Bennett.
+
+**
+#TweetoftheWeek
+------------------------------------------------------------
+
+=E2=80=9CJust a reminder: Ted Cruz still hasn=E2=80=99t denied being Lucif=
+er.=E2=80=9D
+Jennifer Bendery (<<link>>
+c1183274de2b68e45d944&id=3D1ebe286e1e&e=3Dfa3c9b039d)
+
+**
+#MediaMoves By Bryant Row (<<link>>
+?u=3D2951c1183274de2b68e45d944&id=3De35d2a228b&e=3Dfa3c9b039d)
+------------------------------------------------------------
+David Popp made big moves and joined the Senate as the Communications Dire=
+ctor of the Majority Leader=2C Mitch McConell; Congratulations to the Nati=
+onal Confectioners Association for having the first ever WHCD Snapchat geo=
+filter=2C a fact verified by the Snapchat team; Congrats Josh Elliott on y=
+our =E2=80=9CCBS This Morning=E2=80=9D debut; Rebecca Gale joins the Econo=
+mics and Statistics Administration at the Department of Commerce as their=
+ new press secretary; CNN Politics welcomes Juana Summers to the team; Sco=
+tt Baker is continuing his career path and leaving The Blaze; The Atlantic=
+ has gained Alex Wagner from MSNBC to fill the Senior Editor position; The=
+ National Geographic Society adds Emma Carrasco as their chief marketing a=
+nd communications officer; Alex Conant is soon to join an envoy from the U=
+S State Department for a two week media and public speaking tour around Au=
+stralia. Alex was personally selected to join the tour; Brittany Brammell=
+ departs the campaign lifestyle to join Uber=E2=80=99s
+Communications and Federal Affairs team in Washington; Michaela Pereira is=
+ leaving CNN where she has co-anchored New Day=2C and moving back home to=
+ the West Coast and anchor her own program on CNN=E2=80=99s sister network=
+=2C HLN; Eric Wilson is soon to leave Washington for a 2 month stint in Au=
+stralia=2C where he=E2=80=99ll lend his political and digital expertise to=
+ local campaigns currently underway; High five to Chris Parinello=2C Lora=
+ Snyder=2C Candace Vahlsing=2C Matt Kellogg=2C Catrina Rorke=2C and Jackie=
+ Weidman=2C for being among The Hill=E2=80=99s 10 rising stars (<<link>>
+ousdc.us2.list-domain.com/track/click?u=3D2951c1183274de2b68e45d944&id=3Db=
+7a18766df&e=3Dfa3c9b039d)  in the energy and environment world.
+
+**
+#Birthdays
+------------------------------------------------------------
+
+Famous birthday wishes to Robin Epes=2C Casco Smith=2C Nick Donovan=2C Ada=
+m Law=2C Reuben Morrison=2C Lindsey Anne=2C Abi Stark=2C Brett Jay=2C Andy=
+ Wynkoop=2C Tucker Jennings=2C Raphael Durand=2C Erica Lydon=2C Victoria N=
+ortz=2C Jason Tabaczynski=2C Matt Colfax=2C Steve Gemmiti=2C Colin Wilhelm=
+=2C Cody Parrish=2C Dan Dauplaise=2C Matt Hittle=2CTravis Hite=2C Carrie G=
+iddins Pergram=2C Robert Le DeMoss III=2C Jake Braunsdorf=2C Rebecca Heisl=
+er=2C Kristene Blake.
+
+**
+#ICYMI
+------------------------------------------------------------
+
+**
+KENTUCKY SOCIETY OF WASHINGTON: DERBY TALK (<<link>>
+e1.com/track/click?u=3D2951c1183274de2b68e45d944&id=3D70f790db6e&e=3D=
+fa3c9b039d)
+------------------------------------------------------------
+
+** FAMOUSLY QUOTED: THIS TIME BOEHNER TAKES A TURN (<<link>>
+st-domain.com/track/click?u=3D2951c1183274de2b68e45d944&id=3D5dc2e44f30&e=
+=3Dfa3c9b039d)
+------------------------------------------------------------
+
+** FASHIONABLY FAMOUS: WHCD 2015 EDITION (<<link>>
+com/track/click?u=3D2951c1183274de2b68e45d944&id=3D4f80b1fe10&e=3D=
+fa3c9b039d)
+------------------------------------------------------------
+
+** INSTAGRAM TAKEOVER =E2=80=93 HURD ON THE HILL (<<link>>
+-domain.com/track/click?u=3D2951c1183274de2b68e45d944&id=3D6233469649&e=3D=
+fa3c9b039d)
+------------------------------------------------------------
+
+** CORRESPOND THIS=2C WHITE HOUSE (<<link>>
+ck/click?u=3D2951c1183274de2b68e45d944&id=3D3a7a022152&e=3D=
+fa3c9b039d)
+------------------------------------------------------------
+
+** BREAKING NEWS: TED CRUZ HAS SOMETHING TO SAY (<<link>>
+domain.com/track/click?u=3D2951c1183274de2b68e45d944&id=3De583c00b06&e=3D=
+fa3c9b039d)
+------------------------------------------------------------
+
+** MIKE ROBINSON (<<link>>
+1c1183274de2b68e45d944&id=3D0f29980ba7&e=3Dfa3c9b039d)
+------------------------------------------------------------
+
+**
+#BYE
+------------------------------------------------------------
+
+Want exclusive access to all the White House Correspondents=E2=80=99 Dinne=
+r parties? Follow our Instagram handle famous_dc (<<link>>
+-domain.com/track/click?u=3D2951c1183274de2b68e45d944&id=3Dd05c6753bd&e=3D=
+fa3c9b039d) !
+
+** (<<link>>
+e45d944&id=3Db1ed1a4712&e=3Dfa3c9b039d)
+** (<<link>>
+e45d944&id=3D9cba5ec21c&e=3Dfa3c9b039d)
+** (<<link>>
+e45d944&id=3D61951c689d&e=3Dfa3c9b039d)
+** (<<link>>
+e45d944&id=3Dc44e0eb7c3&e=3Dfa3c9b039d)
+Copyright =C2=A9 2015 Blog=2C All rights reserved.
+You're on this list because you're Famous for DC
+
+Our mailing address is:
+Blog
+703 D St. SE
+Washington=2C DC 20003
+
+Want to change how you receive these emails?
+You can ** update your preferences (<<link>>
+rofile?u=3D2951c1183274de2b68e45d944&id=3Da2dd09e9f7&e=3Dfa3c9b039d)
+or ** unsubscribe from this list (<<link>>
+bscribe?u=3D2951c1183274de2b68e45d944&id=3Da2dd09e9f7&e=3Dfa3c9b039d&c=3Dcd0=
+b1f7b31)

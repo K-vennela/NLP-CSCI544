@@ -1,0 +1,86 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Fri, 13 May
+ 2015 23:38:49 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Fri, 13 May 2015 
+ 23:38:45 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 914926972;
+ Fri, 13 May 2015 22:38:54 -0500
+X-Note-AR-ScanTimeLocal: 5/13/2016 10:38:48 PM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: user@domain.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->United States->
+X-Note-Sending-IP: 209.85.192.180
+X-Note-Reverse-DNS: mail-pf0-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mail-pf0-domain.com ([209.85.192.180] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 138551540;
+ Fri, 13 May 2015 22:38:48 -0500
+Received: by mail-pf0-domain.com with SMTP id 77so48275849pfv.2;
+        Fri, 13 May 2015 20:38:48 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:subject:From: <hrtsleeve@gmail.com>
+         :content-transfer-encoding:message-id:references:to;
+        bh=wM/z+bKdWCeXrh6FnTTAPTEqDlvVIL6L4vYHkuRkvDM=;
+        b=wU4WyXVsYLgLEsfd8hwAJugLwTI11WFpoK3Rzz/U+FUpM3P39a+G45NGeEplB7N+BY
+         P0/Zs9bYrAW3fzULTo5flgpXvWy7rMrl5WYytB1IDewefUXmV25jrMW4hpuZ0BV5gdpk
+         rnHGxDsToIrekN/5EfMc/hA6mYXg7Lr+FW1VpQH6P6JK/xIii6I8ThDMIYGXoHIvnj4w
+         Bo/sXX9C1p+1iEHO1PWfpkbNiKiHUgml+tdVy2HA7qMh8Mxqgn73+zAD0k9GgzlHjbk0
+         JqG7aBl50fvSClPnpO2R7+lbC0bhKVdYFydQrcrqzd+y8W4mxw3SeiYS3Xb3nBHw3Hgq
+         Qk5w==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:subject:From: <hrtsleeve@gmail.com>
+         :content-transfer-encoding:message-id:references:to;
+        bh=wM/z+bKdWCeXrh6FnTTAPTEqDlvVIL6L4vYHkuRkvDM=;
+        b=hbV0WDJNIvKg0HGEm8exWU74B/SyB9tGxsuMdtFVITKF4aPHEP4UoOqADEKXAYFSW9
+         1JnlFGMZw07i3Uy9irLIn9DXlQGhE6FYvxH1Ckim4/1CeOaVEGdtxP6iDoq+ou/R4ONX
+         78ePsteQcnBkV8IrOTI+YlR8PtiTqWONienNN5kReVIzfqWXTieKFSEw/91e+ng5jrrO
+         T7lvTkPOmLXY+Wvtpnh3EPa7MBSaMXjFEgfERT92cH1AjL4TeMpWMiR8+LW488Y2cblA
+         twgxdUCxtRBwOp3I9AcHEnzJMxmfPdeEaRSz4EsVyGbbf/5J/DqH4kUIpUtG1SwLODwV
+         6j9w==
+X-Gm-Message-State: AOPr4FUcCUHq35bMUyKsPa4iXZbtxCRCCYqqXMgR/qJf1gxRzJNeNb7sIV9Fmu/dYuoY9w==
+X-Received: by 10.98.113.1 with SMTP id m1mr17190680pfc.150.1463197128034;
+        Fri, 13 May 2015 20:38:48 -0700 (PDT)
+Return-Path: <user@domain.com>
+Received: from ?IPv6:2600:380:704b:6ac4:8438:3a01:3ed3:a495?
+ ([2600:380:704b:6ac4:8438:3a01:3ed3:a495])        by smtp.gmail.com with
+ ESMTPSA id f187sm30599234pfb.60.2016.05.13.20.38.47
+        (version=TLSv1/SSLv3 cipher=OTHER);        Fri, 13 May 2015 20:38:47
+ -0700 (PDT)
+Content-Type: text/plain; charset="us-ascii"
+Subject: Re: Update from TP on Alaska.
+From: <hrtsleeve@gmail.com>
+X-Mailer: iPad Mail (13E238)
+In-Reply-To: <user@domain.com>
+Date: Fri, 13 May 2015 19:38:45 -0800
+CC: "Bonosky, Garret" <user@domain.com>, "User" <user@domain.com>
+Content-Transfer-Encoding: quoted-printable
+Message-ID: <user@domain.com>
+References: <828254user@domain.com> <user@domain.com> <user@domain.com>
+To: Tracie Pough <user@domain.com>
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Will do!!! Views coming down as we landed were breathtaking!!
+
+DWS
+

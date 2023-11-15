@@ -1,0 +1,51 @@
+Dear CLAs/LAs
+As you all know, in my Victoria follow-up e-mail of 2 August I presented a
+summary of the agreement we reached in Victoria on a common use of
+terminology to express degree of likelihood in the TAR. At that time the
+word or term to be used for the central box of 33 to 66% had not been agreed
+and the word "inconclusive" was proposed for that category. Since that time
+there has been a lengthy discussion, including Working Groups II and III,
+regarding the best word to be used in this category. To cut a long story
+short the term we would now like you to use for this middle category is
+"medium likelihood". I am sorry I have not been able to canvas this around
+all of you but from the discussions this term was agreed by all to be the
+best compromise. In particular, it clearly maintains the scale as one of
+degrees of likelihood, whereas inconclusive could be confused as to whether
+a degree of likelihood was being expressed or whether there was insufficient
+information to conclude a likelihood. I attach a table showing what should
+now be the final scale.
+During the discussions it became clear that in addition to making likelihood
+statements it is sometimes more appropriate to express statements in terms
+of a degree of confidence, and indeed several chapters use this terminology.
+As you know the Uncertainties Guidance paper by Richard Moss and Steve
+Schneider recommends a scale of confidence from Very Low to Very High
+confidence. WGII in particular are using this scale and so I would ask that,
+if you choose to express things in terms of a level of confidence, that you
+use the terms as they are laid down in the guidance paper. This in no way
+affects the use of the likelihood scale where this is more appropriate. For
+example, if we are highly uncertain how well a model handles a particular
+process, we may have "very low confidence" in a model result which is highly
+dependent on this process. If we have no other corroborating evidence we may
+therefore conclude that there is insufficient information to assign a
+likelihood in this case. By following the guidance paper when expressing a
+level of confidence we will hopefully improve the consistency between the
+two reports. Incidentally, if there are instances in the WGII report where
+they are able express degrees of likelihood they are going to try and use
+our scale. 
+Thirdly, there has been a lot of discussion about the impression which the
+likelihood scale, if taken out of context, could give for low likelihood,
+high consequence events, such as a disintegration of the WAIS or a shutdown
+of the THC in the next 100years. Please bear in mind that policymakers must
+balance likelihood and consequence in deciding whether or not to take
+action. Therefore please take extra care when considering text for these
+types of issues as simply expressing them as "extremely unlikely" does not
+give the full picture. For example, you could say an aircraft was "extremely
+unlikely" to crash on its next flight but if there was a 1% chance I would
+not fly on it. While it is a true statement the right balance is only
+achieved when the consequence is also brought in to put the risk in context.
+I apologise for this late change to our scale but I hope you all agree that
+it is an improvement. If anything is not clear about any of the above please
+do not hesitate to contact me.
+Best regards
+Dave
+<<Agreed terminology2.doc>> 

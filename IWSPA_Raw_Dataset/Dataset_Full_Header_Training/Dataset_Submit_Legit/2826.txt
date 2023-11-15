@@ -1,0 +1,83 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 18 May
+ 2015 10:52:43 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 18 May 2015 
+ 10:52:42 -0400
+Received: from [10.87.0.111] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 921716688
+ for user@domain.com; Wed, 18 May 2015 09:52:51 -0500
+X-Note-AR-ScanTimeLocal: 5/18/2016 9:52:51 AM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @nbcuni.com ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: UNKNOWN->PRIVATE->United States->LOCAL->United States->
+X-Note-Sending-IP: 67.231.157.49
+X-Note-Reverse-DNS: mx0b-00176domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from mx0b-00176domain.com ([67.231.157.49] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 139515487
+ for user@domain.com; Wed, 18 May 2015 09:52:51 -0500
+Received: from pps.filterd (domain.com [127.0.0.1])	by
+ domain.com-00176a04. (8.16.0.11/8.16.0.11) with SMTP id
+ u4IElZ6j048810	for <user@domain.com>; Wed, 18 May 2015 10:52:42 -0400
+Received: from domain.com ([216.178.109.236])	by
+ domain.com-00176a04. with ESMTP id 22wxp1h5v5-1	(version=TLSv1.2
+ cipher=RC4-SHA bits=128 verify=NOT)	for <user@domain.com>; Wed, 18 May 2015 
+ 10:52:42 -0400
+Received: from unknown (HELO domain.com) ([10.40.33.204])  by
+ domain.com with ESMTP; 18 May 2015 07:52:41 -0700
+Received: from domain.com ([169.254.5.45]) by
+ domain.com ([3.3.179.21]) with mapi id 14.03.0195.001; Wed,
+ 18 May 2015 10:52:40 -0400
+From: "Weiner, Cydney (NBCUniversal)" <Cydney.Weiner@nbcuni.com>
+To: "User" <user@domain.com>
+Subject: NBC News Request for Rep. Wasserman-Schultz
+Thread-Topic: NBC News Request for Rep. Wasserman-Schultz
+Thread-Index: AdGxFK+OI1+u3sJtT2q7l1Q+j4eUlQ==
+Date: Wed, 18 May 2015 14:52:39 +0000
+Message-ID: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-originating-ip: [3.50.17.225]
+x-exclaimer-md-config: 47edc00f-f2d6-45ef-be83-8a353bd47e45
+Content-Type: multipart/alternative;
+	boundary="_000_CA58FEDCE83DE249A12C0B1433AEBA65D7E5F5USAOAEMWP014mailt_"
+X-CFilter-Loop: Forward
+X-Proofpoint-Virus-Version: vendor=fsecure engine=2.50.10432:,, definitions=2016-05-18_08:,,
+ signatures=0
+X-Proofpoint-Spam-Details: rule=outbound_notspam policy=outbound score=0 priorityscore=1501
+ suspectscore=0 malwarescore=0 phishscore=0 bulkscore=0 spamscore=0
+ clxscore=1011 impostorscore=0 lowpriorityscore=0 adultscore=0
+ classifier=spam adjust=0 reason=mlx scancount=1 engine=8.0.1-1604210000
+ definitions=main-1605180192
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Hi User - wondering if you could put me in touch with whomever handles sche=
+duling for the Chairwoman?
+
+Andrea Mitchell is filing a piece on the democratic race tonight for Nightl=
+y News and we'd like to see if she's available for an interview today.
+
+Thanks very much!
+
+Best,
+Cydney Weiner
+NBC News
+202-885-4993

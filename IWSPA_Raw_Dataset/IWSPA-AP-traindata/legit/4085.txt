@@ -1,0 +1,71 @@
+<x-flowed>
+Dear Phil,
+Just a quick response to the issue of "model weighting" which you and 
+Carl raised in your emails.
+We recently published a paper dealing with the identification of an 
+anthropogenic fingerprint in SSM/I-based estimates of total column water 
+vapor changes. This was a true multi-model detection and attribution 
+("D&A") study, which made use of results from 22 different A/OGCMs for 
+fingerprint and noise estimation. Together with Peter Gleckler and Karl 
+Taylor, I'm now in the process of repeating our water vapor D&A study 
+using a subset of the original 22 models. This subset will comprise 
+10-12 models which are demonstrably more successful in capturing 
+features of the observed mean state and variability of water vapor and 
+SST - particularly features crucial to the D&A problem (such as the 
+low-frequency variability). We've had fun computing a whole range of 
+metrics that might be used to define such a subset of "better" models. 
+The ultimate goal is to determine the sensitivity of our water vapor D&A 
+results to model quality. I think that this kind of analysis will be 
+unavoidable in the multi-model world in which we now live. Given 
+substantial inter-model differences in simulation quality, "one model, 
+one vote" is probably not the best policy for D&A work!
+Once we've used Carl's method to calculate synthetic MSU temperatures 
+from the IPCC AR4 20c3m data (as described in my previous email), it 
+should be relatively easy to do a similar "model culling" exercise with 
+MSU T2, T4, and TLT. In fact, this is what we had already planned to do 
+in collaboration with Carl and Frank.
+One key point in any model weighting or selection strategy is to avoid 
+circularity. In the D&A context, it would be impermissible to include 
+information on trend behavior as a criterion used for selecting "better" 
+models. Likewise, if our interest is in assessing the statistical 
+significance of model-versus-observed trend differences, we can't use 
+model performance in simulating "observed" tropospheric or stratospheric 
+trends (whatever those might be!) as a means of identifying more 
+credible models.
+A further issue, of course, is that we are relying on results from fully 
+coupled A/OGCMs, and are making trend comparisons over relatively short 
+periods (several decades). On these short timescales, estimates of the 
+"true" trend in response to the applied 20c3m forcings are quite 
+sensitive to natural variability noise (as Peter Thorne's 2007 GRL paper 
+clearly illustrates). Because of such chaotic variability, even a 
+hypothetical model with perfect physics and forcings would yield a 
+distribution of tropospheric temperature trends over 1979 to 1999, some 
+of which would show larger or smaller cooling than observed. This is why 
+it's illogical to stratify model results according to correspondence 
+between modeled and observed surface warming - something which John 
+Christy is very fond of doing.
+What we've done (in the new water vapor work described above) is to 
+evaluate the fidelity with which the AR4 models simulate the observed 
+mean state and variability of precipitable water and SST - not the 
+trends in these quantities. We've looked at a model performance in a 
+variety of different regions, and on multiple timescales. The results 
+are fascinating, and show (at least for water vapor and SST) that every 
+model has its own individual strengths and weaknesses. It is difficult 
+to identify a subset of models that CONSISTENTLY does well in many 
+different regions and over a range of different timescales.
+My guess is that we would obtain somewhat different results for MSU 
+temperatures - particularly for comparisons involving variability. 
+Clearly, the absence of volcanic forcing in roughly half of the 20c3m 
+experiments will have a large impact on the estimated variability of 
+synthetic T4 temperatures (and perhaps even on T2), and hence on 
+model-versus-data variability comparisons. It's also quite possible that 
+the inclusion or absence of volcanic forcing has an impact not only on 
+the amplitude of the variability of global-mean T4 anomalies, but also 
+on the pattern of T4 variability. So model ranking exercises based on 
+performance in simulating the mean state and variability of T4 and T2 
+may show some connection to the presence or absence of volcanic/ozone 
+forcing.
+The sad thing is we are being distracted from doing this fun stuff by 
+the need to respond to Douglass et al. That's a real shame.
+With best regards,
+Ben

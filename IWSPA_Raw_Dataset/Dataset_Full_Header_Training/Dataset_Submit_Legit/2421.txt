@@ -1,0 +1,110 @@
+Received: from domain.com (146.215.230.104) by
+ domain.com (43.130.141.77) with Microsoft SMTP Server id
+ 8.3.342.0; Sat, 28 Jun 2015 03:03:17 -0700
+Received: from domain.com ([160.33.194.231])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s5SA3Gsg018526	for <user@domain.com>; Sat, 28 Jun 2015 
+ 10:03:16 GMT
+Received: from mail191-ch1-domain.com (mail-domain.com
+ [216.32.181.169])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s5SA55BX031950
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Sat, 28 Jun 2015 10:05:05 GMT
+Received: from mail191-ch1 (localhost [127.0.0.1])	by
+ mail191-ch1-domain.com (Postfix) with ESMTP id 6A1B7380715	for
+ <user@domain.com>; Sat, 28 Jun 2015 10:03:15 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:66.216.179.17;KIP:(null);UIP:(null);SRV:BULK;H:vmta-b-17.domain.com;RD:vmta-b-17.domain.com;EFVD:NLI
+X-SpamScore: 6
+X-BigFish: vps6(z59c9hzc89bh1936he0eahc857h1a9amdc28izz1f42h1ee6h1de0h1fdah21bdh2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6h208chzebhz1de098h1def03h17326ah1def87h8275bh1bc7b9h1def86h1de097h186068h172c6chz2fheh5fh2a8h839h8aahd25h107ah1288h12a5h137ah13eah1441h1504h1537h153bh158dh162dh1631h1758h18e1h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1fe8h1ff5h20f0h2216h22d0h2336h2438h2461h2487h24d7h2516h2545h25f6h2605h268bh26d3h27e2h282bh2847h28a1h28a6h29d0h2a24h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail191-ch1: domain of domain.com designates 66.216.179.17 as permitted sender) client-ip=66.216.179.17; user@domain.com; helo=vmta-b-17.domain.com ;.domain.com ;
+Received: from mail191-ch1 (localhost.localdomain [127.0.0.1]) by mail191-ch1
+ (MessageSwitch) id 1403949790145546_30249; Sat, 28 Jun 2015 10:03:10 +0000
+ (UTC)
+Received: from domain.com (domain.com
+ [10.43.68.237])	by mail191-domain.com (Postfix) with ESMTP id
+ 4E3892C007C	for <user@domain.com>; Sat, 28 Jun 2015 10:03:05 +0000
+ (UTC)
+Received: from vmta-b-17.domain.com (66.216.179.17) by
+ domain.com (10.43.70.23) with Microsoft SMTP Server (TLS) id
+ 14.16.227.3; Sat, 28 Jun 2015 10:03:04 +0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key1; d=moviefanfare.com;
+ h=List-Unsubscribe:MIME-Version:From: MovieFanFare <fanfare@moviefanfare.com>
+ bh=I4XbbqfKcPb0zAlJqkKHvF+Ic0Y=;
+ b=C9qmsLhFXFJGDXcP+HuVL/rGdWmoXcITHrrC2O2h761jkDuVEU5UHxyvzA2vABWF4N3C0SLsjOJr
+   J2AMkbwvqCi0q+uKKi7tQ9UvcDn7zG3r5wCzpFj4QHjv7r/+n4yuDHjyNY6opFPLy5NQzqS1w1MI
+   EOO19O0RgL86HSKfJf4=
+Received: by vmta-b-17.domain.com id hlq9dg1n6tcb for
+ <user@domain.com>; Sat, 28 Jun 2015 06:03:03 -0400 (envelope-from
+ <17user@domain.com>)
+X-Mailer-Reference: 17F6VQC0A3RJTTDKCCGJ1DS9NUQHDVJJNJB55585AMCBIM26IJNGO0GFDQ1FHC3
+X-Message-Reference: PL554Q80QO94T8I8GIMF5NGD2K
+X-RPCampaign: esp8076535352815648817957528456735671737770537871685075
+List-Unsubscribe: <mailto:user@domain.com>
+Errors-To: 17user@domain.com
+From: MovieFanFare <fanfare@moviefanfare.com>
+To: <user@domain.com>
+Date: Sat, 28 Jun 2015 06:03:02 -0400
+Subject: The 5 best movies to watch on a summer day
+Message-ID: <0.0.6user@domain.com>
+Return-Path: 
+ 17user@domain.com
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+
+
+
+Want your classic movie article on MovieFanFare? Click Here      Get Our 800-page 2015 Catalog  
+
+<<link>> Send this to a Friend         
+
+
+
+<<link>>       <<link>>      
+ <<link>>      <<link>>       <<link>>      <<link>>      <<link>>     <<link>>       
+<<link>>      
+
+Teacher's Pet (1958) and more classics now available     
+
+
+
+
+"Dust Be My Destiny" ('39)
+
+and other rare classics
+
+have arrived 
+
+
+
+
+        Classic movie phone call scenes  
+
+
+
+
+Retro-Review:
+
+"The President's
+
+Analyst" (1967) 
+
+
+
+
+        Looking back at Golan-Globus     
+
+
+
+
+Memorable baseball
+
+moments from
+
+non-baseball movies 
+
+
+

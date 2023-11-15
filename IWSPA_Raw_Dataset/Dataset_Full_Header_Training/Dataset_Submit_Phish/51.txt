@@ -1,0 +1,44 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.4.9])
+	by domain.com (Postfix) with ESMTP id B35D2468E8
+	for <user@domain.com>; Thu, 22 Mar 2015 23:19:42 -0400 (EDT)
+Received: from domain.com (71-8-237-114.domain.com [71.8.237.114])
+	by domain.com (Postfix) with ESMTP id B88B4131F9FB
+	for <user@domain.com>; Thu, 22 Mar 2015 23:19:42 -0400 (EDT)
+Received: by domain.com (Postfix, from userid 0)
+	id E3CBD7B1BDC2; Thu, 22 Mar 2015 14:15:37 -0700 (MST)
+To: user@domain.com
+Subject: Technical services of the Chase Bank
+From: Chase Bank INC. <chaseonline@email-chase.com>
+Content-Type: text/html
+Message-Id: <20070322211537.user@domain.com>
+Date: Thu, 22 Mar 2015 14:15:37 -0700 (MST)
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1000
+
+Dear
+client of Chase Bank,
+
+Technical
+services of the Chase Bank are carrying out a planned software
+update. As part of our commitment to excellent service, we want to let you know you have to update your Chase Online Service. These changes should not impact the way you bank online today.
+
+To get
+started, please click the link below:
+
+<<link>>
+
+This
+instruction has been sent to all bank customers and is obligatory to
+fallow.
+
+Thank
+you,
+
+Customers
+Support Service.
+

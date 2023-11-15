@@ -1,0 +1,236 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 11 May
+ 2015 18:06:03 -0400
+Received: from server555.appriver.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 11 May 2015 
+ 18:05:56 -0400
+Received: from [10.87.0.114] (HELO inbound.appriver.com)  by
+ server555.appriver.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 910229185
+ for user@domain.com; Wed, 11 May 2015 17:05:55 -0500
+X-Note-AR-ScanTimeLocal: 5/11/2016 5:05:55 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: 72.3.212.195 ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->United States->
+X-Note-Sending-IP: 72.3.212.195
+X-Note-Reverse-DNS: outbound.appriver.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G8 G276 G277 G278 G279 G283 G284 G294 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDIP
+X-Note: Headers Injected
+Received: from [72.3.212.195] (HELO outbound.appriver.com)  by
+ inbound.appriver.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 140125831
+ for user@domain.com; Wed, 11 May 2015 17:05:55 -0500
+Received: from [10.242.231.127] (HELO server551sql)  by outbound.appriver.com
+ (CommuniGate Pro SMTP 6.1.2)  with ESMTP id 32665126 for user@domain.com;
+ Wed, 11 May 2015 17:05:49 -0500
+From: AppRiver SpamLab <notice@appriver.com>
+To: <user@domain.com>
+Date: Wed, 11 May 2015 17:05:49 -0500
+Subject: Held Spam Report for 5/10/2016
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+Message-ID: <user@domain.com>
+X-WatchGuard-AntiVirus: part scanned. clean action=allow
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+															Daily Held Spam Report
+
+
+
+user@domain.com
+
+Tuesday, May 10,=
+ 2016
+
+View, Search, Sort Report |
+										Request Current Report |
+										Change Report Settings
+
+Spam: 8
+
+																																	=09
+
+
+
+View |
+											Release
+
+user@domain.com=
+domain.com
+
+Invest in Yourself: Affordable On-Demand Management Training
+
+												10:12p from United States (7.42 KB)
+
+
+
+																									=09
+
+
+
+View |
+											Release
+
+user@domain.com
+
+Beach Towel Blowout - 4 Styles on Sale Now
+
+												8:28p from United States (12.73 KB)
+
+
+
+																									=09
+
+
+
+View |
+											Release
+
+user@domain.com<=
+/a>
+
+NEXT WEEK! Employer Negligence Claims: What Are They and What =
+They Mean for HR.
+
+												1:22p from United States (42.95 KB)
+
+
+
+																									=09
+
+
+
+View |
+											Release
+
+user@domain.com
+
+$199 for One Year of Unlimited Training
+
+												12:43p from United States (12.24 KB)
+
+
+
+																									=09
+
+
+
+View |
+											Release
+
+user@domain.com
+
+You receive a harassment complaint. Now what?
+
+												10:40a from United States (19.2 KB)
+
+
+
+																									=09
+
+
+
+View |
+											Release
+
+user@domain.com=
+et
+
+Improve Your Understanding of Key Accounting Principles and Pr=
+actices, Access Begins 6/1
+
+												9:26a from United States (9.73 KB)
+
+
+
+																									=09
+
+
+
+View |
+											Release
+
+user@domain.com
+
+Change the darkness to the light and everything will be alrigh=
+t, Kaplanj !
+
+												8:57a from Russian Federation (30.19 KB)
+
+
+
+																									=09
+
+
+
+View |
+											Release
+
+user@domain.com=
+domain.com
+
+Tackle Difficult Conversations with Ease: Uncovering Win-Win S=
+olutions - Course Starts 5/25
+
+												7:44a from United States (8.72 KB)
+
+
+
+Virus: 3
+
+																													=09
+
+
+
+user@domain.com
+
+PO # 10 - B F
+
+											7:57p from Brazil (8.73 KB)
+
+
+
+																						=09
+
+
+
+user@domain.com
+
+Re:
+
+											3:36p from Mexico (28.56 KB)
+
+
+
+																						=09
+
+
+
+user@domain.com
+
+Re:
+
+											11:22a from Brazil (7.25 KB)
+
+
+
+Outbound: 0
+
+Copyright ©2003-2016=20
+															AppRiver, All Rights Reserved
+
+
+
+Unsubscribe
+

@@ -1,0 +1,30 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Wed, 17 Dec 2015 12:45:01 +0100
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id D9441621E5	for
+ <user@domain.com>; Wed, 17 Dec 2015 11:26:08 +0000 (GMT)
+Received: by domain.com (Postfix)	id 20CBF2BC211; Wed, 17 Dec 2015 
+ 12:45:01 +0100 (CET)
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com
+ [192.168.200.205])	by domain.com (Postfix) with ESMTP id 0E03A2BC220
+	for <user@domain.com>; Wed, 17 Dec 2015 12:45:01 +0100 (CET)
+Date: Wed, 17 Dec 2015 12:45:01 +0100
+From: "Alessandro Scarafile (Confluence)" <confluence@hackingteam.com>
+To: <user@domain.com>
+Message-ID: <1359080219.685.1418816701031.JavaMail.CONFLUENCE$@confluence>
+Subject: [confluence] Alessandro Scarafile updated a event in the "01.
+ PRE-SALES" calendar
+Precedence: bulk
+Auto-Submitted: auto-generated
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2135562172_-_-"
+
+  Alessandro Scarafile updated a event in the 0102.  PRE-SALESDELIVERY calendar Dec 18, 2014 Until Dec 19, 2014   Pre-Delivery Vietnam (Partner)You are receiving this notification because you are watching the following:  0102.  PRE-SALESDELIVERY  Sent by Atlassian Confluence 5.6.3, the Enterprise Wiki 

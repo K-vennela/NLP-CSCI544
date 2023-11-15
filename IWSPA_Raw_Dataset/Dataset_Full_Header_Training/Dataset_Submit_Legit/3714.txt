@@ -1,0 +1,123 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Wed, 18 May
+ 2015 21:45:09 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Wed, 18 May 2015 
+ 21:45:06 -0400
+Received: from [10.87.0.112] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 923171291;
+ Wed, 18 May 2015 20:45:06 -0500
+X-Note-AR-ScanTimeLocal: 5/18/2016 8:44:57 PM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: Too many policies to list
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @mail.house.gov ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->United States->United States->
+X-Note-Sending-IP: 143.228.181.85
+X-Note-Reverse-DNS: s-domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from s-domain.com ([143.228.181.85] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 139211287;
+ Wed, 18 May 2015 20:44:56 -0500
+Received: from HEOC-domain.com (heoc-domain.com
+ [143.228.151.97])	by s-domain.com  with ESMTP id u4J1gX2O010940	(using
+ TLSv1 with cipher ECDHE-RSA-AES256-SHA (256 bits) verified FAIL);	Wed, 18 May
+ 2015 21:42:34 -0400
+X-DKIM: OpenDKIM Filter v2.4.3 s-domain.com u4J1gX2O010940
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mail.house.gov;
+	s=November2012-msg-mhg; t=1463622211;
+	bh=9KO1955zYmCaltWyJZlwddmlGgs26Od4DVfbs5IoDBw=;
+	h=From: Dem Leader Press Office <Dem.LeaderPressOffice@mail.house.gov>
+	b=HjRhkbqxeMWz8QM4atZxoLzq+Nj+I/P7e+F4Dd+yOaC/7Svi7tc3SmvBUgr2n80Y+
+	 lzik4U1P5eycPBh2grlBqXJyZtXaoc3tVWVz3C3w/fwu4Q2I6+ZCjPYqEK7lPAtDGV
+	 X3SBUc7ykTM5hDFBltvCLVf3ZPdTzn0ciW957dic=
+Received: from HEOC-domain.com ([fe80::48f5:8d7c:52b4:c22d]) by
+ HEOC-domain.com ([::1]) with mapi id 14.03.0279.002; Wed, 18 May 2015 
+ 21:42:29 -0400
+From: Dem Leader Press Office <Dem.LeaderPressOffice@mail.house.gov>
+Subject: =?Windows-1252?Q?Key_Vote_Alert:_House_Democrats_Fighting_GOP=92s_Agenda_?=
+ =?Windows-1252?Q?of_Discrimination_&_Intolerance?=
+Thread-Topic: =?Windows-1252?Q?Key_Vote_Alert:_House_Democrats_Fighting_GOP=92s_Agenda_?=
+ =?Windows-1252?Q?of_Discrimination_&_Intolerance?=
+Thread-Index: AdGxb2wNesZW5UidT4+EYZYTUh/s4Q==
+Date: Thu, 19 May 2015 01:42:28 +0000
+Message-ID: <0324user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+x-originating-ip: [143.231.232.80]
+Content-Type: multipart/related;
+	boundary="_004_0324D544C39D274A863367EBA5B0644E4E4238E7HEOCHRM02USHous_";
+	type="multipart/alternative"
+To: Undisclosed recipients:;
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+[cid:image001.jpg@01D12C3B.5FDF0900]<domain.com>
+
+May 18, 2015 
+
+Key Vote Alert: House Democrats Fighting GOP=92s Agenda of
+Discrimination & Intolerance
+
+Republicans in Congress are acting shocked that the forces of intolerance, =
+bigotry and narrow-mindedness have risen to the top of their Party.  But th=
+e reality is that, time and time again, this Republican Congress has worked=
+ to turn discrimination into legislation.  Sadly, Republicans have doubled =
+down on this agenda of discrimination and intolerance in the Defense Author=
+ization bill.
+
+In a dead-of-night markup, Republicans added a radical amendment that would=
+ effectively overturn President Obama=92s historic executive order protecti=
+ng LGBT workers in federal contracts, therefore enabling discrimination wit=
+h taxpayer funds.  In the same markup, they acted to ensure that a prominen=
+t, taxpayer-funded American military school continues to fly the symbol of =
+hate that is the Confederate Battle Flag.
+
+We=92ve seen a lot of empty talk from Republicans about being shocked at th=
+e hateful and divisive ideas from Donald Trump =96 but let=92s see if their=
+ votes match their rhetoric.
+
+House Democrats=92 Motion to domain.com, offered by Assistant Democratic Lead=
+er James Clyburn and Congressman Sean Patrick Maloney, would reject the dis=
+criminatory actions of House Republicans in the NDAA.  The Democratic MTR w=
+ould allow a final amendment that would:
+
+=B7         Strike Republicans=92 extreme attempt to target LGBT Americans =
+for discrimination, and
+
+=B7         domain.com the Confederate Battle Flag from flying over The Citad=
+el or any other institution that trains military officers with taxpayer mon=
+ey.
+
+It is long past time for House Republicans to actually rise up against thei=
+r Party=92s appalling agenda of discrimination and intolerance =96 instead =
+of just talking about it.  House Republicans should reevaluate their radica=
+lism, and join with Democrats to protect the security and equality of all A=
+mericans.
+
+________________________________
+domain.com<<<link>>> =96 Twitter<<<link>>
+domain.com/nancypelosi> =96 YouTube<<<link>>> =96=
+ Flickr<<<link>>> =96 Facebook<<<link>>
+.domain.com/NancyPelosi> =96 The Gavel<<<link>>
+og/>
+

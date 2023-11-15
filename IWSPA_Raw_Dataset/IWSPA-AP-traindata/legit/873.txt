@@ -1,0 +1,151 @@
+<x-flowed>
+Phil - here's the text minus figures and links... It's subject to a little 
+revision, but let me know if there are any factual or emphasis issues that 
+are perhaps misplaced.
+Thanks
+Gavin
+========
+Of buckets and blogs
+This last week has been an interesting one for observers of how climate 
+change is covered in the media and online. On Wednesday an interesting 
+paper (Thompson et al) was published in Nature, pointing to a clear 
+artifact in the sea surface temperatures in 1945 and associating it with 
+the changing mix of fleets and measurement techniques at the end of World 
+War II. The mainstream media by and large got the story right - puzzling 
+anomaly tracked down, corrections in progress after a little scientific 
+detective work, consequences minor - even though a few headline writers 
+got a little carried away in equating a specific dip in 1945 ocean 
+temperatures with the more gentle 1940s-1970s cooling that is seen in the 
+land measurements. However, some blog commentaries have gone completely 
+overboard on the implications of this study in ways that are very 
+revealing of their underlying biases.
+The best commentary came from John Nielsen-Gammon's new blog where he 
+described very clearly how the uncertainties in data - both the known 
+unknowns and unknown unknowns - get handled in practice (read this and 
+then come back). Stoat, quite sensibly, suggested that it's a bit early to 
+be expressing an opinion on what it all means. But patience is not one of 
+the blogosphere's virtues and so there was no shortage of people 
+extrapolating wildly to support their pet hobbyhorses. This in itself is 
+not so unusual; despite much advice to the contrary, people (the media and 
+bloggers) tend to weight individual papers that make the news far more 
+highly than the balance of evidence that really underlies assessments like 
+the IPCC. But in this case, the addition of a little knowledge made the 
+usual extravagances a little more scientific-looking and has given it some 
+extra steam.
+Like almost all historical climate data, ship-board sea surface 
+temperatures (SST) were not collected with long term climate trends in 
+mind. Thus practices varied enormously among ships and fleets and over 
+time. In the 19th Century, simple wooden buckets would be thrown over the 
+side to collect the water (a non-trivial exercise when a ship is moving, 
+as many novice ocean-going researchers will painfully recall). Later on, 
+special canvas buckets were used, and after WWII, insulated 'buckets' 
+became more standard - though these aren't really buckets in the 
+colloquial sense of the word as the photo shows (pay attention to this 
+because it comes up later).
+The thermodynamic properties of each of these buckets are different and so 
+when blending data sources together to get an estimate of the true 
+anomaly, corrections for these biases are needed. For instance, the canvas 
+buckets give a temperature up to 1C cooler in some circumstances (that 
+depend on season and location) than the modern insulated buckets. 
+Insulated buckets have a slight cool bias compared to temperature 
+measurements that are taken at the inlet for water in the engine room 
+which is the most used method at present. Automated buoys which became 
+more common in recent decades tend to be cooler than the engine intake 
+measures as well. The recent IPCC report had a thorough description of 
+these issues (section 3.B.3) fully acknowledging that these corrections 
+were a work in progress.
+And that is indeed the case. The collection and digitisation of the ship 
+logbooks is a huge undertaking and continues to add significant amounts of 
+20th Century and earlier data to the records. This dataset (ICOADS) is 
+continually growing, and the impacts of the bias adjustments are 
+continually being assessed. The biggest transitions in measurements 
+occurred at the beginning of WWII between 1939 and 1941 when the sources 
+of data switched from European fleets to almost exclusively US fleets (and 
+who tended to use engine inlet temperatures rather than canvas buckets). 
+This offset was large and dramatic and was identified more than ten years 
+ago from comparisons of simultaneous measurements of night-time marine air 
+temperatures (NMAT) which did not show such a shift. The experimentally 
+based adjustment to account for the canvas bucket cooling brought the sea 
+surface temperatures much more into line with the NMAT series (Folland and 
+Parker, 1995). (Note that this reduced the 20th Century trends in SST).
+More recent work (for instance, at this workshop in 2005), has focussed on 
+refining the estimates and incorporating new sources of data. For 
+instance, the 1941 shift in the original corrections, was reduced and 
+pushed back to 1939 with the addition of substantial and dominant amounts 
+of US Merchant Marine data (which mostly used engine inlets temperatures).
+The version of the data that is currently used in most temperature 
+reconstructions is based on the work of Rayner and colleagues (reported in 
+2006). In their discussion of remaining issues they state:
+Using metadata in the ICOADS it is possible to compare the 
+contributions made by different countries to the marine component of the 
+global temperature curve. Different countries give different advice to 
+their observing fleets concerning how best to measure SST. Breaking the 
+data up into separate countries' contributions shows that the assumption 
+made in deriving the original bucket correctionsthat is, that the use of 
+uninsulated buckets ended in January 1942is incorrect. In particular, data 
+gathered by ships recruited by Japan and the Netherlands (not shown) are 
+biased in a way that suggests that these nations were still using 
+uninsulated buckets to obtain SST measurements as late as the 1960s. By 
+contrast, it appears that the United States started the switch to using 
+engine room intake measurements as early as 1920.
+They go on to mention the modern buoy problems and the continued need to 
+work out bias corrections for changing engine inlet data as well as minor 
+issues related to the modern insulated buckets. For example, the 
+differences in co-located modern bucket and inlet temperatures are around 
+0.1 deg C:
+(from John Kennedy).
+However it is one thing to suspect that biases might remain in a dataset 
+(a sentiment shared by everyone), it is quite another to show that they 
+are really there. The Thompson et al paper does the latter quite 
+effectively by removing variability associated with some known climate 
+modes (including ENSO) and seeing the 1945 anomaly pop out clearly. In 
+doing this in fact, they show that the previous adjustments in the pre-war 
+period were probably ok (though there is substantial additional evidence 
+of that in any case - see the references in Rayner et al, 2006). The 
+Thompson anomaly seems to coincide strongly with the post-war shift back 
+to a mix of US, UK and Dutch ships, implying that post-war bias 
+corrections are indeed required and significant. This conclusion is not 
+much of a surprise to any of the people working on this since they have 
+been saying it in publications and meetings for years. The issue is of 
+course quantifying and validating the corrections, for which the Thompson 
+analysis might prove useful. The use of canvas buckets by the Dutch, 
+Japanese and some UK ships is most likely to blame, and given the mix of 
+national fleets shown above, this will make a noticeable difference in 
+1945 up to the early 1960s maybe - the details will depend on the seasonal 
+and areal coverage of those sources compared to the dominant US 
+information. The schematic in the Independent is probably a good first 
+guess at what the change will look like (remember that the ocean changes 
+are constrained by the NMAT record shown above).
+So far, so good. The fun for the blog-watchers is what happened next. What 
+could one do to get the story all wrong? First, you could incorrectly 
+assume that scientists working on this must somehow be unaware of the 
+problems (that is belied by the frequent mention of post WWII issues in 
+workshops and papers since at least 2005, but never mind). Next, you could 
+conflate the 'buckets' used in recent decades (as seen in the graphs in 
+Kent et al 2007's discussion of the ICOADS meta-data) with the buckets in 
+the pre-war period (see photo above). If you do make that mistake however, 
+you can extrapolate to get some rather dramatic (if erroneous) 
+conclusions. For instance, that the effect of the 'corrections' would be 
+to halve the SST trend from the 1970s. Gosh! (The mismatch this would 
+create with the independent NMAT data series should not be mentioned). But 
+there is more! You could take the (incorrect) prescription based on the 
+bucket confusion, apply it to the full global temperatures (land included, 
+hmm) and think that this merits a discussion on whether the whole IPCC 
+edifice had been completely undermined (Answer: no). And it goes on - the 
+bucket confusion was pointed out but the complaint switches to the scandal 
+that it wasn't properly explained.
+All this shows is wishful thinking overcoming logic. However many times 
+there is a similar rush to judgment that is subsequently showed to be 
+based on nothing, it still adds to the vast array of similar 'evidence' 
+that keeps getting trotted out by by the ill-informed. The excuse that 
+these are just exploratory exercises in what-if thinking wears a little 
+thin when the 'what if' always leads to the same (desired) conclusion. 
+This week's play-by-play was quite revealing on that score.
+*--------------------------------------------------------------------*
+| Gavin Schmidt             NASA/Goddard Institute for Space Studies |
+|                           2880 Broadway                            |
+| Tel: (212) 678 5627       New York, NY 10025                       |
+|                                                                    |
+| gschmidt@giss.nasa.gov    <<link>>~gavin          |
+*--------------------------------------------------------------------*
+</x-flowed>

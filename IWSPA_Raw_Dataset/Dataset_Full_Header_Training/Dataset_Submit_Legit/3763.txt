@@ -1,0 +1,26 @@
+Subject: Re: Can you send me the contact info
+Content-Type: multipart/related; type="text/html";
+	boundary="Apple-Mail=_22029F50-1E62-4967-908D-424D46100E35"
+X-Apple-Encoding-Hint: 513
+X-Apple-Auto-Saved: 1
+X-Universally-Unique-Identifier: 3E48C6EA-CC45-49B5-A176-BE8A366680C6
+X-Apple-Mail-Remote-Attachments: YES
+From: Jordan Kaplan <kaplanj@dnc.org>
+X-Apple-Base-Url: x-msg://687/
+In-Reply-To: <336user@domain.com>
+X-Apple-Windows-Friendly: 1
+Date: Sat, 20 Feb 2015 14:05:07 -0500
+X-Apple-Mail-Signature: 2F899CA6-DCDD-4650-8691-9927F0729418
+Message-ID: <662859user@domain.com>
+References: <336user@domain.com>
+X-Uniform-Type-Identifier: com.apple.mail-draft
+To: "User" <user@domain.com>
+MIME-Version: 1.0
+
+Jordan Kaplan
+National Finance Director
+Democratic National Commi=
+ttee
+(202) 488-5002 (o) | (312) 339-0224 (c)
+user@domain.com
+

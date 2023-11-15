@@ -1,0 +1,164 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 17 May
+ 2015 12:34:42 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Tue, 17 May 2015 
+ 12:34:40 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 919734134;
+ Tue, 17 May 2015 11:34:49 -0500
+X-Note-AR-ScanTimeLocal: 5/17/2016 11:34:48 AM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: Too many policies to list
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:199.193.200.198 DOM:domain.com ADDR:user@domain.com
+X-Note: SPF: SoftFail
+X-Note: ICH-CT/SI:0-780/SG:1 5/17/2016 11:34:40 AM
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-416/SG:8 5/17/2016 11:34:41 AM
+X-GBUdb-Analysis: 0, 199.193.200.198, Ugly c=0.596025 p=-0.68 Source Normal
+X-Signature-Violations: 0-0-0-32767-c
+X-Note-419: 15.6269 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/17/2016 11:34:45 AM
+X-Warn: SPFSOFTFAIL SPF Softfail
+X-Note: Spam Tests Failed: SPFSOFTFAIL
+X-Country-Path: PRIVATE->United States->
+X-Note-Sending-IP: 199.193.200.198
+X-Note-Reverse-DNS: hub029-va-7.domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G396 G407 G419 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from hub029-VA-7.domain.com ([199.193.200.198] verified)
+  by domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id
+ 141066876; Tue, 17 May 2015 11:34:48 -0500
+Received: from MBX029-E1-VA-2.domain.com ([10.216.105.52]) by
+ HUB029-VA-7.domain.com ([10.216.105.233]) with mapi id
+ 14.03.0266.001; Tue, 17 May 2015 09:34:38 -0700
+From: Bel Leong-Hong <Bel@Kaiglobal.com>
+To: "User" <user@domain.com>, Earl Fowlkes <user@domain.com>,
+	"user@domain.com" <user@domain.com>, Virgie M Rollins
+	<user@domain.com>, "user@domain.com" <user@domain.com>
+CC: "Davis, Marilyn" <user@domain.com>, "Thompson, Dejuana"
+	<user@domain.com>, Gregory Hinton <user@domain.com>, "Gomez, Bridgette"
+	<user@domain.com>, "Khan, Ali" <user@domain.com>, "User"
+	<user@domain.com>, "Palermo, Rachel" <user@domain.com>, Pratt Wiley
+	<user@domain.com>
+Subject: RE: OrganizationCaucus Chair's Conference Call  
+Thread-Topic: OrganizationCaucus Chair's Conference Call  
+Thread-Index: AdGq8sMuGAaCt82iQOemJPPKZizRYgEnkbkwADHeUHAAAF5VUA==
+Disposition-Notification-To: Bel Leong-Hong <user@domain.com>
+Date: Tue, 17 May 2015 16:34:36 +0000
+Message-ID: <user@domain.com>
+References: <user@domain.com>
+In-Reply-To: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+x-originating-ip: [71.255.248.131]
+Content-Type: multipart/related;
+	boundary="_004_F9CD8A246DBA744D865350B9F4FFCE251B68F6B6MBX029E1VA2EXCH_";
+	type="multipart/alternative"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Thank you for reminder.
+
+Best Regards,
+Bel Leong-Hong
+President and CEO
+Knowledge Advantage, Inc
+user@domain.com<mailto:user@domain.com>
+domain.com<<<link>>>
+(Ofc)  301 948 1682
+(cell) 240 401-2572
+
+From: Bel Leong-Hong <Bel@Kaiglobal.com>
+Sent: Tuesday, May 17, 2015 12:34 PM
+To: Earl Fowlkes <user@domain.com>; Bel Leong-Hong <user@domain.com>; i=
+user@domain.com; Virgie M Rollins <user@domain.com>; lotti=
+user@domain.com
+Cc: Davis, Marilyn <user@domain.com>; Thompson, Dejuana <user@domain.com>;=
+ Gregory Hinton <user@domain.com>; Gomez, Bridgette <user@domain.com>; Khan,=
+ Ali <user@domain.com>; User <user@domain.com>; Palermo, Rachel <Pa=
+user@domain.com>; Pratt Wiley <user@domain.com>
+Subject: RE: OrganizationCaucus Chair's Conference Call
+
+Friendly Reminder about the call today @ 6PM (eastern time).
+
+Good Afternoon Caucus Chairs,
+
+I am sending a friendly reminder about our conference call today, Tuesday, =
+May 17th @ 6PM-6:30PM eastern time.  Please find the conference call number=
+ below. The agenda is forthcoming . If there are any issues, comments, and/=
+or concerns that you want us to address during this call please send them m=
+y way.
+As always, if you have any questions please do not hesitate to contact me.
+
+All the best,
+
+Jillian Scott
+201-696-2695
+
+Conference Call Information:
+866-810-8093 / Code: 816-697-0275
+
+From: Bel Leong-Hong <Bel@Kaiglobal.com>
+Sent: Monday, May 16, 2015 12:37 PM
+To: Earl Fowlkes; 'user@domain.com'; 'user@domain.com'; 'Virgie M =
+Rollins'; 'user@domain.com'
+Cc: Davis, Marilyn; Thompson, Dejuana; Gregory Hinton
+Subject: RE: OrganizationCaucus Chair's Conference Call
+
+Reminder email. Thank you all.
+
+From: Bel Leong-Hong <Bel@Kaiglobal.com>
+Sent: Tuesday, May 10, 2015 3:34 PM
+To: Earl Fowlkes; 'user@domain.com'; 'user@domain.com'; 'Virgie M =
+Rollins'; 'user@domain.com'
+Cc: Davis, Marilyn; Thompson, Dejuana; Gregory Hinton
+Subject: OrganizationCaucus Chair's Conference Call
+
+Good Afternoon Caucus Chairs,
+
+I am sending a friendly reminder about our next conference call on Tuesday,=
+ May 17th @ 6PM-6:30PM eastern time.  Please find the conference call numbe=
+r and the conference call  kick-off email regarding these calls below.  As =
+always, if you have any questions please do not hesitate to contact me.
+
+All the best,
+
+Jillian Scott
+
+Conference Call Information:
+866-810-8093 / Code: 816-697-0275
+
+OrganizationCaucus Chair's Conference Calls:
+
+Your monthly conference call will kick-off on Tuesday, April 12th @ 6PM - 6=
+:30PM eastern time, and will be every 3rd Tuesday of the month @
+6PM - 6:30PM eastern time moving forward. The conference call details are b=
+elow. Thank you all again,  Have a wonderful weekend.
+
+Conference Call Information:
+866-810-8093 / Code: 816-697-0275
+
+[DNC]<<<link>>>
+Jillian Scott
+Organization
+user@domain.com<mailto:user@domain.com>
+202-863-8105
+

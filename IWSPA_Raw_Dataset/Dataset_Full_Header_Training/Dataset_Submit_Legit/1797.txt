@@ -1,0 +1,30 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Fri, 5 Sep 2015 17:04:01 +0200
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id CE02B60033	for
+ <user@domain.com>; Fri,  5 Sep 2015 15:48:51 +0100 (BST)
+Received: by domain.com (Postfix)	id AC26DB6A001; Fri,  5 Sep 2015 
+ 17:04:01 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from domain.com (confluence.hackingteam.com
+ [192.168.200.205])	by domain.com (Postfix) with ESMTP id 9FB68B66043
+	for <user@domain.com>; Fri,  5 Sep 2015 17:04:01 +0200 (CEST)
+Date: Fri, 5 Sep 2015 17:04:01 +0200
+From: "Daniele Milan (Confluence)" <confluence@hackingteam.com>
+To: <user@domain.com>
+Message-ID: <421764185.1122.1409929441642.JavaMail.CONFLUENCE$@confluence>
+Subject: [confluence] Daniele Milan updated a "Travel" event in the "Others"
+ calendar
+Precedence: bulk
+Auto-Submitted: auto-generated
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2135562172_-_-"
+
+  Daniele Milan updated a "Travel" event in the Others calendar Sep 1718, 2014 All day  Walter FurlanYou are receiving this notification because you are watching the following:   Others   Sent by Atlassian Confluence 5.4.4, the Enterprise Wiki 

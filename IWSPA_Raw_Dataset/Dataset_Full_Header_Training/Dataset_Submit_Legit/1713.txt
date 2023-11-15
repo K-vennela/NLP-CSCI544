@@ -1,0 +1,69 @@
+Received: from domain.com (146.215.230.105) by
+ domain.com (43.130.141.76) with Microsoft SMTP Server id
+ 8.3.297.1; Mon, 20 Jan 2015 11:29:19 -0800
+Received: from domain.com ([160.33.194.229])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s0KJTJxY020485	for <user@domain.com>; Mon, 20 Jan 2015 
+ 19:29:19 GMT
+Received: from mail223-tx2-domain.com (mail-domain.com [65.55.88.118])
+	by domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s0KJTIaY016315	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128
+ verify=FAIL)	for <user@domain.com>; Mon, 20 Jan 2015 19:29:18 GMT
+Received: from mail223-tx2 (localhost [127.0.0.1])	by
+ mail223-tx2-domain.com (Postfix) with ESMTP id 1767B800252	for
+ <user@domain.com>; Mon, 20 Jan 2015 19:29:13 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:216.27.63.191;KIP:(null);UIP:(null);SRV:BULK;H:domain.com;RD:domain.com;EFVD:NLI
+X-SpamScore: -1
+X-BigFish: vps-1(zzf52Iec9Ie0eahc857hzz1f42h2148h208ch1ee6h1de0h1fdah2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6h2150izz8275ch1de098h1def03h17326ah1def87h8275bh1bc7b9h1def86h1de097h1de096h186068hz2fheh5eh5fh839h8aahd24he5bh10d2h1288h12a5h137ah139eh13eah1441h1537h158dh162dh1631h16a6h1758h1898h18e1h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1de2h1dfeh1dffh1e1dh1e23h1fe8h1ff5h20f0h2218h2216h226dh24afh2327h2336h2438h2461h2487h1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail223-tx2: domain of domain.com designates 216.27.63.191 as permitted sender) client-ip=216.27.63.191; user@domain.com; helo=domain.com ;1.domain.com ;
+Received: from mail223-tx2 (localhost.localdomain [127.0.0.1]) by mail223-tx2
+ (MessageSwitch) id 1390246131200845_26552; Mon, 20 Jan 2015 19:28:51 +0000
+ (UTC)
+Received: from domain.com (unknown [10.9.14.245])	by
+ mail223-domain.com (Postfix) with ESMTP id 2CCFC20005B	for
+ <user@domain.com>; Mon, 20 Jan 2015 19:28:51 +0000 (UTC)
+Received: from domain.com (216.27.63.191) by domain.com
+ (10.9.99.143) with Microsoft SMTP Server id 14.16.227.3; Mon, 20 Jan 2015 
+ 19:28:50 +0000
+Received: from localhost (172.16.0.51) by domain.com id hrlsf41kmf8c for
+ <user@domain.com>; Mon, 20 Jan 2015 14:28:50 -0500 (envelope-from
+ <user@domain.com>)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=domain.com; s=bdk; h=From: Los Angeles Confidential <LosAngelesConfidential@NicheMediaLLC.com>
+  bh=cMJGix04hkMsREXpc4hYTAVFD2HnymwA9c6gIODRESw=;
+  b=bHKNOLXPUHAw3VmSM3/ZyZZWnv9MajfrT0fEF1MNuF3qTBg3KC/HnKiR4U6M1SDRrmu0L/E3Bixwf4+sXUEGuBU5ymwDeSXBVDaPsKK83QBXB2l4Z2GFdeiItDsORbGerpEXGM0ur60GX8zyRkWeScOQYyH8ybFLfZd7xJN2x1M=
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=bdk; d=domain.com;
+  h=From: Los Angeles Confidential <LosAngelesConfidential@NicheMediaLLC.com>
+  b=GuMPJMKE9d7zTPW3HKJXkcgTPs3ih4bPIGuGQDLQljcVQZqu0S0sajsg+OqxCr6kiJc9VvViuZDVWx//SD3F3QtcvlggmAUuqOyYyI8yWcjNO71iJBSNzF5v1ru4DN9aTLE546BN6UF+y7QBpRDMKKFrX+meOZA+qpcDP921aIE=;
+From: Los Angeles Confidential <LosAngelesConfidential@NicheMediaLLC.com>
+Reply-To: <user@domain.com>
+To: <user@domain.com>
+Subject: Join Host Robin Thicke as L.A. Confidential Celebrates the 2015 Grammys
+Date: Mon, 20 Jan 2015 14:28:47 -0500
+X-Mailer: BM23 Mail
+Sender: <user@domain.com>
+List-Unsubscribe: <mailto:user@domain.com>
+X-campaignID: bm23_ajqaxblbrbdrrkawtzybybgtacfzbkn
+x-pviq: 000235-000596-000004-000017-669118
+Message-ID: <user@domain.com>
+Return-Path: user@domain.com
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+If you are having trouble reading this email, you may view the online version
+Los Angeles Confidential Magazine Robin Thicke January 24        
+
+Los Angeles Confidential Magazine
+
+and
+
+The GRAMMY Museum at L.A. LIVE
+
+invite you to celebrate music's biggest night
+
+with cover star and Grammy nominated artist
+
+Robin Th
+

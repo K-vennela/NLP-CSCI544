@@ -1,0 +1,20 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (confluence.hackingteam.com [192.168.200.205])
+	by domain.com (Postfix) with ESMTP id EA99EB6603D
+	for <user@domain.com>; Fri, 21 Feb 2015 09:57:00 +0100 (CET)
+Date: Fri, 21 Feb 2015 09:57:00 +0100
+From: "Daniele Milan (Confluence)" <confluence@hackingteam.com>
+To: user@domain.com
+Message-ID: <649269591.1495.1392973020838.JavaMail.CONFLUENCE$@confluence>
+Subject: [confluence] Daniele Milan updated a event in the "Vacation &
+ leave" calendar
+Precedence: bulk
+Auto-Submitted: auto-generated
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2135562172_-_-"
+
+  Daniele Milan updated a event in the Vacation & leave calendar Mar 0310, 2014 All day  Personal LeaveYou are receiving this notification because you are watching the following:   Vacation & leave   Sent by Atlassian Confluence 5.4.1, the Enterprise Wiki 

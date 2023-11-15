@@ -1,0 +1,118 @@
+X-Sender: user@domain.com
+X-Mailer: QUALCOMM Windows Eudora Version 6.1.1.1
+Date: Fri, 04 Feb 2005 16:04:57 -0500
+To: Phil Jones <p.jones@uea.ac.uk>, user@domain.com,
+tom crowley <user@domain.com>, tom crowley <user@domain.com>,
+user@domain.com, user@domain.com,
+Keith Briffa <k.briffa@uea.ac.uk>, Caspar Ammann <user@domain.com>
+From: "Michael E. Mann" <user@domain.com>
+Subject: Fwd: Re: FW: "hockey stock" methodology misleading
+X-UEA-MailScanner-Information: Please contact the ISP for more information
+X-UEA-MailScanner: Found to be clean
+X-UEA-MailScanner-SpamScore: s
+sorry, forgot to attach the paper...
+mike
+Date: Fri, 04 Feb 2005 15:54:15 -0500
+To: Phil Jones <p.jones@uea.ac.uk>, user@domain.com, Tom Crowley, Tom Crowley,
+user@domain.com, user@domain.com, Keith Briffa <k.briffa@uea.ac.uk>
+From: "Michael E. Mann" <user@domain.com>
+Subject: Fwd: Re: FW: "hockey stock" methodology misleading
+Date: Fri, 04 Feb 2005 15:52:53 -0500
+To: Andy Revkin <user@domain.com>
+From: "Michael E. Mann" <user@domain.com>
+Subject: Re: FW: "hockey stock" methodology misleading
+Hi Andy,
+The McIntyre and McKitrick paper is pure scientific fraud. I think you'll find this
+reinforced by just about any legitimate scientist in our field you discuss this with.
+Please see the RealClimate response:
+[1]<<link>>
+and also:
+[2]<<link>>
+The Moberg et al paper is at least real science. But there are some real problems with
+it (you'll want to followup w/ people like Phil Jones for a 2nd opinion).
+While the paper actually reinforces the main conclusion of previous studies (it also
+finds the late 20th century to be the warmest period of the past two millennia), it
+challenges various reconstructions
+using tree-ring information (which includes us, but several others such as Jones et al,
+Crowley, etc). I'm pretty sure, by the way, that a very similar version of the paper was
+rejected previously by Science. A number of us are therefore very surprised that Nature
+is publishing it, given a number of serious problems:
+Their method for combining frequencies is problematic and untested:
+A. they only use a handful of records, so there is a potentially large sampling bias.
+B. worse, they use different records for high-frequencies and low-frequencies, so the
+bias isn't even the same--the reconstruction is apples and oranges.
+C. The wavelet method is problematic. We have found in our own work that you cannot
+simply combine the content in different at like frequencies, because different proxies
+have different signal vs. noise characteristics at different frequencies--for some
+records, there century-scale variability is likely to be pure noise. They end up
+therfore weighting noise as much as signal. For some of the records used, there are real
+age model problems. The timescale isn't known to better than +/- a couple hundred years
+in several cases. So when they average these records together, the century-scale
+variability is likely to be nonsense.
+D. They didn't do statistical verification. This is absolutely essential for such
+reconstructions (see e.g. the recent Cook et al and Luterbacher et al papers in
+Science). They should have validated their reconstruction against long-instrumental
+records, as we and many others have. Without having done so, there is no reason to
+believe the reconstruction has any reliability. This is a major problem w/ the paper. It
+is complicated by the fact that they don't produce a pattern, but just a hemispheric
+mean--that makes it difficult to do a long-term verification. But they don't attempt any
+sort of verification at all! There are some decades known to be warm from the available
+instrumental records (1730s, some in the 16th century) which the Moberg reconstruction
+completely misses--the reconstruction gives the impression that all years are cold
+between 1500 and 1750. The reconstruction would almost certainly  fail cross-validation
+against long instrumental records. If so, it is an unreliable estimate of past changes.
+We're surprised the Nature Reviewers didn't catch this.
+E. They also didn't validate their method against a model (where I believe it would
+likely fail). We have done so w/ our own "hybrid frequency-domain" method that combines
+information separately at low and high-frequencies, but taking into account the problem
+mentioned above. This is described in:
+Rutherford, S., Mann, M.E., Osborn, T.J., Bradley, R.S., Briffa, K.R., Hughes, M.K.,
+Jones, P.D., [3]Proxy-based Northern Hemisphere Surface Temperature Reconstructions:
+Sensitivity to Methodology, Predictor Network, Target Season and Target Domain, Journal
+of Climate, in press (2005).
+In work that is provisionally accepted in "Journal of Climate" (draft attached), we show
+that our method gives the correct history using noisy "pseudoproxy" records derived from
+a climate model simulation with large past changes in radiative forcing. Moberg et al
+have not tested their method in such a manner.
+F. They argue selectively for favorable comparison w/ other work:
+(1)  Esper et al: when authors rescaled the reconstruction using the full instrumental
+record (Cook et al, 2004), they found it to be far more similar to Mann et al, Crowley
+and Lowery, Jones et al, and the roughly dozen or so other empirical and model estimates
+consistent w/ it. Several studies, moreover [see e.g.: Shindell, D.T., Schmidt, G.A.,
+Mann, M.E., Faluvegi, G., [4]Dynamic winter climate response to large tropical volcanic
+eruptions since 1600, Journal of Geophysical Research, 109, D05104, doi:
+10.1029/2003JD004151, 2004.] show that extratropical, land-only summer temperatures,
+which Esper et al emphasises, are likely to  biased towards greater variability--so its
+an apples and oranges comparison anyway.
+(2) von Storch et al: There are some well known problems here: (a) their forcing is way
+too large (Foukal at al in Science a couple months back indicates maybe 5 times too
+large), DKMI uses same model, more conventional forcings, and get half the amplitude and
+another paper submitted recently by the Belgium modeling group suggests that some severe
+spin-up/initialization problems give the large century-scale swings in the model--these
+are not reproducible.
+(3) Boreholes: They argue that Boreholes are "physical measurements" but many papers in
+the published literature have detailed the various biases in using continental ground
+surface temperature to estimate past surface air temperature changes--changing snow
+cover gives rise to a potentially huge bias (see e.g. : Mann, M.E., Schmidt, G.A.,
+[5]Ground vs. Surface Air Temperature Trends: Implications for Borehole Surface
+Temperature Reconstructions,Geophysical Research Letters, 30 (12), 1607, doi:
+10.1029/2003GL017170, 2003).
+Methods that try to correct for this give smaller amplitude changes from borehole
+temperatures:
+Mann, M.E., Rutherford, S., Bradley, R.S., Hughes, M.K., Keimig, F.T., [6]Optimal
+Surface Temperature Reconstructions using Terrestrial Borehole Data, Journal of
+Geophysical Research, 108 (D7), 4203, doi: 10.1029/2002JD002532, 2003]
+[[7]Correction(Rutherford and Mann, 2004)]
+Most reconstructions and model estimates still *sandwich" the Mann et al reconstruction.
+See e.g. figure 5 in: Jones, P.D., Mann, M.E., [8]Climate Over Past Millennia, Reviews
+of Geophysics, 42, RG2002, doi: 10.1029/2003RG000143, 2004.
+Ironically, MM say our 15th century is too cold, while Moberg et al say its too warm.
+Hmmm....
+To recap, I hope you don't mention MM at all. It really doesn't deserve any additional
+publicity. Moberg et al is more deserving of discussion, but, as outlined above, there
+are some real problems w/ it. I have reason to believe that Nature's own commentary by
+Schiermeier will actually be somewhat critical of it.
+I'm travelling and largely unavailable until monday. If you need to talk, you can
+possibly reach me at 434-227-6969 over the weekend.
+I hope this is of some help. Literally got to run now...
+mike

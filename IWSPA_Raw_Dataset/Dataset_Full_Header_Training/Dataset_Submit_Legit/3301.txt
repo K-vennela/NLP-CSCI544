@@ -1,0 +1,87 @@
+Received: from domain.com (146.215.230.102) by
+ domain.com (43.130.141.78) with Microsoft SMTP Server id
+ 8.3.342.0; Fri, 4 Jul 2015 07:42:13 -0700
+Received: from domain.com ([160.33.194.231])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s64EgCKH017999	for <user@domain.com>; Fri, 4 Jul 2015 
+ 14:42:13 GMT
+Received: from mail119-va3-domain.com (mail-domain.com
+ [216.32.180.112])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s64Ei4Qc009631
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Fri, 4 Jul 2015 14:44:04 GMT
+Received: from mail119-va3 (localhost [127.0.0.1])	by
+ mail119-va3-domain.com (Postfix) with ESMTP id 664A94C0201	for
+ <user@domain.com>; Fri,  4 Jul 2015 14:42:12 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:64.34.57.228;KIP:(null);UIP:(null);SRV:BULK;H:mx-domain.com;RD:mx-domain.com;EFVD:NLI
+X-SpamScore: 6
+X-BigFish: vps6(z59c9hz9371Ic89bhe0eah758Ic857hdbb0izz1f42h1ee6h1de0h2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6h208ch1fdahzebhz8275ch1d7338h1de098h1def03h17326ah1def87h8275bh1bc7b9h8275dh1def86h2ba5I1de097h186068h172c6ch1ce120h85bfl1df164i1a691ci177f16iz2fheh5fh839h8aahe5bh1288h12a5h137ah139eh13eah1441h14ddh1504h1537h162dh1631h1758h1898h18e1h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1e23h1fe8h1ff5h20f0h2218h2216h226dh24afh2327h2336h2438h2461h2487h24d7h2516h2545h2565h25f6h2605h268bh26d3h27e2h282bh28a1h28b0h29d0h2a24h2b05h214ai)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail119-va3: domain of domain.com designates 64.34.57.228 as permitted sender) client-ip=64.34.57.228; user@domain.com; helo=mx-domain.com ;domain.com ;
+Received: from mail119-va3 (localhost.localdomain [127.0.0.1]) by mail119-va3
+ (MessageSwitch) id 1404484929838172_25594; Fri,  4 Jul 2015 14:42:09 +0000
+ (UTC)
+Received: from domain.com (unknown [10.7.14.227])	by
+ mail119-domain.com (Postfix) with ESMTP id C4F3980063	for
+ <user@domain.com>; Fri,  4 Jul 2015 14:42:09 +0000 (UTC)
+Received: from mx-domain.com (64.34.57.228) by domain.com
+ (10.7.99.24) with Microsoft SMTP Server id 14.16.227.3; Fri, 4 Jul 2015 
+ 14:42:09 +0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; s=mt; d=domain.com;
+ h=Date:From: Deadline.com <alerts@deadline.com>
+ bh=Zgw6VCyhZabNpmSOrNke6fInd4Q=;
+ b=AMHHMGHPpzUVzNqdNp89ee9K2Q1kJWq9PUjtOX1SDbPBrB77wGoWD80NmgWMZYSYHSwuaX+J+Rgx
+   TNbAhGvoCCW5kggBax22UFUdL79W2eVxUuDuWQqJLmycancHVi5OKAw5bUGjqO8pxAaD9h9CQx6n
+   rPtrwS5mHsU5iTAdLos=
+Received: from nyp1-p-p4136-prd-jma-04.sailthru.pvt (64.34.57.233) by
+ mx-domain.com id hmquke1qqbsf for <user@domain.com>; Fri, 4 Jul
+ 2015 10:42:15 -0400 (envelope-from <user@domain.com>)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1404484916;
+	s=sailthru; d=deadline.com;
+	h=Date:From: Deadline.com <alerts@deadline.com>
+	bh=HDmtpKs6CkUbzfMOoAg08h+tIVp/2xQrTGIRAw6h5gE=;
+	b=dqUbNPD6KbwgXIjyd6ahc2JynBDBtDLRM3Nrd/ETS1bir28jRJUsLnntm13aRQBE
+	PWPwj0iHBICA5lZMIuob8E9Tfbz6dxVcMh6h6n7QEmkiJDHtymmQj9di4uFYYJVxfUq
+	wngWH317MZKNKCYs0jn74hb5x4wHT9/8uDE1Gr8Y=
+Date: Fri, 4 Jul 2015 10:41:56 -0400
+From: Deadline.com <alerts@deadline.com>
+To: <user@domain.com>
+Message-ID: <20140704144156.2796775.5547@domain.com>
+Subject: [domain.com] BOX OFFICE: July 4th Holiday Shaping Up To Be A
+ Snorefest
+Precedence: bulk
+X-TM-ID: 20140704144156.2796775.5547
+X-Info: Message sent by domain.com customer Deadline
+X-Info: We do not domain.com unsolicited commercial email
+X-Info: Please report abuse by forwarding complete headers to
+X-Info: user@domain.com
+X-Mailer: domain.com
+X-JMailer: nyp1-p-p4136-prd-jma-04.sailthru.pvt
+X-IADB-IP: 65.39.215.25
+X-IADB-IP-REVERSE: 25.215.39.65
+X-IADB-URL: <<link>>
+X-Unsubscribe-Web: <<link>>
+List-Unsubscribe: <<<link>>>, <mailto:user@domain.com>
+X-rpcampaign: stdgp2796775
+Return-Path: user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+ <<link>>   
+
+<<link>>        
+
+ <<link>>   
+
+<<link>>        
+
+ <<link>>   
+
+Weekend Box Office News Alert:
+
+BOX OFFICE: July 4th Holiday Shaping Up To Be A Snorefest 
+
+9th UPDATE, Friday, 7:40 AM: This has got to be one of the most boring five-day box office holidays in history when I'm sitting here looking at the weather radar to see how the U.S. is faring how badly the East Coast and Northeast is faring and which areas will be impacted by Arthur and how badly. If it's raining not too badly, it may drive people into the theaters, but high winds and sheets of ra Read more... 
+
+

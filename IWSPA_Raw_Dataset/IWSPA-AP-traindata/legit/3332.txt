@@ -1,0 +1,40 @@
+Dear Irina,
+The code we used in Mann/Bradley/Hughes 1998 was not changed or "improved", but there may
+be different versions of the code floating around, and in a previous email to Uli Cubasch,
+I indicated that I was not sure the version you have (from Tim Osborn), is identifical to
+the version we used in our original paper (it would require some work on my part to insure
+it gives precisely the same results, and I don't have the time to do that). I suspect,
+however, that the code is the same as the one we used in our paper and any differences, if
+they exist, should be minor (as long as the code compiles and runs correctly on the
+platform you have--the possible platform-dependence of fortran is a potential cause for
+concern here).
+Numerous people have coded up our method independently, including Ed Zorita, w/ whom I
+believe your group has a close collaboration, and my graduate student Zhang has
+successfully coded this up independently in Matlab (its a short script, which didn't take
+Zhang long to write anyway). I'm copying this message to Zhang, so that he can provide you
+with his matlab version of the code if you are interested. Because Zhang's version is in
+Matlab, it should run correctly, independently of the particular platform (an advantage
+over the fortran code) [As an aside, on a pedagogical note, I would still encourage you to
+code this up yourself].
+As I indicated in a previous email to Uli, the selection of the optimal subset of EOFS to
+retain is not automated in the code, and you need to do that yourself...The methodology we
+used is described in detail in our publications.
+We have tested this method against the approach our group now uses for  climate field
+reconstruction (Schneider RegEM approach), and find that the results are similar, but the
+cross-validation statistics improve slightly w/ the RegEM approach, which we now favor and
+use in place of the old, Mann et al approach.
+Details of this latter approach are described in these two manuscripts (as well as the
+original paper by Schneider referenced within):
+Mann, M.E., Rutherford, S., Climate Reconstruction Using 'Pseudoproxies', Geophysical
+Research Letters, 29 (10), 1501, doi: 10.1029/2001GL014554, 2002.
+available at:
+[1]ftp://holocene.evsc.virginia.edu/pub/mann/Pseudoproxy02.[2]pdf
+Rutherford, S., Mann, M.E., Delworth, T.L., Stouffer, R., Climate Field Reconstruction
+Under Stationary and Nonstationary Forcing, Journal of Climate, 16, 462-479, 2003.
+available at:
+[3]ftp://holocene.evsc.virginia.edu/pub/mann/Rutherfordetal-Jclim03.pdf
+The RegEM code is available over the web, and Scott Rutherford can provide you with the ftp
+side if you are interested. It, too, is available only in matlab.
+I hope you find this information of help.
+Best of luck w/ your research,
+mike mann

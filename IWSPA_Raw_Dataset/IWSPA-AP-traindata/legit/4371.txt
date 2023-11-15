@@ -1,0 +1,20 @@
+Tom and Mike,
+What Tom said is essentially correct. Tim Osborn here recalibrated
+each series, as a composite, against the same NH series for the April-
+Sept average north of 20N (using land only data). All this does is
+rescale the series as it is simple regression (y=ax+b). Because y is
+based on temps wrt 61-90 this means that the axis is then wrt 61-90.
+Doing this we can then add the same instrumental temp series. It also
+brings the series together and the web page was just for illustrative
+purposes. For Mike's series you get pretty much the same result by
+subtracting 0.12 from Mike's numbers as this is the difference between
+Mike's base period and 1961-90.
+There is nothing sinister going on !  I'll summarise this to Rob.
+Cheers
+Phil
+PS I seem to be stirring up loads of emails about historical data. You
+are both on those emails so you can see what crap is being written and my
+(time wasting for me) replies. Apologies for replying. I should know better
+and keep quiet.  We can all expect more of this if IPCC stays in roughly
+the same form pre-Victoria. It's relatively easy to knock historical
+records, so as long as it gets no worse than this we'll be fine.

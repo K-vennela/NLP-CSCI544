@@ -1,0 +1,62 @@
+Received: from domain.com (146.215.230.105) by
+ domain.com (43.130.141.77) with Microsoft SMTP Server id
+ 8.3.342.0; Tue, 3 Jun 2015 12:36:09 -0700
+Received: from domain.com ([160.33.194.229])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s53Ja8cT032131	for <user@domain.com>; Tue, 3 Jun 2015 
+ 19:36:08 GMT
+Received: from mail130-va3-domain.com (mail-domain.com
+ [216.32.180.111])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s53Jbenn019092
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Tue, 3 Jun 2015 19:37:40 GMT
+Received: from mail130-va3 (localhost [127.0.0.1])	by
+ mail130-va3-domain.com (Postfix) with ESMTP id 730633801E6	for
+ <user@domain.com>; Tue,  3 Jun 2015 19:36:07 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:208.75.123.225;KIP:(null);UIP:(null);SRV:BULK;H:domain.com;RD:domain.com;EFVD:NLI
+X-SpamScore: -5
+X-BigFish: vps-5(z6a7R579eh2067kzc85dhe0eah77f5h2534Kzz1f42h2148h1ee6h1de0h1fdah2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6h208chzz8275ch1de098h172cfch1def03h17326ah1def87h8275bh1bc7b9h8275dh19f402h1def86h1de097h186068h18602eh1df25ch1ce121i1df123i1deb3aiz2fheh5fh839h8aaha19hd25h10d2h1288h12a5h137ah139eh13eah1441h1537h162dh1631h1758h1898h18e1h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e23h1fe8h1ff5h20f0h2218h2216h226dh24afh2327h2336h2438h2461h2487h24d7h2516h2545h255eh25f6h2605h268bh26d3h27e2h282bh2847h28a1h28b0h214ai27ebi)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail130-va3: domain of domain.com designates 208.75.123.225 as permitted sender) client-ip=208.75.123.225; envelope-from=Arvxu+user@domain.com; helo=domain.com ;domain.com ;
+Received: from mail130-va3 (localhost.localdomain [127.0.0.1]) by mail130-va3
+ (MessageSwitch) id 1401824165226977_7332; Tue,  3 Jun 2015 19:36:05 +0000
+ (UTC)
+Received: from domain.com (unknown [10.7.14.228])	by
+ mail130-domain.com (Postfix) with ESMTP id 232FD36034F	for
+ <user@domain.com>; Tue,  3 Jun 2015 19:36:05 +0000 (UTC)
+Received: from domain.com (208.75.123.225) by
+ domain.com (10.7.99.13) with Microsoft SMTP Server id
+ 14.16.227.3; Tue, 3 Jun 2015 19:36:04 +0000
+Received: from p2-domain.com (p2-domain.com [10.252.0.103])
+	by p2-domain.com (Postfix) with ESMTP id C8C944BEE18
+	for <user@domain.com>; Tue,  3 Jun 2015 15:36:04 -0400 (EDT)
+DKIM-Signature: v=1; q=dns/txt; a=rsa-sha256; c=relaxed/relaxed; s=1000073432; d=domain.com; h=to:X-Feedback-ID:subject:mime-version:message-id:From: CHLI <mgomez@chli.org>
+Message-ID: <1117529695550.1107648857674.1076476029.0.181534user@domain.com>
+Date: Tue, 3 Jun 2015 15:36:04 -0400
+From: CHLI <mgomez@chli.org>
+Reply-To: <user@domain.com>
+To: <user@domain.com>
+Subject: CHLI, The LIBRE Initiative, and The Latino Coalition Invite you to
+ a Congressional Briefing on Tuesday June 10th on The Barriers to Prosperity
+ for the Hispanic Community
+CC: 
+List-Unsubscribe: <<link>>
+X-Campaign-Activity-ID: aefc6ef8-ac2f-41fe-9626-e82e8daf01e3
+X-Channel-ID: bdd870b0-b044-11e3-86c7-d4ae5292c973
+X-Mailer: Roving Constant Contact 2015 (<<link>>)
+X-Return-Path-Hint: Arvxu+user@domain.com
+X-Roving-Campaignid: 1117529695550
+X-Roving-Id: 1107648857674.1076476029
+X-Feedback-ID: bdd870b0-b044-11e3-86c7-d4ae5292c973:aefc6ef8-ac2f-41fe-9626-e82e8daf01e3:1107648857674:CTCT
+X-CTCT-ID: bcfbcc50-b044-11e3-85e1-d4ae5292c973
+Return-Path: 
+ Arvxu+user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+Having trouble viewing this email? Click here   
+
+ <<link>>     <<link>>        <<link>>        <<link>>         <<link>>  <<link>>         <<link>>    <<link>>#fblike      
+
+

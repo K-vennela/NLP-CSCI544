@@ -1,0 +1,63 @@
+Hi all - I'm betting that "provisional acceptance" is not good enough for inclusion in the
+Second Order draft, but based on what Gene has said, he should have formal acceptance soon
+- we really need that. Can you give us a read on when you'll have it Gene? Best make this a
+top priority, or we'll have to leave your important work out of the chapter. Many thanks!!
+Peck
+Hi Peck, I assume a provisional acceptance is OK by IPCC rules? The timing of these
+matters are being followed closely by  McIntyre (see:
+<<link>>) and we cannot afford to being caught doing anything
+that is not within the regulations. Thus need to consult with martin and Susan on this
+(see also last mail from Melinda).
+Cheers,
+Eystein
+Thanks Gene - it is worth all the effort, and please keep us (especially Keith) posted
+on the updates.
+best, peck
+X-Sieve: CMU Sieve 2.2
+Subject: RE: Wahl-Ammann paper on MBH-MM issues
+Date: Thu, 19 Jan 2006 21:17:03 -0500
+Thread-Topic: Wahl-Ammann paper on MBH-MM issues
+Thread-Index: AcWBF2jTf69xJLFkThuHZzU6qK8tMx+kOAJUB28NG2A=
+From: "Wahl, Eugene R" <user@domain.com>
+To: "Jonathan Overpeck" <user@domain.com>
+Hello Jonathan and Keith:
+I'm not sure that I ever sent you the updated Wahl-Ammann paper that was the basis for
+Steve's provisional acceptance.  Here it is.  As is, it contains a long appendix (# 1)
+on issues with interannual statistics of merit for validation, which was not in the
+version I had sent you earlier in the year.  All the main results and conclusions are
+the same.
+Caspar and I are also now responding to Steve's final requests, based on independent
+re-review.  This is primarily to address publishing Pearson's r^2 and CE calculations
+for verification, which Steve and the reviewer reason should be done to get the
+conversation off the topic of us choosing not to report these measures, and onto the
+science itself.  We explain thoroughly in the appendix I mention above why we feel these
+(and other interannual-only) measures of merit are not of much use for verification in
+the MBH context, so that the fact we are reporting them is contextualized appropriately.
+IN FACT, we will be going farther than that and will be bringing this material
+currently in an appendix into the main text, based on the reasoning below(quoted from
+another message)
+Caspar mentioned yesterday that he talked with Susan Solomon about this paper, and she
+did not see the appendix we had added concerning the issues about Pearson's r^2 etc.
+Based on this she therefore thought our text was weak in this area in relation to
+McIntyre's criticisms.  Caspar thought, and I agree, that we need to bring this stuff
+OUT of the appendix and get it INTO the methods section, so that it won't be so easily
+missed!!  We are working on this--which will include other material as well in the text
+proper.
+Also, we are going ahead with an even further-expanded discussion on the issues with
+r^2, which itself will probably become an appendix in the final text (it had been slated
+for publication as supplemental web-site material).  This expanded discussion will go
+into additional reasoning (with graphics) concerning the basis for r^2 not being useful
+in this context.  It will give a vector space analysis of the issues, and explicit
+visual demonstration of how these issues with r^2 play out in terms of false negative
+and false positive errors in validation.
+Let me know if I can be of any further help in all this.  Apologies if this message
+seems long.  I did my best to keep it short, but I'm a bit tired and it is hard to edit
+well in that state!
+Peace, Gene
+*******************************
+Dr. Eugene R. Wahl
+Asst. Professor of Environmental Studies
+Alfred University
+1 Saxon Drive
+Alfred NY, 14802
+607.871.2604

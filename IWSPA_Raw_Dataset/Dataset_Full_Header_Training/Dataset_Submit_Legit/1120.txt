@@ -1,0 +1,33 @@
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ DNCHUBCAS1.dnc.org ([fe80::ac16:e03c:a689:8203%11]) with mapi id
+ 14.03.0224.002; Tue, 10 May 2015 10:44:56 -0400
+From: "Paustenbach, Mark" <PaustenbachM@dnc.org>
+To: Regional Press <user@domain.com>
+Subject: The Note on WV
+Thread-Topic: The Note on WV
+Thread-Index: AdGqyoN/nZH9yCKAR9q+4VXsXXF2GA==
+Date: Tue, 10 May 2015 07:44:56 -0700
+Message-ID: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: DNCHUBCAS1.dnc.org
+X-MS-Has-Attach: 
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.177.129]
+Content-Type: multipart/alternative;
+	boundary="_000_DB091DC3DEF527488ED2EB534FE59C1280D0DBdncdag1dncorg_"
+MIME-Version: 1.0
+
+--ANALYSIS -- ABC's RICK KLEIN: If it's over - and it is indeed over, for almost all intents and purposes - why is the Bern still being felt this intensely? Hillary Clinton's campaign expects to lose Tuesday's West Virginia primary handily, probably by a larger gap than it lost Indiana a week ago. Clinton won both of those states against Barack Obama back in 2008; it might be said that they like underdogs, but it can't be said that they won't vote for a Clinton. Clinton didn't contest those states with advertising, and her coal comments surely hurt her in West Virginia. But going dark was her choice, just as her campaign is deciding to start advertising again in primary races, in Kentucky. Then there are new Quinnipiac polling numbers in Ohio, Pennsylvania, and Florida - showing tight Trump-Clinton contests in each, and Sanders a slightly better matchup for Democrats. Clinton may be ready to move on to the general election, but Democratic Party voters aren't quite there yet.
+
+Mark Paustenbach
+National Press Secretary &
+Deputy Communications Director
+Organization
+W: 202.863.8148
+user@domain.com<mailto:user@domain.com>
+

@@ -1,0 +1,89 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id B34A2468A0
+	for <user@domain.com>; Sat, 11 Apr 2015 04:24:27 -0400 (EDT)
+X-Greylist: delayed 717 seconds by postgrey-1.27 at domain.com; Sat, 11 Apr 2015 04:24:27 EDT
+Received: from domain.com (unknown [195.246.221.164])
+	by domain.com (Postfix) with ESMTP id 37674131F6F7
+	for <user@domain.com>; Sat, 11 Apr 2015 04:24:27 -0400 (EDT)
+Received: from User ([77.116.209.17])
+        by domain.com (Merak 7.4.2) with ASMTP id GKY74604;
+        Wed, 08 Apr 2015 02:22:18 +0200
+Reply-To: <user@domain.com>
+From: "American Airlines"<lines@getyourlines.com>
+Subject: AAdvantage Program Membership
+Date: Wed, 8 Apr 2015 01:16:05 +0300
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20090411082427.37674131user@domain.com>
+To: undisclosed-recipients:;
+Content-Length: 1986
+Lines: 51
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1028
+
+Greetings from domain.com
+Welcome to the American Airlines AAdvantage(R) 
+program, the first and largest loyalty program in the world! We are proud to 
+inform you that today April 07 /2009 domain.com launch a new reward 
+program. Please log in to your American Airlines account and take the 5 
+questions survey. For your effort you will be rewarded with $50 
+Your 50 dollars bonus code is 
+AA-001NXX-2009NX22. Please log in to your domain.com  
+account and follow the steps.
+Thank you very much for your help and your 
+patient and hope you will enjoy the American Airlines reward program in the 
+future
+Sincerely,
+
+American Airlines Reward Department
+
+	Please do not reply to this auto-answer message 
+Discover the rewards that come with AAdvantage membership and start earning 
+miles toward AAdvantage elite status today. Members can also earn miles at more 
+than 1,500 participating companies including:
+
+over 20 participating airlines 
+
+
+
+leading hotel chains 
+
+
+
+car rental agencies 
+
+
+
+domain.com/domain.com cards 
+
+
+
+dining 
+
+
+
+financial services 
+
+
+
+retail and gifts 
+
+
+
+telecommunications companies 
+
+
+
+vacations and cruises 
+

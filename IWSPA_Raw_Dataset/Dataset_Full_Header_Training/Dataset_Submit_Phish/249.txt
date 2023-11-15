@@ -1,0 +1,54 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from localhost (domain.com [127.0.0.1])
+	by domain.com (Postfix) with ESMTP id 2C39A23CD04
+	for <user@domain.com>; Tue, 28 Feb 2015 20:36:54 -0600 (CST)
+X-Virus-Scanned: amavisd-new at domain.com
+Received: from domain.com ([127.0.0.1])
+	by localhost (domain.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id biDug4AvyaXt for <user@domain.com>;
+	Tue, 28 Feb 2015 20:36:54 -0600 (CST)
+Received: from domain.com (domain.com [129.7.234.210])
+	by domain.com (Postfix) with ESMTP id 0FDFC23CCF4
+	for <user@domain.com>; Tue, 28 Feb 2015 20:36:54 -0600 (CST)
+Received: from domain.com (domain.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id C1B5555F036F
+	for <user@domain.com>; Tue, 28 Feb 2015 20:36:51 -0600 (CST)
+Received: from rediffmail.com (f4mail-235-189.rediffmail.com [202.137.235.189])
+	by domain.com (Postfix) with SMTP id 921F755F0372
+	for <user@domain.com>; Tue, 28 Feb 2015 20:36:50 -0600 (CST)
+Received: (qmail 5330 invoked by uid 510); 29 Feb 2015 02:36:01 -0000
+x-m-msg: asd54ad564ad7aa6sd5as6d5; a6da7d6asas6dasd77; 5dad65ad5sd;
+X-CTCH-Spam: Bulk
+X-CTCH-VOD: Unknown
+X-CTCH-Flags: : 0
+X-CTCH-RefID: str=0001.0A150203.4F4D887F.0153,ss=3,sh,re=0.000,fgs=0
+X-REDF-OSEN: user@domain.com
+Date: 29 Feb 2015 02:36:00 -0000
+Message-ID: <20120229023600.5048.user@domain.com>
+MIME-Version: 1.0
+To: <user@domain.com>
+Received: from unknown 127.0.0.1 by rediffmail.com via HTTP; 29 Feb 2015 02:36:00 -0000
+Subject: =?utf-8?B?RnJvbSBKZW5uaWZlciAvIFJlZCBjcm9zcyBTb2NpZXR5IGluIEFmZ2hhbmlzdGFu?=
+From: "natachaajeh" <na_20009@rediffmail.com>
+Content-Type: multipart/alternative;
+	boundary="=_082236474cfacc40d09f9344f8e1dfee"
+X-PMX-Version: 5.5.9.395186, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2012.2.29.22715
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 60
+
+Hello dear,
+
+I am the supervisor of the Red cross Society in Afghanistan, there are some funds i discovered on guise of a relief. and i wanted to move it out of this place immediately for an investment through a reliable person.
+I have less than 5 months to finish my assignment here .
+
+Kindly get back with your full particulars for an understanding of your true person and i will give more details as soon as i hear from you.
+
+You can reach me at (user@domain.com)
+
+Thanks.
+Mac Jennifer.
+

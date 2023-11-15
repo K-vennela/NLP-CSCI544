@@ -1,0 +1,62 @@
+Received: from domain.com (146.215.230.104) by
+ domain.com (43.130.141.76) with Microsoft SMTP Server id
+ 8.3.297.1; Thu, 12 Dec 2015 22:00:57 -0800
+Received: from domain.com ([160.33.194.231])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id rBD60ekN027444	for <user@domain.com>; Fri, 13 Dec 2015 
+ 06:00:41 GMT
+Received: from mail178-co9-domain.com (mail-domain.com
+ [207.46.163.20])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id rBD60dRA007909
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Fri, 13 Dec 2015 06:00:40 GMT
+Received: from mail178-co9 (localhost [127.0.0.1])	by
+ mail178-co9-domain.com (Postfix) with ESMTP id 870425E02D3	for
+ <user@domain.com>; Fri, 13 Dec 2015 06:00:39 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:199.16.156.163;KIP:(null);UIP:(null);IPV:NLI;H:spring-chicken-ax.twitter.com;RD:spring-chicken-ax.twitter.com;EFVD:NLI
+X-SpamScore: 5
+X-BigFish: vps5(z579ehzc616hd772hc857hzz1f42h2148h208ch1ee6h1de0h1fdah2073h2146h1202h1e76h2189h1d1ah1d2ah1fc6hzz1730fah177df4h17326ah8275bh1bc7b9h8275dh1de097h186068hb64e9k1ce121iz2fh5fh839ha12hd25h1288h12a5h12bdh137ah13eah1441h14ddh1504h1537h153bh162dh1631h1758h18e1h1901h1946h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e1dh1fe8h1ff5h20f0h2216h2336h214ai1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail178-co9: domain of bounce.twitter.com designates 199.16.156.163 as permitted sender) client-ip=199.16.156.163; user@domain.com; helo=spring-chicken-ax.twitter.com ;.twitter.com ;
+Received: from mail178-co9 (localhost.localdomain [127.0.0.1]) by mail178-co9
+ (MessageSwitch) id 1386914437581177_19880; Fri, 13 Dec 2015 06:00:37 +0000
+ (UTC)
+Received: from domain.com (unknown [10.236.132.245])	by
+ mail178-domain.com (Postfix) with ESMTP id 896755C0048	for
+ <user@domain.com>; Fri, 13 Dec 2015 06:00:37 +0000 (UTC)
+Received: from spring-chicken-ax.twitter.com (199.16.156.163) by
+ domain.com (10.236.130.11) with Microsoft SMTP Server id
+ 14.16.227.3; Fri, 13 Dec 2015 06:00:36 +0000
+DKIM-Signature: v=1; a=rsa-sha1; d=twitter.com; s=dkim-201303; c=relaxed/relaxed;
+	q=dns/txt; user@domain.com; t=1386914436;
+	h=From: Twitter <info@twitter.com>
+	bh=ql9RKgXiocNU8g56tMmfZ6tTJCE=;
+	b=jwjdkPynITdO2pmAcMoW/OtR8NVRkbBMXgau7elyg/CKtaEwTLcNq1a6vNnqn2uV
+	c972ESAk9g6EhTIKbb0M8OJwGSAsXRopNo3YfcgFglUIZAQgV0QnPsPiB/OaQjAI
+	6UwuI9NFZjnaWU2zZmJbSEiPv1TwW+lkQLTYQz7BSb0=;
+X-MSFBL: c3RldmVuX29kZWxsQHNwZS5zb255LmNvbUBhdGxhLWFxaC0zOC1zcjEtRXZlcnl0
+	aGluZy4xODNARXZlcnl0aGluZ0BzdGV2ZW5fb2RlbGxcQHNwZS5zb255LmNvbVxA
+	NDJcQDIzMjc3NjEwXEAwXEA0ZDIwN2ZhYjJjZGQ0ZDFhN2I4ODdhOGY5ZWJiNGMy
+	Mjg4OGIyMmYz
+Date: Fri, 13 Dec 2015 06:00:36 +0000
+From: Twitter <info@twitter.com>
+To: "User" <user@domain.com>
+Subject: Do you know Jason Gurvitz, Sandra Staggs and Jeffrey A. Schechter
+ on Twitter?
+Precedence: Bulk
+Message-ID: <user@domain.com>
+Return-Path: 
+ user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1331820678_-_-"
+
+<<link>>+21+20131207&t;=1
+        <<link>>+21+20131207&t;=1                     Steven O'Dell,  
+Some people you may know on Twitter     
+
+        Steven O'Dell           
+
+                  <<link>>+20+20131207&t;=1               
+
+

@@ -1,0 +1,22 @@
+<x-flowed>
+Ben,
+I have attached the tropical mean trend profiles, now for the period 
+1979-1999.
+RAOBCORE  versions show much more upper tropospheric heating for this 
+period, RICH shows slightly more heating.
+Note also stronger cooling of unadjusted radiosondes in stratospheric 
+layers compared to 1999-2004.
+Just for information I have included also zonal mean trend plots for the
+unadjusted radiosondes (tm), RAOBCORE v1.4 (tmcorr) and RICH (rgmra)
+I do not suggest that these plots should be included but some of you 
+maybe want to know about the spatial coherence
+of the zonal mean trends. It is interesting to see the lower 
+tropospheric warming minimum in the tropics in all three plots,
+which I cannot explain. I believe it is spurious but it is remarkably 
+robust against my adjustment efforts.
+Meridional resolution is 10 degrees.
+As you can imagine, the tropical upper tropospheric heating maximum at 
+5S and the cooling in the unadjusted radiosondes at 5N are
+based on very few long records  in these belts. 2-3 in 5S, about 5 in 5N.
+Best regards and I wish you all a happy new year.
+Leo

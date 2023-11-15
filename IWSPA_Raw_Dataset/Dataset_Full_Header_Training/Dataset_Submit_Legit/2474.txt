@@ -1,0 +1,110 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Fri, 13 May
+ 2015 17:47:24 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Fri, 13 May 2015 
+ 17:47:20 -0400
+Received: from [10.87.0.110] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 914663218;
+ Fri, 13 May 2015 16:47:29 -0500
+X-Note-AR-ScanTimeLocal: 5/13/2016 4:47:22 PM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:17.142.193.35 DOM:me.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-190/SG:5 5/13/2016 4:46:48 PM
+X-GBUdb-Analysis: 0, 17.142.193.35, Ugly c=0.655356 p=-0.99308 Source White
+X-Signature-Violations: 0-0-0-21377-c
+X-Note-419: 62.5052 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/13/2016 4:47:08 PM
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->->United States->
+X-Note-Sending-IP: 17.142.193.35
+X-Note-Reverse-DNS: pv36p08im-ztdg07111401.me.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from [17.142.193.35] (HELO pv36p08im-ztdg07111401.me.com)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 141777082;
+ Fri, 13 May 2015 16:47:22 -0500
+Received: from process-dkim-sign-daemon.pv36p08im-ztdg07111401.me.com by
+ pv36p08im-ztdg07111401.me.com (Oracle Communications Messaging Server
+ 7.0.5.36.0 64bit (built Sep  8 2015)) id
+ <0user@domain.com>; Fri, 13 May 2015 21:47:21
+ +0000 (GMT)
+Received: from [10.81.63.37] (mobile-166-170-038-137.domain.com
+ [166.170.38.137]) by pv36p08im-ztdg07111401.me.com (Oracle Communications
+ Messaging Server 7.0.5.36.0 64bit (built Sep  8 2015)) with ESMTPSA id
+ <0user@domain.com>; Fri, 13 May 2015 21:47:20
+ +0000 (GMT)
+X-Proofpoint-Virus-Version: vendor=fsecure engine=2.50.10432:,,
+ definitions=2016-05-13_08:,, signatures=0
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 spamscore=0
+ clxscore=1015 suspectscore=0 malwarescore=0 phishscore=0 adultscore=0
+ bulkscore=0 classifier=spam adjust=0 reason=mlx scancount=1
+ engine=8.0.1-1510270003 definitions=main-1605130285
+Content-Type: multipart/alternative;
+	boundary="Apple-Mail-4C333D4C-0CD9-4C21-99A8-9DB6DAD321BD"
+Subject: Re: Washington Post inquiry
+From: Donna Brazile <donnabrazile@me.com>
+X-Mailer: iPad Mail (13E238)
+In-Reply-To: <user@domain.com>
+Date: Fri, 13 May 2015 14:47:17 -0700
+CC: Leah Daughtry <user@domain.com>, "User"
+	<user@domain.com>, Patrice Taylor <user@domain.com>, "Dacey, Amy"
+	<user@domain.com>, April Mellody <user@domain.com>
+Content-Transfer-Encoding: 7bit
+Message-ID: <8user@domain.com>
+References: <user@domain.com>
+ <4user@domain.com>
+ <user@domain.com>
+ <user@domain.com>
+ <user@domain.com>
+To: "User" <user@domain.com>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=me.com; s=4d515a;
+	t=1463176041; bh=Il7bOHnMDjtNw1NtiUhd/oUGfKEhm8+4WWW4+C2ILJ4=;
+	h=Content-type:MIME-version:Subject:From: Donna Brazile <donnabrazile@me.com>
+	b=lyzls5Ulvu+LSl6unlRz+3n09mVKymUBt1QpkORZkxfr9gygm7bwRHKFLUPNAkcz0
+ bsPhBQQZHKP0GZUbCQvtgTop5aRUQcplYUVTzuDe2pWTbVBYwt6JCInuzQYe0Yc5so
+ EtxrmWYjwdcywIiNrLwQRODevIfwePGUbpUsf2310RVGgQ703NQ2d+QLK8EGFTe0/6
+ VRsBDk4OMREP7b+jp8QmVcXBvMYwX5dfjvfwqn9Y0cdMW7TC51L17fMSXhZZtOEprH
+ MInNpwiTLmBNW4hancavejM0mxuK65SLrRWIrjQsE3Z6FJgpHhKIQ2ehI8hzkGr8J1
+ QkL03OiWu/dpA==
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+I didn't see it
+
+I'm on CNN this Sunday
+
+Sent from Donna's I Pad. Follow me on twitter @donnabrazile
+
+e:
+
+ave to Politico. Nothing new. =20
+
+ Mark; April Mellody
+
+eporters about the Standing Committees; thanks.
+
+ Leah Daughtry <user@domain.com>; Dacey, Amy <user@domain.com>; P=
+austenbach, Mark <user@domain.com>
+
+domain.com>, "Dacey, Amy" <user@domain.com>, "User" <user@domain.com>=20=
+
+ween the Sanders camp and Organizationover adequate representation on the platform c=
+ommittee and others ahead of the convention.=20
+

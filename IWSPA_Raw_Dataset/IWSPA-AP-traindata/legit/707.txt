@@ -1,0 +1,63 @@
+<x-flowed>
+Dear Martin and all others,
+Having read the new manuscript, I would like to draw the attention of 
+all of you to the section about McIntyre&McKitrick vs Mann et al. I am 
+not entirely happy with this section. It may be that I am not fully 
+updated about  all details on their dispute, but it appears to be some 
+mistakes in this section of our manuscript. Therefore, I ask all of you 
+to check how this section can be improved and clarified. This is very 
+important! If we refer incorrectly to the MM-Mann dispute, I am 
+convinced that all of us will be involved in lengthy frustrating e-mail 
+discussions later on. I anticipiate this from personal experience! Let's 
+do our best to avoid this.
+The problematic bit of text starts on p. 16, para 4: ("The failure of 
+MM2003 ... is partly due to a misunderstanding of the stepwise 
+reconstruction method") and slightly below: ("MM2003 only calculate 
+principal components for the period when all chronologies are present").
+I read through the MM2003 paper yesterday. From what is written there, 
+on p. 763-765, it appears that they were well aware of the stepwise 
+method. On p. 763, about at the middle of the page, they write: 
+"Following the description of MBH98 ... our construction is done 
+piecewise for each of the periods listed in Table 8, using the roster of 
+proxies available through the period and the selection of TPCs for each 
+period listed in Table 8".
+This is clearly at odds to what is written in our manuscript. Has it 
+been documented somewhere else that MM2003, despite what they wrote, 
+really misunderstood the stepwise technique? If it is so, we need to 
+insert a reference. If this is not the case, we need to omit the lines 
+about the misunderstanding. We also need to explain better why the 
+MM2003 calculations differ from MBH.
+Moreover, our sentence ("MM2003 only calculate principal components for 
+the period when all chronologies are present") imply that MM2003 only 
+calculated PCs for the period 1820-1971, as this would be the period 
+when all chronologies are present according to the MM2003 Table 8. 
+Obviously, they calculated PCs beyond 1820, as their calculations 
+actually extend back to 1400.
+The problem continues in the legend to our Fig. 2. (" Each of the 212 
+data series is shown ... The red rectangle indicates the single block 
+used by MM2003, neglecting all data prior to 1619"). The last sentence 
+is inconsistent with the information in MM2003 in three ways; a) MM2003 
+clearly show in their Table 8 that they analysed the same blocks of data 
+as MBH. b) The year 1619 as a starting point of a data block is 
+inconsistent with MM Table 8. Where does the year 1619 come from? It is 
+not mentioned anywhere in MM2003. c). The red block implies that MM2003 
+made calculations back only to 1619, but they did back to 1400.
+Moreover, the numbers given in the graph of our Fig. 2 indicate that the 
+total number of series is 211, whereas the text in the legend and also 
+in the main text on p. 16 says 212. Which number is correct?
+I suppose that some of you others will know this subject much better 
+than I. I have just read the MM2003 paper, and find our reference to it 
+to be inconsistent with it. I hope you all can make efforts to make this 
+bit crystal clear. If not, I fear we will get problems!
+Finally, I would like to draw your attention to the related sentence in 
+our conclusions on p. 26: ("Papers which claim to refute ... have been 
+reviewed and found to contain serious flaws"). Are all of you happy with 
+this statement? Would it sound better with a somewhat less offending 
+sentence, something like:
+"Papers which claim to refute ... have been reviewed and found to 
+essentially contribute with insignificant information that does not 
+affect the consensus, and even to include some flaws."
+I attach the MM2003 paper.
+I will send some comments to the other parts of the text in a separate mail.
+Cheers,
+Anders

@@ -1,0 +1,49 @@
+Hi Tim,
+Thanks for the remarks. We can certainly spend some time talking through
+some of the points raised. I guess I am still finding it difficult to
+believe that an rbar of 0.05 has any operational significance in estimating
+Neff. It is kind of like doing correlations between tree rings and climate:
+a correlation of 0.10 may be statistically significant, but have no
+practical value at all for reconstruction. The same goes for an rbar of
+0.05 in my mind. I agree that what I suggested (i.e. testing the individual
+correlations for significance and only using those above the some
+significance level for estimating rbar) is somewhat ad hoc and not
+theoretically pleasing. However, it is also true that correlations below
+the chosen significance threshold are "not significantly different from
+zero" and could be ignored in principle, just as we would do in testing
+variables for entry into a regression model. This would clearly muddy (a
+nice choice of words!) the rbar waters, I admit.
+In terms of the problem I am working on (computing bootstrap confidence
+limits on annual values of 1205 RCS-detrended tree-ring series from 14
+sites), it is hard to know what to do. Certainly, using Neff will result in
+almost none of the annual means being statistically significant over the
+past 1200 years. I don't believe that this is "true". Other highly
+conservative methods of testing significance result in a very high
+frequency of similarly negative results, i.e. the test of significance in
+spectral analysis that takes into account the multiplicity effect of
+testing all frequencies in an a posteriori way (see Mitchell et al. 1966,
+Climatic Change, pg. 41). If you use this correction, virtually no
+"significant" band-limited signals will ever be identified in
+paleoclimatological spectra. So, this test has very low statistical power.
+I think that this is the crux issue: Type-1 vs. Type-2 error in statistical
+hypothesis testing. The Neff correction greatly increases the probability
+of Type-2 error, while virtually eliminating Type-1 error. So, truth or
+dare.
+Consider one last "thought experiment". Suppose you came to Earth from
+another planet to study its climate. You put out 1,000 randomly distributed
+recording thermometers and measure daily temperatures for 1 Earth year. You
+then pick up the thermometers and return to your planet where you estimate
+the mean annual temperature of the Earth for that one year. How many
+degrees of freedom do you have? Presumably, 999. Now, suppose that you
+leave those same recording thermometers in place for 20 years and calculate
+20 annual means. From these 20-year records, you also calculate an rbar of
+0.10. How many degrees of freedom per year do you have now? 999 or 9.9?
+What has changed? Certainly not the observation network. Does this mean
+that we can just as accurately measure the Earth's mean annual temperature
+with only 10 randomly placed thermometers if they provide temperature
+records with an rbar of 0.00 over a 20 year period? I wouldn't bet on it,
+but your theory implies it to be so. Surely, one would have more confidence
+(i.e. smaller confidence intervals) in mean annual tempertures estimated
+from a 1000-station network.
+Cheers,
+Ed

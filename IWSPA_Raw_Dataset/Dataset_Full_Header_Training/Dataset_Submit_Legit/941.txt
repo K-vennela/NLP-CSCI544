@@ -1,0 +1,48 @@
+Received: from relay.hackingteam.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Thu, 19 Mar 2015 19:17:49 +0100
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.hackingteam.com (Postfix) with ESMTP id 17DEE621AD	for
+ <user@domain.com>; Thu, 19 Mar 2015 17:55:48 +0000 (GMT)
+Received: by domain.com (Postfix)	id 5696A2BC22E; Thu, 19 Mar 2015 
+ 19:17:49 +0100 (CET)
+Delivered-To: user@domain.com
+Received: from [192.168.191.235] (93-34-242-241.domain.com
+ [93.34.242.241])	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)	by domain.com (Postfix) with
+ ESMTPSA id 463BA2BC035;	Thu, 19 Mar 2015 19:17:48 +0100 (CET)
+Subject: Re: On interrupting with the E. client
+From: David Vincenzetti <d.vincenzetti@hackingteam.com>
+In-Reply-To: <2user@domain.com>
+Date: Thu, 19 Mar 2015 19:17:48 +0100
+CC: Philippe Vinci <user@domain.com>, Eric Rabe
+	<user@domain.com>, Giancarlo Russo <user@domain.com>
+Message-ID: <6500user@domain.com>
+References: <2user@domain.com>
+To: Daniele Milan <user@domain.com>
+X-Mailer: Apple Mail (2.2070.6)
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=HACKINGTEAM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=DAVID VINCENZETTI7AA
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-603028132_-_-"
+
+Without doubt, we must discuss the matter. Possibly putting our lawyers in the loop.
+David
+
+-- 
+David Vincenzetti 
+CEO
+
+Hacking Team
+Milan Singapore Washington DC
+www.hackingteam.com
+
+email: user@domain.com 
+mobile: +39 3494403823 
+phone: +39 0229060603 
+

@@ -1,0 +1,51 @@
+From: "Deadline.com" <alerts@deadline.com>
+To: "User"
+Subject: [domain.com] Int'l Box Office: 'Gone Girl's A Beaut With $24.6M; Bollywood 'Bang Bang' Holsters $25.4M; 'Dracula Untold' Drinks In $21M; More
+Date: Sun, 5 Oct 2015 15:10:56 -0400
+Message-ID: <20141005191056.3154552.2541@domain.com>
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQMf/9lq4Dy9vMEwajIDS1z5ew803A==
+Content-Language: en-us
+x-ms-exchange-organization-authas: Internal
+x-ms-exchange-organization-authmechanism: 10
+x-ms-exchange-organization-authsource: domain.com
+x-forefront-antispam-report: CIP:64.34.57.227;CTRY:US;SRV:BULK;EFV:NLI;SFV:NSPM;SFS:(438002)(18804003)(199003)(46034005)(189002)(76482002)(95736001)(47976999)(19617315012)(20776003)(85852003)(89996001)(92566001)(92726001)(80022003)(19300405004)(50986999)(120916001)(18206015026)(10300001)(99396003)(956001)(44976005)(110486001)(110136001)(19580395003)(19580405001)(102836001)(146001)(104016003)(71186001)(87836001)(19618635001)(88136002)(87286001)(104166001)(22186001)(88526003)(77096002)(2361001)(31966008)(77156001)(85306004)(107886001)(107046002)(2351001)(15202345003)(84326002)(93916002)(229853001)(104766002)(21056001)(53416004)(46102003)(62966002)(18926405002)(50226001)(4396001)(36756003)(15187005004)(106896001)(15975445006)(106466001)(7059022)(562404015)(94166001)(17308445002)(85226002)(342395003)(19623405001);DIR:INB;SFP:;SCL:1;SRVR:BL2FFO11HUB049;H:mx-domain.com;FPR:;MLV:sfv;PTR:mx-domain.com;A:1;MX:1;LANG:en;
+received-spf: Pass (domain.com: domain of domain.com designates 64.34.57.227 as permitted sender) receiver=domain.com; client-ip=64.34.57.227; helo=mx-domain.com;
+authentication-results: spf=pass (sender IP is 64.34.57.227) user@domain.com; 
+x-microsoft-antispam: BCL:6;PCL:0;RULEID:(82001)(120001);SRVR:BL2FFO11HUB049;
+x-eopattributedmessage: 0
+List-Unsubscribe: <<<link>>>, <mailto:user@domain.com>
+x-domain.com: domain.com
+dkim-signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1412536256;	s=sailthru; d=deadline.com;	h=Date:From: "Deadline.com" <alerts@deadline.com>
+x-rpcampaign: stdgp3154552
+x-info: user@domain.com
+x-iadb-ip-reverse: 25.215.39.65
+x-iadb-url: <<link>>
+x-tm-id: 20141005191056.3154552.2541
+x-iadb-ip: 65.39.215.25
+x-unsubscribe-web: <<link>>
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+Weekend Box Office News Alert:
+
+Int'l Box Office: 'Gone Girl's A Beaut With $24.6M; Bollywood 'Bang Bang' Holsters $25.4M; 'Dracula Untold' Drinks In $21M; More
+
+As with domestic, the international markets received a welcome jolt this weekend, with Hollywood and local-language pictures staking out vast swaths of terrain. We are still waiting on numbers for Annabelle, as well as Chinese blockbuster Breakup Buddies. I hear the latter is expected to return in the high 30s which would make it the top grossing picture in the overseas frame. Behind it is Fox's G Read more...
+
+Box Office Stats:
+
+Recent
+
+This email was sent to user@domain.com by Deadline. To ensure delivery to your inbox (and not your spam folder), please add user@domain.com to your address book. If you prefer not to continue receiving email communications, please unsubscribe here instead of replying to this email.
+
+To update your profile and customize what email alerts and newsletters you receive, please click here.
+
+Having trouble reading this email? View the web version here.
+
+Copyright © 2014 PMC, All rights reserved.
+
+1​1​1​7​5 Santa Monica Blvd. Los Angeles, CA 9​0​0​2​5
+

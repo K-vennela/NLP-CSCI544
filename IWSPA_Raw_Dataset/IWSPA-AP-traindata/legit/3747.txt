@@ -1,0 +1,10 @@
+Tom, with respect to the difference between the models and the data, the
+fundamental issue on short time scales is the magnitude of the internal
+variability. Using the full CMIP3 ensemble at least has multiple
+individual realisations of that internal variability and so is much more
+suited to a comparison with a short period of observations. MAGICC is
+great at the longer time scale, but its neglect of unforced variability
+does not make it useful for these kinds of comparison. 
+The kind of things we are hearing "no model showed a cooling", the "data
+is outside the range of the models" need to be addressed directly.
+Gavin

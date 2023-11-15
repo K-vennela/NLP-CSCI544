@@ -1,0 +1,41 @@
+From: "Crawford Asst, Megan \(Cindy Medal\)" <mcrawfordasst@caa.com>
+To: "User" <user@domain.com>
+Subject: *Final Invite* A MOST VIOLENT YEAR - Tomorrow, 11/11 @ 7pm
+Date: Mon, 10 Nov 2015 11:38:27 -0500
+Message-ID: <34user@domain.com>
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQHiSv2Q+uoON74qnUkHV6NBKNpzCA==
+Content-Language: en-us
+x-ms-exchange-organization-authmechanism: 10
+x-ms-exchange-organization-authsource: domain.com
+x-ms-exchange-organization-authas: Internal
+acceptlanguage: en-US
+x-originating-ip: [10.252.2.254]
+x-forefront-antispam-report: CIP:65.55.169.77;CTRY:US;IPV:NLI;IPV:NLI;EFV:NLI;SFV:NSPM;SFS:(438002)(189002)(37854004)(199003)(106466001)(180100001)(46102003)(99396003)(110136001)(77096003)(77156002)(19625215002)(450100001)(95666004)(15202345003)(21056001)(4396001)(33656002)(17760045003)(53416004)(16236675004)(67866002)(71186001)(19627595001)(62966003)(18206015028)(881003)(120916001)(64706001)(66926002)(20776003)(55846006)(1671002)(31966008)(86362001)(92726001)(92566001)(87836001)(19580405001)(44976005)(107046002)(54356999)(19300405004)(19580395003)(50986999)(109986003)(2656002)(99936001)(107886001)(229853001)(84326002)(15975445006)(512954002)(6806004)(7059029)(217873001);DIR:INB;SFP:;SCL:1;SRVR:BN1BFFO11HUB041;H:na01-bl2-domain.com;FPR:;MLV:sfv;PTR:mail-domain.com;MX:1;A:1;LANG:en;
+x-microsoft-antispam: BCL:0;PCL:0;RULEID:;SRVR:BN1BFFO11HUB041;
+x-eopattributedmessage: 1
+received-spf: Pass (domain.com: domain of caa.com designates 65.55.169.77 as permitted sender) receiver=domain.com; client-ip=65.55.169.77; helo=na01-bl2-domain.com;
+authentication-results: spf=pass (sender IP is 65.55.169.77) user@domain.com; 
+x-forefront-prvs: 039178EF4A
+x-forefront-antispam-report-untrusted: CIP:66.116.127.134;CTRY:US;IPV:NLI;EFV:NLI;SFV:NSPM;SFS:(10009020)(438002)(199003)(37854004)(189002)(81156004)(106466001)(50986999)(2656002)(99396003)(46102003)(31966008)(16796002)(84326002)(4396001)(15975445006)(99936001)(19625215002)(44976005)(33656002)(87936001)(19580395003)(86362001)(19580405001)(110136001)(6806004)(109986003)(107046002)(229853001)(107886001)(19627595001)(69596002)(54356999)(16236675004)(15202345003)(17760045003)(92726001)(92566001)(53416004)(120916001)(67866002)(512954002)(1671002)(77096003)(21056001)(77156002)(19300405004)(62966003)(18206015028)(95666004)(20776003)(881003)(71186001)(55846006)(66926002)(180100001)(64706001)(7059029)(217873001);DIR:OUT;SFP:1101;SCL:1;SRVR:BN3PR0601MB1060;H:LV-EX-XEDG-P-01.area1.dmz;FPR:;MLV:sfv;PTR:cust-66.116.127.134.domain.com;A:1;MX:1;LANG:en;
+x-exchange-antispam-report-test: UriScan:;UriScan:;
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+Please join Jessica Chastain for a special screening of A MOST VIOLENT YEAR
+Tuesday, November 11th @ 7pm at CAA. 
+
+
+
+Reception to follow. Valet parking is provided.
+
+
+
+RSVP: 
+user@domain.com (including full name and number of guests)
+
+
+
+This e-mail and any files transmitted with it are intended solely for the use of the individual or entity to whom they are addressed. If the reader of this e-mail is not the intended recipient or the employee or agent responsible for delivering the message
+ to the intended recipient, you are hereby notified that any use dissemination, forwarding, printing or copying of this e-mail is strictly prohibited. If you have received this e-mail in error, please e-mail us at user@domain.com or call 424-288-2000.

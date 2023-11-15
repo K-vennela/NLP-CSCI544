@@ -1,0 +1,56 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from [10.68.212.245] (93-45-225-33.domain.com [93.45.225.33])
+	(using TLSv1 with cipher AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mail.hackingteam.it (Postfix) with ESMTPSA id A32DC2BC048;
+	Wed,  7 Dec 2015 00:17:28 +0100 (CET)
+Message-ID: <1323213439.9305.8.user@domain.com>
+Subject: IP per scansioni perimetro e Linear
+From: Luca Filippi <l.filippi@hackingteam.it>
+Reply-To: user@domain.com
+To: Ferrara Marco <user@domain.com>, "cristian.piani"
+	 <user@domain.com>, "cristiano.ramponi"
+	 <user@domain.com>
+CC: Insalaco Sergio Leonardo <user@domain.com>, 
+ "r.banfi" <user@domain.com>, Ivan Roattino
+ <user@domain.com>, 'Antonio Mazzeo' <user@domain.com>,
+ Enrico Luzzani <user@domain.com>
+Date: Wed, 7 Dec 2015 00:17:19 +0100
+Organization: Hacking Team
+X-Mailer: Evolution 3.0.3-3 
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2017778295_-_-"
+
+Ciao,
+
+per velocizzare un po' le operazioni, durante questi giorni di feste e ponti vedrete alcuni test anche dall'indirizzo IP 130.192.232.221 oltre a quelli già comunicati, cioé 217.56.23.208/28 e 88.50.246.138/32.
+
+Inoltre oggi mentre ero in treno ho fatto qualche test di SQL injection su domain.com, dall'indirizzo IP 2.115.198.62.
+
+Ciao,
+
+        luca
+
+-- 
+
+Luca Filippi
+Senior Security Engineer
+
+
+
+HT srl 
+Via Moscova, 13 I-20121 Milan, Italy 
+WWW.HACKINGTEAM.IT 
+Phone +39 02 29060603 
+Mobile +39 340 5488603
+Fax. +39 02 63118946 
+
+
+
+This message is a PRIVATE communication. This message contains privileged and confidential information intended only for the use of the addressee(s).
+If you are not the intended recipient, you are hereby notified that any dissemination, disclosure, copying, distribution or use of the information contained in this message is strictly prohibited. If you received this email in error or without authorization, please notify the sender of the delivery error by replying to this message, and then delete it from your system.
+

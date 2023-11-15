@@ -1,0 +1,100 @@
+Received: from domain.com (146.215.230.104) by
+ domain.com (43.130.141.77) with Microsoft SMTP Server id
+ 8.3.297.1; Tue, 26 Nov 2015 04:01:30 -0800
+Received: from domain.com ([160.33.194.229])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id rAQC1Ta8013792	for <user@domain.com>; Tue, 26 Nov 2015 
+ 12:01:29 GMT
+Received: from mail191-co9-domain.com (mail-domain.com
+ [207.46.163.22])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id rAQC1SS4024784
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Tue, 26 Nov 2015 12:01:29 GMT
+Received: from mail191-co9 (localhost [127.0.0.1])	by
+ mail191-co9-domain.com (Postfix) with ESMTP id 36E0BC00D6F	for
+ <user@domain.com>; Tue, 26 Nov 2015 12:01:28 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:192.64.236.6;KIP:(null);UIP:(null);SRV:BULK;H:mx-prometheus-domain.com;RD:mx-prometheus-domain.com;EFVD:NLI
+X-SpamScore: 0
+X-BigFish: vpaccept
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail191-co9: domain of domain.com designates 192.64.236.6 as permitted sender) client-ip=192.64.236.6; user@domain.com; helo=mx-prometheus-domain.com ;domain.com ;
+Received: from mail191-co9 (localhost.localdomain [127.0.0.1]) by mail191-co9
+ (MessageSwitch) id 1385467286819145_22964; Tue, 26 Nov 2015 12:01:26 +0000
+ (UTC)
+Received: from domain.com (unknown [10.236.132.230])	by
+ mail191-domain.com (Postfix) with ESMTP id C34CB60005D	for
+ <user@domain.com>; Tue, 26 Nov 2015 12:01:26 +0000 (UTC)
+Received: from mx-prometheus-domain.com (192.64.236.6) by
+ domain.com (10.236.130.20) with Microsoft SMTP Server id
+ 14.16.227.3; Tue, 26 Nov 2015 12:01:26 +0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1385467286;
+	s=sailthru; d=e.hollywoodreporter.com;
+	h=Date:From: THR Daily Edition PDF <email@e.hollywoodreporter.com>
+	bh=Dynj2NrrRQl2VtLTs+9mLSMHExLH9u8jsW1ZJsE/Yik=;
+	b=U3f1pU/AolLoD+MCa1is86Q1vA1ogQl8VLV27yuKV0NJapdKD5EZa7cSD/dAEHmc
+	asTBwZ0uLDdSDck63tXQG3Arh/i5Lwk5CBdom5G8s4rHi8jp8FAoBxCggDYVN4U2gj2
+	AbmnyOzlXKeHhklT6tQmcZkdCGlGIdCOMgvxI2ts=
+Date: Tue, 26 Nov 2015 07:01:26 -0500
+From: THR Daily Edition PDF <email@e.hollywoodreporter.com>
+To: <user@domain.com>
+Message-ID: <20131126120126.2066810.8529@domain.com>
+Subject: Your New Daily Edition
+Precedence: bulk
+X-TM-ID: 20131126120126.2066810.8529
+X-Info: Message sent by domain.com customer Hollywood Reporter
+X-Info: We do not domain.com unsolicited commercial email
+X-Info: Please report abuse by forwarding complete headers to
+X-Info: user@domain.com
+X-Mailer: domain.com
+X-IADB-IP: 192.64.236.6
+X-IADB-IP-REVERSE: 6.236.64.192
+X-IADB-URL: <<link>>
+X-Unsubscribe-Web: <<link>>
+List-Unsubscribe: <<<link>>>, <mailto:user@domain.com>
+X-rpcampaign: stgfo2066810
+Return-Path: user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+ <<link>>        
+
+If you are unable to see the message below, click here to view it in a browser.  
+
+ <<link>>        
+
+ <<link>>         <<link>>        
+
+<<link>>        
+
+ <<link>>     <<link>>    
+<<link>>        <<link>>       
+ <<link>>        
+
+ <<link>>        
+
+ <<link>>         <<link>>  <<link>>        
+ <<link>>       
+
+ <<link>>        
+
+ <<link>>        
+
+CLICK HERE FOR TODAY'S EDITION  
+
+ <<link>>        
+
+Major Studio Heads to Meet With President Obama
+
+Katzenberg, others to gather for entertainment-business domain.com at DWA’s Glendale campus
+
+Concert Promoter AEG Live Shuffles Executive Team
+
+Company part ways with CEO Phillips; COO Marciano named chairman; other execs upped
+
+Stan Lee, Avi Arad Join Forces for Secret Pic Project
+
+Comic book legend, former Marvel Studios head to team for movie featuring new Lee creation
+
+Ray Donovan Prod
+

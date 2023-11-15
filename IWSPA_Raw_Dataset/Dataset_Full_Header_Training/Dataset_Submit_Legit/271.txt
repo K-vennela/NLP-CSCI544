@@ -1,0 +1,78 @@
+Received: from domain.com (146.215.230.105) by
+ domain.com (43.130.141.77) with Microsoft SMTP Server id
+ 8.3.342.0; Fri, 18 Apr 2015 06:52:01 -0700
+Received: from domain.com ([160.33.194.230])	by
+ domain.com (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with
+ ESMTP id s3IDq0Rs015408	for <user@domain.com>; Fri, 18 Apr 2015 
+ 13:52:00 GMT
+Received: from mail144-ch1-domain.com (mail-domain.com
+ [216.32.181.173])	by domain.com
+ (Sentrion-MTA-4.2.2/Sentrion-MTA-4.2.2) with ESMTP id s3IDpwEg016748
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)	for
+ <user@domain.com>; Fri, 18 Apr 2015 13:51:59 GMT
+Received: from mail144-ch1 (localhost [127.0.0.1])	by
+ mail144-ch1-domain.com (Postfix) with ESMTP id 36EA74203CF	for
+ <user@domain.com>; Fri, 18 Apr 2015 13:51:13 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:205.201.133.149;KIP:(null);UIP:(null);IPV:NLI;H:domain.com;RD:domain.com;EFVD:NLI
+X-SpamScore: 16
+X-BigFish: vps16(z3e12h4011ozc89bhe0eah758Ic857h77f5h879duzz1f42h1ee6h1de0h1fdah21bdh2073h2146h1202h1a79M1e76h2189h1d1ah1d2ah1fc6h208chzz8275ch1de098h1def03h17326ah1def87h8275bh1bc7b9h8275dh1def86h18c673h19a27bh1de097h186068h1ce121iz2fheh5eh5fh839ha45hd24h10d2h1288h12a5h137ah139eh13eah1441h1537h162dh1631h1758h1898h18e1h1946h19b5h1b0ah1bceh224fh1d0ch1d2eh1d3fh1dc1h1dfeh1dffh1e00h1e1dh1e23h1fe8h1ff5h20f0h2218h2216h226dh24afh2327h2336h2438h2461h2487h24d7h2516h2534h2545h25f6h2605h268bh26d3h1d9ci1155h)
+X-FFO-Routing-Override: domain.com%sentrionwest-1422.domain.com;
+Received-SPF: pass (mail144-ch1: domain of domain.com designates 205.201.133.149 as permitted sender) client-ip=205.201.133.149; user@domain.com; helo=domain.com ;21.domain.com ;
+Received: from mail144-ch1 (localhost.localdomain [127.0.0.1]) by mail144-ch1
+ (MessageSwitch) id 1397829071546599_30418; Fri, 18 Apr 2015 13:51:11 +0000
+ (UTC)
+Received: from domain.com (domain.com
+ [10.43.68.234])	by mail144-domain.com (Postfix) with ESMTP id
+ 80FCC46004A	for <user@domain.com>; Fri, 18 Apr 2015 13:51:11 +0000
+ (UTC)
+Received: from domain.com (205.201.133.149) by
+ domain.com (10.43.70.17) with Microsoft SMTP Server id
+ 14.16.227.3; Fri, 18 Apr 2015 13:51:06 +0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=domain.com;
+ h=Subject:From: =?utf-8?Q?TheWrap=20FirstTake?= <noreply@thewrap.com>
+ bh=CCyXziIe8WdXstxpmxBnINQ/vVY=;
+ b=anBgZ2xTD43hFQ1qHINkwrBy9SemtlNNTMw6vZ6yXe75+Tr1XsXUy57+3NnQaMA1sOkzpR5/HtmW
+   2vIIaq446QlfnVFkmBsXpSGXKEj3Kh7dnTnXXFvtW++sHvk4js1l9AaSq83gZmZFZjjs7JwIaiY5
+   2WkppHDY6T6ockGVkU4=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=domain.com;
+ b=bofqTGgDEZ6opGTnJPKxSqee55lUGAXilu84evvbSF5xmtRPI0W51h8gejjpBh9A8I11lME03dBL
+   Ai+vu1l178+pG13XCvLrNgMoE9sDOoVKT1dKcAvF2M3WldyKsgmeP6TFapqJkppvwdgicyqF5yJo
+   ggzk1jRw2HIwlIprFvo=;
+Received: from (127.0.0.1) by domain.com id ha4mvi1lgi4m for
+ <user@domain.com>; Fri, 18 Apr 2015 13:51:49 +0000 (envelope-from
+ <user@domain.com>)
+Subject: =?utf-8?Q?Bryan=20Singer=20Sex=20Allegations=20Fallout=3A=20Accuser=20Says=20I=20Was=20=27Like=20a=20Piece=20of=20Meat=27=3B=20Cannes=20Lineup=20Revealed=3B=20Nancy=20Kirkpatrick=20Out=3B=20Chris=20Pine=27s=20New=20Role?=
+From: =?utf-8?Q?TheWrap=20FirstTake?= <noreply@thewrap.com>
+Reply-To: =?utf-8?Q?TheWrap=20FirstTake?= <user@domain.com>
+To: <user@domain.com>
+Date: Fri, 18 Apr 2015 13:51:49 +0000
+Message-ID: <4300user@domain.com>
+X-Mailer: MailChimp Mailer - **CIDe51d279e0a1ed11e912a**
+X-Campaign: mailchimp4300eb945fab9dc8942c198f9.e51d279e0a
+X-campaignid: mailchimp4300eb945fab9dc8942c198f9.e51d279e0a
+X-Report-Abuse: Please report abuse for this campaign here: <<link>>
+X-MC-User: 4300eb945fab9dc8942c198f9
+X-Feedback-ID: 112894:112894.2288617:us1:mc
+X-Accounttype: pd
+List-Unsubscribe: <mailto:user@domain.com?subject=unsubscribe>, <<<link>>>
+Sender: TheWrap FirstTake <user@domain.com>
+x-mcda: FALSE
+Return-Path: 
+ user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+TheWrap's First Take  TheWrap's First Take      April 18, 2014  
+
+<<link>>://thewrap.us1.list-domain.com/track/click?u=4300eb945fab9dc8942c198f9&id=3145fa9008&e=1ed11e912a<<link>>://thewrap.us1.list-domain.com/track/click?u=4300eb945fab9dc8942c198f9&id=1f0ace9e4b&e=1ed11e912a<<link>>://thewrap.us1.list-domain.com/track/click?u=4300eb945fab9dc8942c198f9&id=f438fa9558&e=1ed11e912a<<link>>://thewrap.us1.list-domain.com/track/click?u=4300eb945fab9dc8942c198f9&id=1062c09063&e=1ed11e912a<<link>>://thewrap.us1.list-domain.com/track/click?u=4300eb945fab9dc8942c198f9&id=e994f8a8e6&e=1ed11e912a    
+
+
+
+ <<link>>://thewrap.us1.list-domain.com/track/click?u=4300eb945fab9dc8942c198f9&id;=5529dfc6d8&e;=1ed11e912a 
+ <<link>>    
+
+Bryan Singer Sex Allegations: Accuser Speaks Out for First Time: I Was ‘Like a Piece of Meat’
+
+Plus 
+

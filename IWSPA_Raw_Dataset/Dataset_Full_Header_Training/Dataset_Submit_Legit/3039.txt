@@ -1,0 +1,72 @@
+Received: from domain.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Tue, 10 Jun 2015 15:26:53 +0200
+Received: from mail.hackingteam.it (unknown [192.168.100.50])	by
+ domain.com (Postfix) with ESMTP id B6BDF6037E;	Tue, 10 Jun 2015 
+ 14:14:50 +0100 (BST)
+Received: by mail.hackingteam.it (Postfix)	id D9B16B6603C; Tue, 10 Jun 2015 
+ 15:26:53 +0200 (CEST)
+Delivered-To: user@domain.com
+Received: from EmadPC (unknown [192.168.1.186])	(using TLSv1 with cipher
+ AES128-SHA (128/128 bits))	(No client certificate requested)	by
+ mail.hackingteam.it (Postfix) with ESMTPSA id CD444B6600D;	Tue, 10 Jun 2015 
+ 15:26:53 +0200 (CEST)
+From: Emad Shehata <e.shehata@hackingteam.it>
+To: 'Simonetta Gallucci' <user@domain.com>, 'Emad Shehata'
+	<user@domain.com>
+CC: 'amministrazione' <user@domain.com>
+References: <user@domain.com> <014b01cf84af$5fe85a80$1fb90f80$@user@domain.com>
+In-Reply-To: <014b01cf84af$5fe85a80$1fb90f80$@user@domain.com>
+Subject: R: HT Payment
+Date: Tue, 10 Jun 2015 15:26:53 +0200
+Message-ID: <00e801cf84af$a4dd3f20$ee97bd60$@user@domain.com>
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AQHPg61J9ynCj9hhtUGC//NpyFFFgZtqV0ZwgAAAjmA=
+Content-Language: it
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1505733112_-_-"
+
+Ciao Simonetta, grazie mille, ti prego di avvertirmi   Da: Simonetta Gallucci [mailto:user@domain.com] 
+Inviato: martedì 10 giugno 2015 15:25
+A: 'Emad Shehata'
+Cc: 'amministrazione'
+Oggetto: RE: HT Payment Ciao Emad,  ancora nulla. Purtroppo bisogna aspettare fino a domani. Grazie,  Simonetta Gallucci 
+Administrative Support 
+
+Hacking Team
+Milan Singapore Washington DC
+domain.com
+
+email: user@domain.com 
+mobile: +39 3939310619
+phone: +39 0229060603 From: Emad Shehata <e.shehata@hackingteam.it>
+Sent: lunedì 9 giugno 2015 08:38
+To: Simonetta Gallucci
+Cc: amministrazione
+Subject: I: HT Payment Buongiorno Simonetta
+In allegato swift copy. Mi confermi l'avvenuto ammontare sul ns conto?
+Saluti 
+-- 
+Emad Shehata 
+Key Account Manager 
+
+Sent from my mobile.
+ Da: Mesfer S. Al Mesfer [mailto:user@domain.com] 
+Inviato: Monday, June 09, 2015 07:48 AM
+A: Emad Shehata <user@domain.com> 
+Cc: Abdullah A. Mahmoud <user@domain.com> 
+Oggetto: HT Payment 
+  Dear Emad, Please find your payment slip. Both of purchased services must be provided to client before end of today. Best Regards,
+
+Mesfer Al Mesfer
+Sr. Project Manager
+T:+966920014888 Ext.171
+F:+96614168989
+M:+966558281100
+E: user@domain.com email and any files transmitted with it may be confidential and intended solely for the use of the addressed individual or entity. If you have received this email in error kindly notify the sender immediately and do not disclose the contents to any other person, or store or copy the information in any medium. Statements of intent shall only become binding when confirmed in hard copy by an authorized signatory. TCC accepts no liability for any damage caused by any virus transmitted by this email. Any views or opinions presented in this email are solely those of the author and do not necessarily represent those of TCC. 

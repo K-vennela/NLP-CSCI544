@@ -1,0 +1,32 @@
+<x-flowed>
+Dear coauthors of the Santer et al. International Journal of Climatology 
+paper (and other interested parties),
+I have now publicly released the synthetic MSU tropical lower 
+tropospheric temperatures that were the subject of Mr. Stephen 
+McIntyre's request to the U.S. Dept. of Energy/National Nuclear Security 
+Agency under the U.S. Freedom of Information Act (FOIA). I have also 
+released additional synthetic MSU temperatures which were not requested 
+by Mr. McIntyre. These synthetic MSU datasets are available on PCMDI's 
+publicly-accessible website. The link to the datasets is:
+<<link>>
+Technical information about the synthetic MSU datasets is provided in a 
+document entitled:
+"Information regarding synthetic Microwave Sounding Unit (MSU) 
+temperatures calculated from CMIP-3 archive"
+The link to the technical document is:
+<<link>>
+I hope that these datasets will prove useful for bona fide scientific 
+research, and will be employed for such purposes only.
+I am also hopeful that after publication of these datasets, I will be 
+able to return to full-time research, unencumbered by further FOIA 
+requests from Mr. McIntyre. In my opinion, Mr. McIntyre's FOIA requests 
+are for the purpose of harassing Government scientists, and not for the 
+purpose of improving our understanding of the nature and causes of 
+climate change.
+I'd like to thank Dave Bader, Bill Goldstein, and Pat Berge for helping 
+me complete the process of reviewing, releasing, and publishing the 
+synthetic MSU datasets and the technical document. And thanks to all of 
+you for your support and encouragement over the past two months. It is 
+deeply appreciated.
+With best regards,
+Ben

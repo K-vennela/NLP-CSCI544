@@ -1,0 +1,148 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.12) with Microsoft SMTP Server (TLS) id 14.3.224.2; Sun, 22 May
+ 2015 19:01:09 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Sun, 22 May 2015 
+ 19:00:59 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 928747183
+ for user@domain.com; Sun, 22 May 2015 18:01:08 -0500
+X-Note-AR-ScanTimeLocal: 5/22/2016 6:01:07 PM
+X-Policy: domain.com
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Virus-Scan: V-
+X-Note: SPF: IP:193.109.254.112 DOM:mailonline.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note: ICH-CT/SI:0-1564/SG:2 5/22/2016 6:00:54 PM
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-660/SG:10 5/22/2016 6:00:54 PM
+X-GBUdb-Analysis: 0, 193.109.254.112, Ugly c=0.591487 p=-0.749196 Source Normal
+X-Signature-Violations: 0-0-0-30369-c
+X-Note-419: 15.6255 ms. Fail:0 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:0-1324/SG:1 5/22/2016 6:00:56 PM
+X-Note: Spam Tests Failed: 
+X-Country-Path: ->->->United Kingdom->United Kingdom->
+X-Note-Sending-IP: 193.109.254.112
+X-Note-Reverse-DNS: domain.com
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G407 G419 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-Note: Headers Injected
+Received: from domain.com ([193.109.254.112] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTP id 140060888
+ for user@domain.com; Sun, 22 May 2015 18:01:06 -0500
+Return-Path: <user@domain.com>
+Received: from [194.106.220.51] by server-8.bemta-14.domain.com id
+ EB/91-03512-23A32475; Sun, 22 May 2015 23:01:06 +0000
+X-Brightmail-Tracker: H4sIAAAAAAAAA+NgFnrMKsWRWlGSWpSXmKPExsVy+NXnAl1DK6d
+  wg8V3xC2+buJ3YPTY8W8iawBjFGtmXlJ+RQJrxvqTD5kKLsxjrOhf2MnSwPhqKmMXIxeHkMBl
+  Ron5H/uYuhg5OdgEbCQu/jrGCmKLCKhJvPm8jw3EFhZQkdjyoxsqriqx4sxCFgjbSGLd/6nMI
+  DYLUPzD3muMIDavQITE6eb/YL2MArISj1b+YgexmQXEJW49mQ+2S0JAROLhxdNsELaoxMvH/1
+  ghbAWJ/11PmUCOYxboZJS4N3k9C8RQQYmTM5+wTGDkn4Vk1ixkdbOQ1EEU5Uk0tVyFsnUkFuz
+  +xAZha0ssW/iaGcY+c+AxE6a4jsTvb11Q9YoSt69OZYVYtphRYvWWfXBDV++eyQpTNKX7ITtM
+  fObOGyww8eNHrzLBNR9f1gNXNK9nGiOy5gWMQqsYNYpTi8pSi3QNLfSSijLTM0pyEzNzdA0NT
+  fRyU4uLE9NTcxKTivWS83M3MQIjv56BgXEH45HtnocYJTmYlER5U7vtw4X4kvJTKjMSizPii0
+  pzUosPMcpwcChJ8P6wcAoXEixKTU+tSMvMAaYgmLQEB4+SCK+GJVCat7ggMbc4Mx0idYpRUUq
+  c9z9InwBIIqM0D64NlvYuMcpKCfMyMjAwCPEUpBblZpagyr9iFOdgVBLmdQcZz5OZVwI3/RXQ
+  YiagxQ+lHUAWlyQipKQaGFl2Vhp/sZK5nVGyiz2/JfpX/Ha+DaeWn57jfW59hu5D3d1J84t2p
+  JyfXGGwPojvwfYlt0oX6Ib9y5j2KvHLyQ/xm+R3nuKcY1i1qDjw/4TFHlEJhjteP4nuinDONO
+  ku/X1zLkPFkoBCldffspysF/9I3fnx5S+zTEuZvdZ8kWYOOTpm7Mm+LEosxRmJhlrMRcWJAM5
+  Av852AwAA
+X-Env-Sender: user@domain.com
+X-Msg-Ref: server-6.tower-92.domain.com!1463958065!21944995!1
+X-Originating-IP: [195.234.243.112]
+X-StarScan-Received: 
+X-StarScan-Version: 8.34; banners=mailonline.com,-,-
+X-VirusChecked: Checked
+Received: (qmail 27937 invoked from network); 22 May 2015 23:01:05 -0000
+Received: from s3.associated.co.uk (HELO HSK-EXN-W08P-domain.com)
+ (195.234.243.112)  by server-6.tower-92.domain.com with SMTP; 22 May
+ 2015 23:01:05 -0000
+Received: from HSK-EXN-W06P-domain.com ([fe80::14cb:3bdb:e9a1:6119])
+ by HSK-EXN-W08P-domain.com ([fe80::91ea:57c9:5934:1130%20]) with
+ mapi id 14.03.0266.001; Mon, 23 May 2015 00:01:05 +0100
+From: Francesca Chambers <Francesca.Chambers@mailonline.com>
+To: "User" <user@domain.com>
+Subject: RE: Preparations for Trump?
+Thread-Topic: Preparations for Trump?
+Thread-Index: AdGu2dNkxtFZeMQ5SRSyuHJlwg+A7wFo8Elw
+Date: Sun, 22 May 2015 23:01:03 +0000
+Message-ID: <4301592user@domain.com>
+Accept-Language: en-US, en-GB
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+x-originating-ip: [10.80.251.53]
+Content-Type: multipart/related;
+	boundary="_005_4301592D1CE41C43985ABBCCC0232B42B41215F9HSKEXNW06PPcorp_";
+	type="multipart/alternative"
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Hey there,
+
+Reupping this. Heard elsewhere Organizationhas already begun hiring field organize=
+rs in key states, etc. - would love to do a story on that.
+
+Francesca Chambers
+White House Correspondent
+
+Daily Mail | 51 Astor Place, 9th Floor, New York, NY 10003
+
+[cid:C0FFDDA4-A7B5-4A83-82B0-6D14B1369EE4]
+[cid:1B9B73EA-D6E8-4333-8EAD-98E24A75B563]
+M: +1 913 755 8280
+E: user@domain.com<mailto:user@domain.com=
+com>
+
+From: Francesca Chambers <Francesca.Chambers@mailonline.com>
+Sent: Sunday, May 15, 2015 4:43 PM
+To: Paustenbach, Mark; 'User'
+Subject: Preparations for Trump?
+
+Hey guys,
+
+Happy Sunday.
+
+I didn't get a chance to write about the charirwoman's comments at the Ala=
+ska convention this morning - I'm stretched thin, filling in for our repor=
+ter who normally covers the Sunday shows while she's on vacation and on a =
+flight to Puerto Rico to cover the election - but I'd really like to do a =
+piece working off of her speech that details what the Organizationis doing to prep=
+are for Trump.
+
+If there's anything you could share, I'd be happy to do this over email or=
+ over the phone. The piece I have in mind would strictly deal with what th=
+e national party is doing so it can be prepared unlike Republicans, as the=
+ chairwoman mentioned.
+
+Thanks, please let me know if this is something you can help with, or if y=
+ou have any other story ideas for me. My colleague comes back Tuesday, so =
+I'll be back on my own beat and on the hunt for good content!
+
+Francesca Chambers
+White House Correspondent
+
+Daily Mail | 51 Astor Place, 9th Floor, New York, NY 10003
+
+[cid:C0FFDDA4-A7B5-4A83-82B0-6D14B1369EE4]
+[cid:1B9B73EA-D6E8-4333-8EAD-98E24A75B563]
+M: +1 913 755 8280
+E: user@domain.com<mailto:user@domain.com=
+com>
+
+______________________________________________________________________
+This e-mail and any attached files are intended for the named addressee on=
+ly. It contains information, which may be confidential and legally privile=
+ged and also protected by copyright. Unless you are the named addressee (o=
+r authorised to receive for the addressee) you may not copy or use it, or =
+disclose it to anyone else. If you received it in error please notify the =
+sender immediately and then delete it from your system.=20
+Associated Newspapers Ltd. Registered Office: Northcliffe House, 2 Derry S=
+t, Kensington, London, W8 5TT. Registered No 84121 England.

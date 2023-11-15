@@ -1,0 +1,438 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.4.9])
+	by domain.com (Postfix) with ESMTP id EEB65468DE
+	for <user@domain.com>; Thu,  5 Apr 2015 21:14:48 -0400 (EDT)
+Received: from domain.com (domain.com [70.158.128.6])
+	by domain.com (Postfix) with ESMTP id E09D8131F929
+	for <user@domain.com>; Thu,  5 Apr 2015 21:14:48 -0400 (EDT)
+Received: from User (unverified [64.148.46.227]) by domain.com
+  (domain.com SMTPRS 4.4.568.0) with ESMTP id <user@domain.com>;
+  Thu, 5 Apr 2015 21:10:14 -0400
+X-Modus-BlackList: user@domain.com=OK
+X-Modus-domain.com: FALSE;0;0;0
+From: "support"<Service@capitalone.com>
+Subject: Notification From: "support"<Service@capitalone.com>
+Date: Thu, 5 Apr 2015 21:10:11 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20070406011448.user@domain.com>
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1085
+
+Capital One | Message
+
+A:link {
+	COLOR: #336699
+}
+BODY {
+	FONT-FAMILY: Helvetica, Verdana, sans-serif
+}
+P {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif
+}
+.boldsmall {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif
+}
+B {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif
+}
+.copyblock {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif; TEXT-ALIGN: center
+}
+P.footer {
+	FONT-SIZE: 11px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif
+}
+P.copyblockheading {
+	FONT: bold 11px/11px Arial, Helvetica, Verdana, sans-serif
+}
+TD {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif
+}
+TH {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif
+}
+TD.copyblock {
+	FONT-SIZE: 11px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif; TEXT-ALIGN: center
+}
+H1 {
+	FONT-SIZE: 14pt; COLOR: #333366
+}
+H2 {
+	FONT-SIZE: 12pt; COLOR: #666666
+}
+H3 {
+	FONT-SIZE: 11pt; COLOR: #000000
+}
+H4 {
+	FONT-SIZE: 12pt; COLOR: #000000
+}
+.header {
+	FONT-SIZE: 12px
+}
+.headerbright {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #ffffff
+}
+.headerbrightsmall {
+	FONT-SIZE: 11px; COLOR: #ffffff
+}
+.popup {
+	FONT-SIZE: 12px
+}
+.subhead {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px
+}
+.errorheader {
+	FONT-WEIGHT: bold; FONT-SIZE: 11pt; COLOR: red
+}
+.errorbold {
+	FONT-WEIGHT: bold; FONT-SIZE: 15pt; COLOR: #ff0000
+}
+.spacer {
+	FONT-SIZE: 11px; MARGIN-LEFT: 10px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif
+}
+UL {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif
+}
+LI {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif
+}
+OL {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif
+}
+BLOCKQUOTE {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif
+}
+SUP {
+	FONT-SIZE: 8px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif
+}
+.copyright {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif; TEXT-ALIGN: center
+}
+.super {
+	FONT-SIZE: 11px
+}
+.small {
+	FONT-SIZE: 11px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif
+}
+.smallblue {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: blue; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif
+}
+.smallblueNonBold {
+	FONT-SIZE: 11px; COLOR: blue; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif
+}
+.boldLabel {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px
+}
+.indentLabel {
+	FONT-SIZE: 11px; MARGIN-LEFT: 15px
+}
+.statementError {
+	FONT-SIZE: 13px; COLOR: red
+}
+.smallred {
+	FONT-SIZE: 11px; COLOR: red; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif
+}
+.cadisc {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif
+}
+.footer10 {
+	FONT-SIZE: 10px
+}
+.navmenu {
+	COLOR: #0000ff; TEXT-DECORATION: underline
+}
+.navmenunone {
+	TEXT-DECORATION: none
+}
+.ime_capone_compose {
+	TEXT-DECORATION: none
+}
+.formlabel {
+	TEXT-DECORATION: none
+}
+.buttonText {
+	TEXT-DECORATION: none
+}
+.ime_capone_navmenu {
+	FONT-SIZE: 12px; COLOR: #0000ff; TEXT-DECORATION: underline
+}
+.ime_capone_navmenunone {
+	FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+.ime_capone_header_bold {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px
+}
+.ime_capone_regular {
+	FONT-SIZE: 12px
+}
+.ime_capone_regular_bold {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px
+}
+.feecolor {
+	BACKGROUND-COLOR: #ebf7fb
+}
+A.ime_capone_folder_list:link {
+	FONT-SIZE: 12px; COLOR: black
+}
+A.ime_capone_folder_list:visited {
+	FONT-SIZE: 12px; COLOR: black
+}
+.text {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Arial,helvetica,sans-serif
+}
+.textBold {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Arial,helvetica,sans-serif
+}
+.textSmall {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial,helvetica,sans-serif
+}
+.textSmallBold {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial,helvetica,sans-serif
+}
+
+Dear Capital One Bank, Capital One, F.S.B., Member,
+
+
+
+                Because of unusual number of invalid login attempts on your account, we had to believe that, their might be
+
+                some security problem on you account. So we have decided to put an extra verification process to ensure your identity
+
+                and your account security. Please click the link bellow:
+
+<<link>>
+
+It is all about your security. Thank you. and domain.com the customer service section.
+
+
+
+Capital One Bank, Capital One, F.S.B., members FDIC. 2015 Capital One Services, Inc.
+
+
+
+Capital One is a federally registered service mark. All rights reserved.
+
+
+
+Capital One ID: COB495886838
+
+From user@domain.com  Fri Apr  6 07:14:08 2015 
+Return-Path: 
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.4.9])
+	by domain.com (Postfix) with ESMTP id 2BA4B468BE
+	for ; Fri,  6 Apr 2015 07:14:08 -0400 (EDT)
+Received: from domain.com (domain.com [192.168.6.4])
+	by domain.com (Postfix) with ESMTP id 5B58A131FA51
+	for ; Fri,  6 Apr 2015 07:14:08 -0400 (EDT)
+Received: from domain.com (domain.com [203.186.94.38])
+	by domain.com (Postfix) with ESMTP id E76766FA1C1
+	for ; Fri,  6 Apr 2015 07:14:07 -0400 (EDT)
+Received: from domain.com (059148199197.domain.com [59.148.199.197])
+	by domain.com (8.12.11/8.12.11) with ESMTP id l36BDvF6002833
+	for ; Fri, 6 Apr 2015 19:13:58 +0800 (HKT)
+Received: from User ([24.39.152.50]) by domain.com with Microsoft SMTPSVC(6.0.3790.1830);
+	 Fri, 6 Apr 2015 02:07:22 +0800
+Reply-To: 
+From: "support"<Service@capitalone.com>
+Subject: Limited account access
+Date: Thu, 5 Apr 2015 14:16:13 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: 
+X-OriginalArrivalTime: 05 Apr 2015 18:07:22.0921 (UTC) FILETIME=[42543190:01C777AD]
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 1086
+
+As part of our security measures, we regularly screen activity in the PayPal system
+
+During a recent screening, we noticed an issue regarding your account
+
+For your protection, we have limited access to your account until additional security measures can be completed
+We apologize for any inconvenience this may cause. To review your account and some or all of the information that PayPal used to make its decision to domain.com your account access, please domain.com the Resolution Center here
+
+<<link>>
+
+Thank you for using PayPal!
+
+If, after reviewing your account information, you seek further clarification regarding your account access, please contact PayPal by visiting the Help Center and clicking "Contact Us".
+
+We thank you for your prompt attention to this matter. Please understand that this is a security measure intended to help protect you and your account. We apologize for any inconvenience. Sincerely, PayPal Account Review Department 
+PayPal page.
+
+PayPal Email ID PP00245
+
+
+
+
+From user@domain.com  Fri Apr  6 13:19:18 2015 
+Return-Path: 
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.4.9])
+	by domain.com (Postfix) with ESMTP id AF1EB468F9
+	for ; Fri,  6 Apr 2015 13:19:18 -0400 (EDT)
+Received: from 210.181.2.214 (unknown [210.181.2.214])
+	by domain.com (Postfix) with SMTP id E0718131FB36
+	for ; Fri,  6 Apr 2015 13:19:17 -0400 (EDT)
+Received: from 220.40.40.121 by ; Fri, 06 Apr 2015 13:53:47 -0300
+Message-ID: 
+From: "support"<Service@capitalone.com>
+Reply-To: "User" 
+To: user@domain.com
+Subject: Question from eBay Member regarding Item #705892139576
+Date: Fri, 06 Apr 2015 21:01:47 +0400
+X-Mailer: Microsoft Outlook IMO, Build 9.0.2416 (9.0.2910.0)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--60071261134908699810"
+X-Priority: 3
+X-MSMail-Priority: Normal
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 1087
+
+----60071261134908699810
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+ <!-- Hide from old browsers  
+function a(txt) { self.status =3D txt } function b() { self.status =3D "" =
+
+} // --End Hiding Here --> 
+
+eBay sent this message from Willie McKain (willie63).<=
+/TD>
+
+Question about Item -- Respond Now 
+<=
+/TD>
+
+eBa=
+y sent this message on behalf of an eBay member through My Messages. Respo=
+nses sent using email will go to the eBay member directly and will include=
+ your email address. 
+
+ Question from willi=
+e63
+
+willie63(=
+ 180)
+
+Positive f=
+eedback:
+100%
+
+Member sin=
+ce:
+Dec-27-98
+
+Location:<=
+/FONT>
+MD, United States
+
+Registered=
+ on:
+domain.com
+
+Item: 705892139576
+
+Activity with =
+willie63 (=
+last 90 days):
+
+- You have bid on 0=
+ items from willie63=
+
+Hello,
+I saw that the auction was closed with no w=
+inner and I want to know if the item is still available for sale. Let me k=
+now asap!
+
+Thank you!<=
+/TD>
+
+Respond to this question
+
+Responses =
+in My Messages will not include your email address.
+
+<=
+B>Details for item number: 705892139576
+
+Item URL:
+<<link>>
+BayISAPI.dll?ViewItem&item=3D705892139576=
+&sspagename=3DADME:B:AAQ:US:1
+
+End date:
+Thursday, Mar-31-0=
+7 06:05:00 PDT<=
+/TD>
+
+Marketplace Safety Tip 
+
+Always remember to complete =
+your transactions on eBay - it's the safer way to trade.
+
+Is thi=
+s message an offer to buy your item directly through email without winning=
+ the item on eBay? If so, please help make the eBay marketplace safer by r=
+eporting it to us. These "outside of eBay" transactions may be unsafe and =
+are against eBay policy. Learn more about trading safely. 
+
+Is this email inappropriate? Do=
+es it violate eBay policy? Help protect the Community by r=
+eporting it. 
+
+Learn how you c=
+an protect yourself from spoof (fake) emails at: 
+<<link>>
+ion/spooftutorial
+
+This eBay notice was sent to you on be=
+half of another eBay member through the eBay platform and in accordance wi=
+th our Privacy Policy. If you would like to receive this email in text for=
+mat, change your notificatio=
+n preferences. 
+
+See our Privacy Policy and User Agreemen=
+t if you have questions about eBay's communication policies. 
+Privacy P=
+olicy: <<link>>
+com/help/policies/privacy-policy.html
+User Agreement: <<link>>
+cies/user-agreement.html
+
+Copyright =A9 2007 eBay, I=
+nc. All Rights Reserved.
+Designated trademarks and brands are the prope=
+rty of their respective owners.
+eBay and the eBay logo are registered t=
+rademarks or trademarks of eBay, Inc.
+eBay is located at 2015 Hamilton =
+Avenue, San Jose, CA 95125.=
+
+----60071261134908699810

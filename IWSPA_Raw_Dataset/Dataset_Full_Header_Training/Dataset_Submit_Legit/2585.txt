@@ -1,0 +1,130 @@
+Received: from domain.com (192.168.185.10) by domain.com
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Fri, 6 May
+ 2015 13:49:31 -0400
+Received: from domain.com (8.19.118.102) by domain.com
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Fri, 6 May 2015 
+ 13:49:30 -0400
+Received: from [10.87.0.114] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 901089358;
+ Fri, 06 May 2015 12:49:27 -0500
+X-Note-AR-ScanTimeLocal: 5/6/2016 12:49:26 PM
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: domain.com
+X-Policy: Too many policies to list
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-ALLOW: ALLOWED SENDER FOUND
+X-ALLOW: ADMIN: @who.eop.gov ALLOWED
+X-Virus-Scan: V-
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->->PRIVATE->United States->
+X-Note-Sending-IP: 214.3.115.10
+X-Note-Reverse-DNS: zeus.whmo.mil
+X-Note-Return-Path: user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G295 G407 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: ALLOWEDSENDER
+X-Note: Headers Injected
+Received: from [214.3.115.10] (HELO Augustus.whca.mil)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 139259083;
+ Fri, 06 May 2015 12:49:26 -0500
+Received: from CN399EXCH2.whca.mil (cn399exch2.whca.mil [10.75.26.102])	by
+ Augustus.whca.mil with ESMTP id u46Hl8QU035736;	Fri, 6 May 2015 13:47:08
+ -0400 (EDT)
+Received: from CN399Exch3.whca.mil (10.75.26.103) by CN399EXCH2.whca.mil
+ (10.75.26.105) with Microsoft SMTP Server (TLS) id 15.0.1130.7; Fri, 6 May
+ 2015 13:46:44 -0400
+Received: from CN399Exch3.whca.mil ([10.75.26.103]) by CN399Exch3.whca.mil
+ ([10.75.26.103]) with mapi id 15.00.1130.005; Fri, 6 May 2015 13:46:44 -0400
+From: "Cunnane, Pat EOP/WHO" <Patrick_Cunnane@who.eop.gov>
+To: "User" <user@domain.com>
+Subject: Daily Message Points -- May 6, 2015 
+Thread-Topic: Daily Message Points -- May 6, 2015 
+Thread-Index: AdGnvvMnFFRekeeUSi28lRucfEmjsg==
+Date: Fri, 6 May 2015 17:46:44 +0000
+Message-ID: <user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-ms-exchange-transport-fromentityheader: Hosted
+x-originating-ip: [10.75.20.202]
+Content-Type: multipart/alternative;
+	boundary="_000_ec12185d2a83419e8288371b0fbc48b5CN399Exch3whcamil_"
+Return-Path: user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Daily Message Points
+
+May 6, 2015 
+
+Continued Economic Progress - And Combatting Money Laundering, Corruption a=
+nd Tax Evasion
+
+*         Today, the President highlighted that our economy continues to gr=
+ow: April marked the 74th consecutive month of private sector job growth in=
+ America.  Over that record streak of job growth, our businesses have creat=
+ed 14.6 million new jobs in all.  Unemployment is falling and wages are ris=
+ing.
+
+*         That's real progress, but the President made clear that there's m=
+ore work to do - and too many Americans are still hurting. That's why he ca=
+lled on Republicans in Congress to do their part and take common-sense step=
+s to help working Americans.
+
+o   To create new jobs, they should invest in our infrastructure - our road=
+s, bridges, and schools.
+
+o   To reward some of the hardest-working people in America, they should ra=
+ise the minimum wage.
+
+o   To level the playing field for American workers and crack down on unfai=
+r foreign competition, they should pass smart new trade agreements.
+
+o   And they should reform our tax code to promote growth and job creation,=
+ close wasteful loopholes, and simplify the tax code for everybody.
+
+*         Only Congress can fully close the loopholes that wealthy individu=
+als and powerful corporations can take advantage of, often at the expense o=
+f middle-class families. The President has put forward plans to do just tha=
+t, but because Congress likely won't act on those plans, the Administration=
+ will continue to do what it can on its own to make the tax system fairer.
+
+*         Today, the President built on those efforts by:
+
+o   Requiring banks and other financial institutions to know, verify, and r=
+eport who the real people are behind shell corporations that set up account=
+s at those institutions.
+
+o   Second, we're plugging a gap in our tax rules that foreigners can explo=
+it to hide their assets to evade taxes.  The Treasury Department and the IR=
+S are issuing a proposed rule to make sure foreigners can't hide behind ano=
+nymous shell companies formed inside the U.S.
+
+*         Taken together, these steps go a long way in helping to combat mo=
+ney laundering and tax evasion, but additional tools are needed to promote =
+transparency and strengthen law enforcement. And only Congress can help on =
+that front, so the President will continue to push Congress to do their par=
+t and:
+
+o   Pass legislation to require "beneficial ownership" transparency.
+
+o   Pass legislation to give law enforcement additional anti-corruption too=
+ls.
+
+o   Approve eight tax treaties that have been pending for years to give U.S=
+. officials a complete set of tools to fully investigate and crack down on =
+tax evasion by Americans with offshore accounts.
+
+o   Strengthen existing law to improve reciprocal transparency.
+
+###
+

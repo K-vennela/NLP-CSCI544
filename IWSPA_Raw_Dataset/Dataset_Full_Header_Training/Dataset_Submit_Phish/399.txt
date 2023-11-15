@@ -1,0 +1,57 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [152.160.49.212])
+	by domain.com (Postfix) with ESMTP id 6F889477FE
+	for <user@domain.com>; Sun,  2 Sep 2015 16:50:42 -0400 (EDT)
+Received: from domain.com (domain.com [204.181.64.8])
+	by domain.com (Postfix) with ESMTP id 74381132087B
+	for <user@domain.com>; Sun,  2 Sep 2015 11:16:56 -0400 (EDT)
+Received: from domain.com (domain.com [66.160.79.195])
+	by domain.com (Postfix) with ESMTP id 7A33F6FA1C5
+	for <user@domain.com>; Sun,  2 Sep 2015 11:16:56 -0400 (EDT)
+Received: from User ([210.207.10.10]) by domain.com with Microsoft SMTPSVC(5.0.2195.6713);
+	 Sun, 2 Sep 2015 10:41:59 -0400
+Reply-To: <user@domain.com>
+From: "Internal Revenue Service"<contact@irs.gov>
+Subject: Notice From IRS
+Date: Sun, 2 Sep 2015 23:45:31 +0900
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <user@domain.com>
+X-OriginalArrivalTime: 02 Sep 2015 14:41:59.0625 (UTC) FILETIME=[6B08F390:01C7ED6F]
+To: undisclosed-recipients:;
+Content-Length: 2015 
+Lines: 61
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 90
+
+After the last 
+            annual calculations of your fiscal activity we have determined that 
+            you are eligible to receive a tax refund of $93.60. 
+Please 
+            domain.com the tax refund request and allow us 6-9 days in order to 
+            process it.
+A refund can be delayed for a variety of reasons. For example 
+            submitting invalid records or applying after the deadline.
+To access the form for your tax refund, 
+            please click 
+here
+Regards, 
+
+            Internal Revenue Service
+
+
+
+
+© Copyright 2007, 
+        Internal Revenue Service U.S.A. All rights reserved..
+

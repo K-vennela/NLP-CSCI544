@@ -1,0 +1,52 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [192.168.4.9])
+	by domain.com (Postfix) with ESMTP id C58854692F
+	for <user@domain.com>; Thu, 10 May 2015 21:18:08 -0400 (EDT)
+Received: from domain.com (domain.com [192.168.6.4])
+	by domain.com (Postfix) with ESMTP id 0A66F131F9FA
+	for <user@domain.com>; Thu, 10 May 2015 21:18:09 -0400 (EDT)
+Received: from domain.com (235.Red-80-24-79.staticIP.rima-domain.com [80.24.79.235])
+	by domain.com (Postfix) with ESMTP id 9A75E6FA1C7
+	for <user@domain.com>; Thu, 10 May 2015 21:18:08 -0400 (EDT)
+Received: from User ([210.96.34.253]) by domain.com with Microsoft SMTPSVC(6.0.3790.1830);
+	 Fri, 11 May 2015 03:17:02 +0200
+Reply-To: <user@domain.com>
+From: "service@paypal.com"<service@paypal.com>
+Subject: Limited Account Access Appeal Denied
+Date: Fri, 11 May 2015 10:17:37 +0900
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <user@domain.com>
+X-OriginalArrivalTime: 11 May 2015 01:17:02.0687 (UTC) FILETIME=[14B98EF0:01C7936A]
+X-TM-AS-Product-Ver: SMEX-7.5.0.1217-3.6.1039-15168.002
+X-TM-AS-Result: Yes-29.377800-5.000000-2
+X-TM-AS-User-Approved-Sender: No
+X-TM-AS-User-Blocked-Sender: No
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1247
+
+Bank of America Account Review Department !
+
+.style1 {font-family: Verdana, Arial, Helvetica, sans-serif;font-weight: bold;color: #D4001A;}
+.style3 {color: #000000; font-size: 12px; font-family: Verdana, Arial, Helvetica, sans-serif;}
+.style4 {font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 10px;}
+
+Your Online Banking is Blocked
+Because of   unusual number of invalid login attempts on you account, we had to believe that,   their might be some security problem on you account. So we have decided to put   an extra verification process to ensure your identity and your account security.   Please click on sign in to Online Banking to continue to the verification process and   ensure your account security. It is all about your security. Thank you, and   domain.com the customer service section.
+
+Bank of   America,   N.A. Member FDIC. Equal Housing Lender 
+
+© 2015 Bank of America Corporation. All rights reserved.
+
+

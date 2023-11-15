@@ -1,0 +1,331 @@
+Received: from dncedge1.dnc.org (192.168.185.10) by dnchubcas2.dnc.org
+ (192.168.185.16) with Microsoft SMTP Server (TLS) id 14.3.224.2; Mon, 16 May
+ 2015 20:56:19 -0400
+Received: from domain.com (8.19.118.102) by dncwebmail.dnc.org
+ (192.168.10.221) with Microsoft SMTP Server id 14.3.224.2; Mon, 16 May 2015 
+ 20:56:18 -0400
+Received: from [10.87.0.113] (HELO domain.com)  by
+ domain.com (CommuniGate Pro SMTP 6.0.4)  with ESMTP id 918404843;
+ Mon, 16 May 2015 19:56:20 -0500
+X-Note-AR-ScanTimeLocal: 5/16/2016 7:56:12 PM
+X-Policy: dnc.org
+X-Policy: dnc.org
+X-Policy: dnc.org
+X-Policy: dnc.org
+X-Policy: dnc.org
+X-Policy: Too many policies to list
+X-Note-AR-Scan: None - PIPE
+Received: by domain.com (CommuniGate Pro PIPE 6.1.7)  with PIPE id
+ 138903065; Mon, 16 May 2015 19:56:12 -0500
+Received: from mail-vk0-domain.com ([209.85.213.62] verified)  by
+ domain.com (CommuniGate Pro SMTP 6.1.7)  with ESMTPS id 138903059;
+ Mon, 16 May 2015 19:56:07 -0500
+Received: by mail-vk0-domain.com with SMTP id z184sf210649vkg.1;
+        Mon, 16 May 2015 17:56:06 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=domain.com; s=20120806;
+        h=sender:From: "Helmstetter, TJ" <HelmstetterT@dnc.org>
+         :accept-language:content-language:mime-version:x-original-sender
+         :x-original-authentication-results:precedence:mailing-list:list-id
+         :x-spam-checked-in-group:list-post:list-help:list-archive
+         :list-unsubscribe;
+        bh=nHH2dBVc9h1H9j0CmPZEgpcll+nSbgtrLFw2LSkGwTM=;
+        b=ZBwVxhjtm+nYubzMvRKRszWV7/ayivf7RsbU7avfBSedLhLanNDLNPSYIg4rW4MHW8
+         X2+nsn2CNVjIZM7eyap916Jsk3mGxGEZp3h31ACQ3N/urJDER3819iQALBj4WVdNkNga
+         Ux0swWSuW3/38dH5IlieIiTPZ/cJDkr4EtI1fl4NkIEsZFbFy4Iim31xvnqQZNWl6Mlt
+         7E9xEJ5l31ff8lSZilApC7f/MDpNOAgy+dd/9/goeXJ9bUkFBFLnLh7Tdc5uu5HG72Y8
+         EXyuaFWh1z3xdJcYeCv78MsBFKRCNlhSxuGEqul36ba2MNEPvfD07zioW3gBYS2dWkLD
+         CHXw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=sender:x-gm-message-state:From: "Helmstetter, TJ" <HelmstetterT@dnc.org>
+         :date:message-id:accept-language:content-language:mime-version
+         :x-original-sender:x-original-authentication-results:precedence
+         :mailing-list:list-id:x-spam-checked-in-group:list-post:list-help
+         :list-archive:list-unsubscribe;
+        bh=nHH2dBVc9h1H9j0CmPZEgpcll+nSbgtrLFw2LSkGwTM=;
+        b=D8SbPv+Zm/baCUOQBmQH7dBEuY3iq0wsLV+ZFgT5sQOOmJVXmlS77jOyxujBAvFZjY
+         0mYwu4Jvrxs3njEbKyIzyGvutzct+J+rzAEWppOmywZUdzD0s7v/59Bz5qPrXzuCa682
+         2Aq0BXaFgmPKeku4dkGtIBK7CzASxO4f3JWoisvzQG2w6bnHNCOJFaczYbhGHEaJuJ8G
+         qIxAqfdIr8tAoETEcE/la/Qfg5/2J9u0AIYa/3j8vPahYQWefvbKn5wXX/MZ7Yu3A/FX
+         OX8U2p6HQizws8yUqhfRKBjkvloz2tifI//8R/NfXsXunPnL74GwsKPHEhSyGwznTvJo
+         /bHQ==
+Sender: <user@domain.com>
+X-Gm-Message-State: AOPr4FWJ+p8Ka1kvX6L7CFkDc+5dUBQC2F9dUs9TSWwcLU06f7Wt33Xg00Bc5Kg2Eawy7A==
+X-Received: by 10.36.124.196 with SMTP id a187mr226990itd.8.1463446566277;
+        Mon, 16 May 2015 17:56:06 -0700 (PDT)
+X-BeenThere: user@domain.com
+Received: by 10.107.46.131 with SMTP id u3ls26674iou.6.gmail; Mon, 16 May 2015 
+ 17:56:05 -0700 (PDT)
+X-Received: by 10.98.27.132 with SMTP id b126mr22883563pfb.0.1463446565657;
+        Mon, 16 May 2015 17:56:05 -0700 (PDT)
+Received: from dncedge1.dnc.org (dncedge1.dnc.org. [208.69.4.12])        by
+ gmr-domain.com with ESMTPS id t10si10906ywe.4.2016.05.16.17.56.05
+        for <user@domain.com>        (version=TLS1
+ cipher=ECDHE-RSA-AES128-SHA bits=128/128);        Mon, 16 May 2015 17:56:05
+ -0700 (PDT)
+Received-SPF: pass (domain.com: domain of user@domain.com designates 208.69.4.12 as permitted sender) client-ip=208.69.4.12;
+Received: from DNCHUBCAS1.dnc.org (192.168.185.12) by dncwebmail.dnc.org
+ (192.168.10.221) with Microsoft SMTP Server (TLS) id 14.3.224.2; Mon, 16 May
+ 2015 20:56:04 -0400
+Received: from DNCDAG1.dnc.org ([fe80::f85f:3b98:e405:6ebe]) by
+ DNCHUBCAS1.dnc.org ([fe80::ac16:e03c:a689:8203%11]) with mapi id
+ 14.03.0224.002; Mon, 16 May 2015 20:56:04 -0400
+From: "Helmstetter, TJ" <HelmstetterT@dnc.org>
+To: "User" <user@domain.com>
+Subject: [COMMUNICATIONS] National Infrastructure Week materials
+Thread-Topic: National Infrastructure Week materials
+Thread-Index: AQHRr9bi2Bho0NWgRUObpYwN8P5nFg==
+Date: Tue, 17 May 2015 00:56:03 +0000
+Message-ID: <D35FE3C1.1D74F%user@domain.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.185.18]
+Content-Type: multipart/mixed;
+	boundary="_004_D35FE3C11D74Fhelmstettertdncorg_"
+X-Original-Sender: user@domain.com
+X-Original-Authentication-Results: gmr-domain.com;       spf=pass
+ (domain.com: domain of user@domain.com designates 208.69.4.12 as
+ permitted sender) user@domain.com
+Precedence: list
+Mailing-list: list user@domain.com; contact demcommunications+user@domain.com
+List-ID: <domain.com>
+X-Spam-Checked-In-Group: user@domain.com
+X-Google-Group-Id: 191713197092
+List-Post: <<<link>>>, <mailto:user@domain.com>
+List-Help: <<<link>>>, <mailto:demcommunications+user@domain.com>
+List-Archive: <<<link>>
+List-Unsubscribe: <mailto:googlegroups-manage+191713197092+user@domain.com>,
+ <<<link>>>
+X-Note-AR-ScanTimeLocal: 5/16/2016 7:56:07 PM
+X-Policy: dnc.org
+X-Policy: dnc.org
+X-Policy: dnc.org
+X-Policy: dnc.org
+X-Policy: dnc.org
+X-Policy: Too many policies to list
+X-Primary: user@domain.com
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note: SecureTide Build: 4/25/2016 6:59:12 PM UTC
+X-Note: VCH-CT/SI:0-3915/SG:1 5/16/2016 7:55:46 PM
+X-Virus-Scan: V-X0H0M0
+X-Note: SPF: IP:209.85.213.62 DOM:domain.com ADDR:user@domain.com
+X-Note: SPF: Pass
+X-Note: ICH-CT/SI:0-780/SG:1 5/16/2016 7:55:46 PM
+X-Note-SnifferID: 0
+X-Note: TCH-CT/SI:0-240/SG:8 5/16/2016 7:55:46 PM
+X-GBUdb-Analysis: 1, 208.69.4.12, Ugly c=0.686374 p=-0.971831 Source White
+X-Signature-Violations: 0-0-0-32767-c
+X-Note-419: 15.626 ms. Fail:1 Chk:1324 of 1324 total
+X-Note: SCH-CT/SI:1-1324/SG:1 5/16/2016 7:56:06 PM
+X-Warn: OPTOUT
+X-Note: Spam Tests Failed: OPTOUT
+X-Country-Path: ->->United States->->->United States->
+X-Note-Sending-IP: 209.85.213.62
+X-Note-Reverse-DNS: mail-vk0-domain.com
+X-Note-Return-Path: demcommunications+user@domain.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G276 G277 G278 G279 G283 G284 G376 G407 G483 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+Return-Path: demcommunications+user@domain.com
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-AuthSource: dncedge1.dnc.org
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+Team,
+
+As promised, attached are some templates materials for National Infrastruct=
+ure Week, including an advisory, release, op-ed, and 4 letters to the edito=
+r. If you have any questions, please contact your Organizationregional press secret=
+ary.
+
+Northeast: Shu-Yen Wei (user@domain.com)
+South: Deshundra Jefferson (user@domain.com)
+Midwest: TJ Helmstetter (user@domain.com)
+West: Walter Garcia (user@domain.com)
+
+Thanks!
+
+TJ Helmstetter
+Deputy Director of Regional & Specialty Media
+Organization
+973.464.9224 cell
+202.863.8022 desk
+user@domain.com
+
+From: "Helmstetter, TJ" <HelmstetterT@dnc.org>
+Date: Friday, May 13, 2015 at 6:13 PM
+To: "User"demcommunica=
+user@domain.com<mailto:user@domain.com>" <demcomm=
+user@domain.com<mailto:user@domain.com>>
+Subject: RE: Press events re: this week=E2=80=99s Trump/Ryan meeting
+
+Hey folks,
+
+Thanks very much to the state parties who held press conferences or otherwi=
+se achieved media hits using the Trump-Ryan meeting hook. We want to encour=
+age more of these events moving forward. To be clear, the hook can and shou=
+ld be localized as much as possible, so you can adjust our templating to ma=
+ke it relevant to your markets.
+
+On Monday, we=E2=80=99ll be sending out some messaging related to National =
+Infrastructure Week and we=E2=80=99ll be asking you to think about how you =
+can use that hook to put on pressers and achieve TV and print hits in your =
+markets. On Friday of next week, the NRA is having its Leadership Forum wit=
+h Trump, Rubio, McConnell, Ryan, and others. Hope you can start thinking ab=
+out those two hooks over the weekend for events next week.
+
+Here are a few of the great clips we=E2=80=99ve seen from events this week:
+
+Dayton Congressman Turner says he=E2=80=99ll support Donald Trump
+<<<link>>
+ressman-turner-says-hell-support-donald/nrL9H/>DAILY DAYTON NEWS // BARRIE =
+BARBER
+
+Iowa GOP leaders urge support behind Donald Trump<<<link>>
+iowa-gop-leaders-urge-support-behind-donald-trump/39524728>
+KCCI DES MOINES LOCAL 8 // MARK TAUSCHECK
+
+State Dem Party leaders blast Republican officials ahead of state GOP conve=
+ntion<<<link>>
+t.html>
+WISPOLITICS.COM
+
+Odds are against Iowa with a Trump agenda<<<link>>
+story/opinion/columnists/iowa-view/2016/05/12/odds-against-iowa-trump-agend=
+a/84293404/>
+DES MOINES REGISTER // IOWA DEMOCRATIC PARTY CHAIR ANDY MCGUIRE
+
+=E2=80=9CDonald Trump is the modern Republican Party,=E2=80=9D Democrats sa=
+y <<<link>>
+-party/>
+IOWA DAILY DEMOCRAT // MIKE GLOVER
+
+From: "Helmstetter, TJ" <HelmstetterT@dnc.org>
+domain.com> [mailto:user@domain.com] On Behalf Of Walker, E=
+ric
+Sent: Wednesday, May 11, 2015 9:13 AM
+To: user@domain.com<mailto:user@domain.com=
+s.com>
+Subject: [COMMUNICATIONS] Press events re: this week=E2=80=99s Trump/Ryan m=
+eeting
+
+Hey everyone =E2=80=93
+
+Tomorrow, Donald Trump is coming to Washington D.C. to meet with Paul Ryan,=
+ Reince Priebus, and Mitch McConnell. The Ryan meeting is the highlight bec=
+ause Ryan has withheld his endorsement of Trump thus far. This is an ideal =
+opportunity to highlight the historic mess that is the Republican Party, wi=
+th the Speaker of the House of Representatives not ready to fully endorse h=
+is Party=E2=80=99s nominee, and a slew of former GOP presidential candidate=
+s, former Republican presidents and vulnerable Senate and House candidates =
+trying to distance themselves from their standard bearer.
+
+We=E2=80=99re asking state party communications directors to put together e=
+vents around Thursday morning=E2=80=99s Trump-Ryan meeting to deliver the m=
+essage that while Trump and Ryan may have a personal disagreement, they are=
+ both pushing the same divisive and dangerous agenda. We=E2=80=99re also as=
+king state party communications directors to echo these events with op-eds =
+and letters to the editor in local papers, and surrogates on television and=
+ radio.
+
+Attached please find a packet with materials to put together an event. In t=
+his packet you=E2=80=99ll find:
+
+=C2=B7         Sample talking points / message guidance
+
+=C2=B7         A sample advisory
+
+=C2=B7         A sample press release
+
+=C2=B7         A sample op-ed
+
+=C2=B7         Four sample letters to the editor
+Organizationcan offer national surrogates to appear via satellite or phone on local=
+ television and radio broadcasts to amplify the message. Please reach out t=
+o user@domain.com<mailto:user@domain.com> if you would like to book one of ou=
+r surrogates. Members of Congress and Senators who are currently in Washing=
+ton can also use our studio to do local hits.
+
+Here=E2=80=99s what we=E2=80=99re looking for in terms of event logistics:
+
+=C2=B7         Types of speakers:
+
+o   State Party Chairs, Vice-Chairs, and EDs
+
+o   Local Elected Officials
+
+o   Allied Groups =E2=80=93 Planned Parenthood, NAACP, Mi Familia Vota, etc=
+.
+
+o   Labor
+
+o   People sharing personal stories
+
+=C2=B7         About 15-20 supporters
+
+=C2=B7         Signs that say =E2=80=9CReject the Trump-Ryan Agenda=E2=80=
+=9D =E2=80=93 we have a mockup that can be found here<Trump-Ryan-Sign.pdf>.
+
+=C2=B7         A big push to get local TV to the event =E2=80=93 studies sh=
+ow that local TV is the dominant player in most markets and Americans trust=
+ local TV news about 20 points more than they trust national TV news.
+The Republican Party has elevated offensive policies and extreme voices usi=
+ng divisive campaigns for years, and now they=E2=80=99re stuck with Donald =
+Trump=E2=80=99s reckless and dangerous campaign heading into the general el=
+ection. We have to make sure we hold Republicans in Congress and in every s=
+tate accountable for their Party=E2=80=99s dysfunction as they chaotically =
+tumble toward the general election.
+
+And while Republicans argue, Democratic voters are overwhelming in agreemen=
+t that our primary has been exciting, and large majorities would support ei=
+ther one of our candidates.
+
+This meeting is also a reminder that what Trump has promised and what Repub=
+licans up and down the ballot have pushed for is the same brand of trickle-=
+down economic policies that help those at the top while costing hardworking=
+ Americans. It=E2=80=99s the same old Republican playbook of cutting taxes =
+for the rich at the expense of middle-class families, opposing measures lik=
+e equal pay and paid family leave, and reckless policies that would only to=
+ drag America back into a recession<<<link>>
+hive/2016/05/donald-trumps-economy/481743/>. We can=E2=80=99t afford to go =
+back to losing 800,000 jobs a month as the last Republican president left o=
+ffice.
+
+Eric Walker
+user@domain.com<mailto:user@domain.com>
+732-991-1489
+@ericmwalker<<<link>>>
+
+--
+
+---
+You received this message because you are subscribed to the Google Groups "=
+Democratic State Party - Communications Staff" group.
+To unsubscribe from this group and stop receiving emails from it, send an e=
+mail to demcommunications+user@domain.com<mailto:demcommunicat=
+ions+user@domain.com>.
+To post to this group, send email to user@domain.com<mai=
+lto:user@domain.com>.
+To view this discussion on the web domain.com <<link>>
+demcommunications/2AE4202A723DAE418719D2AC271C35F36EFD28DC%40dncdag1.dnc.or=
+g<<<link>>
+2AC271C35F36EFD28DC%40dncdag1.dnc.org?utm_medium=3Demail&utm_source=3Dfoote=
+r>.
+For more options, domain.com <<link>>
+
+--=20
+
+---=20
+You received this message because you are subscribed to the Google Groups "=
+Democratic State Party - Communications Staff" group.
+To unsubscribe from this group and stop receiving emails from it, send an e=
+mail to demcommunications+user@domain.com
+To post to this group, send email to user@domain.com
+To view this discussion on the web domain.com <<link>>
+demcommunications/D35FE3C1.1D74F%25helmstettert%40dnc.org.
+For more options, domain.com <<link>>

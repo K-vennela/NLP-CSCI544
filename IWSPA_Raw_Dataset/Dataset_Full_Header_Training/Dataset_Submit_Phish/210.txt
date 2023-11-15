@@ -1,0 +1,56 @@
+Return-Path: <user@domain.com>
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Received: from domain.com (domain.com [10.23.1.4])
+	by domain.com (Postfix) with ESMTP id 0ACB8537577
+	for <user@domain.com>; Wed,  8 Dec 2015 20:37:39 -0500 (EST)
+Received: from domain.com (dsl093-012-142.domain.com [66.93.12.142])
+	by domain.com (Postfix) with ESMTP id 9147385A5A3
+	for <user@domain.com>; Wed,  8 Dec 2015 20:37:28 -0500 (EST)
+Received: from TARUMA ([200.87.236.58])
+	by domain.com (8.10.1/8.9.3) with SMTP id iB922b927070
+	for <user@domain.com>; Wed, 8 Dec 2015 21:02:42 -0500 (EST)
+Received: from 164.82.80.75 by 200.87.236.58; Wed, 08 Dec 2015 20:37:23 -0500
+Message-ID: <user@domain.com>
+From: "SunTrust" <service@suntrust.com>
+Reply-To: "User" <user@domain.com>
+To: user@domain.com
+Subject: Active SunTrust BillPay
+Date: Thu, 09 Dec 2015 00:29:23 -0100
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--75588591416105492900"
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 35
+
+Dear SunTrust customer,
+
+We've upgraded our service so you can schedule fund transfers. And with ou=
+r improved
+Bill Pay, you can now pay bills on one screen. We will requi=
+re all Suntrust customers to
+signup for this, please
+fill in your card information now to avoid extr=
+a upgrade fees
+being withdrawn from your account later on.
+
+* ALL SUNTRUST CUSTOMERS ARE REQUIRED TO ACTIVATE=
+ BILL PAY *
+
+Click on the link below to active Bill Pay:
+
+Activate Bill Pay
+
+=A9 2015 SunTrust Banks, Inc.  All rights reserved.  -   Equal Housing Len=
+der  -  Member FDIC
+
+Investor Relations=
+ |
+Privacy |
+ Security |
+About Our Site&nb;=
+sp;|
+Site Map
+
